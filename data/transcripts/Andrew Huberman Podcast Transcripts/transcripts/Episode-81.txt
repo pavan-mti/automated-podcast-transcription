@@ -1,0 +1,4236 @@
+0.35 - Welcome to the Huberman Lab podcast,
+2.721 where we discuss science
+3.554 and science-based tools for everyday life.
+9.43 I'm Andrew Huberman,
+10.5 and I'm a professor of
+neurobiology and ophthalmology
+13.18 at Stanford School of Medicine.
+15.26 Today I have the pleasure of
+introducing Dr. Anna Lembke.
+18.85 Dr. Lembke is a psychiatrist
+and the chief of
+21.3 the Addiction Medicine
+Dual Diagnosis Clinic
+23.65 at Stanford University School of Medicine.
+26.3 She's a psychiatrist who treats patients
+28.67 struggling with addiction.
+30.62 She has successfully treated
+patients dealing with
+33.26 drug addiction, alcohol addiction,
+35.96 and behavioral addictions,
+37.66 such as gambling and sex addiction,
+40.04 as well as other types of addiction.
+42.41 In fact, during our discussion,
+43.76 I learned that there are
+a huge range of behaviors
+46.59 and substances to which
+people can become addicted to,
+50.02 and that there is a common
+biological underpinning
+52.96 of all those addictions.
+54.78 I also learned that there is a common path
+57.38 to the treatment and recovery
+59.09 from essentially all addictions.
+61.23 Dr. Lembke explained that to me
+63.35 and explained how to think
+about and conceptualize
+66.64 our own addictions,
+68.05 as well as the addictions of other people
+70.13 who are struggling to get
+treatment, move through treatment,
+73.3 and stay sober from their addictions.
+75.36 In addition to treating patients,
+76.72 Dr. Lembke is an author
+and was featured in
+79.06 the 2020 Netflix documentary,
+"The Social Dilemma".
+83.02 I'm excited to tell you that
+she has a new book coming out
+85.59 called "Dopamine Nation,
+87.34 Finding Balance in the Age of Indulgence".
+89.8 The book comes out August 24th
+91.89 and is an absolutely
+fascinating read into addiction
+95.2 and ways to treat various
+types of addiction.
+98.04 I've read the book cover to cover,
+100.11 and all I'll tell you is that
+at the very first chapter
+103.65 and throughout, you are going
+to be absolutely blown away.
+106.64 The stories about her patients
+are extremely engaging.
+111.29 It brings forward the
+real struggle of addiction
+114.12 and the incredible, I think
+it's fair to say heroic battles,
+117.93 that people fight in order
+to get through addictions
+120.41 of various kinds.
+121.82 And all of that is woven through
+with story, with science,
+124.73 in ways that make it very
+accessible to anyone,
+127.64 whether or not you have a
+science background or not.
+129.67 I can't recommend it highly enough.
+131.55 So again, the book is
+132.383 "Dopamine Nation, Finding Balance
+in the Age of Indulgence",
+135.85 it comes out August
+24th of this year, 2021.
+139.27 And you can pre-order that
+book by going to Amazon.
+142.03 We will provide a link to
+that in the show caption.
+145.78 Before we begin,
+146.89 I just want to mention that
+this podcast is separate
+149.16 from my teaching and
+research roles at Stanford.
+151.61 It is however part of my desire and effort
+153.77 to bring zero cost to consumer
+information about science
+156.53 and science-related tools
+to the general public.
+159.34 In keeping with that theme,
+160.43 I'd like to thank the
+sponsors of today's podcast.
+163.32 Our first sponsor is ROKA.
+165.41 ROKA make sunglasses and eyeglasses
+167.38 that are of the absolute utmost quality.
+170.1 Founded by two All-American
+swimmers from Stanford,
+172.65 everything about the
+sunglasses and eye glasses
+174.77 that ROKA makes was designed
+with performance in mind.
+178.71 First of all, they're very lightweight.
+180.67 You don't even really notice
+that they're on your face.
+182.57 Second of all, even if you get
+sweaty, they don't slip off.
+185.67 In fact, they were
+designed to be worn at work
+187.6 or around the house, but also
+if you're running or biking.
+190.47 So you can move seamlessly
+between different activities
+192.94 without having to change your
+sunglasses or eyeglasses.
+195.9 In addition, the lenses are designed
+197.92 with the science of the
+visual system in mind.
+200.52 I've spent my career working on
+201.72 the science of the visual system,
+203.02 and I can tell you that it's
+not trivial to build a lens
+206.22 that allows you to see
+with perfect clarity,
+208.3 whether or not you're in bright sunshine
+209.75 and then move into shadows.
+211.21 But the ROKA glasses allow you to do that.
+213.33 You always see things
+with absolute clarity.
+215.6 Another terrific thing about
+ROKA eyeglasses and sunglasses
+218.76 is the aesthetic.
+219.94 A lot of so-called performance
+sunglasses and eyeglasses,
+222.724 they're not really built
+with the best aesthetic
+225.33 and they kind of make
+people look like cyborgs.
+227.64 With ROKA, they have a
+lot of different styles
+229.44 to choose from, but all
+those styles are the sort
+231.66 that you could wear out
+to dinner or to work,
+233.82 or when engaging in physical activity.
+236.44 If you'd like to try ROKA
+glasses you can go to ROKA,
+238.92 that's R-O-K-A dot com,
+240.79 and enter the code Huberman at checkout.
+242.82 And if you do that, you'll
+get 20% off your first order.
+246.02 Today's podcast is also
+brought to us by InsideTracker.
+249.006 InsideTracker is a
+personalized nutrition platform
+251.83 that analyzes data from your blood and DNA
+254.45 to help you better understand your body
+255.99 and reach your health goals.
+257.77 I'm a big believer in getting
+regular blood work done.
+260.22 And I've been doing that
+for a number of years,
+261.73 for the simple reason that
+most, if not all of the factors,
+265.18 that impact your immediate
+and long-term health,
+267.7 can only be analyzed in detail
+with a quality blood test.
+270.66 And now with the advent
+of modern DNA tests,
+273.07 you can get further insight
+274.52 into what's going on beneath
+the hood, so to speak.
+277.41 The problem with a lot of
+blood and DNA tests, however,
+280.01 is you get numbers back,
+281.28 you get the levels back of various things
+282.92 and you find out if certain
+things are too high or too low
+285.16 or right on target,
+286.4 but there are no directives
+about how to move those numbers
+289.28 in the direction that you
+would want them to go.
+291.701 With InsideTracker, they have a dashboard
+293.22 that makes all of that very easy,
+294.89 and that dashboard takes your numbers
+296.595 and can help direct you towards
+298.67 particular lifestyle factors,
+nutrition factors, exercise,
+301.9 supplementation, et cetera,
+303.59 that can help you bring
+those numbers into the ranges
+305.73 that are right for you.
+307.25 If you'd like to try
+InsideTracker you can go to
+309.76 insidetracker.com/huberman.
+312.23 And if you do that, you'll get 25% off
+314.53 any of InsideTracker's plans.
+315.9 Just use the code Huberman at checkout.
+318.35 Today's episode is also
+brought to us by Headspace.
+321.41 Headspace is a meditation
+app that's backed by
+323.69 25 published peer review studies
+326.04 and has over 600,000 5-star reviews.
+329.78 I've been meditating for a very long time.
+331.71 I'm 45-years-old now, almost 46,
+333.657 and I started meditating when
+I was about 15-years-old.
+337.51 The problem, however, is keeping
+up a meditation practice.
+340.35 I've experienced this myself.
+341.83 I've had periods of time
+where I'm meditating regularly
+344.14 and then periods of time
+where I just kind of
+346.0 fall off the rails and I'm
+just not doing it at all.
+349.32 There's now tons of evidence,
+evidence from neuroscience,
+353.21 evidence from psychology,
+355.18 evidence from areas of
+biology focused on stress
+357.877 and the immune system,
+that a meditation practice,
+360.29 when done regularly,
+361.29 is extremely beneficial for
+mental and physical health,
+364.74 and things like focus and creativity.
+367.73 However, you have to do
+the meditation practice,
+370.01 and so if you're not doing it regularly,
+371.7 that's a serious problem.
+372.84 And if you are doing it regularly, great.
+375.12 With Headspace, I find that I can
+376.84 stick to a meditation
+practice very easily.
+379.99 In fact, that's why I started using it
+381.4 and that's why I continue to use it.
+383.08 I try and get a meditation
+practice in every day,
+386.03 but sometimes that requires that it be
+387.81 a brief meditation practice.
+389.46 With Headspace, they have a huge range
+391.1 of different meditations
+of different durations,
+393.45 and so that's really helpful
+in building and maintaining
+396.32 these powerful meditation practices.
+398.52 If you want to try Headspace
+399.67 you can go to headspace.com/specialoffer.
+402.912 And if you do that,
+403.745 you'll get a free one month trial
+405.15 with Headspace's full
+library of meditations.
+407.73 This is the best deal
+offered by Headspace.
+409.41 Basically you get access
+to everything they've got,
+411.36 completely free, for a one month trial.
+413.5 So if you'd like to try that,
+414.48 go to headspace.com/specialoffer.
+417.75 And now for my discussion
+with Dr. Anna Lembke.
+421.81 All right, great to have you here.
+424.76 - Thank you for having me,
+I'm excited to be here.
+426.64 - Yeah, I have a lot of questions for you.
+429.51 I, and many listeners of this podcast,
+433.56 are obsessed with dopamine,
+and what is dopamine,
+437.75 how does it work?
+438.583 We all hear that dopamine is this molecule
+440.73 associated with pleasure.
+442.79 I think the term dopamine hits,
+445.7 like I'm getting a dopamine
+hit from this, from Instagram,
+448.85 or from likes or from
+praise or from whatever,
+451.62 is now commonly heard.
+456.01 What is dopamine,
+457.76 and what are maybe some
+things about dopamine
+460.51 that most people don't know?
+462.04 And probably that I don't know either.
+464.86 - So dopamine is a neurotransmitter,
+467.22 and neurotransmitters are those molecules
+469.49 that bridge the gap between two neurons.
+472.78 So they essentially allow one neuron,
+475.08 the pre-synaptic neuron,
+476.76 to communicate with the
+post-synaptic neuron.
+479.75 Dopamine is intimately associated
+483.3 with the experience of reward,
+but also with movement,
+486.95 which I think is really interesting,
+488.36 because movement and
+reward are linked, right?
+490.99 If you think about,
+you know, early humans,
+494.6 you had to move in order
+to go seek out the water
+498.7 or the meat or whatever it was.
+501.64 And even in the most primitive organisms,
+504.45 dopamine is released when food
+is sensed in the environment.
+507.6 For example, C elegans,
+a very primitive worm.
+512.9 So dopamine is this really powerful,
+516.81 important molecule in the brain
+519.91 that helps us experience pleasure.
+523.41 It's not the only neurotransmitter
+involved in pleasure,
+526.16 but it's a really, really important one.
+528.631 And if you want to think about something
+531.46 that most people don't
+know about dopamine,
+533.5 which I think is really interesting,
+534.79 is that we are always releasing dopamine
+537.97 at a kind of tonic baseline rate.
+540.75 And it's really the
+deviation from that baseline,
+544.28 rather than like hits
+of dopamine in a vacuum,
+547.02 that make a difference.
+548.22 So when we experience pleasure,
+550.23 our dopamine release goes above baseline,
+553.04 and likewise dopamine can go
+below that tonic baseline,
+557.2 and then we experience a kind of pain.
+559.96 - Interesting.
+560.793 So is it fair to say that one's
+baseline levels of dopamine,
+564.98 how frequently we are releasing dopamine,
+567.9 in the absence of some, I don't know,
+570.57 drug or food or experience,
+just sitting, being,
+575.64 is that associated with
+how happy somebody is,
+578.29 their kind of baseline of
+happiness or level of depression?
+581.66 - There is evidence that shows
+that people who are depressed
+586.27 may indeed have lower
+tonic levels of dopamine.
+591.35 So that's a really reasonable thought,
+593.88 and there is some evidence to
+suggest that that may be true.
+597.71 The other thing that we know,
+598.757 and this is really kind
+of what the book is about,
+604.43 is that if we expose ourselves chronically
+608.76 to substances or behaviors
+611.28 that repeatedly release
+large amounts of dopamine
+615.63 in our brains reward pathway,
+617.2 that we can change our tonic baseline
+620.22 and actually lower it over time,
+622.53 as our brain tries to compensate
+for all of that dopamine,
+626.24 which is more really than we
+were designed to experience.
+631.27 - Interesting and is,
+632.66 is it the case that our
+baseline levels of dopamine
+635.96 are set by our genetics, by our heredity?
+639.15 - Well I think, you know,
+if you think about sort of,
+641.507 you know, the early stages
+of development and infancy,
+644.48 certainly that is true.
+645.95 You're kind of, you know,
+born with probably whatever is
+649.173 your baseline level.
+650.32 But obviously your experiences
+can have a huge impact
+654.66 on where your dopamine level
+ultimately settles out.
+660.514 - So if somebody's disposition is one of
+664.08 constant excitement and
+anticipation, or easily excited,
+668.06 I think about the kind of
+people where you say hey,
+670.41 do you want to check out
+this new place for tacos,
+672.24 and they're like "Yeah, that'd be great!"
+673.32 And other people are a little
+more cynical, harder to budge.
+677.72 Like my bulldog Costello.
+680.66 Very, very stable, low levels of dopamine
+683.22 with big inflections in his case.
+687.109 Do you think that's set
+in terms of our parents,
+691.7 and obviously nature and
+nurture interact, but is that,
+696.65 is dopamine at the core
+of our temperament?
+700.27 - I don't really think we
+know the answer to that,
+702.99 but I will say that people
+are definitely born with
+707.36 different temperaments, and
+those temperaments do affect
+712.56 their ability to experience joy.
+715.33 And, you know, we've known
+that for a long time,
+717.93 and we describe that
+in many different ways.
+720.43 One of the ways that we
+describe that in the modern era
+722.79 is to use psychiatric nomenclature.
+725.21 Like this person has a dysthymic
+temperament, or, you know,
+728.52 this person has chronic
+major depressive disorder.
+732.62 In terms of looking specifically
+734.3 at who's vulnerable to addiction,
+737.46 that's an interesting sort of mixed bag
+739.76 because when you look at the research
+742.17 on risk factors for addiction,
+744.18 so what kind of temperament of a person
+746.95 makes them more vulnerable to addiction,
+749.12 you see some interesting findings.
+751.27 First you see that people
+who are more impulsive
+753.95 are more vulnerable to addiction.
+755.46 So what is impulsivity?
+757.06 That means having difficulty
+putting space between
+760.45 the thought or desire to do something,
+762.89 and actually doing it.
+764.26 And people who have difficulty
+putting a space there,
+767.7 who have a thought to do something
+768.9 and just do it impulsively,
+771.48 are people who are more
+vulnerable to addiction.
+773.96 - Interesting.
+774.793 Could I, in terms of impulsivity,
+777.06 is this something that relates literally
+779.34 to the startle reflex?
+781.13 Like I, for instance, as a lab director,
+783.7 I'm familiar with walking
+around my lab and when I decide,
+786.96 deciding I'm going to talk to my people,
+788.29 of course when they knock on
+my door it's always like wait,
+790.5 why am I being bothered right now?
+791.93 Even though I love to talk to them.
+793.02 But I walk around my
+lab from time to time,
+794.627 and some people I notice, I'll
+say, do you have a moment,
+798.44 and they'll slowly turn
+around and say, yeah,
+800.78 or no, in some cases.
+803.52 And other people will jump
+the moment I say their name.
+806.17 They actually have a, a kind
+of a heightened startle reflex.
+810.75 Is that related to impulsivity,
+812.35 or is what you're referring to
+814.63 an attempt to withhold behavior
+that's very deliberate,
+818.93 under very deliberate conditions?
+820.49 - Yeah, so I don't think
+that that startle reflex
+823.24 is necessarily related to impulsivity.
+825.63 That can be related to anxiety.
+827.4 So people who are high anxiety people
+829.55 will tend to have more
+of a startle reflex.
+832.19 Impulsivity is a little bit different.
+834.28 And by the way, impulsivity
+is not always bad, right.
+837.96 Impulsivity is that thing
+840.68 where there's not a lot of self-editing
+844.61 or worrying about future consequences.
+848.003 You know, you have the idea
+to do something and you do it.
+851.01 And of course we can
+imagine many scenarios
+854.02 where that's absolutely wonderful.
+857.07 You know, there can be a sort of,
+858.98 let's say intimate
+interactions between people,
+864.03 where you wouldn't really want to be
+865.66 super inhibited about it, right.
+867.11 You would want to be
+disinhibited and impulsive.
+870.68 I can also like imagine like
+872.76 sort of fight or flight scenarios,
+875.06 like battle scenarios, right,
+876.79 where it would really
+be good to be impulsive
+879.71 and just go rhino!
+881.56 - Where hesitation can cost you your life?
+883.013 - Right, yes, that's right, that's right.
+884.94 But, you know,
+886.0 and I think this brings up a really,
+889.098 something that I've come to believe
+891.05 after 25 years of practicing psychiatry,
+894.29 is that what we now conceptualize
+in our current ecosystem
+899.554 as mental illness,
+902.182 are actually traits that
+in another ecosystem
+906.5 might be very advantageous.
+908.63 They're just not advantageous right now,
+911.61 because of the world that we live in.
+913.38 And I think, you know,
+915.07 impulsivity is potentially
+one of those, right?
+918.23 'Cause we live in this
+world that's sort of like,
+920.58 you have to constantly be
+thinking sort of rationally about
+927.26 the consequences of X, Y, or Z.
+929.62 And it's such a sensory
+rich environment, right,
+932.62 that we're being bombarded with
+all of these opportunities,
+936.13 these sensory opportunities.
+937.72 And we have to constantly check ourselves.
+939.67 And so impulsivity is
+something that right now
+943.76 can be a difficult trait,
+945.61 but isn't in and of itself a bad thing.
+948.53 - I see.
+949.58 And it's, I'm beginning to
+realize it's a fine line
+951.89 between spontaneity and impulsivity.
+954.028 - Yeah.
+956.47 - What is pleasure and how does it work,
+959.75 at the biological level,
+and if it feels right,
+963.47 at the psychological level?
+965.8 And if you don't mind
+painting a picture of sort of
+970.03 the range of things that you
+have observed in your clinic,
+975.29 or in life, that people
+can become addicted to.
+978.51 But just to start off really simply,
+980.47 what is this thing that we call pleasure?
+983.18 - Well, I think it's actually
+really hard to define pleasure
+986.99 in any kind of succinct way,
+989.13 because certainly there is
+the seeking out of a high,
+995.02 or a euphoria, or I think, you know,
+997.81 the kind of experience that
+almost anybody would associate
+1001.26 with the word pleasure.
+1002.94 But also the seeking out
+1005.96 of those same substances and behaviors
+1008.74 is often a way to escape pain.
+1011.7 So for example, when I talk
+to people with addiction,
+1016.96 sometimes their initial
+foray into using a drug
+1021.98 is to get pleasure,
+1023.98 but very often it's a way
+to escape their suffering,
+1027.64 whatever their suffering may be.
+1029.45 And certainly as people become addicted,
+1032.87 even those who initially
+were seeking out pleasure
+1036.01 are ultimately just
+trying to avoid the pain
+1039.13 of withdrawal or the
+pain of the consequences
+1042.49 of their drug use.
+1043.72 So I think it's, you know, very
+hard to actually, you know,
+1048.74 define it as this unitary thing.
+1051.866 And it's certainly not
+just getting a high.
+1053.94 There are so many ways in which people
+1056.87 sort of want to escape,
+1058.56 which is not the same thing
+as sort of this hedonic,
+1061.81 you know, wanting to feel pleasure.
+1063.7 - So someone could decide that
+they want to go out and dance,
+1066.57 or get up and dance, because
+of the pleasure of dancing.
+1069.06 I can imagine that.
+1071.89 But, and maybe it's very
+difficult for them to stay seated
+1076.16 when a particular song
+comes on, for instance.
+1079.26 But seeking what we would call pleasure
+1083.65 in order to eliminate pain,
+1085.43 that evokes a different
+picture in my mind.
+1087.36 That evokes a picture of
+somebody that feels lost
+1091.4 or depressed or underwhelmed.
+1095.01 I definitely want to get into the precise
+1097.44 and general description of
+addiction and what that is,
+1100.1 but in a previous conversation we had,
+1102.07 you said something that
+really rung in my mind,
+1103.69 which is that many people who
+become addicted to things,
+1107.96 let's call them addicts,
+1110.44 have this feeling that normal
+life isn't interesting enough.
+1115.32 That they are seeking a
+super normal experience,
+1119.1 and that the day-to-day routine balance,
+1122.34 which is actually in
+the title of your book,
+1124.297 "Dopamine Nation, Finding Balance
+in the Age of Indulgence",
+1127.32 that the word balance itself
+can sometimes be a bit of
+1132.51 an adversive term for people.
+1135.19 And I'm struck by this idea,
+1139.18 and the reason I want to explore it is
+1140.7 because so much of what I see online
+1143.4 is about generating a lack of balance,
+1146.82 about being tilted forward at all times,
+1150.74 really leaning into life
+hard, experiencing life,
+1153.64 you know, living a full life.
+1155.7 Even the commencement
+speech given by Steve Jobs
+1158.38 on this campus was really
+about finding passion, digging.
+1162.2 You know, that's so much
+in the narrative now.
+1165.29 So maybe you could just
+tell us a little bit
+1168.53 about your experience
+with this association,
+1171.63 if it really exists, between
+people's sense of the normalcy,
+1175.62 or maybe even how boring life can be,
+1178.06 and their tendency to
+become addicts of some sort.
+1181.83 - Yeah, well, I mean,
+1184.595 I think that life for
+humans has always been hard,
+1190.02 but I think that now it's
+harder in unprecedented ways.
+1195.65 And I think that the way
+that life is really hard now
+1199.37 is that it actually is really boring.
+1202.14 And the reason that it's boring is
+1203.88 because all of our survival
+needs are met, right?
+1207.89 I mean, we don't even
+have to leave our homes
+1210.64 to meet every single physical need,
+1213.08 you know, as long as
+you're of a certain level
+1215.59 of financial wellbeing,
+which frankly, you know,
+1219.78 we talk so much about,
+you know, the income gap,
+1222.58 and certainly there is this enormous gap
+1224.41 between rich and poor.
+1225.53 But that gap is smaller
+than it's ever been
+1228.32 in like the history of humans.
+1230.95 Even the poorest of the
+poor have more excess income
+1235.71 to spend on leisure goods,
+1237.0 than they ever have
+before in human history.
+1240.17 If you look at leisure time, for example,
+1242.76 so people without a high school education
+1245.77 have 42% more leisure time
+1247.92 than people with a college degree.
+1251.925 So my point here is that life is hard now
+1258.18 in this really weird way,
+1260.74 in that we don't really have
+anything that we have to do.
+1264.62 So we're all forced to
+make stuff up, you know,
+1268.45 whether it's being a
+scientist or being a doctor,
+1273.66 or being an Olympic athlete, or, you know,
+1277.1 climbing Mount Everest.
+1279.48 And people really vary in
+their need for friction.
+1283.83 And some people need a
+lot more than others.
+1286.36 And if they don't have it,
+they're really, really unhappy.
+1289.77 And I do think that a lot
+of the people that I see
+1292.81 with addiction and other
+forms of mental illness
+1295.65 are people who need more friction.
+1298.89 Like they're unhappy,
+1300.97 not necessarily because
+there's something wrong
+1303.01 with their brain,
+1303.843 but because their brain is
+not suited to this world.
+1308.07 - And do you think they have that sense,
+1309.67 my brain isn't suited to this world,
+1311.38 or they simply feel a restlessness
+1315.82 and they're constantly
+seeking stimulation?
+1318.62 - I think that's right, yeah.
+1320.74 I think it's not really
+knowing what's wrong with me,
+1324.45 and why am I unhappy,
+how can I be happier?
+1328.36 And of course, as you talk about,
+1329.77 what's so pervasive in our narrative now
+1332.49 is like find your passion,
+you know, find your, you know,
+1336.89 out of whatever it is, to save the world.
+1338.52 And in a way that's good
+1340.4 because it has people out
+in the world and seeking.
+1344.44 But in a way it can also be
+misleading in the sense that
+1349.27 I think people aren't entirely aware
+1351.749 that the world is a hard
+place, and that life is hard,
+1356.37 and that, you know, like we're
+all kind of making it up.
+1360.82 Do you know what I mean?
+1361.888 - Yeah.
+1362.721 Well there's a book by Cal Newport,
+1364.9 I don't know if you
+know Cal Newport's work,
+1365.84 but you guys are very
+symbiotic in your messages.
+1370.04 He's a professor of computer
+science at Georgetown.
+1373.66 Yes, at Georgetown.
+1374.76 And wrote a book some years
+ago, really ahead of its time,
+1378.13 called "So Good They Can't Ignore You",
+1379.67 which is about not
+meditating or doing much work
+1384.82 to try and figure out what
+one's passion is by thinking,
+1388.41 but rather go out and acquire skills,
+1390.683 - Right.
+1391.516 - and develop a sense
+of passion for something
+1394.25 by your experience of hard work
+1396.305 and getting better end feedback.
+1398.225 - Right.
+- A little bit of
+1399.058 the growth mindset,
+1399.891 think of our colleague Carol Dweck.
+1401.04 But he's gone on to
+write books, "Deep Work",
+1405.08 which is all about removing
+yourself from technology
+1407.59 and doing deep work.
+1408.939 - Yes, right.
+1409.772 - And he's been a big proponent of
+1411.3 the evils of context switching
+too often throughout the day.
+1414.475 - [Anna] Yeah.
+1415.308 - For sake of productivity, mostly.
+1416.64 His new book is called
+"A World Without Email."
+1419.85 I'm beginning to realize,
+as I cite off these books
+1421.87 and your book, "Dopamine Nation,
+1423.86 Finding Balance in the Age of Indulgence",
+1426.02 that maybe the reason why
+1427.52 you two don't know about one another
+1428.91 is because neither of
+you are on social media.
+1430.989 - That's it.
+1431.822 - Right.
+- That's it.
+1432.763 - And yet you're two of
+the most productive people
+1434.04 that I know, including productive authors.
+1436.71 So that's a discussion unto itself.
+1438.18 But I find this fascinating.
+1439.94 So let's talk about the pleasure
+pain balance and addiction.
+1446.09 And I've heard you use this seesaw
+1448.03 or balance scale,
+1449.03 - Right.
+- analogy before.
+1451.28 And I think it's a wonderful
+one that really, for me,
+1455.29 clarified what addiction is,
+1458.51 at least at the mechanistic level.
+1461.57 - Yeah, so to me, one of the
+most significant findings
+1464.25 in neuroscience in the last 75 years
+1466.42 is that pleasure and pain are co-located,
+1469.42 which means the same parts of the brain
+1471.13 that process pleasure also process pain.
+1474.07 And they work like a balance.
+1475.91 So when we feel pleasure,
+our balance tips one way,
+1478.68 when we feel pain, it tips
+in the opposite direction.
+1481.73 And one of the overriding
+rules governing this balance
+1484.99 is that it wants to stay level.
+1486.56 So it doesn't want to
+remain tipped very long
+1488.38 to pleasure or to pain.
+1490.0 And with any deviation from neutrality,
+1492.47 the brain will work very hard
+to restore a level balance,
+1495.95 or what scientists call homeostasis.
+1498.5 And the way the brain does that is
+1500.67 with any stimulus to one side,
+1503.37 there will be a tip in equal
+1505.33 and opposite amount to the other side.
+1507.81 - It's like the principle laws of physics.
+1509.74 - Yes, right, right.
+1511.08 So like, I like to watch YouTube videos.
+1513.27 When I watch YouTube videos
+of "American Idol", you know,
+1516.33 it tips to the side of pleasure.
+1518.2 And then when I stop watching
+it, I have a comedown, right,
+1522.33 which is a tip to the
+equal and opposite amount
+1525.72 on the other side.
+1526.64 And that's that moment of wanting to watch
+1528.55 one more YouTube video, right.
+1530.16 - Yeah, and I just want
+to interject there.
+1533.16 So this moment of
+wanting to watch another,
+1537.73 that is associated with pain, I think,
+1540.66 is, are we always aware of that happening?
+1543.6 Because you just described
+it in a very conscious way.
+1546.005 - Right.
+1546.838 - But when I indulge in something I enjoy,
+1549.86 I'm usually thinking about just wanting
+1552.045 - Yes, yes.
+- more of that thing.
+1552.96 I don't think about the pain,
+1554.5 - Yes.
+- I just think about more.
+1556.17 - Right.
+1557.003 So really excellent point
+1558.61 because we're mostly not aware of it.
+1560.7 And it's also reflexive.
+1562.45 So it's not something
+that consciously happens,
+1565.64 or that we're aware of,
+1566.61 unless we really begin to pay attention.
+1570.32 And when we begin to pay attention,
+1572.69 we really can become very
+aware of it in the moment.
+1575.99 Again, it's like a falling away.
+1578.701 You're on social media and, you know,
+1581.19 you get a good tweet of something,
+1583.38 and then you can't stop yourself
+1586.14 because there's this
+awareness, a latent awareness,
+1588.8 that as soon as I disengage
+from this behavior,
+1591.46 I'm going to experience
+a kind of a pain, right.
+1594.46 A falling away, a missing that feeling,
+1597.87 a wanting more of it.
+1599.86 And of course, one way to combat that
+1602.21 is to do it more, right, and
+more, and more, and more.
+1605.2 So I think that is really what
+I want people to tune into
+1608.9 and get an awareness around.
+1610.82 Because once you tune into
+it, you can see it a lot.
+1613.79 And then when you begin
+to see it, you have an,
+1616.49 if you keep the model
+of the balance in mind,
+1618.71 I think it gives people
+kind of a way to imagine
+1624.04 what they're experiencing
+on a neuro-biological level,
+1627.31 and understand it.
+1628.72 And in that understanding,
+get some mastery over it,
+1631.73 which is really what this is all about.
+1633.78 Because ultimately we do
+need to disengage, right?
+1637.12 We can't live in that
+space all the time, right.
+1641.19 We have other things we need to do.
+1643.3 And there are also serious consequences
+1645.89 that come with trying
+to repeat and continue
+1649.33 that experience or that feeling.
+1651.61 - Yeah, so if I understand this correctly,
+1653.82 when we find something, or
+when something finds us,
+1657.648 that we enjoy, that feels
+pleasureful, social media, food,
+1662.7 sex, gambling, whatever it happens to be,
+1665.55 and we will explore the
+full range of these,
+1668.51 there's some dopamine release
+1670.3 when we engage in that behavior.
+1672.4 And then what you're telling
+me is that very quickly,
+1675.3 - [Anna] Yes.
+1676.133 - and beneath my conscious awareness,
+1678.3 there's a tilting back of the scale
+1681.117 where pleasure is reduced,
+by way of increasing pain.
+1685.16 - Right.
+1686.4 - And I've heard you say before that
+1689.21 the pain mechanism has
+some competitive advantages
+1694.45 over the pleasure mechanisms,
+1696.36 such that it doesn't just
+bring the scale back to level.
+1699.1 It actually brings pain
+higher than pleasure.
+1703.46 Could you tell us a little
+bit more about that?
+1705.27 - Yeah, yeah.
+1706.433 So what happens, again,
+1708.48 so the hallmark of any
+addictive substance or behavior
+1712.03 is that it releases a lot of dopamine
+1714.19 in our brains reward pathway.
+1715.41 Like, right, like broccoli
+just doesn't release
+1717.87 a lot of dopamine, just doesn't, right.
+1720.42 - I'm trying to imagine, I
+was about to say, maybe you,
+1722.547 and I stopped myself because.
+1724.913 Broccoli's good, it can be really good,
+1727.31 but broccoli is never amazing.
+1729.915 - Right.
+1730.748 Broccoli's never amazing.
+1731.581 - We're never like,
+- I mean-
+1732.414 - this is the most amazing broccoli.
+1733.616 - Honestly we can probably
+find somebody on the planet
+1735.01 for whom broccoli is amazing.
+1736.08 And of course if I'm
+starving, broccoli is amazing.
+1739.24 - Rich Roll.
+1740.073 Rich Roll is big on plants,
+1741.24 and he has a good relationship to plants.
+1744.06 Rich, tell us how to
+make broccoli amazing.
+1747.63 If anyone could do it it'd be Rich.
+1749.015 - Yeah, yeah.
+1751.08 But what happens right
+after I do something
+1753.1 that is really pleasurable and
+releases a lot of dopamine,
+1755.6 is again, my brain is going
+to immediately compensate
+1758.47 by down-regulating my
+own dopamine receptors,
+1761.1 my own dopamine transmission,
+to compensate for that, okay.
+1764.86 And that's that come
+down, or the hangover,
+1767.97 that after-effect, that moment
+of wanting to do it more.
+1770.54 Now, if I just wait for
+that feeling to pass,
+1774.2 then my dopamine will re-regulate itself
+1776.15 and I'll go back to whatever
+my chronic baseline is.
+1778.11 But if I don't wait, and
+here's really the key,
+1780.29 if I keep indulging again
+and again and again,
+1783.21 ultimately I have so much
+on the pain side, right,
+1788.33 that I've essentially reset my brain
+1790.82 to what we call like an anhedonic,
+1793.21 or lacking in joy type of state,
+1796.05 which is a dopamine-deficit state.
+1798.43 So that's really the way
+in which pain can become
+1802.41 the main driver, is because
+I've indulged so much
+1805.41 in these high reward
+behaviors or substances,
+1808.53 that my brain has had to compensate
+1810.75 by way down-regulating my own dopamine,
+1813.29 such that even when I'm
+not doing that drug,
+1816.44 I'm in a dopamine deficit state,
+1818.07 which is akin to a clinical depression.
+1820.04 I have anxiety, irritability,
+insomnia, dysphoria.
+1822.74 And a lot of mental
+preoccupation with using again,
+1825.5 or getting the drug.
+1826.81 And so that's the piece
+there, there's the single use,
+1830.69 which easily passes, but it's
+the chronic use that can then
+1835.58 reset really our dopamine thresholds,
+1838.77 and then nothing is enjoyable, right?
+1841.73 Then everything sort
+of pales in comparison
+1844.26 to this one drug that
+I want to keep doing.
+1846.77 - And that one drug
+could be a person, right?
+1849.717 I mean, I
+- Yes.
+1850.77 - I know people in my life
+1852.13 that are still talking
+about this one relationship,
+1856.16 this one person that was just so great,
+1859.0 despite all the challenges of that thing.
+1861.57 It's almost like they're
+addicted to the narrative.
+1863.46 - Yeah.
+1864.551 - They were maybe, or still
+are, addicted to the person.
+1867.89 So it could be to any number
+of things, video games, sex,
+1870.53 gambling, a person, a narrative.
+1873.54 To me, and because of the way
+you describe this mechanism,
+1877.38 this pleasure pain balance,
+1880.67 that all speaks to the
+kind of generalizability
+1884.27 of our brain circuitry.
+1886.72 And this is something that fascinates me,
+1888.88 and I know it fascinates you as well,
+1890.42 which is that nature did not
+evolve 20 different mechanisms
+1895.77 for 20 different types of addiction.
+1898.27 Just like anxiety is a couple
+of core sets of hormones
+1901.79 and neurotransmitters and pathways,
+1903.27 and one person is triggered
+by social interactions,
+1906.84 another person is triggered by spiders.
+1910.3 But the underlying response is identical.
+1912.92 It sounds like with addiction as well,
+1914.75 there may be some nuance,
+1916.56 but that there's sort of
+a core set of processes.
+1919.16 So it doesn't really matter if
+it's gambling or video games
+1922.92 or sex or a narrative
+about a previous lover
+1925.734 or partner, whatever.
+1928.37 It's the same addictive
+process underneath that.
+1931.25 Is that correct?
+1932.207 - Yes, exactly.
+1933.377 And that's where this whole idea
+1934.88 of cross-addiction comes in.
+1936.36 So once you've been
+addicted to a substance,
+1938.9 severely addicted,
+1939.92 that makes you more
+vulnerable to addiction
+1942.26 to any substance.
+1943.57 - And when you say
+substance, does the same,
+1946.25 is what you just said
+also true for behaviors?
+1948.1 - Yes, so, when I use the word drug
+1950.13 I'm talking about substances
+and behaviors really.
+1953.32 I'm talking about behaviors
+like gambling, sex, you know,
+1957.36 - Porn.
+- gaming, porn,
+1958.78 absolutely, shopping.
+1960.046 - Work.
+1960.879 - Work.
+1961.712 - You've accused me, I'll
+just, for the record,
+1964.53 Anna, Dr. Lembke's accused
+me, not accused me,
+1967.05 has diagnosed me outside the
+clinic, in a playful way,
+1971.12 of being work-addicted.
+1971.97 You're probably right.
+1973.3 The first thoughts I have when I wake up
+1974.91 are typically about work.
+1976.14 Certainly within 50
+milliseconds or so of waking.
+1979.27 And probably the last thoughts I have,
+1981.23 I would hope are not about work, but yeah,
+1983.37 I work constantly.
+1985.12 I do other things, but I have
+to actively turn that off.
+1988.5 - Yes.
+1989.333 That's exactly right.
+1990.22 And you're certainly not alone in that.
+1992.736 And of course-
+1993.569 - At Stanford, no, no no no.
+1994.83 - And we're here in Silicon Valley, right,
+1995.71 it's highly rewarded, right.
+1996.94 So that kind of addiction.
+1997.773 - It's embedded
+1998.64 in the culture.
+- Oh yeah,
+1999.51 absolutely.
+- Absolutely, yeah, yeah.
+2000.64 And there's this other city,
+2002.45 I think it's called New York,
+2003.52 where they also work a lot I hear,
+2005.36 and it's heavily rewarded.
+2008.56 I once said, and I'm sure
+that I'm not the first person
+2012.17 to say it, but I was
+thinking about addiction,
+2014.81 and I was thinking about
+the underlying circuits
+2016.55 and I posted something to
+social media which said that
+2021.52 addiction is a progressive narrowing
+2023.36 of the things that bring you pleasure.
+2025.29 That was the way that
+I kind of crystallized
+2027.14 the literature in my mind.
+2028.05 And then we met and you of course came and
+2031.09 gave these amazing lectures
+in the neuroanatomy course
+2033.85 for the medical students,
+and the rest is history.
+2036.61 But I tossed out a kind of
+mirroring statement for that
+2044.36 as well, which was a bit
+overstepping, I admit,
+2047.59 which I said, addiction
+is a progressive narrowing
+2050.1 of the things that bring you pleasure.
+2052.33 And I said, dare I say,
+2054.45 enlightenment is a progressive expansion
+2056.73 of the things that bring you pleasure.
+2058.01 Not that anybody knows
+what enlightenment is,
+2060.521 but it was my attempt to
+take a little bit of a jab
+2062.44 at the fact that nobody knows.
+2063.8 And so why not, why wouldn't I throw
+2065.34 a neurobiological explanation?
+2066.987 Just to kind of sample the waters.
+2070.04 And people had varying levels
+of response but I would've,
+2074.44 the reason I bring that up is that
+2076.16 I would imagine that being
+able to derive pleasure
+2079.17 from many things would
+be a wonderful attribute.
+2084.189 You know people like this,
+2085.36 that can experience
+pleasure in little things
+2089.51 and in big events.
+2091.2 Not just, you know, the
+big milestones of life,
+2094.23 but also the subtle, you know, as the,
+2097.31 like the yogis would say,
+the subtle ripples of life.
+2102.159 If such an ability exists,
+2104.87 do you think that that reflects
+2106.45 a healthily tuned dopamine system?
+2109.72 One that can engage and
+enjoy, but then disengage.
+2113.04 Is that what we should be seeking?
+2114.88 And to underscore,
+2116.46 I know nothing about enlightenment
+meditation, or any of it.
+2120.21 I just, I use these as
+opportunities to explore.
+2124.06 - Yeah, so it's a great question
+2126.562 and I understand the question as,
+2129.89 so what should we be striving for, right?
+2132.3 Where should we settle out?
+2134.76 And, you know, in my book,
+2137.7 I really hold out people in
+recovery from severe addiction
+2142.48 as sort of modern day
+prophets for the rest of us,
+2145.23 because I do think that
+people who have been addicted
+2148.46 and then get into recovery,
+2150.82 do have a hard won wisdom
+that we can all benefit from.
+2156.64 And the wisdom, I guess, you
+know, to distill it down,
+2161.86 I mean it's many things.
+2163.97 But in terms of, you know, dopamine,
+2168.21 the wisdom is there are adaptive
+ways to get your dopamine.
+2173.06 And there are less than adaptive ways.
+2176.91 And in general, you could
+describe the adaptive ways
+2181.26 as not too potent.
+2184.09 So not tipping that balance
+too hard or too fast
+2187.57 to the side of pleasure.
+2188.553 - So does that mean never allowing myself
+2191.36 to be absolutely in complete bliss?
+2194.58 Or does it mean not allowing myself
+2196.24 to stay in that state too long?
+2198.24 - The latter.
+2199.073 I think the latter.
+2201.34 Then that gets to temperament,
+2202.47 so I'm going to get that to a second.
+2204.073 So, in general, what we want is
+2206.51 some kind of flexibility in that balance,
+2210.07 and the ability to easily
+reassert homeostasis.
+2213.26 We don't want to break our balance,
+2215.09 which is possible if we overindulge
+2217.36 for enough period of time
+2218.77 and end up with a balance
+tipped to the side of pain,
+2221.44 this dopamine deficit state
+we've been talking about.
+2223.92 We want a flexible,
+resilient balance, right,
+2227.51 which can be sensitive to things going on
+2229.67 in the environment,
+2230.503 which can experience
+pleasure and approach,
+2233.43 which can experience
+pain and recoil, right?
+2236.36 This is all adaptive and
+healthy and necessary and good.
+2239.84 We would never want a
+balance that doesn't tilt.
+2242.682 - Right.
+2243.515 - That would be a disaster,
+we wouldn't be human.
+2245.38 And we wouldn't want that,
+it'd be really, really boring.
+2248.08 On the other hand,
+2248.913 what people in recovery from
+addiction talk about is,
+2252.35 to some extent having
+to learn to live with
+2256.07 things being a little boring
+a lot of the time, right?
+2259.48 So trying to avoid some of this intensity
+2262.53 and thrill-seeking and escapism,
+2266.33 that really is at the core
+of addictive tendencies.
+2269.25 - Sorry to interrupt,
+but when you say boring,
+2271.74 can we add stressful and boring?
+2273.86 - Yes.
+2274.693 - Because there are days where I'm not,
+2277.84 I'm one of these people
+that have to remind myself
+2279.4 to have fun,
+2280.45 - Yes.
+- because I sort of forgot
+2281.283 what the term means,
+2282.39 because I like to think that I experience
+2284.82 a lot of pleasure in little things,
+2286.07 but I'm a pretty hard-driving guy.
+2288.03 I like goals and big
+milestones and all that stuff.
+2290.52 Anyway.
+2292.49 The point being that
+many days I'm not bored
+2296.34 thinking oh, there's nothing to do,
+2298.42 but I am kind of overwhelmed
+by the number of things
+2301.48 that are really not pleasureful
+2303.81 that I have to do.
+- Yeah, right.
+2305.42 - I won't mention what they are,
+2307.708 'cause I don't my colleagues to be like
+2309.56 that's why you don't respond to emails.
+2312.75 No, just your email.
+2314.67 Not yours Anna, but theirs.
+2316.92 In any event,
+2318.4 so anxiety and boredom can
+hang out together, right?
+2321.907 Am I correct in?
+2323.72 - Oh, for sure.
+2324.553 I mean, actually boredom is
+highly anxiety-provoking.
+2327.61 - Okay.
+2328.544 That's good to know, 'cause
+I think people hear boredom
+2329.68 and they think like, oh,
+there's nothing to do here.
+2332.969 - [Anna] Right.
+2333.802 - There's nothing.
+2334.635 I feel like we have a ton to do,
+2335.71 we just don't really want to do it.
+2337.48 - Right, right.
+2338.799 - As opposed to something
+that we're excited to do.
+2339.787 - Right, okay, so this gets to sort of
+2342.41 some of the core things.
+2343.45 Also we were talking about earlier
+2345.29 about finding your passion.
+2346.59 So I'm going to try to
+link it all together.
+2348.563 But basically boredom,
+2351.14 first of all boredom is a rare
+experience for modern humans,
+2354.81 because we're constantly
+distracting ourselves
+2357.53 from the present moment,
+2358.52 and we have an infinite number
+of ways to do that, right.
+2362.78 But boredom is really, I think,
+2364.81 an important and necessary experience.
+2368.3 But it is scary because when
+you allow yourself to be bored,
+2372.48 let's say you were, had
+that list of all the things
+2374.25 you hate to do, but you
+actually got them all done.
+2376.64 Imagine that.
+2377.473 And you got your forthcoming book done,
+2380.37 and you did all your interviews.
+2382.776 - It could happen!
+2384.146 Lightning could strike.
+- Right.
+2385.167 And you walked your dog,
+and you cleaned your house,
+2387.78 and you went shopping.
+2389.73 Imagine that for a moment.
+2391.13 You would be sitting in your house,
+2393.29 and my guess is you would
+be terrified because, wow,
+2398.45 what am I supposed to do now, right?
+2401.09 There's nothing I really have to do.
+2403.22 And that is really, really scary.
+2405.19 That can feel like free fall.
+2406.83 And yet that's really an important
+2409.52 and good experience to have.
+2411.14 And I think that is an experience
+2412.75 out of which we can have a
+lot of creative initiative,
+2418.05 but also really consider
+our priorities and values.
+2420.81 Okay, here I am on planet Earth.
+2423.66 What the he-haw am I
+going to do with my life?
+2425.773 What do I really care about?
+2427.14 How do I really want to spend my time,
+2428.86 when I'm not distracting myself, you know,
+2431.44 in order to spend it.
+2433.28 And, you know, then this
+gets back to our conversation
+2436.5 a little bit earlier about
+finding your passion.
+2438.75 So I think that one of
+the big problems now
+2441.79 that's very misguided about this idea
+2443.5 of finding your passion,
+2445.22 it's almost as if people
+are looking to fit the key
+2448.05 into the lock of the thing
+that was meant for them to do.
+2451.36 - Right, and then
+everything will feel like
+2452.61 a natural progression?
+2453.443 - Right, and then everything
+will be wonderful.
+2455.22 - I can attest to the fact
+that is not how it works
+2457.57 in any endeavor.
+- Yeah, right.
+2458.81 And that you'll have all
+this great success or.
+2462.015 And here's where I really
+think the answer lies.
+2466.31 And I really, really believe this.
+2467.86 Stop looking for your passion
+2470.826 and instead look around
+right where you are.
+2476.46 Stop distracting yourself, look
+around right where you are,
+2480.29 and see what needs to be done.
+2483.42 So not what do I want to do,
+2485.88 but what is the work
+that needs to be done?
+2488.83 And more importantly,
+2489.663 it doesn't have to be some grandiose work.
+2492.31 Like does the garbage need
+to be taken out, right?
+2495.82 Is there some garbage
+on your neighbor's lawn
+2498.61 that someone threw there,
+2499.443 that you could actually
+bend over and pick up
+2501.82 and put into the garbage can?
+2504.67 Look around you.
+2506.54 There is so much work
+that needs to be done
+2509.65 that nobody wants to do.
+2511.67 That is really, really important,
+and if we all did that,
+2515.66 I really think the world
+would be a much better place.
+2518.2 And this is what people
+who have severe addiction,
+2520.95 who get into recovery, realize.
+2522.62 They're like, it's not
+about me and my will
+2526.55 and what I'm going to will
+in my life or in the world.
+2529.94 It's about looking around
+what needs to be done.
+2533.25 What is the work that I am
+called to do in this moment?
+2537.93 Which also is incredibly freeing
+2540.01 because I don't have to
+search for the perfect thing.
+2542.75 There's a lot of burden
+now on young people,
+2545.01 that they have to find that perfect thing,
+2546.81 and until they've found
+that perfect thing,
+2548.26 they're going to be miserable.
+2549.6 You don't have to do that.
+2551.18 Look at the life you were given,
+2552.86 look at the people around you,
+2554.283 look at the jobs that
+present themselves to you
+2557.87 and do that job simply and
+honorably, one day at a time,
+2563.05 with a kind of humility.
+2564.66 I think this is really
+what's so striking to me
+2567.18 about the wisdom of people in recovery.
+2569.43 There's this incredible humility
+2571.67 that comes out of that experience.
+2573.35 You feel so broken, so ashamed,
+2576.0 but you pick yourself up one day at a time
+2578.99 and you build a life that's around
+2582.0 what can I do right in this moment,
+2584.68 that might benefit another
+person, and thereby benefit me?
+2589.36 - Yeah it's a really important
+point, and if you're willing,
+2594.43 I'd like to actually stay
+on this issue of passion,
+2597.95 because I think the dopamine systems,
+2603.32 if I understand them correctly,
+2605.89 the dopamine systems merge with this work
+2609.56 that you're referring to,
+2610.393 this immediacy of things calling to us,
+2612.56 like taking out the trash,
+2613.83 which sounds frankly really
+boring, to be honest.
+2617.55 I hate taking out the trash, but I do it,
+2620.22 'cause I like a clean home
+2621.29 and I like a home that smells good.
+2624.34 Or at least doesn't smell bad.
+2626.63 So we do these things, and
+not that we want to offer
+2630.22 some larger carrot as a
+consequence of doing those things.
+2634.29 But if I understand correctly,
+what you're saying is
+2636.71 in the act of looking at
+one's immediate environment,
+2641.36 acting on that immediate environment,
+2643.86 we cultivate a relationship
+to these circuits in our brain
+2649.6 about action and reward
+that, at least to my mind,
+2653.09 span the range of small
+things being rewarding,
+2656.67 and then lead us to the
+bigger things being rewarding.
+2659.06 It's not like all we're
+going to do is take out trash
+2661.3 and tend to house.
+2662.31 We eventually will venture out,
+2663.67 and we eventually will find
+careers and work on those.
+2667.49 But if I understand correctly,
+2668.46 you're talking about getting
+into a sort of functional
+2671.67 or adaptive action step,
+2674.09 and it's the action step that
+these days we tend to overlook
+2677.21 because most of our mindset is in things
+2679.9 that are truly outside
+of our immediate reality.
+2683.18 Do I have that correct?
+2684.23 - Yeah, that was beautifully said.
+2685.926 And I would just add to that,
+2687.48 I see a lot of young
+people who, for example,
+2690.82 spend most of their waking
+hours playing video games,
+2693.72 and they come to me and they say
+2695.01 I am anxious and depressed.
+2697.0 I'm majoring in computer science.
+2698.83 I hate it, I thought I would like it.
+2701.528 You know, if I could only find that thing
+2703.04 that I was really meant to
+do, my life would be better.
+2706.39 And my first intervention for
+2708.92 the many many people like that
+2710.64 that I see in clinical care
+is, you have it backwards.
+2714.28 I don't say it quite like that.
+2716.04 You were waiting for that thing
+2717.67 to pull you out of the video game world.
+2720.49 And you're never going to find it,
+2722.21 as long as you're playing video games.
+2724.05 'Cause video games are so
+powerfully dopaminergic
+2727.56 that you have this distorted sense of
+2730.32 really pleasure and pain.
+2732.02 And you will not be able to
+find that thing that you enjoy.
+2735.37 And so of course the intervention is
+2736.94 abstain from video games,
+reset your reward pathways,
+2740.17 start with a level balance.
+2742.19 And what invariably happens,
+2743.61 and I've just seen it over
+20 years so many times
+2745.89 I've become really a believer in this,
+2750.22 all of a sudden it's like oh wow,
+2752.04 my computer science class
+is interesting this quarter.
+2756.07 It's like okay, you know,
+you have a receptivity then
+2760.78 to experiencing pleasure and reward
+2763.45 in a way you just don't have
+2764.96 when you're bombarding
+your reward pathways
+2767.01 with these high dopamine drugs.
+2768.91 - Very interesting.
+2770.36 And just to underscore this notion
+2772.45 that tending to the immediate things
+2774.32 can lead to super performance.
+2777.73 I may have mentioned it
+earlier this episode,
+2780.26 but if I didn't I'll mention it now,
+2782.3 which is I have the great privilege
+2784.24 of having some close friends
+that were in the SEAL teams
+2786.21 and doing some work
+with those communities.
+2787.677 And it's a remarkable community
+for reasons that I think
+2790.53 most people don't understand.
+2791.84 People think, they see the images,
+2793.3 carrying logs down the
+beach, and all this,
+2794.94 blowing stuff up, all the stuff that's fun
+2797.13 for guys like that.
+2798.25 But all of the guys I know
+who were in the SEAL teams
+2802.31 have this sense of duty
+about immediate things,
+2806.19 and not just holding the door and doing,
+2807.96 helping with the dishes
+and moving things around.
+2809.74 They are constantly
+scanning their environment
+2812.22 for what can be done.
+2813.477 - Ah!
+2814.31 - They essentially conquer
+every environment they're in.
+2817.01 They are also some of the
+most competitive human beings
+2820.83 in the world, and they do it,
+2822.22 unless they're in the act of war fighting,
+2824.71 which is their real job.
+2827.4 They do it in every environment,
+in a very benevolent way.
+2830.47 And it's a remarkable thing because it,
+2833.03 I think it's what is part of
+what they're selected for.
+2836.38 And, you know, there's a range there.
+2838.74 But I think when we hear about
+2840.49 tending to the immediate things,
+2842.54 or this phrase, you know,
+2844.11 how you do one thing
+is how you do anything.
+2845.76 That's a tricky one for me,
+2847.16 because there are certain
+things I just don't do well.
+2850.44 But should we always be trying?
+2852.04 I think that the tending to,
+setting the horizon in closely
+2857.61 and tending to things in
+one's immediate environment,
+2859.68 I think is very powerful and translates,
+2861.85 - Yes.
+- because again,
+2862.86 I think the nervous system,
+it performs algorithms.
+2865.7 It has action steps.
+2866.85 The brain doesn't evolve to do one thing,
+2869.95 it evolves to be able
+to use the same approach
+2872.7 to doing lots of different things.
+2873.77 - Yes.
+2875.21 I just want to add, so even beyond that,
+2876.9 'cause that totally resonates for me,
+2879.15 and is very consistent with people
+2881.02 in recovery from addiction
+2882.52 who learn to take it one day at a time,
+2884.92 which is one of the, you know,
+2886.39 standard lingo from Alcoholics Anonymous
+2889.03 and other 12-step groups.
+2890.38 But I think also, as you say, you know,
+2892.6 our brain is really wired
+for the 24-hour period.
+2896.49 We're not very good at sort
+of the, you know, 10 year, 20.
+2901.0 I mean we have this huge frontal lobes
+2902.54 and yes, we're great planners and we can,
+2904.53 but if we live too much in that space,
+2907.71 we can really get very anxious
+and depressed and lost,
+2910.59 and either catastrophize or get grandiose.
+2913.28 But if you can chunk it down to a day,
+2916.155 what people in recovery talk about is how,
+2918.69 if I can just do today right,
+2921.41 then I will get a chain of days
+2924.47 that seem insignificant
+in their individual units,
+2929.0 but after six months
+or a year or two years
+2931.82 of those good days, I've got
+two very good years, right,
+2935.94 and I look back and it's like oh wow,
+2937.61 I guess I did all that.
+2939.64 But I think that's really,
+you know, one of the keys,
+2941.99 is really taking it one day at a time,
+2943.99 which your SEALs,
+2944.83 and also this connecting
+with the environment, right?
+2947.48 So being awake and alert
+to your environment,
+2950.45 and connecting with your environment,
+2952.32 not trying to escape it.
+2953.74 And of course escapism is
+what we all want and desire,
+2956.64 that experience of non being.
+2958.55 And we get it from the
+internet or from drugs
+2960.95 or whatever it is, but
+it's the booby prize.
+2963.98 Because ultimately it takes
+you further and further away
+2967.52 from your immediate environment,
+2969.385 which is where we really have to connect
+2970.82 to get that sense of
+grounded-ness and authenticity,
+2973.56 and like of being in our own lives.
+2976.62 - Well I think the unit of the day
+2977.97 is something that comes
+up again and again,
+2980.507 in my discussions with colleagues
+2982.9 who are extremely successful,
+2985.24 and who also have balanced lives.
+2987.195 - Right.
+2988.028 - This actually came up in the discussion
+2989.26 with Karl Deisseroth, who is
+also a successful scientist
+2993.95 and clinician and, you know,
+manages a family, et cetera.
+2996.95 So the unit of the day,
+I think, is fundamental.
+2999.86 And those stack up, as you mentioned.
+3002.33 So along those lines,
+3004.32 I've heard you say that in order to reset
+3006.74 the dopamine system,
+3008.52 essentially in order to
+break an addictive pattern,
+3012.27 to become un-addicted,
+3015.16 30 days of zero interaction
+with that substance,
+3019.7 that person, et cetera.
+3021.45 - Right.
+- Is that correct?
+3022.68 - Yeah, and 30 days is,
+in my clinical experience,
+3025.96 the average amount of time it takes
+3027.75 for the brain to reset reward pathways
+3029.88 for dopamine transmission
+to regenerate itself.
+3032.81 There's also a little bit of science
+3034.77 that suggests that that's true.
+3036.82 Some imaging studies showing that
+3039.0 our brains are still in
+a dopamine-deficit state
+3041.48 two weeks after we've been using our drug.
+3044.88 And then a study by Schukit and Brown
+3047.62 which took a group of depressed men
+3051.19 who also were addicted to alcohol,
+3053.71 put them in a hospital where they,
+3056.88 they received no treatment for depression
+3058.48 but they had no access
+to alcohol in that time.
+3061.43 And after four weeks,
+3062.55 80% of them no longer met
+criteria for major depression.
+3066.46 So again, this idea that
+by depriving ourselves
+3070.04 of this high dopamine high
+reward substance or behavior,
+3074.54 we allow our brains to
+regenerate its own dopamine,
+3077.16 for the balance to really equilibrate.
+3078.77 And then we're in a place
+3079.97 where we can sort of enjoy other things.
+3082.67 - So that progressive narrowing
+3084.22 - Right.
+- of what brings one pleasure,
+3086.32 eventually expands.
+3087.44 So I'd like to dissect out that 30 days
+3090.17 a little more finely.
+3092.43 And I also want to address
+3095.43 how does one stop doing
+something for 30 days,
+3098.52 if the thing is a thought?
+3100.72 So we'll kind of, I'll put that
+on the shelf for the moment.
+3103.93 So days one through 10,
+3107.2 I would imagine will
+be very uncomfortable.
+3109.669 - [Anna] Yes.
+3110.502 - They're going to suck
+basically, to be quite honest,
+3112.87 because the way you described
+this pleasure pain balance,
+3116.963 to my mind says that if you remove
+3120.27 what little pleasure one is
+getting, or a lot of pleasure
+3123.11 from engaging in some
+behavior, that's gone.
+3126.28 The pain system is really ramped up.
+3128.86 And nothing is making me feel good.
+3131.72 I'll just use myself as an example.
+3133.26 I'm not in recovery but, you know,
+3136.7 that 10 days is going to be miserable.
+3139.27 Anxiety, trouble sleeping,
+physical agitation.
+3143.66 - Yes.
+- To the point where,
+3145.3 you know, maybe impulsive, angry.
+3148.41 Should one expect all of that?
+3150.86 Should the family members of
+people expect all of that?
+3154.11 - Yeah.
+3154.943 So what I say to patients,
+3156.27 and it's a really important
+piece of this intervention,
+3159.19 is that you will feel worse
+before you feel better.
+3162.92 - For how long,
+3163.79 is probably the first question they ask,
+3165.38 right?
+- Yes.
+3166.213 And I say usually, in
+my clinical experience,
+3169.11 you'll feel worse for two weeks,
+3170.85 but if you can make it
+through those first two weeks,
+3173.63 the sun will start to
+come out in week three.
+3176.27 And by week four,
+3177.64 most people are feeling a
+whole lot better than they were
+3180.86 before they stopped using their substance.
+3183.746 So yeah, you have to, it's a hard thing.
+3187.19 Like you have to sign up for it.
+3189.15 And I will say, obviously there
+are people with addictions
+3191.88 that are so severe that as
+long as they have access
+3194.99 to their drug or behavior,
+3196.1 they're not able to stop themselves.
+3197.78 And that's why we have, you know,
+3198.91 higher levels of care,
+3200.366 - Sure.
+3201.24 - residential treatment.
+3202.073 So this is not going to be for
+everybody, this intervention,
+3204.16 but it's amazing how many people
+3206.53 with really severe addictions
+to things like heroin,
+3209.31 cocaine, you know, very
+severe pornography addictions.
+3214.0 I posit this, I do it as an experiment.
+3216.79 I said you know what,
+let's try this experiment.
+3219.52 I'm always amazed, number one,
+how many of them are willing.
+3222.45 And number two, how many of
+them are actually able to do it.
+3225.06 They are able to do it.
+3226.86 And so that little nudge is
+sort of just what they need,
+3230.09 And the carrot is, you know,
+3233.21 there's a better life out there for you
+3234.93 and you'll be able to taste it in a month.
+3238.1 You really will be able to begin to see
+3240.9 that you can feel better,
+and that there's another way.
+3244.23 - So the way you describe
+it seems like it's hard,
+3249.63 but it's doable for most people,
+3251.41 not everybody.
+- Yeah, right.
+3252.84 - And we'll return to
+that category of people
+3255.95 who can't do that on their own.
+3259.4 Well, then days 21 through
+30, people are feeling better.
+3265.38 The sun is starting to
+come out, as you mentioned,
+3267.505 which translates in the
+narrative we've created here,
+3270.46 and supported by biology,
+3272.44 that dopamine is starting to be released
+3274.87 in response to the taste of
+a really good cup of coffee,
+3278.13 - Yes, exactly.
+- for instance.
+3279.62 Whereas before it was
+only to insert, you know,
+3283.6 addictive behavior.
+3284.433 - Right, that's right.
+- Whichever it happens to be.
+3286.42 - Of course, coffee can be addictive too,
+3287.27 but we'll leave that
+3288.103 aside.
+- Sure, yeah.
+3289.367 I feel like coffee has a kind of
+3291.46 consumption limiting mechanism built-in,
+3294.17 where at some point you
+just can't ingest anymore.
+3297.6 - Yeah.
+- But maybe that's wrong.
+3299.43 Sorry to give lift to the
+caffeine addicts out there.
+3303.69 As I clutch my mug.
+3308.27 So days 21 through 30.
+3311.06 I've seen a lot of people
+go through addiction
+3314.44 and addiction treatment.
+3315.273 I've spent a lot of time
+in those places, actually,
+3318.4 looking at it, researching.
+3319.62 I've got friends in that community.
+3321.01 I'm close with that community.
+3323.63 One thing I've seen over and over again,
+3326.07 sadly often in the same individuals,
+3328.38 is they get sober from
+whatever, they're doing great.
+3335.09 These are people with families.
+3336.61 These are people that you
+3338.0 discard your normal image of an addict
+3340.35 and insert the most normal, typical,
+3344.16 whatever, healthy person you can imagine.
+3346.18 'Cause a lot of these people
+you wouldn't know were addicts.
+3349.97 And then all of a sudden
+you get this call,
+3352.92 so-and-so's back in jail.
+3355.85 So-and-so's wife is going to leave him
+3357.88 because he drank two bottles of wine
+3361.12 and took a Xanax at 7:00 a.m.,
+3363.75 crashed his truck into a pole,
+has got two beautiful kids.
+3366.26 Like how did this happen again?
+3369.64 To the point where by the
+fourth and fifth time,
+3372.22 people are just done.
+3374.72 I mean maybe people,
+3376.01 you might be able to detect
+the frustration in my voice.
+3377.86 I'm dealing with this,
+with somebody that's like,
+3380.13 I don't even know that I
+want to help this time.
+3382.81 It's been so many times,
+3385.2 to the point where I'm starting to wonder
+3387.57 is this person just an addict.
+3389.55 This is just kind of what
+they do and who they are.
+3393.08 And you never want to
+give up on people but,
+3395.13 and I'm hanging in there for them.
+3397.04 But I will say that many
+people have given up on them.
+3401.79 And so what I'd like to
+talk about in this context
+3404.16 is what sorts of things help other people
+3408.355 that we know that are addicted?
+3409.36 What really helps?
+3411.56 Not what could help,
+but what really helps.
+3416.07 And are there certain people
+for whom it's hopeless?
+3421.53 I mean, I don't like to hold
+the conversation that way,
+3423.62 but I wouldn't be close
+to the real life data
+3425.971 if I didn't ask.
+3427.87 Is it hopeless, are there people who just
+3429.89 will not be able to
+quit their substance use
+3434.16 or their addictive behavior,
+despite, I have to assume,
+3437.84 really wanting to?
+3440.2 - Yeah, so there are people who will die
+3443.7 of their disease of addiction, you know,
+3445.55 and I think conceptualizing
+it as a disease
+3447.85 is a helpful frame.
+3449.53 There are other frames that
+we could use, but I do think,
+3452.94 given the brain physiologic
+changes that occur
+3457.13 with sustained heavy drug use,
+3460.4 and what we know happens to the brain,
+3462.85 it is really reasonable to
+think of it as a brain disease.
+3467.56 And for me, the real window of,
+3471.61 let's say being able
+to access my compassion
+3474.81 around people who are repeat relapsers,
+3477.74 even when their life is so much better
+3479.76 when they're in recovery.
+- Oh yeah, yeah.
+3480.593 - It's like a no-brainer, right?
+3483.54 Is to conceptualize this balance
+3485.48 and the dopamine deficit state,
+3486.87 and a balance tilted to the side of pain.
+3489.89 And to imagine that for some people,
+3493.17 after a month or six months,
+or maybe even six years,
+3496.98 their balance is still
+tipped to the side of pain.
+3500.17 That on some level that
+balance has lost its resilience
+3504.18 and its ability to restore homeostasis.
+3506.68 - It's almost like the
+hinge on that balance
+3508.25 - Yes.
+- is messed up.
+3509.124 - Exactly.
+3510.14 And so, I mean,
+3511.9 for someone who's never
+experienced addiction,
+3513.98 like yourself, maybe one
+way to conceptualize it is.
+3517.52 - Well I didn't say that.
+3518.353 - [Anna] Oh okay.
+3520.61 - To be clear, I was not
+referring to myself, but I,
+3523.92 in this example I was giving,
+if I were, I would come clean.
+3527.67 I would reveal that.
+3529.81 But I think that,
+3531.04 especially after hearing
+some of your lectures
+3533.84 and descriptions of the range
+of things that are addictive,
+3536.5 I think I've been fortunate
+I don't have a propensity
+3539.68 for drugs or alcohol.
+3540.72 - Right, okay.
+3541.553 - I'm lucky in that way.
+- Right, right.
+3543.76 - Frankly, if they remove all
+the alcohol from the planet,
+3545.85 I'll just be relieved
+3546.76 because no one will
+offer it to me any more.
+3547.95 - [Anna] Right, right.
+3548.783 - So don't send me any alcohol.
+3551.14 It won't go to me.
+3552.13 - [Anna] Right.
+3553.574 - But I don't have that,
+3557.6 I like to think I have the compassion,
+3560.33 but I don't that empathy for, you know,
+3567.39 taking a really good situation,
+3569.66 and what from the outside looks to be
+3571.927 - Right, right.
+- throwing it in the trash.
+3573.76 - Yeah, so okay, so let me,
+and this is really, I think,
+3576.52 important because I also had to
+3579.25 come to an understanding of
+this, and I feel that I have
+3582.33 in my 20 years of seeing these patients.
+3585.09 And of course addiction
+is a spectrum disease,
+3586.58 - Sure.
+- right,
+3587.874 and so you've got the
+severe end of things.
+3590.84 Imagine that you had an itch
+somewhere on your body, okay.
+3595.0 And it was, I mean, we've
+all had that, like, you know,
+3597.16 whatever the source, it
+was super, super itchy.
+3600.03 You can go for, you know,
+if you really focus,
+3603.94 you could go for a pretty
+good amount of time
+3606.89 not scratching it,
+3608.32 but the moment you stopped
+focusing on not scratching it,
+3612.69 you would scratch it.
+3613.523 And maybe you'd do it while
+you were asleep, right.
+3616.6 And that is what happens to
+people with severe addiction.
+3621.88 That balance is essentially broken.
+3624.31 Homeostasis does not get restored,
+3626.41 despite sustained abstinence.
+3628.96 They're living with that
+constant specter of that pull.
+3633.4 It never goes away.
+3635.13 So let me say, there are
+lots of people with addiction
+3636.81 for whom that does go away.
+3637.97 And it goes away at four
+weeks for many of them.
+3640.31 But in severe cases, that's
+always there and it's lingering,
+3645.36 and it's the moment when they're
+not focusing on not using,
+3649.12 it's like a reflex.
+3650.2 They fall back into it.
+3651.92 It's not purposeful.
+3653.2 It's not because they want to get high.
+3655.24 It's not because they value using drugs
+3657.05 more than they do their family.
+3658.65 None of that.
+3659.483 It's that really they cannot not do it
+3664.53 when given the opportunity,
+3666.61 and that moment when they're
+not thinking about it.
+3668.94 Does that make sense?
+3669.88 - That's a great description
+3670.84 and actually in that description
+3672.48 I can feel a bit of empathy,
+3675.16 because the way you described
+3676.93 scratching an itch in your sleep.
+3678.38 - Yeah.
+- You know,
+3679.79 I've done that with mosquito
+bites and some of them,
+3681.525 - Right.
+- you're scratching, you know,
+3682.866 like you wake up scratching
+that mosquito bite.
+3686.33 And I also have to admit
+that I've experienced
+3691.36 not feeling like I want
+to pick up my phone
+3693.61 because it's so rewarding, but
+just finding myself doing it.
+3696.8 - Yes, of course,
+3697.69 yes.
+- Like I'm not going to
+3698.523 use this thing, I'm not
+going to use this thing,
+3699.767 and then just finding myself doing it,
+3701.65 like what am I doing here?
+- Yes, right, right.
+3703.09 - Sort of the how did I get back
+3704.76 here again?
+- Yes, right.
+3706.487 - And I know enough about
+brain function to understand
+3709.44 that we have circuits that
+generate deliberate behavior.
+3713.51 And we have circuits that
+generate reflexive behavior.
+3715.53 And one of the goals of the nervous system
+3718.37 is to make the deliberate stuff reflexive,
+3721.12 so you don't have to make the decision,
+3722.42 because decision-making is
+a very costly thing to do.
+3725.94 - Exactly.
+3726.773 - Decision-making of any kind.
+3727.606 - [Anna] Right, right.
+3728.439 - So that does really help.
+3733.68 I want to just try and weave
+together this dopamine puzzle,
+3738.29 however, because if by week,
+3740.69 so first phase of this 30 or 40 day detox,
+3745.866 it's like a dopamine fast,
+3747.067 - Right.
+- right, okay.
+3749.37 First 10 days are miserable.
+3750.51 Middle 10 days, the clouds are out,
+3753.03 there may be some shards
+of sunlight coming through.
+3755.11 And then all of a sudden
+sun starts to come out,
+3758.07 it gets brighter and brighter.
+3759.79 Why is it then that people will relapse,
+3762.67 not just after getting fired from a job
+3764.96 or their spouse leaving them,
+3765.92 but when things are going really well?
+3767.633 - Yes.
+- Is it this
+3769.03 unconscious mechanism?
+3770.71 'Cause I've seen this before.
+3772.98 They have a great win,
+3773.99 I have a friend who's a
+really impressive creative.
+3777.7 I don't want to reveal any more than that.
+3780.43 And relapsed upon getting another
+3783.4 really terrific opportunity to
+create for the entire world.
+3787.7 And I was like how can that happen?
+3789.21 But now I'm beginning to wonder,
+3790.48 was it the dopamine
+associated with that win
+3793.21 that opened the spigot
+on his dopamine system?
+3797.01 Because it happened in a phase of
+3799.86 a really great stretch of life.
+3802.28 - Yeah, right.
+3803.89 Yeah, so you raise that great
+point about triggers, right?
+3807.69 And triggers are things that make us
+3810.48 want to go back to using our drug.
+3813.05 And the key thing about
+triggers, whatever they are,
+3815.34 is they also release a little
+bit of dopamine, right?
+3819.07 So just thinking about
+whatever the trigger is
+3823.31 that we associate with drug use,
+3825.25 or just thinking about drug use,
+3827.24 can already release this
+anticipatory dopamine,
+3830.04 this new little mini spike.
+3831.22 But here's the part that I
+think is really fascinating.
+3833.71 That mini spike is followed
+by a mini deficit state.
+3837.24 So it goes up and then it
+doesn't go back down to baseline,
+3839.81 it goes below baseline tonic levels.
+3842.67 And that's craving, right?
+3844.47 So that anticipation is
+immediately followed by
+3849.82 wanting the drug.
+3851.18 And it's that dopamine deficit state
+3852.9 that drives the motivation
+to go and get the drug.
+3856.81 So many people talk about dopamine
+3857.89 as not really about pleasure,
+3859.61 but about wanting and about motivation.
+3862.46 And so it is that deficit state
+3864.46 that then drives the locomotion to get it.
+3867.207 - And earlier your description of dopamine
+3869.2 being involved in the desire for more,
+3870.853 giving the sense of
+reward, but also movement.
+3873.57 - Right.
+- I have to assume
+3874.77 that those things are braided together
+3876.195 - Yes, yes.
+- in our nervous system,
+3877.43 for the specific intention of
+when you feel something good,
+3881.05 then you feel the pain.
+3882.35 - Yes.
+- But maybe
+3883.183 you don't notice it.
+3884.016 And then the next thing you know,
+3884.849 you're pursuing more of the thing that-
+3886.073 - And I love the way you use
+the word braided together,
+3888.35 that's beautiful.
+3889.183 And let me also just say,
+3890.53 something that I find also fascinating
+3892.9 in my work with patients,
+and I see this all the time.
+3895.66 There are people for whom
+bad life experiences, loss,
+3899.94 you know, in any form, stress,
+in many different forms,
+3903.58 that's a trigger, but
+there are absolutely people
+3906.38 for whom the trigger is things going well.
+3909.97 And the things going well can be like
+3912.38 the reward of the things going well,
+3913.61 but very often what it
+is is the removal of
+3916.74 the hypervigilant state
+3918.64 that's required to keep
+their use in check.
+3921.43 So it's the sense of I want
+to celebrate, you know,
+3924.65 or I want to, this reward happened,
+3926.86 I want to put more reward on there.
+3929.48 And it's really really fascinating
+3931.25 because when people
+come to that realization
+3934.06 about themselves, that
+they're most vulnerable
+3937.43 when things are going well,
+that's really a valuable insight
+3941.86 because then they can
+put some things in place
+3943.89 or barriers in place
+or go to more meetings
+3946.2 or whatever it is that they do, you know,
+3948.17 to protect themselves.
+3950.35 - Along those lines, I have
+a friend 40 years sober,
+3953.91 was a severe drug and alcohol
+addict from a very young age.
+3957.08 Really impressive person,
+3958.08 does a lot of important
+work in the kind of
+3960.24 at-risk youth community out in Hawaii.
+3962.6 And he said something to me, he said,
+3965.06 as former addicts often do,
+they've got these great sayings.
+3969.34 But I think it fits very well
+with what you're describing.
+3971.25 He said, you know, no
+matter how far you drive,
+3974.38 you're always the same
+distance from the ditch.
+3977.64 And I said well that's kind
+of depressing, and he said no,
+3980.46 that's actually what gives me peace.
+3982.477 - Yeah.
+3983.31 - Because what would happen is
+3984.5 for so many years of
+relapsing and relapsing,
+3987.697 recovering and relapsing, he
+felt like it was hopeless.
+3993.27 And then somehow conceptualizing that
+3996.08 the vigilance can never go away,
+3998.87 instead of making him feel burdened,
+4000.73 - Yeah.
+- it made him feel relieved.
+4003.04 So I often think about
+that statement, you know,
+4006.12 no matter how far you drive,
+4007.33 you're always the same
+distance from the ditch,
+4008.88 because in my mind I
+conceptualize that as gosh,
+4011.02 that's a tough way to drive down the road.
+4013.8 But actually, on a road where
+you know where the ditch is
+4017.31 and where you know where
+the lanes lines are,
+4019.28 it's actually a pretty nice drive.
+4021.0 It's when you don't know
+where the shoulder is,
+4022.61 that you constantly have
+to be looking around.
+4024.25 So there's this, we're
+speaking now in analogies
+4027.678 and imagery and science.
+4031.45 But I, one of the things
+I find so incredible
+4034.32 about this community of 12-step,
+4036.34 and there are a variety of them,
+4039.024 are the communities that
+they create for themselves,
+4043.48 and some of these sayings,
+which I do believe link back
+4047.26 to really core biological mechanisms.
+4049.333 - Yes, yes.
+4050.37 - I do want to ask
+about those communities.
+4052.48 I have a question which might
+be a little bit controversial.
+4056.87 - Great!
+4057.703 - Which is, is it possible that people
+4061.62 who were addicted to drugs
+or alcohol or gambling,
+4064.24 or some other behavior,
+4066.04 get addicted to the addiction community?
+4069.21 Because one thing that I
+think I observe over and over
+4073.48 is that there's some circuit
+in the brain of human beings
+4076.55 that has to tell you about
+4078.82 the dream they had the night
+before, for whatever reason.
+4082.58 There's another circuit that
+leads people to wake you up,
+4086.15 if they themselves can't sleep.
+4087.47 I don't know what circuit it is.
+4088.93 I'm being facetious here.
+4090.36 But there does seem to also be a circuit
+4093.1 in the brain of addicts
+to discuss and want to
+4098.59 kind of talk about their recovery a lot.
+4101.71 And I mention this not to poke at them,
+4103.93 but rather the opposite,
+4105.32 because I think that one
+thing that is challenging,
+4109.3 at least for me, and having
+friends that have a propensity
+4112.16 for drug or alcohol
+addiction, not all of them,
+4114.12 but certainly some of them,
+4115.52 is when they're talking
+about their recovery,
+4117.53 I feel like it's all they talk about.
+4120.8 This meeting, that meeting, that meeting.
+4124.92 So what I'm really asking here is that,
+4128.06 can we become addicted to sobriety?
+4132.72 - Right.
+4133.72 So this is a great
+question and it links into
+4136.3 some of the other things
+we've been talking about,
+4138.49 having to do with where do
+we settle out, you know?
+4141.66 What is the way to live
+between pleasure and pain?
+4144.57 And I implied earlier that
+4146.63 ultimately we want a resilient balance
+4148.66 that's sensitive to pleasure and pain,
+4150.24 but that can easily restore
+homeostasis after we indulge,
+4154.3 even when we indulge greatly.
+4157.16 But the truth of the matter is that
+4158.92 people with severe addiction,
+4160.83 I believe temperamentally
+want those extremes,
+4165.24 and they're wired for
+that kind of intensity
+4168.53 that is more than just
+these slight adjustments
+4171.41 around the fulcrum, right?
+4172.53 It's like they want the
+big highs and the big lows.
+4175.12 - They'll say great meeting.
+4176.56 - Yeah, right, right.
+- They're like
+4177.393 that was such an amazing meeting.
+4178.226 Or they find a group,
+- Right, yeah.
+4180.274 - They find a group in a location.
+4181.13 - Yeah.
+4182.46 - This is almost an inside
+joke in those communities.
+4184.7 Again, I'm not reporting,
+4185.84 I'm not talking about a friend in quotes,
+4187.44 this isn't me reporting.
+4188.759 They'll talk about how
+attractive people are
+4191.883 at a given meeting, or
+how bonded they feel
+4194.74 to people at a given meeting.
+- Right, right.
+4195.91 - That the meetings themselves
+4197.99 - Right.
+- become their own form
+4199.41 of dopamine hit.
+4200.243 - Yes, yes, yes.
+4201.52 - And again, I'm not
+being disparaging, I just,
+4203.76 I want to understand this.
+4204.88 - Right, so yes, so a lot of
+times patients will say to me,
+4208.61 oh, you know, I don't want to go to AA.
+4210.29 It's a cult.
+4211.24 And my response to that is
+4213.78 because it's a cult is
+exactly why it works, okay.
+4218.6 Because yes, it is much better
+for you to be addicted to AA
+4223.72 and to recovery,
+4224.84 than almost any other
+addiction I could think of.
+4228.45 And we know from Rob Malenka's
+work, who's here at Stanford,
+4231.67 that oxytocin, you know,
+4233.98 is the hormone that's
+involved in human pair bonding
+4237.34 and relationships and love.
+4239.95 And it directly links to dopamine neurons
+4242.58 and causes the release of dopamine.
+4244.03 So yes, when we connect with other humans,
+4246.7 especially in a kind of
+transcendent spiritual way,
+4249.49 that's a huge dopamine hit.
+4251.05 And it does replace the dopamine
+that people get from drugs.
+4254.16 And for people who have
+this addiction temperament,
+4258.42 they need it on a more intense level.
+4260.81 They're not going to be
+generally satisfied with kind of,
+4265.18 you know, a sort of
+acquaintanceship, right?
+4268.75 They want that intensity of
+the intimacy that you get
+4271.94 with people when you're
+cathartically exposing, you know,
+4275.49 warts and all.
+4276.6 So yes, people can get
+addicted to recovery,
+4279.21 and good for them.
+4280.76 Go for it, you know.
+4282.45 And of course this can be disruptive
+4284.15 for friendships and relationships,
+4287.16 where the one person is not in recovery.
+4288.62 Like you're going to so many meetings,
+4289.857 you're always talking about
+recovery, but you know what,
+4292.0 much better than them
+being intoxicated, right?
+4294.55 I mean, so although you
+may tire of your friends
+4297.04 talking about their meetings all the time,
+4299.03 I'm sure you would
+rather have them do that
+4301.04 than, you know, be in their addictions.
+4303.48 - Absolutely.
+4304.32 And this is now the second
+time you've done this
+4306.16 through this discussion,
+but now I have empathy
+4308.43 because the way you describe
+4310.21 their enthusiasm about meetings,
+4311.954 - Yes.
+- is probably the way
+4313.59 that people feel about me
+4315.1 and work.
+- Yes, right.
+4316.765 - In neuroscience.
+- Yes.
+4317.93 - I mean, I've been getting
+up in front of the class
+4320.93 since I was eight years old
+4322.39 and talking about things
+I read over the weekend.
+4324.19 Now I just happen to have
+this thing called a podcast.
+4326.88 - Right.
+4327.713 - I've been doing it since I was a little.
+4328.546 And it annoys a lot of people, right.
+4331.11 I've learned to suppress it a little bit.
+4332.75 Some people like it, but
+I'm poking fun at myself
+4336.57 just to say that I now can understand
+4340.14 that the way I feel
+about the reports about
+4342.42 yet another amazing meeting or,
+4345.16 or for there's a different form of this.
+4347.59 But there's some people for which
+4349.61 they just love intense experiences.
+4351.84 - Yes.
+- They're always like
+4353.43 trying to pull me off to Bali
+4355.2 because they're talking
+about how sensual it is
+4357.33 all the time, I'm sure Bali's wonderful.
+4359.24 But there's this kind of ratcheting up,
+4361.21 it's like seeking Burning Man
+4363.03 all year long.
+- Right.
+4363.93 - I've never been to Burning Man,
+4364.92 no desire to go to Burning Man.
+4369.54 But inside of academia
+4371.39 I mean if I were to just
+turn the mirror at myself,
+4374.36 inside of academia, or
+here in Silicon Valley,
+4377.71 work, and the
+- Right.
+4379.934 - pursuit of more success,
+4381.7 even if money is kind
+of divorced from that,
+4384.54 sometimes it is sometimes it isn't.
+4385.83 Academic work is, you know,
+4387.34 for sake of pursuit of knowledge.
+4389.66 It sounds to me like the same mechanism.
+4392.06 In fact, it feels to me very
+much like the same mechanism.
+4396.3 - So Andrew, here's what I love about you.
+4398.27 First of all, you're willing
+to bring your own flaws
+4401.14 and foibles to this conversation.
+4403.051 - Well they're everywhere.
+4404.26 - Well, you know what, it's wonderful.
+4406.78 And then you're really open and curious
+4409.33 and wanting to understand,
+4411.26 'cause I can't tell you
+how many people I have met
+4413.61 who really see addiction
+as some kind of otherness.
+4417.13 But the truth is we're
+all wired for addiction.
+4419.87 And if you're not addicted yet it's just,
+4422.24 it's right around the corner.
+4423.44 Do you know what I mean?
+4424.54 Especially with the incredible
+panoply of new drugs
+4427.82 and behaviors that are out there.
+4429.82 So I love that you're
+willing to take a moment
+4433.24 and really try to understand
+this, because it is,
+4437.09 we can all relate, and
+you're relating it to your,
+4440.04 essentially your work
+addiction is right and apt.
+4443.81 You just happen to be
+addicted to something
+4445.48 that is really socially rewarded.
+4447.97 You know, you figured
+that out at an early age.
+4450.09 Oh, when I do X, Y and
+Z, all these people go
+4452.9 look at that smart kid, or
+whatever it is, you know.
+4455.043 - Well for me, it made me feel safe.
+4456.91 - Okay.
+4457.743 - I felt like.
+4460.716 Yeah, I just felt like this,
+4462.554 and I pause there 'cause
+it's like, it's like peace.
+4464.65 I'm like ah, I can relax for a moment.
+4467.61 - When you're talking about neuroscience?
+4469.24 - Or just when I feel like
+I'm on the right path.
+4472.591 - Yeah, okay.
+- And I'm onto something.
+4474.24 Or if I see something
+that I'm excited about,
+4476.14 - Right.
+4476.973 - I'm like, I feel filled
+with, it must be dopamine.
+4480.94 - Yes.
+- I feel
+4481.773 flooded with pleasure,
+4482.68 literally from head to toe.
+- Right, yeah.
+4485.328 - And then my next thought is more.
+4486.373 [laughing]
+4487.88 - So true, you're a true addict.
+4490.694 - Okay, thank you.
+- You are.
+4491.527 You are.
+4492.36 But you just got really,
+- I think thank you.
+4493.39 - you really got lucky with the fact that
+4496.713 what you're drawn to is
+adaptive, essentially, you know.
+4502.39 And then your challenge
+is going to be that
+4504.55 your life doesn't get too out of balance
+4506.38 in the sense that you're 24/7 working,
+4509.28 you don't stop and do some
+other things or think of-
+4512.18 - And my life, admittedly,
+is somewhat asymmetric.
+4515.17 I mean it has other
+components of physical health,
+4517.11 et cetera, but it is somewhat asymmetric.
+4520.51 Which is why I got a dog.
+4521.73 Although I talk about
+him an awful lot, so.
+4524.47 - But the dog is good because
+that draws you out of yourself
+4527.21 and a little bit away from the work.
+4528.74 But again, you know, I
+think the key here is
+4530.87 for people who feel like they don't,
+4532.0 they've never experienced addiction
+4533.19 or they don't know anybody with addiction,
+4534.55 or if they do, they don't get it,
+4536.01 just think of that one thing
+4538.2 that is the most important
+thing in your life that you do,
+4541.14 that gives you pleasure
+and meaning and purpose.
+4543.75 And then imagine if you couldn't do it.
+4546.11 - Oh yeah, let's not talk about that.
+4550.16 - [Anna] Right.
+4551.34 - Well I appreciate the feedback
+4553.04 and you can send me a bill at the end.
+4557.9 What is the most ridiculous
+sounding addiction
+4561.32 that you've ever witnessed,
+4564.09 that was actually a real
+addiction, along these lines.
+4568.4 Because I think we all know
+the standard heroin, pill.
+4571.94 You've been very, I should mention,
+4573.95 because it's important,
+your previous book,
+4576.69 and we will provide a
+link to that as well,
+4578.91 focused on the opioid crisis
+4580.62 and what we thought was medication.
+4584.01 It turned out to be just
+as bad, if not worse,
+4586.77 than a lot of so-called street drugs.
+4589.42 So we understand those,
+you know, gambling,
+4592.03 sex addiction, porn addiction.
+4593.38 Now video games.
+4594.55 We'll talk about social media
+a little bit more in depth.
+4596.68 But what's the most like, wow,
+4600.11 I didn't realize people
+could get addicted to that?
+4604.18 - Water.
+4605.46 - Really?
+4607.03 - Really.
+4607.863 So I had a very lovely patient who was,
+4610.85 had a severe alcohol addiction,
+4612.98 and she got into recovery
+from her alcohol addiction
+4616.364 for many years.
+4617.7 But she kind of had a
+sort of a polydipsia,
+4620.97 or an urge to be drinking something a lot.
+4624.46 And so she drank a lot of
+water and slowly, over time,
+4628.65 she realized that if
+she drank enough water,
+4630.91 she could become
+hyponatremic and delirious
+4633.72 and be out of herself.
+4635.35 - You can die from it, right?
+4636.452 - Right, which is,
+4637.285 she just wanted to be out of her own head.
+4639.4 And so she would
+periodically intentionally
+4642.85 overdose on water, in order, you know, to,
+4646.82 I know, it was so sad, so sad.
+4649.46 - What happened to her?
+4650.94 - She eventually took her own life.
+4653.349 - Wow.
+- Yeah, it was really.
+4654.26 - That's rough.
+- She was a lovely woman.
+4656.56 She was so bright.
+4657.61 She had so many interests and passions,
+4660.02 and of course it was very sad
+when, you know, when she died.
+4664.69 But that was a wow to me, it was like wow,
+4668.76 if you have this disease of addiction,
+4671.17 you can even get addicted to water.
+4673.07 - Wow.
+4673.903 And I think it just underscores
+the generalizability
+4677.65 of the circuits.
+4678.58 - Right.
+4679.413 - There isn't a brain circuit
+for addiction to water
+4681.55 that she happened to have.
+4682.51 There's a brain circuit for
+pleasure and pain and addiction,
+4685.56 and water plugged into
+4687.33 that circuit.
+- Right, right.
+4689.36 - Wow.
+4690.193 That's intense.
+4692.35 In your book, "Dopamine Nation",
+4694.65 you also describe some
+amazing paths to recovery.
+4699.46 People that, you know,
+from reading it I would,
+4704.36 I won't say which ones and who
+4705.77 'cause there are some great
+surprises in the book too,
+4708.15 both tragic and triumphant, as they say.
+4712.46 You've often described your
+patients as your heroes.
+4715.54 - Yeah.
+- Yeah, tell us
+4716.64 a little bit more about that.
+4718.23 - You know, when you
+think about how hard it is
+4721.46 to give up a drug or a behavior
+that you're addicted to,
+4724.26 how much courage that takes
+and fortitude and discipline,
+4727.92 and stick to it-ness,
+4729.68 these people are really amazing people.
+4732.56 I mean that's, I don't
+know that I could do it,
+4735.937 what they do, you know.
+4739.03 And like, you know, we
+talked a little bit about
+4742.22 just the constant
+ever-present urge to use,
+4745.89 even after sustained periods
+of abstinence for some people.
+4749.24 That's really really hard.
+4750.8 And of course then you double down
+4752.98 on the shame that they
+feel, because of that urge,
+4756.45 even when their lives are so much better.
+4758.69 I mean these people are
+really, really remarkable.
+4762.3 And you take their
+remarkable accomplishment
+4764.94 and then you imagine the
+world that we live in now,
+4767.88 where we are constantly
+invited and tempted
+4771.66 and really bombarded with opportunities
+4774.43 to become addicted-
+4775.52 - It's like feeling an itch everywhere.
+4777.12 - Oh yeah, I mean you can't escape it.
+4779.089 You know, you cannot escape it.
+4780.04 That you'll get an email in your inbox
+4782.623 inviting you to do X, Y, or Z.
+4783.68 And if you're addicted
+to that thing, you know,
+4785.3 you try to like delete all
+your apps and not go here.
+4787.62 All of a sudden your work inbox, you know,
+4789.48 you're getting those images, let's say.
+4791.82 Really, really, really hard.
+4794.14 And yet these people find a way to do it.
+4796.48 I think it's absolutely amazing.
+4798.12 And they're really wise people.
+4800.14 They have so much wisdom to offer.
+4802.13 They've taught me a lot.
+4803.24 You know, as I talk about in my book
+4804.38 I have my own addictions,
+4805.52 and I really just like took
+a page right out of their,
+4808.555 I was okay, what do I do now?
+4809.388 All right, what did this
+patient do, what did that,
+4811.23 okay, I'm going to try that.
+4813.04 - It is an amazing community
+4814.67 - Yeah.
+- of people,
+4815.71 they are very sage.
+4817.9 I wanted to just touch on
+something that you mentioned,
+4821.5 which is the shame.
+4822.99 - Yeah.
+4824.03 - You know you can't go to a
+meeting, or talk to addicts,
+4827.87 without detecting or hearing about
+4831.75 like lies, shame, et cetera.
+4834.53 I heard you say in an interview
+with somebody else recently
+4838.38 that truth-telling and secrets
+4842.51 are sort of at the core of recovery.
+4845.43 And yeah, tell us more about that.
+4848.77 - Yeah.
+4849.812 So one of the things that I
+found really fascinating about
+4853.05 working with people in recovery,
+was how telling the truth,
+4856.7 even about the merest
+detail of their lives,
+4859.64 was central to their recovery.
+4861.55 And I became really curious about that.
+4863.48 Like why would truth-telling
+be so important?
+4866.13 And of course there is
+the obvious thing that
+4867.87 when people are in their addiction,
+4869.08 they're lying about using, you know.
+4871.01 So part of getting into recovery
+4873.81 is to stop lying to the
+people they care about,
+4876.24 about their use.
+4877.4 But it's really more than that because
+4879.77 what people in recovery
+have taught me is that
+4882.305 it's not even just not
+lying about using drugs.
+4885.61 I have to not lie about anything.
+4888.12 I can't lie about why I was
+late to work this morning,
+4890.69 which we all do all.
+4891.58 Oh I hit traffic, no I didn't hit traffic,
+4893.39 I wanted to spend two more
+minutes reading the paper
+4895.59 and drinking my coffee, right.
+4897.7 Or just lying about, you know,
+4899.92 I don't know where I had dinner.
+4901.8 Like, so people with addiction
+will get into, you know,
+4904.45 the lying habit where they're
+lying about random stuff,
+4906.76 'cause they're sort of
+in the habit of lying.
+4909.29 And how recovery is really
+about telling the truth,
+4913.54 you know, in all ways.
+4914.94 And so one of the things that I,
+4917.03 I had a lot of fun with
+in writing the book,
+4918.96 is sort of exploring
+the neuroscience around
+4921.89 why truth-telling is important
+to leading a balanced life.
+4926.47 And we know like every religion,
+4928.31 since the beginning of time,
+is all about telling the truth.
+4930.3 Well why, right?
+4931.37 And there's really interesting
+neuroscience behind it
+4934.5 that suggests that when we tell the truth,
+4937.68 we actually potentially strengthen
+4939.9 our prefrontal cortical circuits,
+4942.58 and their connections to our limbic brain
+4944.8 and our reward brain.
+4946.09 And of course, these are the
+circuits that get disconnected
+4948.41 when we're in our addiction, right?
+4949.94 Our balance, in our reward
+pathway, our limbic brain,
+4952.58 our emotion brain, is doing one thing,
+4954.27 and our cortical circuits
+4955.82 are completely disengaged from that,
+4957.43 ignoring what's happening,
+4958.45 which is easy to do
+because it's reflexive.
+4960.44 We don't need to think about that balance
+4962.74 for the balance to be happening.
+4964.49 But we have to re-engage those circuits,
+4967.12 anticipate future consequences,
+4969.37 think through the drink, you know,
+4971.34 not just how am I going
+to feel now if I use,
+4974.05 but how am I going to feel
+tomorrow or six months from now?
+4976.78 And that telling the truth
+is in fact a way to do that,
+4980.47 to make these connections stronger.
+4982.39 And there I talk about
+some studies in my book
+4984.7 that kind of indirectly show that.
+4986.78 So I find that really fascinating,
+4988.12 plus just that like being
+open and honest with people
+4992.31 really does create very
+intimate connections,
+4996.61 and those intimate
+connections create dopamine.
+5000.45 So we were talking a little bit about
+5001.87 how you know a bunch of people
+5003.71 who need like intensity in their lives.
+5006.17 For me, I need a lot of intensity
+in my human connections.
+5011.11 Like I'm really not interested in,
+5013.13 and bored by and made anxious
+by, casual interactions.
+5019.41 But you know, like having this
+kind of discussion with you,
+5021.97 that's very intense and also
+intimate and self-disclosing,
+5026.36 is very rewarding for me.
+5027.87 So that's an important source of dopamine.
+5029.52 Thank God I became a psychiatrist.
+5031.079 - Yeah, absolutely.
+5032.31 - Like I can't disclose all my stuff,
+5033.86 but I am quite transparent
+with my patients,
+5035.9 which is a slightly unorthodox.
+5038.63 But, you know, when I think it's right,
+5040.11 I'm also transparent with them.
+5041.55 So that's, you know, that's
+a source of dopamine too,
+5044.01 when we're honest and we disclose.
+5046.69 You think people are going
+to run away from you,
+5048.4 if you tell them about all
+like your weird neuroses,
+5050.52 but really they don't.
+5051.88 What they're like is oh thank God,
+5053.2 I'm not the only one, right.
+5055.27 - What I love about, I love
+many things about your book.
+5057.79 I read it in one sweep.
+5059.33 - Oh thank you.
+5060.163 - And I was like wow.
+5064.29 I was pleasantly surprised,
+but I was like wow,
+5067.43 she's really opening up in this book,
+5069.53 from the very beginning.
+5071.73 And I don't want to give
+it away, but it's yeah,
+5074.81 you're very open where it's appropriate.
+5078.67 And also I think that this
+question about truth-telling,
+5084.25 I always think about like tell the truth,
+5087.69 be a hundred percent about the truth,
+5090.29 but there's also this element about
+5092.87 do you report previous lies, right?
+5097.53 What about prior behavior?
+5099.82 And I'm fascinated by this
+'cause to me telling the truth
+5102.49 has many facets, but the
+three sides of this thing
+5107.14 in my mind, are one is
+reporting everything accurately.
+5110.86 The other is what do you withhold,
+5112.59 what do you not withhold, right?
+5114.36 Because some people say tell the truth,
+5116.56 or at least don't lie.
+5117.8 That's sort of a-
+5119.25 - Lies of omission, right.
+5120.083 - Yeah, so lies of omission.
+5122.21 Lies of omission.
+5123.57 And then there's the, what I
+have to assume for most people,
+5128.07 is a small to enormous batch of things
+5131.49 that they lied about in the past,
+5133.68 that still thread into the future.
+5135.781 - Right.
+5136.614 - So how important is it for the addict,
+5138.68 or every person really, to,
+5141.51 'cause it sounds like
+cultivating the circuitry
+5143.3 between prefrontal cortex
+and the dopamine system
+5145.38 would be great for anybody.
+5147.01 Since we're all addicts,
+5148.12 - Right.
+- everyone should do it.
+5149.18 But in all seriousness,
+5150.72 it sounds like a good
+thing for everybody to do.
+5153.36 How much work needs to be
+done on all the priors,
+5158.68 all the stuff we've hidden?
+5162.23 I mean not me, but all the stuff
+5163.9 that everybody else has hidden.
+5167.13 - Yeah, so the, you know,
+5170.18 the steps of the 12-steps
+of Alcoholics Anonymous,
+5174.16 a good number of those steps
+are about that very thing.
+5177.66 The past, the ways that we've
+harmed people in the past.
+5180.92 And the fourth step is
+about making amends,
+5186.6 you know, by admitting the ways in which
+5189.14 that we've contributed to harming others.
+5193.64 And it is a really big piece of recovery.
+5196.57 So, you know, how important,
+so for people with addiction,
+5199.92 it's really, really important
+to go back and make amends.
+5203.16 And, you know, the key idea there is
+5207.96 you just go back and
+you apologize, you know,
+5210.26 and you don't have to get any
+particular kind of response,
+5213.91 or you don't need to be forgiven.
+5215.49 It's the act itself of apologizing
+5219.2 about the ways in which we've harmed
+5221.65 or lied to people in the past,
+5224.73 that is cathartic and renewing,
+5227.64 and allows us to kind of shed this skin
+5229.91 and be new in our lives and begin again.
+5232.59 Sort of absolved, you know,
+of past sins, so to speak.
+5237.45 So it is really important.
+5240.3 You know, are there situations
+5241.51 when it's maybe not a good idea,
+5243.14 because of that person or the nature?
+5246.26 Sure, you know, there
+are always going to be,
+5248.72 it doesn't have to be like, it's not,
+5250.13 we're talking about not
+like Kant's idea about
+5252.42 I'd never lie, robbers in your house.
+5255.21 You're a stowaway.
+5256.22 You can't lie even about that.
+5257.053 It's like no, there are
+probably situations where,
+5259.906 - Absolutely.
+- you know.
+5261.22 - For sake of other people's safety,
+5262.65 - Right, and-
+- children's safety, sure.
+5263.65 - Right, I mean there are,
+5265.13 you can think of a million scenarios.
+5267.279 But in general, you know,
+when we're taking stock,
+5271.54 because I don't know about you,
+5272.61 but I have a lot of regrets and guilt
+5275.09 about a lot of things in my life.
+5277.35 And they kind of haunt me, you know.
+5282.873 It means I'll have nightmares, right.
+5285.09 And I think that's true for most people.
+5286.607 I mean I occasionally will
+meet somebody who's like
+5288.753 I don't have any regrets
+in my life, I'm like wow.
+5291.31 Like I cannot relate to that at all.
+5295.768 So, you know, this idea of
+like catharsis and, well,
+5300.21 I mean, in the 12-steps it's telling God,
+5302.61 or your higher power,
+telling another human being,
+5305.3 the ways in which you've wronged others.
+5306.94 Considering your own character defects
+5308.87 and how those have contributed.
+5309.95 To me, that's a really important piece
+5311.58 and something that we don't do enough
+5313.59 in our current culture.
+5315.07 Especially in psychiatry, frankly,
+5316.56 where there's like a lot of
+5317.57 eternally empathizing with patients,
+5320.35 but not a whole lot of
+likes going well, you know,
+5322.5 actually you kind of messed that up.
+5324.32 Or like that was really
+bad on you, you know.
+5328.146 And in my work, I don't
+necessarily use that language,
+5330.58 but, you know, patients might say like
+5332.91 I really feel badly about,
+you know, this thing.
+5335.39 I'll be like yeah, I get it.
+5337.38 I understand that you feel.
+5339.14 - Well guilt is a-
+5340.248 - [Anna] Right.
+5341.081 - There's a circuit for that too.
+5341.98 - Right, and it's important, right,
+5344.39 and it's also important to recovery
+5347.55 and to not becoming addicted.
+5349.013 Experiencing a certain
+amount of appropriate shame
+5352.81 for things that we have
+done and, you know,
+5355.62 feeling the pain that comes with shame,
+5358.7 which is an incredibly
+painful emotion, right.
+5360.887 And I think that may be the
+one that we all try to avoid
+5363.08 more than any other,
+5364.37 is like that shame of not being
+liked or not being accepted
+5368.83 or not being celebrated.
+- Or the thing that we did
+5371.029 is really despicable.
+5372.94 - Right, it's really,
+yeah, like oh my God,
+5374.77 I did that horrible thing, right, right.
+5377.37 So, I mean, I've done horrible things
+5379.35 that I haven't gone back and
+said I did this horrible thing,
+5383.22 but I'm, maybe I've
+tried to pay it forward.
+5385.63 Like I've told my kids, you know,
+5387.07 when I was younger I
+did this horrible thing
+5389.42 and it still haunts me.
+5390.98 So if you're ever tempted to
+do something like what I did,
+5394.12 you might think about my situation.
+5396.01 So, you know, some kind of way.
+5397.82 But I think wrestling
+with that is important.
+5401.18 - I think it's a really
+important element to all this,
+5403.19 and there's not, I love that
+there's neuroscience being done
+5407.08 on truth-telling,
+5407.913 - Yeah.
+- and the value
+5408.81 of truth-telling.
+5409.643 - Yeah.
+- I think,
+5411.77 if I were to predict a new
+and truly exciting area
+5415.87 that people are going to
+be really curious about,
+5417.808 in this huge sphere we call neuroscience,
+5420.9 I hope they'll continue to do more work.
+5422.87 Also, I'm so glad to hear that's
+happening here at Stanford.
+5426.38 - No that's, the literature that I look at
+5430.04 isn't Stanford work, but there's work.
+5433.84 - Great.
+- It might be people
+5434.919 at Stanford.
+- Great,
+5435.752 regardless of where it's happening.
+5437.21 More of that and all the rest please.
+5440.931 I want to ask you about using
+drugs to treat drug addiction.
+5445.57 These days there's a growing interest,
+5447.61 or at least discussion about ibogaine.
+5450.06 People going down, going out of country,
+5452.08 because I think it's still
+illegal here, or is illegal here,
+5455.21 going out of country to, I dunno,
+5457.18 either inject it or smoke
+it or whatever it is.
+5461.0 Or people going and doing
+Ayahuasca journeys or MDMA,
+5464.9 which is still an illegal
+drug in this country,
+5467.52 but there are clinical trials.
+5468.6 There are people on this campus
+doing experimental studies.
+5471.78 I don't know of clinical trials,
+5472.85 but at Johns Hopkins there are
+clinical trials, et cetera.
+5476.09 So this is a vast area, right?
+5479.41 Different chemistries for different drugs
+5481.15 and different purposes.
+5482.19 But the rationale, as I understand it,
+5485.37 is take people who are in
+a pattern of addiction,
+5490.33 launch them into a experience
+5493.66 that's also chemical and extreme,
+5495.8 often of the extreme serotonin
+and or extreme dopamine type.
+5500.83 So MDMA,
+- Right.
+5501.663 - ecstasy for instance.
+5502.54 Tons of serotonin dumped,
+tons of dopamine dumped.
+5506.03 How neurotoxic, if neurotoxic,
+5507.93 debatable, et cetera, et cetera.
+5509.12 Not a topic for now.
+5511.42 But a lot.
+5512.91 And then somehow that extreme experience
+5515.41 wrapped inside of a
+supported network in there,
+5519.2 whether or not there's just someone there
+5521.03 or whether or not they're
+actively working through something
+5523.02 with the patient, is
+supposed to eject the person
+5527.58 into a life where drug use
+isn't as much of interest.
+5534.2 This violates, at a purely rational level,
+5537.97 this violates everything
+we've talked about
+5540.1 in terms of dopamine biology.
+5541.87 It would, if this arrangement
+is the way I described it,
+5546.771 cause more addiction, is
+anything but a dopamine fast,
+5550.18 it's a dopamine feast.
+5552.72 So we hear about successful
+transitions through this,
+5556.45 at least anecdotally, and
+maybe some clinical studies.
+5559.81 What is going on?
+5563.15 What is going on?
+5564.26 It doesn't make any sense to me.
+5568.526 Yeah.
+5569.359 - Yeah, so I think it's
+good that you're skeptical.
+5572.53 I think we all should be skeptical.
+5574.79 Having said that, there are
+clinical studies showing,
+5580.99 you know, and these are small studies
+5582.37 and they're short duration,
+small number of subjects,
+5585.87 but, you know, taking people for example,
+5587.54 who are addicted to alcohol,
+and then having them have this,
+5592.45 let's say a psychedelic experience
+5594.05 in a very controlled setting.
+5596.19 - So either, typically it's
+a high dose psilocybin,
+5598.71 or three dose, as I saw
+it for the MAP study
+5601.43 of MDMA.
+5603.0 - Right.
+- Of ecstasy.
+5603.833 Those are sort of the,
+seem to be the kind of,
+5605.727 - Yes, the typical, right.
+- the kind of bread and butter
+5607.19 of this kind of work.
+- Right, right.
+5608.55 But the thing to really
+keep in mind is that
+5611.12 this is completely interwoven
+with regular psychotherapy,
+5616.25 and that these are highly
+selected individuals.
+5619.369 - In clinical trials.
+5620.385 - Right, right.
+5621.218 And these are clinical-
+- we're referring to
+5622.115 legal clinical trials.
+5622.948 - Right, right.
+5623.781 And so, you know, I think the metaphor
+5627.006 that helps me think about this is
+5629.29 there are many ways to
+the top of the mountain,
+5631.51 and these are sort of
+like taking the gondola
+5634.2 instead of walking up.
+5636.02 It sort of, instead of doing like
+5638.18 a year of psychoanalysis
+5639.71 where you're sitting
+on the couch every week
+5641.46 reflecting on your life,
+5643.21 it's a condensed version of
+psychoanalysis or psychotherapy,
+5647.08 plus, you know, MDMA, which
+gets you there faster.
+5650.99 - And creates the intimacy,
+presumably, because of the-
+5653.59 - Well I think the main thing that happens
+5656.44 when it's beneficial, is
+it just allows the person
+5661.06 to get outside of their own
+head and look at their lives
+5666.3 on a much broader sweep,
+and to consider themselves
+5671.27 not mired in the quotidian
+sort of details of their life,
+5677.23 but rather as a human on
+the large planet Earth,
+5682.35 in the vast universe.
+5683.98 So I think it takes,
+it's like when it works,
+5687.93 it's a transformational experience
+5690.29 because it gives the person another lens
+5694.84 through which to view their lives,
+5698.18 which I think for some people
+is positive and powerful,
+5702.04 because they can come
+back from that and be like
+5704.49 oh my gosh, I care about my family,
+5708.37 and I don't, I want X, Y, or Z for them.
+5710.94 And I realize that my continuing to drink
+5713.583 is not going to, you know, achieve that.
+5715.41 So it's almost like a
+spiritual or values-based.
+5720.06 So I think it can be very
+powerful, but having said that,
+5723.43 I truly am quite skeptical
+because, you know,
+5727.49 addiction is a chronic
+relapsing and remitting problem.
+5730.16 It's hard for me to imagine
+5731.15 that there's something that
+works very quickly short-term,
+5734.7 that's going to work for a disease
+that's really long-lasting.
+5739.05 - Yeah, the two addicts I know that did
+5741.258 MDMA-assisted psychotherapy
+as part of this thing,
+5745.51 both got worse.
+5746.71 - Yeah.
+5748.27 - But the people I know who
+had severe trauma who did this,
+5752.65 who took this approach,
+seem to be doing better.
+5755.17 - Okay, interesting.
+- And so I,
+5757.86 I think that the discussion,
+as we hear it now,
+5760.59 is just sort of psychedelics,
+which is a huge category
+5763.76 that includes many different
+drugs and compounds
+5766.18 with different effects.
+5767.29 And we hear about trauma and
+addiction lumped together.
+5771.5 And I think that I'm a
+splitter, not a lumper,
+5774.92 as we say in science.
+5779.09 And I think it's going to be
+important for people to know
+5782.55 that this is definitely
+not a one-size fits all
+5786.89 kind of thing.
+5788.15 But it sounds like it
+may have some utility
+5790.2 under certain conditions.
+5791.71 - Yeah, I think so.
+5793.347 I'm trying to be very open-minded
+5795.38 about its potential utility
+for certain individuals.
+5798.48 But I can tell you in my clinical work,
+5800.45 what is a very concerning
+unintended consequence
+5803.99 of this narrative,
+5805.75 is I have a lot of people who
+are looking for some kind of
+5808.64 spiritual awakening who on their own,
+5811.07 not in the context of
+any kind of therapeutic,
+5813.47 psychological work, you know,
+5815.13 microdose or want to try
+psilocybin or MDMA with a friend
+5821.1 or wherever, so they can have
+this spiritual experience
+5823.77 that they can figure out their lives.
+5825.39 That's a disaster and
+almost never works out well.
+5829.28 And I've then had people who literally,
+5831.24 supposedly you can't get
+addicted to psychedelics because,
+5835.21 you know, something with the biochemistry
+5836.52 which I don't fully understand,
+5837.51 'cause it doesn't make any sense to me.
+5838.94 But I have patients clinically
+5840.41 who definitely are addicted to,
+5842.8 you know, MDMA, to micro-dosing.
+5844.87 So that's very concerning
+to me 'cause like, you know,
+5848.48 Pollan's "How to Change Your Mind",
+5852.07 I respect that work, but on
+the other hand, it's penetrated
+5855.4 the culture-
+- Michael Pollan's book.
+5856.65 - [Anna] Yeah, yeah.
+5857.483 - And I don't know him and
+so I don't have a problem
+5860.952 taking a stance.
+5863.25 So I'll just say my stance on that is
+5865.28 the narrative of popular authors
+5869.23 can expand and wick out so fast,
+5872.19 - Yes.
+5873.023 - that pretty soon people are essentially
+5874.41 taking their mental health
+into their own hands.
+5876.84 And I actually, I have great
+optimism for this business
+5880.97 of clinical use of
+psychedelics, including MDMA.
+5887.01 Matthew Johnson at Johns Hopkins
+5888.75 is doing fabulous work on this.
+5891.57 And there are others too, of course.
+5893.83 But those are controlled settings.
+5895.878 - Right.
+5896.711 - And the pharmacology is being tuned up.
+5898.04 And one thing that I think is coming.
+5900.54 There are several papers
+published recently
+5902.66 in great journals like nature
+and science, et cetera,
+5906.62 where there are scientists
+who are removing
+5910.15 the hallucinogenic
+components of these drugs
+5914.16 and finding that they still
+have the antidepressant effects.
+5918.893 - Interesting.
+- And so the experience
+5920.68 of a psychedelic,
+5922.57 and the long-term effects
+of the psychedelic,
+5925.04 might actually be dissociable.
+5927.51 And so, again I, and I'm
+always careful to say
+5930.52 I'm neither for something or against it.
+5933.34 I just think that treading
+carefully is what's important.
+5938.51 - I agree with you, and
+I can just tell you that
+5941.44 the downstream effect
+for the average person,
+5947.01 many of whom present in our clinic,
+5949.49 is that they've misconstrued the data
+5952.73 on the use of psychedelics
+for mental health conditions,
+5957.45 to this idea that they're safe,
+5959.46 or that anybody can take
+them in any circumstance
+5961.59 and have this kind of awakening.
+5963.47 And that's not what the data show, right?
+5966.54 The data are these highly
+controlled settings, you know,
+5970.451 carefully selected patients.
+5972.47 So that's my worry, you know.
+5974.7 - Sure.
+5975.533 And I'm going to be sitting
+down with Matthew Johnson
+5978.02 at some point, and we'll discuss this.
+5980.07 And I think that, ah,
+that care and that cocoon
+5985.088 of real clinical care, does seem to be
+5987.66 an important component.
+- Yes.
+5989.72 - Well I'm glad we could
+touch on it and, you know,
+5992.61 I'm sure I'll get a bunch of comments
+5993.86 telling me that, you know.
+5997.13 But I think it is
+important to explore things
+5999.14 from all sides, and that's what we do,
+6001.4 as scientists.
+- Yes.
+6002.25 - And if Michael Pollan wants
+to chat, we can do that too.
+6005.63 That's fine.
+6007.089 I very much enjoyed the book
+6007.922 actually.
+- Yes, yes.
+6008.89 - But I think that people run with ideas.
+6012.43 - That's right.
+6013.263 - They don't walk with them,
+6014.096 they sprint.
+- That's right, right.
+6015.523 Yeah.
+6016.625 - There are a couple other
+things I just want to touch on,
+6019.89 but they all relate to social media.
+6022.01 - [Anna] Okay.
+6022.843 - You were featured in
+"The Social Dilemma".
+6025.23 It was a powerful movie.
+6026.31 I think many people
+avoided seeing that movie
+6028.31 because it reflects back on us
+just how addicted we all are
+6032.16 and how manipulated we all are.
+6034.138 - [Anna] Yes.
+6034.971 - But it doesn't seem to
+have changed behavior much.
+6038.1 I have to say that the movie
+6040.01 changed my understanding
+and my perception,
+6042.54 but not my behavior too much.
+6046.46 If we look at addiction
+as a maladaptive thing,
+6048.68 something that's making our lives worse
+6050.69 or us less functional at
+work and in relationships,
+6054.9 I could imagine a version of social media
+6057.16 where it's making me more connected.
+6059.81 I mean this is a podcast after all.
+6060.817 - Yes, yes.
+- I post videos.
+6062.82 This will show up on YouTube
+6064.1 and elements of it on Instagram as well.
+6068.05 So much like sugar or other things,
+6072.42 I have to imagine that
+we need to regulate,
+6075.26 not necessarily eliminate, this behavior.
+6078.4 So I want to talk about
+what that looks like.
+6080.75 And I want to talk about
+what you've referred to
+6083.75 as this narcissistic preoccupation
+6086.94 that social media is creating.
+6088.8 That we are all far more
+keenly aware of how we look
+6093.57 and how we sound and how
+we are being perceived,
+6096.91 than we were 10 years ago.
+6099.912 - [Anna] Right.
+6100.745 - So first of all, social media,
+how addicting is it really?
+6106.04 And what is healthy social media behavior?
+6111.27 - So the first message I
+would want to get across
+6116.56 about social media, is
+that it really is a drug
+6119.66 and it's engineered to be a drug.
+6122.95 And it's based on, you know,
+potency, quantity, variety,
+6127.99 the bottomless polls, the likes,
+6130.21 the way that it's enumerated, all of that.
+6132.8 Which doesn't mean that we can't use it,
+6136.22 but we need to be very thoughtful
+about the way we use it,
+6139.5 just like we need to be thoughtful about
+6141.21 the way we use any drug.
+6144.431 And so that means with
+intention and in advance,
+6148.6 planning our use, right.
+6150.77 And trying to use it as
+a really awesome tool
+6155.65 to potentially connect with other people,
+6158.27 and not to be used by
+it or get lost in it.
+6163.16 And of course, you know,
+6164.42 people are going to come
+with different propensities
+6167.54 for addiction to any drug,
+6169.56 and that's true for social media too.
+6171.09 Some people will have no
+problem using it in moderation
+6174.75 or using it in a way that's adaptive.
+6176.44 And other people will
+immediately get sucked in.
+6180.34 And the key thing about
+getting addicted is
+6182.36 when it's happening, nobody
+who's getting addicted
+6185.33 thinks they're getting addicted, right.
+6186.55 Let's face it, it's only after
+the fact that we go woops,
+6190.0 you know, what was that about?
+6191.18 - Remember texting and driving,
+6192.67 there are all these books
+about texting and driving,
+6194.46 how terrible it was.
+6195.67 - Yeah.
+6196.503 - Even the governments
+have largely given up.
+6198.56 You see these billboards
+6200.2 - Terrifying.
+- like don't text and drive,
+6201.65 or any text can wait, or whatever.
+6203.09 Not worth dying for.
+6204.966 - Right, right.
+- But everybody's
+6205.799 texting and driving.
+6206.69 - Right and if you look at
+young people today, teenagers,
+6208.18 I mean they're basically
+cybernetically enhanced,
+6210.64 that the phone is there.
+6212.15 You know, it's like they're talking to you
+6213.83 and texting 12 friends at the same time,
+6216.36 and there's no stopping it.
+6217.95 I mean the genie is out of
+the bottle where, you know,
+6220.62 we're not going back.
+6221.61 - [Andrew] Right.
+6222.47 - So we do need to figure out, you know,
+6225.01 how to make this tool
+something that's, you know,
+6230.12 going to be good for us
+and not ultimately harmful.
+6232.95 And I don't have all the answers
+6235.22 by any stretch of the imagination,
+but I do think, you know,
+6238.93 some of the wisdom that we have learned
+6241.26 from using other drugs, also
+applies to social media.
+6245.22 Which is to say that we have to, again,
+6247.83 put barriers in place that allow us
+6250.52 to remain in control of our
+use, which means not too much,
+6254.44 you know, not too often, not too potent.
+6257.76 - Do you think in, going
+back to this idea of
+6259.9 the unit of the day being
+a good attractable unit,
+6263.46 a manageable unit of time for most people,
+6266.84 so you're saying in advance,
+so allocating two hours
+6269.78 in which you're going to
+allow yourself to have
+6273.31 free reign use of the phone
+6274.427 and all its apps and all its things,
+6275.97 or even more restricted
+than that, meaning okay,
+6279.91 I'm only going to allow
+myself 30 minutes a day
+6282.36 to post and comment, and then
+that's a closeout completely.
+6286.76 - Yeah, so I think it's,
+it depends on the person
+6289.21 and sort of a combination.
+6290.11 We talked earlier about, you know,
+6291.3 having an itch and
+scratching yourself at night.
+6293.57 We've gotten to a point with smartphones,
+6295.33 people are pulling them out
+6296.93 and they are utterly
+unconscious of doing so,
+6299.31 pulling them out, you know,
+a couple of texts, a couple.
+6302.06 They don't know
+6303.002 they're doing it!
+- I have a friend
+6303.835 who works in, delivers babies,
+6306.68 and many pregnant mothers
+6310.53 won't actually deliver
+without their phone in hand.
+6314.46 And this used to be the hand
+6315.77 that was connected to their spouse.
+6317.04 This may be a comment on
+spouses more than on phones.
+6320.97 But it sounds like it's a
+kind of a security blanket
+6327.0 of sorts.
+- Right, like a
+6327.833 transitional object, yeah.
+6329.16 - Actually that reminds me,
+you've referred to the phone,
+6333.7 I think it's the phone,
+6334.63 but maybe it's our online
+persona or ourselves,
+6338.59 as we've become sort of
+infantile in our need for,
+6341.923 it's like a baby and a bottle.
+6343.699 - Right, right.
+6344.532 - And so I do wonder if we have regressed,
+6346.78 and I do think we've
+regressed a bit in terms of
+6350.22 our online behavior.
+6351.9 Our inability to act like.
+6354.01 I always thought an adult
+6355.07 was somebody that can
+control their behavior.
+6356.35 - Yeah.
+- That's the difference
+6357.34 between a baby and an adult.
+6358.33 You don't have to be a
+developmental neurobiologist
+6359.95 for very long to understand
+6360.91 that a young organism
+can't control its behavior,
+6362.83 an older one can.
+6364.49 So to me, a mature organism,
+mature in years organism
+6368.52 that can't control its
+behavior, is a baby.
+6370.73 It's an immature version of itself.
+6373.46 And there's neuroscience
+to support that statement.
+6377.49 I look at my own behavior
+with the phone sometimes
+6379.79 and I think, I'm a grown man.
+6383.15 Like what is the problem here, right?
+6386.62 You know, I don't eat baby food,
+6388.27 but I'm acting like a baby
+with the phone, all right,
+6391.843 in the sense that I'm
+reflexively picking it up,
+6395.57 I'm not being intentioned
+and deliberate with it.
+6399.57 Do I need a full 30 days, Anna?
+6401.6 - So yes, so-
+6403.14 - 30 days away from my phone?
+6404.811 - As you know, that's my recommend,
+6405.644 the full 30 days to reset.
+6406.928 If you're severely addicted,
+I recommend the 30 days.
+6410.94 But if you're just a little
+bit addicted, like most of us,
+6414.05 you probably don't need 30 days.
+6415.32 In fact, a single day, not
+only would be challenging,
+6419.01 but probably may be sufficient.
+6422.25 - My phone is off for
+substantial segments of the day.
+6425.37 - Okay, that's great.
+6426.203 - And it drives other people crazy.
+6428.01 People expect me to respond.
+6431.27 But I don't care.
+6433.54 - Yeah, right, right.
+- I really don't.
+6434.373 And I actually take a
+little bit of pleasure
+6436.549 in the fact that, well,
+6438.04 because I think the
+point I'm trying to make
+6439.87 is the right one, which is that
+it's not just right for me,
+6442.09 but like why, I don't see
+a clause on text messages
+6446.96 or emails that say must
+be responded to within
+6450.88 X amount of time or else, or else.
+6454.39 So I take the liberty of
+replying when I'm able to.
+6458.21 - Yeah, that's right.
+- Or want to.
+6460.317 - Right, which touches on
+one of the big challenges
+6463.3 about social media, is
+that as more and more of us
+6466.69 are spending more and
+more time on social media,
+6469.25 we're divesting our libidinous
+energies, et cetera,
+6473.18 from real-life interactions.
+6475.31 So that means even when we want to choose
+6478.18 to not be online connecting,
+6480.52 we go outside and there's
+no there there, right.
+6482.93 There's nobody else there.
+6484.76 So I think our collective challenge,
+6487.87 and it should be our mission,
+6490.13 is to make sure that we are preserving
+6493.36 and maintaining offline ways
+to connect with each other.
+6498.53 'Cause if we don't do that then
+we'll be very lonely, right,
+6501.6 if we were not online.
+6503.96 But if you have a tribe of
+folks that you can be with,
+6507.97 none of whom are on their phones
+6510.57 while you're together for
+that discreet amount of time,
+6512.95 then it's wonderful and liberating
+and nobody's distracted.
+6516.27 And I think that's really the key.
+6518.98 And I think young people are
+figuring that out, you know.
+6521.9 They're trying to create these
+spaces or try to, let's say,
+6524.86 instead of doing a
+dopamine fast by yourself,
+6527.25 do it with your friends, right.
+6529.11 Then there's the FOMO is
+less, the fear of missing out
+6531.77 because, oh you're all doing
+the dopamine fast together.
+6534.64 So these are some of the tricks
+that we can come up with.
+6537.882 - I like that.
+- Yeah,
+6538.973 okay good.
+- I like that.
+6539.806 I don't allow, I have a home
+gym and I love working out.
+6542.22 I just enjoy it and always have.
+6544.55 And I don't allow my
+phone in my gym anymore.
+6548.012 - Right.
+6548.845 - And I live in an area where
+I don't get any reception,
+6551.18 like two meters outside my door.
+6553.07 So all my dog walks now are just,
+6554.947 and they were boring as hell.
+6556.61 - Yes.
+- I also have a bulldog,
+6557.52 he doesn't like to walk.
+6558.353 It's really slow.
+6560.8 And it was so boring for a while
+6562.58 - Yes.
+- because I was so used
+6563.85 to taking calls
+6565.04 while I walk,
+- Right.
+6565.914 - and it's super efficient when I do that.
+6568.63 The walks now are some of
+my favorite part of the day,
+6571.61 - Yeah, right.
+- because, and if the phone,
+6574.11 if I were to get a call on one of those
+6575.67 or they brought reception of the areas,
+6577.06 I would be very dismayed.
+- Yeah, right.
+6579.499 - So I can attest to this,
+6580.53 and I don't think I'm a phone addict,
+6583.48 but I do put work into
+regulating my phone behavior.
+6586.85 - Yeah, so this is the key.
+6588.13 You have to, with intention,
+6590.25 prior to being in that
+situation, think of literal,
+6593.91 physical and metacognitive barriers
+6595.89 that you can put between
+yourself and your phone,
+6599.16 or whatever your drug is,
+6600.91 to create these intentional spaces
+6603.43 where you're not constantly
+interrupting yourself,
+6606.53 essentially, and distracting yourself,
+6608.06 because I really do think,
+you know, I think we talked
+6610.62 just before we started with
+the interview, you know,
+6614.34 we're losing the ability to
+have a sustained thought, right?
+6618.86 I mean we get so far and then,
+6621.34 then you get to that point in the thought
+6623.22 where it's a little bit hard
+to know what's coming next.
+6626.64 And it's very easy to check
+your phone or check your email,
+6630.91 or look something up on the internet.
+6634.53 And then you never get that opportunity
+6636.96 to finish that thought,
+6638.63 which is really the
+source of creative energy
+6641.32 and an original thought, right.
+6642.75 You're not just reacting to
+6644.48 what's coming at you.
+- Right, and something
+6645.648 that could contribute to the world.
+6646.67 - That's right.
+6647.503 - I'm a big believer that
+you're either consuming
+6651.56 or you are creating.
+6653.939 And there is, I should
+mention, it's important,
+6656.84 I do believe in neutral time.
+6658.19 I think sleep is great.
+6659.37 I'm a big proponent of sleep
+6660.74 and I've talked a lot
+about it on the podcast,
+6662.21 I care a lot about sleep.
+6664.81 And not just for sake of performance.
+6666.07 I actually just really like sleep.
+6669.02 I think that being a constant consumer
+6672.64 of visual information and
+information of all kinds,
+6675.93 can be a problem.
+6677.193 But there's some really
+great sources of information
+6679.62 on the internet.
+- Yes.
+6680.49 - And I certainly benefit
+from the fact that
+6684.78 those channels exist.
+6687.32 Narcissistic pre-occupation.
+6690.17 Am I a narcissist?
+6692.14 - You know, first of all, there's healthy-
+6694.55 - Or is the fact that I asked,
+does that take me out of,
+6696.92 would a narcissist
+never ask that question?
+6698.59 - Oh yes, a highly
+sophisticated narcissist
+6700.95 - Oh I see.
+- would know to do that.
+6702.011 - Well I'm not very sophisticated.
+6704.82 - So there's healthy narcissism,
+6706.98 which means that we all
+invest our personal energies
+6710.39 into things that we care about.
+6712.29 And if our competence in
+that arena is threatened,
+6715.24 we would all experience
+a narcissistic injury,
+6717.34 and that's normal and healthy.
+6720.344 But we are living in a
+narcissistic culture,
+6724.37 I mean that's not news,
+6725.64 this preoccupation with
+individual achievement
+6728.87 and individual self-worth and
+individual self-confidence.
+6732.87 And I think all of that is
+just fueled by social media,
+6737.89 where we're not just seeing ourselves,
+6739.81 but we're seeing people's
+reactions to ourselves,
+6741.92 and every single, you know,
+thing we say or do, you know,
+6744.78 we get likes and this and that.
+6746.84 It's really insidious and
+it contributes, I think,
+6750.16 ultimately to a lot of personal shame,
+6753.12 because we're not really
+meant to be individuals
+6756.78 bouncing around in the universe.
+6758.39 We're social animals.
+6760.01 And we're probably generally happiest,
+6763.0 even for natural contrarians among us,
+6765.72 when we're part of a tribe, right.
+6768.22 And if we do too much to
+kind of separate ourselves
+6771.33 from that tribe,
+6773.52 I think that the brain's natural
+6776.43 and instinctive corrective
+mechanism against that
+6779.17 is self-loathing and shame.
+6781.45 So, you know, it's so ironic
+6783.78 because the culture tells
+us if we just achieve more,
+6787.54 we'll like ourselves more.
+6788.82 But the truth is actually the opposite.
+6791.23 That I think when people
+get these pinnacles
+6794.04 of personal achievement,
+6795.692 you know, you have things
+like the imposter syndrome
+6797.74 or whatever, you know.
+6798.77 - Or you just, you know, we're at Stanford
+6801.39 after a lot of high achievers.
+6802.65 - Right.
+- Right.
+6803.87 Some phenomenal, amazing
+people like yourself
+6806.69 and other colleagues of mine
+that just, I'm always in awe.
+6809.32 Like it's just amazing, like
+the mean is shifted so high.
+6812.26 And also people who have
+amazing paths to get here,
+6815.8 coming from very little
+and accomplishing so much.
+6818.5 But it's also the pressure,
+6820.89 - Yeah.
+- right.
+6822.027 You know, the way that this
+career was described to me
+6825.23 the day I got my job, was
+one colleague of mine,
+6827.93 the late Ben Barres said,
+welcome to schizophrenia
+6830.53 'cause you're never going to
+be able to complete anything
+6832.83 without getting interrupted.
+6833.99 That was partially true,
+although I've created buffers.
+6836.36 And the other one, very
+successful scientist,
+6840.0 member of the National
+Academy, et cetera, said to me,
+6842.56 you know, just remember, it's pinball.
+6845.3 You never win.
+6846.8 The best you can do is just keep playing.
+6849.01 - Yes, right.
+- And I thought wow, okay.
+6853.21 Okay.
+6854.043 And then you just go.
+6855.232 - Right.
+- But I think that
+6857.27 as we achieve more, not
+just academics of course,
+6859.73 but as anyone achieves more,
+6861.73 there's the relishing
+in the accomplishment.
+6864.57 There's often the desire for more,
+6866.81 but there's also the pressure of,
+6868.62 well now I have to do this
+for the next 30 years,
+6871.29 even though I love it.
+6872.123 It's the pressure of, well,
+if the mountain is this high,
+6874.76 then how do I get here and here and here,
+6877.645 and then you start shoveling more dirt on
+6878.68 so you can keep climbing.
+6879.513 And it's a lot of work.
+6880.67 - [Anna] Yes.
+6881.503 - And I think that the
+perception of success is that
+6885.33 there's a roar of the
+crowd and you cruise.
+6888.13 You don't cruise.
+6889.35 They just give you more to do.
+6890.45 - Right.
+- Or you give yourself
+6891.47 more to do.
+6892.62 - Well what I think is, at
+least in my life experience,
+6896.66 and I've heard this from other
+people as well, you know,
+6899.62 it's that prize that we're going for,
+6903.05 that if we get it is so unsatisfying.
+6907.74 And it's the prize that we never imagined
+6911.1 that we kind of go, well,
+how did that happen,
+6913.97 but gee, you know, that feels good.
+6916.6 And so I'm very, what's the-
+6918.812 - It's like a mirage
+6919.756 - Yeah.
+- in the one case.
+6920.89 - Yeah.
+6925.29 - It's almost like dopamine
+can create these mirages.
+6927.751 - Yes.
+6928.584 - That there's some place
+6930.337 there.
+- That's right.
+6931.17 And if I just, it's that pot of gold.
+6932.826 If I just-
+- Constant dopamine.
+6934.339 - Right, right,
+6935.39 that's right.
+- Constant dopamine.
+6936.97 - And I think, you know,
+this really, I think,
+6939.25 is related to our discussion earlier
+6941.93 about this taking it one day at time,
+6943.51 or paying attention to that, you know,
+6945.89 24-hour period in your environment.
+6948.61 I am absolutely fascinated
+6950.29 by the ways in which we accumulate
+success, when we do that,
+6956.23 totally independent of
+the desire for success.
+6960.77 It's really process-oriented.
+6963.0 It's like, where am I today?
+6966.53 How can I make today a
+good and meaningful day,
+6969.65 a little bit better,
+6971.34 or as good as some other days I've had?
+6974.78 Constantly tweaking and experimenting
+6976.97 with this experiment that
+we call our human existence.
+6981.67 And when we do that in
+a way that's authentic
+6985.52 and paying attention and value-driven,
+6988.92 whatever our, you know,
+values are informed by,
+6992.46 it is very, very interesting
+6993.91 how those days again
+accumulate, and you find, well,
+6997.443 I guess I contributed
+something of value there,
+7000.03 but I wasn't trying to do that.
+7002.69 You know, I think that's really,
+7004.66 I mean, what I'm so amazed
+by is like, you know,
+7007.1 20 years ago when I went
+to Stanford Medical School,
+7008.94 or 25 years ago, you know, I just,
+7012.46 I was happy to just be a good doctor.
+7015.23 I was like, I guess I'm just
+going to try to figure out
+7018.03 how to be a good doctor,
+I'm here to learn that.
+7019.75 And now I see these medical
+students, and they're wonderful.
+7022.13 They're brilliant
+7022.963 and they're
+- They are.
+7024.673 - well-intentioned, all that.
+7025.506 But they're like how can I, you know,
+7027.89 write the great American novel,
+do my startup, go to Africa,
+7033.11 apply for that grant?
+7034.23 You know, it's like, really,
+7035.52 I was just trying to
+learn how to be a doctor.
+7037.72 And it's, as you say, it's
+a lot of pressure on them.
+7040.7 And it's also kind of a weird leapfrogging
+7044.65 of the real way to accomplish something.
+7048.72 - Right.
+- Which isn't about like
+7050.88 oh how can I accomplish something.
+7052.01 It's like, what can I do today
+that would be of service.
+7056.36 Right?
+7057.193 And then finding that of trying
+to be of service, you know,
+7061.1 and not really going for recognition,
+7063.38 can sometimes lead to
+what people call success,
+7066.21 although that wasn't
+what you were aiming for.
+7067.9 - And it's all the more beautiful
+7069.27 when it's not what you're aiming for.
+7070.57 - Oh so much better, so much better.
+7072.6 - Yeah, I'm a big
+believer that when one can
+7076.76 align their compulsion
+with some greater good.
+7080.48 - Yes, right.
+- A service to humanity
+7082.54 or the planet or animals, whatever it is,
+7086.346 that's where the really
+good stuff emerges.
+7089.76 Because there's a lot
+of reciprocity there.
+7091.73 The world starts to,
+you're supporting the world
+7094.8 and then it starts to support you in a way
+7096.76 that feels very fluid.
+- And it comes back.
+7098.85 Right, and I mean that speaks to you
+7100.12 like your generosity to
+me, vis-a-vis my book.
+7104.32 And I have to say-
+7105.153 - Well, I love the book.
+7106.18 - I know, it's-
+7107.013 - There's like, we're not
+in a business deal folks.
+7108.88 It's just purely that I heard
+Anna lecture in my course,
+7111.71 I wanted to learn more about dopamine.
+7113.18 She taught me,
+7114.013 I asked her if she would
+come on the podcast.
+7115.07 Turned out she wrote this amazing book.
+7116.77 She sent me an advanced copy of the book.
+7118.87 I read it in one sweep, it's incredible.
+7121.18 And I love it.
+7122.013 So just like the eight
+year old version of me,
+7125.29 now the 45 version of myself,
+7128.26 I can't stop blabbing
+about the things I love.
+7130.51 - Well it's awesome, but I have to say,
+7132.57 I have been surprised by your generosity.
+7136.74 It's not something I've
+encountered frequently at Stanford,
+7142.01 which is a wonderful place.
+7143.17 But there is a general
+sense that if I give away
+7150.29 to somebody else, I've lost something,
+7156.06 which is not the right
+way to think about it.
+7158.35 Not how you are, and also
+not how the world works,
+7161.63 'cause when we give away to other people,
+7164.23 we get back so much more.
+7166.59 But it takes a long time
+7169.297 and it might not come through that path.
+7171.97 - I never think about reciprocity.
+7174.97 But I was weaned by good advisers.
+7178.83 - That's very nice,
+7179.83 - Yeah.
+- yeah.
+7180.663 - I think it just sort
+of got drilled into me
+7181.79 that the more you give, the
+better your immediate life is.
+7185.613 - Yes, yeah.
+7186.446 - And I also don't have a
+long-term vision, you know.
+7190.69 I just, I'm just excited about the book.
+7192.86 I'm excited that people are learning about
+7195.72 the brain and dopamine.
+7197.48 I have to admit,
+7198.79 having grown up in
+neuroscience essentially,
+7200.93 I did not understand
+that pleasure and pain
+7203.03 were orchestrated the way that they are.
+7205.38 I'm very mindful of it now.
+7207.23 - Oh good.
+7208.063 - And it's changed a
+number of my behaviors.
+7210.75 I know a number of people
+are going to have questions
+7212.65 and want to get in contact with you.
+7214.28 You are not on social media.
+7216.23 - That's correct, yes.
+7217.29 - You are true to your ideology.
+7220.47 That's great.
+7221.777 - And the reason for that is just,
+7222.97 I wouldn't be able to control myself.
+7225.12 I mean, that really would be my drug.
+7226.95 People are my drug, intimacy is my drug,
+7229.74 and I wouldn't be able to manage it.
+7231.93 And so just, it was just easier
+for me to not do it at all,
+7235.5 rather than try to moderate it.
+7237.033 - Well the book, as you mentioned before,
+7239.61 and as I can attest to, is
+it has a certain intimacy.
+7242.3 People get to know you through the book.
+7243.81 So definitely check out the book.
+7246.29 If you have questions
+about the book, et cetera,
+7248.83 you're welcome to send them my way.
+7250.44 I will buffer you from
+all those questions.
+7252.53 I'll filter them.
+7255.15 Anna, Dr. Lembke, I should
+be formal, forgive me,
+7258.41 I've been referring to you
+7259.581 - No no, that's fine.
+- as Anna
+7260.565 the whole way through,
+'cause we're colleagues,
+7261.53 but thank you so much for
+sharing this information.
+7264.63 And I know I learned a ton.
+7266.86 and I know everyone else is
+going to learn a lot more
+7269.25 about addiction and the
+good side of dopamine.
+7272.25 - That's right.
+7273.47 Thank you for having me.
+7274.463 It's been really, really
+great to talk with you.
+7277.263 - Great, thank you.
+7278.61 Thank you for joining me for my discussion
+7280.15 with Dr. Anna Lembke.
+7281.51 I hope you enjoyed it as much as I did.
+7283.81 Please be sure to check out her new book,
+7286.117 "Dopamine Nation, Finding Balance
+in the Age of Indulgence".
+7289.52 You can pre-order it on Amazon
+7291.45 or any places where books are sold.
+7293.51 It's an absolutely
+fascinating and engaging read,
+7296.33 all about addiction and dopamine.
+7298.83 If you're learning from, and
+or enjoying this podcast,
+7301.56 please follow us on YouTube
+7302.98 by subscribing to the
+Huberman Lab channel.
+7305.48 In addition, you can
+subscribe to the podcast
+7308.06 on Apple and Spotify,
+7310.17 and on Apple you have the
+opportunity to leave us
+7312.36 up to a five star review.
+7314.22 If you have comments or suggestions
+7316.05 for topics for future podcasts,
+7318.0 please put those in the comments section
+7320.2 below this episode on YouTube.
+7322.86 In addition, we have a Patreon.
+7324.867 That's patreon.com/andrewhuberman.
+7327.63 And there you can support us
+at any level that you like.
+7330.89 Please also check out our sponsors
+7332.49 that we mentioned at the
+beginning of the episode.
+7334.88 That's a terrific way
+to support our podcast
+7336.88 and our ability to continue to bring you
+7338.78 zero cost to consumer
+information about science
+7341.41 and science-related tools.
+7343.35 And last but not least,
+7345.1 thank you for your interest in science.
+7346.6 [upbeat guitar music]

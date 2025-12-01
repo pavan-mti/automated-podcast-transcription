@@ -1,0 +1,4060 @@
+0.0 - Welcome to the Huberman Lab Podcast,
+2.072 [upbeat music]
+where we discuss science,
+3.73 and science based tools for everyday life.
+9.37 I'm Andrew Huberman,
+10.55 and I'm a professor of
+neurobiology and ophthalmology,
+13.34 at Stanford School of Medicine.
+15.21 Today, my guest is Dr. David Spiegel.
+17.67 Dr. Spiegel is the associate
+chair of psychiatry,
+20.21 and behavioral neurosciences,
+21.31 at Stanford University School of Medicine.
+23.51 He is also the director,
+24.84 of the Stanford Center
+on Stress and Health.
+27.66 Dr. Spiegel is both a
+researcher and a clinician,
+30.31 meaning he runs a laboratory
+that studies the brain,
+33.66 and the body.
+34.72 And neural mechanisms of how
+the brain and body interact.
+37.94 And he sees patients as a
+psychiatrist at Stanford.
+41.7 His work is incredibly unique,
+43.51 in that it bridges mind and body,
+45.36 but it also has a particular focus
+47.41 on the clinical applications of hypnosis.
+50.11 As you'll learn today,
+50.943 hypnosis is a unique brain state,
+53.31 in which neuroplasticity,
+54.8 the brain's ability to change
+in response to experience,
+57.57 may be heightened and indeed
+the use of clinical hypnosis,
+61.57 by Dr. Spiegel and
+colleagues has been shown
+63.84 to improve symptoms of stress,
+65.97 chronic anxiety, chronic pain
+and various other illnesses,
+69.77 including many psychiatric illnesses
+71.54 and even outcomes in cancer.
+73.49 Today, we discuss hypnosis in
+the context of what's called,
+76.25 self-hypnosis to distinguish
+it from stage hypnosis.
+80.21 Many of you are probably
+familiar with stage hypnosis,
+82.61 which is really about a
+hypnotist getting a person
+85.29 to do things they would not otherwise do,
+88.49 in contrast, clinical hypnosis,
+91.09 and the use of hypnosis for the treatment
+93.09 of various ailments of mind
+and body is vastly different.
+96.45 It involves getting people
+to change their brain state
+99.71 and to use that brain state as a portal
+102.1 to make adjustments in
+their brain and body,
+104.95 and other aspects of their
+biology and psychology
+107.11 that benefit them.
+108.39 And it's been shown over and over again,
+110.34 in studies by Dr. Spiegel and colleagues
+112.57 that those changes can
+occur extremely quickly.
+115.58 Now, not everybody can be
+hypnotized as readily as the next.
+118.74 And so today we also
+discuss a simple test,
+121.34 developed by Dr. Spiegel.
+123.01 The it can help you determine,
+123.97 whether or not you have a
+high, medium or low degree,
+126.84 of what we call hypnotizability.
+129.55 Dr. Spiegel is truly
+an expert in this area.
+131.68 He has published over
+480 journal articles,
+134.76 170 book chapters on hypnosis,
+137.95 and on things like psychosocial oncology,
+140.9 which is the interaction of mind and body
+142.63 in the treatment of cancer
+and cancer outcomes,
+145.07 on stress physiology, trauma
+147.07 and other aspects of psychotherapy.
+148.87 He's published 13 books.
+150.72 So, he's truly the world expert
+152.78 in hypnosis and clinical
+applications of hypnosis
+155.61 for mind and body.
+156.7 I'm certain that in
+listening to today's episode,
+158.84 you're going to learn a tremendous amount
+160.93 about how the brain and body interact,
+163.13 about various treatments
+164.62 for all sorts of common
+ailments of mind and body.
+167.67 And you are going to get access to tools,
+169.56 in particular, a tool that
+was developed by Dr. Spiegel,
+172.6 which is the Reveri app, R-E-V-E-R-I,
+176.1 the Reveri app is currently
+only available for Apple,
+178.73 but will soon also be
+available for Android.
+181.64 It does carry a nominal cost,
+184.0 but there is a seven day free trial.
+186.01 If you'd like to try it,
+186.85 we're providing a link in the show notes.
+188.96 The Reveri app is special,
+190.37 in that it is based on clinical studies
+192.69 and research done in the
+Spiegel lab at Stanford.
+195.86 So, unlike a lot of
+hypnosis apps out there
+198.16 and resources for hypnosis,
+199.68 it was developed with
+clinical treatments in mind.
+201.98 Today, we also discuss
+the use of breathwork
+204.46 and I'm very fortunate that
+my research lab at Stanford,
+207.11 has been collaborating very
+closely with Dr. Spiegel
+209.64 in testing and developing
+specific breathwork protocols
+212.97 to adjust mind and body
+for things like anxiety,
+215.6 improving mood and improving sleep.
+217.69 Based on his incredible
+and unique expertise,
+220.22 and the clarity with which,
+221.51 Dr. Spiegel communicates information.
+223.62 I anticipate that you will
+really enjoy today's episode
+226.29 and that you'll come away from it,
+227.71 with a lot of actionable tools.
+230.01 Some of you might be curious,
+231.12 what a clinical hypnosis
+session looks like.
+234.12 And for that reason, we had
+Dr. Spiegel hypnotize me.
+237.71 A clip of that hypnosis session,
+239.39 is going to be posted to the
+Huberman Lab Clips channel,
+241.62 which is available on YouTube.
+243.39 Before we begin, I'd like to
+emphasize that this podcast
+246.07 is separate from my teaching
+and research roles at Stanford.
+248.91 It is however, part of
+my desire and effort
+250.91 to bring zero cost to consumer
+information about science
+253.53 and science related tools
+to the general public,
+256.34 in keeping with that theme,
+257.44 I'd like to thank the
+sponsors of today's podcast.
+260.38 Our first sponsor is Athletic Greens.
+262.72 Athletic Greens is an all-in-one,
+264.32 vitamin, mineral, probiotic drink.
+266.69 I've been taking Athletic
+Greens since 2012.
+269.18 So, I'm delighted that they're
+sponsoring the podcast.
+271.92 The reason I started
+taking Athletic Greens
+273.85 and the reason I still
+take Athletic Greens,
+275.37 once or twice a day,
+276.65 is that it covers all of my foundational,
+278.43 vitamin, mineral, probiotic needs.
+280.88 There is now ample evidence
+282.1 that probiotics can be very helpful
+283.85 for supporting what is
+called the gut microbiome.
+286.83 The gut microbiome is an
+aspect of our biology in which,
+289.64 little gut microbiota live all
+along our digestive pathway
+293.75 and help support various
+aspects of our biology,
+296.95 including our immune system,
+our metabolic system,
+300.2 our hormone or endocrine system,
+302.03 as well as what's called
+the gut brain access,
+304.51 which is literally
+communication between the gut
+306.99 and the brain to support things like mood,
+309.1 motivation and various other
+aspects of brain health.
+313.06 With Athletic Greens, I get the probiotics
+315.23 that I need to support
+a healthy gut microbiome
+317.79 and the vitamins and minerals tap off,
+319.71 any deficiencies I might have,
+321.43 based on lack of certain foods
+323.81 and lack of certain nutrients in my diet.
+325.89 If you'd like to try Athletic Greens,
+327.22 you can go to athleticgreens.com/huberman
+329.82 to claim a special offer.
+331.28 They give you five free travel packs,
+333.24 plus a year supply of vitamin D3 K2.
+336.24 There's a lot of evidence
+now that vitamin D3
+339.0 is critically important
+for various aspects
+341.08 of immediate and long term health.
+342.69 And while many people
+get enough vitamin D3,
+344.96 many people do not.
+346.23 So, the year supply of vitamin D3,
+348.01 ought to be very useful for many people,
+349.92 and K2 has been shown to be important for,
+352.2 calcium regulation, various
+aspects of metabolic health
+355.04 and so forth.
+355.873 So again, if you'd like
+to try Athletic Greens
+357.81 and get that special offer
+of the five free travel packs
+360.12 and a year supply of vitamin D3 K2,
+362.2 go to athleticgreens.com/huberman
+365.07 Today's episode is also
+brought to us by Thesis.
+367.64 Thesis makes custom nootropics,
+369.823 a nootropic is a smart drug.
+372.1 And personally, I'm not a big fan
+373.93 of the concept of a smart drug.
+375.71 At least not the way that
+most people talk about,
+377.96 smart drugs or nootropics,
+379.78 for the following reason,
+381.83 being smart involves various things.
+384.02 There is creativity, there's focus,
+386.01 there's task switching and so on.
+388.0 And each one of those
+involves different operations
+390.3 in the brain, different neural circuits,
+391.77 different neurochemicals
+have to be deployed,
+394.29 in order for us to, for
+instance, be very focused
+396.83 or for us to be very creative
+398.53 or for us to be able
+to switch tasks easily.
+401.81 Thesis understands this
+and for that reason,
+404.54 they've developed custom nootropics,
+406.49 that are aimed at getting
+your brain and body
+409.0 into particular states for
+particular types of work
+412.79 or physical activity.
+414.37 In order to accomplish that,
+415.52 they created unique blends
+of high quality ingredients.
+418.13 And each of those blends is designed
+419.9 to get your brain and body
+into a particular mode,
+422.09 such as focus, clarity or motivation.
+424.68 I've been using Thesis nootropics
+for over six months now.
+427.74 And I have to say it's
+been a total game changer
+429.78 and very unique from
+the experience of using,
+432.53 sort of what I call, catchall nootropics.
+434.55 So with Thesis, it's really directed
+436.32 toward particular brain-body states.
+438.41 I should also mention
+439.243 that they tailor those
+custom blends to you.
+441.54 So, by taking a quiz on their site,
+443.36 they will tailor the blend to
+you and your specific needs
+445.7 and the things you don't want.
+447.06 So, if you want to try your own,
+448.15 personalized nootropics starter kit,
+449.66 you can go online to
+takethesis.com/huberman
+453.3 you'll take a three minute quiz
+454.54 and thesis will send you
+four different formulas
+456.58 to try in your first month.
+457.82 And then based on the outcomes with those,
+459.81 they can update your formulations for you.
+461.93 That's takethesis.com/huberman
+463.95 and use the code Huberman at checkout,
+465.59 to get 10% off your first box.
+467.55 Today's episode is also
+brought to us by ROKA.
+470.2 ROKA makes eyeglasses and sunglasses
+471.87 that I believe are of the utmost quality.
+474.03 The company was found by,
+475.01 two All-American Swimmers from Stanford
+476.73 and everything about the design
+478.11 of ROKA eyeglasses and sunglasses,
+480.14 was created with performance in mind.
+482.66 There are a number of things about,
+483.57 ROKA sunglasses and eyeglasses
+that I particularly like,
+486.43 first of all, they're
+extremely lightweight.
+488.41 You basically forget
+that you're wearing them.
+490.17 Second of all, you can wear them for work,
+492.26 for going out to dinner, et cetera.
+493.74 They have great aesthetics,
+so you can wear them anywhere,
+495.87 but also for exercise.
+497.53 You can wear them when running or cycling,
+499.36 and even if you get sweaty,
+500.81 they're designed so that they
+don't slip off your face.
+503.09 Another terrific feature of
+ROKA eyeglasses and sunglasses,
+505.9 is that they were designed
+507.01 with the biology of the
+visual system in mind.
+509.77 We all have the experience
+of being in a shaded area
+511.9 and then going to a bright area,
+513.03 it takes some time for your
+eyes to adjust or to adapt.
+516.13 Many sunglasses make it hard to see
+518.09 as you move from one
+environment to the next
+519.89 and therefore, you have to take
+on and off your sunglasses,
+522.29 with ROKA sunglasses, you
+don't have to do that.
+524.33 You don't even notice the transitions
+525.65 between those bright areas
+and those dimer areas.
+527.8 So, you can wear them anywhere, anytime.
+529.46 And again, most of the time,
+530.3 you don't even realize
+that they're on your face.
+532.35 If you'd like to try ROKA
+eyeglasses and sunglasses,
+534.94 go to roka.com, that's roka.com
+538.02 and enter the code "huberman"
+539.54 to save 20% off your first order.
+541.47 Again, that's ROKA, roka.com
+543.95 and enter the code "huberman" at checkout.
+546.3 And now, for my discussion
+with Dr. David Spiegel,
+549.27 David, thank you so much for being here.
+551.2 - Andrew, my pleasure.
+553.28 - Can you tell us, what is hypnosis?
+558.56 - Hypnosis is a state of
+highly focused attention.
+561.92 It's something like looking
+563.05 through the telephoto lens
+of a camera in consciousness,
+566.12 what you see, you see with great detail,
+567.94 but devoid of context.
+571.21 If you've had the experience
+572.3 of getting so caught up in a good movie,
+573.84 that you forget you're watching a movie
+575.42 and a enter the imaginary world.
+576.77 You're part of the movie,
+not part of the audience,
+578.86 you're experiencing it,
+you're not evaluating it.
+581.84 That's a hypnotic like experience
+583.52 that many people have
+in their everyday lives.
+586.25 - So, is any experience
+that really draws us in,
+589.95 hypnotic in that sense?
+591.96 Or let me give a different example.
+595.86 If I'm watching a sports game
+598.63 and I'm really wrapped up in the game,
+600.72 but I'm also in touch with how
+it makes me feel in my body
+603.75 kind of registering the
+excitement or the anticipation.
+607.91 Is that a state of hypnosis also,
+610.07 because you mentioned there's kind of,
+612.04 a narrowing of context.
+- Right.
+614.03 - But a kind of losing of the self,
+616.0 or is it, do I have that right?
+617.88 - Yes, it is true that you're-
+620.701 [indistinct] to the extent
+that you're somatic,
+622.81 your body experience is
+a part of the sport event
+627.19 that you're engaged with.
+628.69 I'd say that is a self
+altering hypnotic experience.
+632.66 If your physical reactions
+are distracting you
+635.57 or make you think about something else,
+638.82 that's when it's less hypnotic like,
+641.71 and more, just one of a
+series of experiences.
+644.38 - Okay.
+645.46 So I have to ask,
+647.13 how did you get into this
+business of hypnosis?
+650.3 Because,
+651.878 I think for most people,
+652.99 when they hear hypnosis or
+they think about hypnosis,
+655.79 they think of stage hypnosis.
+- Right.
+657.75 - They think of somebody with
+a pendant going back and forth
+660.14 or people up on a stage,
+664.51 behaving abnormally for the
+entertainment of others.
+667.55 - Yeah.
+669.13 - How did you get into hypnosis
+671.12 as an interest, as a practice?
+674.22 And if you would,
+675.86 could you contrast the sort
+of hypnosis that you do
+678.96 in the clinical setting
+with a sort of hypnosis
+681.36 that a stage hypnotist does?
+682.94 - Sure.
+684.07 Well, it is something of a
+genetic illness in my family.
+688.78 Both of my parents were
+psychiatrists and psychoanalysts
+692.5 and they told me I was free
+693.67 to be any kind of
+psychiatrist I wanted to be.
+695.96 So, here I am.
+698.57 My father was training to
+be a psychoanalyst in 1943.
+705.13 And,
+706.6 he ran into a Vietnamese refugee,
+709.95 who couldn't serve in the army,
+711.99 but who had studied hypnosis.
+714.45 And actually it would interest you,
+716.48 doing your ophthalmological research.
+718.57 He had a smallpox scar right
+in the middle of his forehead,
+722.04 and he did forensic examinations.
+723.84 And he noticed that some of the prisoners,
+726.01 would focus on that spot on his forehead
+728.75 and then close their eyes
+and seem to go to sleep.
+732.0 But they were in some altered state.
+734.03 So he got interested in hypnosis.
+735.74 He used it forensically
+738.34 and his name was Gustav von Aschaffenburg.
+741.53 And he offered to teach
+young psychiatrists,
+745.25 how to use hypnosis when
+they went off into the war.
+749.52 And so he trained my father
+751.95 and my got off the
+analytic couch and asked,
+756.03 the analyst mentioned it to him.
+757.67 That's how he found out about it.
+759.09 And my father said, did I say
+something wrong in analysis?
+761.52 Why is he talking to me [laughs] now?
+763.76 And he found it very
+useful in helping soldiers
+767.04 who had acute pain when they were wounded
+769.25 and helping people with conversion
+770.83 in post-traumatic stress disorders.
+772.98 And when he came back, he
+went back to his training,
+776.49 but he still was sort of interested in it.
+779.45 And he had his, one of his supervisors
+781.95 was Frieda Fromm-Reichmann,
+782.93 who was a very famous psychoanalyst.
+785.55 And he said that he had been
+told to stop doing hypnosis
+789.36 because it would ruin his
+reputation as an analyst.
+792.16 And she said to him,
+793.23 what are you so worried of
+about your reputation for?
+795.67 You're going to give a course
+at the institute in hypnosis,
+798.44 and I know you're going to do
+it because I'm going to take it.
+800.56 So he was teaching Frieda
+Fromm-Reichmann hypnosis,
+803.71 and he just kept doing it.
+805.0 And after a while,
+805.833 he discovered that he was
+getting better results
+808.56 with a few sessions of hypnosis
+810.23 than he was with daily
+psychoanalysis with his patients.
+814.24 And so he switched his practice.
+816.58 And so the dinner table conversations,
+818.25 were pretty interesting.
+819.59 And occasionally when he was
+making a movie of a patient,
+822.45 I would get to watch that.
+824.28 And so, when I went to medical school,
+827.95 I figured I'll take a course.
+829.172 [mumbles] Tom Hackett,
+830.21 who was a chair of psychiatry
+of mass general was teaching
+832.56 and it was a very interesting course.
+834.79 And the day that converted me was,
+838.0 I was doing my rotation at
+Children's Hospital in Boston.
+841.27 And the nurse is telling me,
+842.72 Spiegel, your next patient is an asthmatic
+844.89 in room 437 or something.
+846.84 And I'm just following,
+847.73 the sound of the wheezes down the hall.
+849.73 I go in the room, there's
+a 16 year old girl,
+851.77 knuckles white, bolt upright
+in bed, struggling for breath.
+854.74 You can hear the wheezing.
+856.11 She twice had subcutaneous
+epinephrine, didn't work.
+858.75 They were thinking
+about general anesthesia
+860.52 and starting her on steroids.
+862.51 And her mother's there crying.
+865.27 And I said, I don't know what else to do.
+868.1 So I said, you want to
+learn a breathing exercise?
+870.26 And she nods.
+871.64 And I got her hypnotized.
+873.58 And then I realized we
+hadn't gotten to asthma
+875.21 in the course yet.
+876.043 So, I made up something very complex.
+877.9 I said, each breath you
+take will be a little deeper
+880.36 and a little easier.
+882.11 And within five minutes,
+she's lying back in bed.
+884.18 Her knuckles aren't
+white, she's not wheezing.
+885.97 Her mother stopped crying.
+887.64 The nurse ran out of the room,
+889.48 and the intern, my intern comes to find me
+891.61 and I figured he is going to
+pat me on the back and say,
+893.45 nice job, Spiegel.
+894.96 He said, the nurse has filed a complaint
+896.61 with a nursing supervisor
+897.91 that you violated a
+Massachusetts law by hypnotizing,
+900.96 a minor without parental consent.
+903.85 And I thought, oh, that's nice.
+907.46 I doubt there is a law like this.
+909.69 So, the interns says,
+910.65 you're going to have to
+stop doing this with her.
+912.4 And I said, why?
+913.233 He said, it's dangerous.
+914.21 I said, you're going to
+give her general anesthesia
+916.58 and put her on steroids,
+917.46 and talking to her is dangerous?
+919.898 He said, well, you'll have to do it.
+921.03 And I said, I'll tell you what,
+922.18 take me off the case if you want,
+923.82 but I'm not going to
+tell a patient of mine,
+925.41 anything I know is not true.
+927.35 So, there was a battle over
+the weekend about what to do,
+930.527 and the intern, the chief
+resident, the attending,
+933.47 were all arguing about it.
+934.8 And on Monday they came
+back with a radical idea.
+937.99 They said, let's ask the patient.
+940.35 I don't think this has ever been done
+941.78 at children's [chuckles] hospital before.
+943.27 And she said, oh, I like this.
+945.06 She'd been hospitalized every month
+946.48 for three months in status asthmaticus,
+948.67 she did a one subsequent
+hospitalization but after that,
+951.53 went on to study to be
+a respiratory therapist.
+954.22 And I thought that anything,
+955.51 that can help a patient that much,
+957.04 violate a nonexistent Massachusetts law,
+959.89 frustrate the nursing supervisor,
+961.48 had to be worth looking into.
+962.91 So, I just kept doing it.
+964.87 I discovered that there were,
+966.69 all of my classmates in medical school,
+968.93 had just read the new issue
+of the New England Journal
+970.81 and had some new medication to suggest.
+973.24 And I would, you know,
+974.21 surgeons would say, look,
+975.76 if you can help this guy
+with his pain or his anxiety,
+978.86 anything above the neck,
+that's yours, do it, Spiegel.
+981.17 So, I was having fun and being able
+984.59 to learn how to help people
+986.56 in a way that just otherwise
+was not being done.
+988.99 And so, it got me thinking
+about the fact that,
+992.53 we're born with this brain
+993.57 but we don't have a user's manual for it.
+995.38 And we don't use it
+nearly as well as we can.
+997.71 And that's something your
+research is all about too.
+1000.53 And so, I thought,
+1002.374 I want to understand this better.
+1004.13 And I want to see what we can do.
+1005.81 Stage hypnotists drive me nuts.
+1007.87 They make fools out of people.
+1010.915 There was one.
+1013.936 This is a case my father was involved.
+1015.26 He got a call from, he was
+at Columbia, he got a call,
+1017.69 Spiegel, you got to come see
+this woman, she's in the ER.
+1020.46 And she's in some kind of weird
+upset state that happened.
+1025.43 And it turned out she'd been on the show
+1027.4 with a stage hypnotist who,
+1029.98 and what they do by the way is,
+1031.52 they cycle around, you know,
+1033.76 The beginning of the show,
+1034.63 they don't just grab somebody
+and say, we're doing this.
+1037.04 They get a bunch of people up.
+1038.44 They do what [indistinct] testing,
+1040.82 to see if people-
+1041.653 and they get the ones who
+are the most hypnotizable.
+1044.55 So she was the one.
+1046.4 And he said, there's now a
+little bird in your hand,
+1050.48 and you're going to play with the bird.
+1052.53 And she starts to cry and scream.
+1055.59 And he just gets her off the stage,
+1057.63 'cause it's very upsetting.
+1059.22 And she's wandering around New York City
+1060.95 in the middle of the night dissociated
+1063.61 and brought to Columbia.
+1065.07 And that's where my father saw her.
+1066.23 She was still in a kind of
+uncomfortable trance like state.
+1068.84 And it turned out,
+1069.883 that she was the trophy
+wife of a very wealthy guy.
+1073.14 And she felt like a bird in a gilded cage.
+1076.08 And so to her,
+1077.19 that image just triggered
+all of this sense of,
+1081.27 dissatisfaction and discomfort,
+fear about her life.
+1084.74 And he was able to get her
+reoriented and talk with her
+1087.51 about what she was going to of her life.
+1089.48 But I don't like stage hypnosis.
+1091.33 You're making fools out of people
+1093.0 and you're using the fact,
+1094.59 and that's what scares
+people about hypnosis.
+1096.36 They think you're losing control.
+1098.2 You're gaining control.
+1099.17 Self-hypnosis is a way of
+enhancing your control,
+1102.01 over your mind and your body.
+1104.12 It can work very well,
+1105.64 but because it gives you a
+kind of cognitive flexibility,
+1109.27 you're able to shift sets very easily.
+1112.62 To give up judging and
+evaluating the way you usually do
+1116.28 and see something from a
+different point of view.
+1118.75 That's a great therapeutic opportunity,
+1120.99 but if misused, it could be a danger too,
+1123.38 and that's what scares people about it.
+1125.42 It is that very ability to
+suspend critical judgment
+1128.82 and just have an experience
+and see what happens.
+1131.33 That can be a great
+therapeutic opportunity,
+1133.86 but if somebody's misusing it,
+1135.29 it can be a way to harm people.
+1136.55 And there are plenty
+of examples of people,
+1140.11 having fantasies imposed on them,
+1142.02 that they come to think are realities.
+1143.58 It's not unusual these days.
+1145.25 So,
+1146.94 it's an ability that,
+1148.53 if people learn to
+recognize and understand it,
+1151.35 can be a tremendous therapeutic tool.
+1154.38 - I've been stage hypnotized
+1158.13 and I've been clinically
+hypnotized many times
+1162.34 through a self-hypnosis app.
+1164.65 We'll talk about later.
+1167.232 And then I know we have plans
+for you to hypnotize me today.
+1170.07 You've done it once before.
+- Mm-hm.
+1171.96 - [Andrew] And I'm very hypnotizable
+1173.65 as we both know.
+- Right.
+1175.57 - We'll talk about,
+1176.403 how one can gauge their hypnotizability.
+1178.83 - Sure.
+- But the stage hypnosis,
+1181.9 was interesting.
+1182.8 This was in college,
+1183.94 they brought someone out to the dormitory
+1185.67 and,
+1187.07 I recall being one of the people
+1189.9 that was selected.
+- Mm-hm.
+1194.446 - And engaging in very
+bizarre behavior, right?
+1197.91 It wasn't thoroughly embarrassing,
+1199.35 but it was pretty embarrassing.
+1200.93 And then being sent off the stage,
+1203.35 and as I was exiting,
+1205.15 suddenly screaming something out
+1207.01 because he had planted a
+suggestion of some sort.
+1209.92 - Ah, mm-hm.
+- And then I was told
+1211.42 to look in my pocket and there was,
+1213.06 like a, I think, a torn up dollar bill.
+1214.95 There were a bunch of things
+1215.87 that I have vague recollection of.
+1217.377 - Mm-hm.
+But it raises set of questions
+1222.87 that really boil down to,
+1226.35 as a biologist, I always think that,
+1229.17 there's no events in the
+brain, there are processes.
+1232.08 And so hypnosis, we know has an induction.
+1235.15 Then one is hypnotized, I imagine.
+1237.21 And then it sounds like this woman
+1238.507 and this example of the bird
+1241.1 and being distraught in New York City,
+1244.51 is a failure to exit the hypnotic state.
+1247.74 Do we know what sorts of
+brain areas are active
+1251.42 during the induction,
+1254.02 let's call it the deep hypnosis
+1255.43 and then what's shutting off
+1257.19 or changing as people exit hypnosis.
+1259.73 - Yes, we do, we've studied that.
+1261.49 We've been very interested in that.
+1262.77 And so, we did a study
+where we selected highly
+1267.49 and non-hypnotizable people
+1269.67 so we could do the comparison.
+1271.61 And then hypnotize them in
+the functional MRI scanner.
+1275.0 And we found three things
+characterized the entry
+1278.67 into the hypnotic state.
+1280.22 The first is turning down activity
+1282.13 in the dorsal anterior cingulate cortex.
+1284.17 So the DACC is in the central
+front-middle part of the brain
+1287.058 as you well know.
+1288.84 And it's part of what we
+call the salience network.
+1292.41 It's a conflict detector.
+1295.22 So if you're engaged in work
+and you hear a loud noise
+1300.16 that you think might be a gunshot,
+1301.55 that's your anterior
+cingulate cortex saying,
+1303.65 hey, wait a minute,
+1304.53 there's some potential danger over there.
+1306.02 You better pay attention to it.
+1307.27 So, it compares what you're doing
+1310.28 with what else is going on
+1311.53 and helps you decide what to do.
+1313.76 And as you can imagine,
+1316.83 turning down activity in that region,
+1318.64 make it less likely that
+you'll be distracted
+1320.63 and pulled out of whatever you're in.
+1322.81 And in another study,
+1324.19 we found that highly hypnotizable people,
+1326.04 even without being hypnotized,
+1327.98 have more functional
+connectivity between the DACC,
+1332.17 the anterior cingulate cortex
+1333.447 and the left dorsolateral
+prefrontal cortex.
+1337.08 So, which is part of a key region
+1339.34 in the executive control network.
+1340.85 So, when you're engaging in tasks,
+1342.46 you're enacting a plan,
+1344.67 you're writing a paper, you're
+doing whatever you're doing.
+1346.49 That's the prefrontal
+cortex who's doing that.
+1349.94 And so, if that is coordinated,
+1351.97 we found more functional connectivity.
+1354.67 So, when one is up, the other's up
+1356.867 and one is down, the other's down.
+1358.55 That coordination implies
+that the brain is saying,
+1361.89 okay, go ahead, I know what you're doing.
+1364.25 Carry out that plan.
+1365.25 And don't worry about other possibilities.
+1367.64 So, two other things happen
+when people are hypnotized.
+1370.55 One is that that DLPFC has
+higher functional connectivity
+1374.1 with the insula.
+1375.29 Another part of the salience network.
+1377.06 It's a part of the
+mind-body control system,
+1379.93 sensitive to what's happening in the body.
+1381.85 It's part of the pain network as well,
+1384.16 but it's also a region of the brain where,
+1386.72 you can control things in your body
+1389.07 that you wouldn't have think you could.
+1390.3 For example, we did a study years ago,
+1392.67 where we took people who
+were highly hypnotizable,
+1395.83 hypnotized them and told them,
+1398.52 we went on a imaginary culinary tour.
+1401.07 So, they would eat their
+favorite foods and we found that,
+1405.2 they increased their gastric
+acid secretion, like by 87%.
+1409.41 So, their stomach was acting
+as though it was about to get,
+1412.53 I mean, there was one woman,
+1413.73 it was so vivid for her that
+halfway through, she said,
+1416.04 let's stop, I'm full, [laughs]
+eating these imaginary-
+1418.71 - Having never eaten-
+- Having never eaten anything-
+1420.017 - Actual food?
+- No.
+1421.61 - Incredible.
+- And then we got them
+1423.58 to relax and think of
+anything but food or drink.
+1426.8 And we got like a 40% decrease
+in gastric acid secretions.
+1432.07 And that was DLPFC through the insula,
+1435.27 telling the stomach you're getting food
+1436.85 or you're not getting food.
+1438.0 And even, we injected
+them with Pentagastrin,
+1440.52 which triggers gastric acid release.
+1443.05 And even then in the hypnosis condition,
+1444.93 they had a 19% reduction in gastric acid.
+1447.82 So, the brain has this amazing ability
+1450.19 to control what's going on in the body
+1451.66 in ways that we don't think
+we have ability to control.
+1454.43 That's just one example.
+1455.92 So, that's the DLPFC insula connection.
+1458.49 The third thing that happens,
+1459.94 and this relates to what
+you did on the stage,
+1462.99 is you have inverse
+functional connectivity
+1466.56 between the DLPFC and the
+posterior cingulate cortex.
+1471.01 The posterior cingulate is part
+of the default mode network.
+1474.47 It's in the back of the brain.
+1475.94 And it's an area whose
+activity goes down for example,
+1480.03 in meditators.
+1481.44 And in meditation, you're
+supposed to be selfless.
+1483.72 You're supposed to, [indistinct]
+self is an illusion,
+1485.32 you're supposed to let it dissolve
+1486.48 and just experience things.
+1488.26 And when you're doing that,
+1489.2 the posterior cingulate
+is decreasing in activity,
+1492.25 the inverse connection is,
+1494.3 I'm doing something
+1495.45 but I'm not thinking about
+what it means for me.
+1498.01 I may not even remember much of it.
+1500.05 if I do, I don't care that much about it.
+1502.51 And so, that is part of the dissociation
+1505.71 that I occur with hypnosis.
+1506.95 So, it's how you put things
+outside of conscious awareness,
+1509.91 and don't worry about what it means.
+1511.56 It also adds to cognitive flexibility.
+1514.39 If you're thinking,
+1515.62 well, people like me
+don't usually do this.
+1518.33 That may inhibit you from,
+1520.73 enacting a new form of
+psychotherapy for example,
+1523.06 that you've never done before.
+1525.13 But if you're having
+this decreased activity
+1528.06 in the part of your brain that
+reflects on what it means,
+1531.17 you're more likely to
+be cognitively flexible
+1533.43 and willing to give it a try.
+1534.65 And that's one of the
+therapeutic advantages
+1536.64 of hypnosis as well.
+1538.6 - Fascinating, and it's really,
+1541.24 I'm going to embarrass
+you here a little bit.
+1543.612 [David laughing]
+In the positive sense,
+1545.08 your laboratory is really the one
+1546.96 that's pioneered brain
+imaging of hypnotic states.
+1549.75 And, it sounds like it,
+1551.68 that's my understanding, is that correct?
+1553.64 - Yeah, I mean, there are other people,
+1554.82 who've done excellent research too.
+1556.26 - Sure.
+Pierre Rainville in Montreal
+1558.51 and several other people,
+1559.89 but we're one of the leading labs
+1561.638 in neuroimaging of hypnosis.
+1564.27 - I have to ask about,
+1566.18 attention deficit hyperactivity disorder.
+1568.66 I get a lot of questions about this.
+1571.14 And I think a lot of people just struggle
+1572.76 with holding attention nowadays,
+1575.01 because of interference
+with phones and devices.
+1578.98 And of course, there is a lot of,
+1581.25 clinically legitimate ADHD out there,
+1583.08 but the way that you describe,
+- Sure.
+1584.58 - the dorsal anterior cingulate
+1586.88 and the salience network and
+this a conflict detector of,
+1590.55 am I focusing on something or
+am I splitting my attention?
+1593.5 How distractable am I?
+1594.96 Seems to relate to some extent to activity
+1597.52 in the anterior cingulate cortex.
+1600.74 Do people with ADHD,
+1603.4 display disruptions in
+elements of these networks
+1606.5 and has hypnosis ever been used to,
+1611.15 or self-hypnosis, I should be,
+1613.08 to distinguish from stage hypnosis,
+1615.01 clinical and self-hypnosis been used
+1616.95 to enhance people's ability to focus
+1619.17 and hold attention?
+1620.74 Because that's such a built in component
+1622.78 of the hypnotic state.
+1625.17 - It's a great question.
+1627.2 There's sort of two
+ways to think about it,
+1628.89 in terms of enhancing focus, yes.
+1631.07 It has been very helpful
+in teaching people
+1634.51 to just prepare your mind
+1636.11 to narrow in and focus on something.
+1638.2 And when you're really
+engaged in reading something,
+1640.53 or you're writing a pa-
+1641.51 I mean, I'll have that,
+1642.39 sometimes I'm thinking,
+1643.223 oh God, I have to do
+this for another hour.
+1645.58 Other times an hour will
+go by and I'll think,
+1647.88 hey, great, because when you're in that,
+1650.01 it feels game-like to you,
+1651.66 you're just assembling
+the parts of the puzzle
+1653.95 and putting 'em together.
+1655.67 It's fun, you just get absorbed,
+1657.29 that for me, that's a
+hypnotic like experience,
+1659.47 when I'm having trouble,
+when I'm struggling,
+1661.78 sometimes doing things like
+self-hypnosis can help.
+1665.07 I'm not an expert on ADHD.
+1667.68 My impression is that you're right,
+1669.45 that these are people who
+are constantly distracted
+1672.3 and rather rigid.
+1673.73 The other part of it is
+they're easily distractable.
+1675.79 They're very upset when
+they get distracted
+1678.38 and they're rather rigid in
+what they want to attend to
+1680.357 and what they can.
+1681.29 I think, as a way of controlling this,
+1683.15 distractibility, frankly.
+1685.9 My guess is that many people with ADHD,
+1688.41 would not be that hypnotizable,
+1689.9 but I haven't studied it.
+1691.47 So, it's possible that for
+some people with that disorder,
+1697.25 training in self-hypnosis might help,
+1698.9 but we'd have to see how
+hypnotizable they were
+1701.14 and take it from there.
+1703.12 - I want to return to some of
+the underlying neural networks
+1706.13 and the clinical applications but,
+1709.99 what sorts of things
+aside from the asthma,
+1714.89 have you used hypnosis successfully for
+1719.36 or have others used clinical hypnosis for?
+1723.21 And are there any particular areas of,
+1726.29 psychiatric challenges or
+illnesses, I guess they're called,
+1731.03 that are particularly amenable
+to hypnotic treatment.
+1736.4 - Yes, there are.
+1737.42 Hypnosis is very good as a
+problem focused treatment.
+1743.27 It's the oldest western
+conception of a psychotherapy,
+1746.88 and it can be used for specific problems
+1749.1 in a way that's very helpful.
+1750.87 We found it very helpful
+for stress reduction.
+1753.45 For helping people deal,
+1754.55 we're all dealing with stress these days.
+1757.22 And it's helpful, that mind-body
+connection is very helpful
+1760.64 because part of the problem
+with stress is your perception.
+1765.56 You mentioned earlier
+in a sort of good sense,
+1767.55 you're at a football game or something,
+1769.44 and you feel the physical reaction.
+1772.06 That can be a reinforcing thing.
+1773.99 Wow, this is exciting, let's do it.
+1775.86 It can also be very distracting.
+1777.58 So, you're worried about getting COVID
+1780.45 or you're worried about,
+1782.57 some other physical problem you have.
+1785.22 And you notice it in your
+body, your body tenses up,
+1788.54 you start to sweat.
+1789.6 The sympathetic nervous system goes,
+1791.64 your heart rate goes up.
+1793.16 And when you notice that you think,
+1795.05 oh God, this is really bad.
+1797.09 And then you feel worse.
+1798.18 So, it's like a snowball rolling downhill.
+1800.8 And then you feel worse and
+then your body gets worse.
+1803.88 Hypnosis can be very helpful
+1805.5 in dissociating somatic reaction
+1807.98 from psychological reactions.
+1809.3 So, we teach people
+1810.83 to imagine their body
+floating somewhere safe
+1813.1 and comfortable like a bath, a lake,
+1814.81 a hot tub or floating in space,
+1816.74 and then picture the problem
+1818.38 that's stressing them
+on an imaginary screen,
+1821.33 with the rule, no matter
+what you see on the screen,
+1823.22 you keep your body comfortable.
+1824.8 So, at this point, you still
+can't control the stress,
+1827.87 but you can control your
+physical reaction to it.
+1830.86 And that starts you
+feeling more in control.
+1833.05 At least there's one thing I can manage.
+1834.6 And then you can use it to think through
+1836.42 or visualize through
+one thing you might do
+1838.79 about that stressor.
+1839.72 So, hypnosis is very
+helpful in controlling
+1842.17 mind-body interaction
+in relation to stress.
+1846.42 It's very helpful for
+people to get to sleep.
+1849.55 We're having a lot of fun with that.
+1851.85 I'm getting emails from people who said,
+1854.23 I haven't slept right in 15 years,
+1856.04 and now for the first time,
+1858.872 I'm listening to your app
+and I can sleep at night.
+1861.52 So it's very helpful and again,
+1864.312 if you wake up in the middle of the night,
+1867.46 I tell people, don't look at the clock.
+1869.06 That's an arousal cue.
+1871.299 You'll wake up more,
+1873.08 but picture whatever you're
+thinking about or worrying about
+1876.8 on that imaginary screen
+while your body is floating.
+1879.06 So, watch your own movie,
+but keep your body floating.
+1881.96 And many people can use
+that to get back to sleep.
+1884.65 - I've been using self-hypnosis
+for sleep for a long time.
+1889.42 And now the Reveri app,
+1890.507 and we'll talk about our
+relationship to the Reveri app
+1892.99 and its uses.
+1893.823 I find it incredibly useful
+for falling back asleep
+1896.64 in the middle of the night.
+1898.61 And it raises a question,
+1902.16 I've found and I think I
+understand this correctly,
+1905.07 that one can do self-hypnosis
+during the daytime.
+1909.94 And then if there's an
+issue that comes up later,
+1912.19 like, so for instance,
+1913.36 do self-hypnosis for stress reduction,
+1915.5 away from the stressful
+event to prepare one
+1918.17 to deal with stress better.
+- Right.
+1919.51 - Or do hypnosis for
+improving the return to sleep.
+1923.88 And that can be done when you
+actually want to go to sleep.
+1926.29 But it's kind of a training
+up of these networks,
+1929.043 right?
+- That's right.
+1930.75 - So, is there evidence that,
+1932.77 these brain networks actually
+form stronger connections,
+1937.43 when people do self-hypnosis over time?
+1941.0 - Well, there's a rule in
+neurobiology as you know,
+1943.38 that neurons that fire
+together wire together.
+1945.55 - Our friend, Carla Shatz.
+- Yes, Carla-
+1947.0 - Not Donald Hebb, by the way.
+1948.529 [David laughing]
+I keep trying to,
+1950.61 there's a widespread myth in the world
+1952.56 that is unfortunately,
+all over the internet,
+1954.93 which is that, fire together
+wire together was said by,
+1957.86 this psychologist, Donald Hebb
+1959.1 Donald Hebb did many important things,
+1960.99 but it is the neurobiologist Carla Shatz-
+1964.39 - That's exactly right.
+- Who,
+1965.41 Yes, is at Stanford but was
+also at Berkeley and Harvard.
+1968.14 So, also decent schools.
+- That's exactly right.
+1971.25 - But is at Stanford, who said,
+fire together wire together.
+1975.27 And so she deserves,
+- Right.
+1976.69 - the credit for that statement.
+1978.52 Yeah, so with repeated
+use of self-hypnosis,
+1983.21 one could imagine that these
+networks are getting stronger.
+1986.53 - I would think so.
+1987.72 We don't have evidence of that yet,
+1990.08 but long term potentiation
+provides a pathway
+1996.23 and you've described them on
+your program, a number of times
+1998.86 that allow for repeated
+activation of a network
+2002.05 to actually build new
+connections that work.
+2005.3 And at the least,
+2006.48 even from a learning and
+memory point of view,
+2010.2 memory is all a network of associations.
+2012.65 That's how we remember things.
+2014.37 And the example I'd like to give is,
+2017.05 you go back to your grade school
+2019.25 and you see these little tiny lockers
+2021.51 and the size is all wrong.
+2023.5 And you suddenly have a flood of memories
+2025.28 that were obviously stored there,
+2027.53 but you just didn't think of.
+2028.54 So, context and association
+is what memory's about.
+2032.37 If you start to acquire
+memories about a problem.
+2035.35 So, one thing we use hypnosis for
+2037.34 is treating phobias, for example.
+2039.16 And the problem with
+people who have phobias,
+2041.1 like airplane phobias
+2042.44 or crossing a bridge or being up high,
+2046.37 is that the more they avoid it the more,
+2048.66 the only source of associations
+and memories is their fear.
+2052.93 They don't have any
+good experiences with it
+2054.84 'cause they avoid it.
+2056.11 It's like get back on the horse
+2057.4 after you fall off kind of thing.
+2059.27 And with hypnosis,
+2061.53 if you can start people able
+to manage their anxiety enough
+2066.4 that they can have more, a
+wider array of experiences,
+2069.8 they start to have a
+network of associations
+2072.42 that isn't so negative
+and may even be positive.
+2074.86 - So it's almost like
+a, sorry to interrupt,
+2076.9 but I have to ask.
+2077.733 - Sure
+- It's almost like a,
+2079.71 exposure therapy done in the mind.
+2083.078 - Yes.
+- It's always in the mind.
+2084.33 I mean, even that exposure
+to, if I have a snake phobia,
+2086.88 which I don't, I don't like snakes,
+2088.87 but I don't think it qualifies
+as a full blown phobia.
+2090.807 I think I have a healthy fear of snakes.
+2092.87 - Yeah.
+- But if,
+2095.47 let's say I had a snake phobia,
+2097.75 the typical approach in, would be,
+2101.73 cognitive behavioral approaches, right,
+2103.23 would be to show a picture of a snake,
+2105.06 then a rubber snake, then a real snake.
+2106.47 Eventually the person is,
+- Yeah.
+2107.99 - holding a boa constrictor
+or something like that.
+2110.36 - [David] Right.
+2111.193 - That's all in the mind
+2112.62 because it's all translate
+into nervous system signals.
+2114.84 But with hypnosis,
+2116.23 sounds like you can give a
+number of positive experiences
+2119.4 without having to use any props,
+2121.6 without having bring any
+animals into the room.
+2123.73 - Right, I-
+2124.563 - Drive someone across
+the bridge, is that right?
+2126.04 - Yes, I had a woman,
+2127.65 who was a very successful business woman,
+2129.87 high level in a corporation.
+2132.03 I had a terrible dog phobia.
+2133.68 And so I had her imagine that
+somebody brought in the dog
+2137.66 to the room and I said,
+"what are you doing?"
+2139.207 And you could see her getting tense.
+2141.41 And she said, "Well, I'm waiting
+to see what the dog does."
+2144.43 And I said, "If somebody
+who works for you,
+2146.65 comes into your office,
+2147.73 would you freeze and wait
+to see what they did?"
+2150.57 And she said, "Of course not,
+2151.92 I tell 'em what to do."
+2153.053 [laughs] And I said, "Well, so
+you're immobilizing yourself,
+2156.7 the power isn't with
+the dog it's with you,
+2159.1 so, imagine what you
+might do to engage the dog
+2161.83 and help control the situation."
+2164.5 And she said, "Thanks."
+2165.5 And this reminds me of,
+2166.991 one of my favorite stories
+about hypnosis that,
+2170.05 my father was seeing a woman
+who lived in Midtown Manhattan
+2173.36 and had a horrible dog phobia.
+2175.09 She'd dropped things, she'd
+spill coffee if she saw a dog.
+2178.57 She would time her trips to the store,
+2180.64 when she thought it was least likely
+2182.07 that people would be walking dogs.
+2183.35 - Now that wouldn't be
+possible, everyone in-
+2185.202 - [laughs] Everyone in New York has a dog
+2186.035 - It's like a fleet of French Bulldogs,
+2188.25 - Right, exactly.
+- taking over New York City.
+2190.93 - So, he taught her to
+think of dog as a friend,
+2195.16 have a neighbor who had a dog,
+2197.99 bring the dog over but
+hold the dog by the collar
+2200.42 and make sure,
+2201.54 and gradually she was able
+to stroke the dog and say,
+2204.61 dog friend and distinguish
+between wild and tame animals.
+2207.24 There are animals, you should
+be afraid of [murmurs].
+2209.41 So, she seemed to be doing better.
+2210.65 He called back about three months later
+2213.18 and asked for her.
+2215.637 "Well, who's calling?" the son said.
+2217.09 And he said, "Dr. Spiegel."
+2218.89 And the boy said, "That's weird."
+2221.15 And my father said, "What's weird?"
+2222.52 He said, "Spiegel's in heat."
+2225.3 She had bought a dog,
+- I love it.
+2227.83 - and named it, Spiegel.
+2228.828 - I love it.
+- Talk about transference.
+2229.94 - I love it.
+[David laughing]
+2231.29 But it really speaks to the power of this.
+2233.1 And it brings me back to this issue.
+2238.28 So, what is different about,
+2241.4 what your father did in
+that case with this woman,
+2245.69 in terms of what happened in hypnosis
+2249.2 that allowed her to go
+2250.24 from being completely terrified of dogs
+2252.57 to owning a dog and naming
+it after your father?
+2255.82 Which I find amusing.
+- Yeah.
+2258.07 - But that's different
+2259.43 than just the two of them sitting down
+2261.27 and talking about it, right?
+2263.21 You know, in therapy,
+2264.96 narrative is a huge component.
+- Right.
+2267.52 - And in hypnosis narrative
+is a huge component.
+2269.93 - Right.
+- So it must be that,
+2272.37 the brain state is what
+is really different.
+2274.65 Because we'll talk about
+trauma in a few minutes.
+2277.42 But I think people who
+have trauma or phobias,
+2281.71 certainly could have a
+conversation about it.
+2286.19 Some of them might freeze up.
+2287.41 Some of them might lose their
+articulation and so forth.
+2290.01 But what is different about that state
+2293.2 that combines with narrative,
+2295.26 you think to allow these
+underlying neural networks
+2298.72 to engage her to change?
+2300.12 'Cause I find this so
+fascinating because we're a-
+2302.96 Every attempt at dealing
+with stress or phobia
+2306.7 in the clinical setting
+involves some discussion
+2308.98 about what it is.
+- Yes.
+2310.4 - But, here we're not talking about
+2312.41 any medication being introduced,
+2313.84 at least not in these
+particular circumstances.
+2315.71 - Right.
+- So,
+2317.43 I realize it's kind of an obvious question
+2319.92 like, it has to be some
+difference in brain activity,
+2322.65 but I find that to be incredible.
+2324.84 The control variable
+there is the brain state.
+2328.17 It's not, what's spoken.
+2331.41 - You're raising a couple of
+very important issues, Andrew.
+2336.42 We talked earlier about with
+systematic desensitization,
+2339.19 where you sort of lay
+out a hierarchy of things
+2342.72 and do it one at a time.
+2344.25 I think of this as
+unsystematic desensitization,
+2347.44 because you're changing mental states.
+2349.97 And I think there's more and more evidence
+2352.42 that mental state change itself
+has therapeutic potential.
+2355.38 We're seeing that with
+ketamine treating depression,
+2357.99 the dissociogenic drug.
+2361.36 We know it every morning when we wake up,
+2363.47 that problem, when you know,
+2364.39 you made the mistake of reading
+a nasty email at 11:00 PM.
+2367.36 You didn't know what to do.
+2368.45 You wake up in the morning thinking,
+2369.39 oh, that idiot, yeah,
+here's what I'm going to do.
+2371.77 So, just changing mental state,
+2374.14 itself has therapeutic potential.
+2376.26 And I think we underestimate
+our ability to regulate
+2379.8 and change responses to be cognitively,
+2383.63 emotionally and somatically flexible.
+2386.49 And so, we do things, you're right,
+2388.54 that follow similar principles
+of facing a problem,
+2391.46 seeing it from a different point of view.
+2393.47 And you've done a really,
+2394.89 a nice podcast on trauma and stress
+2396.97 and how you have to expose yourself to it,
+2399.93 not avoid it, as we talked about before.
+2402.37 And then find some way to reconnect to it,
+2406.28 to substitute something
+that can make you feel good,
+2408.69 rather than bad,
+2410.5 so that you activate
+other centers of the brain
+2413.04 like mesolimbic reward system.
+2415.15 And so, I that with hypnosis
+and you can do it much faster.
+2419.99 People don't think they can but they can.
+2421.94 If you are having, right now
+that physical experience,
+2424.71 I'm thinking about this
+2425.543 but I'm not feeling as bad as I used to.
+2429.01 That can be a powerful thing
+2430.57 and you can do it with hypnosis.
+2432.1 So, a woman came to see me,
+2434.91 who had suffered an attempted rape.
+2436.9 It was getting dark,
+2438.5 she was coming back from the grocery store
+2440.24 and this guy grabs her
+2441.81 and wants to get her
+up into her apartment.
+2443.7 It's outside her apartment.
+2444.74 And she starts fighting with him
+2447.13 and she winds up with a
+basilar skull fracture.
+2449.72 He runs away.
+2451.34 The cops come,
+2452.67 since she hadn't been raped, they left,
+2454.17 they weren't interested.
+2455.003 And she wanted to use hypnosis
+2456.98 to get a better image of
+what this guy looked like,
+2459.44 which is a painful, upsetting thing.
+2461.19 So, she was quite hypnotizable.
+2463.5 I got her floating.
+2464.71 I say, you're safe and comfortable, now,
+2466.14 nothing can happen that
+will harm your body.
+2468.46 But on the left side of the screen,
+2470.37 I want you to picture this guy
+2472.47 and his approaching and what's happening.
+2474.62 And she said, I really, the light,
+2476.66 it was getting dark.
+2477.493 I really can't see much
+of his facial features,
+2480.26 but I do recognize something,
+2481.8 I hadn't allowed myself to remember.
+2484.03 If he gets me upstairs,
+2485.37 he doesn't just want to rape
+me, he's going to kill me.
+2488.2 And so, in some ways, what
+she was seeing was even worse.
+2491.85 So, you're thinking, good, Spiegel,
+2494.2 you made her even more
+frightened than she was before.
+2497.03 But as you had pointed out
+in your PTSD stress lecture,
+2500.63 you've got to confront the trauma,
+2502.27 to restructure your understanding of it.
+2505.5 So, on the other side of the screen,
+2507.14 I had her picture,
+2510.749 what are you doing to protect yourself?
+2513.08 And everybody in a trauma
+situation engages in some strategy
+2516.25 of self protection.
+2517.59 That's the salience network kicking in.
+2519.46 And she said, "You know what?"
+2522.6 He's surprised that
+I'm fighting that hard.
+2525.04 He didn't think I would.
+2526.77 And so, she realized on the one hand
+2528.68 that it was even worse
+than she thought it was.
+2530.58 But on the other hand
+2531.49 that she actually probably saved her life.
+2533.8 And so, it was a way of,
+2536.18 helping her restructure her
+experience of the trauma
+2538.83 and make it more tolerable.
+2540.67 So that helped with her-
+2542.29 She didn't recog-
+2543.195 She couldn't identify the guy,
+2545.22 but it helped her restructure
+and understand her experience.
+2549.09 And that's something that you can do
+2551.11 in just talking, straight
+out psychotherapy.
+2553.89 But sometimes you can do
+it a hell of a lot faster
+2556.65 and more efficiently using hypnosis.
+2559.21 And there is one randomized
+trial out of Israel
+2561.69 that shows that adding
+hypnosis to PTSD treatment,
+2564.17 actually improves outcome.
+2566.15 So it's a way of accomplishing
+things that we understand
+2572.32 in the broader psychotherapy
+world, but much more quickly
+2576.16 and sometimes effectively.
+2578.38 - Yeah, it sounds like going
+somewhat into the state
+2581.61 that one is trying to deal with,
+2583.16 but then dissociating
+from that state is key.
+2585.61 And I could imagine,
+2587.02 and I've been open about
+this on various podcasts.
+2589.41 I've done a lot of an
+analysis over the years.
+2594.544 I've experienced myself
+that in those sessions,
+2597.46 depending on how I show up to them,
+2599.18 I might just get kind of a
+laundry list of what happened
+2602.31 as opposed to actually feeling anything,
+2604.11 around what happened.
+- Right.
+2606.31 - And I think people
+probably vary in the extent
+2608.27 to which they can drop into feeling states
+2610.77 and it can depend on the day.
+2613.25 It can depend on how well
+you slept the night before
+2616.07 and so on.
+2616.96 - There's one thing I might add, Andrew,
+2618.32 - Yes.
+- And that is,
+2620.02 there's a notion to late Gordon Bower,
+2621.94 we just had a memorial
+for Gordon at Stanford.
+2625.24 He died about a year ago.
+2627.12 Brilliant cognitive psychologist,
+2629.22 one of the founders of
+cognitive psychology at Stanford
+2632.23 and a great pitcher.
+2633.33 He almost became a Major League pitcher
+2635.4 but he decided to go
+to grad school instead,
+2637.42 and I'm glad he did.
+2639.93 But Gordon helped establish the concept of
+2643.17 state dependent memory
+2644.43 that when you're in a
+certain mental state,
+2647.14 you enhance your ability to
+remember things about it.
+2649.21 And sort of the bad example of that is
+2651.45 the drunk who hides the bottle
+2652.8 and can't remember where he put it
+2654.14 until he gets drunk again
+2655.05 and he's in that same mental state.
+2658.22 People go into dissociative
+states when they're traumatized.
+2662.49 So in a way, hypnosis
+is helping them remember
+2666.09 and deal with the memories better
+2667.38 because they're more in the mental state
+2669.4 that is more like what happened.
+2670.57 And most rape victims will tell you,
+2672.88 I was floating above my body,
+2674.64 feeling sorry for the woman
+being assaulted below.
+2679.684 People in traumatic
+episodes, they just say,
+2682.017 you know, I blank out, I
+don't know what's happening,
+2683.96 I'm on autopilot
+2684.97 and that's a kind of self hypnotic state.
+2687.34 So, when you use hypnosis
+to help them deal
+2690.51 with a traumatic memory,
+2691.96 you're making the state they're in,
+2693.51 right there in your office with you,
+2695.6 more congruent to the
+state they were likely in,
+2698.06 when the trauma happened.
+2699.2 And I think that is part of
+what helps facilitate treatment
+2702.64 of trauma related disorders.
+2704.6 - I see.
+2705.86 So that makes me have to ask,
+every question I have to ask,
+2709.36 'cause I really feel it as
+a almost like compulsion,
+2711.86 then if dissociation during
+a traumatic episode is,
+2716.83 it's a part of the adaptive strategy.
+2719.23 - Right.
+2720.07 - But it creates certain issues,
+it creates problems, right?
+2724.56 Why would something like ketamine,
+2727.26 which creates a dissociative state,
+2729.84 be useful for the treatment of trauma?
+2732.34 This is what I'm confused about these days
+2734.61 because our colleague, Karl Deisseroth,
+2736.78 who's also been on this podcast
+2738.67 and his coworkers have figured out,
+2740.51 okay, there's these layer one
+networks in the neocortex,
+2743.78 and those are involved
+in dissociative state.
+2745.39 And so we're starting to
+gain some understanding
+2746.71 of how ketamine works at a neural level.
+2748.877 - Right.
+- It does seem,
+2751.2 as if for certain populations
+it can be a useful treatment.
+2754.89 I don't know, I've never tried it.
+2755.93 I don't know what the
+current status of that is,
+2757.46 but it is legal.
+2758.78 It is allowed at least in,
+2760.0 it's FDA approved and it's in use.
+2763.31 Why would dissociative states be useful
+2766.88 if some element of dissociation
+2769.2 is what gave rise to the trauma
+memory in the first place?
+2773.622 - Well, yeah, and Karl
+had a brilliant paper
+2776.23 in nature where he,
+2777.43 it was from rats to humans in one paper.
+2780.24 And he showed that there's
+this rhythmic discharge
+2782.87 in the retrosplenial region,
+2786.3 that is triggered by ketamine.
+2788.08 And the rats actually showed
+dissociative like behavior,
+2792.0 in that they would a hot pad
+that they ordinarily wouldn't
+2795.33 and they didn't seem to
+have much pain in their paw.
+2797.4 And he then had a male subject
+who had implanted electrodes-
+2803.182 - Human, yeah.
+- A human subject, yeah.
+2805.6 And the electrodes had picked
+up this rhythmic activity.
+2810.72 And when they did,
+2811.86 he would report being
+in a dissociative state.
+2814.1 And his description was,
+2815.76 it's like being a pilot of an airplane.
+2817.77 And then I felt myself
+walking out of the cockpit
+2820.56 and the plane was still flying and-
+2821.97 - It sounds terrifying to me.
+[David laughing]
+2823.953 It sounds terrify terrifying.
+- That's the thing-
+2824.786 - I want to be in my body,
+[David laughing]
+2826.54 most of the time, you know.
+2828.73 - That's right but,
+2829.77 the point is, in a way
+the principal, Andrew,
+2833.05 is like, the principle you said,
+2834.113 that you need to re-confront
+a traumatic situation
+2837.9 before you can modulate
+your associations to it.
+2841.29 So, you have to accept
+it, accept the arousal,
+2844.61 put some boundaries around it
+2845.86 and then figure out how you
+can approach that problem
+2848.31 or how you did approach that problem
+2849.83 from a different point of view.
+2851.31 So, it does not surprise-
+2853.0 In fact, we've studied,
+2854.86 people who disassociated during
+the Loma Prieta earthquake
+2858.1 and the Oakland-Berkeley firestorm.
+2860.41 - I remember both those well.
+- Yeah.
+2861.96 - Earthquakes follow me.
+2862.94 Then I move south and
+then the Northridge quake-
+2865.03 - I'm going to keep away from
+2865.863 So, there'll be one later, this afternoon.
+2866.779 [David laughing]
+2868.41 - I'm starting to dissociating.
+2870.39 So, dissociation does
+compartmentalize experience,
+2875.33 but that means from the point
+of view of treating trauma,
+2878.11 it's an inhibition.
+2880.39 You don't engage it.
+2881.52 It's like it happened over there.
+2883.11 And I think what happens is that people,
+2885.74 are sometimes too good at being able
+2887.65 to separate themselves
+from their recollection.
+2889.68 So it's in there somewhere.
+2891.55 It's out of sight but
+it's not out of mind.
+2893.32 It's having effects on you,
+but you can't deal with it.
+2895.65 You can't reprocess it.
+2897.31 So I do think one reason
+ketamine might work
+2900.83 is that in fact, it allows you to keep,
+2905.52 to re-approach the dissociative experience
+2909.05 in a way that you can
+then start to think about
+2911.02 and do something about it.
+2912.22 And just the fact you
+can turn it on and off.
+2914.34 And that's also where
+self-hypnosis is so helpful.
+2917.54 It's not something that
+just comes over you
+2919.35 and happens to you.
+2920.183 It's something you can make happen.
+2921.58 You can control it, you
+can do something with it.
+2923.86 So, you feel less helpless
+and out of control.
+2926.53 The essence of trauma is helplessness.
+2928.41 It's not fear, it's not pain.
+2930.1 It's helplessness.
+2930.97 You become an object.
+2932.62 You become just your body.
+2934.17 You don't control what's going on.
+2935.287 And we're not used to that.
+2937.24 You and I have discussed
+this breathing paper
+2940.37 on anticipation of breathing.
+2942.52 And it's not whether you breathe,
+2944.3 inhale or exhale or hold your breath,
+2946.81 it's that if you think you
+can inhale and you can't,
+2950.29 that is really upsetting, understandably.
+2952.68 And so, the issue is control
+2955.07 and hypnosis, which has
+this terrible reputation
+2958.1 of taking away control
+is actually a superb way
+2961.88 of enhancing your control
+over mind and body.
+2965.75 - I love that and it reminds
+me that naming is so important.
+2969.1 You almost wonder if self-hypnosis
+2971.59 and clinical hypnosis had
+been called something else,
+2974.61 that it would've been separated
+out from stage hypnosis
+2978.26 in a way that would make it less scary,
+2982.78 weird, complicated for people to embrace.
+2986.71 But,
+- Yeah.
+2987.95 - part of the reason for
+having this discussion is,
+2990.76 I've had great experiences with hypnosis,
+2991.983 that I've seen the data,
+2994.23 we're talking about a
+lot of clinical examples.
+2995.74 It's incredibly powerful
+2997.27 and it boils right down
+to neural brain states.
+3000.74 - Right.
+- And,
+3002.54 I think in the years to come,
+3003.79 it's going to become more
+widespread along those lines.
+3008.31 How quickly,
+3009.31 you've described some examples
+3011.7 of people getting relief very quickly.
+3014.79 - Right.
+- How permanent,
+3016.27 are those changes?
+3018.38 Is there a need for follow
+up and related to that,
+3021.57 I'm sure a number of people
+are listening to this
+3023.18 and thinking, wonderful,
+I'd love to get hypnotized
+3026.23 for any number of different
+things by Dr. Spiegel
+3029.68 or somebody else expert
+in clinical hypnosis,
+3032.38 but they might not have access to you
+3035.15 or somebody with similar training.
+3037.43 So what is the power?
+3039.24 So, how quickly does it work?
+3040.95 How long lasting are those changes?
+3042.72 And then,
+3044.49 is it necessary to work
+with a clinical hypnotist?
+3046.97 And is it better to do that
+3048.86 than self-hypnosis and so on and so forth?
+3050.69 Maybe you could just give us a contour
+3052.366 of the landscape of directed
+and self-directed treatment.
+3056.23 - Well, typically,
+3059.85 most people start by coming
+to see a clinician like me.
+3063.24 It's better to see
+someone who has licensing
+3065.96 and training in their
+professional discipline,
+3068.69 medicine, psychology, dentistry, whatever.
+3071.912 - 'Cause there are a lot
+of hypnotists out there,
+3073.259 who are just hypnotist.
+- Right.
+3074.254 Just hypnotists.
+- Oh, okay.
+3075.847 - And the key issue is,
+3077.78 somebody who can really
+assess what your problem is
+3079.77 and make sure that you're not,
+3081.05 talking someone into
+reducing their chest pain,
+3082.97 rather than getting their
+coronary artery problem-
+3086.23 - 'Cause they could
+have a real issue there.
+3087.59 - They could, right.
+- That hypnosis might adjust
+3090.67 but wouldn't deal with the
+deeper underlying issue.
+3093.17 - That's right.
+3094.003 On the other hand.
+3095.28 And typically when I use it with people,
+3097.09 I often only see them once
+or twice or periodically,
+3099.72 but not every week.
+3101.06 And certainly not every day,
+3102.29 if they have a pain problem
+3103.137 and hypnosis is very helpful for pain.
+3107.21 And so, what I'm doing is,
+3110.36 identifying how hypnotizable they are.
+3112.27 I give them a standard brief test
+3113.95 of their ability to experience hypnosis,
+3116.19 and then going through a
+self-hypnosis exercise with them
+3119.48 to deal with the problem,
+seeing how they respond to it,
+3122.26 and then teaching them how
+to do it for themselves.
+3124.98 And in the old days,
+3126.03 I used to have them use
+their iPhone and record
+3130.91 that part of the session.
+3132.09 So they could play back
+the hypnosis experience.
+3135.05 Now we've developed an app, "Reveri,"
+3138.48 that can teach people
+and step them through,
+3142.78 dealing with pain, stress,
+3144.76 focus, insomnia and help people eat better
+3149.33 and stop smoking.
+3152.04 But we have elements that
+take about 15 minutes
+3155.28 and elements that just
+take one or two minutes
+3157.17 that people can refresh and reinforce.
+3159.353 - Two minute hypnosis,
+3160.409 [indistinct] one minute.
+- Yes.
+3161.36 - Yeah.
+- And it's one to two,
+3162.96 we're one to two minutes now,
+3164.67 and we're finding that two
+thirds of the people find
+3166.663 that even just the one minute refresher,
+3169.71 helps them feel better.
+3170.87 They're reporting, they feel better.
+3172.12 So, the nice thing is,
+you know right away,
+3173.94 whether it's likely to help you or not.
+3176.78 And we've found, we've done studies,
+3179.17 looking at hypnosis for pain relief
+3181.42 in acute medical procedures.
+3183.35 We did a randomized trial that
+we published in The Lancet,
+3186.58 three conditions, people
+getting arterial cutdowns
+3190.094 to chemoembolized tumors in the liver
+3192.41 or visualize renal artery stenosis.
+3194.74 You don't use general anesthesia for this.
+3196.33 It's very uncomfortable
+and people are anxious
+3198.41 and we had three conditions.
+3199.69 One was standard care,
+3200.83 they could push a button
+and get opioids, IV.
+3204.933 - This is during the surgery?
+- During the surgery.
+3206.76 The second is, they could do that,
+3208.24 plus they had a friendly
+nurse, comforting them.
+3210.68 So, we controlled for pleasant
+attention and support.
+3213.56 And the third was, we
+taught them self-hypnosis
+3215.76 for pain control.
+3216.593 So, you're feeling, you
+can change the temperature,
+3219.5 you're your body is
+cool, tingling, and numb,
+3221.64 you're floating in ice water
+and feeling comfortable.
+3225.89 Or go somewhere else,
+3227.06 leave your body here and
+go to a desert island
+3229.75 and enjoy yourself.
+3231.78 And we found that,
+3233.49 it's about two and a half hour procedure,
+3235.91 that by an hour and a half,
+3238.42 the hypnosis group had
+reduced their pain by 80%,
+3242.95 compared to the standard,
+- Wow.
+3244.01 care group, using half
+the amount of opioids,
+3247.15 they had fewer complications
+3249.08 and the procedure took
+17 minutes less time
+3251.7 on average to get done.
+3252.79 Because not only was the
+patient more relaxed.
+3254.65 So was the treatment staff.
+3256.31 They weren't dealing with someone
+3257.58 who's struggling and uncomfortable.
+3259.53 We measured their anxiety and same thing.
+3262.05 They hypnosis group, I was
+worried they were all dead.
+3263.92 They had no anxiety
+after an hour and a half,
+3265.99 they were saying, I'm fine, you know,
+3267.66 and they were fine.
+3268.97 And the standard care group,
+3270.9 had 5 out of 10 anxiety
+scores at that point.
+3273.86 So, we published that in The Lancet,
+3276.28 big randomized trial.
+3278.48 If we had a drug that did that,
+3280.87 every hospital in the country
+would be using it now,
+3284.31 but there's no industry to push it.
+3286.29 So, that's part of what helped us decide
+3288.87 that we needed to help people,
+3291.17 do this with Reveri
+3292.72 and teach them how to do it
+3294.22 and provide interactive
+support for them to do it.
+3297.84 And does it, the question, although is,
+3300.72 does it work long term?
+3302.0 'Cause what we can do acutely
+doesn't necessarily carry on.
+3305.08 So, we did around
+randomized trial of women
+3307.69 with metastatic breast cancer.
+3309.01 They had advancing disease.
+3310.94 We met with them in a
+support group once a week
+3312.99 and taught them self-hypnosis,
+3315.02 for stress and anxiety and
+pain control at the end.
+3318.15 And by the end of a year,
+3320.66 the treatment group had half
+the pain the control group did,
+3323.11 on the same, in very low
+amounts of medication.
+3325.58 So, it lasts.
+3326.48 And they would say,
+3327.75 when I felt that pain in my chest
+3329.82 and thought it was a metastasis,
+I just did the exercise.
+3333.0 I got myself in a warm
+bath and I felt fine.
+3335.64 So, it works because it becomes
+a skill that people acquire,
+3340.66 but they can tell right away,
+3342.04 whether it's likely to help them,
+3343.3 working with a clinician
+or now using the app
+3346.1 or other ways of helping them
+learn to use it as a skill.
+3350.1 So, the nice thing is you
+will know very quickly,
+3352.96 whether it's likely to help you or not.
+3354.42 And if it is, you can learn
+to do it for yourself.
+3357.11 - That's great and we will,
+3359.22 again, there'll be a link
+to Reveri in the caption,
+3361.75 it's available for Apple and Android.
+3364.06 And I think even though
+there's a nominal cost there,
+3367.41 I think that, as you mentioned,
+3371.37 medications and other
+approaches to dealing
+3374.19 with these problems are quite expensive,
+3376.86 and have all the potential
+for side effects and things.
+3380.22 Not that some of those aren't also useful.
+3382.14 - Could I, before you get to that,
+3383.371 - Please.
+- just one thing.
+3384.8 We've worked very hard on the app.
+3387.07 We have an iOS app for Apple.
+3389.64 We decided to table for a
+moment, redoing the Android app.
+3393.5 So, it was available,
+3397.01 when we were working
+through the Alexa platform.
+3399.71 It's not at the moment
+but it will be soon.
+3401.84 So, I just don't want
+people to be disappointed
+3404.06 if they're looking for it for Android,
+3405.99 it's on our agenda but we
+don't have it at the moment.
+3408.71 - Great, thanks for that clarification.
+3410.34 So hopefully, in time for both,
+3413.34 I get asked a lot about obsessive thoughts
+3416.73 or intrusive thoughts.
+3418.76 I also get asked a lot about OCD.
+3421.33 Is there any evidence that hypnosis
+3423.45 or self-hypnosis can be used for,
+3425.41 dealing with obsessive thoughts?
+3429.67 - Sometimes, there are some
+very obsessional people,
+3432.53 who just turn out not to
+be that hypnotizable for,
+3435.06 yeah, and it's not random.
+3437.192 They tend to be so over
+controlling of thought,
+3439.53 they're all busy evaluating
+rather than experiencing, so-
+3443.22 - I know a few people like that.
+3444.367 [David laughing]
+3446.823 It sounds like an adaptive
+mindset for a lot of professions.
+3450.43 - That's right.
+3451.263 - And then we get trained up in that,
+3453.23 - Yeah.
+- during school,
+3454.92 how to obsess over the exam,
+3456.63 obsess over the,
+- Yeah.
+3458.34 - our social interactions.
+3460.29 I mean, it's part of becoming
+a functional human being.
+3462.57 And yet, it can take us down a different-
+3465.21 - We sometimes overdo it.
+3466.41 I mean, I'll tell you one
+example from extreme situations,
+3470.56 that, you know, you're
+judging, evaluating,
+3472.81 you're not letting yourself experience,
+3474.25 including emotionally.
+3475.71 I know somebody,
+3477.45 who listens to the tapes
+from airplanes that go down.
+3480.76 So, they get the black
+box and they listen to it.
+3483.35 And he said to me, you know-
+3484.83 - That's his profession or
+he does this recreational-
+3486.357 - No, it's his profession.
+- Okay.
+3487.407 - That's what he did.
+3489.43 'Cause they're trying to
+do accident prevention
+3491.21 and how to handle things.
+3492.4 And he said that you worry
+about people panicking, right?
+3497.41 And here these guys know
+that they've got 30 seconds
+3500.76 or some 45 seconds
+3502.46 and they're just going
+through their checklist.
+3504.49 He said, they don't panic enough.
+3507.0 They're taught that this is what you do.
+3508.747 And there is reason,
+there's good reason for it.
+3511.35 But sometimes they overdo it.
+3513.56 And it's painful to listen to this
+3516.34 'cause you know what's going to happen.
+3517.49 So, it's kind of a balance we have to hit.
+3520.26 And sometimes we get too
+emotional and too absorbed
+3523.56 and you're not with that enough
+3526.15 to sort of see other possibilities.
+3528.26 That can be a problem.
+3529.1 But on the other hand,
+3529.933 sometimes you're too rigid and controlled
+3532.04 and you don't let your emotions guide you
+3534.46 to what you need to do to protect yourself
+3536.82 or protect others.
+3537.67 So, I would say in general
+that people with OCD are,
+3543.483 on the less hypnotizable
+side of the spectrum,
+3545.84 they're less likely to allow
+themselves to engage in any,
+3548.46 and the typical example is the checking
+3550.59 with OCD for example,
+3552.18 they don't remember,
+3554.85 whether they locked the door
+3557.03 or turned off the gas in the
+oven and they keep going back
+3559.38 and they keep checking.
+3560.213 So, there the evaluative
+component of the brain,
+3563.56 kind of overrides the experiential one
+3566.16 and sometimes people can get some benefit,
+3569.35 but they're not a group
+that I would select
+3572.43 for being the most likely to respond
+3575.1 to self hypnotic approaches.
+3577.14 - Are superstitions similar?
+3580.52 - Superstitions, I think that's more,
+3584.25 there are people who
+are very hypnotizable,
+3587.78 who keep getting caught up
+in things like superstitions
+3591.05 and there, the imagination
+supplants the reality.
+3595.23 And we've seen a lot of
+that happening recently.
+3598.12 And so I think there,
+3601.27 it's by possible that they
+could be helped by learning
+3603.81 to sort of see it but put it in context,
+3607.11 see it from a different point of view.
+3609.02 - I developed a pretty
+vicious superstition,
+3611.09 when I was in college and it
+was hard to break, actually.
+3614.82 I always feel, when I talk to clinicians,
+3616.93 I have to reveal certain things
+3618.21 about my own pathology.
+- Please do.
+3619.223 - And so-
+- You'll get my bill later.
+3620.87 - Thank you, yes,
+3622.222 it's part of the reason I arranged this.
+3623.078 [David laughing]
+No, I'm just kidding.
+3624.44 But yeah, I did.
+3625.273 I had a habit of knocking
+on wood for things
+3627.643 and I noticed it started to,
+3632.89 I would sneak knocking on
+wood every once in a while
+3635.51 'cause I didn't want people to
+think I was doing too often.
+3637.47 And then I started to realize that,
+3638.65 it was becoming a little bit of a reflex.
+3641.41 And then I saw this incredible video
+3643.79 from Bence Olveczky's lab at Harvard.
+3645.85 He studies motor patterns.
+3647.48 And he has these rats that
+press different sequences
+3650.22 of levers and turn dials in
+order to get a pellet of food.
+3654.41 But as they do that,
+3655.44 they'll start to introduce these behaviors
+3656.98 that have nothing to do with
+the actual lever pressing,
+3659.72 like they'll start scratching
+their hind quarters
+3662.18 and things like that.
+3663.013 And their hat, their heads, excuse me,
+3664.97 they don't wear hats
+and flipping their ears.
+3666.71 And this is just like a pitcher
+before throwing a baseball.
+3671.33 That we do this,
+- Oh, yeah.
+3672.8 - we start to incorporate motor behaviors
+3675.17 that are unrelated to the outcome,
+3677.19 but our mind somehow starts to think
+3679.71 that they're necessary for the outcome.
+3681.62 And so then you incorporate it.
+3682.69 So, I decided to break it
+by simply forcing myself
+3685.04 to not do it for about a week.
+- Mm-hm.
+3686.34 And then it just seemed like a ridiculous,
+3688.53 - [Both] thing to do.
+3689.363 Yeah, well-
+- Knock on wood.
+3690.87 - We call that response
+prevention and it works.
+3694.36 What you do is,
+3695.51 you set up a new context in your brain,
+3697.8 where you get the outcome you want,
+3699.61 devoid of the extraneous behavior.
+3702.71 - Yeah, and I knew it was nuts, right.
+3704.83 I knew it was illogical.
+- Right.
+3706.32 - But somehow these
+things take on meaning.
+3708.62 - [David] Right.
+3709.73 - So, we talked about,
+3711.45 the utility of hypnosis
+for stress reduction,
+3715.21 phobias, pain,
+3717.54 possibly, we don't know but for,
+3719.8 things like ADHD and OCD,
+3721.6 it just will depend on hypnotizability.
+3724.051 - Right.
+3725.0 - You talked about this
+beautiful study on the,
+3728.22 metastatic breast cancer
+outcome or patients.
+3733.063 Hypnotizability is clearly a key variable.
+3735.8 - Yes.
+- So could you please tell us,
+3738.89 what hypnotizability is,
+3740.7 how it's evaluated
+3742.37 and what The Spiegel Eye-Roll Test is?
+3745.06 - Okay, sure.
+3745.893 So, hypnotizability is just a capacity
+3751.36 to have hypnotic experiences.
+3753.24 And we have a test called the
+hypnotic conduction profile.
+3755.91 Where we give a highly
+structured hypnotic experience.
+3759.54 And the old tradition in
+clinical hypnosis was,
+3762.89 that you try a bunch of different things,
+3765.05 talking, walking upstairs and downstairs
+3767.36 and other images and time what you say
+3770.17 to the breathing of the
+subject and all that.
+3772.21 And the more you change
+what you do as a clinician,
+3775.9 the less you can make of
+variation and outcome.
+3779.05 And it could take a long time, you know,
+3780.87 20 minutes, 30 minutes.
+3782.84 And I just view that as a kind of complex,
+3785.93 not very effective way
+3787.02 of assessing the person's
+hypnotic capacity.
+3789.74 We know that the peak period
+3791.95 of hypnotizability in the human life,
+3794.26 is the latency years in childhood.
+3796.21 So, every eight year old is
+in a trance all the time.
+3799.3 You call all 'em in for
+dinner, they don't hear ya,
+3800.91 they're doing their thing.
+3801.94 And that's why childhood is
+such a wonderful experience.
+3804.54 Work and play are all the same thing.
+3806.85 And we try to make them
+into little adults,
+3809.08 which I think is a terrible mistake.
+3811.32 Everything is fun for them.
+3812.56 They enjoy learning,
+they enjoy everything.
+3814.68 - So what age are they in this-
+3816.693 - This is like 6 to 10, 6 to 11.
+3819.627 And they're playful,
+they enjoy everything.
+3822.43 Everything is sort of a game and fun
+3824.64 and we try to make it miserable for them,
+3826.45 but they've got it.
+3827.97 And then when, what Piaget called,
+3831.662 a more adult cognitive framework,
+3833.67 where we learn abstract concepts,
+3836.32 we learn that even if
+one bottle looks bigger
+3838.28 than the other, they
+can have equal volume.
+3840.05 And so, we at imposing logic,
+3842.07 we're growing our DLPFC at that point
+3844.79 and imposing cognitive
+structure on experience.
+3848.92 Some people start to lose
+that hypnotic ability.
+3852.43 By the time you're in your early 20s,
+3856.49 your hypnotizability
+becomes extremely fixed.
+3859.94 And there was a study done at Stanford,
+3862.6 Ernest Hillard, Phil Zimbardo
+did this, looking at,
+3867.62 they've tracked down students
+who were in psych one,
+3871.08 had their hypnotizability measured
+3872.92 and retested them blindly 25 years later.
+3875.83 And the test, retest correlation was,
+3878.2 you want to guess what it was?
+3880.24 - I'm guessing it's, I
+don't know, 0.6 something.
+3884.86 - Yeah, very close.
+3886.199 It was 0.7, IQ would be 0.6,
+3889.11 on the 25 year interval.
+- Wow.
+3890.24 - So, it's more stable than
+IQ over a 25 year interval.
+3893.15 So, once you're at that
+point, that's where you are.
+3897.07 What are the factors that lead to that?
+3899.56 Well, and so what it means is that,
+3901.08 about a third of that adults
+are just not hypnotizable.
+3904.28 Two thirds are,
+3905.38 about 15% are extremely hypnotizable
+3907.77 and we can measure that
+and give it a number
+3909.35 from 0 to 10.
+3911.04 And that's very useful.
+3912.37 For some of my patients when I do it,
+3914.35 I say, look, I'm sorry,
+you're not hypnotizable
+3916.07 but we're going to do something else.
+3917.81 Medication, systematic desensitization,
+3920.56 mindfulness, other things
+3922.75 or if they're very
+hypnotizable, I just go for it.
+3925.94 I don't do a lot of explaining.
+3927.56 People who are low to
+moderate hypnotizable,
+3930.13 like explanations about what you're doing,
+3931.96 but then they can still get the benefits.
+3934.17 So, it helps me guide the
+nature of my treatment
+3938.28 with these people.
+3939.113 Now, the eye roll is,
+3940.8 my father used to use an
+eye fixation induction,
+3945.3 he used to say, look up at the ceiling
+3947.94 and now close your eyes
+while you're looking up.
+3950.94 You're very, yes,
+3952.45 you're very-
+- Yeah [indistinct] [laughs].
+3954.16 - He noticed he had two
+patients back to back.
+3957.56 And one was a woman who
+I'd seen him work with,
+3959.6 who had hysterical seizures.
+3961.94 She would just suddenly start shaking.
+3964.35 And-
+- Real epileptic seizures?
+3966.41 - No, pseudo epileptic seizures.
+3967.58 - I see, so hysteria.
+3968.947 - Hysteria, and although
+some people have both,
+3971.36 that is the,
+3972.46 for some people, real
+epilepsy becomes a framework
+3975.91 that gets elaborated on,
+3977.56 for when you're stressed,
+you have seizures.
+3979.56 She just had pseudo epilepsy,
+3981.43 no EEG abnormalities.
+3983.09 And she was really something to watch.
+3985.29 Her husband had to move his
+work bench near the door,
+3989.04 so that if she started to have a seizure,
+3990.47 he could run home and
+try and help her with it.
+3992.337 It was that bad.
+3994.05 And he noticed that when
+she did what you did,
+3998.04 when she looked up,
+3998.93 when she would have one
+of her seizure events,
+4001.25 all you see is sclera, you
+don't see Iris anymore.
+4004.33 And she would start to seize.
+4005.48 So he did a great thing with her.
+4007.68 He taught her to have seizures.
+4009.06 Everybody else was telling her to stop.
+4011.2 He made her have one.
+4012.09 So he hypnotized her,
+4012.947 [indistinct] let's go back
+to the last time you had one
+4014.8 and sure enough, she'd start to shake.
+4016.45 And gradually he'd make
+them smaller and smaller.
+4019.52 So, she was learning she could control,
+4021.37 she'd have access, it's like with PTSD,
+4023.76 you confront, you don't avoid
+it, you don't suppress it.
+4026.82 You confront it and figure
+out how to deal with it.
+4030.68 The next patient he had was a
+rigid obsessional businessman
+4034.61 who wanted to stop being so controlling
+4037.57 and all this [chuckles], it reminded me,
+4040.08 there was a New Yorker
+cartoon of a driver,
+4042.1 who comes to a yield sign
+and he yells, "Never!"
+4045.09 It's always [indistinct].
+4046.56 - That sounds about right,
+you're a New Yorker.
+4047.991 - Yeah, I'm a New Yorker.
+4050.309 And so, this guy, when
+he tried to look up,
+4054.1 he couldn't keep his eyes
+up while he closed them.
+4056.26 And so, my father started testing people.
+4060.7 And it seemed that there
+is a rough correlation
+4063.44 between the capacity to keep your eyes up,
+4065.46 while you closed them and
+measured hypnotizability.
+4068.38 - So that people who are
+listening [stutters],
+4071.96 and watching on video.
+4073.12 So, the Spiegel Eye-Roll Test,
+4074.73 involves looking up at the ceiling.
+4076.35 So, it's tilting the head back,
+4077.64 I'm tilting my chin back and
+looking up at the ceiling now.
+4079.78 But I'm also directing my eyes
+upward and my eyes are open.
+4084.08 And then the eye roll test involves then,
+4087.6 closing the eyelids
+while the eyes are open.
+4090.13 - Are open.
+- And whether or not,
+4091.31 the eyes roll back and as you said it,
+4093.93 then you see sclera,
+4095.311 the white part.
+- You see sclera,
+4096.266 the white part.
+- That means you're,
+4097.68 very hypnotizable
+4098.91 or moderately hypnotizable.
+- Right.
+4100.51 - Whereas if the eyes move
+down and you see iris,
+4102.86 the colored part of the
+eye as the eyes close,
+4105.33 less hypnotizable.
+- Right.
+4106.89 - So you can look this up online there,
+4108.53 you just put Spiegel Eye-Roll Test
+4111.39 and you'll find it.
+4112.92 And we are also going to do
+an actual example of hypnosis
+4117.46 on video later.
+- Right.
+4119.371 So, you're asking the brain
+to do something difficult,
+4123.41 to keep the eyes up while
+closing the eyelids.
+4126.84 And so that's contradictory signals
+4129.39 for the third, fourth and
+sixth cranial nerve nuclei
+4131.61 that control eye movement.
+4133.66 - You said the third-
+- Fourth and six,
+4135.78 - Yup.
+- cranial nerve nuclei.
+4137.44 And so you're suspending one activity,
+4140.86 while asking them to do another
+4144.39 and eye movements have a lot to do
+4145.86 with levels of consciousness.
+4147.48 The periaqueductal gray,
+4149.17 surrounds these cranial nerve nuclei.
+4151.74 And when we close our eyes when we sleep,
+4155.46 we have rapid eye movement when we dream.
+4157.51 Most drugs, that affect
+level of consciousness,
+4159.52 can affect eyes and eye movements,
+4161.37 either the dilation or
+contraction of the pupils,
+4164.27 depending on whether it's
+a stimulant or an opioid.
+4167.21 - Stimulants, make the pupils big.
+4168.6 - Big, right?
+- Yeah.
+4170.15 Like cocaine, amphetamine.
+- Right, exactly.
+4171.8 - Things that sort.
+- And opioids,
+4174.46 you get constricted pupils.
+4176.72 - This is what the parents looking
+4178.68 at their kids coming in
+the door late at night,
+4180.49 they're looking for substance abuse.
+4184.09 - That's right.
+- Yeah.
+4185.31 - So, there's something about the eyes
+4187.52 that has a lot to do with
+level of consciousness.
+4189.52 I mean, obviously, you close
+your eyes when you go to sleep,
+4192.23 you have rapid eye movement
+when you're dreaming.
+4194.51 So, it's not surprising.
+4196.06 And there's an old Zen practice called,
+4198.01 looking at the third eye.
+4199.84 And I think part of the
+reason that this happens is,
+4203.38 where you're looking up inside
+4205.46 it's like there's a third eye
+4206.52 between the other two in your forehead.
+4208.69 And I think it's because
+we are visual creatures,
+4213.29 we're pretty pathetic from
+a physical point of view.
+4216.13 Many animals can outrun us,
+4219.81 or outs smell us or eagles
+could read the newsprint
+4223.7 at a hundred yards and we can't.
+4226.557 So, our major defensive
+sensory input is vision.
+4232.99 And that's why animals,
+4235.15 predator animals have eyes
+in the front of their head,
+4238.29 so that they have very good,
+detailed vision of prey.
+4242.19 Whereas prey animals like deer,
+4244.51 have eyes on the side of their head.
+4245.91 So, they don't see things that well,
+4247.15 but they have a much bigger range
+4249.32 of potential to see threat.
+4252.55 And we mainly use,
+4254.67 and in fact, it's interesting,
+4255.66 there have been social
+anthropologists that say,
+4257.49 why do we gather where we do,
+4259.78 on coastlines and at the edge
+of a forest or something,
+4263.93 it's because you've got
+protection in the back.
+4266.52 Something can attack you from one side
+4268.65 and you have a big vision
+of what might threaten you.
+4271.37 And we tend to be attracted
+4273.37 to those kinds of physical situations, so-
+4276.22 - Yeah, we love vistas.
+4277.73 - We love vistas, that's right.
+4278.563 - Vistas are very calming.
+4279.58 They take us into that panoramic vision.
+4281.48 - That's right.
+- I didn't know this,
+4283.02 but it turns out that
+most of the scenic spots
+4285.95 at any location in national parks
+4287.88 and where people naturally
+aggregated it was-
+4291.1 which makes sense.
+- Sure.
+4292.86 - But, that those signs and
+locations were built up around,
+4297.17 people's tendency and animals tendencies.
+4300.15 - Oh, really [indistinct]?
+- To aggregate there.
+4301.73 Yeah, there's a interesting book
+4303.64 on the history of the
+national parks that says,
+4305.99 that they didn't give a
+research study to support it,
+4308.7 but there was no Google Maps, obviously.
+4310.388 - That's very interesting.
+4311.6 - Yeah, panorama
+4313.22 and visual boundaries
+are really interesting.
+4315.38 I think, so the eyes, as we both know,
+4317.9 are two pieces of the
+central nervous system
+4320.03 of the brain, outside the-
+- Right.
+4322.35 I used to say that the
+eyes are outside the skull
+4324.35 and a neuro-ophthalmologist wrote to me
+4328.79 and vehemently pointed out
+4331.35 that they are outside the
+cranial vault, so, you know.
+4334.46 They're outside the cranial vault
+4335.83 but they are two pieces of
+brain they're out there.
+4337.85 And so, you mentioned cranial
+nerves, three, four and six.
+4341.02 This isn't a neuroanatomy course
+4343.363 but maybe we could go
+a little deeper there.
+4344.58 So, you said there's
+contradictory activity,
+4346.66 looking up is controlled by
+the one set of cranial nerves.
+4351.52 And then the closing of the eyelids,
+4352.777 is controlled by another cranial nerve.
+4355.81 - No, it's the same one.
+4356.653 I think it's six that
+when you close your eyes,
+4362.26 you activate,
+4365.72 no, it's the facial, I
+guess it's the facial nerve.
+4367.77 It's 7, yeah.
+- 7, yeah.
+4370.23 - But you're looking up,
+4372.37 you're activating the muscles
+4375.39 that force your eyes to look up.
+4378.11 And closing your eyelids
+normally relaxes those,
+4382.49 it relaxes that upper movement,
+4384.25 because your eyes are closed
+and you don't need to do it.
+4386.73 So you're breaking a
+usual customary pattern.
+4390.03 - It's like the rubbing the,
+- Right.
+4391.37 - hey, I can't even do it,
+4392.308 see it's like the,
+- Right.
+4393.141 [Andrew and David laughing]
+4394.431 - That's exactly right.
+- Rubbing your tummy
+4395.43 and patting your head.
+4396.86 There's a bit of a conflict there,
+4398.89 - Right.
+- But clinically,
+4400.15 it's been a good probe for you,
+4401.93 - It has.
+- and for your father.
+4403.34 So, was it Spiegel senior
+4404.58 or Spiegel junior?
+- That's Spiegel senior.
+4406.34 - That developed The
+Spiegel Eye-Roll Test.
+4408.75 - But the key issue is this,
+4410.11 that normally when we close our eyes also,
+4412.96 we're going to sleep.
+4414.3 You're not worried about
+4415.52 what's going on in the world anymore.
+4417.0 Here, you're maintaining
+resting alertness.
+4420.18 So, you're focusing but
+you're turning inward.
+4422.98 That's an unusual state.
+4424.29 Normally we close our eyes
+periodically, we have to,
+4427.13 but when you close your eyes
+for some period of time,
+4430.36 it's normally to go to sleep
+4431.81 and you're not worried about
+detecting risk or threat.
+4436.75 So, it's an interesting state
+4438.66 because you're turning inward, basically,
+4441.19 you're looking up,
+you're shutting your eyes
+4443.29 and you're allowing whatever
+happens outside you to happen
+4445.82 and focusing on what's going on inward.
+4448.23 So, I think it's a signal to
+your brain to turn inward.
+4452.01 - Very interesting.
+4453.38 And meditation of course,
+could be done with eyes open
+4456.47 but almost always is
+done with eyes closed.
+4458.61 - Yes, that's right.
+- Very interesting.
+4461.41 So, you can very quickly determine
+4464.07 whether or not someone
+is highly hypnotizable.
+4465.86 - Right.
+- not at all hypnotizable.
+4467.76 You said about two thirds
+of people can be hypnotized.
+4470.8 - Right.
+- Obviously a third cannot.
+4472.9 But within the two thirds that can,
+4474.76 there's a range,
+4476.01 and you said 15% of people fall into this,
+4478.7 highly hypnotizable category.
+- Right, that's correct.
+4480.693 - That I seem to be a member of.
+4482.93 - Yeah.
+- And,
+4484.87 does repeated use of self-hypnosis
+or clinical hypnosis,
+4488.29 increase or change hypnotizability,
+4490.16 for those that can access
+it in the first place?
+4492.36 - I would say in general, it
+may increase a little bit,
+4494.85 but not a hell of a lot,
+4496.01 and it's not worth the effort
+4497.91 to increase your
+hypnotizability at that point.
+4500.28 It's worth trying to
+deal with the problem,
+4502.04 you're dealing with.
+4503.07 So, you can get better
+4504.72 at using it at the level that you have.
+4507.79 There was a study done in which
+they tried to train people
+4510.83 to be more hypnotizable and obviously,
+4514.068 there're subjective and
+behavioral components to the test,
+4517.62 you can learn to do a
+little better on them.
+4519.72 But what we found was when
+we reanalyze this data,
+4523.34 that we could account for
+three times the final score,
+4526.45 based on the initial
+hypnotizability measurement,
+4529.43 rather than whether or
+not they had been trained
+4531.5 to do better.
+4532.333 So, you can improve it a little
+4533.857 but it's not worth the trouble.
+4535.34 - Got it.
+4536.31 Along the lines of eyes and eye movements,
+4538.42 a lot of interest out there about EMDR,
+4540.94 Eye Movement Desensitization Reprocessing.
+4542.99 - Yeah.
+- Shapiro herself was working,
+4546.93 she wasn't at Stanford directly,
+4548.33 but was the local to Stanford.
+- Yeah.
+4550.28 - I think in Palo Alto.
+- MRI, yeah.
+4552.39 - So what are your thoughts on EMDR?
+4555.26 Where is it useful, where do
+you think it's less useful?
+4558.56 Are there things that EMDR
+could be combined with
+4560.83 to make it more useful?
+4566.31 The listeners of this podcast come to,
+4568.66 I think, come to the podcast
+with a range of backgrounds
+4571.69 and interests.
+4573.1 To me, it makes sense why EMDR,
+4576.06 lateralized eye movements might work,
+4579.03 given the newer data that it
+can suppress amygdala activity
+4581.86 in some animals and animal
+models and in humans as well.
+4585.61 But it really hasn't been
+explored much, neurally.
+4587.95 I've heard things like,
+4588.783 it coordinates the two sides of the brain,
+4590.54 which it, to me is just a throwaway.
+4593.33 I don't think there's any evidence that,
+4594.95 coordinating the two sides of the brain
+4596.53 is better than not coordinating.
+4598.35 I wouldn't be speaking right now
+4599.44 if the two sides of my brain,
+4600.84 were well correlated.
+- Yeah.
+4602.32 - Because language is lateralized so,
+4604.28 - Right, exactly.
+- I heard that it mimics,
+4605.85 rapid eye movements during
+sleep, but actually it doesn't.
+4608.56 So,
+- Right.
+4610.12 - But I have heard people talk
+4612.38 about their positive
+experiences with EMDR.
+4615.28 What are your thoughts about EMDR?
+4616.77 - Yeah, you had a good comment on that
+4618.027 in one of your recent podcasts.
+4619.83 And I'll tell you,
+4622.61 one way I sort of think about it
+4624.9 from a bemused point of view,
+4627.03 is the old, you mentioned it earlier,
+4628.88 the oldest sort of idea
+of a hypnotic induction,
+4632.13 was a dangling watch, right?
+4634.45 And [indistinct] watch.
+4636.33 And, in fact, there was
+enough concern about it
+4639.64 that when automobiles were invented,
+4641.69 there was a movement to prevent
+installing windshield wipers
+4645.97 because people were afraid
+that they would be hypnotized,
+4649.62 if they watched the windshield
+wipers go back and forth
+4652.44 on a car.
+4653.61 Now, it turns out fortunately that,
+4655.67 you tend not to look at
+the windshield wipers.
+4657.53 You keep looking through the windshield.
+4659.94 And so, we have windshield wipers today.
+4662.77 But that movement is,
+4664.55 what exactly used to be
+a hypnotic induction.
+4666.79 I think there is a lot
+of hypnosis in EMDR.
+4670.33 - Ah.
+- And I think,
+4671.163 it's a combination of that
+with exposure based treatments,
+4675.78 where you use EMDR to think about it.
+4677.81 You tend not to process
+the experience as much
+4681.02 and just do the physical part of it,
+4683.13 which I personally think is a drawback.
+4685.37 And, every study I've seen
+that was a dismantling study.
+4689.36 There's no question that
+people who go through EMDR,
+4691.78 many of them get better
+with trauma related problems
+4694.447 and the VA has a big
+program using it and so on.
+4697.49 But every program that has dismantled,
+4700.62 going through the treatment
+4701.84 with having the lateral eye movement,
+4704.68 has shown that the lateral eye movement,
+4706.4 doesn't add anything to it.
+4707.98 And toward the end of her career,
+4709.89 Francine was doing [indistinct]
+contralateral touching
+4713.94 or something, it wasn't
+eye movements anymore.
+4715.91 It was other things.
+4716.743 So, I tend to think that,
+4720.43 EMDR is another form of exposure
+based therapy for trauma,
+4725.7 but as you've implied
+4727.98 with the exception of
+this possible new data,
+4730.5 it certainly doesn't have to do with,
+4732.51 rapid eye movement sleep.
+4733.81 And I don't think moving
+the eyes is the issue.
+4736.45 I think it's a way of sitting
+down and confronting trauma.
+4739.56 And I would rather,
+4740.69 that the trauma itself
+be processed a bit more
+4742.84 than often happens in EMDR.
+4745.15 So, a lot of people have gotten therapy.
+4747.24 Some of them have been helped.
+4748.53 Francine used to originally claim
+4750.52 that just one session would
+desensitize people and do it.
+4753.52 And that's clearly not true.
+4754.98 I see a lot of people who said,
+4756.53 yeah, it helped for a
+while but I need more.
+4758.83 So, I think it became a kind of a,
+4764.46 overly simplistic approach to
+understanding brain physiology
+4768.17 and that part is wrong.
+4770.41 And the interesting thing,
+4772.97 you mentioned suppressing
+amygdala activity.
+4775.7 It's very interesting that,
+my late friend Allen Hobson,
+4779.47 who was a brilliant sleep researcher,
+4780.77 you know Alan-
+- Sleep researcher.
+4782.15 Well, I don't know him,
+4782.983 but I read his book when I was in college
+4785.04 about the chemistry of sleep.
+- Right.
+4786.86 And the similarities between dream states
+4790.47 and hallucinations.
+- Yes.
+4792.207 - And it's one of the reasons
+I got into this business.
+4794.53 - Yes, well, I worked with him
+4795.92 in a MacArthur mind-body
+network for many years.
+4797.483 - Wow.
+- He was a brilliant guy,
+4799.63 points out that we need to get into,
+4802.39 primarily a parasympathetic
+state to go to sleep,
+4805.44 that we have to shut off the
+sympathetic nervous system.
+4809.7 And that's why a loud noise wakes you up,
+4811.58 when your heart rate goes up and all this.
+4813.51 So, he was brilliant at documenting
+4816.5 what happens in the brain at sleep.
+4817.7 He pointed out something also
+very interesting about dreams,
+4820.83 which is that the stories in dreams,
+4823.75 and even the images in dreams
+can change all over the place
+4826.19 in crazy ways.
+4827.45 But usually the affect is constant,
+4830.515 he said, usually if it's
+a frustration dream,
+4832.69 whatever happens, you end up frustrated.
+4834.6 And if it's a enjoyment dream,
+4836.86 you enjoy whatever's going on.
+4838.67 So, there's an odd consistency
+and affect in dreams
+4842.22 that you don't have in other states.
+4844.97 And the idea of lateral eye movement,
+4847.89 suppressing amygdala activity
+would kind of fit with that,
+4850.35 that you don't allow intrusions
+4852.61 of fear and anger and upset in dreams.
+4855.61 It may be there all the time,
+4856.98 but it may not be there
+when you think it should be.
+4859.65 So, why is it that you can
+be falling off a building
+4862.09 and somehow not that scared,
+4863.79 you're just having this
+experience of flying in a dream.
+4866.84 So, I think there may
+be something going on
+4870.98 about regulating affect, but there are,
+4872.91 we have elaborated better
+ways to regulate affect.
+4876.7 - Great, so EMDR,
+4878.67 might incorporate some
+elements of hypnosis,
+4881.2 so the lateralized eye movements,
+4882.92 perhaps by way of
+suppressing the amygdala,
+4884.81 this fear associated center,
+4886.03 might bring people into a more
+parasympathetic calm state.
+4889.24 So, it might be pseudo hypnosis,
+4890.99 and then an exposure therapy
+4892.15 through the discussion about the issue.
+4894.32 - Right.
+- Okay.
+4895.71 More research needed on EMDR out there.
+4898.41 And obviously,
+4901.55 something that's come up
+a lot in this discussion
+4903.54 and in our discussions that,
+4906.47 have the great fortune of
+talking to you every week is,
+4909.64 and working together is,
+4911.66 this idea of getting close to the phobia,
+4916.38 getting close to the trauma,
+4917.74 re-experiencing it as a portal
+4920.08 to then adjusting the response
+to it and rewiring something.
+4923.92 So, the troubling thing
+4925.72 or the horrible thing is no
+longer as horrible to us.
+4929.74 but the repeating theme is we can't expect
+4934.62 to get over something without
+getting really close to it.
+4937.16 Maybe even experiencing it somatically.
+4941.44 Nowadays, we hear a lot about,
+4943.05 triggers and trigger warnings.
+4944.76 And certainly, one can
+understand why those exist,
+4949.89 but it seems like in
+the general population,
+4952.7 there's this idea that
+we want to move away
+4955.12 from anything that upsets us and yet,
+4956.85 - Right.
+- I think it's fair to say,
+4958.24 even though I haven't
+gathered the statistics that,
+4960.41 on the whole,
+4961.66 that human beings are
+becoming more and more anxious
+4964.48 and more and more stressed,
+4966.86 perhaps because of but
+certainly in parallel,
+4970.58 with the fact that we're
+trying to move away
+4972.87 from troubling things.
+4974.53 So, I've heard you say before,
+4978.05 that in terms of therapeutic approaches,
+4981.2 it's not just about
+the state you get into,
+4983.42 but whether or not you brought
+yourself there voluntarily.
+4986.96 - That's exactly right.
+4987.83 - So, this element of
+deliberate self exposure,
+4991.5 deciding I'm going to confront the trauma,
+4994.37 I'm going to confront the pain.
+4996.03 I'm going to confront the insomnia.
+4998.08 I'm going to confront the, you know,
+4999.45 and fill in the blank.
+5000.83 And then readjusting
+one's emotional response,
+5005.76 right up next to that troubling thing.
+5008.1 That seems to be the
+hallmark of this treatment.
+5011.29 And,
+5013.29 if I'm thinking about it correctly,
+5014.61 of pretty much all treatments
+for getting over stuff.
+5018.67 If people don't have access
+5020.1 to a really good clinician, like yourself,
+5022.65 how should they carry these
+thoughts and these ideas?
+5025.94 I mean, I think almost
+everybody of any reasonable age,
+5029.26 has memories or things that upset them,
+5032.3 but we learn to suppress them.
+5035.03 What does one do?
+5036.84 Obviously, the Reveri app has approaches
+5038.63 to dealing with some of
+this, inside of the app,
+5042.51 but how does one start to think about,
+5044.32 actually dealing with something like this
+5046.7 and avoiding the hazards
+5048.08 of just kind of reactivating
+a lot of painful experiences?
+5050.91 Because a lot of being
+a functional human being
+5052.81 is also going to work each day,
+5054.63 interacting with people and
+not bringing one's trauma,
+5057.27 and dumping it out all on the table
+5059.14 or being able to just
+function is so crucial.
+5062.81 So, how do you think
+about this as a clinician?
+5065.49 - Well, the image it comes to mind
+5067.46 is the Greek myth of Pandora's Box.
+5069.59 That it opened and the Furies got out
+5071.36 and you couldn't put 'em back in.
+5073.3 And we have this kind of fantasy
+5075.1 that once you get into these memories,
+5077.61 they'll take you over
+5078.46 and you'll never get them back in the box.
+5080.58 And I think that's wrong.
+5083.25 People who use hypnosis say that,
+5085.25 there are ways to present things to people
+5087.7 that will be helpful and ways that won't.
+5089.68 And one real mistake is to tell someone,
+5091.81 don't think about purple elephants.
+5094.33 What are you thinking about?
+- Purple elephants.
+5095.53 - It doesn't work.
+5096.6 So, you want to find a way to
+feel in control of the access
+5101.13 and to define what
+happened on your own terms.
+5104.46 And so, I'm not a big
+fan of trigger warnings.
+5106.88 I think we're going crazy over,
+5109.04 this could be upsetting,
+that could be upsetting.
+5110.78 Yeah, there are lots of
+things that are upsetting.
+5112.95 The average kid has
+watched 20,000 murders,
+5116.24 by the time he's 20 years old,
+5117.72 watching television and movies these days.
+5120.28 So, we see terrible things
+5122.69 and it's not a matter of,
+5124.34 are you exposed to
+something that's upsetting,
+5126.86 but how do you handle it?
+5128.09 What do you make of it and
+are you feeling in control?
+5130.37 It's not like,
+5132.926 what Putin is doing to
+his rival in Russia,
+5136.7 forcing him to watch propaganda
+movies 10 hours a day,
+5139.36 while he is in prison.
+5140.77 It's a matter of thinking about a problem,
+5146.34 in a way that leaves you
+feeling, you understand better.
+5149.17 You're in more control, you
+can turn it off when you want,
+5152.64 you can turn it on when you want.
+5154.26 And so we have to, in life,
+deal with stressful things,
+5157.29 there are studies,
+5158.46 Karen Parker at Stanford has
+done some wonderful studies
+5161.98 with primates about stress inoculation.
+5164.05 That if you separate a
+baby monkey from his mother
+5167.99 for two hours a day and then reunite them,
+5170.62 and then you stress
+that baby monkey later,
+5173.28 they actually handle stress better.
+5174.89 There's less cortisol arousal
+in the face of distress,
+5177.61 stress inoculation, that's been called.
+5179.35 So, mere exposure to trauma or stress.
+5183.27 It's a part of living anyway.
+5184.86 We can't avoid it, even if we'd like to,
+5187.14 and,
+5188.67 it's not pleasant, it's not great
+5190.21 but it's sometimes things
+you need to learn about life.
+5192.69 And if you can find an
+algorithm for facing it,
+5196.41 putting it into perspective,
+dealing with it,
+5198.45 you become a stronger
+person not a weaker person.
+5200.83 So, this idea that,
+5201.89 college students are such fragile flowers,
+5204.69 that if you talk about a
+sexual assault or something,
+5207.26 you're doing something terrible to them,
+5209.32 it's just wrong.
+5210.34 And I think we need to build our ability
+5214.46 to recognize and manage stress.
+5216.26 And you can't do that without doing it.
+5219.194 You can't ride a bicycle
+5220.38 without taking the risk of falling off it.
+5222.34 And so, I think that's the way,
+5224.96 I think of dealing with stress.
+5227.32 - Yeah, I really
+appreciate you saying that.
+5230.22 You and I were both at a gathering,
+5232.16 let's say where this
+issue was being discussed,
+5234.92 and around an issue of a
+publicized sexual trauma.
+5238.72 And you made an excellent case
+5240.67 for why this stuff can't
+be pushed under the rug.
+5244.41 And that actually, in my observation,
+5247.53 led to a lot of healing
+for the people that
+5249.277 and the families of people
+that suffered from this.
+5252.63 I do think people are resilient.
+5255.28 But we don't really teach
+how to think about feelings.
+5261.21 We're told that we need
+to feel our feelings,
+5263.06 but then again, we are also told
+5265.16 that feelings don't hold
+all the information.
+5267.08 And so, I think that as you mentioned,
+5268.56 there's no operating or users manual
+5271.22 for this nervous system thing.
+5273.34 Brings me to another issue,
+5274.55 which is the mind-body connection.
+5276.01 Something that we're very interested in
+5277.82 and you've done extensive work on.
+5281.72 We all like to think that,
+5282.73 getting more in touch with our body,
+5284.45 would be a great thing,
+5285.56 learning to interocept,
+5286.68 paying attention to
+our internal landscape,
+5288.4 would be a great thing.
+5289.233 But as we often discuss,
+5291.46 when we're feeling lousy,
+5293.2 then being really in touch
+with that lousy feeling,
+5295.88 may or may not be a good thing, right?
+5298.75 So, how should we think about mind-body?
+5301.41 I can see examples in hypnosis,
+5303.89 from your descriptions of hypnosis,
+5305.49 where you want to unify
+the mind-body connection.
+5309.92 Feel what you're thinking,
+5311.79 think what you're feeling, et cetera.
+5313.33 But I could also point to elements
+5316.13 within the hypnotic process
+5317.53 in which you are actively
+trying to uncouple those.
+5320.572 - That's.
+5321.405 - So, it sounds to me like,
+5323.46 this whole mind-body thing
+is a bit more like a car.
+5326.14 You can't say that 40 miles
+per hour is the optimal speed.
+5329.79 It kind of depends on the road you're on
+5331.497 and the turn you may or may not be taking.
+5333.95 - Right.
+5334.783 - How should we think about
+mind-body in terms of,
+5338.87 navigating daily life?
+5340.09 What do you think is the adaptive way,
+5342.65 to conceptualize the mind-body?
+5346.5 It's a big question.
+- It is.
+5348.78 It's a very interesting one.
+5350.99 I guess, I think that
+it's a matter or not of,
+5356.26 absolute control but more control,
+5358.54 that we need to think
+of our brain as a tool
+5363.46 and our body's signals as tools as well,
+5366.67 to help us understand what's
+going on in the world,
+5369.96 what we need, what matters,
+what's important, what isn't,
+5373.47 but also something that can be managed,
+5376.23 not simply absorbed.
+5379.24 And so, hypnosis I think
+is a kind of limiting case,
+5383.52 where you can push it about
+as far as we can push it
+5386.79 in terms of regulating pain.
+5388.68 Pain is a good example of that.
+5391.68 Obviously, you need to pay attention.
+5393.6 If you just broke your ankle,
+5394.68 you better pay attention
+to it and get help
+5396.8 or you're having crushing
+substernal chest pain.
+5399.36 You better do something about it.
+5400.86 But our brain,
+5402.22 is sort of programmed to
+treat all pain signals
+5404.53 as if they were novel pain signals.
+5406.26 If it's a sudden new problem
+that needs to be attended to.
+5409.61 I teach people to think of
+the pain and categorize it,
+5414.66 does the pain mean that
+if you put weight on this,
+5417.87 you're going to re-injure
+your ankle for example,
+5420.95 or does it simply mean
+that your body is healing
+5423.03 and the pain is a sign that,
+5424.8 gradually things are
+getting back to normal
+5427.2 and so, you can modify
+the way you process pain,
+5431.72 based on what your brain
+tells you the pain means.
+5435.49 And that's true for
+emotional pain as well.
+5437.74 And particularly where I think
+a strategy that really helps,
+5442.06 is if you think of an
+interpersonal problem
+5445.88 or a threat of something
+coming as an opportunity
+5451.18 to do something to
+ameliorate the situation.
+5453.6 So, it's not just it's happening to you,
+5456.13 but something that you can
+influence and do something about.
+5459.47 So, it's blending the receptive
+with the active response,
+5464.1 that I think can make a difference.
+5465.34 So, you try and process it in a way
+5466.95 that gives you a deeper
+understanding of what's happening.
+5469.47 You face it but you also say,
+5471.77 this is an opportunity for
+me to do something about it.
+5474.63 And the minute you realistically enha-
+5477.34 and this doesn't mean,
+imagine away a heart attack.
+5479.91 It means figure out how to
+rehabilitate from a heart attack
+5484.53 or a broken leg or something like that
+5487.31 in a way that you get as much control
+5490.12 into the situation as you can.
+5492.64 - I love it.
+5494.96 Grief.
+5496.79 Grief is one of those
+states that is very hard
+5499.71 to remove oneself from.
+5502.8 And a lot of people asked me,
+5504.57 how do I deal with grief?
+5506.25 And I'm not a clinician
+so I'm deferring to you.
+5508.88 - Mm-hm.
+- On the one hand,
+5510.3 actually someone at Stanford
+recently came to me and said,
+5513.56 my mother passed away and I
+had a sibling that passed away
+5516.09 and they were the only people that I had.
+5517.54 And I'm also living alone
+5519.16 and I'm challenged with
+a number of things.
+5521.18 And,
+5522.17 they looked like they
+were holding it together,
+5524.07 - Mm-hm.
+- very well, in fact,
+5526.52 given what they were describing.
+5528.88 And on the one hand,
+5531.75 well, I certainly pointed
+out that I'm not a clinician,
+5533.5 but I said on the one hand,
+5534.84 you could imagine that it
+would be necessary and useful
+5537.63 to go into the grief's state,
+5539.06 if you want to transition through it.
+5540.99 - Right.
+5542.7 - On the other hand there,
+5544.88 I've heard before that the cathartic model
+5547.19 of just really diving into an emotion,
+5550.41 can also be potentially hazardous.
+5552.83 If you don't have any
+anchors to grab onto.
+5557.88 What is view of psychiatry
+or your view of grief
+5561.73 and how to deal with grief?
+5563.04 Because I think grief is,
+5564.78 one of those all encompassing
+emotions for many people.
+5568.0 - Yeah, it is.
+5569.48 And it's a very important,
+natural, necessary stage of life.
+5572.64 And the reason we have
+all these grief rituals
+5575.13 from burials and memorials and headstones
+5579.38 and sitting shiva and other
+things that people do.
+5582.18 It's a way of making it real,
+5584.46 that an incomprehensible
+loss has to be comprehended.
+5588.15 You have to realize that you're
+now going to have to live life
+5590.87 without your loved one, your
+parent, your sibling, whoever.
+5595.43 And we've all gone through
+this at one time or another,
+5598.31 I certainly have.
+5599.71 And it's very hard to
+just come to terms with,
+5602.88 but one principle is to sort of say,
+5607.16 it's never all or none, it's more or less.
+5609.54 So yes, it's all or none
+that you've lost a loved one,
+5613.0 but I ask people as part of their grieving
+5615.86 to say to themselves,
+5617.39 and I do this in hypnosis sometimes too.
+5621.67 You've lost them but what
+have they left you with?
+5624.174 What have they bequeathed to
+you even though they're gone?
+5627.45 And I'll sometimes ask them to say,
+5629.3 if your mother could be here right now,
+5631.56 what would she say to you?
+5633.31 How would she feel about your life now?
+5635.06 What would she advise you to do?
+5637.0 So, in our support groups
+5638.82 for women with advanced
+breast cancer, we lost people.
+5642.0 And I got to tell you that we
+were warned by oncologists,
+5644.83 that we demoralized people that,
+5646.69 I mean, they were wonderful oncologists,
+5648.34 but there are some that were very afraid
+5650.29 that we would harm them in some way,
+5653.04 because the mortality rate is fairly high
+5656.59 with metastatic breast cancer.
+5658.29 They're going to watch people
+die of the same disease
+5661.15 and you'll demoralize them.
+5663.08 So, we actually measured their emotion
+5665.93 and the content of
+speech every five minutes
+5668.23 throughout a bunch of groups to make sure
+5669.87 that wasn't happening.
+5670.703 What we found was,
+5671.99 that they talked about
+more serious issues,
+5673.78 but the mood didn't actually get worse.
+5675.87 And we found in general that
+expressing negative emotion
+5679.01 on the long run helps
+people be less anxious
+5681.19 and depressed over time.
+5682.14 And we've shown this in
+randomized clinical trials.
+5684.35 So, it's not just my clinical impression.
+5687.22 And what we try to get them to do,
+5691.82 is to face a loss,
+5694.67 live with the emotion that comes with it
+5696.24 but also see that the
+reason it hurts so much,
+5698.81 is how much that person gave you.
+5700.53 So, we would do a self-hypnosis exercise
+5703.11 at the [indistinct] say,
+5703.943 I want you to get your body
+floating, safe and comfortable.
+5706.99 Now, picture Mary and sit
+with the feeling of sadness
+5711.52 that she's no longer with us.
+5713.45 And we do that for a few minutes.
+5714.95 And then we'd say on the other side,
+5716.75 picture one thing she left
+with you that you still have,
+5719.64 that you carry on in your heart,
+5721.79 her tradition of what she gave to you.
+5724.38 And so just seeing it,
+not as a complete loss,
+5728.12 but as a real loss, a painful loss
+5730.78 but one that helps you to reflect on,
+5732.68 what you gained from her and knowing her,
+5735.73 I think can be very helpful
+in the grieving process.
+5738.57 - That's very helpful
+way to conceptualize it.
+5742.09 Couple quick questions.
+5744.73 Can children be safely
+hypnotized or do self-hypnosis?
+5750.2 - It's sometimes harder for
+them to do self-hypnosis,
+5752.88 they need more structure to do it.
+5754.59 You've got to share your
+dorsolateral prefrontal cortex
+5758.39 with 'em a little bit,
+5759.7 but yes, absolutely, children
+can be very hypnotizable.
+5763.006 And I know pediatricians,
+5765.95 who use it wonderfully all the time.
+5768.21 They get them to focus on something else.
+5770.81 So, they're going to
+have to give them a shot
+5772.6 or draw blood or something.
+5774.21 And they'll say,
+5775.61 I'm going to press your happy button
+5778.39 and he presses their belly button.
+5780.04 And they start to giggle the way kids do.
+5781.84 And meanwhile, the nurse
+is drawing the blood
+5784.44 and they don't even notice it.
+5786.23 Dentists, good dentists
+can use it to help kids
+5788.95 with fear and pain.
+5790.38 So yes, it can be very
+effective for children.
+5792.72 We did a randomized trial.
+5794.03 I have a publication in pediatrics,
+5795.99 my late sister, who was a pediatrician,
+5798.85 and who always used to joke that,
+5800.86 she was the only one in our
+family who was a real doctor.
+5804.64 I said, I gotcha.
+5805.61 I got a paper in pediatrics
+[Andrew laughing]
+5807.94 and the paper was children
+having to undergo,
+5811.51 a voiding cystourethrogram.
+5813.08 So, the anatomy of the kidney,
+5816.27 if you'll forgive me, is
+sort of interesting in that,
+5818.79 the ureter that goes into the bladder,
+5821.7 normally goes into the
+bladder at an angle.
+5824.12 And so that means,
+5825.44 that when the bladder
+contracts to expel urine,
+5828.22 it automatically closes off the ureter
+5830.8 because it's sideways to the bladder.
+5832.83 Some kids are born with it perpendicular,
+5834.9 and then you'll get
+reflux into the kidney.
+5837.16 And some children outgrow it,
+5839.26 some need pretty complicated
+surgery to fix that.
+5842.88 And so, you image them every year or so
+5846.02 to see whether they're
+getting kidney damage or not.
+5848.68 And it's a pretty miserable experience.
+5850.49 You're a nine year old girl.
+5852.04 You have to go and lie
+on a hard cold table,
+5853.92 have strangers pull your legs apart
+5855.68 and stick a catheter into your urethra
+5858.52 and hold in the bladder
+and then expel urine.
+5862.02 And so, you get into
+these struggling fights.
+5863.83 And of course the more they struggle,
+5865.17 the more they constrict and
+it makes it harder to do it.
+5867.58 So, I was asked if we could test this.
+5871.04 So, we did a randomized
+trial at children's hospital.
+5874.13 They either got training in self-hypnosis.
+5876.27 I would meet with them and
+the mother the week before,
+5879.23 we find out from the kids
+where they like to be.
+5881.5 And I'd say, you're going to
+play a trick on your doctors.
+5883.78 Your body's there, you're somewhere else,
+5885.63 go visit your friend, go to
+Disneyland, do something else.
+5888.22 And the mother would work on this with me
+5890.1 at the head of the table.
+5891.64 And we found that these children
+were much easier to image.
+5895.32 One got so relaxed that, so
+your guy [indistinct] he's said,
+5897.66 normally it takes us 10
+minutes to get them to pee
+5899.85 after they're doing this.
+5901.2 She was so relaxed, she started peeing
+5902.82 before I could even get the
+bed pan under her [laughs].
+5905.15 And I had to clean up the table.
+5907.27 And they also, 17 minutes
+shorter procedures.
+5910.43 And that's a long 17
+minutes for a little kid.
+5913.85 So, it can be very
+effective with children.
+5916.6 They're less anxious, they have less pain
+5918.51 and get through these
+difficult procedures very well.
+5922.39 - That's great.
+5923.63 Has hypnosis ever been done for couples,
+5926.51 like couples therapy?
+5927.58 I'm thinking of pretty much
+every clinical setting here.
+5929.9 Both people have to be hypnotizable,
+5931.47 of course.
+- Mm-hm, yes.
+5932.51 - But the reason I ask about this,
+5934.06 is next, I'm going to
+ask about psychedelics
+5936.53 and there's a lot of interest in,
+5938.47 coordinating states through the use,
+5941.435 of drugs of different kinds.
+- Mm-hm.
+5944.09 - We actually do this when
+we treat depression, right?
+5945.87 You have a depressed
+person with family members
+5948.39 who are not depressed, and you say,
+5949.36 well, let's make them all
+not depressed [chuckles],
+5952.376 [David laughing]
+right, I mean,
+5953.63 but and I'm only half kidding there,
+5955.99 because that is kind of the
+underlying logic in some sense.
+5958.53 But are you aware of any of
+any coordinated hypnosis?
+5963.78 - That's interesting, I mean,
+5964.99 I've done plenty of it in
+groups not with couples.
+5967.85 - You can hypnotize large groups,
+5968.968 at once?
+- Oh yeah.
+5969.987 - Are we hypnotized right now?
+5971.47 - Yeah, you are.
+5972.303 And I hope you've been enjoying it.
+5974.087 [Andrew laughing]
+5976.74 But the metastatic breast cancer,
+5979.18 there was a group of like 10 women,
+5980.62 who would meet once a week
+5981.69 and we would all go
+into hypnosis together.
+5984.49 - I didn't realize that,
+5985.323 you were hypnotizing them collectively.
+5987.27 - Yes, right.
+5988.86 - Fascinating.
+- And that, if anything,
+5991.24 I think it brings out the
+best in people's abilities
+5993.68 because it's a shared social experience
+5996.52 and they would talk about it afterwards.
+5999.27 And so, yes, that's
+absolutely doable, yeah.
+6002.54 - And I don't want to focus
+on psychedelics specifically.
+6005.19 Maybe that's a topic for a future episode.
+6006.93 But is there any basis
+for combining hypnosis
+6010.72 with drug therapies inside
+of the hypnotic episode?
+6015.52 So, I realize that some patients of yours,
+6017.31 might be prescribed a antidepressant
+6019.91 or a medication for some purpose,
+6023.27 maybe same or different
+6024.26 than the hypnosis is
+being directed toward.
+6026.55 But is there any evidence that,
+6028.72 if people are relaxed through
+the use of a propranolol
+6033.67 or one of these many things
+in the psychiatrist's kit,
+6037.26 that hypnosis can be more effective?
+6040.18 - Well, interestingly,
+6041.85 one study that I haven't mentioned is,
+6044.18 we did spectroscopy on
+people who were hypnotized.
+6050.14 And we found that,
+6052.21 there was a correlation
+between hypnotizability
+6055.4 and GABA activity in the
+anterior cingulate cortex,
+6059.97 which fits with turning down activity.
+6063.22 To the extent that we can self-medicate
+6065.05 and GABA receptors basically are doing
+6067.51 what benzodiazepines do to the brain,
+6070.5 that can happen when
+people are hypnotized.
+6073.02 - So you're saying inside of the hypnosis,
+6075.5 you have neural evidence that,
+6077.37 there's a kind of a
+sedative effect of hypnosis
+6080.82 at the chemical level.
+6082.04 - Yeah, right.
+- Amazing.
+6083.03 - The people who are more hypnotizable,
+6084.7 have more of those GABA receptives
+6086.59 and it's related to the degree
+of their hypnotizability.
+6089.435 - Fascinating.
+6090.57 - In terms of, there have been studies,
+6092.39 where they give people
+medications as well.
+6095.21 And the interesting thing
+with benzodiazepines,
+6097.75 which activate inhibitory
+activity in the brain.
+6102.59 If you are very anxious,
+6104.37 it might improve your
+hypnotic response a bit.
+6106.4 If you're just so anxious
+6107.444 and [indistinct] you can't do it.
+6108.61 If you're not very anxious,
+6109.75 it actually inhibits hypnotic activity
+6112.1 because you get sort of
+sedated and just out of it.
+6114.4 And you can't focus
+your attention, as well.
+6116.75 So, by and large,
+6119.48 we don't use drugs as an
+adjuvant to hypnotic experience.
+6124.03 Most of the time you don't need to.
+6125.35 And sometimes it can make
+it worse rather than better.
+6129.61 There's some evidence that,
+6131.28 mild stimulants might enhance
+hypnotic responsiveness,
+6134.21 a little reliably, but too much,
+6136.47 Well, [indistinct] scatter attention
+6137.86 and you'll have less control over it.
+6139.56 So, they might be adjuvants,
+6142.6 but I frankly think hypnosis
+is more of a replacement
+6145.74 than a need of supplementation.
+6148.65 - Your laboratory and my laboratory have,
+6152.06 well, have sort of snuck into your lab
+6154.58 and then trying to emerge the two,
+6156.31 it's been a lot of fun,
+- It sure has,
+6158.003 been learning a lot about,
+6160.02 the power of respiration of breathing
+6162.13 to shift brain states, not just
+during breathing protocols,
+6165.5 but at all times.
+6167.04 And we will do an entire
+episode about those protocols.
+6169.66 I think we,
+- Cool.
+6170.77 - after those are published and so on.
+6174.57 But breathing itself is,
+you've described as a bridge
+6179.16 between conscious and unconscious states.
+6181.11 - Right.
+- So, I have to ask,
+6184.57 how important is the
+patient's breathing pattern?
+6188.05 How closely are you monitoring
+their breathing pattern?
+6191.26 How closely do you monitor
+your own breathing pattern
+6193.64 as you're inducing hypnosis?
+6195.51 Put simply, what is
+the role of respiration
+6197.87 in shifting the brain's state,
+6201.02 during a hypnotic protocol?
+6203.61 - Yeah, that's very interesting.
+6204.443 You had a great show with Jack-
+6206.49 - Yeah, Jack Feldman
+- Feldman.
+6208.19 [Andrew indistinct]
+And he is.
+6210.21 And the issue,
+6214.3 I watch it,
+6216.16 I try [stutters].
+6217.87 The work that we're enjoying
+doing together shows
+6220.7 that there are breathing patterns
+6221.9 that may increase sympathetic
+arousal or may decrease.
+6226.46 It may [indistinct]
+cyclic sighing seems to,
+6229.7 actually, where you have
+more time spent exhaling
+6232.08 than inhaling.
+6234.054 And there's reason to believe
+6235.62 that it induces parasympathetic activity,
+6238.24 'cause you're increasing
+pressure in the chest
+6240.72 and therefore allowing
+the heart to slow down
+6244.44 because blood is being returned
+to the atrium more easily.
+6249.58 I do use it.
+6250.97 I ask people to take a deep
+breath as part of the induction
+6253.6 and then slowly exhale.
+6255.08 And partly as a result
+of our research together,
+6257.24 I'm emphasizing this slow exhale more,
+6259.98 as part of [stutters],
+6261.94 to enhance the idea in the induction
+6263.85 that this is a period of relaxation,
+6265.63 'cause I think they are inducing that
+6268.26 and perhaps perceiving it as well.
+6270.96 So, there there's no,
+6272.89 you're absolutely right that
+breathing is very interesting
+6276.66 'cause it's right at the edge of conscious
+6278.3 and Jack talked about that too,
+6279.71 of conscious and unconscious control,
+6281.36 that it will go on automatically
+but we can control it.
+6284.9 And so, it's a kind of way
+6286.37 for us to demonstrate to ourselves,
+6290.37 greater ways of modulating
+our internal state.
+6294.28 So, you can either do it,
+6295.44 thinking about it,
+6296.36 the way we do with pain
+control in hypnosis
+6298.93 or you can do it to some extent,
+6300.47 by taking charge of your breathing
+6303.65 and doing things that
+will produce a change
+6305.98 that you want to see happen in your body.
+6308.06 So, I like it because
+it's right at that margin,
+6311.03 where you can enhance,
+6313.38 for me, I like that as a
+way of augmenting hypnosis,
+6316.56 more than medication,
+6317.75 I think this is a powerful
+way of doing that.
+6320.72 - Great, I'm really excited
+to see where all of this goes.
+6323.26 - Yes.
+- Breathing, vision,
+6325.18 bodily states are clearly the-
+6328.03 and directed mental focus,
+6332.5 seem to be the key elements of hypnosis.
+6334.96 Am I missing any other ingredients?
+6338.14 - Yeah, I think that's right.
+6339.87 - It's-
+- Breathing, vision,
+6340.94 - Breathing, vision, how
+you change your vision
+6343.41 and you don't, you know,
+6346.42 typically you're in a
+physically relaxed state,
+6349.54 but frankly there are people
+at the peak of performance,
+6352.85 including physical athletic performance
+6355.0 or musical performance when
+they're in hypnotic states too.
+6358.56 I've talked to classical pianists who say,
+6361.06 I'm not thinking, if
+I start thinking about
+6362.54 what my fingers are doing now, I screw up.
+6364.72 I'm floating above the piano,
+thinking about the tone
+6368.3 that I want to feel exuding
+from the instrument.
+6371.51 So that's a hypnotic like state too.
+6373.48 And many athletes who
+are in peak performance,
+6378.23 are just flowing with it.
+6381.15 They're not thinking step
+by step, what am I doing?
+6384.31 And that's when you're doing your best
+6386.04 or when we're working
+6388.87 or giving a talk and doing it well,
+6393.04 we're in a hypnotic like states.
+6394.82 So, it usually requires,
+6399.71 but doesn't necessarily
+require physical comfort
+6402.22 or quietness.
+6403.26 It can sometimes be intense activity.
+6406.11 - Incredible.
+6407.28 Well, this has been an amazing discussion.
+6410.67 I've learned so much as
+I always do from you.
+6414.06 Where can people learn more about,
+6416.41 how they can get hypnotized?
+6418.83 We mentioned Reveri,
+we'll put a link to it,
+6420.77 R-E-V-E-R-I.com is the way to access that.
+6425.29 - Or it's the Reveri
+app from the app store,
+6427.38 is the other way.
+6428.213 reveri.com is the website,
+you can get to it through that
+6430.56 or download the Reveri
+app from the app store.
+6433.84 - Great.
+6435.74 So, currently on apple,
+hopefully soon, also on Android,
+6438.84 but in the meantime,
+6441.59 what if people are interested
+6442.72 in exploring clinical hypnosis,
+6444.28 working with you or somebody similar?
+6447.24 Is there a centralized resource
+6448.84 that people can go to to find,
+6451.21 really well-trained hypnotists?
+6454.2 - There are two good
+professional organizations
+6457.89 that will help you with that.
+6458.73 One is the society for clinical
+and experimental hypnosis.
+6462.4 And I think that's sceh.us is their-
+6466.158 - Okay, we'll look it
+up and provide a link.
+6468.18 - And the American society
+for clinical hypnosis,
+6470.38 and they both provide referral
+services for professionals.
+6475.55 You can look it up.
+6476.59 I would just say in general,
+6478.1 look for someone who
+is licensed and trained
+6480.85 in their primary professional discipline,
+6482.78 psychiatry, psychology,
+medicine, dentistry
+6486.52 and who has training and
+interest in using hypnosis,
+6489.97 is a way to do it.
+6491.18 - Great and then one more
+question and then a comment.
+6495.17 The question is, will
+you be my psychiatrist?
+6497.173 - [laughs] I'm honored.
+6500.42 - It's a tall task.
+6502.21 I might be that the most stubborn patient.
+6504.5 - I think the hardest work's
+already been done, Andrew.
+6506.64 - Thank you.
+- You're fine, now.
+6507.679 - I appreciate that.
+[David laughing]
+6508.87 Well, and the final thing is a comment.
+6511.88 First of all,
+6513.04 thank you so much for being here today,
+6515.18 for sharing your knowledge.
+- You're welcome.
+6516.43 - I hope we can do it again and again.
+6518.88 - I hope so.
+6519.713 - I love working with your laboratory
+6521.44 and with you.
+- Likewise [indistinct].
+6522.273 - Because when you speak,
+6524.0 I learn and I know others do as well.
+6527.003 - Thank you.
+- We will put resources
+6529.23 to get to you but I also just want to say,
+6531.69 thank you for doing the work that you do.
+6533.78 - Well, thank you.
+- It's an incredible thing
+6535.72 that in this world
+6537.57 where we are discovering so
+much about how the body works,
+6540.6 the mind is still rather mysterious
+6542.77 and people are struggling
+with a lot of things,
+6544.52 but also I think people
+are really excited about,
+6547.06 applying tools like
+hypnosis to perform better,
+6550.24 feel better mentally and physically.
+6551.7 And so you've pointed us
+6552.56 to a tremendous amount of resources
+6555.09 and how these tools work
+6557.58 and where they've already
+been demonstrated to work.
+6559.53 So just, thank you.
+6560.99 I know this is your
+professional commitment in life
+6565.08 and we all benefit.
+6566.5 So, thank you so.
+- Well, thank you,
+6567.333 but it's been a real joy for me
+6568.75 to be collaborating with you
+6570.34 and for you to be using your precision
+6572.54 and knowledge about neuroanatomy,
+6574.78 neurobiology to address problems
+6577.41 that often people who are that disciplined
+6579.82 in the primary neurobiological end,
+6582.23 aren't as interested in as you are.
+6583.94 And so, it's really been a pleasure
+6585.4 to try and bring together
+what we both know
+6588.82 from these different perspectives
+6590.36 to build something that
+neither of us could do alone.
+6593.57 And so, it's been a real
+joy for me to do it.
+6596.13 - Thank you, I'm honored.
+6597.312 - Thank you.
+- Thank you very much, David.
+6598.84 - You're welcome.
+6600.61 - Thank you for joining me today
+6601.75 for my discussion with Dr. David Spiegel.
+6604.04 I hope you found it as
+fascinating as I did.
+6606.73 And if you'd like to see the video
+6608.31 of Dr. Spiegel hypnotizing me,
+6610.55 in what constitutes a abbreviated
+clinical hypnosis session,
+6614.17 you can go to the Huberman
+Lab Clips channel on YouTube.
+6617.63 Also, if you'd like to
+check out the Reveri app
+6619.58 for self-hypnosis designed by
+Dr. Spiegel and colleagues,
+6622.67 you can go to Reveri
+6623.59 that's R-E-V-E-R-I.com
+to see the Reveri app,
+6627.67 there's also other information there
+6629.02 about the scientific studies
+that support the Reveri app.
+6631.82 If you're enjoying and or
+learning from this podcast,
+6634.24 please subscribe to our YouTube channel.
+6635.93 That's a terrific zero
+cost way to support us.
+6638.67 In addition, please
+subscribe to the podcast
+6640.97 on Apple and or Spotify.
+6642.71 And on Apple, you have the opportunity
+6644.66 to leave us up to a five star review.
+6646.94 Please also leave us
+comments and feedback,
+6648.9 as well as suggestions for
+guests that you'd like us to host
+6651.29 on the Huberman Lab Podcast,
+6652.73 in the comment section
+on our YouTube channel,
+6655.24 please also check out the sponsors,
+6656.61 mentioned at the beginning
+of today's episode,
+6658.57 that's the best way to
+support this podcast.
+6661.08 We also have a Patreon that's
+patreon.com/andrewhuberman
+6665.03 and there you can support the podcast
+6666.97 at any level that you like.
+6668.56 On many previous episodes
+of the Huberman Lab Podcast,
+6670.85 we discuss supplements,
+6672.19 while supplements aren't
+necessary for everybody,
+6673.99 many people derive
+tremendous benefit from them,
+6676.25 for things like enhancing sleep and focus
+6678.48 and various other aspects
+of brain and body,
+6680.53 health and performance.
+6682.03 One issue with supplements however,
+6683.44 is that many of the supplements out there,
+6685.45 simply do not contain
+what's listed on the bottle
+6688.19 and or the quality of the
+ingredients is not very high.
+6691.95 That's why we partnered
+with Thorne Supplements.
+6694.17 Thorne Supplements are used
+by all the major sports teams
+6696.78 and they've partnered
+with the Mayo Clinic.
+6698.9 The reason they have so
+many high level partners,
+6701.12 is that Thorne Supplements,
+6702.37 are of the very highest
+quality ingredients.
+6704.76 They also are extremely precise
+6706.88 in terms of what's listed on the bottle,
+6708.81 is always what it's in the bottle.
+6710.57 If you'd like to see the
+Thorne Supplements that I take,
+6712.68 you can go to Thorne,
+6713.64 that's thorne.com/u/huberman
+6717.433 and there, you can see the
+Thorne supplements that I take
+6720.24 and get 20% off any of those supplements.
+6722.68 Also, if you navigate
+deeper into the Thorne site
+6724.88 through that portal,
+6726.0 thorne.com/u/huberman
+6729.9 you can also get 20% off
+any of the other supplements
+6732.61 that Thorne makes.
+6733.99 If you're not already following
+us on Instagram and Twitter,
+6736.52 please do so,
+6737.353 it's hubermanlab on both
+Instagram and Twitter.
+6739.4 And at those channels,
+6740.85 I cover science and science related tools.
+6742.75 Some of which overlap with
+the content of this podcast,
+6746.05 other of which does not
+and is unique content.
+6748.72 So, once again, thank you for joining me
+6750.27 for my discussion with Dr. David Spiegel
+6752.37 and last but certainly not least,
+6754.49 thank you for your interest in science.
+6755.967 [upbeat music]

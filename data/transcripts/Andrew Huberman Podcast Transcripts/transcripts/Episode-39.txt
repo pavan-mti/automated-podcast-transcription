@@ -1,0 +1,5190 @@
+0.32 - Welcome to the Huberman Lab Podcast,
+1.85 where we discuss science
+and science based tools
+4.89 for everyday life.
+7.056 [upbeat rock music]
+9.31 I'm Andrew Huberman,
+10.25 and I'm a professor of
+neurobiology and ophthalmology
+12.93 at Stanford School of Medicine.
+14.89 Today, my guest is Dr. Paul Conti.
+17.27 Dr. Conti is a psychiatrist
+18.84 who did his training at
+Stanford School of Medicine,
+21.33 and then went on to be chief resident
+22.97 at Harvard Medical School.
+24.32 He now runs the Pacific Premier Group,
+26.36 which is a collection of
+psychiatrists and therapists
+28.83 focusing on solving
+complex human problems,
+31.53 including trauma, addiction, personality,
+34.04 and psychiatric disorders.
+35.97 Today, we discuss trauma in detail
+38.38 and the therapeutic process in detail.
+40.91 For instance, we discuss what is trauma?
+43.32 How do you know if you have trauma?
+45.45 Dr. Conti shares with us, for instance,
+47.34 that not every experience
+that we think is traumatic
+49.59 is necessarily traumatic
+50.95 and yet many people might have trauma
+53.35 without even realizing it.
+54.81 We also talk about the
+therapeutic process generally,
+57.31 for instance, how to pick a therapist,
+59.17 how to best approach
+and go through therapy
+61.5 and how to evaluate whether or not therapy
+63.6 and your relationship to the
+therapist is working or not.
+66.46 We also talk about self
+therapies because we acknowledge
+69.12 that not everyone has access
+to or can afford therapy.
+72.63 And we talk about drug therapies,
+74.9 for instance, antidepressants,
+antipsychotics.
+77.92 We talk about alcohol, cannabis,
+80.5 ketamine and the psychedelics,
+including psilocybin, LSD.
+84.84 And we talk about the clinical use of MDMA
+87.42 and what the future of that looks like.
+89.21 The reason for bringing
+Dr. Conti onto this podcast
+91.68 is because I see him as the person
+94.21 who has the greatest and most
+holistic view of therapy,
+98.26 trauma, drug therapies, talk therapies,
+101.18 and how self therapy and work
+with others can be integrated
+104.52 for both healing and growing
+from difficult circumstances.
+107.86 Dr. Conti is also the author
+of an exceptional book,
+110.81 entitled "Trauma: The Invisible Epidemic,
+113.52 How trauma works and how
+we can heal from it."
+116.46 That book describes trauma
+117.93 and its many features and many tools,
+120.74 some of which we discuss
+on the podcast today.
+123.33 So whether or not you have trauma or not,
+126.11 by the end of today's episode,
+127.35 you will have a much deeper understanding
+129.17 about what trauma is.
+130.75 In fact, I'm confident
+that you will gain insight
+132.77 into whether or not
+you have trauma or not,
+135.01 whether or not people close
+to you have trauma or not
+137.29 and the various paths to
+recovering and indeed growing
+140.13 from trauma that we can all take.
+142.39 As you'll soon learn Dr. Conti
+143.91 is an exceptional communicator
+and has a unique window
+147.49 into the trauma and therapeutic process
+149.74 that I know that all
+of us can benefit from.
+152.21 Before we begin,
+153.043 I'd like to emphasize that
+this podcast is separate
+155.27 from my teaching and
+research roles at Stanford.
+157.5 It is however,
+158.333 part of my desire and
+effort to bring zero cost
+160.36 to consumer information about science
+161.96 and science related tools
+to the general public.
+164.69 In keeping with that theme,
+165.83 I'd like to thank the
+sponsors of today's podcast.
+168.55 Our first sponsor is ROKA.
+170.44 ROKA makes eyeglasses and sunglasses
+172.39 that are of the absolute highest quality.
+174.69 The company was founded by
+two all American swimmers
+176.82 from Stanford and everything about ROKA
+179.19 eyeglasses and sunglasses
+180.62 was designed with performance in mind.
+182.93 I spent a lifetime working
+on the visual system
+184.83 and I can tell you that our
+visual system has to contend
+186.75 with a lot of different challenges.
+188.38 For instance, when you
+move from a shady area
+190.5 to a brightly lit area,
+192.09 your eyes in your brain
+have to adjust in order
+194.0 for you to be able to see clearly.
+195.64 ROKA, eyeglasses and sunglasses
+197.14 were designed with the biology
+of the visual system in mind.
+200.06 So you never notice those transitions.
+201.73 They're very seamless.
+202.69 You always see things
+with perfect clarity.
+205.04 The other terrific thing about ROKA
+206.24 eyeglasses and sunglasses is
+they are extremely lightweight.
+209.08 Most of the time,
+209.913 I can't even remember
+that I'm wearing them.
+211.35 I wear readers at night
+and I wear sunglasses
+213.53 sometimes in the daytime
+214.71 when it is very brighter
+or I'm driving and so on.
+217.33 If you'd like to try ROKA
+eyeglasses or sunglasses,
+219.61 go to roka.com,
+220.9 that's roka.com and enter the
+code Huberman to save 20% off
+225.14 on your first order.
+226.07 Again, that's roka.com
+227.93 and enter the code Huberman at checkout.
+230.1 Today's podcast is also brought
+to us by inside tracker.
+233.06 Inside tracker is a
+personalized nutrition platform
+235.41 that analyzes data from your blood
+237.24 and DNA to help you better
+238.48 understand your body and help
+you reach your health goals.
+241.43 I've long been a believer in
+getting regular blood work done
+244.3 for the simple reason that
+many of the factors that impact
+247.69 our immediate and long-term health
+249.42 can only be measured and assessed
+with a quality blood test.
+252.44 And nowadays with the
+advent of modern DNA tests,
+255.15 we can also get insight
+into, for instance,
+257.21 our biological age and
+see how that compares
+259.53 to our chronological age.
+261.09 And of course,
+262.36 despite what our birthday
+cake screams back at us,
+264.92 it is our biological
+age that really matters.
+268.93 If you're going to get blood
+tests or DNA tests, however,
+271.28 you need to be able to interpret the data.
+272.76 And that's really where
+inside tracker stands apart.
+275.93 A lot of companies will give
+you a DNA test or a blood test.
+279.7 They'll send you values of
+hormones, metabolic markers,
+282.47 etcetera, but you don't know
+what to do with those data.
+284.7 InsideTrackeris a very
+easy to use platform.
+287.93 So when you get the numbers back,
+289.87 you can click on any of the
+numbers that either are in range
+293.0 or out range, too low, too high, etcetera,
+295.27 and it will direct you towards
+specific behavioral tools,
+298.19 so lifestyle factors, nutritional tools,
+300.45 supplement tools, etcetera,
+301.71 that can help you bring those numbers
+303.13 into the ranges that are best for you,
+305.0 which is really an exceptional
+tool that makes all the blood
+308.1 tests and DNA tests really
+exceptionally powerful.
+311.65 If you'd like to try Inside Tracker,
+313.07 you can go to insidetracker.com/huberman
+to get 20% off
+316.79 any of InsideTracker's plans.
+318.41 That's inside tracker.com/huberman
+to get 20% off.
+322.3 Today's episode is also
+brought to us by Blinkist.
+325.17 Blinkist is an app that has
+thousands of non-fiction books
+328.23 condensed down to just 15 minutes each
+330.28 of key takeaways that you
+can read or listen to,
+332.46 to extract the most important
+knowledge from those books.
+335.54 I love reading physical books,
+337.3 literally physical hard copies of books.
+339.02 And I like listening to audio books.
+341.04 However, I also like to revisit books
+342.67 that I've read or listened to,
+344.1 and sometimes I just want
+to get the key points
+346.19 or the key takeaways from a book
+347.63 that I've never read or listened to.
+349.64 Blinkist is terrific for all of that.
+351.96 For instance, when researching
+our episodes on sleep,
+355.19 one of the books that I
+read and found very valuable
+357.62 is Matt Walker, professor
+at UC Berkeley's book,
+360.937 "Why We Sleep,"
+362.13 I've read that book,
+363.07 but then I wanted to also make sure
+364.64 that I hit the key takeaways.
+366.31 Blinkist was essential for that.
+368.67 Other books that I've read
+369.67 before and that I own and enjoy,
+371.67 but I listened to the Blinkist
+version of from time to time
+374.38 are things like Tim
+Ferris's "The 4-Hour Body"
+377.04 or Tim Ferris's The 4-Hour Chef book,
+380.2 both of which are excellent
+381.32 or Nassim Taleb's "The Black Swan"
+383.69 and there are many other titles as well.
+385.61 Blinkist is also a great way
+386.7 to finally get through many of the books
+388.12 that you've been meaning to read,
+389.48 but haven't had time for.
+391.15 With Blinkist, you get
+unlimited access to reader
+393.36 or listen to a massive library
+394.98 of condensed non-fiction books.
+396.87 Right now, Blinkist has a special offer
+398.82 just for our Huberman
+lab podcast audience.
+401.63 If you go to blinkist.com/huberman,
+404.03 you can get a free seven day trial
+406.0 and get 25% off a Blinkist
+premier membership.
+409.34 That's Blinkist spelled B-L-I-N-K-I-S-T,
+413.45 blinkist.com/huberman to get 25% off
+416.38 and a seven day free trial.
+419.073 And now for my discussion
+with Dr. Paul Conti.
+421.83 Paul, thank you so much
+for being here today.
+423.92 - Thank you so much for having me.
+425.55 - I've been looking forward to this
+427.59 and I've received a ton
+of questions about trauma,
+432.24 about therapy,
+433.77 about how to assess
+where one is in their own
+436.71 arc of problems and addressing
+440.33 familial issues and relationship
+issues and so forth.
+444.61 If we could just start off very basic
+446.07 and just get everyone oriented.
+447.71 - Sure.
+448.543 - How should we define trauma?
+451.18 We all have hard experiences.
+453.35 Some of them, we might
+ruminate on more than others,
+456.77 but what is trauma?
+460.26 - To make the definition relevant,
+462.924 I think we have to look at
+trauma as not anything negative
+466.2 that happens to us, right?
+467.68 But something that
+overwhelms our coping skills,
+471.0 then leaves us different
+as we move forward.
+474.21 So it changes the way that
+our brains function, right?
+477.78 And then that changes evident in us
+479.81 as we move forward through life.
+482.83 - So how do we know if
+we have trauma or not?
+484.9 I've heard before everyone has trauma.
+487.473 For instance, I've heard
+490.101 that if we are a child
+or when we are a child
+493.08 and we request love from
+a parent or attention
+495.77 from a parent,
+496.92 if they dismiss us that
+that's a microtrauma,
+501.21 is that overstating or unfair
+to the real issue of trauma?
+506.4 Do we all have trauma?
+507.9 What are micro traumas?
+509.14 What are macro traumas?
+510.52 - Right, I think traumas
+513.1 that we might categorize
+as disappointments, right?
+516.726 Or things that are are negative,
+518.24 but not deeply impactful,
+520.2 I think is not a helpful
+definition, right?
+523.123 I think the helpful definition
+is something that rises
+526.01 to the magnitude of really
+changing us and something
+529.21 that we can see both in how we behave.
+532.37 We can see it in mood,
+533.39 anxiety, behavior, sleep, physical health.
+536.35 So we can identify it
+538.13 and we can also see it in brain changes.
+541.992 So the fact that we become,
+542.825 say more hypervigilant, right?
+543.8 More vigilant,
+544.633 and then we can see that
+different parts of the brain
+547.28 are more active.
+548.72 So that definition,
+551.75 that definition captures how trauma,
+554.59 if it rises to a certain
+level, like what we would say,
+557.3 trauma that makes a post
+trauma syndrome, right?
+560.1 Leaves us different,
+561.84 I think is the helpful
+definition of trauma
+563.93 because it's a clinical definition, right?
+565.86 It's changes in us as people
+568.968 and we can map those changes
+571.698 to identifiable shifts
+in our brain function.
+574.82 - So how do we know if we've
+been changed by something?
+579.27 I mean, I can think
+back to childhood events
+583.233 where some kid on the playground
+584.66 or in the classroom said something,
+586.93 I didn't like, something
+negative about me.
+588.8 I think most people can do that.
+590.03 We have a great memory for the kid
+592.92 that said something awful,
+594.06 or the parent or teacher
+that said something awful
+596.08 that really felt like it hurt
+us or at least stuck with us.
+599.47 So clearly one's brain,
+602.19 my brain in this example has been changed
+604.26 by that event such that I remember it,
+608.01 but how do we know if something
+609.34 has actually changed the way that we are?
+611.54 Because of course we don't
+know how we would be otherwise.
+614.57 - Right, right.
+616.17 - That's difficult, right.
+618.47 It's doable, but it's
+difficult because the response,
+622.06 so if the trauma rises to the
+level of changing our brains
+625.25 and I don't just mean, like
+we have a new memory, right?
+627.64 So we can have memories
+628.57 of something that was negative, right?
+630.25 And in that sense,
+631.083 it changes the brain because
+632.51 now there's something we can call to mind,
+634.57 but it doesn't change the
+functioning of the brain, right?
+638.05 If trauma rises to the level
+639.92 of changing the functioning of our brains,
+642.81 then there's almost always
+a reflex of guilt and shame
+646.92 around the trauma that can lead us
+650.419 and often leads us to bury,
+right, to avoid it, right?
+654.36 To feel that now there's
+something negative inside of me
+658.632 and it feels shameful
+660.01 or it feels like no one
+else would accept it, right?
+664.691 So, what happens is people tend to avoid
+666.5 looking at the change in them,
+669.08 which is exactly the opposite
+670.54 of what needs to be done, right?
+671.76 The idea of in a viral pandemic, right?
+673.97 We want to stay away from one
+another and isolate, right?
+676.69 But with the trauma epidemic we need,
+680.33 we need to communicate with other people.
+682.12 We need to communicate and
+put words to what's going on
+684.83 inside of us.
+685.663 And very often a, a person knows, I mean,
+688.88 I've done so much clinical
+work over about 20 years,
+692.9 that has focused on trauma.
+694.83 And a lot of the times
+the person knows, right?
+698.24 But they're not admitting to themselves
+700.07 because they're afraid of it, right?
+701.23 They don't know what to do,
+but if they start talking,
+704.5 then they'll talk about
+the event or the situation.
+708.24 It could be something acute,
+709.41 or it could be something chronic,
+711.12 that really has been
+harmful to them, right?
+713.744 And then they feel different afterwards.
+715.34 Like, oh, after that,
+716.53 I started thinking differently,
+feeling differently,
+719.07 but that doesn't always happen.
+720.41 Sometimes it's a process of exploration
+723.55 through dialogue, right?
+725.1 Whether it's written
+or whether it's spoken
+728.03 of the person,
+729.32 so of exploring the changes
+inside of themselves,
+732.04 maybe changes to their self-talk inside,
+734.44 changes to their thoughts about the world
+736.26 and whether they can navigate
+737.83 safely and readily in it.
+739.75 And you know, it anchors
+as I talk about this,
+742.18 the example I'll use at times
+is the example of my own life,
+745.99 where, you know, when I was much younger
+748.53 in my early twenties,
+749.87 my younger brother took
+his life by suicide.
+753.2 And the response of guilt and shame
+756.82 and hiding all of it inside of me was,
+761.08 it's very dramatic,
+764.591 but I wasn't acknowledging it, right?
+766.33 'Cause I didn't know what to do about it.
+767.76 And I felt guilty and I felt
+responsible and I felt ashamed.
+771.64 So there was an avoidance inside of me.
+775.047 And then I wasn't saying to
+myself, hey, before this,
+777.053 like you thought that
+you could be effective
+779.78 and you could make your way in the world.
+781.306 And you know, if you were a
+good person and you worked hard,
+782.85 you could make a difference, right?
+784.46 And then afterwards, I
+thought, I can't get anywhere.
+787.85 The world's against me.
+789.826 And I felt like, oh my,
+my options are all gone.
+792.48 And you know,
+793.467 I was like 24 years old, right?
+794.5 So, I didn't see that
+the change was in me,
+797.98 but I was taking care of myself poorly.
+800.39 Like there was enough
+going on that was unhealthy
+802.9 that I couldn't avoid the
+realization that like, hey,
+805.28 I'm different now and in
+these ways that are automatic.
+809.14 My reflex to, can I make
+my way in the world?
+811.87 Can I have a good life?
+812.91 Can I be happy?
+813.8 My reflex is to that we're all different.
+816.25 And they were coming through
+the lens of heightened anxiety,
+819.24 heightened vigilance, a sense of guilt,
+821.13 a sense of shame and a
+sense of non belonging
+824.62 in the world
+825.47 and was ultimately good and
+helpful people around me
+829.44 and my own realization.
+830.69 And hey, things are not going well, right?
+832.5 That led me to then get some help
+834.45 and to be able to talk about it
+835.93 and realize like, oh my gosh,
+837.31 I need to face these things
+838.78 that are going on inside of me.
+842.403 - From a psychoanalytic psychological,
+844.48 and maybe even a neuroscience
+perspective, two questions.
+848.31 Why do you think that
+when we experience trauma,
+854.342 these things that we call
+guilt and shame surface?
+857.95 Everything you're telling
+me is that in the end,
+860.56 that's not adaptive.
+862.02 - Hmm.
+862.853 - [Paul] Why would we be built that way?
+865.353 - Right, right.
+866.922 - So that's the first question.
+868.686 And then the second question is,
+870.49 how should we conceptualize
+guilt and shame?
+875.38 I think that we hear guilt.
+876.52 We hear shame.
+878.55 How should we think about it?
+880.569 I mean, those emotions must
+exist in us for some reason,
+885.91 but in this case, it seems like they,
+887.24 they don't serve us well.
+888.3 So maybe it that order
+or in reverse order,
+893.29 what is guilt, really?
+894.59 What is shame really?
+897.439 And why is it that we seem
+to be reflexively wired
+899.76 to feel guilty and feel
+ashamed when that's the exact
+904.37 opposite of what we need to
+do in the case of trauma?
+906.87 - Right, right.
+908.317 No, I think these are great questions.
+909.15 And I don't think anyone
+knows the answers for sure.
+912.21 But my read of all of that
+is that there's something
+916.03 adaptive that has happened in us
+918.66 through evolution that
+now becomes maladaptive
+922.8 in the way we live in
+the modern world, right?
+925.43 So if you think of through
+most of human development,
+927.97 people weren't living that long, right?
+929.49 And the idea was to survive and reproduce.
+933.82 So, traumatic things that happened to us,
+935.53 it would make sense for
+them to stay with us, right?
+939.32 So if you ate a new food and got really,
+941.36 really sick, you better
+remember that, right?
+944.82 If you see someone from
+the group of people,
+947.73 a couple miles away, right?
+949.974 And one of those people
+attacks you, right?
+951.815 It's like, you better remember that.
+954.407 So, the traumatic things
+956.238 that are sort of emblazoned in our brain
+957.97 are built to last, right?
+959.7 Things that are positive will generate
+961.73 some emotion inside of us,
+963.23 but things that are profoundly negative
+965.37 are much more likely to stay with us.
+967.67 And I think that that was adaptive, right?
+970.19 When all of that was
+about survival, right?
+972.98 And I think the same thing is
+true with say shame, right?
+978.508 So I think here, it makes
+sense to talk a little bit
+981.11 and actually I'm interested
+your thoughts about this, right?
+983.498 That the limbic system, right?
+985.71 So the system often is called
+the emotion system, right?
+988.55 In our brains has actually of course
+991.27 varying function, right?
+992.5 And one aspect is affect, right?
+995.48 So affect is aroused in us,
+998.27 which I think the meaning then
+1000.25 is it's created in us
+without our choice, right?
+1005.251 So if we're walking down the road
+1007.023 and someone jumps in front
+of us or pushes us, right?
+1009.2 Then there's a response
+of fear, anger, right?
+1012.24 Heart starts beating faster,
+1014.13 more blood to the muscles,
+1016.64 we're getting ready to fight, right?
+1018.72 Or run, right?
+1019.93 And then we become aware of it, right?
+1022.83 So, the aroused affect in
+us is also about survival
+1027.54 and it has a very deep impact upon us
+1030.907 and shame is an aroused affect.
+1033.87 So it can be raised in
+us without our choice
+1036.41 and it's very powerful,
+1037.93 which if you think about that
+1040.367 is an extremely strong deterrent, right?
+1042.15 So if you had, you know,
+1043.52 imagine a tribe or a
+group of people, right?
+1045.89 That are sheltered
+together, and, you know,
+1048.92 someone eats half the food
+at night or something, right?
+1052.501 And like there's a very
+negative response, right?
+1054.717 And that person feels shame
+because shame is so powerful
+1058.38 to control behavior, right?
+1060.3 So the way that trauma
+can change our brains
+1063.82 and stay with us in a way
+that says, be more vigilant,
+1067.6 look at the world in a different way,
+1069.42 act more defensively, right?
+1072.756 And how that links to shame and to guilt,
+1074.98 and then guilt in,
+1076.43 guilt becomes what gets
+called feeling technically
+1079.7 where we relate the aroused
+affect to ourselves, right?
+1085.013 So, shame the aroused affect and guilt,
+1087.01 the next step, right?
+1088.65 When the shame gets related
+to self are such profound
+1091.827 behavioral interventions
+and deterrents, right?
+1095.984 That you can see,
+1096.817 I think how evolutionarily
+kind of all makes sense
+1099.64 if we're fighting for survival
+1101.63 and we're an elder statesman
+if we make it to 20, right?
+1104.79 This makes sense.
+1106.02 But it doesn't make sense in a world
+1108.46 where we live much longer, right?
+1110.53 We navigate in all
+sorts of different ways.
+1113.04 And there's so much coming at
+us that can be traumatizing.
+1116.17 I mean, if you think
+about the news, right?
+1118.237 I mean, how many times have
+I written a prescription
+1120.02 for someone that says no more news, right?
+1122.757 - You've actually written
+those prescriptions?
+1124.37 - Oh, yes, yes.
+1125.84 So glance at the news,
+look at the news for news,
+1128.9 anything going on I need to know, right?
+1130.82 But what are people doing is looking at it
+1133.577 and they're clicking and they're clicking.
+1135.06 And there's a sense of
+being like enthralled
+1138.57 in a very frightening way with the horrors
+1141.73 that are in front of us.
+1144.926 And it shows how yes,
+1145.759 trauma can come through acute
+things that happen to us.
+1148.87 Trauma can come through chronic
+things, chronic denigration,
+1151.68 whether it's based upon
+socioeconomic status,
+1154.45 immigration status,
+1158.05 race, religion, sexuality,
+1160.16 gender identity, these
+chronic traumas, right?
+1164.12 Of being denigrated by
+the society around us,
+1167.22 or treated as less than
+can change the brain.
+1169.56 But vicarious experiences can too, right?
+1172.61 And we know this is not theoretical.
+1174.57 We know that the changes in the brain
+1177.11 can come from vicarious experiences too,
+1179.55 which is why people who
+are glued to the news
+1181.79 and then feeling like, oh my goodness,
+1183.27 like what is happening?
+1184.75 The mothers in the Ukraine who've
+1187.07 lost babies in the war.
+1188.237 And like, there are things
+that are so terrifying
+1191.665 that if we spend so much time with that,
+1193.4 it has a similar effect.
+1194.7 So our brains are built
+to change from trauma,
+1199.36 but not in the way we experience trauma
+1202.097 and not in the way that we live life
+1204.21 in terms of the nature of living life
+1206.417 and the duration of life
+in the modern world,
+1208.26 where these traumas that happen to us
+1210.92 are often so bad for us
+1213.08 because they change how
+our brain is functioning.
+1215.63 And then our entire orientation
+1217.37 to the world is different
+1218.88 and that could be for,
+1220.74 years and years and decades and decades.
+1223.56 It brings so much misery and suffering
+1226.14 and at times it brings death.
+1227.96 If you think about a hundred
+thousand overdose deaths
+1231.38 in this country in a year, 100,000,
+1234.477 I mean where is a,
+1236.49 so much of that arising from
+is a person who's treated
+1239.97 addiction very intensively
+over many years.
+1243.0 I think that, well,
+1244.05 I feel sure that the majority of addiction
+1246.91 that I see and treat arises,
+1250.24 ultimately the roots of it are
+in trauma and are in trying
+1254.11 to soothe something that's
+stuck inside that the person
+1256.7 isn't letting outside because
+of the guilt and shame,
+1258.85 but it's running around in their head
+1260.42 and tormented by it.
+1262.19 And now there's a pool for,
+1264.18 for these drugs or sometimes
+medicines to soothe.
+1267.425 So, the opiates
+1268.46 that were given after
+a minor surgery, right?
+1271.01 Are like, okay, yeah,
+1271.9 they help the pain for the minor surgery,
+1273.55 but what they're really helping
+is the pain inside, right?
+1276.7 But that very quickly turns
+into addiction, danger, risk.
+1280.75 And we see that over and over again
+1284.04 and not in a theoretical way.
+1285.78 Like I see that in people
+who have been in my practice
+1289.22 with addiction, arising from trauma
+1291.88 who have subsequently died.
+1293.58 So it's sort of, writ
+large in our existence,
+1296.92 in the modern world.
+1298.52 - Incredible to me that
+this is the way it works.
+1303.369 What I mean by that is
+1305.8 this idea that I've heard about before.
+1307.9 I think it was a Freudian concept
+1310.785 of a repetition compulsion.
+1311.618 - Yes.
+1313.115 - That this is what boggles my mind,
+1315.14 as I'm hearing this,
+1316.68 something happens to us or we
+observe something traumatic.
+1320.78 And instead of acknowledging that
+1323.037 and trying to distance from it,
+1324.8 there seems to be a
+reflex of shame and guilt
+1328.36 in many cases and stuffing it away
+1331.16 and then a repetition of behaviors
+1334.12 to continue to try and just stuff it away.
+1336.836 - [Paul] Yes.
+1337.669 - Like you're trying
+to pack, I don't know,
+1338.83 recently I was packing a home
+and trying to get a sleeping
+1341.065 bag back into the bag.
+1343.09 it seems like it's always
+trying mushroom out the top,
+1345.94 this kind of thing.
+1346.773 It takes a lot of ongoing effort.
+1348.65 And at the same time that
+if this thing really exists,
+1352.49 this repetition compulsion,
+1354.15 people will return over and over again
+1356.904 to the kinds of scenarios
+or at least the kinds
+1358.45 of emotional states that
+look just like the trauma.
+1360.742 - [Paul] Yes.
+1361.575 - Or resemble it in some way.
+1363.889 So the question I have for you is,
+1365.37 is the repetition compulsion a real thing?
+1368.87 And why would we be wired that way?
+1372.41 My understanding of this
+concept of the repetition
+1374.81 compulsion is that we all
+want to solve our traumas.
+1378.68 - [Paul] Yes.
+1379.724 - And it allows us to put
+ourselves into micro or again,
+1383.28 macro versions of that
+over and over again.
+1385.99 We get to run the
+experiment again and again.
+1388.142 - Right.
+1388.975 - In an attempt to solve it.
+1389.808 - Right.
+1390.641 - In the case of taking a drug
+1391.474 that it's clear certain
+drugs like opioids,
+1394.23 it's clear how that would not allow us,
+1396.16 to deal with it, right?
+1397.567 - [Paul] Yeah.
+1398.4 - It's just masking the emotional state.
+1400.24 But why is it for instance that somebody
+1402.74 who experiences sexual trauma,
+1404.24 then places themselves into circumstances
+1406.62 of more sexual trauma?
+1409.01 Why is it that somebody who
+is in an abusive relationship
+1411.39 goes on to have a second and
+third or fourth verbally,
+1414.33 or physically abusive relationship?
+1416.3 Yeah, I mean, on the
+face of it, you just go,
+1417.64 that makes no sense.
+1418.85 And yet we see this over
+and over and over again.
+1422.53 - Yes, the first thing I would say
+1425.33 about the validity of the repetition
+1426.37 compulsion concept, right?
+1430.279 Is a strong yes.
+1431.12 Like, yes, we see that over and over.
+1433.57 It's not necessarily in everyone, but boy,
+1436.25 it is in a lot of people
+who have suffered trauma.
+1440.36 And I think there's a very
+good reason on the face,
+1443.72 on the surface of it, it's
+like, it makes no sense.
+1446.3 But then if we think,
+well, how does the brain,
+1448.67 how does our brains
+actually function, right?
+1452.806 We're sort of trained at
+least in Western society,
+1454.67 I think, to think of ourselves
+as logical creatures, right?
+1457.623 That like, oh, we're logical.
+1459.26 And ultimately everything in
+us can just boil down to logic.
+1462.01 And if we think about it enough,
+1464.703 we're going to understand how
+to make the right decisions,
+1467.17 which is completely not true, right?
+1470.11 The limbic system, right?
+1471.58 The emotion system so
+to speak inside of us
+1475.881 always Trump's logic, right?
+1477.09 If you think about,
+1478.631 does it ever make sense to
+run into a burning building?
+1480.58 I mean, logic says no, right?
+1482.6 But if someone you love is
+in the burning building,
+1485.33 people run right in, right?
+1487.886 Because the limbic system says, yes.
+1489.22 So when logic and emotion
+come head to head,
+1492.55 emotion wins all the time.
+1494.13 If emotion is powerful enough,
+1495.82 it will always win.
+1498.795 And so the limbic system is
+so important and the limbic
+1501.5 system does not care about the
+clock or the calendar, right?
+1506.41 And that's the answer.
+1507.56 And also, say why
+1509.682 to the repetition compulsion.
+1510.515 So the limbic system doesn't know like,
+1512.63 oh, it's now, it's today.
+1515.017 It's may, it's 2022.
+1516.538 It just doesn't care at all, right?
+1519.562 So how I would relate that
+to the repetition compulsion
+1523.034 is when people are repeating,
+1523.99 what they're trying to do is
+to make things right, right?
+1528.1 With the idea that if we
+can repeat the situation
+1531.26 and make it right, it will
+fix everything, right?
+1534.77 Which makes perfect sense if we think,
+1538.31 well, where is that
+concept coming from, right?
+1540.77 It's coming from the
+emotional part of the brain
+1543.61 that wants relief from
+suffering of the trauma
+1546.58 and does not understand
+the clock or the calendar.
+1549.82 So if I can solve something now,
+1552.18 I will also solve something
+in the past, right?
+1555.13 Which is why I can't
+tell you how many times
+1557.54 I've sat with someone and say,
+1558.94 we're starting to do therapy, right?
+1561.06 And a person will say, oh
+gosh, like I know, look,
+1564.79 you just can't help me, right?
+1565.97 I mean, you know,
+1567.34 my last seven relationships
+have been abusive, right?
+1570.59 And I'll say back something
+sometimes like, well,
+1573.94 if you tell me that you've
+had seven relationships
+1576.343 that have been abusive in different ways,
+1578.89 I'll agree with you.
+1579.723 Like, I only say that,
+1580.56 'cause that's never what
+someone says, right?
+1583.12 But I think what you're going
+to tell me is you've kind of had
+1585.97 the same relationship seven times.
+1588.35 It's not seven things, it's one, right?
+1590.82 And that's always, I
+don't think one time yet
+1594.398 that has failed to be the case.
+1595.89 And that's how, so if you think about it,
+1599.221 that's how we start to
+elucidate what's going on.
+1601.22 So they make the light bulb that goes off.
+1603.22 Like I have not had seven
+different abusive relationships.
+1607.08 I have had one that I
+have repeated seven times
+1610.25 and now we start getting
+to what's really going on
+1612.647 and what needs to happen,
+1613.9 that person needs to face
+what happened in that original
+1617.109 abusive relationship
+1618.69 and it always comes down to
+the same sort of concepts,
+1623.158 of the person feeling terrified
+1624.28 while the abuse was going on,
+1625.79 feeling guilty, feeling
+ashamed, feeling like, oh,
+1628.74 they brought it on themselves.
+1630.01 They deserve it.
+1630.843 They don't deserve anything better, right?
+1632.62 Because the brain is trying
+to make sense of it, right?
+1635.41 Or I thought I could make that
+okay, but I couldn't, right?
+1638.7 And then there's more
+guilt and more shame.
+1640.79 And if that's stuck inside of someone,
+1643.23 like that's bundled up inside of someone,
+1645.77 like a medical abscess inside a person,
+1648.64 a walled off infection inside the body,
+1650.96 this is the same concept in the brain,
+1653.71 then of course the limb system
+is going to want to fix that.
+1657.008 And it fixes it by trying to
+let's recreate that situation
+1659.75 and make it right this
+time and that's, I mean,
+1662.51 I think that one of the best examples
+1664.19 of how the right approach of
+how like, let's look at that,
+1667.23 let's talk about that, right?
+1668.79 What's really going on there,
+wait, who should feel guilty
+1670.98 and ashamed is the person who is a abused
+1672.82 or the person who is abusing, right?
+1675.34 And we can get it what's
+going on inside the person.
+1677.557 And that's what changes that.
+1679.12 And then the eighth relationship
+can be entirely different
+1681.61 than the first seven, right?
+1682.98 And I see that all the time.
+1684.37 I mean, this isn't esoteric or soft.
+1686.8 Like I see that play out
+clinically over and over again.
+1691.35 And why do things get better?
+1692.76 Because we go to the
+trauma and we unlock it.
+1696.46 It's not hidden inside where
+it can control things, right?
+1700.02 We bring it to the surface
+1702.406 and we can take away its power.
+1704.95 - I keep hearing in this narrative
+1709.446 that so much of our
+reflexive response to trauma,
+1713.63 both emotional and in the
+repetition compulsion in terms
+1716.9 of behaviors is about
+some very deep attempt
+1721.38 to change the past.
+1722.93 - Yes.
+1724.08 - And in fact, in an offline conversation,
+1725.95 I recall you saying
+something about this, that,
+1731.37 the number of behaviors
+and thoughts and avoidance
+1734.49 of behaviors and avoidance of thoughts
+1737.288 that human beings put in to trying
+1738.26 and change the past.
+1739.144 - [Paul] Right.
+1741.264 - Is remarkable and eerie and maladaptive,
+1744.89 it sounds like.
+1745.93 - [Paul] Yes.
+1747.46 - And that really stuck with me
+1749.881 because I think we all want
+to feel like we're in control
+1752.18 of our future and how
+we feel in the moment.
+1755.08 And to some extent, it
+works for a brief while.
+1759.57 There's this thing that
+happened and it's just,
+1763.177 it evokes some internal arousal
+and then you have to know
+1765.41 what to do with that arousal.
+1767.783 And I think for many people,
+1768.616 including myself, there's
+this fundamental question.
+1771.93 Okay, the thought about the
+thing, the event or events,
+1776.44 plural, evokes this arousal,
+1778.75 this internal states, makes some people
+1780.35 feel sleepy and exhausted.
+1781.56 Other people feel really anxious.
+1783.53 Other people feel angry.
+1784.67 I mean that arousal has all
+these different dimensions
+1788.819 as you know,
+1789.96 and then there's this question
+of like what to do with it.
+1792.2 - [Paul] Yes.
+1794.145 And I'd love to hear a maybe even just
+1796.72 a top contour prescriptive of
+what do I, what does one do?
+1800.3 I'll even just put myself
+in it, what do I do?
+1802.19 So I'm feeling upset about something.
+1803.79 Should I feel like my options
+are healthy catharsis.
+1808.01 I could tell the story, feel it.
+1810.97 I could.
+1813.05 I can pack it down.
+1814.7 We hear that it's bad to pack it down.
+1816.29 But of course one has
+to be functional in life
+1818.62 and deal with things.
+1819.61 And we have responsibilities at work
+1821.91 and relational responsibilities, etcetera.
+1825.58 We need to sleep at night.
+1828.163 So catharsis, healthy catharsis,
+1829.97 packing it down at the other extreme.
+1834.05 Telling the story.
+1834.89 And yet I think a lot of people
+are afraid to tell the story
+1837.01 because in that telling
+1840.586 there is perhaps a
+reemergence of the arousal.
+1842.019 - Yes.
+1842.852 - The arousal can become greater, I mean.
+1844.05 - Yes.
+1844.883 - Is that what people mean when they say
+1845.81 things are going to get
+worse before they get better?
+1847.59 I mean, so I guess,
+1848.95 the simple version of this
+long-winded question is,
+1852.59 it's clear we need to
+confront these things.
+1855.05 We can't change the past by,
+1857.84 a reflexive response isn't
+going to do that efficiently.
+1861.04 And so how do we deal with arousal?
+1863.19 How does one take what they feel
+1865.06 inside about something shameful?
+1867.16 What do you do with it in a moment?
+1869.44 And does that have to be done
+in the presence of a skilled
+1872.43 trained therapist or
+as I'm driving to work
+1876.03 in the morning and something comes up,
+1878.25 I can't deal with this
+right now comes to mind,
+1880.64 what do I do?
+1881.473 Do I deal with it right then?
+1882.84 I know this is a big
+multidimensional question.
+1884.99 - Yes.
+1885.823 - But I think it's the one
+1886.656 that a lot of people grapple with.
+1888.03 We want to deal with things.
+1888.99 How do we deal with that internal arousal?
+1891.65 - Yeah, yeah.
+1893.854 We so often try and change
+the trauma of the past
+1898.87 in order to control the future
+1901.959 and what that really adds up
+to is the trauma of the past
+1905.41 dominates our present, right?
+1907.83 And it doesn't have to be that way.
+1909.73 And remember, we're talking about traumas
+1911.87 that rise to the level
+of changing the brain.
+1914.03 So as you're saying,
+1915.02 that involves re-experience,
+it involves hyper vigilance,
+1918.17 increased arousal.
+1919.57 It changes in mood states,
+1920.95 changes in anxiety, changes in sleep,
+1922.98 changes in behavior.
+1924.95 So these are all changes that in a sense,
+1928.39 push towards dominating
+our present, right?
+1931.58 And then we're not really
+living in the present, right.
+1934.57 As we're trying to control the future.
+1936.35 We're not going to do a great
+job of controlling our future
+1938.75 if we're not really living
+in the present, right?
+1941.68 And so the way to come at
+that again in the moment,
+1945.41 if we're saying, okay, in the moment,
+1946.56 if I need to fall asleep, right?
+1948.437 I might say, okay, let me try
+and put that out of my mind.
+1950.01 Let me try and thought redirect.
+1951.22 So there's short term
+strategies that can let us be
+1953.93 functional in the
+context of these changes.
+1956.41 But the answer is to go look
+directly at that thing, right?
+1962.38 Look at that trauma, explore
+that trauma, and sure.
+1966.16 That can be done with a professional.
+1967.6 And sometimes that's what makes sense,
+1969.75 but not always, right?
+1971.1 Sometimes it can be done
+1972.18 by talking to another person, right?
+1974.3 Writing it down, right?
+1975.43 Look at what's going on inside of me,
+1977.79 that my mind is so stuck to this.
+1980.53 Let's explore that because
+it's almost as if we're,
+1983.78 we're so afraid,
+1985.94 so often of looking at the
+trauma that has changed us,
+1990.7 that we'll look anywhere.
+1992.66 But at that, right?
+1994.61 It's like hidden in a closet
+1996.09 and we'll shine the light everywhere else,
+1998.06 but we're not going to open that door.
+1999.97 And that's where
+2000.803 people will say that same
+as I've heard over and over.
+2003.07 And I myself have thought
+this at times like, oh,
+2005.23 if I talk about that,
+2006.063 I'm going to start crying
+and never stop, right?
+2008.11 Or I'm going to just fall apart, right?
+2010.12 Which is never what happens.
+2011.02 No one ever starts crying
+and never stops, right?
+2013.52 What ends up happening
+2014.66 is when the person puts
+words to it, right?
+2017.42 It could be in writing,
+2018.6 it could be talking to a trusted other
+2020.05 or with a therapist, right?
+2021.9 Things start to change.
+2023.08 I mean, just the fact that
+you can talk about it,
+2025.84 you can put words to it
+2026.673 and other people don't recoil, right?
+2028.9 I mean, how many times has someone said
+2031.05 something for the first time, right?
+2033.66 And when they're telling
+me about the trauma,
+2037.749 there's such an anxious,
+2039.272 like looking like as if I'm going to be,
+2041.43 I'm going to recoil from it, right?
+2043.24 Meaning I'm going to
+recoil from them, right?
+2046.412 And then there's a sense of
+surprise if the person says,
+2048.48 well, you know, I was abused by
+2051.75 this coach when I was a kid, right?
+2055.929 And there's not a, okay,
+2056.762 there's not a response of recoiling.
+2059.0 You can see the change and
+people will say a lot, like, wow.
+2062.41 Like, I can't believe like you can like,
+2065.95 hear me say that and
+be okay with it, right?
+2068.42 I mean, so you think about
+what's going on inside of them.
+2070.59 Like how, what a sense
+of shame, a sense of,
+2074.4 this is something awful about
+me for people to recoil from
+2078.53 and it's just not true,
+2081.146 but here's where trauma
+is, it's insidious, right?
+2085.137 And it's pervasive, right?
+2086.14 Because if that convinces us
+to continually hide it away,
+2090.64 then how do we explore it?
+2093.73 That example of the person who says, okay,
+2096.503 I was abused by a coach
+when I was a child.
+2098.93 I mean, I'm thinking of a
+couple, very real cases, right?
+2102.33 People that I've taken care of.
+2103.86 And once they start talking about it,
+2105.74 then they start talking about how, ,
+2108.96 they were just innocent kids, right?
+2110.597 And like, they didn't know.
+2112.12 And like, they really
+wanted to be on the team
+2113.78 where this coach was
+treating them as special.
+2116.12 And now they can look at
+themselves from the outside, right?
+2119.49 They can look at themselves
+2120.69 like they would look
+at someone else, right?
+2122.897 You think it's so easy for us
+to see what's real and true,
+2127.77 if it's someone else, right?
+2129.08 If you ask someone,
+2129.913 what do you think of someone
+who's 10, 11 years old,
+2132.88 who's abused and manipulated
+and abused by an adult?
+2135.932 And you say, oh my goodness,
+2137.796 I feel compassion for that person, right?
+2139.13 But if it's us right then, oh no,
+2142.02 it's guilt and shame and
+we have to hide it away.
+2144.44 And when the person starts looking at it,
+2146.25 they can sort of see it from the outside.
+2148.41 And it starts to take the
+energy out of it, right?
+2151.14 Then, well, who should
+feel guilty about that?
+2153.01 Who's done something wrong?
+2154.58 And like, so now the
+conceptions come together,
+2156.94 which is often a reflexive,
+that was my fault.
+2159.75 Oh, I did it.
+2160.69 I went back to it.
+2162.58 I still stayed on the team.
+2163.9 I went back next season, right?
+2165.47 I let it happen again, right?
+2167.1 All the guilt and shame inside the person
+2169.34 gets juxtaposed to like,
+what really happened there?
+2172.03 And then they say, right.
+2173.08 I was a terrified child, right?
+2175.18 I didn't understand at all.
+2176.63 And they can come to
+a place of compassion.
+2178.9 And now we are working
+against the guilt and shame.
+2181.57 And if the person cries about
+it, then it's great, right?
+2185.15 I mean, crying is one
+2186.793 of the best coping mechanisms we have.
+2188.18 It doesn't hurt us.
+2189.46 And it lets us grieve things.
+2191.07 Yeah, we can't grieve if there's guilt
+2193.57 and shame inside of us,
+2194.403 it just blocks grief, right?
+2196.48 We have to,
+2197.313 there has to be a clean slate
+2198.5 in a sense in order to feel sadness.
+2200.79 And then you see that it
+shifts from anxiety, anger,
+2205.01 and frustration, usually
+directed towards the self,
+2207.077 the guilt and shame towards,
+2210.518 towards being able to process
+it and being able to bring
+2212.81 to bear some compassion
+and being able to direct
+2216.44 the negative emotions,
+2217.68 so to speak where they're
+warranted and my goodness,
+2221.52 the changes that happen.
+2223.448 I mean, it's not like people
+are miraculously cured, right?
+2225.97 But it's remarkable how
+just getting it out there
+2228.44 and having like one hour
+of talking like that,
+2231.33 like what we're talking about now
+2233.8 can leave a person
+feeling immensely better.
+2237.36 - It seems to me in hearing this,
+2238.7 that there's this weird
+wiring that we have,
+2243.24 because what I'm hearing is
+when traumas happen to us
+2246.0 or we observe them,
+2247.14 what we need to do most
+is to confront those
+2249.617 and the emotions around that directly.
+2251.95 - [Paul] Yes.
+2253.212 But instead our system
+defaults to guilt, shame.
+2255.572 - [Paul] Yes.
+2256.405 - And trying to hide it.
+2257.238 - [Paul] Yes.
+2258.518 And this repetition
+compulsion of placing us back
+2260.53 into things similar to those traumas.
+2263.58 Or even maybe even worse traumas.
+2265.84 - [Paul] Yes.
+2266.673 - In an attempt to resolve it.
+2268.155 It's like the most maladaptive.
+2269.246 - [Andrew] Wiring diagram.
+2270.93 I could possibly think of.
+2272.011 - Yes.
+2272.844 - Emotional and presumably
+2274.31 physiological wiring diagram.
+2276.02 - [Paul] Yes.
+2277.971 And this notion of trying to change
+2279.44 the past by doing things now,
+2280.98 when the exact opposite is
+what's going to be beneficial
+2284.87 also seems like the complete,
+2286.38 the whole system seems
+completely backwards.
+2288.21 And I'm, I'm chuckling as I say this,
+2290.02 not because I'm amused it's
+because I'm just baffled once
+2293.0 again at how our wiring can
+often not serve us well.
+2298.43 But it raises an,
+2299.97 what I think is an important
+and interesting question,
+2302.75 which is earlier, you
+were talking about how
+2305.77 people will seek out media
+that's really disturbing.
+2308.8 They'll traumatize and
+re-traumatize themselves
+2311.18 on a daily basis.
+2312.76 So that could be viewed as
+the repetition compulsion
+2315.46 or the person will have
+the same relationship
+2317.9 with seven different,
+2319.05 same abusive relationship
+with seven different partners
+2321.63 in sequence seems terrible.
+2324.31 And yet,
+2326.26 as I say this,
+2327.1 it also is becoming clear
+to me how this almost seems
+2329.7 like a poor, but desperate attempt
+2332.48 to resolve it in some way.
+2334.145 - Yes.
+2337.642 - And so the fork in the road,
+if I understand correctly,
+2341.206 is to really get to the seed incident,
+2343.49 really get to the thing
+that started it all,
+2345.63 as opposed to repeating it all.
+2347.53 - [Paul] Yes.
+2349.9 - Does that have to be done in
+the presence of a therapist?
+2355.205 Is there a benefit to
+taking a walk and thinking
+2357.49 about these things,
+breaking down and crying,
+2360.22 if that's what's necessary
+or feeling angrier,
+2363.67 if that's what comes up?
+2366.486 The reason I ask it this
+way is because I worry,
+2371.72 I'll just speak to my own experience,
+2374.18 I worry that in reactivating
+2376.34 or touching into the
+emotions around something
+2379.16 that is itself a form of
+the repetition compulsion,
+2381.61 because you're feeling it all over again.
+2383.339 - [Paul] Right.
+2384.172 - You're not seeking out
+something to evoke that feeling.
+2386.57 So I realize this is a little bit
+2387.95 of a circular argument, right?
+2390.24 Or question.
+2391.7 But I think it's one that
+I really struggle with
+2393.65 in trying to parse all the,
+2398.996 the outcome based
+therapies that I hear about
+2403.352 and the recommendations that people make.
+2404.75 I mean, how should we conceptualize this?
+2406.67 Something happens.
+2408.02 Sounds like we need to deal
+with that thing directly.
+2410.42 Do we need to do that with somebody else?
+2412.4 Can we do that on our own?
+2413.49 If we're,
+2414.323 we don't have resources and
+we have to do it on our own,
+2418.14 can't hire someone, can't
+pay someone to work with us.
+2420.396 - [Paul] Right.
+2421.229 - How do we do that in a way
+2422.07 that isn't retraumatizing ourself
+2424.53 in a major way, or in a minor way.
+2427.52 How do we know where we
+are in that landscape?
+2430.67 - Right.
+2431.65 Again, those are, I
+think, great questions.
+2433.81 And I think it starts
+with real introspection.
+2438.233 When things are bouncing
+around in our minds,
+2440.08 often, it's very, non-productive right?
+2442.37 It's the same thing over and over again,
+2445.861 and that's not helpful for us, right?
+2447.1 So there's an idea which sometimes
+2448.88 gets called an observing ego, right?
+2451.2 The ability to stop and look
+2452.45 at what's going on inside of ourselves.
+2454.6 And so if we're just thinking about it
+2457.25 and we're thinking in the same way,
+2458.61 we sort of, in a sense,
+always think about it,
+2460.9 then all we're doing is
+reinforcing the trauma, right?
+2463.56 But if we can distance
+enough to be like, huh, it's,
+2466.77 I'm interested in what's
+going on inside of me, right?
+2469.27 I can think of a certain person
+2471.92 who really loves music.
+2473.47 I mean, and at some point
+in our therapy work,
+2476.92 I learned like she was taking long drives,
+2480.17 but the, the radio wasn't on.
+2482.182 And I was like, well,
+2483.015 what what's going on, right?
+2483.848 And I asked,
+2485.202 and what was going on
+is she was running over
+2486.47 and over again in her head, like,
+2487.91 I'm a loser, I'm a loser, right?
+2489.75 And she didn't want the music
+on because the music would
+2492.88 drown out what she felt she
+had to say to herself, right?
+2497.111 And it was that like, wow,
+that's interesting, right?
+2501.524 And then her ability to
+observe that and to think,
+2504.21 why am I doing that when
+it comes into her mind?
+2506.67 Like, what does that trace to,
+when did I start doing that?
+2509.043 Like I say, you know,
+2510.75 I'm saying it for a point
+of exaggeration, we're like,
+2512.63 nobody comes out of the womb
+2515.49 programmed to think I'm a loser, right?
+2517.7 So we don't think that
+when we're born, right?
+2519.47 So where does that come from?
+2521.35 Then, we can think in ways
+2523.42 that allow us to have new thoughts, right?
+2526.36 That we weren't having,
+2527.193 It's not just bouncing
+around in our minds.
+2529.42 And if we speak or write,
+2531.68 there are even more mechanisms
+2533.18 that come online in our brains, right?
+2535.33 That are then sort of
+monitoring mechanisms.
+2537.22 We think in a different way,
+if we're using words, right?
+2542.159 And we are better able often
+to bring in that observing ego,
+2545.31 like what's going on inside of me?
+2547.679 So it can be very helpful to think,
+2549.26 it can be helpful to talk to someone,
+2550.88 to a trusted other, you
+know, friend, family,
+2553.65 clergy to write, I mean,
+2555.82 these are things that can be done
+2557.49 without expending any resources, right?
+2559.85 And sometimes it can make
+really a big difference, right?
+2562.747 It was a way, when did
+I start thinking that?
+2564.81 And like, interestingly,
+in this case, okay,
+2566.44 we did it in therapy,
+2567.89 but it became very clear what
+that was rooted to, right?
+2572.556 And then in the therapy,
+2573.45 which was still relatively young,
+2574.77 but we'd done several sessions
+2577.415 and we weren't talking at all
+2578.39 about what we needed to talk about, right?
+2580.2 But that's what got us to
+what we needed to talk about.
+2583.29 And when did that start,
+2584.48 and now we're in that same
+place of exploring that
+2587.73 and what was the reflex to it
+2589.3 and the sense of guilt and sense of shame.
+2591.5 And it's where all of that came from
+2593.41 that just got boiled down
+to I'm a loser, right?
+2597.461 Which this person didn't
+even have in their mind.
+2599.29 Like, I didn't think about
+myself that way, right?
+2602.08 And that's is so interesting, right?
+2603.62 That our memories don't in
+and of themselves have meaning
+2606.83 it's like they're flat
+or colorless, right?
+2610.22 And they're colored in by the emotions
+2612.38 that we attach to them, right?
+2615.417 So, the idea that certain memories now,
+2617.67 before the trauma were changed, right?
+2620.63 By the trauma.
+2622.618 So I tell the story,
+2623.451 sometimes of a person
+who like won an award
+2625.11 when they were in high
+school that they thought was,
+2626.95 oh my gosh, like it shows,
+2628.14 like I can do it, right?
+2629.48 I get out there, that after trauma,
+2631.88 they saw the award with the
+negative emotion attached to it.
+2634.86 That was like, oh,
+2635.693 it was given to me and
+I didn't deserve it.
+2637.3 And almost it was mocking.
+2638.77 Like, it was going to be the
+greatest achievement in my life
+2641.08 and I was 17 or so, and to
+have someone think like,
+2644.51 that's not how they felt
+about that at the time.
+2647.64 It's the trauma that
+changed, the self talk,
+2651.42 the internal state going forward
+2653.99 and talking about miraculous
+in a negative way,
+2657.25 also changed that going backward, right?
+2661.156 And when we can really look at that,
+2661.989 like where did that come from?
+2663.47 And we can start
+unraveling it, it changes.
+2666.87 So in those cases, you
+know, often it's helpful
+2670.463 to have a good therapist,
+it's not always necessary.
+2673.37 And it certainly, it's not
+always possible, right?
+2675.84 So we need other strategies.
+2678.09 And some of those,
+2679.14 I write about some of those in the book
+2681.546 of how can we sort of get at trauma
+2683.17 without those formalized mechanisms.
+2686.16 And sometimes if the symptoms
+are significant enough,
+2688.67 like we really do need to
+talk to somebody professional
+2691.75 who can help us get to
+the root of the trauma.
+2694.37 And there's so many times,
+2696.1 that's the answer to what's
+going on with people.
+2698.63 People I've seen have had
+five residential stays.
+2700.86 I'm not exaggerating this,
+for mental health reasons,
+2703.73 for substance reasons,
+2704.75 and no one's ever taken
+a trauma history, right?
+2707.1 And then when you take a
+trauma history, you say,
+2709.05 well, that's obviously where
+this is all coming from, right?
+2711.94 Like that's when the drug
+use started truly thereafter,
+2714.25 the negative self talk
+and the negative feelings
+2716.21 that led to the drug use.
+2717.56 Then you go after the trauma
+2719.7 and you can change things.
+2721.24 Whereas trying to change
+things without looking,
+2724.24 introspecting, talking about the trauma,
+2727.866 I think of course was futile.
+2730.55 - Do you think that people
+2733.361 can start to have negative fantasies?
+2734.9 I mean, you mentioned this woman
+2735.88 who would take these long
+drives to berate herself.
+2740.187 I'm not familiar with that, but I'll,
+2742.57 I'll give a little bit of
+personal disclosure here.
+2743.67 I've felt several times in my life
+2746.09 that I will start to create a narrative
+2749.67 about something that truly hasn't happened
+2752.08 about something terrible
+that somebody is going to do.
+2755.02 - [Paul] Yes.
+2755.86 - That's going to upset me.
+2757.64 - [Paul] Yes.
+2758.473 - And for the longest time,
+2759.804 I wonder why am I doing this?
+2760.69 And I have a couple ideas about why, one,
+2765.302 is that I was attempting
+to just avoid thinking
+2768.007 about other things.
+2769.36 It's just, you know, anger is such
+2771.21 an attractive emotional force in this.
+2773.62 It's an attracting, it's not attractive.
+2775.48 We don't like it.
+2776.313 And yet, oftentimes anger is a great way
+2778.97 to replace feeling something else.
+2780.98 - [Paul] Yes.
+2781.813 - Feeling sad or having to come up
+2783.53 or to do work or to do something useful.
+2786.66 So it has this kind of a like
+gravitational force to it.
+2792.24 That was one idea.
+2793.75 The other idea was in imagining
+kind of worst outcomes,
+2798.289 then actually that relationship were,
+2800.07 could actually seem a
+lot better in reality.
+2801.915 - Hm hm.
+2802.748 - [Andrew] It's almost like
+creating this negative contrast.
+2804.17 - Yes.
+2805.003 It's like, oh, well
+then it's not that bad.
+2808.049 And then the third possibility
+is I have no idea why,
+2810.55 but it seemed like a reflex.
+2811.99 And I spent some time thinking about it.
+2813.39 I can't say I've resolved it completely,
+2815.32 but why would somebody
+2817.87 have a narrative or a default
+narrative when driving
+2820.96 or when walking of I'm just
+going to spend some time
+2824.445 and think about how terrible
+this thing is going to turn out
+2826.08 or how someone's going to upset me
+2827.34 or harm me or how terrible I am.
+2830.79 It seems, again, like
+maladaptive thinking,
+2834.21 maladaptive wiring.
+2835.76 And yet I have to assume
+that it serves some purpose.
+2838.81 - Yeah, yeah.
+2840.398 I mean, I think there are three factors
+2841.78 there and they're all bad.
+2844.07 And I think you spoke to at
+least two of them, right?
+2847.36 They I think speak so powerfully
+2849.76 to how insidious trauma
+is and how these are real
+2854.41 brain changes inside of us.
+2856.33 So I would say that the
+three factors, punishment,
+2859.83 avoidance and control, right?
+2863.42 So the trauma inside of us,
+2864.66 that makes guilt and shame.
+2867.12 So often, so often leads
+2870.74 to a desire to punish oneself, right?
+2873.397 And the idea that, oh, that was my fault.
+2875.47 Or I deserve that.
+2876.34 Well, what do we do if something
+2878.08 is someone's fault and someone
+2879.255 now deserves punishment, right?
+2881.2 I mean, we we punish them, right?
+2882.86 We send 'em to jail, we
+give them a fine, right?
+2884.89 We punish them.
+2885.78 And so what, what we do is
+punish ourselves, right?
+2888.75 And if we tell ourselves we're a loser
+2890.48 or this awful thing is
+going to happen, right?
+2892.59 Then part of what we're
+doing is saying to ourselves,
+2894.57 see, right, you deserve that.
+2896.17 You're not going to have
+anything better, right?
+2897.64 It's a negative.
+2898.65 It's a very negative
+way that the brain tries
+2903.31 to make us in a sense,
+2904.57 to do better by hurting
+us more for the things
+2907.35 that we couldn't and
+shouldn't have been able to,
+2909.34 weren't expected to control
+in the first place, right?
+2912.27 The second is distraction.
+2914.07 As you said, anger,
+2915.28 that kind of fantasy can distract us
+2920.237 from affect feeling and emotion.
+2921.72 That can be much more negative.
+2923.39 Anger, it can be more gratifying
+2926.07 than certainly than guilt or shame,
+2927.69 although guilt or shame can
+serve a punishment purpose.
+2930.02 But if anger is directed also
+towards ourselves, right,
+2932.743 then it can serve punishment too.
+2934.64 So punishment, avoidance,
+2937.0 and the sense of control
+that if you think ahead
+2940.28 to something awful,
+2941.51 that you're imagining is going to happen,
+2943.87 well, maybe that will
+let you avoid it, right?
+2946.02 I mean, you can see the
+brain here in a sense,
+2948.82 really confused.
+2949.98 I mean, part of the brain wants to punish.
+2952.16 part of the brain doesn't
+want to think about it at all
+2954.25 and part of the brain
+wants to make it better.
+2956.72 And then how all of that resolves,
+2958.98 if we're not aware that,
+2960.15 hey, this is in the context of our brains
+2962.06 being deeply impacted by trauma.
+2964.49 So what's going on here
+is all maladaptive, right?
+2967.59 'Cause these negative
+fantasies of the future,
+2970.02 they may help us feel better
+about something in the present,
+2972.98 but they don't help us make
+anything better, right?
+2975.67 They don't help us make anything better.
+2977.84 So this is kind of the sequela.
+2980.52 This is where trauma and
+all this reflexive stuff
+2984.12 that happens after trauma
+ultimately lead us.
+2987.26 And you can see how we get lost,
+2989.09 how I've seen over and
+over again in my own life,
+2992.75 in the lives of other people,
+2994.79 how man we get stuck in those situations
+2999.14 and that's why I see people sometimes.
+3000.501 This has been going on for
+30 years, 40 years, right?
+3004.02 And it's just been going on
+over and over and over again
+3008.216 because there's no natural
+end to any of this, right?
+3010.68 Unless we,
+3012.302 we look at it in a different way,
+3013.4 that we have knowledge and
+information like, whoa,
+3015.66 this isn't the way it has to be.
+3017.2 Let me bring a novel perspective to this.
+3019.68 It doesn't change on its own.
+3023.651 - I'm struck by your statement
+3026.466 that these thoughts or behaviors
+can make us feel better,
+3029.38 but they don't actually
+make anything better.
+3031.25 In that way,
+3032.69 this mode of imagining terrible outcomes
+3036.49 starts to immediately
+seem like taking opioids.
+3040.149 You feel better in the moment,
+3041.82 but it doesn't actually
+make anything better.
+3043.307 And it probably makes things worse.
+3045.23 - Yes.
+3047.38 - And just a question of how much worse
+3051.711 and in what direction, yes.
+3054.12 And so I just want to just
+pause on that concept,
+3057.55 because I think that concept
+of makes us feel better,
+3060.72 but doesn't make anything better.
+3061.94 I think it answers an earlier question
+3065.74 about what seems to be a totally
+maladaptive wiring diagram.
+3070.25 We need to confront the thing,
+3071.41 but we don't want to go into
+the repetition compulsion.
+3074.431 So it's a knife edge there,
+3076.64 to navigate through trauma.
+3078.45 - [Paul] Yes.
+3080.13 - Working with a very skilled
+clinician like yourself,
+3083.21 I think is the ideal
+circumstance for people.
+3088.643 And of course there are people
+who can't access support
+3091.01 from somebody, for whatever reason.
+3093.15 You've talked about journaling.
+3095.03 - Hmm, yes.
+3096.93 - As a useful tool.
+3098.45 Could you maybe highlight
+3099.38 some of the other things that
+people can do on their own.
+3102.58 And then I'd also like to talk about
+3104.93 what makes for a good therapist.
+3107.6 What should people look for
+3108.58 for those that are seeking therapy,
+3110.31 especially nowadays when a lot of therapy
+3111.75 is being done remotely, but
+let's just start with the,
+3115.63 let's just call them self-generated
+3117.59 or zero cost sorts of things,
+3120.529 journaling being the first
+3122.65 and then what are some of the others
+3124.822 and what kind of structure
+would you recommend
+3125.78 someone put around journaling,
+3127.7 carry a journal around all
+day and jot things down
+3129.66 as they come up or sit down
+3130.86 and spend an hour writing
+in complete sentences,
+3133.23 for instance.
+3134.26 - Yeah.
+3135.093 If I could add something
+to what you had just said
+3138.11 before the question, right?
+3139.55 That we have these short-term
+3141.64 coping mechanisms in us, right?
+3143.79 And in a way it makes sense, right?
+3145.2 If we find ourselves in
+just terrible situations,
+3149.47 then a short-term coping mechanism
+3151.36 can get us through them, right?
+3153.0 So our brains are built that way
+3154.65 and that's part of survival too, right?
+3156.93 And whether now in the modern
+world, whether it's food,
+3160.21 it's drugs, it's sex, it's alcohol, right?
+3163.64 Or it's negative thoughts, right?
+3165.98 This is short-term soothing.
+3168.77 Even the negative thoughts,
+3169.787 And anger is short-term soothing
+3171.57 at the expense of long-term change, right?
+3175.46 And that's where addictive
+pathways can come into play.
+3179.51 And that's where, again, our,
+3181.69 how we're built
+evolutionarily for survival,
+3184.76 doesn't help us, you know, in
+the way humans have evolved.
+3188.2 Like we haven't lived this way throughout,
+3190.44 99.9% something percent
+of human history, right?
+3195.022 So we're not adapted to this.
+3196.23 So I want to just make a point of saying
+3197.57 that about the short-term soothing
+3199.14 at the expense of any of long-term change,
+3202.63 And then the question you had
+asked about say journaling
+3205.49 or what can we do that's
+outside of professional.
+3208.95 I think the hallmark of it
+3211.02 has to be bringing new eyes to it, right?
+3213.77 Like thinking about self with a curiosity,
+3216.63 instead of just a simple
+automaticity or repetition, right?
+3220.4 Like, why am I thinking about this?
+3222.6 When did this start?
+3224.15 Why is this in me?
+3225.67 Right?
+3228.39 Whether it's words or
+whether we're writing,
+3230.47 that's so important.
+3231.62 So I think for journaling,
+3233.48 it depends on the person.
+3235.0 I mean, we don't want
+somebody carrying around
+3236.53 a journal all day,
+3237.39 if then there's a compulsion to,
+3239.02 I need to write about everything
+3240.13 that's going on in my mind, right?
+3241.21 Like that might be good to okay.
+3242.66 Write a little bit at night, right?
+3244.3 Or someone who might think,
+3246.05 sometimes this really comes
+into my mind in a strong way
+3248.517 and it could be unpredictable, right?
+3249.89 I want to have the journal with me.
+3251.83 So, ah, that thing is back in my mind now,
+3254.87 let me write about it, right?
+3256.48 Because then putting words to it
+3258.19 and then being able to
+read those words, right?
+3260.52 And when people read,
+3261.61 even do a little bit of journaling
+3262.97 and they read like, oh,
+3265.35 I thought again about
+how I'm a terrible person
+3268.48 who can't have a good life,
+3271.06 because I was in such a bad car accident
+3272.97 or because that person attacked me
+3275.683 or because when I was in school,
+3276.516 I was bullied because I looked different
+3278.64 than everyone else, right?
+3279.73 Or acted different from everyone else.
+3281.48 Wow, to actually see that written out.
+3284.84 It's a little bit of that,
+3288.15 it's a little bit of that.
+3289.74 Like when you're saying it to someone
+3291.24 as if it were someone else, right?
+3292.86 Because now there's
+enough distance from it.
+3294.81 Like I'm looking at the
+words I wrote, right?
+3296.513 That we get some distance
+and we can start to integrate
+3299.76 some of the, not just the compassion,
+3302.85 but integrating compassion
+and logic, right?
+3305.41 Of like, okay.
+3306.243 I feel a sense of compassion
+now, wait, what does this mean?
+3308.52 What really happened here, right?
+3311.305 And gosh, I did start thinking
+differently after that.
+3313.42 I started, that's where
+this came from, right?
+3315.43 That's why I'm saying this,
+3317.04 it's those kind of
+revelations that we can have
+3319.91 through again, the written or spoken word.
+3322.54 And I think again, that
+involves a trusted other,
+3326.496 or writing, right?
+3327.329 And I think that those
+are ways we can do this,
+3331.134 where we bring some de novo
+perspective to something
+3334.29 that often has been bouncing
+around inside of us.
+3336.88 And it's amazing to me that,
+3338.733 I can see such intelligent
+empathically, attuned people
+3342.91 who've had the same thing
+3345.5 running over and over again
+in their mind for years.
+3349.28 And it just points out that our brains
+3351.19 don't automatically
+say, hey, wait a second.
+3353.79 I've been spinning wheels
+here for a long, long time.
+3356.47 Like, was there another
+way to look at this?
+3358.4 We need something from the outside,
+3360.29 which can just be knowledge, right?
+3362.04 Which is why I think what we're doing here
+3363.9 or the reason I wrote the
+book that I wrote was like,
+3367.8 apprehending this like
+amazing surprise to me, right?
+3371.83 Which is like, wow,
+3372.95 like some huge percentage
+of everything I'm treating
+3377.06 is rooted in trauma and the
+opacity of trauma, right?
+3381.23 Which is why we don't see
+that, oh, the depression,
+3384.24 the panic attacks, the
+life change, the addiction,
+3387.5 the maladaptive choices like, oh,
+3389.25 this is all coming from
+trauma because it hides itself
+3392.814 in that opacity.
+3394.3 So we need a de novo perspective
+3396.83 if we're doing it on our own.
+3398.25 And we need that if we're
+doing it in therapy,
+3400.44 which might link like finding
+the right therapist, right?
+3402.9 Which is also part of your question.
+3404.59 - Yeah, yeah I definitely want to know
+3407.524 about how to assess and
+find the right therapist.
+3409.27 Before we cover that, however,
+3412.85 something came up in the
+course of your answer.
+3417.06 I can immediately relate to this idea that
+3420.62 certain behaviors are really maladaptive
+3425.139 and are stuffing things
+down or avoiding the topic
+3427.89 is problematic and bringing a curiosity
+3430.12 and an introspection and
+almost a third personing
+3432.78 of the experience
+3435.44 that we've had in order
+to try and address it
+3438.1 from a new, truly from a new perspective.
+3441.08 It occurred to me as we
+were discussing this,
+3444.21 however that some people, and yes,
+3446.48 maybe I'm talking a little
+bit about my own experience.
+3449.926 We have a sense of our own identity
+3452.778 and how people view us and
+our ability to be functional
+3455.51 in the world in ways that we like,
+3457.17 effective at work or a good brother
+3459.07 or a good mother or father,
+human being in the world.
+3463.29 We have relationships.
+3464.66 And I think that one
+thing that I have heard,
+3468.97 and maybe I've experienced
+is that sometimes those
+3472.69 maladaptive thoughts or behaviors,
+3474.65 the things that generate a kind
+3477.1 of a repetition of anger
+or of arousal or activation
+3480.07 or sadness, that we have
+some internal process
+3483.43 where we funnel that into a
+functionality in the world.
+3486.67 So we I'll give a more concrete example.
+3490.35 So in thinking about things
+that have upset me in the past
+3493.72 and in imagining bad
+outcomes in the future,
+3496.87 there's a certain
+internal state of arousal
+3498.9 that comes about.
+3501.323 And for many years, I
+was able to use that,
+3503.51 not to feel angry,
+3504.91 but rather to work an
+extra three hours a day
+3507.25 - [Paul] Right.
+3508.894 - Or to pack my schedule with
+work and social engagement.
+3512.58 So I could show up in a way that I,
+3514.95 hopefully was a very good brother
+to my sister for instance.
+3517.025 - [Paul] Right.
+3517.858 - So in a way it was a,
+3519.62 it was a transformation
+of something negative
+3521.91 inside of me.
+3522.843 - [Paul] Yes.
+3523.676 - Into a functionality in the world
+3526.029 that was actually very
+rewarding and beneficial.
+3527.749 - [Paul] Yes.
+3529.129 - And yet in describing it,
+3530.18 I can immediately see how it
+would be wonderful if I could
+3532.71 source from something else.
+3533.543 - [Paul] Hm- hm.
+3534.49 - And yet I, you can imagine,
+3537.19 and I can imagine how
+one would be reluctant,
+3540.03 maybe even terrified of
+giving up that source.
+3542.158 - Yes.
+3542.991 - [ Andrew] It's a fuel.
+3543.824 - Yes.
+3544.785 and I think in knowing some
+of the traumas of other people
+3548.387 and their reluctance
+to work through those,
+3551.05 obviously I'm not a therapist,
+3553.504 I sense this over and over again,
+3554.99 that one's positive identity
+3557.86 can often be linked to something
+difficult in their past.
+3559.971 - [Paul] Yes.
+3560.85 - And so people are reluctant
+to give up this fuel.
+3563.5 - [Paul] Yes.
+3564.333 - Because it it's in that
+sense, it's functional.
+3568.16 The only thing that allowed
+me to kind of start to address
+3572.01 this and why I'm still
+so curious about this,
+3574.18 'cause I don't think I've worked
+3575.78 through this process completely,
+3578.0 again, a little more
+self-disclosure there,
+3582.537 is that I was told that these words,
+3584.86 just imagine how much better it would be
+3587.15 if you could source from a different fuel,
+3590.97 a fuel that felt better.
+3592.23 - Right.
+3593.307 - Maybe it was on the, it was on this,
+3594.52 this sentence.
+3595.353 It was, maybe you could actually be
+3598.93 much more effective.
+3600.15 - [Paul] Yes.
+3600.983 - Maybe you could be 10
+times the better brother.
+3603.18 - [Paul] Yes.
+3604.013 - Maybe you could have 10 times
+3605.5 more insight or work capacity, etcetera.
+3608.33 So it's on that hint of a promise that I,
+3611.75 at least I was inspired to
+start looking into these things
+3614.69 and reading about trauma
+in your book and elsewhere,
+3617.03 and start to think about this.
+3618.26 So again, I realize this
+is a long winded question
+3621.27 and a somewhat complex idea, but I think,
+3623.3 or I hope that people will
+be able to resonate with this
+3625.33 idea that sometimes we
+want to stay attached
+3628.448 to this short term soothing
+that the punishment
+3630.87 distraction or control
+because it evokes this arousal
+3633.94 and then we can apply that arousal.
+3635.873 - Yes, yes.
+3637.24 I think what you're describing maps
+3639.18 I think clinically to what
+gets called sublimation.
+3641.77 So there's something
+negative inside of us,
+3644.61 but we sort of transfer that energy,
+3646.52 we transfer that into something
+3648.44 that is adaptive or
+that is positive, right?
+3650.77 So the idea of the anger, right?
+3652.08 When I think of that thing
+and it makes anger in me,
+3654.35 I channel that into harder work, right?
+3656.47 Or I channel that into like,
+3657.68 I'm going to go be nicer
+to my brothers, some right,
+3659.64 something like that.
+3662.197 And there's validity to that, right?
+3664.38 But it can become like self
+justifying if a person thinks,
+3667.67 well, look at what this
+is doing for me, right?
+3670.05 I wouldn't work as hard without it.
+3671.83 Right now we start to become
+attached to the trauma.
+3675.33 Whereas I think what you
+had said is absolutely true
+3679.09 that just because we can sublimate
+3682.23 some of the negative
+affect, feeling, emotion
+3685.14 that comes from trauma into something
+3686.9 productive doesn't mean
+that that's best, right?
+3690.577 I mean we can get to our destination
+3693.0 by taking a very circuitous route, right?
+3695.14 We might waste an hour getting
+there, but we get there.
+3697.7 That doesn't mean that that's best.
+3700.26 And it also doesn't look
+at all the negative, right?
+3702.21 In this example, the wasted
+fuel, the wasted time, right?
+3705.21 We get somewhere, but
+we are not optimizing.
+3708.83 And I have yet to see one person
+3712.477 who has addressed the trauma
+3713.84 and become less functional, right?
+3716.13 It's always either,
+they're just as functional,
+3719.07 but they're happier, right?
+3720.73 Or more functional
+because as you said, like,
+3723.32 just because we may be
+able to sublimate, well,
+3726.766 maybe what's going on will
+be 10 times better, right?
+3728.98 If we weren't sublimating
+3731.2 because the sublimation limits us, right?
+3733.0 It limits our perspective
+to only what we can see
+3736.08 and do through the lens of the trauma.
+3739.182 And that is never better
+than the alternative.
+3743.35 - Thank you for that.
+3744.183 - Yeah, you're welcome, yeah.
+3746.64 - Let's discuss how one could
+3749.65 or should go about finding
+a really good therapist.
+3754.85 Typically in my experience,
+this is done by word of mouth.
+3759.33 There's this person you
+might want to work with them
+3761.085 and they're really great,
+3761.918 but what are some of the characteristics
+3762.923 that one should look for?
+3764.81 And should we take into account whether
+3768.0 or not we are a person who for instance,
+3771.81 I've heard this from listeners,
+although I'm clearly,
+3775.17 I'm definitely not talking about myself
+3776.78 here in cloaking something.
+3779.51 Some people will say,
+3780.73 I want to work with a somatic
+therapist because I've actually
+3783.98 heard someone say, I think in fields,
+3785.96 I feel stuff in my body.
+3787.68 So I want to work with someone
+3788.75 who can really acknowledge that
+3790.22 or someone else will say,
+3791.96 I want to work with somebody
+who has this orientation
+3794.71 or that orientation or is open
+to my particular lifestyle,
+3799.38 or isn't going to tell me that
+I have to leave my relationship.
+3802.54 I feel like people already
+show up to the question
+3804.53 of who to work with with
+all these, you know,
+3807.15 things internally,
+3807.983 some of which are voiced
+and some of which aren't.
+3810.54 So I'd love for you to talk
+about maybe some of the,
+3813.12 the core features of a
+really good therapist
+3816.941 and then how to look for a therapist.
+3818.5 And also how to think about oneself
+3820.31 in looking for a therapist.
+3821.398 - [Paul] Right.
+3822.419 - Because of these kind
+of predispositions.
+3823.76 - [Paul] Right, right.
+3826.446 Well, there's a lot of data about this
+3828.81 over the years,
+3829.67 if you look at what are the top 10
+3832.09 important factors to find in a therapist,
+3834.6 just repeat rapport 10 times, right?
+3838.21 I mean, that's the key.
+3839.53 And if you think about that,
+3840.96 it's pretty amazing, right?
+3842.1 Because therapeutic modalities
+can be so different, right?
+3845.5 And I think what that's
+telling us is, in a way,
+3849.33 something very obvious, right?
+3850.53 Like what does rapport mean?
+3851.88 Like, you know, it's somebody
+3852.75 that's paying attention, right?
+3853.85 It's trust, it's a back and forth.
+3855.768 It's like, yeah. even though
+I'm doing something difficult,
+3858.91 I'm doing it with someone
+who's really helping me,
+3860.56 someone who's in it with me, right?
+3862.07 Someone who's really paying attention.
+3863.48 Wants me to be better.
+3865.11 That's indispensable, I mean,
+it's just indispensable.
+3867.94 And I write in the book is someone,
+3869.55 a therapist not making eye contact
+3871.13 or this is the way they do it, right?
+3872.62 And you know,
+3873.453 you got to fit into the
+box of the way they do it.
+3875.54 That is not going to be helpful.
+3878.14 And then what I,
+3879.63 what I think about that is
+the different modalities.
+3882.92 It doesn't actually tell us that,
+3884.5 oh, the modalities are irrelevant.
+3885.99 I think that's not true.
+3887.8 I think that good therapists
+are not pigeonholed
+3891.48 by a certain modality.
+3892.97 They may come at the world largely
+3895.72 through a psychodynamic
+or a CBT or a DBT lens.
+3899.3 There's lots of different,
+3900.82 ways to do therapy.
+3902.36 But when you really talk to those people,
+3904.15 really good experience therapists,
+3906.4 it's all coming through
+the vehicle of the rapport,
+3909.57 but they're practically shifting
+to what the person needs.
+3912.89 I don't understand the idea that like, oh,
+3915.53 I just do this, right?
+3917.59 I don't do that.
+3918.423 And when people are pigeonholed that way,
+3920.37 I don't think they help their
+patients very well, right?
+3924.056 We have to be diverse enough to say, hey,
+3925.46 I want all the arrows
+in the quiver, right?
+3928.02 And even though there might
+be one that I favor and that's
+3930.29 the lens I see things through,
+3932.0 no, I can be versatile, I can shift,
+3934.13 I can adapt to what this person needs.
+3936.66 And I think if you have
+that, you've got to,
+3939.85 if you have that, you've
+got a winning combination.
+3942.23 - Great, so people should
+perhaps try a few therapists
+3944.82 and maybe have a session or
+two or three to see if they,
+3947.86 the rapport feels like it's taking root.
+3949.9 Is that?
+3950.733 - [Paul] Yeah.
+3951.566 - Do you have that right?
+3952.399 - Yeah, and I think that's why word
+3953.232 of mouth is important, right?
+3954.065 If someone you trust tells you,
+3954.898 hey, this is a good person
+that says a lot, right?
+3957.36 It already makes the pretest probability,
+3959.68 is quite high.
+3961.16 But yes, it's interesting to see
+3963.673 when like people have a therapist
+3966.07 or they called their insurance
+3967.21 and they're assigned a therapist.
+3968.4 This thought that like, oh,
+3969.41 that's the person I have to have now.
+3971.09 And it's like, no, you should look at that
+3972.81 like anyone you'd be interviewing, right,
+3975.33 for a job, right?
+3977.3 But you got to bring again,
+3978.38 the right set of thoughts
+to that to be helped, right?
+3982.93 Which is that I want someone
+who has rapport with me.
+3985.46 I don't want someone who's
+going to make it easy, right?
+3987.86 Who's like, well, it's,
+gosh, it's kind of pleasant,
+3989.64 because then that means
+they're not talking
+3991.03 about the difficult things, right?
+3992.45 So if one brings, like, I know
+this isn't going to be easy.
+3994.84 I got to talk about
+difficult things, right?
+3996.87 Even if one doesn't recognize
+3998.41 or I got to talk about
+the trauma in me, right?
+4000.38 But to go to therapy
+thinking, no, it's, I mean,
+4003.53 sometimes it's enjoyable,
+but a lot of times, right,
+4005.92 it's not, right?
+4006.82 It's hard work.
+4007.653 It can be excruciating.
+4008.59 We can cry during it, but to say,
+4010.57 right, that that's how
+I'm going to be helped.
+4012.13 And I want someone who's
+going to do that with me,
+4015.73 who's really looking at,
+what's going on inside of me,
+4018.3 how do we help me?
+4019.32 And I can feel sort of
+the robustness of that.
+4022.4 If one brings that approach
+and then looks at the therapist
+4025.54 through that lens,
+4026.79 you're very likely to
+then move on from someone
+4029.44 who's not a good choice, right?
+4031.03 And really stick with someone who is,
+4032.91 even though that doesn't mean
+it's always like pleasant
+4035.93 and enjoyable.
+4036.763 I mean, it has to not be that sometimes.
+4039.127 - Right.
+4041.02 Maybe we could drill a little deeper
+4042.31 into the mechanics of therapy.
+4044.51 I put out a few questions to
+audience asking what they want
+4047.83 to know about therapy and it was amazing.
+4050.06 I got hundreds, if not
+thousands of responses saying,
+4053.59 how should I show up to therapy?
+4055.07 So for instance,
+4055.903 should people take a five minute
+meditative drop in before?
+4059.27 Or should they just show
+up cold and let it emerge.
+4063.49 During therapy,
+4065.31 is it a good idea to take notes
+4066.68 or to not take notes
+and then post therapy,
+4070.34 how should clients,
+4071.77 patients as they're sometimes
+called, one or the other,
+4074.87 I never know which,
+4075.91 how should they process that information?
+4078.33 Should they take some
+designated time afterwards
+4080.84 and in an ideal world,
+4082.57 take a 30 minute walk
+afterwards and think about
+4084.92 the material or should they set it aside
+4086.93 and come back to it?
+4087.763 Of course there are constraints,
+work and family, etcetera.
+4091.11 But you know we,
+4092.88 there's a lot of knowledge out
+there about how to best show
+4094.83 up to a workout, warm
+up for five, 10 minutes,
+4097.69 then do this, etcetera
+and then the cool down.
+4099.62 I mean, here, we're talking
+about hard psychological work
+4102.89 aimed at bettering oneself.
+4104.34 So to my knowledge,
+4106.31 I've not ever seen this
+information anywhere.
+4109.42 It'd be very useful to hear,
+hear your thoughts on this.
+4111.83 - Yeah.
+4112.73 Well, I'm not trying to duck the question,
+4114.89 but I think it varies so much by person.
+4117.81 So if you think about the
+first part of your question,
+4119.53 I think was how to show
+up to therapy, right?
+4122.02 And I think the answer would be whatever
+4123.72 lets you be fully present
+when you're in therapy.
+4126.82 Now for some people that's
+going to be, I show up early,
+4130.01 I say it, I call myself,
+I meditate a little bit.
+4132.54 I mean, that's how then
+they're present, right?
+4134.42 For other people, you know,
+they just, they show up,
+4136.78 walk into the room, they can
+stop another present, right?
+4139.17 So it's whatever works for that person.
+4141.47 So that they're really
+there, their thoughts,
+4143.67 their energy is really in what's going on.
+4146.24 And the same thing
+applies on the other end.
+4148.71 There are people who are
+really well served by,
+4152.74 going for a walk if they can,
+4154.01 or sitting quietly after therapy,
+4155.66 kind of putting that in order, right?
+4157.18 Otherwise they lose some of it, right?
+4158.84 Or like some of the ahas, right?
+4160.753 Or the, oh, that's an interesting thought
+4162.92 that they really need to put it in order.
+4164.29 Maybe that involves taking some
+notes during therapy, right?
+4167.54 For other people, they need
+to do the exact opposite.
+4169.87 They need to like leave,
+not think about that at all.
+4172.88 And then they can reflect on
+it later and learn from it.
+4175.56 So we're so different.
+4177.39 Human beings, there's
+such a diversity in us
+4181.224 that there's no hard answer to that,
+4183.418 but it's like being present
+when it's happening,
+4186.04 then being able to sort of consolidate
+4189.903 and retain what's been
+gained is most important.
+4193.13 And I think we have to figure
+that out person by person.
+4195.87 I mean, I try and do
+that in the work of like
+4198.11 what's serving this person best.
+4199.46 And sometimes we,
+4200.67 sometimes it evolves and
+sometimes we talk about it,
+4202.78 but it varies so much.
+4204.55 - Hmm.
+4205.383 - If someone were thinking about embarking
+4206.98 on therapy or more therapy
+4208.95 to address trauma or just
+general issues of life,
+4212.4 what is the frequency that you recommend?
+4214.33 I could imagine two extreme models.
+4216.32 One is, okay,
+4217.37 I'm going to finally tackle this trauma.
+4219.41 I'm going to do therapy
+three times a week,
+4222.16 but for a shorter period
+of time, six months,
+4225.47 over and out versus this open
+ended model of once a week,
+4230.4 typically for as long as it takes.
+4234.4 - Right, right.
+4235.84 I think that also varies.
+4238.89 And I work with people
+in varied ways from oh,
+4241.94 someone who's doing well
+4242.773 and like we meet for a half
+hour every six months, right?
+4245.72 To doing week long,
+4247.27 hourly sessions, to
+spending three intense days
+4251.4 with someone in a row, right?
+4253.16 So I think as far as like
+kind of guiding principles,
+4258.57 what I have found in my own life,
+4261.08 'cause I value my own
+therapy tremendously.
+4265.76 So I found in my own life
+and in my own clinical work
+4268.88 that if it's less than once a week,
+4271.4 then it's hard for us to retain really.
+4274.79 We spend a lot of time
+kind of catching up, okay,
+4277.75 what's happened?
+4278.583 Let's get back to the place
+we were at before, right?
+4280.96 Which is why I think if we're
+really going to get somewhere,
+4283.26 we're not just trying to
+maintain something, right?
+4285.41 Then I think once a week for an hour
+4287.56 is really kind of the minimum, right?
+4290.29 But more intensive work.
+4291.593 It's like the more I intense it is,
+4295.07 it's not linear, right?
+4296.19 It's an exponential gain.
+4297.48 Like we do a lot of intensive work, right?
+4300.8 where someone will come
+and do 30 clinical hours
+4304.17 with us over the course of a week.
+4306.46 So five or six different
+clinicians, 30 clinical hours.
+4311.121 And you know,
+4312.617 we've found that the benefits
+of doing that are immense.
+4315.12 It's like let's say a year's worth
+4316.48 of therapy consolidated and
+you take well, 30 hours,
+4319.59 let's say, we go almost every week,
+4321.87 maybe that's 45 or 50 hours,
+4323.94 but 30 hours with that kind of intensity
+4327.53 is worth probably 60 hours,
+4329.89 done in a different way,
+4331.8 because then it's in us
+in an active way, right?
+4335.04 It's in the therapist in an active way,
+4336.8 it becomes very, very dynamic.
+4338.82 So I think turning up the intensity,
+4340.91 if there's something that
+we really need to process,
+4343.68 absolutely makes sense.
+4344.82 And I do that in my own life
+4345.91 is something now's
+like, whoa, it's really,
+4347.94 somebody is really distressing me
+4350.562 and it's linking into prior trauma
+4352.387 and I can see what's going on in me.
+4353.24 Now I start to have
+ruminative thoughts, you know,
+4355.31 with negativity, I'm like,
+I got to go more, right?
+4358.17 Because I got to do that processing.
+4360.19 So I can get to the place that I am,
+4361.99 which is not that,
+4363.213 it's not that the trauma
+has no impact on me, right?
+4365.2 It' that the impact is much
+less than it was before
+4368.03 the therapy and that I most often
+4371.82 and more often than not
+have an ability to see
+4374.65 when it's now intruding into my thoughts.
+4377.41 And it's taking me away from like
+4379.34 what I really think and believe,
+4380.61 or being able to draw
+logic and emotion together
+4382.97 and make good decisions.
+4384.35 Turning up the intensity
+then absolutely makes sense.
+4388.3 - This very deep, intensive
+work of 30 hours in a week.
+4393.26 What brings somebody to some,
+the type of work of that sort?
+4398.12 Is it a suicide risk or a
+severe addiction situation?
+4402.26 I mean, how does one
+gauge how much therapy
+4404.24 they ought to be doing
+and should it always be
+4409.45 on the therapist to decide that frequency?
+4414.41 What would bring someone
+4416.254 to a situation of five
+therapists in 30 hours
+4418.1 a week in one week?
+4420.07 - Right, right.
+4421.998 Yeah, it's usually a person
+who is really distressed
+4425.72 by something whether that's,
+4428.01 it's so negatively impacting their life
+4431.49 or sometimes a person
+comes to realization.
+4433.33 I just can't take this anymore, right?
+4434.7 I'm sick of the cyclical depression.
+4436.74 I got to stop having panic attacks.
+4438.09 I need help, right?
+4439.89 But it's usually some,
+4441.92 crisis point with the idea
+of crisis in the meaning of,
+4445.65 okay, something comes
+to a head and after it,
+4447.82 things are going to be different, right?
+4448.97 Not a crisis and things are
+going to be negative afterwards,
+4451.75 but a point where, where then
+that cognitive flexibility
+4455.23 comes to the fore of like,
+4456.063 well, I need to do
+something different, right?
+4458.36 So that's often what brings us.
+4460.63 Sometimes it's other
+people pointing it out
+4463.14 or somebody's had an
+intervention somewhere or yes,
+4466.37 that person's been hospitalized
+after a suicide attempt
+4469.17 or they've gone back to
+4471.02 rehab again for the third or fourth time.
+4473.077 And their life is really in danger.
+4475.08 Sometimes it's that.
+4476.05 And sometimes it's a person
+realizing, yeah, I just want to,
+4479.2 I want to look at myself, I want
+to understand myself better.
+4482.23 I know that what's going on in me,
+4484.06 isn't as good as it can be, right?
+4486.62 So I think people can come to it
+4487.93 for all sorts of different ways.
+4490.59 And I think, yes,
+4491.423 I think a lot of times it
+would be the therapist to say,
+4494.38 more work, more intensive
+work or can make a difference.
+4498.32 But I think the person also needs to,
+4500.99 take ownership, right?
+4502.25 Of their own therapy and say,
+4503.17 if I don't feel helped enough,
+4504.95 well, I have to think about that, right?
+4506.71 And talk to the therapist
+about that, 'cause it,
+4508.45 maybe that therapist isn't a match, right?
+4510.96 Or maybe you talk to the
+therapist and the therapist
+4513.04 can change his or her approach, right?
+4515.66 Or maybe you talk to the therapist
+4518.086 and increase the frequency, right?
+4519.27 But the idea is to be aware of it, right?
+4522.38 And if one's needs,
+4523.35 aren't being met to
+acknowledge that, right?
+4526.397 'Cause people can get
+into a rhythm of therapy
+4528.44 where it's really not helping them, right?
+4530.82 But they either feel sort
+of nihilistic about it.
+4533.24 Like, oh, I'm no better and
+I'm going to therapy, right?
+4536.659 Or sometimes there's a sense
+that while I'm in therapy,
+4538.73 so I'm kind of checking
+that box of doing something
+4540.78 for myself, but it's not
+really getting me anywhere.
+4543.34 And then the part of the
+brain that's controlled
+4545.16 by the guilt and shame and avoidance
+4547.2 thinks that's a great idea, right?
+4549.03 So again, this ability
+to observe ourselves
+4551.28 and like what's going on,
+4552.49 am I being helped in the way,
+4553.95 do I feel helped, right?
+4555.67 Am I in some ways,
+4557.56 even like happy that
+I'm not feeling helped.
+4559.919 'Cause I don't have to face
+4560.752 this thing I don't want to face, right?
+4562.18 Or am I too afraid to say
+I need more help, right?
+4564.64 Do we really need to look at ourselves?
+4567.84 And this is where the insurance systems
+4568.673 often are very difficult,
+4570.441 'cause it's hard sometimes
+for a person to say,
+4571.55 I need more therapy 'cause that
+may not be possible, right?
+4575.823 So there are sort of negative factors
+4577.65 in the world around us.
+4578.7 But ultimately I think the
+answer to the question comes down
+4582.218 to observing ourselves
+and taking ownership
+4584.2 of like what's going on in
+us and how we're feeling.
+4587.757 And then feeling that,
+4590.48 that commitment to self
+or to self-care to say,
+4592.26 I need to go change this.
+4593.73 - And for those that
+maybe don't have the means
+4595.95 or insurance or access to do even one day
+4599.56 a week therapy in the journaling model.
+4602.49 - [Paul] Yes.
+4603.35 - Could one perhaps take an entire day
+4607.445 as awful as it might seem,
+4609.376 to do a lot of journaling
+and thinking and walking,
+4611.47 do a self-generated intensive.
+4614.42 Do you think there's utility to that?
+4617.441 - I mean there could be,
+4618.274 but again it depends by person 'cause
+4620.33 there could also be
+something negative about that
+4622.12 if it's someone who's not at the point,
+4624.92 not ready for that, right?
+4625.91 I mean we don't come at,
+4628.367 we don't come directly at
+the trauma immediately,
+4630.51 at least most of the time
+we don't do that, right?
+4633.8 And we often don't explore it in depth.
+4636.61 Like this idea that, oh,
+4637.61 that person now has to go through
+every second of the trauma
+4640.34 is actually not true.
+4641.35 I mean sometimes it is, but that's,
+4644.1 that's not the common situation, right?
+4646.38 So more often that
+person has to acknowledge
+4648.81 like the example of like
+I was sexually abused
+4652.406 and have to acknowledge
+that and to, and say,
+4653.84 okay, like, gosh,
+4655.12 what has that done to me?
+4656.41 That doesn't mean,
+4657.243 well let's parse out every moment
+4658.61 of like how that was and
+the terror of that, right?
+4661.6 So that can lead people
+to a worse place, right?
+4665.248 So, I think the idea of
+biting off small pieces,
+4669.48 so to speak where a
+person is writing, right?
+4671.96 Or is talking.
+4673.07 But I think if one is writing,
+4674.41 it is good to communicate
+with another, right?
+4677.33 Another trusted person.
+4679.19 And if there's not someone
+in one's personal life,
+4681.76 there are clergy members,
+4682.68 even if one isn't a affiliated
+with an organized religion,
+4685.649 you could probably go places
+4687.34 and get clergy to want to help you, right?
+4689.64 I mean, there are people out there
+4690.73 who want to help other people.
+4692.0 So we say, what if someone
+has no one, I mean,
+4695.09 almost never do we have
+no one here, right?
+4697.16 'Cause we could probably go find someone,
+4699.635 but we need to kind of
+take that in pieces.
+4702.01 So there's some risk like trying
+to do the intensive thing,
+4705.43 you know, on one's own.
+4707.08 And that's where I would put in,
+4709.564 if a person's having suicidal thoughts
+4711.0 or even thoughts of death,
+of not wanting to be alive,
+4713.62 I don't deserve to be alive.
+4714.81 I mean, these are warning
+signs for really getting help.
+4717.43 So there are some signs that say, hey,
+4718.89 don't try and do that on your own, right?
+4720.8 Go try and find a resource.
+4722.4 And it's things that get to
+that level of severity of,
+4726.22 and often a person knows that.
+4727.063 I mean, am I in a place where I know
+4729.45 I'm not healthy
+4730.34 and I'm having kind of scary thoughts,
+4733.945 then we need,
+4735.088 that's a person who
+really shouldn't be doing
+4735.921 that on their own.
+4737.08 - Great, thank you for that.
+4737.95 - Yeah, you're welcome.
+4739.36 - So we've been talking
+a lot about talking.
+4741.42 - Huhm.
+4742.62 - And now I'd like to talk a
+little bit about chemistry.
+4745.68 - Yes.
+4746.513 - Drugs.
+4747.346 - [Paul] Yes.
+4749.07 - So maybe first we could
+talk prescription drugs.
+4751.641 I mean you're a psychiatrist,
+so you're approved to,
+4753.81 and presumably do prescribe
+medication where appropriate.
+4758.31 I mean, this is a vast
+landscape of course.
+4760.33 We've got ADHD and I should just tell you,
+4763.34 I get more questions about
+ADHD and the drugs related
+4766.47 to ADHD and dopamine than any
+other topic, any other topic.
+4771.29 So there's ADHD, there's
+OCD, there's depression,
+4775.47 there's antidepressants and so forth.
+4778.69 Is there some way that we can,
+4780.71 wrap our arms around all of that
+4782.8 as a way of waiting into this,
+4785.25 this drug question and just address,
+4788.71 how does one decide when
+medication is useful?
+4791.28 Because in the end,
+4792.81 the dissection tool that the psychiatrist
+4794.97 or therapist has is language.
+4796.83 And at some point,
+4797.663 one has to make an assessment
+about dopamine or serotonin
+4800.78 or whether or not a given drug would help.
+4802.77 And most therapies,
+4806.307 I believe don't involve putting
+someone in a brain scanner.
+4809.22 And to my knowledge,
+4810.728 there still is not a very
+good blood test to assess,
+4812.69 oh, is this person's dopamine low or high,
+4814.67 correct me if I'm wrong.
+4815.96 And ultimately that,
+4817.92 and I know there are companies out there,
+4819.16 so I'm not trying to
+undermine those companies.
+4820.69 But if I happen to do
+that in this statement,
+4822.1 if you take a blood test
+and find that your serotonin
+4824.146 metabolites are low,
+4826.68 my understanding is it's
+possible that you are too low
+4829.47 in serotonin in the brain,
+4830.61 but that's a very indirect window
+4832.17 into what's really going on.
+4833.68 So how does,
+4836.176 how do you think about
+prescription drugs in the context
+4839.51 of treating trauma and other
+conditions and then maybe
+4844.02 we'll drill into some of the
+more specific conditions?
+4846.49 - Sure, I mean,
+4848.001 I would first comment that
+right there aren't tests
+4850.15 for these things.
+4851.81 And I think the tests for metabolites,
+4852.66 I mean, things are so different.
+4854.53 By the time, what we're talking
+about has been metabolized,
+4858.18 often to some very significant extent.
+4860.15 Left the brain,
+4861.03 now it's in the peripheral blood
+4862.28 that we really don't
+learn from that, right?
+4864.55 I think that we tend to over
+utilize medicines in this
+4869.31 country because we have
+a healthcare system
+4873.652 that often that's so based
+on throughput that we want to
+4876.2 polish the hood when there's a
+problem in the engine, right?
+4878.37 So we overutilize medicines
+often as an end point, right?
+4882.03 Oh, we're going to make that
+person's depression better
+4883.73 with an antidepressant.
+4885.46 Well, I mean maybe, right?
+4887.25 But most of the time for
+the person's depression
+4890.79 to really get better and stay better,
+4892.41 they need to unravel what's
+driving the depression, right'
+4896.594 So the first step is I think
+4898.31 they're cut two steps to it, right?
+4899.81 The first assessment step is,
+4901.97 is there a diagnosis that,
+4905.877 that the vast majority of the time,
+4907.31 if not sometimes, all the time,
+really warrants a medicine?
+4910.61 So the bipolar disorder, OCD, ADD, right?
+4915.03 These are diagnoses that we,
+4917.19 we understand more about
+them and what's going on
+4919.93 in the brain and how medicines
+can treat or stabilize them,
+4923.88 which doesn't mean the
+medicine is necessarily,
+4925.69 it's not a substitute for therapy, right?
+4928.921 But sometimes the medicine and
+therapy can go hand in hand.
+4931.24 So for OCD, for example,
+warrants therapy, but it almost,
+4935.78 not always, but it almost
+always warrants medicine too,
+4938.93 so that you can ease the
+systems that are making
+4941.35 the rigidity and the
+repetition in the brain.
+4943.87 So the first kind of branch point can be,
+4947.01 what is the diagnosis?
+4948.13 What is the level of severity, right?
+4950.12 And I think that's very,
+4951.33 very important where I
+think it's a little more,
+4954.039 maybe even interesting is using medicines
+4959.63 to help the person engage in the therapy
+4962.93 as productively as possible.
+4965.29 And here's where I think we're so limited
+4969.036 by how we categorize medicines
+4970.42 and this sort of pharmaceutical
+4973.75 insurance driven medical system
+4977.47 we have that I think throws
+us off in tremendous ways.
+4981.84 So you think about how
+medicines are categorized,
+4984.01 so antidepressants.
+4985.8 And the vast majority of people who are
+4987.72 helped by antidepressants,
+4989.27 they're not, they don't have
+4990.34 clinically severe depression, right?
+4992.49 Those medicines create more
+distress tolerance in us, right?
+4996.61 And if you think about
+how helpful that can be,
+4998.98 if you're going to go,
+4999.813 now you're going to do
+something difficult, right?
+5001.07 You're going to bring that
+trauma or the stressors
+5003.55 to the surface and you're going to process
+5005.17 and you're going to try
+and make life change.
+5007.12 If we can make more
+distress tolerance in us,
+5010.08 that can be so, so much better, right?
+5012.84 And think about the category
+of medicines that are called
+5014.91 antipsychotics, which really
+puts people off, right?
+5018.87 But most of the prescriptions
+for antipsychotics
+5021.67 are not for psychosis, right?
+5023.6 And there are ways in which
+low dosing of some of those
+5027.34 medicines can help intervene
+in negative pathways, right?
+5031.91 In pathways that are about distress.
+5035.042 And sending out those tendrils
+5036.24 of neurons that are about hyper vigilance
+5039.673 and avoidance, right?
+5040.506 In in our brain.
+5041.43 And we can often get at that.
+5043.46 And if you can improve
+someone's distress tolerance
+5045.77 and you can use medicines
+5047.39 that take away what clinically
+is rumination, right?
+5051.531 Not the standard meaning of that word,
+5053.33 but the clinical meaning of it,
+5054.86 where there are distress
+centers in our brain
+5056.973 that are overactive.
+5058.827 And then we get stuck in these
+maladaptive negative pathways
+5062.38 where we think about something
+over and over and over again,
+5065.22 with no real chance of solving
+it because that's not what's
+5068.0 going on inside of us.
+5069.58 So medicines can help that,
+5072.03 but we have to have some flexibility
+5073.7 around their conception
+5076.438 and the modern medical system
+of like 15 minute visits,
+5079.68 to a psychiatrist that are weeks apart.
+5082.36 I mean, I don't understand
+how that goes well, right?
+5086.09 In the vast majority of times,
+5087.23 I think it doesn't go well
+because it's not enough time
+5090.34 to do the therapy, even
+generate the understanding.
+5093.804 So then medicines get
+thrown into the person.
+5095.17 This is how,
+5096.21 we use, I think approximately
+five times as much medicine,
+5099.7 I think across the board as say
+the Dutch population, right?
+5103.281 Then you think, well,
+why is five times more,
+5105.0 is a lot more medicine, right?
+5107.53 And you know, they have
+a healthcare system
+5109.69 and a cultural system that to
+the best of my understanding
+5112.86 is more rooted in taking
+responsibility for oneself, right?
+5116.47 So if a person comes in and
+cholesterol is high, right?
+5119.51 The first order of business is,
+5121.5 hey, you could take better
+care of yourself, right?
+5123.18 Like this person really needs to lose
+5124.59 some weight exercise more, right'
+5126.74 They're not just jumping to like,
+5128.05 let me give you a medicine and you know,
+5129.68 and shift you through
+the healthcare system
+5131.99 and out the other side of the door, right?
+5133.87 And the same thing is
+true in mental health,
+5137.63 and I'm not trying to be critical
+5140.375 to the psychiatrists or the
+nurse practitioners or people
+5142.71 who are practicing in that way,
+5144.57 because oftentimes there
+is no choice, right?
+5147.08 If they're working in a
+healthcare system that,
+5149.24 that the standard is highly
+spaced or spaced apart,
+5154.98 15 minute visits, what
+alternative is there, right.
+5158.29 But to look at, okay,
+5159.593 I'm going to use medicines
+because I don't have another
+5161.82 tool to bring to bear.
+5163.54 So I think the healthcare system
+and its focus on throughput
+5166.67 and it's short term talk about,
+5168.42 we talk about short term response, right?
+5170.299 Short term soothing at the
+expense of long-term health.
+5173.78 And I think that is the metaphor for,
+5176.43 that applies to our
+healthcare system, right?
+5178.75 Where if we,
+5181.025 if we are going to try and
+treat a symptom in a short term,
+5183.43 we're going to do it in a 15 minute visit,
+5185.01 that we're going to do it in a way
+5186.74 that maybe it soothes a symptom,
+5188.08 maybe it doesn't, but it
+does not get at the problem.
+5191.84 We need to invest more
+resources to get at the problem
+5195.0 and I think that's
+where a sort of protest,
+5197.71 if people, as a society, we say,
+5199.74 look, we don't like the way
+our healthcare is going.
+5202.59 Like, we need more focus
+on what the actual problems
+5205.14 are that yes,
+5206.35 we would spend more money,
+5208.43 to treating people and
+taking care of people
+5210.45 'cause it's more human time,
+5212.12 but ultimately about less
+suffering, less death, right?
+5216.24 And ultimately more productivity.
+5217.9 I think as an economy,
+5219.41 we would save so much money
+if we spend money on the human
+5223.106 aspects of mental healthcare,
+5225.35 because people would be more functional.
+5226.95 They're spending less time
+in the hospital, right?
+5229.38 They're more productive
+when they're working.
+5231.563 There's less entry into the
+criminal justice system.
+5236.077 So I think medicines get overused
+5238.96 in part for systemic reasons,
+5241.47 in large part, for systemic reasons.
+5243.4 And also for some of these
+categorization reasons,
+5246.14 oh, that person meets
+some technical criteria
+5248.61 for depression.
+5249.443 We got to give them this medicine
+instead of really thinking,
+5251.38 wait, what's going on in this person.
+5253.61 And I see this over and over again.
+5254.96 I see one who is on seven medicines
+5256.9 and they're on seven medicines
+5259.013 to treat seven different symptoms.
+5260.06 And now they have side effects
+5261.25 from all those seven medicines.
+5262.34 Maybe two of them are to
+treat the side effects
+5264.14 from the other five, right?
+5267.149 And that's bad, right?
+5268.43 And if you really get at
+what's going on in them,
+5271.12 now they're doing much better
+5272.69 and maybe they're on two medicines, right?
+5275.06 So I dunno if that's a
+helpful answer to that.
+5278.24 - It is, it's a very helpful answer.
+5280.03 I mean, I think at least in the spheres
+5282.57 that I run these days,
+5283.98 I hear a lot of negative
+statements about antidepressants.
+5286.47 I think, I'm old enough to remember
+5288.68 the book, "Listening to Prozac."
+5291.58 I remember when Prozac and its
+5294.11 and things like it
+first started showing up
+5295.797 and the excitement.
+5296.85 And then nowadays I hear more
+about the problems with all
+5300.36 these drugs and maybe that's just,
+5302.3 'cause I have arms in
+the, both the scientific,
+5304.5 but also in the kind of wellness community
+5306.04 where people think a lot
+about behavioral change.
+5308.14 Fortunately I think
+that's that they do that.
+5311.46 But of course these
+drugs, as you mentioned,
+5313.08 can have enormous utility as well.
+5315.23 - [Paul] Yes.
+5316.063 - I'd like to just pick up on one theme
+5318.14 that I haven't heard a
+lot about anywhere else,
+5320.15 which is the short term versus
+5321.36 the long term use of these drugs.
+5323.04 'Cause I could imagine,
+5325.04 someone feeling like they're
+finally going to tackle something
+5327.76 that's been inside them
+for a long time either
+5330.15 because they're really struggling
+5331.73 or because they're just done with
+5333.76 not working it through
+5337.943 and they decide to start a medication
+5341.13 that would give them higher
+levels of distress tolerance
+5344.11 for a short while.
+5345.7 I mean, is there anything to say
+5347.605 that someone couldn't take a
+properly prescribed medication
+5351.86 for a week or for the first
+three months of the work?
+5355.92 - Yes.
+5356.753 - And then know that they can come off it
+5357.586 because I think that the black
+and white model of, okay,
+5360.25 you're either going to start
+this drug and stay on it forever
+5362.47 or be taking some drugs forever.
+5364.752 - [Paul] Right.
+5365.971 - Or you're not going to take anything.
+5367.05 I mean, that just seems to,
+5367.95 life doesn't have,
+5369.11 does life have to work that way?
+5370.78 - [Paul] Right.
+5371.613 Is there a short term use
+that can be effective?
+5373.69 - Yeah, absolutely, yes.
+5375.3 In American medicine we are
+so much better at starting
+5378.72 medicines than we are at
+taking them away, right?
+5382.517 And part of that I think
+is driven by such a strong
+5386.01 presence of the pharmaceutical industry
+5387.75 and the pharmaceutical industry
+5389.467 does a lot of very good things, right?
+5392.82 But you know,
+5394.33 there's such thing as too
+much of a good thing, right?
+5397.13 And then as a society, when
+something seems positive,
+5400.44 this I think also is human nature.
+5401.97 We can overinvest in it, right?
+5403.81 So you think about when Prozac
+and those kinds of medicines
+5406.58 came out, they were safer medicines,
+5409.13 they're billed as antidepressants
+and the thought was,
+5411.31 well, they're going to
+fix depression, right?
+5413.32 And it's not how that works, right?
+5415.94 So if we look at them as tools, right,
+5419.17 then we can deploy them
+sometimes for the longer term
+5422.46 'cause sometimes that's necessary.
+5424.24 But absolutely for the
+shorter term, absolutely.
+5428.01 If we thought of Prozac and
+those kind of medicines,
+5431.07 not as, oh they're
+antidepressants, we think, look,
+5433.92 what they do is they,
+5435.95 they seem to make there be
+more serotonin in certain
+5439.39 circuits that are important
+for mood regulation,
+5442.564 anxiety regulation, distress tolerance.
+5445.67 So those medicines can
+really help somebody
+5447.93 if they're very severely depressed
+5449.52 and we want to sort of
+get them feeling better.
+5451.9 They can also help someone if
+they could use more distress
+5455.55 tolerance in a discrete
+period of time, right?
+5458.54 When we think about them that way,
+5460.43 we think about them as
+tools that we could apply
+5463.147 for short term or long term.
+5464.97 We don't see them as fixes, right?
+5467.52 And we don't see them as then substitutes
+5470.48 for the human to human work
+5472.38 that needs to be done.
+5473.35 I mean, I've been sort of in my training
+5475.84 at times in healthcare systems
+5477.89 and I've seen in many other circumstances
+5480.03 that look at medicines as
+answers and this idea that,
+5483.58 that person is a, and a lot of times
+5486.07 there'll be a number, right, right?
+5487.647 And the number is the diagnosis
+5489.82 and that number gets this medicine.
+5492.33 And I'm not sure we could
+be more misguided than that
+5495.907 and that's what leads to adding
+medicines, adding medicines,
+5498.023 it's not working.
+5498.97 Of course it's not working,
+5500.52 because no one's really paying
+attention to what's going on.
+5502.52 So add more medicines and then
+medicines for the medicines.
+5504.99 And I mean, we know this is true.
+5507.44 We know this is true,
+5508.86 but we haven't had the
+wherewithal as a society
+5511.98 to say like with a lot
+of things in society,
+5514.31 to say like this isn't okay, right?
+5516.32 I mean, we need more.
+5517.5 Like give these people
+who are trying to help us.
+5519.34 They need more latitude to help us.
+5521.05 We need more human to human contact
+5523.52 to get at what's really going on, and yes,
+5526.07 that's an investment of
+time and energy and money
+5529.34 in the short term and
+sometimes that's money
+5531.12 from the systems, right?
+5532.56 But if we do that, my
+goodness, look at the,
+5535.33 look at the payoff of that.
+5538.66 - What is your thought about anxiety
+5542.141 and ADHD as a separate phenomena,
+5545.31 in terms of medication.
+5547.24 Again, ADHD is the thing
+5550.02 that seems to come up most in questions.
+5551.92 I can't tell you the number
+of especially students,
+5554.82 but also young working professionals
+5558.41 and even people who are
+5560.06 outside those categories
+who are interested or taking
+5566.77 Ritalin, Adderall, Modafinil
+or Armodafinil or Vyvanse,
+5570.87 because they seem to
+struggle focusing without it.
+5573.64 Or, and I don't know,
+5575.19 'cause I'm not one of those individuals,
+5577.47 or because they seem to just
+like how well they can focus
+5581.59 when they do take those compounds.
+5585.448 And so my understanding is
+these compounds mainly increase
+5587.38 dopaminergic transmission in the brain,
+5589.34 also adrenaline, epinephrine in the brain.
+5592.44 So they're more or less stimulants.
+5593.68 They look a lot like, at least chemically,
+5595.27 they look a lot like
+cocaine and amphetamine,
+5597.08 although they're not quite
+cocaine and amphetamine.
+5600.01 So should we be concerned about this?
+5602.23 Is this a different sort of epidemic?
+5605.54 Can these drugs be used to train the brain
+5607.84 to focus and then people can
+withdraw from these drugs?
+5610.87 I mean, I think this is a huge topic
+5613.01 and one that maybe warrants
+its own episode entirely,
+5616.836 but as long as we're on the topic,
+5617.669 what are your thoughts
+about medication for ADHD?
+5620.08 - Sure, I think medication for ADHD
+5623.35 can be extremely effective
+5624.89 and the studies show us that, right?
+5627.7 They show us that if there is ADD,
+5630.65 then medication for ADD,
+5633.02 is very, very helpful and
+that's true in youths,
+5636.2 it seems to be true if adults
+have adult ADHD or ADD,
+5640.78 we kind of know that's true,
+5643.505 but all attention deficit
+5645.09 is not Attention Deficit Disorder, right?
+5647.89 And there we go to the
+reflexive 15 minute visits,
+5651.89 throw medicines at things, right?
+5653.81 Attention deficit can come
+from many, many places.
+5657.59 And one of them is anxiety, right?
+5660.053 There's so many other reasons
+depression affects attention,
+5663.87 poor sleep affects attention,
+5665.46 poor diet can affect attention,
+5667.32 stress in life can affect attention.
+5669.75 So, and, and certainly trauma.
+5671.52 And the thing,
+5673.315 the problems that trauma spins
+off can affect attention.
+5675.909 So this is really the,
+5676.742 this is really the truth that
+while teaching once about
+5680.695 medicines and pharmacology,
+5682.87 I was frustrated about how
+the answer to everything
+5686.74 was like, what medicine do we use?
+5687.89 What medicine do we
+use, as opposed to like,
+5689.67 this is just one piece of the puzzle.
+5691.59 And I told an anecdote, which,
+5694.36 I think it was a clinical anecdote,
+5696.45 like what do you think is going on?
+5697.46 And I think that if I
+told that to, I dunno,
+5701.53 middle school students or something,
+5702.74 they would probably say,
+5703.98 you just told a story of a
+person with a rock in their shoe,
+5707.41 which is what I, the story
+5708.54 that I was actually telling, right?
+5711.744 But several people I was talking to,
+5713.24 they're physicians, right?
+5715.202 ADD, right?
+5716.66 It's like, no,
+5717.601 every time the person
+steps down the rock hurts
+5719.27 and they're not able to
+maintain attention, right?
+5721.58 Like that's what's going on.
+5722.94 But we're so programmed
+to think about medicines
+5727.1 and inappropriate use of
+ADD medicines, as you said,
+5730.31 there's dopaminergic impact.
+5732.36 There's epinephrine,
+norepinephrine impact.
+5734.55 We're affecting what are called
+5736.63 prefrontal alpha 2 receptors
+5737.463 that like really need to be
+helped if there's real ADD
+5741.35 but if there isn't, that
+is not a good thing to do,
+5744.57 which is why it is quite fascinating
+5746.64 that when people have ADD,
+5748.95 they tolerate generally
+stimulants very well,
+5752.16 without the other problems
+that can come of stimulants.
+5755.18 And again, I don't know, I
+don't claim to know why that is,
+5757.67 but we see that phenomenon.
+5759.73 But when people are being treated for ADD
+5762.82 and they don't have ADD,
+5764.08 which sometimes they
+know they don't have ADD,
+5765.86 but the stimulants make
+them function better.
+5767.5 So they go to somebody
+and get the stimulants.
+5770.03 That's not a good thing to do, right?
+5772.1 'Cause stimulants, when
+they're not needed over time,
+5775.04 they do affect our physical function.
+5776.97 They affect our judgment, right?
+5778.51 There are a lot of negative
+things that come from that.
+5780.81 They can affect the
+vigilance inside of us.
+5783.739 So, yes, it's a valid diagnosis,
+5786.63 but it gets made when it's
+not present very often,
+5790.51 which we see with a lot of diagnoses
+5792.46 that you can throw medicine at.
+5793.63 We see the same thing
+with bipolar disorder.
+5795.8 True bipolar disorder
+is extremely important
+5798.48 to utilize medicines effectively,
+5800.58 but how many people are
+diagnosed with bipolar disorder
+5803.16 who have, they absolutely
+don't have bipolar disorder,
+5806.78 but it can be a catchall diagnosis
+5810.745 because there is in a sense,
+5811.578 "something to do for it," right?
+5813.84 And you can throw medicine at it, right?
+5815.55 So I mean, what do we expect, right?
+5817.65 If we have a healthcare
+system where you get 15 minute
+5819.793 visits with your psychiatrist,
+5821.5 of course we're going to
+throw medicines at everything.
+5823.46 And then the training paradigms
+5825.09 are going to look at it through that lens.
+5827.33 And then very often again,
+5829.04 I give the example of seeing
+somebody on seven medicines.
+5831.64 I mean the first thought I
+have is how many of those
+5834.249 medicines are actually counterproductive?
+5837.06 And a lot of the time it's not like, oh,
+5839.13 every now and then one
+is counterproductive.
+5841.02 No, that's the case.
+5842.55 That's the case a lot of the time.
+5844.34 And again, I come back to,
+5846.12 if we're not putting thought into it,
+5848.71 what other result would we expect?
+5852.02 - Thank you for that answer.
+5854.01 I'm very curious what
+constitutes negative effects
+5857.34 of stimulants.
+5858.173 So if somebody's taking
+Adderall or Ritalin in order
+5860.99 to work longer hours or focus
+5863.19 because they have attention deficit,
+5864.77 but not necessarily ADHD.
+5866.88 And again, I'm not
+recommending anyone do this.
+5868.58 I've just heard the numbers
+that have come back at least
+5871.31 from surveys and discussions
+5872.88 with colleagues at Stanford and elsewhere,
+5875.05 other college campuses that
+upwards of 75% of college
+5878.78 students use semi
+regularly, these drugs off,
+5882.11 not by prescription, just
+to study and to learn.
+5885.12 - [Paul] Yes.
+5886.17 - I can imagine sleep
+issues because people,
+5888.45 because these are stimulants,
+5889.81 what sorts of other issues
+can they create for people
+5892.94 problems that they can create?
+5894.33 - Sure, I mean,
+5895.413 I think a touchstone maybe
+5896.85 that's running through
+our conversation, right,
+5899.416 is prioritizing the short term benefit
+5901.62 over solving a long-term problem, right?
+5904.55 Which we might say is a human tendency
+5907.06 and we see it across the
+topics that we're discussing.
+5910.66 So, short-term use of stimulants.
+5912.59 Sure, people are more alert.
+5914.07 They can stay awake more,
+5915.66 they can study more intensely and longer.
+5918.36 Okay, there's some
+short-term benefit of that,
+5919.415 over there, even there,
+there can be problems, right?
+5923.42 But we can say,
+5924.79 let's just say for sake of
+argument that in the short term,
+5927.03 there's something to be
+gained by doing that, right?
+5930.481 But oh my goodness,
+there's so much that is,
+5933.46 there's so much risk to that, right?
+5935.21 And how many times have I seen someone
+5937.11 who they're doing that
+5937.96 and they're just doing
+that to study, right?
+5940.18 And now they're addicted
+to the amphetamines
+5942.87 and their behavior changes
+and they don't know it.
+5946.33 Talk about shifting our brain
+towards a more defensive,
+5950.39 sort of suspicious, outward look,
+5953.48 view of the world that
+we see a lot of that.
+5956.11 So we see judgment impairment,
+5958.66 we see heightened levels of anxiety.
+5960.87 We see more impulsivity
+in decision-making.
+5964.21 And sometimes we,
+5965.53 it can get to the point
+of seeing Frank psychosis.
+5968.22 Now, that's not common,
+5969.66 but have I seen young people
+5972.01 who've done exactly what
+you're describing, right?
+5974.07 They're using Adderall or
+they're using Ritalin to study.
+5977.38 And then I see them when they're
+coming into the hospital,
+5979.96 they're screaming about how
+someone's trying to hurt them.
+5982.597 Boy, it's the worst case scenario,
+5985.61 but it shows like that's
+where that can go.
+5987.96 And how much is there between the,
+5989.9 oh, I'm just using it to
+study and that severe,
+5993.15 outcome that is actually
+quite negative for a person
+5996.7 and it might change how they think
+5997.9 about that friendship or
+that relationship, right?
+6000.28 A lot negative happens
+when we change our brains
+6003.66 without an ability to see like,
+6005.31 what is it actually doing to us?
+6006.7 So, which is part of my whole
+theme about trauma, right?
+6009.57 It changes our brains and
+we don't know it, right?
+6012.42 Well the same can be,
+6014.636 the same is often true of
+amphetamines used inappropriately.
+6017.92 It shifts our brain.
+6020.399 And we don't realize that we're
+a little bit more impulsive
+6022.27 in our decision making, a
+little bit less trusting.
+6024.78 These are significant negative things
+6026.77 that if we don't know it,
+6027.877 the person will just say, yeah,
+6029.56 oh, I'm just using it to study.
+6030.69 I'm using it to work more.
+6032.42 That's not, you know,
+6033.94 that's not without it's
+high level of risk.
+6037.73 - What are your thoughts on cannabis?
+6039.63 I've said it many times on this podcast
+6041.58 before and I'll say again,
+6042.53 I feel fortunate that I've
+never really been attracted
+6045.02 to alcohol or drugs of any kind ,
+6048.508 so much so that if all the
+alcohol and all the marijuana
+6052.43 and all the cocaine
+amphetamine disappeared,
+6055.87 I wouldn't notice any
+change in my life, right?
+6059.362 And I feel lucky in that way,
+6060.24 'cause I know a lot of people feel
+6063.12 an attraction to these things
+6064.684 that it is almost a gravitational force.
+6065.623 - [Paul] Yes.
+6066.456 - From their first drink, they just feel,
+6068.37 I once heard it described in this,
+6069.95 I think it was an Augusten
+Burroughs book, "Dry"
+6072.18 where he was an alcoholic.
+6073.39 He said that the first drink he had,
+6075.41 it felt like this magic elixir
+6077.25 that meshed with the
+physiology of his blood
+6080.38 in the most seamless way
+6081.69 and as I was reading this, I thought,
+6082.86 oh my goodness, first of all,
+6085.07 that's the most foreign experience
+6087.29 for me in terms of alcohol.
+6089.05 And second gosh, that must be terrible.
+6091.98 And you can,
+6092.813 but at the same time you
+could really understand
+6094.45 why someone would be drawn to that.
+6096.03 - Yes.
+6097.041 So cannabis nowadays is legal
+6099.19 or decriminalized in
+many areas of the U.S.
+6102.37 A lot of people seem to use the argument,
+6106.67 it's better than drinking
+6109.894 or they only do it for
+sleep or anxiety management.
+6114.623 I'm not looking to demonize
+or support the cannabis.
+6117.67 So what are your thoughts about cannabis
+6119.22 for anxiety management, depression?
+6121.39 And maybe even for ADHD for that matter.
+6123.77 Sure.
+6124.603 - If I could make an
+alcohol comment, right?
+6127.88 The number of times I've seen alcohol
+6130.03 like having been a good idea for coping
+6132.39 with something approaches zero, right?
+6134.813 Like the alcohol for
+coping is just never good.
+6138.95 And there's an additional risk
+factor that there's certain
+6142.12 genetic profiles where people
+respond strongly to alcohol.
+6146.44 Like, as you're saying, it's not just,
+6148.13 oh, there's a little bit of
+short term relief of distress,
+6151.42 but there's this sort of euphoric response
+6153.42 and those genetics,
+6154.93 we don't understand them completely.
+6156.33 They seem to be in Northern
+European populations,
+6159.57 more prevalent as you head
+west in Northern Europe.
+6162.21 So we understand where risk
+factors are demographically,
+6165.66 but we can't pinpoint
+that for any one person.
+6167.95 And there's a tremendous risk of that,
+6170.02 when a person responds so
+strongly to alcohol or habituates
+6173.46 coping to alcohol.
+6175.51 Cannabis is a little bit
+of a different story.
+6177.5 I mean, how I have seen that play out,
+6180.69 and again, this isn't
+coming from any expertise
+6182.84 around the neuro the
+neuropharmacology of it,
+6186.427 like how is this really
+working in the brain?
+6188.23 But it comes from an observation
+6189.67 that what it seems to do is
+to narrow our attentional
+6194.18 perspective, right?
+6195.22 So it's why people will
+say, well, they want to,
+6197.41 they want to use cannabis
+6198.41 before like watching a movie with friends
+6200.08 or something, right?
+6200.913 And, and I think, okay,
+6202.09 I think why people are doing that
+6204.21 is because our cognitive spectrum narrows.
+6207.32 And then instead of worrying
+about that thing at work
+6209.47 or that relationship issue,
+one can just be present, right?
+6212.63 It gates out other
+attentional intrusions, right?
+6216.45 So in some ways, I mean,
+6218.32 I've absolutely seen it
+be helpful to people.
+6220.67 I mean, it's been legalized
+in Oregon, which is where my,
+6224.27 I spent a lot of my time
+6225.337 and it's not where all of my practice is,
+6228.419 but what I have seen is
+it is at times helpful,
+6230.29 safe around sleep, right?
+6231.5 Because a person can gate
+out other intrusive thoughts
+6234.25 and they can just relax and go to sleep.
+6236.36 But there can be another side of that too,
+6238.83 that at higher levels of distress,
+6241.09 at higher levels of tension,
+6243.08 what it can do is narrow the focus
+6245.66 of cognition to the thing
+that is negative, right?
+6249.54 So the idea that, oh, like,
+oh, this is a treatment for,
+6253.27 depression, anxiety,
+trauma, is not true, right?
+6257.01 Can it be helpful under
+certain circumstances?
+6259.84 Like I think the answer to that is, yeah.
+6261.46 I mean, I know the answer to that is yes.
+6262.7 'Cause I've seen it play
+out clinically that way,
+6264.87 but think it can also be harmful too.
+6267.29 So there, again, like
+anything that has any power,
+6270.23 power to influence our brains,
+6272.09 we want to be thoughtful
+and careful about it.
+6274.063 I mean, do I think that
+it's safer than alcohol?
+6276.71 Yes, I mean, I mean, like we,
+6278.34 we so clearly see that.
+6279.97 Does that mean?
+6280.984 Or it's just uniformly safe?
+6282.3 No, right.
+6283.36 So we want to be respectful of anything
+6285.7 that can change how our brain is working
+6287.827 and I think that includes,
+6289.09 certainly includes alcohol.
+6290.34 And I think it certainly
+includes cannabis too.
+6293.67 - I'd love to talk about
+psychedelics for two reasons.
+6298.43 One, there seems to be a
+tremendous amount of interest
+6301.47 in psychedelics as a
+therapeutic clinical tool.
+6304.6 I know there's also recreational
+use and I'll just preface
+6307.22 all this by saying that
+my stance is we absolutely
+6312.38 know for sure that these
+are controlled substances,
+6314.64 they're illegal to possess,
+6315.7 sell or use in most of the country.
+6318.78 There are few areas where
+it, they are decriminalized.
+6321.76 - [Paul] Yes.
+6323.07 And psychedelics is a
+broad category, of course.
+6325.68 And we can touch on some of
+the different, different ones,
+6330.25 but whereas five years or so,
+6332.25 five years ago or so I
+was truly afraid to say
+6334.93 the word psychedelics in
+any kind of public venue,
+6338.4 there are laboratories at
+Stanford working on ketamine,
+6341.44 psilocybin, MDMA, mostly in animal models.
+6345.56 There's terrific work going on
+6348.38 at Johns Hopkins University
+School of Medicine,
+6350.46 Matthew Johnson's Lab,
+6351.59 and others looking at the
+clinical applications,
+6353.76 mainly of high dose psilocybin and LSD.
+6356.37 There's the maps trials with MDMA.
+6358.316 - [Paul] Yes.
+6359.149 - So nowadays it's safe
+for an academic like me
+6361.78 to say the word psychedelics.
+6363.0 And I'm, I'd love to
+approach this question
+6365.07 of psychedelics from a place
+6366.63 of true exploration and curiosity.
+6368.79 But with the preface that
+we're talking about this
+6372.27 in a legal clinical setting.
+6374.74 - [Paul] Yes.
+6376.014 - And the legality is something
+that's now in process.
+6379.2 I don't think it's completed,
+but that's my understanding,
+6382.3 but there are trials.
+6384.15 You can go to clinical
+trials.gov and put in MDMA,
+6389.12 and you'll see a bunch of clinical trials
+6390.77 that are happening in
+the recruiting subjects.
+6393.63 So I think it's safe to
+have the conversation now,
+6396.52 and I'd love your thoughts
+about psychedelics.
+6398.91 Maybe we could start
+with psilocybin and LSD
+6403.52 as a broad category of drugs,
+6405.24 that at least my
+understanding is they touch on
+6407.19 mainly the serotonin system,
+6409.39 some specific receptor
+activation and modulation,
+6413.505 tend to change notions of space and time,
+6415.99 adjust internal state.
+6417.55 Maybe we would start there.
+6418.767 - [Paul] Yes.
+6419.803 - And then maybe venture
+into some of the other ones.
+6420.79 So what are your thoughts on
+these drugs for therapeutic
+6423.12 potential also potential
+hazards, etcetera.
+6427.87 - Yeah, I think if we look
+at the true psychedelics,
+6430.38 so psilocybin and LSD, right?
+6432.19 Because ketamine and MDMA,
+6434.02 they're different categories of medicine.
+6435.64 They're these sort of novel
+tools to bring to bear.
+6439.07 But if we start with psilocybin,
+LSD, true psychedelics,
+6443.01 I think why it is,
+6445.01 why they have gained so much momentum over
+6448.37 the last several years is
+because the data coming
+6451.69 from the labs and the academic centers
+6455.67 is so powerfully positive.
+6458.08 And as someone who's,
+6459.08 I'm interested in anything
+6460.73 that's potentially helpful, right?
+6462.68 And I want to learn and understand that
+6464.53 because a lot of things that
+are potentially helpful,
+6467.568 you know, you go and look at the data
+6468.401 and you see that that's not
+helpful, that's harmful.
+6470.83 I think what we have
+seen with psychedelics
+6474.861 is that they're so helpful, right?
+6476.87 And the trials are bearing that out.
+6478.63 And of course these are
+used in professional hands
+6481.13 and with the right kind of guidance
+6482.527 are extremely powerful tools,
+6484.35 but used in the right way
+6487.002 by someone who knows how to utilize them
+6489.491 in the right setting can have
+an immense positive impact.
+6493.15 And that's why I think
+6494.94 that the thought is there
+across people and more and more
+6498.37 people feel comfortable saying
+it and talking about it,
+6501.243 I mean we're in the state of Oregon now
+6503.09 where the thought is,
+6504.92 we're moving towards
+legalization of psilocybin
+6507.49 early in 2023.
+6509.8 And it's part the new data, right?
+6512.29 And how it meshes with
+the older data, right?
+6514.67 How it meshes with data
+from the 60s and 70s
+6517.53 that showed such a strong, powerful impact
+6520.15 of these medicines.
+6521.3 And I have a whole set of
+thoughts about what's happening
+6523.825 there and they're just
+their conjectures, right?
+6527.363 But my read of, you know,
+6529.2 as best I can try and
+understand the neuroscience
+6531.82 and the clinical applicability
+and the changes is,
+6536.72 what happens is we see less communication
+6539.63 or less chatter in the outer
+parts of the brain, right?
+6542.897 the the outer parts of the cortex.
+6544.74 And I think that as human beings,
+6547.69 we sort of glorify the parts
+of the brain that only we have.
+6552.51 I mean, certainly in my growing up, right?
+6555.079 I mean, what did I learn?
+6556.11 Even if you think about like,
+6556.95 learning about the brain
+in high school, right?
+6558.88 I learned that like, wow,
+6560.11 we're great as humans
+'cause we have language
+6562.447 and other animals don't
+6564.01 and we can use tools and
+like aren't we so great
+6566.66 because we have this part of
+the brain that other animals
+6569.12 don't and it lets us function, right?
+6572.64 Okay, there's some truth to that.
+6574.569 That we can do things others can't do.
+6580.092 But we get lost often in the
+outer parts of the cortex,
+6583.21 which I think are about survival, right?
+6586.36 So we come back to the things you
+6587.62 and I talked about early on of like,
+6589.74 why are these trauma
+mechanisms in us, right?
+6591.233 So like so much of what's going on
+6593.13 in our brains is about survival.
+6594.97 And I think living so to
+speak in the cortex, right?
+6599.07 And the outer part of the brain
+6600.63 is consistent with a focus on survival.
+6603.55 So if you think that's where language is,
+6605.11 that's where vision is,
+6606.44 that's where executive function is.
+6608.04 So planning and task execution,
+6611.47 so much of that is about making our way
+6614.43 in the world around us.
+6616.44 So we tend to glorify
+that and think, well,
+6618.49 that's in a sense where
+our existence is, right?
+6621.41 And I believe that is not true, right?
+6624.16 And again, can I say that for
+sure, of course not, right?
+6626.92 But my read of 20 years
+of doing clinical work
+6629.44 and thinking about all sorts of medicines
+6631.41 and thinking about the psychedelics
+6634.19 in a lot of depth,
+6635.76 I think that what they do is they take us
+6637.57 out of the cortex, right?
+6638.723 Because that's where we
+run into these problems.
+6641.36 That's where we bounce
+things over and over again
+6643.443 that the distress centers deepen our brain
+6645.597 and the brain stem kind of
+align with the outer parts
+6649.82 of the cortex and they say, right,
+6651.59 we we're in distress.
+6652.71 We want to stay alive.
+6654.21 Often a lot of us have had
+trauma that makes these changes
+6657.49 in the brain and then we're
+thinking all the time,
+6659.82 like what would I do
+if, if there were war,
+6662.64 what would I do if there's
+civil war, if someone bombs us,
+6665.511 what will I do if the
+economy collapses, right?
+6667.78 What will I do if somebody gets sick?
+6669.41 We're thinking all this future projection
+6673.127 that is all coming from
+a place of fear, right?
+6675.67 It's all coming from a
+desire to think about things
+6678.097 and control the future
+with this part of the brain
+6680.72 that is so uniquely human, right?
+6683.71 And I think when we take
+the neuro transmission
+6686.25 out of those places, right?
+6688.14 And we set it in a part of the brain
+6690.17 and say the insular cortex, right?
+6692.22 The parts of the brain
+6693.28 that are sort of in the middle, right?
+6695.008 Which I think, I believe is
+where our humanness really is.
+6699.45 So the psychedelics make there
+be less chatter communication
+6702.59 in these other parts of the brain.
+6704.457 And then we become seated
+in the part of the brain
+6708.01 that I believe is most
+about our experience
+6711.15 of true humanness,
+6712.63 which is why, when you read about,
+6715.01 people who have experiences
+and I've heard about them
+6716.877 and people talk to me about this, right?
+6719.436 They've utilized it.
+6720.269 They talk with me.
+6721.31 So whether it's someone
+telling me their story
+6723.3 or it's coming from research data,
+6725.63 it's why people can sort
+of see with clarity that,
+6728.61 oh, that trauma, that thing
+is not my fault, right?
+6733.929 Like we feel a sense of
+compassion for ourselves.
+6735.23 We relieve ourselves,
+release ourselves from guilt
+6738.01 and you say, why is this
+so helpful to people?
+6741.41 And I think it's because it can do
+6744.21 what we are trying to
+get at in good therapy,
+6747.13 but it can really catalyze
+that by just putting a person
+6750.81 in that part of the brain that can see it
+6753.39 for what it is,
+6754.63 without all that chatter
+in the cortex about,
+6757.25 hey, got to think it's your
+father, you won't avoid it again
+6759.088 and that makes the repetition compulsion.
+6760.99 How do I think ahead to the
+next thing that might happen
+6762.467 and what else bad might happen?
+6763.94 I mean, we don't get anywhere doing that.
+6766.43 And I think where we get somewhere
+is when we seed ourselves
+6769.86 deeper in the brain,
+which I think we do if,
+6772.28 if we're like doing really
+good therapy and we're,
+6774.56 we're in the deep parts
+of the brain, but these,
+6777.76 these psychedelics,
+6779.39 the medicinal value I believe
+is putting us in that part
+6782.78 of the brain where a person
+can really find truth.
+6785.58 And that's why I think that,
+6787.79 that's come so far in these few years
+6790.35 because I think that is
+very clinically evident.
+6794.34 And I think we're going to
+see more and more of the value
+6796.81 of that and how, what the
+psychedelics do can become,
+6801.17 I believe a heuristic for
+understanding like wait,
+6803.92 how are our brains really functioning?
+6806.62 And what are the parts that really matter
+6808.68 to our experience of being human?
+6811.56 It's those parts of the brain, right?
+6812.717 The deep parts of the
+brain, the insular cortex
+6815.88 and the areas around it that
+say light up when a person
+6819.21 has an experience of spiritual ecstasy
+6822.73 or an experience of connection
+with another person, right?
+6826.892 We kind of have these telltale
+markers that something
+6829.04 is going on there that's very
+important and very special.
+6832.3 And I think we're more
+attracted to the outer parts
+6834.62 of the brain in part 'cause
+they're easier to study, right?
+6836.743 I mean, as you know, better than I do,
+6838.69 we started studying the brain
+through lesion studies, right?
+6841.21 'Cause it was easy to,
+6842.043 or to see if a person got
+hurt in this part of the brain
+6844.19 or had a stroke in that part
+of the brain, what changes?
+6846.81 So we look at the cortex 'cause one,
+6848.65 it's easier to study and
+we tend to glorify it.
+6851.59 And I think that has been misguided.
+6854.74 And I think that we're learning.
+6858.12 about how that's been misguided
+6860.1 through the study of these
+6862.3 novel modalities from
+Western perspectives,
+6864.68 would of course they've
+been used for a long,
+6866.38 long time in other cultures,
+6868.45 but novel from our perspective.
+6870.67 - Yeah, I'm fascinated by this idea
+6873.015 that in these middle brain structures is,
+6874.58 is where our humanity lies
+6876.96 and as you said,
+6877.9 I also wonder whether or not
+other animals experience life
+6882.42 more from that orientation
+with less chatter.
+6885.19 We can only guess, but.
+6887.338 - [Paul] right.
+6888.171 You know, that a dog lover
+6891.821 and being in the presence of
+animals that seem to just be
+6893.9 present in what's happening in
+their immediate environment,
+6896.53 not too much anticipation.
+6897.825 - Right, I mean, through sentient right?
+6899.697 I mean what you're talking about
+6900.53 is sentience, it's important.
+6902.932 And sentience is extremely
+important, right?
+6904.49 And if we're going to
+overvalue say language,
+6906.92 then I think we undervalue
+sentience, right?
+6909.49 Which is why I think we tend
+to undervalue animals, right?
+6913.23 And their suffering, we say,
+6914.37 well, they're not saying
+anything about it, right?
+6916.16 And you know, they're not
+writing about it, so, okay.
+6918.37 It's easy to ignore and we think about,
+6920.84 again the hubris of that right though,
+6922.55 because we can think and talk and write,
+6924.29 like we must be feeling more
+6926.28 than species that don't do that.
+6928.29 I mean I think,
+6929.123 I think that that is so true
+6931.07 and that we're going to
+understand more about sentience
+6933.68 in other species and how,
+6935.56 that's at the core of existence.
+6939.653 And my hope would be that we value
+6941.9 more humans and animals, right?
+6943.75 Through the evolution
+of that understanding.
+6948.701 - The hallucinations that
+accompany psychedelics
+6952.67 like LSD and psilocybin have
+such an attractive force
+6956.35 to them as a concept and as an experience.
+6961.592 And so I think most often when
+people hear hallucinogens,
+6964.51 they think, and psychedelics,
+6965.9 they think about hallucinating.
+6967.3 - [Paul] Right.
+6968.215 - It makes sense why they would.
+6969.048 - [Paul] Right.
+6970.159 - But what's so interesting to
+me is nothing in your answer
+6972.47 about psychedelics,
+psilocybin and LSD focused
+6976.02 on hallucinations, per se.
+6977.85 It was more about feeling states,
+6979.29 accessing a feeling state or a relation
+6982.13 to an event or to a person or to oneself.
+6984.44 Maybe even I,
+6985.273 I caught hints of maybe
+even empathy for one's self.
+6988.236 - Yes.
+6989.069 - [Andrew] For the first time.
+6989.902 - Yes.
+6990.735 - None of that had to
+do with seeing sounds
+6994.08 or hearing colors and these kind of cliche
+6996.516 statements about hallucination.
+6999.0 So I am aware of laboratories,
+7001.51 one at a University of
+California Davis in particular,
+7004.07 but a few others that are trying
+7005.19 to generate chemical variance
+7008.11 of psychedelics that lack the
+hallucinogenic properties,
+7012.92 but maintain these other
+properties as therapeutic tools.
+7016.75 And as I say that, I realize that I,
+7018.94 people in the psychedelic
+community are probably thinking,
+7022.26 oh, that's horrible.
+7023.093 That's the dismantling of the core thing.
+7025.97 But the simple question is,
+7027.62 do you think the hallucinations
+are valuable for anything?
+7030.84 - And I think we're really
+getting into the philosophical,
+7034.5 right, the ontological, right?
+7035.91 There's this sort of trying
+to understand being, right?
+7040.267 And I don't claim to
+know the answer to that.
+7042.42 I think that at times it
+seems like the hallucinations
+7047.64 have a metaphorical or a symbolic way
+7051.76 of being helpful, right?
+7052.86 Because people will come
+to understand things
+7056.03 that they hold dear and true
+after the experience, right?
+7062.27 That often, not always,
+come through the lens
+7065.814 of the hallucinations.
+7066.93 So are the hallucinations necessary?
+7070.24 Are those hallucinations
+sometimes important sometimes not?
+7073.776 I mean, I think we don't understand that.
+7075.87 And I think we want to be respectful
+7077.91 of the sort of mystery of that.
+7079.92 But what I think is fascinating
+is when you think about
+7082.98 like substance abuse and
+what that means is, well,
+7085.88 one aspect of that is that
+a person has experiences,
+7088.58 thoughts, conceptions of self in the world
+7090.7 with the substance that
+without the substance,
+7092.95 they know are wrong, right?
+7094.384 People talk about, you
+know, liquid courage, right?
+7096.247 And okay, I feel better about myself
+7097.397 and I feel courageous 'cause
+I've had a couple of drinks.
+7099.41 Now, when I, when I, after that,
+7101.86 I feel like normal about myself
+and that was false, right?
+7105.54 And we see that like,
+7106.373 that's part of what substance
+intoxication means, right?
+7109.72 But what we see with the
+psychedelic medicines
+7113.47 is something that's
+incredibly different, right?
+7115.87 That people are having
+experiences that are so delinked
+7119.29 from our normal experience of reality.
+7122.15 And then when they come in a
+sense back online with right,
+7125.11 in a normal cognitive way,
+they realize like, wow,
+7127.99 now I'm applying all those mechanisms
+7129.78 of trying to understand truth and to that,
+7132.43 and what I see is that it's
+true and wow, it's true.
+7135.99 Like, I mean, we hear that
+all the time, which tells me,
+7138.46 hey, something different
+is going on there.
+7141.12 And of course these are powerful tools
+7142.76 so misused like very
+bad things can happen.
+7145.33 But you think about the clinical
+utility and what does it
+7147.87 mean that so many people
+change for the healthier
+7151.99 or even change their
+lives after an experience
+7155.52 because it so resonates as like,
+7157.32 oh, now I understand
+something that's true.
+7159.2 And it's not something bizarre.
+7160.69 It's like,
+7161.523 I wasn't responsible for
+being raped that time
+7163.53 or I'm not less than even
+though my sexuality or my gender
+7167.973 identity's different from some
+silly binary concept, right?
+7171.56 Like people kind of often
+get it and they feel
+7173.58 differently about themselves
+7174.76 and guilt and shame are impacted.
+7176.66 So I think we're likely to
+see that they are powerful
+7179.598 anti-trauma mechanisms again,
+7182.66 used clinically in the right hands.
+7185.52 And I think that we're also going
+to see that they're heuristic
+7187.64 for understanding our brain
+that goes against what I see
+7190.77 as some of the reflexive hubris of,
+7193.25 well, the outer parts must be the best
+7195.761 because that's what makes
+7196.594 us human and other animals don't have it.
+7198.04 And we're better because we're human.
+7199.3 I mean, it makes no sense, you know?
+7201.13 - I'd like to talk about MDMA
+7203.82 and I'll preface this by saying
+7205.09 I was a participant actually,
+7206.79 technically I'm still a
+participant in a clinical trial.
+7209.63 So I have experience of doing it twice
+7213.934 at the trial involves three
+separate dosings of this.
+7218.26 I was reluctant to do it
+outside of a clinical trial,
+7221.37 mostly because I was aware
+7223.67 there can be some cardiac effects.
+7225.31 And I liked the idea there
+would be a clinician on hand.
+7227.41 And I'll just say that
+I found the experiences
+7231.17 to be profound, beneficial
+and very different
+7236.945 from one session to the next.
+7239.11 The first one felt
+7243.14 a whole collection
+7244.54 of ideas and relational
+things came up that felt very
+7248.43 powerful and transformative.
+7249.77 And I do think that I learned there,
+7251.9 I exported a number of things,
+7253.87 my particular experience
+isn't relevant here,
+7256.09 but the second time I expected
+it to be the same way.
+7259.01 And it was very mellow and relaxing
+7264.427 and was deeply tied to kind
+of notions of acceptance.
+7267.56 So there weren't all these
+revelations and wow new insights.
+7271.23 It was very much about sort of grounding
+7273.86 into a kind of a calmer state.
+7276.53 So I have the personal experience
+7278.9 of benefiting from these in
+ways that I think still benefit
+7281.68 me and was very struck
+by the power of MDMA.
+7285.47 And my very crude understanding
+of the pharmacology
+7288.82 and the state that is being under MDMA
+7291.14 is that it encourages or increases
+7293.55 dopaminergic transmission,
+7295.27 but also serotonergic transmission.
+7296.827 - Yeah.
+7297.66 - Which is to my knowledge,
+7298.6 a kind of a rare state
+for the brain to be in
+7301.32 that typically it's more
+of a seesaw dopaminergic
+7304.17 drive towards external goals
+7306.17 or more serotonergic drive towards
+7309.24 more plasticity or comfort
+with what one already has.
+7312.47 And so with both those systems amplified,
+7315.02 the only way I can describe
+it subjectively is that it,
+7317.27 everything sort of funneled back in,
+7318.61 and it was almost like a
+pursuit of inner landscape.
+7324.35 And I can only imagine what it
+would be like in the context
+7327.38 of doing this with somebody
+else also taking MDMA.
+7331.62 I have no idea what that's like.
+7333.64 That's my report of the experience.
+7336.24 I know that the experience can vary.
+7338.823 What are your thoughts about the chemistry
+7340.77 and what sorts of states
+7342.92 do you think MDMA is creating
+7346.15 that can explain why it's
+a useful therapeutic tool
+7349.47 in some cases and what sorts
+of cases those might be.
+7352.97 - Sure, sure.
+7355.29 To clarify, I think part
+of what we're starting
+7358.606 with is this is very different
+than the psychedelics, right?
+7360.87 Which are seeding our
+consciousness in these deep centers
+7363.41 of the brain, right?
+7364.52 Whereas what MDMA is
+doing is sort of flooding
+7368.11 with positive neurotransmitters, right?
+7370.48 In certain parts of the brain.
+7371.82 And I think what that creates
+is a greater permissiveness
+7375.46 inside to entertain or approach
+different things, right?
+7380.94 So I think where we see it's tremend,
+7383.77 my read of the data is around potentially
+7386.25 and we're seeing in some
+of the trials, right?
+7387.94 Tremendous benefit for trauma, right?
+7390.86 And you think about what we
+were talking about earlier,
+7392.5 how this reflexive, guilt, shame,
+7394.85 hypervigilance, avoidance, right?
+7398.201 And when these systems
+7399.034 are flooded with these neurotransmitters,
+7401.51 it's more permissive to sort
+of think about that, right?
+7403.657 And to think about that without again,
+7405.58 all the chatter of that's your fault,
+7407.85 or you're never going to get
+anywhere because of that,
+7410.078 or you know what that means, right?
+7411.49 They could kind of go away
+and then we can think about it
+7413.64 in a way that isn't through
+the lens of fear, right?
+7416.8 And I think that's,
+7418.14 the power there is that
+7420.236 it's permissive of approaching something,
+7422.36 contemplating something,
+7425.17 a different, a novelty as we
+talk about a de novo approach.
+7428.6 And I think that's also why the experience
+7431.01 can vary because you could also see how,
+7434.06 if you're not thinking
+about something, right?
+7436.65 So there's not a clinical guidance to it,
+7439.26 you could be in a state where like,
+7441.835 hey, I just feel good, right?
+7442.668 And I'm thinking about good things.
+7444.47 And like, that can feel good, right?
+7446.155 But it, but that's not necessarily
+problem solving, right?
+7449.53 So the clinical guidance says,
+7451.24 hey, let's take that state and
+do something with it, right?
+7454.86 Let's Now that you're in this state,
+7456.489 let's make hay while the
+sun is shinning, right?
+7459.608 You're in a state where we can look
+7461.13 at things that are traumatic, right?
+7462.89 We can approach them from
+a de novo perspective.
+7465.8 And I think it's part,
+7466.81 I think that explains why
+you had these different
+7468.54 experiences from one to the other,
+7470.5 because your brain is just in a state
+7472.06 that's conducive to something, right?
+7474.17 But if there's not
+7475.45 the mechanism to have that thing happen,
+7477.7 like conducive to something therapeutic,
+7479.74 then you might go there on your own.
+7481.41 Or you might just be in a state
+7483.26 where you have a sense of wellbeing
+7485.3 and you sit with that.
+7486.64 - Which sort of seems like a waste to me.
+7488.35 I mean, this is what I tell
+people when they ask about MDMA.
+7491.98 I said, at least from my experience
+7493.53 that the potential hazard
+there is that in that very high
+7497.14 dopaminergic, serotonergic state,
+7500.25 there were moments where I
+felt like I could get excited
+7502.45 about any one specific concept
+that I might even just think
+7506.25 about, for instance,
+7508.13 water and how nourishing it is,
+7509.8 and really just go down the path of water
+7512.3 and the world and all
+the water and you can,
+7514.66 you're in a state that is
+very prone to suggestion.
+7519.17 - [Paul] Yes.
+7520.003 - Internal suggestion.
+7520.9 And so the guidance turned out,
+7522.31 the guidance from the clinician
+turned out to be immensely
+7524.44 valuable in allowing me
+to go into my own heads
+7528.05 for bits of time, but
+then also to resurface
+7530.55 and share and exchange in a way to,
+7533.57 I'm trying really get something out of it
+7535.57 that was useful and that I could export
+7537.16 because of course water is wonderful,
+7538.43 but I'm not really interested in growing
+7539.87 my relationship to water.
+7541.69 - [Paul] Yes.
+7542.57 And I really felt like in,
+I could understand for the,
+7544.61 I never went to raves
+or anything growing up.
+7546.65 I never did MDMA recreationally,
+7549.549 but I understood for the first time
+7550.44 how people could get really
+7551.7 attached to an environment
+and feel connected to things.
+7554.17 Because I think with all that serotonin,
+7556.02 you just feel connected
+to everything around you.
+7558.5 So I think it's a slippery slope there.
+7561.015 - Yes.
+7561.848 - And I don't know what the future
+7563.03 of the clinical use of MDMA looks like,
+7565.61 but I would hope that whoever's thinking
+7567.46 about I'm guiding these sessions
+7569.82 is really thinking carefully,
+7571.15 also about evolving the practice
+7572.71 to help people really move through
+7575.59 in a sequential way
+7576.423 so they can leave with something valuable.
+7578.9 - Yes, 100%, 100%.
+7581.31 These are such powerful tools.
+7583.71 And again, if they're powerful tools
+7585.17 and we're using them without
+respect for them, right?
+7589.76 Without clinical guidance,
+we incur risk, right?
+7592.33 I mean, you know,
+7593.18 getting obsessed with water
+while it probably isn't going to
+7595.84 hurt you, right?
+7596.94 But if someone is out using it,
+they're around other people,
+7600.77 what one can feel positively about
+7603.05 or become sort of obsessed
+in the short term about
+7604.92 can be very counterproductive, right?
+7606.31 It can be a lot of risk to that.
+7607.59 So I think it anchors back to
+these are very powerful tools.
+7612.37 We're coming to understand
+them much, much more.
+7614.9 And we're coming to understand
+that they have immense
+7617.01 potential to be helpful to us.
+7619.25 But I think and hope that
+that only also increases
+7623.22 our respect for those
+modalities and what can come,
+7628.43 what negative can happen
+if we're not respectful.
+7631.86 - It's going to be very interesting
+7633.06 to see where all of this goes
+7634.61 in the next few years, not
+just in Oregon, but elsewhere.
+7637.022 One way or another it's happening.
+7639.04 It seems to have a momentum
+that is not going to stop.
+7642.18 So very exciting area to be sure.
+7645.7 - I agree.
+7647.17 - I have a question about language.
+7649.67 In your book,
+7650.503 you talk about how we need to be careful
+7652.82 about the use of language around trauma.
+7654.708 - [Paul] Yes.
+7655.541 - Maybe problem solving and
+problem describing in general.
+7659.939 At one extreme,
+7660.94 you hear that your
+brain and your body hear
+7664.23 every word you say, and, you know,
+7666.85 we have to be so careful with language.
+7669.88 And that actually frightened
+me for a number of years,
+7671.81 'cause I would hear that
+and I thought, gosh,
+7673.08 if I just think that something is bad
+7674.74 now it's going to hurt me worse,
+7676.2 which itself is part of that whole,
+7678.09 packing down of an issue.
+7680.91 Very hard to avoid thoughts
+without distraction.
+7684.94 - [Paul] Yes.
+7685.941 - So that's one extreme,
+on the other hand,
+7689.02 I can say, I can tell somebody,
+7692.79 I love them with a tone of hatred.
+7695.87 I can tell somebody I hate
+them with a tone of love.
+7698.23 - [Paul] Yes.
+7699.964 - So how should we think about
+language in parsing trauma?
+7703.43 And in your book you talk about,
+7705.29 you give some cautionary notes
+7706.64 about talking about depression, trauma
+7709.197 and PTSD in terms that that might diminish
+7712.91 their real severity in some cases.
+7717.91 And I was really struck by that.
+7719.37 So maybe just touch on
+7720.77 how should we talk about these
+things in a way that doesn't
+7724.45 diminish them for ourselves
+or for other people.
+7728.162 And at the same time honors the fact
+7729.46 that there's a lot of trauma out there.
+7731.113 - [Paul] Right
+7732.452 - And there's a lot of
+depression out there
+7733.81 and we need to talk about it.
+7735.74 - Yeah.
+7736.573 I think this a very complicated
+7738.76 and in many ways convoluted topic,
+7740.56 like I think it's wonderful
+that we have language,
+7743.07 but boy, language leads
+us astray often too.
+7746.84 You think about how we,
+7748.06 how people define words?
+7749.749 Someone says a word, what is it?
+7750.92 Does that person know
+what that word means?
+7753.5 What nuance are they taking from? it
+7755.28 We just have to be very
+careful what we're saying
+7758.73 and what we're communicating.
+7760.4 And I think this doesn't mean because,
+7762.58 there's a sort of phenomenon now
+7765.14 where people are trying
+to control language
+7767.19 I think too much,
+7768.023 like you can't say anything
+that someone else might find
+7770.12 hurtful or you have to refer to people
+7772.28 in ways they choose to be referred to,
+7774.15 even if those are ways that
+others don't understand,
+7777.25 or ways they themselves have
+decided or ways that might be
+7781.28 psychologically or clinically unhelpful.
+7783.8 So I think the over control
+of language is not good,
+7787.8 but I think the specificity of language
+7789.93 of what are we trying to
+say, how are we defining it?
+7792.71 Or even the word trauma, right?
+7793.543 We're talking about trauma.
+7794.78 So we want to define
+what that means, right?
+7796.71 It doesn't just mean like,
+7797.92 oh, anything kind of negative, right?
+7799.66 Because then that dilutes it
+down to meaning nothing, right?
+7802.64 It also doesn't just mean,
+7806.33 injury and combat, right?
+7807.73 Like we have to talk about what that is.
+7809.5 So I think anchoring it
+to something that rises
+7811.79 to the magnitude of
+overwhelming our coping skills
+7813.96 and changing us,
+7815.05 like then at least I define
+it that way and I can
+7817.43 communicate that to you
+and we can understand
+7820.16 what we're talking about, right?
+7821.67 I think that another aspect
+of language, while again,
+7824.58 we need this middle ground and
+I don't think that it is okay
+7828.63 for the over control of language
+to shut down expression,
+7832.51 but we also have to acknowledge,
+7835.26 how we're so much less
+distanced from each other
+7838.05 through social media.
+7839.3 And I think social media can do very,
+7841.15 very good things as hopefully
+we're doing now, right?
+7844.0 But it can also be used to harm people
+7847.12 from a distance, right?
+7848.32 And how much hatefulness
+is there out there
+7852.03 that I think comes from anger
+7853.28 and frustration in people,
+7854.58 back to trauma, right?
+7856.01 Where people just want to be angry
+7857.62 and it's not really issues
+that they're talking about,
+7860.14 but then there's a target of that anger
+7864.177 and people feel beleaguered by that.
+7866.978 And the words that people use sometimes
+7869.27 are so awful that someone reading that,
+7871.89 like if you're in the demographic
+7873.27 that's being targeted, right?
+7874.99 And you're reading that, I mean,
+7876.02 how does a person not feel, not feel,
+7880.22 be set upon vulnerable, right?
+7882.31 And then I think that also fuels,
+7884.17 things like we just had this
+7886.04 terrible shooting in Buffalo, right?
+7887.64 Like just hate motivated, right?
+7889.82 And I think that,
+7891.13 because that kind of language
+becomes very real to people
+7893.61 who may take it in,
+7894.53 it fuels their hate and then
+they do something to enact it,
+7897.69 which of course creates greater feel
+7899.6 and fear and vulnerability.
+7901.39 And I think there was
+some civility and decorum
+7904.76 that was in our world,
+not that long ago, right?
+7907.81 I mean, you know, I'm in my early fifties,
+7909.43 I'm not that old, right?
+7910.83 But I remember a time
+7912.33 when in political discourse,
+7914.16 say people were civil
+to one another, right?
+7916.96 Now so much, I mean, it's
+not all of it, right?
+7920.08 But there's an acceptance of things
+7921.56 that are just bombastic, right?
+7923.67 It's a circus side show sometimes
+7926.771 of people being just angry and aggressive
+7930.29 and it's not really linked to anything,
+7931.88 although it's allegedly
+linked to something,
+7933.43 but then other people's
+anger can attach to it.
+7935.91 And it's not about what it's about,
+7937.26 but it's about aligning with the anger
+7940.107 and I think that there is so much damage
+7944.39 that comes from that.
+7945.37 And I think, should we have,
+7948.24 should it be okay that
+people sometimes are talking,
+7951.97 communicating, using language in ways
+7954.11 that would like get us suspended
+from middle school, right?
+7957.34 Ways I don't want my
+eight year old to see,
+7959.7 I mean, is that really okay?
+7961.77 Or do we need to take a stand
+7963.65 for like rational use of language?
+7965.15 I don't want my use of
+language to be over controlled
+7967.87 by someone who thinks
+they sort of understand
+7969.71 better than the rest of us
+how to communicate with us.
+7972.49 Okay, I don't want that.
+7973.36 What's stereotypically
+7974.45 a sort of idea of the left say, right?
+7977.53 At least in our society,
+but I also don't want,
+7981.54 language, it can be so angry
+7983.67 and so aggressive that it is perpetuating
+7987.56 or spreading vulnerability and
+that it facilitates trauma.
+7992.03 And I think we could set
+standards as a society
+7995.28 where we say, look, I
+don't want anybody in power
+7998.06 who's going to behave that way, right?
+7999.6 I don't care if their
+whole agenda is like,
+8001.38 make Paul Conti's life better.
+8002.99 I'm still not going to
+vote for you, right?
+8005.07 If you're behaving towards others
+8006.79 in a way that's denigrating,
+8008.09 you're behaving in a way that I feel
+8010.11 essentially ashamed of, right?
+8011.98 And I feel that a lot, right?
+8013.15 I see the politics, you
+know, I see things play out.
+8016.2 It's not always political, of
+course not always political,
+8018.59 but I see things play out
+and I think, oh my gosh,
+8020.84 I feel embarrassed.
+8021.8 Like we we're somehow okay with this.
+8023.58 Well, it doesn't matter which side
+8025.731 of the political spectrum it's coming to.
+8027.44 And I think that's an
+indicator that what we're doing
+8031.06 is really hurtful to us.
+8034.07 People become more angry.
+8035.45 They attach to the anger.
+8037.62 People feel more beleaguered.
+8039.07 There's more divisions between us.
+8040.57 And it seems more and more like,
+8041.81 well, we can only really
+identify with people
+8044.28 who are just like us
+8045.3 and like, what does that really mean?
+8046.35 I mean, the divisions
+that it creates between us
+8049.34 and that promotes so many
+negative things, right?
+8053.61 I mean, think about ways
+in which it promotes
+8054.844 white supremacy, right?
+8056.602 It's just one example, right?
+8057.74 And we've seen that play out
+that this is really bad for us.
+8062.575 And we've got to look at that.
+8063.443 I mean, if we don't look at that,
+8066.23 I don't think something
+is going to happen.
+8068.16 Like something is happening, right?
+8069.7 It's happening now.
+8071.04 - Yeah, and I'm, it really, to my mind,
+8073.82 it really seeps down into the soil
+8075.82 of everything that we're talking about.
+8077.007 - Yes.
+8078.09 - On all sides.
+8079.17 - [Paul] Yes.
+8080.003 - People are activated.
+8081.33 People are upset about
+one thing or the other.
+8085.38 - Right.
+8086.213 - No one is immune from upset
+8087.89 regardless of political affiliation.
+8090.014 - [Paul] Right.
+8090.847 - Everybody seems to be upset nowadays.
+8092.938 - [Paul] Right.
+8093.85 - As I was hearing you talk about this,
+8096.098 I feel a lot of resonance
+with what you said
+8098.8 and I also am hoping you run for office.
+8102.385 - Thank you.
+8103.771 I don't think I have the gumption for that
+8105.63 but thank you for.
+8106.463 - [Andrew] Well, that would be wonderful.
+8108.05 - Thank you.
+8109.2 I'd like to talk about a concept
+8112.524 of taking care of one's self.
+8114.02 This comes up in the book.
+8115.69 - [Paul] Yes.
+8116.637 - This is something we talk
+a lot about on this podcast.
+8118.25 I mean, I think people have
+heard me blab endlessly,
+8120.37 and I'll probably go into the grave
+8122.82 telling people to get sunlight
+in their eyes when they can
+8125.13 and to try and get proper
+sleep and to have a few tools
+8130.44 for reducing their anxiety in real time
+8132.3 and on and on and on.
+8133.542 - [Paul] Right.
+8135.15 - We hear about this concept
+of taking care of oneself
+8138.01 and I think at a surface level,
+8141.3 it can sound a little bit
+light, you know, oh, take care,
+8144.46 take care, take good care.
+8147.6 But to me it's a deep
+and powerful concept.
+8149.94 - [Paul] Yes.
+8150.773 - And I was very happy
+to see it in your book
+8153.0 and also to learn a lot of ideas
+8156.44 about what that really looks like,
+8159.78 because whether or not
+somebody is in the early stages
+8162.08 of considering whether
+or not they have trauma
+8164.27 or is in the deep stages of working
+8165.82 that through or has made
+it through the tunnel
+8168.16 some distance taking care of oneself
+8171.02 is an ongoing process.
+8172.64 - [Paul] Yes.
+8175.02 - I'd love for you to just describe
+8177.02 what taking care of oneself
+means to you as a clinician.
+8182.413 And of course the practices and things
+8183.72 that you encourage people to do.
+8186.456 But how should we think about taking care
+8188.32 of oneself because on one extreme,
+8190.23 you could imagine massages
+or treats vacations
+8195.228 and chefs for hire that
+take care of everything
+8197.56 for ourselves.
+8199.41 And on the other extreme, you could say,
+8202.8 leaning into life in a way
+that you're paying attention
+8205.65 to small things while
+working very, very hard.
+8209.31 So it's such a big concept,
+8211.69 how do you think about
+taking care of one's self?
+8213.47 How should I take care of myself?
+8215.095 - [Paul] Sure.
+8215.928 - How should people
+take care of themselves?
+8216.96 - Sure.
+8217.88 - I see here, what I think
+8219.82 is a very fascinating dichotomy, right?
+8221.96 That in some ways, like,
+8223.3 think about how complex
+our brains are, right?
+8225.68 How complex our psyches,
+our unconscious minds are.
+8228.38 There's so much complexity
+there, but on the other hand,
+8232.88 psychological concepts that are consistent
+8235.2 with health are often very simple, right?
+8238.9 Which I don't mean light, right?
+8242.313 But simple, straightforward, right?
+8243.96 And I think self-care is
+absolutely one of them.
+8246.59 I mean, how much is talked about,
+8247.98 how to take care of one self
+8249.5 that just skips over the basics
+8251.36 that are necessary as a
+building block for all else.
+8253.73 So it doesn't matter how many
+chefs or vacations or whatever
+8256.473 a person has if the basics of
+self-care aren't squared away.
+8261.09 And it's not a light concept to say like,
+8263.767 are you sleeping enough, right?
+8266.34 Are you eating well?
+8268.421 Are you getting natural light?
+8269.51 Are you interacting with people
+8271.07 who are good to interact with, right?
+8273.01 Are you accepting negative
+interactions in your life?
+8276.45 Are you living in circumstances
+8277.91 that make you feel okay or not?
+8280.43 They're very basic premises,
+8283.95 but so often we're not
+looking at them at all, right?
+8287.76 We're not looking at them at
+all because we tend to skip
+8291.01 over them and we tend to
+skip over them either,
+8294.22 because, again, in some automatic way
+8296.36 that sometimes is trauma driven
+8298.13 or we're not going to look at that, right?
+8300.17 And often not taking care of ourselves
+8301.94 can have the punishment
+distraction, right?
+8304.48 There's so much that can come into that.
+8307.03 Or our sense of power is,
+8309.45 is tied to not taking care of ourselves.
+8311.44 I mean, I'll give you
+an example is I tend to,
+8314.14 for whatever reason do reasonably well
+8317.22 with very poor self care, right?
+8319.28 And like, that was very adaptive
+8321.29 when I was into medical training, right?
+8323.639 And I'm like, okay, I can eat a lot today.
+8325.62 I can not eat, right?
+8326.56 I can sleep two hours.
+8327.77 I can sleep eight, right?
+8329.85 I mean, overall, that's not good.
+8331.73 And it hasn't been good
+for me as I've aged.
+8334.34 But then I realized some look,
+8335.98 I'm doing all these things
+to make myself healthier,
+8338.06 but like what, I ignored that, right?
+8340.25 And why am I ignoring it?
+8341.083 That was a key question.
+8341.916 Why am I ignoring it?
+8343.14 Because somewhere inside of me, as it was,
+8345.21 and still to some extent is,
+8347.26 this idea that my ability to
+be really functional, right?
+8350.44 To generate success in the world around me
+8353.02 is tied to my ability to do that, right?
+8355.64 That, oh, but if I stop
+doing that and now I'm like,
+8358.1 I'm eating and sleeping regularly,
+8359.66 then I'm going to lose some edge.
+8361.47 So even I think about this all the time,
+8363.7 but I realize,
+8365.02 hey, I'm also, I'm not
+doing it inside, you know?
+8368.315 And I think it's really grounding
+8370.24 to the basics that really help us of like,
+8373.48 what are the basics of what I'm doing
+8375.22 and not doing in my life, diet, exercise,
+8377.34 sleep, people, circumstances,
+8379.95 leisure activities.
+8380.783 I mean, sunlight.
+8383.651 I think immensely important
+and dramatically undervalued.
+8387.16 - Well, I want to thank you for that.
+8388.45 And I want to thank you
+for today's discussion.
+8391.54 I found it to be incredibly informative
+8394.28 and I know our listeners will also.
+8396.553 I also want to thank
+you for the work you do.
+8398.65 I mean, you obviously run an incredibly
+8401.34 robust clinical practice
+8402.95 that I'm aware that you're
+constantly trying to improve,
+8405.68 even though it's operating at
+the highest levels already.
+8408.51 - I appreciate that.
+8409.72 - I really, the reason
+why you're here today
+8412.69 is because I've done
+a wide and deep search
+8415.51 for people in these areas.
+8419.315 And there are so few who have
+the background in medical
+8423.23 training and physiology,
+8424.94 in the psychoanalytic
+and psychiatric realm
+8428.21 and also have a grounding
+toward the future,
+8432.2 of what's coming and who can encapsulate
+8435.11 so many different orientations
+8436.89 and bring them together
+into a coherent piece.
+8439.57 So I really thank you.
+8441.668 - I so appreciate that.
+8442.64 - Yeah, and for your
+book, which is incredible,
+8445.6 I will go on record saying,
+8448.26 I think this is the
+definitive book on trauma.
+8450.99 - Wow, thank you.
+8451.823 - And I really encourage people
+8452.7 to read it and will continue
+to encourage people to read it.
+8455.69 It has so many valuable takeaways
+8457.7 and insights and tools there.
+8459.82 So on behalf of the listeners and myself,
+8463.36 thank you so much for joining us today.
+8465.97 - You're very welcome.
+8466.87 And I take that to heart
+and I'm very appreciative
+8469.87 of being here, so you're very welcome
+8471.35 and thank you as well.
+8472.271 - Thank you.
+8473.77 Thank you for joining me
+8474.65 for my discussion with Dr. Paul Conti.
+8476.94 I also highly recommend that
+you explore his new book,
+8480.47 which is "Trauma: The Invisible Epidemic,
+8482.89 How Trauma Works and How
+We Can Heal From It."
+8485.48 It's an exceptional resource,
+8486.83 both for those that have trauma
+8488.27 and those that don't have trauma
+8490.45 or those that suspect
+they might have trauma.
+8493.35 Again, it's a deep dive
+into what trauma is
+8496.09 and offers many simple
+tools that anyone can apply
+8499.32 with a therapist or not, in
+order to heal from trauma.
+8503.1 And if you'd like to
+learn more about Dr. Conti
+8504.99 and the work he does
+directly with patients,
+8507.48 please check out his website,
+pacificpremieregroup.com.
+8510.55 We've also provided a
+link to both the book
+8512.9 and pacificpremieregroup.com
+in the show note captions.
+8516.53 If you are learning from and
+or enjoying this podcast,
+8519.04 please subscribe to our YouTube channel.
+8521.08 That's a terrific zero
+cost way to support us.
+8523.7 In addition, please
+subscribe to the podcast
+8525.98 on both Spotify and Apple
+8527.94 and on both Spotify and Apple,
+8529.51 you can also leave us up
+to a five star review.
+8532.38 On YouTube, you can leave us comments
+8534.1 or suggestions about
+content that you'd like us
+8536.98 to cover as well as suggestions of future
+8538.86 guests that you'd like us
+to host on the podcast.
+8541.44 We do read all those comments.
+8543.63 Please also check out
+the sponsors mentioned
+8545.41 at the beginning of today's episode.
+8547.04 That is the best way to
+support this podcast.
+8549.66 Not so much in today's episode,
+8551.06 but in many previous episodes
+of the Huberman Lab Podcast,
+8553.91 we discuss supplements.
+8555.57 While supplements aren't
+necessary for everybody,
+8557.93 many people derive
+tremendous benefit from them,
+8560.34 for things like improving
+the transition time
+8562.79 and the depth of sleep each night,
+8564.6 for improving focus, for managing anxiety
+8567.48 and for many other
+aspects of mental health,
+8569.41 physical health and performance.
+8571.4 For that reason,
+8572.233 the Huberman Lab Podcast has partnered
+8573.21 with Momentous supplements
+because first off,
+8576.64 they are of the very highest quality.
+8578.6 They also ship internationally,
+8580.47 which many other supplement
+companies do not.
+8583.07 And we wanted to have a one
+stop location where people could
+8586.38 find and access the
+supplements that are discussed
+8589.06 on the Huberman Lab Podcast.
+8590.65 So if you go to
+livemomentous.com/huberman,
+8594.0 you'll find many of the
+supplements that are commonly
+8596.47 discussed on the Huberman Lab Podcast.
+8598.37 I should just mention that the
+catalog of supplements there
+8601.27 will be expanding in the
+weeks and months to follow,
+8603.77 but already a number of them for sleep
+8605.76 and focus and other
+aspects of mental health,
+8607.64 physical health and performance
+8608.85 are already there at
+livemomentous.com/huberman.
+8612.45 If you're not already following
+Huberman Lab on Instagram
+8615.07 and Twitter, please do so.
+8616.81 There I cover science
+and science based tools,
+8619.013 some of which overlaps with the content
+8620.97 to the Huberman Lab Podcast,
+8622.2 but much of which is distinct
+from the information covered
+8624.35 on the Huberman Lab Podcast.
+8626.77 We also have a newsletter
+8627.98 called the Neural Network Newsletter,
+8629.94 where we offer distilled information.
+8632.1 So lists of protocols
+8633.3 and key takeaways from podcast episodes.
+8635.65 If you want to sign up for the newsletter,
+8637.47 all it requires is your email.
+8638.98 Please know that we do not
+share your email with anybody.
+8641.44 We have a very clear privacy policy.
+8643.54 You can find all that by
+going to hubermanlab.com.
+8646.19 There's a menu there where you can sign up
+8648.7 for the Neural Network Newsletter.
+8650.01 You can also immediately get access
+8652.36 to some example newsletters.
+8653.9 So you know what the
+newsletter is all about.
+8656.49 So thank you once again for
+joining me for my discussion
+8658.86 with Dr. Paul Conti and last,
+8661.0 but certainly not least,
+8662.62 thank you for your interest in science.
+8665.452 [upbeat rock music]

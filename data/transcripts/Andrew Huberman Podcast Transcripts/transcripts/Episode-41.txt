@@ -1,0 +1,3459 @@
+0.35 - Welcome to the Huberman Lab Podcast,
+1.91 where we discuss science
+and science-based tools
+4.94 for everyday life.
+6.539 [upbeat rock music]
+9.18 I'm Andrew Huberman,
+10.08 and I'm a professor of
+neurobiology and ophthalmology at
+12.89 at Stanford School of Medicine.
+14.77 Today, my guest is Dr. Wendy Suzuki.
+17.32 Dr. Suzuki is a professor of
+neuroscience and psychology
+20.16 at New York University and
+one of the leading researchers
+23.13 in the area of learning and memory.
+25.42 Her laboratory has contributed fundamental
+27.57 textbook understanding of how brain areas
+30.02 such as the hippocampus, which
+you will learn about today,
+32.96 how the hippocampus and
+related brain circuits allow us
+36.47 to take certain experiences
+and commit them to memory
+39.21 so that we can use that
+information in the future.
+41.78 Dr. Suzuki is also an
+expert public educator
+45.08 in the realm of science.
+46.72 A few years back, she had a TED talk
+49.28 that essentially went viral.
+50.78 If you haven't seen it
+already, you should absolutely
+52.71 check it out in which she
+describes her experience
+55.7 using exercise as a way to
+enhance learning and memory.
+60.32 And on the basis of that
+personal experience,
+62.68 she reshaped her laboratory
+to explore how things
+65.67 like meditation,
+exercise, and other things
+68.74 that we can do with our
+physiology and our psychology
+71.6 can allow us to learn faster,
+73.62 to commit things to memory longer,
+75.86 and, indeed, to reshape
+our cognitive performance
+78.47 in a variety of settings.
+80.41 As such, I am delighted to
+announce that Dr. Suzuki
+83.66 is now not only running a
+laboratory at New York University,
+86.97 but she is the incoming
+Dean of Arts and Science
+89.34 at New York University.
+91.02 And of course she was
+selected for that role
+92.69 for her many talents, but
+one of the important aspects
+96.03 of her program, she
+tells me, is going to be
+98.5 to incorporate the incredible
+power of exercise, meditation,
+102.86 and other behavioral practices
+for enhancing learning,
+106.1 for improving stress
+management, and other things
+109.08 to optimize student performance.
+110.8 Today, you are going to get access to much
+113.5 of that information so that
+you can apply those tools
+116.15 in your daily life, as well.
+118.11 Dr. Suzuki is also an author
+of several important books.
+121.95 The most recent one is entitled
+123.237 "Good Anxiety: Harnessing the Power
+125.217 "of the Most Misunderstood
+Emotion," and a previous book
+128.57 entitled "Healthy Brain, Happy Life:
+130.257 "A Personal Program to Activate your Brain
+132.257 "and Do Everything Better."
+134.16 And while that is admittedly
+a very pop science-type title,
+138.6 I will remind you that she is one
+140.53 of the preeminent memory
+researchers in the world
+143.58 and has been for quite a while,
+146.02 so the information that
+you'll glean from those books
+148.57 is both rich in depth and
+breadth and is highly applicable.
+152.15 By the end of today's discussion,
+153.8 you will have learned from
+Dr. Suzuki a large amount
+156.72 of knowledge about how
+memories are formed,
+159.0 how they are lost, and you
+will have a much larger kit
+162.38 of tools to apply for your
+efforts to learn better,
+166.21 to remember better, and
+to apply that information
+168.63 in the ways that best serve you.
+170.44 Before we begin, I'd like to
+emphasize that this podcast
+172.97 is separate from my teaching
+and research roles at Stanford.
+175.89 It is, however, part of my
+desire and effort to bring
+178.38 zero-cost-to-consumer
+information about science
+180.55 and science-related tools
+to the general public.
+183.38 In keeping with that theme,
+I'd like to thank the sponsors
+185.71 of today's podcast.
+187.2 Our first sponsor is Athletic Greens.
+189.42 Athletic Greens is an all-in-one
+190.99 vitamin, mineral, probiotic drink.
+193.46 I've been taking Athletic
+Greens since 2012,
+196.18 so I'm delighted that they're
+sponsoring the podcast.
+198.63 The reason I started taking
+Athletic Greens, and the reason
+200.91 I still take Athletic
+Greens once or twice a day,
+203.47 is that it meets all my
+foundational vitamin, mineral,
+206.19 and probiotic needs.
+207.71 In fact, whenever people ask
+me if I were to only take
+210.69 one supplement, which
+supplement should I take?
+212.85 I tell them Athletic Greens
+for the simple reason that
+215.64 it covers your base of vitamins,
+minerals, and probiotics,
+218.68 it also has important adaptogens,
+220.54 digestive enzymes for gut health.
+222.8 All of this is very
+important because we now know
+225.33 that gut health and the
+so-called gut-brain axis
+228.9 is very important for things
+like mood and brain function,
+231.99 and also contributes to
+immune system function.
+234.97 With Athletic Greens, you're
+covering all those bases.
+237.92 And of course you need
+to eat the nutrition
+240.11 and healthy diet that's right for you,
+241.98 but by taking Athletic
+Greens once or twice a day,
+244.521 you can be sure that there
+are going to be no gaps
+245.8 or deficiencies in your vitamin,
+247.46 mineral, or probiotic needs.
+249.95 I mix mine with water and
+a little bit of lemon juice
+251.99 or lime juice, I personally
+find it delicious.
+254.85 If you'd like to try Athletic Greens,
+256.13 you can go to athleticgreens.com/huberman
+259.09 to claim a special offer.
+260.24 They'll give you five free travel packs
+262.01 plus a year's supply of vitamin D3 K2,
+265.02 both of which are also vital
+266.41 for immediate and long-term health.
+268.34 So once again, if you go to
+athleticgreens.com/huberman,
+271.53 you can get a special offer
+of five free travel packs
+274.47 to make it easy to mix up Athletic Greens
+276.37 while you're in the car
+or otherwise traveling.
+278.8 Plus, they'll give you the
+year's supply of vitamin D3 K2.
+282.21 Today's episode is also
+brought to us by InsideTracker.
+285.04 InsideTracker is a
+personalized nutrition platform
+287.59 that analyzes data from your blood and DNA
+290.15 to help you better understand your body
+291.73 and help you reach your health goals.
+293.92 I've long been a believer in
+getting regular blood work done
+296.87 for the simple reason that
+many of the factors that impact
+299.65 your immediate and long-term
+health can only be analyzed
+302.57 from a quality blood test.
+304.0 And nowadays with the
+advent of modern DNA tests,
+306.8 you can also get insight
+into, for instance,
+308.85 what your biological
+age is and compare that
+310.94 to your chronological age.
+312.0 And of course your
+biological age is the number
+314.64 that really matters.
+316.29 With InsideTracker, there's
+a distinct advantage
+318.75 and the advantage is that while
+there are many blood tests
+321.19 and DNA tests out there,
+InsideTracker's blood
+323.3 and DNA tests come also with a platform,
+326.7 meaning a website platform
+that allows you to see
+330.18 exactly what you could
+or should do in order
+332.76 to adjust the numbers on
+things like hormone levels,
+335.75 metabolic factors, and lipids, and so on.
+338.22 It's a little popup window,
+339.39 it points to nutritional, supplementation,
+341.85 and behavioral regimens
+that you can take in order
+344.01 to put those numbers in the
+ranges that are optimal for you.
+347.0 If you'd like to try InsideTracker,
+348.45 you can visit insidetracker.com/huberman
+to get 20% off
+352.4 any of InsideTracker's plans.
+354.1 That's insidetracker.com/huberman
+to get 20% off.
+357.94 Today's episode is also
+brought to us by Blinkist.
+360.31 Blinkist is an app that has
+thousands of non-fiction books,
+363.69 each condensed down to just 15 minutes
+365.61 of key takeaways for those books.
+367.83 I love reading books from front to back.
+370.19 I like the actual physical book.
+371.68 I'm sort of old-fashioned in that way.
+372.97 And I do also listen to audiobooks.
+375.13 It's very rare that I don't
+finish a book that I've started.
+378.52 Nonetheless, I like to revisit
+some of my favorite books,
+381.07 I also like to write down key
+takeaways from those books.
+383.31 sometimes even before I listen
+to the full-length book.
+386.66 So I don't mind spoiling the
+takeaways because when I read
+389.65 non-fiction, generally
+I'm trying to extract
+391.42 the most valuable knowledge from them.
+393.31 So I'll often listen to a
+Blinkist 15-minute version,
+396.23 then the full-length book,
+397.76 or sometimes the full-length book,
+399.51 and then the Blinkist 15-minute version.
+401.54 Either way, Blinkist is a great
+way to get through any book
+404.5 and to extract the best from those books.
+406.95 I've used it for, for instance,
+408.36 Matt Walker's "Why We
+Sleep," an excellent book
+410.59 on why we sleep as well as Tim
+Ferriss's "The 4-Hour Body,"
+415.05 Nassim Taleb's "The Black
+Swan," and so on, and so on.
+419.15 With Blinkist, you get
+unlimited access to read
+421.3 or listen to a massive
+library of non-fiction books.
+424.23 It really is a treasure
+trove of information.
+426.57 Right now, Blinkist has a special offer
+428.17 just for Huberman Lab Podcast listeners.
+430.07 If you go to blinkist.com/huberman,
+432.57 you can get a free seven-day trial
+434.7 and 25% off a Blinkist premium membership.
+438.16 Once again, go to
+blinkist.com/huberman to get
+441.36 a seven-day free trial and 25% off.
+444.29 And now for my discussion
+with Dr. Wendy Suzuki.
+448.0 Wendy, great to see you
+again and to have you here,
+450.44 it's been a little while.
+451.6 - It's been a while, so
+great to be here, Andrew.
+453.98 thank you so much for having me.
+455.31 - Yeah, delighted.
+457.26 I'd like to start off by
+talking about memory generally,
+460.86 and then I'd love to chat
+about your incredible work,
+464.82 discovering how exercise
+and memory interface
+468.05 and what people can do
+to improve their memory
+470.01 and brain function generally.
+471.28 - Yes.
+- But for those
+473.08 that are not familiar, maybe
+you could just step us through
+476.51 the basic elements of memory,
+478.92 a few brain structures, perhaps.
+480.597 - Sure.
+- You know, what happens
+481.9 when I, for instance, this mug of tea
+485.53 is pretty unremarkable.
+487.26 But the fact that now
+I've talked about it,
+489.74 I don't know that I'll
+ever forget about it.
+491.76 Maybe I will, maybe I won't.
+493.0 So what happens when I
+look at this mug and decide
+496.66 that it's something special
+for whatever reason?
+499.99 - Yeah, well, I like to
+say there are four things
+502.99 that make things memorable.
+505.1 Number one is novelty.
+508.08 If it's something new,
+the very first thing,
+510.637 the very first time we've seen something
+512.74 or experienced something,
+our brains are drawn to that,
+515.66 our attentional systems draw us to that.
+517.91 And when you are paying
+attention to something,
+520.34 that's part of what
+makes things memorable.
+523.47 Second is repetition.
+525.22 If you see that cup of
+tea every single day,
+528.44 and every single time you do an interview
+530.32 you talk about your cup of tea,
+you're going to remember it.
+532.47 That's just how our brains
+work, repetition works.
+537.15 Third is association.
+539.8 So if you meet somebody new
+544.19 that knows lots of people that you know,
+547.05 so you and I share many, many, many,
+549.13 many people that we both know.
+551.51 It's easy to remember, it's
+easier to remember you,
+554.43 especially if you were
+somebody new that I hadn't
+556.85 met before, we have met
+before, so association.
+561.15 And then the fourth one
+is emotional resonance.
+564.72 So we remember the happiest
+566.92 and the saddest moments of our lives,
+569.35 and that also includes
+funny, surprising things.
+573.74 That is the interaction between
+two key brain structures,
+578.782 the amygdala, which is
+important for processing
+583.07 lots of emotional,
+particularly threatening kinds
+585.17 of situations, but those threatening,
+588.27 surprising kinds of
+situations, the amygdala takes
+591.13 that information and makes
+another key structure
+594.71 called the hippocampus work better
+598.02 to put new long-term
+memories in your brain.
+602.67 So that, in fact, is the key
+structure for long-term memory,
+606.64 this structure called the hippocampus.
+608.98 - Fantastic, so novelty,
+repetition, association,
+611.77 and emotional resonance.
+- Yes.
+614.607 - Could you tell us a bit
+more about the hippocampus?
+616.14 I think, at least for my generation, well,
+619.37 I'm a neuroscientist, but for
+most people of my generation,
+621.73 I think they first heard
+about the hippocampus
+623.65 from the movie "Memento."
+625.19 - Oh yeah, yeah.
+- Where the guy
+626.023 says hippocampus, and for those of you
+628.703 that haven't seen that movie,
+629.81 it's a bizarrely constructed movie,
+632.16 but an interesting one,
+nonetheless, about memory.
+636.2 But even as a neuroscientist,
+638.33 sometimes I'm perplexed at
+how the hippocampus works.
+643.57 Maybe you could, if you would,
+646.64 step us through kind of
+what this structure is,
+648.41 what it looks like, maybe
+a few of its subregions,
+651.33 because unlike vision,
+the topic that I've worked
+655.81 most of my career on, where we know, okay,
+658.4 the eye does this part, and
+the thalamus does this part,
+660.61 and the cortex does that
+part, I've always been
+662.34 a little perplexed about
+the hippocampus, frankly.
+665.55 And I've read the textbooks
+and I've heard the lectures,
+667.42 but I'd love to get the update.
+669.21 What are the general
+themes of the hippocampus
+671.23 as a structure and its function?
+673.9 What do you think everyone,
+including neuroscientists,
+676.63 should know about the hippocampus?
+678.06 - Absolutely, so let's
+start with the basics.
+681.26 The word hippocampus means seahorse.
+684.23 It is shaped, the structure is shaped,
+686.27 like a kind of curlicue
+seahorse, that is accurate.
+691.89 Everybody, including
+neuroscientists, should know
+694.08 it's a beautiful structure.
+695.19 It is visually, anatomically beautiful
+698.94 with these kind of intertwining
+twirly subregions within it.
+705.61 And I think that's one of the
+reasons why early anatomists,
+709.14 who were the very first
+neuroscientists, got attracted to it
+711.99 because it's this interesting
+kind of twirly structure
+714.97 deep in the heart of the brain.
+717.01 So that's anatomically.
+718.85 Functionally, what does it do?
+721.65 Well, it's easiest to
+understand what it does
+725.89 when you look at what happens
+728.72 when you don't have a hippocampus anymore.
+730.6 What if you, by some disease,
+734.57 or you have your hippocampus
+removed by accident,
+738.35 what happens?
+739.3 Well, we know this from the most famous
+743.04 neurological patient of all
+time, his initials were HM,
+748.05 so all psychology and
+neuroscience students know him.
+752.69 He was operated in 1954 and the
+paper was published in 1957.
+760.6 They removed both his
+hippocampi because he had
+764.1 very terrible epilepsy and
+they knew that the hippocampus
+768.05 was the genesis of epilepsy.
+770.31 And this was experimental,
+his epilepsy was so bad
+774.04 that they decided not just to remove
+775.75 one hippocampus, but both.
+777.88 And what happened was
+immediate loss of all ability
+784.38 to form new memories for facts and events.
+787.88 Think about that for a
+second, all facts or events
+792.06 you're not able to remember.
+793.53 I can't remember this
+interaction between us.
+796.67 I can't remember any of
+the facts that we were
+798.78 just chatting about in
+our neuroscience lives.
+802.46 None of that can move
+into our long-term memory.
+807.51 So this hippocampus does something
+809.94 with all of these perceptions
+that are coming at us
+812.95 every single day, every minute of the day,
+815.42 and not for all of them,
+but for some of them
+818.83 that have these features
+that we just talked about,
+820.93 maybe they're novel, maybe
+they have associations,
+822.91 maybe they're emotionally relevant,
+824.929 maybe they've been repeated,
+828.19 some of those things in the realm of facts
+830.86 or events get encoded
+in our long-term memory.
+835.81 And that's the textbook of why
+839.39 the hippocampus is so important.
+841.36 I like to always add, and I mean,
+843.43 this is why I studied
+it for so many years,
+846.43 the hippocampus and what it does
+847.89 really defines our own personal histories.
+851.41 It means it defines who we are,
+853.69 because if we can't
+remember what we've done,
+856.95 the information we've learned,
+859.14 and the events of our lives,
+861.34 it changes us, that's
+what really defines us.
+864.68 That's why I wanted to
+study the hippocampus.
+867.61 And I think the exciting, new
+ideas about the hippocampus
+873.82 is that it's, you know, hippocampus
+876.68 is important for memory,
+so if you say that,
+878.79 you'll impress all your
+people at your cocktail party,
+882.81 but what people have started
+to realize that it's not
+887.3 just memory, it's not just
+putting together associations
+891.99 for what, where, and when
+of events that happened
+895.41 in our past, but it's
+putting together information
+898.7 that is in our long-term memory banks
+901.54 in interesting new ways.
+904.26 I'm talking about imagination.
+906.21 So without the hippocampus,
+yes, you can't remember things,
+909.65 but actually you're not able
+to imagine events or situations
+915.11 that you've never experienced before.
+917.67 So what that says is the
+hippocampus is important for memory
+921.72 is too simple a way to think about it.
+924.1 What the hippocampus is
+important for is what we've
+926.94 already talked about, associating things
+929.3 together writ large.
+930.81 Anytime you need to
+associate something together,
+933.58 either for your past, your
+present, or your future,
+937.41 you are using your hippocampus.
+938.79 And it takes on this
+much more important role
+943.08 in our cognitive lives when
+we think about it like that.
+945.96 That is kind of the new hippocampus
+949.93 that neuroscientists
+are studying these days.
+952.46 - That's fantastic, so
+it sounds like it really
+954.13 sets context, but it can do that
+956.62 with elements from the past,
+the present, or the future.
+959.87 - Yes.
+- And for neuroscientists
+963.13 the phrase is domain,
+we say the time domain
+965.99 meaning as opposed to just
+evaluating things in space,
+968.4 it sounds like the time domain
+of hippocampal functioning
+971.76 is incredibly interesting.
+- It is.
+974.16 - And even the fact that
+we can have short-term,
+975.97 medium-term, and long-term memories,
+977.17 and we could go down any
+of these rabbit holes.
+979.85 I'll ask you a true or
+false, mostly because
+981.81 I just really want to know the answer.
+984.03 A few years ago, the theme in
+various high-profile reviews
+987.46 seemed to be that the
+hippocampus was involved
+989.92 in encoding, in creating memories,
+992.27 but not in storing memories
+993.79 and that the memory storage
+was in the neocortex
+996.45 or the other overlying areas of the brain.
+998.65 Is that too general a statement?
+1004.289 - That's a tricky statement
+because I think that ultimately,
+1008.81 yes, that long-term memories
+are stored in the cortex,
+1013.38 but those memories are
+stored in the hippocampus
+1015.67 sometimes for a very, very long time.
+1018.57 So how long is too long where you say, oh,
+1022.39 it's not the hippocampus anymore?
+1023.77 If it's four years, does that mean that
+1027.99 it's not stored in the hippocampus?
+1029.97 I think that's a tricky question.
+1032.24 And yes, it was coming
+up a lot because people
+1034.79 were debating it and some people did think
+1037.5 that you shouldn't think
+about the hippocampus
+1039.09 as a storage area, but I think it's
+1041.44 a long, long, long-term kind
+of intermediate storage area,
+1046.4 maybe not the long-term storage area.
+1048.7 That's why it's hard to
+answer that question.
+1050.49 - Great, as I recall,
+HM could remember facts
+1055.47 from before his surgery.
+- Yes.
+1057.33 - He couldn't form
+1058.163 new memories.
+- Correct.
+1059.32 - And given that he had no hippocampus,
+1061.0 it would at least
+partially support the idea
+1063.42 that some memories are retained
+outside the hippocampus.
+1067.15 - However, he did have part
+1069.98 of his posterior hippocampus intact.
+1072.89 So that's the tricky thing.
+1074.84 I think initially, in fact, Scoville,
+1077.81 the neurosurgeon overestimated
+the number of millimeters
+1084.87 he intended to remove of the hippocampus.
+1087.38 And then when they did this,
+the very historic MRI of HM
+1093.32 later in his life, they
+showed that, in fact,
+1095.96 he did have that part of the
+posterior hippocampus intact.
+1100.02 So now it makes it a
+little bit more complicated
+1104.16 to interpret what's going on.
+1105.64 Not that it was never
+uncomplicated, any interpretation
+1109.49 of a lesion in a patient,
+as you know, is complicated,
+1113.35 but HM had this mythical role
+in neuroscience and neurology
+1119.61 and now it was complicated
+because he does have
+1123.71 more of the hippocampus intact.
+1125.57 - Got it, I did not know that.
+1128.44 There are some memories that
+can be formed very quickly,
+1132.9 so called one-trial learning,
+1134.64 and I'm just looking at
+this list again, novelty,
+1136.85 repetition, association,
+and emotional resonance.
+1140.26 It seems like some experiences
+can bypass the need
+1144.88 for multiple repetitions.
+- Yeah, absolutely.
+1148.79 - And unfortunately it seems
+that our nervous system
+1151.76 is skewed toward creating
+one-trial memories
+1155.19 for negative events.
+- Right.
+1156.76 - Which has a survival adaptive mechanism.
+1159.83 What is the neural connection
+that allows that to happen?
+1163.24 Is it the amygdala to
+hippocampus connection?
+1165.78 I mean, as you and I know, it
+seems like every brain area
+1168.18 ultimately is connected
+to everything else.
+1169.83 It's just a question of
+through how many nodes,
+1171.91 just like every city is
+connected to another city,
+1173.583 it's just a question of
+how many flights and roads
+1175.87 do you have to traverse
+before you get there.
+1180.84 What is it about one-trial learning?
+1182.86 I mean, at a kind of top contour level,
+1186.42 how can we learn certain things so fast
+1189.8 and other things are tricky?
+1191.41 And now every time I
+look at this white mug,
+1192.98 it's queuing up something special
+1194.7 simply by virtue of saying it.
+1196.49 So is that one-trial memory?
+1200.51 What is it about very
+emotionally salient events
+1203.69 that allow memories to get stamped in?
+1206.32 - Yeah, I mean, I think
+you've already alluded to it.
+1210.26 That is there is this protective
+function of our brains
+1215.05 that has evolved over the
+last 2.5 million years
+1218.29 that you need to pay attention
+1220.41 and remember certain
+things for your survival.
+1224.03 So some things that get
+stamped in, they're memories,
+1228.63 but they're fear memories.
+1230.86 If I get mugged on the
+subway or, you know,
+1234.89 there are terrible things that
+could happen on the subway
+1237.14 as we just learned.
+1238.91 But if something terrible happens,
+1240.16 if something very scary
+happens, you remember that,
+1243.91 and that fear and that
+memory of all those things,
+1248.42 I mean, I have one when I
+lived in Washington, DC,
+1252.25 I went to work at NIH on a
+Sunday afternoon and I came back
+1255.53 and when I rounded the corner
+to my door of my apartment,
+1259.84 it was crowbarred in.
+1261.64 Somebody had taken a crowbar,
+1263.63 opened up my door, and stole
+all of the nicest things
+1269.19 in my apartment, which wasn't that nice,
+1270.83 'cause I wasn't making that much money.
+1273.33 But ever since then, whenever
+I rounded that corner,
+1278.59 I still had that memory.
+1279.49 It was terrible because it
+put me in a terrible state
+1282.53 when I was just coming home
+1284.47 and that's a survival mechanism.
+1286.82 Do you want to be alert
+to possible danger?
+1290.46 Absolutely yes.
+1291.77 So part of those one-trial
+memories, I think,
+1295.88 is often taking advantage of this
+1298.45 evolutionarily developed
+system to tamp in things
+1303.1 that could be potentially
+dangerous to you into your memory.
+1306.53 So you forever will remember
+this particular corner
+1311.23 or this hallway because
+that is where something
+1314.53 really bad happened to you.
+1316.64 - It seems like a location.
+1318.36 We talk about conditioned place aversion,
+1320.67 which is just a geek speak
+for wanting to avoid the place
+1323.62 where something bad happened,
+1324.69 or conditioned place
+preference, wanting to go back
+1327.02 to a place where something
+positive happened.
+1328.87 Or even looking at a
+photograph of where you had
+1331.08 a wonderful time with
+somebody and that can evoke
+1333.33 all sorts of positive sensations.
+1336.03 It seems like at some level,
+as complex as the brain is,
+1340.63 the basic elements of
+feeling good or feeling lousy
+1344.23 are states within the brain
+and body and linking those
+1347.15 to places seems like it's a
+pretty straightforward formula,
+1350.55 you know, link place to state,
+link state to place, etc.,
+1354.25 as your description just provided.
+1356.98 When we learn more complex information,
+1360.61 a poem, a concept, or we
+have to ratchet through
+1365.86 a set of ideas, that also involves memory.
+1371.23 I'm sure that we'll talk more about this,
+1373.54 but is there any way that
+you are aware of that state,
+1379.02 bodily state can be leveraged
+to enhance the speed
+1384.5 or the quality of memories
+and memory formation?
+1390.48 So to be clear about it,
+1392.76 it seems there's something very
+important about this fourth,
+1396.19 this emotional resonance component.
+1399.43 Novelty, the crowbar into the doors,
+1402.12 thank goodness sounds like it was novel,
+1404.11 it wasn't repeated thing, thank goodness.
+1406.26 So repetition is out and the association
+1408.07 is very, very strong.
+1410.09 But for people trying to learn
+information that they're not
+1413.56 that excited about, or
+that repetition is hard,
+1418.25 or the novelty is simply
+that it's painful.
+1423.15 - Yes, I've been there, absolutely.
+1425.43 - Yeah, as have I.
+1427.73 Is there something that
+we can do to leverage
+1431.09 knowledge of how the memory
+system works naturally
+1433.56 to make that a more
+straightforward process?
+1437.78 - So, I immediately turn to
+the things that I've studied
+1444.04 that you talk about so
+beautifully on your podcast,
+1447.26 which are strategies generally to make
+1452.81 your brain work better.
+1454.41 I was just reminding myself
+of your podcast about cold
+1460.51 because I use that every morning.
+1462.01 - Oh, you do cold?
+- I do, I do.
+1463.03 - Just take a moment
+and, and just tell us,
+1464.94 what is your cold exposure protocol,
+1466.42 then I'll take you back
+to what you're saying.
+1467.64 - So my cold exposure
+protocol is at the end
+1471.46 of every morning shower that I take,
+1476.23 the shower is warm, but I give
+myself a big blast of cold
+1481.32 at the end of that and
+it makes me feel so good.
+1485.75 And because I've been
+doing it for several years,
+1488.15 it's so much less painful.
+1489.63 Okay, I admit, it was really
+painful at the beginning,
+1493.59 but it's much less painful.
+1496.33 I could handle the cold water and my pipes
+1499.34 give nice, really cold water.
+1502.23 And it just, I could feel
+the awakedness kind of
+1507.62 come up in me after that.
+1510.63 And I miss it, if I forget to do it,
+1512.15 sometimes I run back in and
+give myself that cold blast
+1516.16 because it is upping,
+1520.25 I think you talked about
+this on your podcast,
+1521.97 what's happening in the brain?
+1523.7 - Basically the cold stimulus, that shock,
+1527.241 that catching your breath, etc.,
+1529.01 is adrenaline from the adrenals.
+1531.52 But also from what we understand now,
+1533.59 some new neuroimaging, there's epinephrine
+1536.4 and norepinephrine released
+from locus ceruleus,
+1538.802 which again is a brain structure
+in the back of the brain,
+1540.76 kind of sprinklers the rest of the brain
+1543.07 with a kind of a wake-up chemical.
+1544.82 And there's a long arc
+on dopamine release.
+1547.58 This paper back in 2000 showed
+that it's a steady increase
+1551.49 up to about 2.5x of circulating dopamine.
+1554.1 So they weren't looking directly
+in the brain admittedly,
+1556.51 but it goes on for four or five hours.
+1558.58 - Wow, yeah.
+- So the improved mood
+1560.67 and the feeling of
+alertness is a real thing.
+1562.95 - Yeah, yeah, so I use that.
+1565.8 I mean, so basically I
+use my morning routine.
+1569.16 What is my morning routine?
+1570.22 I get up, I do a 45-minute tea meditation.
+1575.3 So meditating over the
+brewing and drinking of tea
+1578.68 that I learned from a monk
+who has an institute in Taiwan
+1583.3 where he teaches tea meditation, love it.
+1585.67 I've learned all about tea,
+different kinds of tea.
+1589.67 And then I do a 30-minute
+cardio weights workout.
+1596.59 Then I take my shower with
+the hot-cold contrast.
+1600.66 And, oh, and before that, key thing,
+1604.38 if I want to learn something
+and I want to be able
+1607.0 to get over the difficulty
+of repeating things,
+1613.3 or just push myself to do stuff, sleep,
+1616.61 so good, good sleep.
+1618.73 I've learned that over the pandemic,
+1621.24 I did sleep experiments on
+myself and I learned that I was
+1624.73 sleeping an hour less
+than I really needed.
+1627.03 So I really need seven-and-a-half
+to eight hours of sleep.
+1629.57 And I was getting six and a half.
+1631.23 And so now, I get that
+seven-and-a-half to eight hours
+1636.72 every single night, and guess what?
+1638.93 I come to different difficult
+tasks and I am more willing
+1643.14 to give it a try, to try longer,
+1645.33 to try harder, and my brain works better.
+1648.2 And so I think probably if you go back
+1650.27 to all of your podcasts,
+you'll learn exactly why
+1652.9 each one of those things that I do,
+1654.93 which I would bet that
+you probably do, too,
+1657.74 is helping my brain.
+1659.68 - I guarantee they are.
+1661.82 And I'm impressed that
+you do all these things,
+1663.45 although not surprised.
+1664.7 And I should say that
+the extra hour of sleep
+1667.08 is really impressive and
+extremely beneficial.
+1670.39 I'm curious, do you get that
+in the early part of the night
+1673.31 by going to bed earlier?
+- Yeah.
+1675.38 - Terrific, and I should just mention,
+1678.13 'cause you're too humble to
+do it, but I'll say it again
+1680.65 that not only are you a full professor,
+1684.59 tenured full professor
+and running a laboratory,
+1686.37 you teach undergraduates,
+1687.4 you have an important
+role in public education,
+1690.45 multiple books, and you're now
+1691.53 dean of the College of
+Arts and Sciences at NYU.
+1694.81 So the extra hour of
+sleep is benefiting you
+1698.01 and as a consequence benefiting
+everybody else as well.
+1701.98 Thanks for sharing with us your protocol.
+1703.68 I took you off the trajectory
+of what one can do,
+1706.55 but I think that people
+and I appreciate knowing
+1711.15 kind of what the practical steps are.
+1713.11 Because knowing the science is important,
+1714.69 mechanism I do believe is
+important for embedding protocols
+1718.15 in people's minds and why
+they might want to do them,
+1719.94 but really hearing the
+mechanics of it is useful.
+1723.74 It sounds like everything
+together takes about an hour,
+1725.74 it's not an excessive amount of time,
+1727.59 but it probably gives you an outsized
+1729.89 positive effect on your day.
+1731.48 - Absolutely, I definitely notice it
+1734.7 if I'm not able to do it.
+1737.33 And when I don't, so I do
+this seven days a week,
+1740.48 it's also not just five
+days, seven days a week.
+1744.32 And when I can't do it,
+1746.12 it's usually early-morning
+flights or things like that.
+1750.953 And I get over it, but it's
+1753.727 critical for the working of my brain.
+1756.14 - I love it and I'll just
+highlight one thing that you said
+1758.71 before we move on, which is
+that you said when sometimes
+1760.88 if you get out of the
+shower before the cold,
+1762.79 you'll get back in.
+1764.09 That's, to me, a really beautiful example
+1766.66 of conditioned place preference.
+1768.85 Now the cold shower has
+become something that
+1770.737 you sort of look forward to.
+1772.21 I should say that nobody is
+immune from the adrenaline
+1776.09 increase of cold, no matter how cold,
+1777.96 this is what's interesting about cold.
+1779.32 It's one of the reasons why
+it's such an important part
+1781.82 of the screening for special operations,
+1783.65 so our SEAL teams, but other
+branches in military too,
+1787.39 which is that there are very
+few stimuli that you can give
+1791.54 anyone and consistently get an adrenaline
+1796.145 - Oh, interesting.
+- Release from that
+1797.68 without harming them.
+1798.9 With heat, eventually you
+need to use so much heat
+1800.693 that you damage tissue.
+1802.21 Or with exercise, you have
+to use so much exercise
+1803.903 that you can damage joints.
+1806.07 And it's this very kind of brilliant,
+1811.11 I don't know if it was intentional or not,
+1813.08 it's sort of unintentional
+genius that special operations
+1816.14 has figured out that by sending
+people back into the cold
+1818.78 over and over, it never
+really gets easier,
+1821.11 but over time people
+actually start to crave it
+1823.71 and it provides this reduction
+in inflammation, etc.
+1826.38 So anyway, beautiful practice, thank you.
+1828.77 I want to learn more
+about your tea meditation
+1830.53 later in the episode.
+1831.53 But in any event returning to ways that
+1836.41 we can improve memory formation.
+1840.09 Maybe if you would tell
+us your story around this.
+1843.47 I know you've told it before,
+1844.9 but I think a lot of members
+of the audience and I
+1848.325 would love to hear how you came to this.
+1849.393 Because growing up in
+neuroscience, I knew you
+1851.98 as one of the, I would say
+one of the three or four,
+1855.38 and they're all alongside one another,
+1858.46 this isn't a hierarchical statement,
+1860.1 three or four top memory
+researchers in the world.
+1863.09 Textbook material is Suzuki.
+1866.75 My textbooks are filled
+with the word Suzuki,
+1868.63 your last name,
+1870.07 according to the information
+on memory and memory formation.
+1875.25 So you were doing that
+and doing the things
+1878.41 that academics do, and then
+you're still doing that,
+1883.354 and still at a very high level,
+1884.5 but then things took
+a different direction.
+1886.15 And maybe we could talk about
+your story and how you came
+1890.13 to the place you are at now
+1892.8 because I think it
+provides a number of tools
+1894.42 that people could implement themselves.
+1896.85 - Yeah, so this story
+happened as I was working
+1902.74 to get tenure at NYU.
+1904.92 And, as you know, it's
+a stress-filled process.
+1908.47 They give you six years to show your stuff
+1911.64 and you are judged in front
+of all your colleagues.
+1913.89 And either they say, okay,
+you can join the club
+1916.49 or they say, sorry, you are humiliated
+1919.65 in front of everybody.
+1920.67 This was what was going on in my life.
+1922.02 - They actually tell people to leave.
+1923.621 If you don't get tenure, you're gone.
+1924.454 - You have to leave your institution.
+1926.38 And so, you work really, really hard.
+1929.89 And so my strategy was,
+1932.72 I'm just going to not do anything but work
+1934.5 and I'm just going to work.
+1935.7 And I'm going to just work as hard
+1938.92 as I can for the six years.
+1940.54 And what happens when you
+work and you don't have
+1944.07 any sort of life outside of work
+1946.29 and you live in New York
+where there's all sorts
+1948.78 of really good takeout,
+you gain 25 pounds,
+1951.45 which is exactly what I did.
+1952.61 And you get really, really stressed.
+1954.13 And you start to ask
+yourself how come I'm living
+1956.26 in New York City, and I love Broadway,
+1958.27 and I haven't gone to a
+Broadway show in two years?
+1963.0 And so I, 25 pounds overweight,
+1969.77 I decided to go on vacation.
+1972.1 And I went by myself
+'cause I had no friends.
+1974.77 And I went to, I did
+1977.2 an adventure river rafting trip in Peru.
+1982.88 And so I go by myself and
+meet other interesting people
+1986.93 and I was the weakest
+person on this whole trip.
+1990.72 Like they were so much in better
+shape, it was embarrassing
+1997.13 and they won't say this,
+they won't admit this
+1999.08 to me, but it was true.
+2000.49 And I kind of came back and I said, okay,
+2002.62 I cannot be the weakest person.
+2005.02 I'm in my late 30s, I
+have to do something.
+2007.56 So I went to the gym
+and I said, oh my God,
+2010.58 I'm 25 pounds overweight,
+2012.19 let's try at least to lose this weight.
+2015.04 And so I go to the gym, I
+notice how much better I feel
+2019.12 when I go to just a single class.
+2020.74 I remember the very first class I went to
+2022.2 was a hip hop dance class.
+2023.51 I'm a terrible hip hop dancer,
+2025.28 but I still felt good after that class.
+2028.76 And then fast forward a year and a half,
+2032.28 I've lost the 25 pounds,
+so proud of myself,
+2035.68 so much happier.
+2037.17 And I'm sitting in my office
+doing what you and I do a lot,
+2040.44 which is writing an NIH
+grant, which is our lifeblood.
+2044.53 And writing, writing, writing,
+2046.44 and this thought goes
+through my mind that had
+2048.67 never gone through my mind before
+2051.08 during this six years
+of frantic grant writing
+2055.08 when I was trying to get tenure,
+2056.53 and that thought was grant
+writing went well today.
+2060.55 You know, that felt good.
+2062.75 I was like, I've never
+had that thought before,
+2065.5 what's going on here,
+this is really weird?
+2067.72 - I don't know that anyone
+has had that thought before.
+2070.403 - No, I'm sure people
+have had that thought.
+2072.07 But I thought maybe I'm
+just having a good day.
+2076.6 But when I thought about it,
+2078.21 I thought it's not just today.
+2080.68 My grant writing seems to
+have been getting smoother,
+2084.87 like I'm able to focus longer,
+2087.25 the sessions feel better to me.
+2090.903 And at that point, the only
+thing that I changed in my life,
+2093.9 it was a huge thing, but I had become
+2095.56 a gym rat rather than a workaholic.
+2099.11 And that's when my spidey
+sense for neuroscientists
+2104.13 popped up and I said, what
+do we know about the effects
+2106.8 of exercise on your brain?
+2108.9 Because if I think about it,
+2110.88 what was better about my
+writing is I could focus longer
+2114.16 and deeper, very important,
+2116.17 and I could remember those
+little details that you try
+2119.56 and pull together for your
+million dollar NIH grant
+2122.69 from 30 different articles
+that you have open
+2125.41 on your screen all at the same time,
+2127.26 that's the hippocampal memory.
+2129.07 I was studying that, I
+was writing the grant
+2131.03 on hippocampal memory.
+2132.88 And so that's when I got really
+interested in the effects
+2138.21 of exercise on both prefrontal
+focus and attention function
+2142.96 and hippocampal function
+because of my own observation.
+2146.98 I still remember where I was sitting,
+2148.9 which office I was in,
+when I had this revelation.
+2152.12 But the thing that
+really sealed it for me,
+2153.96 that made me think not just,
+oh, this is interesting,
+2157.6 but I want to study this,
+is right around that time
+2162.98 I got a phone call from my
+mom who said that my dad
+2167.65 wasn't feeling well and
+that he had told her
+2172.1 that he got lost driving
+back from the 7-11,
+2174.98 which was literally seven
+blocks from our house
+2177.96 that I grew up in.
+2179.56 And I knew that was hippocampal function.
+2183.22 I suspected dementia. I suspected, oh,
+2186.02 didn't want to admit Alzheimer's dementia,
+2188.14 which he had.
+2189.81 And it was funny because,
+I mean it wasn't funny,
+2193.13 but my mom and dad are two
+sides of a very different coin.
+2199.54 My dad is the engineer,
+not so active all his life,
+2205.51 but would loved and sit
+and read books all day.
+2208.94 My mom was the athlete.
+2210.65 She played team tennis into her 80s.
+2214.65 And it started to show at that point.
+2219.1 And so then I had even
+a more pressing reason
+2225.88 to think about what the
+effects of exercise were
+2228.17 because I noticed that all
+the things that were improving
+2231.22 in my brain suddenly went
+away in my dad's brain.
+2234.73 Really, really smart guy,
+engineer in Silicon Valley,
+2238.21 helped that push in Silicon
+Valley in the '70s happen,
+2243.8 he had no more memory.
+2244.93 He couldn't focus his attention.
+2246.63 His mood was rock bottom,
+he's a very happy guy.
+2251.16 And everything was the opposite in me.
+2253.1 And I started thinking this
+isn't just something to help
+2256.67 somebody who wants to get
+tenure, this is something
+2260.21 that could help millions
+and millions of people,
+2263.64 most importantly, our aging population.
+2266.93 What if, you know, what's happening?
+2269.35 And so the thing that makes
+me wake up in the morning is
+2273.28 when I realized that every
+single time you move your body,
+2278.56 you are releasing a whole
+bunch of neurochemicals.
+2282.34 And some of them we've talked about,
+2284.33 the good mood comes from
+dopamine, and serotonin,
+2286.657 and noradrenaline, but the
+thing that gets released also,
+2290.13 particularly with aerobic
+exercise, is a growth factor
+2293.54 called brain derived
+neurotrophic factor, or BDNF.
+2298.51 And that is so important
+because what it does is it goes
+2301.51 directly to your hippocampus
+and it helps brand new
+2305.07 brain cells grow in your hippocampus.
+2307.4 We all have that.
+2308.233 Even if you're a couch potato,
+2309.22 you can get new brain cells
+in your hippocampus to grow.
+2311.72 But it's like giving
+your hippocampus a boost
+2315.65 with this regular BDNF,
+if you are exercising.
+2319.51 Which means that we all
+have the capacity to grow
+2323.2 a bigger, fatter, fluffier hippocampus.
+2326.55 And so what I like to
+give people is this image
+2329.95 of every single time you move your body,
+2331.75 it's like giving your brain
+this wonderful bubble bath
+2334.62 of neurochemicals, what's going on,
+2336.67 I need my bubble bath of
+noradrenaline, and dopamine,
+2339.89 and serotonin, and growth factors.
+2342.71 And with regular bubble
+baths, what am I doing?
+2345.94 I'm growing a big fat, fluffy hippocampus.
+2349.18 And I'm not going to cure
+my father's dementia,
+2352.63 Alzheimer's dementia, but you know what?
+2354.85 If I go into my 70s with a
+big fat, fluffy hippocampus,
+2359.1 even if I had that in my genes
+and it starts to kick in,
+2363.06 it's going to take longer for
+that disease to start to affect
+2366.43 my ability to form and
+retain new long-term memories
+2369.24 for facts and events, which is
+my motivation for getting up
+2372.57 and doing my 30 to 45 minutes
+of aerobic exercise every day.
+2376.16 - Fantastic.
+2379.27 Quick question about your
+protocol just because.
+2382.26 And then we'll discuss a few
+mechanistic things related
+2385.68 to what signals the body
+might be sending the brain
+2389.12 and a little bit more detail
+on BDNF and some circuitry.
+2394.91 So 30 to 45 minutes of, it sounds like
+2398.24 cardiovascular exercise might be special.
+2401.91 But as I say that and I
+think about the literature
+2405.18 that I'm aware of in
+mice and some in monkeys,
+2408.19 and certainly in humans, looking
+at the effects of exercise
+2411.64 on brain function and
+typically the outcome
+2413.94 is improvement, almost always.
+2415.39 I don't think I've ever
+seen a paper showing
+2416.97 that when animals or humans exercise more,
+2419.92 that their brain gets worse.
+2422.446 I just can't think of a single paper.
+2424.06 It doesn't mean it doesn't exist.
+2425.34 I'm sure someone will put
+one in the comment section.
+2427.65 They'll find that one,
+2428.64 and thank you for if you can find that,
+2432.25 but it seems like it's always
+cardiovascular exercise
+2434.45 and experimentally in a lab
+it's a lot easier to get a mouse
+2436.82 to run on a treadmill than it is
+2438.5 to get a mouse to lift weights.
+2439.58 Although people have put
+little ankle weights on mice
+2441.68 and the ways of getting
+mice to do resistance work
+2444.84 is actually a little bit barbaric
+2446.337 - Little stressful.
+- 'Cause oftentimes
+2448.189 they'll incapacitate a limb
+to overload another limb,
+2450.53 so it's an asymmetric thing.
+2451.83 It's not the same as sending
+them in to do squats,
+2455.26 or deadlifts, or something.
+2457.83 But cardiovascular
+exercise might be special.
+2460.87 And what are your thoughts on that?
+2463.1 And please first, though,
+tell us your routine.
+2466.42 Your routine is 30 to 45 minutes of,
+2468.94 are you a Peloton cycler?
+2471.4 Does it matter?
+2473.28 - I think that the data
+suggests that as long
+2476.47 as your heart rate is getting
+up for these long-term effects
+2479.69 on your hippocampus and prefrontal cortex,
+2482.02 you also get better at
+shifting and focusing
+2486.18 your attention, for that
+you need cardiovascular.
+2490.04 And what I use is a video
+workout that I started
+2492.88 even before the pandemic,
+it's called "Daily Burn,"
+2495.12 and is just thousands
+of different workouts.
+2497.99 But I love they are 30 minutes
+that I sometimes add on
+2502.39 a 10 to 15 minute stretch at
+the beginning or at the end.
+2506.11 But I love the variety.
+2507.9 Sometimes I do it with weight.
+2509.11 Sometimes I do it without weights.
+2511.43 I love kickboxing,
+2512.38 so they have a lot of kickboxing in there.
+2514.22 It just fits my routine,
+and it's always there,
+2519.57 and I don't have to get
+all dressed up to go
+2522.12 to the gym to work out.
+2524.36 So that's what I do.
+2525.56 - And that's a daily
+thing, seven days a week?
+2527.46 - Yeah, yeah.
+- Seven days
+2528.37 a week, fantastic.
+2530.69 So in terms of he way
+that some of these changes
+2533.26 are being conveyed from
+the body to the brain,
+2536.57 that fascinates me.
+2537.81 I mean, as you and I know, and I'm sort of
+2539.92 a repeating record on the
+podcast always saying,
+2544.232 you got a brain but you
+also have a spinal cord
+2545.5 and then your nervous
+system connects everything.
+2547.16 Every organ in your body
+is basically signaled to
+2550.4 by the nervous system and
+back to the nervous system,
+2552.7 you're explaining everything.
+2554.16 But so let's imagine your morning routine,
+2557.35 you do your cardiovascular exercise,
+2559.82 so you're pumping more blood,
+2561.43 that's the definition
+of a higher heart rate,
+2563.27 stroke volume of the
+heart goes up over time,
+2566.31 you're getting fitter, so blood flow
+2568.2 to the brain is increasing.
+2569.63 Do we know how that gets
+translated to a signal
+2573.46 to release more BDNF?
+2576.06 And then it raises this
+other question, which is,
+2578.32 does it matter where your
+mind is when you exercise?
+2581.34 Because ultimately the brain, of course,
+2583.75 you can anchor your attention
+to the exercise or you can be
+2585.8 listening to a podcast or something else.
+2587.75 I've always wondered about this.
+2589.81 Can we enhance the effects
+of exercise by combining
+2592.4 the enhanced blood flow with
+cognitive work during exercise?
+2596.906 Or is it simply a matter of
+just getting more blood flow
+2598.61 up to the hippocampus?
+2599.84 - Yeah, I wish I had the
+answer to that question, too.
+2603.08 My instinct is, yes, it matters partially
+2607.12 because of the work of
+your colleague, Alia Crum,
+2609.82 on mindset and the power of that to change
+2613.67 how physiologically
+our body is responding.
+2617.39 So how could it not
+work in her experiments
+2621.53 or work in her experiments and not work
+2623.88 for my morning or our
+morning exercise routine.
+2628.61 But are there studies, point to a study,
+2630.32 I don't know of one.
+2631.22 So exercise neuroscientists out there,
+2635.42 I'd love to see that study done.
+2639.14 So yes, it works.
+2641.07 Before I go into the aerobic thing,
+2643.94 I always like to start with
+the least amount of exercise
+2647.61 to get something really useful,
+2650.17 because I don't want people to say,
+2652.1 oh God, I hate sweating,
+2654.23 I don't want to listen anymore.
+2656.59 So I always like to start
+with studies have shown
+2660.45 that just 10 minutes of walking
+outside can shift your mood.
+2664.77 That is part of that
+neurochemical bubble bath
+2667.01 that you're getting dopamine,
+serotonin, noradrenaline
+2671.283 and anybody can walk for 10 minutes.
+2674.35 And so that is for all of
+you thinking that out there,
+2678.64 what is the minimum that I could get
+2680.16 some of these brain effects?
+2681.09 10 minutes of walking, anybody can do it.
+2683.107 - Now is outside important?
+2684.54 I'm a big believer in getting
+photons into the eyes.
+2689.0 - I think that that study was
+done indoors on a treadmill.
+2694.28 And the comparison wasn't
+done, but moving your,
+2697.62 which is great, in the
+middle of the pandemic
+2700.55 I walked around my apartment
+for 30 minutes sometimes
+2703.25 just for some variety,
+2705.6 felt like a rat on a
+running wheel, but yes.
+2709.48 So that minimum amount
+of movement in your body
+2715.2 can get you those mood effects.
+2718.03 But what about the big,
+fat, fluffy hippocampus?
+2721.67 What about the better
+performing prefrontal cortex?
+2724.1 That's where you start to
+need the cardio workout.
+2729.1 And from my reading of the literature,
+2731.65 there haven't been enough studies
+2734.93 directly comparing and contrasting
+kickboxing with running,
+2738.1 with whatever other cardio
+that you need to do,
+2742.1 but any cardio workout that is done
+2744.86 has these positive effects.
+2746.25 So I'm going to say my
+interpretation of that is that
+2748.84 whatever way you get your heart rate up,
+2751.36 including a power walk,
+a power walk can get
+2754.29 your heart rate up, that is beneficial.
+2757.3 And what is happening, there
+are two pathways that have been
+2760.43 studied about how you go from
+moving your body to more BDNF,
+2765.36 that neurotrophin that's
+increasing the growth
+2769.58 of new hippocampal brain cells.
+2771.39 The two pathways are the following.
+2772.84 One is a myokine, which is a protein
+2776.11 released by the muscles.
+2778.16 And not your heart, these are
+striated muscles in your body.
+2781.79 And so by running, these
+were studies done in rats
+2785.52 on running wheels, they
+showed that the running rats
+2789.06 had more of this myokine,
+2791.9 released the myokine past
+the blood-brain barrier.
+2794.92 so got into the rarefied,
+very protected bloodstream
+2799.67 of inside the brain, and that
+myokine stimulated the release
+2804.65 of BDNF in the brain,
+that's pathway number one.
+2808.72 Pathway number two comes through the liver
+2812.09 because exercise is a stress generally.
+2816.44 How do we know that,
+well, cortisol is released
+2818.61 whenever we exercise.
+2820.04 We need that sugar in our blood
+2823.73 and so that's how the
+physiological mechanisms work.
+2827.82 And so there is a ketone,
+beta-hydroxybutyrate,
+2834.02 that we've known for a very
+long time that gets released
+2836.94 by the liver during exercise.
+2839.3 And we also know that that
+particular ketone passes
+2843.13 that blood-brain barrier.
+2844.27 And it's another stimulant for BDNF.
+2846.19 So kind of the final
+common pathway seems to be
+2851.24 BDNF stimulation in the hippocampus.
+2854.19 Is it the only one, probably not,
+2856.65 but that's the one that has
+been studied most clearly.
+2859.42 So it comes from all of
+our physiological systems,
+2862.9 our muscles working, our
+liver responding to the stress
+2866.83 of exercise, and what is it doing,
+2869.51 it is giving more BDNF
+precursors to get into our brain,
+2876.01 to cause the upspike
+of BDNF, which is part
+2879.62 of your bubble bath that you're
+getting every time you move.
+2882.2 - I love that description
+of a factor from muscle
+2885.21 and a factor from liver,
+because anytime we're thinking
+2888.85 about movement of the
+body and translating that
+2890.74 to the brain, as you
+so clearly pointed out,
+2894.56 that needs to traverse
+the blood-brain barrier.
+2898.73 Not everything that happens in the body
+2900.23 is communicated to the brain
+2902.722 and these seem like
+really important signals.
+2905.04 Beta-hydroxybutyrate, you
+mentioned is a ketone,
+2908.73 I just want to underscore
+that doesn't mean, folks,
+2911.39 that you need to be on a ketogenic diet.
+2913.43 I think people hear ketone and they think,
+2915.88 I know some people are, most
+people are not, I imagine.
+2920.07 There are ketones that
+are released in your brain
+2921.93 and body that can function,
+2923.07 even if you're ingesting
+carbohydrates and not ketogenic,
+2926.81 just for a point of clarification.
+2929.57 This issue of new neurons
+is one that you hear a lot,
+2933.64 you know, neurogenesis,
+you're going to grow
+2935.58 new neurons, new neurons.
+2937.68 And my understanding is
+that the rodent literature
+2940.07 is very clear that animals
+that run on wheels more often,
+2944.22 it turns out rodents
+love to run on wheels.
+2945.84 Do you know these
+studies by Hoppy Holster,
+2947.58 which are pretty funny,
+2948.9 they're very cool, by the way, Hoppy,
+2950.88 Howard Hughes investigator,
+I'm not making light of them.
+2954.42 They put running wheels in
+a field and wild rodents
+2959.62 will run to the running wheel
+and run on that running wheel.
+2962.41 - Oh, that's great.
+- They really enjoy it.
+2964.11 Which I find amusing for
+reasons that probably
+2966.73 only a neuroscientist would find amusing.
+2969.43 In any case, in rodents,
+it seems that running more
+2973.67 on a wheel can trigger neurogenesis,
+2976.65 literally the birth of new
+neurons and the addition
+2979.75 of new neurons to the hippocampus.
+2981.95 In monkeys, this has been controversial.
+2984.74 It seems it does happen in the hippocampus
+2986.237 and in the olfactory bulb,
+2988.05 probably not in the neocortex.
+2989.95 Thinking back to the
+decades or more controversy
+2992.84 between Liz Gould and Pasko Rakic.
+2995.06 I hope they settled
+their differences there.
+2997.59 Neuroscientists love to argue.
+3000.19 It's kind of what we do.
+3002.75 And in humans, I think it's
+been a bit controversial.
+3005.98 Some people say absolutely, yes.
+3007.93 Other people say absolutely no,
+3009.31 there are new neurons
+added to the adult brain.
+3013.51 I haven't followed that
+literature down to the detail.
+3017.14 But I do remember one study
+that I don't think is contested,
+3021.23 which is the work of Rusty
+Gage at the Salk Institute
+3024.42 where they actually injected
+a sort of due type marker
+3028.83 into the brains of terminally ill humans
+3031.78 who very graciously offered
+to have their brains removed
+3034.96 and dissected after death.
+3036.92 And in some cases, these very
+old terminally ill humans,
+3042.13 they did see evidence for new neurons
+3045.05 being born in the hippocampus.
+3046.64 Can I trust that idea still?
+3048.83 Is that generally accepted?
+3050.52 - Well, so after that study,
+which was quite a while ago,
+3054.86 there are more recent
+studies, still controversial,
+3058.04 but showing and
+demonstrating, using even new
+3061.86 and better techniques than were used
+3063.6 in that original Rusty Gage study,
+3065.5 which was groundbreaking
+at the time, that suggest,
+3070.26 and I think show, that
+there are new neurons born
+3074.12 in adult human brains into
+the ninth decade of life.
+3079.54 So they not only did this, I think
+3081.47 those patients were in their
+60s, then they died of cancer.
+3086.71 But these new studies
+looking across the timeline,
+3090.13 can we see, because the
+other thing was, yeah,
+3092.18 maybe you have some when you're 20,
+3094.24 but by the time you're
+older and you might need
+3096.71 these new neurons, you
+have no new neuron growth.
+3099.89 And so these studies seem to
+suggest that, yes, yes you do.
+3105.55 And we all do even into old age.
+3109.3 - Great, and I'll just
+take a moment to say
+3111.33 that I am personally
+not aware of any studies
+3113.98 looking at other forms of exercise
+3117.06 besides cardiovascular exercise
+for sake of brain health.
+3120.3 And this, I think, is an
+important gap in the literature
+3123.09 that ought to be filled,
+whether or not for instance,
+3125.42 high intensity interval training,
+3127.35 or whether or not weight training,
+3130.5 which has other effects
+on the musculature,
+3132.69 so you can imagine perhaps
+the myokine to BDNF pathway,
+3135.5 the pathway one that you
+mentioned, might be signaled,
+3137.49 but maybe not the liver pathway, maybe.
+3139.39 Yes, I'm speculating here.
+3140.91 Those studies need to be done.
+3142.13 To my knowledge, they just
+haven't been done yet.
+3145.14 But they should be done.
+3147.35 If you would, could you tell us about
+3148.7 some of the more specific
+effects of exercise on memory?
+3155.345 Memory is a broad category
+of effects and phenomena.
+3158.73 So things like what comes to mind is
+3161.13 short-term, medium- and long-term memory,
+3162.7 reaction time, learning
+math, at least for me,
+3167.11 is quite a bit different
+than learning history,
+3171.05 although there's certainly overlap
+3172.54 in the neural underpinnings.
+3174.79 What has been demonstrated
+in the laboratory
+3177.55 in animal models, but
+especially in humans,
+3180.28 and if you want to share
+with us any results
+3182.59 from your lab, published or unpublished,
+3185.39 I'm sure that the audience
+would be delighted
+3186.81 to learn about them.
+3187.69 - Absolutely, let me start with kind of
+3190.17 the immediate effects, acute
+effects as they're called,
+3193.47 of exercise on the brain.
+3195.04 So this is asking what does
+a one-off exercise session
+3199.15 do for your brain?
+3200.92 And there, there are three major effects
+3205.56 that have been reproduced.
+3206.87 I've seen it in my lab, many
+labs have reproduced this.
+3210.06 So what do you get with the one-off?
+3212.11 This is usually an
+aerobic-type exercise session,
+3215.69 30 to 45 minutes.
+3217.54 What you get is that mood
+boost, very, very consistent.
+3221.635 You get improved prefrontal function,
+3226.15 typically tested with a Stroop test,
+3229.42 which is a test that asks
+you to shift and focus
+3232.28 your attention in specific ways.
+3234.77 It's a challenging task
+and clearly dependent
+3237.15 on the prefrontal cortex largely.
+3239.57 And significant improvements
+in reaction time,
+3243.08 so your speed at responding,
+often a motor kind of,
+3247.72 but cognitive motor response is improved.
+3251.94 Over the pandemic, one of the
+unpublished studies that I did
+3255.17 looking at the effects of 30 minutes
+3258.16 of age-appropriate workout in subjects
+3262.63 ranging in age from their 20s
+3265.0 all the way up to their 90s.
+3267.12 So what are the things that
+I saw more consistently?
+3271.88 Irrespective of your age,
+everybody got a decreased anxiety
+3277.08 and depression and hostility
+score, which is very important.
+3282.131 So it's not just decreasing
+your anxiety and depression
+3284.72 but decreasing your hostility levels.
+3287.439 - Making the world a better place.
+3288.69 - Making the world a better place.
+3291.43 Energy, the feeling of energy went up.
+3294.48 And what we found is in
+the older population,
+3298.42 even more than in the younger population,
+3300.87 we saw improved performance on both Stroop
+3304.29 and Eriksen flanker task,
+which is another task dependent
+3308.71 on really focusing in on different letters
+3312.54 and paying attention to
+what letter is being shown.
+3315.92 So these are consistent effects.
+3319.01 How long do they last?
+3320.13 One of the studies that I did
+publish in my lab showed that
+3322.67 the immediate effects of
+exercise lasted up to two hours.
+3327.52 Unfortunately, that was
+the longest that we last,
+3329.23 they were still there at two hours.
+3332.167 So that's a pretty big bang for your buck.
+3335.86 - That is.
+- One 30 minute.
+3337.47 - Sorry to interrupt, I just
+want to make sure I understand.
+3339.49 So when you say the effects
+lasted up to two hours,
+3342.4 does that mean up to two hours
+after you finished exercise?
+3345.86 Or up to two hours of
+memory challenging work?
+3353.85 Just to be clear.
+3354.683 - Yeah, that's a great question.
+3355.84 So my study looked at two hours
+3361.59 after you finish your workout
+3363.46 we gave you these cognitive tests.
+3365.03 During that two-hour period,
+you were free to do anything
+3368.47 except exercise or eat.
+3370.03 And so there was no extra load on people.
+3374.54 But two hours later, you
+did do significantly better
+3377.67 on these focused attention
+tasks compared to a group
+3382.99 that watched videos for
+the exercise period.
+3386.57 This was an hour of cycling that they did.
+3389.71 These were young subjects in their 20s.
+3391.97 - Okay, so if I finish
+my exercise at 9:00 AM,
+3397.02 even if I start this cognitive
+work, this mental work at 11,
+3401.55 I'll still see benefits.
+3402.73 - Yes, at least by 11,
+3404.45 because I didn't go
+farther than two hours.
+3407.47 So it could last even longer than that,
+3409.49 but I have evidence that
+it lasts for two hours.
+3411.99 - And perhaps if I had
+started the cognitive work
+3415.14 45 minutes after my exercise ended,
+3417.42 it would also be helpful.
+3418.87 - Yes.
+- So there's no reason
+3419.77 to think that there's a,
+3421.215 that you have to wait before
+starting cognitive work.
+3422.048 - Yeah, no reason at all.
+3423.66 - I'm asking questions
+of the sort that I get
+3425.61 in the comments, that we are going to get
+3426.98 in the comment section.
+3427.97 We always strive for clarity here.
+3430.25 So what this tells me is that
+exercising early in the day
+3435.56 may have a special effect.
+3438.05 I realize that some people cannot exercise
+3440.12 until later in the evening,
+3441.8 but you mentioned something
+earlier that I want
+3444.18 to cue people to, it's
+very, very important.
+3446.1 I don't think I've ever
+mentioned this on the podcast,
+3447.85 which is any kind of physical
+activity will increase
+3451.59 cortisol to varying degrees.
+3454.05 And so sometimes it's a healthy increase,
+3455.58 sometimes it's an unhealthy increase.
+3456.97 If you do two hours of
+really intense exercise
+3459.1 and you're not prepared for it,
+3460.56 that's a big spike in cortisol,
+probably not a good thing
+3464.04 for most people.
+3465.17 But if you are going to
+do your cardiovascular
+3467.61 or weight training later in the day,
+3470.15 that increase in cortisol can promote
+3472.54 too much wakefulness for sleep, etc.
+3475.58 Shifting that cortisol
+spike early in the day
+3477.51 is associated with a
+number of important things
+3479.25 related to mood, etc.
+3482.04 But more and more, what
+I'm thinking and hearing
+3485.13 is that exercise early in the day is key.
+3487.1 Our former dean of the
+medical school, Phil Pizzo,
+3490.11 was and is kind of
+famous still for jogging
+3494.09 between the hours of, like, 4 and 5:00 AM,
+3496.27 or five and six, and then
+running the medical school.
+3499.9 And you're up early doing your
+exercise, and cold shower,
+3503.12 and meditation, we'll
+talk about meditation,
+3505.1 but this is more and more
+of a push, I feel like,
+3508.27 or a stimulus for us to think about moving
+3511.61 our exercise earlier in the day.
+3513.25 - Yeah, I mean, I like to say that,
+3516.495 I know there are moms and dads
+out there and they just say,
+3520.29 look, I have a kid, the
+kid's more important
+3522.84 than my doing my exercise.
+3524.46 So you will get benefits if
+you do it whenever you can.
+3529.54 So that's great, more power to you.
+3532.08 But what all the neuroscience
+data suggests is the best time
+3536.56 to do your exercise is
+right before you need
+3539.81 to use your brain in
+the most important way
+3542.65 that you need to use it every day.
+3544.16 And so that is why the morning
+for most of us is beneficial.
+3548.8 That's why I do it in the morning
+3550.02 and I'm lucky enough
+to be able to do that.
+3552.89 But yeah, it makes sense with all,
+3556.16 everything we know about how this works
+3558.41 and how it benefits our brain.
+3560.18 - I think about our
+colleague, Eric Kandel,
+3563.94 who not incidentally has a
+Nobel Prize and studies memory.
+3567.56 And rumor has it that he's been a swimmer
+3572.18 for a lot of years.
+3573.307 That he'll put in, I think
+nowadays he's in his '90s,
+3575.77 now he'll put in half a mile,
+3578.33 but he used to do swim a mile a day
+3580.27 or something of that sort.
+3581.103 - Wow, I heard that, too,
+that he was a swimmer
+3582.91 and he does it very, very religiously.
+3584.85 - Okay, so there are a
+few other neuroscientists
+3586.73 that do that, I can think
+of a lot of neuroscientists
+3588.56 that probably should exercise more.
+3590.03 And I don't say that to poke at them,
+3591.36 I just would love to see them
+doing their incredible work
+3593.73 for many more decades.
+3595.61 And everything that we're
+talking about today indicates
+3596.78 that if one doesn't, unless
+you have incredible genetics,
+3602.29 we all experience
+age-related dementia, right.
+3605.38 I mean, the story of your
+father is a salient one.
+3609.33 And we should remember
+that as we go forward.
+3612.07 I also want to emphasize, and
+I'd love to get your thoughts
+3614.5 on just memory and memory loss in general.
+3617.82 It seems we all get worse at remembering
+3620.66 and learning things, even
+if we don't get Alzheimer's.
+3624.56 When does that typically start for humans?
+3627.6 - You know, I think there's
+so much variability,
+3631.52 not only because we are individuals,
+3634.64 but because our stress
+levels are different
+3639.33 and, well, everybody's
+anxiety level has gone up
+3643.26 in the last couple of years,
+but that also has an effect.
+3646.85 We don't remember as much
+in a highly stressful,
+3650.33 highly anxious situation.
+3652.41 So, as you know, it's hard
+to answer that question.
+3656.392 People say, okay, just tell me
+3657.56 how much exercise I have to do.
+3658.83 - 30 to 45 minutes a day.
+3661.35 But I love that per day,
+3663.44 I've been doing this whole
+thing of telling people, oh,
+3665.57 the data say 150 to 200
+minutes of zone two cardio,
+3669.46 which is kind of moderately hard
+3671.54 but not excessively hard, but
+I love this everyday theme.
+3676.07 Because whenever I do that,
+the questions that come back
+3678.38 are, well, what if I take a
+long hike on the weekends?
+3680.44 And so people start negotiating.
+3682.13 There's something that's very powerful
+3683.32 about non-negotiable, everyday.
+3685.43 Sun in your eyes every day
+even through cloud cover.
+3687.57 Exercise for 30 to 45 minutes.
+3689.71 Cold shower every day.
+- Every day, yeah.
+3694.03 - My understanding of the
+literature is that somewhere
+3697.42 in our 50s or 60s, we start noticing
+3700.31 little hiccups in memory,
+3703.13 for some people younger,
+for some people later.
+3706.33 But I have to imagine
+that doing the exercise
+3709.97 throughout one's entire
+life is going to help
+3712.16 offset some of this
+simply 'cause of the BDNF
+3714.917 and other downstream effects.
+3716.65 - Yeah, I mean, that's what it suggests.
+3719.79 One of my favorite studies,
+3721.34 and then I want to get back to you wanted,
+3723.78 you invited me to share
+some of my unpublished data
+3726.72 on the effects of long-term exercise,
+3728.95 but first I want to share
+one of my favorite studies,
+3731.61 which is a longitudinal
+study done in Swedish women.
+3736.54 And this was published in 2018.
+3738.95 And what they did was back in the 1960s,
+3742.8 they found Swedish women,
+3745.337 300 Swedish women in their 40s.
+3747.73 And they characterized them
+as low fit, mid fit, high fit.
+3751.58 Okay, and then 40 years later,
+3753.59 they came back and found these women,
+3754.91 they let them do, live their lives.
+3757.18 And they asked what happened
+to these women as a function
+3760.37 of whether they were low fit, mid fit,
+3762.36 high fit in their 40s,
+they're now in their 80s.
+3766.18 And what they found was
+that relative to the low fit
+3771.53 or mid fit women, the
+women that were high fit
+3775.98 gained nine more years of
+good cognition later in life.
+3783.14 Now this is not a
+randomized controlled study.
+3786.25 This is a correlational study.
+3788.46 But does it agree with everything
+3790.33 that we've been talking about today?
+3792.64 Yes, does it agree with
+this idea that the women
+3795.64 that were high fit were
+giving their brains
+3797.8 this bubble bath, maybe not every day,
+3801.39 but very, very regularly
+for that entire 40 years
+3804.53 and that built up their big,
+fat, beautiful hippocampi?
+3808.05 Yes, it does.
+3809.06 So that's one of my favorite studies.
+3811.6 - Yeah, another cause for getting
+3815.66 the exercise in consistently.
+3819.04 I am impressed by this 10-minute walk
+3822.18 and the improvements in mood
+from just a 10-minute walk.
+3825.77 But again, I think that
+daily repetition also
+3830.44 I have to imagine has
+effects on the very pathways
+3834.84 that allow plasticity.
+3836.11 This is something we, in the
+realm of neuroplasticity,
+3838.76 we don't often hear about or think about,
+3840.56 even as a neuroscientist,
+which is that the pathways
+3842.98 for engaging plasticity probably can be,
+3845.64 probably I'm speculating
+here, can be made better
+3849.12 by engaging in the sorts of behavior
+3851.19 that stimulate plasticity.
+3852.52 In other words, if one gets
+better at calming themselves
+3854.3 down under stress, those circuits
+get better at doing that.
+3857.131 - Yes, absolutely.
+- Neural circuits
+3859.23 gain proficiency.
+3861.041 And so, because blood vessels can grow,
+3863.61 capillaries can grow in the brain,
+3865.44 you can imagine that more
+pumping of blood to the brain,
+3869.3 delivery of these various
+muscle and liver factors
+3873.58 would also establish larger
+or more efficient portals
+3878.02 to getting that stuff there.
+3879.55 So you could imagine kind
+of an amplifying effect
+3882.65 of exercise, and again,
+I'm speculating here,
+3884.42 but I've seen this over and
+over again in colleagues,
+3887.4 the ones who exercise consistently
+3890.38 seem to be really, really
+smart and doing amazing work
+3893.4 well into their 80s and 90s
+3895.23 and the ones who aren't, some of whom
+3897.55 actually pride themselves
+on how little they exercise,
+3901.48 they get worse over time.
+3903.18 You see them each meeting,
+each decade and I'm not poking
+3906.03 fun at them at all, it's actually
+quite, quite hard to see.
+3908.96 And they're kind of a fading light,
+3910.36 they're starting to flicker.
+3912.3 So there is this incredible relationship
+3913.96 between body vitality and brain vitality.
+3916.97 That, of course, is not
+an excuse for spending
+3919.06 all day in the gym.
+3920.7 The gym rats, I enjoy working
+out so I could imagine
+3924.99 doing that, but that
+doesn't make us smarter,
+3928.27 unfortunately you actually have to do
+3929.55 the cognitive work also,
+3931.41 it's not just exercise.
+3933.14 So I'd love to hear about some of these
+3934.47 new unpublished data.
+3935.86 - Yeah, okay, so when I
+jumped into the exercise work,
+3940.85 everybody was studying people 65 or older
+3944.85 because that's when
+cognitive decline begins.
+3947.42 And if the idea is exercise can help you
+3949.8 with your cognition, then makes sense.
+3952.32 However, I thought, well,
+you know that it's great,
+3957.532 there's lots of work there.
+3958.76 I wanted to know what happens
+in people in their 40s
+3962.607 and their 50s, maybe even
+their 30s and their 20s.
+3966.36 Why, because that's when
+we, as humans are able,
+3970.64 ready, willing, and able
+to increase our exercise
+3974.18 and gets us set up to build our brains
+3978.55 as we go into our 60s.
+3980.51 And so the first study
+that I did looked at
+3985.12 low fit participants from
+their 30s to mid 50s,
+3990.68 and we wanted to ask this question,
+3994.17 how much exercise do you really need
+3995.71 to start seeing benefits?
+3997.07 Do you see benefits?
+3997.92 Or maybe you have to wait
+until you start seeing
+4000.13 cognitive decline to get benefits.
+4002.15 That was one of the theories out there.
+4004.54 And so that's what I wanted to do.
+4006.41 And so what we did was three
+months of two to three times
+4010.93 a week cardio, it was a spin class,
+4014.17 so spin classes are great for cardio.
+4016.53 And the comparison group was
+two to three times a week
+4019.84 of competitive video Scrabble.
+4022.58 So no heart rate change, but
+they had to come into my lab
+4026.99 and be in a group just
+like they were in a group
+4029.1 for the spin class.
+4033.0 We touched them cognitively
+at the beginning
+4035.307 and the end of the session.
+4037.02 What we found was two to
+three times a week of cardio
+4041.47 in these people, they are low
+fit, which means specifically
+4045.01 that they were exercising
+less than 30 minutes a week
+4048.55 for the three months
+previous to the experiment.
+4051.62 So they went from that to
+two to three times a week
+4054.03 of spin class and what
+we found was changes
+4058.21 in baseline rates of their
+positive mood states went up
+4062.56 relative to the video Scrabble group.
+4065.34 Their body image got more positive
+4068.77 because they were
+exercising, which is great.
+4070.85 And really important, their
+motivation to exercise went up
+4075.48 significantly compared to
+the video Scrabble group,
+4078.44 which is great.
+4079.64 So the more you exercise,
+the more motivated
+4082.16 you are to exercise.
+4083.84 What about cognition?
+4084.78 What changed in the cognitive
+circuits of their brain?
+4087.99 Number one, we got improved
+performance on the Stroop task,
+4091.91 but we're headed towards
+my favorite structure,
+4095.3 which is the hippocampus.
+4097.01 What we found was improved
+performance on both
+4100.8 a recognition memory
+task, which was a memory
+4104.52 and coding task, and that
+is, can you differentiate
+4111.1 similar items that we're
+asking you to remember,
+4114.595 and a spatial episodic memory task,
+4117.85 where we had them play one
+of those Doom like games
+4120.83 when they went into this
+spatial maze and they had
+4123.25 to do things in a virtual city.
+4125.48 Their performance there got better,
+4127.08 which is very, very classically dependent
+4129.57 on the hippocampus.
+4132.165 So this, it was so
+satisfying to do this study
+4136.03 because I've been wanting
+to answer this question,
+4139.53 what is a minimum amount or
+doable amount of exercise
+4145.25 that will get you these
+cognitive benefits?
+4147.67 And now I can say in 30-to-50-year
+olds that are low fit,
+4153.36 two to three times a week.
+4154.68 Is that doable, absolutely.
+4156.71 Will it be hard if you're low fit, yeah,
+4158.57 it's going to be challenging,
+but absolutely doable.
+4162.2 And so it makes sense
+with all of the mechanisms
+4168.53 that we are, I didn't study the
+mechanisms just to be clear,
+4171.52 but with all the mechanisms
+we are imagining are playing
+4175.4 a role here, that absolutely
+makes sense and it is doable.
+4179.52 This is not like you have
+to become marathon runner
+4183.22 to get any of these benefits.
+4185.1 This is you have to start moving your body
+4187.15 on a regular basis two
+to three times a week.
+4191.26 So I love that for its realness.
+4194.79 - How long are those sessions again?
+4196.42 - 45 Minutes.
+- 45 Minutes.
+4197.68 - Yeah, 45 minutes, it's a
+typical spin kind of class.
+4202.38 There's a warmup for five
+minutes and a cool down
+4204.37 for five minutes, so
+it's really 35 minutes
+4210.28 of they're really pushing you.
+4213.15 - And so they're
+breathing reasonably hard.
+4215.27 Heart rate is up.
+4216.972 - Heart rate is up definitely up, yeah
+4219.18 - I find that all of those
+results are really interesting
+4222.283 that the results showing
+improvement in motivation
+4227.16 to exercise is interesting,
+'cause it gets back
+4229.35 to this issue of kind of
+a self-amplifying effect.
+4231.97 And the neuroscientist
+in me wants to think
+4236.19 about kind of pre-motor
+circuits and the fact that
+4239.47 we have a motor system that
+can obviously do things
+4242.24 like lift cups, and walk, and
+run if we want to or need to,
+4245.79 but that it's possible to create
+4248.5 a kind of anticipatory
+activity in our nervous system
+4251.75 where our body craves a certain stimulus,
+4255.31 you mentioned the cold and
+how you crave the cold.
+4257.64 Now whether or not that's the adrenaline,
+4259.46 and the dopamine, etc.,
+or whether or not somebody
+4262.86 who exercises, going from
+zero, less than 30 minutes
+4266.89 per week to two to three
+times a week, 45 minutes,
+4269.89 as you described for this study.
+4273.293 I've had that experience
+before of that the cardio,
+4277.343 that I tend to battle the most,
+4280.12 I love lifting heavy objects,
+at least heavy for me.
+4283.66 I'm happy to go to the gym every other day
+4286.04 and just lift heavy objects for an hour.
+4287.53 It just makes me happy,
+I like the way it feels,
+4289.8 and I've been doing it since I
+was in my teens, so 30 years.
+4293.69 Cardio's a little bit trickier.
+4294.68 I like to run, but if I stop
+running for a little while
+4298.41 I find it very hard to get back into.
+4300.21 But if I start running three times a week
+4302.3 for 30 to 45 minutes and I
+do this pretty consistently
+4305.3 on the days I don't weight train,
+4306.77 I find that I start to crave it.
+4308.69 It's almost as if my body
+needs that in order to,
+4312.36 I always say, clear out the cobwebs,
+4313.87 but it's like my mind
+doesn't function as well,
+4315.73 clearly now I understand
+why and why exercise helps,
+4319.8 but also physically I almost
+feel like my body needs
+4323.11 to engage in that movement.
+4324.21 Like the pre-motor circuits
+are kind of revving,
+4326.8 kind of like revving then engine
+on a car while it's in park.
+4330.72 So the motivation to exercise obviously
+4332.84 could be multifaceted.
+4334.77 It could be purely psychological,
+4336.52 but do you think there's any
+reason to speculate at least
+4339.34 or believe that we can
+build an anticipatory,
+4344.197 reverbatory activity
+into our nervous system?
+4346.22 - Yeah, yeah,
+4349.981 I agree with that because I
+also have those same kinds
+4353.76 of thoughts and I do have
+anticipatory exercise
+4359.47 when I can't do it.
+4360.64 So I just got back from a
+week and a half in Paris,
+4364.79 where I got to do a book launch
+4366.6 of my last book, "Good Anxiety."
+4368.66 And I really walked around a lot,
+4374.04 but I did not do my exercise
+for that whole week and a half.
+4379.56 But there was a lot of
+stress 'cause I had to do
+4381.26 all these interviews in French.
+4382.3 So I gave myself a break.
+4383.46 - You speak French?
+- I speak French.
+4385.08 - I was going to say, otherwise
+it would be really stressful.
+4386.203 - That would be really stressful.
+4387.4 - Then I'd be really impressed.
+4389.023 Then I would definitely start exercising.
+4391.63 Actually, I would follow
+your morning routine to a T,
+4394.36 but okay, very impressive nonetheless.
+4396.74 - But I got back and coming
+back this direction from Paris,
+4402.08 I live in New York, is much easier.
+4405.36 And so I was able to get up
+at a normal time the next day.
+4408.57 And that exercise session
+that first day is like, okay,
+4411.25 I'm back in my home, I'm
+back in my environment.
+4414.27 And it felt so good.
+4416.29 It was like I wanted to come back.
+4419.8 And I know it's because
+I worked up over years,
+4424.35 now I could truthfully
+say seven days a week,
+4427.06 but it was first it was four to five,
+4430.28 then it was five to six, and yeah, seven,
+4434.45 but that includes a yoga day,
+4436.2 or sometimes I have to
+do it for 10 minutes
+4437.79 instead of 30 because I have to leave.
+4440.4 But that habit of you do
+that even for five minutes,
+4444.93 you do either the weight 10-minute thing,
+4448.04 or a five-minute thing, or a
+stretch, that is a tiny habit.
+4454.07 Is that somebody at Stanford
+that invented this idea
+4456.84 of tiny habits, I thought it was?
+4458.79 - Well, we've got a
+number of people there.
+4461.346 And I apologize in
+advance to all the people
+4463.27 I neglect in this statement, but I'm happy
+4465.93 to put it in the comments, folks.
+4468.5 BJ Fogg is there, has done--
+- Yes, that's who I,
+4472.3 - BJ's done really great work.
+4474.59 And then James Clear
+wrote a book about habits
+4478.13 and has a very popular
+newsletter about habits.
+4480.85 We've done an episode
+about habits that covers
+4482.52 some of their work and some
+of the more laboratory-ish,
+4487.22 not ish, laboratory science,
+peer-reviewed work on it.
+4490.52 Daily behaviors, also
+daily behaviors performed
+4493.32 at roughly the same time of day.
+4495.35 I mean, one thing we know for sure is that
+4497.86 the circadian system is part
+of our nervous system's way
+4502.01 of anticipating when things will happen,
+4503.867 not just what will happen.
+4505.32 I'm telling you things you
+obviously know already,
+4507.9 but for the audience.
+4509.09 Performing your exercise at
+roughly the same time each day
+4512.66 will make it easier as
+opposed to just saying,
+4514.88 I'm going to do it seven
+days a week sometime today.
+4517.06 But of course, getting it
+done sometime is better
+4519.27 than not getting it done.
+4520.103 - Yes, absolutely, absolutely.
+4522.74 - Well, those are impressive
+effects and I love that
+4525.27 you're starting to look
+in populations that are
+4527.39 a bit younger, not because
+some of these older populations
+4530.97 aren't important, but I think
+that building good habits in
+4534.86 across one's entire life
+is really what it's about.
+4538.41 As I always say with
+anything related to longevity
+4541.42 or offsetting an age-related
+decline, we don't know,
+4546.09 it's hard to know if things work
+4547.28 because there's no within subject control.
+4550.867 But what we also know for
+sure is that you don't want
+4553.25 to be the control experiment.
+4555.0 - Exactly.
+- You absolutely don't
+4556.42 want to be the control experiment,
+4557.83 especially for something
+that's purely behavioral.
+4560.51 I mean, you're not talking about ingesting
+4562.26 a particular supplement.
+4563.37 You're not talking about
+changing your diet in any way.
+4566.11 But I am curious diet is
+a very barbed wire topic
+4571.42 on the internet, which diets
+whether or not they work, etc.,
+4575.64 but in general, in any of these studies,
+4578.69 do they evaluate whether
+or not people change
+4580.37 their eating habits when
+they start to exercise more?
+4582.96 - Yeah, I think I've seen
+one study that controlled
+4588.36 for that, but I feel for
+them because it's hard enough
+4592.26 to get people to exercise at
+the level and at the time,
+4598.278 that you need for your study.
+4600.1 If you also ask them, okay,
+4601.63 fill out this survey to
+tell us exactly what you ate
+4603.89 all day, they're going to say, forget you,
+4606.7 I'm not joining your study.
+4608.69 So it's a critical question.
+4611.3 And again, there's only
+been one that I've seen
+4615.36 and the evidence was that diets got better
+4619.18 when they, you know, less processed foods,
+4621.43 when they did adhere to this exercise.
+4623.83 But lot more information needs
+to be gathered in that realm.
+4628.55 The second study that I
+wanted to share unpublished,
+4631.21 we're writing it up right
+now, is part two of that study
+4635.63 that I just described, which
+was the low fit people.
+4638.48 Next we move to mid fit
+people, like what about us,
+4641.31 we're already exercising,
+4644.08 am I going to benefit from
+increasing my exercise?
+4647.65 So here again we collaborated
+with a great spin studio
+4651.87 that had a whole bunch of mid fit people
+4654.0 that by our definition were
+exercising two to three times
+4658.15 a week on a regular basis.
+4659.75 That's great, all you people
+out there that are doing that,
+4662.25 you should know you're
+already benefiting your brain.
+4665.27 But our question was what if
+we invited them to exercise
+4668.97 as much as they wanted at the
+spin studio for three months,
+4673.02 from two to three times all the way
+4674.89 up to seven times a week, and
+let's just see what happened.
+4678.17 And the control group, we asked them
+4681.81 not to change their exercise.
+4684.33 And so what we ended up
+with was a nice big array
+4689.26 of starting with mid
+fit people that exercise
+4693.18 between staying at two
+to three times a week,
+4695.29 all the way up to seven times a week.
+4697.5 And the bottom line from that study
+4700.19 is every drop of sweat counted.
+4703.56 That is, the more you change
+and you increase your workout
+4707.42 up to seven times a week,
+4709.15 the better your mood was,
+you had lower amounts
+4714.529 of depression and anxiety,
+higher amounts of good effect,
+4719.67 and the better your hippocampal memory was
+4723.19 with the more you worked out,
+4725.04 again, this was for three months.
+4726.97 So I love that too, because it gives power
+4730.947 to those of us that are regularly
+exercising and wondering,
+4734.55 do I really need to?
+4736.08 I mean, is it really going to help me?
+4737.55 And the answer is yes.
+4738.63 I mean, not all of us can exercise,
+4740.64 go to a spin class seven times a week,
+4743.28 but I love the message that
+our body is responsive to that.
+4748.65 And you can get better
+hippocampal function,
+4751.64 better overall baseline mood affect
+4755.5 with a higher level.
+4756.5 So it works for the
+mid fit people as well.
+4760.53 - Fantastic, the more I learn from you,
+4762.77 the more I'm starting to
+conceptualize the brain as an organ
+4765.94 that is privileged in so many ways,
+4768.61 has this unique blood-brain barrier,
+4771.4 has this incredible quality of
+being able to predict things,
+4775.2 and it's job mainly is, of
+course, to predict things
+4777.74 among other functions, of course,
+4780.2 but that our brain isn't
+necessarily going to stay stable
+4785.89 or get better over time,
+that it needs a signal.
+4791.83 It isn't sufficient to just
+say that we can't take it
+4793.29 for granted, that our
+brain is actually an organ
+4796.81 that requires a signal
+in order to maintain
+4799.64 its own function and it sounds
+like enhanced blood flow
+4803.23 and these pathways that
+you described earlier,
+4805.23 these two pathways are at least among
+4808.33 the more critical signals.
+4810.5 I'm tempted now to move my frequency
+4813.43 of cardiovascular exercise from,
+4815.09 I confess it's about three
+days, 35 minutes lately,
+4818.97 and it should be more to daily.
+4822.14 There's something really, again,
+really special about daily
+4824.33 because it's nonnegotiable,
+you just do it.
+4828.36 And it sounds like if one were to do
+4829.98 higher intensity exercise,
+you know in a spin class,
+4833.02 I've never taken a spin
+class, but I've seen
+4834.63 there are times when they're
+standing up on the bike
+4836.19 and pedaling very hard.
+4837.4 So that is included in these
+kinds of workouts, right?
+4839.87 - Absolutely, yeah.
+- Okay.
+4840.75 - I mean, that's what
+the instructor is doing.
+4843.6 I cannot control.
+4845.8 We did monitor heart rate of
+all the subjects and it was
+4849.84 clearly, compared to the video Scrabble,
+4852.71 it was highly significant.
+4854.14 - I would hope so.
+- Yes.
+4856.075 - I guess it depends on how intense
+4856.908 that game of Scrabble is.
+4859.96 Could we just briefly talk
+about mindset and affirmations?
+4864.93 - Yeah, sure.
+- You've talked
+4865.763 a bit before about affirmations,
+4869.1 and as you mentioned, the
+beautiful work of my colleague
+4872.39 at Stanford, Alia Crum,
+4875.1 we can summarize her work pretty simply,
+4876.97 although we won't do it
+complete justice by it,
+4878.6 she's already been on the podcast,
+4880.14 just to say that one's
+beliefs about a behavior
+4884.15 also impact the outcomes of that behavior.
+4886.67 If you learn a lot of true
+facts about stress being good
+4891.45 for you, then you'll experience
+stress as better for you
+4895.16 then if you only focus on or learn about
+4897.5 the negative effects of stress.
+4898.57 If you learn about the
+positive effects of exercise,
+4900.95 you actually derive greater
+benefit from exercise,
+4904.03 believe it or not.
+4905.25 It's incredible, incredible effects,
+4907.07 but they make sense when you understand
+4908.68 what the brain is doing,
+4909.55 which is a lot of this
+predictive coding and mindsets
+4912.57 don't seem as mysterious and woo anymore
+4914.9 once you understand what
+the brain is really doing.
+4917.02 But what is, if any,
+4920.13 the value of affirmation
+of telling yourself
+4924.47 something positive about yourself,
+4926.64 or of exercise, on not
+the exercise itself,
+4930.3 but on mood, self image,
+memory, and brain function?
+4934.628 - Yeah, so, I looked into
+this because I am also
+4941.09 a certified exercise instructor
+and the form of exercise
+4943.58 that I teach is called IntenSati.
+4947.17 It's a form of exercise that was developed
+4948.99 by this amazing instructor,
+Patricia Moreno.
+4953.13 And she combined physical
+movements from kickbox,
+4956.27 and dance, and yoga, and martial arts
+4958.61 with positive spoken affirmations.
+4961.06 So each move, if you're
+punching back and forth,
+4963.01 as you would do in a kickbox class,
+4965.27 you don't just punch,
+you say something like
+4967.53 I am strong now, which every punch
+4970.57 is associated with a word.
+4972.07 And you know, you can create
+your own series of affirmations
+4977.08 with the moves that you put together.
+4979.16 And the first time I did it, I
+just wandered into her class,
+4982.94 I didn't know what it
+was and I felt idiotic,
+4987.225 I was like what, I came
+into the wrong class,
+4989.42 I don't want to come into this class.
+4991.49 But then I saw they didn't
+care whether I thought
+4996.048 they looked silly saying these affir-,
+4998.09 not saying, yelling these
+affirmations out loud
+5001.52 while doing the choreography
+at the same time.
+5004.4 And then I tried it,
+okay, I didn't yell out,
+5007.08 I kind of whispered it at first.
+5009.92 But by the end, I was
+really yelling it out.
+5012.38 There's something about the declaration,
+5014.68 using your own voice of saying things that
+5017.81 you don't often say to
+yourself, like I'm strong,
+5021.88 I'm inspired, I believe I will succeed,
+5024.51 are all the kinds of affirmations you say.
+5027.01 And you walk out of that class,
+5028.63 or I walked out of that class,
+5030.31 thinking, ah, I feel really good now.
+5034.64 Man, I can't wait to
+come back to this class.
+5037.36 Which is why I ultimately
+took teacher training
+5040.29 to be able to teach that class.
+5042.37 And so I started to
+look into what was known
+5047.27 about affirmations and
+they were never combined
+5050.04 with physical activity, but
+it was clear that there was
+5054.2 a literature showing that
+positive affirmations,
+5058.04 saying them or reading
+them could change mood
+5061.95 in the same way as we're talking about,
+5063.54 you know, Alia Crum's work.
+5065.4 If you have this, it's a belief,
+5069.14 once you start saying these things,
+5070.79 these are not difficult things to believe,
+5074.5 but it's amazing how much you don't say
+5078.04 these kinds of things to
+yourself or with your own voice.
+5081.58 You might say them about somebody else,
+5083.17 oh, you're strong, you're so smart.
+5085.72 Do you say that about yourself?
+5087.25 And that's the thing about
+the self affirmations.
+5090.66 It really gets you into a habit
+5094.362 of saying good things about yourself.
+5096.74 And then you start to realize,
+5098.65 oh my God, I'm so mean to myself.
+5101.67 I have lots of negative thoughts going on
+5104.8 about myself in my head, and which is part
+5108.46 of the other reason why I loved this,
+5110.44 this particular form of exercise.
+5113.32 So what you get in
+IntenSati is the mood boost
+5118.36 from the positive spoken affirmations
+5120.84 together with all the other
+brain and affect boosts
+5125.22 that we've been talking
+about for this whole podcast,
+5128.74 from the exercise, because
+it's a sweaty workout as well.
+5132.41 - Interesting, there's a book,
+I confess I haven't read it,
+5135.63 but I have had the pleasure
+of having a discussion
+5138.13 with a psychologist from,
+5139.15 I believe he's at University
+of Michigan in Ann Arbor,
+5142.24 Ethan Kross wrote a book called "Chatter,"
+5144.87 which focuses on the fact that so much
+5148.3 of our inner dialogue,
+it is indeed negative.
+5150.84 He certainly wasn't the
+first to point that out.
+5154.37 But that explicit statements to counter
+5157.63 that negative chatter, I
+believe is one of the hallmarks
+5161.21 of readjusting one's own, not
+just internal reference frame,
+5165.15 but actually self-image generally.
+5167.39 And it's a fascinating and, I
+think, a very important area
+5171.55 of psychology and neuroscience because,
+5173.94 and I acknowledge this,
+we're talking about this,
+5176.01 two laboratory neuroscientists
+who record from neurons
+5179.16 and label neurons and look
+at stuff down the microscope,
+5182.02 we are now deep in the
+territory, in the deep water
+5185.36 of what some of our colleagues
+and people who think
+5188.46 about neuroscience would
+consider really out there
+5190.64 on the kind of subjective edges.
+5193.3 And yet I think it's worth pointing out
+5196.78 that the brain does all these things.
+5199.51 It's responsible for simple
+reflexes and motor behaviors,
+5201.95 but also high-level conceptual
+ideas about the universe
+5206.21 and what it might look like in 10 years,
+5207.67 or 100 years, or 1,000 years,
+5209.3 but also high-level
+conceptual understanding
+5212.04 of who we are and what we are about.
+5215.01 And so even though it
+might seem a little bit
+5217.03 out on the fringes, dare I say,
+5219.59 I think that these are
+some of the more important
+5222.075 untread landscapes of neuroscience.
+5224.43 And I just want to
+acknowledge my appreciation
+5227.5 for the fact that I'm going to
+connect the dots here and say,
+5231.92 you went from somebody
+who didn't exercise,
+5233.73 who went on this rafting trip,
+5235.41 That discovered exercise and its benefits
+5237.56 for your grant writing
+and then on and on and on,
+5240.74 and then became a certified
+5243.08 - Exercise instructor.
+- Instructor.
+5245.04 So you don't do anything
+halfway, either as it's clear.
+5250.46 I'd like to touch on something
+you mentioned earlier,
+5253.61 but we haven't dove into
+it all in any depth,
+5257.47 which is meditation.
+5260.96 You mentioned this tea meditation.
+5262.79 You had a publication recently
+5265.14 on a 10-minute meditation.
+5267.35 - Yes.
+- Right?
+5268.2 Maybe you could tell us about
+this 10-minute meditation
+5270.546 because it seems like such
+at tractable amount of time.
+5273.95 And then if you would
+maybe tell us a little bit
+5275.7 about the tea meditation.
+5276.7 But sounds like you've
+discovered a minimum,
+5280.84 a close to minimum threshold of meditation
+5283.611 that can really benefit us.
+5285.895 So maybe you could tell
+us about that study.
+5287.71 - So the study was, as you
+very astutely pointed out,
+5292.75 very practical study,
+5294.98 just 10 minutes, not 30
+minutes, not an hour meditation,
+5298.33 that's too hard, 10
+minutes guided meditation.
+5301.75 They logged into a site.
+5302.95 So we can tell that they logged
+in and they listened to a,
+5306.65 it's a body scan, very basic,
+5309.14 but easy to follow kind of meditation.
+5312.19 And we asked them to do it, how often?
+5315.56 Daily, seven days a week,
+just 10 minutes a day.
+5319.27 And the most shocking thing
+about this study is that
+5322.43 we got more adherence to the
+10 minute daily meditation
+5327.86 than the 10 minute
+daily podcast listening,
+5330.71 which was our control.
+5331.92 So the highest retention
+rate I've ever gotten in any,
+5335.98 this kind of study that I've
+done, exercise or meditation,
+5339.0 they wanted to do it 10 minutes a day.
+5341.72 It was great.
+5342.753 - I'm going to just
+start leading meditations
+5344.84 for three hours as opposed to
+doing a three-hour podcast.
+5349.24 - So we looked at cognitive
+effects before and after this,
+5355.11 it was eight weeks of daily,
+5357.61 it was actually 12-minute meditation,
+5360.627 12 minutes of body scan meditation.
+5362.19 And what we found was
+significant decreases
+5366.63 in stress response.
+5367.75 So we did the stress test
+to see how you responded
+5372.79 to an unexpected, stressful situation.
+5375.36 The meditators did much better.
+5377.81 Their mood was better and
+their cognitive performance
+5381.89 was also better.
+5383.53 And this was my first
+little foray into meditation
+5387.55 after I had started my
+personal tea meditation,
+5394.35 that really shifted my
+relationship with meditation.
+5401.269 But it is consistent with
+many other studies showing
+5404.36 the beneficial effects of meditation.
+5408.14 But the unique thing was
+we tried to make it doable
+5411.23 that many, many people out
+there could actually follow
+5414.4 this typical regimen, and
+so we're continuing that.
+5421.16 In fact, my research in my
+lab right now is all about
+5425.77 those doable, short things
+that NYU college students
+5430.87 will do, not just at the
+beginning of the semester,
+5434.27 but at the end of the
+semester when the stress
+5437.45 and anxiety levels are now at
+record-breaking high levels.
+5441.61 And they need something to
+bring that level down so that
+5445.12 they could show their professors
+5446.84 what their brains can actually do.
+5449.05 And so it includes very short meditations,
+5451.5 sound meditations, visual
+meditations, walking,
+5456.33 things that any college student,
+5458.44 but we're obviously focused
+on NYU students, will do.
+5463.95 I want to get at graduation rates.
+5466.23 I want to get at class performance
+5469.03 with these kinds of interventions.
+5471.74 But it started with that study
+5472.95 that I just described, meditation.
+5477.19 - If you would, and here's where we can
+5480.46 highlight this again, as some
+highly educated speculation,
+5484.81 if it's coming from you.
+5486.73 What do you think is going
+on during meditation?
+5489.11 I mean, so a body skin involves
+5490.91 a kind of a interoceptive awareness,
+5493.44 like interoception, of
+course, being an attention
+5495.81 to what's going on on the surface of
+5497.81 and within the confines of our skin
+5499.27 as opposed to the outside world.
+5502.89 Drawing our attention to
+anything inside us or outside us
+5506.38 involves forebrain function,
+prefrontal cortex presumably,
+5509.36 and other things,
+typically eyes are closed,
+5512.51 typically it's relaxing.
+5513.87 So there are a lot of
+variables that could be feeding
+5515.9 into a number of different effects.
+5518.53 But as a neuroscientist,
+what do you think is going on
+5523.776 that this period of
+kind of an self-induced,
+5527.72 somewhat unusual state, what
+do you think is going on
+5532.25 in terms of network behavior
+and networks within the brain
+5536.43 that it can have these long-term effects?
+5538.61 Because we got to some
+of the ones downstream
+5540.61 of exercise and I think
+there's so much evidence,
+5546.09 I know there's so much evidence
+5547.21 that meditation is beneficial.
+5549.69 How do you think it's working
+5551.23 or what do you think it's doing?
+5552.64 - Yeah, I think that one of
+the most important things
+5556.47 that gets worked when we
+are doing a simple 10 minute
+5561.39 or 12 minute body scan
+meditation regularly,
+5565.06 this 10 minutes a day, 12 minutes a day
+5567.73 is the habit building and
+the practice of focusing
+5573.69 on the present moment.
+5576.41 I think that is very hard
+for us modern humans to do,
+5580.61 because I'm worrying
+about the thing that's due
+5585.305 at the end of the week that I need to do
+5587.76 and how many hours am I going
+to have to be able to do that.
+5590.81 Or I'm worried about,
+whatever, the email that wasn't
+5594.62 as polite as it should be that I sent
+5596.33 and what were the repercussions for that
+5599.33 instead of focusing on
+this moment, which is fun,
+5605.09 I get to talk to you, it's
+a beautiful day outside,
+5609.6 I'm feeling good right at this moment.
+5612.04 And I think that those,
+5613.68 all of the meditative
+practices that I've done,
+5619.27 and this one also, whether
+you know it or not,
+5623.39 is getting you to focus on this moment.
+5628.28 And I think it's even more
+important in this day and age
+5632.11 where anxiety levels and the
+next variant might come out
+5635.94 and what are the repercussions there?
+5637.64 And I have a mother who's older
+and she's more susceptible
+5641.12 to it, and there's a war, and
+what's going to happen there?
+5645.58 Those are all future possibilities.
+5649.16 And we should be worried about that.
+5651.43 That is a possibility,
+you need to plan for that.
+5654.22 But you also need to focus
+on this moment right now.
+5659.13 I'm healthy, I can breathe,
+5661.64 I get to have this
+interesting conversation
+5664.06 right in this moment.
+5664.97 If I start thinking about other things,
+5666.94 then it takes away from this moment.
+5670.2 Do I know what circuits are involved?
+5674.72 Not exactly, that is not my area.
+5676.61 I think there are some studies
+that have focused on that,
+5680.003 that present moment kind of activity.
+5684.12 But that is what I think is most important
+5687.057 about the practice of meditation
+5689.06 or one of the important
+things that calms us down.
+5692.91 Because if you know how to do that,
+5694.85 that gives you this powerful
+tool for the rest of your day.
+5698.85 You're not locked into that
+fearful future thinking
+5703.06 that so many of us have,
+or that just reliving
+5706.287 of the terrible past, but you could
+5709.33 enjoy the present moment.
+5712.31 - Yeah, that really resonates.
+5714.15 I think that going back
+to the earlier part
+5716.7 of our conversation,
+5718.21 the hippocampus has this
+incredible storage capacity
+5722.4 and ability to set context
+about past, present, and future.
+5725.97 And that's a beautiful thing
+because as much as I like
+5729.58 to think he had some
+semblance of a healthy life,
+5732.26 none of us want to HM,
+5733.84 none of us want to be in the
+position of not being able
+5736.01 to form new memories and have no context
+5738.04 to the past or the present.
+5740.25 So we're grateful that,
+we should all be grateful
+5742.67 that our hippocampus can draw
+from past, present, and future
+5746.21 in various combinations
+and we should support it
+5748.27 through the daily
+exercise and other habits,
+5752.13 let's call them habits, so
+that people make them habits
+5754.32 now that you've highlighted.
+5755.49 But if we are not deliberately
+anchoring within past,
+5759.51 present, and future
+according to what we need,
+5763.34 and we're just shuffling between
+past, present, and future,
+5766.4 that is not a good way to live.
+5768.6 - No.
+- It's not effective.
+5770.12 - No.
+- It sounds like meditation
+5771.57 can really help us go to the right stacks.
+5775.04 I guess people don't go
+to libraries anymore,
+5777.52 but in the old days you would
+go to the right location
+5780.06 in the library, you actually
+can't get distracted
+5781.87 by the books that you're interested in,
+5783.47 if you need to go just reflexively,
+5785.49 if you need to go study
+a particular topic.
+5787.37 So that's kind of how I think about it.
+5789.33 It makes us more linear
+perhaps in our way of being.
+5793.11 - I think so, and it actually counteracts,
+5796.83 not that I'm against technology,
+5798.63 but having our phones and being connected
+5801.97 to every good and bad thing
+going on in the world today
+5807.86 is incredibly distracting
+and takes you away
+5811.08 from the present moment
+virtually 24 hours a day.
+5814.85 And so we have to work extra
+hard right now compared to
+5818.64 in the '40s when we didn't
+have all this technology
+5821.15 or at the same level.
+5822.5 So yeah, it becomes even
+more important practice,
+5826.28 I think, for everyday life.
+5827.99 - Yeah, or even 10, 15 years ago
+5831.31 it felt like smartphones
+weren't as intrusive.
+5834.69 One final question and maybe a request.
+5839.55 As the new incoming dean of
+College of Letters and Sciences,
+5843.05 and I must say I'm delighted,
+thrilled actually to hear
+5846.64 that a lot of the practices
+that we've been discussing today
+5849.72 and that you've pioneered
+are going to be incorporated
+5851.96 into undergraduate education.
+5853.77 I predict, and I'd be willing
+to wager that that will become
+5856.7 a template for how universities
+and non-university systems
+5860.95 should function because if
+indeed the, and it is true,
+5864.84 that there's this incredible relationship
+5867.36 between physical movement and
+mental deliberate practices
+5871.14 and performance, any
+corporation, school, household
+5875.44 would be crazy, would be self-limiting,
+5879.22 and even self-destructive
+to not incorporate those.
+5881.7 So I'm so happy that you're going
+to do this and collect data.
+5885.27 Please, we'll have to touch back with you
+5887.0 and hear what comes to that.
+5889.57 But one of the main things
+that I hear so much about today
+5893.11 are issues with attention.
+5895.34 And we haven't talked about attention,
+5896.4 we've mainly been talking
+about memory and cognition.
+5898.87 But you know a lot about attention,
+5903.324 and here I'm not being disparaging,
+5904.28 I think people have done
+what I'm about to say
+5906.6 as a consequence of need
+and lack of other resources.
+5910.81 There's an immense amount of
+Adderall use, Ritalin use,
+5913.87 Modafinil use, and caffeine abuse.
+5916.39 Now, I happen to like caffeine,
+5917.91 I don't use the other
+compounds I described,
+5920.69 but it's just incredible to
+me how the data on this are,
+5924.89 a colleague of mine at
+Stanford claims that
+5926.63 something like two-thirds
+or more of college students
+5929.51 use these without prescription for ADHD.
+5934.72 What can we expect in terms of the effects
+5938.52 of regular exercise on attention?
+5940.57 And are there any other
+things besides exercise
+5943.03 and meditation that you
+would like to see people do
+5945.34 in terms of trying to increase
+their powers of attention?
+5948.01 Because I think the
+ability to focus and attend
+5951.47 is really the distinguishing feature
+5953.67 between those that will
+succeed in any endeavor
+5956.45 and those that won't.
+5958.03 And that's a scary thing
+for a lot of people to hear
+5960.05 because a lot of people
+think they have ADHD.
+5962.29 They may, they may not.
+5963.71 But I bet that a number of
+students at both Stanford and NYU
+5968.32 feel challenged with
+holding their attention
+5971.22 to the thing that they need
+to hold their attention to.
+5973.909 - Yeah, so I would say the
+top three tools that everybody
+5979.31 right this minute today can
+use to up their capacity
+5984.05 to attend where they
+want to include exercise
+5988.07 for the reasons we've talked about.
+5989.36 It has a direct effect on functioning
+5991.16 of the prefrontal cortex.
+5992.17 Meditation also, clear
+clinical studies showing
+5995.48 improved ability to focus
+5998.48 and particularly focus
+on the present moment.
+6001.6 And the third has to be sleep.
+6003.76 So sleep is, you can't,
+it's out of the three,
+6008.75 it is the most physiological.
+6011.0 I mean, I could live my whole life
+6013.54 without meditating one minute.
+6015.66 Could I survive without sleep?
+6017.7 No, none of us could.
+6019.27 So, it's more basic physiological,
+6022.34 but it is so important for
+all core cognitive functions,
+6030.22 including attention, including creativity,
+6032.78 including just good basic brain function.
+6041.65 That is why it's so critical
+to get that information,
+6047.43 that basic neuroscience
+information into the heads
+6050.71 of these students that are
+trying their best to show us
+6053.92 how their brains work, but being hampered
+6057.63 because they're not moving
+enough, they're not meditating.
+6062.26 And there's all these distracting things
+6064.65 that they include in their lives.
+6066.72 Some of which a little bit is good,
+6069.26 but you know, 24 hours a day on your phone
+6072.37 and linked in, not LinkedIn,
+but linked to your phone
+6078.02 is damaging to your attention.
+6080.8 So exercise, meditation,
+sleep can help you learn,
+6087.15 retain, and perform better
+than if you do not have
+6091.81 these three things in your life.
+6093.98 - Wonderful, music to my ears.
+6096.1 And also either very
+low cost or zero cost,
+6100.5 considering that the exercise
+doesn't require a class,
+6103.83 one could use the freely
+available resource of gravity
+6109.491 to do jumping jacks, or burpees,
+or pushups, or whatever,
+6112.88 or sit ups, or all those in combination.
+6114.405 - And don't forget YouTube,
+6115.238 the freely accessible
+millions of YouTube videos.
+6119.34 If you don't want to do your
+jumping jacks by yourself,
+6122.41 I always say this, I talk
+about breath meditation
+6126.74 for my book, "Good Anxiety,"
+6128.22 and if you don't like
+the one that I suggest
+6131.17 there's only about a
+million more on YouTube
+6133.17 with ratings from one star to five stars,
+6136.08 so use that resource.
+6138.35 - It is a wonderful resource
+6140.18 and you are an amazing resource.
+6143.08 Wendy, thank you so much
+for coming here today
+6146.05 to have this discussion
+and share your knowledge
+6148.92 about not just existing data,
+but new data coming out soon,
+6153.47 and for your leadership
+in the university system,
+6157.54 for your leadership in public education,
+6159.37 for the decades of
+important work on memory
+6162.31 and neural circuitry, which we got
+6164.66 to learn about today, as well.
+6166.79 Thank you ever so much.
+6168.32 - Thank you, Andrew, fun conversation.
+6171.15 - Thank you for joining
+me today for my discussion
+6172.91 about learning and memory
+and how to get better
+6175.15 at learning and remembering
+with Dr. Wendy Suzuki.
+6177.95 If you'd like to learn more
+about Dr. Suzuki's work,
+6180.26 you can go to WendySuzuki.com.
+6182.99 There you will also find titles and links
+6184.87 to her popular books, as well
+as her social media handles.
+6188.1 We've also placed those
+in the show note captions.
+6190.92 If you're learning from
+and/or enjoying this podcast,
+6193.37 please subscribe to us on YouTube.
+6195.02 That's a terrific zero-cost
+way to support us.
+6197.62 In addition, please subscribe
+to the podcast on Spotify
+6200.62 and/or Apple, and on
+both Spotify and Apple,
+6203.9 you can leave us up to a five-star review.
+6206.35 If you have suggestions
+about guests or topics
+6208.67 that you'd like us to cover
+on the Huberman Lab Podcast,
+6211.06 or you'd like to give
+us feedback of any kind,
+6213.1 please leave that in the
+comment section on YouTube,
+6215.93 that's the best place to give us feedback.
+6218.0 Please also check out
+the sponsors mentioned
+6219.67 at the beginning of today's episode,
+6221.27 that's the best way to
+support this podcast.
+6223.75 We also have a Patreon, it's
+patreon.com/andrewhuberman.
+6227.67 And there you can support the podcast
+6229.55 at any level that you like.
+6231.12 On many episodes of the
+Huberman Lab Podcast,
+6233.06 we discuss supplements, while
+supplements are certainly
+6235.64 not necessary for everybody,
+many people derive
+6238.21 tremendous benefit from them
+for things like accelerating
+6241.42 the transition into sleep, and
+getting better, deeper sleep,
+6244.64 as well as enhancing focus and learning,
+6247.01 and other aspects of human
+performance and health.
+6250.14 We're excited to announce
+that we've partnered
+6251.86 with Momentous supplements.
+6253.76 The reason we partnered with
+Momentous is several-fold.
+6256.56 First of all, we wanted
+to have one location
+6259.05 where Huberman Lab Podcast
+listeners could go in order
+6261.39 to find all the supplements
+that we talk about
+6264.28 and to find those in a
+form where they could
+6266.78 systematically try one or the other.
+6268.95 This is a real issue in
+the supplement industry.
+6270.64 A lot of supplement
+brands out there combine
+6272.51 different ingredients in ways
+that don't really allow you
+6275.05 to pinpoint exactly what you
+need and what you don't need.
+6278.13 So getting supplements
+that have low doses,
+6282.0 or just the minimal effective dose
+6283.81 of particular ingredients, and
+being able to mix and match
+6286.6 those ingredients yourself,
+and really establish
+6288.87 what's best for you is really key.
+6291.27 In addition, we came to realize
+that a lot of our listeners
+6293.55 want supplements, but they reside
+6295.04 outside of the United States.
+6296.78 So we're pleased to tell
+you that Momentous ships
+6298.64 both within the US and internationally.
+6301.12 And of course, Momentous supplements
+6302.98 are of the very highest
+quality ingredients
+6305.32 and the precision of the
+amounts of those ingredients
+6307.87 is tightly regulated.
+6309.4 If you're interested in
+Momentous supplements,
+6311.41 the catalog of supplements related
+6313.11 to the Huberman Lab Podcast
+are growing all the time.
+6316.49 A good number of them are already there.
+6318.13 You can go to livemomentous.com/huberman
+6320.89 in order to find them.
+6322.17 And there will be
+additional supplements added
+6324.47 to that site as we go forward.
+6326.39 If you're not already
+following Huberman Lab
+6328.3 on Twitter and Instagram,
+I post neuroscience
+6331.5 and other science-related information
+6333.57 and tools on a regular basis.
+6335.75 Some of that information
+overlaps with the content
+6337.86 of the Huberman Lab Podcast,
+but a lot of it is distinct
+6340.37 from the information contained
+on the Huberman Lab Podcast.
+6343.09 So again, that's Huberman Lab on Instagram
+6345.36 and Huberman Lab on Twitter.
+6347.33 We also have a Neural Network Newsletter.
+6350.14 What that is is a monthly
+newsletter in which I distill
+6353.6 critical points from
+different podcast episodes,
+6356.13 provide links to useful resources.
+6357.95 If you want to sign up
+for that newsletter,
+6359.36 I should mention it is zero cost,
+6361.01 and we do not share
+your email with anybody,
+6362.91 and we have a very clear privacy policy
+6365.47 posted at hubermanlab.com,
+just go to hubermanlab.com,
+6369.42 click on the menu, you'll see
+the Neural Network Newsletter.
+6371.9 You can also look at
+examples of newsletters
+6373.83 without having to sign up to make sure
+6375.21 that you actually do want to sign up.
+6377.39 But if you are interested,
+the signup is there,
+6380.08 very easy and you can receive
+our monthly newsletter.
+6382.93 So once again, thank you for
+joining me today for our voyage
+6386.31 into the neuroscience of
+learning and memory and tools
+6389.05 to get better at learning and memory.
+6391.06 And as always, thank you for
+your interest in science.
+6394.357 [upbeat rock music]

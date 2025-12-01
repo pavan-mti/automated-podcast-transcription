@@ -1,0 +1,3666 @@
+0.3 - Welcome to the Huberman Lab Podcast,
+2.25 where we discuss science
+3.69 and science-based tools for everyday life.
+9.27 I'm Andrew Huberman,
+10.38 and I'm a professor of
+neurobiology and ophthalmology
+13.23 at Stanford School of Medicine.
+15.0 Today, my guest is Dr. David Anderson,
+17.43 Dr. Anderson is a professor of biology
+19.38 at the California Institute of Technology,
+21.96 often commonly referred
+to as Caltech University.
+25.44 Dr. Anderson's research
+focuses on emotions
+28.05 and states of mind and body,
+30.0 and indeed he emphasizes how emotions,
+31.83 like happiness, sadness, anger and so on,
+34.56 are actually subcategories
+36.27 of what are generally governed by states,
+39.33 that is, things that are occurring
+41.25 in the nervous system in our brain
+43.02 and in the connections
+between brain and body
+45.75 that dictate whether or not
+46.71 we feel good about how we are feeling,
+48.78 and that drive our behaviors,
+50.64 that is, bias us to be
+in action or inaction
+54.54 and strongly influence
+the way we interpret
+56.82 our experience and our surroundings.
+58.68 Today, Dr. Anderson
+teaches us, for instance,
+61.14 why people become aggressive
+62.67 and why that aggression can
+sometimes take the form of rage.
+66.9 We also talk about sexual behavior,
+68.88 and the boundaries and overlap
+71.25 between aggression and sexual behavior.
+73.62 And that discussion about
+aggression and sexual behavior
+76.59 also starts to focus on particular aspects
+79.11 of neural circuits and
+states of mind and body
+81.36 that govern things like, for instance,
+83.67 male-male aggression,
+84.78 versus male-female aggression,
+86.4 versus female-female aggression.
+88.77 So today, you will learn a lot
+90.06 about the biological mechanisms
+91.47 that govern why we feel the way we feel.
+93.9 Indeed, Dr. Anderson is an author
+95.82 of a terrific new popular book,
+97.86 entitled "The Nature of the
+Beast: How Emotions Guide Us".
+101.01 I've read this book several times now,
+103.093 I can tell you it contains so many gems
+105.03 that are firmly grounded
+in the scientific research.
+107.52 In fact, a lot of what's in the book
+109.5 contrasts with many of the common myths
+111.69 about emotions and biology.
+113.91 So whether or not you're a therapist,
+115.41 or you're a biologist,
+116.52 or you're simply just somebody interested
+118.5 in why we feel the way we feel
+120.21 and why we act the way we act,
+122.1 I cannot recommend the book highly enough.
+123.9 Again, the title is
+124.733 "The Nature of the Beast:
+How Emotions Guide Us".
+127.2 Today's discussion also
+ventures into topics
+129.48 such as mental health and mental illness,
+132.12 and some of the exciting discoveries
+133.95 that have been made by
+Dr. Anderson's laboratory
+135.72 and other laboratories
+identifying specific peptides,
+138.6 that is, small proteins
+140.43 that can govern whether or not people
+141.96 feel anxious or less anxious,
+143.67 aggressive or less aggressive.
+145.35 This is an important area of research
+147.12 that has direct implications
+148.47 for much of what we
+read about in the news,
+150.57 both unfortunate and fortunate events,
+153.06 and that will no doubt drive the future
+155.58 of mental health treatments.
+157.05 Dr. Anderson is considered
+one of the most pioneering
+160.62 and important researchers
+in neurobiology of our time.
+163.83 Indeed, he is a member of the
+National Academy of Sciences
+165.96 and a Howard Hughes Medical
+Institute investigator.
+169.11 I've mentioned the HHMI
+once or twice before
+171.42 when we've had other HHMI
+guests on this podcast,
+174.45 but for those of you
+that are not familiar,
+175.86 the Howard Hughes Medical Institute
+177.21 funds a small number of investigators
+179.37 doing particularly
+high-risk, high-benefit work,
+182.79 and it is an extremely competitive process
+185.58 to identify those Howard
+Hughes investigators.
+188.79 They are essentially appointed,
+189.72 and then every five years,
+191.55 they have to compete against one another
+193.74 and against a new incoming flock
+196.08 of would-be HHMI investigators
+198.69 to get another five years of funding.
+199.92 They are literally given
+a grade every five years
+202.11 as to whether or not they
+can continue, not continue,
+204.57 or whether or not they should worry
+206.01 about being funded for an
+extended period of time.
+208.53 Dr. Anderson has been an investigator
+210.3 with the Howard Hughes
+Medical Institute since 1989.
+213.87 I'm pleased to announce that
+the Huberman Lab Podcast
+215.73 is now partnered with
+Momentous supplements.
+218.07 We partnered with Momentous
+for several important reasons.
+220.29 First of all, they ship internationally,
+222.0 because we know that
+many of you are located
+223.92 outside of the United States.
+225.39 Second of all, and perhaps most important,
+227.4 the quality of their
+supplements is second to none,
+229.98 both in terms of purity
+231.03 and precision of the
+amounts of the ingredients.
+233.58 Third, we've really emphasized supplements
+236.22 that are single-ingredient supplements,
+238.29 and that are supplied in dosages
+240.48 that allow you to build a
+supplementation protocol
+243.45 that's optimized for cost,
+245.28 that's optimized for effectiveness,
+247.14 and that you can add things
+248.64 and remove things from your protocol
+250.29 in a way that's really
+systematic and scientific.
+252.39 If you'd like to see the supplements
+253.59 that we partner with Momentous on,
+254.91 you can go to livemomentous.com/huberman.
+258.0 There, you'll see those supplements,
+259.14 and just keep in mind that
+we are constantly expanding
+261.63 the library of supplements
+available through Momentous
+264.3 on a regular basis.
+265.26 Again, that's livemomentous.com/huberman.
+267.84 Before we begin, I'd like to emphasize
+269.55 that this podcast is
+separate from my teaching
+271.41 and research roles at Stanford.
+273.0 It is, however, part
+of my desire and effort
+275.19 to bring zero cost to consumer
+information about science
+277.71 and science-related tools
+to the general public.
+280.23 In keeping with that theme,
+281.34 I'd like to thank the
+sponsors of today's podcast.
+284.13 Our first sponsor is Levels,
+285.93 Levels is a program that lets you see
+287.4 how different foods affect your health
+289.02 by giving you real-time
+feedback on your diet
+291.03 using a continuous glucose monitor.
+293.46 One of the most important factors
+294.75 governing our immediate
+and long-term health
+296.46 and indeed our ability to
+think and focus clearly
+299.61 is our blood glucose levels,
+301.17 also referred to as blood sugar.
+303.03 To maintain healthy energy
+and focus throughout the day,
+305.16 you want to keep your
+blood glucose levels steady
+307.11 and avoid peaks and crashes.
+309.48 I first started using
+Levels about a year ago
+311.76 as a way to better understand
+how specific foods,
+314.04 food combinations,
+exercise and supplements
+316.71 impact my blood glucose levels,
+318.45 and it's been tremendously informative.
+320.19 In fact, it's changed and shaped
+321.69 the way that I organize my entire day.
+323.88 Levels even provides a simple score
+325.41 after you eat a meal
+326.61 so you can see how
+different foods affect you
+328.11 and develop a personalized
+nutrition program
+330.12 that's ideal for you.
+331.71 So if you're interested in
+learning more about Levels
+333.54 and trying a continuous
+glucose monitor yourself,
+335.49 you can go to levels.link/huberman,
+338.07 that's levels.link/huberman.
+341.4 Today's episode is also
+brought to us by Helix Sleep.
+344.04 Helix Sleep makes mattresses and pillows
+346.08 that are of the absolute highest quality.
+347.97 They also have some
+really unique features,
+350.01 because they are customized
+to your unique sleep needs.
+353.49 I've talked over and over
+again on this podcast
+355.38 and on other podcasts
+356.67 about the fact that sleep
+357.69 is the foundation of mental health,
+359.7 physical health and performance,
+361.26 there's just simply no other substitute
+363.09 for a quality night's
+sleep on a regular basis.
+365.61 I've been sleeping on a Helix mattress
+366.99 for well over a year now
+368.04 and it's the best sleep
+that I've ever had,
+369.96 and that's in large part
+371.34 because the mattress was designed for me.
+374.07 What you need to know, however,
+375.06 is what's the ideal mattress for you,
+376.62 and you can do that by
+going to Helix's site,
+378.99 you can take their brief quiz,
+380.28 which will ask you, "Do
+you sleep on your side,
+382.2 your back, your stomach?
+383.033 Or maybe you don't know,
+or maybe all three.
+384.6 Do you tend to run hot
+or cold in the night?
+386.13 Maybe you know, maybe you don't."
+388.08 At the end of that short quiz,
+389.1 they will match you to the
+ideal mattress for you.
+390.78 I matched to the Dusk,
+the D-U-S-K mattress,
+393.12 but again, that's what I need,
+394.62 that's not necessarily what you need
+395.82 in order to get your best night's sleep.
+397.68 But if you're interested
+in upgrading your mattress,
+399.24 go to helixsleep.com/huberman,
+401.46 take their two-minute sleep quiz
+402.72 and they'll match you to a
+customized mattress for you
+404.55 and you'll get up to $200
+off any mattress order
+407.82 and two free pillows,
+408.99 they have terrific pillows.
+409.92 And you get to try out that mattress
+411.03 for 100 nights risk free.
+412.23 They'll even pick it up for
+you if you don't love it,
+414.18 but I'm certain you will.
+415.41 Again, if you're interested in it,
+416.243 you go to helixsleep.com/huberman
+418.68 for up to $200 off your mattress order
+420.84 and two free pillows.
+422.16 Today's episode is also
+brought to us by LMNT.
+424.761 LMNT is an electrolyte drink
+426.27 that has everything you need
+427.35 and nothing you don't, meaning no sugar,
+429.99 but it has sodium, magnesium and potassium
+432.6 in the proper ratios.
+433.74 Sodium, magnesium and potassium
+435.03 are critical for the
+functioning of all your cells,
+437.58 but of your neurons, your
+nerve cells in particular.
+440.28 Many people out there, believe it or not,
+442.17 need to ingest more
+sodium and more potassium,
+445.05 and magnesium in the proper ratios
+447.24 to sodium and potassium.
+449.07 For those of you that are
+prehypertensive or hypertensive,
+451.23 you definitely don't want to
+crank up your sodium intake,
+453.09 but many people out there,
+453.99 especially people following low-carb diets
+456.39 or eating exceptionally clean
+458.49 very well may need more sodium.
+460.92 And by drinking LMNT mixed with water,
+462.81 which is what I do once or twice a day,
+464.34 and certainly also during
+workouts and after workouts,
+467.4 you can optimize mental functioning
+and physical performance
+470.64 by increasing your electrolyte
+balance in the proper ratios.
+474.69 If you'd like to try LMNT,
+475.68 you can go to drinklmnt,
+that's L-M-N-T, .com/huberman,
+479.91 and you'll get a free
+sample pack with your order.
+481.92 Again, that's drinklmnt.com/huberman
+485.31 to get a free sample pack with your order.
+487.38 And now for my discussion
+with Dr. David Anderson.
+490.77 David, great to be here
+491.85 and great to finally sit
+down and chat with you.
+494.13 - Great to be here too, thank you so much.
+496.02 - Yeah, I have a ton of questions,
+497.43 but I want to start with
+something fairly basic,
+500.28 but that I'm aware is a
+pretty vast landscape,
+503.64 and that's the difference
+between emotions and states,
+507.66 if indeed there is a difference,
+508.95 and how we should think about emotions.
+511.89 What are they?
+513.54 They have all these names,
+514.5 happiness, sadness,
+depression, anger, rage,
+518.76 how should we think about them
+519.96 and why might states be
+522.75 at least as useful a thing to think about,
+525.45 if not more useful?
+526.95 - That's great.
+528.39 First, the short answer to your question
+530.4 is that I see emotions as
+a type of internal state,
+535.4 in the sense that arousal's
+also a type of internal state,
+538.87 motivation's a type of internal state,
+541.29 sleep is a type of internal state.
+544.23 And the sort of simplest way
+546.72 I think of internal states is that,
+549.21 as you've shown in your own work,
+550.5 they change the input-to-output
+transformation of the brain.
+555.36 When you're asleep, you
+don't hear something
+558.24 that you would hear if you were awake,
+560.13 unless it's a really, really loud noise.
+562.26 So from that broad perspective,
+565.05 I see emotion as a class of state
+568.35 that controls behavior.
+570.21 The reason I think it's useful
+to think about it as a state
+573.81 is it puts the focus on it
+as a neurobiological process
+579.3 rather than as a psychological process.
+582.6 And this gets around all of
+the definitional problems
+586.47 that people have with the word emotion,
+589.56 where many people equate
+emotion with feeling,
+593.43 which is a subjective sense
+595.62 that we can only study in humans,
+599.04 because to find out
+what someone's feeling,
+601.74 you have to ask them,
+602.79 and people are the only
+animals that can talk,
+605.61 that we can understand.
+607.23 So that's how I think about emotion,
+612.19 if you think of an iceberg,
+613.38 it's the part of the iceberg
+615.54 that's below the surface of the water,
+618.06 the feeling part is the tip
+620.22 that's sort of floating above
+621.63 the surface of your consciousness.
+623.7 Not that that isn't important, it is,
+625.77 but you have to understand consciousness
+628.26 if you want to understand feelings,
+630.36 and we're not ready to
+study that in animals yet,
+633.81 and so that's how I think about it.
+636.42 - What are the different
+components of a state?
+640.14 You mentioned arousal as a key component,
+643.59 what are some of the
+other features of states
+645.81 that represent this, as you so
+beautifully put in your book,
+650.25 that represent below the tip
+651.78 of the iceberg?
+- Right, right.
+653.22 So you can break states
+up into different facets,
+661.83 or people would call them dimensions,
+663.84 and so there have been people
+666.03 who have thought of emotions
+668.25 as having just really two dimensions,
+671.33 an arousal dimension, how intense is it?
+676.68 And also a valence dimension,
+680.28 which is, is it positive
+or negative, good or bad?
+684.12 Ralph Adolphs and I have tried
+685.92 to expand that a little bit
+688.35 to think about components of emotion,
+691.05 particularly those that
+distinguish emotion states
+694.11 from motivational states,
+696.12 because they are very closely related.
+699.63 One of those important
+properties is persistence,
+704.04 and this is something that distinguishes
+706.53 state-driven behaviors
+from simple reflexes.
+710.34 Reflexes tend to terminate
+when the stimulus turns off,
+715.77 like the doctor hitting
+your knee with a hammer,
+718.47 it initiates with the stimulus onset
+720.9 and it terminates with
+the stimulus offset,
+723.66 emotions tend to outlast, often,
+726.18 the stimulus that evoke them.
+728.34 If you're walking along a trail
+here in Southern California,
+732.51 you hear a rattlesnake rattling,
+735.15 you're going to jump in the air,
+736.92 but your heart is going
+to continue to beat
+739.26 and your palms sweat and
+your mouth is going to be dry
+742.53 for a while after it's
+slithered off in the bush,
+745.44 and you're going to be hypervigilant,
+747.21 if you see something
+748.41 that even remotely looks
+snake-like, a stick,
+751.62 you're going to stop and jump.
+753.51 So persistence is an important
+feature of emotion states,
+759.51 not all states have persistence.
+762.45 So for example, you think about hunger.
+765.39 Once you've eaten, the state is gone,
+768.45 you're not hungry anymore,
+770.07 but if you are really angry
+772.35 and you get into a fight with somebody,
+774.33 even after the fight is over,
+776.07 you may remain riled up for a long time
+779.787 and it takes you a while to calm down,
+782.28 and that may have to do
+with the arousal dimension
+785.31 or some other part of it.
+787.5 And then generalization
+790.32 is an important component of
+emotion states that make them,
+797.04 if they have been
+triggered in one situation,
+801.33 they can apply to another situation.
+804.36 And my favorite example of that is,
+806.49 you come home from work
+and your kid is screaming,
+809.97 if you had a good day at work,
+811.56 you might pick it up and sooth it,
+813.687 and if you had a bad day at work,
+815.91 you might react very differently
+to it and scream at it.
+819.27 And so that's a generalization
+821.43 of the state that was triggered at work,
+824.13 by something your boss said to you,
+826.05 to a completely different interaction.
+828.87 And again, that's something
+that distinguishes
+831.45 emotion states from motivation states,
+834.42 motivation states are really specific,
+837.21 find and eat food,
+839.31 obtain and consume water,
+842.01 and they're involved in
+homeostatic maintenance.
+846.93 So states are very multifaceted,
+851.88 and just asking questions
+855.93 about how these components
+of states are encoded,
+859.68 like what makes a state persist?
+862.62 What gives a state a positive
+or a negative valance?
+866.31 How do you crank up or crank down
+868.56 the intensity of the state?
+870.24 It just opens up a
+whole bunch of questions
+872.85 that you can ask in the brain
+875.13 with the kinds of tools we have now.
+878.46 - You mentioned arousal a few times,
+880.11 and you mentioned valence,
+882.66 realizing that there are
+these other aspects of states,
+885.66 I'd like to just talk about
+886.89 arousal a little bit more, and valence,
+888.45 because at a very basic level,
+890.25 it seems to me that arousal,
+892.41 we can be very alert and pissed off,
+896.73 stressed, worried, we can have insomnia,
+901.14 we can also be very
+alert and be quite happy.
+903.48 So the valence flips, people
+can be sexually aroused,
+908.34 people can be aroused
+in all sorts of ways.
+911.19 Is there any simple or simple-ish
+neurochemical signature
+916.44 that can flip valence?
+917.97 So for instance, is there any
+way that we can safely say
+920.79 that arousal with some
+additional dopamine release
+925.68 is going to be of positive valence,
+928.2 and arousal with very low dopamine
+931.59 is going to be of negative valence?
+934.8 - I would be reluctant to say
+that it's a chemical flip,
+939.27 I would say it's more likely to be
+941.52 a circuit flip.
+- Mm-hmm.
+943.2 - Different circuits being engaged.
+944.787 And it might be that a given
+neurochemical, even dopamine,
+948.96 is involved in both
+positively valanced arousal
+952.65 and negatively valanced arousal,
+955.02 that's why people think about
+these as different axes.
+959.28 So I think the interesting
+question that you touch on is,
+964.56 is arousal something that
+is just completely generic
+967.95 in the brain,
+969.0 or are there actually
+different kinds of arousal
+972.96 that are specific to different behaviors?
+975.33 And you raise the question,
+976.41 sexual arousal feels different
+978.69 from aggressive arousal, for example,
+981.51 and we actually published a paper on this,
+984.48 back in 2009, in fruit flies,
+987.66 where we found some evidence
+989.91 for two types of arousal states.
+992.82 One of which is sleep-wake arousal,
+995.64 you're more aroused when you wake up
+997.38 than when you're asleep,
+998.61 and flies show that,
+999.9 and the other is a startle response,
+1003.68 an arousal response to
+a mechanical stimulus,
+1006.74 and not just mechanical stimulus.
+1008.78 If you puff air on flies,
+1010.73 kind of like trying to swat the wasp away
+1013.49 from your burger at a picnic table,
+1015.62 they come back more and
+more and more vigorously.
+1018.8 And we were able to dissect this
+1021.2 and show that although both
+of those forms of arousal
+1025.19 required dopamine, they were exerted
+1029.3 through completely separable
+neural circuits in the fly.
+1033.47 And so that really put, number one,
+1036.08 the emphasis on it's the circuit
+1038.21 that determines the type of arousal,
+1040.64 but also that arousal isn't unitary,
+1044.09 that there are behavior-specific
+forms of arousal.
+1047.39 And I think the jury is still out
+1049.79 as to whether there is such a thing
+1052.37 as completely generalized arousal or not.
+1055.727 And I think some people
+would argue there is,
+1058.43 but I think more attention needs
+to be paid to this question
+1062.06 of domain-specific or
+behavior-specific forms of arousal.
+1066.59 - Yeah, it's a super-interesting idea,
+1068.18 'cause I always thought of
+arousal as along a continuum,
+1070.22 like you can either be in a panic attack
+1072.02 at the one end of the extreme,
+1073.13 or you can be in a coma,
+1074.27 and then somewhere in the
+middle, you're alert and calm,
+1076.7 but then this issue of
+valence really, as you say,
+1080.57 presents this opportunity
+1081.65 that really there might be
+multiple circuits for arousal.
+1084.57 - Yeah.
+- Or multiple mechanisms
+1087.08 that would include
+neurochemicals, as well as
+1089.33 different neural pathways.
+- Yeah.
+1091.22 - So like to talk a bit about a state,
+1095.09 if it is indeed a state,
+which is aggression,
+1098.03 your labs worked extensively on this.
+1100.49 And if you would, could you highlight
+1102.89 some of the key findings there,
+1105.02 which brain areas that are involved?
+1107.54 The beautiful work of Dayu
+Lin and others in your lab
+1112.04 that point to the idea
+1113.6 that indeed there are kind
+of switches in the brain,
+1117.14 but that thinking of
+switches for aggression
+1120.26 might be too simple,
+1122.54 how should we think about aggression?
+1124.37 And I'll just sort of skew the question
+1127.19 a bit more by saying,
+1128.78 we see lots of different
+kinds of aggression,
+1131.66 this terrible school shooting
+down in Texas recently,
+1136.31 clearly an act that included aggression,
+1138.29 and yet, you could imagine
+1140.15 that's a very different type of aggression
+1141.35 than an all-out rage or
+a controlled aggression,
+1145.49 there's a lot of variation there.
+1146.66 So what are your thoughts on aggression,
+1149.03 how it's generated, the
+neural circuit mechanisms
+1150.98 and some of the variation
+in what we call aggression?
+1153.8 - Yeah, this is a great question,
+1155.3 and it's a large area.
+1157.67 I would say that, first of all,
+1161.3 the word aggression, in my mind,
+1164.75 refers more to a description of behavior
+1168.32 than it does to an internal state.
+1172.34 Aggression could reflect an internal state
+1175.28 that we would call anger in humans,
+1178.25 or could reflect fear,
+1180.56 or it could reflect hunger
+if it's predatory aggression.
+1185.057 And so this gets at the
+issue that you raised
+1187.67 of the different types
+of aggression that exist.
+1191.39 The work that Dayu did
+when she was in my lab
+1195.68 that really broke open the field
+1198.71 to the application of modern genetic tools
+1201.74 for studying circuits in mice
+1203.99 is that she found a way to
+evoke aggression in mice
+1209.9 using optogenetics to
+activate specific neurons
+1215.45 in a region of the hypothalamus,
+1218.33 the ventromedial hypothalamus, VMH,
+1221.3 which people had been studying
+1223.34 and looking at for decades,
+1227.42 following, first, the work of,
+1231.11 in cats, the famous
+Nobel Prize-winning work
+1234.74 of Walter Hess,
+1236.45 and then followed by work
+1238.37 done by Menno Kruk, in
+the Netherlands, in rats,
+1242.57 where they would stick
+electrical wires into the brain
+1246.92 and send electric currents into the brain,
+1249.59 and they could trigger a placid cat
+1252.8 to suddenly bare its teeth, hiss
+1256.04 and almost strike out at the experimenter,
+1259.37 and they could trigger rats
+to fight with each other.
+1263.45 And even in Hess's original experiments,
+1267.17 he describes two types of aggression
+1269.96 that he evokes from cats
+1271.91 depending on where in the hypothalamus
+1274.61 he puts his electrode,
+1276.83 one of which he calls defensive rage,
+1280.01 that's the ears laid back,
+teeth bared and hissing.
+1284.33 And the other one is predatory aggression,
+1287.54 where the cat has its ears forward,
+1290.63 and it's batting with its
+paw at a mouse-like object,
+1294.38 like it wants to catch it and eat it.
+1296.78 So he already had, at that stage,
+1299.3 some information about
+segregation in the brain
+1302.78 of different forms of aggression.
+1304.76 So fast forward to 2008, 2009,
+1312.98 when Dayu came to the lab
+1314.75 and we had started working
+on aggression in fruit flies,
+1318.14 and I wanted to bring it into mice
+1320.81 so that we could apply genetic tools.
+1323.21 And we started by having Dayu,
+1325.46 who was an electrophysiologist,
+1328.13 just repeat the electrical stimulation
+1331.76 of the ventromedial
+hypothalamus in the mouse,
+1335.21 just like people had done in rats,
+1337.76 in cats, in hamsters, even in monkeys.
+1340.58 And she could not get
+that experiment to work
+1343.52 over 40 different trials,
+1346.37 it just didn't work.
+1347.51 What she got instead was fear behaviors,
+1351.08 she got freezing, cornering and crouching.
+1355.76 And finally, in desperation,
+1359.09 and we got a lot of input
+from Menno Kruk on this,
+1361.76 he really was mystified,
+1362.997 "Why doesn't it work in mice?"
+1364.82 We realized why there had been no paper
+1367.67 on brain-stimulated aggression
+in mice in 50 years,
+1372.44 'cause the experiment doesn't work.
+1374.87 And the one bit of
+credit I can claim there
+1379.19 is I convinced Dayu to try optogenetics,
+1383.39 because it just had sort of
+come into use deep in the brain,
+1389.75 from Karl Deisseroth and others' work.
+1393.11 And I thought maybe because it could be
+1395.45 directed more specifically
+to a region of the brain
+1399.35 and types of cells than
+electrical stimulation,
+1404.66 it might work.
+1405.5 And Dayu said, "Never,
+never going to work.
+1407.84 If it doesn't work with electricity,
+1409.58 why should it work with optogenetics?"
+1412.67 And the fact is that it did work,
+1415.43 and we were able to trigger
+aggression in this region
+1420.14 using optogenetic stimulation
+of ventromedial hypothalamus.
+1424.01 And in retrospect, I think the reason
+1426.59 that we were seeing all
+these fear behaviors
+1430.28 is because right at the upper part,
+1433.73 if you think of ventromedial hypothalamus
+1436.7 like a pear sitting on the ground,
+1439.25 the fat part of the pear near the ground
+1441.95 is where the aggression neurons are,
+1443.84 but the upper part of the
+pear has fear neurons.
+1447.47 And it could be because
+it's so small in a mouse,
+1451.1 when you inject electrical
+current anywhere in the pear,
+1455.12 it flows up through the entire pear
+1457.61 and it activates the fear circuits,
+1459.74 and those totally dominate aggression.
+1462.77 And so that's why we
+were never able to see
+1465.5 any fighting with electrical stimulation,
+1468.02 whereas when you use optogenetics,
+1469.7 you confine the stimulation
+just to the region
+1474.08 where you've implanted
+the channelrhodopsin gene
+1478.46 into those neurons.
+1481.13 And so fast forward from that,
+1483.56 from a lot of work from
+Dayu now on her own at NYU,
+1487.79 and with her postdoc, Annegret Falkner,
+1491.84 as well as work of other people,
+1493.55 there's evidence that the type of fighting
+1498.32 that we elicit when we stimulate VMH
+1501.77 is offensive aggression
+1504.41 that is actually rewarding to male mice.
+1507.8 - They like it.
+- They like it,
+1509.3 male mice will learn to poke their nose
+1513.2 or press a bar to get the opportunity
+1516.35 to beat up a subordinate male mouse.
+1519.98 And in more recent experiments,
+1522.23 if you activate those neurons
+1524.6 and the mouse has a chance to be
+1526.46 in one of two compartments in a box,
+1529.07 they will gravitate
+towards the compartment
+1531.23 where those neurons are activated,
+1533.42 it has a positive valance.
+1535.94 And when I went into this field
+1537.74 and I was thinking, "Well,
+what goes on in my brain
+1541.22 and my body when I'm furious?"
+1543.53 it certainly doesn't feel
+like a rewarding experience,
+1547.46 it's not something that
+I would want to repeat
+1550.13 because it feels good
+when I'm in that state,
+1552.62 it doesn't feel good at
+all when I'm in that state.
+1555.56 And it is still, I think, a mystery
+1559.25 as to where that type of aggression,
+1561.26 which is more defensive aggression,
+1563.81 the kind of aggression you
+feel if you're being attacked
+1567.05 or if you've been cheated by somebody,
+1569.99 where that is encoded in the
+brain and how that works,
+1574.13 still, I think, is a
+very important mystery
+1577.43 that we haven't solved.
+1578.93 And predatory aggression there
+has been some progress on,
+1582.23 so mice show predatory aggression,
+1584.51 they use that to catch
+crickets that they eat,
+1587.21 and that involves different circuits
+1589.73 than the ventromedial
+hypothalamic circuits.
+1592.73 So it's become clear that,
+if you want to call it
+1596.66 the state of aggressiveness,
+is multifaceted,
+1601.82 it depends on the type of aggression
+1604.55 and it involves different
+sorts of circuits.
+1608.72 There's a paper suggesting
+1610.34 that there might be a final common pathway
+1614.72 for all aggression in a region,
+1617.72 which is one of my favorites,
+1619.19 it's called the substantia innominata,
+1621.77 the substance with no name, I like.
+1624.47 - Anatomists are so creative.
+- Yes.
+1626.525 [Andrew laughing]
+Or the nucleus ambiguous,
+1628.7 or the zona incerta, these are places
+1631.31 that no one can think of what they are.
+1633.11 Anyhow, that might be
+a final common pathway
+1636.08 for predatory aggression,
+1637.88 and offensive and defensive aggression,
+1640.4 but it can be really hard to tell
+1642.59 just from looking at a mouse fight
+1645.47 whether it's engaged in offensive
+or defensive aggression.
+1649.64 We've tried to take that apart
+1651.47 using machine learning
+analysis of behavior,
+1654.59 but in rats, for example,
+1656.3 it's much clearer when the animal
+1658.7 is engaged in offensive
+versus defensive aggression.
+1661.82 They direct their bites
+1663.53 at different parts of the opponent's body.
+1666.02 - [Andrew] In particular.
+1667.43 - Offensive aggression is flank directed,
+1671.21 defensive aggression goes for the neck,
+1673.82 goes for the throat.
+- Mm,
+1675.17 I've seen some nature specials
+1676.46 where in a very barbaric way,
+1679.129 [laughing] at least to me, it seems,
+1680.84 like hyenas will try and go
+after the reproductive axis,
+1685.16 they'll go after testicles and penis
+1687.38 and they basically want to,
+it seems they want to limit
+1690.95 future breeding potential.
+- Yes, or create pain.
+1693.697 [David laughing]
+- Right, or create pain,
+1694.85 or both.
+- Yeah.
+1695.72 - Yeah, I mean, in terms
+of offensive aggression
+1698.81 and your reflection that
+it doesn't feel good,
+1703.344 I mean, I can say, I know some people
+1705.41 who really enjoy fighting.
+1707.15 - [David] Hmm.
+1708.08 - I have a relative who's a lawyer,
+1709.49 he loves to argue and fight.
+1711.32 - [David] Huh.
+1712.16 - I don't think of him
+as physically aggressive,
+1714.71 in fact, he's not,
+1715.58 but loves to fight and loves to prosecute
+1718.58 and go after people.
+- Hmm.
+1719.84 - And he's pretty effective at it.
+1721.38 - Right.
+- I have a friend,
+1722.27 former military special operations,
+1724.49 and very calm guy, had a great career
+1728.48 in military special operations,
+1729.8 and he'll quite plainly
+say, "I love to fight."
+1732.71 - Mm-hmm.
+- "It's one my great joys."
+1734.39 He really enjoyed his work.
+1735.71 - [David] Yep.
+1736.97 - And also respected the other side
+1738.86 because they offered the
+opportunity to test that
+1741.83 and to experience that joy.
+1743.06 So in a kind of bizarre
+way to somebody like me,
+1744.98 who I'll certainly defend
+my stance if I need to.
+1748.32 - Yeah.
+- But I certainly
+1750.02 don't consider myself somebody
+1751.1 who offensively goes after
+people just to go after them,
+1753.8 there's no, quote-unquote,
+dopamine hit here.
+1757.19 - Right.
+- Acknowledging that dopamine
+1758.21 does many things, of course.
+1759.41 - Yeah.
+- I have couple of questions
+1761.3 about the way you describe the circuitry,
+1764.0 I should say, the way the
+circuitry is arranged.
+1765.8 - [David] Mm-hmm.
+1766.88 - And of course, we don't know,
+1768.02 because we weren't consulted
+at the design phase.
+1771.436 [David laughing]
+But why do you think
+1773.93 there would be such a close
+positioning of neurons
+1776.87 that can elicit such divergent
+states and behaviors?
+1781.25 I mean, you're talking about
+this pear-shaped structure,
+1783.53 where the neurons that generate fear
+1786.05 are cheek to jowl with the neurons
+1788.3 that generate offensive
+aggression of all things.
+1791.63 It's like putting the neurons
+that control swallowing
+1795.89 next to the neurons that control vomiting,
+1798.23 [laughing] it just seems to me that,
+1800.21 on the one hand, this is the way
+1801.44 that neural circuits are often arranged,
+1803.03 and yet, to me, it's
+always been perplexing
+1804.59 as to why this would be the case.
+1806.27 - Yeah, I think that is
+a very profound question,
+1810.17 and I've wondered about that a lot.
+1815.21 If you think from an
+evolutionary perspective,
+1820.28 it might have been the case
+1822.44 that defensive behaviors and fear
+1826.34 arose before offensive aggression,
+1831.53 because animals, first and foremost,
+1833.81 have to defend themselves from
+predation by other animals.
+1838.16 And maybe it's only
+when they're comfortable
+1841.25 with having warded off predation
+1843.59 and made themselves safe,
+1845.27 that they can start to think about,
+1847.797 "Who's going to be the alpha
+male in my group here?"
+1851.84 And so it could be that if
+you think that brain regions
+1856.37 and cell populations evolve by duplication
+1860.21 and modification of
+preexisting cell populations,
+1865.4 that might be the way that those regions
+1868.67 wound up next to each other.
+1871.58 And developmentally, they start out
+1874.31 from a common pool of precursors
+1876.74 that expresses the same gene,
+1878.54 the fear neurons and
+the aggression neurons,
+1881.27 and then with development,
+1882.56 it gets shut off in the aggression neurons
+1884.99 and maintained in the fear neurons.
+1887.63 Now, that view says, "Oh, it's an accident
+1890.99 of evolution and development,"
+1892.64 but I think there must be
+a functional part as well.
+1896.12 So one thing we know
+about offensive aggression
+1898.88 is that strong fear shuts it down,
+1902.48 whereas defensive
+aggression, at least in rats,
+1906.14 is actually enhanced by fear.
+1908.75 It's one of the big differences
+1910.46 between defensive aggression
+and offensive aggression.
+1914.27 And if you think about it,
+1915.92 if offensive aggression is
+rewarding and pleasurable,
+1919.25 if you start to get really scared,
+1921.65 that tends to take the fun out of it,
+1923.9 and maybe these two regions
+are close to each other
+1927.11 to facilitate inhibition of
+aggression by the fear neurons.
+1933.35 We know for a fact that if
+we deliberately stimulate
+1936.56 those fear neurons at the top of the pear,
+1939.38 when two animals are involved in a fight,
+1941.48 it just stops the fight dead in its tracks
+1944.3 and they go off into
+the corner and freeze.
+1947.03 So at least hierarchically,
+it seems like fear
+1950.81 is the dominant behavior
+over offensive aggression,
+1954.35 and how that inhibition
+would work is not clear,
+1957.32 'cause all these neurons
+are pretty much excitatory,
+1959.96 they're almost all glutamatergic.
+1961.91 And so one of the interesting
+questions for the future is,
+1965.84 how exactly does fear dominate over
+1969.26 and shut down offensive
+aggression in the brain?
+1972.68 How does that work, is it all circuitry,
+1974.75 are there chemicals involved?
+1976.52 What's the mechanism and
+when is it called into play?
+1980.3 But I think that's the way
+1982.28 I tend to think about why these neurons
+1984.29 are all mixed up together.
+1986.36 And it's not just fight and freezing,
+1989.57 or fight and flight,
+1990.5 there are also metabolic
+neurons that are mixed together
+1994.43 in VMH as well.
+- Mm-hmm.
+1996.08 Controlling body-wide metabolism?
+1998.36 - Yeah.
+1999.278 - Very interesting.
+- There are neurons there
+2000.25 that respond to glucose,
+2001.75 when glucose goes up in your
+bloodstream, they're activated,
+2005.77 and VMH has a whole history
+in the field of obesity,
+2010.15 because if you destroy it
+in a rat, you get a fat rat.
+2015.22 So the way most of the
+world thinks about VMH
+2018.15 is they think about, "Oh, that's the thing
+2020.26 that keeps you from getting fat."
+2022.12 It's the anti-obesity area,
+2024.16 but in the area of social behavior,
+2027.19 we see it as a center
+for control of aggression
+2030.7 and fear behaviors.
+2031.81 And again, why these
+neurons and these functions,
+2036.4 I like to call them the four Fs,
+2038.41 feeding, freezing, fighting and mating.
+2040.926 - Mm-hmm.
+- That they all seem to be
+2041.95 closely intermingled with each other,
+2044.05 maybe because crosstalk between them
+2046.48 is very important to
+help the animal's brain
+2049.54 decide what behavior to prioritize
+2052.84 and what behavior to shut
+down at any given moment.
+2057.19 - One of the things that we will do
+2058.42 is link to the incredible
+videos of these mice
+2062.38 that have selective stimulation
+of neurons in the VMH,
+2066.443 Dayu's and the other
+studies that you've done.
+2069.67 Whenever I teach, I show
+those videos at some point,
+2073.51 with the caveats and
+warnings that are required
+2076.57 when one is about to
+see a video of a mouse
+2080.83 trying to mate with another mouse,
+2082.06 or mating with another mouse,
+2083.41 and they seem both to be quite happy
+2085.15 about the mating experience,
+2086.53 at least as far as we
+know, as observers of mice.
+2090.19 And then upon stimulation
+of those VMH neurons,
+2095.47 one of the mice essentially
+tries to kill the other mouse.
+2098.89 And then when that stimulation is stopped,
+2102.76 they basically go back to hanging out.
+2104.65 They don't go right back to mating.
+2106.243 - Right.
+- There's some reconciliation
+2107.29 clearly that needs to
+[laughing] happen first,
+2108.79 we assume.
+- Yes.
+2109.84 - But it's just so striking,
+2110.797 and I think equally striking is the video
+2112.72 where the mouse is alone
+in there with the glove,
+2116.77 the VMH neurons are stimulated
+2118.33 and the mouse goes into a rage,
+2120.16 it looks like it wants to kill
+2121.09 the glove, basically.
+- Yep.
+2122.98 - So striking, I encourage
+people to go watch those,
+2125.53 because it really puts a
+tremendous amount of color
+2129.7 on what we're describing,
+2130.84 and it's just the idea that
+there are switches in the brain,
+2134.92 to me, really became
+clear upon seeing that.
+2137.44 One of the, excuse me, one of the concepts
+2140.26 that you've raised in your lectures before
+2143.14 and that I think was Hess's idea
+2145.3 is this idea of a sort
+of hydraulic pressure.
+2147.43 - Mm-hmm.
+- Or maybe it was Konrad,
+2149.77 I can't speak now.
+2150.75 [David laughing]
+Excuse me, Konrad Lorenz,
+2153.1 pardon.
+- Mm-hmm.
+2153.933 - Who talked about a kind
+of hydraulic pressure
+2155.68 towards behavior.
+2157.21 I'm fascinated by this
+idea of hydraulic pressure,
+2160.15 because I don't consider
+myself a hot-tempered person,
+2163.18 but I am familiar with the fact
+that when I lose my temper,
+2166.39 it takes quite a while
+for me to simmer down.
+2169.69 I can't think about anything else,
+2171.25 I don't want to think about anything else.
+2172.66 In fact, trying to think
+about anything else
+2175.36 becomes aversive to me,
+2177.37 which, to me, underscores
+this notion of prioritization
+2181.93 of the different states.
+- Mm-hmm.
+2183.58 - And potentially conflicting states.
+2186.76 What do you think funnels into this idea
+2188.56 of hydraulic pressure toward a state?
+2191.17 And why is it, perhaps, that
+sometimes we can be very angry,
+2196.12 and if we succeed in winning an argument,
+2199.75 all of a sudden, it will subside?
+2201.91 Because clearly that means
+2202.84 that there are external influences,
+2204.31 it's a complex space
+here that we're creating,
+2206.17 I realize I'm creating
+2207.003 a bit of a cloud.
+- Yeah.
+2207.836 - And I'm doing it on
+purpose, because, to me,
+2209.86 the idea of a hydraulic
+pressure towards a state,
+2211.78 like sleep, there's a sleep pressure.
+2213.61 - Yeah.
+- There is a pressure
+2214.75 towards aggression, that all makes sense,
+2216.43 but what's involved?
+2218.02 Is it too multifactorial
+2219.67 to actually separate out the variables,
+2222.64 but what's really driving
+hydraulic pressure
+2226.51 toward a given state?
+2228.01 - Yeah, so really important question,
+2231.94 I think one way that is
+helpful, at least for me,
+2235.39 to break this question
+apart and think about it
+2238.39 is to distinguish homeostatic behaviors,
+2242.92 that is, need-based behaviors,
+2245.2 where the pressure is
+built up because of a need,
+2249.4 like, "I'm hungry, I need to eat.
+2252.16 I'm thirsty, I need to drink.
+2255.1 I'm hot, I need to get to a cold place,"
+2258.1 it's basically the thermostat
+model of your brain.
+2261.64 You have a set point,
+2262.93 and then if the temperature gets too hot,
+2264.76 you turn on the AC,
+2266.08 and if the temperature gets too cold,
+2267.91 you turn on the heater
+2268.87 and you put yourself
+back to the set point.
+2271.09 I don't think that's how aggression works.
+2273.73 That is, it's not that we all go around,
+2276.76 at least subjectively,
+2277.9 I don't go around with an
+accumulating need to fight,
+2282.64 which I then look for
+an excuse to release it.
+2287.17 Now, maybe there are people that do that,
+2288.667 and they go out and look for
+bar fights to get into to.
+2292.314 - Or Twitter.
+2293.36 - Yeah, [laughing] or Twitter,
+2294.528 yeah.
+- Twitter seems to,
+2295.361 I'm sort of half joking,
+because Twitter seems to draw
+2298.27 a reasonably sized crowd of people
+2300.73 that are there for combat of some sort,
+2304.42 even though the total intellectual power
+2306.4 of any of their comments
+is about that of a cap gun.
+2308.721 [David laughing]
+They seem to really like
+2309.76 to fire off that cap gun.
+- Right, right.
+2312.52 - But I agree.
+- Yeah.
+2313.72 - Before we continue
+with today's discussion,
+2315.46 I'd like to just briefly acknowledge
+2317.35 our sponsor, Athletic
+Greens, now called AG1.
+2321.25 Athletic Greens, aka AG1,
+2323.5 is an all-in-one,
+vitamin-mineral probiotic drink
+2325.99 that also has adaptogens
+and digestive enzymes.
+2329.02 I've been taking Athletic
+Greens since way back in 2012,
+2331.75 so I'm delighted that they're
+sponsoring the podcast.
+2334.15 The reason I started
+taking Athletic Greens
+2335.8 and the reason I still drink
+Athletic Greens twice a day
+2338.74 is that it supplies total
+foundational coverage
+2341.65 of my vitamin-mineral needs
+2343.03 and it supplies important nutrients
+2345.55 that I need to support my gut microbiome.
+2347.53 The gut microbiome, as many of you know,
+2349.27 supports the immune system,
+2350.38 it also supports the
+so-called gut-brain access,
+2352.39 which is vital for
+mood, for energy levels,
+2354.76 for regulating focus
+2356.02 and many other features
+of our mental health
+2357.88 and physical health that
+impact our daily performance
+2360.19 and high performance in any endeavors
+2361.81 we might be involved in.
+2363.22 If you'd like to try Athletic Greens,
+2364.6 you can go to athleticgreens.com/huberman
+2367.27 and claim a special offer.
+2368.86 They're giving away five free travel packs
+2370.54 plus a year's supply of
+vitamin D3 K2 with every order.
+2374.44 And of course, vitamin D3 K2
+2376.12 are vital for all sorts of things,
+2377.8 like hormone health and metabolic health,
+2379.57 and K2 for cardiovascular
+health and calcium regulation.
+2382.36 Again, you can go to
+athleticgreens.com/huberman
+2385.54 to claim that special offer.
+2386.86 - So you can think of this
+accumulated hydraulic pressure
+2392.14 either being based on something
+that you were deprived of
+2395.56 creating an accumulating need,
+2397.93 or something that you want to do
+2400.54 building up a drive or
+a pressure to do that,
+2404.92 and the natural way to think
+about that, at least for me,
+2408.97 is as gradual increases in neural activity
+2413.5 in a particular region of the brain.
+2415.93 And so for example, in the
+area of the hypothalamus
+2419.89 that controls feeding,
+2421.39 Scott Sternson and others have shown
+2423.88 that the hungrier you get,
+2426.22 the higher the level of activity
+2428.56 in that region in the brain,
+2430.3 and then when you eat, boom,
+2431.92 the activity goes right back down again.
+2434.56 And that state is actually
+negatively valenced,
+2438.58 so it's like the animal, quote-unquote,
+2441.79 feels increasingly uncomfortable,
+2444.55 just like we feel
+increasingly uncomfortable
+2447.19 the hungrier we are,
+2448.6 and then when we eat, it tamps it down,
+2451.0 but there is this increased activity.
+2453.34 And I think in the case of aggression,
+2455.47 our data and others show
+2457.09 that the more strongly you drive
+2460.39 this region of the brain optogenetically,
+2463.63 the more of just a hair trigger you need
+2467.26 to set the animal off to get it to fight.
+2469.963 Now, the interesting thing
+2471.73 is that if there is nothing
+for the animal to attack,
+2475.78 it doesn't really do much
+2477.55 when you're stimulating this region.
+2479.65 It sort of wanders around
+the cage a little bit more,
+2483.16 but it will not actually show overt attack
+2487.69 unless you put something in front of it.
+2489.64 And the same thing is true for the areas
+2491.53 we've described that
+control mating behavior.
+2494.47 This is what Lindsay is working on,
+2496.39 you can stimulate those areas
+'til you're blue in the face,
+2499.99 and the mouse just sort of wanders around,
+2502.18 but if you put another mouse in,
+2504.49 wham, he will try to mount that mouse,
+2506.8 if you put a kumquat in the cage.
+2508.992 [Andrew laughing]
+He'll try to mount
+2509.95 the kumquat,
+2511.21 and so it becomes a sort
+of any port in the storm.
+2514.84 So there is this idea that the drive
+2518.53 is building up pressure
+2520.78 that somehow needs to be released
+2523.57 where that pressure is
+actually being exerted,
+2527.65 if you accept that it's increased activity
+2530.26 in some circuit or circuits someplace,
+2532.9 what is it pushing up against
+that needs something else
+2538.75 to sort of unplug it in
+the Lorenz hydraulic model?
+2542.86 That is, you don't see the behavior
+2545.05 until you release a valve on this bucket
+2547.9 and let the accumulated pressure flow out.
+2551.41 And that's one of the
+things we're trying to study
+2553.93 in the context of the
+mating behavior as well,
+2557.41 how does the information
+2559.24 that there's an object in front of you
+2561.52 come together with this drive state
+2564.04 that is generated by stimulating
+2566.32 these neurons in the hypothalamus to say,
+2568.577 "Okay, pull the trigger and go,
+2570.82 it's time to mate, it's time to attack?"
+2573.34 And we're just starting to get
+some insights into that now.
+2576.82 - Fascinating, and I
+should mention to people,
+2579.7 Dr. Anderson mentioned Lindsay,
+2580.99 Lindsay is a former
+graduate student of mine
+2582.61 that's now a postdoc in David's lab.
+2584.44 And I haven't caught up with her recently
+2586.33 to hear about these experiments,
+2587.407 but they sound fascinating.
+2589.03 I would love to spend
+some time on this issue
+2591.64 of why is it that a mouse
+won't attack nothing,
+2595.96 but it'll attack even a glove,
+2598.45 and why it will only try and mate
+2602.02 if there's another mouse to mate with?
+2604.57 It's actually, I think,
+fortunately for you,
+2608.29 you're not spending a lot of time
+2609.43 on Twitter and Instagram or YouTube,
+2612.43 but there's this whole online
+community that exists now,
+2615.4 as far as I know, it's almost
+exclusively young males
+2619.84 who are obsessed with this idea,
+2622.81 I'll just say it, it has
+a name, it's called NoFap,
+2624.69 of no masturbation as a way
+to maintain their motivation
+2628.06 to go out and actually seek mates.
+2629.71 Because of the ready availability
+of online pornography.
+2633.733 - Huh.
+- There's probably
+2635.41 a much larger population of young males
+2637.3 that are never actually
+going out and seeking mates
+2639.16 because they're getting
+porn addicted, et cetera.
+2641.71 There's actually a serious issue
+2643.03 that came up in our episode
+2644.59 with Anna Lembke, who wrote the book
+2645.797 "Dopamine Nation".
+- Hmm.
+2647.38 - Because of the
+availability of pornography,
+2649.39 there's a whole social context
+2651.64 that's being created around
+this, and genuine addiction.
+2654.73 So humans are not like the mice,
+2656.98 or mice are not like the humans,
+2658.48 humans seem to resolve
+the issue on their own.
+2661.21 - Yeah.
+- In ways that might actually
+2662.5 impede seeking and
+finding of sexual partners
+2665.41 and/or long-term mates.
+2666.55 - Right.
+- So serious issue there,
+2668.47 I raise it as a serious issue.
+2669.373 - Yep.
+- That I hear a lot about,
+2670.497 'cause I get asked hundreds
+2672.34 if not thousands of questions about this,
+2673.757 "Is there any physiological basis
+2675.37 for what they call NoFap?"
+2676.87 And I never actually reply
+'cause there's no data.
+2679.57 - [David] Yep.
+2680.53 - But what you're raising here
+2681.43 is a very interesting mechanistic scenario
+2686.05 that can, and as you
+mentioned, is being explored.
+2689.5 So what do we know about the
+internal state of a mouse
+2694.63 whose VMH is being stimulated
+2697.0 or a mouse whose other brain region
+2700.66 that can stimulate the desire to mate,
+2703.33 what do we know about the
+internal state of that mouse
+2705.61 if it's just alone in the
+cage wandering around?
+2707.62 iI it wandering around
+really wanting to mate
+2709.54 and really wanting to fight?
+2710.65 We, of course, don't know,
+2713.11 but is its heart rate up,
+2715.36 is its blood pressure up?
+2717.25 Is it wishing that there was pornography?
+2719.532 [David and Andrew laughing]
+2721.63 Something's going on, presumably,
+2723.97 that's different than
+prior to that stimulation,
+2728.98 and is it arousal?
+2731.23 And what do you think it is
+2732.55 about the visual factory
+perception of a conspecific
+2737.143 that ungates this tremendous
+repertoire of behaviors?
+2740.38 - Right, that is a central question.
+2743.83 I can say, at least with
+respect to the fear neurons
+2747.73 that sit on top of the aggression neurons,
+2749.74 we know that when those neurons
+2751.51 are activated optogenetically,
+2754.36 in the same way we would
+activate the aggression neurons,
+2757.66 that there's clearly an arousal
+process that's occurring,
+2761.29 you can see the pupils
+dilate in the animal.
+2764.32 There is an increase
+2765.79 in stress hormone release
+into the bloodstream,
+2769.09 we've shown that heart rate goes up.
+2772.51 So in addition to the
+drive to actually freeze,
+2777.28 which is what those animals do,
+2779.65 there is autonomic arousal
+2782.35 and neuroendocrine activation
+of stress responses.
+2786.19 And some of that is probably shared
+2789.04 by the aggression neurons
+and the mating neurons,
+2792.19 although we haven't investigated
+it in as much detail,
+2795.43 but I wouldn't be surprised
+2797.14 because they project to
+many of the same regions
+2800.92 that the fear neurons project to,
+2804.34 which is a interesting issue
+2806.47 in the context to discuss later maybe,
+2808.81 in the context of why we're comfortable
+2811.15 with mental illnesses that are based
+2813.28 on maladaptations of fear,
+but not mental illnesses
+2816.61 that are based on
+maladaptations of aggression
+2819.76 if they have pretty similar
+circuits in the brain.
+2822.49 But that's how I would imagine
+2825.61 there is an arousal dimension, as you say,
+2828.82 there are stress hormones that
+are activated, these regions,
+2832.15 VMH projects to about 30
+different regions in the brain,
+2836.77 and it gets input from
+about 30 different regions.
+2840.04 So I kind of see it as both an antenna
+2843.43 and a broadcasting center,
+2845.17 it's like a satellite dish
+that takes in information
+2848.77 from different sensory modalities,
+2851.29 smell, maybe vision, mechanosensation,
+2856.03 and then it sort of
+synthesizes and integrates that
+2859.87 into a fairly low-dimensional,
+2863.05 as the computational people call it,
+2865.66 representation of this pressure to attack,
+2868.81 and it broadcasts that all over the brain
+2871.78 to trigger all these systems
+2873.7 that have to be brought into play
+2875.77 if the animal is going
+to engage in aggression.
+2878.53 Because aggression is a very risky thing
+2881.35 for an animal to engage in,
+2883.03 it could wind up losing
+2884.68 and it could wind up getting killed,
+2886.75 and so its brain constantly has to make
+2890.29 a cost-benefit analysis of
+whether to continue on that path
+2894.43 or to back off as well.
+2896.41 And I think that part of
+this broadcasting function
+2899.59 of this region is engaging
+all these other brain domains
+2904.54 that play a role in this kind
+of cost-benefit analysis.
+2909.28 - I want to talk more
+about mating behavior,
+2911.32 but as a segue to that,
+2913.63 as we're talking about
+aggression and mating behavior,
+2917.02 I think, "Hormones."
+2918.4 And whenever there's an
+opportunity on this podcast
+2921.01 to shatter a common myth, I grab it.
+2924.67 One of the common myths that's out there,
+2926.968 and I think that persists,
+2928.18 is that testosterone makes
+animals and humans aggressive,
+2932.74 and estrogen makes animals
+placid and kind or emotional.
+2936.82 And as we both know,
+2938.2 nothing could be further from the truth,
+2939.94 although there's some truth to the idea
+2941.26 that these hormones are all involved.
+2943.84 Robert Sapolsky supplied
+some information to me
+2948.31 when he came on this podcast,
+2949.72 that if you give people
+exogenous testosterone,
+2952.6 it tends to make them more
+of the way they were before.
+2955.51 If they were a jerk before,
+they'll become more of a jerk,
+2957.61 if they were very altruistic,
+2958.93 they'll become more altruistic.
+2960.13 And then eventually I pointed out,
+2961.547 "You'll aromatize that
+testosterone into estrogen
+2963.82 and you'll start getting
+opposite effects,"
+2965.08 so it's a murky space,
+it's not straightforward.
+2967.99 But if I'm not mistaken,
+2970.75 testosterone plays a role
+in generating aggression,
+2973.45 however, the specific hormones
+2977.53 that are involved in
+generating aggression via VMH
+2981.91 are things other than testosterone.
+2984.28 Can you tell us a little
+bit more about that?
+2985.57 'Cause there's some
+interesting surprises in there.
+2987.7 - Yeah, that's a really
+important question.
+2990.19 So when we finally
+identified the neurons in VMH
+2995.38 that control aggression
+with a molecular marker,
+2998.8 we found out that that marker
+was the estrogen receptor.
+3002.64 So that might strike
+you as a little strange,
+3005.07 why should aggression-promoting
+neurons in male mice
+3010.47 be labeled with the estrogen receptor?
+3013.5 Other labs have shown
+that the estrogen receptor
+3017.28 in adult male mice is
+necessary for aggression.
+3020.94 If you knock out the gene in VMH,
+3023.52 they don't fight.
+3024.9 And it's been shown, and
+a lot of this is work
+3027.36 from your colleague,
+Nirao Shah, at Stanford,
+3029.88 who is one of my former PhD students,
+3032.7 that if you castrate a mouse
+3035.58 and it loses the ability to fight,
+3039.18 not only can you rescue fighting
+3041.79 with a testosterone implant,
+3043.92 but you can rescue it
+with an estrogen implant.
+3046.74 So you can bypass
+completely the requirement
+3050.01 for testosterone to restore
+aggressiveness to the mice.
+3054.09 And as you say,
+3054.923 it's because many of the
+effects of testosterone,
+3059.01 although not all, many
+of them are mediated
+3061.59 by its conversion to estrogen,
+3064.59 by a process called aromatization,
+3067.38 it's carried out by an
+enzyme called aromatase.
+3070.92 In fact, most of your listeners
+3073.56 may have heard of aromatase
+3075.63 'cause aromatase inhibitors are
+widely used in female humans
+3080.52 as adjuvant chemotherapy
+for breast cancer.
+3083.55 They are a way of reducing
+the production of estrogen
+3088.8 by preventing testosterone
+3090.96 from being converted into estrogen.
+3093.12 And in fact, there are a
+lot of animal experiments
+3095.34 showing if you give males
+aromatase inhibitors,
+3098.88 they stop fighting,
+3100.23 as well as also stop
+being sexually active.
+3104.88 And so that's one of the
+counterintuitive ideas,
+3108.45 and Nirao has shown that progesterone
+3111.45 also seems to play a role in aggression,
+3114.15 because these aggression neurons
+3115.68 also express the progesterone receptor.
+3118.62 So here are two hormones that
+are classically thought of
+3122.13 as female reproductive hormones,
+3124.65 this is what goes up and goes
+down during the estrous cycle,
+3128.1 estrogen and progesterone,
+3130.05 and yet, they're playing
+a very important role
+3133.29 in controlling aggression in male mice,
+3137.16 and presumably in male humans as well.
+3139.95 - Fascinating, so estrogen
+is doing many more things
+3144.72 than I think most people believe.
+3145.71 - Yep.
+- And testosterone is doing
+3148.2 maybe different and fewer
+things in some cases,
+3150.87 and more in others.
+3153.54 I've known some aggressive females
+3155.91 over the time I've been alive,
+3158.43 what's involved in female aggression
+3160.23 that's unique from the pathways
+3162.42 that generate male aggression?
+3164.43 - Great question,
+3165.69 so we and other labs have
+studied this in both mice
+3170.58 and also in fruit flies.
+3172.47 So one thing in mice that
+distinguishes aggression
+3176.85 in females from males
+3178.08 is that male mice are
+pretty much ready to fight
+3180.6 at the drop of a hat,
+3182.19 female mice only fight
+when they are nurturing
+3188.04 and nursing their pups
+3190.11 after they've delivered a litter.
+3191.76 And there is a window there
+3193.62 where they become hyper-aggressive,
+3196.56 and then after their pups are weened,
+3199.11 that aggressiveness goes away.
+3200.67 So this is pretty remarkable
+3203.16 that you take a virgin female mouse
+3205.92 and expose it to a male,
+3207.57 and her response is to
+become sexually receptive
+3210.6 and to mate with him.
+3212.01 And now you let her have her pups,
+3214.53 and you put the same male
+3216.33 or another male mouse
+in the cage with her,
+3218.49 and instead of trying to mate
+with him, she attacks him.
+3221.58 So there is some presumably hormonal
+3224.88 and also neuronal switch
+that's occurring in the brain
+3229.05 that switches the response of the female
+3232.08 from sex to aggression
+3234.99 when she goes from virginity to maternity.
+3237.6 And we recently showed in a paper,
+3239.7 this is work from one of
+my students, Mengyu Liu,
+3243.09 that within VMH in females,
+3245.55 there are two clearly divisible subsets
+3249.93 of estrogen receptor neurons,
+3252.6 and she showed that one of
+those subsets controls fighting
+3257.22 and the other one controls mating.
+3259.35 And in fact, if you stimulate
+3261.09 the fighting-specific subset in a virgin,
+3264.9 you can get the virgin to attack,
+3267.12 which is something that we
+were never able to do before,
+3271.2 and if you stimulate the
+mating one, you enhance mating.
+3274.53 The reason we could
+never get these results
+3277.02 when we stimulated the whole population
+3279.93 of estrogen receptor neurons
+3281.52 is that these effects are
+opposite and they cancel out.
+3285.27 And so it turns out that
+if you measure the activity
+3289.08 of the fighting and the mating neurons
+3291.33 going from a virgin to a maternal female,
+3295.2 the aggression neurons are
+very low in their activity
+3299.79 in the virgin,
+3301.14 but once the female has pups,
+3304.11 the activation ability of
+those neurons goes way up
+3308.76 and the mating neurons stay the same.
+3311.04 So if you think of the balance
+between them like a seesaw,
+3314.67 in the virgin, there is more activity
+3317.64 in the mating neurons than
+in the fighting neurons,
+3320.4 whereas in the nursing mother,
+3323.01 there's more activity or more activation
+3326.7 the other way around,
+3327.63 the fighting neurons in the mating.
+3329.075 - Mm-hmm.
+- Did I say,
+3329.908 "Fighting and mating," the first?
+3331.2 Mating neurons dominate
+fighting in the virgin,
+3333.9 fighting neurons dominate
+mating in the mother.
+3337.47 So that's a really cool observation,
+3341.67 and it's not something
+that happens in males,
+3344.16 and we don't know what
+causes that or controls that.
+3348.42 Interestingly, this gets
+into the whole issue
+3352.62 of neurons that are present
+in females, but not in males.
+3357.15 So the field has known for a long time
+3360.54 that male and female fruit
+flies have sex-specific neurons.
+3364.68 And most of the neurons
+that we've identified
+3367.35 in fruit flies that
+control fighting in males
+3370.38 are male specific,
+3371.73 they're not found in the female brain,
+3374.37 but recently, we discovered a set
+3377.19 of female-specific fighting
+neurons in the female brain,
+3381.57 together with a couple
+of other laboratories.
+3384.57 Now, they do share one
+common population of neurons
+3388.86 in both male and female flies,
+3391.2 that in females,
+3392.61 activates the female-specific
+fighting neurons,
+3395.34 and in males, activates the
+male-specific fighting neurons,
+3398.88 so it's kind of a hierarchy
+with this common neuron on top.
+3402.69 And in mice, we discovered
+3405.36 that there are male-specific
+neurons in VMH,
+3409.71 and those neurons are activated
+during male aggression.
+3414.09 Now, the neurons that
+are active in females
+3417.0 when females fight in
+VMH are not sex specific,
+3420.99 so they are also found in males.
+3423.9 So this is already showing
+you some complexity,
+3426.39 the male mouse VMH
+3428.73 has both male-specific aggression neurons
+3431.64 and generic aggression neurons.
+3433.86 And then the female VMH,
+3435.66 the mating cells are
+only found in females,
+3438.69 they are female specific
+3440.28 and not found in the male brain.
+3442.29 And so we're trying to find out
+3443.85 what these sex-specific
+populations of neurons are doing,
+3447.27 but that indicates that that
+is some of the mechanism
+3450.72 by which different sexes
+show different behaviors.
+3454.14 - I'm fixated on this transition
+3456.9 from the virgin female mouse
+3458.37 to the maternal female mouse,
+3459.837 and I have a couple of
+questions about whether or not,
+3462.48 for instance, the transition is governed
+3465.21 by the presence of pups.
+3466.41 So for instance, if you
+take a virgin female,
+3468.03 she'll mate with a male,
+3470.1 once she's had pups,
+3471.3 she'll try and fight that
+male, or presumably another
+3474.81 intruder female, right?
+- Yes,
+3476.25 equally towards females
+and male intruders.
+3479.01 - Does that require the
+presence of her pups?
+3480.96 Meaning if you were to take those pups
+3482.37 and give them to another mother,
+3484.05 does she revert to the
+more virgin-like behavior?
+3488.084 Is it triggered by lactation
+3489.15 or could it actually be triggered
+3490.95 by the mating behavior itself?
+3492.63 'Cause it's possible for the
+virgin to become a non-virgin,
+3496.05 but not actually have a litter of pups.
+3498.21 - Right, those are all great questions,
+3500.58 and we don't know the
+answer to most of them.
+3503.46 What I can say is that a nursing mother
+3507.36 doesn't have to have her
+pups with her in the cage
+3510.6 in order to attack an intruder male
+3513.63 or an intruder female,
+3516.42 she is just in a state of brain
+3520.14 that makes her aggressive to any intruder.
+3523.38 And those aggression neurons
+in that female's brain
+3527.16 are activated by both male
+and female intruders equally,
+3531.81 whereas in male mice,
+the aggression neurons
+3534.87 are only ever activated
+by males, not by females,
+3539.1 because males are never
+supposed to attack females,
+3542.34 they're only supposed to mate with them.
+3544.56 So that's another difference
+3546.15 in how those neurons are tuned
+3548.58 to signals from different conspecifics.
+3551.55 Does it require lactation?
+3553.83 I don't know the answer to that,
+3555.39 I think there are some experiments
+3557.28 where people have tried
+to, classical experiments,
+3560.4 people have tried to reproduce
+the changes in hormones
+3564.51 that occur during pregnancy in female rats
+3568.02 to see if it can make them aggressive.
+3570.15 And some of those manipulations
+do, to some extent,
+3573.81 but there's a whole biology there
+3576.09 that remains to be explored
+3578.25 about how much of this is hormones,
+3580.65 how much of this is
+circuitry and electricity,
+3583.83 and how much of it is other factors
+3586.56 that we haven't identified yet?
+3588.63 - I don't want to anthropomorphize,
+3590.04 but, well, I'll just ask the question.
+3592.86 So the other day, I was
+watching ferrets mate, right?
+3597.574 They're mustelids, and
+they're mating behavior,
+3600.57 I guess I didn't say
+why I was watching this,
+3602.25 doesn't matter.
+[David laughing]
+3604.65 It simply doesn't matter,
+3605.88 but if one observes the mating behaviors
+3608.43 of different animals,
+3609.54 we know that there's a tremendous range
+3611.28 of mating behaviors in humans.
+3613.35 There can be no aggressive component,
+3615.45 there could be an aggressive component
+3616.34 in humans that have all sorts of kinks
+3618.45 and fetishes and behaviors,
+3619.77 and most of which probably
+has never been documented
+3621.72 'cause most of this happens in private.
+3623.67 And here, I always say on this podcast,
+3624.96 any time we're talking about
+sexual behavior in humans,
+3627.48 we're always making the presumption
+3628.74 that it's consensual, age appropriate,
+3631.29 context appropriate and
+species appropriate.
+3633.42 Well, today, we're talking about
+a lot of different species.
+3635.52 With that said, just to set context,
+3638.94 I was watching this
+video of ferrets mating,
+3641.88 and it's quite violent actually.
+3644.49 There's a lot of neck biting,
+3645.93 there's a lot of squealing.
+3647.22 If I were going to project
+and anthropomorphize,
+3649.38 I'd say it's not really clear
+they both want to be there,
+3653.73 one would make that assumption.
+3654.84 And of course, we don't
+know, we have no idea,
+3657.12 this could be the ritual.
+3660.33 It seems, to me, that
+there is some crossover
+3662.76 of aggression and mating
+behavior circuitry
+3666.48 during the act of the mating,
+3668.55 and do you think that reflects
+3671.04 this sort of stew of competing neurons
+3675.78 that are prioritizing in real time?
+3679.11 Because, of course, as states,
+3681.57 they have persistence, as you point out,
+3683.07 and you can imagine
+that states overlapping,
+3685.32 four different states,
+3686.25 the motivational drive to mate,
+3687.75 the motivational drive to get
+away from this experience,
+3690.33 the motivational drive
+to eat at some point,
+3694.68 to defecate at some point,
+3695.88 all of these things are competing,
+3697.41 and what we're really seeing
+is a bias in probabilities.
+3701.28 But when you look at mating
+behavior of various animals,
+3704.1 you see an aggressive component
+sometimes, but not always.
+3707.76 Is it species specific,
+is it context specific?
+3711.27 And more generally, do
+you think that there
+3714.15 is crosstalk between these
+different neuronal populations
+3717.12 and the animal itself
+might be kind of confused
+3718.92 about what's going on?
+3719.94 - Right, great questions.
+3722.25 I can't really speak to the issue
+3724.11 of whether this is species specific,
+3726.45 'cause I'm not a
+naturalist or a zoologist.
+3729.18 I've seen, like you have,
+3730.8 in the wild, for example,
+lions when they mate,
+3733.98 I've seen them in Africa,
+3735.12 there's often a biting
+component of that as well.
+3738.45 One of the things that surprised us
+3740.58 when we identified neurons in VMHvl
+3744.39 that control aggression in males
+3747.21 is that within that population,
+3749.88 there is a subset of neurons
+3752.16 that is activated by females
+3754.8 during male-female mating encounters.
+3757.32 Now, you don't generally think
+of mouse sex as rough sex,
+3763.35 but there is a lot of what superficially
+3768.0 looks like violent behavior sometimes,
+3770.49 especially if the female
+rejects the male and runs away.
+3774.9 And there's some evidence
+3777.39 that those female-selective neurons in VMH
+3781.98 are part of the mating behavior.
+3786.45 If you shut 'em down,
+3788.31 the animals don't mate as effectively
+3791.25 as they otherwise would.
+3793.23 What happens when you stimulate
+them we don't yet know
+3796.5 because we don't have a
+way to specifically do that
+3799.56 without activating the
+male aggression neurons.
+3802.8 But I think they must
+be there for a reason
+3806.4 because VMH is not
+traditionally the brain region
+3810.39 to which male sexual
+behavior has been assigned.
+3814.08 That's another area called
+the medial preoptic area,
+3817.98 and there we have shown
+that there are neurons
+3821.07 that definitely stimulate mating behavior.
+3824.07 In fact, if we activate those
+mating neurons in a male
+3827.61 while it's in the middle
+of attacking another male,
+3830.73 it will stop fighting,
+start singing to that male
+3834.45 and start to try to mount that male
+3836.97 until we shut those neurons off.
+3838.86 So those are the
+make-love-not-war neurons,
+3842.22 and VMH are the make-war-not-love neurons,
+3845.4 and there are dense interconnections
+3848.13 between these two nuclei,
+3850.47 which are very close to
+each other in the brain.
+3853.86 And we've shown that
+some of those connections
+3856.32 are mutually inhibitory,
+3858.66 to prevent the animal
+from attacking a mate
+3862.86 that it's supposed to be mating with,
+3864.72 or to prevent it from
+mating with an animal
+3868.47 it's supposed to be attacking.
+3869.94 But it's also possible
+3871.59 that there are some
+cooperative interactions
+3874.65 between those structures,
+3876.21 as well as antagonistic interactions,
+3879.93 and the balance of whether
+it's the cooperative
+3882.87 or antagonistic interactions
+3885.09 that are firing at any given moment
+3887.49 in a mating encounter, as you suggest,
+3890.34 may determine whether a
+moment of coital bliss
+3897.06 among two lions may
+suddenly turn into a snap
+3901.77 or a growl and a baring of fangs.
+3904.44 We don't know that,
+3905.55 but certainly the substrate,
+the wiring is there
+3909.42 for that to happen.
+3910.95 - I'm sure people's minds are
+running wild with all this.
+3914.07 I'll just use this as an opportunity
+3915.9 to raise something I've wondered about
+3918.18 for far too long, [laughing]
+3919.83 which is, I have a friend
+who's a psychiatrist
+3923.22 who works on the treatment of fetishes.
+3925.56 This is not a psychiatrist
+that I was treated by,
+3927.66 I'll just point that out.
+[David laughing]
+3929.25 But they mentioned something
+3930.93 very interesting to me long ago,
+3932.76 which is that when you
+look at true fetishes,
+3936.15 and what meets the criteria for fetish,
+3938.19 that there does seem to be some,
+3941.04 what one would think would
+be competing circuitry
+3943.77 that suddenly becomes aligned.
+3946.95 For instance, avoidance of
+feces, dead bodies, feet,
+3952.8 things that are very infectious,
+3955.11 typically those states of disgust
+3957.93 are antagonistic to the states of desire,
+3960.51 as one would hope is present
+during sexual behavior.
+3965.73 Fetishes often involve
+exactly those things
+3969.66 that are aversive, feet, dead bodies,
+3975.06 disgusting things to most people,
+3977.52 and true fetishes, in
+the pathologic sense,
+3981.24 exist when people have,
+basically, a requirement
+3984.84 for thinking about or even the presence
+3986.49 of those ordinarily disgusting things
+3989.52 in order to become sexually aroused.
+3991.17 - Hmm.
+- As if the circuitry
+3992.67 has crossed over, and the
+statement that wrung in my mind
+3995.43 was people don't develop
+fetishes to mailboxes,
+3999.51 or to the color red, or to
+random objects and things,
+4004.25 they develop fetishes to things
+that are highly infectious
+4007.25 and counter-reproductive
+appetitive states.
+4010.213 - Hmm.
+- So I find that interesting,
+4011.9 I don't know if you have
+any reflections on that
+4013.85 as to why that might be.
+4015.65 I'm tempted to ask whether or not
+4016.82 you've ever observed
+fetish-like behavior in mice,
+4019.43 but I find it fascinating
+4021.41 that you have this area of the brain
+4022.91 that's so highly concerned
+with the hypothalamus,
+4024.58 in which you have these
+dense populations intermixed,
+4026.99 and that the addition of a
+forebrain, especially in humans,
+4031.07 that can think and make decisions
+4032.84 could in some ways facilitate
+4035.27 the expression of these
+primitive behaviors,
+4036.95 but could also complicate
+4038.51 the expression of primitive behaviors.
+4040.55 - Right, I would agree.
+4042.68 I think one way of looking at fetishes
+4046.07 from a neurobiological standpoint
+4048.65 is that they represent a kind
+of appetitive conditioning
+4054.2 where something that is
+natively aversive or disgusting,
+4059.39 by being repeatedly paired
+with a rewarding experience,
+4064.82 changes its valence, its sign
+4069.11 so that now it somehow produces
+the anticipation of reward
+4075.29 the next time a person sees it.
+4077.84 Now, I don't know that
+literature in animals,
+4081.11 so I don't know if you could condition
+4083.84 a mouse to eat feces, for example,
+4086.45 although there are animals
+that are naturally coprophagic,
+4090.14 and maybe mice do that
+occasionally, I'm not sure.
+4094.64 But that is one way to think about it,
+4098.03 and that could certainly
+involve in humans,
+4100.82 the more recently evolved
+arts of the brain,
+4103.31 the cortex that is sort of orchestrating
+4107.33 both what behaviors are happening
+4109.85 and whether reward states are turning on
+4113.3 in association with those
+behaviors that are happening.
+4117.02 And that's the part that
+I think is difficult
+4121.19 and challenging to study in a mouse,
+4124.31 but certainly bears thinking about,
+4128.24 because it's a really interesting,
+4130.79 again, sort of counterintuitive aspect.
+4133.73 Again, like rough sex,
+4134.96 people that want to have fighting,
+4137.27 or violence, or aggressiveness
+4138.92 in order to be sexually
+aroused, and fetishes.
+4142.517 And in fact, when we made
+that discovery initially,
+4145.94 it raised the question in my mind
+4148.01 whether some people that are
+serial rapists, for example,
+4154.79 and engage in sexual violence
+4156.77 might, in some level, have
+their wires crossed in some way,
+4161.15 that these states that are supposed to be
+4163.64 pretty much separated and
+mutually antagonistic are not,
+4167.51 and are actually more
+rewarding and reinforcing.
+4171.47 I think it's going to be a long time
+4173.84 before we have figured it out,
+4175.97 but when you think about it,
+4177.77 there is no treatment
+4180.11 that we have for a violent sexual offender
+4184.07 that eliminates the violence,
+4186.56 but not the sexual desire and sexual urge,
+4190.58 whether it's physical castration
+or chemical castration,
+4194.78 it eliminates both.
+4197.24 - Definitely an area that I think,
+4199.16 well, human neuroscience in general
+4200.81 needs a lot of tools, right?
+4203.42 In terms of how to probe and
+manipulate neural circuitry.
+4206.78 I'd love to turn to this
+area that you mentioned,
+4209.69 the medial preoptic area.
+4212.0 I'm fascinated by it, because
+just as within the VMH,
+4214.817 you have these neurons for mating
+4216.47 and fighting, or aggression,
+4219.11 my understanding is medial preoptic area
+4221.63 contains neurons for mating,
+4224.06 but also for temperature regulation.
+4226.31 And perhaps I'm making
+too much of a leap here,
+4228.44 but I've always wondered
+about this phrase, "In heat,"
+4232.04 as certainly the menstrual and
+or estrous cycle in females
+4236.99 is related to changes in body temperature.
+4238.85 In fact, measuring body temperature
+4240.11 is one way that women can fairly reliably
+4243.26 predict ovulation, et cetera.
+4245.66 Although this is not a
+show about contraception,
+4248.36 please rely on multiple methods
+[laughing] as necessary,
+4250.52 don't use this discussion as
+your guide for contraception
+4254.27 based on temperature.
+4255.32 But if you stimulate certain neurons
+4258.17 in the medial preoptic area,
+4259.31 you can trigger dramatic
+changes in body temperature
+4263.45 and/or mating behavior.
+4266.12 What's the relationship, if any,
+4267.47 between temperature and mating,
+4269.18 or do we simply not know?
+4271.61 - I don't know what the relationship
+4274.34 is between temperature and mating neurons
+4278.75 in the preoptic area.
+4280.94 I suspect that they are
+different populations of neurons
+4285.32 because it's become pretty
+clear that the preoptic area
+4289.79 has many different subsets of neurons
+4292.55 that are specifically active
+during different behaviors,
+4296.15 even different phases of mating behavior.
+4298.76 So there are mounting neurons,
+4300.53 there are intromission thrusting neurons,
+4303.11 and ejaculation neurons
+and sniffing neurons.
+4306.02 - Wait, wait, so I think
+I've heard this before,
+4308.63 but I just want to make
+sure that people get this
+4309.887 and I want to make sure I get this.
+4311.39 So you're telling me within
+medial preoptic area,
+4315.53 there are specific neurons
+that if you stimulate them,
+4317.78 will make males thrust
+as if they're mating?
+4320.75 - No, so this is not based
+on stimulation experiments.
+4325.88 - Mm.
+- It's based on
+4326.713 imaging experiments right now.
+- I see, I see.
+4328.91 - That we see when we
+look in the preoptic area
+4331.76 at what neurons are active
+4334.1 during different phases of aggression,
+4337.22 we see that there are different neurons
+4339.26 that are active during sniffing, mounting,
+4342.47 thrusting and ejaculation,
+4344.87 and they become repeatedly activated
+4347.99 each time the animal
+goes through that cycle.
+4350.3 - During mating, yeah.
+- During the mating cycle.
+4352.88 There are also some neurons there
+4354.38 that are active during
+aggression, which are distinct,
+4357.35 and we don't know whether those neurons
+4359.66 are there to promote aggression
+4362.21 or to inhibit mating when
+animals are fighting.
+4366.23 We have some evidence that
+suggest it may be the latter,
+4369.5 but we don't know for sure yet.
+4371.39 The thermosensitive neurons
+are really interesting,
+4374.24 because you mentioned
+the phrase, "In heat,"
+4377.45 and then in the context of aggression,
+4379.79 you talk about hotblooded
+people or hotheads,
+4382.91 there's just recently a paper
+4384.41 showing there are thermoregulatory
+neurons in VMH as well.
+4388.88 So all of these homeostatic systems
+4391.76 for metabolic control
+and temperature control
+4395.15 are intermingled in these nuclei,
+4398.6 these zones that control these
+basic survival behaviors,
+4402.86 like mating and aggression
+and predator defense.
+4406.85 And I would imagine that
+the thermal regulation
+4411.23 is tightly connected
+to energy expenditure,
+4415.55 and that, again, these
+neurons are mixed together
+4419.15 to facilitate integration
+of all these signals
+4423.02 by the brain in some way
+that we don't understand
+4426.59 to maintain the proper balance
+4428.48 between energy conservation
+and energy consumption
+4433.58 during this particular
+behavior or that behavior.
+4436.76 I mean, I've always been
+fascinated by the question,
+4438.92 why is it that violence
+goes up in the summertime
+4443.0 when the temperatures are high?
+4444.83 Does it really have something to do
+4447.2 with the idea that increased
+temperature increases violence?
+4452.06 It seems hard to believe
+because we're homeothermic
+4455.33 and we pretty much stay
+around 98.6 Fahrenheit.
+4460.58 It could be other social
+reasons why that happens,
+4463.61 people are outside, out on the street,
+4465.56 bumping into each other,
+4467.03 but I think there could well be something
+4470.27 that ties thermoregulation
+to aggressiveness,
+4473.99 as well as to mating behavior.
+4478.16 - Fascinating, yeah.
+4479.81 I ask in the hopes that
+maybe in the years to come
+4483.35 your lab will parse some of
+the temperature relationships.
+4486.38 And I realize it could be also regulated
+4489.32 by hormones in general,
+4490.43 so it's tapping into two systems
+4491.84 for completely different reasons,
+4493.07 but anyway, an area that intrigues me,
+4496.97 because of this notion of hotheadedness.
+4498.037 - Right.
+- Or cool, calm and collected.
+4500.3 And also the fact that,
+4502.517 and I probably should've
+asked about this earlier,
+4504.35 that arousal itself is tethered
+4507.2 to the whole mating and
+reproductive process.
+4509.6 I mean, without a sort of seesawing back
+4512.03 between the sympathetic
+and parasympathetic
+4515.15 arousal, relaxed states,
+4517.31 there is no mating that will take place.
+4520.7 So it's fascinating the way
+4521.99 these different competing
+forces and seesaws operate.
+4525.74 Several times during
+the discussion so far,
+4527.9 we've hit on this idea
+4530.6 that the same behavior can
+reflect different states,
+4534.74 and different states can converge
+4536.45 on multiple behaviors as well.
+4539.33 You had a paper not long
+ago about mounting behavior,
+4543.29 which I found fascinating.
+4545.51 Maybe you could tell us about that result,
+4547.7 because, to me, it really speaks
+4549.17 to the fact that mounting behavior
+4551.75 can, in one context, be sexual,
+4553.85 and in another context,
+actually be related to,
+4556.43 we presume, dominance.
+4557.93 And I think that my friends
+who practice jujitsu,
+4563.78 when I talk about that result,
+4564.83 they say, "Of course,
+mounting the other person
+4567.05 and dominating them,
+4568.82 there's nothing sexual about it,"
+4570.2 it's about overtaking them physically,
+4572.39 literally being on their neck side,
+4574.31 as opposed to lying on their own back.
+4577.55 - [David] Hmm.
+4578.383 - Just fascinating,
+4579.29 very primitive.
+- Hmm.
+4580.123 - And yet, I think speaks to this idea
+4583.07 that mounting behavior might be
+4584.69 one of the most fundamental ways
+4586.43 in which animals and perhaps even humans
+4588.8 express dominance and/or
+sexual interactions.
+4594.02 - Yep, and that's a fascinating question,
+4597.5 and it was harder to figure out
+4599.84 than you might've thought.
+4601.22 So there's been this debate
+for a long time in the field,
+4604.64 when you see two male
+mice mounting each other,
+4608.69 is this homosexual behavior,
+4610.85 is this a case of mistaken
+sexual identification,
+4614.27 or is this dominance behavior?
+4616.4 And if you train an AI algorithm
+4619.52 to try to distinguish male-male mounting
+4623.78 from male-female mounting,
+4625.34 it does not do a very good job,
+4627.14 because motorically, those
+behaviors look so similar.
+4631.43 And so how did we wind up figuring out
+4636.32 that most male-male mounting
+is dominance mounting?
+4640.91 There are two important clues,
+4644.03 one is the context,
+4646.82 and so male-male mounting
+4649.28 tends to be more prominent among mice
+4652.37 when they haven't had a
+lot of fighting experience.
+4655.58 And then as they become more
+experienced in fighting,
+4660.41 they will show relatively less mounting
+4663.71 towards the other male and more attack,
+4666.08 and they'll transition quickly
+from mounting to attack,
+4670.13 and so the mounting is always seen
+4673.19 in this context of an overall
+aggressive interaction.
+4677.99 And then the second thing,
+4679.4 which, believe it or not, was suggested
+4681.38 by a computational,
+theoretical person in my lab,
+4685.46 Ann Kennedy, who now has
+her own lab at Northwestern.
+4689.15 She said, "Well, males are known to sing
+4692.48 when they mount females,
+ultrasonic vocalizations,
+4695.6 why don't you see what kinds
+of songs they're singing
+4698.96 when they're mounting males?
+4700.28 Maybe it's a different kind of song."
+4701.78 Well, what we found out is,
+4702.95 they don't sing at all when
+they're mounting a male,
+4706.82 so you can easily distinguish
+4709.55 whether mounting behavior by a male mouse
+4713.6 is reproductive or agonistic, aggressive,
+4717.71 according to whether it's accompanied
+4720.14 by ultrasonic vocalizations or not.
+4723.56 And it turns out that
+different brain regions
+4727.04 are maximally active
+4729.05 during these different types of mounting.
+4731.03 So VMH, the aggression locus
+4735.08 is actually active during
+dominance mounting,
+4738.35 and you can stimulate
+mounting, dominance mounting,
+4742.31 if you weakly activate VMH,
+4745.4 whereas MPOA is most strongly activated
+4748.82 during sexual mounting,
+4750.77 and that's always accompanied
+4752.78 by the ultrasonic vocalization.
+4754.67 So this shows how difficult
+and dangerous it can be
+4758.48 to try to infer an animal's
+state, or intent, or emotion,
+4763.37 from the behavior that it's exhibiting
+4765.86 because the same behavior can
+mean very different things
+4769.1 depending on the context of the
+interaction with the animal.
+4771.81 - And I would say, even more so
+4773.84 with when that animal is a
+human or is multiple humans.
+4777.62 - That's right, and
+there are many examples,
+4780.41 animals show chasing to obtain food,
+4784.4 a prey animal that they're
+going to kill and eat,
+4787.07 and they show chasing to obtain a mate
+4789.83 that they're going to have sex with.
+4791.57 And so the intent of the
+chasing is completely different,
+4795.53 and we don't know in all these cases
+4797.36 whether there are separate circuits
+4799.49 or common circuits that
+are being activated.
+4802.67 - I'm obsessed with dogs and dog breeds
+4804.77 and et cetera, et cetera,
+4806.09 and one thing I can tell you
+4808.7 is that female dogs will mount and thrust.
+4812.72 We had a female pit bull
+mix, a very sweet dog,
+4817.01 but in observing her,
+4819.807 it convinced me that one can never assume
+4822.83 that male dogs are more
+aggressive than female dogs.
+4826.4 It turns out, in talking to people
+4827.447 who are quite skilled at dog
+genetics and dog breeding,
+4831.26 that there's a dominance
+hierarchy within a litter
+4833.87 and it crosses over
+male-female delineations.
+4839.42 So you can get a female in the
+litter that's very dominant
+4841.79 and a male that's very subordinate,
+4843.17 and no one really knows what relates to.
+4845.84 This is also why little dogs
+4846.98 sometimes will get right up in the face
+4848.87 of a big Doberman Pinscher.
+- Mm.
+4850.58 - And just start barking,
+4851.413 which is an idiotic thing for it to do,
+4853.04 but they can be dominant
+over a much larger dog.
+4856.16 - Hmm.
+- Very strange,
+4857.66 to me anyway.
+4859.46 Female-female mounting,
+do you observe it in mice?
+4863.09 Are there known circuits,
+4864.62 and what evokes female-female mounting,
+4867.23 or female-to-male mounting if it occurs?
+4870.41 - Good, yes, there are
+clear examples of females
+4876.41 displaying male-type mounting behavior
+4879.02 towards other females.
+4880.52 We see this most commonly in the lab
+4883.91 where we are housing
+females with their sisters,
+4887.39 say three or four in a cage,
+4889.55 we take one out and we
+have her mate with a male,
+4893.45 where the male's doing the mounting,
+4895.22 now we take that female
+4897.02 and we put her back in the
+cage with her litter mates
+4899.93 and she starts mounting them.
+4902.423 Now, what the function of that is,
+4905.93 if it has any function,
+4907.7 or what it means, what's
+driving it, we don't know,
+4911.12 but we do know that if we stimulate
+4915.601 the neurons that control mounting in males
+4918.23 in the medial preoptic area,
+4919.76 if we stimulate that same
+population in females,
+4923.72 it evokes male-type mounting
+4927.14 towards either a male or a female target.
+4929.66 In fact, we have a movie
+4931.4 where we have a female
+4933.92 that has just been mounted by a male,
+4936.53 so the male's on top and she's underneath,
+4939.74 and we stimulate that region
+of MPOA in the female.
+4944.12 And she crawls out from
+underneath the male
+4947.39 who has just mounted her,
+4949.07 circles around behind him
+4951.5 and climbs up on top of him
+4953.39 and starts to try to mount
+him and thrust at him.
+4956.51 - That has a name online,
+it's called a switch.
+4959.127 [Andrew laughing]
+- Is that right? [laughing]
+4960.65 - [Andrew] Don't ask me how I know that.
+4961.76 - Okay.
+4962.84 - But it's a pretty, yeah,
+it's a term that you hear.
+4968.09 You also hear the term
+topping from the bottom,
+4970.67 which it sounds like
+that is a literal topping
+4972.44 from the bottom.
+- I see.
+4973.273 - That's a more of a psychological phrase,
+4974.93 from what I hear.
+4975.77 I have friends that are
+educating me in this language,
+4979.91 mostly because I find
+4981.29 this kind of neurobiological
+discussion fascinating.
+4984.727 And at some point, right?
+4987.11 I attempt, in my mind, to
+superimpose observations
+4989.93 from the online communities.
+4991.32 - Yeah.
+- That I'm told about
+4992.9 and asked about to this,
+4994.46 but I should point out,
+it's always dangerous,
+4997.01 and in fact, inappropriate
+4998.24 to make a one-to-one link.
+- Yes.
+5000.73 - Humans, they maintain all
+the same neural circuitry
+5003.61 and pathways that we're
+talking about today in mice,
+5006.01 but that forebrain does
+allow for context, et cetera.
+5010.21 - Yep.
+- Yeah.
+5011.043 - So what the function
+is of female mounting,
+5016.42 I don't know, it could be a
+type of dominance display.
+5019.54 It's hard to measure that
+5021.04 because people haven't worked
+5022.39 on female-dominance hierarchies
+5025.06 to the same extent that they've worked
+5026.71 on male-dominance hierarchies,
+5029.05 but it indicates that the
+circuits for male-type mounting
+5034.06 are there in females,
+5035.8 as early work from Catherine
+Dulac suggested some years ago.
+5040.24 - Fascinating, fascinating.
+5041.68 I love that paper because,
+as you pointed out for chase,
+5046.93 for mounting behavior, we see it
+5048.61 and we think one thing specifically,
+5051.4 and after hearing this result,
+5052.78 actually, I'm not a big
+fan of fight sports.
+5054.91 I watch them occasionally
+'cause friends are into them,
+5056.83 but I've seen boxing matches, MMA matches,
+5061.3 where at the end of a round,
+5063.1 if someone felt that they dominated,
+5065.08 they will do the unsportsmanlike thing
+5067.78 of thrusting on the
+back of the other person
+5070.24 before they get off.
+- Really?
+5071.073 - Almost like, "I dominated you, and I'm,"
+5072.97 so mimicking sexual-like behavior,
+5075.04 but there's no reason to
+think that it's sexual,
+5077.32 but they're sending a message.
+- Yeah.
+5078.46 - Of dominance is what it implies.
+5081.58 I'd love to talk about something
+5084.37 slightly off from this circuitry,
+5086.2 but I think that's
+related to the circuitry,
+5088.21 at least in some way,
+5089.26 which is this structure that
+I've always been fascinated by
+5092.5 and I can't figure out
+what the hell it's for,
+5095.082 'cause it seems to be
+involved in everything,
+5096.07 which is the PAG, the periaqueductal gray,
+5100.27 which is a little bit
+further back in the brain,
+5101.77 for people that don't know.
+5103.33 It's been studied in the context of pain,
+5105.01 it's been studied in the context
+5106.57 of the so-called lordosis response,
+5108.49 the receptivity or arching
+of the back of the female
+5110.92 to receive intromission
+and mating from the male.
+5114.52 How should we think about PAG?
+5117.37 Clearly, it can't be
+involved in everything,
+5119.56 I'm guessing it's at least as complex
+5121.6 as some of these other regions
+5122.59 that we've been talking about,
+5123.55 different types of neurons
+controlling different things,
+5125.38 but how does PAG play into this?
+5127.81 In particular, I want to know,
+5129.94 is there some mechanism of
+pain modulation and control
+5133.48 during fighting and/or mating?
+5137.35 And the reason I ask is that,
+5139.57 while I'm not a combat sports person,
+5142.21 years ago, I did a little
+bit of martial arts,
+5144.52 and it always was impressive to me
+5146.77 how little it hurt to get
+punched during a fight
+5149.29 and how much it hurt
+afterwards, [laughing] right?
+5151.9 So there clearly is some
+endogenous pain control.
+5154.9 - Yep.
+- That then wears off,
+5156.37 and then you feel beat up.
+5157.9 - [David] Yep.
+5158.733 - Or at least, in my case, I felt beat up.
+5160.72 What's PAG doing vis-a-vis pain,
+5164.17 and what's pain doing vis-a-vis
+these other behaviors?
+5166.27 - Good, good.
+5167.44 So I think of PAG
+5170.11 like a old-fashioned
+telephone switchboard,
+5173.95 where there are calls coming in,
+5177.43 and then the cables have to
+be punched into the right hole
+5180.85 to get the information,
+5182.38 to be routed to the right
+recipient on the other end of it,
+5186.49 because pretty much every
+type of innate behavior
+5190.6 you can think of has
+had the PAG implicated.
+5194.047 And there's a whole literature
+5196.39 showing the involvement
+of the PAG in fear,
+5199.36 different regions of the PAG,
+5201.64 the dorsal PAG is involved
+5203.38 in panic-like behavior, running away,
+5206.35 the ventral PAG is involved
+in freezing behavior.
+5210.91 Both the MPOA and VMH send
+projections to the PAG,
+5216.46 to different regions of the PAG.
+5218.86 So in cross-section, I hate to say this,
+5222.79 but in cross-section, the
+PAG kind of looks like
+5225.58 the water in a toilet
+5226.93 when you're standing
+over an open toilet bowl.
+5229.75 - Mm-hmm.
+- And if you imagine
+5231.46 a clock face projected onto that,
+5235.0 it's like the PAG has sectors,
+5238.66 from one to 12, maybe even more of them,
+5241.24 and in each of those sectors,
+5242.89 you find different neurons
+5244.33 from the hypothalamus are projecting.
+5246.85 So could turn out that there
+is a topographic arrangement
+5251.17 along the dorsal-ventral axis of the PAG
+5254.17 and the medial-lateral axis of the PAG
+5256.99 that determines the type of behavior
+5259.84 that will be emitted when neurons
+5262.24 in that region are stimulated.
+5263.95 And I think sort of all of the evidence
+5266.02 is pointing in that direction,
+5267.79 but by no means, has it been mapped out.
+5270.52 Now, the thing that you
+mentioned about it not hurting
+5274.0 when you got beat up during martial arts,
+5276.88 there is a well-known phenomenon
+5279.22 called fear-induced analgesia,
+5283.78 where when an animal is
+in a high state of fear,
+5288.7 like if it's trying to defend itself,
+5291.19 there is a suppression of pain responses,
+5296.17 and I'm not sure completely
+about the mechanisms
+5300.64 and how well that's understood,
+5302.68 but for example, the adrenal
+gland has a peptide in it
+5308.74 that is released from the adrenal medulla,
+5312.16 which controls the
+fight-or-flight responses,
+5315.01 and that peptide has analgesic activities.
+5318.91 Now, whether.
+- May I ask what that
+5319.743 peptide is?
+- It's called
+5320.576 bovine adrenal medullary peptide
+of 22 amino acid residues.
+5325.45 And I only know about it
+5327.16 because it activates a receptor
+5329.47 that we discovered many years ago
+5331.54 that's involved in pain,
+5333.22 and we thought it promoted pain,
+5334.78 but it turns out that this
+actually inhibits pain,
+5337.66 it's like an endogenous analgesic.
+5340.42 Whether this is happening,
+this type of analgesia
+5345.37 is happening when an animal
+5347.38 is engaged in offensive aggression
+5350.17 or in mating behavior, I don't know,
+5354.4 but it certainly is possible.
+5356.38 And I don't know whether
+these analgesic mechanisms
+5360.46 are happening in the PAG,
+5362.44 they could also be happening
+a little further down
+5365.5 in the spinal cord.
+5366.55 The PAG is really continuous
+with the spinal cord,
+5369.97 if you just follow it down
+towards the tail of an animal,
+5373.87 you will wind up in the spinal cord.
+5378.291 And so it could be that
+there are influences acting
+5381.19 at many levels on pain in the PAG
+5383.98 and in the spinal cord as well.
+5386.32 And it may well be known,
+I just don't know it,
+5389.05 I want to distinguish
+clearly between things
+5391.75 that are not known,
+that I know are unknown,
+5395.05 which is in a fairly small
+area where I have expertise,
+5398.74 from things that may be known,
+5400.27 but I'm ignorant of them,
+5401.77 because I just don't have a broad enough
+5403.51 knowledge base to know that.
+5404.51 - Sure, we appreciate those delineations.
+5409.24 Thank you, PAG, I think
+this description of it
+5411.67 as an old-fashioned telephone switchboard,
+5414.04 and now every time I look into
+the toilet, I'll think about
+5416.92 the periaqueductal gray.
+- [laughing] That's right.
+5418.15 - [Andrew] And every time I see an image
+5419.2 of periaqueductal gray,
+5420.22 I'll think about a toilet.
+- That's right. [laughing]
+5421.053 - That is an excellent description,
+5423.64 because, in fact, I drew a circle
+5425.17 with a little thing at the bottom.
+5426.25 And well, I'll put a post
+or link to a picture of PAG
+5430.24 and you'll understand why
+David and I are chuckling here,
+5433.21 because, indeed, it looks like a toilet,
+5435.37 when staring into a toilet.
+5438.28 Tell us about tachykinin,
+5440.32 I've talked about this a couple times
+5441.64 on different podcast episodes
+5442.9 because of its relationship
+to social isolation,
+5447.37 and in part, because
+the podcast was launched
+5451.09 during a time when there
+was more social isolation.
+5454.63 My understanding is that tachykinin,
+5456.79 and you'll tell us what it is in a moment,
+5459.31 is present in flies
+and mice and in humans,
+5461.8 and may do similar
+things in those species.
+5465.82 - That's right, so
+tachykinin refers to a family
+5471.01 of related neuropeptides.
+5472.87 So these are brain chemicals,
+5476.11 they're different from
+dopamine and serotonin
+5479.35 in that they're not
+small, organic molecules,
+5483.04 they're actually short pieces of protein
+5485.83 that are directly encoded by genes
+5488.74 that are active in specific neurons
+5491.14 and not in others.
+5492.28 And when those neurons are active,
+5494.05 those neuropeptides are released
+5496.27 together with classical transmitters,
+5498.85 like glutamate, whatever.
+5500.53 Tachykinins have been
+famously implicated in pain,
+5505.48 particularly Tachykinin-I,
+5507.91 which is called Substance P,
+5510.34 one of the original pain modulating,
+5513.31 this is something that
+promotes inflammatory pain.
+5517.45 But there are other tachykinin genes,
+5519.97 in mice, there are two,
+5521.62 in humans, I think there are three,
+5523.93 and in Drosophila, there's one.
+5526.36 And the way we got into tachykinins
+5529.21 is from studying aggression in flies.
+5532.51 We thought, since neuropeptides
+5535.69 have this remarkable parallel
+evolutionary conservation
+5540.22 of structure and function,
+5542.02 like Neuropeptide Y controls feeding
+5545.41 in worms, in flies and mice and in people.
+5548.95 Oxytocin-like peptides
+control reproduction
+5552.16 in worms and mice and in people.
+5555.55 We thought we might find
+peptides that control aggression
+5559.24 in flies and in people,
+5560.71 and so we did a screen,
+unbiased screen of peptides,
+5564.67 and found, indeed, that
+one of the tachykinins,
+5568.737 Drosophila tachykinin, those
+neurons when you activate them
+5572.98 strongly promote aggression,
+5574.75 and it depends on the
+release of tachykinin.
+5577.51 Now, the interesting thing is that,
+5579.37 in flies, just like in people
+5581.98 and practically any other social animal
+5585.43 that shows aggression,
+5586.9 social isolation increases aggressiveness.
+5590.38 So putting a violent prisoner
+in solitary confinement
+5594.88 is absolutely the worst,
+most counterproductive thing
+5597.73 you could do to them.
+5599.02 And indeed, we found in flies
+5601.36 that social isolation increases the level
+5604.66 of tachykinin in the brain,
+5606.85 and if we shut that gene down,
+5609.13 it prevents the isolation
+from increasing aggression.
+5612.61 So since my lab also works on mice,
+5615.64 it was natural to see whether tachykinins
+5618.94 might be upregulated in social isolation
+5622.24 and whether they play
+a role in aggression.
+5624.58 And this is work done
+5625.63 by a former postdoc, Moriel Zelikowsky,
+5628.03 now at University of
+Salt Lake City in Utah,
+5630.85 and she found, remarkably,
+5632.95 that when mice are socially
+isolated for two weeks,
+5636.82 there is this massive upregulation
+5640.18 of Tachykinin-II in their brain.
+5643.39 In fact, if you tag the peptide
+5646.27 with a green fluorescent protein
+5648.85 from a jellyfish, genetically,
+5650.74 the brain looks green when
+the mice are socially isolated
+5654.91 'cause there's so much
+of this stuff released.
+5657.7 And she went on to show that
+that increase in tachykinin
+5664.06 is responsible for the
+effect of social isolation
+5667.78 to increase aggressiveness
+5669.79 and to increase fear
+5671.59 and to increase anxiety.
+5673.21 And in fact, there are drugs
+5675.22 that block the receptor for tachykinin
+5678.13 which were tested in humans and abandoned
+5681.13 because they had no efficacy
+5683.05 in the tests that they were analyzed for.
+5685.54 If you give those drugs to
+a socially isolated mouse,
+5689.71 it blocks all of the
+effects of social isolation.
+5693.37 It blocks the aggression,
+5695.29 it blocks the increased fear
+and the increased anxiety,
+5698.89 and Moriel described it,
+"The mice just look chill."
+5702.49 It's not a sedative,
+which is really important,
+5705.16 it's not that the mice are going to sleep.
+5708.19 Most remarkably is, once
+you socially isolate a mouse
+5713.17 and it becomes aggressive,
+5714.58 you can never put it back in its cage
+5717.76 with its brothers from its litter
+5719.62 because it will kill them all overnight,
+5722.08 but if you give it this drug,
+5724.36 which is called osanetant,
+that blocks Tachykinin-II,
+5729.64 that mouse can be returned
+to the cage with its brothers
+5733.27 and will not attack them,
+5734.77 and seems to be happy about
+that for the rest of the time.
+5738.67 So this is an incredibly
+powerful effect of this drug,
+5742.51 and I've been really interested
+5744.76 in trying to get pharmaceutical
+companies to test this drug,
+5749.26 which has a really good
+safety profile in humans,
+5752.95 in testing it in people
+5755.38 who are subjected to
+social isolation stress
+5758.44 or bereavement stress.
+5760.57 And this is one of the areas
+5762.94 where I learned an eye-opening lesson,
+5766.9 as a basic scientist who naively thought
+5769.66 that if you make a discovery
+5771.43 and it has translational
+applications to humans,
+5775.18 that pharmaceutical companies
+5776.86 are going to be falling all
+over themselves to try it.
+5779.98 And they are not interested,
+5782.11 because once burned, twice shy,
+5785.56 these drugs were tested for
+efficacy in schizophrenia.
+5790.21 I have no idea why,
+5792.22 there's very little preclinical
+data to suggest that.
+5795.31 Not surprisingly, they failed.
+5799.517 When a drug fails in
+clinical trials in Phase 3,
+5802.48 it costs $100 million to the company
+5807.61 that carried out that clinical trial.
+5809.32 So there's a huge slag heap
+of discarded pharmaceuticals,
+5814.24 many of them inhibitors
+of neuropeptide action,
+5818.29 that could be useful in other indications,
+5822.22 such as the one we discovered,
+5824.08 but there's a huge economic disincentive
+5827.5 for pharmaceutical companies
+to test them again,
+5831.85 because the conclusion that they drew
+5834.31 from all these failed tests,
+5836.14 particularly in the 2010s and before that,
+5840.22 is that the reason they failed
+5842.74 is because animal experiments with drugs
+5846.55 don't predict how humans
+will respond to the drugs,
+5851.2 and therefore, we shouldn't
+try to extrapolate
+5855.1 from any other data that we
+get from animal experiments,
+5858.76 mouse or rat experiments to humans,
+5860.83 because they'll lead us
+down the wrong track,
+5863.53 and I think that that is probably wrong.
+5865.96 In some cases, it may be right,
+5868.24 but in other cases, there's
+good reason to think,
+5871.18 because these brain regions and molecules
+5874.03 are so evolutionarily conserved
+5876.73 that they ought to be playing
+a similar role in humans.
+5880.51 In fact, there is a paper showing that
+5884.68 in humans that have borderline
+personality disorder,
+5889.81 there's a strong correlation
+5891.49 between their self-reported
+level of aggressiveness
+5895.51 and serum levels of a tachykinin,
+5898.63 in this case, Tachykinin-I,
+5900.67 as detected by radioimmunoassay.
+5902.86 This is work of Emil Coccaro,
+5905.08 who's a clinical psychiatrist
+at the University of Chicago.
+5908.62 So there is a smoking gun in
+the case of humans as well.
+5913.21 And I was actually trying to interest
+5916.96 a pharmaceutical company
+5918.79 that was testing these drugs,
+5921.7 actually, for treatment of hot flashes
+5924.91 in females, in humans,
+5926.86 where there is actually good animal data
+5929.86 to think that it might be useful,
+5931.93 but I realized that this clinical trial
+5935.11 was going on during the COVID pandemic.
+5938.68 And I approached him and said,
+5939.887 "Look, nature may have
+actually done for you
+5942.82 the experiment that I want you to do,
+5945.01 'cause some of the people
+5946.06 who are getting drug or placebo
+5948.1 are going to have been socially isolated
+5950.59 and some of them will have not.
+5952.09 Why don't you get them to
+fill out questionnaires
+5954.76 and see whether the ones
+5956.02 who were given the drug
+and socially isolated
+5958.87 felt less stressed and less anxious
+5961.51 than the ones who were
+not socially isolated?"
+5964.0 And they would not touch it,
+5966.13 because they're in the
+middle of a clinical trial
+5969.28 for a different indication for this drug,
+5971.77 and they have to report any observation
+5975.19 that they make about that drug
+5977.32 in their patient population.
+5978.97 So if they were to ask these questions
+5981.43 and get an unfavorable answer,
+5983.927 "Oh my God, I felt even worse
+5985.72 when I took this drug and I was isolated,"
+5987.97 they would be obliged to
+report that to the FDA
+5991.18 and that could torpedo the chances
+5993.16 for the drug being approved
+5994.81 in the thing that it was
+in clinical trials for.
+5996.88 So it's better not to ask and not to know
+6002.37 than it is to try to
+find out more information
+6005.16 that could lead to another
+clinical indication.
+6007.77 So I remain convinced
+that this family of drugs
+6012.66 could have very powerful uses
+6015.21 in treating some forms
+of stress-induced anxiety
+6019.53 or aggressiveness in humans,
+6021.24 but it's just very difficult,
+for economic reasons,
+6024.42 to find a way to get
+somebody to test that.
+6026.97 - Yeah, a true shame that
+these companies won't do this,
+6030.48 and especially given the fact
+that many of these drugs exist
+6034.17 and their safety profiles are established,
+6036.9 'cause that's always
+6037.89 a serious consideration.
+- Yep.
+6039.57 - When embarking on a clinical trial.
+6042.63 Perhaps in hearing this discussion,
+6044.46 someone out there will understand
+6046.32 the key importance of this
+and will reach out to us,
+6049.62 we'll provide ways to do that,
+6052.29 to get such a study going in humans.
+6055.17 Because I think if enough laboratories
+6057.51 ran small-scale clinical trials,
+6059.82 pharma certainly would
+perk up their ears, right?
+6062.04 I mean, they're so strategic.
+6064.05 - Yep.
+- Sometimes to their own.
+6065.64 - I mean, I would like to say also,
+6067.56 I'd like to see this tested on pets.
+6070.32 I mean, there's a huge
+number of pets right now
+6073.05 that are suffering separation anxiety
+6075.63 because humans bought
+them to keep them company
+6078.54 during the COVID pandemic,
+6080.016 and now they're home alone.
+- And now they're home alone,
+6081.729 yeah.
+- Okay?
+6082.562 And if this thing works in mice,
+6084.54 there's certainly a higher chance
+6086.37 it's going to work in dogs or in cats
+6088.98 than it is going to work in humans.
+6090.75 And if it did, that would
+be even more encouragement
+6093.72 to continue along those lines.
+6095.67 People sometimes forget that
+although we work on animals
+6099.18 and we ultimately want
+to understand humans,
+6101.49 we care about how our results
+6103.68 apply to the welfare of animals as well,
+6106.74 and particularly domestic pets,
+6108.75 which is a multi-billion-dollar industry
+6111.96 in this country.
+6112.89 So if there is ways that they
+can be made to feel better
+6116.31 when they're separated from their owners,
+6119.52 that would certainly be a good thing.
+6121.29 - Absolutely, we will put out the call,
+6123.81 we are putting out the call,
+6125.04 and I know for sure
+there will be a response.
+6130.5 Just underscoring what we've
+been talking about even more,
+6133.41 every time we hear
+about a school shooting,
+6136.71 like in Texas recently,
+6138.03 or I happened to be in New York
+6139.65 during the time when there
+was a subway shooting.
+6143.01 For whatever reason, I listened
+to the book about Columbine,
+6148.14 that went into a very detailed way
+6150.0 about the origin of those
+boys that committed that,
+6153.27 and every single time,
+6157.08 the person who commits those acts
+6159.18 is socially isolated,
+6160.38 as far as I know.
+- Yeah, yeah.
+6161.46 - There might be some exceptions there.
+6162.99 And sometimes this crosses over
+6164.31 with other mental health issues,
+6165.45 but sometimes no, no apparent
+mental health issues.
+6168.317 So social isolation clearly drives
+6171.24 powerful neurochemical and
+neuro biological changes,
+6174.33 I really hope that Tachykinin-I and II,
+6177.03 those are the main ones
+6177.96 in humans?
+- Yeah, yeah.
+6178.83 - Will be explored in more detail.
+6181.41 Also, I didn't know that
+Tachykinin-I is Substance P.
+6183.9 - Yes.
+- And Substance P
+6184.818 is Tachykinin-I.
+- Yes.
+6185.651 Tachykinin-I is the gene name,
+6188.07 and Tachykinin-II, in humans,
+is called Neurokinin B,
+6192.24 that's the name of the protein.
+6194.16 I just refer to it by the gene name
+6196.11 'cause it makes it easier
+6197.28 and I don't have to keep remembering
+6198.78 two names for each thing.
+6200.31 - And if I'm not mistaken,
+6203.16 you put yourself in the
+company of geneticists
+6205.56 because your original
+training was in genetics,
+6208.17 immunology and areas
+6210.0 related to that.
+- It was in cell biology,
+6211.53 and I didn't actually have
+formal training in genetics
+6214.68 as a graduate student,
+6215.88 but I think I'm a geneticist at heart,
+6218.13 that's just the way I like
+to think about things.
+6221.25 And when I started working
+on flies, that sort of,
+6224.82 I came out of the closet as a geneticist,
+6226.92 as it were. [laughing]
+6228.18 - Wonderful, as long as
+we're talking about humans,
+6230.85 I'd love to get your thoughts
+6231.75 about human studies of emotion.
+6233.16 I know you wrote this
+book with Ralph Adolphs,
+6235.14 you have this new book, which
+we'll provide a link to,
+6237.33 which I've read front to
+back twice, it's phenomenal.
+6241.085 - Thank you.
+- I've mentioned it before
+6241.918 on the podcast, it's really,
+6243.27 there are books that are worth reading,
+6245.1 and then there are books
+that are important,
+6246.6 and I think this book is truly important
+6248.19 for the general population
+to read and understand,
+6250.77 and neuroscientists should read
+and understand the contents,
+6253.2 because we, as a culture,
+6257.01 are way off in terms of
+how we think about emotions
+6259.47 and states and behaviors.
+6261.3 So we'll put a link to that,
+6262.44 it's really worth the time
+and energy to read it,
+6265.83 and it's written beautifully,
+6267.0 I should say.
+- Thank you.
+6267.833 - Very accessible even for non-scientists.
+6270.24 There's a heat map diagram in
+that book that I think about,
+6275.55 this is a heat map diagram
+of subjective reports
+6278.61 that people gave of where
+they experience an emotion,
+6283.71 or a feeling, a somatic feeling,
+6285.66 in their body, or in their head, or both,
+6288.48 when they are angry, sad, calm, lonely,
+6292.35 et cetera, et cetera.
+6293.79 And I wouldn't want people
+to think that those heat maps
+6296.46 were generated by any
+physiological measurement,
+6300.87 because they were not.
+6301.83 And yet, I don't think
+we can have a discussion
+6304.89 about emotions and states
+6306.84 and the sorts of behaviors
+that we're talking about today
+6309.15 without thinking about the body also.
+6311.01 - [David] Yep.
+6311.843 - And I'm not coming to this
+6312.84 as a Northern California, mind-body.
+6314.99 - Yeah.
+- I've been to Esalen once.
+6316.344 [David laughing]
+I didn't go in the baths,
+6317.4 I went there, I gave a talk and I left.
+6318.96 It is very beautiful.
+6320.49 If anyone wants to know
+what it looks like,
+6321.6 I think that final scene of
+"Mad Men" is shot at Esalen,
+6325.65 it's a very beautiful place.
+6326.61 And yet, mind-body, to me, is
+a neurobiological construct.
+6331.8 - Yes.
+- Because the nervous system
+6332.7 extends through out of the cranial vault
+6335.1 and into the spinal cord.
+- Yeah.
+6336.0 - And body and back and forth, okay.
+6338.49 How should we think about
+the body, in terms of states?
+6343.47 And at some point, I'd
+love for you to comment
+6345.78 on that heat map experiment,
+6347.58 because it does seem that
+there's some regularity
+6350.28 as to where people experience emotions.
+6352.86 When people are in a rage, for instance,
+6354.57 they seem to feel it both in
+their gut and in their head,
+6358.08 it seems, on average.
+6360.57 And people love to
+extrapolate to gut intuition
+6365.28 or that the chakras or
+anger is in the stomach,
+6368.73 and this goes to Eastern
+medicine, et cetera.
+6371.76 How should we think about mind-body
+6373.92 in the context of states,
+6375.0 and think about it as scientists,
+6376.77 maybe even as neuroscientists
+or geneticists?
+6380.04 - Good, so for the answer
+to the first question
+6383.67 about the heat maps
+6385.11 and people associating
+certain parts of their body
+6388.44 with certain emotional feelings,
+6390.84 this goes back to something
+6393.15 called the somatic marker hypothesis,
+6395.64 that was proposed by Antonio Damasio,
+6398.28 who is a neurologist at USC,
+6401.73 the idea that our subjective feeling
+6405.45 of a particular emotion is,
+6408.09 in part, associated with a sensation
+6413.34 of something happening in a
+particular part of our body,
+6417.45 the gut, the heart,
+6420.0 I don't see the liver
+6421.23 invoked very much in
+emotional characterization,
+6426.66 but.
+- But gall
+6427.493 and the gallbladder.
+- Yes.
+6429.33 - Somebody having a lot of gall.
+6430.369 - That's right.
+- I don't know why I make
+6431.202 a fist when I say that.
+6432.035 - Right.
+- But I'm guessing
+6432.868 the gall bladder is shaped like a fist.
+6434.233 [Andrew laughing]
+- That's right,
+6435.6 and if there is a physiology
+underlying these heat maps,
+6440.25 it could reflect increased blood flow
+6442.8 to these different structures.
+6444.3 And that, in turn, reflects
+what you were talking about,
+6448.05 that is, emotion definitely involves
+6450.84 communication between
+the brain and the body,
+6453.72 and it's bidirectional communication,
+6456.84 and it's mediated by the
+peripheral nervous system,
+6461.25 the sympathetic and the
+parasympathetic nervous system,
+6464.49 which control heart rate, for example,
+6467.43 blood vessel, blood pressure.
+6470.19 And those neurons receive
+input from the hypothalamus
+6474.69 and other brain regions,
+6476.88 central brain regions that
+control their activity.
+6480.33 And when the brain is put
+in a particular state,
+6484.98 it activates sympathetic
+and parasympathetic neurons,
+6488.97 which have effects on the
+heart and on blood pressure,
+6493.74 and these, in turn,
+feed back onto the brain
+6498.12 through the sensory system.
+6500.01 And a large part of this
+bidirectional communication
+6503.82 is also mediated through the vagus nerve,
+6507.18 which many of your listeners and viewers
+6510.81 may have heard about
+6511.68 because it's become a topic
+of intense activity now.
+6515.67 People have known for a long time,
+6518.16 so the vagus nerve is a
+bundle of nerve fibers
+6523.53 that comes out basically of your skull,
+6527.25 out of the central nervous system,
+6529.44 and then sends fibers
+into your heart, your gut,
+6535.56 all sorts of visceral organs.
+6539.13 And that information is both,
+6541.44 you used the words
+earlier in our discussion,
+6544.71 afferent and efferent.
+6546.93 So the vagal fibers sense things
+6551.7 that are happening in the body,
+6553.83 so the reason you feel your stomach
+6556.89 tied up in knots if you're tense
+6559.53 is that those vagal fibers
+6561.6 are sensing the contraction
+of the gut muscles,
+6565.86 and they're also afferents,
+6567.72 which means that information
+coming out of the brain
+6571.11 can influence those
+peripheral organs as well.
+6574.74 And there's work from a number of labs,
+6577.08 just in the last six months or so,
+6580.35 where people are starting
+to decode the components
+6584.82 of the different fibers
+in the vagus nerve.
+6588.24 And it's amazing how much specificity is,
+6591.21 there are specific vagal
+nerves that go to the lung,
+6595.32 that control breathing responses,
+6597.57 that go to the gut,
+that go to other organs.
+6601.59 It's almost like a set
+of color-coded lines,
+6606.21 labeled lines for those things.
+6608.07 And now how those vagal afferents
+6611.97 play a role in the playing
+out of emotion states
+6616.56 is a fascinating question
+6618.27 that people are just beginning
+to scrape the surface of.
+6621.66 But I think what's exciting now
+6623.76 is that people are going
+to be developing tools
+6625.95 that will allow us to turn on or turn off
+6628.89 specific subsets of fibers
+within the vagus nerve
+6633.3 and ask how that affects
+particular emotional behaviors.
+6637.02 So you're absolutely right,
+6638.64 this brain-body connection is critical,
+6641.31 not just for the gut, but for the heart,
+6643.98 for the lungs, for all kinds
+of other parts of your body,
+6648.03 and Darwin recognized that as well.
+6650.52 And I think it's a central
+feature of emotion state,
+6654.66 and I think, what underlies
+6656.34 our subjective feelings of an emotion.
+6659.82 - Incredible, well, David, I have to say,
+6662.52 as a true fan of the work
+6664.29 that your lab has been
+doing over so many decades,
+6667.05 and first of all, I was delighted
+6669.12 when you stopped working on stem cells.
+6670.712 [David laughing]
+Not because you weren't doing
+6671.55 incredible work there,
+6672.54 but because I saw a talk
+6674.55 where you showed a movie of an octopus
+6678.42 spitting out, or not spitting,
+6679.86 but squirting out a bunch
+of ink and escaping,
+6682.32 and you said you were going to work
+6683.25 on things of the sort that
+we're talking about today,
+6685.56 fear, aggression, mating
+behaviors, social behaviors.
+6689.07 It's been incredible to see the
+work that your lab has done,
+6691.41 and I know I speak on behalf
+6695.632 of a tremendous number of people
+6697.08 when I say thank you for taking time
+6699.24 out of your important schedule
+6700.74 to share with us what you've learned.
+6702.69 My last question is a simple one,
+6705.48 which is, will you come back
+6707.16 and talk to us again in the future
+6708.87 about the additional
+work that's sure to come?
+6710.82 - I would be happy to do that,
+6712.29 and I really have
+appreciated your questions,
+6715.71 they've all been right on the money,
+6717.45 you've hit all of the
+critical, important issues
+6720.81 in this field.
+6721.86 And you've uncovered what is known,
+6725.61 the little bit is known,
+6726.81 and how much is not known,
+6728.82 and I think it's important to
+emphasize the unknown things,
+6733.11 because that's what the next
+generation of neuroscientists
+6736.74 has to solve.
+6738.09 And so I hope this will help
+6739.32 to attract young people into this field,
+6742.47 because it's so important,
+6744.27 particularly for our
+understanding of mental illness
+6747.6 and mental health and psychiatry,
+6751.65 we've got to figure
+out how emotion systems
+6755.04 are controlled in a causal way
+6757.92 if we ever want to improve
+6759.87 on the psychiatric
+treatments that we have now,
+6762.54 and that's going to require
+6763.89 the next generation of
+people coming into the field.
+6766.71 - Absolutely, I second that.
+6768.81 Well, thank you, it's been a delight.
+6770.34 - Thank you, great, really appreciate it.
+6773.46 - Thank you for joining me today
+6774.6 for my discussion with Dr. David Anderson.
+6776.64 Please also be sure to
+check out his new book,
+6778.807 "The Nature of the Beast:
+How Emotions Guide Us".
+6781.83 It's a truly masterful exploration
+6783.84 of the biology and psychology
+6785.61 behind what we call emotions
+6787.14 and states of mind and body.
+6789.03 If you're learning from
+and/or enjoying this podcast,
+6791.43 please subscribe to our YouTube channel,
+6793.41 that's a simple, zero-cost
+way to support us.
+6795.84 Please also subscribe to the
+podcast on Spotify and Apple,
+6799.08 and on both Spotify and Apple,
+6800.97 you have the opportunity to leave us
+6802.41 up to a five-star review.
+6804.24 If you have questions, or comments,
+6805.59 or suggestions about topics
+you'd like us to cover,
+6807.78 or guests you'd like us to interview
+6809.01 on the Huberman Lab Podcast,
+6810.66 please put those in the
+comment section on YouTube.
+6813.36 We do read all those comments
+6814.77 and we do take them to heart.
+6816.27 Please also check out the sponsors
+6817.59 mentioned at the beginning
+of today's podcast,
+6819.78 and check out Momentous supplements,
+6821.64 our new partners in the supplement space,
+6823.29 and check out Athletic Greens,
+6825.33 that's the best way to
+support this podcast.
+6827.61 If you're not already
+following us on social media,
+6829.86 please do so.
+6831.18 We are hubermanlab on Twitter,
+6832.92 and we are also hubermanlab on Instagram.
+6834.96 And both places, I cover science
+and science-related tools,
+6838.29 some of which overlap with the content
+6839.88 of the Huberman Lab Podcast,
+6841.05 but much of which is
+unique from the content
+6843.27 covered on the Huberman Lab Podcast.
+6844.8 Again, that's hubermanlab on Instagram
+6846.177 and hubermanlab on Twitter.
+6848.16 Please also check out our Neural
+Network monthly newsletter.
+6851.04 This is a newsletter that has
+summaries of podcast episodes,
+6854.55 it also includes a lot
+of actionable protocols.
+6856.83 It's very easy to sign
+up for the newsletter,
+6858.87 you go to hubermanlab.com,
+6860.43 click on the menu, go to Newsletter.
+6862.14 You supply your email,
+6863.13 but we do not share
+your email with anybody,
+6865.11 we have a very clear and
+rigorous privacy policy,
+6868.02 which is we do not share
+your email with anybody.
+6870.24 And the newsletter comes out once a month,
+6872.73 and it is completely zero cost.
+6874.29 Again, just go to hubermanlab.com
+6876.297 and go to the Neural Network Newsletter.
+6878.76 I'd also like to point out
+6879.78 that the Huberman Lab
+Podcast has a clips channel.
+6882.24 So these are brief clips,
+6884.58 anywhere from three to 10 minutes,
+6886.62 that encompass single concepts
+and actionable protocols,
+6890.19 related to sleep, to focus,
+6892.11 interviews with various guests,
+6893.37 we talk about things like caffeine,
+6894.78 when to drink caffeine relative to sleep,
+6897.21 alcohol, when and how and
+if anyone should ingest it
+6899.85 relative to sleep,
+6901.59 dopamine, serotonin, mental
+health, physical health,
+6904.2 and on and on,
+6905.1 all the things that relate to the topics
+6907.05 most of interest to you.
+6908.4 You can find that easily
+by going to YouTube,
+6911.07 look for, "Huberman Lab
+Clips," in the search area,
+6913.547 and it will take you there, subscribe.
+6915.54 And we are constantly
+updating those with new clips.
+6917.88 This is especially useful, I believe,
+6919.44 for people that have missed
+some of the earlier episodes
+6921.45 or you're still working through
+6922.35 the back catalog of Huberman Lab podcasts,
+6924.15 which admittedly can be rather long.
+6926.28 And last but certainly not least,
+6928.56 thank you for your interest in science.

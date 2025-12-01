@@ -1,0 +1,2886 @@
+0.38 - Welcome to the Huberman Lab Podcast
+2.37 where we discuss science
+and science-based tools
+4.94 for everyday life.
+9.57 - I'm Andrew Huberman, and I'm
+a professor of neurobiology
+12.36 and ophthalmology at
+Stanford School of Medicine.
+15.88 This podcast is separate
+17.03 from my teaching and
+research roles at Stanford.
+19.48 It is however, part of
+my desire and effort
+21.66 to bring you zero cost
+to consumer information
+23.78 about science and science related tools
+25.89 to the general public.
+27.57 And keeping with that theme,
+28.71 I'd like to thank the
+sponsors of today's podcast.
+31.78 Our first sponsor is InsideTracker.
+34.52 InsideTracker is a
+personalized nutrition platform
+37.14 that analyzes data from your blood and DNA
+39.64 to help you better understand your body
+41.34 and help you reach your health goals.
+43.81 I've long been a believer in
+getting regular blood tests
+46.98 and the simple reason for that
+48.71 is that so many of the factors
+50.28 that impact our immediate and
+longterm health and wellbeing
+53.98 can only be analyzed from blood.
+56.23 And now with the advent
+of modern DNA tests,
+58.58 you can get additional
+layers of information
+60.82 that can really support your understanding
+62.5 about what's going on deep
+under the hood, so to speak
+66.5 inside your body and brain
+and what to do about it.
+70.337 And I think that's really
+where InsideTracker
+72.29 sets itself apart from
+other similar tests.
+75.68 What InsideTracker
+offers is, first of all,
+78.34 they make the tests very easy.
+79.9 They can come to your home to
+take your blood and DNA test
+82.24 or you can go to a
+testing center nearby you.
+85.31 Then you get the information back
+86.88 and rather than just getting information
+88.67 about whether or not the
+levels of various things
+90.56 are high or low,
+92.27 you also get to find
+out what to do about it.
+95.23 So it offers directives
+related to nutrition,
+97.88 to exercise and so forth.
+100.21 It's really allow you to be in control
+102.9 of your overall health,
+both where you are now
+105.32 and its long-term trajectory.
+107.85 With InsideTracker, they
+also have something which is
+111.49 it can give you a readout
+of your inner age.
+113.64 They have something
+called the inner age test
+115.24 that really compares your biological age
+117.5 to your chronological age,
+118.66 something that's of extreme
+importance and interest
+120.88 because it has to do with
+lifespan or predicted lifespan.
+124.34 If you'd like to try InsideTracker
+125.85 you can visit insidetracker.com/huberman
+128.65 and if you do that, you'll get 25% off
+130.92 any of InsideTracker plans.
+132.68 Use the code Huberman at checkout.
+134.84 That's insidetracker.com/huberman
+to get 25% off
+138.38 any of InsideTracker's plans
+140.0 and use the code Huberman at checkout.
+142.55 Today's episode is also
+brought to us by Helix Sleep.
+145.62 Helix Sleep is a company that
+makes mattresses and pillows
+148.31 ideally suited to your sleep needs.
+150.8 I've been sleeping on a Helix mattress
+152.47 for the last six months,
+and I can honestly say
+154.94 it's the best sleep that I've ever gotten.
+157.41 Helix Sleep has a quiz that can match you
+159.49 to the ideal mattress and pillows for you.
+162.87 It's a quiz that takes
+just about two minutes,
+165.14 asks you questions like do
+you tend to sleep on your side
+167.62 or your back on your stomach?
+169.62 Or maybe you don't know,
+170.62 whether or not you tend to wake up
+171.76 feeling too warm or too cold?
+173.66 Various questions about your sleep habits.
+176.45 At the end of that quiz,
+177.29 it matches you to a specific mattress
+179.37 that's perfect for your sleep needs.
+181.2 For me, it matched me to the dusk, D-U-S-K
+184.27 because I wanted a mattress
+185.28 that wasn't too firm nor too soft
+187.96 and I really love the mattress.
+189.24 As I mentioned, I've been
+sleeping terrifically well
+191.37 ever since I got that mattress.
+193.33 If you're interested in
+upgrading your mattress
+195.02 you can go to helixsleep.com/huberman,
+197.61 take their two minutes sleep quiz
+199.15 and they'll match you
+to a customized mattress
+201.01 and then you'll get up to
+$200 off all mattresses
+204.22 and you'll get two free pillows.
+206.61 They have a 10 year warranty.
+207.95 You get to try it out for a
+hundred nights, risk-free,
+210.39 if you don't like it, they'll
+even pick it up for free,
+212.47 take it away but I really think you will,
+214.84 I certainly love mine.
+216.16 Again, if you're interested,
+217.1 you can go to helixsleep.com/huberman
+for up to $200 off
+220.82 and two free pillows.
+222.67 Today's episode is also
+brought to us by Theragun.
+226.1 Theragun is a handheld
+percussive therapy device
+228.24 that releases deep muscle tension.
+230.7 I first learned about
+Theragun on a lab expedition.
+233.88 We're actually headed out to ocean
+235.83 where we were doing diving
+with great white sharks,
+238.34 filming those for our VR fear
+experiments in the laboratory
+242.29 and it was very long days
+of carrying Pelican cases,
+245.76 those are cases these hard
+plastic cases with equipment,
+249.12 it was diving, we were all
+sore and tired all the time.
+253.0 And someone had brought along a Theragun.
+254.817 It was the first time I had seen one
+256.67 and pretty soon that thing
+was getting passed along
+258.51 and became one of the more
+coveted devices on board.
+261.15 Everyone wanted time with this
+thing because it was great,
+263.06 you could give yourself
+a really terrific massage
+266.06 and get deep into the
+tissue and relieve soreness.
+268.81 When I got back, I got a Theragun
+270.47 and so I'm delighted that
+they're sponsoring the podcast.
+273.77 Whether or not you want
+to treat your muscles
+276.0 because they're tense from working out
+277.51 or whether or not you just
+want to release stress,
+279.1 it's a terrific tool.
+280.84 Many of you are familiar probably
+with professional massages
+284.07 but Theragun is
+interesting because you can
+286.17 basically give yourself
+a deep tissue massage,
+288.37 anytime, anywhere, it's also very quiet.
+291.28 If you want to try Theragun,
+you can try it for 30 days.
+294.06 They start at only $199.
+296.25 You can go to
+theragun.com/huberman right now
+299.68 and you can get your gen
+fourth Theragun today,
+301.68 that's the one that I use or
+another one of their models.
+303.93 That's Theragun.com/huberman
+to try Theragun.
+308.63 This episode marks the
+beginning of a new topic
+311.5 for the Huberman Lab Podcast.
+313.85 As many of you already know,
+315.83 we go deep into a
+particular topic over four,
+318.4 sometimes even five episodes.
+320.41 We just closed out the
+episodes on hormones.
+323.32 Now we are going to talk
+324.52 about how to optimize physical performance
+327.16 and skill learning.
+328.72 We're going to look deep
+at the science behind this
+331.08 as well as specific practices.
+333.57 In fact, today, you're going
+to hear about specific tools
+336.45 that you can use to improve
+endurance and strength by up to,
+341.17 I'm not making this up,
+342.22 three or four times your current capacity.
+345.25 This is based on studies
+that were done at Stanford
+347.75 and are currently in use
+349.18 by collegiate and professional teams.
+352.64 If you're not a professional
+athlete or a serious athlete,
+355.47 that's okay.
+356.303 The topics, this month
+357.37 and all the information
+we are going to cover
+359.3 are going to make you
+360.133 a better recreational exerciser as well.
+363.7 If you're not an exerciser
+364.95 and you're thinking
+about getting into that
+366.38 or if you live in the Northern hemisphere
+368.1 and you're just thinking
+about the beach this summer
+370.51 or fat loss, muscle
+building, that sort of thing,
+373.67 this month we're going to
+cover all of that as well.
+376.4 There's so much confusion out there
+378.13 about how to optimize fat
+loss, muscle building,
+381.23 improvements in flexibility, for instance,
+383.32 or skill learning.
+384.43 I know many of you, aren't so focused
+386.11 on the cosmetic aspects
+of physical exercise
+389.23 but are interested in
+actual skill learning,
+391.41 we're going to talk about that too.
+394.06 I want to just take a moment
+395.74 to reflect on something
+that came up last episode.
+398.59 If you didn't see that episode,
+that's quite all right.
+401.35 But last episode, we were talking
+402.81 about the hormones,
+adrenaline, and cortisol
+405.15 and how to leverage those
+towards attention and learning
+408.8 and there was a little bit of confusion
+410.42 that I want to clarify.
+411.84 I mentioned an optimal
+protocol for learning
+414.38 that involves leveraging
+adrenaline also called epinephrin
+418.06 and it involved four steps.
+420.35 The four steps that I spelled out
+422.38 were to be calm and focused
+424.99 while one is trying to acquire
+or learn the new skill,
+428.7 cognitive skill or motor skill,
+430.52 then to have a spike in adrenaline.
+433.52 I mentioned ways to do that,
+435.06 using cold or breathing or other tools,
+438.06 immediately after the learning episode
+440.73 then to incorporate what I
+call non sleep deep rest,
+444.05 a 20 minute episode of a shallow
+nap or some other protocol
+449.55 like NSDR, non sleep deep rest protocol
+452.19 of which we always provide
+links in the captions.
+455.12 And then to try and optimize
+sleep later that night
+458.35 and the subsequent night.
+459.83 Some of you heard this
+and it sunk in right away
+463.44 and it was straight forward.
+464.65 Others said, wait, I thought
+from a previous episode
+467.33 even before that, you said you're supposed
+468.82 to do non sleep deep rest
+immediately after learning, no.
+472.06 We added another step,
+the logic still follows
+475.93 that you want to be calm
+and focused during learning,
+479.09 then you want to spike
+adrenaline at the end.
+481.0 Most people get that backward,
+482.37 they're drinking too much coffee
+483.64 or even taking nootropics and things,
+485.26 trying to be really
+focused while learning.
+487.18 Some people are taking
+Adderall recreationally
+489.7 something I don't recommend,
+491.08 that's actually getting
+the whole process backwards
+493.2 if you look at the data in the physiology.
+495.07 You want to spike adrenaline at the end
+497.36 or immediately after a learning episode
+500.09 and then non sleep deep rest
+and then sleep itself, okay?
+504.75 Four steps, hope that
+clarifies things for you,
+507.01 if you have any additional questions
+508.39 please put them in the
+comment section below.
+511.32 Okay, so let's talk about
+physical performance.
+514.93 There are so many variables
+to physical performance
+517.95 and we can manage physical
+performance and skill learning
+521.72 from a variety of contexts.
+523.86 I made just a short list
+of some of the things
+525.64 that come to mind that
+can powerfully impact
+527.95 physical performance and skill learning.
+530.29 Some of them are what I
+would consider foundational.
+533.21 They allow you to show
+up your current ability
+536.72 and if you were to disrupt those,
+538.74 you would perform less well.
+540.58 So things like getting
+a good night's sleep,
+543.39 things like being properly hydrated,
+546.0 things like being well nourished,
+548.11 whatever that means to you.
+549.21 I know some of you like
+to exercise fasted,
+551.16 some of you prefer to
+have food in your stomach
+554.68 or have eaten a couple hours before.
+557.61 There are supplements, there are drugs,
+559.26 there are different ways to breathe,
+560.77 there are so many tools related
+to mindset, visualization,
+564.34 there are machines and devices,
+it's just a vast space,
+568.46 but it's not infinite.
+570.36 And there are a few things
+in the list of things
+573.92 that can impact and even
+optimize physical performance
+577.48 and skill learning that
+have an outsized effect
+581.08 that any of you can use.
+582.44 Many of them, most of them
+are low to zero costs.
+585.89 So today we are going to
+focus on what I believe to be
+589.77 one of the most powerful tools
+592.49 to improve physical performance
+594.73 and skill learning and recovery
+597.54 and we'll talk about why that's important
+600.43 and that's temperature.
+602.58 Now many of you might think,
+oh, well that's kind of boring,
+604.81 I want to know about the
+magic pill that I can take
+607.42 that's going to allow
+me to dunk a basketball
+609.1 if I currently can't or I
+want to know about the thing
+611.12 that's going to let me
+run further and faster
+612.82 is going to shed fat.
+614.25 Believe it or not, temperature
+is the most powerful variable
+618.9 for improving physical
+performance and for recovery.
+623.21 I would argue it's even
+more important than sleep
+625.88 because temperature itself
+is going to dictate how well
+629.61 and when you sleep and the
+depth of your total recovery.
+633.55 There are two aspects to
+temperature of course,
+636.19 there's heat and there's cold.
+638.83 We are mainly going to focus on cold
+641.67 as a way to buffer heat.
+644.02 In a previous podcast episode,
+646.0 I talked all about growth hormone.
+647.82 You can find that episode about
+fibroid and growth hormone
+650.22 and how heat can be a powerful stimulus
+652.53 for increasing growth hormone
+654.55 which is involved in
+tissue repair and et cetera
+656.99 and burn fat and improve
+metabolism in various ways.
+660.74 However, cold I would argue
+663.72 is even more powerful than heat as a tool
+666.57 and I'm not just talking
+about putting ice packs
+668.63 on sore muscles or slightly
+sprained limbs and ankles
+673.4 and things of that sort.
+674.82 We're going to talk about cold
+676.23 from the standpoint of thermal physiology.
+679.87 This is a literature that's
+rich in scientific information
+683.71 that goes back very deep
+into the last century
+687.72 where physiologists and
+neuroscientists figured out
+690.58 that there are different
+compartments in your body
+693.36 that heat and cool you differently
+695.49 and that you can leverage
+those in order to double
+698.63 and as I mentioned before
+699.463 even triple or quadruple your work output
+701.76 both strength, repetitions, and endurance.
+704.87 So this is not weak sauces that they say,
+707.42 this is the stuff that can
+708.82 really shift the needle quite a bit
+711.72 and it's not just about well once,
+714.7 it's about being able to
+perform well and recover
+717.09 from that performance so
+that you do even better
+719.52 when you're not incorporating these tools
+722.11 on days where for instance,
+you can't access cold
+725.67 or an ice pack or an ice bath
+or things of that sort, okay?
+729.29 So we're going to cover cold,
+we're going to talk a little bit
+731.53 about the physiology of cold
+and heat and how they work
+735.34 because as you've probably
+heard me say before
+739.17 if you can understand some mechanism,
+741.26 if you can just push yourself
+742.34 through a little bit of new knowledge,
+743.78 into understanding a
+little bit of mechanism
+746.52 about how you work, you'll
+be in a far better position
+750.1 to implement the tools in the
+best and most flexible ways
+753.51 for your needs.
+754.81 This is why at the Huberman Lab Podcast,
+757.25 I never ever do a just list of the things
+760.33 that you should do.
+761.35 I don't believe in that,
+just tell me what to do.
+763.63 First, I tell you why
+you should do something.
+765.88 What's the logical framework
+that it's grounded in
+768.24 and then we distill that
+down to specific protocols.
+771.68 For those of you that are
+too impatient for that,
+773.36 there are millions, if not billions
+775.49 of other resources out
+there that will take you
+777.26 into the cul-de-sac of one
+protocol that will work
+780.67 and then stop working or might
+work for you indefinitely,
+783.3 that's not how we work here.
+784.97 This is about really
+understanding the mechanism
+787.62 so that you can tweak
+things and modify things,
+790.32 adjust the timing and the dosage of things
+792.45 and really get the most out
+of these tools and protocols.
+796.15 Everything I'm going to talk about
+798.45 pertains to both endurance exercise
+801.05 and strength and speed type exercise.
+804.6 So sprints, weightlifting, endurance work
+807.6 and to some extent, flexibility
+809.14 but we're going to cover
+flexibility in depth
+812.09 as well as another feature
+that's not often talked about
+814.4 which is suppleness or
+smoothness of movement
+817.32 over different ranges of
+movement in a subsequent episode.
+821.99 Let's start by talking about temperature.
+824.01 What is temperature?
+825.74 How does temperature impact the body
+828.38 and its ability to perform,
+including learn new skills?
+832.37 So everyone probably remembers,
+834.59 or has at least heard of
+the word homeostasis, right?
+838.3 That the body wants to remain
+840.13 in a particular range of temperatures,
+842.77 that it doesn't like to
+be too hot or too cold.
+845.69 And I want to emphasize from the outset
+848.27 that there are many mechanisms
+that are installed into us
+852.13 by way of our evolutionary
+design and our genome
+855.83 meaning we were just born
+with this stuff ready
+858.68 to keep our body temperature
+in a particular narrow range.
+862.71 Heating up too much is just plain bad.
+866.42 It's not just bad for
+physical performance,
+868.28 it's bad for all tissue health.
+871.68 If your brain heats up too
+much, neurons start dying
+875.01 and those neurons don't come back, okay?
+877.83 You may have heard about neurogenesis,
+879.49 the ability for the brain
+to regenerate itself
+882.08 or generate new neurons and adulthood,
+883.67 there's very little neurogenesis
+excuse me, in adulthood,
+888.42 even after anytime after puberty really
+890.91 and you don't want to lose neurons
+893.62 in the central nervous system.
+894.92 If you get too hot, that'll happen.
+896.7 It's called hyperthermia, you
+want to avoid hyperthermia
+899.7 and you have many mechanisms
+901.3 that are built into you to
+avoid becoming hyperthermic.
+905.85 The other thing that
+happens when we get too warm
+908.61 is that we have in all of our cells,
+911.81 what are called enzymes.
+913.746 You generally know if
+something's an enzyme
+916.62 because it ends in the
+letters, A-S-E, right?
+919.97 So lipase is an enzyme
+that exists to digest fats.
+925.21 You have proteases that are
+there to digest proteins, right?
+929.95 So anytime you see A-S-E
+chances are it's an enzyme.
+935.16 Enzymes are proteins, and they
+have a particular structure
+941.14 and their structure becomes
+modified when heat increases
+946.32 and that's not good.
+947.47 You want their structure
+to be of a particular type.
+950.37 Imagine a car with four wheels,
+952.61 let's just say the car is the enzyme.
+955.06 If it gets too hot, it's like
+two of the wheels fall off
+958.51 and that thing can't function.
+959.88 So one of the reasons
+why the body and nature
+963.01 goes through so much effort
+to build in mechanisms
+965.83 to make sure that we don't become too warm
+967.99 is because when we get to warm,
+970.04 these enzymes don't function,
+cells stop functioning,
+973.5 they stop being able to generate energy,
+975.76 they stop being able to digest things,
+978.43 you stop being able to think
+980.32 and eventually those cells
+start dying off entirely.
+984.52 So keeping temperature in a
+particular range is really good,
+987.64 you don't want to get too hot.
+989.49 We have much more flexibility
+in terms of getting cold.
+992.82 Now you don't want to
+become hypothermic either.
+995.1 You can die from hypothermia
+996.5 just like you can die from hyperthermia.
+999.17 However that you have a
+lot more range to be cold
+1004.31 than you do to be too warm, okay?
+1006.98 And in general, the idea is
+to keep the body and brain
+1010.67 in a particular range but
+anytime we do anything,
+1014.8 our body temperature can shift.
+1016.88 So for instance, if you were
+to stand next to a campfire
+1021.02 or you were outside on a hot day,
+1023.1 various things would happen
+to dump heat from your body.
+1026.99 If you were outside on a cold day
+1028.62 or you were to get into a
+cold shower or a cold lake,
+1031.76 various things would happen
+1032.86 to insulate heat within your body.
+1034.44 This is all pretty straightforward
+and obvious I realize.
+1037.07 Now, what are those things?
+1038.67 Well, there are a huge category of them.
+1041.22 When you get into cold water,
+you secrete adrenaline.
+1044.03 On a hot day, if it's really
+hot or in a very hot sauna
+1047.25 or in the hot desert,
+1048.083 you will generate what are
+called heat shock proteins
+1050.48 which will set off other sets of cascades,
+1053.56 metabolic cascades, biological cascades.
+1057.6 But the simplest way to think
+about this process is that
+1061.06 when we get cold, we
+tend to vasoconstrict.
+1065.36 Our blood vessels tend to constrict
+1067.68 and we tend to push energy
+toward the core of our body
+1071.15 to preserve our core organs, okay?
+1073.34 So our periphery, our hands
+and our feet and our toes
+1076.17 and our legs become colder
+1077.95 and our core therefore can
+maintain blood to that area
+1081.66 and we are insulating our core.
+1084.46 Conversely, when we heat up
+our blood vessels vasodilate,
+1088.91 they expand a bit and more
+blood flows to our periphery
+1093.06 and more blood can move
+throughout the body generally
+1096.26 and we will perspire, we will
+sweat, water will actually
+1100.58 get pulled out of the
+blood to some extent,
+1103.15 moved up through sweat glands
+1104.66 and will be brought to the skin surface
+1107.22 so that it can be dumped,
+we are dumping heat.
+1110.84 Animals, as you know vary
+in their capacity to sweat.
+1114.65 Some animals like camels
+won't start sweating at first
+1118.37 if they heat up, what
+they'll do is they'll spit,
+1120.56 they'll dump heat by spitting, okay?
+1123.26 Dogs pant, Castilla is
+off to my left here,
+1126.35 he pants when he gets
+too warm, he can't sweat
+1129.88 or dogs can maybe sweat a little bit.
+1132.72 But we can sweat and
+you've probably noticed
+1136.7 that on a humid hot day,
+you'll feel much warmer
+1141.35 just walking or running than you would
+1143.83 with the equivalent exercise or movement
+1146.61 than you would on a cold day.
+1148.11 And some of you probably
+know this, but if you don't
+1150.4 the reason is you sweat on a cold day,
+1153.34 but because the air is dry typically,
+1156.7 you will bring that sweat to the surface
+1159.81 and provided you're wearing clothes
+1161.81 that allow some air to get
+out away from the body,
+1166.75 so you're not wearing,
+you know, really tight,
+1168.17 you know spandex type clothing
+or something like that,
+1170.253 or, you know seal type
+saran wrap type clothing
+1173.7 that sweat will evaporate
+off into the dry atmosphere.
+1177.47 Whereas on a humid day,
+the reason you see people
+1180.18 in New York and Florida
+on a humid summer day
+1182.69 and they're like moving
+their shirts off themselves
+1184.41 and you see people with, you know
+1185.28 big sweat stains and back sweat stains
+1187.34 and all this kind of stuff
+is because they're sweating
+1191.02 as they normally would, but it's humid
+1193.34 and so there is the humidity,
+the air doesn't allow transfer
+1197.32 of that sweat into the
+atmosphere as readily
+1200.37 and so you're hot, okay?
+1202.68 So without the evaporation,
+you're going to be warmer.
+1206.52 So we evaporate off sweat, we sweat
+1209.44 and we vasodilate when
+we want to dump heat.
+1211.74 When we want to maintain
+heat, we vasoconstrict
+1214.7 and we tend to not sweat.
+1216.64 The other thing that happens
+is you'll get goosebumps.
+1219.51 So-called goose pimples
+they're sometimes called.
+1221.99 Those are a throwback to the time
+1224.33 where we had fur over
+most, not all of our body.
+1227.8 All mammals in the cold have a process
+1231.84 whereby adrenaline is
+released at low levels
+1234.93 typically into the body,
+that adrenaline activates
+1239.16 what are called sympathetic fibers,
+1240.65 they have nothing to do with sympathy,
+1242.33 those little fibers, which are neurons,
+1244.43 those fibers that what I'm
+saying are fibers are neurons,
+1246.86 not clothing fibers,
+reach up into the skin
+1249.47 so your whole body is covered
+with these little tiny neurons
+1251.98 that reach up into the
+skin and when we are cold,
+1254.83 they actually mechanically
+take the hair follicle
+1257.9 and bend it up, it's a
+process called pilo erection,
+1262.63 P-I-L-O erection, okay?
+1265.36 So on a hot day, you
+want to dump heat, okay?
+1269.56 So on a hot day, what would happen is
+1271.96 you'd actually not see those goose pimples
+1274.48 because you want the hairs lying down
+1276.51 which actually you would think
+that might insulate you more
+1278.86 but we'll actually let
+more heat dissipate out
+1281.05 through the skin.
+1282.38 On a cold day, you get these
+goose pimples or goosebumps
+1285.66 which are really just
+an ancient carry over
+1287.89 from the body's attempt to
+make hair stand up on end.
+1292.06 And when hair step stand up on end
+1294.23 and they're very close together
+1295.17 that traps air in between
+them and actually creates
+1297.81 a sort of insulated blanket of warm air.
+1300.57 If you've ever seen an animal
+like a a Malamute or a Husky,
+1305.85 you might think, oh that
+poor thing on a hot day,
+1308.32 what does it do?
+1309.3 You know, with all that hair?
+1310.14 Well, it can be warm so the
+animal will typically pant
+1312.96 and its hair will lay down,
+which you might think would act
+1316.02 as more of a blanket, but on a cold day
+1318.36 what'll happen is they'll
+become very puffy.
+1321.44 Their hair will stand up on end
+1323.33 and that's actually trapping
+heat between the hairs
+1325.66 and they're actually quite well insulated.
+1327.68 So it's very important that
+if you want to understand
+1331.3 how you can leverage temperature
+for physical performance,
+1335.55 you have to understand
+1336.86 that you have vasoconstriction
+to conserve heat,
+1338.91 vasodilation to dump heat,
+1340.58 that you are sweating to dump heat,
+1342.21 and you have conservation of fluids
+1344.7 in order to preserve heat.
+1347.9 That's the most important thing
+1349.52 in terms of understanding the mechanisms
+1351.5 of maintaining and dumping heat.
+1353.4 And now the most important
+thing to understand is that
+1356.48 if you get too hot, not only
+do those enzymes stop working
+1360.53 but your ability to contract
+your muscles stops, okay?
+1365.24 I'm going to repeat this
+because it's vitally important.
+1369.24 ATP is involved in the process
+1372.6 of generating muscle contractions,
+1374.33 it doesn't matter if
+you're running a marathon,
+1375.96 doesn't matter if you're
+doing a yoga class,
+1377.52 doesn't matter if you're
+going for a 700 pound squat,
+1381.23 the range of temperatures
+within which ATP can function
+1384.97 and muscles can contract is very narrow.
+1387.92 Somewhere around 39 or 40
+degrees Celsius, it drops off
+1392.54 and you will not be able to
+generate more contractions.
+1396.3 Now that's pretty hot,
+but that temperature
+1398.68 can be generated locally really fast.
+1401.1 Now, if you're too cold,
+1402.5 it's true it's hard to
+generate muscle contractions.
+1404.65 I got into doing some cold water
+swimming a little while ago
+1408.45 and we would joke that, you
+know, you come out of the water,
+1410.5 we do no wetsuits,
+1412.22 I'm not recommending
+people do this necessarily
+1414.07 unless you're with certainly
+1415.02 with somebody else who's skilled
+at doing it, which I was.
+1417.15 And you come out
+1418.23 and you feel like you
+have claws for hands.
+1420.29 You can, you know, you
+could never text on a phone
+1422.33 for the first few minutes,
+1423.25 I mean, the water was very, very cold
+1425.22 and you can't even move your face
+1426.69 and so muscles will become rigid
+1428.84 but heating up muscles causes
+them to fail to be able
+1433.22 to generate more contractions.
+1435.38 Put simply if you get too
+hot, you stop exercising.
+1439.41 You may not even realize it
+1440.76 but your will to exercise further,
+1443.4 your ability to push harder
+1445.93 is entirely dependent on
+the heat of the muscle
+1448.9 both locally and your whole system.
+1451.78 So let's talk about your whole system
+1454.33 because I just described heat
+dumping and heat maintaining.
+1458.13 I told you that increasing heat
+1460.73 makes it hard for muscles to contract.
+1462.77 It will stop you from being
+able to run further and faster,
+1466.63 it will stop you from being
+able to lift more weights,
+1469.49 more sets, more repetitions.
+1471.53 If you can keep temperature
+in range however,
+1474.81 in a proper range, you will
+be able to do more work,
+1478.84 you will be able to create greater output,
+1481.6 you'll be able to lift more
+weight, more sets, more reps
+1485.17 and you'll be able to run further.
+1487.59 Now, there are data that I'm going to talk
+1489.441 about in a little bit that
+are absolutely striking
+1491.91 that underscore that statement.
+1493.21 There are data from my
+colleague Craig Heller's lab
+1495.26 in the department of biology at Stanford
+1497.28 and there are data that
+are now being implemented.
+1499.87 They were first implemented
+in a grant funded by DARPA
+1503.17 but now in professional sports teams.
+1505.14 Many, if not all the NFL teams
+are now using this technology
+1509.06 as well as military uses it
+1510.74 and not just for sports
+performance, but also firefighters,
+1514.22 construction workers, other professions
+1517.0 where elevated heat becomes
+a barrier to performance
+1520.67 and you can leverage this to
+really improve your workouts.
+1523.91 And when I say really
+improve, it is striking.
+1526.06 I'm going to give away a
+little hint of this now
+1527.63 and then I'm going to
+tell you a little bit more
+1528.79 of the data later after
+I tell you the protocols.
+1532.24 Proper cooling of the body,
+1535.69 which has to be done
+in a very specific way,
+1538.55 has allowed recreational athletes,
+1541.09 college students and typical adults
+1543.09 as well as professional athletes
+1545.13 to go from doing their usual output.
+1548.3 In this case what comes to mind best
+1550.39 would be a particular
+professional athletes
+1552.64 that a member of the 49ers at the time
+1555.12 was able to do 40 dips on
+his first set, 30, 20, 20,
+1558.64 basically to 10 sets of dips
+unassisted with anything else.
+1561.86 That's an impressive
+1564.17 especially since he's a really large guy,
+1566.92 40 dips is as a respectable,
+1568.45 these are strict, full, full range dips.
+1571.86 And then by the 10th set,
+there's a steep drop-off.
+1574.16 Using proper cooling of
+particular body compartments,
+1578.78 he was able to triple that
+within less than a week
+1583.3 and maintain that performance
+1585.38 even without the cooling approach.
+1586.83 So it was actually a
+conditioning effect, all right?
+1589.9 I'll get back to this in a little bit
+1591.44 but there are other
+fantastic leaps of effort
+1595.41 and leaps of performance
+that were demonstrated
+1598.83 including endurance running.
+1602.11 Before I continue any, I
+just want to underscore again
+1605.12 that overheating is terrible.
+1607.04 There's a famous example of this.
+1610.5 This was about 10, 15 years ago
+1612.5 when a number of dietary supplements
+1614.65 that included things like
+epinephrin which is a stimulant,
+1617.78 it's a beta adrenergic stimulant,
+drugs like Clenbuterol,
+1622.39 which were then banned from the Olympics,
+1624.38 which are still out there
+have been in recreational use
+1626.42 which were beta adrenergic
+agonist so these are drugs
+1629.91 that sort of mimic epinephrin
+adrenaline to some extent,
+1633.82 I know I'm oversimplifying this here.
+1635.4 They improve flat loss because
+of the effects on metabolism
+1638.61 but they heat up the body.
+1640.22 And what happened was, this
+hit the press very widely
+1642.72 is high school football players
+1644.61 and various professional
+athletes were dropping dead
+1646.88 because they were overheating
+1647.84 during practice or in competition.
+1649.87 So much so that Clenbuterol was banned.
+1652.76 Although every once in a while,
+1653.7 somebody gets in trouble for using this,
+1656.71 there was an incidence of this recently
+1658.05 in professional boxing which
+was attributed to a bad meat
+1661.21 that had contained the Clenbuterol.
+1662.89 I don't know what the source was,
+1666.05 I don't have any commentary about that,
+1667.62 but it still is in use,
+1668.88 but these drugs increased
+body temperature,
+1671.79 increased fat loss, but
+carry is severe danger
+1675.97 and that's the danger of hyperthermia.
+1678.6 In fact, I would argue and I
+think in talking to some folks
+1681.79 at in various professional
+fighting organizations
+1683.97 it's very clear that a lot
+of the deaths that one sees
+1686.42 in professional combat
+sports may have to do
+1690.25 as much with dehydration and overheating
+1693.09 as it does with getting hit in
+the head, which is also bad,
+1696.5 but that things can compound
+1697.84 that can have a synergistic effect.
+1699.97 And just a note about
+that and hyperthermia
+1702.68 and it's dangerous as well.
+1704.53 My first project ever in science
+1706.31 was to evaluate the thermogenic
+effects of MDMA or ecstasy.
+1710.32 That was my senior thesis
+in college actually.
+1713.66 And what we found was that indeed drugs
+1717.67 that remove your understanding
+of how warm you are
+1721.95 cause you to not take on
+the appropriate behaviors
+1725.6 to cool yourself, right?
+1727.28 So your vasoconstriction
+and you're sweating,
+1730.72 those are autonomic,
+1731.86 those are going to happen no matter what
+1733.34 unless you happen to take
+something that blocks that effect.
+1736.47 However, there are a lot of things
+1737.7 that we as humans do to prevent
+ourselves from overheating
+1741.1 and the main one is stop.
+1744.12 When we are running in the desert
+1746.01 or when we're running very
+hard and suddenly we stop,
+1749.22 oftentimes that's because
+the muscles are overheating,
+1752.07 it's a subconscious thing.
+1753.49 We won't often think, oh,
+I'm really much too warm,
+1755.95 it's just that we stop
+1757.65 and it's a self-preservation mechanisms.
+1759.8 Sometimes it kicks into early,
+sometimes it kicks into late.
+1763.36 Kicks in too late, you can die.
+1765.44 There's an instance in the 1984 Olympics
+1767.42 where there was the first year I believe
+1770.14 that there was a women's marathon,
+1772.4 I think that's correct.
+1773.61 And one of the front runners
+or top picks for winning
+1777.03 was heading into the stadium
+1778.49 and all of a sudden, it
+seemed as if she was lost,
+1781.27 she was kind of wandering around
+1782.66 not knowing where she should go
+1784.15 and in fact, she was in a position to win
+1786.19 or at least take second
+place, at least take silver,
+1788.77 got totally disoriented and
+did miserably in the race
+1792.06 and she was hyperthermic,
+1793.74 she was running against
+that reflex to stop.
+1796.71 So dumping heat is key.
+1798.64 So how do you dump heat in
+order to perform longer safely?
+1804.63 Well, in order to understand
+that you have to understand
+1807.19 that the body has three main compartments
+1809.7 for regulating temperature, okay?
+1811.62 We don't just have a
+center and a periphery,
+1813.72 we have three main compartments
+1815.41 and there's one compartment in particular
+1817.64 that all of you or most all
+of you, I have to assume have
+1822.45 and if you can understand how that works,
+1825.4 you can do tremendous
+things for your performance
+1827.91 and for your recovery.
+1829.66 So what I'm about to tell you
+1830.9 will allow you to perform
+better in all forms of exercise
+1834.77 and it is not commonly known,
+1836.81 unfortunately, I'm here
+to try and change that.
+1839.78 You have three compartments
+1841.11 for increasing or dumping
+heat in your body.
+1844.99 One is your core, we
+already talked about that.
+1848.19 Your core organs, your heart,
+1849.39 your lungs, your pancreas, your liver,
+1851.97 this is the core of your body.
+1854.05 The other is your periphery,
+which are obviously your arms
+1858.12 and your legs and your
+feet and your hands.
+1860.31 But then there's a third component
+1862.82 which has their three
+locations on your body
+1866.12 that are far better at
+passing heat out of the body
+1869.93 and bringing cool into the body
+1872.8 such that you can heat up
+1874.95 or cool your body everywhere very quickly.
+1879.3 Those three areas are your
+face, the palms of your hands
+1884.44 and the bottoms of your feet.
+1886.72 Now, the skin on your hands
+and on the bottoms of your feet
+1889.81 and to some extent on your
+face are called glaborous skin.
+1893.33 That's G-L-A-B-O-R-O-U-S glaborous skin.
+1899.07 And what's special about
+those areas of your body
+1902.35 and the glaborous skin
+is that the arrangement
+1906.55 of vasculature, of blood
+vessels, capillaries and arteries
+1910.74 that serve those regions is very different
+1913.41 than it is elsewhere in your body.
+1915.89 Now, this has ancient roots.
+1919.38 Typically, if you were
+another mammal, like a bear
+1922.72 or some sort of ape, you would
+have hair all over your body.
+1926.97 Now we all know some pretty hairy people.
+1928.85 I presume you've heard that
+there are these hairy people,
+1931.1 I know a few excessively hairy people
+1934.29 and Castilla is excessively hairy
+1935.75 but he's not a person obviously
+1937.93 but all mammals have hair
+on their bodies, too.
+1941.93 Some people have very light
+hair or very fine hair.
+1946.83 We don't have hair on these
+glaborous skin regions.
+1949.91 Now, of course you can have
+beard or facial hair growth
+1953.08 but there are still
+regions like the cheeks
+1955.16 and other areas that maintain
+this special vasculature.
+1958.51 Okay, so technically the hands and feet
+1960.23 are real glaborous skin
+1961.9 and the face is not always
+quite classified as glaborous
+1965.86 but these three locations
+face, palms of hands
+1969.09 not tops and bottoms of feet
+are very good at dumping heat
+1974.4 and bringing in cool.
+1976.28 And the reason is there's
+a rule in vascular biology
+1981.34 that blood moves from
+arteries to capillaries
+1984.9 and then to veins, and then
+back to the heart, okay?
+1988.01 So arteries which are
+the big ones obviously,
+1991.03 capillaries which are the little fine ones
+1993.15 where oxygen and carbon
+dioxide are exchanged
+1996.44 and veins which then bring
+blood back to the heart
+2000.94 and other tissues of course.
+2004.18 In these three regions
+of your hands, your face
+2007.96 and the bottoms of your feet,
+2009.79 we have what are called AVAs.
+2012.08 AVAs are a very special
+pattern of vasculature.
+2016.45 AVAs are described in
+the medical textbooks.
+2018.94 You can find them in Grey's anatomy
+2020.41 not the television show
+2021.77 but the actual Grey's anatomy textbook
+2024.28 which is a real thing that exists
+2026.19 and in all medical textbooks, okay?
+2029.66 So let's talk about AVAs and what they are
+2032.45 and why they allow these
+three regions of the body
+2035.02 to heat or cool ourselves more readily.
+2039.5 So what are AVAs?
+2041.77 AVAs are arterio-venous anastomosis.
+2045.6 So if you want to look that up
+2047.18 you can just look up
+AVAs veins, capillaries,
+2050.62 arteries if you like, but
+I'll spell it for you.
+2054.87 A-R-T-E-R-I-O, arterio
+venous, V-E-N-O-U-S,
+2062.54 arterio-venous anastomosis,
+A-N-A-S-T-O-M-O-S-E-S.
+2070.13 Arterio-venous anastomosis, okay?
+2072.57 You want to know about
+Arterio-venous anastomosis, trust me
+2076.69 and you want to remember
+that they are in your hands,
+2079.16 the bottoms of your feet and on your face,
+2081.38 and in particular on
+the palms of your hands,
+2083.37 not the tops of your hands.
+2084.77 Now, before I said blood flows typically
+2087.81 from arteries to capillaries, to veins,
+2089.85 and then back to the heart.
+2091.43 But AVAs are direct connections
+2093.65 between the small arteries
+and the small veins.
+2096.66 They bypass the
+capillaries to some extent.
+2100.08 They are little short vessel segments,
+2102.4 they have a big, large inner diameter
+2105.14 and they have this very
+thick, muscular wall.
+2108.29 And they get input from what
+are called adrenergic neurons.
+2112.25 They get input from neurons
+2113.86 that release norepinephrine
+and epinephrine,
+2117.36 which allows them to contract or dilate.
+2120.06 Now there's some rules of physics
+2121.46 that talk about how the radius of a pipe
+2124.53 and small changes in the radius of a pipe
+2127.36 leads to massive increases in
+the rate and amount of stuff
+2132.79 that can flow through that pipe, okay?
+2134.823 There's a rule of physics
+that says essentially
+2137.26 that the radius is proportional
+to the amount of stuff
+2141.89 that can flow through
+something to the fourth power.
+2144.47 We're not going to make
+this a physics class,
+2145.97 but if you want to look that up, you can,
+2148.02 you can just look up how
+does the radius of a tube
+2150.47 or pipe relate to how quickly
+2152.16 or how much stuff can flow through it?
+2154.89 What you need to know,
+2156.38 even if you don't want to know
+any of the underlying physics
+2158.25 is that these AVAs allow more heat
+2161.15 to leave the body more quickly
+2163.97 and more cool to enter
+the body more quickly
+2167.39 than other venous arterial capillary beds
+2172.94 throughout the body.
+2173.773 In other words, you can heat
+up best at the face, the palms
+2177.63 and the bottoms of the feet,
+and you can cool down best
+2180.82 at the face, the palms and
+the bottoms of the feet
+2183.65 than you can anywhere else on your body.
+2185.71 And when I say heat up or cool down,
+2187.17 I mean actually heat or cool
+the core end your brain.
+2191.25 Okay, so this is vitally important.
+2193.21 I realize we're getting down
+2194.22 into the mechanistic weeds
+here, but you need to know
+2197.07 that these three
+compartments of your body,
+2199.53 palms, bottoms of feet and face
+2201.74 are your best leverage points
+for manipulating temperature
+2206.15 to vastly improve physical
+performance, okay?
+2210.34 I also want to point out
+2212.11 that the work that I'm
+going to tell you about
+2214.3 is not work from my laboratory.
+2215.97 It's the work of, as I mentioned,
+2217.47 my colleague Craig Heller's
+laboratory at Stanford
+2220.22 and we're going to have
+Craig on as a guest
+2222.4 to talk more about these discoveries,
+2224.69 they are his and his
+colleagues discoveries
+2228.45 and how you can leverage them.
+2229.74 They're building out
+some amazing technology.
+2232.193 I had a conversation with Craig yesterday
+2234.53 as a prelude to this episode
+2237.13 and to the future conversation with him
+2239.28 so you're getting the
+very latest on this topic.
+2242.76 So what Craig and his colleagues did
+2244.7 really illustrates perfectly
+2246.45 what these body surfaces can do and why.
+2250.73 They were studying overheating
+in athletes and in military
+2256.44 and in construction workers
+and trying to prevent it.
+2260.02 And they did a bunch of experiments,
+2261.7 I won't go into all of them now
+2263.35 but what they essentially found
+was that cooling the palms,
+2267.19 palmer cooling allowed people, athletes,
+2271.96 and recreational athletes
+to run much further,
+2276.03 to lift more weight and
+to do more sets and reps
+2279.73 to a absolutely staggering degree.
+2284.73 Let's talk for a second, a
+bit more about why we stop,
+2289.21 why we shut off effort when we get too hot
+2293.66 because in doing so,
+you'll really understand
+2296.31 how and why the best protocols exist
+2298.96 for being able to do more work,
+2301.06 to be able to exercise longer
+2303.8 and actually to feel good doing it.
+2305.44 You actually can make
+a doubling of your dips
+2308.11 or believe it or not a
+tripling or quadrupling or more
+2310.92 of your pull-ups fairly straightforward.
+2314.78 I mentioned before that
+when muscle heats up,
+2319.25 enzymes start getting disrupted
+2321.93 and ATP and muscles can't work so well
+2324.88 and those muscles can't contract.
+2326.68 Let's get a little more
+specific about that.
+2328.47 The enzyme that's involved here
+2330.51 is something called pyruvate kinase.
+2332.71 You don't need to know
+about pyruvate kinase
+2334.39 but what you do need to
+know is that it ends A-S-E
+2336.7 which means it's an
+enzyme and pyruvate kinase
+2341.41 is essentially a rate limiting step.
+2344.93 It's a critical step that you can't bypass
+2347.15 if you want muscles to contract
+2348.53 and it's very temperature sensitive.
+2352.52 Therefore, if you can
+keep temperature lower,
+2356.32 you can do more work per unit time,
+2359.13 you can do more pull-ups
+2360.78 and that actually was done by Craig
+2362.891 and his colleagues, excuse me.
+2364.52 The pull-ups weren't
+actually done by Craig,
+2366.03 I don't know how many
+pull-ups Craig can do,
+2367.41 I'll ask him next time,
+both cooled and uncooled,
+2369.99 how many pullups he can do.
+2371.68 But what they essentially did
+2373.33 is they brought someone
+into their laboratory
+2376.08 who could do 10 pull ups on the first set
+2379.43 and they were able to get 10,
+2381.17 rest two or three minutes get another 10,
+2383.1 rest or three minutes and
+if you've ever tried this,
+2385.03 what you find is that you start dropping
+2386.46 to eight, seven, six, et cetera.
+2389.35 Now, the person might not necessarily feel
+2391.92 like they're overheating,
+but the muscle is heating up.
+2395.38 Then with their knowledge that these AVAs,
+2399.29 that these that these portals
+in the palms are a great way
+2404.32 to both heat the body, but also
+to dump heat from the body,
+2408.41 they used the device
+2410.12 and I'll talk about
+what you can do at home
+2412.16 but a device where they had people hold on
+2414.64 to what was essentially a cold tube.
+2418.44 Now this is crucial, the
+tube can't be so cold
+2422.35 that it causes vasoconstriction
+2424.4 because then the cold
+won't pass from the tube
+2427.31 to the hand and to the core.
+2430.13 But if it's the right temperature,
+2432.18 it's neither too hot nor too cold,
+2434.85 that cool from the cold
+tube passes into the hand,
+2440.06 these so-called palmer regions
+and then cools the core
+2444.4 and in theory by lowering body temperature
+2447.08 would allow the person or
+the athlete to do more work
+2450.35 and indeed that's what they saw.
+2453.14 The actual data, the specific data showed
+2455.8 that subjects could do,
+2457.21 at least the subjects they worked with,
+2458.69 on their first day with no
+cooling about a hundred pull-ups
+2462.31 across the timeframe that they had, okay?
+2466.65 So it might've taken
+anywhere from 10 to 15
+2470.04 or maybe more sets depending
+on how skilled that person was
+2473.16 but in a fixed amount of time.
+2475.9 Then they came back and did the cooling.
+2478.33 They did it the very next day
+2479.68 which if you've ever trained a muscle,
+2481.92 the very next day typically
+2483.74 you wouldn't do as well in its training
+2486.01 if it took any damage
+from the previous session
+2487.96 or you at least do as well,
+2489.12 but you probably wouldn't
+do what they then observed,
+2492.19 which was, they started
+after every other set,
+2494.75 the person would just hold the cold tube,
+2497.2 cool down the body after every other set,
+2499.71 rest everything else was kept the same
+2502.11 and they found that they
+went to 180 pull-ups,
+2505.57 which is incredible, it's a near doubling.
+2508.13 And by doing this repeatedly
+over several sessions,
+2511.01 over several weeks, they quickly
+went in the cooling group
+2515.07 from a maximum of somewhere
+between 180 and 200 as I recall,
+2518.86 I'm sort of estimating now,
+2520.24 to 600 pull-ups in the
+equivalent amount of time
+2523.57 which is absolutely incredible.
+2526.12 They then repeated this in
+a study on the bench press
+2529.56 and actually the bench press
+study was pretty interesting
+2531.72 because they actually had a control group
+2533.67 that was admittedly
+taking specific amounts
+2536.95 of anabolic steroids,
+2537.99 the antibiotic steroid
+was testosterone cypionate
+2540.63 which is essentially testosterone,
+2543.43 and indeed the testosterone cypionate,
+2545.43 the steroid group improved at
+a rate of about 1% per week.
+2551.04 There were differences
+and the cooling group
+2554.52 basically left all other
+groups in the dust,
+2557.45 it was just remarkable.
+2558.71 So cooling the core, I
+want to be very clear
+2561.63 that it's not cooling the muscle,
+2562.93 wasn't about cooling the chest alone
+2564.76 or just cooling the palms,
+2566.41 it was about allowing cold
+to pass through the palms
+2569.74 because of the unique vasculature
+that's there, these AVAs
+2574.44 allowed the subjects to do
+far more work per unit time.
+2578.63 And the important thing is that
+2581.32 if they were to come back
+after doing 600 pull-ups
+2584.37 or 500 pull-ups, you might say,
+2586.22 well, wow that's going
+to create a situation
+2588.45 where recovery is going to
+be absolutely impossible.
+2591.64 They could come back, not use the cooling
+2593.68 and they still saw a
+highly significant increase
+2596.22 in the amount or the
+number of pull-ups or dips
+2599.08 or bench press weight
+that they could do, okay?
+2601.9 So what that meant is that
+2602.9 it was both an excellent performance
+2605.167 and an excellent training stimulus
+2607.15 that they were able to recover from, okay?
+2609.86 I don't know if all of
+you are following this
+2611.41 but these are the sorts of increases
+2613.72 in exercise output that
+are absolutely staggering
+2617.18 and that's why professional
+teams and the military
+2619.94 and others capitalized on them
+very quickly and use these.
+2624.35 Okay, now you may be asking
+what about endurance, right?
+2629.73 Not everyone wants to be
+able to bench press a lot
+2632.48 for multiple reps and sets.
+2635.08 And I should just mention
+for the bench pressing,
+2636.91 it was, I believe they were
+2638.14 they found people that
+could bench press two 25,
+2640.51 so that's two 45 pound plates
+2641.87 on the 45 pound standard Olympic bar
+2644.0 for repetitions of anywhere from six to 10
+2645.94 and then they had them do the same thing.
+2647.1 They did a set, they'd
+rest two or three minutes,
+2649.41 sometimes up to four minutes,
+2650.53 then do another set,
+repeat, repeat, repeat,
+2652.58 and with cooling, they were able
+2654.08 to increase the amount of work,
+2656.45 the number of reps with the same weight.
+2659.13 Sometimes they did have to increase sets
+2661.38 to approximately double,
+so it was pretty fantastic.
+2665.28 So with endurance, similar
+increases have been shown
+2669.91 and the way that they do those tests
+2672.32 are a little bit different
+2673.43 and they also point to a
+really important mechanism
+2676.19 of why we stopped doing work at all
+2679.35 when we perceive that we are
+putting in too much effort.
+2682.31 So it gets right to the
+heart of the relationship
+2684.48 between temperature in
+muscle and your willpower,
+2687.96 those are directly related.
+2689.37 Your body heat and your willpower
+2691.91 are linked in a physiological way.
+2694.04 So I'm not talking about the kind of stuff
+2695.32 that you see as kind of like
+clickbait on the internet,
+2697.22 or like increase willpower
+now or become resilient now,
+2700.76 or never do this again if you
+want to be mentally strong,
+2703.06 I'm talking about a
+physiological mechanism
+2705.61 that exists in the body and
+brain that causes you to stop
+2709.03 or that will allow you to
+continue to go harder and further
+2712.91 than you normally would.
+2714.42 Okay, so let's talk
+about willpower and heat
+2716.82 and how heat shuts you down.
+2719.26 In other words, if you are cool,
+2721.99 if your body temperature
+is in a particular range,
+2724.61 not only can you go further,
+2726.4 but you will go further if you want to.
+2730.69 Said differently, if you heat up too much,
+2734.44 you will stop or you will die.
+2737.28 Typically people stop, there
+are individuals who will push
+2739.81 to the point where they black out and die,
+2741.32 in the same way that, and
+please don't do this experiment,
+2745.79 there are people who can
+sit down face to face
+2748.57 and say, let's hold our breath
+2750.08 and whoever breathes first loses.
+2753.53 Some people will just
+go until it's painful
+2755.66 and then they'll gasp
+and take a big breath.
+2758.17 There are always those individuals
+2759.41 who can override that reflex
+2761.2 and they will go until
+they pass out, okay?
+2763.76 And if you do that in water,
+you can very easily die,
+2766.56 so please don't do that experiment.
+2769.12 But there's a reflex that
+relates the body to the brain
+2774.45 and the brain to the body
+that shuts off our effort
+2777.26 when we get too hot.
+2778.97 So what Craig and his colleagues
+and now others have done
+2781.96 is to do a test in the laboratory
+2783.56 where rather than ask
+people to run outside
+2786.51 until they absolutely
+don't want to run anymore,
+2789.67 you put them on a treadmill
+and you set the speed, okay?
+2792.66 So they have to keep up with the treadmill
+2794.6 and at some point they quit.
+2798.14 And you take groups and you do those
+2801.24 in different temperature environments.
+2804.3 So some people are running
+in a nice chilly laboratory,
+2808.39 they get their heart rate up.
+2809.44 So maybe their heart rate goes from,
+2812.0 you know, 40 or 50 baseline heart rate,
+2814.33 maybe it gets up to 80 or a hundred
+2816.13 and then they keep the rate of
+the treadmill going the same
+2819.81 and they'll just plateau.
+2820.84 So they're getting into a
+steady state cadence or rhythm
+2823.54 and their heart is beating it
+more or less a steady state.
+2825.65 Eventually they'll probably stop
+2827.27 'cause they have something else to do
+2828.91 but people will continue
+at that temperature
+2833.96 and at that heart rate,
+2835.82 unless you start turning up
+the temperature in the room
+2838.86 and at some point they will stop
+2841.0 and they'll stop much
+earlier when it gets hot
+2844.07 because of something
+called cardiac drift, okay?
+2847.09 So let's say I'm running
+2848.71 and I'm running at a steady
+cadence on this treadmill
+2851.33 and my heart rate is 85 beats per minute
+2853.25 or a hundred beats per
+minute, doesn't matter,
+2854.72 let's say a hundred just
+for sake of example.
+2857.48 Well, just making the room hotter
+2859.68 is going to increase
+my heart rate further,
+2862.43 even though I'm at the same output
+2864.69 and the brain does a computation,
+2868.23 it somehow figures out that
+there's a heat component
+2871.64 that's increasing heart rate
+2872.87 and there's an effort
+component from running
+2875.19 that's driving heart rate.
+2876.75 And if the heat component
+and the heart rate output
+2880.15 from the effort, get to hit
+a certain threshold, I stop.
+2884.5 Okay, ad some of you may think,
+2886.01 well there are people who just run
+2887.45 and run and run and never stop,
+eventually everyone stops.
+2891.37 Maybe it's because of the race ended,
+2892.65 maybe it's because, you
+know, everyone else quit.
+2895.1 I actually saw some stuff online,
+2896.9 there are these races where people
+2898.01 just will continuously do the same loop
+2899.84 until everyone else drops out
+2901.29 and then one guy or girl
+keeps going past everybody.
+2905.41 But typically it stops
+because the race is over
+2907.54 or because people quit.
+2909.19 Increasing temperature
+increases the rate of quitting
+2913.61 in part, not entirely, but in part
+2915.74 because of this thing called cardiac drift
+2918.2 which you've probably experienced
+2920.13 if you've been out on a hot
+day and you're walking uphill
+2922.24 you might stop to take a breath.
+2924.18 If you sit in a sauna, your
+heart rate will increase.
+2926.75 Heat increases heart rate,
+effort increases heart rate.
+2931.06 At a steady effort, you'll
+have a steady heart rate.
+2933.3 If you increase the
+heat in the environment
+2936.15 that you're engaging in
+that steady heart rate,
+2938.91 your heart rate will now
+go up due to cardiac drift
+2941.86 and you will quit, okay?
+2944.03 So Heller and colleagues
+have done experiments
+2947.23 where they do palmer cooling
+under these environments.
+2950.96 And that's wonderful because
+not only does it enable people
+2955.29 to go further and faster for much longer
+2960.35 that's been shown statistically
+significant every time
+2963.72 but it also protects the brain and body
+2966.11 against hyperthermia,
+overheating, coma, nerve injury,
+2969.66 nerve death, and actual death, okay?
+2972.337 So you can see why this
+is such a valuable tool.
+2975.73 So what are they doing?
+2977.73 Well, in this case too they're
+having them cool their hands
+2981.86 and they're cooling the palms.
+2983.41 Cooling the bottoms of the
+feet is a little trickier
+2985.7 but cooling the face could
+actually work as well.
+2987.987 And we're going to talk
+about cooling the face
+2989.68 and how to incorporate this.
+2991.22 So at this point, I've just really wanted
+2993.54 to impress upon you not impress
+you, but impress upon you
+2998.61 the fact that you have these
+three surfaces of your body
+3001.19 that are very good at
+passing cold into the body,
+3004.31 such that it cools the
+core body temperature
+3006.55 and that's a good thing
+for health and safety
+3009.87 and in order to maintain work output
+3013.3 over longer periods of time,
+or actually just do more work.
+3016.09 I mean to me the result
+is just so staggering
+3018.15 is the hundred to 180
+pull-ups in the controls
+3021.44 and then 600 pull-ups in the
+cooled individuals, right?
+3026.0 They actually also feel mentally
+3028.61 as if they can do more work.
+3030.16 It's not just that they can,
+3031.59 their willpower is adjusted somehow
+3034.71 by these shifts in temperature.
+3036.86 Now, before we continue
+and get to the exact ways
+3040.0 that any number of us can
+start to use this information,
+3043.57 I want to talk about the
+opposite thing, which is heating.
+3047.15 And you have to remember
+that these surfaces,
+3050.46 the palms and the bottoms
+of the feet and the face
+3052.433 will not just a range with these AVAs,
+3055.81 these special ways to pass
+blood from arteries to veins
+3061.57 in order to cool us for
+better athletic performance
+3064.36 or to heat us for on cold days
+but for both of those things.
+3069.25 Now Heller and colleagues
+and others have also explored
+3072.9 how these can be used to heat up the core.
+3076.14 There are times when we
+want to heat up our core.
+3079.28 Typically we hear that most of the heat
+3081.95 escapes through our heads,
+3083.25 so we'll put on a hat when we go outside,
+3085.78 that's actually not true.
+3087.91 Most of your heat escapes
+through your face,
+3090.52 the palms of your hands and
+the bottoms of your feet.
+3093.36 Now you should know why that's the case.
+3096.44 What this means is that
+for post-surgery patients
+3100.85 or for people that are hypothermic,
+3103.28 indeed you want to heat the core, right?
+3105.57 But actually I was on a swim recently
+3107.85 where a friend became hypothermic.
+3110.04 He was kind of slurring his words
+3112.08 and kind of staggering around
+3113.25 when we got him back on the beach,
+3114.95 we brought him over to
+the lifeguard station,
+3116.95 he turned out to be fine.
+3117.93 Again, this is why cold water swims
+3119.64 are something that you
+really need to do in groups,
+3121.5 not alone and you really have
+to know what you're doing.
+3124.16 There were reasons for why
+this happened that day,
+3128.02 but, you know we were basically
+3129.9 people thought we were a little strange
+3131.02 until they realized what was happening.
+3132.55 We were walking down the beach
+basically sandwiching him
+3134.77 between at our chest
+because we were still warmer
+3138.45 than the ambient environment,
+the environment around us.
+3140.247 And we were pushing our chest against him
+3143.16 to try and warm him up
+to warm up his core.
+3145.54 In retrospect, that was
+the wrong thing to do.
+3148.22 In talking with Craig and
+talking to other colleagues
+3150.9 that work on thermogenesis.
+3153.38 What we should have done was warm,
+3155.28 hit the palms of his hands,
+the bottoms of his feet
+3157.41 and his face because that
+would insulate the heat loss.
+3161.68 Now he was very cold
+3162.9 so presumably there was vasoconstriction
+3165.42 of the veins at these locations.
+3167.92 And so it's not clear
+3169.73 that that would have been
+the only strategy to use
+3171.81 but they have explored how to
+heat up post-surgery patients
+3176.15 and one of the best ways to do that
+3177.56 is to get warm socks on
+the bottoms of the feet,
+3180.1 get gloves on the hands
+3181.42 and if it can be done
+safely to warm the face.
+3183.61 Now, of course you don't
+want to obstruct respiration
+3185.54 and things of that sort.
+3186.97 But again the ability to
+pass heat into the body
+3191.39 or to remove heat to the body
+3192.93 is best done through these three surfaces.
+3195.44 I can't emphasize that enough.
+3197.33 So I mentioned before that
+you want to cool the palms
+3200.86 or the bottoms of the feet
+3201.95 although that's a little
+harder to do or the face
+3203.7 but not so much that the
+blood vessels constrict
+3208.03 because then you won't be able
+to pass cool into the body
+3210.42 because those pipes got smaller
+3212.7 and therefore you can't
+pass cool into the body.
+3215.79 So how can you start to incorporate this?
+3217.7 Well, Craig and colleagues have a company
+3220.42 that they've spun out through Stanford.
+3223.13 We'll talk about that when
+we sit down with Craig
+3225.22 that has made engineered devices
+that are optimal for this
+3229.32 that are going to keep
+those passages open,
+3232.68 keep the size of the, those
+veins correct to pass cool
+3235.69 into the body quickly for sake
+of elite sports performance
+3238.37 and even recreational sports performance
+3240.21 but you can actually
+start to incorporate this.
+3242.77 First of all, I always get asked
+3245.77 how cold should the water be?
+3247.18 Should it be ice water?
+3248.61 Should it be very cold water?
+3250.81 The answer is no.
+3253.45 If you want to experience
+some of this effect
+3255.77 without a device, one thing you could do
+3257.71 would be for instance to do, I dunno,
+3260.11 I'll use the, the, the gym or
+the treadmill as an example.
+3262.83 You could do your maximum
+number of pull-ups, stop
+3266.58 and then you could actually
+put your hands into
+3269.98 or on the surface of a sink
+that is presumably stopped up
+3274.97 with cool water.
+3277.28 So not ice water, not
+freezing cold, but cool water,
+3282.16 slightly cooler than body temperature
+3285.44 before you started training
+would be a good place to start.
+3289.0 You do that for 10 to 30 seconds.
+3291.148 Then you could go back
+and do your next set.
+3294.21 You would repeat the cooling,
+3295.72 you would want to extend the
+amount of cooling somewhat
+3298.03 so you might want to do that
+for 30 seconds to a minute.
+3300.7 This is not going to be perfect,
+3301.83 you're going to have to play
+with how cold to make it
+3304.66 in order to get the optimal effect
+3306.64 but you ought to see
+an effect nonetheless.
+3309.49 The same is true if you're
+running and you're fatiguing,
+3312.9 obviously you don't want
+to become hyperthermic,
+3315.35 cooling the hands or the
+bottoms of your feet or the face
+3318.88 would be the ideal way to dump heat
+3320.67 in order to be able to
+generate more output.
+3323.79 Now, the face is something
+3325.26 that we haven't talked a lot about.
+3327.65 Everything I've told you
+up until now also says
+3329.66 that if you are somebody
+who tends to get cold
+3331.87 when you are outside, say in
+the winter or even in the fall,
+3335.17 you tend to run cold, warming your face
+3338.18 is going to be the most important thing
+3339.61 that you can do.
+3340.87 Now, it's kind of hard to do
+that without looking strange
+3343.28 like wearing a ski mask
+or something like that
+3345.33 but that is going to be more effective
+3347.35 than covering and warming
+any other part of your body
+3350.53 although it'd be quite strange
+if you only had a ski mask on
+3352.96 and you weren't wearing clothes
+anywhere else on your body,
+3354.93 I don't recommend doing that outside,
+3356.97 that will get you into all
+sorts of other kinds of trouble.
+3359.25 That wouldn't be good for anybody.
+3360.97 But now you understand the
+principle and the locations
+3364.54 at which to deliver heat and cold.
+3366.67 So let's say that you are out for a run
+3369.75 and you want to incorporate
+this cooling mechanism,
+3372.42 I talked to Craig about this,
+3373.5 I said, what would be the
+kind of poor person's approach
+3376.75 to this before this devices
+commercially available?
+3379.23 And he said, well, you, you
+could take a frozen juice can,
+3384.36 if you have one of those
+or a very cold can of soda
+3387.04 and you would want to
+pass it back and forth
+3390.0 between your two hands.
+3391.68 The reason the passing back
+and forth is really important
+3394.36 is because you, again you
+don't want it to be so cold
+3396.43 that you constrict those veins portals
+3400.28 that it will allow cold
+to go into the body.
+3403.33 Now, there are certainly people
+3405.63 that are working on bike handles,
+3407.36 and that can actually cool the hands.
+3409.77 You can expect with
+the Olympics coming up,
+3411.4 people are aware of these data
+3412.99 and are starting to incorporate
+it into a number of things.
+3415.58 Here's what you don't want to
+do and there are sports teams
+3418.49 that I won't mention by name or brand
+3420.11 that have made this mistake
+and it costs them dearly.
+3423.95 You don't want to cool the core
+3426.35 if you want to cool the body, right?
+3429.26 If it's very hot day and
+you're going to train,
+3431.7 getting into an ice bath first,
+sure it will cool you down,
+3436.51 but it's not going to be as
+effective as cooling the palms,
+3440.08 the bottoms of the feet and the face.
+3442.9 I have a friend who does some
+important work in this space
+3446.47 with people in various,
+let's just say cultures
+3449.17 where heat is generated quite a lot
+3451.05 and they need to dump heat,
+ice packs delivered to the face
+3454.47 are something that they actually use
+3456.19 in order to dump heat quickly.
+3458.05 Now, again, you don't want
+3459.44 to keep the ice pack on your face.
+3460.93 These are people that are
+very high work output, right?
+3463.76 Firefighters and similar,
+at very high work output
+3467.5 and then they'll put this essentially,
+3469.77 it's like a cool face mask on their face.
+3473.09 It allow their core body
+temperature come down
+3474.717 and then they remove it,
+3475.72 they're not keeping it on there so long
+3477.12 that they're getting the
+vasoconstriction, okay?
+3479.83 So there are a number of
+ways that you could do this.
+3482.1 And again, I'm not giving
+specific temperatures
+3484.77 because it depends on how hot that day
+3486.26 and how hot your body temperature is.
+3487.67 So you can see why there's a
+need to create more devices
+3490.17 for this, but you can see
+a considerable improvement
+3495.33 in endurance, in strength
+and in all kinds of explosive
+3500.14 and sort of, you know,
+explosive power type output
+3503.3 in athletics by using
+these surfaces of the hands
+3507.25 and bottoms of the feet and face.
+3510.04 The one that I've tried
+3511.56 because in anticipation of
+this episode was the dips
+3515.92 where then I would cool my hands,
+3517.52 I actually decided to cool the
+bottoms of my feet as well,
+3519.874 because it just feels good
+3520.707 and it's particularly hot out lately,
+3521.78 so no shoes or socks on,
+3523.84 put my feet into the bottoms of my feet
+3526.68 just kind of hovering
+about a centimeter or two
+3529.15 below the surface of a bucket of water
+3531.36 that was just slightly, it felt cool,
+3533.33 slightly cooler than
+body temperature or so.
+3536.84 It just basically what
+came out of the spigot
+3538.64 after I let it run for a little bit.
+3540.61 And indeed I saw a 60% increase
+3543.78 in the number of dips I
+can do in a single session.
+3546.01 So it's actually a
+quite significant effect
+3548.56 and you don't have to be perfectly precise
+3550.26 in order to do it.
+3551.61 And of course, if you want to
+heat up for whatever reason,
+3554.13 like you're camping or you're
+lost in the environment,
+3557.61 remember these three surfaces
+3559.32 are going to be the best
+way to heat your as well.
+3562.4 So up until now, we've been
+talking about how to use cold
+3565.4 during a workout in order
+to improve performance
+3568.46 and indeed cold applied
+3570.5 to the appropriate parts of
+the body, the appropriate times
+3573.97 can vastly improve our performance
+3576.547 and endurance and strength.
+3579.1 Now, I want to talk about
+the use of temperature
+3581.21 in particular cold to improve the speed
+3584.642 and the depth of recovery.
+3587.91 Recovery is obviously vital, right?
+3590.48 During a weight training session
+3591.91 or during an endurance session,
+3593.61 that's just the stimulus for
+getting better the next time
+3596.46 and if you don't recover, you
+not only won't get better,
+3598.91 but you'll get worse.
+3601.182 There's a lot of interest
+in the use of cold
+3604.44 in order to improve
+recovery in the short term.
+3608.43 We see this and probably
+the best example of this
+3610.89 would be fighters in combat sports
+3613.24 between rounds or athletes during
+3617.25 in between quarters or halftime,
+3619.23 that's one form of recovery.
+3620.67 The ability to go back
+into the sport very soon
+3623.73 on an order of minutes,
+anywhere from like one minute
+3626.31 in between rounds and
+typical combat sports
+3628.85 or several minutes and
+a half time, et cetera.
+3633.13 Typically what we see is
+people cooling their core,
+3637.41 cooling the back of their neck,
+3639.03 cooling the top of their heads.
+3640.07 So it might be, you know,
+a sponge with cold water
+3642.91 over the top of the head
+3644.05 or an ice pack on the back of the neck,
+3646.01 or in some cases even
+wearing cold ice vests,
+3649.527 that's actually been done.
+3651.62 That's going to be a very inefficient way
+3653.76 to improve recovery of that kind.
+3656.12 Far better would be to cool the face,
+3659.03 the palms of the hands
+or the bottoms the feet
+3660.86 for the reasons that I
+described up until now.
+3664.09 Submerging the body in an ice
+bath, or taking a cold shower,
+3668.6 say up to the neck or up to the chest
+3671.41 or getting under cold water
+or jumping in a cold lake
+3674.06 or something of that sort,
+or in the locker room,
+3676.22 getting under the cold shower
+also would be a terrible way
+3679.92 to cool off the body quickly
+3681.91 compared to the ways that I described
+3684.44 through the palms of the
+hands, the bottoms of the feet
+3686.53 or the face for the following reason.
+3689.35 First of all, it's not optimizing
+those portals of the face,
+3692.35 palms the hands and the feet
+3694.13 and in addition, if it's
+very cold and you submerge
+3698.02 or you cover a lot of
+the body with that cold,
+3701.72 you're going to cause constriction
+3703.7 of the very vessels and pathways
+3706.12 that allow the body to
+efficiently dump heat.
+3709.22 So again, the key thing
+is to cool these one
+3713.76 or two or three of these surfaces
+3715.81 but not so cold that you
+cause the vasoconstriction.
+3719.899 So what does this mean for you?
+3722.49 It means that getting in an
+ice bath or a cold shower
+3724.99 or putting an ice pack
+on the back of your neck
+3727.49 in most cases is not going to be as good
+3729.77 as splashing cold water on your face
+3731.58 or even just holding your
+face in a damp cool cloth
+3735.13 or something of that sort.
+3738.05 It seems kind of counterintuitive,
+3739.41 you think, oh if I just
+jump into an ice bath,
+3741.63 I'm going to cool down much faster
+than if I just cooled these,
+3745.37 you know one or two or three
+3747.07 of these select regions of the body
+3748.41 but that's actually not the case.
+3750.27 And then of course
+3751.103 there's recovery that occurs
+from session to session.
+3753.78 So outside of the game or the
+match or the exercise session
+3759.47 and many people are now relying
+on things like cryotherapy
+3763.77 which requires a lot
+of expensive equipment,
+3765.52 big, you know liquid
+nitrogen driven machine.
+3769.85 Those aren't so common for most people
+3771.69 or accessible for most
+people, but a lot of people
+3773.68 are using cold baths or
+ice baths or cold showers.
+3776.84 And again, that's not
+going to optimize recovery.
+3779.98 In fact, it's going to
+have an additional effect
+3782.35 that is going to potentially
+block the training stimulus.
+3786.24 When you get into an ice
+bath indeed, there are,
+3789.49 provided it's not very, very cold,
+3791.92 if you get into a cold shower,
+3792.92 provided is not very, very cold,
+3794.3 you are indeed blocking
+some of the inflammation
+3797.74 that occurs because of
+the training session.
+3800.29 But in doing so you also
+are blocking pathways,
+3804.08 such as mTOR, mammalian
+target of rapamycin,
+3807.616 which are involved in the adaptation
+3809.53 for a muscle to become stronger or bigger.
+3812.1 Put simply, covering the body in cold
+3815.27 or immersing the body
+in cold after training
+3818.98 can short circuit or
+prevent the hypertrophy
+3821.54 or muscle growth response.
+3823.54 It has other effects that
+can be positive, right?
+3826.04 It can induce thermogenesis, et cetera,
+3828.36 it can reduce inflammation
+3829.67 but it can prevent some of the
+positive effects of exercise.
+3833.74 Now, it hasn't been examined
+so much for endurance work
+3836.96 but let's say you come back
+from around of endurance work
+3840.08 or run or a bike or a swim,
+getting into a cool bath
+3845.69 or cooling the palms, the
+bottoms of the feet or the face,
+3848.52 in my opinion, based on
+the science would be better
+3851.44 than completely immersing
+the body in the ice bath
+3855.25 or the cold shower.
+3856.57 There is a time and a place
+3858.21 for the use of the ice
+bath or the cold shower
+3860.42 or the cold plunge, those tend to be
+3863.41 when you want to deliberately
+3864.66 increase brown fat thermogenesis
+3867.18 or when you want to deliberately
+work on mental resilience.
+3871.74 And in a subsequent episode on fat loss
+3873.79 I'm going to talk about how
+to optimize the use of cold
+3876.08 specifically for increasing
+metabolism and fat loss.
+3880.09 But for now, since we're
+talking about the use of cold
+3883.29 for improving performance and recovery,
+3886.34 the suggestion that I'm going
+to provide is based on the work
+3889.76 of Craig Heller and colleagues
+that I've been talking about
+3891.88 as well as a excellent book
+I mainly rely on textbooks
+3895.92 and special volume books which
+are collections of papers
+3899.41 from experts in a particular area
+3900.96 that go beyond standard kind
+of college level textbooks.
+3903.88 The one that I've been relying on
+3904.96 is called "Thermoregulation
+in Human Performance,
+3907.52 Physiological and Biological
+Aspects" by Effie Marino.
+3911.4 I don't know the publisher,
+I don't know the author.
+3913.86 I do recognize some of the names
+3915.18 of the particular papers there,
+but I just want to be clear
+3917.56 there's no sort of business
+relationship or deal with them
+3920.32 but it's an excellent text,
+3921.41 it's called "Thermoregulation
+in Human Performance".
+3923.39 You can find it online
+3925.11 if you want to go really deep into this
+3926.94 but basically what they show is that
+3928.5 if you can cool the body back
+to its resting temperature,
+3932.81 for and by resting temperature, I mean
+3935.47 within the range that you would see
+3937.07 at any time of waking
+day, but not in exercise.
+3940.57 So just bringing that the body
+temperature down to baseline.
+3944.67 If you can do that,
+3945.68 the sooner you can do
+that after a workout,
+3947.82 the sooner that the muscle will recover,
+3950.49 that the tendons will recover
+3951.79 and that the person you
+3953.35 can get back into more endurance training,
+3955.56 more weight training, et cetera.
+3957.16 So cold actually can be a very
+powerful tool for recovery
+3961.08 but to maximize return to
+baseline levels of temperature,
+3965.77 it's my belief based on the studies
+3968.35 that are published in this book
+3969.8 as well as my discussions with
+my colleague, Craig Heller
+3972.21 and in reviewing the literature overall
+3974.98 that just simply cooling the entire body
+3976.98 by jumping into an ice
+bath or a cold shower
+3979.06 is not the best way to go.
+3980.53 You really want to rely
+on one of these three
+3983.14 glaborous skin portals of the palms,
+3984.618 the bottoms of the feet or the face.
+3987.05 So now you probably know more
+than you ever wanted to know
+3990.43 about how we regulate body temperature
+3992.27 and how it can be applied to exercise
+3994.85 both during the exercise session
+3997.15 and afterward to optimize recovery.
+4001.29 Many of us, all of us, presumably
+4003.68 are also eating and drinking
+things and taking things
+4006.29 at various times that
+can impact this process.
+4009.67 And so, because of that, we should ask
+4013.07 whether or not those things
+are impacting body temperature.
+4016.69 And when we do that, we find
+that there are certain things
+4019.41 that many of us are doing
+4020.4 that are actually
+impairing our performance.
+4023.42 So for instance, if you are
+taking a pre-workout drink
+4026.61 or you're ingesting a lot of
+caffeine or other substance
+4029.99 to bring your body temperature
+up before exercise,
+4033.64 you are limiting the amount
+of exercise that you can do.
+4038.01 I can recall a time in college
+4039.64 when I would drink a lot of espresso
+4042.27 back then ephedrine was
+sold over the counter,
+4045.89 I remember taking it,
+4047.0 it will really energize you for workouts.
+4050.34 You can generate a lot of energy
+4053.09 and get extremely focused
+taking those things.
+4055.21 They do increase heart rate,
+they can be quite dangerous,
+4057.86 I don't recommend people take them.
+4059.21 In fact, I think ephedrine
+is now off the shelves
+4061.68 as a non prescription compound
+4064.71 because various people died from taking it
+4066.55 who were sensitive to
+it or exercised in heat.
+4069.26 But looking back at that,
+4070.76 I realized it was a foolish approach.
+4073.14 It was increasing core thermogenesis.
+4075.34 Sure I might've burned a few more calories
+4077.86 but actually when I look at the data
+4080.27 that are coming from specific cooling
+4082.98 and how that can so
+increase in performance
+4086.56 if done properly and then I
+compare that to the effects
+4090.04 of taking some sort of thermogenic
+compound, whatever it is
+4093.07 some pre-workout or some pill
+or high levels of caffeine,
+4097.19 it's very clear that
+increasing body temperature
+4100.37 prior to working out is
+the exact wrong thing
+4102.96 that one would want to do.
+4104.39 You don't want to stay so cold
+4105.96 that you can't generate
+good muscle contractions.
+4108.01 You don't want to be like I am
+coming out of the cold ocean,
+4111.4 you know, with claws for hands
+4113.14 but one wants to have your
+body temperature in a range
+4116.62 that still allows you to
+work hard and perform well.
+4121.33 Now, in terms of recovery,
+things like alcohol,
+4125.43 we know our vasodilator.
+4126.96 So those are going to cause
+people to drop body temperature.
+4130.47 So you might think, oh, well
+that sounds great for recovery
+4132.637 and I don't think people
+should be drinking who are
+4135.09 you know, have problems
+with alcohol intake,
+4137.27 you know, alcoholics
+4138.42 or they're not of drinking age, et cetera.
+4140.4 I'm not a drinker, but
+I do have a good friend
+4142.35 who's a quite accomplished athlete
+4144.2 who basically drinks a beer or two
+4146.51 after his long runs or cycling
+and you know, his argument
+4150.83 is well, I'm dumping body
+heat and I like a beer
+4153.71 and he's probably right, it's
+probably a really good tool
+4156.52 provided you don't have
+issues with alcohol
+4158.45 that would preclude that as a tool
+4160.16 or you're not of drinking age.
+4162.89 But anything that you
+ingest after exercise
+4166.34 that would increase body temperature
+4168.08 is going to impede recovery.
+4170.01 Anything that you do that
+lowers body temperature
+4172.24 provides it's in safe ranges
+4174.7 is going to accelerate recovery.
+4177.12 And that brings us to the
+whole host of compounds
+4179.9 that people take that can
+increase body temperature.
+4184.34 And many people are taking these things
+4185.95 in order to increase fat
+burning and increase metabolism
+4189.22 but in my opinion
+4190.45 it's impeding their
+ability to perform well.
+4193.43 And especially if the performance
+4195.64 is something that you're focused on
+4197.42 aside from body recomposition,
+losing fat building muscle.
+4201.66 But even if you're focused on
+losing fat, building muscle
+4204.05 you have to ask yourself, is
+the body temperature increase
+4207.16 that I'm getting from these
+compounds really worth it
+4210.21 given that it can block
+or prevent my performance
+4214.25 from being as good as it could?
+4216.44 In other words, is it
+worth taking something
+4218.37 that makes you feel very
+energized to go work out
+4220.42 but then you now know that
+you are stopping earlier
+4223.57 and you're performing
+less well, fewer reps,
+4225.76 fewer steps overall, is it worth it?
+4229.07 If you had not taken that thing
+4230.66 then you could perform much longer
+4233.73 and at much higher capacity.
+4237.11 Some of you are probably
+saying, well, that's ridiculous
+4239.29 because when I drink a quadruple espresso
+4242.01 and I pop a whatever pre-workout
+or drink a pre-workout
+4245.46 then I know I can go much further.
+4247.7 Ah, that might be true but
+the increase in temperature
+4251.39 is also costing you on the recovery side.
+4254.0 And unless you're doing other things
+4256.15 to improve your recovery and
+I know many people that are,
+4258.73 I don't judge but many people
+who are doing those things
+4260.93 are also augmenting their recovery
+4262.38 through hormone augmentation
+4263.88 and other performance enhancing tools,
+4267.38 then for the typical
+person who's not doing that
+4269.73 it's probably shooting
+yourself in the foot.
+4271.74 So let's take a look at what
+some of those compounds are
+4274.12 and what they and just briefly review
+4276.66 whether or not they would be a
+good or a bad idea to include
+4279.42 if your main goals are performance
+4281.68 or your main goals are
+body recomposition or both.
+4284.61 So let's just briefly discuss stimulants.
+4286.63 This could be caffeine,
+4287.66 this could be any other kind of stimulant
+4290.26 that are typically in a pre-workout drink
+4293.27 or anything that might get you
+revved up before exercising.
+4296.4 This could even be very strong tea,
+4298.15 I've mentioned I'm a big consumer of mate.
+4300.2 I like a yerba mate, I love that stuff
+4303.34 and I also drink caffeine.
+4305.033 I drink love coffee of various kinds
+4306.99 mushroom coffee, black
+coffee, espresso, et cetera.
+4310.47 I'm a chronic caffeine user,
+I don't think I'm an addict
+4314.38 but I'm a chronic caffeine user.
+4317.04 Meaning when I drink caffeine
+4318.86 my heart rate doesn't increase so much
+4321.05 that it feels like a shock to my system.
+4323.68 Some people are not caffeine adapted
+4325.71 or they're very caffeine sensitive.
+4327.76 Here's the straightforward rule.
+4329.93 Caffeine for somebody who
+doesn't drink caffeine very much
+4334.19 will constrict the blood vessels
+4335.98 and will increase retention of body heat
+4338.84 and it's probably a bad
+idea before exercise.
+4341.76 For somebody who's caffeine adapted
+4344.41 and is used to drinking caffeine,
+4346.62 it won't have that
+vasoconstriction effect,
+4348.64 that's what the data point
+too, because I'm adapted to it
+4352.21 but it will cause vasodilation
+4354.54 and will allow me to dump body heat.
+4355.99 So for me, I use it before I train
+4358.43 or do any kind of exercise
+4359.84 because I tend to do
+that early in the day,
+4361.24 it won't prevent me from sleeping
+4362.74 and it causes vasodilation.
+4364.86 And then afterwards I'm aware
+4366.55 that it causes vasoconstriction
+4368.24 after the caffeine wears off.
+4370.06 So for somebody who drinks two or three
+4372.49 or more cups of coffee
+a day or mate a day,
+4375.38 so we're talking intake
+4376.32 of anywhere from a hundred to
+400 milligrams of caffeine,
+4380.12 what you want to do is
+you want to make sure
+4382.82 that you would do that before exercise
+4386.15 and probably not after exercise,
+4388.58 not just makes logical sense
+4390.4 given what we know about
+thermal regulation.
+4392.29 And if you're somebody who
+doesn't drink caffeine,
+4394.7 drinking caffeine before a workout
+4396.66 is going to be about the worst thing
+4397.853 that you could possibly do
+4399.0 because it's going to
+increase core body temperature
+4401.13 through its thermogenic effects
+4402.79 and it's going to constrict
+your blood vessels
+4405.26 and make it even harder to dump heat.
+4407.37 So I don't suggest that
+people drink caffeine or not,
+4411.24 I just suggest that you think about
+4413.23 whether or not your
+caffeine adapted or not,
+4415.67 and decide whether or not
+you want to drink caffeine.
+4417.93 In general, you're going to be
+better not drinking any caffeine
+4421.32 than you are drinking caffeine
+4423.43 unless you're a heavy
+caffeine user or abuser.
+4425.93 In which case not drinking caffeine
+4427.83 is going to give you vicious headaches
+4429.43 and is going to make it
+very hard to get motivated
+4431.85 because you're just not used to it.
+4433.12 It takes about three weeks
+to get used to no caffeine.
+4437.05 It's brutal, I've done it
+before, I've done caffeine fast,
+4440.0 I don't know that I ever
+want to do it again,
+4441.38 that's how painful it was.
+4442.99 But you get headaches
+4444.44 because of the effects on
+vasodilation and constriction.
+4447.46 If you like caffeine
+use in moderate amounts
+4450.0 and use it before your not after.
+4452.02 If you don't like caffeine or
+you don't use it very often,
+4454.26 stay away from it
+anywhere close to exercise
+4456.46 before or after for that matter.
+4458.87 One of the more commonly used compounds
+4461.93 that's sold over the counter
+4463.44 are non-steroid anti-inflammatories
+4466.27 so things like Tylenol and
+Advil and other trade names
+4469.03 and Neproxin sodium things of that sort,
+4471.15 almost all of those drop body
+temperature to some extent.
+4476.11 And that's why it's often recommended
+4478.64 that people take them
+when they have a fever
+4480.66 although the whole business
+4482.5 of dropping body temperature artificially
+4484.33 when you have a fever is itself
+an interesting discussion
+4487.4 whether or not that's the most
+adaptive or best thing to do
+4490.34 certainly you don't want
+fever to go too high,
+4491.95 can be very dangerous, can kill you
+4493.96 but artificially dropping body temperature
+4497.19 with these compounds can be tricky.
+4499.57 Now, a number of athletes
+especially endurance athletes
+4502.81 will rely on these non-steroid
+anti-inflammatory drugs
+4506.24 specifically to keep
+body temperature lower
+4509.29 during long bouts of exertion.
+4511.58 This is a little bit of
+a pharmacologic version
+4514.61 of dumping heat instead
+of using palmer cooling
+4519.47 or you know, face ice pack cooling,
+4522.67 they're relying on pharmacology
+4524.15 to drop their core body temperature.
+4526.44 That has certain obvious advantages,
+4530.0 those advantages should be obvious
+4532.04 and the reasons for them should be obvious
+4533.84 based on everything we've
+talked about up until now
+4535.76 lower temperature allows
+you to go further harder
+4537.64 with more intensity.
+4539.55 However, they do have effects on the liver
+4542.5 and they can also have
+effects on the kidneys
+4545.06 and during long bouts of exercise
+4546.84 or even short bouts of exercise,
+4548.07 water balance and salt balance
+are also going to be vital
+4551.5 to maintain in order to perform well,
+4555.4 generate the best muscle
+contraction, stay mentally alert
+4558.15 and also to stay alive.
+4559.5 We will do an episode on
+salt electrolytes and water
+4563.24 and water balance but you
+probably want to think carefully
+4567.12 about whether or not
+4568.35 you want to use non-steroid
+anti-inflammatories
+4570.5 before any training session
+4572.45 just for the performance
+augmentation effect
+4575.44 unless you're working
+carefully with a coach
+4578.32 whether or not you've
+done that in practices
+4580.49 and of course, whether or
+not you are in a situation
+4584.32 where monitoring your
+body temperature carefully
+4586.9 is going to be important.
+4587.87 You might ask, well, when would that be?
+4589.18 Well, desert races, summer
+training and races, winter rides,
+4594.15 you certainly don't want
+to get too cool either.
+4596.35 So alcohol, caffeine and
+non-steroid anti-inflammatory drugs
+4601.29 because of their effects on temperature
+4602.95 will impact performance and recovery
+4605.23 but you want to be cautious
+about how you approach them.
+4607.52 I personally am more a
+fan of using caffeine
+4611.23 in moderate doses for the
+reasons I described before
+4614.06 as well to use the cooling of the palms,
+4616.7 cooling of the bottoms of my feet, right,
+4620.14 by placing them into a
+bucket or into a cool bath
+4623.92 after training or cooling
+the face after training
+4627.23 or sometimes even during training.
+4628.9 It just seems like
+there's more of a margin
+4630.68 to play with the variables,
+to heat up the water
+4632.73 or cool it down a little
+bit to include one palm
+4637.08 or the other palm.
+4638.25 There's all sorts of good parameter space
+4641.9 as we call it in science
+that you can play with
+4643.7 and work with to find what works for you
+4645.84 whereas when you pop a pill,
+sure you can adjust the dose
+4649.57 and you can adjust it next time
+4651.03 but once it's in you, it's in you
+4652.44 and there's going to
+be some period of time
+4654.11 before you can modulate it.
+4655.95 What I've offered today
+4657.72 are ways in which you can use temperature
+4659.97 to powerfully improve performance.
+4662.76 And if you think about it,
+4663.63 you can vary that from set to set,
+4665.41 you could do your pull ups or your sprints
+4668.02 and then cool your palms,
+4669.75 and then try and go with
+colder water the next round
+4672.71 or warmer water the next round
+4674.38 or do both feet and palms and face.
+4676.42 I mean, you can do all sorts
+of things moment to moment
+4678.63 and see what works for you again
+4680.8 essentially zero cost or no cost.
+4682.92 Whereas when you pop
+something, you take a pill,
+4686.28 you're basically in that regimen
+4688.41 for the next hour or two or more.
+4690.51 You can always take more, but
+you can't really take less.
+4693.02 You can't really extract it
+from your body in real time
+4695.2 so it doesn't give you
+a lot of opportunity
+4697.12 to play scientists, which
+is what I like to do
+4699.69 because what I'm always trying to do
+4701.22 is trying to dial in the
+best protocols possible
+4703.97 based on the mechanisms and data.
+4705.57 And if you can do that moment to moment
+4706.96 that places you in a position of power.
+4709.26 Once again, we covered a lot of material.
+4711.92 By now, after seeing this episode
+4714.02 or listening to this episode,
+you should understand a lot
+4717.21 about how your body heats and cools itself
+4719.96 and the value of that
+for physical performance.
+4723.27 I hope you'll also appreciate
+4724.52 that you have tools at your disposal
+4726.46 to vastly improve your
+physical performance.
+4729.52 And should you try those,
+please let us know how it goes.
+4733.23 If you decide to do palmer
+cooling during your runs
+4735.7 or after your runs, during
+your weight workouts,
+4738.78 during your yoga sessions,
+whatever it is, let us know,
+4741.29 please place that in the comments.
+4743.42 I've given you specific
+protocols and some direction,
+4746.81 but I've also left it slightly vague
+4749.0 because it, as I mentioned earlier
+4751.03 I don't know all the
+environmental conditions,
+4752.8 I don't know how hot your yoga studio is
+4754.85 or how cool your gym happens to be
+4756.55 or your body temperature or time of day.
+4759.38 Remember your temperature will vary
+4761.12 according to the time of day,
+4762.27 we did a whole episode
+about that related to sleep.
+4764.74 Typically your body temperature
+is rising early in the day
+4767.84 and is coming down as you
+approach the late evening
+4770.85 and late night hours for sleep,
+in the middle of the night
+4773.15 your temperature is very low
+4774.76 at its absolute lowest
+4775.77 something we call the temperature minimum.
+4777.46 So we don't know exactly where you're at.
+4780.13 You need to take the information
+that you receive today
+4782.89 and should you try and incorporate it
+4785.13 try and do it intelligently.
+4786.42 Don't cool yourself off
+so much that you know
+4789.71 become cryogenic and please
+don't warm yourself up.
+4792.55 In fact, we didn't talk at
+all about warming yourself up
+4795.56 because warming yourself up too
+much can be quite dangerous.
+4799.03 You never, ever, ever
+want to be hypothermic,
+4801.55 that's what your body and your
+brain are trying to avoid.
+4804.8 We talked a little bit about supplements
+4807.72 but not the standard sorts of supplements
+4809.59 I usually list off on these episodes.
+4811.57 Rather, we talked about caffeine,
+4814.05 non-steroid anti-inflammatories
+4815.9 and how those can impact temperature,
+4817.19 how alcohol can impact temperature.
+4819.097 And I should just mention in closing
+4821.12 that every time we eat, we
+also increased temperature.
+4823.41 There's a eating induced
+thermogenic effect
+4826.02 but that's a minor one,
+that's a small one.
+4827.9 So you wouldn't worry about
+eating before training
+4831.77 because of its effects on temperature
+4833.26 because it tends to be really minor.
+4836.01 Going forward, we're going to
+talk more about temperature
+4838.47 and other ways to improve
+physical performance
+4841.83 and skill learning.
+4842.68 We're going to talk about specific ways
+4844.66 to accelerate fat loss,
+to improve muscle growth,
+4848.78 to improve suppleness and flexibility.
+4852.42 These approaches and
+mechanisms are anchored deeply
+4856.59 in neuroscience and physiology
+and the relationship
+4859.34 between our peripheral
+organs, which include our skin
+4862.62 and our brain and all
+the organs in between.
+4865.67 So it's really a pleasure for
+me because I'm able to look
+4868.73 to the textbook literature that exists
+4871.12 and really came out over the
+last 50 to a hundred years
+4874.45 and unlike a lot of areas of neuroscience
+4876.42 which are still sort of mystical,
+4878.37 like consciousness and dreaming,
+4880.22 of which we understand a little bit
+4881.41 about these core mechanisms
+of temperature and physiology
+4884.62 which are so powerful,
+involve very concrete studies
+4889.11 that as you learn today
+are very actionable.
+4892.71 If you're enjoying this podcast
+4894.26 and you like the information
+that you're receiving,
+4897.23 if you're incorporating into
+your life in useful ways,
+4899.96 please recommend the
+podcast to other people
+4901.95 if you think they could
+benefit from it as well.
+4904.64 Please subscribe to
+the podcast on YouTube,
+4907.32 so you want to hit the subscribe button
+4909.12 as well hit the notifications button.
+4911.17 We come out with new episodes every Monday
+4913.07 but from time to time, we
+also release shorter content
+4916.33 and we will be releasing
+additional content
+4918.61 in between episodes from time to time.
+4921.53 If you don't already subscribe
+on Apple and or Spotify,
+4924.12 please do so.
+4925.09 Also on Apple, you have
+the opportunity to leave us
+4927.39 up to a five star review
+4928.76 if you think that we
+deserve a five star review
+4930.92 and to leave us feedback.
+4932.61 They have a comment section there,
+4934.12 it's really a feedback section
+4935.47 where you can rate and
+describe the podcast
+4937.98 as you experience it.
+4939.62 If you'd like to support
+the podcast in other ways,
+4942.6 please check out our sponsors.
+4943.9 That's a terrific way to support us.
+4945.39 We also have a Patreon, you can find it
+4947.43 at patreon.com/andrewhuberman
+4950.76 that allows you to support the podcast
+4952.6 at any level that you like.
+4954.68 Today we didn't focus so
+heavily on supplements,
+4956.73 but in other episodes I have,
+4958.31 and there are certainly supplements
+4960.16 that are beneficial for sleep,
+4961.79 for performance, for learning,
+4964.04 immunity and so forth.
+4965.89 We've partnered with
+Thorne, T-H-O-R-N-E.com,
+4970.95 because Thorne supplements
+4972.93 we believe to be the most stringent
+4974.95 in terms of what they put on the bottle
+4977.87 is actually what's in the bottle,
+so the amounts are precise
+4980.34 and the quality of the
+ingredients is very precise.
+4982.57 They partner with the Mayo Clinic,
+4984.17 all the major sports teams
+4985.36 so we're delighted that
+we're partnered with Thorne.
+4987.18 If you want to see the
+supplements that I take
+4989.12 you can go to thorne.com/u/huberman
+4993.88 and you can see the
+supplements that I take,
+4995.5 you could get 20% off
+any of those supplements
+4998.18 should you choose to order them
+4999.45 as well as 20% off any other supplements
+5001.91 that Thorne happens to make.
+5003.54 That's Thorne, thorne.com/u/huberman
+5009.48 to get 20% off any of the
+supplements that Thorne makes.
+5013.26 And last but not least,
+5014.48 I want to thank you for
+your time and attention.
+5016.86 I realize this is a lot of information,
+5018.99 I hope you'll find some
+of it to be actionable
+5020.71 and useful for you and
+for people that you know
+5023.13 and as always thank you for
+your interest in science.
+5026.011 [upbeat music]

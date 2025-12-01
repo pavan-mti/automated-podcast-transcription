@@ -1,0 +1,4243 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.07 where we discuss science
+and science based tools
+4.92 for everyday life.
+9.33 I'm Andrew Huberman,
+10.35 and I'm a professor of
+neurobiology and ophthalmology
+13.29 at Stanford School of Medicine.
+15.12 Today we are discussing nicotine.
+17.22 Nicotine is one of the most
+commonly consumed substances
+19.89 on the entire planet.
+21.66 There are literally billions of people
+23.76 that ingest nicotine on a daily basis.
+26.67 Most of those people consume
+nicotine via smoking,
+29.7 and in particular smoking tobacco.
+31.89 Tobacco contains nicotine and it
+33.66 contains a bunch of other things as well,
+35.94 which we will talk about.
+37.23 And the burning of tobacco
+liberates nicotine and makes it
+39.96 accessible to the various
+cells and tissues of the body.
+43.2 But of course, there are other
+sources of nicotine as well.
+45.72 Some people consume nicotine through dip,
+48.27 that is placing tobacco on the inside
+50.34 of the lip or in the cheek.
+52.86 Some people consume nicotine via snuff,
+55.47 which is literally the
+shoving of tobacco leaves
+57.75 up the nostrils and allowing the tobacco
+60.51 to access the nervous
+system and other areas
+63.24 of the body by permeating into the
+65.4 mucosal membranes, that is the lining,
+67.74 the soft lining of the nasal passages.
+69.9 And of course there are
+nicotine patches, nicotine gum,
+72.72 there's nicotine in pill form,
+74.37 there are toothpicks dipped
+in nicotine, et cetera.
+77.19 Today we are going to separate
+our discussion of nicotine
+79.89 from a discussion of smoking and vaping
+82.26 and the other forms of
+delivery for nicotine.
+84.57 We will be talking
+about smoking and vaping
+87.12 and other routes of
+nicotine administration,
+89.52 both for sake of highlighting
+their detriments to health
+93.84 and, believe it or not, in certain cases,
+97.56 keep in mind very specific certain cases,
+100.08 the possible health benefits
+of delivering nicotine
+103.08 through specific modalities.
+105.6 Turns out those modalities do not
+107.55 include smoking cigarettes or vaping.
+110.82 And we are going to pay particular
+attention to vaping today
+113.73 because vaping use is on the rise,
+116.34 in particular in young
+people, and vaping use,
+120.39 and the fact that most
+tobacco that's consumed
+123.66 through vaping includes
+quite amount of nicotine
+126.81 has created a scenario where nicotine
+129.09 because of its ability to change
+130.59 certain chemicals in the
+brain can actually lead to
+133.77 addiction for a number of other
+substances related to vaping
+137.785 and vaping associated behaviors.
+139.56 If all of that seems like
+a lot to get your arms
+141.9 and your mind around right here
+at the outset, don't worry,
+144.66 I'll walk you through this,
+146.43 regardless of whether or
+not you have a background
+147.87 in biology or not.
+148.98 I promise that you'll come
+through at the end of this
+151.99 episode with a deep understanding
+of how nicotine works
+154.32 in the brain and body,
+some of its benefits,
+156.69 some of its potential drawbacks,
+158.34 and you'll have clear optics
+as to why smoking and vaping
+162.45 and other forms of nicotine
+delivery have the effects
+164.97 that they do on your
+biology and psychology.
+167.88 I'm pleased to announce that
+the Huberman Lab Podcast
+169.77 is now partnered with
+Momentous supplements.
+172.08 We partnered with Momentous
+for several important reasons.
+174.33 First of all,
+175.586 they ship internationally
+because we know that many of you
+177.36 are located outside of the United States.
+179.43 Second of all, and perhaps most important,
+181.44 the quality of their
+supplements is second to none,
+183.99 both in terms of purity and precision
+185.64 of the amounts of the ingredients.
+187.59 Third, we've really emphasized supplements
+190.23 that are single ingredient supplements,
+192.45 and that are supplied in
+dosages that allow you
+195.21 to build a supplementation protocol
+197.46 that's optimized for cost,
+199.29 that's optimized for effectiveness,
+201.21 and that you can add things
+and remove things from your
+203.58 protocol in a way that's really
+systematic and scientific.
+206.43 If you'd like to see the supplements
+207.6 that we've partnered with Momentous on,
+208.95 you can go to livemomentous.com/huberman.
+212.04 There you'll see those supplements.
+213.18 And just keep in mind that
+we are constantly expanding
+215.64 the library of supplements
+available through Momentous
+218.34 on a regular basis.
+219.27 Again, that's livemomentous.com/huberman.
+221.88 Before we go any further,
+222.93 I just want to highlight a key takeaway
+225.18 from a previous episode,
+which is our episode on focus.
+228.96 And in fact was a toolkit for focus.
+231.84 So during the toolkit for focus episode,
+233.58 we talked about a large number
+of behavioral, pharmacologic,
+235.92 and another interventions
+that you can use to increase
+238.77 your level of concentration
+and focus for whatever purpose,
+241.56 cognitive endeavors, learning languages,
+244.2 focusing in school, on work, et cetera,
+246.63 or physical pursuits.
+248.22 Now one of the key takeaways is that
+250.5 there are really two key
+252.54 protocols that I believe
+everyone should understand
+255.0 and know about and why they work
+257.13 because they are so effective,
+258.54 and also because they dovetail
+nicely with some of the
+261.27 information that we're
+going to talk about today,
+263.4 which will explain why nicotine
+265.11 is so effective in increasing focus.
+268.17 And these two protocols are as follows.
+270.66 Data based on studies
+done in Wendy Suzuki's lab
+273.81 at New York University.
+275.43 And of course, Wendy was
+a guest on this podcast.
+277.98 So you can check out
+that episode if you like,
+279.78 but studies done in her laboratory point
+282.03 to the fact that a daily,
+very brief, in fact,
+284.76 only 13 minute meditation
+can vastly increase
+288.78 focus and focus ability,
+290.46 not just immediately after
+the meditation practice,
+293.61 but at all other times as well.
+295.68 So again,
+296.513 this is a meditation practice done daily
+298.62 for just 13 minutes.
+299.7 It's a very simple meditation practice
+301.23 where one sits or lies down,
+302.7 closes your eyes and
+directs your attention
+306.45 to a place just between your
+two eyes and right above it.
+309.78 So on your forehead.
+310.613 But just inside of that,
+311.82 and please understand that your brain
+313.59 does not have sensory receptors.
+314.85 So unlike focusing on your fingertips
+316.74 and the sensations there,
+if you focus on your brain,
+319.59 you can't actually sense anything
+320.97 in your brain except your thoughts.
+322.23 So the idea then is that you
+continually bring your focus
+325.41 back to that location just about an inch
+328.11 behind your forehead over and over again.
+330.18 And it's the refocusing of your attention
+332.61 to that location after it drifts
+334.29 that succeeds in increasing
+your focus ability, again,
+337.32 not just during the
+meditation and afterward,
+339.3 but at other times as well.
+340.92 So this 13 minute a day
+meditation is exceedingly simple
+343.68 and exceedingly effective.
+345.51 It should be performed every day,
+346.95 but if you miss a day,
+just go back to doing it.
+349.05 Don't despair too much.
+350.43 And you will see these
+positive effects, say the data.
+352.8 Also increase effects on mood and other
+355.11 positive aspects of mental
+health and performance.
+357.39 So that's the first tool in protocol.
+359.16 The second tool in protocol
+relates to the general
+361.86 what I called arrow model of focus.
+364.71 This was a model that I created
+in order to simplify the
+367.47 vast amounts of data on
+focus and concentration
+370.02 and how they are created
+371.1 by the various chemical
+systems within your brain.
+374.07 We're going to hear a lot about
+these chemical systems again
+376.11 today in the context of nicotine
+and they are as follows.
+379.44 You can think about focus
+380.97 on any goal or any endeavor as an arrow.
+384.0 So just imagine an arrow
+which has an arrow head
+386.13 and a shaft, and we'll
+add a third component
+387.81 to it in a moment.
+389.88 The head of the arrow,
+391.17 meaning the direction of your focus,
+392.7 is largely set by acetylcholine,
+395.19 which is a chemical in the brain.
+396.69 The shaft of the arrow
+is set by a chemical
+399.78 called adrenaline, also
+called epinephrine.
+402.6 Those are the same thing.
+403.47 In the brain typically it's
+referred to as epinephrine,
+406.26 and in the body,
+407.28 it's more commonly
+referred to as adrenaline,
+409.14 but those are the same neurochemical.
+411.06 Epinephrine slash adrenaline
+represents the shaft
+414.3 of the arrow and it's providing the energy
+417.51 for which to focus.
+419.22 And then we can put behind that arrow
+420.6 a little propeller or
+a motor, if you like,
+423.15 and the propeller or motor in the context
+424.95 of this neurochemistry model is dopamine,
+427.47 which provides ongoing motivation.
+429.18 It pushes that arrow forward continually
+431.67 as you strive to focus
+on a particular thing.
+435.18 This particular arrow model,
+436.74 that is your ability
+to increase your focus,
+439.68 can be enhanced therefore
+by increasing acetylcholine,
+443.07 epinephrine, and dopamine simultaneously.
+446.7 And there are a lot of
+different ways to do that.
+448.41 But one of the more effective ways to do
+449.91 that via supplement protocols
+is so-called Alpha GPC.
+454.2 Alpha GPC taken in 300
+milligram form 10 to 30 minutes
+458.82 before a about of cognitive
+work or a about of physical work
+461.85 will increase your focus by way
+of increasing acetylcholine,
+464.76 and to some extent, increasing
+epinephrine as well.
+468.87 The dopamine increase will
+have to be achieved either
+471.21 through cognitive processing,
+473.19 that is telling yourself
+you're doing a good job
+474.87 and moving forward because thoughts really
+476.52 do impact your levels of dopamine,
+478.59 or some other sort of
+pro dopamine or dopamine
+481.68 increasing protocol also
+discussed in the toolkit for focus
+485.16 and our episode on dopamine
+for motivation and drive.
+488.07 So the key thing here to
+understand is that the 13 minute
+490.41 a day meditation is a very effective way
+492.48 to increase focus capacity.
+494.22 And then in the short term,
+495.48 if you want to provide a
+boost now and again to focus,
+498.63 300 milligrams of Alpha
+GPC can be very effective.
+501.39 There are various sources for that
+502.413 that we'll link to one of them
+in the show note captions.
+506.07 By no means am I saying that
+you need to take alpha GPC.
+508.77 A number of people will
+certainly opt not to.
+510.78 And a number of people
+might be saying, well,
+513.21 I've heard that Alpha GPC
+can increase focus by way of
+515.82 increasing acetylcholine and
+norepinephrine or epinephrine,
+519.09 but it can also increase TMAO,
+521.1 which is a kind of a negative
+marker of cardiac health
+524.19 and cardiovascular health.
+525.69 For that reason, I and many
+others will take 600 milligrams
+529.02 of a garlic capsule, which
+can offset that TMAO increase.
+533.37 It remains uncertain as to how much
+535.14 Alpha GPC one needs to
+take before increasing TMAO
+538.62 levels to a point where it's of concern
+540.69 that you would even need
+to take the garlic capsule.
+542.79 But I just mention it in any case,
+544.56 because it's a pretty simple fix.
+546.33 Garlic has other health
+benefits too, of course,
+548.76 and for most people,
+550.2 300 milligrams of Alpha GPC
+taken every once in a while.
+553.26 I certainly don't encourage people
+554.66 to take Alpha GPC every
+time they want to focus.
+557.349 I always emphasize behavioral tools first,
+560.61 then focusing on nutritional
+tools and on occasion using
+564.3 supplement based tools to encourage
+566.91 increased levels of focus.
+569.04 And then of course there are a various
+571.26 number of different prescription compounds
+573.93 that if you're working with
+a board certified physician,
+576.15 they could prescribe you
+576.983 if you need additional tools
+for focus, things like Ritalin,
+580.08 Adderall, Modafinil,
+Armodafinil, Vyvanse, et cetera,
+583.17 for many people are going to
+be important and maybe even
+585.51 necessary for people with ADHD, et cetera,
+588.12 but that's a category into itself.
+589.467 And as I always say,
+590.46 I'm not a physician, so I
+don't prescribe anything.
+592.74 I'm a professor, so I profess many things.
+596.389 And today I just wanted to
+pass along or redirect your
+598.47 attention to that episode on focus
+601.53 and highlight those two tools,
+602.85 the 13 minute a day meditation,
+604.77 and 300 milligram Alpha GPC
+for increasing focus capacity
+608.76 and for acutely,
+610.32 that is temporarily
+giving an additional boost
+612.9 for a about of focus.
+614.49 And of course, if you choose
+not to use those protocols,
+617.1 that's perfectly fine too,
+there's certainly no obligation.
+619.56 They are simply available to you
+620.79 should you choose to try them.
+622.95 And if nothing else you now have in mind
+625.86 the neurochemistry of acetylcholine,
+628.11 epinephrine slash
+adrenaline, and dopamine,
+630.48 and that will really set the
+stage for understanding just
+633.39 how effective and why nicotine
+636.17 is so effective at
+increasing focus, motivation,
+639.06 and even as you'll soon hear,
+640.74 working memory and cognitive capacity.
+642.84 Before we begin,
+643.8 I'd like to emphasize that
+this podcast is separate
+645.99 from my teaching and
+research roles at Stanford.
+648.27 It is however part of my desire and effort
+650.58 to bring zero cost to consumer information
+652.5 about science and science related tools
+654.66 to the general public, and
+keeping with that theme,
+656.97 I'd like to thank the
+sponsors of today's podcast.
+659.61 Our first sponsor is Thesis.
+661.62 Thesis makes custom nootropics,
+and to be quite direct,
+665.04 I do not like the word
+nootropics because it translates
+668.1 to smart drugs, and to be direct again,
+671.85 there is no such thing as a smart drug.
+673.89 That is there's no such thing as a drug
+675.99 that can make you smarter
+because there is no circuit
+678.72 in the brain for being smart.
+679.98 There are circuits in the brain for focus.
+681.36 There are circuits in the
+brain for task switching.
+683.73 There are circuits in the
+brain related to creativity
+686.07 and so on and so forth.
+687.33 So the idea that there
+would be a single smart drug
+689.64 or nootropic is simply foolish.
+692.64 And fortunately Thesis
+understands this and therefore has
+696.24 created custom notropics that
+are designed to get you into
+699.54 the states of mind and body
+that are optimal for your goals.
+702.72 I've been taking Thesis
+nootropics for quite a while now,
+705.12 and I've been extremely
+pleased with the results.
+707.82 I take a clarity formula
+that's specifically designed
+710.4 for me prior to long
+bouts of cognitive work.
+713.04 And I take an energy formula
+prior to particularly
+715.95 challenging physical workouts.
+717.69 To get your own personalized
+nootropic starter kit,
+719.91 you can go online to
+takethesis.com/huberman.
+723.42 Take a three minute quiz and
+Thesis will send you four
+726.09 different formulas to
+try in your first month.
+728.19 Again, that's takethesis.com/huberman
+730.95 and use the code Huberman at checkout
+732.81 to get 10% off your first box.
+734.76 Today's episode is also
+brought to us by InsideTracker.
+737.359 InsideTracker is a personalized
+nutrition platform that
+740.07 analyzes data from your blood
+and DNA to help you better
+743.04 reach your health goals.
+744.63 I've long been a believer in
+getting regular blood work done
+746.97 for the simple reason
+that many of the factors
+749.16 that impact your immediate
+and long-term health
+751.08 can only be analyzed with
+a quality blood test.
+753.69 One of the major issues
+754.56 with blood tests or DNA tests, however,
+756.476 is that typically you'll
+get your data back
+758.61 and you won't know what
+to do with those data.
+760.71 InsideTracker has solved
+this problem by creating a
+763.14 personalized platform where
+when you get numbers back
+765.84 about your hormones,
+metabolic factors, et cetera,
+768.48 it will direct you to specific protocols
+770.52 in the realms of nutrition,
+exercise, supplementation.
+773.58 And that includes things
+to do, things to consider,
+776.58 and things not to do in
+order to bring those numbers
+779.07 into the ranges that are
+optimal for your immediate
+781.62 and long-term goals.
+782.7 If you'd like to try InsideTracker,
+784.08 you can visit insidetracker.com/huberman
+786.81 to get 20% off any of
+InsideTracker's plans.
+789.39 Again, that's insidetracker.com/huberman
+to get 20% off.
+793.74 Today's episode is also
+brought to us by ROKA.
+796.2 ROKA makes eyeglasses and sunglasses
+798.03 that are the absolute highest quality.
+800.01 The company was founded by
+two all American swimmers
+802.02 from Stanford, and everything about ROKA
+804.03 eyeglasses and sunglasses were designed
+805.95 with performance in mind.
+807.33 I've spent a lifetime
+working on the biology
+808.79 of the visual system.
+809.73 And I can tell you that your
+visual system has to contend
+812.04 with a number of important
+challenges in order for you
+814.05 to be able to see clearly.
+815.31 Now ROKA understands this and everything
+816.93 about their eyeglasses were
+designed in order for you
+819.39 to see with optimal clarity
+regardless of activities.
+822.18 ROKA eyeglasses and sunglasses are superb
+824.76 for wearing while you run or cycle.
+826.86 In fact, they were originally
+designed for that purpose.
+828.9 They're extremely lightweight.
+830.1 In fact, most of the time,
+830.933 I can't even remember
+that they're on my face,
+833.37 and they won't fall off if you get sweaty.
+836.25 In addition, ROKA
+eyeglasses and sunglasses
+838.98 have a terrific aesthetic.
+840.36 So while a lot of so-called
+performance eyeglasses out there
+842.82 will make you look like
+a cyborg if you want to,
+844.65 and they do have those varieties,
+846.03 they also have varieties of
+aesthetic choices that you would
+849.51 be very comfortable wearing
+to work or to school
+851.94 or just out and about.
+853.674 And that's one of the reasons I like them.
+854.507 I don't really have to think about having
+855.39 too many pairs of
+sunglasses or eyeglasses.
+857.55 I can just have one or two of
+each pair and I'm good to go
+860.34 no matter where I go.
+861.6 If you'd like to try ROKA
+eyeglasses and sunglasses,
+864.21 you can go to ROKA, that's roka.com,
+866.7 and enter the code
+Huberman to save 20% off
+869.16 on your first order.
+870.06 Again, that's roka.com and
+enter the code Huberman
+874.02 at checkout.
+874.86 Let's talk about nicotine
+and how nicotine impacts
+877.44 our brains, our bodies,
+our mental performance,
+881.04 our mental health, our
+physical performance,
+883.47 and our physical health.
+884.937 Now once again,
+885.77 I want to remind everybody that
+we really need to separate out
+888.63 a discussion about nicotine
+from the discussion
+891.3 about the delivery device for nicotine.
+893.79 In other words, when we're
+talking about nicotine,
+896.13 we are not necessarily
+talking about smoking.
+898.68 Although we might be.
+900.03 There are things associated
+with smoking and with vaping and
+903.72 other means of getting
+nicotine into our system
+906.84 that have their own
+effects, both negative,
+909.39 and in some cases positive.
+912.03 Indeed later,
+912.863 we will talk about how you
+can actually use nicotine
+915.63 to get over smoking addiction.
+917.16 This won't come as a
+surprise to many people,
+919.2 but what perhaps will come as
+a surprise is the fact that
+921.99 many people actually use
+nicotine-like substances or
+924.81 nicotine itself in order to
+relieve nicotine addiction.
+928.56 So we'll talk about that
+and what that looks like
+930.48 and offer various protocols
+for you later in the episode.
+934.26 I also want to mention here
+at the outset that I have
+936.03 a long standing interest in nicotine.
+938.319 In fact, early in my scientific career,
+940.71 I did research on nicotine
+942.21 and its role in brain development.
+944.52 And I've had a long standing
+interest in neuroplasticity,
+947.94 the brain's ability to change
+in response to experience.
+950.52 And so experiments that have
+been done by close colleagues
+952.68 and friends of mine have really emphasized
+954.45 the fact that acetylcholine,
+and in particular,
+957.45 when acetylcholine activates so-called
+959.64 nicotinic receptors,
+961.38 something you'll learn
+more about in a little bit,
+963.69 that can actually serve
+as a gateway or a trigger
+966.93 for directed rewiring of the brain.
+969.24 So this is fascinating.
+970.14 We think of nicotine as
+something that we take,
+972.42 but actually we have
+receptors that is locations
+975.87 in the brain to which nicotine binds
+978.69 and can exert its effects.
+980.7 And those receptors did not
+come about because of the
+983.1 existence of tobacco or the
+existence of vaping pens,
+985.98 or because of the existence of anything
+987.84 in the outside world.
+989.01 The fact that there are
+nicotinic receptors in our brain
+993.36 and body tells you that acetylcholine
+996.57 and nicotine themselves
+have very important roles
+999.03 in normal brain and body function,
+1001.7 so much so that I often
+like to point to an anecdote
+1004.58 of a very well known Nobel
+prize winning neuroscientist.
+1008.33 I won't reveal who they are.
+1009.5 They're not a faculty member at Stanford,
+1011.0 but many neuroscientists
+know of this person
+1014.33 and many people in the outside
+world know of this person.
+1016.52 And they are also well known
+for their love of nicotine.
+1020.99 I once sat in this
+person's office, and he,
+1023.45 I will reveal it as a he,
+1025.91 consumed no fewer than
+three pieces of nicotine gum
+1030.35 during that relatively short conversation
+1032.39 of about 45 minutes.
+1033.92 And that was surprising to me.
+1035.54 And I asked him why he was
+taking so much nicotine
+1039.32 through nicotine gum.
+1040.73 And he replied that for years,
+1041.78 he had been a chronic smoker,
+1043.371 which on the one hand had greatly impaired
+1046.19 his cardiovascular health and his fitness,
+1048.08 no surprise there.
+1048.913 And we'll talk a little bit more about
+1050.03 what the underlying reasons
+are, but most everyone,
+1053.0 if not everyone knows
+that smoking cigarettes
+1055.64 or smoking in general
+really impairs lung health.
+1058.91 There's just simply no question about it.
+1060.71 There are some more or less
+unhealthy ways to smoke,
+1064.91 but the quite honest
+message is that smoking
+1067.91 of any kind is going to disrupt
+lung endothelial function,
+1071.27 lung function, blood
+vessels, and so forth.
+1073.67 It's going to make it harder
+to breathe with vigor,
+1075.56 take deep breaths, deliver
+oxygen to tissues, et cetera.
+1078.89 That said,
+1080.0 he also pointed out that
+the data on nicotine
+1083.3 specifically are pointing
+to the fact that nicotine
+1087.14 can be, can be protective
+against certain forms
+1091.04 of cognitive impairment.
+1092.66 And that is why he continued
+1094.01 to chew nicotine containing gum.
+1096.35 And he swore by the focus
+enhancing and motivation enhancing
+1099.71 effects of nicotine containing gum.
+1102.29 Now that is not a call to
+arms for you to run out
+1104.75 and start chewing or consuming
+nicotine containing products.
+1108.56 We will talk about those
+products later in the episode,
+1110.78 some of their potential advantages,
+1112.25 some of their potential disadvantages.
+1114.17 Now I share this anecdote
+because it nicely separates
+1117.44 nicotine from the delivery device
+1119.27 through which nicotine arrives.
+1121.37 Now I haven't talked to this individual
+1123.14 in a few years to see whether
+not the nicotine is working
+1126.77 to stave off any kind of
+Alzheimer's or neurodegenerative
+1129.65 or cognitive impairment
+that would come with age.
+1132.23 This gentleman is getting up in the years
+1135.11 and seems quite sharp nonetheless,
+1137.24 but then again was
+always exceedingly sharp.
+1140.18 The point is nicotine is a
+substance that can both promote
+1145.19 cognitive function, and
+under some conditions,
+1148.82 if taken to inappropriate,
+1150.86 or I should say to extreme dosages,
+1152.72 can also impair cognitive function.
+1154.79 So today we really need to
+have a nuanced conversation
+1157.28 about nicotine, one that
+includes some of the benefits,
+1160.1 some of the drawbacks, in
+particular for children,
+1163.4 certainly for people that are pregnant,
+1165.71 for people that have addictive tendencies,
+1167.9 and for people that have depression
+1169.82 and any other kind of mood disorders.
+1172.37 What I will tell you soon
+is that nicotine can be very
+1176.42 powerful as a mood modulator
+and many people who have tried
+1180.26 to quit nicotine mainly
+through the form of smoking
+1183.47 will find that their mood
+can drop substantially.
+1186.41 So nicotine does a lot of
+things in the brain and body.
+1189.05 And so I'd like to begin by
+talking about what exactly
+1191.96 nicotine is and how it
+impacts your brain and body.
+1195.38 So what is nicotine and where is it found?
+1197.57 Now obviously nicotine is
+found in the tobacco plant,
+1200.45 but nicotine is also found in nightshades.
+1203.72 That is tomatoes, eggplant,
+and sweet peppers.
+1207.23 Although the concentrations
+of nicotine in tomatoes,
+1209.99 eggplants, and sweet
+peppers is vastly lower
+1212.87 than it is in the tobacco plant.
+1215.09 You actually can also
+find nicotine in potatoes.
+1218.18 Now why is nicotine present
+in potatoes and tomatoes
+1221.84 and in the tobacco plant at all?
+1224.15 Well, nicotine is a plant alkaloid.
+1226.49 We'll get into alkaloids
+a little bit later,
+1228.38 but it is thought that these
+alkaloids evolved in plants
+1231.95 as a way to prevent
+insects from eating them.
+1235.97 And without going into
+a lot of insect biology,
+1238.25 the reason or the rationale
+behind this explanation is that
+1241.49 nicotine is not only a substance
+in tobacco that people use
+1245.24 or in the various
+medications that people use,
+1247.13 but it's also used as a
+pesticide because it can
+1250.37 dramatically disrupt the
+nervous system of insects.
+1254.03 It can render them infertile,
+1255.77 which is not to say that it
+renders humans infertile.
+1258.41 We want to say, again,
+1259.243 it is not the case that nicotine
+renders humans infertile,
+1262.34 but it can make certain insects infertile.
+1264.68 It can actually disrupt
+their motor function
+1266.567 and their brain function,
+1267.98 and the reasons that it
+has such different effects
+1270.5 on insects, in other words,
+1271.94 it can kill them or prevent
+them from reproducing,
+1275.81 and therefore explains why
+plants probably evolved to have
+1278.75 this plant alkaloid, nicotine.
+1281.43 In humans,
+1282.263 because of the differences
+in receptors for nicotine,
+1286.01 where they're located, and
+the types of receptors,
+1289.276 the effects of nicotine on
+humans is quite a bit different.
+1291.38 And again, it does not
+cause infertility in humans.
+1294.02 Although I will talk a
+little bit later about some
+1296.09 double blind peer-reviewed
+studies conducted in humans
+1299.15 that indicate that for instance,
+1301.64 nicotine can reduce penile girth,
+1304.28 that is the girth of the penis,
+1305.48 and can lead to certain
+forms of sexual dysfunction.
+1308.72 And those changes are
+largely downstream of changes
+1311.9 in blood flow and
+endothelial cell function.
+1315.02 Endothelial cells are the cells
+that make up blood vessels
+1317.75 and other vascular type tissues
+within the brain and body.
+1320.96 So nicotine is found in these plants.
+1323.0 And what we can know for sure is
+1325.46 that at some point in human evolution,
+1327.98 somebody or some group of people,
+1329.96 either, and here, I'm completely guessing,
+1332.36 it's a just so story,
+1334.49 but someone or some group must
+have inhaled the smoke from
+1339.2 the tobacco plant or put the dried leaves
+1342.71 of the tobacco plant
+against some mucosal tissue,
+1346.04 and you know the different
+mucosal linings of their body
+1347.93 by which substances can
+pass through, that's right.
+1351.17 Any of the mucosal soft
+lining tissues of the body
+1354.5 will allow certain substances,
+1356.21 not all certain substances to pass in.
+1358.01 That's why people can put
+tobacco in their mouth
+1360.356 and a certain amount of nicotine makes it
+1361.189 into the bloodstream,
+1362.022 put tobacco up their nose,
+1363.334 certain amount of nicotine
+gets into the bloodstream.
+1365.42 I haven't heard of people
+putting tobacco in other orifices
+1368.15 of their body containing mucosal tissue.
+1369.71 And I'm certainly not
+suggesting people do that,
+1371.75 but you get the idea
+1372.8 and how nicotine gets from these plants,
+1374.87 these dried leaves into the bloodstream.
+1378.44 Burning tobacco leads
+to a heat induced change
+1382.31 in the availability of nicotine.
+1384.05 And this is why smoking tobacco
+1386.39 or vaping tobacco,
+simply by heating it up,
+1390.67 allows the nicotine to be
+liberated and go into the
+1392.99 bloodstream simply by
+inhaling it into the lungs.
+1395.36 We will get back to smoking
+of various kinds later.
+1398.15 But right now let's just keep
+our attention on how nicotine
+1402.41 is pulled from these plants
+and into the human body.
+1405.89 Now whether by inhalation
+or whether or not by placing
+1409.52 in contact with the
+mucosal tissue of the mouth
+1411.77 or other mucosal containing
+orifice of the body,
+1416.06 the nicotine then gets
+into the bloodstream.
+1418.34 And once it's in the bloodstream,
+1420.32 it only exerts its
+effects because it binds
+1422.84 to certain so-called nicotinic receptors.
+1427.56 So the nicotinic receptors
+1429.05 are of the acetylcholinergic variety.
+1431.84 I know this is a lot to think
+about and a lot to hear if you
+1434.12 haven't heard about this, but
+it's actually quite simple.
+1436.1 Anyone can understand this.
+1437.72 Acetylcholine is a molecule,
+1441.17 a chemical that is that's
+released in the brain and body.
+1445.76 And when it binds to receptors,
+1447.68 that is little parking spots on cells,
+1449.69 it changes the way those cells behave.
+1451.91 Those cells can increase their activity
+1453.89 and release other chemicals.
+1454.94 They can become electrically active,
+1456.26 they can do any number
+of different things.
+1459.14 When we ingest nicotine,
+1461.69 it gets into the bloodstream
+and eventually some of that
+1463.583 will get into the brain and
+some of it gets into the body.
+1466.13 And in both of the brain and body,
+1467.66 there are the so-called nicotinic
+acetylcholine receptors.
+1470.72 Now the so-called family,
+and indeed they are a family,
+1474.29 this is how we refer
+to groups of receptors
+1476.87 of related design and genetic
+background just like humans.
+1480.8 You have a family of these
+acetylcholine receptors
+1483.62 that are of the nicotinic variety.
+1484.94 So maybe on one street
+in your neighborhood,
+1486.92 you know the Joneses and another street,
+1488.48 you know the Chows and another
+street, well in your body,
+1491.0 you have the nicotinic
+acetylcholine receptors,
+1493.16 and then you have the so-called
+1493.993 muscarinic acetylcholine receptors.
+1496.16 Today it's really simple.
+1497.21 Nicotine only binds to the
+nicotinic acetylcholine
+1499.55 receptors and there are
+a bunch of different ones
+1501.68 on a bunch of different tissues.
+1503.21 And the differences in those
+receptors dictate what sorts of
+1507.35 effects the nicotine will
+have on those tissues.
+1511.43 So let's talk about
+what those effects are,
+1513.05 and let's do that by dividing
+the effects of nicotine
+1515.54 into effects on the brain,
+1517.13 so everything from the
+neck up, and on the body,
+1519.65 the so-called central nervous
+system and the periphery.
+1522.14 Although I want to point
+out that your spinal cord
+1523.55 is part of the central nervous system.
+1524.78 So in fairness to the reality,
+1527.36 your brain and spinal cord are
+all central nervous system.
+1530.42 Everything else is
+considered the periphery.
+1532.91 Now there are a lot of different nicotinic
+1534.41 acetylcholine receptors,
+1535.73 but for those of you that
+want to know, you aficionados,
+1538.34 or if you're ultra curious about this,
+1540.77 the main effects of nicotine
+in the brain are mediated
+1544.52 by nicotine binding to the so-called
+1547.01 alpha four beta two receptor.
+1549.77 Alpha four beta two receptor.
+1552.14 Even if you don't care
+about receptor subtypes,
+1554.57 that's going to come up
+later when we discuss
+1556.43 why nicotine suppresses appetite.
+1559.37 In fact, one of the major
+reasons why people don't want
+1562.13 to quit smoking, or they quit smoking
+1564.77 or another form of ingesting nicotine,
+1566.57 and then they relapse,
+1568.13 they go back to smoking or
+ingesting nicotine in some other
+1571.55 way is because indeed nicotine
+will increase metabolism
+1575.84 and reduce hunger in large part
+1578.24 by binding to this alpha
+four beta two receptor
+1580.88 in a particular area of the brain.
+1581.96 We're going to return
+to that in a little bit,
+1583.1 but if you've ever heard that
+nicotine kills the appetite,
+1586.07 indeed it does.
+1587.45 It's not the behavior of smoking itself.
+1589.629 It's not because you
+always have a cigarette
+1590.462 in your mouth that you're
+not eating more food.
+1592.07 Although I suppose that
+might be a minor effect.
+1594.26 There are direct effects of
+nicotine on both appetite,
+1597.53 that is, it reduces
+appetite and direct effects
+1599.96 on metabolism, that is,
+1600.97 it increases metabolism
+through its effects
+1603.02 on some other areas of the brain and body
+1604.61 we'll talk about in a moment.
+1605.687 Now within the brain,
+1607.25 nicotine binds to this
+alpha four beta two receptor
+1611.27 in various locations in the brain.
+1612.92 And there are three and maybe
+a fourth that we'll talk about
+1616.07 neurochemical effects of
+nicotine after you ingest it.
+1619.58 First things first,
+1620.66 when you ingest nicotine
+1621.95 by smoking nicotine containing tobacco,
+1625.4 or if you place tobacco in
+contact with the mucosal lining
+1629.87 of the nasal passages of the mouth,
+1632.18 takes about two to 15
+minutes for that nicotine
+1636.17 to enter the bloodstream.
+1637.003 Smoking hits the bloodstream
+faster, vaping even faster,
+1640.49 I should mention for a
+variety of reasons and placing
+1644.42 tobacco directly in contact
+with the mucosal lining
+1647.42 is going to be the slowest.
+1648.8 Now as I mentioned before,
+1649.97 nicotine gets into the bloodstream
+and then because nicotine
+1652.85 can pass through the so-called
+blood brain barrier, the BBB,
+1656.69 which is basically a
+fence around the brain,
+1659.09 because it can pass through
+the blood brain barrier,
+1661.34 it's going to have very
+rapid effects on the brain
+1663.56 in these four major categories
+1665.66 of neurochemicals and neural circuits.
+1668.87 The first of those categories,
+this is a very important one,
+1672.11 this is one that was brought
+up in the episode on dopamine,
+1674.21 motivation, and drive.
+1675.92 And I think not just all scientists,
+1677.24 but all human beings should
+know that within their brain,
+1680.24 they have what is called the
+mesolimbic reward pathway.
+1685.34 The mesolimbic reward pathway
+if you just want to call it,
+1687.5 the dopamine reward pathway
+is, as the name suggests,
+1691.07 a set of connections between a brain area
+1692.99 called the ventral tegmental area.
+1694.52 You don't have to remember
+the names of these things,
+1696.5 of course, but if you
+want to, that's fine too.
+1698.78 The ventral tegmental area
+1700.13 or VTA connects to another area called
+1702.86 the nucleus accumbens.
+1704.9 Now here's what's very important.
+1706.46 Nicotine triggers the release of dopamine
+1710.45 from the nucleus accumbens.
+1711.68 This is what gives nicotine
+its rewarding properties.
+1714.77 It increases motivation.
+1716.15 It tends to give a not so subtle,
+1719.27 but very transient increase in feelings
+1721.64 of wellbeing and alertness and motivation.
+1724.76 And that's because of
+the increase in dopamine
+1726.8 caused by nicotine directly
+within the nucleus accumbens.
+1732.05 Nicotine also triggers the
+release of certain neurochemicals
+1735.32 from the ventral tegmental area itself.
+1737.51 And those impinge on nucleus accumbens
+1739.85 and increase dopamine levels further.
+1742.22 This is what makes the rewarding
+properties or sometimes
+1745.1 referred to as the reinforcing
+properties of nicotine
+1747.83 so powerful.
+1748.73 This is why so many billions
+of people ingest nicotine
+1753.11 in one form or another.
+1754.13 It's also why nicotine is so hard to quit
+1758.12 because there's a potent
+increase in dopamine
+1760.85 from multiple neural circuit pathways
+1763.1 within this mesolimbic reward circuitry.
+1766.34 Now within the mesolimbic
+reward circuitry,
+1769.07 there's an interesting feature.
+1769.97 There are accelerators
+that essentially push out
+1772.7 more dopamine, get more dopamine released,
+1774.92 and there are breaks of the
+so-called GABAergic variety.
+1777.83 GABA's an inhibitory neurotransmitter.
+1779.96 You don't need to know too much
+about it to just understand
+1782.36 that nicotine both increases dopamine,
+1785.66 but also decreases the activity of GABA.
+1789.38 And so this is like
+pushing on the accelerator
+1791.48 for dopamine, but also removing the brake.
+1794.69 So there's a two pronged
+effect of nicotine
+1797.96 on reinforcement reward
+dopamine related pathways,
+1801.32 the feel good motivation pathways.
+1803.99 And that is an increase in
+dopamine and a decrease in GABA.
+1808.52 And again,
+1809.353 that's all mediated through
+this mesolimbic reward pathway,
+1811.37 involving the ventral tegmental area
+1813.29 and the nucleus accumbens.
+1814.7 So if you can conceptualize
+1815.9 even just 5% of what I just told you,
+1818.3 or even if you can just remember
+nicotine increases dopamine
+1821.3 and that's why it feels so good,
+1822.52 it makes you want more of it,
+1824.69 you will have everything you
+need to know in mind in order
+1827.69 to understand both why
+nicotine is so highly used,
+1832.76 and indeed abused, why
+it's so hard to quit,
+1835.22 and that will point to avenues
+1836.78 as to how to quit or reduce intake.
+1839.12 And it also points to
+how nicotine can actually
+1841.7 be used in an antidepressant
+way should you choose.
+1845.69 And we will talk about
+what the various criteria
+1848.15 are for choosing that,
+1849.38 but just to understand
+nicotine increases motivation,
+1853.07 it decreases negative feelings of mood,
+1855.71 it increases positive feelings
+of mood and motivation.
+1858.47 Before we continue with
+today's discussion,
+1860.69 I'd like to just briefly
+acknowledge our sponsor
+1862.79 Athletic Greens, now called AG1.
+1866.0 Athletic Greens, AKA AG1,
+1868.25 is an all in one vitamin
+mineral probiotic drink
+1870.71 that also has adaptogens
+and digestive enzymes.
+1873.77 I've been taking Athletic
+Greens since way back in 2012.
+1876.5 So I'm delighted that they're
+sponsoring the podcast.
+1878.93 The reason I started taking
+Athletic Greens and the reason I
+1880.94 still drink Athletic Greens
+twice a day is that it supplies
+1884.72 total foundational coverage of
+my vitamin and mineral needs.
+1887.78 And it supplies important
+nutrients that I need to support
+1891.17 my gut microbiome, the gut
+microbiome, as many of you know,
+1893.99 supports the immune system.
+1895.1 It also supports the
+so-called gut brain access,
+1897.14 which is vital for
+mood, for energy levels,
+1899.51 for regulating focus,
+1900.77 and many other features
+of our mental health
+1902.63 and physical health that
+impact our daily performance
+1904.94 and high performance
+1905.84 in any endeavors we might be involved in.
+1907.97 If you'd like to try Athletic Greens,
+1909.35 you can go to athleticgreens.com/huberman
+1912.02 and claim a special offer.
+1913.61 They're giving away five
+free travel packs plus
+1915.5 a year's supply of vitamin
+D3K2 with every order.
+1919.19 And of course,
+1920.023 vitamin D3K2 are vital for
+all sorts of things like
+1922.79 hormone health and metabolic health and K2
+1924.83 for cardiovascular health
+and calcium regulation.
+1927.08 Again, you can go to
+athleticgreens.com/huberman
+1930.29 to claim that special offer.
+1931.82 The second major effect that
+nicotine has in the brain
+1934.49 is that it increases acetylcholine.
+1937.13 Acetylcholine is a
+neuromodulator that exists in you
+1939.92 and me, it is released from
+multiple sites in the brain.
+1943.58 And the two major sites
+are the nucleus basalis,
+1947.45 so these are a collection
+of neurons in the front
+1950.69 and base of your brain, and
+from some brain stem areas.
+1954.02 And there are a bunch of different ones
+1955.49 back there in your brain stem,
+1956.69 which is indeed in the back
+that release acetylcholine
+1960.818 that include the locus coeruleus
+as kind of a minor site,
+1962.45 the pedunculopontine nucleus.
+1964.34 There are a bunch of
+these different areas,
+1966.77 that parabigeminal nucleus.
+1968.27 There are a bunch of
+these things back there.
+1969.83 We don't have to go into all the names,
+1971.3 but just understand that they're
+little pockets of neurons,
+1973.76 nerve cells located in
+the front and the back
+1975.98 and some extent in the
+middle of your brain,
+1977.54 but really in the front
+and the back of your brain,
+1979.46 that can serve two major
+role, here they are.
+1983.99 Acetylcholine released from
+nucleus basalis leads to
+1987.2 a sort of spotlighting or highlighting
+1989.63 of particular neural
+circuits in the brain.
+1991.82 What do I mean by this?
+1992.653 Well let's say you're working on a puzzle.
+1994.85 Let's say it's a cognitive puzzle.
+1995.96 Maybe you're doing a word puzzle,
+1997.58 or nowadays I've heard
+of this Wordle thing.
+1999.56 I'm on Twitter and
+people are always posting
+2001.03 their Wordle thing and I
+have no idea what it is,
+2002.92 but I'm guessing it's some sort of puzzle.
+2004.6 I'm guessing it's like a crossword puzzle,
+2006.07 and here, if I'm wrong,
+I don't know, educate me.
+2007.81 Tell me what Wordle is.
+2008.68 Somebody put it in the comments
+2009.94 and tell me if I should play it or not.
+2012.22 Here's the deal.
+2014.29 When acetylcholine is
+released from nucleus basalis,
+2016.9 the neurons are there in
+the base of the brain,
+2019.45 but they extend axons,
+2021.04 which are like little wires
+elsewhere in the brain.
+2023.11 And when acetylcholine is released,
+2025.06 it tends to be released at
+particular locations in the brain
+2027.73 that are associated with whatever activity
+2029.62 we happen to be doing.
+2030.52 So if I'm doing Wordle,
+2032.38 here I'm talking about it
+as if I've ever done it,
+2034.24 doing a crossword puzzle or Wordle,
+2036.04 well the neurons that were
+involved in trying to figure out
+2038.08 the solution to that Wordle or
+crossword puzzle are active,
+2040.93 and then acetylcholine is
+released from the little wires,
+2043.66 the little endings of these
+cells in nucleus basalis.
+2046.54 And all of a sudden those
+neural circuits get a boost.
+2049.51 They become more active,
+and believe it or not,
+2052.117 our ability to perform
+that crossword puzzle
+2054.67 or at least focus on that Wordle
+2056.16 or crossword puzzle gets enhanced.
+2059.08 It literally increases
+our attention for that
+2061.78 and not anything else is enhanced.
+2063.82 So it's literally like a neurochemical
+2066.01 attentional spotlight.
+2067.84 Nicotine increases
+acetylcholine and thereby focus
+2071.5 and concentration and mental performance,
+2073.48 not by changing the neural circuits
+2076.06 that are activated per se,
+2077.8 but rather by making more acetylcholine
+2080.98 available at those release sites.
+2083.62 So it's as if the
+spotlight got more intense,
+2086.38 the highlighter is more intense
+than it would be otherwise.
+2089.38 And I should also mention because
+2091.18 of the so-called pharmacokinetics,
+2092.83 the time course in which
+nicotine has its effects,
+2095.98 which are pretty short lived,
+2097.27 we'll talk about those in a moment,
+2098.77 this enhancement in cognitive performance
+2101.08 and attention, it's going
+to be very transient,
+2103.42 probably on the order of
+about 30, maybe 45 minutes,
+2106.87 the half life of nicotine,
+2108.01 depending on how it's ingested and whether
+2109.23 or not you have food in the gut
+2110.41 and what else is in the
+bloodstream, et cetera,
+2112.12 it's going to be anywhere
+from one to two hours,
+2114.49 but typically the effects
+of nicotine will come on
+2116.38 in about two to 15 minutes
+as I mentioned before,
+2118.96 and then will last anywhere
+from about 30 to 45 minutes.
+2122.47 This is why in the old days,
+2124.03 and still to some extent in
+certain areas of the world,
+2126.46 but less so in the United States
+2128.26 and certainly in Europe as well,
+2130.12 we don't see quite as many
+people smoking cigarettes,
+2132.7 for reasons we can discuss later.
+2134.89 But you would see these chain smokers
+2137.17 who are trying to maintain constant levels
+2139.81 of nicotine in their
+brain and bloodstream.
+2142.03 Now perhaps they didn't know that nicotine
+2144.82 has this one to two hour half life,
+2146.35 but they could sense
+no doubt the cognitive
+2149.71 and the physical effects of nicotine,
+2151.0 including this cognitive
+enhancement effect
+2152.89 and highlighting of
+neural circuits effect.
+2155.29 And they would notice they
+would smoke a cigarette
+2157.63 and then for the next five
+to 45 minutes have heightened
+2160.75 focus and then they
+would start to drop off.
+2162.13 So they smoke another cigarette.
+2163.18 So in other words,
+2164.013 they're trying to maintain
+a constant level of nicotine
+2167.35 for whatever activities
+they needed to perform.
+2169.33 Obviously chain smoking
+2170.8 because of the terrible
+effects of smoking,
+2173.59 I'll talk about those terrible effects,
+2174.547 but I'm sure you've heard
+of them before, cancer,
+2177.94 depletion of just about
+every organ and body tissue
+2180.67 to the point that it
+can actually be measured
+2182.83 how many years of your
+life you're peeling off
+2184.72 in terms of lifespan and
+health span by smoking.
+2187.36 Well the terrible effects
+of smoking are indisputable,
+2191.41 but the positive effects of
+nicotine on this circuitry,
+2195.46 part of the reason why
+people would chain smoke
+2197.83 in the first place rather
+than get one big peak
+2200.5 of concentration and focus
+and then just let it disappear
+2202.75 after 45 minutes.
+2205.18 So what we have is a
+scenario where dopamine
+2207.46 is going up in the mesolimbic pathway.
+2209.59 That's why smoking or ingesting
+nicotine in any other way
+2212.41 feels good and makes us feel motivated.
+2214.69 And then the increase in acetylcholine,
+2216.28 especially from nucleus basalis
+in the front of the brain,
+2218.62 is the reason why it
+can increase our ability
+2221.38 to focus on particular types of endeavors,
+2224.26 particular mental work that we're doing,
+2225.85 or maybe even particular physical work.
+2227.71 Although I should mention
+anytime I'm pairing the words
+2230.2 nicotine and physical work,
+2231.82 it's obvious that because of the ways
+2233.74 that smoking impairs lung function,
+2236.26 those two things really
+run counter to one another.
+2238.41 In other words,
+2239.243 if you are thinking about
+ingesting nicotine through smoking
+2241.99 or vaping in order to
+improve physical performance,
+2244.713 that's a terrible idea.
+2246.46 The logic isn't there
+and the health detriments
+2248.44 are certainly there.
+2249.273 The third neurochemical pathway
+that's strongly activated
+2252.67 when nicotine is brought into
+the central nervous system
+2256.05 into the brain is epinephrine,
+2258.01 or in particular norepinephrine,
+2259.33 which is related to epinephrine.
+2260.62 Now, earlier I said epinephrine
+is the same as adrenaline.
+2263.23 That's still true.
+2264.31 Norepinephrine is closely
+related to epinephrine,
+2266.32 and for today's discussion,
+2267.46 we're going to use them interchangeably.
+2268.9 Although I realize as I say that
+2271.21 that the medical students
+and some biology students are
+2273.25 probably going to have a minor seizure
+2274.9 when I lump norepinephrine
+and epinephrine.
+2277.12 I don't do that to be
+too much of a lumper,
+2280.0 in science, we talk about
+lumpers and splitters.
+2281.86 Lumpers are people that like
+to oversimplify a little bit,
+2284.08 splitters are people that
+really like to detail.
+2285.97 You'll see a lot of
+splitters on social media
+2287.89 from time to time, they'll say, wait,
+2289.39 you didn't mention the alpha
+two beta six receptor yet.
+2293.14 Okay look, I get it.
+2294.61 And I am all for having
+splitters in the room,
+2297.13 but for sake of today's discussion
+2298.93 and for ease of digestibility
+of some of this,
+2302.02 just want to point out
+that norepinephrine,
+2303.58 epinephrine, and adrenaline,
+2304.84 I'm going to treat as a common
+pool of similar, in fact,
+2307.99 very similar molecules that
+all have the same net effect,
+2311.74 at least in the context of this discussion
+2313.24 and that's to increase levels
+2314.65 of alertness, energy, and arousal.
+2317.05 And the way that nicotine
+accomplishes those increases in
+2319.72 alertness and arousal and
+energy within the brain is by
+2323.17 triggering the release of
+no epinephrine from a little
+2325.03 cluster of neurons in
+the back of the brain
+2326.44 called locus coeruleus,
+2328.48 tiny cluster of neurons that
+offers up, or I should say has,
+2332.62 because they're always there from birth
+2335.02 has these little wires,
+these axons that extend many,
+2338.08 many places in the brain, not every place,
+2339.82 but virtually every place
+2341.05 and can sprinkler the
+brain with norepinephrine,
+2343.48 essentially serve as a wake up signal,
+2345.52 elevating levels of energy.
+2347.32 And when that combines
+with the acetylcholine
+2349.728 from nucleus basalis, which
+causes attentional spotlighting,
+2354.07 increases in concentration and focus,
+2356.53 and with the feel good
+properties of dopamine
+2359.137 and the motivating properties
+of dopamine released
+2361.63 from the mesolimbic reward pathway.
+2363.76 Now you can start to get
+a picture of why nicotine
+2367.42 is such a powerful molecule.
+2370.18 It's making people feel
+motivated and good.
+2372.07 It's making people feel focused
+and it makes people feel
+2375.82 alert when they would otherwise
+feel a little bit sleepy.
+2378.49 So this is a really
+powerful compound, in fact,
+2381.67 going back to our earlier
+discussion about focus
+2383.98 and some tools for focus,
+2385.15 and I encourage you if you're interested
+2386.53 to please check out the episode on focus,
+2388.09 there are a number of different tools
+2389.77 and protocols there to increase focus.
+2391.69 But here we are talking
+about one molecule, nicotine,
+2396.58 found in plants like tomatoes and potatoes
+2399.22 and the tobacco plant.
+2400.81 And it can be synthesized
+in a laboratory and ingested
+2403.87 through a patch or a gum or even a pill
+2407.35 or a toothpick dipped in nicotine.
+2409.48 One molecule that can trigger
+activation of all the circuits
+2414.97 for focus and motivation
+in one fell swoop.
+2419.14 That is remarkable. That
+is absolutely remarkable.
+2422.17 And here we haven't even touched on
+2423.19 some of the psychological
+components of focus, right?
+2425.2 Whether or not we're
+interested in something,
+2426.64 whether or not we're
+excited about it or not.
+2428.92 This is a very, very powerful system.
+2431.38 So powerful in fact,
+2433.03 that I think we can really place nicotine
+2434.89 right up there at the top,
+2437.02 right next to caffeine as the molecule
+2440.08 that has fundamentally
+changed human evolution,
+2444.28 human consciousness, and human experience.
+2446.77 Even if you're somebody who's
+never ingested nicotine,
+2449.38 this absolutely has to be true
+2450.82 because you have these
+nicotinic receptors,
+2452.74 which is to say that acetylcholine
+that's naturally released
+2455.56 without any external trigger
+within your brain and body,
+2458.92 or I should say
+2459.753 without any trigger from
+nicotine in particular
+2462.34 is binding these nicotinic
+acetylcholine receptors
+2465.52 and is creating these effects
+in your brain and body,
+2467.83 just absolutely staggering.
+2469.48 Now earlier I mentioned the
+appetite suppressing and indeed
+2472.75 metabolism increasing effects of nicotine.
+2475.63 And while that's a fairly niche component
+2478.21 of what nicotine does, I
+mean, it's an important one,
+2480.58 but it's not the major reason
+2482.32 why most people consume nicotine.
+2483.937 I'd like to take a moment
+and talk about that now,
+2485.98 because we are in the
+brain and we're talking
+2487.96 about the effects of
+nicotine in the brain.
+2489.277 And so it seems to me the appropriate time
+2491.26 to talk about this.
+2492.16 Now we can have this
+conversation about nicotine
+2494.53 and appetite and
+metabolism in a very simple
+2496.57 and straightforward way.
+2498.07 If you'd like to learn more
+about the biology of metabolism
+2502.24 and appetite and how those things
+2503.95 are mediated by neural components,
+2506.23 so not just stuff like
+your liver, et cetera,
+2508.24 we have episodes on that,
+2509.26 but really the neural components
+of hunger and appetite.
+2512.2 I encourage you to check out our episode
+2513.55 on hunger and appetite.
+2515.29 But in that episode, we had a discussion.
+2518.23 And it's one that I'll just
+briefly summarize now that you
+2521.29 have a collection of neurons
+that sits right above the roof
+2523.33 of your mouth or so
+called the hypothalamus.
+2526.856 Hypo means below and
+thalamus is right above it,
+2528.58 hypothalamus.
+2529.54 So the small collection of
+neurons in the hypothalamus
+2533.22 to a number of different
+things related to sex behavior,
+2535.6 aggression, mediating the
+temperature of your body,
+2538.66 et cetera, but also appetite
+and suppressing appetite.
+2542.14 And within the hypothalamus,
+2543.25 there's a compact collection
+of these little neurons,
+2546.16 which we referred to as
+the POMC, P-O-M-C neurons.
+2549.01 And the name comes from the fact
+2550.0 that they express certain peptides.
+2551.23 And we won't get into that now,
+2552.76 but the POMC neurons have
+a very profound impact on
+2557.23 whether or not you feel hungry
+2558.67 or whether or not you do not feel hungry,
+2561.04 whether or not your
+appetite is suppressed.
+2563.41 It turns out that when nicotine
+gets into the bloodstream
+2565.57 and then into the brain,
+2566.86 some of that nicotine binds to nicotinic
+2570.64 alpha four beta two containing
+nicotinic receptors.
+2573.85 Again, these sub units of receptors,
+2575.2 but basically the nicotine binds some
+2576.49 of those parking spots, parks there.
+2578.08 And as a consequence,
+2579.07 these POMC neurons increase
+their electrical activity
+2583.45 and appetite is suppressed.
+2585.73 And that's because the POMC
+neurons have outputs to various
+2589.09 areas of the brain and
+body controlling everything
+2591.67 from how full we feel to whether or not
+2595.21 our blood sugar goes up or down,
+2597.4 which can impact our hunger,
+and believe it or not,
+2600.16 whether or not we have a
+tendency to want to move the jaw
+2602.65 of our mouth in order to chew food.
+2604.75 Yes, believe it or not,
+2605.83 the neural circuitry
+associated with appetite and
+2608.29 suppression of appetite actually dictates
+2610.75 whether or not you prefer to,
+2612.7 or I should say are more
+biased or less biased
+2615.46 to moving your mouth, that is chewing.
+2618.46 Which makes perfect
+sense when you hear it.
+2620.68 One way to suppress appetite
+2621.76 is to sew the jaw shut neurally,
+2624.85 or at least make it less likely
+2626.35 to open your mouth and put food in it.
+2628.72 Actually that reminded me of a story.
+2630.22 I'll just interrupt myself
+to tell a brief story that
+2632.62 there's a famous Nobel Laureate
+who won the Nobel Prize
+2635.23 for something totally
+distant from appetite.
+2637.908 But once turned to a friend
+of mine at a meeting and said,
+2640.57 I discovered the biological
+mechanism for losing weight.
+2646.48 And my friend said, well of course,
+2649.75 ingest fewer calories than you burn.
+2651.37 Calories in, calories out,
+2652.3 fundamental rule of thermodynamics.
+2653.972 And basically the fundamental
+rule of weight loss,
+2656.23 weight gain, or weight maintenance.
+2658.12 And he said, no,
+2659.59 it's actually the gene
+2661.48 that controls whether or
+not you open your mouth.
+2663.94 Now he was making a very nerdy joke.
+2665.83 So if you didn't register that as a joke,
+2667.57 that's about as funny as
+neuroscience or biology jokes get.
+2670.93 There are a couple funnier ones,
+2671.83 but that one's kind of
+considered on the funnier side.
+2673.66 So this is why we're not
+considered comedians.
+2676.51 But the point of the matter is
+that whether or not you crave
+2681.76 or desire or impulsively
+want to put things
+2684.58 in your mouth and chew it,
+2685.51 will actually dictate how
+many calories that you eat.
+2687.76 And so I find it remarkable
+and indeed important to know
+2690.49 that these POMC neurons
+are actually inhibiting
+2692.89 the opening and the movement
+of the mouth for chewing.
+2695.17 So when we smoke or
+when we ingest nicotine
+2697.27 in any other way,
+2698.47 you activate these POMC
+neurons, you suppress appetite,
+2700.75 but in part you do that
+by actually limiting
+2702.88 the impulse to chew.
+2704.32 Incredible, at least to me.
+2705.94 Now in addition to limiting appetite
+2708.13 by changing one's desire
+to ingest food and chew it
+2711.37 and actual craving of food by regulation
+2714.1 of blood sugar, et cetera,
+2715.42 there do seem to be some quite
+direct effects of nicotine
+2719.53 on metabolism,
+2720.97 and the effects on
+metabolism aren't enormous.
+2723.34 These are increases in metabolism
+2725.11 that are about 2% up to about 5%,
+2728.83 but I want to emphasize that those
+2730.75 are transient increases in metabolism.
+2733.93 Nonetheless, people that
+quit smoking often find
+2737.44 that their appetite goes up,
+they sometimes gain weight.
+2739.81 They sometimes do not depending
+on whether or not they
+2741.94 offset that increase in
+appetite with increased physical
+2744.37 exercise or with decrease
+food intake in other ways.
+2747.31 But there does seem to
+be this direct effect
+2749.08 of ingesting nicotine on metabolism,
+2751.09 which I find is interesting
+2752.47 because if you look in the literature,
+2753.94 one of the reasons why
+people are reluctant
+2757.09 to quit ingesting
+nicotine, if for instance,
+2760.54 they want to quit using the
+delivery device to nicotine
+2764.65 that's causing such problems
+for their health like smoking
+2766.87 or vaping or whether or
+not they find themselves
+2770.74 quote unquote addicted to,
+2772.36 or have the habit of ingesting nicotine.
+2775.48 In part, that's likely due
+to be the dopamine effects,
+2779.08 because dopamine is highly
+reinforcing and rewarding.
+2781.18 It feels good, so people
+want to do more of it.
+2783.4 But it's also that for many
+people and here the data really
+2786.55 point to the fact that a lot
+of the younger female smokers
+2789.64 or younger female vapers,
+or when I say that,
+2793.93 of course I mean younger
+females that vape,
+2798.04 are doing that because they like
+2799.75 the appetite suppressing effects,
+2801.28 which of course opens up
+an entire conversation
+2803.35 about the sociology of
+body imagery, et cetera,
+2806.29 a topic for a future podcast.
+2808.21 So nicotine has certain effects
+on the brain by virtue of
+2812.53 the fact that nicotine binds
+2814.39 these nicotinic acetylcholine receptors.
+2816.4 And those receptors are found on some,
+2818.11 but not all neural
+circuits within the brain.
+2820.24 And we talked about some of
+them already, mesolimbic,
+2822.55 the POMC neurons, et cetera.
+2824.38 Now when we ingest nicotine,
+2825.91 it goes from the bloodstream
+to all the tissues
+2829.69 and organs of the body.
+2830.77 How does it do that? I mean, amazing.
+2832.75 It can pass to everything,
+the brain, the body,
+2835.63 it does that because
+nicotine is fat soluble.
+2839.05 And now when anytime
+people hear the word fat,
+2840.91 they tend to think about
+body fat, subcutaneous fat,
+2843.7 or maybe they think about dietary fat.
+2845.86 What I mean by fat soluble in
+the context of nicotine being
+2848.65 fat soluble is that the cells of your body
+2852.28 have an outer layer,
+so-called outer membrane.
+2855.67 And it's made up of lipid, of fat,
+2857.8 very particular types of lipids in fact.
+2860.8 Nicotine has this remarkable
+ability to move through
+2864.85 that fatty tissue.
+2866.68 Not all molecules have that
+ability, but nicotine does.
+2870.37 So it can move relatively
+freely through the brain
+2872.83 and body and relatively
+freely from outside of cells,
+2876.25 extracellular space to
+intracellular space.
+2879.28 So it can get into cells, it
+can do that within the brain.
+2881.29 We talked about those effects
+2882.34 and it can do that within the body.
+2884.23 Now anytime we're talking about the body,
+2886.3 we can be talking about
+any number of things,
+2887.83 but today I'm going to
+refer to the periphery
+2890.11 and the body in more or less the same way,
+2891.88 but keep in mind in the back
+of your head, pun intended,
+2896.62 you have your brain, your
+eyes, and the spinal cord.
+2900.13 And those three things make up
+your central nervous system.
+2902.77 The peripheral nervous
+system and the periphery,
+2904.72 which is the rest of your body,
+2906.13 the contain your organs
+and so forth outside
+2908.29 of the nervous system,
+2909.58 things like your liver and
+your stomach, et cetera,
+2911.74 that's what we're going to
+talk about now because nicotine
+2914.59 has profound effects on
+the organs of the body
+2917.41 that are separate from,
+2918.82 but that occur in
+parallel at the same time
+2921.58 as the effects of nicotine on the brain.
+2924.13 So let's talk about what
+some of those effects are.
+2926.08 When nicotine makes it into
+the bloodstream, again,
+2928.03 within two to 15 minutes of ingesting it,
+2930.13 depending on the delivery device,
+2933.16 your heart rate will increase,
+2935.65 blood pressure will increase,
+2937.293 and the contractibility
+of the heart tissue
+2940.12 will actually increase.
+2941.92 So what that essentially
+speaks to is an increase
+2945.58 in so-called sympathetic tone.
+2947.23 And when I say that,
+2948.063 I don't mean an increase in sympathy
+2949.69 for others of the emotional sort.
+2952.45 What I mean is an increase
+in the sympathetic activity
+2955.75 of the sympathetic arm of
+the autonomic nervous system,
+2958.06 which is real mouthful
+and mindful of ideas.
+2961.6 But all you need to know is
+that it's a generalized system
+2964.81 that increases levels of
+alertness and physical readiness.
+2968.65 So it makes you ready for action,
+2969.85 makes you ready for thought.
+2971.56 It's balanced by a whole
+other system called
+2973.51 the parasympathetic nervous system,
+2975.22 which is basically the so-called
+rest and digest system,
+2978.07 which is a system of neurons
+and organs, et cetera,
+2980.65 that put your body and your
+brain into a state of not being
+2983.92 able to think clearly, to
+digest, and to fall asleep.
+2987.25 So nicotine increases heart rate,
+2989.65 blood pressure, and
+contractibility of the heart.
+2991.6 So it's going to cause
+more blood flow in theory,
+2994.6 although it also tends to
+constrict blood vessels
+2998.08 in many locations in the body.
+2999.67 This explains the decrease
+in penile girth effect
+3003.12 of nicotine, in particular
+3004.56 nicotine ingested by smoking or vaping.
+3007.35 That's right, smoking and
+vaping reduces penis size
+3011.58 and also will have damaging effects
+3014.76 on the blood lining endothelial tissue.
+3018.18 So over time it actually is
+impairing blood's ability to get
+3021.12 to the penis chronically
+3023.28 as well as to other organs of the body.
+3025.2 But when people ingest nicotine acutely,
+3027.84 and let's say they do
+that by Nicorette patch
+3030.3 or by toothpick dipped in nicotine,
+3032.46 it will have some of these same effects,
+3034.5 but when not smoking tobacco,
+3037.44 when bringing nicotine
+into the bloodstream
+3039.33 through other mechanisms,
+3040.83 many, if not all of the
+disruption of the endothelial cell
+3043.5 function can be bypassed, but
+the effects on penile girth,
+3049.38 the effects on reducing
+blood flow to various tissues
+3052.08 is still present during
+the effects of nicotine,
+3055.38 which as I mentioned last
+about one to two hours.
+3057.54 The half life is about one to two hours,
+3059.25 depending on a number of factors,
+3060.81 not interesting for today's discussion.
+3063.18 So when nicotine gets
+into the bloodstream,
+3065.49 it's making us more alert,
+3066.536 it's preparing our body for readiness.
+3068.82 The heart is pumping harder.
+3071.4 Epinephrine, that is adrenaline,
+3073.11 is released from the adrenal glands,
+3074.79 which right atop our kidneys.
+3076.86 So everything is pointed
+toward creating more readiness
+3080.73 to move, more readiness to think.
+3082.92 And again,
+3083.753 this is happening in parallel
+with all the effects of
+3085.56 neurochemistry that are
+happening with the brain
+3087.21 that we talked about a few minutes ago.
+3089.73 Now what's interesting about
+nicotine is that while it
+3092.31 causes this global increase in readiness
+3094.5 and alertness and attention
+and mood, et cetera,
+3097.23 it also has the effect of
+somewhat relaxing skeletal muscle.
+3102.06 Now that might seem
+counterintuitive to those of you out
+3104.31 there that already know what I'm about
+3106.11 to tell the rest of you who
+didn't know it previously,
+3109.56 that your muscles are able to
+3111.87 contract because of the effects
+of acetylcholine released
+3117.03 from neurons in your spinal
+cord that spit out acetylcholine
+3121.62 onto the muscle and bind to what?
+3124.89 Nicotinic acetylcholine receptors.
+3126.21 Put into plain English,
+3127.498 nicotinic receptors are also the ways
+3130.53 in which your muscles can get activated.
+3132.75 So therefore,
+3133.583 why would it be that increasing nicotine
+3135.33 would cause relaxation of the muscles?
+3137.79 And that has to do with some
+of the neural circuits that are
+3140.16 upstream of the muscles and
+has to do with a little bit
+3142.53 of how the autonomic
+nervous system is a range
+3144.84 in terms of which receptors go where,
+3146.52 a topic and kind of rabbit
+hole of a conversation
+3149.55 far too deep for right now,
+3151.38 at least in the context of
+this already somewhat detailed
+3153.99 discussion of the effects of nicotine.
+3155.94 But if we were to zoom out and just think
+3158.4 about the effects of nicotine,
+3159.81 we now have a very clear picture.
+3163.05 Reward pathways are turned on.
+3164.55 Attention is turned on.
+Alertness is turned on.
+3167.61 You feel better than you
+felt a few minutes ago.
+3169.98 Your blood pressure is
+up. Your heart rate is up.
+3174.6 Your preparedness for
+thinking is elevated as well.
+3179.49 And yet your body is somewhat relaxed.
+3182.61 That's a very interesting
+state of mind and body.
+3186.06 Interesting because it's somewhat
+ideal for cognitive work.
+3191.4 Like if you were going to sit
+down and work on a book or you're
+3193.8 going to sit down and try and
+figure out a hard math problem,
+3196.35 or you're going to write a
+letter that's been really
+3197.91 challenging for you to write,
+3199.14 or maybe that you're
+really excited to write,
+3201.75 but that you've been
+3202.77 slow to get out the door
+for whatever reason.
+3204.87 I'm talking about my own
+habits of procrastination.
+3207.54 Well that state of being very alert,
+3209.52 but your body being relaxed is almost,
+3212.4 if not the optimal state for
+getting mental work done,
+3216.33 because if you're feeling
+agitated in your body
+3218.28 and you want to physically move your body,
+3219.48 it's very hard to do cognitive work.
+3220.8 At least the sorts of cognitive
+work that involve typing
+3223.26 or writing or these sorts of things.
+3225.24 It's also the exact opposite
+of the optimal state
+3228.001 for physical performance,
+3229.68 which is one of yes, also alertness,
+3234.375 yes, also motivation and elevated mood.
+3235.74 That's all wonderful
+stuff to have in mind,
+3238.74 literally when you are
+exercising or competing
+3241.38 in sport or something of that sort.
+3243.48 But under those conditions,
+3244.65 you really also want to
+have a fast reaction time,
+3248.19 a low latency for muscle
+activation so that you can make
+3250.5 coordinated muscle movements
+in the ways that you need to,
+3252.96 which is of course what's
+required of physical endeavors.
+3255.72 That tells us a few things, first of all,
+3257.01 it tells us that nicotine is
+going to be generally a bad
+3260.22 idea for a pre-workout tool
+3264.93 or for enhancing physical performance,
+3268.38 however, it's apt to be,
+3270.51 and in fact is an excellent tool
+3272.49 for enhancing cognitive ability.
+3274.44 And of course,
+3275.273 that triggers my mind to
+return to the anecdote about
+3277.83 my Nobel prize winning
+colleague who ingests nicotine
+3281.07 by way of nicotine containing gum in order
+3283.35 to increase levels of cognitive focus.
+3285.45 Certainly not for going
+out and playing sport.
+3287.55 In fact, despite the fact
+that he is very, very tall,
+3291.0 he often points to himself
+3294.557 in an appropriately funny way that
+3297.561 despite being on the basketball
+team of his high school,
+3298.77 he is probably the worst
+player that ever existed.
+3300.99 And they only positioned him
+there because of his height.
+3302.85 And I guess his head was
+designed to prevent balls
+3306.09 from entering the basket.
+3307.35 In any event,
+3309.03 nicotine does seem to be very good
+3311.01 at enhancing cognitive function,
+at least in the short term,
+3314.49 which is not to say that it
+isn't without its side effects,
+3316.74 which we will talk about.
+3317.97 And again,
+3318.803 those are side effects that
+are independent of smoking
+3320.27 or vaping or other forms
+of ingesting nicotine.
+3323.52 For instance,
+3324.78 dipping or chewing tobacco
+is known to cause a 50 fold,
+3329.58 yes, 50 fold increase in mouth cancers,
+3333.15 things like leukoplakia and just generally
+3336.36 is terrible for your health.
+3337.47 I'm sorry to break it to you,
+3338.49 but if you're dipping
+or you're using snuff
+3341.31 or things of that sort,
+3342.51 certainly I'm not going
+to tell people what to do.
+3344.37 That's not my role in life,
+3347.326 but you are dramatically
+increasing the probability of an
+3350.58 oral cancer or of a mucosal
+lining cancer of some sort.
+3354.15 So it's not just that smoking
+3355.197 and vaping are bad for your health.
+3356.91 These other forms of delivery for nicotine
+3358.71 can be bad for your health as well.
+3359.907 Now whether or not ingesting
+nicotine by way of nicotine
+3362.64 containing gum or patch or
+toothpick or other method
+3366.15 is dangerous,
+3367.86 for other reasons is a discussion
+3369.72 that's important, right now,
+3371.22 it appears that provided the
+dosages are kept reasonable.
+3376.77 We'll talk about what
+reasonable means a little later,
+3378.87 and the frequency is kept relatively low.
+3381.66 So not relying on these things constantly.
+3384.39 There may in fact
+3385.223 be some benefit to ingesting
+nicotine from time to time,
+3387.75 provided that you are not
+still developing your brain.
+3392.4 Now in reality,
+3393.42 neuroplasticity goes on
+throughout the lifetime.
+3396.0 Your life is actually one
+long developmental arc.
+3397.92 It's not like development
+occurs and then stops,
+3400.29 but certainly for people
+before puberty, during puberty,
+3403.2 and probably for the next 15
+to 20 years after puberty,
+3407.22 avoiding nicotine is probably a good idea.
+3409.83 Now of course, development
+is your entire life.
+3412.26 It's not like development
+starts and then ends,
+3413.82 but certainly for people that
+are 25 years old or younger,
+3418.14 ingesting nicotine as a way
+to enhance cognitive function
+3420.84 is probably not the best idea.
+3422.43 And certainly, please,
+3423.99 for those of you that are
+15 years old or younger,
+3427.41 ingesting nicotine in any form,
+3429.15 unless it's prescribed by your doctor
+3430.59 for a very specific clinical reason,
+3433.2 to me seems just like a terrible idea
+3435.3 based on all the data that I've read.
+3437.04 And the reason for that is
+it's going to create a scenario
+3439.74 of nicotine dependence in order
+to achieve heightened levels
+3442.32 of mood and alertness, et
+cetera, and that's bad.
+3445.26 And what we're effectively talking about
+3446.42 is an addiction for nicotine directly,
+3448.47 not necessarily the delivery device method
+3450.75 like smoking or vaping,
+3451.74 although it could pull
+that in as an addictive
+3453.84 or habit forming behavior as well,
+3455.82 but you want to let your
+neural circuits develop
+3457.83 to the point where again,
+3459.93 unless there's a clinical
+need for a prescribed drug
+3462.808 from a licensed physician
+or psychiatrist, et cetera,
+3464.7 that you're not relying
+on chemical enhancement
+3467.64 of these circuits.
+3469.098 For people who are 25
+years or older, and again,
+3473.91 that's not a strict cutoff,
+but roughly 25 years or older,
+3476.7 but for those of you that are
+thinking about using nicotine
+3480.15 to enhance cognitive function as adults
+3483.06 and your brain development
+is slowing down, right.
+3486.06 Never ceases,
+3486.893 but is slowing down or has
+slowed down to the point
+3489.9 where we would say developmental
+plasticity is largely over
+3493.05 and you're now operating
+3494.67 in the context of adult neuroplasticity.
+3497.91 Well, in that case,
+3498.99 there may be instances in which increasing
+3502.59 acetylcholine, dopamine, et cetera,
+3504.06 by way of nicotine ingestion
+might be a good idea,
+3506.97 but certainly not by smoking, vaping,
+3508.92 or by direct contact of tobacco
+to the mucosal lining tissue
+3512.91 of the mouth or nose, so
+called dipping or snuffing.
+3515.7 For the last 20 minutes or so,
+3517.05 we've been talking about
+the biology of nicotine
+3518.91 specifically, how it impacts the brain,
+3520.83 how it impacts the body,
+why it feels so good,
+3522.99 why it can enhance focus.
+3524.49 And we've largely set
+aside smoking, vaping,
+3528.87 dipping tobacco, and snuffing,
+3531.03 and the negative effects
+that those all have
+3533.64 on mental and physical health.
+3535.59 Working down from the top of the head
+3536.91 to the bottom of the feet, we
+can say that smoking, vaping,
+3541.02 dipping, and snuffing negatively
+impact every organ and
+3544.8 tissue system and cell of the
+body by virtue of the fact
+3548.22 that they all damage
+the endothelial cells.
+3551.4 Again, the endothelial cells are the cells
+3553.14 that make up the vasculature,
+3554.7 which delivers blood and other nutrients
+3558.15 to all the cells and organs
+and tissues of the body.
+3561.06 And those endothelial cells
+are strongly and negatively
+3564.6 impacted by all of the
+practices that I just described.
+3568.557 Now the way that that happens
+3569.39 varies a little bit from each
+one to the next, for instance,
+3572.67 it has been estimated
+that cigarettes contain
+3575.16 anywhere from 4,000 to 7,000 toxins.
+3578.43 Now the word toxins is a
+real buzzword these days,
+3580.44 you hear about detoxes and
+toxins, but more specifically,
+3584.55 we know that it contains carcinogens.
+3586.92 These are cancer promoting compounds.
+3589.41 For instance,
+3590.46 we know that the tar in cigarettes,
+even low tar cigarettes,
+3593.79 as well as the ammonia within cigarettes,
+3595.74 as well as the formaldehyde
+contained within cigarettes,
+3598.83 as well as the carbon
+dioxide that's generated
+3600.87 from smoking those cigarettes
+are all carcinogens.
+3604.02 Carbon dioxide also has the
+negative effect of depleting
+3607.29 the amount of oxygen that's
+delivered to any and all
+3609.6 of our tissues by way of the impact of
+3612.54 carbon dioxide binding hemoglobin
+and preventing hemoglobin
+3616.68 from delivering oxygen to
+the tissues of the body.
+3619.47 So while there may be 4,000
+or 4,500 or 7,000 toxins,
+3623.49 depending on which cigarette,
+3624.66 which papers they happen to be rolled in,
+3626.55 whether or not they're
+filtered or non-filtered,
+3628.38 the type of tobacco, et cetera, et cetera,
+3631.83 there are a tremendous number of toxins.
+3633.48 And there are some very potent carcinogens
+3635.85 within that long list of toxins.
+3637.89 Again, ammonia, tar, formaldehyde,
+3640.29 and carbon dioxide being the most potent
+3642.36 of those carcinogens.
+3643.71 Now the fact that there are
+carcinogens in cigarettes
+3645.69 sometimes lead cigarette
+smokers and particularly the
+3648.27 cigarette smokers that have
+the hardest time quitting or
+3650.49 that enjoy their cigarettes
+the most from saying, well,
+3653.01 listen, everything is a carcinogen
+or everything kills you.
+3655.14 Well certainly that's
+not a true statement.
+3658.8 And while there are other
+carcinogens in the environment,
+3661.5 so it environmental hazards like solvents.
+3664.38 And even if you work in a
+laboratory, for instance,
+3667.14 we use in the laboratory,
+DNA intercalating dyes,
+3669.9 these are literally dyes
+that allow us to see the DNA
+3672.27 structure of cells and see the proteins
+3674.07 they make and see the RNAs they make.
+3676.2 And it's very important to wear gloves
+3677.52 when you work with those things,
+3678.42 because as the name
+suggests, they intercalate,
+3681.229 they actually get in
+between the strands of DNA
+3682.59 and separate them.
+3683.7 They are mutagens, they mutate DNA.
+3686.22 They are often carcinogens as well.
+3687.87 So we have them in our laboratory,
+3689.16 but we take certain precautions
+to not have them negatively
+3691.71 impact our health, safety
+protocols and so on.
+3695.13 We hear that there are
+carcinogens in car exhaust
+3698.16 and bus exhaust and in all sorts of things
+3700.29 like pesticides and that's all true.
+3702.3 So in the argument of probabilities,
+3704.55 one would say, well,
+3705.48 if there are all these other
+carcinogens in the environment,
+3708.09 why would you compound
+their carcinogenic effect
+3711.39 by smoking or vaping
+or dipping or snuffing?
+3714.51 But that usually doesn't get
+people to quit smoking or doing
+3716.64 those things because of
+the powerful reinforcing
+3718.5 effects of nicotine itself.
+3720.18 So again,
+3721.013 nicotine is the reinforcing element by way
+3723.3 of triggering that dopamine
+reinforcement pathway,
+3726.03 the mesolimbic reward pathway.
+3727.74 And of course there are all
+the other additional effects
+3731.4 of increased focus,
+3733.11 such as increased ability to pay attention
+3735.21 to work or to others that
+lead to other rewards.
+3737.337 And so then it becomes a
+situation of compounding rewards.
+3740.01 So it's not really about the cigarette,
+3741.51 it's about the nicotine,
+3742.343 and it's not really about the nicotine,
+3743.61 it's about the dopamine
+that the nicotine evokes.
+3745.62 And then it's not really
+about the dopamine
+3747.21 that the nicotine evokes directly per se,
+3750.03 but also about all the
+positive effects that
+3751.95 that increased dopamine results in.
+3754.53 So we can easily circle back
+to the negative effects of
+3757.65 smoking, vaping, dipping, and snuffing,
+3760.23 and say the endothelial
+cells are disrupted.
+3763.56 The endothelial cells are
+involved in delivery of blood
+3766.11 and other nutrients to every tissue
+3767.43 of the body and smoking
+vaping, dipping, and snuffing
+3771.06 contain carcinogens, which
+are cancer promoting.
+3773.58 And because the epidemiological
+studies are out there,
+3775.8 we can actually arrive at some
+very clear numbers as to how
+3778.95 much life one will lose
+from ingesting nicotine
+3783.84 by way of those four delivery devices,
+3786.21 or I should say any one of
+those four delivery devices.
+3789.42 Although I should also mention
+that many people who are
+3791.43 vaping are also smoking cigarettes
+3793.32 is becoming increasingly common.
+3794.76 A lot of people are using
+vaping in one context
+3796.86 and cigarettes in another,
+3798.03 dipping in one context, vaping in another.
+3800.1 But even for those that
+only smoke or only vape
+3803.19 or only dip or only snuff,
+3805.47 the negative effects are
+dramatic and calculable.
+3810.06 So it is thought that for every pack
+3812.01 of cigarettes consumed per day,
+3814.56 so you could average that
+out if you're a two a day
+3817.08 cigarette smoker or a pack
+a day cigarette smoker,
+3820.44 two pack a day.
+3821.52 For every pack of
+cigarettes smoked per day,
+3825.75 we can reliably estimate a 14
+year reduction in lifespan.
+3831.45 So cigarettes are literally
+peeling years off your life.
+3835.17 Now because of the way that the
+brain works and the way that
+3838.08 human beings anticipate the
+future and can be grounded both
+3842.4 in the present and the future
+or the present and the past,
+3844.95 that's just how the mind works, right?
+3846.21 That's why we can think about the future,
+3847.56 but also realize where we
+are in time and space today.
+3850.53 Because of that, many
+people will say, well,
+3852.84 I enjoy cigarettes or I enjoy vaping.
+3854.817 And so at least while I'm
+here, I'm enjoying it.
+3856.59 And that's because the dopamine system
+3858.54 is not very good at
+understanding opportunity costs.
+3862.77 That is what we would be
+doing in those 14 years
+3865.53 and what we would be
+enjoying and the enrichment
+3867.45 that we would get if we were
+to live into those 14 years.
+3870.72 So at some level the smoker or vaper
+3872.79 is being rational when they
+say, yeah, but I enjoy this.
+3875.79 And so the years lost,
+3877.95 I can't really register that
+because it's hard to register
+3880.38 what you don't have and
+what you've never had.
+3883.08 On the other hand,
+3884.61 we can also point to the
+statistic that there is
+3887.64 this 50 fold increase in
+mouth cancers from dipping.
+3891.27 And there are nasal cancers as well
+3893.43 that are greatly increased
+by snuffing and from smoking,
+3898.05 and now we know based on
+data from vaping that the
+3902.04 endothelial cell damage
+and the direct effects
+3905.58 of damage to the lungs from tars,
+3907.38 and even if people are vaping,
+3908.76 which tends to have lower
+tars than do cigarettes,
+3911.97 even for people that are vaping,
+3913.65 greatly increased probability of stroke,
+3917.13 of peripheral vascular disease.
+3919.892 So this is peripheral
+pain because remember,
+3922.051 blood is delivering, not just blood,
+3922.98 but other nutrients and
+it's clearing things
+3925.11 out from tissues.
+3926.34 So there's an accumulation of
+literally toxins and debris
+3929.46 that cells generate all
+the time, which is healthy,
+3931.71 but then the normally is cleared away
+3934.14 by the endothelial cells
+3935.34 and by other cell types
+of the immune system,
+3938.16 that's all increased in people that engage
+3941.22 in these nicotine
+delivery device behaviors.
+3944.97 Rates of heart attack, rates of stroke,
+3947.13 rates of cognitive
+decline are all increased.
+3949.95 Now you might say cognitive decline,
+3951.06 I thought that nicotine increases
+the likelihood that we can
+3954.72 maintain healthy neural
+function and cognitive capacity.
+3957.51 It might even increase cognitive capacity
+3959.313 in a potent way in the short
+term, and indeed it does.
+3961.92 However,
+3963.39 cigarette smoking and vaping are now known
+3966.21 to dramatically decrease
+cognitive function
+3970.14 because one of the key
+things about the brain
+3972.36 is that it is the most
+metabolically demanding organ,
+3975.09 which means it consumes a lot of glucose.
+3976.68 Or even if you're
+ketogenic, you need ketones,
+3978.84 you need nutrients getting
+to the neurons in other cell
+3981.15 types of the brain and nervous system
+3982.8 in order for it to function properly.
+3984.57 And when you disrupt a vasculature
+through this endothelial
+3987.48 cell dysfunction, you get
+things like interstitial,
+3990.24 which just means in the
+spaces between dysfunction.
+3992.46 So it's not just beating up
+3994.17 the endothelial cells themselves,
+3995.61 but the spaces between the
+cells is being disrupted.
+3998.16 There's a lot of debris
+that accumulates there.
+3999.93 And as a consequence,
+4001.55 the brain just simply
+will not function as well.
+4004.4 So you start getting
+short term memory lapses,
+4006.32 you start getting working memory lapses,
+4007.82 working memory is the sort of memory
+4009.32 if someone tells you their
+seven digit phone number,
+4012.56 typically nowadays people
+just share their info,
+4014.48 but seven digit phone number or a sequence
+4016.28 of numbers or an address
+4017.33 and your inability to remember that.
+4018.74 So you're walking back to the
+kitchen sink and you can't
+4020.57 remember what you were trying to remember
+4022.49 just a short moment ago,
+that's working memory.
+4024.56 Working memory suffers, long term memory,
+4027.41 projective or intergrade
+memories into the future.
+4030.53 How can you remember things in the future
+4033.59 that haven't occurred yet?
+4034.46 Well this is more of a memory
+for future plans or ideas
+4038.66 and planning for things that are to come.
+4040.73 So what we can very reliably
+say is that currently
+4043.28 more than 1 billion, billion,
+4045.8 more than 1 billion people consume tobacco
+4049.25 in order to get their nicotine
+4050.99 because that's really
+the reinforcing element
+4053.18 within tobacco,
+4055.13 more than 1 billion people
+consume tobacco in the form
+4057.83 of cigarettes every day.
+4061.04 A growing number of people,
+4062.75 more than half a billion people
+now are starting to vape.
+4066.95 The estimates range from
+200 million to 500 million.
+4070.55 And there's a lot of
+debate about this because
+4072.29 a lot of people are
+hybrid smokers and vapers,
+4074.96 meaning they do one or both
+4077.03 depending on time of day and location,
+4078.56 as I mentioned before,
+4079.91 but now you start to see how
+you can get to the number
+4084.17 that billions of people
+are consuming tobacco.
+4086.54 Because of course you
+also have your people
+4088.28 that are dipping and your
+people that are snuffing.
+4090.41 And as I mentioned before,
+4091.34 you have people that
+are engaging in multiple
+4093.86 of these behaviors.
+4095.57 So billions of people on planet Earth,
+4098.6 anywhere from one eighth to
+a quarter of human beings,
+4102.53 incredible right?
+4104.0 Anywhere from one eighth to a quarter of
+4105.62 human beings are consuming
+tobacco in one form or another
+4108.86 in order to get their
+nicotine one way or another.
+4112.79 And as a consequence,
+4114.41 are peeling years off their life,
+4116.068 dramatically increasing
+the probability of cancer,
+4119.33 stroke, heart attack,
+4121.61 peripheral neuropathies,
+brain dysfunction,
+4125.39 meaning cognitive dysfunction,
+memory impairment,
+4128.18 sexual dysfunction.
+4129.89 There are a number of studies
+4131.069 that have looked at increases in cortisol.
+4132.71 And while minor, those increases do exist.
+4135.71 Decreases in growth
+hormone, and while minor,
+4137.81 those decreases exist,
+4140.33 but even setting aside the
+negative impact on endocrine,
+4145.07 on hormone factors,
+4146.81 it's very, very clear
+that smoking, vaping,
+4151.19 dipping, and snuffing are
+among the worst things
+4154.64 that we can do for our health.
+4156.5 They are among the leading
+causes of preventable death
+4159.77 and debilitating life conditions,
+4163.31 which may lead you to the question as
+4165.14 to why in the world would people do this?
+4169.04 Well it turns out most
+of them don't want to.
+4173.03 In the best surveys that one can find of
+4176.665 if you could quit smoking,
+4177.59 if you could quit vaping, would you,
+4179.99 what you find is that at
+least for cigarette smokers,
+4183.26 70% want to quit.
+4187.58 They would love to quit.
+4189.23 And yet they find that to
+be exceedingly difficult.
+4191.99 And the reason they find it
+to be exceedingly difficult is
+4194.72 because of all the brain neurochemistry
+4196.64 that we talked about before.
+4197.57 The reason I spent close
+to 20 minutes talking about
+4200.48 dopamine and the mesolimbic pathway,
+4202.01 acetylcholine and nucleus
+basalis, and epinephrine,
+4206.57 and the relaxation of muscles
+in the periphery and the
+4208.88 increase in readiness
+in the body and brain is
+4212.42 that all of those combine
+to make nicotine one
+4214.88 of the most powerful and
+potent cognitive enhancers
+4217.67 and to some extent physical enhancer,
+4219.83 although, as I mentioned before,
+4221.57 the total number of physical
+exercise or physical
+4225.59 sport promoting effects of
+nicotine is very, very small,
+4230.03 if not zero.
+4231.77 There are certain conditions
+under which one might imagine
+4234.92 using nicotine specifically
+for cognitive enhancement where
+4239.21 performance of complex motor
+skills would sort of outweigh
+4242.51 the negative effects on
+the neuromuscular system,
+4245.09 our ability to generate
+coordinated movements.
+4247.76 There was actually an excellent
+study looking at the effects
+4250.1 of nicotine, not by smoking delivery,
+4252.62 but by different delivery
+mechanism in which they looked at
+4256.46 performance of hitters in baseball.
+4259.49 The experiment was kind
+of an interesting one,
+4261.23 even though these were fairly
+skilled baseball players,
+4263.39 what they had them do
+was hit a ball off a tee,
+4265.88 as I recall growing up and I admittedly
+4268.67 I didn't play much baseball,
+4269.69 but you start off on tee-ball and then
+4271.67 you would go, I think it
+was to pitching machine.
+4273.32 Then they would use actual
+pitchers who throw the ball.
+4275.017 But in this case it was a couple
+4277.49 of different baseball related tasks.
+4279.23 They'd have people hit the ball off a tee,
+4281.81 but they had to direct that hit
+4283.55 toward a ball atop another tee.
+4285.83 So it's fairly precise targeting that's
+4287.66 required in order to knock
+that ball off the other tee.
+4290.06 So this is an activity that
+involves not just motor output,
+4292.7 but coordinated motor output,
+4294.47 and not just coordinated motor output,
+4296.72 but directed, coordinated output
+4299.36 that requires some, as we
+would say, top down processing.
+4302.54 This isn't the kind of thing
+that can be done reflexively.
+4304.85 This is the kind of thing
+where the forebrain,
+4307.34 the prefrontal cortex in
+particular has to be heavily
+4309.35 involved in order to
+suppress certain actions
+4311.69 and then create other actions.
+4313.25 So the basic takeaway of
+the study is that nicotine
+4315.53 delivered by way of nicotine gum,
+4318.02 not by smoking, dipping,
+or snuffing was able
+4321.95 to increase cognitive
+performance and motor output.
+4324.32 So a rare circumstance where
+a specific set of demands that
+4329.18 involved both cognitive
+engagement and physical engagement
+4332.9 showed a slight but
+significant improvement.
+4335.6 But again, in most cases,
+4337.67 nicotine is just simply not
+going to improve physical output
+4341.3 if it's delivered through
+a smoked cigarette,
+4344.96 through vaping, through
+dipping, or through snuffing.
+4347.81 So if all these behaviors
+are terrible for essentially
+4350.78 every aspect of our
+health, frankly, I mean,
+4352.7 when you look at the literature,
+4353.533 it's terrible for pregnant
+women, it's terrible for kids,
+4355.7 it's terrible for older people,
+4357.38 it's terrible for younger people.
+4358.91 You really cannot find a scenario
+in which smoking, vaping,
+4362.96 dipping, or snuffing are good for us.
+4364.94 And yet people like the effects
+on the brain and they feel
+4368.39 quite addicted to them, even
+if they say they're not,
+4370.97 most of those people would
+be unwilling to give up their
+4374.39 practice of nicotine delivery
+for more than a few hours.
+4378.14 In fact,
+4379.514 if you look at the effects of
+withdrawal and we are going
+4380.69 to talk about what withdrawal
+of nicotine looks like,
+4383.423 what you find is that
+as soon as four hours
+4387.59 after the last ingestion of nicotine
+4389.93 by way of cigarette or vaping
+or dipping or snuffing,
+4393.47 what people start to experience
+4394.99 is some agitation, craving
+for nicotine, of course.
+4398.27 And while craving is
+kind of a vague concept,
+4400.85 it's actually a very specific
+biological mechanism.
+4403.4 It's the drop in dopamine
+that's starting to occur
+4406.88 so much so that there's a drop
+in dopamine below baseline.
+4410.03 That is the increase in
+dopamine that would normally
+4412.58 be experienced from
+smoking, vaping, dipping,
+4415.67 or snuffing is now not happening.
+4418.1 And in fact, the levels of
+dopamine are dropping below
+4420.59 where they would've been even
+4422.15 without performing that behavior.
+4424.55 So that's what craving is.
+4426.8 And withdrawal is an increased
+sense of that craving as well
+4430.52 as a lot of negative stuff
+like stomach aches or nausea
+4434.03 or irritability, and often
+collections of all of those.
+4437.0 So because these nicotine
+delivery approaches
+4438.92 are so terrible for our health,
+4441.14 and also because as many as 70% of people
+4445.07 who smoke would like to quit,
+4447.05 but either feel they can't
+because they've tried
+4449.27 and failed repeatedly often,
+or because it's just too scary,
+4453.23 meaning the reinforcing
+properties are too strong and
+4455.51 therefore they can't
+imagine living without them
+4458.3 or the withdrawal effects are too strong
+4461.0 and they can't imagine living with those.
+4463.76 Well then is there hope
+for quitting smoking,
+4466.733 vaping, snuffing, or dipping?
+4469.34 And the short answer, fortunately is yes,
+4471.92 there are excellent ways to do that.
+4473.36 And some of them are
+single event treatments.
+4476.93 And we're going to talk
+about those shortly,
+4479.54 but before we do that,
+4480.38 I want to highlight one very brief point,
+4482.48 which is that nicotine is
+not the cause of cancer.
+4486.62 Nicotine is not the carcinogen,
+4488.72 it's the other things
+in tobacco or associated
+4493.43 with the nicotine delivery
+device that are causing cancer.
+4497.39 And I should mention the
+other negative impacts
+4500.57 on our health in particular
+4501.654 by way of disrupted endothelial
+blood vessel function.
+4506.09 Now that leads us to this issue of vaping,
+4507.95 because as many of you know,
+4509.63 and probably are thinking
+as I've been delivering
+4512.0 this information, people
+don't vape tobacco.
+4516.77 The way that vaping pens
+are designed is that
+4519.98 it includes some liquid, it involves heat,
+4522.8 and it does not involve
+the burning off of tobacco.
+4525.65 In fact, there's a constant
+updating of the engineering
+4529.7 of these vape pens so that
+they can be very low heat.
+4533.02 In some cases they use even
+non heating approaches to
+4537.62 vaporize the nicotine and allow it
+4539.69 to enter the bloodstream very quickly.
+4542.63 I must say in a lot of ways,
+vaping resembles crack cocaine.
+4547.76 The reason why vaping and
+crack cocaine are so similar
+4551.18 is the speed of entry of
+nicotine into the bloodstream.
+4555.17 This isn't an episode about cocaine,
+4557.42 but I just want to very briefly
+touch on some of the delivery
+4560.18 routes for cocaine because they parallel
+4562.58 a lot of the delivery routes for nicotine.
+4565.16 And we can learn a lot about
+4566.9 drug pharmacokinetics and dopamine
+4569.63 if we look at the parallels
+between cocaine and nicotine.
+4574.25 I'll preface this by saying
+cocaine is a terrible drug.
+4578.36 It is actually a schedule two
+drug in the United States,
+4581.18 which means that it has a very,
+4582.77 very limited yet still
+present medical application,
+4586.01 mainly as an anesthetic
+in certain laboratory
+4589.7 and hospital conditions.
+4591.56 But aside from that,
+4592.94 it's very clear that cocaine
+is one of the most debilitating
+4595.49 drugs that humans can
+use because of the way
+4597.86 that it impacts the dopamine system.
+4599.63 And it basically creates a
+loop whereby the only thing
+4603.17 that can really trigger
+dopamine release is cocaine.
+4606.89 And as I've said before,
+4608.48 the way that I define
+addiction is it's a progressive
+4611.21 narrowing of the things
+that bring people pleasure.
+4613.37 Cocaine certainly falls into the category
+4615.44 of addictive drugs,
+strongly addictive drugs.
+4618.77 And in fact,
+4619.603 it has the additionally pernicious feature
+4621.56 that after using cocaine
+for some period of time,
+4624.89 the amount of dopamine that's
+released becomes progressively
+4627.5 lower and lower and lower so
+that people can never get back
+4630.44 to a state in which dopamine
+release is ever as great
+4633.89 as it was the first time they did cocaine
+4635.63 or prior to doing cocaine.
+4637.345 Now with a long period of
+no cocaine use whatsoever
+4643.13 and protecting the dopamine system
+4645.86 in a number of different ways,
+4647.42 people can often, not always but often
+4650.42 recover their dopamine system,
+4652.73 if not completely then near completely.
+4656.285 So by all means, if you have
+a problem with cocaine, quit,
+4659.03 find a way to quit, get treatment,
+4661.13 get over that one way or another.
+4662.81 We have an episode with an expert guest,
+4664.94 Dr. Anna Lembke,
+4666.35 who's a physician and the chief
+4667.91 of the Stanford School of Medicine
+4669.59 dual diagnosis addiction clinic,
+4671.81 a world expert in dopamine
+and addictive substances
+4674.81 and addictions of all kinds.
+4676.22 You can find that episode
+at hubermanlab.com.
+4678.724 It's filled with information
+about how to get over different
+4681.32 types of addictions,
+including cocaine addiction.
+4683.15 Also check out her absolutely phenomenal
+4685.37 and indeed important
+book "Dopamine Nation",
+4687.26 which touches on some of this as well.
+4689.72 And in the show note
+captions for the episode
+4692.0 where Dr. Lembke was my guest,
+4694.16 you can also find some additional
+resources related to that.
+4696.59 So cocaine is terrible. That
+needs to be acknowledged.
+4699.35 It should be avoided and you
+should find a way to quit it
+4701.81 if you are currently using.
+4704.42 With that said,
+4705.77 the delivery mechanism for
+cocaine strongly parallels
+4709.04 the delivery mechanisms for nicotine.
+4710.93 That is people will snort cocaine,
+4712.64 which is a lot like snuffing or dipping.
+4714.74 That is when people snort cocaine,
+4716.3 they're bringing cocaine into
+proximity or into contact,
+4718.82 really with the mucosal
+lining of the nasal passages,
+4721.88 which then allows the
+psychoactive substances
+4724.67 to permeate into the bloodstream.
+4727.01 Very seldom do people eat it,
+4729.14 although that does
+happen from time to time,
+4732.14 people will inject it,
+as so-called mainlining,
+4735.11 which is a very rapid entry
+into the bloodstream because
+4737.72 it's direct application to the bloodstream
+4739.73 by way of injection.
+4741.59 And then there's crack cocaine,
+4742.423 which is essentially like
+a vaporizing of the cocaine
+4745.61 from a so-called cocaine rock,
+4747.71 that somewhat resembles
+vaping of nicotine.
+4752.69 So while the vape pen
+involves a liquid that's sold,
+4755.87 a cartridge that contains nicotine
+4757.76 and often other flavors as
+well, flavorings I should say,
+4763.37 both crack cocaine and
+vaping cause very rapid
+4767.24 increases in the relative substances
+4769.13 that are psychoactive,
+in the case of cocaine,
+4770.81 that would be cocaine and
+the increase in dopamine
+4773.51 in the brain and body I should mention.
+4775.55 And in the case of vaping,
+4777.08 there's a very rapid increase
+4778.73 in blood concentrations of nicotine,
+4780.32 much faster than occur
+with cigarette smoking
+4783.38 or other modes of nicotine delivery.
+4785.84 So that speed of onset turns
+out to be a critical parameter
+4789.8 because the speed of onset
+of nicotine is going to also
+4793.79 determine the speed of release of dopamine
+4796.0 in the nucleus accumbens
+and ventral tegmental area,
+4798.23 that mesolimbic reward pathway.
+4800.57 And with the mesolimbic reward pathway,
+4802.22 it's not just about the peak,
+4804.47 meaning the maximal amount
+of dopamine that's released,
+4808.25 but it's the time course,
+how steep the curve is,
+4811.07 how quickly that dopamine increases
+4812.72 that's going to determine how reinforcing,
+4815.24 how habit forming and indeed how addictive
+4817.58 a particular substance is.
+4819.95 One of the major important
+differences between vaping and
+4822.47 cigarette smoking is that the onset
+4824.42 of dopamine release from vaping is faster.
+4827.66 And even a subtle increase
+in the rate at which dopamine
+4831.23 increases in the mesolimbic
+reward pathway can make a given
+4836.06 amount of nicotine much more
+habit forming and addictive.
+4840.8 Now this probably explains
+the fact that many,
+4843.83 many more people, in particular,
+4845.12 young people age 25 and younger
+4847.37 are vaping at phenomenal rates.
+4850.34 People are starting to vape
+in just about everywhere.
+4852.83 You see this in restaurants,
+you see it on the street,
+4854.78 indeed you even see it in the classroom.
+4857.27 This has actually become
+sort of sport of sorts.
+4860.36 Certainly not something I encourage.
+4862.04 In fact, when I learned about this from
+4865.465 a new college student is telling me
+4866.75 that many college students are
+actually bringing vape pens
+4869.27 into the classroom.
+4870.103 I think this is also
+happening in high schools
+4871.88 and even junior high schools.
+4873.86 This is a really concerning practice.
+4876.56 And here I'm not trying to come across as
+4878.81 the anti vaping crusader,
+4880.1 but I must say given the negative effects
+4882.56 on one's health in the long term,
+4884.3 but also given these exceedingly
+powerful reward properties
+4888.08 of nicotine entering
+the bloodstream quickly,
+4890.81 and dopamine being released very quickly
+4893.36 from the mesolimbic reward pathway,
+4895.7 what we're seeing out
+there makes total sense.
+4898.34 Young people's brains are
+essentially getting wired
+4902.03 to the expectation that dopamine
+is going to be increased
+4905.24 dramatically and quickly
+under their control,
+4908.24 except it's under their control
+4910.16 only in a very narrow
+set of circumstances.
+4912.5 Recall the definition of addiction,
+4914.36 a progressive narrowing of the things
+4916.37 that bring you pleasure.
+4917.203 We can change that statement
+to also say a progressive
+4921.8 narrowing and specific kinetics,
+4925.13 that is specific time course of the things
+4928.01 that bring you pleasure.
+4929.21 Now that's a bit of a
+nerdier statement than
+4930.95 a progressive narrowing of the things
+4932.09 that bring you pleasure.
+4932.923 But what we are going to
+see in the next few years,
+4935.57 I believe is an entire
+generation of young people
+4939.02 for which a very large percentage
+of them are going to be
+4942.77 seeking out a pattern or feeling
+4945.56 because to the person taking it,
+4946.7 they're not looking at
+their dopamine levels
+4948.23 rising in their blood.
+4949.31 They're experiencing this
+as an increase in focus,
+4951.22 an increase in alertness,
+4952.27 an increase in mood and
+wellbeing that is very rapid,
+4956.3 very dramatic,
+4957.59 and that simply cannot be
+recreated by any other substance.
+4961.97 And that's a very concerning scenario,
+4964.58 concerning because that
+mesolimbic reward pathway
+4967.64 is the only pathway,
+4969.47 the only pathway by which
+you can achieve the rewarding
+4973.19 properties of any kind of endeavor,
+4975.56 not just vaping of course.
+4977.93 It is the way in which people
+achieve satisfaction from
+4980.93 reaching a relationship
+goal or an athletic goal
+4984.05 or an educational goal,
+4985.85 any kind of goal or sense of satisfaction.
+4988.22 And so it comes as no surprise
+that vaping is strongly
+4991.64 associated with increased
+levels of depression,
+4994.46 especially when vaping use drops off.
+4996.59 Why would that be?
+4997.49 If people are getting
+so much more dopamine
+4999.29 so much more quickly from vaping,
+5000.7 shouldn't they be feeling better?
+5002.023 That brings us back to the
+critical, and I should say,
+5005.47 defining feature of the
+dopamine reward pathway
+5008.11 for motivation and wellbeing,
+5009.91 which is that initially a
+given substance will cause,
+5013.12 let's say an eight out of
+10, again, arbitrary units,
+5015.94 but eight out of 10 increase in dopamine.
+5019.15 But with repeated use,
+5020.56 what ends up happening
+is that even at similar
+5023.53 or higher levels of ingestion,
+5025.33 so not just one inhalation a minute,
+5027.4 but maybe two inhalations a minute
+5028.7 or an inhalation every 30 seconds.
+5031.57 Now it's level four out of 10 activation
+5034.18 of dopamine and then three and then two.
+5035.8 And eventually it drops below baseline.
+5038.08 Now the whole system can be recovered
+5039.37 by abstinence from nicotine consumption,
+5042.79 but the dopamine system
+is applied to everything,
+5045.01 all sense of wellbeing,
+all sense of motivation.
+5047.62 So during the period in
+which one is abstaining
+5050.35 from nicotine and vaping in particular,
+5053.77 people do not feel good.
+5055.12 They feel miserable. That's
+why it's called withdrawal.
+5057.16 It's associated with a
+bunch of psychological and
+5060.61 physiological symptoms that all lead back
+5064.06 to trying to get to the same
+levels of dopamine release
+5067.6 in the same patterns that were experienced
+5069.94 when one initially started vaping.
+5072.16 So I'm not trying to paint a
+dark picture here, but frankly,
+5074.65 the picture is very dark.
+5076.63 I'm very concerned about a
+practice of ingesting something
+5080.35 that powerfully modulates the
+dopamine system with the sorts
+5083.35 of kinetics that one sees from
+ingestion of crack cocaine
+5085.99 in young people that has all
+these other negative health
+5088.3 effects that in the short term
+is very powerfully rewarding,
+5091.3 increased focus, wellbeing, et cetera,
+5093.49 but that over a very brief
+period of time leads to a state
+5097.12 in which the entire dopamine
+reward system is impaired and
+5101.92 can become permanently impaired
+5103.84 unless one intervenes in
+a very deliberate way.
+5106.87 So people are directly
+controlling the rate of dopamine
+5109.99 and the frequency of dopamine
+release by the duration
+5112.96 and frequency of inhalations
+off the vape pen.
+5116.8 And that's an incredible thing
+because what it does is it
+5120.34 sets up the mesolimbic reward
+pathway for an expectation
+5123.43 that dopamine will be
+delivered on that schedule.
+5126.61 So that's one of the things
+5128.29 that makes vaping in
+particular so hard to quit.
+5132.569 Vaping is actually harder to quit
+5134.86 than cigarette smoking for most people.
+5137.335 Now does that mean that cigarette smoking
+5139.57 is fairly easy to quit for most people?
+5141.94 No.
+5143.29 70% of people who smoke cigarettes report
+5145.36 that they would like to quit
+if they thought they could.
+5148.9 The success rate of quitting smoking
+5151.15 when people try to go just cold turkey,
+5153.16 just quit with no assistance whatsoever.
+5154.93 They might tell their family and friends,
+5156.25 hey, I'm quitting, that's it,
+5158.602 is exceedingly low, it's 5%.
+5161.41 So 5% of the people that say, that's it,
+5164.86 I'm not smoking again.
+5166.03 Despite cancer diagnosis,
+I'm not smoking again.
+5168.97 Despite the fear of the
+negative health effects,
+5170.71 I'm not going to ever smoke again.
+5172.69 Despite the financial
+cost, the health cost.
+5176.898 I could list off a huge
+number of things that it does
+5178.793 that are negative,
+5179.626 but you already know these
+or you've heard them,
+5181.84 it makes your skin worse, as
+I mentioned it lowers libido,
+5185.77 it disrupts hormones,
+5186.88 it disrupts vascular
+function, brain function.
+5190.63 It does all these terrible things.
+5191.83 And yet most people who
+try and quit simply can't.
+5194.29 And of the 5% that succeed in quitting,
+5196.99 a full 65% of them relapse within a year.
+5200.59 So that's a very depressing picture,
+5202.9 but it's not to say
+that people cannot quit.
+5204.787 And in fact, they can.
+5205.99 There are a couple of methods
+5207.01 that have been shown to help people quit.
+5209.44 Some are behavioral and
+some are pharmacologic.
+5213.07 I just want to touch on the
+behavioral ones first because it
+5215.71 turns out that there's
+a quite powerful method
+5218.86 for quitting nicotine ingestion
+by way of cigarette smoking,
+5222.79 which also carries over to vaping.
+5224.77 This is beautiful work that's
+been done by my colleague,
+5227.53 in fact, close collaborator,
+5228.76 although I was not
+involved in the research
+5230.26 that I'm about to describe at Stanford.
+5232.21 And his name is Dr. David Spiegel.
+5233.88 He is our associate chair of psychiatry.
+5236.59 He's been a guest on the
+Huberman Lab Podcast,
+5238.57 and he is a world expert,
+5240.16 if not the world expert
+5241.84 in the clinical applications of hypnosis.
+5244.18 Now when I say hypnosis,
+5245.29 a lot of people think stage hypnosis,
+5247.0 which is the hypnotist
+5247.9 trying to get people to do certain things
+5249.73 and say certain things,
+5250.96 not necessarily against their will
+5252.94 because they actually have to agree.
+5254.17 But the hypnotist is dictating
+5256.03 what the person thinks, says, and does.
+5258.88 Clinical hypnosis is
+vastly different from that.
+5261.91 Clinical hypnosis is where the person,
+5264.46 the patient actually directs
+their own brain changes toward
+5268.33 a specific emotional or behavioral goal.
+5271.15 Work from Dr. David Spiegel's
+laboratory done in 1993,
+5275.38 but that now has been repeated many,
+5277.03 many times that has carried
+over into some more modern
+5279.16 studies and I will provide
+links to those studies
+5281.95 in the show note captions
+so that you can access them.
+5284.77 Those studies have shown that
+5286.24 using a specific form of hypnosis,
+5289.84 people can achieve complete
+5292.63 and total cessation of cigarette smoking.
+5295.72 And there's no reason to
+believe this doesn't also carry
+5297.91 over to vaping through one
+single hypnosis session.
+5301.78 And the success rates are
+incredibly high when one considers
+5305.23 that normally it would be
+only a 5% success rate.
+5308.29 The success rate with this
+particular hypnosis developed
+5311.17 at Stanford School of Medicine
+5312.31 by Dr. David Spiegel is 23%
+5315.58 of people who do this hypnosis one time
+5318.01 succeed in quitting smoking.
+5319.63 Now in the old days,
+5321.82 which actually wasn't that long ago,
+5323.62 before the advent of smartphones
+5325.72 and before the internet took off
+5327.79 to the extent that it has now,
+5330.37 this was done by having
+someone come into the clinic
+5333.633 and Dr. Spiegel himself
+5334.466 or one of his colleagues
+would take somebody
+5336.13 through the hypnosis.
+5338.29 Nowadays, you can access this hypnosis.
+5340.6 There's a wonderful app that was developed
+5342.97 by Dr. David Spiegel and others.
+5345.28 It's called Reveri, R-E-V-E-R-I.
+5347.86 I've talked about this app a few times
+5349.09 on the podcast before,
+5350.05 because there are hypnosis
+scripts within the app for
+5352.48 enhancing sleep, for improving
+ability of fall asleep
+5354.94 if you wake up in the middle
+of the night, for focus,
+5357.19 and a number of other behavioral
+and emotional changes.
+5360.55 There's also a function in the Reveri app
+5363.04 for smoking cessation,
+5364.69 which exactly parallels
+the sort of in laboratory
+5368.92 and in clinic approaches
+that Dr. Spiegel would use
+5371.98 were you to show up at his
+clinic or his laboratory.
+5374.47 And since that's not possible
+5375.94 for the large number of people out there,
+5377.89 if you or somebody else
+is trying to quit smoking
+5380.74 or vaping or dipping or
+snuffing for that matter,
+5385.18 I strongly encourage you to
+check out the Reveri app.
+5387.88 You can find it easily
+by going to reveri.com.
+5390.82 It's available in various formats.
+5393.508 Some of it is available free,
+5394.341 some of it is behind a paywall,
+5395.62 but given the tremendously negative impact
+5397.93 of smoking, vaping, dipping, and snuffing,
+5401.29 the hypnosis for smoking
+cessation that Reveri has seems
+5405.79 at least to me as a very
+powerful and worthwhile resource.
+5409.63 So please check that out
+5410.62 if you're somebody who's trying
+to quit ingesting nicotine
+5413.89 by any of the four methods
+that I just described.
+5416.62 Now of course,
+5417.453 there are other methods
+that people have used to
+5418.48 successfully quit smoking or vaping
+5420.28 or other forms of nicotine delivery.
+5423.01 And there's actually an
+excellent review on this topic.
+5425.41 So before diving into a few
+of the specifics about some of
+5427.78 the pharmacology of using nicotine itself
+5431.26 to quit smoking or nicotine
+itself to quit vaping,
+5434.08 or the use of various things, even SSRIs,
+5436.69 antidepressants to quit smoking or vaping.
+5440.41 I just want to point you to a
+review article that if you'd
+5442.51 like to get a complete
+survey of all the options
+5445.0 that are available, there's
+an excellent review on this.
+5447.73 It was published just a
+couple of years ago in 2020.
+5449.857 And the title of the article is
+5451.157 "Pharmacologic Approach
+to Smoking Cessation:
+5453.91 An Updated Review for
+Daily Clinical Practice".
+5456.58 And even though this is mainly
+focused on smoking cessation,
+5459.88 it carries over quite nicely to vaping.
+5462.43 And it details a number of statistics,
+5464.29 the fact that every year,
+5465.7 700,000 or more people die
+5467.5 because of smoking related diseases.
+5468.97 So there again you have
+5469.803 the negative health effects
+that younger people are smoking,
+5473.38 that women are smoking more nowadays.
+5474.97 And that even though you see less smoking,
+5476.41 typically in the US and Canada,
+and even in Northern Europe,
+5479.14 some places, there are still
+many many people are smoking
+5481.45 who would like to quit,
+but that 75% of people,
+5484.84 at least according to this
+review earlier, I said 70%,
+5487.03 but estimates are as high as
+75% of people who try to quit
+5490.18 smoking relapse within the first week.
+5492.76 The first week, they
+just go right back to it.
+5494.29 That's how powerfully
+reinforcing the nicotine is.
+5496.81 Remember, it's the nicotine
+in the cigarette that's
+5498.88 powerfully reinforcing, but
+it's also the oral habit,
+5504.01 the motor habit.
+5505.36 There is this thing about density
+5506.83 of sensory receptors in the lips.
+5508.24 People like bringing things to their lips,
+5511.48 food, cigarettes, other lips
+in some cases, et cetera,
+5516.61 there is a reinforcement
+pathway related to that
+5519.01 for sort of obvious adaptive reasons.
+5521.47 And as a consequence,
+there is a reinforcement,
+5525.49 both from the behavior
+and from the dopamine
+5527.59 released from the nicotine itself.
+5529.18 And as I mentioned earlier,
+5530.56 from the positive reinforcement
+5532.72 that comes from increased focus.
+5533.95 So the money that you make through work
+5535.3 or your attentional ability
+5536.68 or the fact that you're alert
+and people feel you present,
+5538.63 all of that funnels back
+into positive reinforcement,
+5541.9 behavioral reinforcement,
+5543.79 and then what we would call addiction.
+5546.28 So this review covers all of
+that and then steps beautifully
+5550.24 through nicotine replacement
+therapy and various compounds,
+5553.84 several of which I'm
+going to talk about now,
+5555.76 which have been shown to increase
+that number that we talked
+5558.43 about earlier of only 5%
+of people who try to quit
+5561.49 with no other support
+pharmacologic or hypnosis
+5564.43 or otherwise just say that's it,
+I'm not going to smoke again,
+5567.07 or I'm not going to vape again,
+5568.69 only 5% of people succeed in doing that.
+5570.94 And even among those, many
+end up relapsing later,
+5573.79 there are a couple
+pharmacologic approaches.
+5575.89 One of the main ones that's
+received a lot of attention in
+5577.93 recent years is Bupropion,
+5580.12 sometimes referred to by its
+commercial name Wellbutrin.
+5584.11 Now Bupropion is a compound
+that increases the release of
+5589.27 dopamine and to a lesser
+extent epinephrine
+5591.94 and some other neurochemicals as well.
+5593.62 It's used for the treatment of depression
+5595.66 and for smoking cessation.
+5597.73 Now I want to point out
+again, I'm not a psychiatrist,
+5599.98 so I'm not telling you to take
+Bupropion, AKA Wellbutrin,
+5603.49 but I'm going to give you a little
+bit of the contour of what's
+5605.5 typically done in terms of
+Bupropion administration
+5608.5 to help people get relief
+from some of the withdrawal
+5611.41 symptoms of trying to
+quit smoking or vaping
+5613.93 or other forms of nicotine ingestion.
+5616.57 Typically Bupropion is taken
+in 300 milligram per day
+5621.01 doses divided into two dosages
+of 150 milligrams each,
+5624.19 or sometimes there's a
+slow release formula.
+5627.25 The dosages will vary
+from person to person.
+5629.95 I want to really emphasize that there
+5631.98 is an increased seizure
+risk with Bupropion.
+5634.69 It only occurs in a small
+fraction of the population,
+5636.97 but nonetheless is a real concern
+5638.98 for those members of the population.
+5640.42 So for those of you with seizure risk,
+5642.22 whether you know it or not,
+5643.66 that's going to be a valid concern
+5646.18 in terms of potential side effects.
+5648.01 The other thing about Bupropion
+is that it has to be used
+5651.76 with caution in patients that
+have liver disease or renal
+5654.16 disease that can impact the amount
+5656.62 that anyone can take meaning
+sometimes people have to take
+5658.72 a much lower dose if
+they have renal disease
+5660.79 or liver disease.
+5662.23 And sometimes they can't take it at all.
+5663.94 Sometimes if people are taking
+benzodiazepines for whatever
+5666.67 reason or other sedatives,
+5668.994 there are contraindications
+there, so Bupropion isn't a
+5672.169 kind of one size fits all or magic bullet
+5674.38 for quitting smoking, nonetheless,
+5676.42 for people that can take it safely,
+5678.07 and again, this is a prescription drug,
+5679.9 a board certified psychiatrist
+or other physician is going
+5682.51 to have to prescribe it for you
+if it's appropriate for you.
+5684.64 And it moves that number of
+5% success rate to about what
+5688.24 one sees with the clinical
+hypnosis to about 20% of people
+5693.37 will successfully overcome their nicotine,
+5696.79 or I should say their
+smoking or vaping addiction.
+5700.3 Now it's important to ask
+why this would work, right?
+5703.54 It's not as if Bupropion is
+increasing nicotine per se.
+5708.25 What it's doing is it's tapping
+5709.6 on that mesolimbic reward
+pathway, increasing dopamine,
+5712.33 or at least allowing dopamine
+levels to say substantially
+5715.18 elevated enough that people
+don't experience some of the
+5718.99 drop in dopamine that leads
+to the withdrawal symptoms,
+5721.42 the lessening of mood, et cetera.
+5722.86 And it's no coincidence that Bupropion
+5724.66 is also an antidepressant.
+5726.43 It's a common antidepressant
+for people that experience
+5728.95 negative side effects
+with the so-called SSRIs,
+5731.29 the selective serotonin
+reuptake inhibitors that prevent
+5734.5 them from taking those
+things like lessen libido
+5736.51 or appetite,
+5737.343 or in some cases increased
+appetite or any number
+5739.9 of other side effects
+that some people, not all,
+5742.06 but some people experience with SSRIs.
+5743.83 They'll be prescribed Wellbutrin,
+5745.27 Bupropion is the generic name.
+5748.18 So Wellbutrin being the
+commercial name again,
+5750.19 Bupropion is what they'll be
+prescribed instead with the
+5754.51 caveats of seizure risk, renal disease,
+5757.6 liver disease, et cetera.
+5759.76 The outcomes with Wellbutrin
+for smoking cessation
+5762.46 are pretty good if you
+think about an increase
+5764.02 from 5% to 20%, that's pretty dramatic.
+5767.11 And yet I also want to refer
+back to the incredible success
+5770.38 of the clinical hypnosis approach.
+5772.12 Again, you can find that at reveri.com,
+5774.73 the clinical hypnosis approach
+has a success rate of 23%.
+5780.126 So it's very closely aligned with,
+5780.959 if not exceeding the
+success rate with Bupropion.
+5784.42 Of course there are other
+pharmacologic approaches
+5786.58 to quitting smoking or vaping.
+5789.61 All of them generally circle
+back to increasing dopamine
+5793.06 and/or norepinephrine in order to offset
+5795.25 some of the withdrawal
+symptoms of smoking cessation
+5798.46 or vaping cessation.
+5799.72 A very common approach for
+people to try and quit smoking or
+5802.9 vaping is to use nicotine
+itself to try and prevent people
+5808.45 from seeking nicotine through
+a cigarette or a vape pen.
+5812.29 What I mean by that is people
+using a nicotine patch or
+5815.44 nicotine gum or other
+nicotine delivery device
+5819.07 that is not cigarettes and not vaping
+5822.01 in order to maintain levels of nicotine
+5825.25 in their bloodstream,
+5827.11 which of course means maintain
+levels of nicotine in their
+5829.51 brain and body to the same extent
+5832.18 that they would if they
+were smoking or vaping,
+5835.03 maybe even gradually taking
+down the total amount of
+5838.57 nicotine in their brain
+and body by reducing
+5841.63 the number or size of nicotine gum pieces
+5844.96 that they ingest each day,
+5846.43 or keeping the patch on for
+a shorter amount of time
+5849.04 or getting a lower dose patch
+that releases less nicotine
+5851.77 total or over time.
+5855.49 All of those approaches have been shown
+5857.23 to be reasonably successful,
+5859.12 I'll get to the numbers in a few minutes,
+5860.23 but reasonably successful
+in allowing people
+5863.35 to quit smoking or vaping.
+5866.75 Again, most of the data
+is on cigarette smoking
+5869.77 because vaping is a
+relatively new phenomenon.
+5872.23 Although quite troublingly,
+5874.48 it's a very rapidly increasing behavior,
+5877.81 especially in the young population.
+5879.34 So that's why I'm kind of
+lumping these two things together
+5881.47 because I think very soon we
+are going to need an all out
+5886.21 campaign for how to
+counter vaping addiction.
+5889.6 So what do we know about smoking cessation
+5891.94 using nicotine itself?
+5893.56 Is the patch best? Is nicotine gum best?
+5896.53 Turns out that a combination of approaches
+5899.68 is best, so somewhat surprising,
+5901.66 but it was very clear from the
+literature that I was able to
+5903.49 find that using nicotine
+patches for some period of time
+5907.39 and then switching to a gum
+5909.25 and then perhaps switching
+to a nasal spray,
+5913.15 that's going to be the most effective.
+5914.98 Then the question is how long
+to continue each of those
+5918.13 and whether or not to overlap them.
+5919.6 It seems as if doing one for
+about a week and then switching
+5922.6 to another for about a week and
+then switching to another is
+5925.33 one rationable and reasonable approach
+5927.82 that many people have used successfully.
+5930.19 Why would that be?
+5931.09 It all has to do with the
+different rates of absorption
+5933.88 of nicotine into the bloodstream,
+5935.53 and then the downstream consequences
+5937.15 of that on the dopamine,
+acetylcholine, epinephrine,
+5940.48 and other systems of the brain and body.
+5942.64 And while there hasn't been
+an extremely detailed study
+5945.97 of the exact kinetics of
+5947.86 how the nasal sprays versus
+the transdermal patches
+5950.26 versus the gums, et cetera, work,
+5952.09 there's a logical structure to it
+5953.56 that will immediately make sense to you.
+5954.88 First of all,
+5956.323 the transdermal patches
+provide a fairly steady state
+5958.93 dopamine release across the day.
+5961.45 And oftentimes people are
+wearing them at night as well.
+5963.79 This is relevant because if
+people are ingesting nicotine
+5966.85 by way of smoking and vaping,
+5970.36 hopefully they're not waking
+up in the middle of the night
+5971.95 just to smoke or vape.
+5972.91 Believe or not, some people do that,
+5974.2 but of course, while people are asleep,
+5976.39 they are not smoking or vaping.
+5978.55 They always tell you don't fall asleep
+5979.48 with a cigarette in your mouth,
+5980.313 you'll burn the whole house down,
+5982.33 but exceedingly rare to have people
+5985.51 are smoking in their sleep.
+5987.04 So people wake up in the morning
+and because the half life
+5990.1 of nicotine from smoking
+or vaping is very short,
+5992.11 anywhere from one to two hours,
+5994.03 they're essentially in a state
+of withdrawal at the point
+5995.98 where they wake up in the morning.
+5997.03 How can I say that?
+5997.9 Remember, withdrawal sets in
+about four hours after the last
+6001.32 ingestion of nicotine by cigarette
+6003.21 or by inhalation from the vape pen.
+6005.1 So people are waking up in
+nicotine withdrawal and then
+6008.1 immediately going into the
+behavior of ingesting nicotine,
+6010.95 or very soon after waking for most people.
+6013.62 So nicotine patch is going to be
+6015.66 very effective for a week or so, again,
+6017.91 talk to your physician about
+the best approach for this,
+6020.52 but then switching to a nasal spray
+6023.94 or switching to nicotine
+gum for about a week,
+6026.16 which is going to change the
+kinetics of that nicotine
+6028.53 absorption into the bloodstream
+and change the release
+6031.59 of dopamine and other
+neurochemicals within the brain.
+6033.81 That's going to keep the system
+intentionally off balance
+6037.23 so that it never comes to
+expect one single pattern
+6040.89 or amplitude of dopamine release.
+6044.04 And that is a very powerful way for a,
+6048.57 let's just call it a
+quitting method to work.
+6051.75 Because as I've always said,
+6053.37 the most powerful schedule of dopamine
+6056.28 is going to be this random
+intermittent reward.
+6059.19 This is what's used in the casinos
+6060.9 in order to take your money.
+6062.1 And generally they do, on average,
+6063.78 they take your money more
+than you take theirs,
+6066.36 and they take more of it.
+6068.1 Not just more often because
+6069.66 they use this random
+intermittent schedule.
+6071.85 The random intermittent schedule
+is one in which you don't
+6074.19 really know when the peaks in
+dopamine are going to arrive.
+6077.34 And so there isn't this
+expectation and craving.
+6079.83 And then all of a sudden
+when dopamine is released,
+6081.51 it's extremely high.
+6082.41 That's how they get you
+to continue playing,
+6083.79 even though basically you're losing money
+6085.38 and your dopamine is dropping,
+6086.37 they elevate it every once in a while.
+6089.25 Nicotine replacement can
+be used in a similar way,
+6091.77 but in a benevolent way,
+6092.91 in order to help you get
+over smoking or vaping
+6096.3 by keeping the total
+amounts of dopamine variable
+6099.09 around the clock
+6100.74 and by changing the amount
+of dopamine that's released,
+6103.59 it seems to help people
+behaviorally and psychologically
+6107.01 because they don't come to
+expect having a particular amount
+6109.41 of dopamine in their brain
+and blood at any given time.
+6111.78 And this is an important point
+6113.7 because it brings us to
+this notion of homeostasis.
+6116.85 Homeostasis is this tendency
+for biological systems
+6119.52 to try and reach equilibrium.
+6121.14 What goes up, goes down, et cetera.
+6122.61 And to some extent to the same degree.
+6124.532 So I'll talk about this right now
+6125.85 in the context of nicotine use withdrawal,
+6129.9 and then the period in which people
+6132.3 no longer crave nicotine.
+6134.55 So you can imagine that
+6136.29 if we were to measure your heart rate,
+6137.76 your blood pressure, and your
+overall levels of alertness
+6140.04 and wellbeing and mood, let's
+just give that some value.
+6143.1 Let's say it runs from zero
+to 10, again, arbitrary units.
+6145.8 Let's just take all those
+physiological measures
+6148.02 and the subjected measure of your mood.
+6149.397 And let's measure it
+6151.53 four times an hour across the
+day, across the waking hours.
+6155.01 What we would find is a
+line that would kind of
+6156.96 squiggle a bit,
+6157.793 maybe a nice text comes
+in that you really like,
+6159.9 maybe you get not so good
+news and your kind of
+6162.93 autonomic arousal is all over the place,
+6165.36 but on average is kind of a squiggly line
+6167.55 where it increases in the morning
+6168.84 because that's typically
+when body temperature
+6170.76 and autonomic arousal increase.
+6172.2 And then towards the afternoon,
+6173.28 it's going to come sloping down.
+6174.3 And then right before sleep,
+6175.14 there'll be an increase again,
+6176.34 if you've ever felt that you
+kind of run around a lot before
+6178.11 sleep and then it goes down,
+6179.31 that's kind of the typical contour
+of autonomic arousal, mood,
+6183.57 et cetera, across the day,
+6185.76 removing of course life events
+and things like psychiatric
+6189.66 illness and depression and et cetera.
+6192.18 That's the typical arc of that.
+6193.95 Now let's superimpose on whatever
+6195.81 that contour is for you, nicotine.
+6198.84 So you get a little bolus as we say,
+6201.78 a little bit of nicotine
+from smoking a cigarette
+6203.97 or from taking an
+inhalation on a vape pen,
+6205.68 what ends up happening is there's
+6206.69 an increase in blood pressure,
+increase in heart rate,
+6208.83 increase in mood, increase in alertness,
+6210.39 all the things we talked about earlier.
+6213.48 Over time,
+6215.28 the body starts to adjust so
+that the baseline upon which
+6220.83 that nicotine induced increase
+in arousal would occur
+6225.36 is actually reduced, right?
+6227.79 Why would that be?
+6228.623 Well, the body and the brain,
+6231.18 your physiology seeks homeostasis.
+6233.07 So if there's a big
+increase in all those things
+6236.07 like blood pressure and mood, et cetera,
+6237.96 typically your baseline
+will drop a little bit
+6240.75 to compensate for that over time,
+6242.22 after a couple days or even
+weeks of ingesting nicotine.
+6245.07 So let's say you wake up,
+6246.18 you're typically take an
+inhalation off your vape,
+6248.88 or you have a cigarette around
+6250.26 nine or 10:00 AM and you do that daily.
+6253.32 You get used to a certain
+level of mood and alertness
+6255.75 and wellbeing for that time of day.
+6257.46 And then if you smoke
+again in the afternoon,
+6259.14 let's say you also get accustomed
+to a certain level of mood
+6262.35 and alertness and wellbeing
+for that time of day.
+6265.08 Again, it'll vary
+depending on life events,
+6266.85 but your system sort of gets
+used to it and your baseline
+6269.16 will drop to compensate for those peaks
+6271.02 so that the peaks aren't
+quite as high as they were
+6273.21 when you first started using nicotine.
+6275.34 Now you decide to quit.
+6276.48 So now what we're talking
+about is transitioning from the
+6279.57 consumption to what we're going
+to call the withdrawal phase.
+6282.27 So now what happens is you say,
+6284.19 that's it, I'm going cold turkey.
+6286.14 I know there's only a 5% success rate,
+6287.82 but I'm going to just go cold
+turkey or somebody will say,
+6290.61 no, I'm going to use the Reveri app.
+6292.02 Or somebody says, no,
+6293.76 I'm going to use Bupropion or
+another method or nicotine patch
+6296.97 or something of that sort.
+6298.26 Setting aside the nicotine patch
+6299.7 or the nicotine delivery device
+6301.53 and only focusing on
+approaches for getting through
+6304.92 withdrawal that have no
+direct effects on nicotine.
+6309.3 So not using the nicotine patch,
+6310.65 but say the hypnosis or Bupropion,
+6314.16 which can increase dopamine,
+6315.6 but it doesn't increase nicotine directly.
+6318.42 What happens?
+6319.47 The day that you quit,
+6322.2 that homeostatic mechanism
+in your brain and body
+6325.14 that sets your level of
+mood and arousal, et cetera,
+6327.93 does not know and hasn't
+adjusted to the fact
+6330.96 that you're not bringing in nicotine.
+6332.4 You're not having that cigarette.
+6333.45 You're not having that
+inhalation on the vape pen.
+6335.88 So what ends up happening
+is that baseline,
+6338.13 which has been adjusted
+down to offset the increases
+6341.61 in mood and alertness, et cetera,
+6343.71 when you smoke or vape is lower
+than it normally would be.
+6348.3 So that 9:00 AM cigarette
+time or vape inhalation time
+6352.95 no longer feels above baseline,
+6355.47 it actually feels below baseline
+because what you're seeing
+6358.38 is the lower amplitude
+of arousal that was there
+6363.69 to offset the increase you were getting
+6365.94 from vaping or smoking.
+6367.32 And then in the afternoon,
+6368.37 if normally you have a kind
+of phase of your afternoon
+6370.53 you really enjoy, you go outside,
+6371.76 you have a vape or a cigarette,
+6373.5 you normally are feeling
+relaxed or you go out at night
+6375.706 and you like to vape and you say, nope,
+6376.56 I'm not going to do that anymore,
+6378.06 you're going to feel much,
+6379.35 much worse than you would've
+had you never started
+6382.44 smoking or vaping.
+6383.43 Now that's not much help to anyone
+6385.434 who's already started smoking or vaping.
+6387.81 But I say this because it's
+very important to understand
+6390.9 that the reason why relapse rates
+6392.55 are so high within the first week,
+6394.02 75% of people relapse within
+one week and overall failure
+6397.98 rates are 95% is because
+people don't expect
+6401.34 to feel even worse than they did prior
+6404.34 to ever smoking or vaping.
+6406.08 So that first week is absolutely critical.
+6408.78 And the beauty of understanding this
+6410.25 is that if you can get
+through that first week,
+6412.62 either by sheer grit or
+by finding other methods
+6415.89 to increase dopamine,
+healthy methods I would hope,
+6418.83 and certainly cold showers,
+6420.54 ice baths have been shown
+to do that by the way.
+6423.237 And this was described in
+Dr. Anna Lembke's book,
+6425.377 "Dopamine Nation", cold
+showers can increase dopamine,
+6428.94 exercise, positive social interactions.
+6431.4 It's very likely that
+people will need to use
+6433.83 other healthy methods to offset
+that reduction in dopamine
+6437.19 if ever they stand to get
+through that first week.
+6439.83 And again, if you can get
+through that first week,
+6442.38 chances are quite a bit
+higher that you'll be able to
+6445.05 maintain the cessation
+of smoking or vaping.
+6449.13 And of course, hypnosis,
+things like Bupropion,
+6452.04 can also assist in that,
+6453.3 Bupropion by way of increasing
+dopamine pharmacologically,
+6456.27 hypnosis through changes
+in neural circuitry
+6459.12 that aren't completely understood,
+6460.38 but seem to involve a remapping
+of some of the so-called
+6463.8 default networks and some of
+the networks that are involved
+6466.41 in kind of understanding
+of your own internal state.
+6468.93 This stuff gets a little bit
+complicated and we're going to
+6470.34 return to this in a upcoming episode
+6472.98 of the Huberman Lab Podcast,
+6474.18 but there are indeed legitimate
+changes in neural circuitry
+6477.78 caused by clinical hypnosis
+that can at least partially
+6480.78 explain why it is so
+effective in helping treat
+6484.38 or allow people to stop
+smoking and vaping.
+6487.05 So for those of you out there
+6489.232 that, either here or
+are saying yourselves,
+6491.79 I just can't seem to
+quit smoking or vaping
+6495.24 or dipping or snuffing,
+6497.31 hopefully an understanding of
+how that homeostasis process
+6500.94 works and the time course of nicotine,
+6503.49 depending on the delivery device,
+6505.2 hopefully understanding that
+6506.73 will allow you to develop a protocol.
+6509.91 Maybe it involves hypnosis.
+6510.99 Maybe it involves just
+understanding that the typical times
+6513.87 in which you ingested nicotine
+through any of the different
+6517.92 approaches of bringing it into your system
+6520.05 are going to be particularly hard.
+6521.34 But I don't just mean particularly hard.
+6523.2 I mean, particularly hard,
+6524.033 and you're going to need to do
+something specific to offset
+6527.22 that decrease in overall autonomic arousal
+6530.58 and dopamine, et cetera.
+6532.2 Hopefully an understanding
+of that will allow you
+6533.94 to get through that first week.
+6535.05 And if you can make it
+past that first week,
+6536.91 you stand a very good
+chance of never going back.
+6539.73 However, I did consult
+with Dr. David Spiegel
+6542.43 in anticipation of this episode,
+6544.38 regardless of the method
+that you used to quit smoking
+6548.52 or vaping, snuffing, or dipping,
+6552.15 there's good evidence that
+a routine maybe once a month
+6556.62 or even once a week hypnosis
+type approach to replenish
+6561.99 or even enhance the neural
+circuits that are allowing you to
+6564.66 stay away from nicotine is
+going to be a very good idea.
+6567.18 And given that it's a purely
+behavioral intervention,
+6571.44 I can see no reason as to
+why people wouldn't want
+6573.69 to do that, go in and reinforce, you know,
+6575.01 tighten the bolts on that
+circuitry that are allowing you to
+6578.25 not feel the impulse to smoke,
+not feel the impulse to vape.
+6581.58 And just a very brief mention,
+6583.86 there is a vast literature on
+the fact that when people have
+6587.58 quit smoking or vaping or other
+form of consuming nicotine,
+6591.42 that when they consume alcohol,
+6592.74 there's a much higher
+probability of relapse.
+6593.98 There are interactions
+between alcohol and nicotine
+6596.22 that we'll cover in future episodes.
+6597.87 But for those of you that want to quit,
+6599.43 I want to assure you,
+6600.78 despite the fact that 95% of people fail,
+6603.45 with the appropriate tools,
+6605.04 and I like to think within an
+additional understanding of
+6607.8 the underlying biology and
+psychology and what you can
+6610.11 expect and when to really
+dig your heels and when to
+6612.27 reinforce your system with more dopamine
+6614.13 through any of the number
+of the different protocols
+6616.2 and tools that we've offered here
+6617.64 and that you can find elsewhere
+6618.72 in other episodes of the
+Huberman Lab Podcast,
+6621.21 I have a high degree of confidence
+that you can quit smoking
+6625.43 or vaping, dipping or snuffing.
+6627.69 So today, typical of frankly
+6629.31 all episodes of the Huberman Lab Podcast,
+6630.9 we've covered a lot about the biology
+6633.124 of a particular system.
+6634.74 We talked about the biology
+of nicotine in particular,
+6638.04 we talked about vaping and
+smoking, dipping and snuffing
+6642.18 and the negative health
+consequences associated with those.
+6645.832 I want to reemphasize that nicotine
+6647.76 is not what causes cancer.
+6648.87 It is the delivery
+device that causes cancer
+6651.45 and the other negative health effects.
+6653.49 That is not to say that people
+should be ingesting nicotine
+6656.49 through any different methods
+6657.39 simply to get a cognitive boost.
+6658.89 There are certain
+circumstances where that might
+6660.72 be appropriate for the
+occasional work about,
+6663.48 certainly not for physical exercise,
+6666.03 given what we talked about earlier,
+6667.65 but of course there are
+more and more approaches
+6669.9 to increasing, not just nicotine,
+6672.09 but acetylcholine generally
+in order to achieve
+6674.58 cognitive enhancement
+or physical enhancement,
+6676.56 or I should say physical
+performance enhancement.
+6679.35 Some of those we talked about earlier,
+6680.49 such as Alpha GPC.
+6682.05 In any event, nicotine,
+6684.72 it should now be clear, is an
+immensely powerful substance.
+6687.84 One of the most commonly
+ingested substances
+6690.0 on the face of the earth and
+has been for a very long time.
+6692.82 And now that you understand
+the underlying biology and the
+6695.34 way in which this changes your
+psychology and physiology,
+6698.16 that should come as no surprise.
+6699.78 If you're learning from and
+are enjoying this podcast,
+6701.97 please subscribe to our YouTube channel.
+6703.53 That's a terrific zero
+cost way to support us.
+6705.69 In addition,
+6706.523 please subscribe to the
+podcast on Apple and Spotify,
+6709.29 and on both Apple and Spotify,
+6711.3 you can leave us up to a five star review.
+6713.46 If you have questions or
+comments or suggestions of topics
+6715.95 you'd like us to cover or guests
+6717.42 you'd like us to invite onto
+the Huberman Lab Podcast,
+6720.45 please put those in the
+comment section on YouTube.
+6722.67 We do read all the comments.
+6724.35 Please also check out the sponsors
+6725.58 mentioned at the beginning
+of today's episode.
+6727.23 That is the best way to
+support this podcast.
+6729.9 During today's episode and
+on various previous episodes
+6732.45 of the Huberman Lab Podcast,
+6733.62 we talk about supplements,
+6734.58 while supplements aren't
+necessary for everybody,
+6736.56 many people derive
+tremendous benefit from them
+6738.54 for things like enhancing
+sleep, hormone function,
+6741.66 focus, and so on.
+6742.92 The Huberman Lab Podcast is partnered
+6744.33 with Momentous Supplements,
+spelled momentous, O-U-S.
+6748.17 You can find those supplements
+6749.49 at livemomentus.com/huberman.
+6752.4 If you haven't already subscribed
+6753.57 to the Huberman Lab Podcast
+Neural Network Newsletter,
+6755.91 it's a monthly newsletter.
+6757.23 We provide summaries of
+different podcasts and we provide
+6760.47 summaries of specific
+tools that you can use
+6762.42 to enhance sleep for
+instance, or enhance dopamine.
+6765.3 We talk about deliberate cold exposure,
+6766.86 deliberate heat exposure.
+6767.91 It's very easy to sign up for,
+6769.23 and it's completely zero cost.
+6770.97 You go to hubermanlab.com,
+6772.17 go to the menu, click on
+newsletter, provide us your email.
+6774.87 We do not share it with anybody else.
+6776.64 And you'll receive that
+monthly newsletter, and there,
+6778.65 you can also find PDFs of
+previous newsletters that you can
+6781.56 immediate download without
+even having to sign up.
+6784.2 If you're not already
+following us on social media,
+6786.06 we are hubermanlab on Twitter,
+6787.86 hubermanlab on Instagram,
+and hubermanlab on Facebook.
+6791.22 And at all of those locations,
+6792.75 I describe science and
+science related tools.
+6794.64 Some of which overlap with the content
+6796.35 of the Huberman Lab Podcast,
+6797.73 much of which is distinct
+6799.02 from the content covered on
+the Huberman Lab Podcast.
+6801.66 So once again,
+6802.493 I'd like to thank you for
+joining me today for a discussion
+6804.69 about the biology and
+psychological effects of nicotine,
+6807.51 this incredibly powerful substance.
+6809.4 And as always, thank you for
+your interest in science.
+6811.953 [upbeat music]

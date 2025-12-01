@@ -1,0 +1,3968 @@
+0.42 - Welcome to The Huberman Lab Podcast,
+1.9 where we discuss science
+and science-based tools
+4.89 for everyday life.
+6.096 [bright music]
+9.15 I'm Andrew Huberman
+10.17 and I'm a professor of
+neurobiology and ophthalmology
+13.17 at Stanford School of Medicine.
+15.06 Today we're talking all about sleep
+17.01 and how to optimize your sleep.
+19.32 This is a topic we've covered
+previously on this podcast
+22.23 in the episode called "Master Your Sleep."
+24.69 However, since the airing of that episode,
+27.03 there's been some terrific
+new science to come out.
+29.52 I've also received thousands,
+31.14 yes, literally thousands of questions
+33.33 related to the specific
+protocols covered in that episode
+36.48 as well as in the episode
+on jet lag and shift work.
+39.9 And while today's episode
+40.89 is not specifically about
+jet lag and shift work,
+43.44 we are going to cover tools
+44.76 that will allow you to shift your schedule
+46.89 if you need to for work or travel,
+49.14 and we will also cover tools
+51.3 that will allow you to fall back asleep
+53.16 if you happen to wake up
+in the middle of the night
+55.2 or if you get a poor night's sleep,
+56.61 how to actually recover
+57.54 from that poor night's sleep more quickly,
+59.76 and yes, indeed, even replace
+sleep that you've lost.
+63.06 So today's episode is going to be filled
+65.4 with practical tools.
+66.54 We will touch on some of
+the underlying science,
+68.79 but it's really designed
+to be a practical toolkit
+71.43 for optimizing your sleep
+73.02 depending on your specific sleep needs.
+75.12 Various times throughout today's episode,
+77.07 I will refer to studies that
+form the backbone of the tools
+80.1 that I'll be describing.
+81.42 But whereas most of the
+podcast episodes here
+84.48 tend to be deep scientific
+mechanism and then tools,
+87.57 scientific mechanism, then tools,
+88.86 today I'm mainly going to
+focus on the practical tools
+92.22 that anyone, indeed, all
+people, I believe, should use
+95.16 in order to optimize their sleep.
+96.87 Why should everybody want
+to optimize their sleep
+99.24 and put considerable effort
+into optimizing their sleep?
+102.48 Well, put simply, sleep is the foundation
+105.3 of mental health, physical health,
+107.19 and performance of all kinds,
+108.45 cognitive performance, physical
+performance, et cetera.
+110.97 It also controls things
+like our immune system,
+113.7 wound healing, our skin
+health and our appearance,
+117.33 whether or not we can
+think clearly or not,
+119.79 whether or not we will live as long
+121.74 as we possibly can or not,
+123.9 whether or not we suffer
+125.22 from dramatic age-related
+cognitive decline or not.
+128.88 In other words, whether or not
+we keep our memory as we age.
+131.91 I could go on and on
+132.78 about all the terrible things
+that can happen to somebody
+135.66 if they don't sleep well.
+137.55 Thanks to the great work
+of Professor Matt Walker
+140.61 at University of California, Berkeley,
+142.11 and the wonderful book that
+he wrote, "Why We Sleep,"
+144.72 I think the world is largely onboard now
+147.0 that sleep is critical to our health,
+149.28 our mental health, our physical
+health, and our performance,
+151.98 but what's not often discussed
+is how great life is,
+155.79 that is, how much more
+focused and energetic
+158.04 and how positive our mood gets,
+159.84 when we are sleeping for the
+appropriate amount of time
+162.72 at the appropriate depth
+164.34 and when we are doing that regularly.
+166.26 Basically everything in life gets better
+167.94 when we're sleeping well.
+168.78 So today I'm going to teach you the tools
+170.73 that will allow you to
+optimize your sleep.
+173.28 That is, get to sleep and stay asleep,
+175.68 fall back asleep if you wake
+up in the middle of the night,
+178.35 and adjust your sleep
+179.46 given the various life demands
+you may be experiencing.
+182.16 I'm pleased to announce that
+The Huberman Lab Podcast
+184.05 is now partnered with
+Momentous supplements.
+186.36 We partnered with Momentous
+for several important reasons.
+188.61 First of all, they ship internationally,
+190.29 because we know that
+many of you are located
+192.21 outside of the United States.
+193.98 That's valuable.
+195.06 Second of all, and perhaps most important,
+197.07 the quality of their
+supplements is second to none,
+199.62 both in terms of purity
+200.67 and precision of the
+amounts of the ingredients.
+203.25 Third, we've really emphasized supplements
+205.89 that are single-ingredient supplements
+207.93 and that are supplied in dosages
+210.15 that allow you to build a
+supplementation protocol
+213.12 that's optimized for cost,
+214.95 that's optimized for effectiveness,
+216.81 and that you can add things
+218.34 and remove things from your protocol
+219.96 in a way that's really
+systematic and scientific.
+222.0 This is really hard to do
+223.35 if you're taking blends
+of different supplements
+225.21 or if the dosages are such
+that you can't titrate,
+227.78 or that is, adjust the
+dosages of a given supplement.
+231.33 So by using single-ingredient supplements,
+233.97 you can really build
+out the supplement kit
+235.62 that's ideal for you
+and your specific needs.
+238.74 If you'd like to see the supplements
+239.91 that we partner with Momentous on,
+241.23 you can go to livemomentous.com/huberman.
+244.32 There you'll see those supplements.
+245.46 And just keep in mind that
+we are constantly expanding
+247.95 the library of supplements
+available through Momentous
+250.62 on a regular basis.
+251.58 Again, that's livemomentous.com/huberman.
+254.25 Before we begin, I'd like to emphasize
+256.11 that this podcast is separate
+257.46 from my teaching and
+research roles at Stanford.
+259.65 It is, however, part
+of my desire and effort
+261.72 to bring zero-cost-to-consumer information
+263.55 about science and science-related tools
+265.38 to the general public.
+266.76 In keeping with that theme,
+267.81 I'd like to thank the
+sponsors of today's podcast.
+270.6 Our first sponsor is InsideTracker.
+272.94 InsideTracker is a
+personalized nutrition platform
+275.37 that analyzes data from your blood and DNA
+278.01 to help you better meet your health goals.
+280.38 I've long been a believer in
+getting regular blood work done
+282.81 for the simple reason
+that many of the factors
+285.21 that impact your immediate
+and long-term health
+287.25 can only be analyzed from
+a quality blood test.
+289.62 And nowadays, with the
+advent of modern DNA test,
+292.17 you can also get insight
+293.25 into, for instance, what
+your biological age is
+295.44 and compare that to
+your chronological age.
+297.36 And, of course, your biological age
+299.1 is really the age that counts.
+301.35 The problem with a lot of blood tests
+302.46 and DNA tests out there, however,
+304.23 is that you get information back
+305.79 about the levels of metabolic factors,
+307.35 lipids, hormones, et cetera,
+308.94 but you don't know what to
+do with that information.
+310.77 InsideTracker makes that
+all very easy to navigate.
+313.32 They have a personalized platform.
+315.12 So this is a web portal where you can go,
+317.52 you'll see the numbers from
+your blood tests and DNA tests,
+320.01 and then it will tell you, for instance,
+321.42 how you could adjust various
+aspects of your nutrition
+323.76 or your exercise or supplementation
+325.71 in order to bring those numbers
+327.18 into the ranges that are best for you.
+329.4 If you'd like to try InsideTracker,
+330.78 you can go to insidetracker.com/huberman
+333.63 to get 20% off any of
+InsideTracker's plans.
+336.15 That's insidetracker.com/huberman
+to get 20% off.
+340.11 Today's episode is also
+brought to us by Eight Sleep.
+342.34 Eight Sleep makes smart mattress covers
+344.19 with cooling, heating, and
+sleep tracking capabilities.
+347.37 It turns out that your body temperature
+349.77 and your ability to fall and stay asleep
+351.72 are very closely related.
+353.79 If your body does not drop
+by one to three degrees,
+356.67 you are simply not going
+to get into deep sleep
+358.59 or stay in deep sleep.
+360.15 And waking up, it also turns out,
+362.49 is related to body temperature.
+363.81 Every time you wake up in the morning,
+365.46 your body is warming up
+in order to wake you up,
+368.01 and this has an enormous number
+of hormonal and metabolic
+370.59 and other cascades that
+are vitally important,
+372.42 not just to what happens while you sleep,
+374.28 but your health and your energy
+375.627 and focus throughout the day.
+377.64 Eight Sleep is an incredible device.
+379.65 It's one that I've been
+using for six months or so,
+382.41 and it's completely transformed my sleep.
+383.847 And I already thought I
+was sleeping pretty well.
+386.37 The way it works is that you
+can cool or heat your mattress
+389.58 according to different
+times throughout the night.
+392.49 So for instance, you
+can cool your mattress
+394.14 if you tend to run warm
+395.46 and that will help you
+fall and stay deeply asleep
+397.5 and then toward morning,
+398.58 you can have the mattress programmed
+400.44 or, I should say, the
+mattress cover programmed,
+402.36 so that you warm up your
+sleeping environment
+404.55 and you wake up when you want to wake up.
+406.68 If you've been sleeping pretty well
+408.24 but waking up in the middle of the night,
+409.47 you might also find
+410.46 that by cooling your mattress even further
+412.53 toward the middle of your sleep about,
+414.24 well, you'll stay in
+deep sleep much longer.
+417.06 If you'd like to try Eight Sleep,
+418.29 you can go to eightsleep.com/huberman
+420.9 to check out the Pod Pro Cover
+422.46 and save $150 at checkout.
+424.77 Eight Sleep currently ships
+425.82 within the US, Canada,
+and the United Kingdom.
+428.34 Again, that's eightsleep.com/huberman
+430.74 to save $150 at checkout.
+432.93 Today's episode is also
+brought to us by LMNT.
+435.54 LMNT is an electrolyte drink
+that has everything you need
+438.21 in order to get your brain and
+body to function at its best,
+441.0 but none of the things you don't,
+442.14 in particular, sugar.
+443.82 Electrolytes are vitally important
+445.41 to the way that your neurons,
+your nerve cells, work
+447.66 and, indeed, to the way
+448.62 that all the cells of your body work.
+450.6 But your nervous system and your neurons
+452.04 particularly depend on electrolytes
+454.32 because you need the electrolytes,
+456.21 sodium, magnesium, and potassium,
+458.16 in the proper ratios,
+459.12 in order for those nerve cells
+460.41 to fire what are called action potentials,
+462.27 which are the electrical signals
+463.92 that allow your neurons to work
+465.18 and to allow you to do everything
+466.44 from remembering information
+467.88 to moving your muscles deliberately.
+470.49 When you exercise, or even if you don't,
+472.95 you can get quite low on electrolytes,
+474.75 especially on a hot day.
+475.77 You can get dehydrated.
+477.12 There are lot of different ways
+478.65 to replenish your fluids and electrolytes
+480.81 and there are a lot of different
+481.643 electrolyte drinks out there,
+483.09 but many of them contain a lot of sugar.
+485.1 And some of those that
+don't contain a lot of sugar
+487.74 don't have the proper ratios
+489.09 of sodium, magnesium, and potassium.
+490.83 If you'd like to try LMNT,
+491.91 you can go to drinklmnt,
+that's L-M-N-T, .com/huberman
+496.17 to claim a free LMNT Sample Pack
+498.12 with your first purchase.
+499.23 Again, that's drinklmnt.com/huberman
+502.17 to claim a free sample pack.
+504.06 Let's talk about sleep and
+tools to optimize your sleep.
+508.53 I want you to conceptualize yourself
+511.38 as contained within a room
+514.35 that has only very few windows
+or very few entry points.
+519.33 What do I mean by this?
+520.163 Well, your brain and your
+nervous system control
+524.07 whether or not you move or don't move.
+525.93 They control whether or
+not you're digesting food
+527.82 or you're not digesting food.
+529.89 They control whether or not
+you're stressed or not stressed,
+531.69 happy or sad, et cetera.
+533.55 All of that stuff that
+controls all that stuff
+537.03 is housed inside your
+skin and skull, et cetera.
+540.78 That might seem pretty obvious,
+542.52 but what that means is that
+for your brain and body
+546.48 to feel alert and focused,
+549.66 ready to move and
+exercise or do some work,
+552.96 or if your brain body are going
+to lie down and go to sleep,
+557.31 well, that brain and body
+needs cues, it needs inputs,
+562.29 to determine when to do
+those different things.
+565.77 And those cues and inputs arrive
+568.17 through a defined set of
+what I'll call stimuli,
+571.08 but you can also think of
+these as levers or tools.
+573.869 The main levers and tools
+that are going to allow you
+577.26 to control when you are
+awake and when you are asleep
+580.59 and to get better sleep every single night
+583.53 are light, literally
+photons, light energy,
+588.06 could be from sunlight, could
+be from artificial light,
+589.98 we will discuss those
+particulars in a moment,
+592.92 as well as darkness.
+595.11 That is the absence of light.
+597.84 So we've got light and dark.
+599.34 Those are two very powerful tools
+602.22 to encourage your nervous system
+603.6 to be in one state or another,
+605.13 meaning awake or asleep.
+607.38 Temperature is another tool or lever.
+611.04 Turns out that when your
+body is cooling down,
+614.25 you have a greater tendency
+to fall and stay asleep.
+618.09 In fact, every night
+when you actually sleep,
+621.15 your body is dropping
+by one to three degrees
+623.52 and that drop in temperature is required.
+626.58 It's like a gate that your
+body has to go through
+629.13 in order for you to get into sleep.
+631.74 And in fact, the converse is also true.
+633.69 If your body heats up by
+one to three degrees or so,
+637.05 you will wake up.
+638.46 So you've got light,
+dark, temperature, food.
+643.47 And when we say food,
+645.21 we mean what we eat, when we eat,
+648.81 and the amount that we eat.
+651.12 Okay, so light, dark,
+temperature, food, exercise.
+654.36 And of course, exercise
+comes in different forms.
+656.7 We can do cardiovascular exercise
+658.35 that can be low-intensity,
+long-distance exercise.
+661.89 It can be high intensity,
+663.45 so-called high intensity
+interval training.
+665.46 It could be weight
+training. It could be yoga.
+667.56 It could be swimming, any
+number of different activities.
+669.87 But exercise, in general, causes
+672.27 an increase in body temperature
+674.76 and tends to make us more alert,
+677.28 not just during the exercise,
+678.81 but in the immediate
+hours after that exercise.
+681.87 Exercise does some other things
+683.16 that relate to our sleep as well
+684.39 and we'll talk about those today
+685.68 and how you can leverage them.
+687.09 Another potent lever
+688.68 for adjusting your sleepiness
+and wakefulness is caffeine.
+693.96 This, of course, comes
+as no surprise to people,
+696.36 but why and how caffeine works
+might come as a surprise.
+700.8 Very briefly, we have a molecule
+703.83 in our body called adenosine
+705.39 and the longer we have been awake,
+707.49 the more adenosine builds
+up in our brain and body
+709.8 and adenosine is part of the
+reason why we get sleepy.
+712.74 Caffeine effectively operates
+as a adenosine antagonist.
+718.17 It works by basically occupying
+the receptor for adenosine.
+721.56 So it's a little bit of
+a convoluted mechanism.
+723.84 But basically all you need to know
+725.55 is that caffeine prevents
+the actions of adenosine.
+728.67 That's one of the reasons why
+caffeine makes us feel alert.
+731.52 But how much caffeine we drink
+732.9 and when we drink caffeine turns
+out to be vitally important
+735.39 for adjusting our wakefulness
+737.49 and for optimizing our sleep.
+738.81 So we'll talk about that as well.
+740.1 The other category of lever or tools
+741.81 which are immensely powerful
+for optimizing sleep
+744.99 are supplements.
+746.79 There now exist as many as
+eight different supplements
+749.91 that can powerfully modulate
+sleep in healthy ways
+753.39 and that have huge margins for safety.
+755.85 So we're going to talk about
+what those supplements are.
+758.34 In previous episodes of this podcast
+760.17 and as a guest on other podcasts,
+762.45 I've talked about three
+particular supplements,
+764.43 magnesium threonate,
+apigenin, and theanine,
+768.54 which together can really enhance
+770.22 the speed at which one falls asleep
+772.29 and people's ability to stay asleep
+774.36 and to really get into
+those deep stages of sleep
+776.373 that are particularly restorative.
+778.2 Today we're going to
+talk a little bit more
+779.82 about each of those three
+780.87 and how they can best
+be used in combination,
+783.24 but we are also going to touch
+on some other supplements
+785.88 that I have not talked about
+much before, if at all.
+789.15 Things like glycine and
+GABA, as well as inositol.
+793.17 Many people are going to
+find inositol interesting
+795.69 and of particular use to them,
+798.18 especially if they're following
+a low-carbohydrate diet
+800.88 or if they are fasting before sleep
+803.48 or just trying to avoid
+eating too close to bedtime
+806.43 and yet they're having a
+hard time falling asleep.
+809.19 Inositol also turns out
+to be especially useful
+811.56 for people who have a tendency
+812.61 to wake up in the middle of the night
+814.47 and have a hard time falling back asleep.
+816.2 It also has some interesting
+and potent effects
+818.85 on anxiety throughout the day.
+820.2 So we're going to talk about
+inositol as a tool as well.
+823.59 And then last in our list
+of general categories
+825.72 of levers and tools for optimizing sleep
+828.36 are digital tools.
+829.327 Now, when we say digital tools,
+831.27 I don't necessarily mean devices.
+832.71 What I mean are things like
+non-sleep deep rest scripts.
+836.22 These are zero-cost
+scripts that you listen to
+839.22 that take your body through
+some deep relaxation
+841.35 and that can help people both
+fall asleep, stay asleep,
+845.01 fall back asleep, and
+get better at sleeping.
+847.89 And also going to talk about digital tools
+850.38 related to self-hypnosis.
+851.82 This is distinctly different
+from stage hypnosis.
+854.22 So I know some of you hear
+hypnosis and you think,
+856.08 oh, you know, people
+clucking like chickens
+858.96 and doing things that are
+outside their control.
+861.03 That's not at all what
+I'm referring to here.
+862.65 I'm talking about clinically
+and research-supported tools
+866.67 that have been shown to
+enhance people's ability
+869.55 to fall and stay asleep
+870.78 and that can get you
+far better at sleeping.
+874.17 So again, to recap the
+list of levers and tools,
+876.93 we've got light and dark,
+878.787 and that includes the intensity of light,
+880.53 the timing of light, et cetera.
+881.7 We've got temperature.
+882.9 We have food.
+884.01 We have exercise, caffeine,
+supplements, and digital tools,
+889.11 not just limited to devices,
+890.7 but zero-cost tools that
+you can access on YouTube
+894.21 and elsewhere in various apps
+895.83 that can really help
+you optimize your sleep.
+897.63 So today we're going to
+talk about all of these.
+899.25 I really want to provide you
+as many tools as possible,
+901.71 give you the logic behind
+each of those tools
+903.45 and when and how best to apply them
+905.64 so that you can develop the sleep toolkit
+908.52 that's ideal for your sleep needs.
+910.65 As we head into our description
+912.24 of tools for optimizing sleep,
+914.55 let's consider what the
+perfect 24-hour cycle
+918.39 would look like.
+919.92 Let's start this 24-hour cycle
+921.57 with when you wake up in the morning.
+923.34 So for some of you, that will be 5:00 a.m.
+925.35 For others of you, that will be 10:00 a.m.
+927.36 Most people, I believe, wake up
+928.62 sometime between 6:30 a.m. and 8:30 a.m.
+932.7 But regardless of when you
+wake up in the morning,
+935.31 one of the first things that happens
+936.93 is that your body
+temperature is increasing
+939.78 and that's just going to happen naturally.
+941.79 Some of it is going to be the consequence
+943.41 of your moving around a bit,
+945.0 but really the increase
+in body temperature
+947.46 is one of the main triggers
+949.05 for why you woke up in the first place.
+952.2 That increase in body temperature
+in turn causes an increase
+956.25 in the release of a
+hormone called cortisol.
+958.98 Cortisol is often discussed
+as a stress hormone,
+961.89 but it's not just associated with stress.
+963.9 It also enhances your immune system
+966.51 provided cortisol is
+elevated at the right times,
+969.78 and the right time for
+cortisol to be elevated
+971.7 is when you first wake up in the morning.
+974.82 That increase in cortisol
+975.96 is also going to increase metabolism.
+978.93 It's also going to increase
+your ability to focus mentally
+982.5 and for you to move your body.
+984.75 So again, cortisol is often demonized
+987.87 and consider this bad thing.
+989.13 And indeed, you don't want cortisol
+990.75 to be chronically or consistently elevated
+993.21 throughout the day or night.
+994.71 But you do want cortisol to
+reach its peak early in the day
+998.4 right about the time you wake up.
+1000.86 One way that you can ensure
+1002.51 that that cortisol peak
+occurs early in the day
+1005.03 right about the time that you wake up
+1007.1 is to view bright light,
+ideally from sunlight,
+1010.79 within the first 30 to
+60 minutes after waking.
+1015.26 That's right, view bright sunlight
+1017.81 within the first 30 to
+60 minutes after waking.
+1021.86 I'll get into all the caveats
+1023.27 about what happens if you
+wake up before the sun is out,
+1025.52 what if you live in the
+UK where there is no sun,
+1027.44 or people claim there is no sun.
+1028.61 Hate to tell you this, folks,
+but there is sun in the UK.
+1031.782 We'll talk about all that.
+1033.29 But everybody, whether or not
+you live in a cloudy place
+1037.28 or a sunny place,
+1038.39 whether or not there's
+cloud cover or not that day,
+1040.97 should really strive to get
+bright light in your eyes,
+1044.09 ideally from sunlight,
+1045.5 within the first 30 to
+60 minutes after waking.
+1049.16 The reason for that is very simple.
+1051.59 You want to trigger that cortisol increase
+1053.66 to occur very early in your day,
+1057.05 and you don't want that
+cortisol peak to happen later,
+1059.54 which is what will happen
+1060.74 if you wait to get
+outside and see sunlight.
+1064.85 The reason for this
+1065.99 is that you have a set of
+neurons, nerve cells, in your eye.
+1069.35 They're called
+intrinsically photosensitive
+1070.91 melanopsin cells,
+1071.743 but you do not need to know that name.
+1073.55 Those neurons respond
+best to bright light,
+1076.43 and especially right after
+waking early in the day,
+1079.73 they are best able to
+signal to a set of neurons
+1082.76 that reside over the roof of your mouth
+1084.71 called the suprachiasmatic nucleus,
+1086.18 which is a cluster of neurons
+1087.17 that then sends a huge
+number of other signals,
+1090.05 electrical and chemical,
+1091.04 out to your entire body
+1092.54 that triggers that cortisol increase,
+1094.97 provides a wake-up signal
+for your brain and body,
+1096.98 and sets in motion a timer
+1099.32 for you to fall asleep later that night.
+1101.45 So again, we're not trying to go into
+1102.92 too much mechanism today.
+1104.0 We are trying to really hammer on tools
+1105.83 and I'll substantiate those tools
+1107.69 just a bit with some mechanism.
+1109.55 But here's what you do, or
+at least here's what I do.
+1111.89 I wake up in the morning and
+I want to reach for my phone,
+1114.896 but I know that even if I were
+to crank up the brightness
+1117.59 on that phone screen,
+1118.82 it's not bright enough to
+trigger that cortisol spike
+1122.12 and for me to be at my
+most alert and focused
+1125.93 throughout the day
+1126.763 and to optimize my sleep at night.
+1128.0 So what I do is I get out
+of bed and I go outside.
+1131.87 And if it's a bright, clear day
+1135.2 and the sun is low in the sky
+1137.03 or the sun is, you know,
+starting to get overhead,
+1139.04 what we call low solar angle,
+1140.57 then I know I'm getting
+outside at the right time.
+1145.13 If there's cloud cover
+and I can't see the sun,
+1148.16 I also know I'm doing a good thing
+1149.75 because it turns out,
+especially on cloudy days,
+1151.94 you want to get outside
+1152.78 and get as much light energy
+or photons in your eyes.
+1155.78 But let's say it's a very clear day
+1157.67 and I can see where the sun is.
+1159.83 I do not need to stare
+directly into the sun.
+1162.59 If it's very low in the
+sky, I might do that
+1165.59 because it's not going to
+be very painful to my eyes.
+1167.9 However, if the sun is
+a little bit brighter
+1170.043 and a little bit higher in the sky,
+1171.89 sometimes it could be painful to look at.
+1173.57 So the way to get this sunlight
+viewing early in the day
+1177.29 is to look toward the sun.
+1179.99 If it's too bright to look at directly,
+1182.33 well, then don't do that.
+1183.29 You just look toward it,
+but not directly at it.
+1185.57 It's absolutely fine to blink.
+1187.73 In fact, I encourage you to blink
+1189.02 whenever you feel the impulse to blink.
+1191.45 Never look at any light,
+sunlight or otherwise,
+1194.24 that's so bright that
+it's painful to look at
+1195.86 'cause you can damage your eyes.
+1197.51 But for this morning sunlight viewing,
+1199.85 it's best to not wear sunglasses,
+1201.89 that's right, to not wear sunglasses,
+1204.26 at least for this
+morning sunlight viewing.
+1206.99 It is absolutely fine to wear
+eyeglasses or contact lenses,
+1211.64 so-called corrective lenses.
+1212.75 In fact, those will serve you well
+1214.85 in this practice or this tool
+1216.44 because they will focus the
+light onto your neural retina
+1218.6 and onto those melanopsin
+1219.59 intrinsically photosensitive
+ganglion cells.
+1221.75 If your eyeglasses or contact lenses
+1224.0 have UV protection, that's okay.
+1227.3 There's so many different
+wavelengths of light
+1228.74 coming from the sun
+1230.33 and they are bright enough
+1231.41 that they will trigger the mechanisms
+1233.12 that you want triggered
+at this early time of day.
+1236.9 So try and get outside,
+1238.58 ideally within the first
+five minutes of waking
+1240.44 or maybe it's 15 minutes,
+1242.24 but certainly within the
+first hour after waking.
+1244.79 I want to share with you
+three critical things
+1246.95 about this tool of
+morning sunlight viewing.
+1249.26 First of all, this is not
+some woo biology thing.
+1253.04 This is grounded in the
+core of our physiology.
+1255.98 There are literally
+hundreds, if not thousands,
+1258.11 of quality peer-reviewed papers
+1259.55 showing that light
+viewing early in the day
+1263.03 is the most powerful stimulus
+1264.74 for wakefulness throughout the day
+1266.24 and it has a powerful, positive impact
+1268.85 on your ability to fall
+and stay asleep at night.
+1270.95 So this is really the
+foundational power tool
+1273.92 for ensuring a great night's sleep
+1276.53 and for feeling more awake during the day.
+1279.08 Second of all, if you wake
+up before the sun is out,
+1284.57 you can, and probably should,
+flip on artificial lights
+1288.35 in your internal home
+environment or apartment
+1290.75 or wherever you happen to live
+1292.13 if your goal is to be awake, right?
+1294.02 If you wake up at four in the morning
+1295.1 and you need to be awake,
+1296.0 well, then turn on artificial lights.
+1298.49 Once the sun is out, however,
+1300.41 once the sun has risen,
+1302.6 then you still want to get
+outside and view sunlight.
+1306.26 Some of you will wake up
+before the sun comes out.
+1309.26 And if you're asking whether or not
+1311.54 turning on artificial lights
+1312.71 can replace sunlight at those hours,
+1314.78 unfortunately, the answer is no.
+1317.87 Unless you have a very special light,
+1319.217 and we'll talk about what kind of light,
+1321.29 the bright artificial lights
+in your home environment
+1324.32 are not, I repeat, are not
+going to be sufficiently bright
+1328.19 to turn on the cortisol mechanism
+1331.19 and the other wake-up mechanisms
+1332.72 that you need early in the day.
+1335.03 The diabolical twist, however,
+1336.65 is that those lights in
+your home or apartment
+1339.41 or even on your phone
+1341.03 are bright enough to disrupt your sleep
+1343.58 if you look at them too late at night
+1345.31 or in the middle of the night.
+1346.7 So there's this asymmetry in
+our retinal, our eye biology,
+1350.9 and in our brain's biology,
+1352.58 whereby early in the
+day, right around waking,
+1354.59 you need a lot of light, a lot of photons,
+1357.05 a lot of light energy,
+1358.19 and artificial lights
+generally just won't accomplish
+1361.4 what you need them to accomplish.
+1362.93 But at night, even a little
+bit of artificial light
+1365.99 can really mess up your
+so-called circadian,
+1368.45 your 24-hour clocks,
+1369.83 and all these mechanisms
+that we're talking about.
+1371.9 So if you wake up before the
+sun is out and it's still dark,
+1375.02 please turn on as many
+bright artificial lights
+1377.66 as you possibly can or need,
+1379.76 but then get outside once the sun is out.
+1382.91 On cloudy days, you especially
+need to get outside.
+1386.45 I repeat, on cloudy days, overcast days,
+1388.7 you especially need to get
+outside and get sunlight.
+1390.77 You just need to get more of it.
+1392.21 Now, how much light and how
+much light viewing do you need?
+1395.48 This is going to vary
+depending on person and place,
+1398.69 literally where you live on earth,
+1400.34 whether or not there's
+a lot of tree cover,
+1402.41 whether or not you're somebody
+who has sensitive eyes
+1404.21 or less sensitive eyes.
+1405.47 It's really impossible for me
+1406.7 to give an absolute prescriptive,
+1408.53 but we can give some general guidelines.
+1410.24 In general, on a clear day,
+1412.22 meaning no cloud cover
+or minimal cloud cover,
+1415.07 you want to get this sunlight
+exposure to your eyes
+1419.0 for about five minutes or so.
+1421.64 Could be three minutes one day,
+1422.72 could be seven minutes the next day,
+1424.61 about five minutes.
+1426.29 On a day where there's cloud cover,
+1428.6 so the sun is just
+peeking through the clouds
+1430.4 or it's more dense cloud cover,
+1432.68 you want to get about 10
+minutes of sunlight exposure
+1436.22 to your eyes early in the day.
+1437.66 And on days that are
+really densely overcast
+1440.15 or maybe even are rainy,
+1441.44 you're going to want to get
+as much as 20 or 30 minutes
+1444.62 of sunlight exposure.
+1446.66 Another key thing is do not, forget about,
+1450.26 just don't try and get
+this sunlight exposure
+1453.02 through a windshield of a car or a window,
+1455.99 whether or not it's tinted or otherwise.
+1457.4 It takes far too long.
+1458.99 It's simply not going to
+trigger the relevant mechanisms.
+1462.08 You would be standing there all day
+1463.4 trying to get enough light into your eyes
+1465.14 from the morning sunlight
+1466.07 and by then the sun
+will have already moved
+1468.26 from low solar angle to overhead
+1470.27 and it simply won't work
+for all sorts of mechanisms
+1472.4 related to your circadian
+rhythm functions.
+1474.53 So just don't try and do it
+1475.58 through a windshield,
+sunglasses, or a window.
+1480.05 It's just not going to work.
+1480.98 Get outside.
+1482.0 If the weather is really bad
+1483.38 or for whatever reason, safety reasons,
+1484.91 you cannot get outside,
+1486.02 well, then I suppose try
+and get near a window.
+1487.85 That would be the last, last resort.
+1489.89 But you really want to get outside
+1491.84 to get this sunlight exposure.
+1493.73 Now, if you live in a part of the world
+1495.83 where it's extremely dark and overcast
+1497.93 or the weather won't let you outside
+1499.4 or you live in a cave
+or some other small box
+1502.67 that does not allow any
+natural light into it
+1505.07 for whatever reason,
+1506.39 well, then you're going
+to need a replacement
+1509.03 for that sunlight.
+1510.68 And there are sunlight
+simulators or daylight simulators
+1514.04 that you can purchase.
+1515.09 Those are quite expensive in general
+1517.94 and therefore I suggest cheaper options
+1521.06 that work just as well
+1522.56 because they get just as bright.
+1524.06 Things like ring lights that are sold
+1526.58 in order for people to take
+selfies and this kind of thing.
+1530.39 A drawing LED tablet
+will work pretty well.
+1533.3 I actually have one of those
+1534.133 and I put it on my desk all morning
+1535.55 even though I still get
+outside and look at sunlight
+1538.61 first thing in the morning,
+1539.57 again, also, especially, I
+should say, on cloudy days.
+1543.59 We do not have any affiliation
+1545.24 to any ring lights or LED
+lights or these panels.
+1549.02 So we will provide a link to
+a couple of different options
+1551.69 if you want to explore
+the various options.
+1553.22 I don't know what people's
+different budgets are.
+1554.75 I don't know where people live.
+1556.4 I just know that many
+of our listeners live
+1558.11 in locations throughout the world
+1559.25 where, for instance, during the winter,
+1560.45 it gets very, very dark,
+1561.47 so they can't get sufficient sunlight.
+1563.27 But get that morning light,
+ideally from sunlight,
+1567.23 and take into account
+all the specific points
+1570.05 that I've given you here.
+1571.43 And, I should say, enjoy this practice.
+1574.13 It's really nice to get outside
+first thing in the morning
+1576.56 and get this sunlight.
+1577.393 In fact, when you start doing this,
+1579.71 you'll notice that your body
+1581.57 will start to feel more energized
+1584.06 and it will feel more
+energized more quickly.
+1586.55 You'll actually start
+1587.69 to notice this mechanism
+kicking in each day,
+1590.06 especially if you're paying
+attention to your physiology.
+1592.309 So enjoy this practice of getting outside.
+1594.95 Yes, you can take your
+morning beverage outside.
+1597.65 Yes, you can take your dog with you.
+1599.57 In fact, animals intuitively know
+1601.58 to get this morning sunlight.
+1602.75 They actually seek it out
+at the right times of days.
+1604.85 We human beings need to be told
+1606.53 by podcasters and other people
+1607.94 about the science that supports
+these kinds of practices.
+1610.61 Our pets apparently do not.
+1612.14 But get outside alone or with somebody,
+1614.93 with your kids, with your dog.
+1616.55 However you go about this practice,
+1618.08 make sure you do this practice
+1619.97 at least 80% of the days of your life.
+1623.12 That's right.
+1623.96 If you miss a day,
+1625.34 for instance, you're bedridden for a day,
+1628.07 try and get next to a window.
+1629.774 Let's say you are traveling,
+1631.94 or for whatever reason,
+1633.44 you are not able to get outside
+first thing in the morning,
+1636.14 well, then try to get twice
+as much sunlight in your eyes,
+1638.81 or I should say extend the duration
+1640.46 of sunlight viewing in the morning
+1642.05 for twice as long the following day.
+1644.21 This is a slow, integrative mechanism
+1647.06 that underlies this whole thing
+1648.53 of wakefulness during the day
+1649.363 and sleep at night due to sunlight viewing
+1651.68 and if you miss a day, you can
+make up for it the next day,
+1653.9 but you have to get twice as much light
+1656.24 or twice as much duration of light.
+1659.45 If you really want to get technical
+1660.86 and you really want to measure
+1661.82 how much light is in your environment,
+1663.2 you can download a free app,
+something like Light Meter,
+1666.53 and that will allow your phone
+1667.94 to act as a bit of a light meter.
+1669.65 It'll give you a pretty
+accurate measurement
+1671.87 of how many lux, which is
+a measure of brightness,
+1674.6 are in your environment in the morning.
+1676.52 And in general, that's just
+going to be a good tool
+1679.16 for evaluating your environments.
+1682.73 Here's what I suggest you do.
+1684.17 Wake up in the morning, take Light Meter,
+1686.45 point it at the brightest
+light in your home,
+1688.31 and take a measurement,
+1689.18 and what you'll probably find
+is it's about a thousand lux.
+1691.4 Now go outside and if
+there's some sunlight out
+1694.46 and there's cloud cover,
+1695.48 point it at the sky and press that button.
+1697.64 You can actually hold it down
+1698.66 and it'll give you a dynamically
+updated lux measurement.
+1702.2 And what you'll find
+is like 5,000, 10,000,
+1704.45 sometimes even 90,000 lux,
+1706.46 even though you don't experience
+it as so much brighter,
+1708.62 and that's because an
+indoor artificial light
+1710.54 is very concentrated
+over a small spatial area
+1713.81 whereas the sunlight is very diffuse.
+1715.67 But it's that diffuse,
+very bright sunlight,
+1717.68 that photon energy,
+1718.58 that you really want
+1719.413 that's going to set all the
+rhythms of your brain and body
+1721.49 in the proper way.
+1723.53 Not just that cortisol peak,
+1724.88 but it's going to trigger
+proper metabolism,
+1727.16 it's going to set a timer for you
+1728.56 to be able to fall asleep
+about 16 hours later,
+1731.27 and on and on and on.
+1732.77 And I should mention within
+the on and on and on,
+1734.81 it's also going to suppress any melatonin,
+1737.66 a hormone that makes you sleepy
+1738.74 that happens to be swimming
+around in your bloodstream
+1740.93 at the time you wake up.
+1742.46 It does a number of other things too,
+1743.93 including interact with
+the adenosine system
+1746.03 and kind of wash out some of the adenosine
+1747.89 that might still be residual
+if you didn't sleep enough.
+1751.55 Fundamentally speaking, get
+that morning sunlight viewing.
+1754.901 I promise you will be
+grateful that you did.
+1758.27 It makes everybody feel
+better, feel more alert,
+1761.18 and it will greatly
+assist with your ability
+1763.58 to fall and stay asleep later that night.
+1765.83 Before we continue with
+today's discussion,
+1767.57 we're going to take a brief pause
+1769.16 to acknowledge our sponsor,
+1770.78 Athletic Greens, also called AG1.
+1773.42 I started taking Athletic
+Greens way back in 2012.
+1776.75 So I'm delighted
+1777.71 that they've been a
+sponsor of this podcast.
+1780.14 Athletic Greens contains
+vitamins, minerals, probiotics,
+1782.99 digestive enzymes, and adaptogens.
+1785.69 So it's got a lot of things in there.
+1787.01 That's actually the
+reason I started taking it
+1788.357 and the reason I still take
+it once or twice a day.
+1791.33 It essentially covers all
+of my nutritional bases.
+1793.61 And the probiotics in
+particular are important to me
+1795.68 because of the critical importance
+1797.03 of what's called the gut-brain axis,
+1798.62 that is neurons and other
+cell types in the gut,
+1801.86 in the digestive tract,
+1802.94 that communicate with the brain
+1804.41 and the brain back to the digestive tract
+1806.66 in order to control things like mood,
+1809.0 immune function, hormone
+function, and on and on.
+1812.03 Whenever somebody has asked me
+1813.47 what's the one supplement
+they should take,
+1815.63 I always answer Athletic Greens.
+1817.28 I gave that answer long
+before I ever had this podcast
+1819.65 and it's the answer I still give now
+1821.42 for all the reasons that I
+detailed just a moment ago.
+1824.21 If you'd like to try Athletic Greens,
+1825.59 you can go to athleticgreens.com/huberman
+1828.44 to claim a special offer.
+1829.58 They'll give you five free travel packs
+1830.99 that make it really easy
+to mix up Athletic Greens
+1832.73 while you're on the road,
+1833.75 plus a year's supply of vitamin D3K2,
+1836.57 which are also very important
+1837.59 for a huge number of bodily
+factors and brain factors
+1840.89 that impact your immediate
+and long-term health.
+1842.81 Again, that's athleticgreens.com/huberman
+1845.42 to claim that special offer.
+1846.8 Okay, so now we're still focusing
+1848.15 on this early part of the
+day when you've woken up,
+1850.19 the first hour or so after waking.
+1853.13 And we can go to our list of
+other levers and tools, right?
+1856.88 We have light and dark.
+1858.23 We already talked about light
+and sunlight in particular.
+1861.56 We've got temperature, food, exercise,
+1863.54 caffeine, supplements, and digital tools.
+1866.18 Now, once you've woken up and
+you want to be awake, okay?
+1869.48 So this is likely to be early in the day
+1871.7 if you're following a
+more standard schedule.
+1874.22 You will also want to
+leverage not just light,
+1877.43 but temperature as a tool.
+1881.87 If you are inclined, it would be wise
+1884.66 to try and increase your
+core body temperature
+1887.51 a bit more quickly than it would otherwise
+1890.48 if you were to just, you
+know, shuffle around outside,
+1892.88 get your sunlight,
+1893.713 maybe read a little bit, et cetera,
+1894.98 and there are two main
+ways you can do that.
+1896.72 The first way is to get into
+cold water of some sort.
+1900.92 So this could be a cold shower
+1902.09 of anywhere from one to three minutes.
+1904.61 This could be an ice bath
+if that's your thing.
+1906.74 It could be a cold tub,
+1908.21 or if you own a cold tub
+1910.55 that's specifically designed
+for deliberate cold exposure.
+1913.34 Get under some cold water.
+1915.35 That will certainly wake you up.
+1917.6 And if you've ever jumped into cold water
+1919.49 or had a cold shower,
+1920.36 you know it really wakes you up
+1921.71 because you release
+adrenaline, epinephrine,
+1924.95 from both your brain and body,
+1927.44 the body from your adrenals
+1928.307 and your brain from a
+little cluster of neurons
+1930.11 called locus coeruleus.
+1931.37 Again, the names don't matter.
+1932.87 One to three minutes of cold
+water exposure will wake you up
+1935.18 because of that adrenaline release
+1936.92 and, and I want to highlight the and,
+1939.71 it will serve to increase
+your core body temperature.
+1943.49 That's right, your body and brain interact
+1946.04 as a bit of a thermostat system
+1947.6 where if you put something cold
+on the surface of your body,
+1949.91 your brain, a little cluster of neurons
+1951.71 in the so-called medial preoptic area,
+1953.9 act as a thermostat and say,
+1955.587 "Ah, the external of my body is cold
+1958.64 and therefore I'm going to heat up
+1960.35 my core body temperature."
+1961.46 So it's a little bit paradoxical.
+1962.75 People think, oh, if you get
+into cold water or an ice bath,
+1965.21 your body temperature is going to drop.
+1966.53 And indeed, that's true if
+you stay in for a while,
+1968.36 but if you just get in for
+about one to three minutes,
+1970.34 or under the cold shower
+for one to three minutes,
+1972.47 your core body temperature will increase.
+1975.14 So then when you get
+out of that cold water,
+1977.42 your body temperature is
+increasing at a rate, at a slope,
+1981.02 that's steeper than it would otherwise
+1983.18 and you're going to feel more alert.
+1984.38 It also has the advantage
+1985.34 of increasing not just adrenaline,
+1987.08 but dopamine, which is a molecule involved
+1988.91 in motivation, focus, et cetera.
+1990.38 So this is great for waking up.
+1992.18 So we've got sunlight,
+1993.29 we've got temperature
+triggered by cold water,
+1995.42 and we have exercise.
+1997.76 One of the best ways
+1998.63 to increase your core body
+temperature early in the day
+2001.72 is to do exercise.
+2003.04 Now, some of you might choose
+2004.9 to do your full-blown workout for the day
+2007.81 first thing when you
+wake up in the morning,
+2009.25 I would say the best time to exercise,
+2010.93 at least what the research points to,
+2012.7 is immediately when you
+wake up in the morning
+2015.13 or three hours after waking
+or 11 hours after waking.
+2018.91 But that's really getting
+down into optimization
+2021.58 for sake of muscular
+strength and grip strength
+2023.83 and it's very hard to give
+a strict prescriptive.
+2027.37 Here's what I suggest.
+2028.39 If you want to be alert early in the day
+2030.46 and you want to sleep great at night,
+2032.71 get that bright sunlight,
+get into some cold water,
+2035.53 and if you don't want to
+get into some cold water,
+2037.81 try and get some movement.
+2039.19 It could be a walk.
+2040.39 So you can get your sunlight exposure
+2041.62 while you're taking a walk
+first thing in the morning.
+2044.26 It could be a light jog.
+2045.4 It could be skipping rope.
+2047.02 These days, I skip rope for
+about 10 minutes or 20 minutes
+2049.54 while looking at the sun.
+2050.77 So I'm trying to layer
+in these different things
+2052.45 for waking up.
+2053.283 And then I take a cold shower afterwards.
+2054.94 This is what I've been doing as of lately,
+2056.08 but I don't do that all
+year long necessarily.
+2059.14 Or some of you are going to
+be working out mid-morning.
+2062.26 I sometimes do that.
+2063.73 But try and get your core
+body temperature increased
+2066.97 first thing in the morning,
+2068.17 and a great way to do that
+is with the cold water
+2071.14 and/or with exercise.
+2073.36 And again, it doesn't have
+to be your full-blown workout
+2075.73 for the day
+2076.563 if you're doing workouts consistently,
+2077.92 which I hope everybody is
+2079.0 because everybody really should exercise
+2081.16 at least, I believe, five or six,
+2083.5 or maybe even seven days a week.
+2084.58 For me, it's six days
+a week, sometimes five,
+2086.56 rarely is it seven.
+2088.12 So get that exercise
+2089.5 or even just a modest amount of movement,
+2091.66 walking, jogging, skipping rope,
+2093.73 some light calisthenics.
+2095.35 That will further increase
+your core body temperature
+2097.3 and help you feel more awake.
+2098.89 Then we have the category of caffeine.
+2100.6 And again, we're just talking
+2101.47 about this early part of the day,
+2102.73 and you might be saying, "Wait a second,
+2104.05 I thought this was an episode
+about tools for sleep."
+2106.39 Well, everything that
+we're talking about doing
+2107.95 in these first 60 to 90 minutes of the day
+2111.28 really set in motion a
+wave of biological cascades
+2115.63 that carry through the entire day
+2117.46 and into the evening and into the night
+2118.78 and really do serve to optimize sleep.
+2120.82 So just hang in there with me.
+2122.59 And for those of you that are interested
+2123.67 in focus and attention,
+your ability to learn,
+2125.86 all of these tools and practices
+2127.45 are going to greatly
+enhance those as well.
+2130.63 So the next category of tool
+2132.34 for use early in the day is caffeine.
+2134.38 Caffeine is a very important
+compound to think about.
+2137.2 I do realize that some people
+who are prone to anxiety,
+2139.9 especially panic attacks, anxiety attacks,
+2141.73 might avoid caffeine entirely.
+2144.13 That's absolutely fine.
+2145.12 You do not have to drink caffeine.
+2146.8 So what I'm about to describe
+2148.27 are ways to leverage caffeine use
+2150.61 to optimize sleep and wakefulness
+2152.92 if you are comfortable with
+caffeine, if you like caffeine,
+2156.28 I happen to love caffeine.
+2157.36 I like it in the form
+of coffee or espresso
+2160.03 or yerba mate tea,
+2161.53 in particular non-smoked
+varieties of yerba mate tea.
+2164.86 Non-smoked because the smoked
+varieties seem to carry
+2167.44 some carcinogenics, some
+cancer causing risk.
+2169.69 There's increasing data on that.
+2170.98 So non-smoked varieties of yerba mate.
+2174.64 So caffeine is something
+2175.96 that a lot of people
+consume early in the day.
+2178.51 How much depends on your tolerance,
+2180.79 and there's a lot of
+individual variability here.
+2182.89 Again, caffeine is an
+adenosine antagonist,
+2185.35 or effectively works as
+an adenosine antagonist
+2187.72 and limits sleepiness.
+2188.89 I highly recommend
+2190.21 that everybody delay their caffeine intake
+2192.13 for 90 to 120 minutes after waking.
+2194.77 However painful it may
+be to eventually arrive
+2197.05 at that 90 to 120 minutes after waking,
+2199.87 you want, and I encourage you,
+2202.27 to clear out whatever residual adenosine
+2204.58 is circulating in your system
+2206.05 in that first 90 to
+120 minutes of the day.
+2208.27 Get that sunlight exposure,
+2209.29 get some movement to wake up,
+2210.88 and then, and only then,
+start to ingest caffeine
+2215.2 because what you'll do if
+you delay caffeine intake
+2218.41 until 90 to 120 minutes after waking
+2221.02 is you will avoid the
+so-called afternoon crash.
+2224.53 And you may still get a
+little bit of dip in energy
+2226.84 in the afternoon,
+2227.673 but it's not going to
+be that massive crash.
+2229.54 I've talked about the
+reasons for that crash
+2231.94 on previous episodes.
+2233.23 But if you delay your caffeine intake
+2235.33 90 to 120 minutes after waking,
+2237.04 you are doing yourself a great
+service towards wakefulness
+2240.04 and to avoid the crash.
+2241.39 And the afternoon crash has
+another liability to it,
+2243.49 which is typically people will emerge
+2244.81 from that afternoon crash
+either grumpy or groggy
+2247.54 and then they'll lean into
+drinking more caffeine,
+2250.42 which can then disrupt their sleep.
+2252.76 So wait 90 to 120 minutes
+after waking in the morning
+2255.58 to drink caffeine.
+2256.81 And if you drink caffeine at
+any point throughout the day,
+2260.808 really try and avoid any caffeine,
+2263.23 certainly avoid drinking
+2264.94 more than a hundred milligrams
+of caffeine after 4:00 p.m.
+2268.63 and probably even better to
+limit your last caffeine intake
+2271.45 to 3:00 p.m. or even 2:00 p.m.
+2273.61 And for many people,
+shifting that caffeine intake
+2276.4 from immediately after
+waking in the morning
+2278.56 to 90 to 120 minutes
+2280.06 gives them a much longer arc
+of energy throughout the day
+2282.85 and they don't feel the need
+2284.86 to drink more caffeine
+later in the afternoon.
+2287.59 If you do drink caffeine
+later in the afternoon,
+2289.84 really try and limit the
+total amount or drink decaf.
+2292.75 Certainly keep the total amount
+2294.91 to less than a hundred milligrams
+2296.26 if you are interested
+2297.1 in getting into the best possible sleep.
+2298.81 And I say this knowing that
+many people, including myself,
+2301.75 can drink a double espresso
+2303.49 with 200 milligrams of caffeine or more
+2305.41 at 5:00 p.m. or even
+6:00 p.m. or after dinner
+2308.41 and still, quote,
+unquote, fall asleep fine
+2310.78 or still sleep fine.
+2311.89 However, there are terrific data,
+2314.53 Matt Walker and I talked about this,
+2316.66 and there are more and
+more papers all the time
+2318.88 that point to the fact that
+caffeine intake late in the day,
+2322.93 after 4:00 p.m. that is,
+2324.31 can really disrupt the
+architecture of your sleep.
+2326.65 So you might think you're sleeping well,
+2328.06 but you're not sleeping
+nearly as well as you could
+2329.92 if you avoided caffeine
+in those afternoon hours.
+2333.04 Now, some of you might be doing
+your main about of exercise
+2336.01 first thing in the morning
+2337.0 and you want your caffeine
+before that about of exercise.
+2339.73 In that case, I say, go for it.
+2342.19 Drink your caffeine,
+2343.023 do your workout right after waking up.
+2344.8 I don't have a problem with that.
+2346.66 You will find, however,
+2347.65 that you're going to get an
+early afternoon dip in energy
+2350.167 and that dip in energy is
+going to be substantial
+2352.84 because it's going to be a dip in energy
+2354.91 that naturally follows that
+workout from the morning.
+2358.87 So it's dependent on temperature,
+2361.27 and it's going to be related
+2363.25 to the elimination of that
+adenosine blockade by caffeine.
+2367.78 So you're getting a
+kind of a one-two punch
+2370.9 on your energy levels
+2371.89 by taking a lot of caffeine and
+exercising early in the day.
+2376.6 You can sort of expect
+2377.71 that you're going to get a drop in energy
+2379.84 in the early afternoon.
+2381.16 That's okay if that works for you,
+2382.9 but just know that delaying that caffeine
+2385.09 90 to 120 minutes after waking
+2387.55 would be the ideal scenario
+most days and most scenarios.
+2392.98 All that said, I
+absolutely respect the fact
+2395.68 that people have different work schedules,
+2397.99 kid schedules, et cetera.
+2400.0 So if you want to do some
+or none or all these tools,
+2402.76 that's really up to you.
+2403.593 I'm just providing them to you
+2405.04 in the simplest form that I
+can possibly provide them.
+2408.61 Now, the other lever or tool
+2410.35 that you have available to you is food.
+2412.57 Not just what you eat, but when you eat.
+2414.64 And it turns out that if
+you eat early in the day,
+2417.7 you support a biological clock mechanism
+2421.12 that will make you more
+alert early in the day.
+2424.24 That said, many people choose to fast
+2426.16 in the early morning hours of the day
+2427.87 or in the first part of the day.
+2429.04 I'm one such person.
+2429.91 I generally don't ingest any food
+2432.64 until about 11:00 a.m. or 12 noon.
+2435.19 Sometimes I'll have a protein shake.
+2436.75 Sometimes I'll have some almonds.
+2438.1 Sometimes I'll have breakfast.
+2439.24 If people are meeting
+for brunch or breakfast,
+2440.86 I will have breakfast for social reasons
+2442.886 every once in a while.
+2443.89 But most of the time I don't
+eat until about lunch time.
+2447.206 However, some people are really hungry
+2449.05 when they wake up in the morning.
+2450.16 Just know that if you
+eat early in the day,
+2453.16 you are further triggering
+an increase in metabolism
+2456.64 and in temperature that
+will make you more alert.
+2459.97 So you don't have to eat early in the day,
+2462.13 but you can start to see
+2463.3 how these different tools layer together.
+2464.98 Sunlight viewing, exercise,
+cold water, eating.
+2468.43 Many of them are converging
+on the same mechanisms.
+2470.86 In fact, when you drink caffeine,
+2471.94 there's also a small
+increase in body temperature
+2474.13 due to the adrenaline
+increase that it stimulates.
+2476.217 So all of these things can be
+layered on top of one another
+2479.5 or you can use them individually
+2480.97 or think about them individually.
+2482.35 Now, food is an interesting lever or tool
+2485.23 because it's not just about when you eat,
+2486.76 but it's also about what you eat.
+2488.74 And I've talked a lot
+about eating for energy
+2491.62 and what that means in
+terms of caloric energy
+2493.6 versus neural energy, et cetera,
+2495.49 in previous podcast episodes.
+2497.08 We're not going to focus on that now
+2498.37 because, frankly, to
+get into a description
+2500.38 of whether or not somebody
+should eat fruits or vegetables
+2502.45 or animal proteins or dairy,
+et cetera, early in the day,
+2505.27 that's very nuanced.
+2506.35 What you eat for your breakfast,
+2507.64 or if you choose to not eat breakfast,
+2508.93 is really up to you.
+2510.31 All that said, if you
+eat a very large meal,
+2513.55 it doesn't matter if you
+slept terrifically well
+2516.79 10 hours the night before
+2518.26 or if you are about to go to sleep
+2520.18 or if it's the middle of the afternoon,
+2522.01 if your gut is full of food,
+2524.11 there's just a large
+volume of food in your gut,
+2526.15 it's going to divert a lot of blood
+2529.03 and other critical resources
+2531.43 away from other organs of your body,
+2533.11 in particular, your brain,
+2534.55 and you're going to be sleepy
+after eating a big meal.
+2536.89 So this is sort of a duh,
+2538.24 but I think oftentimes in the discussions
+2540.73 about what to eat for energy,
+2542.44 people neglect to consider food volume
+2545.05 as a strong parameter or
+variable in that discussion.
+2548.35 So if you eat a huge breakfast,
+2549.7 it's likely that you are going to be tired
+2551.83 immediately after eating that breakfast
+2553.48 unless of course you exercise
+very hard prior to that
+2555.7 and you metabolize all
+that food very quickly.
+2558.64 So it's up to you whether or not to eat
+2560.47 first thing in the morning or not.
+2562.3 But if you do eat in the first
+few hours of the morning,
+2565.36 just understand that you are setting
+2567.25 or you are helping to set
+2568.87 a food entrained, as it's
+called, circadian clock.
+2572.62 Light, temperature, timing of food intake,
+2576.3 movement and exercise,
+2578.14 all of these things literally
+funnel in in a neural sense,
+2582.43 they funnel into this thing
+that we call the circadian clock
+2585.55 and they let that clock,
+that set of neurons,
+2588.43 predict when you are likely
+to be eating and active
+2591.67 and viewing sunlight
+2593.68 the next day and the next
+day and the next day.
+2595.45 I say all this because there
+are some beautiful studies,
+2598.12 and I'll highlight one, again,
+in the show note captions,
+2600.46 that show that if people
+are having a hard time
+2602.77 waking up in the morning,
+2604.18 one of the things they can do
+2605.59 is maximize sunlight viewing,
+exercise in the morning,
+2609.28 drink caffeine.
+2610.15 Although, again, I support the idea
+2612.73 that that would best be done
+2613.96 about 90 to 120 minutes after waking.
+2617.53 Eating some food in those
+early morning hours,
+2620.5 et cetera, et cetera.
+2621.333 You can layer in multiple levers or tools
+2625.03 in order to be more alert.
+2626.68 And that's what these levers
+and tools are really there for
+2630.58 in this sense of what
+we're talking about today,
+2632.68 which is optimizing sleep.
+2634.3 Yes, they will make you more alert.
+2635.65 Yes, they will provide some
+adrenaline and dopamine,
+2637.99 for instance, the cold
+water, et cetera, et cetera.
+2640.39 But the reason we're
+talking about these things
+2642.7 in the context of sleep
+2644.41 is that they start to give your body
+2646.63 some predictable autonomic timing.
+2649.63 What is predictable autonomic timing?
+2651.64 Well, your autonomic nervous system
+2652.87 is the components of your brain and body
+2655.21 that cause wakefulness and sleepiness
+2658.18 and you can start to
+create some predictability
+2661.18 in that autonomic timing.
+2662.62 You can start to do things
+that really make it such
+2664.99 that you naturally wake
+up at six in the morning
+2668.2 or five in the morning.
+2669.13 That's right, if you're somebody
+2670.12 who naturally is a night owl,
+2672.22 who likes to stay up
+until two in the morning
+2674.95 and sleep until 10:00 a.m.,
+2676.48 and you now have a job or
+you have to go to school
+2678.61 or you have a partner
+that likes to get up early
+2680.17 and go to sleep early,
+2681.7 well, you can make that happen
+2683.08 and you can make that
+happen pretty painlessly
+2685.3 if you take a week or so
+2687.04 and go to sleep 30 minutes or
+an hour earlier each night,
+2690.91 set an alarm
+2691.743 and wake up 30 minutes or
+an hour earlier each morning
+2696.07 until, of course, you're waking up
+2697.15 at the time you want to wake up,
+2698.14 and then even in that groggy state,
+2701.2 get some exercise, get
+some sunlight viewing.
+2703.33 If the sun's not out,
+2704.2 turn on those bright artificial lights.
+2706.12 Have some breakfast, even
+if you're not hungry.
+2708.22 In fact, for those of you
+that engage in shift work
+2711.16 because you have to,
+2712.0 or travel and you're jet lagged,
+2714.01 one of the quickest ways to
+shift your circadian clock
+2717.19 and get onto the local schedule
+2718.51 is to eat on the local schedule.
+2720.64 So what all these tools do is
+they really set up a cascade.
+2724.69 Think of it as kind of a
+wavefront of wakefulness and focus
+2727.36 throughout the day.
+2728.32 It'll take you through
+the middle of the day
+2729.427 and the afternoon stage we'll
+talk about in a few minutes,
+2732.46 but really they take you to this period
+2735.16 that is about 5:00 p.m.
+until your bedtime.
+2738.67 I realize some people are
+going to bed very early,
+2740.5 like 8:00 p.m. or 9:00 p.m.,
+which to me seems very early,
+2743.47 but very few people go to
+sleep at 5:00 p.m. right?
+2745.87 Unless you're doing that for
+shift work or other reasons.
+2748.48 But from 5:00 p.m. until bedtime
+is really a critical period
+2752.65 in which you need to
+leverage particular tools
+2755.02 in order to get and stay asleep optimally
+2758.26 and to be able to sleep through the night.
+2759.85 So really there are three critical periods
+2761.71 throughout each 24-hour cycle.
+2763.48 And during each of those critical periods,
+2765.22 you're going to want to do
+2766.72 as many specific things as you can
+2769.15 to optimize your wakefulness
+2770.71 and focus and mood throughout the day
+2772.48 and your sleep at night.
+2775.09 The first critical period
+2775.99 is the one that we've been
+talking about up until now.
+2777.88 Things like morning sunlight viewing,
+2779.23 caffeine 90 to 120 minutes after waking,
+2781.48 exercise, and so on.
+2782.92 We can call that critical period one
+2784.57 and it really encompasses the
+time from which you wake up
+2787.63 until about three hours after waking.
+2790.15 Although, I should just mention
+2791.44 'cause there are always
+those people that say,
+2792.347 "Wait, I wake up at 4:00 a.m.
+2793.75 and the sun isn't out until 8:00 a.m.,"
+2795.33 okay, so it might be four hours.
+2797.17 But really it's those early
+morning hours of your day
+2801.1 once you're awake.
+2802.45 The second critical period
+2804.16 is the time throughout
+the day and afternoon
+2807.07 leading into evening.
+2808.36 So you may ask what are
+the things that you can do
+2809.98 throughout the day,
+2810.97 the middle of your day
+2811.81 and into the afternoon and evening hours,
+2813.52 that are really going to set you up
+2814.63 for the best possible
+sleep later that night.
+2817.21 Well, there are a few dos
+and there are a few don'ts.
+2820.33 First of all,
+2821.32 be careful about ingesting
+too much caffeine
+2823.69 throughout the middle of the day.
+2824.68 That's kind of an obvious one
+2825.76 for the reasons that we
+talked about earlier.
+2828.04 Second of all, if you are a napper,
+2830.95 and I raise my hand now,
+2832.15 for those of you listening,
+2832.983 I'm raising my right
+hand because I love naps.
+2835.18 I've always loved naps.
+2836.47 Nowadays I do NSDR or
+a Reveri sleep hypnosis
+2840.73 almost every day.
+2842.26 And I tend to do that, as I mentioned,
+2843.91 in the early afternoon hours
+2845.41 if I'm feeling kind of sleepy,
+2846.91 because even though I optimize
+2848.08 my caffeine intake timing, et cetera,
+2850.36 I tend to get a little
+sleepy in the afternoon.
+2852.31 Most people get a little
+sleepy in the afternoon.
+2854.14 Some of that is related
+2855.1 to hitting that peak of body temperature.
+2857.08 And you might think, wait, I
+thought high body temperature
+2859.66 is associated with alertness,
+2861.4 and it is,
+2862.233 but right as you crest
+that high body temperature
+2864.49 and your body temperature starts to drop,
+2866.23 there's a tendency to
+be a little bit sleepy.
+2867.97 So some of you might opt to
+take a nap in the afternoon.
+2871.12 Should you nap, should you not nap?
+2872.92 That's a question that I get asked a lot
+2874.48 and that I asked Dr. Matthew Walker
+2876.07 when he was a guest on this podcast.
+2877.63 Here was his answer and
+here's what the data support.
+2880.48 It is fine to nap in the afternoon,
+2883.12 but don't nap so late in
+the day or for so long
+2886.57 that it disrupts your ability
+2887.98 to fall and stay asleep at night
+2890.11 for your major sleep about, okay?
+2891.94 So naps are fine,
+2893.26 but don't sleep so long during the day
+2895.36 or too late in the day
+2896.92 that it disrupts your ability
+to fall and stay asleep.
+2900.04 I should also say you do not have to nap.
+2903.043 It's kind of an interesting phenomenon
+2904.6 that happens on these
+podcasts and on social media
+2906.91 where we'll talk about naps
+2908.02 and the fact that naps are great,
+2909.94 but don't make them
+longer than 90 minutes,
+2911.95 but then all the non-nappers
+get really worried.
+2914.29 Like, wait, am I supposed to nap?
+2915.49 I don't like naps. I wake up groggy.
+2917.17 You do not have to nap.
+2918.49 In fact, if you can make it
+2919.33 through your whole day without napping,
+2920.98 great, more power to you.
+2922.15 But if you do nap and you
+find that naps serve you well,
+2925.75 keep those naps shorter than 90 minutes
+2927.55 for reasons related to
+ultradian cycles and so forth,
+2930.4 and make sure that you don't
+nap too late in the day
+2933.46 that you are then staying
+up too late at night
+2935.26 and having a hard time
+waking up the next morning.
+2937.66 I will say that for a lot of
+people who do not like naps
+2940.78 or that find they wake up
+really grumpy from naps
+2944.05 or groggy from naps,
+2946.0 I encourage you to try the Reveri app,
+2949.66 try an NSDR script, try yoga nidra.
+2952.93 Try something of that sort
+2954.13 for anywhere from 10 to 20 to 30 minutes.
+2956.98 I tend to do this every day now.
+2959.35 I'll just lie down, and I love yoga nidra,
+2961.48 I love NSDR scripts,
+2962.74 I love using the Reveri app.
+2964.33 In particular, the
+portion of the Reveri app
+2967.0 that gets you better at sleeping.
+2968.59 It really is beneficial for me
+2970.9 because it serves as very replenishing
+2973.66 while I'm doing that hypnosis,
+2975.16 but it's also gotten me much better
+2976.57 at falling and staying asleep
+2977.89 and falling back asleep in
+the middle of the night.
+2980.08 So this critical period throughout the day
+2982.21 is one in which most people
+are doing a lot of stuff.
+2984.07 They're emailing and picking up kids
+2985.63 and they're exercising
+and they're commuting
+2987.91 and doing all sorts of things,
+2988.75 taking phone calls and Zooms, et cetera.
+2990.7 But if you can get that
+period of deep relaxation
+2993.34 through a nap or NSDR,
+2995.41 that's going to serve you well.
+2996.67 Try not to drink too much caffeine,
+2998.23 certainly no more than a
+hundred milligrams of caffeine,
+3001.32 after 4:00 p.m
+3002.31 if your goal is to fall asleep
+at a reasonably normal time.
+3005.31 And for those of you that
+exercise in the afternoon,
+3008.82 understand that if you
+exercise very intensely,
+3012.18 so this might be weight
+training or running
+3013.74 or some other very intense exercise,
+3015.87 typically that's going to further increase
+3017.94 your body temperature.
+3019.35 Makes sense, right?
+3020.183 Based on everything we know
+3021.016 about metabolism and body temperature.
+3022.527 And it's going to so-called
+delay your circadian clock.
+3026.22 It's going to make it such
+3027.36 that you want to fall
+asleep a little bit later,
+3030.63 maybe even a lot later.
+3031.98 So if you're exercising in
+the afternoon or evening
+3034.74 and that's the only time you can exercise
+3036.18 or that's the time that
+you prefer to exercise,
+3038.22 great, but be careful about
+ingesting too much caffeine
+3041.46 in order to get the
+energy to do that exercise
+3043.35 'cause that caffeine
+will disrupt your sleep
+3045.72 and just know that you are
+delaying your circadian clock.
+3049.68 You are making it such
+3050.64 that you will naturally
+want to go to sleep later
+3053.13 and wake up later.
+3054.78 Contrast that with if you
+exercise early in the day,
+3057.78 say, immediately after waking up
+3059.58 or in the first zero to
+four hours after waking,
+3063.93 in most cases, that's not going to shift
+3065.88 your circadian clock much.
+3067.56 And toward the end of the episode,
+3069.12 we'll talk a little bit
+about forced exercise
+3072.06 prior to wake-up times.
+3073.47 That doesn't mean doing
+exercise in your sleep.
+3074.97 That means deliberately setting an alarm
+3076.44 and getting out of bed much earlier
+3077.7 than you naturally would.
+3078.9 That turns out to be a very potent tool
+3081.15 to so-called advance your circadian clock.
+3085.8 So we can talk about that a
+little bit later in the episode.
+3088.26 But this critical period,
+too, in the middle of the day
+3091.5 is when you're going to want
+to leverage specific tools,
+3093.96 and we've talked about those:
+3095.82 limiting caffeine intake;
+3097.47 being mindful of the
+clock-delaying effects of exercise;
+3100.95 the fact that, also,
+if you're going to nap,
+3103.41 you don't want to nap too
+long or too late into the day
+3107.61 otherwise you'll disrupt
+your nighttime sleep.
+3109.59 So this critical period two,
+3112.35 or second critical period, I should say,
+3113.82 during the middle of the day
+3114.96 is a time in which you should
+be doing certain things
+3116.91 and avoiding doing certain things.
+3118.38 So that raises the
+question of whether or not
+3119.73 you should also be getting a lot of light,
+3121.77 in particular, sunlight,
+throughout the day.
+3123.72 Now, that's something that
+hasn't been explored too much
+3125.34 in the literature
+3126.173 until recently when Dr. Samer Hattar
+3128.34 who's the director of
+the chronobiology unit
+3130.71 at the National Institutes
+of Mental Health,
+3132.42 decided to do a number of experiments
+3133.68 exploring the effects of light on mood
+3135.75 and other aspects of brain
+function and body function
+3138.57 when that light is delivered
+not just in the morning,
+3140.34 which is great for us,
+3141.39 but also throughout the day.
+3142.86 So should you be looking at sunlight
+3144.9 or bright artificial
+lights throughout the day?
+3147.219 Now, on the face of it,
+3148.26 you might just think, yes,
+you know, sunlight's great.
+3150.48 Provided we're not getting a sunburn
+3152.28 and we're not staring at the
+sun and damaging our eyes,
+3154.77 we should get as much
+sunlight as we possibly can.
+3157.11 In fact, we talked about this
+in the episode on hormones
+3159.63 about how getting light
+onto as much of our skin
+3162.394 as we can throughout the day
+3164.19 can really help in the production
+3165.51 of testosterone and estrogen
+in both men and women
+3167.55 in healthy ways that
+improves mood and libido
+3169.77 and all sorts of things that
+are associated with wellbeing.
+3173.76 However, because light is
+such a powerful stimulus
+3176.31 for controlling the timing
+3177.57 of your sleepfulness, or
+sleepiness, I should say,
+3180.42 and wakefulness,
+3182.37 we might want to be cautious
+3183.51 about how much light we are
+viewing in the afternoon,
+3186.15 in particular, in the
+early evening hours, right?
+3189.09 Well, turns out it's
+not so straightforward.
+3192.0 Viewing, so sunlight to the eyes, sunlight
+3194.94 in the late afternoon and evening hours,
+3197.22 so again, depends on time of year,
+3198.81 depends on location that
+you happen to be in,
+3201.12 but getting some sunlight in your eyes
+3202.53 for, again, maybe five
+or 10, maybe 30 minutes,
+3206.52 depending on how much
+cloud cover there is,
+3208.47 doing that in the afternoon
+3210.33 serves an additional beneficial purpose,
+3213.21 which is you protect or you
+inoculate your nervous system
+3217.86 against some of the negative effects
+3219.93 of bright artificial light
+3221.55 or even dim artificial
+light in the nighttime hours
+3226.05 between 10:00 p.m. and 4:00 a.m.,
+3227.37 which is really critical period three.
+3229.32 And we'll talk about what
+to do and what to not do
+3231.78 during critical period three
+of every 24-hour cycle.
+3234.81 But to make it very clear
+what I'm saying here,
+3237.36 get that morning sunlight in your eyes,
+3239.4 but also get some sunlight in your eyes
+3241.47 in the late afternoon and evening hours
+3243.69 when the sun is at
+so-called low solar angle,
+3245.76 when it starts to descend in the sky.
+3247.89 Again, you don't have to
+stare directly at the sun,
+3249.72 although if you can catch
+a nice, beautiful sunset,
+3251.58 go for it.
+3252.42 But as the sun starts to descend,
+3255.052 it triggers those same neurons in your eye
+3258.889 that communicate with
+your circadian clock,
+3261.09 but it communicates with
+a different component
+3264.15 or different compartment
+within the circadian clock.
+3266.34 That circadian clock
+is not just one thing.
+3268.56 It's multiple things.
+3269.393 And you have what are
+called morning oscillators
+3270.99 and evening oscillators.
+3272.07 And to make a long story short,
+3273.81 the tool that I'm describing
+of looking at the sun
+3277.53 in the late afternoon and evening,
+3279.51 again, blinking is fine,
+3281.76 don't stare at the sun,
+3282.69 but getting that sunlight in your eyes
+3283.98 in the late afternoon and evening
+3285.78 signals to that clock
+that it's evening time
+3290.13 and that sleep is coming.
+3291.96 It also serves as a second
+anchor or reference point
+3296.46 for your body and your brain
+to know where it is in time.
+3299.88 Remember back to the
+beginning of the episode
+3301.5 when I said your brain and
+your body and all your organs
+3303.84 are locked inside this skin and this skull
+3306.06 and they don't know what's
+going on in the outside world.
+3308.34 Well, that morning sunlight viewing
+3309.777 and the other things you do
+during critical period one,
+3312.87 those provide one strong set of signals
+3315.42 that it's wake-up time
+and time to be alert
+3316.827 and time to be focused.
+3318.33 And then in the evening,
+3320.19 by getting sunlight in your eyes again,
+3323.61 in particular, sunlight that comes
+3325.26 from low solar angle sunlight,
+3327.81 well, that provides a second stimulus
+3329.85 or a second reference point
+3331.44 that tells your brain and
+body, "Hey, it's evening.
+3333.99 The sun is descending."
+3335.7 Now, you might say,
+3336.533 "Wait, how does the brain
+and these neurons know
+3338.61 the difference between morning
+light and evening light?"
+3340.56 It turns out has to do
+3341.67 with the particular wavelengths of light
+3343.89 that are present in
+morning versus evening.
+3346.17 It's an incredible mechanism.
+3347.82 And you are probably
+familiar with the fact
+3350.76 that when the sun is directly overhead,
+3352.77 it's really bright white and yellow
+3355.5 and the sky's often blue,
+3356.76 and if there's cloud cover,
+3357.69 it just comes through as
+a bunch of bright light,
+3359.58 well, next time you're out in the morning,
+3360.99 take a look at what a sunrise looks like.
+3362.67 There's a lot of yellow-blue contrast,
+3364.86 and those yellow blues signal
+3366.57 important specific sets of
+cells in your eye and brain
+3369.63 that it's morning.
+3370.62 In the evening, you're also
+going to see yellow and blue,
+3373.11 but the ratio of yellows
+and blues has now changed
+3376.44 and you also see some oranges,
+3377.76 and in a really brilliant
+sunset, you'll see some reds.
+3380.339 If you haven't noticed this already,
+3382.32 you'll really want to look for this.
+3383.43 It's really kind of fun
+and cool to look at.
+3385.89 Well, those yellows and blues and oranges
+3388.83 that you see in the evening sunsets,
+3390.33 those signal to your brain
+and body that evening is there
+3393.33 and that nighttime is coming
+3394.77 and they're really establishing
+3396.12 a second reference point or
+wavefront of biological signals
+3399.96 that are going to optimize
+your nighttime hours
+3402.237 and your transition into
+really terrific sleep.
+3405.12 So now let's talk
+3406.17 about what I'm calling
+critical period three
+3408.78 of each 24-hour cycle.
+3410.16 So this would be the period
+of time of late evening,
+3413.01 So it might be 6:00 p.m. for some,
+3415.56 depending on when you go to sleep,
+3416.61 or 7:00 p.m.
+3417.6 extending into the hours
+3419.97 in which you decide to get
+into bed and go to sleep
+3422.28 and then throughout the night.
+3423.87 There are a number of things
+3424.703 that you're going to want to do
+3425.76 and there are a number of things
+3427.2 that you are going to want to avoid doing
+3429.39 in order to optimize your sleep.
+3431.22 First of all, you're
+going to want to avoid
+3433.89 bright artificial lights of any color.
+3438.06 Yes, of any color.
+3440.04 We haven't talked a lot
+about blue blockers,
+3441.72 you know, lenses that
+block blue wavelengths
+3443.82 or short wavelengths of light.
+3446.19 I don't have anything
+against blue blockers.
+3447.84 In fact, many people find that
+blue blockers provide them
+3450.57 some relief from headache
+and some eye strain
+3454.05 if they wear blue blockers
+3455.01 throughout the day and certainly at night.
+3456.45 But you don't need them,
+3457.89 and even if you do wear them,
+3460.05 you will find that if
+lights are very bright,
+3462.39 doesn't matter if it's a blue light,
+3463.56 a yellow light, or a red light,
+3465.33 those bright lights will
+wake up your brain and body.
+3468.66 They will activate the same mechanisms
+3471.06 that were activated early
+in the day by sunlight.
+3473.49 However, and here's the
+really diabolical twist,
+3476.52 I mentioned this earlier,
+3477.353 but the diabolical twist
+3478.68 in the way that your brain
+and body respond to light
+3481.26 is that early in the day,
+3483.24 in the morning hours, you
+need a lot of bright light,
+3484.98 ideally from sunlight,
+3486.09 to be very alert and to wake up,
+3488.55 but in the evening hours
+and nighttime hours,
+3490.95 it takes very little
+light, very few photons,
+3494.55 in order to wake up your brain and body
+3497.07 and to disrupt your circadian
+clock and disrupt your sleep.
+3500.37 So what that means is that
+once the sun goes down,
+3504.63 which, of course, is going to happen
+3506.37 at different times of year
+in different places on earth,
+3508.92 but once the sun goes down,
+3510.6 you would be wise to
+try and dim the lights
+3512.94 in your indoor environment
+most days, right?
+3515.49 I realize some nights you're
+going to throw a party
+3516.9 and have people over.
+3517.95 You might not want to dim the lights.
+3518.97 Some nights you're going to go out,
+3520.32 you might view a lot of bright lights.
+3521.55 But most nights of your life,
+3523.53 you're going to want to dim the lights
+3525.15 in your internal environment.
+3528.173 And ideally, the lights that you do use
+3530.61 you would place low in
+that physical environment.
+3532.83 So you would try and
+not use overhead lights,
+3535.02 but rather rely on desk lamps or lights
+3537.51 even placed low to the
+floor, even on the floor.
+3540.96 If you are going to use light at night,
+3543.36 and most people do,
+3544.92 I would encourage you to use
+as little artificial light
+3547.53 as is required to carry
+out the activities you need
+3550.29 to require safely.
+3551.82 That could be studying,
+3552.653 in which case you might
+need a little bit more light
+3554.43 in order to read or study.
+3556.05 If you're watching a television show
+3558.15 or you're watching
+something on your computer,
+3559.92 dim that screen way, way down,
+3561.51 as dim as possible while
+still, of course, being able
+3564.18 to view what you need to view.
+3565.56 Even better, I should say, ideally,
+3567.81 you would use candlelight
+and/or moonlight.
+3570.15 Now, some nights the moon is really bright
+3571.89 and you actually can use moonlight
+3573.66 to go about your usual activities.
+3575.37 Moonlight might seem very, very bright,
+3577.92 but, actually, moonlight is
+fairly low light intensity,
+3582.75 and candlelight, which
+can also seem very bright,
+3585.39 actually is very low light intensity.
+3587.85 If you're sitting across a table
+3589.95 with some candlelight there
+3590.88 and it's a really bright candle,
+3592.71 chances are it's only
+about three to 10 lux,
+3595.95 which is very, very little light energy
+3598.59 compared to, say, an artificial desk lamp
+3600.78 or an overhead light,
+3601.613 which is going to be in the area
+3602.67 of anywhere from a
+hundred to a thousand lux.
+3605.64 So candlelight is fine.
+3607.41 Of course, be cautious with open flame,
+3609.93 but candlelight is fine.
+3611.19 Moonlight is fine.
+3612.21 Dimming artificial lights is fine
+3614.31 provided they're dimmed way, way down.
+3616.23 And again, try and avoid using
+overhead artificial lights.
+3620.4 The absolute worst lights
+3621.57 are going to be overhead
+fluorescent lights
+3623.12 of the sort that you would
+have in the supermarket
+3626.04 or that you would see at a gas station
+3628.47 or something of that sort.
+3629.55 And I confess, there are times
+in which I'm driving home
+3633.57 and it's late at night and I
+want to be able to get to sleep
+3635.76 and I'll need to stop at the grocery store
+3637.74 or a gas station or something like that,
+3639.06 I've actually put on sunglasses at night
+3640.95 in order to avoid getting
+3642.42 that bright light exposure at night.
+3645.09 Although that's a little bit extreme,
+3646.8 I have done that from time to time
+3648.39 because that bright light exposure
+3650.04 will absolutely quash, it will eliminate,
+3652.86 any melatonin that
+happens to be circulating
+3655.53 in your brain and body.
+3656.363 Now, melatonin, a lot of people
+think of it as a supplement,
+3658.56 but melatonin is naturally released
+3660.81 as the evening comes about
+and into the nighttime hours.
+3663.75 It's the hormone that
+makes you feel sleepy
+3665.76 and allows you to fall asleep.
+3667.44 So viewing bright light
+3669.15 in the late evening
+hours and nighttime hours
+3671.01 is really not good for your sleep quality
+3674.49 and your ability to fall and stay asleep.
+3677.01 So for most people, a simple rule of thumb
+3679.2 is going to be avoid bright
+artificial lights of all colors,
+3683.1 and in particular, overhead
+bright artificial lights,
+3685.2 between the hours of
+10:00 p.m. and 4:00 a.m.
+3687.63 That's right, between
+10:00 p.m. and 4:00 a.m.,
+3689.13 avoid those bright artificial
+lights as much as possible.
+3692.28 Use only as much light as
+is absolutely necessary
+3695.55 in order to carry out the
+routines and activities
+3697.95 you need to carry out safely.
+3699.84 I should mention
+3700.673 that the reason overhead
+lights are problematic
+3702.93 is the same reason why
+sunlight is so great
+3705.66 early in the day,
+3706.493 which is that the cells,
+that is, the neurons,
+3709.05 that can wake up your brain and body
+3711.48 through activation of the circadian clock
+3713.43 reside mainly in the bottom half or 2/3
+3716.22 of your neural retina
+3717.18 and the way the optics of your eyes work
+3719.22 is that the cells on the
+bottom half of your eye
+3721.53 view the upper visual field.
+3722.94 So this is a beautiful adaptive mechanism
+3725.85 that allows these cells
+3727.08 to respond to overhead light from sunlight
+3731.04 in the early part of the
+day and throughout the day.
+3733.17 But in the evening, if you have
+bright artificial lights on
+3735.717 and those bright artificial
+lights are overhead lights,
+3738.3 it's going to more closely mimic
+3740.79 what sunlight does in the evening time,
+3743.4 and that turns out to be a bad thing
+3744.69 if your goal is to eventually go to sleep.
+3746.64 So again, do like the Scandinavians do.
+3749.064 Use lights that are set
+low in the room at night,
+3752.1 and if you really want to
+optimize your sleep-wake cycles,
+3755.1 I suppose you could also do the
+opposite throughout the day.
+3757.47 You could really emphasize the use
+3758.82 of bright artificial lights and sunlight
+3761.22 that comes from above.
+3762.053 And of course, sunlight
+always comes from above.
+3763.86 But if you're working in
+a given office environment
+3768.6 and, you know, it's 2:00 p.m. or 3:00 p.m.
+3770.22 and you want to be as awake as possible,
+3772.08 really crank up the overhead lights.
+3772.913 And then in the evening,
+3774.81 which is this critical period
+three that we're referring to,
+3777.09 really try and dim those
+lights or have them off
+3780.09 or just rely on candlelight or moonlight
+3781.83 from the hours of about
+10:00 p.m. until 4:00 a.m.
+3785.28 Our good friend Samer Hattar,
+3786.57 who's been on this podcast before,
+3788.1 Samer is director of
+the chronobiology unit
+3790.17 at the National Institutes
+of Mental Health,
+3792.21 well, he's absolutely obsessive
+about this light stuff
+3795.18 and avoiding light at night.
+3796.11 In fact, he lives in what I sort of joke
+3799.29 is like a cave at night.
+3800.46 From 9:00 p.m. until 5:00 a.m.,
+3802.35 which is really his kind of sleep cycle,
+3805.38 he has his house so dark
+3807.33 that you'd be lucky to be able
+3808.32 to find a spoon in the kitchen.
+3809.94 In fact, you'd be lucky
+3810.773 to find your way down
+the hallway if you're me.
+3812.55 But in any case, dim the lights.
+3814.35 Turn them way, way down.
+3815.61 It will serve you well.
+3816.54 It will make it much easier for you
+3818.76 to get sleepy and stay
+sleepy and fall asleep
+3821.79 and stay asleep throughout the night.
+3823.56 Now, not to depart from
+this critical period three,
+3826.44 but if you recall, viewing
+that afternoon light,
+3831.42 the low solar angle light
+3832.86 as the sun is heading down in the sky,
+3834.75 so it could be sunset
+3835.83 or what I call circa
+sunset, around sunset,
+3839.49 well, doing that is going to slightly,
+3841.68 but not completely, offset
+any of the negative effects
+3844.5 of viewing artificial light at night.
+3846.81 So I don't want to give
+people a pass here,
+3848.49 but let's say you know
+3849.84 that you're going to watch
+some Netflix at night
+3853.02 or you're going to be up late studying
+3854.91 and yet you still want to be
+able to fall and stay asleep.
+3857.55 Definitely make sure you
+see that evening light.
+3860.07 There's a great study.
+3861.3 We'll provide a link to this study,
+3862.53 which showed that if people
+view evening sunset light
+3866.85 or evening sunsets
+3867.87 or sunlight right around
+the time of sunset,
+3870.03 it really serves to
+inoculate or offset some,
+3873.75 again, some, not all,
+of the negative effects
+3875.73 of artificial light
+3876.563 between the hours of
+10:00 p.m. and 4:00 a.m.
+3878.7 Now, that's light.
+3879.533 But as you recall,
+3880.41 we also have this tool
+related to temperature,
+3883.17 and you're probably not
+going to be surprised
+3886.14 that the way to leverage
+temperature in the evening
+3888.69 is the exact opposite
+3889.77 of the way that you want
+to leverage temperature
+3891.69 early in the day.
+3892.523 Early in the day, temperature increases
+3894.3 from cold showers or exercise,
+et cetera, wake you up.
+3897.24 What that means is that taking
+a cold shower late at night
+3899.97 is probably a bad idea.
+3901.89 Rather, taking a nice hot bath or a sauna,
+3905.97 you might think would heat up your body,
+3907.68 and indeed, that's what happens
+3908.7 if you stay in a very long time,
+3910.32 but if you do hot tub or a hot bath
+3912.69 or a sauna in the evening,
+3913.74 and you don't stay in for
+more than 20 or 30 minutes
+3915.93 and you get out,
+3916.763 you take maybe a cool-ish
+shower or a warm shower,
+3920.34 then what happens is there's
+a compensatory cooling off
+3923.37 of your core body temperature
+3924.63 for the reasons we discussed earlier,
+3926.07 and your body temperature will
+drop by one to three degrees
+3929.1 and it will make it much
+easier to get into sleep.
+3931.53 So if you're somebody
+3932.363 that enjoys hot baths,
+hot showers, or hot tubs,
+3935.73 evening and nighttime
+3936.78 is going to be the best time to do that
+3938.1 if your goal is to facilitate sleep.
+3940.41 Similarly, you should try
+3941.94 and make your sleeping environment
+pretty cool, if not cold.
+3945.48 Now, that doesn't mean you need to be cold
+3946.83 while you're asleep.
+3947.97 You can get under as many
+blankets as you need,
+3949.83 but it's a good idea to make
+your sleeping environment cool.
+3952.74 In fact, drop the temperature
+in that sleeping environment
+3955.02 by at least three degrees
+3956.97 and you'll be happy that you did.
+3958.74 Now, some people rely on
+things like Eight Sleep.
+3961.14 I use that.
+3961.973 One of these controllable
+temperature mattress covers.
+3965.07 Other people would simply do this
+3966.48 by putting a fan in the
+room or opening a window.
+3969.27 Again, depends on time of year,
+3970.41 depends on technology,
+depends on budgets, et cetera.
+3972.66 But you're going to want to sleep
+3973.89 in a relatively cool or
+cold sleeping environment
+3976.65 and then layer on the blankets
+as needed to stay asleep.
+3980.88 And I say as needed
+because one of the things
+3983.04 that you're going to do in your sleep,
+3985.59 or if you happen to wake up,
+3987.12 is if you're too warm, you're
+going to put a foot or a hand
+3990.21 out from under those blankets.
+3992.25 And the reason for doing
+that is very logical
+3994.47 once you understand the mechanism.
+3995.97 You have special portals,
+3997.68 you essentially have ways of passing heat,
+4000.56 excuse me, in and out of your body
+4003.11 primarily through the palms of your hands,
+4004.88 the upper half of your face,
+4005.9 and the bottoms of your feet
+4007.22 through so-called glabrous skin.
+4008.54 This was covered in the
+episode with Dr. Craig Heller
+4010.88 from the biology department at Stanford.
+4013.79 If you lower the temperature
+in your sleeping environment,
+4015.89 so lower the temperature in that room
+4017.51 or use a controllable mattress
+cover that can cool down
+4020.48 like Eight Sleep or
+something of that sort,
+4022.31 it's naturally going to make
+your sleep environment cooler,
+4025.67 and if you're too warm under the blankets,
+4027.77 all you have to do is
+extend a hand or a foot
+4029.66 out from under those blankets.
+4031.04 Whereas if the sleeping
+environment that you're in
+4032.84 is too warm,
+4034.04 there's very little you can do to cool off
+4036.05 besides push off those blankets.
+4037.79 So for instance, if you're too warm
+4039.02 and you're waking up in
+the middle of the night,
+4040.34 which is what happens if you get too warm,
+4042.14 you'll push off those blankets.
+4043.25 But if the room is too warm,
+4044.9 well, what are you going to do?
+4045.733 You'd probably have to put
+your hands into some cool water
+4047.72 or take a coolish shower or something
+4049.82 for a couple of seconds.
+4050.96 That's not very practical.
+4052.34 Better to just keep the
+sleeping environment cool.
+4055.19 I'm not a big fan of
+people putting socks on
+4057.8 while they sleep,
+4058.633 or I should say, I'm not
+a fan of putting socks on
+4060.29 while I sleep,
+4061.123 because that eliminates
+this glabrous skin portal
+4063.35 on the bottoms of one's feet.
+4064.85 So for those of you that have heard,
+4065.96 you know, wear socks while you sleep,
+4067.22 that works great for people
+4068.66 that tend to run too cold while they sleep
+4070.91 and wake up because their feet get cold,
+4072.68 but if you're somebody who wakes up
+4073.85 in the middle of the night,
+4074.683 chances are you're waking up
+4075.516 because you're getting too warm
+4077.93 and the best thing that you could do
+4079.07 is to cool or lower the temperature
+4081.05 in the room that you're sleeping
+4081.92 and not wear socks,
+4083.03 get under as many blankets
+as you need to fall asleep,
+4085.7 and then across the night,
+4086.87 you'll naturally just
+move a hand or a foot
+4088.64 or all hands and feet out
+from under those blankets
+4090.77 to cool off
+4091.91 because of the relationship
+between temperature and sleep.
+4094.4 That is, dropping your
+core body temperature
+4096.59 one to three degrees
+4097.82 gets you into sleep and
+helps you stay asleep.
+4099.95 So let's say you do
+exercise late in the day
+4101.87 and you're finding yourself
+very alert in the evening
+4103.76 and you need to fall asleep,
+4105.35 or let's say you've exercised
+4106.73 and you needed four cups of espresso
+4109.31 in order to do that exercise.
+4110.99 Well, there are a few
+things that you can do
+4112.07 to try and bring your nervous system down
+4114.17 into more state of calmness,
+4115.82 and you can do that
+4116.653 also by lowering your
+core body temperature.
+4119.18 One of those I already
+talked about before,
+4120.74 taking a nice hot shower or a hot bath
+4123.2 and then getting out and cooling off
+4124.49 will decrease your body temperature.
+4126.32 Maybe not enough to get you into sleep
+4128.54 if you have a ton of
+caffeine in your system.
+4131.0 But again, you can use this
+mechanism of temperature shifts
+4134.9 to wake up
+4136.13 or temperature shifts to fall asleep
+4137.63 in ways that really can help you overcome
+4139.73 some of the irregularities
+in your sleep-wake cycle
+4143.57 and exercise cycle, et cetera.
+4145.46 Because, of course, nobody's perfect.
+4147.32 Some days we end up having
+to workout in the afternoon
+4149.54 or we'll miss the workout entirely.
+4151.34 Other days, we end up
+having that cup of coffee
+4153.23 in the afternoon with a friend
+4154.16 and then we have a hard
+time falling asleep.
+4155.96 So you can use these tools
+4157.22 not just in their optimized form,
+4158.794 you know, being absolutely
+obsessive and compulsive
+4161.45 about exactly when you
+do each of those tools.
+4163.64 That would be wonderful,
+but life happens as they say
+4167.09 and some days you're going
+to feel too alert at night
+4169.361 and you want to fall asleep,
+4170.42 or you've got to get up
+especially early the next morning
+4173.42 and you're not somebody
+4174.253 who normally goes to bed at 10:00 p.m.
+4175.79 Well, that's when a something
+like a hot bath or a sauna
+4177.95 can really benefit you
+4178.783 because it can adjust your
+temperature rhythm accordingly.
+4181.1 I would be remiss if I
+didn't touch on alcohol
+4184.04 and CBD and THC.
+4186.08 I always get questions about these.
+4188.0 And I should say, of course,
+4189.89 many places, but not all, THC is illegal.
+4192.98 Although, there are medical uses
+4194.36 and in some places, it's decriminalized,
+4196.97 other places it's legal.
+4198.83 Alcohol, of course, is consumed
+4200.81 almost as frequently as
+caffeine is consumed.
+4203.57 I personally don't drink alcohol.
+4204.86 I don't have anything against it per se.
+4207.14 I just don't tend to enjoy it.
+4209.12 One of the reasons I don't enjoy it
+4210.28 is if I drink alcohol,
+I simply fall asleep.
+4212.93 So that doesn't really accomplish
+4214.61 any of the things that I
+really want to accomplish
+4216.59 because the sleep that one
+gets after drinking alcohol
+4220.13 is greatly disrupted sleep.
+4222.35 Hate to break it to you,
+but that's the truth.
+4224.81 And when Dr. Matt Walker
+came on this podcast,
+4227.45 he said exactly the same thing.
+4229.1 While THC and alcohol do
+help some people fall asleep
+4235.31 and maybe even stay asleep,
+4236.36 the architecture of
+that sleep is suboptimal
+4239.48 compared to the sleep they would get
+4240.71 without alcohol or THC in their system.
+4243.08 So I'm not here to tell you
+what to do or not to do.
+4245.63 I'm certainly not the substance police.
+4248.87 That's not my role.
+4250.01 I'm just reporting to you the biology.
+4251.57 If your sleep is not restoring you
+4254.66 to the extent that you feel it should,
+4256.67 or if you are regularly
+relying on a drink or two
+4259.91 in order to fall asleep,
+4261.79 or THC in order to fall asleep,
+4264.5 that is disrupting your
+total pattern of sleep.
+4267.35 However, I do realize
+4268.73 that nowadays a lot of people
+are relying on THC and/or CBD,
+4272.96 especially edible forms,
+4274.1 in order to fall and stay asleep.
+4275.767 And, you know, we can
+just acknowledge the data.
+4278.57 It does seem that there's
+an anxiety lowering effect
+4281.48 of some of those compounds
+4282.83 that do help people
+4284.27 who have a hard time
+falling and staying asleep
+4286.58 because of reasons related to anxiety.
+4288.86 Although, in a moment,
+4289.693 we'll talk about some supplements
+and supplement protocols
+4293.18 that can also assist in the
+ability to fall and stay asleep
+4296.15 and that can adjust anxiety
+4297.65 and that do not seem to
+disrupt sleep architecture
+4300.23 in negative ways
+4301.063 and, in fact, can enhance
+the depth and quality
+4303.5 of sleep architecture.
+4304.82 Okay, so you've done everything
+correctly up until now.
+4307.58 You got your morning routine
+from critical period one.
+4309.663 You've got your afternoon routine.
+4311.51 You saw some sunlight in the afternoon.
+4313.58 You avoided caffeine in the eight hours
+4315.32 or 10 hours before bedtime.
+4317.09 You're not drinking alcohol.
+4318.47 You've cooled down the room.
+4320.42 You're doing all these things right.
+4321.53 You've dimmed the lights,
+et cetera, et cetera.
+4324.17 What else can we do in
+order to optimize our sleep?
+4326.69 Well, I always say behavioral tools first,
+4330.59 then look to nutrition,
+4331.85 then, if necessary,
+look to supplementation,
+4334.52 and then, if still necessary,
+look to prescription drugs
+4338.81 obviously prescribed by a
+board certified physician.
+4341.99 Well, we've talked a lot
+about the behavioral tools
+4344.18 for critical period three.
+4345.65 We have not talked a lot
+4346.91 about the supplementation-based tools.
+4348.92 There are supplements that for most people
+4350.96 will greatly improve their
+ability to fall and stay asleep
+4355.07 and the three main
+supplements in that category
+4358.43 or that kit of sleep supplements,
+4360.8 and I've talked about these before,
+4362.06 are magnesium threonate,
+so T-H-R-E-O-N-A-T-E,
+4368.21 apigenin, A-P-I-G-E-N-I-N, apigenin,
+4371.93 and theanine, T-H-E-A-N-I-N-E, theanine.
+4375.38 Now, some important things to point out
+4376.97 about mag threonate, as it's
+called, apigenin, and theanine.
+4380.3 First of all,
+4381.5 you don't necessarily
+need to take all three,
+4383.51 although, many people
+get a synergistic effect
+4385.94 from taking all three.
+4387.17 In fact, you may not even
+need to take even one.
+4390.23 What I recommend is that
+if you're already doing
+4393.05 all the behavioral tools regularly
+4395.66 and you're still having
+trouble falling asleep
+4397.91 and staying asleep,
+4399.44 well, then you might try
+one of the supplements
+4403.04 within this sleep stack.
+4404.15 They do have fairly
+wide margins for safety.
+4406.19 Although, I should also say,
+4408.53 anytime you're going to
+add or remove something
+4410.63 from your supplement protocol
+or your nutritional program,
+4413.09 you definitely want to
+talk to your physician.
+4414.59 I don't just say that to protect us.
+4415.76 I say that to protect you.
+4417.14 But for most people, the margins
+of safety on these things
+4419.3 are going to be pretty broad.
+4420.59 A couple of notes about dosages.
+4422.96 For some people, the dosages
+of any one or several
+4425.54 of the supplements I
+mentioned will be zero.
+4427.82 That is, you won't need them
+4428.93 in order to get and stay asleep
+most nights of your life.
+4433.22 That's terrific if you don't need them.
+4435.23 For many people, however,
+4436.67 taking 145 milligrams
+of magnesium threonate
+4441.17 can be very beneficial.
+4442.49 That's the dosage that most
+people will benefit from.
+4446.24 Some people need to go a little higher.
+4447.53 Some people need to go a little bit lower.
+4449.51 One of the reasons that
+we've been pointing people
+4451.16 towards single-ingredient
+formulations these days
+4454.76 is because it allows people
+4456.14 to adjust the dosage of one component
+4458.63 of a so-called sleep stack
+4459.77 without having to disrupt the
+dosage of another component,
+4463.61 and so on.
+4464.443 It also allows people to try
+4465.56 just one element within the sleep stack
+4468.32 without having to purchase
+and try the others,
+4470.96 which is a problem if
+you're buying a blend
+4472.52 of a lot of different ingredients.
+4473.93 So 145 milligrams of magnesium threonate.
+4477.08 50, 5-0, milligrams of apigenin.
+4479.87 And again, you could just
+take the apigenin on its own.
+4482.54 And 100 to 400 milligrams of theanine
+4486.56 taken, again, alone or in combination
+4488.84 with the other supplements
+mentioned in the stack
+4491.36 many people find allows
+them to get really drowsy
+4494.21 and fall asleep, sleep really deeply,
+4496.61 and they feel much more
+refreshed the next day
+4498.77 and they don't have a grogginess to them.
+4501.11 Now, a couple of notes about
+these different supplements.
+4504.62 About 5% of people report
+4507.65 that magnesium threonate
+really disrupts their gut.
+4510.38 It gives them diarrhea
+or gastric distress.
+4512.63 In which case, don't take it.
+4514.43 If magnesium threonate disrupts
+your gut or your digestion
+4519.113 to a point where it's
+uncomfortable or at all
+4521.21 and you don't like it,
+don't take any of it.
+4523.04 The proper dosage for you, in other words,
+4524.39 would be zero milligrams.
+4526.13 Now, in a slightly different way,
+4528.23 many people who can
+tolerate magnesium threonate
+4531.26 or really thrive on magnesium threonate
+4533.78 and like apigenin
+4535.01 might find that theanine,
+4537.05 even at the lowest dose
+of a hundred milligrams,
+4539.15 'cause, again, the range is
+a hundred to 400 milligrams,
+4541.19 that theanine gives them such vivid dreams
+4544.07 that they actually find it disruptive
+4546.35 where they wake up in
+the middle of the night
+4547.88 or they find that the
+sleep that they're getting
+4549.8 is kind of anxiety ridden
+4551.36 because of the intensity of those dreams.
+4553.13 So some people might
+choose to leave theanine
+4555.2 out of the sleep stack
+4556.37 and just take magnesium
+threonate or apigenin
+4558.227 And again, some people might
+leave magnesium threonate
+4560.51 out of the sleep stack.
+4562.76 Again, all of this is really about finding
+4565.22 the supplementation protocol
+that's ideal for you.
+4568.04 I should mention that whether or not
+4569.3 you're taking one or two
+or three of the components
+4571.79 of the sleep stack,
+4573.62 the ideal time to take those
+4574.75 is 30 to 60 minutes before bedtime,
+4577.1 especially if you haven't
+had anything to eat
+4579.11 for the three hours or so before bedtime.
+4581.06 I confess that oftentimes
+4582.53 I'll have a little bit of a
+snack late in the evening,
+4584.12 some berries or something.
+4585.56 I try not to eat too close to bedtime,
+4587.42 but some evenings just
+because of work schedule,
+4589.31 I'll get home late, be 9:00 p.m.,
+4591.29 and I'll eat a big meal
+4592.34 and then I'll take the
+sleep stack and fall asleep.
+4594.41 Every once in a while,
+that just so happens.
+4596.42 Nobody's perfect. Certainly I'm not.
+4599.27 But that sleep stack
+can be very beneficial.
+4601.88 And I do think that it's
+preferable to melatonin.
+4604.67 Here's the reason.
+4605.503 First of all, melatonin is a hormone
+4607.28 that you endogenously make.
+4608.6 You now know a lot about melatonin
+4610.25 and it's controlled by light,
+4612.02 meaning light inhibits
+it or eliminates it,
+4614.75 darkness promotes it.
+4616.91 And melatonin indeed
+can help us fall asleep,
+4621.11 but the dosages of melatonin
+4622.7 that are contained in
+most commercial products
+4624.44 is far, far, far greater
+4627.02 than what we would make endogenously.
+4628.25 So it's really supraphysiological.
+4630.89 So that's of concern
+4631.82 because melatonin is not just responsible
+4634.46 for making us sleepy and fall asleep.
+4636.86 It also does things
+4638.118 like interacts with other hormone systems,
+4641.03 testosterone and estrogen,
+4642.11 even in the puberty system, in kids.
+4644.747 Is taking melatonin every
+once in a while a problem
+4647.69 for adjusting to jet lag, et cetera?
+4649.67 Probably not. I would even say no.
+4651.83 But taking it chronically over time,
+4653.93 especially kids taking
+it chronically over time,
+4656.48 can potentially be problematic.
+4658.01 So at least in my opinion,
+these other supplements
+4660.23 are going to be preferable to melatonin.
+4662.69 Now, as I mentioned in the
+beginning of today's episode,
+4664.73 there are some other things
+4666.08 that I certainly take
+every once in a while
+4667.939 and that other people
+might consider taking
+4670.729 in addition to the sleep
+stack I talked about before
+4673.91 or in place of that sleep stack
+4675.74 if that sleep stack
+doesn't work well for them.
+4677.57 So every third or fourth night,
+4679.04 I will take two grams of glycine
+4681.71 and a hundred milligrams of GABA
+4683.69 in addition to the standard sleep stack
+4686.54 that I talked about before.
+4687.5 So I'm taking mag threonate,
+apigenin, and theanine,
+4689.801 and then I will also take two
+grams of glycine and GABA,
+4692.24 which I find greatly enhances
+my ability to get into sleep.
+4696.08 But the reason I only add glycine and GABA
+4699.41 every third or fourth night
+4701.0 is that if I take it too often,
+4702.5 I find that the entire sleep stack
+4704.09 doesn't work quite as effectively.
+4705.59 I don't know exactly why this is the case,
+4707.21 but in any event, that's what I do.
+4709.91 And more recently, I've
+also started using inositol,
+4713.6 in particular myo-inositol.
+4715.76 Every other night, I'll take
+900 milligrams of myo-inositol
+4719.33 in addition to mag threonate,
+apigenin, and theanine,
+4722.6 and not on the nights when
+I take glycine and GABA.
+4726.62 So I'm adding 900 milligrams of inositol
+4728.57 to the standard sleep stack
+4730.46 of mag threonate, theanine, and apigenin.
+4732.89 And what I find is not only
+does it greatly enhance
+4736.31 my ability to fall asleep quickly,
+4738.11 but if I wake up in the
+middle of the night,
+4739.79 which I often do to use the bathroom,
+4742.58 I find it very, very
+easy to fall back asleep.
+4745.49 Whereas when I don't take
+inositol every other night or so,
+4750.29 I find that if I wake up
+in the middle of the night,
+4751.76 it's a bit more of a
+challenge to fall back asleep.
+4754.37 So inositol has a number of different uses
+4756.95 that have been discussed
+in terms of mental health
+4759.56 and in terms of adjusting
+anxiety for its daytime use.
+4762.74 What I'm talking about
+4763.573 is taking 900 milligrams of myo-inositol
+4766.07 also 30 to 60 minutes before sleep
+4768.17 along with the standard sleep stack
+4769.43 and I found that to be
+immensely beneficial.
+4771.5 I also noticed that it
+has a pretty long tail
+4774.17 of anxiety suppression throughout the day.
+4777.23 And I'm not somebody who
+suffers from anxiety,
+4779.66 but I have to say it just has led me
+4781.76 to feel a bit calmer throughout the day,
+4783.53 and I don't really know how to say this
+4785.45 except in subjective terms,
+4786.56 to feel a bit more buffered against
+4788.54 or resilient against stress events.
+4790.43 And if you look at the
+literature on inositol
+4792.59 and its interactions
+4793.49 with the serotonin
+system and other systems,
+4796.19 that all makes sense as to
+why that would be the case.
+4798.32 So we'll provide links to
+our so-called sleep kit,
+4800.42 which is part of our
+Neural Network Newsletter.
+4802.25 It's a zero-cost newsletter
+4803.36 where you can access this
+information about supplements
+4805.82 and other behavioral tools
+for sleep in list form.
+4808.61 But that sleep kit doesn't include
+4810.44 some of the newer information
+4811.46 that I've provided this episode,
+4812.72 in particular, the
+information about inositol
+4815.21 and what I'm finding
+4816.043 to be the very beneficial use of inositol
+4819.8 for the ability to fall back asleep
+4822.23 after waking up in the
+middle of the night,
+4823.58 which is something that a
+lot of people struggle with.
+4825.65 Now, that's supplementation
+for falling and staying asleep,
+4828.32 but we can return to the behavioral tools
+4831.53 also as powerful levers and tools
+4833.84 for falling asleep and
+getting back to sleep.
+4836.54 And again, we look to
+NSDR, non-sleep deep rest,
+4840.32 or the Reveri app as a way to do that.
+4842.87 As I mentioned earlier,
+4843.703 the Reveri app has been
+developed on the basis
+4846.83 of really high-quality,
+peer-reviewed research,
+4849.23 both clinical and non-clinical,
+4851.39 by my colleague, David Spiegel,
+4852.86 who's our associate chair
+of psychiatry at Stanford.
+4855.14 It's a wonderful tool.
+4856.55 It does carry a cost after
+the initial seven-day trial.
+4860.39 I can tell you what the cost on that is
+4862.522 so you can get a sense
+4864.98 because I do realize that
+anything that carries a cost,
+4867.59 for some people, it won't be accessible.
+4869.42 Right now, Reveri,
+4871.01 and I should just mention,
+4871.91 they didn't pay us for an ad read.
+4873.17 I'm just telling you what they told me
+4874.67 so that I can accurately report
+what it costs to use Reveri.
+4879.38 They have a monthly subscription
+4881.03 to use the Reveri app at 14.99.
+4883.22 You do get the seven-day free trial.
+4885.05 They have a yearly subscription of 99.99
+4888.17 with a seven-day free trial.
+4889.25 And they have a lifetime
+purchase, one-time purchase,
+4891.41 of 249 with no trial.
+4893.3 It right now is only available
+for Apple, not for Android,
+4896.12 but they are, yes, going
+to have it available
+4898.19 for Android soon.
+4899.57 There's a signup list there.
+4901.34 I should mention that while
+the cost might seem high,
+4905.36 if you compare that cost
+to, say, supplements,
+4907.78 or you compare that cost to a
+poor night's sleep over time,
+4910.67 the cost, at least to me,
+seems somewhat modest,
+4914.42 certainly within range
+for a number of people.
+4916.34 But I acknowledge not within
+range for other people,
+4919.04 which is why I also want
+to point to zero-cost tools
+4922.88 and the zero-cost tool for
+getting asleep, staying asleep,
+4926.12 and falling back asleep
+4927.56 is going to be NSDR.
+4929.66 We'll put a link to a
+non-sleep deep rest protocol
+4931.55 that's available on YouTube,
+4932.57 so available to anybody zero cost
+4934.4 provided you have a internet connection.
+4936.83 Again, dim the screen
+4937.79 if you're going to turn
+that on late at night.
+4939.29 And there are a number of
+other yoga nidra scripts
+4942.68 and apps and sources around the internet,
+4945.62 in particular, on YouTube,
+4946.46 that are zero cost that you could use
+4948.35 if the Reveri app is
+outside your price range
+4950.66 or is not preferable to you, et cetera.
+4954.05 When I wake up in the middle of the night,
+4955.43 it's usually to use the restroom.
+4956.57 I'll go use the restroom.
+4957.403 I'll keep the lights as dim as possible.
+4958.88 I'll get back into bed.
+4960.26 And if I find that it's
+easy to fall asleep,
+4962.39 great, I'm asleep.
+4963.53 And if not, then I will
+generally plug in the Reveri app.
+4966.56 They have a fall back asleep hypnosis,
+4968.701 and 99 times out of a hundred,
+4971.69 I'm back asleep within minutes
+4973.16 and I don't wake up until morning.
+4974.66 Now, very briefly, I just
+want to touch on some tools
+4977.12 that are very commonly used
+by many people out there,
+4979.22 and believe it or not,
+4980.06 there is peer-reviewed science
+on things like eye masks.
+4983.03 Do eye masks improve your
+ability to stay asleep?
+4985.97 And indeed, they do,
+4987.44 provided they are not too tight
+4989.15 and provided that the room is cool enough.
+4991.88 Why?
+4992.713 Well, eye masks cover the
+upper half of your face,
+4994.55 which is where glabrous skin is localized.
+4997.61 Remember, palms of the
+hands, bottoms of the feet,
+4999.29 glabrous skin on the face.
+5001.03 So a lot of people who
+wear eye masks will wake up
+5003.7 because they're too warm
+if the room is too warm.
+5005.62 So if you're going to use an
+eye mask to keep light out,
+5008.65 definitely make sure the room
+5010.12 and your sleeping environment
+and your bed are cool enough
+5012.7 in order for you to stay asleep.
+5014.32 In addition, I get a lot of
+questions about earplugs.
+5016.78 Here's the deal with earplugs.
+5018.07 Some people find that
+earplugs are very beneficial
+5019.99 because, of course, they
+prevent the entrance of sound
+5023.83 into the ear that could wake us up.
+5025.72 But some people find that the sound
+5027.64 of their own beating of their
+own heart can be disruptive
+5030.82 and they get a sort of
+humming in their head
+5032.77 when they have those earplugs in.
+5034.54 I'm one such person.
+5035.47 Although, I have family members
+5036.76 that like using earplugs when they sleep.
+5038.47 So it's really up to you.
+5039.67 You have to see whether
+or not those earplugs help
+5042.25 or disrupt your sleep.
+5043.66 For me, they're no good.
+5045.25 For some people, they really enjoy them.
+5046.93 I don't use an eye mask
+5048.22 unless I'm sleeping in a
+really bright environment
+5050.01 or I need to sleep on a plane
+and things of that sort.
+5053.65 Other tools that I'll just mention
+5054.563 that have peer-reviewed
+research to support them.
+5057.64 Elevating your feet either with a pillow
+5059.5 or by elevating the end of your bed
+5061.6 by about three to five degrees
+5063.34 can be really beneficial for
+increasing the depth of sleep
+5066.37 because of the so-called
+glymphatic washout.
+5068.44 This is the movement of
+and circulation of fluids
+5070.78 in your brain at night
+5073.09 that lead to more wakefulness
+5074.53 and actually can improve
+cognitive function
+5076.45 and a number of other things
+related to brain health.
+5079.27 There's one caveat to that.
+5080.71 For people that suffer from acid reflux,
+5083.05 having your ankles
+elevated above your chest
+5085.96 or above your heart in
+the middle of the night
+5087.61 can actually exacerbate that acid reflux.
+5089.89 You want to do the opposite.
+5091.03 You want to actually elevate
+the head side of your bed
+5094.09 by about three to five degrees.
+5095.56 Now, one of the common
+causes of sleep disruption
+5098.08 that has tremendously detrimental effects
+5100.9 is so-called sleep apnea.
+5102.52 So this is basically bouts of suffocation
+5105.16 or lack of oxygenation during sleep.
+5107.35 This is particularly the case
+5108.91 for people that are very heavyset,
+5110.5 and that heavyset could be from obesity,
+5112.06 it could also be heavyset
+from having too much muscle.
+5114.55 A lot of people who are
+carrying too much muscle
+5117.01 will actually have sleep
+apnea without realizing it.
+5119.11 Sleep apnea is actually very dangerous.
+5121.27 It's associated with a number
+of cardiovascular issues.
+5123.82 It's associated with sexual dysfunction.
+5125.41 It's associated with
+issues with cognition.
+5127.78 Sleep apnea is bad.
+5128.74 A lot of people will have to use the PAP,
+5130.78 which is a, it's a device.
+5132.61 It looks like a sort of like
+a snorkel mask or a dive mask.
+5136.24 It's a whole apparatus that
+people will go to sleep with.
+5140.14 However, many people can relieve
+themselves of sleep apnea
+5143.65 provided it's not too serious
+5144.76 and can sleep much better,
+5146.5 in fact, I think all people
+can sleep much better,
+5148.36 if they train themselves
+5149.77 to be nose breathers while they sleep.
+5152.26 There are a lot of reasons
+to be a nose breather
+5153.88 unless you are breathing
+very hard due to exercise
+5156.94 or talking or eating.
+5158.74 That was all covered
+in James Nestor's book,
+5160.997 "Breath: The New Science of a Lost Art."
+5162.91 It's been covered in a
+number of different podcasts.
+5164.83 We've talked about it
+on this podcast as well.
+5167.47 It's a good idea to be a nose breather
+5168.88 unless you need to mouth breathe.
+5170.47 And it's a great idea, it's a superb idea,
+5172.99 to be a nose breather in sleep.
+5175.99 And one way to really get good at that
+5177.6 is to take a little bit of medical tape
+5179.08 and to tape your mouth
+shut before going to sleep.
+5181.36 You heard me right.
+5182.193 Put some medical tape over your mouth
+5183.82 and force yourself to
+nose breathe during sleep.
+5186.07 It also prevents snoring in most cases.
+5188.83 Really offsets sleep apnea.
+5191.65 Sleep apnea, again, being a
+very serious health concern.
+5194.89 I should also mention as a tool
+5196.78 that if you have a hard time
+being a nose breather in sleep,
+5199.93 you can try doing your
+cardiovascular exercise,
+5202.48 at least the lower-intensity
+cardiovascular exercise,
+5205.27 through purely nasal breathing.
+5207.49 And one way to do that, again,
+is to tape your mouth shut
+5209.95 or put a gulp of water in your mouth,
+5211.18 but don't actually swallow
+that mouth full of water,
+5214.33 or to use a mouthpiece
+5216.04 or just deliberately
+keep your mouth closed
+5218.17 and insist on breathing through your nose.
+5220.0 Most people find
+5220.833 that when they start doing
+cardiovascular exercise that way,
+5222.94 it's really challenging at first,
+5224.95 but over time, they
+actually can feel quite calm
+5227.44 and still can generate
+a lot of physical effort
+5229.99 purely using nose breathing.
+5232.24 The reason that doing nose breathing
+5233.83 during cardiovascular exercise
+5235.27 translates to being a
+nose breather during sleep
+5237.64 is that your sinuses actually
+can dilate, they're plastic,
+5241.03 and over time,
+5241.863 plastic meaning they're malleable that is,
+5245.23 and they can become wider.
+5246.67 You're not going to get giant
+nostrils. Don't worry about it.
+5248.53 Your airways within your skull,
+5251.38 'cause that's what the sinuses really are,
+5253.06 these little passages within the skull,
+5254.83 and, of course, within the nasal passages,
+5256.75 will dilate and will allow you
+5258.91 to breathe more easily through your nose.
+5260.26 But for those of you
+5261.37 that are waking up in
+the middle of the night
+5262.96 breathing on your back [breathing heavily]
+5264.91 or your partner is telling you that
+5266.2 or other people are telling you that
+5267.3 or you're that person on the plane
+5268.54 with your mouth hanging open and drooling
+5270.22 and your mouth breathing,
+5271.87 terrible, terrible,
+terrible for health reasons
+5273.97 and other reasons,
+5274.81 put some a medical tape over your mouth,
+5276.49 learn to be a nose breather during sleep.
+5278.29 Your sleep will improve
+5279.52 and your daytime feelings
+5281.23 of wakefulness and focus will improve,
+5282.91 your cardiovascular health will improve,
+5285.13 and on and on and on.
+5286.21 So now we've largely covered
+the tools that one could use
+5288.94 to get and stay asleep,
+5290.74 and we talked about exercise,
+5291.82 we talked about temperature,
+5292.75 we talked about supplements,
+5294.58 and we talked about, of course,
+5295.51 keeping the sleeping environment
+5297.22 both cool and as dark as possible.
+5300.82 I do want to mention a
+couple of broad contour tools
+5304.36 that will impact your ability
+5306.07 to sleep really well on a consistent basis
+5308.59 and the one that impacts
+the most number of people
+5310.78 is weekends.
+5313.0 Turns out that most
+everybody feels the impulse
+5315.64 to sleep in on the weekend,
+5316.9 especially if they've been
+out late the night before.
+5318.97 However, the data show
+5320.74 that keeping relatively
+consistent sleep and wake times
+5324.28 is really going to enhance
+5325.63 the quality and depth of your sleep.
+5327.88 So if you stay out late one night,
+5330.01 sure, you might allow yourself
+5331.3 to sleep in an extra hour or so,
+5332.92 but you should really try
+to avoid sleeping in longer
+5336.79 than an hour beyond your
+normal wake-up time.
+5340.27 That's right.
+5341.103 If you normally get eight hours of sleep
+5342.64 and you wake up at 7:00 a.m.,
+5344.8 probably okay to wake up
+at 8:00 a.m. on the weekend
+5348.25 or after a night out the night before,
+5350.83 but try not to sleep until 11 or noon
+5353.14 thinking that you're going
+to catch up on your sleep
+5355.06 or that's better than waking
+up at a consistent time.
+5357.43 It would be better to wake
+up at a consistent time
+5359.47 plus or minus an hour
+5360.64 and get a nap in the afternoon
+5362.08 provided that nap, again, isn't too long.
+5365.14 And the other tool
+5366.52 that relates to nights that
+you stayed out too late
+5368.86 or that you feel like you
+want to sleep in a bit more
+5371.77 in the morning
+5372.603 is if you are going to wake
+up at your consistent time.
+5376.15 So for example, normally
+you go to bed at 10
+5379.18 and you wake up at six.
+5380.23 Let's say that's your schedule.
+5382.33 And you end up staying up late one night
+5384.25 until midnight or one for whatever reason
+5386.829 and the next morning you wake up at seven
+5389.32 and you're still groggy.
+5391.54 In that case, you absolutely want to wait
+5394.15 to ingest caffeine 90 to
+120 minutes after waking.
+5397.48 You really do because there are good data
+5399.54 to support the fact that
+caffeine can disrupt sleep.
+5403.81 Yes, that's obvious.
+5405.01 Caffeine especially disrupts sleep
+5406.99 if you take it too late in the day.
+5408.91 That's very obvious as to
+why that would be the case.
+5411.52 But caffeine especially disrupts
+5414.46 what's called compensatory sleep.
+5416.65 So if you start changing your waking time
+5419.56 and your to sleep time
+5420.94 and you start using additional caffeine
+5423.19 to offset the sleepiness
+that you're experiencing
+5425.32 because of those late nights out,
+5426.82 well, that's when you
+really start to disrupt
+5428.92 not just your nighttime sleep,
+5430.36 but your daytime compensatory
+sleep, so those naps.
+5432.61 You also are disrupting the
+total architecture of sleep
+5436.21 in the early morning hours.
+5437.41 There's a lot of great science
+that's been put to this,
+5440.23 or that's emerged from this, I should say.
+5442.18 So try and keep those sleep-wake
+times relatively constant
+5445.39 plus or minus an hour,
+5446.47 and try as much as you can
+to delay that caffeine intake
+5450.43 90 to 120 minutes after waking every day,
+5452.98 but especially on days where you wake up
+5455.23 and you feel you haven't
+gotten enough sleep.
+5456.61 In that case, I highly recommend
+5458.17 you just use NSDR or the Reveri app
+5460.78 or some other form of deep relaxation
+5463.51 to try and compensate
+for the lack of sleep,
+5466.69 knowing, of course, that
+there's no complete compensation
+5470.59 for lack of sleep.
+5471.423 There are just things that we can do
+5472.63 to partially offset lack of sleep.
+5474.82 Now, a couple of final
+points and additional tools
+5477.28 that I think are going to
+be useful to everybody,
+5479.77 in particular, people
+who have young children
+5482.71 or are following a shift work schedule
+5485.47 or who are experiencing jet lag.
+5488.56 Keep in mind, jet lag
+can be due to travel,
+5491.26 which is obvious,
+5492.093 but jet lag can also be due
+5493.57 to getting woken up in the
+middle of the night, right?
+5495.67 Your body doesn't know the difference
+5496.72 between flying to a new time zone
+5498.85 and getting woken up in
+the middle of the night.
+5501.01 The tool that I'd like to offer you
+5502.26 is an understanding of something
+called temperature minimum.
+5505.24 And I'm going to make
+this as simple as possible
+5506.95 and I'm confident that
+everyone can understand this
+5509.08 even if you don't have
+any science background.
+5511.99 Here's the question you
+need to ask yourself.
+5514.45 What is your typical wake-up time, okay?
+5518.2 What's your typical wake-up time?
+5519.31 If for you, your typical
+wake-up time is 7:00 a.m.
+5521.95 plus or minus half an hour,
+5524.17 and that could be 7:00 a.m.
+5525.13 because you set an alarm clock
+5526.45 or it could be 7:00 a.m.
+5527.38 because you naturally wake up
+at 7:00 a.m., doesn't matter,
+5530.05 if your typical wake-up
+time most days is 7:00 a.m.,
+5533.71 well, then your temperature
+minimum is 5:00 a.m.
+5536.59 That's right, your temperature
+minimum is not a temperature.
+5538.96 It's a time within your 24-hour cycle.
+5542.89 Approximately two hours before
+your typical wake-up time,
+5546.13 your body is at its lowest temperature
+5548.56 that it will ever be in the 24-hour cycle.
+5551.05 That's why it's called
+your temperature minimum.
+5553.45 Here's what you need to know
+about your temperature minimum.
+5555.67 If you view bright light,
+exercise, or drink caffeine
+5560.62 or all of the above
+5562.24 in the two to four hours before
+your temperature minimum,
+5567.4 that will delay your clock.
+5569.56 What that means when
+I say delay your clock
+5571.42 is it will make you want
+to go to sleep later
+5574.12 and wake up later the next night, okay?
+5576.79 So let's run this exercise for you,
+5578.77 the person waking up at 7:00
+a.m. on a regular basis,
+5582.04 I can predict with almost certainty
+5584.47 that your body is going to
+be at its lowest temperature
+5587.41 at 5:00 a.m..
+5588.7 So what that means
+5589.96 is that if you get up at
+3:00 a.m. or at 4:00 a.m.
+5594.46 and you flip on bright
+lights in your house
+5596.62 or in your bathroom
+5597.82 or you have a cup of coffee
+5598.99 or you do any kind of exercise
+5600.31 or you get up and head to the airport,
+5602.77 the mechanisms in your brain and body
+5605.26 that control timing of sleep
+5606.79 and timing of waking will shift.
+5608.2 They will delay.
+5609.34 It's as if you put your clock
+on hold for a little while
+5612.49 and then let it start again, okay?
+5614.17 That's the simplest way I can describe it.
+5615.73 And you will tend to
+want to go to sleep later
+5618.67 and wake up later the following night.
+5621.49 Now, the opposite is true
+5623.65 if you view bright light, drink caffeine,
+5627.04 or exercise or socialize, I should say,
+5630.04 in the hours immediately after
+your temperature minimum.
+5633.76 So for you in this example,
+5635.62 the person who's waking up at 7:00 a.m.,
+5637.45 your temperature minimum is 5:00 a.m.,
+5639.28 if you view bright light, exercise,
+5641.11 maybe have a snack, maybe
+not, or socialize, move about,
+5644.984 at 5:30 or 6:00 a.m. or 7:00 a.m.
+5648.58 That will tend to phase
+advance your clock.
+5652.33 It will tend to basically make you
+5654.4 want to go to bed earlier
+and wake up earlier
+5657.19 the following night.
+5658.15 Now, I used this example
+5659.17 of a person who wakes up
+typically at 7:00 a.m.
+5661.39 whose temperature minimum is 5:00 a.m.,
+5662.98 but, of course, you need
+to adjust that for yourself
+5665.71 if you're somebody who
+wakes up at 9:00 a.m.
+5666.607 or at 5:00 a.m. et cetera.
+5668.71 Why do I offer this as a tool?
+5670.06 Well, this is an immensely powerful tool
+5672.55 if, for instance, you
+are headed to a time zone
+5674.74 where you need to go to bed earlier
+5676.03 and wake up earlier once you
+arrive in that time zone.
+5678.73 What it means is in the day
+or two before you leave,
+5681.52 you can force yourself to
+exercise, drink caffeine,
+5686.5 maybe even to eat a meal
+early in the morning,
+5688.99 or maybe you still fast
+early in the morning
+5690.307 and that's really up to you,
+5691.75 but you force yourself
+to do the activities
+5694.54 that are going to phase
+advance your clock.
+5697.39 Whereas if you're traveling to a time zone
+5699.28 where you are going to need
+to go to sleep much later
+5702.13 and you're going to need
+to wake up much later
+5705.04 or even a little bit later,
+5706.33 you can do those things
+5707.44 in the hours prior to
+your temperature minimum.
+5710.74 Now, for those of you
+that work shift work,
+5712.51 this can be especially useful,
+5714.34 but I want to say a couple
+of things about shift work.
+5717.52 There are a lot of details
+about shift work and jet lag
+5719.65 in an episode that I did
+5720.85 specifically about jet lag and shift work.
+5722.86 So for the deep dive, go there,
+5724.15 but suffice to say this for now,
+5727.57 if you are going to do shift work,
+5729.16 try to stay on the same shift
+for two weeks at a time.
+5732.04 It's very detrimental to brain and body,
+5734.35 it can even be horrifically challenging
+5737.74 for your brain and body
+in a number of ways,
+5739.51 if you are switching on
+the so-called swing shift,
+5742.42 you know, you're working
+three days the night shift,
+5743.89 three days the day shift,
+5744.723 three days the night
+shift, three days the...
+5745.99 Try and stay on the same
+schedule as much as possible.
+5749.02 And I should say for everybody,
+5750.94 people who are jet lagged and
+engaged in shift work or not,
+5754.84 but just for everybody,
+5755.92 if you need to be awake in
+the middle of your sleep cycle
+5759.7 and it's not just a quick
+departure to the bathroom
+5762.22 and back to bed,
+5763.48 but you really need to be awake,
+5764.56 you know, you're feeding a baby
+5765.79 or you're taking care of a loved one
+5768.16 or you need to do
+something that's critical
+5769.57 or you need to work,
+5770.403 if possible, use red light, okay?
+5773.02 Now, for shift workers
+who really are trying
+5775.39 to stay awake all night and sleep all day,
+5777.49 this is not going to be ideal,
+5778.84 but for people that, for instance,
+5780.61 need to stay up really late one night
+5782.02 or wake up especially
+early, like 3:00 a.m.,
+5784.12 to prepare for an exam that
+you're just not ready for
+5786.52 or to head to the airport, et cetera,
+5789.34 using red light has been shown
+5791.08 to allow people to be awake enough
+5793.27 and obviously see what they need to see
+5794.8 in order to perform
+their activities safely
+5797.08 but it does not seem to
+disrupt the cortisol rhythm
+5800.68 that is the healthy,
+normal cortisol rhythm.
+5803.35 Now, I realize this is
+kind of an advanced tool
+5805.36 and many people won't have access to this.
+5806.92 There are a number of different
+sources for red lights now.
+5810.04 Companies like Joovv or KOZE light.
+5813.01 These are different brands.
+5814.12 I don't have any affiliation
+5815.14 to any of these brands, I should say.
+5816.34 There are a number of different
+5817.6 red light bulb sources out
+there and commercial sources
+5821.23 that you can explore if you want.
+5822.7 But understanding this temperature minimum
+5824.74 is really powerful
+5826.15 because it allows you
+to adjust your schedule
+5827.92 depending on travel,
+5828.79 depending on changing work
+schedules or school schedules.
+5831.52 And if you're not a morning person,
+5832.87 you can use the tools related
+to temperature minimum
+5835.63 to really become a
+morning person over time,
+5838.57 and it actually is pretty easy.
+5840.13 And I talked about this
+in a previous episode
+5842.35 but I'll just mention
+that there have been shown
+5844.3 to be important, positive
+effects on cognition,
+5847.24 on even grip strength
+and physical performance,
+5849.67 for people that are early morning risers,
+5852.88 and that's especially true for night owls
+5855.43 that deliberately shift
+themselves to become early risers.
+5858.7 Okay, so that's a lot of
+information and a lot of tools
+5860.887 and I suppose the one set of tools
+5862.63 that I really didn't
+drill into too deeply,
+5865.27 the ones related to
+jet lag and shift work.
+5867.07 And again, please check out the episode
+5869.23 on jet lag and shift work
+if that's relevant to you.
+5872.14 But I think for most people
+who are going to sleep at night
+5875.92 and are trying their best
+to sleep well at night
+5878.5 and are trying their best
+5879.55 to wake up in the morning at whatever hour
+5881.56 and stay alert and focused
+throughout the day,
+5883.3 maybe with a brief nap,
+5884.83 the tools that I talked about today
+5886.09 related to light,
+temperature, food, exercise,
+5889.06 caffeine, supplements, and digital tools,
+5892.39 I'm hoping will prove to
+be very useful for you.
+5895.42 They certainly are all supported
+5897.25 by excellent peer-reviewed research.
+5899.5 And I should just emphasize again
+5901.06 that most of the tools we talked about
+5902.59 are completely zero cost.
+5904.51 So while the supplements and
+some of the digital tools
+5906.94 do carry some cost to them,
+5909.07 I really want to encourage everybody
+5910.39 to get your behaviors right.
+5912.25 Get all of the things related
+to your timing of exercise
+5915.28 and type of exercise
+5916.806 in the best possible
+order and time of day.
+5920.17 We talked about this critical
+period early in the day
+5922.45 and then another critical
+period in the middle of the day
+5924.46 and the late afternoon
+5925.39 and then this third critical period
+5926.59 in the middle of the night.
+5927.55 Different tools for the
+different three critical periods.
+5930.395 I promise that if you
+start to implement some,
+5932.905 or ideally, all of these tools,
+5935.47 the quality of your sleep
+will increase tremendously.
+5938.38 And of course, in doing so,
+5940.36 the quality of your daytime alertness
+5942.13 and your ability to focus
+will improve tremendously.
+5944.56 Again, sleep is the absolute foundation
+5948.49 of your mental health,
+your physical health,
+5950.32 and your performance in all endeavors.
+5952.27 So if there's one area of your life
+5954.94 to really focus on and try and optimize,
+5957.7 if your goal is to be
+happier and more productive
+5960.1 and just to have a better life overall,
+5962.95 I can confidently say
+5964.36 that sleep is really
+the thing to optimize.
+5967.51 If you're learning from
+and/or enjoying this podcast,
+5969.61 please subscribe to our YouTube channel.
+5971.35 That's a terrific zero-cost
+way to support us.
+5973.54 We also now have a clips channel.
+5974.89 It's Huberman Lab Clips.
+5976.15 Please subscribe to our clips channel
+5977.62 for short outtakes from podcast episodes.
+5979.84 Please also subscribe to the
+podcast on Spotify and Apple.
+5982.93 And on both Spotify and Apple,
+5984.55 you can leave us up to a five-star review.
+5986.74 If you have questions about
+the content of these podcasts
+5989.44 or you have suggestions about
+topics you'd like us to cover
+5991.78 or guests you'd like us to invite
+5992.92 on The Huberman Lab Podcast,
+5994.42 please put all that in the
+comment section on YouTube.
+5997.12 We do read all those comments.
+5999.49 In addition, please check
+out the sponsors mentioned
+6001.41 at the beginning of today's podcast.
+6002.88 That's the best way to
+support this podcast.
+6005.55 During today's podcast
+6006.54 and on many previous episodes
+of The Huberman Lab Podcast,
+6008.94 we talked about supplements.
+6010.05 While supplements aren't
+necessary for everybody,
+6012.21 many people derive
+tremendous benefit from them
+6014.13 for things like sleep and focus
+6015.78 and hormone support and so forth.
+6017.46 For reasons mentioned at the
+beginning of the episode,
+6019.38 we are now partnered with
+Momentous supplements.
+6021.66 If you go to livemomentous.com/huberman,
+6024.36 you'll see many of the
+supplements described on today's
+6026.55 and other episodes of
+The Huberman Lab Podcast.
+6028.89 Again, all as
+single-ingredient formulations.
+6031.26 They ship internationally,
+6032.79 their quality is exceedingly high,
+6034.8 and by largely focusing
+on single ingredient
+6038.73 and various dosages of
+different supplements,
+6041.55 you can create the optimized
+supplement protocol for you.
+6044.67 If you're not already
+following us on social media,
+6047.37 we are @hubermanlab on Instagram
+6049.2 and also @hubermanlab on Twitter.
+6051.18 There, I cover science
+and science-related tools,
+6053.7 some of which overlaps
+6054.78 with the content of The
+Huberman Lab Podcast,
+6056.7 and other of which,
+6057.84 I should say much of which,
+6058.71 is distinct from the information
+covered on this podcast.
+6061.5 If you're interested
+in obtaining protocols
+6063.75 or summaries from these podcasts,
+6065.76 you can get those completely free of cost
+6067.68 by going to hubermanlab.com.
+6069.15 Go to the menu at hubermanlab.com.
+6071.25 Go to the Neural Network Newsletter.
+6072.9 You simply provide us your email
+6074.97 and you'll get the
+Neural Network Newsletter
+6076.53 for free each month.
+6077.88 You can also find previous newsletters
+6079.86 there at hubermanlab.com.
+6081.883 For instance, Toolkit for Sleep
+6084.06 or Deliberate Cold Exposure
+and so on and so forth.
+6086.49 Again, we don't share
+your email with anybody.
+6088.89 So our privacy policy is
+made very clear there.
+6091.35 And it's completely zero cost.
+6093.0 So thank you for joining
+me today for our discussion
+6095.13 about tools for optimizing sleep,
+6097.11 and in doing so, tools for
+optimizing not just sleep,
+6101.37 but your daytime feelings
+of alertness and focus
+6104.34 and your overall health.
+6105.81 And last but certainly not least,
+6107.91 thank you for your interest in science.
+6109.667 [bright music]

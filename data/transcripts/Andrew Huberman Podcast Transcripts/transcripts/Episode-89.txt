@@ -1,0 +1,4089 @@
+0.38 - Welcome to the Huberman Lab Podcast,
+2.42 where we discuss science
+3.427 and science-based tools for everyday life.
+5.875 [gentle music]
+9.22 I'm Andrew Huberman,
+10.17 and I'm a Professor of
+Neurobiology and Ophthalmology
+12.72 at Stanford School of Medicine.
+14.66 This podcast is separate
+15.7 from my teaching and
+research roles at Stanford.
+18.0 It is however, part of
+my desire and effort
+20.0 to bring zero cost to consumer
+information about science
+22.91 and science-related tools
+to the general public.
+25.61 In keeping with that theme,
+26.71 I'd like to thank the
+sponsors of today's podcast.
+29.58 Our first sponsor is Roka.
+31.73 Roka makes sunglasses and eyeglasses
+33.73 that in my opinion are the
+absolute best out there.
+37.4 The sunglasses and eyeglasses
+that are made by Roka
+39.64 have a number of properties
+that are really unique.
+41.56 First of all, they're
+extremely lightweight,
+43.76 you never even notice
+that they're on your face.
+45.85 Second, the optical clarity is fantastic.
+49.03 One of the things that's
+really hard to accomplish,
+50.95 but that Roka succeeded in accomplishing
+53.22 is making sunglasses that you can wear
+55.14 in lots of different environments.
+56.95 As you move from bright to
+shadowed regions for instance,
+60.46 or as the amount of sunlight changes
+62.8 many eyeglasses will make it such
+64.41 that it's hard to see your environment
+65.72 and you need to take the eyeglasses off,
+67.29 or you can't see or detect borders.
+69.06 With Roka sunglasses,
+all of that is seamless,
+72.03 they clearly understand
+the adaptation mechanisms
+75.96 and habituation mechanisms,
+77.12 all these fancy details
+about the human visual system
+79.52 have allowed them to design a sunglass
+81.67 that allows you to be in any environment
+83.25 and to see that
+environment extremely well.
+86.53 The eyeglasses are terrific,
+87.91 I wear readers at night
+89.21 and again, they just make the
+whole experience of reading
+92.44 or working on a screen
+at night very, very easy,
+95.64 very easy on the eyes.
+96.85 The aesthetic of the eyeglasses
+98.12 and sunglasses is also suburb.
+100.15 You know, I chuckle sometimes
+101.25 when I see sports frames
+or sports glasses,
+103.58 a lot of them just look
+ridiculous frankly,
+105.58 but the Roka eyeglasses and sunglasses
+107.95 have a terrific aesthetic,
+109.13 they have a huge variety to select from.
+111.22 If you'd like to try Roka glasses,
+112.76 you can go to Roka,
+113.94 that's roka.com and
+enter the code Huberman
+117.32 and you'll get 20% off your first order,
+119.54 that's roka.com and
+enter the code Huberman
+123.01 to get 20% off your first order.
+125.23 Today's podcast is also
+brought to us by InsideTracker.
+128.723 InsideTracker is a
+personalized nutrition platform
+131.37 that analyzes data from your blood and DNA
+134.18 to help you better understand your body
+135.77 and help you reach your health goals.
+137.93 I'm a big believer in getting
+regular blood work done
+140.56 for the simple reason
+that many of the factors
+143.29 that impact your immediate
+and long-term health
+145.49 can only be detected from
+a quality blood test.
+148.95 One of the major problems
+with blood tests however
+151.36 is that oftentimes you'll
+get information back
+154.2 about levels of metabolic
+factors, hormones, et cetera,
+157.25 and there won't be any directives
+158.65 about what to do with that information.
+160.75 With InsideTracker, it
+makes all of that very easy.
+163.77 First of all, they can come to your home
+165.48 to do the blood test and DNA test
+167.21 or you can go to a local clinic,
+169.48 they make that very easy.
+170.78 Second of all, when you
+get the information back
+173.28 about the levels of hormones,
+174.58 and metabolic factors, and
+other things in your blood
+177.03 it gives you simple directives.
+178.35 They have a dashboard
+that allows you to assess
+181.07 for instance, whether or not
+you ought to make changes
+183.2 in your nutrition, or
+changes in your exercise,
+185.59 or changes in your sleep regimen,
+187.34 any number of different lifestyle factors
+189.02 that can help bring the
+markers and the various factors
+192.44 in your blood and DNA to
+the appropriate levels.
+195.54 So, really they're putting you
+197.0 in the driver's seat for your health.
+198.88 In fact, one of the
+listeners of this podcast
+201.52 contacted me recently and said
+I took an InsideTracker test,
+205.1 I felt like I was in great health,
+206.66 but I noticed from the test
+208.37 that I had high CRP, C-reactive protein.
+211.15 C-reactive protein is a
+marker that if it's too high
+214.13 is a cautionary note
+216.32 about various cardiac
+and even eye diseases,
+219.53 so it's something that they
+are now taking actions on
+222.39 as a consequence of getting
+their blood work done
+224.56 and taking the InsideTracker test.
+225.94 So, I think that's just
+one of many examples
+228.36 that we hear about.
+229.32 I have examples from my own life
+230.62 for instance of different
+factors in my blood being off
+233.227 and making adjustments to nutrition
+235.55 and other aspects of my life
+236.68 that have allowed me to bring
+those into the proper range.
+239.22 So, if you care about your health
+240.609 InsideTracker may very
+well be right for you.
+242.97 If you'd like to try InsideTracker
+244.92 you can go to insidetracker.com/huberman.
+247.94 And if you do that, you'll get 25% off
+250.07 any of InsideTracker's plans,
+251.86 just use the code Huberman at checkout.
+254.32 Today's episode is also brought
+to us by Athletic Greens.
+257.36 Athletic Greens is an all-in-one vitamin,
+259.58 mineral probiotic drink.
+261.63 I've been using Athletic Greens since 2012
+264.8 so I'm delighted that they're
+sponsoring the podcast.
+267.55 Athletic Greens is terrific
+268.92 because it covers your nutritional bases.
+271.64 If I drink Athletic Greens once
+273.12 and I sometimes drink it twice a day,
+275.33 then I'm sure that all
+the vitamins I need,
+277.95 I'm getting those.
+278.783 All the minerals I
+need, I'm getting those,
+280.15 and the probiotics.
+281.67 There's now a ton of data
+283.34 showing that a healthy gut microbiome
+285.81 is vital to brain function,
+287.56 vital to immune function,
+288.88 and vital to all aspects of our health.
+291.29 So with Athletic Greens,
+you get the vitamins,
+293.21 the minerals, and the probiotics
+to cover all your bases.
+296.14 In fact, anytime people ask
+me what should they take
+299.18 or what could they do
+to support their health,
+301.19 provided that they
+already have their sleep
+302.88 and other aspects of their life in order,
+304.8 Athletic Greens is the
+thing that I recommend
+306.8 because it covers all the
+foundations, all the bases
+310.25 of what one really wants from a supplement
+312.41 without having to take a
+ton of different things.
+314.52 It also tastes great,
+315.8 almost everybody that tries it
+317.22 and then reported back to me has told me
+319.04 that they really liked the taste.
+320.39 I mix mine with water,
+321.61 a little bit of lemon and lime juice,
+322.91 and I really like the
+taste, it's delicious to me.
+325.31 I drink it once or twice a day.
+327.33 It's keto compatible,
+328.67 it's compatible with
+most fasting regimens,
+330.95 it's compatible with if you're a vegan
+334.52 or if you're not vegan, it's compatible
+335.98 with essentially every
+nutritional plan out there,
+337.93 so it's just a terrific
+all around supplement
+340.43 and benefit to one's health and diet.
+343.28 If you'd like to try Athletic Greens,
+344.71 you can go to athleticgreens.com/huberman.
+347.69 And if you do that, you'll
+claim a special offer,
+349.67 they'll give you five free travel packs
+351.31 that make it easy to
+mix up Athletic Greens
+353.1 while you're on the road,
+354.17 and they'll give you a year
+supply of vitamin D3, K2.
+358.16 Again, go to athleticgreens.com/huberman
+361.22 to claim that special offer.
+362.92 This month, we've been
+talking about the senses,
+365.23 how we detect things in our environment.
+368.32 The last episode was all about vision,
+370.7 how we take light and
+convert that information
+373.81 into things that we can perceive
+375.6 like colors, and faces, and motion,
+378.11 things of that sort
+378.943 as well as how we use
+light to change our biology
+381.8 in ways that are subconscious
+that we don't realize,
+384.24 things like mood, and metabolism,
+and levels of alertness.
+388.72 Today, we're going to talk
+about chemical sensing,
+391.58 we're going to talk
+about the sense of smell,
+394.36 our ability to detect
+odors in our environment.
+397.72 We're also going to talk about taste,
+399.68 our ability to detect chemicals
+402.31 and make sense of chemicals
+that are put in our mouth
+405.9 and into our digestive tract.
+407.81 And we are going to talk about chemicals
+409.77 that are made by other human beings
+412.27 that powerfully modulator
+the way that we feel,
+415.03 our hormones, and our health.
+417.51 Now, that last category are
+sometimes called pheromones.
+421.09 However, whether or not
+pheromones exist in humans
+424.17 is rather controversial,
+425.6 there actually hasn't been a clear example
+428.24 of a true human pheromonal effect,
+431.0 but what is absolutely
+clear, what is undeniable
+434.2 is that there are chemicals
+that human beings make
+438.1 and release in things
+like tears onto our skin,
+442.58 and sweat, and even breath
+that powerfully modulate
+447.12 or control the biology
+of other individuals.
+450.16 In fact right now, even if
+you're completely alone,
+453.72 your chemical environment
+internally is being controlled
+457.27 by external chemicals,
+459.16 your nervous system, and your
+hormones, and your metabolism
+462.37 are being modified by
+things in your environment,
+466.2 so we're going to talk about those.
+468.08 It's an absolutely fascinating
+aspect to our biology,
+471.35 it's one of our most primordial,
+474.09 meaning primitive aspects of our biology,
+476.45 but it's still very
+active in all of us today.
+480.56 This episode, believe it or not,
+481.74 will have a lot of tools,
+a lot of protocols.
+485.66 Even though I'm guessing most of you
+487.32 can probably smell your
+environment just fine,
+490.22 that you know what you like
+to eat and what tastes good,
+492.42 and what doesn't taste good to you,
+494.87 today's episode is going
+to talk about tools
+496.77 that will allow you to actually leverage
+499.55 these chemical sensing mechanisms,
+501.3 including how you smell
+503.61 not how you smell in
+the qualitative sense,
+506.007 but how you smell in the verb sense,
+508.21 the action of sniffing and smelling
+510.93 to enhance your sense of smell
+513.31 and to enhance your
+sense of taste as well,
+516.55 believe it or not, to
+enhance your cognition,
+519.01 your ability to learn and remember things.
+521.56 Everything we're going
+to talk about as always
+523.27 is grounded in quality
+peer-reviewed studies
+525.63 from some excellent laboratories,
+527.51 I'll provide some resources along the way,
+529.44 so that means tools and protocols
+531.1 and also basic information.
+531.933 You're going to learn
+a ton of neuroscience
+534.68 and lot of biology in general.
+536.81 And I think what you'll
+come to realize by the end
+539.16 is that while we are clearly different
+541.3 from the other animals,
+542.77 there are aspects to our
+biology that are very similar
+546.74 to that of other animals
+in very interesting ways.
+550.43 Before we dive into chemical sensing,
+552.66 I want to just briefly
+touch on a few things
+554.62 from the vision episode.
+556.39 One is a summary of a protocol.
+559.02 So, I covered 13 protocols last episode,
+561.93 if you haven't seen that
+episode, check it out.
+564.05 Those protocols will
+allow you to be more alert
+566.57 and to see better over
+time if you follow them.
+569.01 All of them are zero cost,
+570.12 you can find any and all
+of them at hubermanlab.com,
+573.35 there's a link to those videos
+and tools and protocols,
+576.61 everything is timestamped.
+579.33 The two protocols that I just
+want to remind everybody of
+583.69 are the protocol of near-far
+viewing that all of us
+588.67 regardless of age, should
+probably spend about five minutes
+593.11 three times a week, doing some
+near-far viewing exercises.
+596.77 So, that would be bringing a pen or pencil
+598.78 up close to the point where
+you're about to cross your eyes,
+601.42 but you don't cross your eyes
+603.13 and then out at some distance.
+604.84 And then look beyond that pen
+606.58 or other object that you're using
+609.28 off as far as you can into the distance.
+611.12 It would be great if you could
+do this on a balcony or deck
+613.28 and then look way off in the distance
+614.9 and then bring it back in.
+616.15 This is going to exercise
+that accommodation reflex,
+619.08 the change in the shape of the lens
+621.01 can help offset a number of things
+623.33 including myopia, near-sightedness.
+625.76 The other one is this incredible study
+628.62 that showed that two hours a day outside,
+631.67 even if you're doing other
+things while you're outside
+634.18 can help offset myopia, nearsightedness.
+637.3 So, try and get outside,
+638.7 it's really the sunlight
+and the blue light, right?
+640.92 Everyone's been demonizing
+blue light out there,
+642.66 but blue light is great
+643.96 provided it's not super, super bright
+646.73 and really close to your eyes.
+648.18 Blue is terrific if it
+comes from sunlight.
+651.07 Two hours a day outside
+652.39 is going to help offset
+myopia, nearsightedness.
+655.39 Now, that's a lot of time,
+656.39 I think most of us are
+not getting that time,
+658.56 but since you can do other
+things like gardening,
+660.84 or reading, or walking, or running.
+663.17 If you can get that two hours outside
+664.77 your visual system and
+your brain will benefit.
+668.08 I also would like to
+make one brief correction
+671.19 to something that I said incorrectly
+673.38 in the previous episode.
+675.1 At the end of the episode,
+I talked about lutein,
+678.52 and how lutein may help offset
+681.6 some moderate to severe
+age-related macular degeneration.
+685.49 As well, I talked about how some people
+686.91 are supplementing with lutein
+688.55 even though they don't have
+age-related macular degeneration
+691.75 with the idea in mind
+692.8 that it might help offset some vision loss
+695.21 as they get older.
+696.78 I said lutein, and lutein
+was the correct thing to say,
+700.31 but once or twice, when
+I started speaking fast
+703.97 I said leucine and not lutein.
+707.48 I want to emphasize that leucine,
+709.79 an amino acid, very interesting,
+711.56 important for muscle building
+covered in previous episodes,
+714.55 but lutein, L-U-T-E-I-N,
+719.25 is the molecule and compound
+that I was referring to
+721.91 in terms of supplementing
+for sake of vision.
+724.54 So I apologize, please
+forgive me I misspoke,
+727.56 a couple of you caught that right away,
+729.96 in listening to the
+episode after it went up
+731.86 I realized that I had misspoken.
+733.67 So, lutein for vision,
+735.53 leucine for muscles, and muscle growth,
+738.55 and strength, et cetera.
+740.16 Before we dive into the
+content of today's episode,
+743.08 I want to just briefly
+touch on color vision.
+745.84 Many of you asked questions
+about color vision
+748.42 and color perception.
+749.85 And indeed color perception
+is a fascinating aspect
+753.28 of the human visual system,
+755.12 it's one of the things
+that makes us unique.
+757.18 There are certainly
+other animals out there
+759.4 that can detect all the
+colors of the rainbow,
+761.56 some can even detect into the
+infrared, into the far-red
+765.86 that we can't see,
+767.44 but nonetheless, human color vision,
+769.19 provided that somebody isn't colorblind,
+771.19 is really remarkable.
+773.1 And if you're interested in color vision
+775.2 or you want to answer questions
+776.9 about art or about for instance
+779.63 why that dress that showed
+up online a few years ago
+782.59 looks blue to you and
+yellow to somebody else.
+785.2 All the answers to that
+are in this terrific book
+788.01 which is "What Is Color?:
+789.69 50 Questions and Answers
+on the Science of Color".
+792.48 I did not write this book, I wish I had,
+794.87 the book is by Arielle and Joann Eckstut,
+797.63 that E-C-K-S-T-U-T.
+800.42 So, it's "What Is Color?:
+801.8 50 Questions and Answers
+on the Science of Color".
+805.65 It's an absolutely fabulous book,
+807.13 I've no business relationship to them.
+809.24 I did help them get in contact
+811.33 with some color vision scientists
+812.9 when they reached out to me.
+814.33 And you can know that all
+the information in the book
+816.3 was vetted by excellent
+color vision scientists.
+819.21 It's a really wonderful
+and beautiful book,
+821.12 the illustrations are beautiful.
+822.63 If you're somebody who's
+interested in design or art,
+826.32 or you're just curious
+about the science of color,
+828.4 it's a terrific book,
+I highly recommend it.
+830.43 If you just look it up online,
+831.88 there are a variety of places
+833.27 that will allow you to access the book.
+835.24 So, let's talk about sensing chemicals
+837.43 and how chemicals control us.
+840.44 In our environment,
+841.44 there are a lot of
+different physical stimuli.
+844.75 There is light,
+846.23 photons, which are light energy
+849.05 and those land on your retinas
+851.55 and your retinas tell
+your brain about them,
+854.06 and your brain creates
+this thing we call vision.
+856.94 There are sound waves,
+858.03 literally particles moving through the air
+860.68 and reverberations that create
+863.13 what we call sound and hearing.
+865.57 And of course there
+are mechanical stimuli,
+869.31 pressure, light touch, scratch,
+873.37 tickle, et cetera, that lands on our skin
+875.77 or the blowing of a breeze
+877.07 that deflects the hairs on our skin,
+879.44 and we can sense mechanical
+touch, mechanical sensation.
+884.63 And there are chemicals,
+886.21 there are things floating
+around in the environment
+889.88 which we call volatile chemicals.
+892.65 So, volatile sounds oftentimes
+like emotionally volatile,
+895.9 but it just means that they're
+floating around out there.
+898.41 So, when you actually smell something
+901.03 like let's say you smell
+902.76 a wonderfully smelling rose or cake.
+905.77 Yes, you are inhaling the
+particles into your nose,
+910.0 they're literally little particles
+911.57 of those chemicals are
+going up into your nose
+914.25 and being detected by your brain.
+918.16 Also, if you smell something putrid,
+920.35 disgusting, or awful,
+use your imagination,
+923.89 those particles are
+going up into your nose
+926.78 and being detected by neurons
+that are part of your brain.
+931.7 Other ways of getting
+chemicals into our system
+934.46 is by putting them in our mouth,
+937.46 by literally taking
+foods and chewing them,
+941.55 or sucking on them and breaking them down
+943.81 into their component parts,
+945.44 and that's one way that we sense chemicals
+947.35 with this thing, our tongue.
+950.05 And there are chemicals that can enter
+953.14 through other mucosal linings
+955.65 and other kind of just think damp,
+958.07 sticky linings of your body.
+960.39 And the main ones would be the eyes,
+962.81 so you've got your nose,
+your eyes and your mouth.
+964.9 But mainly when we have
+chemicals coming into our system
+967.64 it's through our nose
+or through our mouth.
+970.32 Although, sometimes through our skin
+972.88 certain things can go
+transdermal, not many,
+975.27 and through our eyes.
+977.09 So these chemicals,
+979.44 we sometimes bring into
+our body, into our biology,
+983.37 through deliberate action.
+984.93 We select a food, we chew that food,
+987.81 and we do it intentionally.
+988.96 Sometimes they're coming into our body
+991.14 through non-deliberate action.
+992.86 We enter an environment,
+994.49 and there's smoke and we smell the smoke,
+996.56 and as a consequence we take action.
+999.3 Sometimes we are forced to eat something
+1001.5 because somebody tells us we should eat it
+1003.31 or we do it to be polite.
+1004.82 So, there are all these ways
+1005.653 that chemicals can make it into our body.
+1008.52 Sometimes however, other people
+1010.84 are actively making
+chemicals with their body,
+1013.77 typically this would be with their breath,
+1016.55 with their tears,
+1018.33 or possibly, I want to
+underscore possibly,
+1021.83 by making what are called pheromones,
+1023.53 molecules that they release
+into the environment
+1025.59 typically through the breath
+1027.73 that enter our system through our nose,
+1030.37 or our eyes, or our mouth
+1032.07 that fundamentally change our biology.
+1036.02 I will explain how smell and taste
+1038.4 and these pheromone effects work,
+1040.84 but I'll just give an example,
+1042.31 which is a very salient
+and interesting one
+1045.46 that was published about 10 years ago
+1047.47 in the Journal Science.
+1049.0 Science Magazine is one of the three
+1050.83 what we call apex journals.
+1053.09 There are a lot of journals out there,
+1054.41 but for those of you that want to know,
+1055.81 Science Magazine, Nature
+Magazine, and Cell
+1060.39 are considered the three
+top kind of apex journals,
+1063.59 they are the most stringent
+1065.0 in terms of getting papers accepted,
+1067.76 they're even reviewed there.
+1068.73 They have about a 95% rejection
+rate at the front gate,
+1073.41 meaning they don't even review 95%
+1075.37 of what gets sent to them.
+1076.68 Of the things that they
+do decide to review
+1079.17 then get sent out,
+1080.3 a very small percentage
+of those get published,
+1082.51 it's very stringent.
+1083.8 This paper came out in Science
+1086.49 showing that humans, men in
+particular in this study,
+1090.35 have a strong biological
+response and hormonal response
+1094.46 to the tears of women.
+1098.31 What they did is they had women,
+1100.79 and in this case it was only
+women for whatever reason,
+1104.5 cry and they collected their tears.
+1108.47 Then those tears were
+smelled by male subjects,
+1112.12 or male subjects got what
+was essentially the control,
+1116.59 which was the saline.
+1118.27 Men that smelled these tears
+that were evoked by sadness
+1124.25 had a reduction in their
+testosterone levels
+1126.53 that was significant.
+1128.21 They also had a reduction in brain areas
+1130.77 that were associated with sexual arousal.
+1133.59 Now, before you run off
+with your interpretations
+1136.36 about what this means
+and criticize the study
+1138.44 for any variety of reasons,
+let's just take a step back.
+1142.21 I will criticize the study
+for a variety of reasons too.
+1145.21 One is that they only used
+female tiers and male subjects,
+1149.55 so it would have been nice for
+them to also use female tears
+1153.45 and female subjects smelling those,
+1156.1 male tears and male
+subjects smelling those,
+1158.8 male tears and female subjects
+smelling those, and so on.
+1162.29 They didn't do that,
+1163.45 they did have a large number of subjects,
+1164.94 so that's good, that
+adds power to the study.
+1168.11 And they did have to collect these tears
+1171.28 by having the women watch
+what was essentially
+1173.73 a sad scene from a movie.
+1175.42 They actually recruited subjects
+that had a high propensity
+1177.96 for crying at sad movies,
+which was not all women.
+1181.6 It turns out that the
+people that they recruited
+1183.12 for the study were people who said, "Yes,
+1185.27 I tend to cry when I see
+sad things in movies."
+1188.43 What they're really trying to do
+1189.263 is get just get tears that
+were authentically cried
+1193.43 in response to sadness,
+1195.25 as opposed to putting
+some irritant in the eye
+1198.42 and collecting tears that
+were evoked by something else
+1202.21 like just having the eyes irritated.
+1204.78 Nonetheless, what this study illustrates
+1208.36 is that there are chemicals in tears
+1211.75 that are evoking or changing the biology
+1214.5 of other individuals.
+1216.56 Now, most of us don't think about sniffing
+1218.74 or smelling other people's tears,
+1220.94 but you can imagine how in close couples,
+1224.11 or in family members,
+1225.2 or even close friendships, et cetera,
+1227.73 that we are often in close proximity
+1229.78 to other people's tears.
+1231.59 Now, I didn't select
+this study as an example
+1234.14 because I want to focus on the effects
+1236.11 of tears on hormones, per se,
+1238.24 although I do find the
+results really interesting.
+1240.86 I chose it because I
+wanted to just emphasize
+1244.36 or underscore the fact
+1245.71 that chemicals that are
+made by other individuals
+1248.67 are powerfully modulating
+our internal state,
+1252.76 and that's something that
+most of us don't appreciate.
+1256.33 I think most of us can appreciate the fact
+1258.54 that if we smell something
+putrid, we tend to retract,
+1261.1 or if we smell something
+delicious, we tend to lean into it.
+1264.77 But there are all these
+ways in which chemicals
+1266.79 are affecting our biology,
+1268.35 and interpersonal
+communication using chemicals
+1272.65 is not something that we
+hear that often about,
+1275.56 but it's super interesting.
+1276.91 So, let's talk about smell
+1278.25 and what smell is and how it works.
+1280.34 I'm going to make this very basic,
+1281.94 but I am going to touch on
+some of the core elements
+1284.09 of the neurobiology.
+1285.55 So, here's how smell works.
+1287.69 Smell starts with sniffing.
+1290.61 Now, that may come as no surprise,
+1292.24 but no volatile chemicals
+can enter our nose
+1296.21 unless we inhale them.
+1297.66 If our nose is occluded, or
+if we're actively exhaling
+1301.93 it's much more difficult for
+smells to enter our nose,
+1305.27 which is why people cover their nose
+1306.7 when something smells bad.
+1309.42 Now, the way that these volatile odors
+1312.44 come into the nose is interesting.
+1314.18 The nose has a mucosal lining,
+1316.44 mucus that is designed to trap things,
+1319.19 to actually bring things
+in and get stuck there.
+1323.13 At the base of your brain,
+1324.54 so you could actually imagine this
+1326.63 or if you wanted, you could
+touch the roof of your mouth.
+1328.927 So, right above the roof of the mouth,
+1331.18 about two centimeters
+is your olfactory bulb.
+1334.54 The olfactory bulb is
+a collection of neurons
+1336.66 and those neurons actually
+extend out of the skull,
+1340.41 out of your skull into your nose
+1343.1 into the mucosal lining.
+1344.76 So, what this means in
+kind of a literal sense
+1347.37 is that you have neurons that extend
+1350.09 their little dendrites
+and axon-like things,
+1353.36 they're little processes as we call them,
+1355.33 out into the mucus,
+1357.33 and they respond to
+different odorant compounds.
+1361.17 Now, the olfactory neurons
+1363.09 also send a branch deeper into the brain
+1366.22 and they split off into
+three different paths.
+1370.93 So, one path is for what we
+call innate odor responses,
+1376.29 so you have some hard wired aspects
+1379.26 to the way that you smell the world
+1381.13 that were there from the day you were born
+1383.16 and that will be there
+until the day you die.
+1385.91 These are the pathways and
+the neurons that respond
+1389.73 to things like smoke,
+1392.21 which as you can imagine there's
+a highly adaptive function
+1395.47 to being able to detect burning things
+1397.73 because burning things
+generally means lack of safety
+1400.86 or impending threat of some kind.
+1404.12 It calls for action,
+1405.67 and indeed these neurons project
+1407.57 to the central area of the
+brain called the amygdala,
+1410.21 which is often discussed in terms of fear,
+1412.1 but it's really fear and threat detection.
+1414.98 So some compounds, some
+chemicals in your environment
+1417.66 when you smell them, unless
+you're trained to overcome them
+1420.93 because you're a firefighter
+1422.75 you will naturally have a
+heightened level of alertness,
+1426.96 you will sense threat,
+1429.03 and if you're in sleep,
+even it will wake you up.
+1432.09 All right, so that's a good thing,
+1432.99 it's kind of an emergency system.
+1435.18 You also have neurons in your nose
+1437.72 that respond to odorants
+1439.16 or combinations of odorants
+that evoke a sense of desire
+1444.13 and what we call appetitive
+behaviors, approach behaviors,
+1447.53 that make you want to
+move toward something.
+1449.7 So, when you smell a delicious cookie,
+1452.69 or some dish that's really
+savory that you really like,
+1457.39 or a wonderful orange,
+1460.22 and you say, "Mmm,"
+1461.8 or it feels delicious,
+or it smells delicious
+1465.33 that's because of these innate pathway,
+1467.22 these pathways that require
+no learning whatsoever.
+1470.66 Now, some of the pathways from the nose,
+1473.25 these olfactory neurons into the brain
+1475.21 are involved in learned
+associations with odors.
+1479.28 Many people have this experience
+1482.97 that they can remember the smell
+1486.73 of their grandmother's home,
+1488.56 or their grandmother's hands even,
+1491.14 or the smell of particular items baking,
+1494.56 or on the stove in a
+particular environment.
+1498.87 Typically, these memories tend
+to be of a kind of nurturing
+1501.85 sort of feeling safe and protected.
+1504.49 But one of the reasons why olfaction smell
+1508.37 is so closely tied to memory
+1510.31 is because olfaction is the
+most ancient sense that we have,
+1513.88 or I should say chemical sensing
+is among the most primitive
+1517.27 and ancient senses that we have,
+1519.4 probably almost certainly evolved
+1521.11 before vision and before hearing.
+1524.14 But when we come into the world
+1527.01 because we're still learning
+about the statistics of life
+1530.03 about who's friendly
+and who's not friendly,
+1532.41 and where's a fun place to be
+1533.83 and where's a boring place to be,
+1535.89 that all takes a long time to learn.
+1537.6 But the olfactory system seems to imprint,
+1540.72 seems to lay down memories very early
+1543.9 and create these very
+powerful associations.
+1547.38 And if you think about it
+long enough and hard enough
+1551.12 many of you can probably realize
+1554.17 that there are certain
+smells that evoke a memory
+1557.54 of a particular place,
+or person, or context.
+1560.8 And that's because you also
+have pathways out of the nose
+1563.87 that are not for innate
+behaviors like cringing,
+1566.93 or repulsion, or gagging,
+1570.85 or for that appetitive mmm sensation,
+1573.41 but that just remind you of a place,
+1575.62 or a thing, or a context,
+1577.43 could be flowers in spring,
+1579.27 could be grandmother's home and cookies.
+1582.14 This is a very common occurrence,
+1584.62 and it's a very common occurrence
+1585.96 because this generally
+exists in all of us.
+1588.34 So, we have pathway for innate responses
+1591.73 and a pathway for learned responses.
+1593.62 And then we have this other pathway,
+1596.09 and in humans it's a
+little bit controversial
+1598.12 as to whether or not
+it sits truly separate
+1600.41 from the standard olfactory system
+1602.89 or whether or not it's its
+own system embedded in there,
+1606.46 but that they call the
+accessory olfactory pathway.
+1610.47 Accessory olfactory pathway
+is what in other animals
+1613.72 is responsible for true pheromone effects.
+1617.01 We will talk about true pheromone effects,
+1619.14 but for example in rodents
+1622.47 and in some primates, including mandrills.
+1625.99 If you've ever seen a mandrill,
+1626.89 they have these like
+big beak noses things,
+1629.04 you may have seen them at the zoo,
+1629.97 look them up if you
+haven't seen them already,
+1631.54 M-A-N-D-R-I-L-S
+1633.93 mandrills, there are
+strong pheromone effects.
+1637.32 Some of those include things like
+1640.16 if you take a pregnant
+female rodent or mandrill,
+1644.91 you take away the father
+that created those
+1649.48 fetuses or fetus,
+1651.96 and you introduce the scent of the urine
+1656.1 or the fur of a novel male,
+1659.88 she will spontaneously abort
+or miscarry those fetuses,
+1663.457 it's a very powerful effect.
+1666.63 In humans, it's still controversial
+1668.4 whether or not anything
+like that can happen,
+1670.47 but it's a very powerful
+pheromonal effect in other animals.
+1673.6 Another example of a pheromone effect
+1676.05 is called the Vandenbergh effect
+1677.56 named after the person who
+discovered this effect,
+1680.15 where you take a female
+1682.97 of a given species that
+has not entered puberty,
+1686.2 you expose her to the scent or the urine
+1690.04 from a sexually competent,
+meaning post-pubertal male,
+1694.85 and she spontaneously
+goes into puberty earlier.
+1698.78 So, something about the scent
+1699.96 triggers something through this
+accessory olfactory system,
+1703.2 this is a true pheromonal effect
+1705.12 and creates ovulation,
+right and menstruation.
+1708.88 Or in rodents it's an estrous
+cycle, not a menstrual cycle.
+1712.38 So, this is not to say
+that the exact same things
+1716.43 happen in humans.
+1717.263 In humans, as I mentioned earlier,
+1719.1 there are chemical sensing
+between individuals
+1721.52 that may be independent of the nose.
+1724.55 And we will talk about those,
+1726.24 but those are basically the three paths
+1728.32 by which smells, odors impact us.
+1731.84 So, I want to talk about
+the act of smelling,
+1734.99 and if you are not somebody who
+is very interested in smell,
+1738.83 but you are somebody who is interested
+1740.37 in making your brain work better,
+1742.23 learning faster, remembering more things,
+1744.83 this next little segment is for you
+1747.02 because it turns out that how you smell,
+1749.78 meaning the act of smelling,
+not how good or bad you smell,
+1752.81 but the act of smelling,
+1755.92 sniffing, and inhalation
+powerfully impacts
+1758.79 how your brain functions
+1760.24 and what you can learn
+and what you can't learn.
+1762.97 Breathing generally
+consists of two actions,
+1765.74 inhaling and exhaling,
+1767.69 and we have the option of course
+1769.02 to do that through our nose or our mouth.
+1772.26 I've talked on previous
+episodes about the fact
+1774.28 that there are great advantages
+to being a nasal breather,
+1778.31 and there are a great disadvantages
+1780.04 to being a mouth breather.
+1782.25 There are excellent
+books and data on this,
+1785.23 there's the recent book
+"Breath" by James Nestor,
+1787.76 which is an excellent book
+1789.41 that describes some of
+the positive effects
+1791.64 of nasal breathing as well
+as other breathing practices.
+1794.52 There's also the book
+"Jaws" by my colleagues,
+1797.19 Paul Ehrlich and Sandra Kahn,
+1798.62 with a foreword by Jared Diamond
+1801.05 and an introduction by Robert
+Sapolsky from Stanford.
+1805.03 So, that's a book chockablock
+1806.81 with heavy hitter authors that describes
+1809.58 how being a nasal breather is
+beneficial for jaw structure,
+1814.21 for immune system function, et cetera
+1817.71 Breathing in through your nose,
+1820.31 sniffing actually has positive effects
+1823.43 on the way that you can acquire
+and remember information.
+1828.1 Noam Sobel's group
+originally at UC Berkeley
+1831.37 and then at the Weizmann Institute
+1833.78 has published a number of papers
+1836.69 that I'd like to discuss today.
+1838.39 One of them, Human Non-Olfactory Cognition
+1842.31 Phase-Locked with Inhalation,
+1843.73 this was published in
+Nature Human Behavior,
+1845.68 an excellent journal.
+1848.01 Showed that the act of inhaling
+1851.017 [Andrew inhales deeply]
+1852.05 has a couple of interesting
+and powerful consequences.
+1855.4 First of all, as we inhale
+1858.11 the brain increases in arousal,
+1861.41 our level of alertness
+and attention increases
+1863.96 when we inhale as compared
+to when we exhale.
+1867.14 Now, of course with every
+inhale, there's an exhale,
+1870.05 you could probably
+double up on your inhales
+1871.93 if you're doing size or something,
+1873.34 physiological size I've
+talked about these before,
+1875.23 so double inhales [inhales twice]
+1876.4 followed by an exhale [exhales],
+1877.96 something like that.
+1878.86 Or if you're speaking, you're
+going to change your cadence
+1881.29 and ratio of inhales and exhales,
+1882.67 but typically we inhale, then we exhale.
+1886.36 As we inhale, what this paper shows
+1889.53 is that the level of alertness
+goes up in the brain,
+1894.04 and this makes sense because
+as the most primitive
+1897.3 and primordial sense by which we interact
+1900.5 with our environment and bring
+chemicals into our system
+1904.43 and detect our environment,
+1906.53 inhaling is a cue for
+the rest of the brain
+1910.8 to essentially to pay
+attention to what's happening,
+1914.31 not just to the odors
+1915.54 as the name of this paper suggests,
+1917.92 Human Non-Olfactory Cognition
+Phase-Locked with Inhalation.
+1922.91 What that means is that
+the act of inhaling itself
+1927.1 wakes up the brain,
+1928.22 it's not about what you're perceiving
+1930.3 or what you're smelling.
+1932.37 And indeed sniffing as an action,
+1935.01 inhaling as an action
+has a powerful effect
+1938.06 on your ability to be alert,
+1940.71 your ability to attend, to focus,
+1943.2 and your ability to remember information.
+1946.05 When we exhale, the brain
+goes through a subtle,
+1950.25 but nonetheless significant dip
+1952.46 in level of arousal and ability to learn.
+1955.87 So, what does this mean?
+1957.3 How should you use this knowledge?
+1959.45 Well, you could imagine,
+1961.86 and I think this will be
+beneficial for most people
+1964.75 to focus on nasal breathing
+1966.82 while doing any kind of focused
+work that doesn't require
+1970.18 that you speak, or eat,
+or ingest something.
+1973.53 There's a separate paper published
+1974.94 in the journal of neuroscience that showed
+1977.24 that indeed if subjects, human subjects,
+1979.41 are restricted to breathing
+through their nose,
+1982.53 they learn better than
+if they have the option
+1985.92 of breathing through their mouth,
+1987.62 or a combination of their nose and mouth.
+1989.63 These are significant effects
+1990.88 in humans using modern
+techniques from excellent groups.
+1994.43 So, sniffing itself is
+a powerful modulator
+1998.21 of our cognition and our ability to learn.
+2002.14 You can imagine all sorts of ways
+2003.32 that you might apply that as a tool.
+2005.23 And I suggest that you play with it a bit
+2007.4 that if you're having a hard
+time staying awake and alert,
+2010.47 you're having a hard time
+remembering information,
+2012.46 you feel like you have a
+kind of attention deficit,
+2014.55 nonclinical of course,
+2016.33 nasal breathing ought to help,
+2018.03 extending or making your inhales
+more intense ought to help.
+2023.11 Now, this isn't really about
+chemical sensing per se,
+2025.94 but here's where it gets
+interesting and exciting.
+2029.02 If you are somebody
+2029.91 who doesn't have a very
+good sense of smell,
+2033.05 or you're somebody who
+simply wants to get better
+2035.37 at smelling and tasting things,
+2038.24 you can actually practice sniffing.
+2040.88 I know that sounds ridiculous,
+2042.13 but it turns out that
+simply sniffing nothing.
+2045.56 So, doing something like this.
+2046.835 [Andrew sniffs deeply]
+2048.59 I guess the microphone sort
+of has a smell [sniffs],
+2050.51 I guess my pen doesn't have a smell.
+2052.42 [Andrew sniffs deeply]
+2054.06 It turns out that doing
+a series of inhales,
+2056.7 and of course each one
+is followed by an exhale,
+2058.83 10 or 15 times and then smelling an object
+2062.73 like an orange or another item of food,
+2066.089 or even the skin of somebody else
+2067.99 will lead to an increase in your ability
+2071.28 to perceive those odors.
+2073.94 Now, there are probably
+two reasons for that.
+2076.45 One reason is that the brain systems
+2078.64 of detecting things are waking up
+2080.19 as a mere consequence of inhaling.
+2082.24 Okay, so this is sort of
+the olfactory equivalent
+2085.47 of opening your eyes wider in
+order to see, more or less.
+2089.79 Okay, last episode I talked about
+2091.07 how opening your eyes wider
+2092.13 actually increases your
+level of alertness,
+2094.1 it's not just that your level of alertness
+2095.71 causes your eyes to be open wider.
+2098.04 Opening your eyes wider
+2098.9 can actually increase
+your level of alertness.
+2100.8 Well, it turns out that
+breathing more deeply
+2102.37 through the nose, wakes up your brain
+2104.7 and it creates a heightened sensitivity
+2108.47 of the neurons that relate to smell.
+2111.87 And there's a close crossover,
+2114.01 I'm sure you know this,
+between smell and taste.
+2116.27 If any of you have ever had a cold
+2118.16 or you have for whatever reason
+2119.7 you've lost your sense of smell,
+2121.07 you become what they call anosmic,
+2122.61 your sense of taste suffers also.
+2124.55 We'll talk a little bit more
+2125.5 about why that is in a few minutes,
+2127.56 but as a first protocol,
+2128.96 I'd really like all of you to consider
+2131.66 becoming nasal breathers
+2133.07 while you're trying to learn,
+while you're trying to listen,
+2136.11 while you're trying to wake
+up your brain in any way
+2139.73 and learn and retain information,
+2142.63 this is a powerful tool.
+2144.9 Now, there are other ways
+2145.79 to wake up your brain more as well.
+2147.99 For instance, the use of smelling salts.
+2150.48 I'm not recommending that
+you do this necessarily,
+2152.46 but there are excellent peer reviewed data
+2155.25 showing that indeed, if
+you use smelling salts,
+2158.9 which are mostly of the
+sort that include ammonia,
+2162.77 ammonia is a very toxic scent,
+2165.87 but it's toxic in a way that
+triggers this innate pathway,
+2170.18 the pathway from the nose to the amygdala,
+2172.17 and wakes up the brain
+and body in a major way.
+2174.77 This is why they use smelling salts
+2176.01 when people pass out,
+2177.08 this is why fighters used to use
+2179.71 or maybe sometimes
+still use smelling salts
+2182.64 in order to heighten
+their level of alertness,
+2184.25 this is why powerlifters
+will inhale smelling salts.
+2188.18 They work because they trigger the fear
+2191.63 and kind of overall arousal
+systems of the brain,
+2194.32 this is why I think most
+people probably shouldn't
+2195.97 use ammonia or smelling
+salts to try and wake up,
+2198.28 but they really do work.
+2200.15 If you've ever smelled smelling salts
+2201.63 and I have, I tried this,
+2203.45 they give you a serious jolt,
+2205.71 it's like six espresso
+2207.55 infused into your bloodstream all at once,
+2209.42 you are wide awake immediately
+2211.61 and you feel a heightened
+sense of kind of desire to move
+2214.86 because you release
+adrenaline into your body.
+2217.29 Now, inhaling through your nose
+2218.78 and doing nasal breathing
+is not going to do that,
+2220.8 it's going to be a more subtle
+version of waking up your system
+2224.95 of alerting your brain overall.
+2227.68 And for those of you that are
+interested in having a richer,
+2231.76 a more deep connection
+2234.26 to the things that you smell and taste,
+2236.3 including other individuals
+perhaps not just food,
+2241.1 practicing or enhancing
+your sense of sniffing,
+2243.43 your ability to sniff
+2244.51 might sound like a kind
+of ridiculous protocol,
+2246.53 but it's actually a kind
+of fun and cool experiment
+2249.21 that you can do.
+2250.043 You just do the simple
+experiment of taking for instance
+2252.58 an orange, you smell it,
+2254.15 try and gauge your level of perception
+2256.95 of how orange-ish it smells,
+2259.01 or lemony, lemonish, lemony, I don't know
+2261.83 is it lemonish or lemony?
+2263.83 Lemony it smells, then set it away,
+2268.21 do 10 or 15 inhales
+2270.211 [Andrew inhales and exhales]
+2271.44 followed by exhales of course,
+2272.61 or just through the nose.
+2273.629 [Andrew breaths rapidly]
+2274.636 I'm not going to do all 10 or 15.
+2276.01 And then smell it again,
+2277.25 and you'll notice that your
+perception of that smell,
+2279.367 the kind of richness of that smell
+2281.81 will be significantly increased.
+2283.81 And that's again, for two reasons,
+2285.42 one, the brain is in a position
+to respond to it better,
+2289.28 your brain has been aroused
+by the mere act of sniffing,
+2292.43 but also the neurons that respond
+2294.66 to that lemon odor, that lemony or odor
+2298.31 are going to respond better.
+2299.88 So, you can actually have
+a heightened experience
+2302.59 of something, and that of
+course will also be true
+2304.89 for the taste system.
+2306.04 You also can really
+train your sense of smell
+2308.69 to get much, much better.
+2310.52 When Noam Sobel's group was at Berkeley
+2312.17 I happened to be a graduate
+student around that time,
+2314.75 and every once in a while I'd look outside
+2317.35 and there would be people
+crawling around on the grass
+2320.74 with goggles on, gloves on,
+2322.59 and these hoods on with earmuffs.
+2325.47 And they looked ridiculous,
+2327.47 but what they were doing
+is they were actually
+2329.14 learning to follow scent trails.
+2331.92 So, in the world of dogs
+2333.45 you have sight hounds that use their eyes
+2335.52 in order to navigate and find things,
+2337.73 and you have scent towns
+that use their nose.
+2339.48 And the scent hounds are remarkable,
+2340.89 they can be trained to detect a scent.
+2342.92 These are the sniffing,
+2344.39 you know, the bomb sniffing
+2345.223 and the drug sniffing dogs in airports.
+2348.27 There are now dogs actually that can sniff
+2350.63 out COVID infections with a
+very high degree of accuracy,
+2354.19 they can be trained to do that.
+2355.43 There's something about the COVID
+2357.94 and similar infections
+that the body produces
+2360.58 probably in the immune response,
+2362.1 some odors and the dogs
+are I think as high as 90%
+2365.39 in some cases, maybe even 95% accuracy,
+2367.96 just remarkable.
+2369.14 There are theories that
+dogs can sniff out cancer,
+2371.87 this stuff all exceeds
+statistical significance.
+2374.72 It's still a little bit
+mysterious in some ways,
+2376.81 but you may not ever achieve
+2379.95 the olfactory capabilities
+of a scent hound,
+2383.26 but what Noam Sobel's lab
+did is they had people
+2388.12 completely eliminate
+their visual experience
+2390.33 by having them wear
+dark glasses or goggles,
+2393.21 so they couldn't see,
+and they couldn't hear,
+2394.61 they couldn't sense anything
+with their sense of touch,
+2396.66 they had thick gloves on.
+2398.05 But they had these masks on
+2399.83 where just their nasal passages were open
+2402.17 and people could in a
+fairly short amount of time
+2405.95 learn to follow a chocolate
+scent trail on the ground,
+2409.89 which is not something that
+most people want to do,
+2412.55 but what they showed using
+brain imaging, et cetera
+2415.22 in subsequent studies
+is that the human brain,
+2419.36 you can learn to really
+enhance your sense of smell
+2423.09 and become very astute in distinguishing
+2425.93 whether or not one particular odor
+2427.86 or combinations of odors
+2429.18 is such that it's less than,
+2432.52 or more than a different
+odor for instance.
+2435.19 Now, why would you want to do this?
+2436.27 Well, if you like to eat as much as I do,
+2439.43 one of the things
+2440.263 that can really enhance
+your sense of pleasure
+2443.53 from the experience of ingesting food
+2445.66 is to enhance your sense of smell.
+2447.57 And if you don't have
+a great sense of smell,
+2450.27 or if you have a sense of smell
+2451.67 that's really so good that it's
+always picking up bad odors,
+2455.19 we'll talk about that in a minute.
+2457.27 Well, then you might want to
+tune up your sense of smell
+2461.73 by doing this practice
+of 10 or 15 breaths,
+2465.0 excuse me, sniffs, not breaths,
+2466.66 sniffs and then interacting
+with some food item
+2470.45 or thing that you're
+interested in smelling more of.
+2472.48 So, these could be the ingredients
+that you're cooking with,
+2474.29 I really encourage you to
+try and really smell them.
+2476.67 You sometimes hear this
+2477.61 as kind of a mindfulness practice
+2478.93 like ooh, really smell the
+food, really taste the food.
+2481.967 And we always hear about that
+2483.19 as kind of a mindfulness
+and presence thing,
+2485.84 but you actually can
+increase the sensitivity
+2488.1 of your olfactory and your
+taste system by doing this.
+2490.91 And it has long-term effects,
+2493.16 that's what's so interesting.
+2494.32 This isn't the kind of thing
+2495.153 that you have to do every time you eat.
+2496.66 You don't have to be the
+weirdo in the restaurant
+2498.18 that's like picking up the radish
+2499.84 and like jamming it up your
+nostrils, please don't do that.
+2502.71 You don't have to
+necessarily smell everything,
+2504.78 although it's nice
+sometimes to smell the food
+2507.81 that you're about to
+eat and as you eat it,
+2509.66 but it has long-term effects
+2511.07 in terms of your ability to distinguish
+2513.67 and discriminate different types of odors.
+2516.63 And these don't even have
+to be very pungent foods
+2518.89 it turns out,
+2519.723 the studies show that doesn't have
+2521.05 to be some really stinky cheese,
+2522.65 you know, there are cheese shops
+2524.05 that I've walked into where
+like I just basically gag,
+2526.23 I can't handle it, I
+just can't be in there,
+2528.315 it just overwhelms me.
+2529.91 Other people, they love that smell.
+2531.9 So, you have to tune it to
+your interest and experience,
+2534.38 but I think even for
+you fasters out there,
+2537.21 everybody eats at some point,
+2539.4 everybody ingests chemicals
+through their mouth.
+2541.817 And one of the ways that
+you can powerfully increase
+2545.18 your relationship to that experience
+2547.24 and make it much more positive
+2549.56 is through just the occasional practice
+2551.77 of 10 or 15 sniffs of nothing,
+2555.21 which almost sounds ridiculous
+like how could that be?
+2557.93 But now, you understand why,
+2559.21 it's because of the way that
+the sniffing action increases
+2561.68 the alertness of the brain
+2563.07 as well as increasing the
+sensitivity of the system.
+2566.47 No other system that
+I'm aware of in our body
+2570.0 is as amenable to these kinds
+of behavioral training shifts
+2574.3 and allow them to happen so quickly.
+2576.07 I would love to be able to tell you
+2577.7 that just doing 10 or 15
+near-far exercises with a pen
+2581.14 or going outside for 10
+or 15 seconds each morning
+2584.43 is going to completely change
+2585.94 the way that you see the world.
+2586.87 But it actually isn't the case,
+2588.27 you actually, it requires more training,
+2590.06 a little bit more effort
+in the visual system.
+2591.99 In the olfactory system,
+2593.247 and your smell system,
+and in your taste system
+2595.68 just the tiniest bit of
+training and attention,
+2598.48 and sniffing, inhaling
+can radically change
+2602.28 your relationship to food
+2603.7 such that you actually
+start to feel very different
+2607.09 as a consequence of ingesting those foods
+2608.95 as well as becoming more
+discerning about which foods
+2612.53 you like and which ones you don't like.
+2614.067 And we're going to talk about that
+2615.33 because there's a really wonderful thing
+2617.32 that happens when you start
+developing a sensitive palate
+2620.04 and a sensitive sense of smell
+2623.16 in a way that allows
+you to guide your eating
+2626.54 and smelling decisions,
+2627.98 and maybe even interpersonal decisions
+2629.62 about who you spend time with,
+or mate with, or whatever,
+2632.9 in a way that is really
+in line with your biology.
+2636.11 In fact, how well we can
+smell and taste things
+2639.34 is actually a very strong
+indication of our brain health.
+2643.52 Now, that's not to say
+2644.44 that if you have a poor sense of smell
+2646.01 or a poor sense of taste, that
+you're somehow brain damaged
+2648.74 or you're going to have dementia,
+2651.58 although sometimes early signs of dementia
+2654.68 or loss of neurons in
+other regions of the brain
+2657.2 related to say Parkinson's
+can show up first
+2660.22 as a loss of sense of smell.
+2662.68 Again, it's not causal,
+2665.27 and it's certainly not
+the case that every time
+2667.67 you have a sudden loss of smell
+2668.86 that there's necessarily brain damage,
+2670.33 I want to be very about that,
+2672.04 but they are often correlated.
+2675.6 There's also a lot of interest right now
+2677.14 in loss of sense of smell
+2678.53 because one of the early
+detection signs of COVID-19
+2681.61 was a loss of sense of smell.
+2683.49 So, I just briefly want to talk
+about loss of sense of smell
+2686.68 and regaining sense of smell and taste
+2689.34 because these have powerful
+implications for overall health.
+2693.23 And in fact can indicate
+something about brain damage
+2696.82 and can even inform how
+quickly we might be recovering
+2699.76 from something like a concussion.
+2702.13 So, our olfactory neurons,
+2704.01 these neurons in our
+nose that detect odors
+2707.49 are really unique among
+other brain neurons
+2710.84 because they get
+replenished throughout life,
+2714.75 they don't just regenerate,
+but they get replenished.
+2718.59 So regeneration is when something
+is damaged and it regrows,
+2723.11 these neurons are constantly turning
+2725.15 over throughout our lifespan,
+2726.33 they're constantly being replenished,
+2727.89 they're dying off and they're
+being replaced by new ones.
+2731.38 This is an amazing aspect of our brain
+2734.04 that's basically unique to these neurons,
+2735.953 there's one other region of the brain
+2737.7 where there's a little bit of this maybe,
+2739.75 but these olfactory neurons
+2742.41 about every three or four weeks they die.
+2746.32 And when they die, they're replaced
+2748.09 by new ones that come from a
+different region of the brain,
+2751.99 a region called the subventricular zone.
+2753.84 The name isn't as important,
+2755.62 but as the phenomenon,
+2757.54 but these neurons are
+born in the ventricle,
+2759.92 the area of your brain that's
+a hole that contains...
+2762.1 It's not an empty hole,
+2763.11 it's a hole basically that
+contains cerebral spinal fluid.
+2766.03 Well, there's a little
+subventricular zone,
+2768.07 there's a little zone
+below, sub ventricles.
+2771.46 And that zone, if you
+are exercising regularly,
+2775.45 if your dopamine levels are high enough,
+2779.89 those little cells there
+are like stem cells.
+2783.37 They are stem cells and they spit out
+2785.4 what are called little neuroblasts,
+2787.3 those little neuroblasts migrate
+2789.57 into the front of your
+brain and then shimmy,
+2792.96 they kind of move through
+2793.793 what's called the
+rostral migratory stream.
+2795.86 They kind of shimmy along
+2797.39 and land back in your olfactory bulb,
+2799.72 settle down and extend little wires
+2801.74 into your olfactory mucosa.
+2803.87 This is an ongoing process
+of what we call neurogenesis
+2807.15 or the birth of new neurons.
+2809.23 Now, this is really interesting
+2812.12 because other neurons in
+your cortex, in your retina,
+2816.39 in your cerebellum, they do not do this,
+2818.51 they are not continually
+replenished throughout life.
+2821.37 But these neurons, these
+olfactory neurons are,
+2823.66 they are special.
+2826.04 And there are a number of things
+2827.76 that seem to increase the amount
+2829.85 of olfactory neuron neurogenesis.
+2832.23 There is evidence that
+exercise, blood flow,
+2835.8 can increase olfactory
+neuron neurogenesis.
+2838.31 Although, those data are fewer
+2841.15 in comparison to things
+like social interactions,
+2844.29 or actually interacting with
+odorants of different kinds.
+2848.78 So, if you're somebody who
+doesn't smell things well,
+2851.75 you have a poor sense of smell,
+2853.12 your olfactory system
+doesn't seem very sensitive,
+2855.71 more sniffing, more smelling
+is going to be good.
+2858.5 And then the molecule
+dopamine, this neuromodulator,
+2862.36 that is associated with
+motivation and drive.
+2865.54 And in some cases, if it's
+very, very high with mania,
+2868.88 or if it's very, very low with
+depression or Parkinson's,
+2872.11 but for most people where dopamine
+2873.85 is in essentially normal ranges
+2876.87 dopamine is also a powerful
+trigger of the establishment
+2881.19 of these new neurons and their migration
+2883.03 into the olfactory bulb
+and your ability to smell.
+2886.89 Now, you don't want to confuse
+correlation with causation,
+2889.79 so if you're not good at smelling
+2891.39 does that mean you have low dopamine?
+2892.83 No, not necessarily.
+2893.96 If you have low dopamine,
+2895.04 does that mean that you
+have a poor sense of smell?
+2896.86 No, not necessarily.
+2898.4 Some people who take
+antidepressants of the sort
+2901.61 that impact the dopamine
+system strongly like Wellbutrin
+2905.83 will report a sudden, meaning
+within a couple of days,
+2909.24 increase in their ability
+to smell particular odors,
+2913.53 and it's a very striking effect.
+2915.72 Some people when they
+are in a new relationship
+2918.17 because dopamine and the hormones,
+2920.11 testosterone and estrogen
+are associated with novelty
+2924.04 and the sorts of behaviors
+that often are associated
+2926.85 with new relationships
+those three molecules;
+2929.67 dopamine, testosterone, and
+estrogen kind of work together.
+2933.4 And oftentimes people will say
+2936.29 or report when they're newly in love
+2938.1 or in a new relationship that
+they're just obsessed with,
+2940.87 or they just so enjoy the
+scent of another person
+2943.32 so much so that they like to borrow
+2945.98 the other person's clothing
+2947.2 or they'll sniff the
+other person's clothing
+2949.04 or they can even just in
+the absence of the person
+2951.92 they can imagine their smell
+and feel a biological response,
+2955.65 something that we'll talk more about.
+2957.26 So, these neurons turnover
+throughout the lifespan
+2959.84 and as we age, we actually
+can lose our sense of smell.
+2963.41 And it's likely, I want
+to underscore likely,
+2965.58 that that loss of sense of smell as we age
+2967.26 is correlated with a loss of other neurons
+2969.76 in the retina, in the
+ears, a loss of vision,
+2972.25 loss of hearing, loss of smell,
+loss of the sense apparati
+2976.45 which our neurons is
+correlated with aging.
+2980.45 So, what we've been talking about today
+2982.32 is the ability to sense these odors,
+2984.45 but what I'd like to do
+is empower you with tools
+2986.94 that will allow you to keep
+these systems tuned up.
+2989.01 Last time, we talked about tuning up
+2990.7 and keeping your visual
+system tuned up and healthy
+2993.87 regardless of age.
+2994.92 Here, we're talking about really enhancing
+2997.75 your olfactory abilities,
+your taste abilities as well
+3001.99 by interacting a lot with odors,
+preferably positive odors,
+3007.13 and sniffing more, inhaling more,
+3010.27 which almost sounds crazy,
+3011.42 but now you understand why.
+3013.16 Even though it might sound crazy
+3014.2 it's grounded in real mechanistic biology
+3016.81 of how the brain wakes up and
+responds to these chemicals.
+3020.26 Now, speaking of brain injury,
+3021.66 olfactory dysfunction is a common theme
+3024.61 in traumatic brain injury
+for the following reason,
+3027.09 these olfactory neurons as I mention
+3029.4 extend wires into the mucosa of the nose,
+3033.31 but they also extend a
+wire up into the skull.
+3035.99 And they extend up into the skull
+3037.62 through what's called
+the cribriform plate,
+3039.28 it's like a Swiss cheese type plate
+3041.68 where they're going through.
+3042.78 And if you get a head hit,
+3044.94 that bone, the cribriform plate,
+3046.91 sheers those little wires off
+3048.597 and those neurons die.
+3050.98 Now, eventually they'll be replaced,
+3053.1 but there's a phenomenon
+by which concussion
+3056.34 and the severity of concussion
+3057.77 and the recovery from a head injury
+3059.71 can actually be gauged in part,
+3061.72 in part, not in whole,
+3062.74 but in part by how well
+or fully one recovers
+3066.78 their sense of smell.
+3068.48 So, if you're somebody that unfortunately
+3069.89 has suffered a concussion,
+3071.2 your sense of smell is one readout
+3073.82 by which you might evaluate
+whether or not you're regaining
+3076.41 some of your sensory performance.
+3078.03 Of course, there will be others
+3078.93 like balance, and cognition,
+and sleep, et cetera.
+3081.33 But I'd like to refer you
+to a really nice paper
+3084.98 which is entitled Olfactory Dysfunction
+3087.14 in Traumatic Brain Injury:
+the Role of Neurogenesis
+3090.0 the first author is Marin, M-A-R-I-N.
+3093.135 The paper was published
+3094.54 in Current Allergy and
+Asthma Report, this is 2020.
+3098.07 I spent some time with this
+paper, it's quite good,
+3100.15 it's a review article,
+3101.27 I like reviews if they're
+peer-reviewed reviews
+3104.77 and in quality journals.
+3106.48 And what they discuss
+3108.14 is and I'll just read here briefly
+3109.56 'cause they said it better than I could,
+3111.097 "Olfactory functioning
+disturbances are common
+3113.08 following traumatic brain injury, TBI,
+3115.02 and can have a significant
+impact on the quality of life.
+3117.62 Although there is no standard
+treatment for patients
+3119.27 with the loss of smell."
+3122.59 Now I'm paraphrasing,
+"Post-injury olfactory training
+3127.42 has shown promise for beneficial effects.
+3131.38 Some of this involves,"
+3132.88 they go on to tell us
+the role of dopamine,
+3135.59 dopaminergic signaling,
+as I mentioned before,
+3137.96 but what does this mean?
+3138.93 This means that if
+you've had a head injury
+3141.94 or repeated head injuries that
+enhancing your sense of smell
+3145.73 is one way by which you
+can create new neurons.
+3148.82 And now, you know how to
+enhance your sense of smell
+3150.75 by interacting with things
+that have an odor very closely,
+3154.06 and by essentially inhaling more,
+3156.81 focusing on the inhale
+to wake up the brain
+3159.39 and to really focus on some
+of the nuance of those smells.
+3162.4 So, you might do for instance a smell test
+3165.33 by which you smell something like a lemon,
+3167.18 put it down, do 10 inhales or so,
+3169.33 smell again, et cetera.
+3170.89 You might also just
+take a more active role
+3172.87 in trying to taste and smell your food,
+3176.47 and taste and smell various things.
+3178.54 I mean, please don't ingest anything
+3179.77 that's poisonous that you're
+not supposed to be ingesting,
+3181.91 but you know what I mean,
+3183.09 really tuning up this system,
+3184.8 I think is an excellent review,
+3186.5 we're going to do an entire episode
+3188.13 all about the use of the
+visual system in particular,
+3190.6 but also the olfactory
+system for treatment
+3192.46 of traumatic brain injury,
+as well as other methods.
+3195.02 But I wanted to just mention it here
+3197.03 because a number of
+people asked me about TBI.
+3199.45 And here again, we're in
+this place where the senses
+3202.65 and our ability to sense these chemicals
+3203.703 through these two holes
+in the front of our face,
+3205.91 our nostrils is a powerful readout
+3209.17 and way to control brain function
+3211.6 and nervous system function generally.
+3213.48 Just a quick note about
+the use of smelling salts,
+3216.13 I have a feeling that some of
+you may be interested in that
+3218.7 and its application.
+3219.63 If you are interested in that,
+3221.36 I recommend you go to the
+scientific literature first
+3224.42 rather than straight to some vendor
+3227.18 or to the what do they call it these days?
+3229.85 Costello bro science, he says,
+3232.21 bro science, the bro science.
+3234.39 You can go to this
+paper, which is excellent
+3236.47 and is real science, which
+is Acute Effects of Ammonia
+3238.96 Inhalants on Strength and Power
+Performance in Trained Men.
+3241.94 It's a randomized controlled
+trial, it was published
+3243.537 in the Journal of Strength
+and Conditioning Research
+3245.93 in 2018, and it should
+be very easy to find.
+3249.13 I will provide a link to
+the so-called PubMed ID,
+3251.83 which is a string of numbers,
+3253.94 and we'll put that in the caption
+3254.95 if you want to go
+straight to that article,
+3256.41 does show a significant what they call,
+3259.23 this is what the words they
+use literally in quotes,
+3261.267 "psyching up effect through the use
+3264.54 of these ammonia inhalants
+3266.61 and a significant
+increase in maximal force
+3270.48 in force development in a
+variety of different movements."
+3274.41 So, for those of you that are interested
+3275.88 in ammonia inhalants,
+so-called smelling salts,
+3279.31 that might be a good reference.
+3281.23 The other thing I wanted to talk about
+3282.38 with reference to odors is this myth
+3285.01 which is that we don't actually
+smell things in our dreams,
+3288.78 that we don't have a sense of smell.
+3291.46 That's pure fiction, I don't
+know who came up with that,
+3294.38 it's very clear that we are capable
+3296.96 of smelling things in our sleep.
+3299.49 However, when we are in REM sleep,
+3302.01 rapid eye movement sleep,
+3303.22 which is the sleep that predominates
+3304.84 toward the second half of the night
+3308.02 our ability to wake up in
+response to odors is diminished.
+3312.57 It's not absent, but it's diminished.
+3314.5 If smoke comes into the
+room, we will likely wake up
+3318.04 if the concentration
+of smoke is high enough
+3319.81 regardless of the stage of sleep we're in,
+3322.04 but in REM sleep we tend to be less likely
+3325.32 to smell, to sniff.
+3328.04 And that actually was measured
+in a number of studies
+3330.64 that sniffing in sleep is possible.
+3333.59 So, if you put an odor like a lemon
+3335.36 underneath someone's nostrils
+3336.65 in the early portion of
+the night, they will smell,
+3340.35 and they will later...
+3341.48 They will sniff, excuse me,
+3343.03 whether or not they smell or
+not, I guess depends on them
+3345.0 and when they showered last,
+3345.91 but they will definitely sniff
+3347.61 and they will report later,
+especially if you wake them up
+3350.94 soon after that, they had a dream
+3354.03 or a percept of the scent
+of a lemon for instance.
+3357.94 Later in the night, it's
+harder for that relationship
+3360.47 to be established,
+3361.303 it's likely that because
+of some of the paralysis
+3363.21 associated with rapid eye movement sleep,
+3365.47 which is a healthy paralysis,
+so-called sleep atonia,
+3368.52 you don't want to act out
+your dreams in REM sleep
+3371.02 that there is a less
+active tendency to sniff.
+3374.88 And actually this has real
+clinical implications,
+3377.85 the ability to sniff
+3380.22 in response to the introduction of an odor
+3383.28 is actually one way in
+which clinicians assess
+3386.99 whether or not somebody's
+brain is so-called brain dead.
+3391.05 That's not a nice term, but brain dead,
+3392.62 or whether or not they have the capacity
+3395.05 to recover from things like coma
+3397.61 and other states of deep unconsciousness,
+3400.27 or I guess you'd call it subconsciousness.
+3402.66 So, what will happen is
+if someone has an injury
+3405.43 and they're essentially out cold,
+3408.08 the production of a sniffing reflex,
+3411.94 or a sniffing response to say a lemon
+3414.76 or some other odor
+presented below the nostrils
+3417.08 is considered a sign that the
+brain is capable of waking up.
+3420.89 Now, that's not always the
+case, but it's one indication.
+3423.78 So just like you could
+use mechano sensation,
+3427.09 so, a toe pinch for instance,
+3429.48 you know, or scraping the
+bottom of somebody's barefoot
+3432.24 to see if they're conscious,
+3434.02 or shining light in their eyes,
+3435.85 these are all things that you've seen
+3436.81 in movies and television,
+3437.82 or maybe if you've seen
+in real life as well.
+3440.47 Well, odors and chemical
+sensing is another way
+3443.14 by which you can assess
+3444.09 whether or not the brain
+is capable of arousal.
+3447.01 And actually olfactory stimulation
+3449.3 is one of the more prominent ones
+3451.09 that's being used in various clinics.
+3453.45 As a last point about
+specific odors and compounds
+3457.12 that can increase arousal and alertness,
+3459.48 and this was simply through sniffing them
+3461.35 not through ingesting them.
+3462.88 There are data, believe it
+or not, there are good data
+3466.21 on peppermint and the smell of peppermint,
+3469.34 minty type sense,
+3472.08 whether you like them or
+not will increase attention,
+3475.75 and they can create the same
+sort of arousal response
+3479.3 although not as intensely
+3480.9 or as dramatically as ammonia
+salts can for instance.
+3484.31 By the way, please don't
+go sniff real ammonia,
+3486.54 you could actually damage
+your olfactory epithelium
+3488.69 if you do that too close to the ammonia.
+3490.67 If you're going to use smelling salts
+3491.74 be sure you work with someone
+3493.48 or you know what you're getting
+and how you're using this.
+3495.97 You can damage your olfactory pathway
+3498.46 in ways that are pretty severe,
+3499.56 you can also damage your vision.
+3500.98 If you've ever teared up
+because you inhaled something
+3503.22 that was really noxious,
+that is not a good thing,
+3507.15 it doesn't mean you
+necessarily cause damage,
+3508.86 but it means that you have
+irritated the mucosal lining
+3512.82 and possibly even the
+surfaces of your eyes,
+3515.53 so please be very, very careful.
+3518.17 Scents like peppermint,
+3520.37 like these ammonia smelling salts,
+3522.37 the reason they wake you up
+3523.55 is because they trigger
+specific olfactory neurons
+3526.69 that communicate with the
+specific centers of the brain,
+3529.06 namely the amygdala and
+associated neurocircuitry
+3531.46 and pathways that trigger alertness
+3533.44 of the same sort that a
+cold shower or an ice bath,
+3537.01 or a sudden surprise,
+3538.75 or a stressful text message would evoke.
+3541.35 Remember, the systems of your
+body that produce arousal,
+3545.309 and alertness, and attention,
+3547.3 and that cue you for
+optimal learning, aka focus.
+3550.55 Those are very general mechanisms,
+3552.09 they involve very basic
+molecules like adrenaline
+3554.74 and epinephrin same thing actually,
+3556.13 adrenaline and epinephrin.
+3558.35 The number of stimuli, whether
+it's peppermint or ammonia,
+3562.21 or a loud blast,
+3565.02 the number of stimuli that can evoke
+3566.99 that adrenaline response
+and that wake up response
+3570.06 are near infinite.
+3571.62 And that's the beauty
+of your nervous system,
+3573.63 it was designed to take any
+variety of different stimuli
+3577.08 placed them into categories,
+3578.74 and then evoke different categories
+3580.97 of very general responses.
+3583.12 Now, you know a lot about olfaction
+3584.65 and how the sense of smell works,
+3586.05 here's another experiment that you can do.
+3588.82 I'll ask you right now.
+3590.73 Do you like, hate, or are you indifferent
+3594.89 to the smell of microwave popcorn?
+3598.48 Some people, including one
+member of my podcast staff
+3601.8 says it's absolutely disgusting to them,
+3604.75 they feel like it's completely nauseating.
+3607.83 I don't mind it at all,
+3608.663 in fact, I kind of like it.
+3609.91 I think the smell of a microwave popcorn
+3611.62 is kind of pleasant.
+3612.453 I don't particularly like it,
+3613.55 but it's certainly not unpleasant.
+3617.52 Some people have a gene
+that makes them sensitive
+3621.77 to the smell of things
+like microwave popcorn
+3624.39 such that it smells like vomit.
+3627.85 I probably don't have that gene
+3629.94 because I find the smell
+3630.773 of microwaved popcorn pretty pleasant.
+3633.67 Some people hate the smell of cilantro,
+3637.58 some people ingest asparagus,
+3640.53 and when they urinate they
+can smell the asparagus
+3643.28 in a very pungent way,
+3644.68 other people can't smell it at all.
+3647.06 These are variants in genes that encode
+3650.19 for what are called olfactory receptors.
+3653.89 Each olfactory sensory neuron
+expresses one odorant gene,
+3658.63 one gene that codes for a receptor
+3661.27 that responds to a particular odor.
+3663.42 If you don't have that gene
+3664.84 you will not respond to that odor.
+3667.26 So, the reason why some
+people find the smell
+3670.33 of microwave popcorn to be
+very noxious, putrid in fact,
+3673.87 is because they have a
+gene that allows them
+3675.98 to smell the kind of
+putrid odor within that.
+3680.11 Other people who lack that gene
+just simply can't smell it,
+3683.53 so we are not all the same
+3685.42 with respect to our sensory experience.
+3687.36 What one person finds delicious,
+3689.43 another person might find disgusting.
+3691.14 I'll give a good example
+3692.97 which is that I absolutely despise
+3695.55 Gorgonzola and blue cheese,
+absolutely despise it,
+3698.59 it smells and tastes
+3701.75 like dirty moldy socks to me.
+3704.84 Some people love it, they crave it,
+3706.59 actually, some people get
+a visceral response to it,
+3708.947 and we will talk about how certain tastes
+3711.74 can actually evoke very
+deep biological responses,
+3715.63 even hormonal responses
+3717.17 when we talk about taste in a few minutes.
+3719.62 But there are these odors,
+3721.49 for instance in popcorn
+3722.82 it's the molecule 2-acetyl-1-pyrroline,
+3727.84 not proline but pyrroline,
+3729.78 that gives off to some people like me
+3731.75 a toasted smell as the
+sugars in the kernels heat,
+3734.87 but the compound is also found
+3737.32 in things like white
+bread and jasmine rice,
+3739.36 which don't have as pungent an odor,
+3742.01 but some people smell that
+and it smells like cat urine.
+3746.82 Now, there are scents like
+musky scents and musty scents
+3752.02 that are secreted by animals like skunks
+3754.45 and other animals of the
+so-called Mustelidae family.
+3757.82 So, these would be ferrets and
+other animals that can spray
+3761.6 in response to fear, or if they
+just want to mark a territory
+3765.44 because they want to say that's mine.
+3767.12 Dogs incidentally have scent
+glands that they rub on things,
+3769.7 cats have them too.
+3771.12 This musty odor, some people
+find actually quite pleasant,
+3774.98 some people find it to be very noxious
+3777.39 and that will depend of course
+on the concentration, right?
+3780.76 I'll never forget the first time
+3782.44 Costello got sprayed by
+a skunk and it was awful.
+3786.13 I actually don't mind the
+smell of skunk at a distance,
+3789.51 it's actually a little bit pleasant,
+3790.7 I admit it's a little bit pleasant to me.
+3792.84 I don't think that makes me too weird
+3794.02 because if you ever read the book
+3795.227 "All Quiet on the Western
+Front" about World War I,
+3798.25 there's a description in
+there about the smell of skunk
+3800.93 at a distance being mildly pleasant,
+3802.87 so the author of that book probably shared
+3805.23 a similar olfactory profile
+to me, or I to them rather,
+3810.02 but some people find even the tiniest bit
+3812.41 of the smell of skunk or
+musk to be noxious or awful.
+3816.41 Now, of course in high
+concentrations, it's really awful.
+3818.55 And unfortunately, poor Costello,
+3819.72 he was like literally
+red-eyed and just snorting,
+3823.41 and it was awful.
+3824.48 There's a joke about
+dogs that says that dogs
+3827.19 either get skunked one
+time and never again
+3830.21 or 50 or a hundred times.
+3831.5 Costello has been skunked no fewer,
+3833.85 I'm not making this up,
+3834.73 has been skunked no fewer than 103 times.
+3838.16 And that's because if he sees something
+3840.5 or hears something in the
+bushes, he just goes straight in,
+3842.39 he does not learn.
+3843.96 But if you like this, that
+musty scent or musky scent,
+3848.69 well that says something about
+the genes that you express
+3851.15 in your olfactory neurons,
+3852.5 it is completely inherited.
+3854.93 And if you don't like that scent,
+3856.36 if it's really noxious
+3857.45 or you have this response
+to microwave popcorn,
+3859.19 well, that means you have
+a different compliment,
+3861.22 a different constellation if you will
+3863.77 of genes that make up for
+these olfactory sensory neurons
+3867.75 and the receptors that they express.
+3869.66 Let's talk about taste.
+3871.29 Not whether or not you have
+taste or you don't have taste,
+3873.9 there's no way for me to assess that,
+3876.06 but rather how we taste things,
+3879.51 meaning how we sense chemicals
+in food and in drink.
+3884.44 There are essentially five,
+3886.18 but scientists now believe
+there may be six things
+3889.584 that we taste alone or in combination,
+3893.89 they are sweet tastes,
+3896.46 salty tastes, bitter tastes,
+3900.42 sour tastes, and umami taste.
+3904.8 Most of you probably
+heard of umami by now,
+3906.91 it's U-M-A-M-I.
+3909.69 Umami is actually the name
+for a particular receptor
+3914.06 that you express on your tongue
+3915.414 that detects savory tastes,
+3920.02 so it's the kind of
+thing in braised meats.
+3922.81 Sometimes people can even
+get the activation of umami
+3926.92 by tomatoes or tomato sauces.
+3931.1 What are each of these tastes
+3932.77 and taste receptors responsible for?
+3935.03 And then we'll talk about the sixth,
+3936.43 maybe you can guess what it is,
+3937.53 I don't know if you can guess it now.
+3938.76 I couldn't guess it,
+but of the five tastes
+3942.12 each one has a specific
+utility or function.
+3946.41 Each one has a particular
+group of neurons in your mouth,
+3951.0 in your tongue, believe it or not,
+3953.31 that responds to particular chemicals
+3955.88 and particular chemical structures.
+3958.38 It is a total myth, complete fiction,
+3961.45 that different parts of your tongue
+3963.12 harbor different taste receptors.
+3966.062 You know, that high
+school textbook diagram
+3967.88 that you know sweet is
+in one part of the tongue
+3969.81 and sour is in another,
+3971.4 and bitters in another, complete fiction,
+3973.57 just total fiction related
+to very old studies
+3976.15 that were performed in a
+very poorly controlled way,
+3978.77 no serious biologists
+3980.96 and certainly no one that works on tastes
+3982.37 would contend that that's the way
+3985.28 that the taste receptors are organized,
+3987.0 they are completely
+intermixed along your tongue.
+3989.46 If you have heightened
+or decreased sensitivity
+3992.61 to one of those five things I mentioned;
+3994.66 sweet, salty, bitter, umami, or sour
+3996.66 at one location in your tongue,
+3997.86 it likely reflects the
+density of overall receptors
+4003.17 or something going on in your brain,
+4005.9 but not the differential
+distribution of those receptors.
+4010.52 So, the sweet receptors
+are neurons that express
+4014.03 a receptor that respond to sugars,
+4017.56 in the same way that you
+have cones, photoreceptors,
+4019.93 in your eye that respond to short,
+4021.99 medium, or long wavelength light,
+4023.78 meaning blueish, greenish,
+or reddish light.
+4027.56 You have a neuron, or neurons plural,
+4030.962 in your tongue that respond to sugars.
+4035.92 And then those neurons,
+they don't say sweet,
+4038.74 they don't actually send
+any sugar into the brain,
+4041.21 they send what we call a volley,
+4043.22 a barrage of action potentials
+of electrical signals
+4045.73 off into the brain.
+4046.9 It's an amazing system.
+4048.55 So, all these receptors in your tongue
+4050.4 make up what are called the neurons
+4053.36 that give rise to a nerve,
+4054.78 a collection of wires, nerve bundles
+4057.51 of what's called the gustatory nerve,
+4059.84 it goes from the tongue
+4061.66 to the so-called nucleus
+of the solitary tract.
+4064.427 And some of you requested names,
+4066.3 I usually don't like to
+include too many names
+4068.21 for sake of clarity,
+4069.13 but the gustatory nerve from the tongue
+4071.28 goes to the nucleus of the solitary tract
+4073.45 and then to the thalamus
+and to insular cortex.
+4076.65 You don't have to remember
+any of those names
+4078.54 if you don't want to,
+4079.43 but if you want mechanism,
+you want neural circuits,
+4081.28 that's the circuit, gustatory
+nerve from the tongue,
+4084.75 nucleus of the solitary
+tract in the brainstem,
+4086.6 then the thalamus, and
+then insular cortex.
+4089.13 And it is in insular cortex,
+4090.62 this regenerate cortex that we sort out
+4092.73 and make sense of and
+perceive the various tastes.
+4096.05 Now, it's amazing because
+just taking a little bit
+4099.64 of sugar or something sour
+4101.43 like a little bit of lemon juice
+4102.55 and touching it to the tongue
+4104.23 within 100 milliseconds, right?
+4107.38 Just 100 milliseconds,
+far less than one second,
+4110.81 you can immediately distinguish
+4112.71 ah, that's sour,
+4113.73 that sweet, that's bitter, that's umami,
+4117.18 and that's an assessment
+that's made by the cortex.
+4121.66 Now, what to these different
+five receptors encode for?
+4126.17 Well, sweet, salty, bitter, umami, sour,
+4127.95 but what are they really looking for?
+4129.87 What are they sensing?
+4131.51 Well, sweet stuff signals the
+presence of energy, of sugars.
+4135.86 And while we're all trying
+4137.08 or we're told that we
+should eat less sugar
+4140.24 for a variety of reasons,
+4143.07 the ability to sense whether or not a food
+4145.1 has rapid energy source
+4147.91 or could give rise to glucose is essential
+4149.92 so we have sweet receptors.
+4151.49 The salty receptors, these
+neurons are trying to sense
+4155.54 whether or not there are electrolytes
+4158.12 in a given food or drink.
+4160.81 Electrolytes are vitally important
+4162.35 for the function of our nervous system,
+4163.66 and for our entire body,
+4164.79 sodium is what allows neurons to fire.
+4168.18 What allows them to be
+electrically active.
+4170.6 We also need potassium and magnesium,
+4172.31 those are the ions that allow
+the neurons to be active.
+4175.47 So the salty receptors,
+4176.78 the reason that they are there
+4178.64 is to make sure that
+we are getting enough,
+4180.55 but not too much salt,
+4182.22 we don't want to ingest
+things that are far too salty.
+4186.82 Bitter receptors are there
+4189.22 to make sure we don't ingest
+things that are poisonous.
+4192.34 How do I know this?
+4193.21 How can I say that?
+4194.08 Even though I was definitely not consulted
+4196.04 at the design phase, how can I say that?
+4197.63 Well, the bitter receptors
+4199.88 create a what we call labeled line,
+4201.81 a unique trajectory to the neurons
+4204.9 of the brainstem that control the [gags],
+4207.2 the gag reflex.
+4209.35 If we taste something very bitter
+4211.5 it automatically triggers the gag reflex.
+4214.56 Now, some people like bitter taste,
+4215.83 I actually liked the
+taste of bitter coffee,
+4217.81 children generally like sweet tastes
+4219.46 more than bitter tastes,
+4220.79 but even babies if they
+taste something bitter,
+4222.68 they'll just immediately spit it up,
+4224.083 it's like the gag reflex.
+4226.06 Putrid smells will also
+evoke the same neurons,
+4229.9 so some people are very sensitive,
+4231.69 they have a very sensitive
+4233.62 or low threshold vomit reflex,
+4236.39 you're going to and there was
+somebody in my lab early on.
+4239.782 And we never did this intentionally,
+and we're just laughing
+4241.24 'cause it was so dramatic.
+4243.24 How we would have a discussion,
+4244.33 someone would say something
+about something kind of gross,
+4248.16 appropriate for the workplace,
+but nonetheless gross,
+4250.11 we are biologists,
+4251.42 would say something and they
+would say, "Stop, stop stop,
+4253.61 I'm going to throw up."
+4254.71 You know and some people
+have a very low threshold
+4257.66 quick gag reflex.
+4259.78 Other people don't, other people
+have a very stable stomach,
+4262.96 they don't, you know,
+4263.793 they rarely, if ever vomit.
+4266.42 The umami receptor isn't sensing savory
+4270.06 because the body loves savory,
+4272.49 it's because savory is a signal
+4274.67 for the presence of amino acids.
+4276.83 And we'll talk more about this,
+4278.24 but the presence of amino acids
+4281.03 in our gut and in our digestive system,
+4283.79 and the presence of
+fatty acids is essential,
+4287.28 there is in fact, no essential
+carbohydrate or sugar.
+4291.01 Now, I'm not a huge
+proponent of ketogenic diets
+4293.61 nor am I against them, I
+think it's highly individual,
+4296.78 you have to decide what's right for you,
+4298.83 but everybody needs
+amino acids to survive,
+4302.1 the brain needs them
+and we need fatty acids,
+4304.68 especially to build a healthy
+brain during development,
+4306.93 you need amino acids and fatty acids.
+4309.92 And the sour receptor, why
+would we have a sour receptor?
+4313.33 So, that we could have those
+really like sour candies?
+4316.13 I think they've gotten more
+and more sour over the years.
+4317.96 I admit I don't eat candy much,
+4320.03 but I do have a particular weakness
+4322.6 for like a really good
+really sour like gummy peach
+4327.96 or they if the gummy cherries are dipped
+4329.83 in whatever that sour powder,
+4331.21 so I was a kid who I admit it,
+4333.03 I liked the LIK-M-AID thing,
+4334.36 I'd like drink the powder.
+4335.65 Please don't do this, don't
+give this garbage to your kids,
+4339.838 but I liked it, it was tasty,
+4341.72 but sour receptors are not there
+4345.06 so that you can ingest
+gummy sour gummy peaches
+4348.01 or something like that, that's
+not why the system evolved,
+4351.05 it's there and we know it's there
+4354.01 to detect the presence of
+spoiled or fermented food.
+4358.05 Fermented fruit has a sour element to it,
+4360.84 and fermented things while
+certainly some fermented foods
+4364.18 like sauerkraut, and kimchi,
+and things of that sort
+4366.21 can be very healthy for us
+4367.37 and are very healthy in
+reducing inflammation,
+4369.35 there's great data on that,
+4371.99 pro quality microbiome, et cetera.
+4377.72 Fermented fruit can be poisonous, right?
+4379.73 Alcohols are poisonous in
+many forms to our system
+4383.93 and the sour receptor bearing neurons
+4388.24 communicate to an area of the brainstem
+4390.58 that evokes the pucker response,
+4393.35 closing of the eyes and
+essentially shutting of the mouth,
+4396.6 and cringing away.
+4398.08 I think cringe is like a thing now,
+4399.3 my niece, whenever I seem to
+say something or do something
+4402.13 it's either an eye-roll, a
+cringe, or both in combination.
+4406.5 So the sour, the sweet,
+4409.86 the salty, the bitter,
+and the umami system,
+4412.4 were not there so that we could
+have this wonderful pallet
+4415.36 of foods that we enjoy so much,
+4418.35 they'll allow us to do that,
+but they're there to make sure
+4420.66 that we bring in certain things
+4421.87 to our system and that we
+don't ingest other things.
+4424.91 Now, what's the sixth sense
+4427.71 within the taste system?
+4428.94 Not sixth sense generally,
+but within the taste system.
+4430.81 What's this putative
+possible sixth receptor?
+4434.48 I already kind of hinted at it
+4436.23 when I talked about fatty acids,
+4438.2 there are now data to support the idea
+4441.87 although there's still more
+work that needs to be done
+4443.94 that we also have receptors
+on our tongue that sense fat.
+4448.09 And that because fat is
+so vital for the function
+4452.28 of our nervous system and
+the other organs of our body
+4455.21 that we are sensing the
+fat content in food,
+4457.96 maybe this is why I can only eat half,
+4461.27 but no less than half of
+a jar of almond butter
+4463.61 or peanut butter in one sitting.
+4465.26 I just can't, unless it's not salted,
+4466.77 in which case, it makes no sense to me.
+4468.8 But it's remarkable how that texture,
+4473.4 and also the flavor,
+but that texture of fat.
+4476.51 I love butter, I am guilty,
+4478.28 and Costello is definitely
+guilty of eating pats of butter
+4481.15 from time to time, I
+have no guilt about this.
+4483.01 People eat pats of cheese,
+4484.16 why shouldn't we eat a pat of butter?
+4486.25 If you think that's gross
+4487.34 then maybe I have a greater abundance
+4490.14 of the fat receptors in my tongue,
+4492.34 maybe I have a fat tongue than you do.
+4495.37 But nonetheless, the ability
+to sense fat here in our mouth
+4499.63 seems to be critical,
+4501.36 you can imagine why that is.
+4504.21 I want to talk about the tongue
+4506.16 and the mouth as an extension
+of your digestive tract.
+4509.94 I know that might not be
+pleasant to think about,
+4512.07 but when you look at it
+4513.14 through the lens that
+I'm about to provide,
+4515.07 it will completely
+change the way you think
+4516.65 about the gut brain
+4517.8 and about all the stuff that you've heard
+4519.01 in these recent years about
+oh, we have this second brain,
+4522.53 it's all these neurons in our gut,
+4523.7 I've been chuckling through
+these last few years
+4527.01 as people have gotten so
+excited about the gut brain,
+4529.42 not because of their excitement,
+4530.82 I think that excitement is wonderful,
+4532.28 but we always knew that the nervous system
+4534.13 extended out of the
+brain and into the body,
+4538.44 and people seem kind of overwhelmed
+4540.61 and surprised by the idea that
+we have neurons in our gut
+4543.7 that can sense things like
+sugars and fatty acids.
+4546.56 And I think those are
+beautiful discoveries,
+4548.27 don't get me wrong.
+4549.103 Diego Bohorquez's lab
+out of Duke University
+4551.57 has done beautiful studies showing that
+4553.81 within the mucosal lining of our gut
+4556.39 we have neurons that sense fatty acids,
+4558.53 sugars, and amino acids,
+4560.9 and that when we ingest something
+4562.93 that contains one or two
+or three of those things,
+4565.51 there's a signal sent via the vagus nerve
+4567.97 up into what's called the nodose ganglion,
+4570.9 N-O-D-O-S-E,
+4573.11 and then into the brain
+where it secretes dopamine
+4575.57 which makes us want more of that thing,
+4577.36 it makes us more motivated to pursue
+4579.9 and eat more of that thing,
+4581.66 that's either fatty, or umami, savory,
+4585.29 or has a sweet taste,
+4587.95 any one or two or three
+of those qualities,
+4591.7 independent of the taste.
+4593.55 Now, I think those are beautiful data,
+4595.28 but we know that this thing, the mouth.
+4598.057 And for those of you listening
+4599.11 I've just got my couple
+of fingers in my mouth,
+4600.67 that's why I sound like I've
+got something in my mouth.
+4604.8 This thing in the front of our face,
+4606.67 we use it for speaking,
+4607.61 but it is the front of
+our digestive tract.
+4609.58 We are essentially a series of tubes
+4611.81 and that tube starts with your mouth
+4614.5 and heads down into your stomach.
+4616.42 And so, that you would sense
+4619.13 so much of the chemical constituents
+4621.03 of the stuff that you
+might bring into your body
+4623.75 or that you might want
+to expel and not swallow
+4626.15 or not interact with by being
+able to smell is it putrid?
+4629.91 Does it smell good?
+4631.4 Does it taste good?
+4632.36 Is this safe?
+4633.193 Is it salty?
+4634.026 Is it so sour that it's fermented
+and it's going to poison me?
+4637.24 Is it so bitter that it could poison me?
+4639.73 Is it so savory that, mmm,
+4642.12 yes. I want more and more of this.
+4643.91 Well, then you'd want to trigger dopamine,
+4645.25 that's all starting in the mouth.
+4647.33 So, you have to understand
+that you were equipped
+4651.12 with this amazing chemical
+sensing apparatus,
+4654.68 we call your mouth and your tongue.
+4656.74 And those little bumps on your tongue
+4658.42 that they call the papillae,
+4659.96 those are not your taste buds.
+4661.57 Surrounding those little papillae
+4664.38 like little rivers are these
+little dents and indentations.
+4668.22 And what dents and
+indentations do in a tissue
+4670.92 is they allow more surface area,
+4672.52 they allow you to pack more receptors.
+4674.72 So, down in those grooves are
+where all these little neurons
+4677.65 and their little processes are
+4680.65 with these little receptors
+4681.71 for sweet, salty, bitter, umami, sour,
+4683.67 and maybe fat as well.
+4685.007 And so, it's this incredible device
+4686.75 that you've been equipped with,
+4688.05 that you can use to interact
+4689.55 with various components
+of the outside world
+4692.0 and decide whether or not you
+want to bring them in or not.
+4695.35 Just as you can lose
+those olfactory neurons,
+4697.67 if you happen to get hit on the head
+4699.66 or you have some other thing,
+4702.08 maybe it was an infection that caused loss
+4704.04 of those olfactory sensory neurons,
+4706.01 you can also lose taste
+receptors in your mouth.
+4709.68 If you've ever eaten
+something that's too hot,
+4713.87 not spicy hot, but too hot,
+4716.34 you burn your tongue, you burn receptors.
+4720.04 It takes about a week to
+recover those receptors.
+4723.55 For some people it's a
+little bit more quickly,
+4725.87 but if you burn your tongue badly
+4727.84 by ingesting a soup that's too hot
+4729.38 or a beverage that's too hot,
+4730.46 you will greatly reduce
+your sense of taste
+4733.12 for essentially all tastes.
+4736.72 And that's because those
+neurons sit very shallow
+4741.32 beneath the tongue's surface,
+4742.95 and so that if you put
+something too hot on,
+4744.28 you literally just burn
+those neurons away.
+4746.06 Luckily those neurons also
+can replenish themselves.
+4749.41 Those neurons are of the
+peripheral nervous system,
+4752.79 and like all peripheral system neurons
+4754.78 they can replenish or regenerate.
+4757.55 So, if you burn your mouth
+in about a week or so
+4760.14 hopefully sooner you'll
+be able to taste again.
+4763.06 In fact, everybody's ability to taste
+4767.0 is highly subject to training.
+4769.1 You can really enhance
+your ability to taste
+4771.45 and taste the different component
+parts of different foods
+4775.2 simply by paying attention to
+what you're trying to taste,
+4778.92 this is an amazing aspect
+of the taste system.
+4782.37 I think more than any other system,
+4784.16 the taste system and perhaps
+the smell system as well
+4787.2 can be trained so that you can
+learn to pick out the tones,
+4792.33 if you will of different ice cream,
+4795.97 or different beverages.
+4798.56 I'm somebody who, you know,
+4799.67 I don't drink much alcohol,
+4800.8 I'll occasionally have
+a drink or something,
+4802.46 but a while ago I got to
+taste a bunch of different
+4807.44 white tequilas, these are
+different kinds of tequilas
+4809.86 that are, they're not
+brown, they're white.
+4811.72 And I sort of assumed that
+all tequila was disgusting,
+4815.97 that was my assumption before doing this.
+4816.84 And then I tasted a
+couple of white tequilas
+4818.76 and I realized oh, those
+aren't aren't too bad.
+4820.53 I tasted a few more,
+4822.12 and then pretty soon I
+could really start to detect
+4824.52 the nuance and the difference.
+4825.84 Now, I haven't had a
+tequilas in a long time,
+4828.06 now I sort of tend to not
+drink at all these days,
+4830.53 but in a very short period
+of time like a couple of days
+4833.3 I got very good at detecting
+which things I liked
+4835.84 and I could start to pick out tones.
+4837.69 So, I'm not a wine drinker,
+4839.19 but for those of you that are,
+4840.7 you know, you hear about
+oh, it has floral tones,
+4842.82 or berry tones, or chocolate tones.
+4844.85 You know, some of that is
+just kind of menu-based
+4848.71 and kind of marketing-based silliness
+4851.29 designed to get you excited
+4852.97 about what you're about to ingest.
+4854.24 But some of it is real,
+4855.72 and for people that are skilled
+4857.41 in assessing wines or assessing foods.
+4861.13 I'm much more of an eater than a drinker,
+4863.15 you can really start to
+develop a sensitive palate,
+4866.04 a nuanced palette through what
+we call top-down mechanisms.
+4869.62 This olfactory cortex
+that takes these five,
+4873.03 maybe the sixth fat receptor too,
+4874.9 information and tries to make sense
+4877.51 of what's out there in the world.
+4879.0 And what its utility is,
+is it good? Is it bad?
+4882.41 Do I want more of it or less than it?
+4884.2 That neural circuitry is
+unlike other neural circuitry
+4887.78 in that it seems very amenable
+4889.72 to behavioral plasticity
+for whatever reason,
+4893.29 and we could talk about
+what those reasons might be.
+4895.61 You know, it's interesting sometimes
+4896.87 to think about how your taste
+literally, chemical taste,
+4901.23 is probably very different
+than that of other people,
+4903.88 how a food tastes to you
+is probably very different
+4906.71 than how it tastes to somebody else.
+4907.93 The same probably cannot
+be said of something
+4910.24 like vision or hearing,
+unless you're somebody
+4912.7 who has perfect pitch or your
+color vision is disrupted,
+4916.75 or you're a mantis shrimp,
+4917.97 chances are when we
+look at the same object
+4920.16 two people are seeing more
+or less the same object
+4923.06 or perceiving it in a very similar way.
+4925.4 There are experiments that
+essentially establish that.
+4928.08 Now we, have taste receptors
+4930.18 and a lot of those tastes receptors,
+4931.06 their chemical structures are known,
+4933.16 they come with fancy names
+like the T1R1 or the T1R2,
+4937.94 which were identified as the
+sweet and umami receptors.
+4941.98 So, what's interesting
+is that this umami flavor
+4945.14 is the savory flavor rather
+4946.883 that's sensed by umami
+receptors is very close
+4950.4 to the receptor that detects sweet things.
+4954.5 Similarly, bitter is sensed
+4957.39 by a whole other set of receptors.
+4959.63 Now, there's a fun naturally
+occurring experiment
+4962.8 that will forever change the
+way that you look at animals,
+4967.03 and the way certainly
+that I think about dogs
+4969.21 and Costello in particular.
+4971.47 Carnivorous large animals like tigers
+4975.39 and some grizzly bears for instance,
+4978.08 we know that they have no
+ability to detect sweet,
+4982.07 they don't actually have the receptors
+4984.34 for sweet on their tongue,
+4986.79 but their concentration of umami receptors
+4989.43 of their ability to detect savory
+4992.1 is at least 5,000 times
+that which it is in humans.
+4996.88 In other words, if I eat
+a little piece of steak,
+5000.52 or Costello eats a little piece of steak,
+5003.77 that steak probably tastes much,
+5006.4 much more savory than it does to me.
+5011.03 So dogs, and tigers, and bears, et cetera,
+5015.05 they're going to taste savory
+things and smell savory things
+5018.51 with a much higher degree of sensitivity,
+5021.03 but they can't taste sweet things.
+5022.64 Other large animals, which
+are mostly herbivores
+5025.33 like the panda bear for instance.
+5028.25 It's hard to believe that
+thing is even a bear,
+5030.11 I got nothing against pandas,
+5031.52 I just think that they
+get a little bit too much
+5033.67 of the limelight frankly.
+5035.99 So, no vendetta against
+Panda, save the pandas,
+5038.23 I hope they replenish all the pandas,
+5039.48 but pandas in all their whatever
+5044.02 have no umami receptors,
+they can't taste savory,
+5047.62 but they have greatly heightened
+density of sweet receptors.
+5051.74 So, there they are eating
+these whatever bamboos all day
+5054.76 or not bamboozle, but bamboos all day
+5058.39 and they can taste things
+that are very sweet
+5062.0 with a much higher degree of intensity.
+5064.66 And in general, animals
+that are more gentle
+5069.99 that are herbivores, excuse me.
+5072.3 Or animals that have the
+propensity for aggression,
+5075.01 that's where you really see the divergence
+5076.73 of the umami receptor
+5078.06 because it's associated
+with meat and amino acids.
+5080.7 And where you see the enhancement
+of the sweet receptors
+5084.41 for animals that eat a
+lot of plants and fruits,
+5087.11 and they probably taste
+very different to them
+5089.34 than they do to you and me.
+5091.04 And, so it's interesting to note
+5093.07 that animals that eat meat,
+that eat other organisms
+5097.2 can actually extract more
+savory experience from that.
+5100.25 What does this mean for you?
+5101.5 All right, do you associate
+yourself as a tiger,
+5104.32 or a grizzly bear, or a panda,
+or a combination of both?
+5106.87 Most people are omnivores.
+5108.44 However, you may find it
+interesting that people
+5112.06 that for instance eat a
+pure carnivore type diet
+5115.99 or a keto diet where they
+are ingesting a lot of meat,
+5119.33 so therefore are sensing
+a lot of umami flavors.
+5122.63 And I realized not everyone
+who's keto eats meat,
+5125.42 but those who do that will
+develop a more sensitive palate
+5129.28 and likely there are some
+data, although early data,
+5132.49 craving for umami-like foods.
+5135.32 Whereas people that eat
+a more plant-based diet
+5138.96 are likely developing a
+heightened sensitivity
+5143.5 and desire for, and maybe even
+dopamine response to sugars
+5147.49 and plant-based foods.
+5149.1 Now, this is my partial
+attempt to reconcile
+5152.21 the kind of online battle
+that seems to exist
+5155.49 between plant-based versus animal-based,
+5159.27 purely plant-based or
+purely animal-based diets.
+5162.11 I think most people are omnivores,
+5163.89 but it's kind of interesting to think
+5165.183 that the systems are plastic
+5168.27 such that people might want more meat
+5170.45 if they eat more meat,
+5171.38 people might want more plants
+5172.82 if they eat enough plants
+for a long period of time.
+5175.55 And this might explain some
+of the chasm that exists
+5178.33 between these two groups.
+5179.8 Now, this is not to say
+anything about the ethical
+5183.05 or the environmental
+impacts of different things,
+5184.75 I don't even want to get into that
+5185.87 because the meat people say
+that the plant-based diets
+5188.1 have as much a negative impact
+5189.71 as the plant people say
+that the meat based diets,
+5191.64 that's a totally different discussion.
+5193.13 What I'm talking about here is
+food craving and food seeking
+5196.75 and one's ability to detect
+these umami, savory flavors
+5200.49 is going to be enhanced
+by ingesting more meat
+5202.77 and less activation of
+the sweet receptors.
+5205.51 So in other words, the more meat you eat
+5207.41 the more you're going to become
+like a tiger, so to speak.
+5210.88 And the more that you avoid
+these umami flavors and meats
+5215.01 and the more that you
+would eat plant-based foods
+5217.37 and in particular sweet foods,
+5218.86 the more you will likely
+suppress that umami system
+5222.55 and that you will have
+a heightened desire for,
+5226.53 appetite for and sensing of sweet foods
+5229.94 or foods that contain sugars.
+5231.98 What I'm about to tell you
+is going to seem crazy,
+5235.14 but is extremely interesting
+5237.57 with respect to taste and taste receptors.
+5241.11 Remember, even though we can enjoy food
+5244.1 and we can evolve our sense
+5245.42 of what's tasty or not tasty,
+depending on life decisions,
+5249.13 environmental changes, et cetera,
+5251.04 the taste system just
+like the olfactory system
+5252.747 and the visual system
+5254.19 was laid down for the purpose
+5256.66 of moving towards things
+that are good for us
+5259.42 and moving away from
+things that are bad for us,
+5261.41 that's the kind of core
+function of the nervous system.
+5265.56 Well, taste receptors are not
+just expressed on the tongue,
+5270.87 they are expressed in other
+cells and other tissues as well.
+5274.2 Some of you may be able to imagine foods
+5277.1 that are so delicious to you
+5278.47 that they make your entire body feel good.
+5281.61 Or foods that are so
+horrifically awful to think about
+5286.44 let alone taste, that they
+create a whole body shuddering
+5290.34 or kind of repellent-type response
+5292.73 where you just either cringe
+or turn your face away
+5295.81 even in the absence of that food.
+5297.68 That's sort of how I feel about
+pungent, Gorgonzola cheese.
+5301.75 If you like Gorgonzola
+cheese, I don't judge you,
+5305.49 I just, that's an individual difference.
+5307.61 I happen to love certain foods,
+5309.62 I do like savory foods very much.
+5312.89 I, when I think about them,
+5314.53 they just they make me feel good.
+5317.02 And I'm oftentimes not even associating
+5319.97 with the taste of those foods,
+5321.29 it feels almost like a visceral thing.
+5323.56 Well, it turns out that
+some of the taste receptors
+5325.75 extend beyond the tongue,
+5327.45 that they actually can extend
+5329.14 into portions of the gut
+and digestive system.
+5332.11 And if that's not strange enough,
+5335.49 turns out that some of the taste receptors
+5337.32 are actually expressed on
+the ovaries and the testes.
+5342.77 So, what that means is that the gonads,
+5344.75 the very cells, and tissues,
+and organs in our body
+5348.15 that make up the reproductive axis
+5351.01 are expressing taste receptors.
+5353.08 Okay, so how do we interpret this?
+5354.25 Does this mean that when you eat something
+5355.91 that's very savory or
+very sweet for instance,
+5359.21 that it's triggering activation
+5361.35 of the ovaries or of the testes?
+5364.45 Well, it's possible.
+5367.02 Now, how those molecules,
+5369.26 those chemical molecules
+would actually get there
+5371.36 isn't clear, the digestive
+track does not run directly
+5374.78 to the testes or to the ovaries.
+5376.86 But nonetheless, what this
+means is that chemical sensing
+5380.06 of the very things that
+we detect on our tongue
+5381.937 and that we call taste in quotes in food
+5386.7 is also evoking
+5389.52 cellular responses within
+the reproductive gonads.
+5394.48 Now, whether or not this
+underlies the positive association
+5397.57 that we have with certain
+foods isn't clear,
+5400.33 but I'd be remiss if I
+didn't point out the obvious,
+5404.63 which is that the relationship
+between the sensual nature
+5410.01 of particular foods
+5411.96 and sensuality generally
+and the reproductive axis
+5416.2 is something that's been
+covered in many movies,
+5419.15 there are entire movies that are focused
+5421.29 on the relationship between for instance,
+5423.72 chocolate and love and
+reproductive behaviors,
+5426.97 or certain feasts of meat
+5430.96 and their wonderful tastes
+5433.36 and the kind of sensuality around feasts
+5436.67 of different types of foods,
+5438.52 but in general, it's the
+sweet and the savory,
+5441.79 rarely is it the sour or the
+bitter, the salty or the fat.
+5446.23 And not surprisingly perhaps,
+5449.29 it is the T2Rs and the T1Rs,
+5451.603 the receptors that are
+associated with the sweet
+5454.58 and with the umami, the savory flavors
+5457.61 that are expressed not just on the tongue
+5459.74 and in portions of the digestive tract,
+5462.09 but on the gonads themselves.
+5464.31 So, what does this mean?
+5465.38 Does this mean that eating certain foods
+5466.99 can stimulate the gonads?
+5468.76 Maybe, there's no data that immediately
+5470.66 support that right now, but
+this is an emerging area.
+5474.69 If you'd like to read more about this
+5477.12 there's a great review,
+5478.76 entitled Taste perception:
+From the tongue to the testis,
+5481.99 although they do also
+talk about the ovaries.
+5484.77 Why they didn't include that in the title
+5486.21 is I think a reflection
+of the bias of the author.
+5489.73 The author indeed not
+incidentally is Feng Li,
+5494.045 last name L-I.
+5496.361 It's a very interesting paper published
+5498.55 in Molecular Human Reproduction.
+5502.2 You can find it easily
+online, it's downloadable,
+5504.19 I'll also provide a link to it.
+5506.0 I just think it's fascinating
+5507.65 that these taste receptors are
+expressed in other tissues.
+5510.07 And I should mention
+that they're expressed
+5511.35 in tissues of other areas
+of the body as well,
+5514.53 including the respiratory system,
+5516.82 but the richest aggregation
+5520.42 or concentration of these receptors
+5521.87 for umami and sweet of
+course is on the tongue,
+5524.13 but also on the gonads.
+5525.78 And I think it does speak
+5527.18 to the possible bridge between
+5529.69 what we think of as a sensory
+5532.19 or a sensual experience of food
+5534.51 and the deeper kind of
+visceral sense within the gut,
+5538.09 and maybe even within the gonads as well
+5540.09 of something that we find
+extremely pleasurable,
+5542.64 or even appetitive that
+we want to move toward it.
+5546.32 We are actually going to
+return to that general theme
+5548.85 in the discussion about touch sensation.
+5552.24 Some people for instance,
+5554.58 when they touch certain
+surfaces like furs,
+5558.09 or sheep skins, or velvet,
+5561.41 or soft, smooth surfaces
+5563.63 it feels good elsewhere in their body,
+5566.27 not just at the point of
+contact with that surface.
+5570.77 And similarly, if there's the...
+5574.18 How about this one?
+5575.013 The screech of chalk on a
+chalkboard, it's a sound,
+5578.12 but it has a very strong
+visceral component,
+5580.77 or sandpaper, like
+fingernails on a chalkboard,
+5584.48 not the sound, but the feeling, right?
+5586.66 Exactly, so our whole
+nervous system is tuned
+5589.52 to either be drawn toward appetitive,
+5592.38 or repelled by aversive behaviors, right?
+5595.86 So there's this push-pull that exists,
+5597.81 and what I'm referring to
+in terms of these receptors
+5599.97 on the tongue that are also
+expressed on the gonads
+5602.14 is yet another example of
+what at least in this case
+5604.39 seems to be an appetitive thing,
+5606.78 a desire to move toward certain foods
+5609.54 and maybe even the experiences
+5610.86 that are associated with those foods.
+5612.43 I want to talk about a particular aspect
+5614.33 of food and a chemical reaction in cooking
+5617.72 called the Maillard reaction.
+5619.34 Some of you have probably
+heard of the Maillard reaction,
+5621.58 it's spelled M-A-I-L-L-A-R-D.
+5625.58 The D is silent, so don't
+call it the Maillard reaction,
+5628.77 and it's not the Maillard reaction,
+5631.07 it is the Maillard reaction.
+5632.73 And the Maillard reaction is a reaction
+5635.02 that for the aficionados is
+a non-enzymatic browning.
+5638.57 The other form of non-enzymatic
+browning is caramelization,
+5641.76 although when you hear caramel, carmel,
+5644.79 I think it's caramel.
+5646.0 You think sweet, and indeed
+caramelization is a sugar-sugar
+5651.16 chemical interaction that leads
+to a kind of nicely toasted
+5655.66 not burnt, but nicely toasted sweet taste.
+5658.68 Whereas the Maillard reaction
+is that really savory reaction
+5662.53 that occurs when you have a
+sugar amino acid reaction.
+5665.41 Remember, we have neurons in our gut,
+5667.01 but also neurons in our tongue
+5669.37 and neurons deep in the brain
+that are comparing the amount
+5672.61 of sugar to savory.
+5675.84 Okay, and the Maillard
+reaction is very interesting
+5678.55 for you chemists out there,
+5680.0 this is going to be way too elementary.
+5681.47 And for you non-chemists
+5682.4 it's probably going to be
+a little bit of a reach,
+5683.99 but just bear with me, all
+these chemicals that we sense
+5687.32 have a different structure,
+5688.44 it's like hydrogens, and oxygens,
+5689.99 and aldehyde groups, and all these things.
+5691.38 And basically the Maillard reaction
+5693.04 involves what's called a free aldehyde.
+5695.07 If you didn't like chemistry,
+don't worry about it,
+5697.59 it's basically got a group
+there that kind of sits open
+5701.09 that allows it to interact
+5702.53 with other things and actually
+through the use of heat
+5705.76 and the process that we call brazing,
+5708.67 which I'll talk about in a moment
+5710.22 you create a what's called a ketone group.
+5713.12 Now, most people now have heard of ketones
+5714.74 'cause they think about
+the ketogenic diet,
+5716.68 but a ketone group is
+actually a chemical compound
+5720.65 that can be used for energy,
+5721.98 and that's why people say you
+can use ketones for energy,
+5724.46 but if you've ever actually
+encountered ketones,
+5728.14 if you for instance, get liquid ketones,
+5730.701 a ketone ester, and you smell it,
+5732.88 what does it smell like?
+5734.13 It smells a little bit like an alcohol,
+5736.55 but it has a kind of savory taste,
+5739.95 even when you smell it.
+5741.48 Okay, there are other smells
+that have these tastes too,
+5744.19 but for the Maillard reaction
+5746.24 which could be created for instance
+5747.93 like if you took a piece of meat,
+5749.27 or if you're not a meat eater
+5750.44 if you took tomatoes and
+you cook them in a pan
+5753.05 and you cooked it nice and
+slow till it's simmered
+5754.97 and almost started to brown
+and burn a little bit.
+5757.23 Usually if I do it burns,
+I'm not a good cook
+5760.14 as Costello points out a lot,
+5762.05 but it gets that like almost
+tangy, very umami-like flavor.
+5767.81 And sometimes it will
+even stick to the pan,
+5770.02 if you scrape it off
+5771.227 and actually you can
+taste it in your mouth
+5773.43 as you're cooking it.
+5774.64 That's the Maillard reaction,
+5775.9 that's that free aldehyde group,
+5777.28 and that's the production
+of a ketone group.
+5781.03 When you smell ketones, it
+smells very much like that.
+5785.32 Okay, some people talk about the ketones
+5787.26 will produce like fruity breath.
+5788.8 And that's true if people
+are really far into ketosis,
+5791.12 their breath has a kind of fruity odor,
+5792.61 that's a little bit of a different thing.
+5794.33 So, the relationship
+between smell and taste
+5796.94 is a very, very close one.
+5799.43 And this is why when people drink wine
+5800.96 they often will inhale and then sip,
+5803.49 some of that is just kind of like pomp
+5805.12 and circumstance frankly,
+they make a big deal of it,
+5808.35 but they can sense
+things with their mouth.
+5812.23 The combination of odor receptors
+5815.14 being activated in a particular way,
+5817.24 and taste receptors in
+the mouth being activated
+5819.44 in a particular way,
+triggers the activation
+5821.72 of multiple brain areas that
+are associated with taste,
+5824.58 and circuitry within the body
+5826.82 that's associated with the behaviors
+5829.15 that relate to that taste
+like leaning toward it,
+5831.98 or leaning away from it
+5833.11 depending on whether or not
+it's appetitive or aversive.
+5835.97 So the Maillard reaction is
+a very interesting reaction
+5838.87 involving this sugar amino acid thing,
+5841.9 but really it's what it's
+doing is heating up food
+5845.15 such that the amino
+acids are more available
+5849.9 literally in their chemical form
+5851.37 for detection by the neurons.
+5853.4 This is a phenomenon that occurs
+5854.69 in other domains of the taste system.
+5857.87 For instance, a lot of what's happened
+5860.43 with highly processed foods
+5862.91 is that manufacturers have figured out
+5865.7 how to trigger more dopamine response
+5868.37 by ingestion of these sugary
+foods and created textures,
+5872.39 and created essentially design
+of foods for two purposes.
+5875.76 I'm not out to completely
+demonize processed food,
+5878.95 I did that in a previous episode,
+5880.75 but processed foods are
+really designed to take foods
+5884.54 that ordinarily would spoil,
+that would have a shelf life
+5886.74 and extend their shelf life
+5887.72 to turn foods which are not
+a commodity into a commodity.
+5890.74 Something could be stored and
+used essentially as a tradable
+5896.31 purchasable, sellable resource.
+5899.16 In doing that they change,
+5900.53 they've also decided to change the texture
+5902.6 so that you want to chew more of them.
+5904.77 Like I have this thing
+5905.7 I don't know what it is for
+those Triscuit crackers.
+5908.9 I don't know why are those things so good?
+5910.16 It's probably the
+texture, got those layers,
+5912.33 they're just kind of perfectly salty.
+5913.83 I haven't had one in a long time,
+5914.84 so I bet if I had one now
+it wouldn't taste as good
+5916.82 as I'm imagining it.
+5918.04 But those combinations of
+texture, smell, and taste
+5922.61 are what combine to activate
+these different brain areas
+5924.83 that make you really
+want to desire something.
+5927.47 And the people who make foods,
+5929.13 processed foods in particular,
+5930.91 are phenomenally good at figuring out
+5933.63 what drives the dopamine
+system and makes you want more
+5936.07 of these things either
+because of the way they taste
+5938.76 and/or because of the
+way they trigger neurons
+5940.67 in your gut that have
+nothing to do with taste
+5942.5 that simply make you
+desire more of the food.
+5944.65 In other words, many of the
+foods that are processed foods
+5948.42 make you desire more of them,
+5950.39 it's impossible to eat
+one chip kind of thing.
+5953.3 Not because they taste good,
+5954.61 but because in your gut
+they're activating the neurons
+5957.66 that activate dopamine
+5958.66 which make you seek more of those foods
+5960.91 independent of blood
+sugar or anything else.
+5963.87 So, you may actually be
+eating more particular foods
+5966.73 not because they taste good,
+5968.62 but because they feel good
+on your tongue and mouth,
+5972.85 and because the neurons in your gut
+5974.83 which are totally independent
+of conscious taste
+5977.18 are triggering the release of dopamine
+5978.73 which is a molecule that
+makes you seek more of,
+5981.37 and do more of anything
+5982.5 that led to the ingestion of that food.
+5985.01 There's a fun experiment that you can do,
+5987.32 which is to completely invert
+your sense of sweet and sour,
+5993.16 there's actually a way to do this readily.
+5994.98 When I was a post-doc,
+5996.86 I used to have a journal club at my house,
+5999.01 people would come over in
+the evening once a month,
+6001.9 and we would read a paper,
+6003.2 typically the weirdest paper we could find
+6005.17 and we would eat food and hang out,
+6008.147 that's what nerds did and do for fun,
+6011.71 so that's what we did.
+6012.92 And one time someone brought
+what's called miracle berry.
+6017.53 Okay, so this isn't some
+psychedelic plant medicine thing,
+6020.03 miracle berry, you can purchase online,
+6022.43 it's relatively inexpensive.
+6024.5 It actually causes a change
+6026.47 in the configuration of taste receptors
+6030.11 such that when you eat
+something sour, it tastes sweet.
+6033.64 And so what's really wild
+is you ingest miracle berry,
+6037.29 and then you bite into a lemon,
+6039.41 maybe even the lemon and peel
+6040.8 and it tastes as sweet as a peach.
+6043.21 And this effect lasts several hours.
+6046.91 Definitely, you know, check any warnings,
+6048.5 I don't know what sort of warnings these,
+6050.08 a miracle berry carries,
+6051.16 but I'm sure there's always
+something, you can imagine.
+6054.66 There are a number of
+papers on miracle berry
+6056.64 or miracle fruit it's called,
+6059.36 but it changes your perception of sour
+6062.35 at a perceptual level,
+6064.5 but it does that by changing the activity
+6067.07 of the receptors in the mouth and tongue.
+6069.59 Now, this is important as a
+principle and it's underscored
+6072.41 by experiments that have
+been done by for instance
+6074.58 Charles Zuker's lab at
+Columbia University,
+6076.91 where they've essentially
+genetically engineered animals
+6080.21 such that the bitter receptor is swapped
+6083.34 with the sweet receptor,
+6084.45 or the sweet receptor is swapped
+with the bitter receptor.
+6086.72 And what they show is
+that the actual food,
+6090.06 the experience on the tongue
+6092.4 drives different pathways in the brain.
+6095.04 Here's what they did,
+they essentially took mice
+6097.73 and swapped out the sweet receptor
+6099.37 and put in a bitter receptor.
+6100.67 And then what they found is that
+6102.08 whereas normally mice
+would actively seek out
+6105.61 and even work for sugar water, sucrose,
+6108.27 they really like that.
+6109.54 If they replace the sweet
+receptor with the bitter receptor,
+6112.31 the mice would avoid sugar water.
+6113.96 And the reverse was also true,
+6115.17 that mice would drink a
+bitter solution avidly,
+6118.25 they liked a bitter solution
+6119.58 if they swapped out the bitter
+receptor for sweet receptor.
+6123.06 What this means is that
+our entire experience
+6125.01 of what we taste is dependent
+6126.38 on how we experience that
+taste the level of the tongue.
+6129.49 And so, you're hopefully not
+going to do genetic engineering
+6132.62 of your taste receptors,
+6133.84 but if you'd like to do
+this sort of experiment
+6136.19 you actually can do it very
+easily using miracle fruit,
+6138.8 the instructions of how
+much to ingest, et cetera,
+6141.72 any safety concerns are
+usually on the package
+6143.926 and should be easy to find.
+6146.15 And there's a lot of science
+to support how this works,
+6148.29 it's kind of a fun
+experiment that anyone can do
+6151.29 and will completely change your perception
+6153.28 of any food that you're
+accustomed to eating.
+6155.49 In fact, you can figure out how much sweet
+6158.8 or the sense of sweetness
+6160.62 is contributing to your
+experience of a food,
+6163.02 even if you don't think
+of it as a sweet food
+6165.0 through this miracle fruit experiment.
+6167.28 You could take miracle fruit,
+6168.32 you could eat a slice of
+pepperoni pizza or cheese pizza,
+6171.24 which perhaps normally to you
+would taste just like pizza,
+6174.81 and you'll notice it
+tastes very different.
+6176.99 What you are detecting is
+how much the sense of sweet
+6181.27 was contributing to
+that particular flavor.
+6184.59 Now, I'd like to return to pheromones.
+6187.91 As I mentioned earlier,
+6189.13 true pheromonal effects are
+well-established in animals.
+6192.62 And one of the most
+remarkable pheromone effects
+6195.12 that's ever been described
+6196.1 is one that actually I've
+mentioned before on this podcast,
+6198.33 but I'll mention again just briefly,
+6200.07 which is the Coolidge effect.
+6201.63 The Coolidge effect is the effect
+6203.6 of a male of a given species,
+6206.89 in most cases, it tended to be
+a rodent or a rooster mating.
+6213.01 And at some point reaching exhaustion
+6215.96 or the inability to mate again
+6218.02 because they just simply
+couldn't for whatever reason.
+6221.36 The Coolidge effect establishes
+that if you swap out the hen
+6226.66 with a new hen, or the female
+rat or mouse with a new one
+6230.21 then the rat or the rooster
+6233.86 spontaneously regains
+their ability to mate,
+6236.4 somehow their vigor is returned,
+6238.52 the refractory period after
+mating that normally occurs
+6242.14 is abolished and they can mate again.
+6245.6 It turns out that the Coolidge effect
+6246.95 runs in the opposite direction too.
+6249.06 I did not know this, but I
+recently learned of a study,
+6251.6 it was actually done in
+hamsters, not in in mice,
+6254.33 but it turns out that females also will,
+6257.58 female rodents will mate to exhaustion.
+6259.99 And at some port...
+6261.01 At some point, excuse me,
+6262.22 they will refuse to mate any longer
+6264.13 unless you swap in a new male.
+6266.22 And then because mating in rodents
+6268.61 involves the female being receptive,
+6270.32 there are certain number of behaviors
+6271.9 that mean that tell you that she's willing
+6274.88 and wanting to mate,
+so-called lordosis reflex.
+6279.97 Then if there's a new male,
+6282.17 she will spontaneously
+regain the lordosis reflex
+6286.34 and the desire to mate.
+6287.37 And how do you know this?
+6289.55 How do we know it's a pheromonal effect?
+6291.38 Well, this recovery of the
+desire and ability to mate
+6295.01 both in males and in females
+6298.28 can be evoked completely by the odor
+6301.61 of a new male or female,
+6303.6 it doesn't even have
+to be the presentation
+6305.04 of the actual animal.
+6306.21 And that's how you know
+6307.043 that it's not some visual interaction
+6308.51 or some other interaction,
+6309.8 it's a pheromonal interaction.
+6312.04 Now, as I mentioned
+earlier, pheromonal effects
+6314.16 in humans have been debated
+for a long period of time.
+6317.64 We are thought to have a vestigial,
+6319.76 meaning a kind of shrunken down
+6322.97 miniature accessory olfactory
+bulb called Jacobson's organ,
+6327.21 or the vomeronasal organ.
+6329.6 Some people don't believe
+that Jacobson's organ exists,
+6331.8 some people do, there is
+anatomical evidence for it
+6335.22 in some cadavers.
+6337.04 It sits not very high up in the brain
+6341.09 or where your olfactory bulb is,
+6342.84 but it's actually in the nasal passages,
+6345.43 so there's like little dents
+6346.72 as you go up through your nasal passages,
+6348.48 and there is evidence of
+something that's vomeronasal-like.
+6352.79 Vomeronasal is the pheromonal organ,
+6354.59 they call it Jacobson's organ
+if it's present in humans,
+6357.26 kind of tucked into some of the
+divots in the nasal passage.
+6361.77 Even if that organ,
+Jacobson's organ isn't there
+6366.71 or is not responsible
+6367.95 for the chemical signaling
+between individuals,
+6370.86 there is chemical signaling
+between human beings.
+6373.42 As I mentioned earlier,
+the effect of tears
+6376.76 in suppressing the areas of the brain
+6378.803 that are involved in sexual desire
+6381.83 and testosterone of males,
+that's a concrete result,
+6385.65 that's a very good result
+published by an excellent group
+6388.56 with no pre-existing bias going in,
+6390.3 that's just what they found.
+6392.2 There is also evidence
+6395.48 both for and against
+6397.97 chemical signaling between females
+6400.46 in terms of synchronization
+of menstrual cycles.
+6402.99 Now, the original paper on
+this was published in the 1970s
+6406.85 by McClintock, and it essentially said
+6410.08 that when women live together
+in group housing, dormitories,
+6414.58 and similar that their menstrual
+cycles were synchronized
+6417.04 and that was due to what was hypothesized
+6418.93 to be pheromonal effects.
+6420.63 Over the years,
+6421.463 that study has been
+challenged many, many times.
+6424.87 The more recent data point to the idea
+6427.81 that there is chemical-chemical
+signaling between women
+6431.03 in ways that impact the
+timing of the menstrual cycle,
+6434.45 but that depending on whether or not
+6437.04 some of the women are
+in the ovulation phase,
+6440.01 the ovulatory phase of that cycle
+6441.59 or whether or not they are
+in the follicular phase,
+6443.47 the phase when the follicle is maturing
+6446.12 before the egg actually obviates.
+6451.29 So two separate phases of
+the 28 day menstrual cycle
+6455.59 will either lengthen or
+shorten the menstrual cycle
+6459.93 of the person that smells those women.
+6462.03 Translated into English what that means
+6463.65 is that it is very likely it seems
+6466.27 that something, maybe pheromones,
+6467.99 but maybe some other chemical
+6469.34 that is independent of
+pheromones is being conveyed
+6472.19 between women that are housed together
+6475.87 or spend a lot of time together
+6477.52 to shift their menstrual cycle,
+6479.01 but it doesn't necessarily
+mean that they synchronize.
+6482.16 So for instance, if one woman
+is in the follicular phase
+6485.96 of the menstrual cycle,
+6487.9 it might shorten or delay ovulation.
+6491.66 Excuse me, it might accelerate
+ovulation in another woman,
+6494.86 whereas if somebody is
+in the ovulatory phase
+6497.05 of their cycle, it might
+lengthen the menstrual cycle
+6501.12 out so that they, the woman
+who smells that person's scent
+6505.71 or who smells her sweat,
+6507.41 we still don't know the
+origin of the chemical
+6509.08 would ovulate later.
+6510.6 So, all of this is to say
+6511.95 is that chemical-chemical
+signaling is happening
+6514.02 from females to males
+through tears, we know that.
+6516.6 Is that a pheromonal effect?
+6518.04 Well, by the strict
+definition of a pheromone,
+6520.12 a molecule that's released
+from one individual
+6522.19 that impacts the biology
+of another individual, yes.
+6524.96 But in terms of identifying
+what the pheromone is in tears,
+6528.41 that's still unknown,
+6529.72 it's not clear what the
+chemical compound is.
+6532.17 So, we're reluctant as scientists
+6533.96 to call it a true pheromonal effect.
+6535.58 The menstrual cycle
+and the synchronization
+6538.0 of the menstrual cycle
+effect seems to hold up
+6540.15 under some conditions.
+6541.06 But in some cases,
+6542.15 there's a kind of clash of
+menstrual cycles that's created
+6545.93 by chemicals that are emitted
+6549.14 from one female to another.
+6551.69 So, there are many
+examples of this in humans,
+6554.46 for instance, people can recognize
+6558.15 the t-shirt of their mate.
+6562.09 If you give...
+6562.99 This experiment has been done many times,
+6564.43 I know it's been challenged
+a number of times,
+6565.79 but the data are pretty good
+by now that if you offer,
+6569.6 you take a collection of women
+6572.22 who are in stable
+relationships with somebody,
+6575.14 you offer them the smell of
+a hundred different shirts
+6577.73 and they can very readily pick out
+6579.38 their significant others scent.
+6581.35 Okay, that's pure olfaction,
+that's not pheromonal,
+6584.01 but nonetheless is a remarkable
+degree of discrimination,
+6587.33 olfactory discrimination.
+6589.4 You can dilute their partner's scent
+6593.16 down to the point where they themselves
+6595.27 can't consciously detect the difference
+6597.21 between the sweat or the t-shirt
+6599.25 of a hundred different t-shirts or so,
+6601.3 they might say, "I don't
+really smell the difference,
+6603.0 but I think it's this one.
+6604.69 Yeah, this one belongs to the
+person that I've been with."
+6607.51 And they are much greater than chance
+6609.16 at detecting the t-shirt
+6610.86 or identifying the t-shirt correctly.
+6612.95 So, there's no question really
+6614.5 that there is chemical-chemical
+signaling between humans,
+6617.86 the question is whether or not
+6619.04 it's truly pheromonal in basis.
+6621.24 Now, you'll notice that a
+lot of the examples I gave
+6623.51 aside from the one of tears
+is women detecting the scents
+6628.58 of men or of other women.
+6631.2 And it turns out that there
+are a number of papers,
+6634.83 the best one I think
+6635.81 that I could find is published
+in Physiology and Behavior
+6639.12 in 2009, it's a review
+6640.49 entitled Sex Differences and
+Reproductive Hormone Influences
+6643.82 on Human Odor Perception
+6645.75 by Doty, D-O-T-Y, and Cameron.
+6648.65 I encourage you to check out this review
+6650.07 it's available free as a download,
+6651.64 we'll provide a link to it,
+6653.15 you can get the full PDF if you want.
+6655.12 But it does seem that women
+are better at detecting
+6660.25 odors in these odor
+discrimination tasks than are men.
+6663.86 And yes, that it does vary
+6665.37 according to where they are
+in their menstrual cycle.
+6668.76 And yes, they also looked at people
+6670.89 who had received gonadectomy,
+6672.033 they had their ovaries removed,
+6673.75 a number of different important controls.
+6676.21 None of this surprises me,
+6677.95 none of this should surprise you,
+6679.47 it's very clear that hormones
+have a profound effect
+6682.26 on enlarge number of systems
+6683.88 in our biology and that smell, and taste,
+6686.7 and the ability to sense the
+chemical states of others,
+6689.63 either consciously or subconsciously
+6691.25 have a profound influence
+6692.57 on whether or not we might
+want to spend time with them,
+6694.53 whether or not this is somebody
+6695.5 that we're pair bonded with,
+6696.9 whether or not this is somebody
+6698.27 that we just met and don't
+trust yet, things of this sort.
+6702.46 And given what's at stake in
+terms of reproductive biology,
+6706.24 not just offspring, but
+given the possibility
+6709.73 of transmission of diseases, et cetera,
+6712.81 you know, the risks of
+childbirth, et cetera.
+6717.29 It makes so much sense
+that much of our biology
+6720.53 is wired toward detecting
+and sensing whether or not
+6723.41 things and people are things
+that we should approach
+6726.41 or avoid, whether or not reproduction
+6729.56 with that person is the
+appropriate response
+6731.51 or suppression of the
+reproductive response
+6733.75 is the appropriate response, right?
+6735.45 As in that's the case with the tears.
+6737.47 So, I think these are fascinating studies,
+6740.02 it's an area that still
+needs a lot of work,
+6742.94 but there are some really
+wonderful papers on this.
+6745.407 And the one that I
+mentioned a few minutes ago,
+6747.23 Sex Differences and
+Reproductive Hormone Influences
+6749.3 on Human Odor Perception
+6750.95 is one of the better
+reviews that are out there.
+6754.73 There are also a number of other reviews
+6757.07 for instance that talk
+about pheromone effects
+6759.53 and their impact on mood,
+and sexual responses,
+6763.1 and things of that sort,
+6763.933 and we will also provide
+some links to those.
+6765.49 A lot of this is still speculative,
+6766.98 but I want to say I know
+I said it three times,
+6768.463 what I really want to underscore
+6770.21 because it is vitally important,
+6771.53 and people seem to get a little triggered
+6772.99 by the notion of pheromones.
+6776.17 Just because we haven't identified
+6778.83 the actual chemical compound
+6780.93 that's acting as a pheromone
+or putative pheromone
+6785.24 does not mean that
+chemical-chemical signaling
+6787.54 between individuals doesn't
+exist, clearly it does.
+6790.89 Actually, you and every other human
+6793.79 from the time you're born
+until the time you die
+6795.87 are actively seeking out
+6798.84 and sensing and evaluating
+6802.15 the chemicals that come
+from other individuals.
+6804.463 There's a really nice study that was done
+6807.61 by the Weizmann Institute, a group there,
+6809.76 I think it was also Noam Sobel's group,
+6811.29 but another group as well as I recall
+6813.25 looking at human-human interactions
+6815.51 when they meet for the first time.
+6817.51 It's a remarkable study
+because what they found
+6820.98 was people would reach
+out and shake hands.
+6824.42 It's is a typical response,
+6825.7 you know pre-pandemic, people would meet,
+6828.12 they'd reach out and
+they would shake hands.
+6830.22 And what they observed
+was almost every time
+6834.32 within just a few seconds
+of having shaken hands
+6838.05 with this new individual,
+6839.46 people will touch their
+eyes almost without fail.
+6843.08 Occasionally, they would
+touch their eyebrow,
+6844.64 occasionally someone
+would touch their hair.
+6846.41 We always associate that with
+people having some sort of...
+6849.8 Or us having some sort of
+self-conscious response
+6852.3 like oh, we want to make
+sure shirt tucked in
+6854.517 and all prim and proper, whatever it is,
+6856.57 or looking right, is there
+something you're like teeth?
+6858.44 This kind of thing,
+6859.44 but actually people are doing that
+6861.26 even if the person they
+just met left the room.
+6864.64 So, someone's sitting there,
+6865.64 someone comes in, they shake hands,
+6867.62 and the person inevitably
+subconsciously touches their eyes.
+6871.09 They are taking chemicals
+from the skin contact
+6874.21 and they are placing it on a
+mucosal membrane of some sort,
+6877.3 typically not up to their
+nose or in their mouth,
+6879.4 typically on their eyes.
+6880.87 Now, animals do this all the time,
+6882.27 there's a phenomenon in
+animals called bunting.
+6884.63 If you have a overeager dog
+6887.02 that when you meet them
+or you see them again
+6889.33 after you've been away for the day
+6890.44 they'll rub their head against you, right?
+6892.61 Cats will do this too,
+it's called bunting,
+6894.61 they're rubbing their scent glands on you,
+6896.32 they're marking you.
+6897.78 And believe it or not,
+6898.79 you're marking other people
+when you shake their hand,
+6901.39 and they are then taking your mark
+6903.88 and rubbing it on
+themselves subconsciously.
+6907.18 So, we all do these kinds of behaviors,
+6908.97 and now that you're aware of it
+6910.14 you can watch for it in your environment,
+6911.85 you can pay attention to people.
+6913.92 Some of this has probably changed
+6915.18 in light of the events of 2020, et cetera,
+6917.5 but nonetheless, we are evaluating
+6920.52 the molecules on people's breath,
+6922.65 we are evaluating the
+molecules on people's skin
+6925.15 by actively rubbing it on ourselves.
+6928.56 And we are actively involved
+6930.49 in sensing not just
+their facial expressions,
+6932.79 the size of their pupils,
+and things like that,
+6934.83 but the chemicals that they are emitting,
+6936.78 their hormone status, how they smell.
+6939.06 We're detecting the pheromones possibly,
+6943.52 but certainly the odors in their breath.
+6945.74 You might say, "Well, I
+don't actually go around
+6947.3 sniffing people's breath.
+6948.53 I don't, you know, unless if it's bad,"
+6950.24 in which case it's aversive,
+6951.27 but breath is communicating
+a lot of signals.
+6953.61 And this handshake eye rub experiment
+6956.35 shows that we are actively
+going through behaviors
+6959.62 reflexively to wipe ourselves
+6962.14 or smear ourselves with
+other people's chemicals.
+6964.74 Now, that might seem odd
+or even gross to you,
+6967.58 but I think it's beautiful,
+6969.47 I think that it illustrates
+6971.09 the extent to which we as human beings
+6973.09 are in some ways among the other animals
+6975.84 in our subconscious, sometimes conscious,
+6978.18 but certainly subconscious
+6980.12 tendency to try and evaluate
+our chemical environment
+6983.02 through what we inhale through our nose,
+6985.2 what we ingest through our mouth,
+6987.45 and what we actively take
+off other people's skin
+6991.49 and rub on ourselves to evaluate it
+6994.52 and what we should do about it,
+6995.96 and perhaps that person as well.
+6998.17 So today, we talked a
+lot about olfaction taste
+7001.0 and chemical sensing between individuals.
+7003.36 I'd like to think that you now know a lot
+7005.43 about how your smell system works
+7007.37 and why inhaling is a really
+good thing to do in general
+7011.49 for waking up your brain,
+and for cognitive function,
+7014.06 and for enhancing your sense of smell.
+7015.91 We talked about how to
+enhance your sense of taste,
+7018.31 and we talked about chemical signaling
+7020.14 between individuals as
+a way of communicating
+7022.5 some important aspects about biology.
+7024.82 People are shaping each
+other's biology all the time
+7027.41 by way of these chemicals
+that are being traded
+7029.47 from one body to the next
+7031.06 through air, and skin to
+skin contact, and tears.
+7035.01 If you're enjoying this podcast
+7036.29 and you're finding the information useful
+7038.47 please subscribe on YouTube,
+7039.96 that's one of the best ways to support us.
+7042.01 You can also put any questions you have
+7043.85 and feedback in the
+comment section on YouTube.
+7047.53 If you don't already subscribe
+on Apple and Spotify,
+7050.7 you can support us by
+subscribing on Apple and Spotify.
+7053.7 And on apple, you get the
+opportunity to leave us a review
+7057.22 up to five stars,
+7058.17 If you think we deserve five stars
+7059.59 please give us a five star review.
+7061.21 In any case, you can
+leave us comments there.
+7063.61 And we are also very active on Instagram,
+7065.807 @hubermanlab on Instagram is where I post
+7069.08 yes, clips from the podcast,
+7070.46 but also additional new
+and original content,
+7073.49 and you have the opportunity
+to put your questions
+7075.17 in the comment section
+below those posts as well.
+7077.41 I do read all the comments on YouTube,
+7080.37 on Apple, and also on Instagram.
+7083.58 We have a website hubermanlab.com
+7085.84 where all the podcasts are housed
+7088.34 with links to YouTube, Apple, and Spotify
+7090.69 as well as downloadable links,
+7092.4 everything's zero cost of course.
+7094.37 And there, you can also find any links
+7096.23 to additional resources
+that we might post.
+7099.39 As well, please check out our sponsors
+7101.36 that we mentioned at the
+beginning of each podcast episode,
+7103.86 those sponsors are the way
+7105.06 that we are able to bring zero
+cost to consumer information
+7108.26 about all these topics to you each week.
+7110.48 And we also have a Patreon,
+it's patreon.com/andrewhuberman,
+7115.52 and there you can support us
+7117.15 at any level that you like.
+7119.03 Today, we didn't really
+talk about supplements,
+7120.75 but previous episodes
+and in future episodes
+7123.14 we'll talk about supplements
+and things that you can take
+7125.08 to modify your biology and
+nervous system if you like.
+7128.2 We've partnered with Thorne, T-H-O-R-N-E,
+7130.81 because Thorne has the
+highest levels of stringency
+7133.09 with respect to the amounts
+7134.54 of given compounds that
+are in their supplements,
+7136.71 and the quality and
+purity of those compounds.
+7139.41 If you go to Thorne,
+thorne.com/u/huberman,
+7145.1 you can see all the
+supplements that I take
+7147.52 and get 20% off any of those supplements
+7149.89 as well as any of the other
+supplements that Thorne makes,
+7153.03 you just go to thorne.com/u/huberman.
+7156.03 And if you enter their
+website through that portal
+7158.23 you get 20% off any of
+their things at checkout.
+7161.17 Last but not least,
+7162.16 I want to thank you for
+your time and attention,
+7164.18 and your willingness to
+embrace new concepts and terms,
+7167.0 and to learn about science and biology,
+7169.01 and protocols that
+hopefully can benefit you
+7171.097 and the people that you know,
+7172.7 and of course thank you for
+your interest in science.
+7175.515 [gentle music]

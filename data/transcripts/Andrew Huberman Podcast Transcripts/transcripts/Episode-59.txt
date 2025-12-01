@@ -1,0 +1,4269 @@
+0.37 - Welcome to the Huberman Lab Podcast,
+1.88 where we discuss science
+3.46 and science-based tools for everyday life.
+6.258 [upbeat music]
+9.47 I'm Andrew Huberman,
+10.42 and I'm a Professor of
+Neurobiology and Ophthalmology
+12.97 at Stanford School of Medicine.
+14.84 Today, we're talking all about goals
+16.91 and the science of goal setting
+and achieving your goals.
+20.81 There's a tremendous amount of information
+22.59 on the internet and in books and so forth,
+24.94 about how to set goals
+26.16 and assess your progress towards goals
+28.44 and update your goals and so forth.
+31.24 In fact, there are so
+many programs out there,
+33.78 that includes so many different acronyms
+35.77 that it can be a little bit overwhelming.
+37.72 Today's conversation about goals,
+39.61 is going to be quite a bit different.
+41.29 Indeed, we are going to
+talk about setting goals.
+43.73 We are also going to talk
+about how to assess progress
+46.86 towards goals.
+47.693 And we are going to talk
+about goal execution.
+51.12 However, we're going to do all of this
+53.41 in the context of neuroscience,
+55.83 because it turns out that there
+are not hundreds or dozens
+60.9 or even several neural
+circuits in your brain,
+63.42 that control goal setting and
+movement toward your goals.
+66.95 There is one
+68.21 and while it includes many
+different brain areas,
+70.66 that one circuit is the same circuit,
+72.784 that's responsible for pursuing all goals.
+76.46 And it relates to some very
+basic neurochemical mechanisms
+79.18 that are understood.
+80.43 So while there's a wealth
+of information out there
+82.33 about goals and goal setting
+83.76 and goal achievement and so forth,
+85.96 there's comparatively little information
+87.88 that's been available to the public
+89.55 about the neuroscience of goal
+setting and goal achievement.
+92.97 So that's what we're
+going to focus on today.
+95.12 I promise that we're going
+to get into the neuroscience,
+97.96 we're going to touch on a
+little bit of the psychology
+100.05 and how the neuroscience
+relates to what's known
+102.13 in the psychology literature.
+103.89 And we are going to
+establish several, in fact,
+106.36 four specific protocols that
+you can use for goal setting,
+110.15 goal assessment and goal
+execution in an ongoing basis,
+113.71 regardless of what your
+personal goals happen to be.
+116.65 Before we dive into our
+conversation about goals
+118.69 and goal setting and goal achievement,
+120.18 I'd like to highlight some
+recent scientific findings,
+122.81 that I think are going to be interesting
+124.39 and actionable for many of you out there.
+127.27 In earlier podcasts, we
+talked about neuro-plasticity,
+130.05 which is the brain's ability to change
+131.73 in response to experience.
+132.87 In fact, neuroplasticity
+underlies all forms of learning,
+136.58 whether or not it's language
+learning or learning music
+139.17 or math or a physical skill,
+141.601 all forms of learning
+involve the reorganization
+145.16 of connections in the nervous system,
+146.96 the brain and spinal cord and body.
+149.69 One of the key principles
+of neuroplasticity,
+151.956 is this notion of making
+errors as a good thing
+156.0 toward neuroplasticity.
+157.18 It is a little bit counterintuitive,
+159.06 but what the scientific
+literature tells us,
+161.4 is that whenever we're trying
+to learn something new,
+163.45 if we make an error, we
+know it feels frustrating,
+166.41 but that state of frustration,
+168.25 actually queues up particular
+brain areas to be more alert,
+172.33 so that on subsequent
+attempts to learn that thing,
+174.99 we have a heightened level of focus
+176.227 and a higher probability
+of learning the new skill,
+179.02 regardless of what that skill is.
+180.697 And I've talked about this
+before in various episodes,
+183.37 as encouraging people to
+embrace errors or pursue errors,
+188.04 not as their own end goal,
+189.73 but errors as an entry point
+191.28 for making the brain more plastic.
+193.06 And if you think about
+it really makes sense,
+194.68 why would the brain change at all,
+195.81 if it's performing everything perfectly?
+198.11 When you make errors, well
+in the immediate seconds
+201.15 and minutes after those errors,
+202.87 you are in a better position to learn.
+205.48 A common question I get, however,
+is what should be the rate
+209.1 of errors?
+209.933 Which is really just a way of saying,
+211.15 how hard should the given task be
+214.81 that you're trying to learn or perform?
+217.19 And it turns out there's an answer.
+218.58 There's a recent paper that was published
+220.34 in a great journal,
+"Nature Communications".
+222.72 This is a paper, our last
+author, Jonathan Cohen,
+225.75 and the paper is entitled,
+227.417 "The Eighty Five Percent
+Rule for optimal learning".
+231.06 This paper, we will
+make available by a link
+233.17 in the show note captions,
+235.01 but basically what this paper shows,
+237.04 is that when trying to
+learn something new,
+239.76 you want to make the difficulty
+241.06 of what you're trying to learn, such that,
+242.83 you are getting things
+right about 85% of the time.
+246.02 That you're making errors
+about 15% of the time.
+249.0 And the reason I like this paper,
+250.84 is it really points
+specifically to some protocols
+254.04 that we can implement
+254.873 because people always say, okay,
+you want to set a high goal.
+257.74 You want to try and achieve
+something that's really lofty,
+259.96 but you don't want to
+make the goal so lofty
+261.68 that you don't make any progress at all.
+263.68 Other people say, you really want to start
+265.01 with really small goals
+266.44 and make things very, very incremental.
+268.09 Only set out to do things that
+you know you can accomplish
+271.11 and that will feed back on
+your self-esteem and all these
+273.61 positive feedback loops.
+274.76 And then, you know, layer
+by layer, layer by layer,
+277.29 you'll eventually get
+where you want to go.
+278.92 Well, it turns out that neither is true
+280.44 you need to set the level of difficulty,
+282.25 such that you're making
+errors about 15% of the time.
+285.24 And I want to emphasize
+about 15% of the time,
+288.12 because there's no way to
+figure protocols for sport
+292.24 or language or math or anything else,
+293.92 where you're going to
+have exactly 15% errors.
+297.03 So, anyway, this paper, the
+85% rule for optimal learning,
+300.47 again, we will supply the link,
+301.85 but it really points to the idea
+302.84 of making things pretty hard,
+305.42 but not so hard that you're
+failing every attempt
+307.64 or even half of the attempts.
+309.13 Failing about 15% of the time
+seems optimal for learning.
+313.45 Hopefully that information
+will be useful to any of you
+315.43 that are trying to learn something.
+317.21 Hopefully it will also
+be useful to those of you
+319.18 that are teaching kids or other adults.
+322.03 If you're teaching,
+322.863 keep in mind that you want
+to keep the students reaching
+326.1 for higher and higher
+levels of proficiency
+329.06 in whatever that is that you're teaching.
+330.9 And that 15% of the time
+they should be failing,
+333.85 if it gets to 20%, that's probably okay.
+335.86 If they start failing about half the time,
+337.83 then probably what they're
+trying to learn is too difficult
+340.82 for them at that point.
+342.28 Now, of course, this is going
+to be controlled by all sorts
+344.42 of external factors,
+345.34 like whether or not they
+slept well the night before,
+347.34 whether or not you slept
+well the night before
+348.9 and you're being clear
+in your instructions
+351.09 to them, et cetera.
+352.37 But I think the 15%
+rule as we may call it,
+355.06 is a good metric to aim for
+356.87 and it can serve both
+students and teachers.
+359.15 In other words, it can
+serve both those teaching
+361.21 and those that are learning.
+363.14 Before we begin, I'd like to
+emphasize that this podcast,
+365.54 is separate from my teaching
+and research roles at Stanford.
+368.3 It is however, part of
+my desire and effort,
+370.17 to bring zero cost to consumer
+information about science
+372.59 and science related tools
+to the general public.
+375.21 In keeping with that theme,
+376.21 I'd like to thank the
+sponsors of today's podcast.
+378.94 Our first sponsor is LMNT,
+381.07 LMNT is an electrolyte drink
+mixed with everything you need
+383.67 and nothing you don't.
+384.83 That means lots of salt,
+386.18 some other electrolytes and no sugar.
+388.74 As I've mentioned before on this podcast
+390.45 and in various interviews,
+I'm a big fan of salt.
+393.66 I sort of discovered this a few years ago,
+395.43 when "Science Magazine",
+396.6 one of the pre-eminent
+magazines out there,
+398.93 that publishes research on science,
+400.79 but also news articles about science,
+402.51 talked about the myth of salt research.
+404.93 It turns out, that contrary
+to what I had believed,
+408.1 which was that salt is
+going to cause hypertension
+410.75 or that salt is really bad for us.
+412.35 There's an innate need
+for salt in our system
+414.73 and indeed, if you dive into
+the textbooks on salt balance,
+417.41 we have entire biological
+systems of our kidneys
+420.08 and fluid management, et cetera,
+422.18 that are involved in making
+sure that we get enough salt.
+423.196 In fact, neurons, nerve cells, function
+427.23 because salt, sodium actually
+enters those cells quickly
+430.97 and that's what causes them
+to fire action potentials.
+433.91 The common syllable or a
+language of neurons, if you will,
+437.82 when we are low in sodium,
+439.56 our neurons don't work as well.
+441.24 And a few years later,
+442.13 I had the experience of
+feeling kind of shaky
+444.62 and I thought I had blood sugar issues.
+446.01 I went and got my blood sugar
+checked and it was fine.
+448.13 And a physician made the recommendation,
+449.72 that I actually up my salt intake.
+451.72 My intake wasn't particularly
+low, I didn't think,
+454.47 but I quickly found,
+455.39 was that if I consumed enough salt,
+457.3 usually I would do this in the form
+458.38 of putting a little pinch
+of salt into some water,
+460.84 adding a little lemon juice
+or something like that,
+462.38 or salting my food a little bit more.
+464.41 That I lost any kind of
+shakiness in my hands,
+468.09 that my mental functioning was better,
+469.94 my sports performance
+was better, et cetera.
+472.2 So it was really interesting
+to see that shift simply
+474.39 by increasing my salt intake,
+476.07 something that's really counterintuitive,
+477.41 to a lot of what's out there.
+480.28 Salt isn't just important
+for the function of neurons,
+482.54 it's important for blood volume
+484.34 and working alongside the
+other electrolytes, magnesium
+487.25 and potassium,
+488.26 it ensures that cells in
+our body function properly.
+491.12 And I think we're starting
+to see a shift out there now,
+494.33 in the perception of what salt
+495.687 and the other electrolytes do.
+497.507 And really seeing magnesium,
+499.66 which is one of the
+electrolytes, potassium
+502.343 and especially salt, as not
+necessarily something to avoid,
+504.8 but in fact something to embrace,
+506.43 provided that they're used properly.
+508.45 LMNT is formulated to help anyone,
+510.466 reach their electrolyte needs
+512.57 and is particularly well-suited
+to people following a keto,
+514.92 low carb or paleo diet.
+516.78 For people following a low carb diet
+519.3 or doing intermittent fasting,
+520.87 what many people don't know,
+522.15 is that carbohydrate holds water.
+524.04 It actually brings water into the system
+526.21 and you don't want your
+system to be low on water,
+528.41 that's one form of dehydration..
+530.63 Salt holds water as well,
+532.47 meaning it keeps the water in your system,
+535.31 which is beneficial for
+brain and body function.
+537.62 LMNT contains a science-backed
+electrolyte ratio
+540.06 of 1000 milligrams,
+that's one gram of sodium,
+543.46 200 milligrams of potassium
+and 60 milligrams of magnesium.
+547.14 And they use the very best
+forms of salt, potassium,
+550.38 and magnesium that are out there.
+552.56 So the way I use LMNT, is I
+usually will mix up one packet
+555.89 into about 16 to 30 ounces
+of water in the morning
+558.7 and drink that first thing
+560.01 in the morning when I wake up
+561.46 or around breakfast time,
+doesn't really matter.
+563.33 I kind of sip on it through the morning
+564.65 or if I'm really thirsty,
+I'll drink it all at once.
+566.43 And then I always make sure
+to drink a volume of water
+569.9 with an LMNT packet in it,
+somewhere around my exercise.
+572.38 Sometimes it's during the exercise,
+574.21 if I'm running, I'll
+wait until afterwards.
+576.27 I'll hydrate with it before and after,
+578.06 if it's a really hot day.
+579.26 If you'd like to try LMNT, you can go to
+580.651 drinklmnt, that's L-M-N-T.com/huberman,
+585.04 to claim a free element sample pack.
+586.86 You only cover the cost of shipping,
+588.6 otherwise it's completely free.
+590.25 Again, that's drinklmnt.com/huberman
+593.44 to claim a free sample pack.
+595.25 Today's episode is also brought
+to us by Athletic Greens.
+598.13 Athletic Greens is an
+all-in-one vitamin mineral,
+600.5 probiotic drink.
+601.98 I've been taking Athletic
+Greens since 2012,
+604.46 so I'm delighted that they're
+sponsoring the podcast.
+606.9 The reason I started
+taking Athletic Greens
+608.337 and the reason I still
+take Athletic Greens,
+610.6 is that it covers all of
+my foundational vitamin,
+612.83 mineral, probiotic needs.
+614.82 We of course need vitamins.
+616.01 We of course need minerals
+617.56 and we do need a healthy gut microbiome
+620.45 and probiotics, support
+a healthy gut microbiome.
+623.74 There is now a wealth of quality
+scientific published data,
+627.0 showing that the microbiota,
+628.71 meaning the little microbes
+that live in our gut,
+631.14 are good for us.
+632.019 And our gut when it functions properly,
+634.75 communicates with our brain
+635.85 and our brain communicates with our gut
+637.42 through the so-called, gut-brain axis.
+639.63 And that gut-brain axis,
+640.87 is vital for things like immune system,
+643.239 endocrine system, meaning hormones
+645.5 and for mood and overall brain function.
+647.86 With Athletic Greens, I get my vitamins,
+649.46 my minerals and the probiotics I need,
+651.76 to support a healthy gut
+microbiome and gut-brain axis
+655.2 without having to worry
+about taking a bunch
+657.19 of other things.
+658.15 In fact, when people ask me,
+659.21 what's the one supplement I should take,
+661.0 that's going to make me feel better?
+662.49 I always say Athletic Greens
+663.87 because indeed it makes me feel better
+665.75 and it happens to taste terrific.
+667.34 I drink it twice a day, typically,
+669.38 I'll have one in the morning,
+670.52 I mix it with water and a little
+bit of lemon or lime juice.
+673.56 And I'll typically have
+it again in the afternoon
+675.72 or late afternoon,
+677.0 again, mixed with water,
+some lemon or lime juice.
+679.54 If you'd like to try Athletic Greens,
+681.16 you can go to athleticgreens.com/huberman,
+683.97 to claim a special offer.
+685.36 They'll give you five free travel packs,
+686.85 that make it really easy
+to mix up Athletic Greens,
+688.82 while you're in the car or
+traveling by plane, et cetera.
+691.85 Plus, they'll give you a year
+supply of vitamin D3 + K2.
+695.62 Many of us are deficient in vitamin D3
+697.89 and even for those of us
+699.19 that are getting sufficient sunshine,
+700.64 many of us still need to
+supplement with vitamin D3.
+703.35 Vitamin D3 is involved in
+metabolism, immune system,
+705.82 brain function, hormones, et cetera.
+708.05 It has so many important functions,
+709.42 and K2 has been shown to be important
+711.24 for a variety of things,
+712.43 not the least, which is
+cardiovascular health.
+714.6 So again, if you go to
+athleticgreens.com/huberman,
+717.28 you can claim a special offer.
+718.5 They'll give you five free travel packs,
+719.9 plus a year supply of vitamin D3 + K2.
+722.5 Again, that's athleticgreens.com/huberman,
+725.43 to claim this special offer.
+727.02 Today's episode is also
+brought to us by ROKA.
+729.68 ROKA makes eyeglasses and sunglasses,
+731.6 that have the absolute highest quality.
+733.73 I spent a lifetime working on the science
+735.26 of the visual system
+736.41 and I can tell you that your
+visual system everywhere
+738.63 from your eyes to your brain,
+739.92 includes a ton of different mechanisms,
+742.14 so that as you move through
+different environments,
+744.08 you can see things clearly.
+745.68 And even if it's bright
+out or there are shadows
+747.572 or it's really dim outside,
+or it's getting dark,
+750.55 that your visual system
+can try and manage,
+752.93 to resolve what's out there in the world,
+754.69 so you can see things clearly.
+756.03 Many people need corrective
+lenses, they need eyeglasses.
+758.54 Other people, they need
+sunglasses as well,
+760.8 or just simply need sunglasses
+762.49 because if it's too bright,
+it's very hard to see things.
+764.93 One problem with a lot of eyeglasses
+766.65 and sunglasses out there, however,
+768.32 is they don't take into account,
+770.18 the nuanced biology, the visual system.
+772.61 You may have experienced this.
+773.81 Have you ever put on a pair of sunglasses
+775.37 that aren't so great?
+776.33 You move from a really bright
+area into a dimly lit area
+779.58 and you have to take the eyeglasses off,
+781.42 your eyes just don't seem to adjust.
+783.19 With ROKA, eyeglasses and sunglasses,
+784.98 everything they've done to
+design those glasses and lenses,
+787.9 is with the science of
+the visual system in mind.
+789.78 So you can move seamlessly from
+one environment to the next
+792.07 and you always see things
+with crystal clarity.
+794.99 Their sunglasses and
+eyeglasses are really terrific
+797.12 because they can be used for anything.
+798.89 They have a terrific aesthetic,
+so you can wear them,
+801.14 to work to dinner, et
+cetera, they look great.
+803.66 And, they're also designed
+for athletic performance,
+806.26 you can use them while
+running or while cycling,
+808.8 if you get sweaty, they
+won't slip off your face.
+810.63 They're extremely lightweight,
+811.97 in fact, I often forget that
+they're even on my face.
+814.23 I wear readers at night
+and sometimes when I drive
+816.75 and I wear sunglasses when
+it's really bright outside
+819.23 and I need sunglasses.
+820.72 If you want to try ROKA
+eyeglasses or sunglasses,
+822.98 you can go to roka.com
+824.57 That's R-O-K-A.com and
+enter the code Huberman,
+827.93 to save 20% off your first order.
+829.94 Again, that's ROKA,
+830.773 R-O-K-A.com and enter the
+code Huberman at checkout.
+834.98 Let's talk about the
+science and in particular,
+836.76 the biology and neuroscience
+of setting and achieving goals.
+841.15 Setting and achieving goals,
+842.39 is not a uniquely human endeavor.
+845.49 Other animals set and
+attempt to achieve goals,
+848.279 a honeybee attempts to collect honey
+850.19 and bring it back to the hive.
+851.86 A herbivore will go out
+and forage for plants
+854.94 and will also have a need to reproduce
+857.63 at some point in its life.
+858.64 So, will need to find a mate
+and maybe even raise the young,
+861.84 depending on what species that is.
+864.4 Predators will have to hunt
+and kill and eat their food
+868.37 and they have to avoid getting
+injured in that process.
+870.84 They also have to raise young, et cetera.
+872.9 So humans are among the other animals,
+875.56 or we could say the animals are among us
+878.07 in the need to set goals
+879.91 and to make efforts to
+achieve those goals.
+883.26 Now, why do I emphasize
+this commonality of process?
+886.29 The reason I emphasize this
+commonality of process,
+888.84 is that it turns out that
+there is one basic system
+892.4 by which all animals, including humans,
+894.91 set and attempt to achieve goals.
+896.54 Now humans are unique in our
+ability to orient our mind
+901.49 toward immediate goals,
+moderately termed goals,
+904.99 meaning things that might
+exist on the scale of a week
+907.11 or a month or even a year
+908.75 and very long-term goals,
+like a lifetime goal
+912.12 or a goal that lasts a decade,
+913.81 or it takes a decade to achieve.
+915.81 That's what makes us unique.
+917.36 And of course we don't
+have access to the mindset
+919.49 or the thinking or the
+emotions of other animals,
+922.06 but what we do know is that,
+common neural circuits,
+925.26 meaning brain areas,
+926.34 that are present in animal
+species and in humans,
+930.08 are responsible for orienting
+our thinking and our action
+934.19 toward particular goals.
+935.83 Another thing that's really
+unique about the human brain,
+938.82 is that we are able to have
+multiple goals interacting
+941.88 at once.
+942.75 So, for instance, we probably
+all have fitness goals,
+946.44 goals in relationships of
+different kinds, friendships,
+948.75 and romantic partnerships
+950.17 as well as maybe scholastic goals.
+952.34 Maybe you're in school
+953.49 or you're pursuing some
+kind of learning outside
+955.23 of the school environment
+956.49 or indoor, you have business
+goals or financial goals,
+960.15 we are able to have
+multiple goals at once.
+962.127 And other animals do this,
+963.36 but humans are unique in the ability
+965.0 to juggle a lot of goals.
+966.72 And actually one of the major
+challenges in pursuing goals,
+969.26 is that goal pursuit often interacts,
+971.88 meaning if you can spend 100%
+974.09 of your time chasing one particular goal,
+976.15 that might be very
+effective for that goal,
+977.88 but then we tend to fall back
+on some of our other goals.
+980.82 You can imagine how this plays out.
+982.21 If you're working very, very hard,
+984.69 you're solely focused on business often,
+985.523 your health will suffer.
+988.05 If you're solely focused
+on your health often,
+989.87 other things will suffer.
+990.75 And so we have to juggle
+both our goal setting
+992.7 and our goal pursuits.
+993.55 And so today, we're going
+to talk about a number
+995.16 of different ways,
+996.26 to work with what could
+very well be called,
+998.61 these interleaving goals,
+1000.47 by focusing on a common practice
+or common set of mechanisms
+1005.268 that are present in all
+aspects of goal seeking.
+1009.02 What is that process?
+1010.47 Well, it turns out, it's a neural circuit.
+1013.19 A neural circuit, is simply
+a collection of brain areas,
+1016.62 that when active in a
+particular sequence give rise
+1019.96 to a particular behavior or perception.
+1022.95 So for instance, when you feel happy,
+1025.41 it's not because you have a brain area,
+1027.1 that's the happy brain area,
+that is electrically active.
+1031.02 Rather, it's going to
+involve numerous brain areas,
+1034.25 being active in concert
+and to different degrees.
+1036.73 In the same way, that the
+keys on a piano, together,
+1041.29 played in the appropriate sequence,
+1043.76 represent a particular song.
+1045.55 You would never say that one key
+1046.93 on the piano represents that song,
+1048.45 but that key is necessary.
+1050.29 Similarly, in the brain,
+1051.71 we can say that a brain
+area might be necessary,
+1053.86 but not sufficient to give
+us a particular experience
+1057.26 or generate a particular behavior.
+1058.95 So when we think about goal
+seeking and the pursuit of goals
+1062.41 of any kind in the brain,
+1063.77 it doesn't matter what the goal is.
+1065.97 It involves a common
+set of neural circuits
+1069.23 and the neural circuit
+that I'd like to orient us
+1071.58 toward today.
+1072.413 And we will return to it a few times,
+1073.88 involves learning a couple of names,
+1075.5 but you don't have to worry so
+much about memorizing these.
+1077.74 Just more important is
+to understand the logic
+1080.54 of how it's put together
+1081.39 and I will explain that
+and make it very clear.
+1083.16 If you want to learn
+the names, that's great.
+1085.16 One of the brain areas is
+the so-called, amygdala.
+1087.28 The amygdala is most often
+associated with fear,
+1089.67 so you might say, wow,
+1090.503 how is that involved in
+goal directed behavior?
+1093.27 Well, a lot of our goal directed behavior,
+1095.28 is to avoid punishments,
+1097.32 including things like
+embarrassment or financial ruin
+1100.36 or things of that sort.
+1101.78 And so the amygdala and some
+sense of anxiety or fear,
+1104.98 is actually built in to the circuits
+1106.92 that generate goal seeking
+1108.532 and our motivation to pursuit goals.
+1111.18 The other areas are the
+so-called, ventral striatum.
+1115.18 The striatum is part of what's
+called, the basal ganglia.
+1118.03 The basal ganglia, is a neural circuit,
+1120.15 that can very simply be
+described as a neural circuit
+1123.04 that helps us generate go,
+meaning the initiation of action
+1126.65 and no-go, the prevention
+of action type scenarios.
+1131.52 Let me make that even simpler.
+1132.95 The ventral striatum is
+part of this thing called,
+1134.78 the basal ganglia.
+1135.613 The basal ganglia has sort
+of two circuits within it.
+1138.69 One circuit is involved in
+getting us to do things,
+1140.77 like I'm going to get up tomorrow
+1142.25 and I'm going to run five miles
+first thing in the morning.
+1145.034 I don't know if I'm
+actually going to do that,
+1145.95 but I'm just using that as an example.
+1148.12 Another circuit within the basal ganglia,
+1150.08 is a no-go circuit, it's
+the one that says, no,
+1152.3 I'm not going to go for the second cookie
+1154.94 or the third cookie.
+1156.12 I'm not going to eat that.
+1158.03 And then the go circuit would
+be the one that's responsible
+1160.38 for instead eating something else.
+1162.73 Okay, so we have go and no-go circuits
+1164.6 within the basal ganglia.
+1166.16 So we've got amygdala,
+1167.48 so what you think of as
+kind of fear and anxiety
+1169.3 and avoidance.
+1170.2 We've got, the basal ganglia,
+1172.04 which are for initiating
+action and preventing action.
+1175.05 And then there is the so-called, cortex.
+1177.73 The cortex is the outer
+shell of the brain,
+1179.47 and there are two sub
+regions of the cortex,
+1181.03 that are involved in
+goal-directed behavior.
+1183.4 One is the lateral prefrontal cortex,
+1185.41 prefrontal cortex is involved in,
+1186.91 so-called, executive function,
+things like planning.
+1189.71 Thinking about things
+under different timescales,
+1191.88 so not just what we want
+in the immediate term,
+1194.05 but what we might want
+tomorrow or the next day
+1196.9 and how our actions currently
+are going to relate,
+1198.84 to the future.
+1199.91 And the so-called, orbitofrontal cortex,
+1202.158 orbitofrontal cortex has a
+large number of functions,
+1205.53 but one of the key functions
+of the orbitofrontal cortex,
+1208.09 it's involved in meshing some emotionality
+1210.78 with our current state of progress
+1213.63 and comparing that emotionality
+to where it might be,
+1217.61 when we are closer to a goal.
+1220.129 So, there are basically four areas,
+1221.97 one involved in anxiety,
+one involved in emotion,
+1226.02 one involved in planning
+1227.41 and another involved in
+this go, no-go action.
+1230.43 So that's a bunch of detail,
+1231.53 but if I wanted to make it
+really simple for everyone,
+1234.17 I would say there are four areas.
+1236.03 One is an area associated
+with anxiety and fear,
+1238.963 it's the amygdala.
+1240.13 The second is involved
+in action and inaction,
+1243.66 remember go, and no-go, so
+that's the basal ganglia.
+1247.03 The other one is involved
+in planning and thinking
+1250.97 across different timescales,
+1252.17 so that's lateral prefrontal cortex.
+1253.96 And then the fourth one, is
+involved in emotionality,
+1257.99 where we sit emotionally present,
+1260.55 compared to where we think
+we will be emotionally,
+1263.07 when we reach some particular goal
+1265.32 and that's the orbitofrontal cortex.
+1267.72 Again, you don't need
+to know all those names.
+1269.8 You don't need to know all the details,
+1271.72 just understand that those
+different elements are involved
+1275.01 in the decision-making
+processes that lead us
+1277.82 toward particular goals
+1278.89 and have us update our
+goal seeking, et cetera.
+1282.11 One key thing is it doesn't
+matter what the goal is,
+1285.775 the same circuits are involved.
+1288.39 So whether or not you're
+trying to build a company,
+1290.91 that's a billion dollar company
+1291.743 that's going to go public,
+1293.16 or you're thinking about
+planning a craft day at home
+1295.85 with the kids or for yourself,
+1297.48 or you're thinking about
+what movie to go see.
+1299.35 Goals, goal seeking and
+assessing progress towards goals,
+1302.38 all involve the exact
+same neural circuits.
+1305.36 It's really remarkable.
+1306.48 It's also very convenient
+for our discussion today.
+1309.83 What's going on in these circuits,
+1311.66 can basically be boiled down
+to two particular things.
+1315.41 The first is, value information,
+1317.96 trying to understand whether or not,
+1319.53 something is really worth pursuing or not.
+1322.65 So, placing a value on a particular goal.
+1325.66 The other component of
+this neural circuit,
+1328.13 is associated with action,
+1329.76 which actions to take and
+which actions not to take,
+1333.3 given the value of a particular goal
+1336.45 in a given moments time.
+1338.53 I want to say that again.
+1339.58 The other component of the
+circuit is involved in action,
+1342.996 whether or not you should
+act or should not act,
+1346.45 based on your assessment
+of the value of a goal
+1349.98 at a particular moment in time.
+1352.38 And you're going to hear
+me say over and over again,
+1354.79 in this episode,
+1355.623 the value information
+about a goal is so key.
+1358.68 Here's why, there is basically
+one neuro-transmitter
+1362.74 or rather neuromodulator system,
+1365.71 that governs our goal
+setting, goal assessment
+1368.436 and goal pursuit.
+1370.14 And that is the neuromodulator dopamine.
+1371.95 Dopamine is the common currency
+1373.96 by which we assess our progress
+1376.47 toward particular things
+of particular value.
+1379.24 In fact, dopamine, is the
+way that we assess value
+1382.85 of our pursuits.
+1384.06 And so, as we take a moment
+and we shift our attention,
+1388.15 to the psychology of goal setting.
+1390.27 The things that you've probably
+heard a bit more about,
+1392.41 about what sorts of goals
+are good and how to set goals
+1395.18 and how to categorize goals.
+1396.94 I want you to think about how dopamine,
+1399.51 could possibly be involved
+in these different processes.
+1402.69 And the reason I want you to do this,
+1404.24 is that all of the
+psychology of goal setting
+1407.35 and goal pursuit, is wonderful
+1408.86 because it places things
+into different categories.
+1411.42 It allows us to parse our thinking
+1413.18 and organize our thinking.
+1414.78 But what's not often seen,
+1416.41 in fact, I'm not aware of
+any literature out there,
+1418.61 scientific or literature
+in the popular press
+1422.26 or in popular books,
+1423.171 is an understanding of how
+the underlying neurobiology,
+1427.53 can be layered on top of the
+psychology of goal setting,
+1431.57 to allow us to set and pursue
+our goals more effectively.
+1434.82 And that's what we're going to do today.
+1436.0 We are eventually going to arrive
+1437.65 at a set of four practices,
+1439.56 that when performed on a regular basis,
+1441.43 will allow you to assess,
+1442.68 what is the value of this
+next particular action step?
+1446.87 How worthwhile is it, to do
+behavior A versus behavior B
+1451.5 in order to achieve a particular goal?
+1453.66 If any of this is vague now,
+1455.22 I'm going to make it
+all very clear for you.
+1457.95 You're going to come away
+with some very specific lists
+1460.87 of takeaways that you can put
+down on paper, if you like.
+1463.6 And that you can use to
+set goals, assess goals,
+1466.63 and execute goals more effectively,
+1468.62 using the neuroscience of
+the circuits I just described
+1471.7 and an understanding of the
+neuromodulator dopamine.
+1474.7 Let's take a look at the
+psychology of goal setting
+1477.15 and goal pursuit.
+1478.43 This is an enormous literature,
+1480.21 meaning there are tens of thousands,
+1481.74 if not hundreds of thousands
+of scientific papers
+1484.73 about the topic of goal
+setting and goal pursuit.
+1488.23 There's also a lot of
+information on the internet
+1490.17 about goal pursuit.
+1491.55 And in looking over this information,
+1494.2 one comes to appreciate pretty quickly,
+1496.55 that acronyms are a big thing.
+1499.54 Acronyms, seem to dominate
+the area of goal setting,
+1503.27 especially as it relates to
+things in the business sector,
+1505.81 but also in the relationship sector.
+1507.43 Now, acronyms are wonderful,
+1508.98 they allow us to organize
+our thinking into less
+1511.573 and conceptually they can be very useful.
+1514.41 But as I moved through this literature,
+1515.98 I started to see some redundant themes.
+1518.01 And so what I've attempted to do,
+1519.41 is distill out the redundant themes,
+1521.4 that regardless of the person teaching
+1523.55 or the scientific laboratory
+that happened to come up
+1526.61 with these acronyms,
+1528.216 that they boil down to
+some common features.
+1532.06 So let's talk about that literature
+1533.25 and I think we'll come
+away with an understanding
+1534.98 of some basic elements that
+are common to all goals.
+1539.36 Now, the modern science or the
+modern psychological science
+1543.32 of trying to understand
+goal setting and pursuit,
+1546.21 actually dates back to the 1930s.
+1548.24 And we have to be sure that
+members of our species,
+1550.75 were focused on goal
+setting and goal pursuit,
+1552.68 long before the scientific
+literature emerged.
+1555.26 It just stands to reason that,
+1556.357 since the human brain
+hasn't evolved that much,
+1559.03 we don't think, in the last 10,000 years,
+1561.78 that people would be
+thinking about these things.
+1564.16 They just didn't get
+them down into papers,
+1565.85 that we could evaluate
+on PubMed and so forth,
+1567.79 but now we can,
+1568.623 so we can look at those papers.
+1569.88 And what you find is
+that acronyms are abound
+1572.52 in the psychology literature
+1574.05 about goal setting and goal pursuit.
+1576.0 So for instance, you'll
+hear about the work
+1579.38 of Larkin Small, for instance,
+1581.414 these are the last names
+of various researchers.
+1584.69 The so-called, ABC method, that
+a goal should be achievable,
+1588.68 it should be believable,
+1589.93 and that the person be committed.
+1591.26 It's sort of obvious once you
+hear about the ABC method.
+1593.57 Then people came along
+and expanded on that,
+1595.99 they talked about the
+so-called, SMART method.
+1597.93 SMART being another acronym,
+that it be specific,
+1600.68 that the goal be measurable,
+1602.02 that the goal be attainable,
+1603.27 that the goal be realistic
+and that it be time-bound,
+1605.76 meaning that you set up
+certain period of time
+1607.77 in which a given goal should be performed.
+1610.33 And then people come
+along and modify these,
+1612.16 this is the way that
+psychology research is done.
+1613.95 I'm not laughing at it.
+1615.15 I'm just chuckling because,
+1616.286 it seems like the acronyms get
+longer and longer and longer.
+1619.45 They developed the, SMARTER approach,
+1621.89 adding an ER to the acronym,
+SMART, S-M-A-R-T-E-R.
+1626.61 They added ethical and
+rewarding, which fortunately,
+1629.97 are good things I believe,
+ethical and rewarding.
+1633.85 What does all this mean?
+1634.83 Well, what it means is that
+any kind of goal pursuit,
+1638.49 any kind of goal setting,
+1640.34 really has to involve a
+number of different states
+1643.38 and neural circuits in the brain and body,
+1645.83 at least that's how I
+view this literature.
+1647.9 Why would I do that?
+1648.75 Well, let's think about
+the very modern version
+1651.81 of the kind of acronyms that
+I talked about a moment ago,
+1655.14 dating back to the 1930s and
+extending into the 1990s.
+1658.93 You can find beautiful talks online
+1662.09 from people who have worked
+1663.27 with some of the biggest companies
+1664.98 and greatest high performers out there,
+1667.41 to achieve incredible things.
+1668.92 And they will talk about generating a sort
+1671.48 of objective mindset for goal setting.
+1674.52 They'll talk about goals
+needing to be significant.
+1677.19 That it has to be a big goal.
+That it has to be concrete,
+1679.38 so you have to be able to
+describe what the goal is.
+1681.14 It has to be action-oriented,
+1682.63 has to be inspirational,
+1683.93 has to be time-bound.
+1685.24 You have to have reasonable,
+realistic, verifiable measures.
+1688.55 You have to constantly up the ante.
+1690.54 If it's starting to sound repetitive,
+1691.9 it's because it is repetitive.
+1693.52 There are basically only
+three or four elements,
+1695.54 to goal setting and goal pursuit.
+1697.71 Basically, an individual
+or set of individuals,
+1700.72 has to identify a specific thing
+1703.29 that they're going to attain.
+1704.3 In some communities, they talk about,
+1706.9 knowing what right looks like,
+1709.02 meaning being able to
+define a very specific goal.
+1711.99 You can't just say, I want
+to be a champion athlete.
+1716.43 You have to say what sport,
+1718.08 and you have to understand
+what the path to that is.
+1720.73 So any big goal of course,
+1721.8 is broken up into a
+series of smaller goals,
+1724.36 but the whole thing starts with thinking
+1725.9 about the end in mind.
+1727.17 And in a few minutes, we will talk about,
+1728.82 whether or not visualization
+of the end in mind,
+1730.93 is actually beneficial or
+detrimental to achieving goals.
+1734.17 There's actually great
+neuroscience and psychology data
+1736.46 on that now.
+1737.64 So, I mentioned all these acronyms,
+1739.56 not as an attempt to disparage them.
+1741.65 I think they're wonderful.
+1742.66 And I mentioned all that
+psychology literature,
+1744.95 not in an attempt to disparage it,
+1746.93 but rather just say that, goal
+setting is the first step,
+1751.163 assessment of whether or
+not one is making progress
+1754.29 towards those goals is the
+second but necessary step.
+1756.72 And then there's the
+business of goal execution.
+1759.31 And that brings us back to
+the neural circuit components,
+1761.58 remember, this neural circuit,
+1762.91 involving those four things earlier,
+1764.41 the amygdala, striatum,
+orbitofrontal cortex
+1766.96 and the prefrontal cortex.
+1769.38 They work together,
+1770.35 to divide the whole process
+as I mentioned before,
+1772.53 into two general categories.
+1774.48 The first is, assessing value,
+1776.67 knowing whether or not where
+one is at one given moment,
+1779.9 relates to some external thing.
+1782.64 Are things going well
+or things going poorly?
+1785.64 And knowing how to gauge that accurately.
+1787.87 And then, action steps, goes and no goes,
+1790.87 do more of this, do less of that,
+1792.3 do this, don't do that, et cetera.
+1794.5 So, now we are going to shift
+back to the neuroscience
+1797.43 and we're going to talk about
+the practical applications
+1800.44 of the information I just described.
+1802.3 Because I've given you a lot
+1803.15 of kind of academic information.
+1804.65 And as we do this, I'd
+like you to keep in mind,
+1808.03 what are some things that
+you've either accomplished
+1810.28 or that you'd like to
+accomplish going forward?
+1812.68 Because as we do this,
+1813.61 we can build toward a set of protocols,
+1815.36 that at the end, you'll be
+able to very quickly plug in,
+1817.82 your particular goals and a
+route to those particular goals,
+1821.32 that's grounded in the science.
+1822.363 That I think are going
+to be very effective
+1824.49 in allowing you to reach
+those goals, more quickly
+1827.0 and with indeed less effort.
+1829.45 In fact, let's start with a tool now
+1832.01 because as we move through
+all this information,
+1835.18 I want to make sure that
+people are coming away
+1837.63 with some practical things
+that they can implement.
+1839.84 And indeed, some things
+that you can even do
+1841.42 during the course of listening
+to or watching this podcast.
+1846.4 The first thing to do, is
+to understand the difference
+1848.97 between peripersonal space
+and extra personal space.
+1852.93 Peripersonal space, is
+all the space, literally,
+1857.039 that's within inside your body,
+1859.51 the surface of your skin and
+in your immediate environment.
+1862.79 Peripersonal space, is a
+key concept in neuroscience
+1866.46 because you have
+particular neural circuits
+1868.107 and particular chemicals,
+1870.05 that are geared toward,
+1871.44 what are called consummatory
+behaviors, meaning,
+1874.07 using things and consuming
+things and enjoying things,
+1876.84 that are in your immediate
+peripersonal space.
+1879.87 Let me give you an example
+of this for myself,
+1881.88 just to make it concrete.
+1883.09 You can imagine similar
+examples for yourself right now.
+1885.98 Within my current peripersonal
+space, is my interoception,
+1891.231 my understanding or perception
+of my internal body.
+1894.44 So, how quickly I'm
+breathing, my heart rate,
+1897.11 the feelings on the surface
+of my skin, et cetera.
+1899.96 But also, within the confines
+of my peripersonal space,
+1903.42 is this coffee mug,
+1904.34 that if you're listening to
+this, you can't see this,
+1905.93 but I'm lifting up a coffee mug,
+1907.71 I'm going to take a sip of coffee.
+1910.04 That's a consummatory
+behavior, I have the coffee,
+1912.28 I don't have to do much or
+motivate much to get it.
+1915.08 I have other things here,
+pens and computer, et cetera.
+1917.447 So things in your peripersonal space
+1919.93 and consuming those things,
+1921.622 is generally governed by
+a set of neurochemicals,
+1924.576 that center around the
+neuromodulator serotonin.
+1928.28 And there are a few others as well,
+1929.55 things like oxytocin,
+but mainly serotonin.
+1932.97 Contrast that, with the
+so-called, extra personal space.
+1936.11 Extrapersonal space is everything
+1937.58 beyond the confines of my reach.
+1939.43 It would be something in the next room.
+1941.15 It will be something down the street.
+1942.83 It will be something
+at some other location,
+1945.614 in space and time.
+1947.663 And the neuromodulators
+and neurochemicals,
+1950.72 that are associated with
+any kind of thinking about,
+1953.88 anything in the extra personal space,
+1956.03 are distinct from the
+neurochemicals and neuromodulators,
+1958.46 that are involved in thinking
+about or making actions
+1961.55 towards the peripersonal space.
+1963.75 And the molecule that's most
+associated with thinking about
+1967.03 or orienting toward the
+extra personal space,
+1969.3 again, things beyond
+the confines of my skin
+1971.3 or your skin, is dopamine.
+1974.0 And this is a vitally important
+concept to understand,
+1976.82 when you're setting
+goals and seeking goals.
+1980.61 If we are to be good at goal seeking,
+1983.82 if we are to be good at setting
+goals and assessing goals,
+1987.62 if we are to achieve our goals,
+1989.84 we have to be able to
+toggle back and forth
+1993.91 between a clear understanding
+of our peripersonal space,
+1998.48 what we have and how we feel
+in the immediate present.
+2002.27 And our ability to
+understand what's out there
+2006.02 in the extra personal space
+2008.2 and our ability to move into
+that extra personal space.
+2011.86 And a simple way to conceive of all this,
+2013.76 is that we evaluate our progress
+in the peripersonal space.
+2018.83 We evaluate how we feel,
+about some pursuit,
+2022.282 even if we haven't
+initiated that pursuit yet.
+2025.25 How we feel about a particular goal,
+2027.47 is truly a feeling that we
+experience in the here and now,
+2030.16 even though the goal is in the future.
+2034.07 If we are going to
+evaluate whether or not,
+2035.67 we made progress today
+or yesterday or not,
+2038.45 that's an evaluation of how we feel
+2040.8 in the immediate peripersonal space.
+2044.1 However, moving toward any goal,
+2046.98 involves orienting our thinking
+2049.2 towards the extra personal space.
+2052.774 And as we go through today's episode,
+2053.73 I'm going to teach you a technique
+2055.37 or rather a neuroscience-based tool,
+2057.69 that will allow you to continually
+transition back and forth
+2061.04 between the peripersonal space
+and the extra personal space
+2064.59 in a way that will allow
+you to update and evaluate
+2068.28 and better execute your goal seeking.
+2072.03 The whole principle behind
+this, is that human beings,
+2075.05 like other animals,
+have to make evaluations
+2077.7 about whether or not they
+are on the right track.
+2080.55 However, the important
+thing to understand,
+2082.5 is that humans in particular can do this
+2085.105 over different timescales.
+2087.14 We don't just pursue food
+'cause we are hungry,
+2089.16 we pursue food, excuse
+me, for a particular meal,
+2093.24 that we might be having
+with people tomorrow.
+2095.7 We can modulate the timescale
+2097.29 in a way that other animals don't.
+2099.07 That's how we adjust our goal seeking,
+2100.95 to different timescales.
+2102.43 And in addition to that,
+2104.4 humans are exquisitely good
+at biasing our behavior
+2108.21 toward particular goals over
+very long periods of time.
+2112.04 But there are a lot of mistakes out there,
+2113.81 in fact, things that are
+outright wrong in the literature
+2116.32 and in particular, in the internet,
+2117.59 and then the kind of wellness and fitness
+2119.47 and cognitive fitness space,
+2121.83 that send people down the wrong path
+2124.57 and those things we will
+talk about in a few minutes.
+2127.17 But things like visualization,
+that visualization
+2130.33 and visualization of this big goal,
+2132.01 is the best way to achieve your goals.
+2134.29 In fact, that's not the case,
+2136.21 there's a much approach to doing all this.
+2138.89 So now I'd like to shift gears
+2140.55 towards talking about a few of the things,
+2142.5 that most people get badly wrong
+2144.68 in setting and assessing
+and executing goals.
+2148.72 This is based on peer reviewed research,
+2150.87 so I think it's very solid.
+2152.46 I know it is very solid.
+2153.98 And it runs counter to what
+many of us have been taught.
+2157.6 Let's start with a simple one.
+2159.07 We've all heard that multitasking is bad.
+2161.74 We've heard multitasking is
+bad, it doesn't allow for focus.
+2164.38 If you want to achieve anything,
+2165.53 if you want to accomplish
+anything, you should not multitask.
+2168.87 Well, it turns out, that's wrong.
+2171.04 It turns out that there is
+a role for multitasking,
+2174.37 but the multitasking has to
+be placed at a particular time
+2178.55 within your goal seeking behavior
+2181.27 in order to be effective.
+2183.245 Really nice studies done at
+Carnegie Mellon University,
+2187.55 and the Davis Lab,
+2189.21 evaluated how long
+people are able to focus
+2191.94 in different environments.
+2193.31 How long they were able to stay
+concentrated on their work.
+2195.9 And it turns out that
+number is exceedingly low.
+2198.83 It turns out that most people,
+2200.57 whether or not they're doing computer work
+2202.39 or whether or not they're doing writing
+2204.13 or accounting work or
+anything of that sort,
+2207.22 can hold their attention for
+about three minutes at a time
+2209.99 before they shift their attention off.
+2212.31 And that's ridiculously
+low when you first hear it,
+2215.49 but, that probably reflects a
+basic state of brain function.
+2219.9 That hearkens back to a time
+when we were hunter gatherers,
+2222.82 I doubt that we were maintaining
+focus solidly for hours
+2225.88 and hours and hours,
+2226.713 unless we were under
+some particular threat
+2228.51 or in some particular crisis.
+2230.93 Rather, you could imagine
+that people collected seeds
+2233.27 and nuts and berries
+for about three minutes
+2234.69 and then probably stood up, looked around
+2236.03 and then kept going.
+2236.863 Or that they were hunting animals
+2239.17 or in some sort of pursuit,
+fishing, et cetera,
+2241.81 and focused, focused, focused
+2243.25 and every three minutes or
+so, they might've looked up
+2244.94 and, you know, take a look at the sky
+2246.51 or looked around to make sure
+that other people were there
+2249.08 or not there, et cetera.
+2250.6 It all stands to reason
+that that will be the case.
+2252.27 Again, the neural circuits
+haven't evolved much.
+2254.69 Now, multitasking, has been shown
+2257.34 to have a very interesting
+physiological signature,
+2261.43 when we multitask,
+2262.48 when we jump back and
+forth between things,
+2265.36 there is an increase in the
+level of the neurotransmitter,
+2269.14 also sometimes called a neuromodulator,
+2270.93 but basically same thing
+for sake of this discussion.
+2273.27 There's an increase in the
+neurotransmitter epinephrine,
+2275.63 which is adrenaline.
+2277.09 And so, there are really nice studies now,
+2279.47 pointing the fact that doing
+a bit of multitasking prior,
+2283.46 to jumping into some focused,
+goal directed behavior,
+2287.19 whether or not it's mental
+behavior or physical behavior,
+2289.1 can actually be useful
+2290.54 because it gets us into action.
+2292.57 So we've all been told that
+multitasking is terrible,
+2294.97 but if you, for instance,
+2295.94 find yourself cleaning up your house
+2297.4 and also checking your phone
+and doing a number of things,
+2299.29 right at the point where you
+should be sitting down to write
+2302.12 or do some focused work.
+2303.65 It probably reflects
+some adaptive mechanism,
+2306.05 where you use action and somewhat
+varied multitasking action
+2309.81 in order to generate
+adrenaline in your system,
+2311.86 because adrenaline just
+gets you in the action.
+2314.49 Now, that's great,
+2316.68 but, you don't want to multitask
+2318.53 throughout any kind of goal seeking
+2320.09 or goal pursuit behavior.
+2322.02 Because, what's also very clear
+2324.25 and we're going to talk about
+this in exquisite depth today,
+2327.95 is that visual focus
+2329.86 and in particular contracting
+your visual window,
+2332.21 bringing the aperture of what
+you see, to a very fine point,
+2336.58 can absolutely increase
+your clarity of goal seeking
+2341.4 and the likelihood that
+you will pursue your goals.
+2344.66 I've talked about this a little
+bit before on the podcast
+2346.72 as a way of increasing focus
+for any kind of pursuit.
+2349.97 I've talked about a practice,
+2351.17 whereby you can literally
+look at a dot or a line,
+2355.03 placed on a wall or on your
+computer in front of you
+2357.31 for 30 to 60 seconds,
+2359.45 and then moving into some dedicated work,
+2361.85 where you need to focus.
+2362.75 And indeed, just looking at a narrow piece
+2365.35 of the visual world, a small
+piece of the visual world
+2367.68 for some period of time
+2368.513 and forcing yourself to hold
+that gaze on that location
+2371.4 as best you can,
+2372.95 can increase your level
+of cognitive attention
+2375.48 and your ability to
+focus and stay focused.
+2378.24 And this is not magic.
+2379.83 It is the consequence of the fact,
+2381.16 that most of your cognition
+follows your visual perception.
+2385.13 For those of you that are
+low vision or no vision,
+2387.04 meaning you're blind, or
+you have trouble seeing,
+2389.348 my lab does a lot of work with people,
+2392.35 who are low vision, no vision.
+2394.12 They tend to use their
+auditory system, their hearing,
+2396.59 as a way to anchor their
+attention to particular things.
+2399.35 But most people out there
+can see and see pretty well
+2402.42 and visual focus is the way to do that.
+2405.92 Now, earlier, we were
+talking about this notion
+2408.85 of peripersonal space
+versus extra personal space.
+2413.44 And I'm just going to seed a little bit
+2415.21 of the later conversation by saying,
+2418.134 that when we focus on an external point.
+2420.88 We are in a process of exteroception,
+2422.427 is the focus on the extra personal space,
+2425.57 not the peripersonal space.
+2429.038 So when we focus on something,
+say a line on the wall
+2432.12 for 30 to 60 seconds or at our computer
+2434.28 for 30 to 60 seconds and just look at it
+2436.33 and then move into any kind of action,
+2438.85 whether or not it's work
+action or physical action.
+2441.37 We are at its very core.
+2443.64 We are engaging in this pursuit
+of extra personal space.
+2446.84 We are placing our focus outside our body
+2449.24 and therefore we are placing the brain
+2451.31 into goal pursuit mode.
+2454.81 Work at NYU, in particular,
+in the laboratory
+2457.72 of a phenomenal researcher in
+their Psychology Department,
+2461.04 by the name of Emily
+Balcetis, B-A-L-C-E-T-I-S.
+2465.47 Emily Balcetis, has done
+really nice work on this.
+2468.85 They've done is, they've had,
+2470.46 people focus their visual attention
+2472.55 on a goal line of some sort
+2474.58 and then to engage in
+some sort of behavior,
+2477.6 that requires a lot of effort.
+2478.9 And they've done a lot of
+different experiments like this,
+2481.31 but I'll just explain one.
+2482.62 They always include a control group,
+2484.28 where people have to go through
+the same physical effort
+2487.46 or mental effort,
+2488.58 but they don't focus their
+attention just on one location.
+2492.76 The long and short of
+these studies is that,
+2494.73 when people have to focus their
+attention on one location,
+2497.94 like a goal line,
+2499.3 they are much more effective
+in reaching those goals
+2502.06 and they achieve them with the perception,
+2505.11 that they expended less effort.
+2507.07 I'll give you an example of
+one particularly nice study
+2509.62 from the Balcetis Lab.
+2510.99 So this particular study
+involves, physical exercise.
+2514.09 Although, as I mentioned before,
+2515.06 they've done similar studies
+looking at cognitive type work.
+2518.48 And what they did is they
+had a group of people,
+2521.305 exercise, wearing 15 pound ankle weights,
+2525.4 and they had to basically
+move a certain distance
+2527.64 or run a certain distance
+to reach a goal line.
+2530.31 One group was focused on the goal line,
+2532.56 visually focused, on the goal line.
+2534.31 The other group was not
+told to visually focus
+2536.79 on the goal line.
+2537.73 And what they found, was
+that the group that focused
+2540.52 on the goal line, was able
+to achieve reaching that goal
+2545.02 with 17% less effort.
+2548.6 They measured effort and
+they got there 23% quicker.
+2553.16 That's a remarkable difference.
+2555.09 So same distance traveled,
+with same workload
+2557.85 because everyone's wearing
+the same 15 pound weights
+2561.3 on their ankles.
+2562.16 One group is simply
+looking at the goal line,
+2564.44 the other group is not told
+to look at the goal line,
+2566.72 simply by looking at the goal line,
+2568.66 does something to the psychology
+2570.37 and end physiology of these people,
+2572.66 that allows them to move forward
+2575.34 with less perceived effort
+and to do it more quickly.
+2578.4 That's remarkable.
+2579.879 And in this case, they're
+focused on the goal line,
+2582.15 but in a few moments,
+2583.18 we'll talk about how one can
+use updating of goal line,
+2586.05 so incremental goal line.
+2587.18 Starting with an intermediate goal,
+2588.88 and then extending the goal
+line further and further.
+2591.2 But just sit back for a
+second and think about that,
+2593.45 just by changing where a person looks,
+2596.9 they changed their perceived effort
+2599.07 and their ability to do
+something, more effectively,
+2602.88 more quickly, than a group that
+is not deliberately focusing
+2607.13 their visual attention on one location.
+2609.38 That's incredible.
+2610.38 And it's so incredible,
+in fact, you might say,
+2611.82 well, how could that possibly be?
+2613.9 Well, it turns out, it
+has a very specific,
+2616.19 underlying physiological reason
+2618.18 and that has to do with changes
+2620.04 in our so-called,
+autonomic nervous system.
+2622.09 The aspects of our nervous system,
+2624.15 that prepare us for readiness and action,
+2626.82 or that prepare us for
+resting and relaxing.
+2630.32 So what is special about
+focusing one's visual attention
+2633.58 at a given location?
+2635.32 Well, it turns out that
+we have two branches
+2637.01 of our visual system.
+2637.92 So visual information all
+comes in through our eyes,
+2640.73 but then it can head down
+two different pathways.
+2643.48 One pathway is engaged
+when our vision is brought
+2646.53 to a common point,
+2647.363 what we call, a vergence eye movement.
+2648.76 So if we're focusing very
+intensely on a given point,
+2651.4 regardless of how far away
+from us that point is,
+2654.51 our visual system engages
+a certain set of neurons,
+2657.67 neural circuits that are
+involved in resolving fine detail
+2661.53 and that can evaluate small changes
+2663.59 over small periods of time.
+2664.92 Just think of it as a very detailed camera
+2667.54 of the visual world.
+2668.373 It tends to be very restricted.
+2670.22 The other pathway through
+the visual system,
+2672.29 is the so-called, magnocellular pathway.
+2673.95 And this is a pathway that's involved
+2675.52 in taking in global information
+about lots of things,
+2678.22 that are happening around us.
+2679.99 Movement of things to our right,
+2681.23 movement of things to our left,
+2682.49 things are happening down on
+the ground and all around us.
+2684.75 And that pathway involves a
+sort of relaxation, if you will,
+2689.71 of the neural circuits that are associated
+2691.61 with alertness and attention.
+2692.95 When you walk down the street
+2693.92 and you're not thinking about much,
+2694.86 provided you're not looking at your phone,
+2696.47 you're not focusing on one location,
+2698.6 you're more or less in a relaxed state,
+2700.67 compared to when you're
+looking for a particular sign,
+2702.8 you're looking for a bus
+or a train that's coming,
+2704.73 or a particular person.
+2705.73 And that should inherently make sense,
+2707.8 when your level of attention
+and alertness goes up,
+2710.03 there's sort of a small,
+2711.7 but perceptible increase
+in your level of arousal.
+2714.19 It's not really stress necessarily,
+2716.06 but arousal of alertness.
+2718.23 And it turns out that the visual system,
+2720.69 accomplishes this increase
+in alertness by communicating
+2724.46 with your circulatory system
+2726.32 and the system that
+delivers blood and nutrients
+2728.56 and oxygen to the rest of
+the tissues in your body.
+2731.13 So let's talk for a second
+about what focusing our vision
+2733.84 on a particular location does
+2735.21 because in this study
+from the Balcetis Lab,
+2737.14 what they found was, focusing
+on a goal line allows people,
+2739.62 to move more effectively toward that goal.
+2741.56 This is something you can
+leverage in all aspects
+2743.91 of all goal pursuits.
+2746.12 What happens when we focus
+on a particular location?
+2749.71 Believe it or not,
+2750.76 there's an increase in
+a particular feature
+2752.91 of our blood pressure.
+2754.7 Now your body has, of course, arteries,
+2756.57 veins and capillaries,
+2758.86 and your heart pumps blood,
+first to the arteries,
+2761.72 and then to the other components
+of your vascular system.
+2764.53 And we have so-called, blood pressure.
+2766.97 Blood pressure is just how much,
+2768.5 the fluid volume is
+pressing on those arteries,
+2770.87 veins and capillaries.
+2772.4 So you can imagine a pipe
+with very little fluid moving
+2774.87 through it, that's low pressure.
+2776.03 You have a pipe with a lot
+of fluid moving through it,
+2778.37 that's even more pressure.
+2779.3 You have a pipe with a lot
+of very viscous, meaning,
+2781.81 very kind of sticky, thick
+stuff, moving forward,
+2784.24 that's even more pressure.
+2785.59 We have blood pressure
+2786.67 and you've probably had your
+blood pressure measured.
+2788.61 There's always two numbers.
+2790.04 You have a top number, which
+is the systolic blood pressure.
+2792.76 And then there's the bottom
+number, below the line,
+2795.11 which is the diastolic pressure.
+2797.24 So the important thing to understand,
+2798.53 is that your blood pressure
+will rise when your heart beats,
+2801.36 because there's more fluid
+moving through those pipes
+2803.91 that are your arteries or
+veins and your capillaries.
+2806.2 And that top number is called the systole
+2809.01 or the systolic blood pressure,
+2810.78 because that's the pressure at the time,
+2812.89 when your heart contracts.
+2814.893 So the top number, which normally,
+2817.36 if you have a healthy blood pressure,
+2818.7 is somewhere in the range
+of 90 to 120 millimeters
+2822.01 of mercury. Millimeters of
+mercury is just the way,
+2823.71 that pressure is measured.
+2824.84 That top number, your systole,
+2826.913 or your systolic blood pressure,
+2828.65 is what's measured when
+the heart contracts.
+2831.451 So, that's the amount of
+pressure when there's a heartbeat
+2835.24 and it's moving through your vasculature.
+2838.03 Now, between beats, the
+heartbeats, but then it relaxes,
+2842.79 your blood pressure is going
+to drop to a lower value
+2845.05 because fluid isn't being
+pumped through the system
+2847.1 at those moments.
+2848.1 And that's the bottom,
+the diastolic pressure.
+2851.37 And typically for healthy people,
+2852.67 that's going to be 60 to
+80 millimeters of mercury.
+2855.72 So you might hear about a normal
+blood pressure being about,
+2858.77 again, this is an
+approximate, 120 over 80.
+2861.81 What that means is,
+2862.93 at the point where blood was
+being pumped through there,
+2865.61 your arteries and veins, boom,
+2867.63 that it's 120 millimeters of mercury,
+2870.87 but then, when the heart
+relaxes for a second
+2873.25 before the next beat, then it drops to 80.
+2877.38 So there's high pressure, low pressure,
+2878.99 high pressure, low pressure.
+2880.28 The fluid is being pumped
+through the system.
+2883.21 Now, why am I telling you all this?
+2884.44 Well, it turns out, that
+there are neural circuits
+2887.2 that link your visual system
+2889.67 and focusing on a particular
+point with that top number,
+2893.19 the systolic blood pressure.
+2894.71 And when you focus your eyes
+on a particular location,
+2897.621 that systolic blood pressure goes up,
+2900.35 and there are some other systems
+2902.02 that are coordinated with
+it in your brain and body,
+2904.35 that start releasing adrenaline,
+2905.917 low amounts of adrenaline in most cases.
+2908.72 And that adrenaline, further
+readies your body for action.
+2912.08 So, bringing our visual focus
+to a particular location,
+2915.718 does a number of things to the brain
+2918.07 and the whole system of
+the body, to prepare it,
+2920.95 to place it into a state of readiness
+2923.55 that makes us more likely
+to lean into our goals
+2927.18 into action. And if we step
+back and think about this,
+2929.63 this makes perfect sense.
+2931.12 The brain and body need to be coordinated.
+2932.66 We can't just think about a goal.
+2934.31 In fact, a deer or a lion,
+can't just think about a goal.
+2937.69 It has to think about a goal
+and then has to feel some sort
+2941.98 of activation energy,
+2943.43 some willingness or desire to move forward
+2946.22 in pursuit of that goal.
+2947.7 So imagining a goal, has to be coupled
+2951.52 to the physical pursuit of the goal.
+2953.17 So our visual system in a beautiful way,
+2956.02 brings together a focus, literally,
+2958.07 a visual focus on a
+particular point outside us.
+2961.147 Then it recruits an increase
+in systolic blood pressure,
+2965.06 which creates a systemic, a body-wide
+2968.13 and brain-wide increase
+in fuel utilization,
+2970.85 in oxygen availability,
+2971.923 in our willingness to
+move forward as a body,
+2975.13 as a whole coherent system.
+2977.02 And then there are also
+neurotransmitter systems,
+2979.38 like epinephrine, as we
+will soon see dopamine,
+2982.87 that get recruited as well
+2984.27 to place us into a
+continual mode of action.
+2987.97 This to me is a remarkable
+feature of our physiology
+2992.01 and it gets right to the point
+2993.63 of some of the psychological phenomenon
+2995.67 that we were talking about earlier.
+2996.93 Let's just recall what some of those are.
+2998.37 I won't list them all,
+2999.203 but, a goal has to be
+significant, they say.
+3002.43 All the psychologists, all
+the popular stuff online says,
+3004.61 it has to be significant,
+3005.7 has to be inspirational
+3007.45 and has to be action oriented.
+3009.26 So let's say you look
+out into the landscape
+3011.55 of what's available to you,
+3012.9 whether or not it's just in your mind,
+3014.27 or you look at a specific point, you say,
+3016.192 I want to go to that
+particular restaurant,
+3018.63 to eat that particular food.
+3020.05 And you orient towards it
+and you move towards it.
+3022.22 This is the way that your brain and body,
+3023.84 are coordinating their actions together.
+3026.547 Conversely, when our visual system,
+3029.427 is in a mode of looking at everything.
+3031.78 When the aperture of our
+visual system is very broad,
+3035.47 we know that there's also a reduction
+3037.87 in our goal directed behavior
+3039.27 and a reduction in the
+systolic blood pressure.
+3042.3 It's as if our peripersonal
+space is sufficient,
+3045.84 we don't need to get
+beyond our current state.
+3047.92 We're not oriented toward
+any one thing in particular.
+3051.24 So I've now described
+some of the psychology
+3053.36 and some of the underlying physiology.
+3055.47 Now, I'd like to mesh
+this within the context
+3057.88 of actual specific goal
+setting and goal pursuit.
+3061.6 Because what many of you
+are probably thinking is,
+3063.6 well, that's some physiology,
+there's some psychology,
+3065.41 but how do you actually apply this
+3067.35 towards setting and achieving goals?
+3069.12 Well, you do that, by understanding
+that your mental frame
+3073.63 and your attention are
+always either positioned,
+3076.95 to your peripersonal space,
+3078.61 focused on your immediate
+possessions and state,
+3082.19 or towards things outside you.
+3083.97 But then you also have the ability,
+3085.39 to dynamically travel back
+and forth between those.
+3087.75 And so next, we're going to talk about,
+3088.96 what the literature says about
+things like visualization,
+3092.16 immediate and intermediate goals,
+3094.39 long-term goals and how
+to best achieve those.
+3096.94 And then we're going to move specifically
+3098.35 into the protocols that you can use.
+3100.1 It's a protocol that I've
+specifically developed
+3102.06 for you, the listeners,
+3103.64 in order to incorporate all
+the signs into a best practice,
+3107.32 that you can do any time, any place,
+3108.735 to really identify what
+it is specifically,
+3110.956 that you want to pursue
+3112.87 and the best route to pursue
+and achieve that goal.
+3115.49 Focusing our visual attention
+on one particular point,
+3118.61 is incredibly effective for
+all types of goal pursuit.
+3121.78 And if you'd like to read
+some of the scientific studies
+3124.02 or read a review of
+the scientific studies,
+3126.81 that have looked at how,
+narrowing one's visual attention,
+3129.91 can really enhance the
+effectiveness of pursuing goals,
+3133.6 I'll put a link to this study.
+3134.91 The title of the study is,
+keeping the goal in sight,
+3137.85 testing the influence of
+narrowed visual attention
+3140.37 on physical activity.
+3141.75 And this is a paper from
+Emily Balcetis's Lab,
+3144.98 focuses mainly on physical activities,
+3146.81 but it mentioned some
+other things as well.
+3148.68 This is an article published in
+3150.618 Personality and Social
+Psychology Bulletin in 2020,
+3153.255 so it's recent.
+3154.96 It's an exceptional paper in my opinion,
+3157.47 really gets to the heart
+of how all this works
+3159.437 and some of the examples of
+where it's been implemented.
+3161.82 So let's apply this visual
+tool, in a very simple way,
+3165.09 to any type of goal
+that you want to pursue.
+3169.61 If you already know what
+goal you want to pursue,
+3171.17 maybe it's a workout,
+3172.05 maybe it's a cognitive work
+of some particular sort.
+3174.77 Again, the process is very simple.
+3176.43 You're going to focus your
+visual attention on one point
+3179.42 beyond your peripersonal space,
+3181.28 so it could be on your computer.
+It could be on the wall,
+3183.453 it could be a horizon.
+3184.72 It could be at a distance
+3186.07 and you're going to focus
+your visual attention there.
+3188.3 And with some effort you're going
+to hold your visual attention
+3190.6 for 30 to 60 seconds, you
+might blink, that's okay,
+3194.13 but you're going to try
+3194.963 and hold your visual attention there.
+3196.1 So no moving your head around.
+3197.79 No diverting your attention
+to other locations.
+3199.79 Some people will find it very easy to do.
+3201.34 Other people will find it quite hard.
+3203.07 Your mind may drift
+cognitively, that's okay,
+3205.7 but try and bring your visual attention
+3207.48 to that common point.
+3209.54 Several episodes ago, I talked about how,
+3211.71 there are actually studies
+looking at developing this kind
+3213.97 of training in students, for ADHD
+3216.36 and the data on that are
+actually quite encouraging.
+3218.75 So for people who have ADHD
+3220.25 and focus issues and attentional issues,
+3222.49 this can be effective.
+3223.37 For people who don't, this
+can also be effective.
+3226.3 Again, it places your brain and body
+3228.26 into a state of readiness
+3229.46 and then the idea is to move
+into the particular actions,
+3232.51 that bring you closer to your goal.
+3234.28 We haven't yet talked
+about how to set goals
+3236.27 and how to assess progress.
+3237.47 This is simply how to pursue goals.
+3240.57 But the visual component is important,
+3242.91 in fact, I would argue
+that the visual system
+3245.79 and harnessing your visual
+attention to a narrow point,
+3248.33 is going to be the most effective way,
+3249.891 to get your brain and body
+into a mode of action,
+3252.74 to pursue whatever goal it
+is you're trying to pursue.
+3255.85 That practice is in stark
+contrast to multitasking,
+3258.78 where by definition
+your attention is moving
+3260.96 from place to place to place.
+3262.7 I mentioned that
+multitasking can be effective
+3264.8 in getting your system into somewhat
+3266.67 of an increased level of activation,
+3269.11 so that you can pursue
+a more focused goal.
+3270.9 But the visual attention
+to a particular point,
+3273.22 is going to be the most effective
+way to bring your system
+3275.6 into a state of readiness
+and action for goal pursuit.
+3278.21 There's another really interesting way,
+3279.86 that you can leverage your visual system
+3281.395 toward long-term goals.
+3284.83 The Balcetis Lab has also done,
+3286.43 some really interesting experiments,
+3287.9 looking at people's ability to set
+3290.65 and stick to long-term goals.
+3292.3 And the long-term goal
+that they looked at,
+3294.63 was one related to saving
+money for later in life.
+3298.63 This is something that a
+lot of people struggle with,
+3300.42 a lot of people have a
+hard time investing money
+3302.45 or saving money for later in life.
+3304.13 Simply because as human beings,
+3306.2 we vary in the extent to which we worry
+3308.86 about what's going to happen later.
+3310.84 There's also a phenomenon of
+so-called, delay discounting.
+3314.45 Delay discounting, is the fact that goals,
+3317.21 become less rewarding when
+they exist further out
+3320.1 in the future.
+3321.32 You may have experienced this
+walking past a donut shop.
+3323.49 I love donuts
+3324.33 I'm just going to admit it,
+over and over again on the spot.
+3326.09 I love the smell of them.
+I love the taste of them.
+3327.97 I try to eat them
+3328.803 'cause I'm told they're
+not that good for me
+3330.167 and indeed, I don't think they are.
+3332.33 I occasionally cave and
+I'll eat one or many.
+3335.1 But in general,
+3336.32 I try not to cave to the
+immediately rewarding properties
+3340.12 of the smell and the taste of the donut.
+3342.89 But, what we know is
+that if you smell a donut
+3346.52 or you smell a wonderful piece of food,
+3348.99 in the immediate term, it
+brings your level of focus,
+3351.95 your mental focus to the immediate phase.
+3354.6 And it feels very rewarding,
+3355.96 like if you had it now,
+it would just be so good.
+3358.62 But if you actually extend
+that reward out to tomorrow
+3361.5 or the next thing you think,
+3362.684 today happens to be a
+Saturday, that we're recording,
+3365.61 but, on Tuesday morning,
+I'm going to get a donut.
+3368.5 It doesn't have the same value
+because the reward system,
+3371.81 doesn't work as well for long-term goals.
+3375.68 It's not as salient.
+3377.22 It's not as tangible, a goal,
+3378.98 especially for something like a donut.
+3380.6 Whereas the kinds of goals that work,
+3382.55 when you place them out to the longer term
+3384.36 and can create a heightened
+sense of motivation,
+3386.42 tend to be things that are
+much more rewarding to us.
+3388.64 So delay discounting simply says that,
+3390.36 the further out in time
+that a given goal is,
+3392.93 the less effective that reward will be
+3395.42 in motivating one's behavior.
+3397.01 And indeed you see this with
+saving money for retirement,
+3399.75 you see this with all sorts
+of long-term investment,
+3403.54 The Balcetis Lab, therefore
+did an experiment,
+3406.17 where they looked at people's tendency
+3408.714 to save money for later in life.
+3412.22 But the groups that they
+created in this study,
+3414.79 were really interesting.
+3415.623 They had one group,
+3416.46 imagine, what it would be like
+to be 30 or 40 years older.
+3420.766 And then to invest a
+certain amount of money,
+3423.88 according to whatever it is they thought
+3425.64 that they would need.
+3426.473 And they measured the amount
+3427.45 that they had set aside and saved
+3429.24 for later in life.
+3432.0 The other group, actually
+viewed photos of themselves,
+3435.55 so picture, images of themselves
+3437.52 that were artificially, digitally aged,
+3440.93 so that they could see
+themselves 30 or 40 years
+3443.58 into the future.
+3445.06 And it turns out
+3445.893 that people in that second group,
+3447.57 simply by perceiving their
+own image, in the future,
+3452.47 invested far more money into later life.
+3455.95 They set aside more money.
+3457.01 Somehow it bridged the gap
+3458.5 between their immediate experience of life
+3460.53 and the longer arc
+3462.68 toward what it was going to
+be like in 30 or 40 years.
+3465.66 So very powerful result in my opinion,
+3467.7 because what it says again,
+3469.19 is that our visual
+perception of the future
+3471.93 or our visual perception of the present,
+3474.52 is what allows us to anchor
+our goal directed systems
+3477.52 and our motivation to take on things
+3480.343 that in the immediate term
+might not seem that useful.
+3483.23 So, you can imagine all
+sorts of variations on this.
+3486.5 You can imagine that
+every time I want a donut,
+3489.7 I'd see a vision of myself
+3491.38 or an actual physical picture of myself
+3493.415 as a consequence of having
+eaten many donuts every day
+3497.07 for the next 10 years.
+3498.229 I don't know what that
+image would look like
+3499.24 'cause I've never seen it.
+3501.24 That's not an experiment
+3502.2 that I necessarily need to do
+3503.491 because I'm not that
+motivated to eat donuts,
+3505.62 but I have to confess, I am somebody
+3507.84 who I think I'm pretty
+good at managing resources.
+3511.37 But I think if I were to see
+an image of myself at 70 or 75,
+3515.51 there's so many things
+3516.343 that are associated with visual images.
+3517.67 Like what our body must feel like,
+3519.44 what our needs are
+probably going to be like
+3521.73 in that state or in that age.
+3523.96 What sorts of things we may
+3525.18 or may not still be
+able to do at that age.
+3527.81 And that anchors back
+3529.12 to immediate goal-directed behaviors,
+3530.83 such as setting aside
+money for retirement.
+3532.86 Such as investing in
+one's health practices.
+3536.419 And indeed there's a study
+3537.252 that has looked at how people will invest
+3539.16 in exercise and healthy eating.
+3542.04 If they just think about the future
+3544.27 and what they might be like in the future
+3546.74 versus seeing images of
+themselves in the future,
+3549.61 if they were to go down a
+healthy or unhealthy route.
+3552.46 So again, the point is
+3553.69 that the visual system, what we see,
+3556.58 is principally important
+3558.79 in defining what we do
+in the immediate term.
+3560.93 Even if what we see relates to something
+3562.56 in the far off distance.
+3564.61 I think these are phenomenal studies
+3566.12 and they get right down
+to an important issue
+3568.33 that's been kicked around
+3569.27 over and over in the literature
+3571.38 and in the discussion about goal seeking,
+3572.86 which is visualization.
+3574.47 We here keep the big goal in mind,
+3576.84 focus on the big goal.
+3578.43 So now we're going to address,
+3579.71 what does the science say
+3580.8 about visualizing big goals?
+3583.53 If you're somebody who's
+interested in business,
+3585.36 or let's say you're
+focused on relationship,
+3587.55 is thinking about the perfect relationship
+3589.9 and what that would look like
+3590.99 and the family that you would have
+3592.73 and where you would live.
+3593.64 Is that effective in generating the kinds
+3595.97 of behaviors that will lead you to that?
+3597.51 Is it effective to think
+3598.67 about the big win at the end?
+3600.77 Well, it turns out it is,
+3602.65 but you have to be very, very careful
+3604.29 with when and how you
+implement that visualization.
+3607.06 'Cause if you do it correctly,
+3608.64 it can really serve
+your goal seeking well.
+3610.71 And if you do it incorrectly,
+3612.18 it can undermine the entire process.
+3614.57 So, does visualization work?
+3617.09 Well, turns out,
+3618.53 that visualization of the
+big win, the end goal.
+3622.01 So the Superbowl win
+3623.523 or eight gold medals in the Olympics
+3626.52 or graduation from the
+university of your choice
+3630.06 or making a certain amount of money
+3631.44 or finding the partner of
+your choice, et cetera.
+3634.75 That visualization is effective
+3637.12 in getting the goal
+pursuit process started,
+3640.4 but it actually is a pretty lousy
+3642.72 and maybe even counterproductive way
+3644.81 of maintaining pursuit of that goal.
+3648.08 Meaning continuing to
+engage the sort of actions
+3651.33 that are going to get you to
+eventually achieve that goal.
+3654.22 I think this is going to be
+surprising to people, at first,
+3657.47 but if we think back to our discussion
+3660.17 about the physiology of
+the blood pressure system,
+3663.18 it'll make sense.
+3667.04 Good scientific studies have been done
+3668.727 where people are told to imagine,
+3671.84 or even script out
+3673.2 their long-term vision
+and goal for themselves.
+3675.48 What is the big goal?
+3676.857 And they're talked to,
+3678.28 or told to imagine it with
+a rich amount of detail.
+3681.3 To think about how it's going to feel
+3682.53 in their body and the big win.
+3684.2 And basically what happens is,
+3685.91 if you measure people's blood pressure
+3687.27 or other metrics of physiology,
+3689.02 you see an increase in that
+systolic blood pressure.
+3691.39 There's an kind of a
+ramping up of the readiness
+3694.235 and excitement for that goal,
+3696.94 but that increase in blood
+pressure quickly wanes.
+3700.14 And over time,
+3701.58 that visual of the long-term goal,
+3703.82 becomes a poor thing
+3705.73 to rely on in order to
+generate the actions
+3709.369 that are required to reach that goal.
+3712.12 In fact, there's a much better way
+3714.28 to maintain ongoing action toward a goal
+3717.73 that also involves visualization,
+3720.15 but it turns out it's not
+about visualizing success.
+3723.56 It's about visualizing failure.
+3725.7 The Balcetis Lab and other labs
+3728.05 have looked at whether or
+not people make progress
+3730.85 toward goals of different types.
+3733.27 Whether or not they're
+thinking about the goal.
+3736.06 They're thinking about that goal line
+3737.38 and what they want to achieve,
+3738.77 that long-term goal
+3739.78 and all the wonderful
+things associated with it,
+3741.96 or whether or not they're thinking
+3743.27 about all the ways in
+which they could fail,
+3745.113 en route to that goal.
+3747.302 This is not typically what
+we are encouraged to do.
+3750.63 Typically, we are told
+don't imagine failure,
+3752.9 push failure out of your mind,
+3754.32 only focus on success.
+3756.23 Fake it till you make it,
+3757.34 or is a phrase that I
+absolutely hate, frankly,
+3759.65 because it's not even
+clear what that means.
+3761.46 And it's not even clear
+3762.49 what the ethical form of that is.
+3764.17 I think it means continue
+despite any anxiety
+3766.99 or fear that things won't work out.
+3768.72 But if you look at the literature,
+3770.59 the scientific literature,
+3772.26 what the Balcetis Lab and
+other labs have shown,
+3774.21 is that there's a near
+doubling, near doubling
+3777.76 in the probability of reaching one's goal,
+3780.83 if you focus routinely
+on foreshadowing failure.
+3786.35 You think about the ways
+in which things could fail,
+3789.25 if you take action A or you take action B
+3792.31 and instead, therefore, you take action C.
+3794.5 You're supposed to think
+3795.333 about how things could fail,
+3796.81 if you don't get up and run each morning,
+3799.04 if your goal is, say a fitness goal.
+3800.74 So let's use that as an example,
+3802.5 because even though I realized,
+3804.03 people are in pursuit of many
+things, not just fitness.
+3805.869 Fitness goals and physical
+goals are a very concrete thing
+3809.43 that we can all get on the same page about
+3811.8 'cause they're related to actions.
+3813.89 Let's say, somebody sets a goal
+3816.61 of running five miles,
+four times a week, minimum,
+3820.32 and as many as seven,
+four times a week, minimum
+3822.31 before 8:00 AM.
+3823.66 In a previous podcast on habits,
+3825.1 I talked about the benefits
+3826.41 of not necessarily setting specific times
+3828.282 that one will do things,
+3829.39 but setting time blocks
+3830.69 that one we'll do things.
+3831.523 So you say before 8:00 AM,
+3832.51 you're going to run five miles
+3834.33 and that's going to happen
+up to seven days a week.
+3838.46 One version of this would be,
+3839.71 okay, sit back in a chair
+3840.95 and think about how great
+you're going to feel and look,
+3843.77 if you're doing this every day.
+3844.83 How your health is going to improve.
+3846.33 How everything's going to be,
+3847.163 your blood markers, of lipids, et cetera,
+3848.83 are going to improve, okay, fine.
+3850.46 That's the visualization goal
+3852.359 of visualizing the end point.
+3854.87 It turns out that is far less effective
+3856.79 and maybe even counterproductive,
+3858.49 compared to thinking about
+what's going to happen,
+3860.99 if you don't do this.
+3862.76 The negative health outcomes
+that are going to occur,
+3865.06 the disappointment you're
+going to have in yourself.
+3867.01 The fact that you're
+going to wait until 7.30,
+3869.41 that's not long enough
+3870.33 for many people to run five miles.
+3872.17 You got to put on your shoes
+as there could be pouring rain
+3874.965 or even hailing or snowing, outside.
+3875.798 And now you're not going
+outside unless you're somebody
+3877.56 who's particularly motivated to do that.
+3880.3 So, foreshadowing failure turns out
+3882.87 to be the best way to
+motivate toward goal pursuit.
+3885.47 In fact, as I mentioned before,
+3886.92 there's a near doubling in the likelihood
+3888.67 that people will reach goals of any kind.
+3890.72 When they're constantly thinking
+3891.89 about how bad it's going
+to be, if they fail.
+3894.5 If we think back to the
+neural circuit associated
+3897.72 with assessing value in our goal pursuits,
+3901.09 this makes perfect sense.
+3902.1 The amygdala, that center of the brain
+3903.83 that's involved in anxiety
+and fear and worry.
+3906.33 Well, the amygdala, is one
+of the four core components
+3909.4 of our goal setting and
+goal pursuit circuitry.
+3912.58 And there's no bypassing that.
+3914.13 there is no one listening to this
+3915.75 or watching this who's
+amygdala is not involved
+3918.5 in their goal setting and
+goal pursuit behavior.
+3921.24 And so, while I'd love
+to be able to tell you
+3923.06 that all you should think
+about is rainbows and puppies
+3925.88 and all the wonderful, rewarding things
+3927.343 that are going to happen
+when you achieve your goals.
+3930.43 The truth is, you should
+be thinking mainly
+3932.76 about how bad it's really going to get,
+3935.2 if you don't do it.
+3936.033 How disappointed in yourself,
+you're going to feel.
+3937.87 How it will negatively impact you,
+3940.45 if not in the immediate
+term, in the long-term,
+3942.56 if indeed your goal is to reach your goal.
+3945.03 So, I want to emphasize
+3947.21 that I'm not interested
+in encouraging people
+3949.41 to flagellate themselves.
+3950.58 I'm encouraging people
+to achieve their goals.
+3954.31 And it turns out the best way to do that,
+3955.81 is by foreshadowing failure.
+3957.56 And the more specific you can get
+3960.01 by writing down or thinking about
+3961.47 or talking about,
+3962.53 how bad it will be if you
+don't achieve your goals,
+3964.81 the more likely you are
+to achieve those goals.
+3967.77 Part of the reason for that
+3969.432 almost certainly has to do with increases
+3971.82 in systolic blood pressure
+3973.13 and increases in readiness in your system,
+3975.73 when you imagine failure.
+3976.95 The brain and body are much better
+3979.94 at moving away from fearful things
+3982.09 than towards things we want.
+3983.4 I wish I could tell you
+that wasn't the case,
+3984.94 but there is a true asymmetry
+3986.71 in the way we are built.
+3987.96 In fact, the brain and body can engage
+3990.3 in what's called, one trial learning.
+3991.68 When something bad happens,
+3992.96 we eat a food that makes us sick.
+3994.27 We have an interaction
+with a person or place
+3996.06 that we really don't like.
+3997.46 It only takes one trial to really...
+3999.38 One event, one time to reorient
+4002.47 or rewire our neural circuitry,
+4003.84 so that we have a bias toward moving away
+4005.41 from that thing in the future.
+4006.81 When things go well, unfortunately,
+4009.3 that doesn't often occur.
+4010.34 If things go really, really well,
+4011.85 it might orient our brain and body
+4013.26 toward wanting more of that thing.
+4014.54 And we'll have neural circuitry changes
+4016.21 that will lead us to engage
+4017.52 in that particular behavior
+or interaction again,
+4020.15 but it is never as effective
+4021.575 as these avoidance circuits.
+4024.33 So again, foreshadow failure,
+4026.01 if you're going to
+visualize in a positive way,
+4028.47 do that at the very beginning
+of some goal pursuit.
+4030.64 Maybe intermittently
+every once in a while,
+4032.44 you imagine the big win
+4033.99 of scoring perfect on exam
+4035.96 or winning the championship
+or the great relationship.
+4038.12 But most of the time,
+4039.37 if you want to be effective,
+4040.44 you should be focusing on avoiding failure
+4042.53 and you should be really clear
+4043.51 about what those failures would look like
+4045.05 and feel like.
+4045.91 Now, let's talk about goal setting.
+4048.21 Going back to that prominent literature,
+4050.12 the psychology and popular literature,
+4051.75 again, we can hear some of
+these themes start to emerge.
+4055.319 The goal should be
+significant, we are told.
+4058.67 It should be inspirational.
+4060.55 It should be aggressive, yet realistic.
+4063.28 Well, okay, that's all fine and good,
+4065.63 but let's get semi
+quantitative about this.
+4067.96 Let's at least get biological about this.
+4070.28 How inspirational does it need to be?
+4071.833 Does it need to be the kind of thing
+4073.13 that is so inspiring to me
+4074.84 that I can't sleep at all?
+4075.85 Well, that wouldn't be good
+4076.683 because as I believe and I know,
+4079.16 many of you have heard me
+say many, many times before,
+4081.51 regular deep sleep, 80%
+or more of the nights
+4084.61 that you go to sleep,
+4085.443 is going to be crucial to your cognitive
+4086.67 and mental functioning and your ability
+4088.01 to achieve your goals in the long-term.
+4089.77 That's absolutely clear.
+4091.15 So, it's got to be,
+inspirational and exciting,
+4093.69 but what does that really look like
+4095.24 and what does that correspond to
+4096.69 and how do we actually make that happen?
+4098.82 Well, once again, there is a mismatch
+4101.65 between what the real data show
+4103.28 and what we're most often told.
+4105.94 Turns out, that again,
+work in Balcetis Lab,
+4109.66 but also other laboratories,
+4110.96 has addressed whether
+or not the probability
+4114.298 of achieving a goal, goes up or down,
+4118.78 depending on whether or not one visualizes
+4121.61 or sets a goal that is easy,
+moderate or impossible.
+4127.62 An impossible goal would
+be, for instance, if I say,
+4130.41 I'm going to jump from my front driveway,
+4133.202 all the way up to the road,
+4135.21 the road's, quite a distance away,
+4136.6 it's more than 20 meters away.
+4137.66 It's just not going to happen.
+4138.6 It's not going to happen in this lifetime,
+4139.68 it's not going to happen
+in any other lifetime.
+4141.67 Not unless it involves
+some elaborate technology
+4144.24 that I'm not aware of,
+4145.27 a jet pack or something like that.
+4146.4 It's just not going to happen.
+4147.857 An easy goal would be
+something like, can you jump?
+4151.16 Or could I jump, two feet in
+front of me, obviously, yes.
+4153.89 Now I'm using a trivial example here,
+4155.5 but this could be translated
+to any kind of goal,
+4157.54 school goal, physical goal, et cetera.
+4161.15 It turns out that,
+4162.24 when people set goals,
+4163.84 whether or not they are nutritional goals,
+4165.965 eat more of this or eat less of that.
+4168.16 Whether or not they're fitness goals,
+4169.81 run more, lift more.
+4171.032 Some other goals, swim less, swim more,
+4173.062 whatever it is their goal happens to be.
+4175.48 Some learning goal,
+4176.59 some relationship goal,
+4178.5 some attempt to modify their behavior.
+4181.01 It turns out that if the goal is too easy,
+4183.61 it's too within reach,
+4185.34 it doesn't recruit enough
+4187.6 of the autonomic nervous system
+4189.3 to make pursuit of that goal, likely.
+4192.96 Now that might be surprising,
+4194.21 at least it was surprising
+to me, you think,
+4195.76 well, something is really, really easy.
+4197.243 there's a very low bar to achieve it.
+4199.94 People are probably more likely to do it.
+4201.69 But turns out that's not the case,
+4202.97 when we hear that a goal
+needs to be inspirational,
+4205.03 what do we mean?
+4205.95 When we hear that something's too easy,
+4207.3 to recruit our action, what do we mean?
+4208.93 Well, Balcetis Lab measured,
+systolic blood pressure,
+4212.31 and found that,
+4213.143 when goals were too easy
+for people to attain,
+4216.0 they didn't get that increase
+in systolic blood pressure
+4218.24 and recruitment of the other
+neural and vascular systems,
+4220.71 meaning the blood systems
+and the nervous system
+4222.74 that would place them into ongoing effort.
+4224.62 And so they quickly gave up.
+4227.19 Also, if a goal was too lofty,
+4229.91 if it was too far from
+their current abilities,
+4232.409 it didn't recruit enough
+systolic blood pressure.
+4236.26 Even if people could get very excited
+4238.41 about something mentally,
+4239.82 it simply didn't place their
+body into a state of readiness
+4242.89 because it wasn't tangible
+4244.44 that they could actually
+perhaps really achieve it.
+4247.58 So it turns out that
+when goals were moderate,
+4251.1 when they were just outside
+of one's immediate abilities
+4254.24 or that one felt that yeah,
+4255.48 that would take a lot of effort.
+4257.13 But it's within range or maybe in range,
+4260.129 like maybe I can do it, maybe I can't.
+4263.02 Then there was a near doubling
+4265.97 of the systolic blood
+pressure in the good sense.
+4268.27 It didn't go into the unhealthy range
+4270.28 and a doubling or more of the likelihood
+4273.69 that they would engage
+in the ongoing pursuit
+4277.04 of that particular goal.
+4278.44 So here we're talking about goal setting.,
+4279.8 what we're saying is, set
+goals that are realistic,
+4283.03 but that aren't so
+realistic, that they're easy.
+4286.51 The goals need to be realistic
+and truly challenging.
+4289.93 Don't set goals that are
+so challenging and so lofty
+4293.14 that they crash that blood pressure system
+4296.52 in the other direction and make you
+4298.5 or anyone feel unmotivated.
+4300.29 In hearing this, it makes sense,
+4301.64 but I don't think I
+would have predicted it,
+4303.17 had they not done this
+very controlled study.
+4305.76 I would have thought,
+4306.69 the loftier the goal, the bigger the goal,
+4308.87 the more that it recruits
+the autonomic system
+4311.33 and the more that people are likely,
+4312.68 to lean into the energy
+4314.23 and effort to pursue and attain that goal.
+4317.06 I also would have thought
+4318.1 that if a goal is really easy to achieve,
+4320.78 that it would engage the systems
+4322.531 of action in the brain and body enough
+4325.18 that people would sort of get into motion
+4326.8 and pursue that goal.
+4327.633 But neither is the case.
+4328.57 Again, set goals that
+are difficult to achieve,
+4332.394 but that are not so lofty,
+4334.476 that they collapse your system
+4337.22 and that you feel overwhelmed.
+4338.5 And the important thing here,
+4339.83 is that how we perceive a goal,
+4342.25 whether or not we think
+it's within reach or not,
+4344.36 of course will vary,
+4345.41 depending on whether or not we are rested.
+4347.3 Depending on whether or not other aspects
+4348.92 of our life are going well.
+4350.34 I mean, we can think that
+we are hot on the heels
+4353.04 of a lifetime goal and
+everything's going well,
+4356.527 and then there'll be some
+crisis interpersonal crisis,
+4359.34 or there'll be a health crisis
+and you'll be shut down.
+4361.59 And then that goal seems
+very, very hard to attain.
+4364.17 So we will talk about how to update goals
+4366.6 under different context in a few minutes.
+4368.54 But, of course this is
+going to be an averaging,
+4370.79 this isn't something
+that you do just once.
+4372.7 But the takeaway again is very simple,
+4374.33 set goals that are
+moderately hard to hard,
+4377.03 but not so hard nor so easy
+4379.49 that they don't engage your
+brain and body properly.
+4382.41 Moderate goals are best,
+4384.25 if you want to achieve your goals.
+4386.25 Now I'd like to talk about
+three particular areas
+4388.44 of scientific study,
+4389.99 that point to goal pursuit,
+4392.24 goal assessment and goal achievement.
+4396.09 Previously I told you,
+4397.67 that it's great to foreshadow failure.
+4400.57 That that's a great way to get your system
+4402.15 into a state of activation.
+4403.47 I also told you
+4404.71 that you want to set goals,
+4406.09 that are challenging but possible.
+4407.57 And again, here, I'm paraphrasing
+4409.21 from the work of Emily Balcetis.
+4410.71 I want to be very clear.
+4412.798 There are a few other
+things that one can do
+4415.66 in order to bias the likelihood,
+4418.09 that you will succeed in
+trying to achieve your goals.
+4421.15 First of all, limit your options,
+4424.55 trying to pursue too many goals at once,
+4426.82 can definitely be counter productive.
+4428.42 Now I realized that life is complicated.
+4430.82 We all have multiple goals
+that we're trying to pursue,
+4433.27 but if we have particular
+goals that are important to us,
+4436.23 we have to be careful to not
+get distracted by other goals.
+4439.34 And many people run into this problem.
+4441.1 So setting one or two
+4443.3 or maybe three major
+goals for a given year,
+4446.45 is going to be more than
+enough for most people
+4448.73 and is actually going to be
+challenging for most people.
+4451.11 Now, of course we have daily
+goals and monthly goals
+4453.01 and yearly goals, but if
+we have big lofty goals,
+4455.87 we need to be careful not to
+contaminate our mental space
+4458.7 and our visual space with too many goals.
+4460.59 And why do I say visual goals? Well,
+4463.234 what various department stores
+4465.67 and supermarkets have discovered is that,
+4468.51 the greater, the number of
+things in our visual attention,
+4472.75 the more that we can draw our attention
+4475.54 and our goals off a line of pursuit.
+4477.69 What does that mean?
+4478.79 Well, let's think about it
+in the practical context.
+4480.66 This has actually been done.
+4482.23 Big department stores have figured out
+4484.03 that if they stock their
+shelves, chock-a-block
+4486.5 with many, many options of food
+4489.06 or clothing items or objects
+or anything like that,
+4491.99 people simply buy more stuff.
+4494.92 People are very prone to
+orienting their attention
+4498.71 to whatever's in front of them.
+4499.82 You put a lot of stuff in front of them,
+4501.02 their attention drifts,
+4501.86 you put fewer things in front of them,
+4504.603 their attention is more narrow.
+4505.96 In a later episode, we'll talk
+about designing a workspace,
+4509.04 that's optimized on the basis of this.
+4511.06 It doesn't mean being in a room
+4512.31 with nothing except just
+your desk and a computer.
+4514.8 Doesn't have to be that sparse,
+4516.97 but visual sparseness,
+4518.99 actually can help us orient
+our focus and our behavior.
+4523.13 When we have a lot of things
+in our visual environment,
+4525.13 or a lot of things in our
+cognitive environment.
+4527.15 It's the same thing.
+4528.36 And so if you're going to try
+and pursue a fitness goal,
+4530.96 a relationship goal, an academic goal,
+4532.95 and a longterm life
+financial goal all at once,
+4535.33 that's four things.
+4536.49 And you're going to have
+to come up with systems
+4538.18 that allow you to isolate those
+goals in a very rigid way.
+4542.56 And if you do have
+multiple interleaving goals
+4545.07 and overlapping goals
+and simultaneous goals,
+4547.85 in a few minutes, we're going to talk
+4548.97 about a process that will allow you
+4550.43 to use your visual system,
+4552.12 to align towards each of
+those goals, sequentially,
+4555.04 in a way that makes it much more likely
+4556.86 that you'll achieve them.
+4557.99 So now let's talk about
+specificity of goals.
+4561.2 We've all heard that the
+more specific a goal is,
+4563.73 and the more specific we are
+4565.08 about when and how we are
+going to execute that goal,
+4568.243 the higher probability
+4569.62 that we will actually achieve that goal.
+4572.36 And indeed that's the case,
+4573.46 but there's an additional feature,
+4575.01 that's not often discussed.
+4576.77 That is vitally important.
+4578.27 And in fact, maybe more important
+4580.43 than having a specific time of day
+4583.25 or a specific end point in mind.
+4586.04 There's a really nice study,
+4586.873 that was done looking at recycling.
+4589.46 This is something that a number of groups,
+4591.56 businesses, households,
+4592.66 and individuals are trying to do more of.
+4594.73 They're trying to lower carbon footprint
+4596.24 or contribute to the
+world in some general way
+4599.46 by throwing away fewer things
+4601.81 that could potentially be recycled.
+4604.87 So this has been studied
+4605.9 in the context of the work environment,
+4608.14 where a business decides
+and lets everybody know,
+4612.035 that there's going to be a greater effort
+4614.65 toward recycling cans or bottles
+4617.03 or bottles and cans, et cetera.
+4618.74 And then, the way these studies were done,
+4621.758 is that the janitorial staff
+was swapped out temporarily
+4624.98 for researchers that actually measured
+4626.78 the number of recyclable items
+4629.19 that showed up in the trash
+4631.142 and not in the recycle,
+4633.31 as a function of the
+total amount of trash.
+4634.82 Why'd I say, as a function
+of the total amount of trash?
+4636.38 What's a way of controlling
+4637.35 for differences in beverage consumption
+4639.57 from one week to the next?
+4640.49 Anyway, the point is they were able
+4642.64 to very carefully measure,
+4644.311 how much people are recycling
+4646.507 before and after this call
+to action to recycle more.
+4651.017 And what they found was,
+4652.99 if they said, we are going
+to try and recycle more,
+4655.5 try not to put cans and
+bottles in the trash.
+4658.22 There of course was an
+improvement in recycling,
+4661.41 but it was pretty modest.
+4663.29 Whereas when there was
+a very concrete plan
+4666.62 and everyone knew what
+that concrete plan was,
+4668.77 for instance, to place all bottles
+4670.88 and cans into the recycle, not the trash
+4673.37 or to limit the amount of trash by 50%,
+4677.85 or to eliminate all recyclable
+items from the trash.
+4681.21 So when they made it very concrete,
+4682.95 exactly what the action steps were,
+4685.9 there was a remarkable,
+4687.49 I mean, close to a hundred fold
+4688.97 or more improvement in recycling behavior
+4692.69 that lasted many months
+4694.87 after this call to action was made.
+4697.66 The takeaway from this
+is quite straightforward.
+4699.5 It means that having a
+concrete plan is essential.
+4702.77 You can't just say,
+4703.8 I'm going to become a better recycler
+4705.23 or I'm going to do things
+4706.17 that are better for the environment
+4707.31 or I'm going to become
+more physically fit.
+4709.67 It has to be a specific
+set of action steps
+4712.99 that get right down to details
+4715.15 about what success would look like.
+4717.81 I've heard this before described
+4719.09 as what does right look like?
+4720.88 What is the actual outcome
+4722.51 that one would like to achieve
+4724.07 in terms of action steps?
+4725.76 So not necessarily feeling states,
+4727.52 it wasn't that they all
+sat around and said,
+4728.89 how great we're all going to feel
+4729.82 about ourselves in the world
+4731.33 when we accomplish this goal?
+4732.52 It was very concrete
+statements, very concrete plans
+4736.36 about action steps that would
+deliver one to one's goal.
+4739.57 Somewhat straightforward and intuitive,
+4741.57 but nonetheless worthwhile.
+4743.33 What it suggests is that for all of us,
+4745.85 if we have certain goals
+that we want to achieve,
+4748.06 we need to be exquisitely detailed
+4750.87 about what the action steps are,
+4752.69 that we are going to take
+4753.6 and to constantly update
+those action steps,
+4755.93 so that we have a higher probability
+4757.45 of meeting those action steps.
+4759.23 Some of you may be asking,
+4760.5 how often should one assess progress?
+4763.715 Well, that of course will
+depend on the given goal
+4766.36 that you're trying to pursue.
+4767.69 But in the studies
+4768.84 that I've been referring to here,
+4770.379 the assessment of progress
+4772.52 and the updating of concrete
+plans was done weekly.
+4775.92 So it seems like weekly
+is a good starting place,
+4778.81 to address how well one performed
+4781.15 in the previous week.
+4782.12 And then based on that performance
+4784.0 to update the action plan
+for the upcoming week.
+4786.73 So weekly seems like a
+good solid rule of thumb
+4789.94 for setting particular action goals
+4791.935 and assessing one's progress
+4794.75 towards the immediate
+and longer term goals.
+4797.42 Any discussion about
+goals and goal pursuit,
+4800.4 would be incomplete without a discussion
+4802.37 about the molecule, dopamine.
+4805.2 Dopamine is often thought of
+4806.69 as the molecule of pleasure and reward,
+4809.04 but actually it is the
+molecule of motivation.
+4812.6 This is best illustrated
+4813.799 by a classic set of studies,
+4815.61 that have been carried out in
+both animals and in humans.
+4818.68 The animal study can be
+described the following way,
+4822.11 two rats, each in a separate cage.
+4824.6 You can provide those rats
+4825.76 with the opportunity to indulge
+4827.79 in something that they like,
+4829.27 like food or mating.
+4830.992 Or heat, if it's cold in the environment,
+4834.3 or a cool spot in the cage,
+4836.332 if it's warm in the
+environment and so forth.
+4839.03 And what you find is that,
+4840.674 rats will very readily
+approach the rewarding thing.
+4846.2 They will, mate.
+4847.15 They will eat.
+4847.983 They will pursue something
+that is of pleasure.
+4851.93 Now, if you are to take one of those rats
+4854.32 and deplete its dopamine neurons,
+4856.24 you can eliminate it's dopamine neurons
+4857.83 or block dopamine in the brain.
+4860.0 What you find,
+4860.833 is that those animals
+will still enjoy pleasure.
+4865.75 They will consume the food,
+they will mate, et cetera.
+4868.61 However, their motivation,
+4870.8 to achieve pleasure is vastly reduced.
+4874.75 In fact, if you place
+the item of pleasure,
+4877.28 the mate, the food, et cetera,
+4879.37 even just one rat's
+length away from that rat,
+4882.64 the rat without dopamine
+will not even move one length
+4885.75 of its own body in order
+to achieve that pleasure.
+4889.07 And there are naturally
+occurring experiments
+4890.75 in humans that mimic that
+result, very accurately.
+4894.97 There are certain conditions in humans
+4896.25 where there's a depletion of dopamine.
+4897.85 And what you find is that,
+4899.56 the depletion of dopamine
+does not inhibit an ability
+4902.77 to experience pleasure, necessarily.
+4905.15 It inhibits an ability to pursue
+4907.49 or go through the series of action steps
+4909.93 in order to achieve pleasure.
+4912.11 So dopamine, really sits
+4913.51 at the heart of our motivational state,
+4916.44 to seek out goals and to seek pleasure.
+4919.13 And this is true for immediate goals
+4921.28 that take place within
+a timeframe of minutes
+4923.936 or a timeframe of a day,
+4925.7 or the timeframe of a week or
+the timeframe of a lifetime.
+4929.05 Dopamine, is the common currency
+by which we pursue goals.
+4933.01 Now, dopamine does a number of things
+4935.14 that are very interesting.
+4936.65 I'm going to describe a few of them
+4937.97 as they relate to goal seeking behavior.
+4940.78 First of all, there's
+a fundamental feature
+4943.6 of how our brain releases
+and uses dopamine,
+4947.72 that's called, reward prediction error.
+4949.67 And the simplest way to think
+4950.87 about dopamine reward prediction error,
+4953.21 is that dopamine is released
+in the greatest amount
+4956.8 and places us into a
+greater state of motivation,
+4960.47 when something happens
+that's positive and novel.
+4964.67 Now, an important thing to
+understand about dopamine,
+4966.88 is that it's not always released
+4969.35 on the same schedule.
+4971.56 There are a couple of different ways
+4972.5 that dopamine is released.
+4973.62 And when it is released
+relative to your anticipation
+4977.68 of a reward, is key.
+4980.37 If you don't expect
+something positive to happen,
+4983.04 you're just going about your day
+4984.26 and something positive happens,
+4985.95 dopamine and a lot of
+dopamine is released.
+4989.43 I had this happen recently.
+4991.6 I had no idea
+4992.433 that I was going to be
+receiving something in the mail,
+4994.46 but I went to the mail.
+4996.12 I looked in the mail and I
+got something very positive.
+4998.77 And I was really, really
+excited about this.
+5000.083 This is a real event that
+happened, just today.
+5003.12 However, if we anticipate
+something positive
+5006.93 is going to happen
+5008.26 and then that thing happens,
+5011.0 we experience dopamine as
+part of the anticipation.
+5014.36 So even before we get the reward,
+5016.5 there's an increase in dopamine.
+5018.33 It's not as high as it would be,
+5020.18 if something really novel and unexpected
+5022.84 and positive happened,
+5023.82 but we do get an increase in dopamine.
+5025.48 And then, when we actually
+experience the reward,
+5029.38 we experience the positive thing,
+5031.14 there's a smaller increase in dopamine.
+5033.4 So again, the biggest increases
+in dopamine are response
+5036.01 to things that are
+positive and unexpected.
+5040.52 Lesser dopamine is released
+5041.93 when we anticipate
+something good will happen
+5044.88 and when that happens,
+yes, we get some dopamine.
+5047.31 And we also get some dopamine
+5048.59 when the positive thing happens,
+5049.76 think about anticipating
+a great meal with friends.
+5052.06 We have some dopamine churning,
+our friends come over,
+5054.41 then we have the meal
+5055.45 and we also get some dopamine from that,
+5056.96 but not nearly as much as we would,
+5059.22 if it had all happened as
+a part of a big surprise.
+5062.51 Then, there's also the
+case in which we predict
+5064.95 that something good will happen,
+5067.15 when that happens, there's
+an increase in dopamine just
+5069.25 as it was before,
+5070.67 but then if that thing doesn't happen,
+5072.24 for instance, our friends
+don't show up for dinner,
+5074.34 then there's a drop in dopamine
+below our initial baseline.
+5078.43 That drop in dopamine,
+5079.48 is the chemical essence of
+what we call, disappointment.
+5083.65 Now, this dopamine reward
+prediction error, as it's called,
+5087.7 can be leveraged toward
+trying to reach our goals
+5090.96 because it tells us
+5092.61 where we should set our milestones.
+5095.145 We can't be in a mode
+of simply being focused
+5098.71 on the finish line.
+5100.28 Very few people can do that
+5103.08 over long periods of time
+5104.37 in a way that's effective.
+5105.203 Now, earlier I talked about a study
+5106.81 where people were focused
+on a finish line visually,
+5109.14 and they were moving through space
+5110.43 with these ankle weights on,
+5111.58 but that was a very short-term goal.
+5113.81 So, if a goal is within minutes,
+5116.32 or maybe even within an hour
+5117.53 or as in with our immediate
+visuals environment,
+5120.41 maybe we can do that.
+5121.65 But most goals of the sort
+5123.16 that most people are
+pursuing, fitness goals,
+5125.1 academic goals, business goals,
+5126.35 relationship goals, et cetera,
+involve some milestones.
+5129.98 So, understanding what we know
+5132.01 about reward prediction error,
+we can make better choices
+5135.87 about where to place the milestones,
+5137.97 how far out in the future
+to place milestones.
+5141.22 So then the question becomes,
+5142.48 how often or at what intervals
+should one assess progress?
+5147.3 And it turns out this is very subjective,
+5149.14 but that there's a way
+to make it objective.
+5151.81 Now, in a previous episode of
+the "Huberman Lab Podcast",
+5156.31 I had a discussion with
+the great Robert Sapolsky
+5158.717 and we were talking about,
+5160.47 how the brain can subjectively change
+5163.13 whether or not a given
+behavior or experience,
+5165.35 is positive or negative.
+5166.55 And the example that Robert gave,
+5169.44 is a really phenomenal one.
+5170.44 It's a study that's been done in rats
+5172.3 and also in humans
+5173.17 where they took a rat
+5174.29 and they had a rat run on a running wheel.
+5177.051 Rats turns out like to
+run them running wheels
+5178.76 and the blood pressure of that animal,
+5180.89 the health metrics for that animal,
+5182.51 the lipid profiles, many,
+many things improved.
+5185.48 The rat was exercising
+and it got healthier
+5187.54 and presumably happier,
+5188.61 we don't know, we could've asked it,
+5190.13 but we wouldn't know. It
+doesn't know how to tell us,
+5192.263 but we can measure blood lipids.
+5193.75 We can measure blood pressure
+and all sorts of things.
+5196.2 And indeed, when that rat
+exercised or when people exercise,
+5200.28 they generally get healthier.
+5202.13 Except, in that particular experiment,
+5204.29 they had another animal
+5206.85 where every time rat number one, ran,
+5210.76 rat number two was forced to run.
+5213.52 It was on a running wheel
+5214.43 and it was forced to run,
+not because it wanted to,
+5216.82 but because it was forced to.
+5218.69 And what was remarkable,
+5220.02 is that the physiological effects
+5221.77 of being forced to do something,
+5223.74 were in the complete opposite
+direction as they were
+5226.6 when those same behaviors
+were undertaken voluntarily.
+5229.62 In other words, the rat
+that was choosing to run,
+5232.22 got healthier
+5233.1 and the rat that was forced
+to run became unhealthy,
+5236.52 blood pressure went up in a direction
+5238.14 that wasn't effective and useful.
+5239.75 Blood lipids got worse.
+5240.89 Stress hormones went up,
+et cetera, et cetera.
+5242.92 And you see the same thing in humans.
+5245.07 Now, what this says,
+5246.11 is that our subjective understanding
+5249.95 of why we are doing something,
+5251.87 is fundamentally important for the effects
+5254.68 that we will get from that behavior.
+5256.4 And indeed the effects of
+that behavior will have on us.
+5259.6 So this has two major implications.
+5261.53 First of all, in terms
+of reward schedules,
+5264.07 we can decide to use any
+reward schedule that we want
+5267.271 for a given behavior.
+5268.47 We can decide that the milestones for a...
+5270.858 Let's say a plan of getting
+5273.17 in really terrific cardiovascular
+shape over the next year.
+5276.13 We can decide to assess every day
+5279.66 and ask ourselves how
+good was our progress.
+5281.59 And if we made progress, then
+we're going to reward ourselves.
+5283.79 We could do that every third day.
+5285.45 We could do it every week.
+5286.79 We could do it every five minutes,
+5288.18 if we actually had the time to do that.
+5290.24 The reward schedule, the dopamine system,
+5292.8 is highly susceptible to
+the subjective effects.
+5296.0 These so-called, top-down effects
+5297.41 of when we decide that something
+is going to be good for us,
+5300.69 if we analyze it on a given timeframe,
+5303.21 well, then it's going to be good for us.
+5305.37 So, what I suggest people do
+5307.17 is pick a particular interval
+5309.06 at which they are going
+to assess progress.
+5311.09 And if you've been making
+regular progress towards a goal
+5314.36 that you reward yourself
+5315.217 and the reward indeed is all cognitive.
+5318.51 It's all mental.
+5319.37 It's telling yourself, yes,
+I'm on the right track.
+5322.14 Now, some people will say, wait,
+5324.38 but I want to know exactly
+how often I should do that.
+5326.81 You need to do that at an interval
+5329.1 that you can maintain consistently.
+5331.73 So you're not going to
+reward yourself every minute
+5334.58 or every step of every jog that you take,
+5336.9 unless you can do it,
+every minute of every step
+5338.82 of every jog that you take.
+5340.07 For that reason, I think that daily
+5342.398 or ideally, weekly assessments
+are going to be best.
+5345.83 I think that checking
+in at the end of a week,
+5347.41 looking back on the previous week
+5348.87 and assessing how well you performed
+5351.18 in pursuit of a given goal.
+5352.78 How many times a week you ran,
+5354.54 or how many times you studied,
+5355.81 or how many times you did
+something that you wanted to do
+5357.79 or avoided something that
+you didn't want to do.
+5359.8 I think that's a reasonable
+and tractable schedule
+5364.38 to assess once a week.
+5366.67 So that's one point,
+5367.69 that pick a milestone that
+you can maintain consistently
+5371.67 throughout the pursuit of a goal.
+5373.91 The second thing, is that
+the subjective effects
+5377.61 that were described by that Sapolsky study
+5380.12 or that Sapolsky described
+rather, are absolutely essential
+5384.9 for all aspects of goal seeking behavior.
+5387.41 We cannot underestimate the extent
+5389.48 to which the dopamine system and our sense
+5391.62 of whether or not we
+are on the right track,
+5393.56 is under our cognitive control.
+5396.06 If we constantly place ourselves
+5398.49 into a mode of thinking
+that we are failing, well,
+5401.89 then indeed, we are not going
+to churn out much dopamine.
+5405.03 Now, earlier, I said, we need to predict
+5407.2 and visualize failure,
+5408.9 but that is not the same thing
+5410.72 as thinking about ourselves as failing.
+5413.33 We need to predict what the
+outcome would be if we failed,
+5417.0 but then encountering that
+5418.93 and in behaving in a certain way,
+5420.367 and thinking in a certain way,
+5421.58 in pursuing our goals in an effective way.
+5424.73 Maybe checking in on that each week,
+5426.52 we definitely need to
+reward ourselves cognitively
+5429.67 for the correct and successful pursuit.
+5432.73 What this means is that
+anticipate and think about failure
+5435.7 as a mechanism of generating motivation
+5438.1 and indeed fear and anxiety,
+5439.67 so that you lean into
+the correct behaviors
+5441.62 and you lean away from
+the incorrect behaviors
+5443.68 to reach your goal.
+5444.84 But then weekly or so,
+5446.15 whatever you can maintain consistently,
+5448.364 you absolutely want to
+reward yourself cognitively
+5451.53 by telling yourself,
+I'm on the right track.
+5453.53 I got another week where I accomplish,
+5455.66 whatever it is that I'm
+trying to accomplish.
+5457.84 A concrete example that I'm following now,
+5459.58 is this 150 to 200 minutes
+of zone two cardio per week,
+5462.54 because that's shown to be very effective
+5465.352 in improving mental and
+physical health metrics.
+5467.121 So once a week, I'll check in with myself.
+5469.24 If I reach that 150 to
+200 minutes threshold,
+5473.28 then I'll reward myself simply
+5474.6 by checking off a box and
+saying, okay, I'm on track.
+5477.26 I'm on track.
+5478.093 I'm on track.
+5479.07 This dopamine system is critical to re-up,
+5482.2 to remind ourselves that we are on track,
+5484.05 if indeed we are on track
+5485.71 because dopamine itself
+provides a state of motivation
+5489.917 and readiness to continue
+5491.68 in the regular pursuit of our goals.
+5494.4 Dopamine, the molecule, is actually used
+5498.31 to manufacture epinephrine
+and norepinephrine.
+5500.84 Which are other molecules
+in our brain and body,
+5503.04 which put us into that
+readiness and action state.
+5505.47 There are actually the molecules
+5506.57 that help generate that increase
+5508.02 in systolic blood pressure,
+5509.33 that puts us into a state of readiness.
+5511.9 So you can think about dopamine
+5513.63 as a self amplifying system,
+5515.78 provided that you are
+leveraging the dopamine system
+5519.68 on a consistent schedule.
+5521.469 Now, by also following a
+consistent schedule of self reward,
+5525.23 you set yourself up for any
+positive unanticipated rewards,
+5529.64 that may happen.
+5530.59 So for instance, if you're
+checking in with yourself weekly,
+5533.44 telling yourself that you're doing well,
+5534.71 if indeed you are.
+5535.81 And then out of nowhere,
+5537.6 for instance, you're out on a run
+5539.18 or you're doing something,
+5540.06 I'm using fitness as an example.
+5541.32 But you're doing something,
+5542.153 you find yourself performing
+particularly well,
+5544.23 that's a unexpected dopamine reward
+5547.0 that will further amplify the system.
+5549.42 Now I know many people out there,
+5551.04 having heard me talk about
+dopamine before, worry,
+5553.35 well, can I release too much dopamine
+5555.38 and then the whole system will crash
+5556.8 and then I'll run out of motivation?
+5558.56 In general, that doesn't happen
+5560.36 unless people are using pharmacology,
+5562.9 supplements or prescription
+drugs or illicit drugs
+5565.16 to increase dopamine.
+5566.68 This is why I'm a big fan
+of things like, cold showers
+5570.03 and cold water exposure,
+5571.77 which has been shown to lead
+5572.9 to long-lasting 2.5 X
+increases in dopamine,
+5577.52 or in some cases,
+5578.5 supplementation with
+things like L-Tyrosine,
+5580.4 which are precursors to dopamine.
+5582.01 Or in some cases, caffeine,
+5583.12 which can increase the number
+5584.22 of dopamine receptors that we have,
+5585.98 so that whatever dopamine
+we have floating around
+5588.1 can be more effective
+5589.28 in activating these motivational states.
+5591.96 But things that really increase dopamine
+5594.95 and then cause it to
+crash, can be problematic.
+5597.51 One way to conceive of dopamine,
+5599.16 is as a sort of dopamine wave pool.
+5601.42 You've probably seen these wave pools,
+5602.68 where some pressure is
+pushed into the pool
+5604.98 and then you get these waves going.
+5606.42 If those waves are consistent enough,
+5608.52 and they're are of high enough amplitude,
+5611.07 the waves can continue to go
+up and down and up and down.
+5615.14 But if it's a giant wave,
+5616.6 if you get a huge blast of dopamine,
+5619.04 well then a bunch of the water
+sloshes out of the wave pool
+5621.85 and then you basically
+have to take some time off,
+5624.44 reset that dopamine level.
+5625.82 That's what happens in addiction
+5627.03 and when people start
+pushing in a lot of drugs
+5630.83 or other things into the system
+5631.94 that increase dopamine too much.
+5633.87 So today we've almost
+exclusively been talking
+5635.86 about behavioral tools.
+5637.298 It is possible to incorporate supplements
+5639.77 and things of that sort, that
+can increase dopamine as a way
+5642.594 to getting into ongoing
+motivational states.
+5646.14 But I caution people about
+relying on those too much.
+5649.85 Really what you want,
+5651.41 is you want a situation where
+your own positive feedback,
+5654.54 your own understanding,
+5655.5 that you are reaching the milestones
+5657.11 that you've set out for yourself.
+5659.21 That you're achieving those,
+5660.67 and that is what's causing these waves
+5662.54 or these increases in dopamine
+5663.89 that will further amplify
+your motivational states.
+5666.93 Another very interesting
+aspect of dopamine
+5669.3 that I've not talked about at all
+5670.85 on this podcast before,
+5672.41 is actually how the
+dopamine system interacts
+5675.26 with the visual system.
+5676.73 We've talked a lot about
+5678.592 how harnessing your visual attention,
+5679.425 to a particular point is great
+5681.46 and can help serve your
+ability to both set
+5685.79 and achieve goals.
+5688.39 Really wonderful work that
+was done by Wolfram Schultz,
+5690.86 who's one of the great pioneers
+5692.5 in this area of dopamine
+5693.73 and dopamine reward prediction error,
+5695.74 showed that for people that
+have normal levels of dopamine,
+5698.92 their visual search,
+5700.01 meaning how they scanned
+visual environments,
+5701.75 tends to be pretty constrained.
+5703.05 They might move their eyes
+5704.07 around a particular visual
+environment, searching somewhat.
+5708.52 For people that lack dopamine,
+5710.8 they actually have very
+little movement of their eyes.
+5713.35 They don't actually tend to
+look very far into the horizon.
+5716.34 They're don't have that
+very focused vergence point
+5718.69 that we're talking about that kind of a...
+5719.97 I guess for lack of a better phrase,
+5721.24 that kind of eye of the
+tiger, focus on a goal.
+5723.5 Rather, their eye movements are depleted
+5726.77 and they're not actually
+evaluating horizons
+5729.21 off in their future,
+5730.13 they're not focused so much
+on the extrapersonal space.
+5734.25 And this actually can be restored
+5735.8 and some of these took place
+in Parkinson's patients
+5738.41 and other people who
+have dopamine depleted,
+5740.4 that when dopamine is
+restored pharmacologically,
+5743.52 their visual focus is re-enhanced again.
+5746.93 Now, there are a lot of
+details to this study
+5748.74 that don't map perfectly onto everything
+5750.33 that I've talked about.
+5751.25 But the point is this, when we are focused
+5754.21 on a particular point in visual space
+5755.95 or a particular goal or horizon.
+5758.578 All those systems, our
+blood pressure, epinephrine
+5761.26 and indeed dopamine, get recruited
+5763.89 to put us into a state of readiness
+5765.97 and willingness to go pursue things
+5767.72 in that extrapersonal space.
+5770.04 When our visual attention is very diffuse,
+5773.23 all of that relaxes,
+5774.44 and we tend to be more comfortable staying
+5776.38 in the place that we are,
+in our peripersonal space
+5779.95 and the effect works in
+the other direction too.
+5782.602 When dopamine is increased,
+5784.82 our visual attention for
+particular things out in space,
+5787.66 increase.
+5788.493 So the way it works is reciprocal.
+5790.97 When we use our visual system
+and in a particular way,
+5794.08 bring it to a point of focus,
+5795.25 it recruits chemical and neural systems
+5797.29 in our brain and body
+5798.123 that put us into a state
+of readiness and pursuit.
+5800.88 And, when we increase certain chemicals
+5804.64 in our brain and body, like
+epinephrine, like dopamine,
+5807.34 then we also allow our visual system
+5810.48 to be in a state of looking
+out at particular locations
+5814.15 in our visual world.
+5815.32 So the system works in both directions
+5817.44 and some people leverage this
+by using things like caffeine
+5820.35 or taking things like
+L-Tyrosine to increase dopamine.
+5823.06 And again, it works both ways,
+5824.55 there's no right or wrong way to do it.
+5826.42 I'm a particular fan of
+using behavioral tools,
+5829.63 always prior to using supplementation
+5832.97 or any kinds of other tools
+5834.41 because behavioral tools
+have a very unique feature
+5836.94 that supplementation and
+other chemical tools don't.
+5840.3 Which is that behavioral
+tools used over time,
+5842.929 engage neuroplasticity.
+5844.63 As we start to practice,
+5846.59 using our visual system
+to harness our attention
+5848.58 to particular locations
+5849.72 and in that way, move
+to our particular goals,
+5851.97 we get better and better
+at using those systems.
+5854.17 In fact, the systems for
+focus and motivation,
+5856.88 themselves have plasticity,
+5858.18 so we get better at being
+motivated and focused
+5860.98 when we place our visual
+attention at a given location.
+5864.42 Using chemical assistance of a safe kind,
+5867.13 of course, check with your doctor.
+5868.26 But things like L-Tyrosine or
+caffeine or those combined,
+5870.84 yes, it will increase dopamine
+5872.067 and will increase our ability,
+5873.88 to engage in visual focus somewhat.
+5875.713 But those compounds alone,
+5877.81 don't modify the circuitry
+in the way that we want.
+5880.53 So I always say, behavioral tools first,
+5882.87 then nutritional tools,
+then supplementation tools
+5884.967 and then if it's right for you and safe,
+5886.97 maybe you advance into some
+5888.05 of the other more sophisticated tools.
+5889.96 I'd like to just briefly recap
+5891.41 what I've covered up until now.
+5893.05 And again, emphasize that much
+5894.3 of what I've covered has been based
+5895.66 on the beautiful work of
+Emily Balcetis and colleagues.
+5898.26 I do hope to get her as a guest
+on the podcast, by the way.
+5901.4 First of all, set goals that
+are challenging, but possible,
+5904.53 those moderate goals, not super
+easy, not super difficult.
+5907.81 But moderately challenging goals,
+5909.77 seem to be the most effective
+5911.23 in moving people towards their goals
+5913.21 over the short and longterm.
+5914.74 Second, plan concretely,
+5916.546 you need a concrete set of actions
+5918.3 that you're going to follow
+in order to reach your goals.
+5921.296 Third, foreshadow failure.
+5924.22 This is a somewhat surprising one to me.
+5926.61 I would have anticipated,
+5927.92 that imagining success is the way to go.
+5930.83 It turns out that imagining
+success and visualizing success,
+5934.01 can be useful at the outset of a goal
+5936.4 and maybe every once in a while
+5938.0 in pursuit of that goal.
+5939.62 But that it's not terrific for putting you
+5942.17 in constant pursuit of that goal,
+5944.15 rather, foreshadowing
+failure, visualizing failure
+5946.87 and all the terrible things
+5947.78 that it's going to bring,
+5949.15 seems to be more effective.
+5949.983 And that maps very well to what's known
+5951.7 about the neural circuitry
+5952.533 and the involvement of the amygdala.
+5955.21 Focus on particular visual points
+5958.32 as a way to harness your attention
+5960.07 and to remove distractors.
+5963.22 Removing distractors and
+getting your body and brain
+5965.81 into a mode of activation.
+5967.24 Getting that healthy increase
+in systolic blood pressure,
+5969.76 that puts you into forward motion
+5971.92 towards your goals, is absolutely key.
+5973.95 So that's a brief summary
+5975.41 of what I've covered up until now.
+5977.21 There were other things too,
+of course, the dopamine system
+5979.57 and the power of
+subjective top-down control
+5984.7 in regulating that dopamine system.
+5987.01 But I want to be sure to include a tool,
+5989.71 that's been especially powerful for me,
+5991.62 that's grounded in the
+neuroscience research
+5993.84 and in the psychology research.
+5995.74 And as I describe this tool next,
+5997.91 I think you'll see the ways
+5999.05 in which it measures nicely
+6000.88 with the work that Emily Balcetis
+and colleagues have done.
+6004.44 This is something that,
+6005.81 I've personally been doing for many years,
+6007.81 based on my understanding
+of the visual system
+6010.58 and the understanding that
+6012.091 indeed we can move our cognition
+6014.513 and our perception from
+a place of interoception
+6018.502 and focusing on our peripersonal space.
+6021.41 That space within us and
+immediately around us
+6023.95 and on the things that are
+immediately accessible to us.
+6027.15 That we can shift from that mode
+6028.74 to this mode of exteroception
+6031.05 of focusing on things outside
+the confines of our skin
+6034.48 and that are beyond our reach,
+6036.12 that are literally goal directed behaviors
+6038.22 and goal directed thoughts.
+6040.15 And this is something that in the past,
+6042.1 I have talked about a little bit
+6043.93 and I've talked about something
+called, space-time bridging.
+6046.07 And we haven't talked too much
+6047.18 about the time domain of
+the visual system today.
+6050.22 But space-time bridging, is simply a way
+6053.46 of using one's visual system
+6055.34 to focus on the peripersonal
+space and interoception.
+6058.61 And then gradually in a deliberate way,
+6060.76 stepping one's focus into
+the extra personal space
+6064.14 and then back to the peripersonal space
+6066.19 in a way that gives you a lot
+of flexibility and control
+6069.89 over that ability in your daily life.
+6073.26 So, I'm going to first describe the tool,
+6075.61 and then I will explain more
+about the underlying science
+6078.42 and the underlying mechanism.
+6080.95 Here's how you would do this.
+6083.49 You could do this indoors or outdoors,
+6085.71 although, ideally, you
+would do it in a location
+6088.41 where you could view a horizon.
+6089.61 It could be through a window
+6090.57 or ideally outdoors, without a window.
+6093.461 It could be done anytime of day.
+6095.198 At night, it might be a
+little more challenging,
+6096.21 but it goes the following way.
+6098.54 What you first do, is you
+would close your eyes,
+6101.83 this could be done sitting or standing.
+6103.18 But you would close your eyes
+6104.59 and you would focus as
+much of your attention,
+6108.018 including your visual attention
+6110.018 on your inner landscape,
+on your interoception.
+6113.01 So that would be your
+breathing, your heart rate,
+6114.85 maybe even the surface of your skin,
+6116.25 but really focusing internally.
+6118.01 Now, how can you focus your
+visual attention internally,
+6120.14 if your eyes are closed?
+6121.29 Well, you do that by imagining
+your inner landscape.
+6124.94 So you don't have to
+imagine your heart beating
+6126.48 and so forth.
+6127.313 But what you're trying to
+do is eliminate perception
+6128.94 of the outside world.
+6130.23 You're eliminating exteroception
+6131.82 and you're focusing all of
+your cognitive attention
+6134.9 and your perceptual attention
+6136.25 on what you're experiencing
+6137.38 within the confines of your skin
+6139.68 or at the level of the
+surface of your skin
+6142.02 and inside your body.
+6143.2 And you would do that for a duration
+6145.89 of approximately three slow breaths.
+6149.34 So close your eyes.
+6150.23 You do breath one, breath
+two and breath three,
+6154.48 concentrating all your attention
+6155.72 on your internal landscape.
+6157.35 Then you would open your eyes
+6159.5 and you would focus your visual attention
+6161.16 on some area on the surface of your body.
+6163.47 So for me, the way that
+I typically do this,
+6164.94 will be to focus on,
+say the palm of my hand.
+6167.41 So I'll focus my visual
+attention on the palm of my hand.
+6169.58 And I then do three breaths again,
+6172.96 focusing on my internal state,
+6175.14 but now I'm splitting out a little bit
+6177.3 of my attention from
+interoception to exteroception.
+6180.25 I'm focusing on something outside me,
+6181.97 the ratio or the split of
+attention is about 90, 10,
+6185.63 about 90% of my attention
+is focused internally,
+6188.43 but I'm also focusing some
+of my attention externally.
+6192.63 Most people can do this pretty easily.
+6194.58 Then, there's a third,
+what I call, station.
+6197.06 I now move my visual
+attention to outside my body,
+6200.68 to some location in the room,
+6202.26 or if I'm outside in the
+external environment,
+6204.06 something in the range
+of five to 15 feet away.
+6206.83 And I'm trying to move 90% of my attention
+6210.0 to that external object.
+6211.22 So now I'm really biasing my
+perception and my attention
+6214.1 towards exteroception.
+6217.58 As I breathe, I'm paying
+attention to those three breaths,
+6219.86 so that's why there's still 10%,
+6221.21 that's focused on my internal landscape
+6223.06 because I want to pay attention
+to those three breasts.
+6225.07 But I'm focusing as much of my attention,
+6227.06 outside of myself,
+maintaining just a little bit
+6230.479 on my internal state,
+6231.73 so I can measure the cadence
+of those three breaths.
+6235.19 Then I move my visual attention
+to yet another station,
+6238.05 which is further away,
+typically, a horizon
+6240.01 or something as far off in the distance,
+6241.98 as I can possibly see.
+6243.38 Again for the duration of three breaths.
+6246.73 And at that point, I'm trying
+my very best to move 99,
+6250.55 if not 100% of my attention
+to that external location.
+6256.02 And then, what I typically will do,
+6258.74 is I will try and expand both my vision
+6262.75 and my cognition to a much broader sphere.
+6265.16 This is that, magnocellular vision
+6266.62 that we talked about before,
+6268.1 where I'm not focusing
+6269.23 on a particular location on the horizon.
+6270.72 I'm trying to dilate the
+aperture of my field of view,
+6273.03 so I can see as much
+of the visual landscape
+6275.42 as I'm in as possible.
+6276.8 If you're in an internal, excuse me,
+6279.57 if you're in indoors,
+6281.24 then that might be the ceiling, the walls
+6283.45 and the floor of the
+environment you're in.
+6285.08 If you're outdoors, it would
+be to expand your visual focus
+6287.77 as broadly as you possibly can.
+6290.06 Again, for the duration of three breaths,
+6292.76 then I would return immediately
+to my internal landscape.
+6296.9 I would close my eyes
+6297.95 and I would do three more
+breasts focusing entirely
+6301.37 on my interoception, on
+my internal landscape
+6305.16 or what we called before,
+my peripersonal space.
+6307.97 And I would then repeat that,
+6310.6 peripersonal space, 100%,
+6312.86 focus on my hand, 90%,
+6314.91 10% on my peripersonal space
+or my internal landscape.
+6318.8 Stepping out to another location
+6320.5 where it's mostly exteroception,
+6322.62 maybe a little bit of
+recognition of my internal state,
+6325.64 then to the horizon,
+6326.81 then to this broader visual
+sphere, then back into my body.
+6329.67 And I would work through
+each of those stations,
+6331.9 maybe two or three times.
+6333.2 The entire thing takes about
+90 seconds to three minutes,
+6336.64 depending on how many breaths you do.
+6338.63 I said three,
+6339.463 but you could do one or 10.
+6341.04 It doesn't really matter.
+6342.5 Or, it's also going to depend on,
+6345.5 for instance, how slowly your breathing.
+6347.46 'Cause your breathing might be faster
+6348.73 than mine or vice versa.
+6351.14 What is all of this doing?
+6352.17 Why do I call this space-time bridging?
+6354.2 And why is this useful for goal setting?
+6356.6 The reason I call it space-time bridging,
+6358.72 is that the visual system,
+6360.41 is not just about analyzing space.
+6363.12 It's actually how we batch time.
+6365.33 It's how we carve up time.
+6366.87 And the simple way to state this is that,
+6368.9 when we focus our visual attention
+6370.51 on a very narrow point,
+6372.78 that's close to our body
+6374.71 and our immediate experience.
+6376.44 We tend to slice up time, very finely.
+6379.25 We're focused on our breathing.
+6380.87 We're focused on our heartbeats.
+6382.84 In fact, our breathing
+and our internal landscape
+6385.07 and our heartbeats
+6385.903 become the sort of
+seconds hand, if you will
+6388.53 on our experience.
+6389.51 We are carving up time,
+6390.82 according to our immediate
+physiological experience.
+6394.32 Whereas when we focus our visual
+attention outside our body,
+6398.0 not only do we engage that exteroceptive,
+6400.69 extra personal space system,
+6402.15 and we start to engage
+the dopamine system,
+6403.93 the goal-directed system,
+6405.82 but we also start
+batching time differently.
+6409.31 When we focus our visual system
+6410.93 into a broader sphere
+of space or into a space
+6413.71 beyond the confines of our skin,
+6415.52 we start carving up time,
+our frame rate changes.
+6418.879 Now this is useful in the
+context of goal setting,
+6422.52 goal assessment and goal pursuit.
+6424.24 Because with the exception of
+a very few isolated examples,
+6429.367 almost all goals, involve
+setting some goal,
+6433.293 that's off in the future,
+6435.62 and then carving up the time between now
+6437.98 and the achievement of
+that goal into milestones,
+6440.71 that range in duration.
+6443.19 And the rewards, even if we try
+6445.36 and just make them every week,
+6446.68 are going to come at
+some unexpected intervals
+6449.76 and that's actually can be helpful
+6450.95 for reinforcing behavior,
+intermittent reward.
+6453.48 That's intermittent
+6454.74 and random is the most effective
+reward schedule we know,
+6459.45 but the problem is always,
+6460.66 how do we keep our cognition
+6462.38 in line with the long-term goal
+6463.94 while also being focused
+6465.18 on these more immediate goals?
+6466.43 And so this particular practice,
+6467.88 that I call space-time bridging,
+6469.17 but we could give it a different name.
+6470.56 I'm sure there are better names.
+6471.56 Maybe you can suggest some
+6472.43 in the comment section on YouTube,
+6474.57 that are more accurate
+or map to it better.
+6477.35 But this behavior or this practice rather,
+6480.31 is teaching us to use our visual system
+6482.75 and thereby our cognitive system
+6484.68 and thereby our reward systems,
+6487.23 to orient to different locations in space
+6489.84 and therefore different locations in time.
+6492.88 And that is the essence
+of goal directed behavior.
+6496.3 That is the essence of setting a goal.
+6498.55 It's about thinking about what you want.
+6500.52 Then it's about setting milestones
+6503.41 that are intermediate to that goal.
+6505.73 Then it's about assessing whether
+6507.21 or not you're reaching those milestones.
+6508.86 And then, it's of course
+about updating your goals,
+6511.25 if you need to update your goals.
+6513.03 All of that is an enormously
+confusing batch of challenges,
+6517.05 if you think about it all at once,
+6518.69 but if you break it down
+into these elements,
+6520.82 that the visual system can help you find
+6523.13 and move towards those milestones.
+6524.65 I think there's ample
+evidence to support that
+6526.6 and that your control
+over your visual system,
+6529.18 is indeed yours,
+6530.14 that you can deliberately set
+it to different locations.
+6532.4 And then you make a practice
+6534.54 of stepping through
+these different stations
+6537.41 on a regular basis.
+6538.38 Again, I do this each morning.
+6539.75 I do this once a day.
+6541.784 Rarely have I done it twice a day.
+6543.57 Rarely have I missed a day.
+6544.97 But by doing that, you
+can be very effective
+6547.52 in teaching the systems of your brain
+6549.93 that are related to
+goal setting and reward,
+6551.88 to map to different timeframes.
+6553.89 So, I found this to be a
+very effective protocol,
+6556.93 the Balcetis work has mainly focused
+6559.281 on visual tools that
+are of a single horizon.
+6563.56 Here I'm talking about multiple
+6564.96 what I called stations or horizons.
+6567.19 But what's very clear, is
+that an ability to move
+6570.37 from different visual stations
+6572.33 and to do that in a deliberate way
+6574.41 in a focused and conscious way.
+6576.389 Clearly maps to an ability,
+6578.66 to conceive of different goals
+6580.29 over different periods of time.
+6581.85 And I do believe can be greatly beneficial
+6584.31 in allowing one to set particular goals
+6587.13 and then move through the
+milestones to those goals
+6589.4 and to constantly update one's pursuit
+6591.7 and reward in reaching those milestones
+6593.7 and eventually, the overall goal.
+6595.93 Per usual, I covered a
+lot of material today.
+6598.05 We talked about some of the neuroscience
+6600.15 and psychology and popular understanding
+6602.9 of goal seeking behavior.
+6605.43 How to assess goals, et cetera.
+6607.4 Talked about the beautiful
+work of Emily Balcetis
+6609.35 at New York University
+6611.33 and her work on the use
+of the visual system,
+6614.66 to better achieve goals.
+6616.65 And indeed things like visualization
+6619.39 and why forecasting failure
+can be more effective
+6621.57 than forecasting success
+6623.13 as counter intuitive as that might seem.
+6625.36 That's what the data point to.
+6626.95 And we talked about the importance
+of setting concrete plans
+6629.8 and really what that means.
+6631.43 And what intervals at
+which to assess progress.
+6634.89 And what intervals at
+which to assess reward
+6637.56 and how the dopamine system is involved.
+6639.6 And in addition, I described this practice
+6641.69 that one can incorporate as a daily
+6644.08 or semi-daily practice of
+so-called, space-time bridging
+6646.96 of using the visual system
+6648.54 and your ability to deliberately
+step your visual system
+6651.83 from stations that are within your body.
+6654.33 So-called peripersonal or
+interoceptive space out
+6657.43 into the world further and further.
+6658.67 And then back again in sequence
+6660.45 as a way to harness and cultivate
+6662.96 and build up these
+systems that link vision,
+6665.757 space, time, reward systems and so forth.
+6669.228 Ultimately, as you set out
+to accomplish your goals,
+6673.45 there are going to be
+a number of basic steps
+6675.68 that everyone will have to follow.
+6676.94 You have to clearly identify,
+6678.35 what the long arching ultimate goal is.
+6680.69 You have to identify what
+the milestones will be.
+6683.91 You might not know all
+of them at the outset,
+6685.52 but you ought to have some idea
+6686.88 about the intervals at which you are going
+6688.7 to set those milestones
+6691.02 and set your reward schedule
+for assessing progress
+6695.16 in route to those milestones
+in your ultimate goal.
+6698.01 My hope is that you'll be able
+to incorporate these tools,
+6700.57 if not all of them,
+6702.24 perhaps just one of them or two of them
+6704.15 in pursuit of whatever particular goals,
+6706.24 you happen to be focused on at this point
+6708.42 and in the future.
+6709.93 If you're enjoying and are
+learning from this podcast,
+6712.04 please subscribe to
+the podcast on YouTube,
+6714.3 Apple and Spotify.
+6715.84 That's a terrific zero
+cost way to support us.
+6718.28 In addition, on YouTube,
+6720.12 you can leave us comments and feedback.
+6721.68 You can also leave us
+suggestions about guests
+6724.06 that you'd like us to include
+6725.22 or topics that you'd like us to cover
+6726.78 in the comment section on YouTube.
+6728.69 And on Apple, you can leave
+us up to a five star review,
+6731.04 there's also an opportunity
+to leave us a written review.
+6734.13 Please also check out
+the sponsors mentioned
+6735.96 at the beginning of the podcast,
+6737.31 that's perhaps the best way
+to support this podcast.
+6739.79 And in addition,
+6740.69 we have a Patreon, it's
+patreon.com/andrewhuberman.
+6744.43 And there you can support
+the "Huberman Lab Podcast"
+6746.75 at any level that you like.
+6748.32 In today's episode and
+in previous episodes
+6750.15 of the "Huberman Lab Podcast",
+we talked about supplements,
+6752.73 while supplements aren't
+necessary for everybody,
+6754.81 many people drive tremendous
+benefit from them.
+6756.95 For things like sleep
+and focus and so forth.
+6759.46 It's really important that if
+you're going to take supplements,
+6761.614 that they be of the
+absolute highest quality.
+6763.92 For that reason, we
+partner Thorne, T-H-O-R-N-E
+6766.55 because Thorne supplements,
+6767.87 have the highest levels of stringency
+6769.44 with respect to the
+ingredients they include
+6771.25 and the precision of the amounts
+6772.69 of the ingredients they
+include in their products.
+6775.16 If you want to see the
+supplements that I take,
+6776.91 you can go to Thorne,
+thorne.com/u/huberman.
+6781.94 And you can see the
+supplements that I take
+6783.53 and get 20% off any of those supplements.
+6785.82 And if you navigate further
+into the Thorne site
+6788.07 through thorne.com/u/huberman,
+6791.02 you can also get 20% off
+any of the other supplements
+6793.69 that Thorne makes.
+6794.85 If you're not already following
+Huberman Lab on Instagram
+6798.008 and/ or, Twitter, please do so,
+6799.19 there I teach neuroscience and
+neuroscience related tools,
+6802.08 that sometimes overlap with
+the content of the podcast,
+6804.4 but oftentimes is unique
+6805.96 from the content of the podcast.
+6807.53 Also, if you haven't already done so,
+6809.15 please subscribe to the "Huberman Lab"
+6810.89 at Neural Network Newsletter.
+6812.69 The Neural Network Newsletter,
+6814.1 is a monthly zero-cost newsletter
+6816.84 where I very succinctly spell
+out or list out protocols
+6820.39 for things like sleep, learning,
+6821.95 neuroplasticity and other topics as well.
+6824.89 You can go to hubermanlab.com,
+6826.86 click on the menu, go to newsletter.
+6828.6 It's a simple signup.
+6830.37 We will not give out your
+email information to anybody.
+6832.84 All our privacy policy is there,
+6834.33 again at zero cost and
+the tools that are there,
+6836.69 very cleanly spell out a
+number of the protocols,
+6838.84 that you can hear about on the podcast.
+6840.87 And in closing, I want
+to thank you once again
+6843.34 for joining me in this discussion
+6845.52 about the biology-science
+6847.45 and in particular, the
+neuroscience of goal setting,
+6850.44 goal assessment and achieving goals.
+6852.818 And last, but certainly not least,
+6855.508 thank you for your interest in science.
+6857.224 [upbeat music]

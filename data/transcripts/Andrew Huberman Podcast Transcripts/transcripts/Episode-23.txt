@@ -1,0 +1,3750 @@
+0.179 welcome to the huberman Lab podcast
+1.92 where we discuss science and
+3.959 science-based tools for everyday life
+9.12 I'm Andrew huberman and I'm a professor
+11.16 of neurobiology and Ophthalmology at
+13.559 Stanford school of medicine today my
+15.599 guest is Dr Casey Halpern Dr Halpern is
+18.6 the chief of neurosurgery at the
+20.1 University of Pennsylvania School of
+21.66 Medicine his laboratory focuses on
+24.3 bulimia binge eating disorder and other
+27.06 forms of obsessive-compulsive behaviors
+29.16 normally when we hear about eating
+30.96 disorders or obsessive-compulsive
+32.46 disorders of other kinds the
+34.2 conversation quickly migrates to
+35.76 pharmacologic interventions and
+37.739 serotonin or dopamine or talk therapy
+40.68 interventions many of which can be
+42.18 effective
+43.14 The Halpern laboratory however takes an
+45.3 entirely different approach while they
+46.98 Embrace pharmacologic and behavioral and
+48.78 talk therapy interventions their main
+50.76 focus is the development and application
+52.86 of engineered devices to go directly
+55.379 into the brain and stimulate the neurons
+57.18 the nerve cells that generate
+58.98 compulsions that cause people to want to
+62.1 eat more even when their stomach is full
+64.14 in other words they do brain surgery of
+67.32 various kinds sometimes removing small
+69.24 bits of brain sometimes stimulating
+70.979 small bits of brain with electrical
+72.78 current and even stimulating the brain
+74.939 through the intact skull that is without
+76.74 having to drill down beneath the skull
+78.24 in order to alleviate and indeed
+80.34 sometimes cure these conditions today's
+82.439 discussion with Dr Halpern was an
+84.18 absolutely fascinating one for me
+85.619 because it represents the Leading Edge
+87.96 of what's happening in modification of
+90.06 brain circuits and the treatment of
+91.68 neurologic and psychiatric disease for
+94.14 instance they just recently published a
+95.88 paper in nature medicine one of the
+98.04 Premier journals out there
+99.96 entitled pilot study of responsive
+102.479 nucleus succumbings deep brain
+103.86 stimulation for loss of control eating
+105.84 the nucleus that Cummins is an area of
+108.36 our brains that we all have in fact we
+110.1 have two of them one on each side of the
+111.54 brain that is intimately involved in the
+114.299 release of dopamine for particular
+116.22 motivated behaviors and while most often
+118.32 we think about dopamine for the release
+119.52 of behaviors that we want to engage in
+121.32 in this context they are using
+124.02 stimulation and control of neuronal
+126.119 activity in nucleus accumbens to control
+128.28 loss of control eating something that
+130.92 when people suffer from it despite
+132.54 knowing they shouldn't eat despite not
+134.52 even wanting to eat they find themselves
+136.14 eating so again this represents really
+138.42 the Leading Edge of where Neuroscience
+140.04 is going and certainly is going to be an
+142.08 area of Neuroscience that's going to
+143.28 expand in the years to come and Dr
+145.2 Halpern and the members of his
+146.76 laboratory are among a very small group
+148.98 of scientists in the world that are
+150.72 using the types approaches that I
+152.099 described a minute ago and that you're
+153.599 going to hear more about in today's
+154.62 episode in order to resolve some of the
+156.78 most difficult and debilitating human
+158.7 conditions during today discussion you
+161.04 will also learn about the use of deep
+162.42 brain stimulation and other approaches
+164.22 for the treatment of movement disorders
+166.26 such as essential tremor Parkinson's
+168.84 disease and various types of dystonias
+170.94 which are challenges in generating
+172.5 particular types of movement so whether
+174.72 or not you or somebody that you know
+176.4 suffers from an eating disorder from
+178.44 obsessive-compulsive disorder or from a
+180.48 movement disorder today's episode is
+182.58 sure to teach you not only about what's
+184.44 happening in those Arenas but also in
+187.08 the Arenas of Neuroscience generally in
+189.0 fact I would say today's episode is
+190.44 especially important for anyone that
+191.94 wants to understand how the brain works
+194.099 and what the future of brain
+195.959 modification really looks like for all
+198.54 of us before we begin I'd like to
+200.64 emphasize that this podcast is separate
+202.5 from my teaching and research roles at
+204.0 Stanford it is however part of my desire
+206.34 and effort to bring zero cost to
+208.08 Consumer information about science and
+209.819 science related tools to the general
+211.44 public in keeping with that theme I'd
+213.72 like to thank the sponsors of today's
+215.22 podcast our first sponsor is Roca Roca
+218.64 makes eyeglasses and sunglasses they're
+220.68 of the absolute highest quality the
+222.54 company was founded by two All-American
+224.099 swimmers from Stanford and everything
+225.84 about Roka eyeglasses and sunglasses
+227.76 were created with performance in mind
+230.4 I've spent a lifetime working on the
+232.14 biology the visual system and I can tell
+233.7 you that your visual system has to
+234.9 contend with a number of very important
+236.58 challenges in order for you to be able
+238.44 to see clearly for instance when you go
+240.36 from a sunny area to a more shaded area
+242.099 and then back out again it's a very
+243.54 complex process Roca eyeglasses and
+245.76 sunglasses were built that is engineered
+248.4 with that sort of biology in mind and as
+250.739 a consequence no matter where you are
+252.78 wearing them and where you happen to be
+254.099 you always see through them with Crystal
+255.78 Clarity the aesthetic of Roca eyeglasses
+258.0 and sunglasses is also worth mentioning
+259.62 unlike a lot of performance eyeglasses
+261.72 out there which only come in the kind of
+263.46 cyborg variety
+264.9 Roca eyeglasses and sunglasses come in
+266.82 those varieties but they also come in
+268.199 varieties that you would feel very
+269.699 comfortable wearing out to dinner or to
+271.199 work or to school really anywhere that
+272.94 you go if you'd like to try Roca
+274.68 eyeglasses you can go to Roka that's
+276.44 roka.com and enter the code huberman to
+279.24 save 20 off on your first order again
+281.4 that's Roca roka.com and enter the code
+284.4 huberman at checkout today's episode is
+286.74 also brought To Us by eight sleep eight
+288.66 sleep makes mattress covers with cooling
+290.4 Heating and sleep tracking ability I've
+292.62 talked many times before on this podcast
+294.24 about the close relationship between
+296.34 temperature and your ability to stay
+298.08 asleep and emerge from sleep the way Aid
+300.6 Sleep mattress covers work is that they
+301.979 allow you to program the temperature of
+303.9 your mattress so that you can fall
+306.06 asleep quickly get into deep sleep stay
+308.88 in deep sleep and emerge from that sleep
+310.62 feeling especially rested by dropping
+313.259 the temperature of that Surface by one
+314.759 to three degrees at the beginning of the
+316.08 night dropping it a little bit further
+317.82 into the night and then raising the
+319.44 temperature towards morning because
+320.4 waking up requires that one to three
+321.96 degree re- increase in body temperature
+324.18 I've been sleeping on an eight-sleep
+325.919 mattress cover for the last six months
+327.72 or so now and I can assert that it is
+330.24 the absolute biggest Game Changer in the
+333.24 quality and duration of my sleep in fact
+334.86 I don't really like traveling as much as
+336.479 I used to because the eight sleep
+338.4 doesn't go with me and they don't seem
+339.539 to have them yet in airbnbs and hotels
+341.28 so this is also a call to action airbnbs
+343.68 and hotels please put eight sleep
+345.12 mattresses on your beds and I'll be more
+347.82 apt to stay in those hotels and airbnbs
+350.759 with that said if you'd like to try an
+352.8 eight-sleep mattress cover you can go to
+354.419 eightsleep.com huberman check out the
+357.12 Pod 3 cover to save 150 at checkout
+359.639 again that's eightsleep.com huberman and
+362.94 please note that eight sleep currently
+364.08 ships in the USA Canada UK select
+366.72 countries in the EU and Australia again
+368.759 eightsleep.com huberman to save 150 at
+372.18 checkout today's episode is also brought
+373.919 To Us by inside tracker inside tracker
+376.32 is a personalized nutrition platform
+377.759 that analyzes data from your blood and
+379.68 DNA to help you better understand your
+381.66 body and help you reach your health
+382.919 goals now I've long been a believer in
+385.259 getting regular blood work done for the
+386.759 simple reason that many of the factors
+388.8 that impact your immediate and long-term
+390.479 Health can only be assessed with a
+392.52 quality blood test one of the major
+394.02 issues with the various blood tests out
+395.58 there is that you get information back
+397.44 about lipids and hormones and metabolic
+399.66 factors Etc but you don't know what to
+401.759 do with that information with inside
+403.5 tracker they make knowing what to do
+405.06 with the information you get about your
+406.56 biological health extremely easy they
+409.08 have this very easy to use dashboard and
+411.419 that dashboard tells you for instance
+413.039 what to change in your nutrition what
+415.199 supplements you may want or may not want
+417.36 to take as well as other behavioral and
+419.34 other types of interventions that can
+420.72 allow you to move those numbers related
+422.58 to metabolic hormone and other factors
+424.68 into the precise range that's optimal
+426.66 for your immediate and long-term Health
+428.4 if you'd like to try inside tracker you
+430.199 can go to inside tracker.com huberman to
+433.02 get 20 off any of inside trackers plans
+435.3 again that's inside tracker.com huberman
+437.88 to get 20 off on many episodes of The
+440.639 huberman Lab podcast we talk about
+442.139 supplements while supplements aren't
+444.06 necessary for everyone buddy many people
+445.919 derive tremendous benefit from them
+447.479 things like enhancing sleep and the
+449.639 depth of sleep or for enhancing focus
+451.8 and cognitive ability or for enhancing
+453.96 energy or adjusting hormone levels to
+456.78 Optimal range for you the huberman Lab
+458.759 podcast is now partnered with momentous
+460.44 supplements we partner with momentous
+462.24 for a number of important reasons first
+464.16 of all the quality of their ingredients
+466.02 is exceptional it's really Second To
+467.88 None second of all they ship
+469.56 internationally and that was important
+471.12 to us because a number of you reside
+472.56 outside of the United States third we've
+474.84 worked with momentous very closely to
+476.94 develop single ingredient formulations
+478.8 now this turns out to be very important
+480.66 because if you're going to take
+481.919 supplements
+483.06 you want to know what's working for you
+484.919 and what isn't and of course you want to
+486.78 optimize the cost efficiency and the
+490.02 biological efficiency of those
+491.28 supplements to find the supplements we
+492.96 discussed on the huberman Lab podcast
+494.28 you can go to live momentous spelled ous
+496.56 live momentous.com huberman and I should
+499.979 just mention that the library of those
+501.3 supplements is constantly expanding
+502.979 again that's livemomentis.com huberman
+506.039 and now for my discussion with Dr Casey
+508.56 Halpern Casey I should say Dr Halpern
+512.159 listening welcome thank you great to be
+515.219 here yeah it's been a long time coming
+517.44 we were colleagues at Stanford and then
+520.14 recently you moved of course to
+521.94 University of Pennsylvania also an
+523.8 incredible institution we're sorry to
+525.779 lose you so it was better sweet for me
+527.399 too Stanford's loss is upenn's gain but
+530.64 um let's talk about your work uh past
+533.64 and present
+535.74 as I've told the listeners already
+537.72 you're a neurosurgeon which I consider
+539.88 the astronauts of Neuroscience because
+541.92 you're in somewhat Uncharted Territory
+544.38 or very Uncharted Territory and yet
+546.36 Precision is everything right the
+549.24 margins of error are very very small so
+552.72 for those that aren't familiar with the
+554.519 differences between neurosurgery
+555.66 neurology Psychiatry you just educate us
+559.2 a bit what does a neurosurgeon do and
+562.2 what does
+564.36 fact that you're a nurse surgeon do for
+566.88 your view of the brain how do you think
+568.5 about and conceptualize the brain
+570.66 yeah the scope of neurosurgery is quite
+573.06 broad uh when I was in medical school I
+576.0 I was drawn to neurosurgery because of a
+578.04 procedure known as deep brain
+579.3 stimulation when I was at Penn as a
+582.36 college student I actually watched my
+583.86 first deep brain stimulation surgery
+585.66 performed by Gordon boltuck who to date
+588.06 is one of my career mentors
+590.16 deep brain stimulation is a one surgery
+593.22 that neurosurgeons offer but it's
+595.5 actually sort of
+597.12 a very small minority of what
+599.7 neurosurgery does
+602.66 you know we take out brain tumors we
+605.1 clip aneurysms in the brain
+607.399 we take care of patients that have had
+609.54 traumatic brain injury concussion spine
+612.899 surgeries ninety percent of what
+614.94 neurosurgeons do around the country uh
+617.16 you know taking care of herniated discs
+619.14 and lumbar fusions so you know the scope
+623.279 is
+624.12 the entire central nervous system
+626.22 include including the peripheral nervous
+627.72 system we take care of patients with
+628.92 carpal tunnel syndrome and nerve
+630.779 disorders
+632.04 now over the course of the past two
+634.74 decades or so there's been a a mission
+637.019 in the field to to sub-specialize and so
+640.38 historically neurosurgeons did
+642.54 everything in that domain but now we
+645.3 sub-specialize and I'm lucky to be at
+647.519 Penn Medicine where we can focus on one
+652.26 of these areas so I'm chief of
+655.68 stereotactic functional Neurosurgery
+658.14 all I do is deep brain stimulation
+660.06 surgery and a compliment to that is
+662.04 focus ultrasound or transcranial Focus
+664.56 ultrasound which is a non-invasive way
+666.66 to do an ablation in the brain recently
+669.0 FDA approved and it's FDA approved for
+671.339 Trevor at the moment uh these two
+674.399 procedures are for me my every day but
+679.32 uh still the minority of what
+681.36 neurosurgeons have to offer the majority
+683.76 of neurosurgery in my mind is is a bit
+686.64 more structural than it is
+689.579 physiology or
+691.74 deeply rooted in how the brain functions
+694.579 when we take out a brain tumor we have
+696.959 to find a a safe trajectory to get to
+700.32 the brain tumor and then we remove it
+701.82 and we help the patient recover in the
+704.16 ICU similar to a brain aneurysm often we
+707.1 don't have to go into the brain to clip
+708.54 a brain aneurysm but we go around the
+710.22 brain or under the brain to get there
+712.56 and in my mind those surgeries are a bit
+714.3 more structural
+716.339 deep brain stimulation the surgery that
+718.68 I do routinely is a procedure where yes
+723.12 there is structure involved of course we
+725.339 have to place a a very thin wire that's
+728.82 insulated deep into a part of the brain
+732.06 that's involved in Parkinson's disease
+734.279 for example uh
+736.44 but that's actually not the therapy the
+738.36 therapy is delivering electrical
+740.82 stimulation through the tip of that wire
+743.1 or one of the tips as there actually are
+745.62 multiple contacts at the bottom of the
+747.3 wire they're very small
+749.22 uh
+750.6 but that's all done out of the operating
+752.459 room you know this stimulation wire is
+754.92 connected to a a battery pack or a pulse
+757.32 generator that's kind of like a
+758.76 pacemaker and so we deliver this therapy
+761.16 and I always tell patients it's a bit
+763.139 more like I have to implant a uh a tool
+766.68 to deliver you a medication but that
+769.38 medication is going to be in the form of
+770.94 electricity and it's going to be
+772.32 delivered into a very small region of
+774.12 the brain and it's that procedure that's
+776.279 inspired me to not just become a
+778.5 neurosurgeon but has really defined the
+781.92 focus of my research laboratory as well
+785.88 Maybe by way of antidote you could tell
+789.72 us one of the more outrageous or
+793.26 surprising or who knows um delightful
+796.62 and thrilling things about the brain
+798.06 that you've observed as a consequence of
+800.639 stimulating different brain areas you
+802.56 know in textbooks we always hear about
+804.42 uh the kind of dark stuff you know
+806.88 stimulate one brain area somebody goes
+808.68 into a rage stimulate another brain area
+810.66 a person starts laughing uncontrollably
+813.019 first of all
+814.86 um given that some of the information
+816.2 let's hope not much but some of the
+818.279 information in textbooks is incorrect is
+819.899 are those sorts of statements true can
+822.12 one observe those in the clinic and what
+825.0 are some of the more interesting uh and
+827.7 I don't necessarily mean entertaining
+829.32 but
+830.16 um surprising things that you've seen
+831.42 when you've poked around in the brain
+833.42 deliberately of course and uh
+836.459 what have you seen what have you heard
+838.8 I have to say I I am amazed by these
+841.98 effects uh every day yeah I'm very
+843.899 privileged to be able to interact with
+845.76 the human brain in this way it's always
+847.2 in them with the goal of trying to
+849.72 provide somebody with a meaningful
+851.459 therapy but when we deliver electrical
+853.38 stimulation
+855.42 you know the these electrodes while they
+857.339 might be sitting in a very small region
+859.139 of the brain there are regions
+861.12 within a few millimeters of where these
+863.04 electrodes are that if stimulated could
+865.32 cause a temporary very brief side effect
+868.079 a moment of laughter like you said or a
+870.54 moment of panic and of course we can
+872.04 just shut that electrode off but often
+874.8 these side effects could be therapeutic
+877.2 and actually that's how we have
+878.7 discovered ways to use deep brain
+880.5 stimulation not just for movement
+883.019 disorders like Parkinson's disease but
+884.579 for example patients with Parkinson's
+886.32 disease that have a psychiatric uh uh
+891.06 comorbidity like depression or
+893.3 obsessive-compulsive disorder a lot of
+895.26 these patients are highly compulsive and
+898.44 impulsive
+900.54 sometimes these problems actually melt
+903.24 away and we're trying to help their
+904.74 Tremor but the patients also tell us
+906.779 that their gambling issue has gotten
+908.399 better or their mood has improved and
+910.5 why is that well you know there's
+912.36 probably more than one reason you know
+913.86 you can help somebody's Mood by making
+915.42 their Tremor go away of course but we
+917.699 see laughter in the clinic sometimes and
+920.22 and why is that and that's because we're
+922.079 stimulating parts of the brain that are
+923.94 not just involved in these motor
+925.56 circuits but they're also involved in
+927.6 what we call a limbic circuit or part of
+929.76 the brain involved in emotion and if we
+931.74 learn how to modulate those areas
+934.68 therapeutically step by step we can
+937.079 actually develop these therapies for
+938.699 other indications like depression I
+941.16 would say the most impressive and
+943.26 consistent effect we have when we have a
+945.0 patient with Tremor who has been
+946.74 tremming for the past 20 years if we can
+948.6 deliver stimulation through that
+949.86 electrode in the clinic we have
+951.72 immediate relief of Tremor and that is
+954.779 the effect that inspired me to be a
+956.519 neurosurgeon when I was in college I've
+958.199 never really wanted to do anything else
+959.94 X accept help develop that type of
+963.24 therapeutic for another another kind of
+965.639 symptom I'm very interested in obesity
+968.16 and related Eating Disorders compulsive
+970.68 Behavior the urge to uh to to have
+974.279 something that might be delicious but
+976.92 dangerous or unhealthy or a drug or a
+982.199 compulsion like we see in OCD or pests
+985.019 of compulsive disorder uh interestingly
+988.16 like we see Tremor melt away when we
+990.72 deliver electricity to a certain part of
+993.24 the brain we can see these psychiatric
+995.76 more psychiatric problems they're not
+997.44 all psychiatric disorders but let's say
+1000.339 disorders of the brain we can see
+1002.72 symptoms of those disorders also improve
+1004.699 and often immediately just like we do
+1006.62 with Tremor so I see it all the time to
+1010.16 to pick out one uh would be would be a
+1012.8 challenge because for me this is my my
+1015.139 everyday
+1016.639 the speed of the relief that you
+1018.62 described for Tremor is really
+1020.839 um incredible just thinking about drug
+1023.48 therapies and there too there are side
+1025.64 effects but they're still a lot of
+1028.52 mysteries as to for instance why ssris
+1030.62 even work when they work
+1033.199 and the timing is always
+1035.959 a challenge timing dosage yes absolutely
+1039.559 um I'd love to learn more from you about
+1042.26 OCD I I have several reasons for asking
+1045.439 this first of all I'm a somewhat
+1047.179 obsessive person I tend to be very very
+1049.94 narrowly focused although I confess it's
+1051.98 not a step function it takes me some
+1053.84 time to turn off the chatter but once
+1055.46 I'm into a thought train or a mode of
+1057.44 being uh and thinking and work it's very
+1061.1 hard for me to exit that that mode it's
+1063.2 like a deep Trench
+1064.88 adaptive in some circumstances less
+1066.86 adaptive than others as you know the
+1068.84 other is that when I was a kid uh I had
+1070.94 a little bit of a grunting tick I used
+1072.98 to I had a this intense intense desire
+1076.58 to clear my throat
+1079.16 um to the point where my my dad said
+1081.38 like you need to stop that he used to
+1082.94 squeeze my hand every time I do it and I
+1084.5 used to hide in the back seat of the car
+1085.94 in the closet to do it because it
+1087.44 provided so much relief and then it
+1090.02 eventually passed yes I wasn't medicated
+1091.76 they never did anything about it every
+1093.86 once in a while now if I'm very fatigued
+1096.98 if I've been working a lot I notice it
+1098.72 starts to come back I'll do this like
+1100.7 kind of grunting and so it's been sort
+1103.16 of like a pet neurological symptom for
+1106.22 me that reminds me that these these
+1108.86 circuits exist in all of us and that
+1111.86 sometimes they go haywire and sometimes
+1113.48 they just have subtle um you know over
+1115.88 excitation or something of that sort and
+1118.16 then the third reason is that I get
+1119.72 thousands of questions about OCD could
+1122.48 you perhaps just tell us what is OCD
+1124.88 sure um what are some brain areas
+1127.28 involved what are the current range of
+1129.86 treatments and
+1131.9 what's the difference between someone
+1133.34 who is obsessive and somebody who has
+1135.86 true OCD
+1137.78 so a brief disclosure as a neurosurgeon
+1140.6 I do take care of patients with severe
+1142.66 obsessive-compulsive disorder
+1145.16 um but my perspective on OCD may be a
+1148.16 little bit different than a psychiatrist
+1149.9 who who lives and breathes OCD and sees
+1152.78 patients every single day with OCD I'd
+1156.2 probably take care of a three to five
+1158.12 patients a year with deep brain
+1159.74 stimulation for obsessive-compulsive
+1161.9 disorders so I don't see these patients
+1163.46 as routinely but my laboratory is geared
+1165.919 as a researcher I'm very focused on
+1168.799 trying to improve outcomes of deep brain
+1171.679 stimulation for for OCD so I do feel I
+1174.799 have expertise and and a perspective to
+1177.5 share but just a brief disclosure I
+1182.96 I do feel that as a neurosurgeon I am
+1186.82 obligated to better understand where the
+1190.34 obsessions in the brain come from and
+1192.14 how we can interrupt them to stop the
+1194.059 compulsion that's associated with the
+1196.039 obsession
+1197.12 sort of the intrinsic
+1199.34 most feature of OCD uh better than we're
+1203.0 actually doing it for example if we were
+1205.7 to offer a patient with Tremor deep
+1208.7 brain stimulation surgery of course
+1210.559 there's some risk to the procedure but
+1212.299 the outcome is so consistent and
+1214.88 positive that many patients are willing
+1217.16 to take on that risk
+1218.799 uh for obsessive compulsion compulsive
+1221.6 disorder the
+1224.0 surgery risk is about the same however
+1227.299 the benefit is not quite as robust
+1230.36 and so a lot of patients and they're
+1232.16 referring psychiatrists are reluctant to
+1234.26 refer these patients to us and it's
+1236.059 completely understandable uh I've been
+1238.82 leading an Endeavor with a number of
+1241.16 collaborators around the country to try
+1242.96 to
+1244.34 better understand these circuits in the
+1246.98 brain uh study them in humans both
+1249.74 invasively and non-invasively that would
+1251.84 be with an electrode-based surgery sort
+1254.419 of like we do at epilepsy to understand
+1255.62 where seizures come from we want to
+1257.539 understand better where obsessions come
+1258.679 from but we're also working with imaging
+1260.48 experts and geneticists to understand
+1262.16 OCD at a broader level as well
+1266.179 uh I I consider OCD to be a a spectrum
+1270.62 disorder in a way uh and I I apologize
+1273.98 to those who who might feel that I'm
+1276.44 using that term incorrectly I'm using it
+1279.62 in a way to describe
+1281.6 patients that have obsessions and even
+1283.58 some related compulsions might not meet
+1285.62 criteria for OCD it may be something
+1288.86 Andrew that that you have and as a
+1291.2 neurosurgeon I'm really obsessive about
+1293.539 safety and compulsive about my surgical
+1295.94 procedures so you know I I think that
+1298.88 some aspect of OCD which we often joke
+1301.039 about but we should you know consider
+1302.6 seriously because people do suffer from
+1304.159 this uh some aspect of it helps us there
+1308.299 are you know famous uh CEOs that
+1311.48 probably have some level of OCD uh
+1314.78 surgeons and scientists alike so perhaps
+1318.32 if it can be controlled it's an asset
+1320.36 and uh but if it goes awry and is
+1324.44 uncontrollable then it becomes
+1326.32 obsessive-compulsive disorder and I tend
+1330.14 to see the patients that are the most
+1331.34 severe so they have failed medication
+1333.32 and there are multiple medications that
+1335.36 are worth trying for OCD some can
+1337.159 actually be very helpful which
+1338.6 neurotransmitter systems do they tend to
+1340.88 poke at well ssris are sort of the the
+1343.58 first line for OCD but also tricyclics
+1346.64 can be helpful so this is still the
+1348.02 serotonin system but as we know the
+1350.84 serotonin system interacts with the you
+1353.12 know neurogenergic system and the
+1355.1 dopamine system so it's hard to
+1358.179 be specific to one of these things and I
+1361.88 think that's also why it's hard for us
+1363.62 to predict how these medications are
+1365.9 going to to work for these kinds of
+1367.4 patients but tricyclics and ssris can be
+1370.7 very helpful and are definitely first
+1372.26 line and there's others exposure
+1375.38 response prevention is uh probably the
+1378.74 most effective option which is kind of
+1380.48 like cognitive behavioral therapy but
+1381.919 these are different and offered by
+1383.48 psychologists and this is a whole field
+1385.94 and there's a a field or I should say a
+1389.12 whole clinic at my institution
+1391.72 focused it was started by Edna foa
+1395.14 at Penn who
+1397.7 this is what they do for these patients
+1399.74 uh is offer these types of cognitive
+1402.2 therapies exposure to the stressor and
+1405.74 to try to get patients to habituate to
+1407.6 whatever it is that stresses them and
+1409.159 causes these uh compulsions to help
+1411.919 these patients live in every day and
+1414.08 function these are all fabulously
+1417.62 helpful therapies for a variety of
+1419.84 patients but there's still about 30 of
+1422.299 patients that still suffer from OCD and
+1424.58 some of them have severe OCD sometimes
+1426.679 it's moderate to severe and those are
+1428.539 the patients that I'm really motivated
+1430.64 to try to help
+1432.08 um our therapies for those patients
+1433.7 right now I would say are are worth
+1436.46 pursuing but not optimal
+1438.98 um and so it's it's one of those things
+1440.96 that we have to balance as a researcher
+1442.46 because when you see patients like this
+1444.02 you want to do everything you can to
+1445.52 help them and I think it's important to
+1446.78 educate patients on the risks and
+1448.94 benefits of them this is deep brain
+1450.86 stimulation surgery but also capsulotomy
+1452.9 which is more of an ablation approach a
+1455.059 little bit like deep brain stimulation
+1456.5 but rather than delivering stimulation
+1458.36 through an electrode you can actually
+1459.62 heat the tissue and even destroy it some
+1462.44 would say this part of the brain is very
+1464.179 safe to destroy it's kind of like an
+1465.919 appendix
+1467.419 um others would say it's safer to
+1469.039 modulate I have seen patients do very
+1471.62 well with these ablations and so you
+1474.44 know you asked me earlier what what I
+1475.94 find so amazing about the brain these
+1477.62 effects that we can have sometimes the
+1479.419 lack of effect is what's so amazing you
+1482.0 can actually
+1483.22 Traverse parts of the brain without
+1485.24 having any adverse effects on patients
+1487.28 function at least that you can test but
+1490.64 you can also destroy small parts of the
+1492.2 brain we're talking three or four
+1493.7 millimeters in size these little
+1495.08 ablations can be really helpful for
+1497.059 patients but have no obvious side
+1498.799 effects that we can tell perhaps after a
+1500.9 short recovery from surgery but
+1503.299 nonetheless despite how safe they might
+1504.86 be these surgical procedures still are
+1507.08 surgical procedures and patients are
+1509.48 hesitant to perceived especially when
+1511.28 they know that their chance of a
+1512.9 transformative effect is quite low we
+1515.059 can generally
+1517.78 achieve a responder rate of about 50
+1520.1 percent and responders still have
+1522.98 symptomatic OCD so I'm really uh sort of
+1527.48 inspired to really find a way to deliver
+1530.299 these therapies in a more disease
+1532.34 specific or symptom-specific way but
+1535.039 we're years away probably from from that
+1537.44 therapy since it's all part of a
+1538.88 research study at the moment
+1540.5 what brain areas should I think about
+1542.9 when I think about OCD years ago I
+1544.88 remember opening a textbook I think it
+1547.039 was an undergraduate still and work from
+1549.38 Judith Rappaport at the National
+1550.82 Institutes of mental health this would
+1552.32 be late 80s early 90s was
+1555.62 um had done some neuroimaging or maybe
+1557.72 it was pet
+1559.52 or some other Imaging technique and had
+1562.4 identified portions of the basal ganglia
+1564.26 sure caudi putanum type structures in
+1567.98 OCD and maybe some differences in boys
+1571.76 versus girls so what brain areas are
+1574.22 there sex differences in terms of OCD
+1576.14 and were one to
+1579.14 come into your clinic this you know for
+1581.419 this sort of a work of ablations or
+1584.0 stimulation uh where would you first
+1586.52 start to probe in the brain yeah you
+1589.1 this is a uh
+1591.74 a disorder of both cortex and the Sub
+1595.22 sub cortex uh
+1597.559 the cortical control areas areas that
+1600.98 are involved in inhibitory control we
+1603.26 have found to not function properly in
+1605.9 patients with OCD so areas like the
+1607.94 orbital frontal cortex and the
+1609.44 prefrontal cortex if you image these
+1611.779 areas or study them even in a a rodent
+1615.26 model of OCD which quite honestly these
+1617.419 models they model aspects of OCD but OCD
+1620.9 is a human condition you can't really
+1622.64 model this whole condition in a in a
+1625.52 mouse or a wrap but perhaps you can
+1627.62 model compulsive behavior in a rat sure
+1630.2 and pulling out their hair yeah exactly
+1632.299 you know that's that's not necessarily
+1634.1 obsessive compulsive disorder but that
+1636.08 is compulsive behavior and perhaps if
+1638.179 you can ameliorate that in a rat that
+1639.919 might be helpful for a patient with OCD
+1641.539 but we have to approach animal modeling
+1644.24 of OCD thoughtfully uh and and most
+1647.0 scientists do I think uh when we study
+1649.52 OCD in in models or in in humans with
+1652.46 imaging and and we're trying to do it
+1654.08 invasively with with electrodes like we
+1656.24 do in epilepsy patients
+1657.86 we find that areas in the cortex like
+1660.38 the prefrontal and orbital frontal
+1661.82 cortex are are not functioning they will
+1663.38 the way they would in a non-oc patient
+1665.36 they are often hyper functioning uh such
+1668.779 that while you might say Well they're
+1670.76 hyper functioning so aren't these
+1671.96 patients you know functioning better
+1674.6 that hyper focused yeah hyper focused
+1677.0 exactly
+1678.02 um no I I would say it's it's not so
+1679.94 much an up or down it's more that
+1681.32 they're just dysfunctional and we need
+1683.539 to find a way to try to restore normal
+1685.58 function to these areas it's not so much
+1687.679 directional really
+1689.12 um we tend to oversimplify brain
+1691.7 function by thinking about it with
+1693.02 directionality too much
+1695.12 um unfortunately Imaging studies
+1696.38 sometimes demonstrate activation or
+1698.74 hypoactivation and that's where I think
+1701.12 these kinds of things can be
+1702.32 misconstrued but what I would call the
+1704.84 cortical areas of OCD is that they're
+1706.76 dysregulated and we need to find a way
+1708.799 to try to normalize their function so uh
+1711.26 the frontal lobe is is huge but areas of
+1713.299 the frontal lobe that are a bit more
+1714.38 basal like the ofc or orbital frontal
+1716.539 cortex and the prefrontal cortex
+1718.039 definitely consistently seem to be
+1719.84 implicated in patients with OCD and then
+1723.14 their projections to the subcortex this
+1725.0 is the basal ganglia like you were
+1726.38 saying caudi putamen or the dorsal
+1728.779 striatum and these are interconnected
+1730.039 with the ventral striatum this is an
+1731.419 area of the brain that I uh focus a lot
+1733.64 of my energy in um this is the
+1735.38 ventralstratum which is not limited to
+1737.539 but includes the nucleus accumbens this
+1739.88 is an area of the brain that we know to
+1742.46 be involved in gating reward seeking
+1744.62 behavior when it's perturbed it seems to
+1746.48 gait compulsive Behavior meaning a rat
+1749.0 will pursue a reward despite punishment
+1750.74 despite a foot shock for example and
+1753.08 that can be uh similar to an OCD patient
+1755.779 they will
+1757.58 um check their home for safety until 3
+1760.22 A.M in the morning and not sleep that
+1761.659 night in a way that is similar to a rat
+1765.08 seeking out a food reward uh despite a
+1767.299 foot shock
+1768.32 um doing something because of the urge
+1770.48 but despite the risk and perhaps there
+1774.559 is some normal
+1776.36 judgment there we all have to take risks
+1779.72 to function in everyday Society to be
+1782.6 successful we have to take a risk
+1784.779 to take care of patients with surgery
+1786.799 there's some risk there we make a
+1789.5 judgment call and that's not a condition
+1792.62 that that's just normal but when our
+1796.1 judgment is consistently sort of puts us
+1800.0 at risk that's where we have something
+1802.159 like OCD but OCD is also you know it's
+1805.159 one of many conditions that suffer from
+1807.26 these kinds of problems we tend to label
+1808.88 them because they tend to present in a
+1811.34 consistent way so we have patients with
+1812.72 OCD that have hyper checking Behavior or
+1817.539 contamination Behavior where they if
+1819.86 they feel contaminated they'll wash
+1821.36 their hands for hours repeatedly or if
+1823.399 they drop their toothbrush on the floor
+1824.779 this will lead to a compulsive behavior
+1827.299 of cleaning a toothbrush or brushing
+1829.34 your teeth consistently very very common
+1831.14 symptoms that we see or signs that the
+1833.419 patients report to us or or that we
+1835.159 observe
+1836.84 but you know patients with eating
+1839.059 disorders they tend to if if they have
+1841.88 binging disorder they'll overeat if they
+1843.98 have bulimia they might Purge despite
+1846.02 the risk of these things and so um
+1848.84 addiction is is similar we we tend to
+1851.0 drug seek if we're addicted
+1853.399 um uh we'll we'll pay off a dealer uh in
+1856.399 order to get our fix and despite the
+1858.38 risk and and that type of urge despite
+1861.32 the risk is something that I I've always
+1862.76 been really interested in and it's a
+1864.559 common denominator to all of these
+1866.299 problems and if you think about these
+1867.98 problems I mean these are some of the
+1869.24 most common conditions in our society
+1871.279 today I'd like to take a quick break and
+1873.919 acknowledge one of our sponsors athletic
+1875.899 greens athletic greens now called ag-1
+1878.539 is a vitamin mineral probiotic drink
+1881.12 that covers all of your foundational
+1882.799 nutritional needs I've been taking
+1884.779 athletic green since 2012 so I'm
+1887.36 delighted that they're sponsoring the
+1888.559 podcast the reason I started taking
+1890.059 athletic greens and the reason I still
+1891.679 take athletic greens once are usually
+1893.72 twice a day is that it gets to be in the
+1896.299 probiotics that I need for gut health
+1898.1 our gut is very important it's populated
+1900.26 by gut microbiota that communicate with
+1902.899 the brain the immune system and
+1904.159 basically all the biological systems of
+1905.96 our body to strongly impact our
+1908.12 immediate and long-term health
+1909.74 and those probiotics and athletic greens
+1911.779 are optimal and vital for microbiotic
+1914.84 health in addition athletic greens
+1916.88 contains a number of adaptogens vitamins
+1918.62 and minerals that make sure that all of
+1920.24 my foundational nutritional needs are
+1921.919 met and it tastes great if you'd like to
+1925.039 try athletic greens you can go to
+1926.62 athleticgreens.com huberman and they'll
+1929.779 give you five free travel packs that
+1931.46 make it really easy to mix up athletic
+1933.08 greens while you're on the road in the
+1934.7 car on the plane Etc and they'll give
+1936.74 you a year's supply of vitamin d3k2
+1939.38 again that's athleticgreens.com huberman
+1941.96 to get the five free travel packs and
+1943.82 the year supply of vitamin D3 K2 I
+1947.539 really appreciate that you're building
+1948.86 this bridge from OCD to nucleus
+1950.539 accumbens which is of course associated
+1952.34 with reward in various forms and we'll
+1954.62 get to that
+1956.0 um I'll share a personal anecdote as a
+1958.82 as a form of question when I was in
+1961.94 college and studying a lot I relied on
+1965.539 caffeine as a stimulant I've never
+1968.299 really been into drugs or alcohol I've
+1969.62 been Lucky in that sense I don't drink
+1971.84 and I care less if alcohol disappeared
+1974.0 never really liked recreational drugs so
+1975.98 I was never drawn to them
+1977.779 however when I was in college at the
+1981.02 time there were these little epinephrine
+1983.36 pills that were common in a lot of
+1986.36 sports supplements these are like
+1988.159 pre-workout type things yes not unlike
+1990.74 energy drinks now which I completely
+1992.24 avoid
+1993.5 um and I had this experience of taking
+1994.82 one of these and drinking some coffee
+1996.559 and of course it gave me a lift in
+1997.88 energy these are very similar to
+1999.679 amphetamine they were legal over the
+2001.36 counter at the time they're now either
+2003.46 banned or illegal I do not recommend
+2005.38 them and I had a lot of energy but what
+2007.779 I noticed is that my grunting tick came
+2010.24 back and I had I made one mistake I
+2013.48 still think of this as one mistake which
+2015.1 was
+2016.12 um I engage in a superstitious Behavior
+2017.98 I knocked on wood and then somehow it
+2020.86 felt very rewarding like it gave me some
+2022.84 totally irrational but internally
+2025.419 rational sense of of security around I
+2028.179 forget what I was knocking on wood about
+2029.5 and I found that I couldn't break that
+2031.659 knock on wood compulsion I felt I needed
+2034.059 to knock on wood and so then I started
+2035.559 sneaking knock on Woods like in mid-exam
+2037.48 and studying and pretty soon I was
+2040.24 knocking on wood often I developed a
+2042.519 superstition
+2043.659 and so I'm curious about the role of
+2045.279 superstition and compulsion in the
+2046.779 crossover there it makes sense logically
+2048.82 to me but I was equally shocked to learn
+2051.52 that when I stopped taking this
+2053.44 stimulant which I was quite happy to to
+2056.619 stop because it did make me feel too
+2057.94 alert couldn't sleep well Etc
+2059.98 that the Superstition went away as well
+2062.619 and I'm guessing this has something to
+2064.179 do with some of the reward circuitry as
+2067.839 it's called related to stimulants
+2071.26 again
+2072.639 I am not encouraging anyone to take
+2074.32 stimulants although healthy use of
+2076.06 caffeine or safe use of caffeine might
+2077.619 be the one universally accepted
+2079.0 stimulant
+2080.2 um it was really surprising to me how
+2081.879 quickly this came on how quickly it
+2085.599 engaged my my thinking and my behavior
+2087.94 the obsessions and the compulsions and
+2090.22 how quickly it turned off when I stopped
+2092.98 taking this Sports stimulant or whatever
+2095.44 it was I don't even remember I think it
+2096.7 was some form of epinephrine ephedrine
+2098.32 sure some saw epinephrine excuse me I
+2100.66 misspoke ephedrine
+2102.94 um
+2103.54 is what I described sound totally
+2105.64 outside the bounds of of uh logic or or
+2109.9 am I imagining at all um no it did
+2112.24 happen I'm certain it happened yeah no I
+2113.98 don't think you're imagining it at all I
+2115.48 you know this the grunting that you you
+2117.88 mentioned to me you know first of all I
+2119.56 didn't uh comment but you know that that
+2122.38 sort of not to put a label on it but it
+2124.18 sounds like a tick and you know ticks in
+2127.359 in young males extremely common and they
+2130.06 do tend to go away linking to like since
+2132.22 I have a good friend who actually a
+2133.96 famous neuroscientist I won't mention
+2135.16 who it is who's worked very hard to
+2136.78 suppress his his blinking tits and when
+2139.42 he gets fatigued it comes back and and
+2141.88 um he's very high functioning yes in his
+2143.92 personal life and his professional life
+2145.24 but but when you're talking to him and
+2146.98 he starts doing this so you kind of
+2148.359 start wondering like what's going on
+2149.859 yeah yeah and it's unfortunate you know
+2152.5 people with these problems especially as
+2154.3 they get more severe then you get
+2155.5 Tourette Syndrome you know it's hard to
+2158.32 function in our society I have some
+2160.3 friends that have Tourette I'll tell you
+2161.98 I I'm just so inspired because there
+2163.48 there so
+2166.0 um they're so confident and you know
+2169.18 people obviously notice these problems
+2170.68 but they they just live their life and
+2172.66 they're very successful and that's not
+2174.88 typical
+2176.079 um I have I have friends that I went to
+2177.88 Penn with undergrad that had these kinds
+2179.5 of problems and I was always just so
+2181.06 happy and inspired by them but what's
+2183.46 more typical is uh you know these
+2186.579 problems cause people to
+2189.099 lose their confidence and and not you
+2191.32 know uh pursue you know their profession
+2193.96 as they may have done or
+2197.02 um things of that nature so I I think
+2199.96 it's all related to the fact that we our
+2202.24 brains are very vulnerable and to get
+2204.579 back to your question about the
+2206.14 stimulant you know I think I think your
+2207.94 brain was very vulnerable to it you know
+2209.68 you you sort of may have had a
+2211.06 predisposition to it
+2212.74 um you mentioned that you have you're a
+2214.839 little obsessive and with the tick there
+2216.76 maybe you have this kind of you know on
+2218.74 the on the mild side of the spectrum OCD
+2221.619 um and I I probably do as well by the
+2223.66 way so I also also have avoided drugs
+2225.82 for that reason uh in my life I'll drink
+2227.98 a little bit of wine here and there but
+2229.359 that's about it
+2231.28 um and uh but I I think most people
+2234.339 don't avoid these things and we see
+2236.32 these problems in relation to not just
+2238.18 taking a stimulant but any kind of
+2240.579 environmental exposure our own Society
+2242.98 causes so much stress
+2244.96 um and that's why I think we have these
+2246.82 human conditions these are human
+2248.14 conditions we try to model them in in
+2250.72 animals but most animals don't have
+2252.4 these kinds of problems you know I've
+2254.5 heard that you can a an animal like a a
+2257.56 monkey in the wild can have depression a
+2260.44 monkey's version of depression but I
+2262.54 don't think it's really typical or human
+2264.339 depression you know and certainly it's
+2266.02 not as prevalent as depression is in our
+2267.7 human society I think you know we
+2269.68 haven't evolved to manage the stresses
+2271.66 that are in this society that we
+2273.46 currently have and stimulants is
+2275.14 probably one of them you know and I I
+2276.76 suspect you are probably a little bit
+2278.38 vulnerable
+2279.94 um it's possible the stimulant led to an
+2282.4 overdrive of your prefrontal and orbital
+2284.14 frontal cortex and even brought out a
+2285.94 little OCD Behavior related to this
+2287.859 super uh this Superstition that you had
+2289.96 so um no I believe that entirely and I
+2292.72 also think you know that's why things
+2294.579 like OCD and other kinds of psychiatric
+2296.859 disorders tend to present themselves in
+2298.359 college when people leave their home and
+2301.42 they're in school and they're stressed
+2303.82 and they're getting exposed to things
+2305.5 that they haven't been exposed to before
+2307.0 outside of the home and and you know
+2310.18 their brains aren't evolved and
+2313.2 sophisticated enough yet to help them
+2315.64 cope with these kinds of stresses and
+2317.38 how it manifests is in these kinds of
+2319.119 conditions and it's I don't want to put
+2321.16 a label on those conditions but
+2322.359 certainly could be a psychiatric
+2323.44 disorder but could also just be lots of
+2325.119 anxiety it could also be the kind of
+2327.88 problems that you had as well so um and
+2330.7 I think the nucleus accumbens and the
+2332.92 cortical areas that we've been
+2333.88 discussing that that sort of send
+2335.619 projections to these areas are are
+2337.74 probably at least one of the main
+2340.3 circuits involved in these kinds of
+2341.619 things
+2343.0 I'm relieved it's no longer present but
+2345.4 I confess it oh I always feel it close
+2347.74 by a long run helps so move you know
+2350.859 being a slightly fatigued not overly
+2352.96 fatigued but slightly fatigued seems to
+2354.76 move out the the kind of physical
+2355.78 compulsion but try to channel it um
+2358.24 never taken any medication for it then
+2360.28 here I am so I'm still still going I may
+2362.56 call you for a referral at some point
+2364.54 but sure at this point I'm uh I'm
+2366.46 feeling okay
+2367.9 um let's talk about nucleus accumbens
+2369.88 and reward circuitry and the
+2372.28 relationship between OCD reward
+2375.339 addiction uh and to just give you a
+2378.579 sense of where I'm headed with this is
+2379.78 into the realm of a food related and
+2382.48 eating related uh
+2384.22 behaviors and disorders because I know
+2386.32 you're doing some very important work
+2388.599 there what is nucleus accumbens I know
+2391.48 we all have one or two
+2394.119 um one on each side of the brain what is
+2395.92 it what roles does it play
+2398.2 um in healthy brain behavior and in
+2400.359 pathology
+2401.56 yeah the nucleus accumbens is a part of
+2405.22 the brain part of our reward circuits
+2407.38 The Hub of the reward circuits that I've
+2410.38 always been most fascinated in
+2412.72 um
+2413.38 there are scientists around the world
+2415.48 some of the leading arguably some of the
+2417.94 leading scientists in the world the
+2419.5 father of addiction Neuroscience I call
+2421.06 him
+2421.9 um although he tells me I'm nuts Rob
+2423.76 malenka who has studied the nucleus
+2425.38 accumbens since the beginning of his
+2426.76 career and who I worked with when I was
+2428.68 at Stanford
+2430.0 um fabulous scientist and Mentor taught
+2432.4 me so much
+2433.48 um taught the world so much incredible
+2435.46 person scientist and phys and Physicians
+2438.64 yes MD PhD and uh brilliant in both ways
+2442.24 and um very
+2444.82 fatherly in a lot of way in terms of
+2446.5 teaching people how to how to do science
+2448.359 and and be good citizens as well
+2451.24 um
+2452.079 but uh
+2454.48 the nucleus accumbens is an area that is
+2457.54 also very complicated because it has a
+2460.48 lot of functions uh
+2462.28 it it interconnects with many parts of
+2464.859 the brain
+2465.88 um
+2467.079 but there are some things about the
+2468.46 nucleus accumbens that are very
+2469.72 consistent uh
+2472.24 so when I started getting interested in
+2475.06 reward and what a what I could do as a
+2477.88 surgeon to try to improve how we manage
+2481.54 Rewards and what I mean by that
+2483.76 specifically is if you have an urge for
+2486.7 a reward
+2487.839 that that's a normal phenomenon that's
+2490.119 not something we're trying to stop the
+2492.099 issue is if you have an urge for a
+2494.079 reward that either puts you or somebody
+2495.82 else at risk it's probably a reward we
+2498.22 shouldn't have I suppose you could say
+2500.2 well it depends on the size of the
+2501.28 reward and the size of the risk and how
+2502.96 that fits into your societal Norms
+2505.96 um but for example if you're obese and
+2509.82 you have a doctor who is advising that
+2512.98 you lose weight and try to control your
+2515.02 eating habits uh you know perhaps better
+2519.16 food choices is an important way for you
+2521.079 to be healthier and and not pursuing
+2523.18 those better food choices that's an urge
+2525.16 that we probably need to treat
+2527.56 uh if you're a drug addict and you use
+2531.82 heroin or opiate considering the opiate
+2534.76 crisis right now or cocaine
+2538.56 which is untreatable at the moment uh
+2541.96 you know that that cocaine might make
+2544.78 you feel
+2546.16 like you have some more energy that day
+2548.26 to deal with your work or that opiate
+2550.359 might make you feel better because life
+2551.8 is stressful but the risk of doing those
+2554.32 things is really high in fact
+2556.359 potentially lethal uh so that's an urge
+2560.32 that's treatable if you have OCD and you
+2565.72 can't sleep at night because you're so
+2567.579 nervous that you didn't lock the door
+2568.78 and you've checked 30 times
+2570.72 that's a reality for some people with
+2573.099 severe OCD
+2574.66 um that's an urge we got to treat
+2576.88 eating disorder is the same eating
+2579.22 eating disorders and obesity are
+2580.9 obviously linked because of the
+2582.94 relationship of a patient with food but
+2585.04 they're also quite distinct not
+2586.42 everybody with obesity has an eating
+2588.04 disorder and obviously not everybody
+2589.66 with an eating disorder has obesity I'm
+2592.96 particularly interested in patients that
+2594.7 have binge eating disorder as well as
+2596.68 obesity because they're so heavily
+2598.18 linked
+2599.38 but not everybody with binging disorder
+2601.54 has obesity but on average most are
+2603.88 overweight
+2604.9 um we are doing a deep brain stimulation
+2607.48 trial at Penn where we're trying to
+2609.4 modulate the nucleus accumbens and
+2611.44 understand it better in patients that
+2612.88 have failed gastric bypass surgery the
+2614.8 most aggressive form of treatment for
+2617.74 obesity and we and we believe they
+2620.5 failed gastric bypass surgery because of
+2622.48 binge eating disorder meaning they just
+2624.46 can't control how much they eat so their
+2625.96 obesity is either related or even due to
+2628.54 overeating not some predisposition to
+2632.859 um that body habitus you know obesity is
+2635.44 a phenotype something that we can see
+2636.88 not everybody is obese because of the
+2638.8 same thing so it's very important I was
+2640.48 taught this by a close mentor and friend
+2642.579 Tom wadden when he was the director of
+2644.68 the Obesity Center at Penn or the center
+2648.04 for weight eating disorders
+2649.78 and and he said to me you know Casey uh
+2652.42 you know be careful with obesity you're
+2654.52 interested in addiction and I understand
+2656.26 you're interested in the addictive
+2658.119 Tendencies of certain patients with
+2659.74 obesity uh
+2662.14 uh and and their relationship with food
+2664.66 but not everybody with obesity has that
+2666.46 problem and and in fact it's it's
+2668.14 probably present about 20 of patients
+2670.06 with obesity
+2671.68 but now taking a step back twenty
+2673.119 percent of patients with obesity is
+2674.38 still a massive problem of epidemic
+2676.42 proportions and perhaps some of these
+2678.88 patients have either some form of
+2680.74 binging disorder or or I should say some
+2683.14 degree of bingeing disorder uh or at
+2685.24 least loss of control eating which is
+2686.98 common to both
+2688.48 um so that's a feature that I think
+2691.24 eating disorder experts obesity experts
+2693.94 neurosurgeons
+2695.52 obesity
+2697.5 obesity medicine experts would agree is
+2700.48 common to eating disorders and obesity
+2702.579 and I also believe would is common to
+2704.92 addicts and perhaps patients with OCD is
+2707.56 sort of a loss of control disorder
+2710.98 um it's actually not a disorder known by
+2713.319 like the DSM-5 some diagnostic manual
+2715.9 but a feature I should say of these
+2718.359 conditions that's common and that common
+2720.94 denominator I believe can be
+2723.88 restored or at least this problem can be
+2726.28 ameliorated or improved upon by a better
+2729.16 understanding and a tailored treatment
+2732.16 to the nucleus accumbens specifically
+2734.52 we've learned in mice that if you expose
+2738.099 a mouse now this is just a model if you
+2740.26 expose a mouse to high fat food not food
+2743.2 that they would normally eat food that
+2745.06 is like 60 fat high fat it's like butter
+2749.44 um
+2750.339 we've learned that if you expose them to
+2751.96 food like that within two weeks their
+2753.819 nucleus accumbens is not functioning
+2755.619 like a mouse that was never exposed to
+2757.42 that high fat food there's aspects of it
+2759.52 that are hyperactive I could say and
+2762.099 there's aspects of it that are
+2763.18 hypoactive or decreased activity but
+2766.06 either way it's it's not functioning
+2767.92 properly and most likely that function
+2769.96 is predisposing continued behavior and
+2773.14 then probably eventually leads to things
+2774.76 like a habit that gets developed and
+2777.099 that's a whole nother area of these
+2778.839 kinds of problems that is very
+2780.46 complicated and poorly understood but in
+2783.4 any case if we just focus on the
+2784.66 behavior at hand
+2786.819 it seems that repeated exposure to
+2789.46 something like high fat food
+2791.319 a drug of abuse or any type of reward
+2794.099 that is a really strong reward in a way
+2798.64 it can hijack normal functioning of the
+2800.92 nucleus accumbens so the goal of our
+2803.28 invasive trial is to try to restore
+2805.78 normal functioning to that nucleus
+2807.46 accumbens uh in mice there seems to be a
+2810.4 signal that predicts when they're going
+2813.16 to lose control and we can use that
+2815.38 signal to deliver a sort of a real-time
+2818.26 therapy in the form of deep brain
+2819.819 stimulation just a brief amount of
+2821.2 stimulation and that actually blocks the
+2823.24 behavior
+2824.319 and what's interesting is over time that
+2825.94 signal actually decreases in frequency
+2828.3 which suggests some level of restoring
+2831.46 normal function to that circuit in the
+2833.5 mouse and we're trying to do that now in
+2835.119 a human trial
+2836.44 fascinating where is the stimulation
+2838.72 provided because I would imagine if one
+2840.94 were to stimulate nucleus accumbens you
+2842.92 would see a reinforcement
+2846.64 of whatever Behavior coincided or
+2849.099 preceded the stimulation so the
+2851.2 stimulation it's a a brief delivery of
+2854.44 stimulation anywhere between 5 and 10
+2856.42 seconds
+2857.2 that is intended to just disrupt the
+2861.579 perturbed signaling that's happening in
+2863.319 the nucleus accumbens
+2865.06 there are disorders like
+2867.339 depression let's say that I I would
+2869.859 describe as a bit more of a state
+2871.24 disorder and this is obviously
+2873.819 oversimplified because we know that
+2875.8 there's fluctuations in mood and
+2877.119 depression as well so don't let me
+2879.099 oversimplify it too much
+2880.9 um but
+2882.579 um but but for now let's forgive the
+2884.44 oversimplification if we if we accept
+2885.94 that depression is a state disorder or
+2887.859 maybe Parkinson's disease is a state
+2889.42 disorder recognizing that they do
+2891.22 fluctuate
+2892.3 uh these types of problems most likely
+2895.48 not but not definitely most likely need
+2898.06 a continuous therapy of some form a
+2900.46 therapy that's consistent uh perhaps a
+2903.099 therapy that fluctuates with the
+2904.359 condition but nevertheless still
+2905.8 consistent
+2907.599 um
+2909.16 binge eating disorder or OCD or
+2913.06 addiction
+2914.68 um and binging disorder in the context
+2916.78 of obesity a lot of these patients are
+2919.0 functioning quite normally every single
+2920.5 day it's just that intermittently
+2922.359 throughout the day there's brief
+2923.8 interruptions in their normal functions
+2925.839 such that they have thoughts about food
+2927.339 or the drug of abuse that they're really
+2929.56 longing to have
+2930.76 and so we want to deliver a episodic
+2934.24 therapy delivered
+2935.8 at the right time and only at the right
+2938.14 time
+2939.16 to try to interrupt the
+2943.18 circuit aberration or the the problem at
+2946.18 hand that is going to lead to that
+2947.859 dangerous behavior and to kind of get
+2949.66 the patient back on track to what
+2951.16 they're doing
+2952.359 um
+2953.5 I don't necessarily think that it leads
+2955.78 to a reinforcement it's possible we have
+2960.04 to study that more but rather the goal
+2962.98 is to just disrupt perhaps what is kind
+2966.52 of Habitual
+2967.96 um or or at least this kind of recurring
+2971.8 problem that is happening you know
+2973.24 people that have bingeing disorder at
+2975.04 least at a severe level they tend to
+2976.359  about once a day
+2977.92 but they don't binge all day long of
+2979.48 course they have a moment perhaps when
+2981.64 they get home from work and they're
+2982.9 stressed where they might
+2985.599 have a bout of binge what constitutes a
+2989.26 binge and I also want to know does binge
+2992.68 eating disorder come on suddenly meaning
+2995.5 as an entire disorder one day
+2998.92 people wake up Suddenly they have
+3000.3 binging disorder or is this you know a
+3002.22 few too many buffets and I'm being
+3004.38 entirely serious here you know kind of
+3006.3 unlimited food and a circuit gets
+3009.78 flipped or kind of starts moving into
+3011.46 the high RPMs so to speak
+3014.64 um so how does it come on and um I mean
+3017.64 I'm actually surprised to hear that it's
+3019.619 once a day I would think just hearing
+3021.72 binging disorder I assume it's like OCD
+3023.76 which it probably fluctuates across the
+3025.8 day as well but I would have thought
+3028.02 anytime people around food they just
+3029.46 simply can't control their intake of
+3030.72 food yes so so what does this look like
+3032.819 in terms of the onset of the disorder
+3034.92 and then what do you think underlies
+3037.38 this once a day type of phenomena that's
+3039.359 pretty interesting yeah so severe
+3041.64 binging disorder these patients will
+3044.579 binge about once a day it could be a
+3046.02 couple times a day but in general it's
+3047.46 not more than that moderate is about
+3049.14 three to four times a week for example
+3051.9 the reason I think that that seems
+3054.96 surprising to you
+3056.22 and
+3057.42 if you think about it it is surprising
+3059.88 but but
+3061.14 um and I agree with you but the reason
+3063.18 for that is is actually just in the
+3064.619 definitions of the word
+3066.24 and as a neurosurgeon in full disclosure
+3068.88 as I as I mentioned you know I don't see
+3070.5 these patients clinically I see them for
+3073.02 research trial purposes and I try to
+3075.119 understand the literature around eating
+3077.64 disorders and I obviously collaborate
+3079.559 with fabulous Eating Disorders uh uh in
+3082.319 in these problems that are that are
+3083.88 highly Innovative people
+3085.38 uh but the word binge is a definition
+3089.04 there's a definition to that word and
+3091.8 you can't necessarily binge all day
+3094.079 because our stomachs are not big enough
+3097.14 um and so uh there's a limit to how much
+3100.02 one can eat and to meet criteria for a
+3102.24 binge you have to have a sense of loss
+3104.4 of control
+3105.42 you have to eat an enormous amount of
+3107.339 food in a brief period of time
+3109.8 and yes generally that doesn't happen
+3112.2 more than about once a day in a patient
+3114.599 with severe binge eating disorder uh
+3117.3 however they can lose control quite
+3120.18 often and in fact perhaps even at every
+3122.339 meal they might meet criteria for about
+3124.68 a loss of control where they yes they
+3126.599 may have lost control but they might not
+3127.92 have eaten enough
+3129.359 to constitute what we would Define as a
+3132.119 binge
+3133.079 um and that would be a there's no
+3135.359 specific number to that by the way it's
+3137.099 it's really just compared to their
+3138.599 normal meal you know perhaps it's uh 50
+3141.96 of their daily calories in that one
+3144.18 brief moment
+3146.16 um so uh that's that's why I think it
+3148.559 seems surprising that binders aren't
+3150.24 happening more often than that what I
+3152.76 would say is if we replace the term
+3155.16 binge with loss of control eating loss
+3157.44 of control eating Could Happen dozens of
+3159.24 times a week
+3160.5 um and in fact you know the patients
+3162.0 that we're studying you know we've we've
+3163.92 seen patients that lose control 20 30
+3166.14 times a week and that's probably the the
+3168.48 term you have in mind when you're saying
+3170.22 you're surprised that it's just one time
+3171.54 a day and it's specifically related to
+3173.099 the fact that these patients have to eat
+3174.72 such a large amount of food in such a
+3176.64 brief period of time
+3178.44 um so it's hard to do that more than
+3179.579 once a day I see
+3181.619 um you mentioned that some pre-existing
+3184.859 anxiety might bias somebody to have a
+3187.5 binge
+3188.7 I'm also fascinated by something I've
+3190.74 observed before which was when I was in
+3192.78 college my my girlfriend had a roommate
+3194.7 who we were aware was bulimic and would
+3198.66 binge and then Purge and often uh when
+3202.859 she ingested alcohol that would lead to
+3205.02 a binge sure which is kind of the
+3207.359 opposite of anxiety when I think about
+3209.099 alcohol as something that slightly
+3211.26 reduces prefrontal activity somewhat of
+3213.599 a sedative or certainly a set of higher
+3215.7 dosages
+3216.66 so this brings to something that you
+3219.78 said I'm just gonna I won't say it as
+3222.24 eloquently as you did that it seems like
+3224.04 it's not neither the case that anxiety
+3226.74 leads to binging nor that hypo reduced
+3230.099 activation of the forebrain and lower
+3232.559 anxiety leads to binging it's this
+3234.66 dysregulation of circuitry that the the
+3237.3 Seesaw could go either way and it can
+3239.339 throw things off it's off balance in
+3241.44 both cases yes uh it's uh and that seems
+3245.28 to be a that seems to pose a problem it
+3248.4 seems like it's a particularly tricky
+3250.2 problem and kind of explains to me in my
+3253.319 non-clinical awareness why medication
+3256.14 might be really hard to use as a way to
+3258.72 treat this but that being able to poke
+3260.28 around in the brain and assay in real
+3262.2 time you know how do you feel do you
+3263.94 feel like binging now or do you feel
+3266.22 um further from the binge impulse
+3269.22 is that what you do with these patients
+3270.96 are they awake while you're stimulating
+3272.4 the brain because it's one thing to say
+3273.839 I stimulate a brain area and the binging
+3275.46 goes away or partial relief or complete
+3278.579 relief but how do you know are they in
+3280.44 there with a donut
+3282.18 um and you're tempting them so how do
+3284.7 you actually know if it's ablating a
+3286.859 brain area is going to lead to uh relief
+3289.5 or exacerbation or no impact on on this
+3293.04 disorder
+3294.119 yeah so uh there's a lot to unpack there
+3297.839 um I'll try to go one step at a time and
+3299.7 if I miss something please remember no
+3300.96 and I tend to ask these three-part
+3302.579 questions specifically of neurosurgeons
+3304.2 because I like to challenge you guys
+3305.64 because again you are the astronauts of
+3307.8 Neuroscience also I'm just going to take
+3309.24 a moment to poke at neurosurgery because
+3310.74 I have a couple close friends
+3312.78 um who are neurosurgeons and I consider
+3314.28 Casey Randy I don't know if he considers
+3315.66 me a friend but of course I am a friend
+3317.4 I'm teasing there too which is first of
+3319.38 all they all have incredible hands right
+3321.66 they have I'm not they all guard their
+3323.94 hands with the kind of
+3326.22 um uh protection that you would guard
+3328.98 the the tools of the most important
+3331.079 tools of your trade so they're very
+3332.28 careful with their hands you're not
+3333.48 going to see them doing heavy deadlifts
+3334.98 you're not because of the way that
+3336.839 impacts the motor neurons it's all about
+3339.599 fine control yes um so if your
+3341.339 neurosurgeon does heavy deadlifts you
+3343.14 might want to consider getting a
+3344.28 different neurosurgery I hope I didn't
+3346.2 put anyone out of work there and then
+3347.76 the other the other thing is that
+3349.8 um
+3350.64 you all are tend to be very calm people
+3353.7 at least on the exterior we'll return to
+3355.8 this later okay
+3357.119 um but I do throw three or four
+3358.8 questions out at once so so elevated
+3361.68 autonomic arousal and alertness as well
+3363.96 as decrease autonomic arousal and
+3365.52 alertness both seem to be able to lead
+3367.02 to binging and then there's this
+3368.52 question of how do you know whether or
+3370.44 not to stimulate or to ablate or whether
+3373.319 or not to leave a structure alone in
+3374.88 other words what does one of these
+3375.78 experiments look like in the laboratory
+3377.22 yeah sort of a clinic excuse me yeah of
+3379.8 course yeah these are questions I think
+3382.5 about all the time
+3383.94 um and um
+3386.359 I do want to come back to the
+3388.14 deadlifting comment but I
+3391.559 um
+3392.339 regarding and you and you referred to
+3394.74 this earlier as well and I don't know if
+3396.3 I've addressed it sufficiently either is
+3398.339 is sort of like what what comes first
+3399.839 here or how does this develop
+3401.819 um
+3402.54 I I think first of all I
+3406.14 I like to understand these kinds of
+3407.88 problems in in sort of the the construct
+3410.76 of what I I consider to be a bit of a
+3413.4 two-hit hypothesis
+3415.619 um so you sort of need like in the
+3416.88 concussion literature you need the
+3418.5 second hit is can be devastating so if
+3420.24 you have a concussion you know you want
+3421.74 to only return to play when your
+3423.48 symptoms are gone uh and cleared by a
+3425.4 physician
+3426.599 um
+3427.74 so uh in the context of Eating Disorders
+3430.68 or let's say binge eating disorder first
+3432.359 of all I I didn't mention earlier but
+3433.74 this is the most common eating disorder
+3435.3 affects anywhere between three and five
+3436.74 percent of the population wow
+3439.02 um and it's probably
+3441.02 under-diagnosed in obesity by the way
+3443.04 and if obesity affects 35 of our
+3445.079 population most likely binging disorder
+3447.24 affects more than three to five percent
+3448.619 but that's that's the current uh
+3450.839 literature uh estimate on on the
+3453.119 prevalence
+3454.559 so um how do we develop a gene disorder
+3457.26 and is it related to this anxiety
+3458.7 question
+3459.9 um
+3461.04 you know I think that there is a
+3462.78 predisposition that's the first hit
+3464.94 um
+3466.02 I actually think all humans have this
+3467.52 predisposition just some have it more
+3468.839 than others
+3469.8 um I don't think that we've evolved to
+3471.599 live in a society where
+3473.7 foods are so readily available and
+3475.74 enormously delicious and have so much
+3477.96 sugar and fat in them not that there's
+3479.88 any particular problem with either of
+3481.8 these macronutrients it's just the
+3484.079 excess of it and how they're refined uh
+3486.96 that I think is the problem
+3489.54 um
+3490.14 you know those high fructose corn syrup
+3491.7 in almost everything we eat we it's in
+3493.619 bread I don't even know why it's in
+3494.94 bread sometimes it's just kind of crazy
+3496.98 so so I don't I don't think we're
+3499.14 evolved to live in a society
+3502.26 um
+3503.04 that that has food that's so readily
+3505.02 available like that
+3506.339 um and cheap by the way in fact the
+3507.96 cheaper the foods are sort of the the
+3510.119 more refined and palatable and I would
+3513.48 argue dangerous to eat I think they
+3514.859 change our reward circuits for the worse
+3517.859 um and put us at risk for wanting more
+3520.319 um
+3521.099 I tend to get a headache when I eat food
+3522.9 like that and and perhaps that's uh
+3525.78 evolutionary Advantage because I don't
+3527.7 want to eat those Foods because they
+3528.78 actually do make me sick
+3530.579 um
+3531.18 so um in a lot of ways I kind of wish
+3533.64 that headache on everybody because
+3534.96 perhaps we wouldn't have all these
+3536.46 problems uh or at least some of them
+3537.96 would go away
+3539.04 so I think that's the first issue is a
+3541.44 predisposition to
+3543.839 uh or a vulnerability to these types of
+3547.2 foods
+3548.88 um which we undoubtedly all have to a
+3551.46 certain extent but some more than others
+3552.9 and then and then and that's so that's
+3554.7 the first hit
+3556.02 is this predisposition in the context of
+3558.42 this sort of food focused Society
+3561.24 and then the second hit is
+3564.299 probably a stressful event or a
+3567.18 stressful life
+3569.099 um and probably a recurring stressful
+3571.2 event I'm not sure this is published
+3572.88 I've never sat down with like a eating
+3575.16 disorder expert and and had this
+3576.78 question about how this develops and I'm
+3578.7 not sure it's actually well well known
+3581.099 um
+3582.119 but in a lot of ways I think that that
+3584.16 answer anybody would agree with that we
+3587.04 need sort of a predisposition in the
+3588.599 exposure the environmental exposure and
+3590.28 the genetic predisposition
+3592.799 um
+3593.579 but also a stressor and that stressor is
+3596.7 probably one that's recurring and you
+3599.22 know it's obvious in our society these
+3600.72 stressors are everywhere and how we can
+3602.4 manage them is is often poor and you
+3605.52 know I think we can all relate with that
+3606.9 and then there's something else in the
+3608.579 background that I think is really
+3609.96 important to mention is that patients
+3611.579 with these kinds of problems are
+3613.079 embarrassed because our society doesn't
+3616.5 think fondly of these kinds of patients
+3619.14 you know binging disorder patients they
+3621.059 do tend to be overweight that's
+3622.799 obviously a stigma obese obesity is
+3626.22 another stigma then there's the opposite
+3629.28 in a way it's an opposite by the way for
+3631.02 a phenotype standpoint is that anorexia
+3633.119 I mean that's another stigma and you
+3636.96 know gosh you know
+3639.24 not to make this about one sex over
+3641.28 another but when when girls are told
+3644.579 they're pretty because they're thin it
+3646.68 just reinforces this problem and of
+3649.38 course you want to complement people and
+3651.359 make them feel good about themselves but
+3653.16 the problem is that in this vulnerable
+3655.68 society that that can lead to problems
+3657.66 because people start thinking oh I
+3659.4 should be thin or thinner
+3661.98 um so I
+3663.72 I think that it's a little bit of a
+3666.0 societal understanding that our brains
+3668.46 are very vulnerable and I think that
+3670.02 will really help changing Society is
+3672.18 hard and most of society is not you know
+3675.48 ill meaning uh it's all done by accident
+3678.599 um but that is the society that we live
+3680.22 in so if we can try to improve that
+3683.64 stigma uh and and be kinder to people in
+3687.359 that way I think a lot of these problems
+3689.099 would get better people that are obese
+3691.44 that feel embarrassed by their obesity
+3693.24 it doesn't help it only makes it worse
+3695.76 because they give up
+3697.38 same thing might be true for anorexics
+3699.42 so I really think it's important to
+3702.599 consider all of these things and that's
+3704.22 why it's so complicated and it would be
+3706.26 so hard to do a well-controlled study to
+3708.18 understand it better because there's so
+3709.619 many of these variables to control for
+3711.24 that you really can't control for you
+3713.339 might be able to control for them in a
+3714.48 mouse's home cage but not not in the
+3717.18 society that we live in so
+3719.16 so that that's kind of my brief uh sort
+3722.579 of summary of how I would answer your
+3724.799 first question then I think you know
+3727.319 your second question I I sort of take
+3729.0 that as well how do you
+3730.68 study such a complicated problem in the
+3733.859 operating room and and in the clinic
+3735.54 because I mentioned the operating room
+3737.88 because that's sort of the first step
+3739.74 here first we want to we have uh just to
+3742.74 clarify we have a nih-funded uh trial
+3746.16 approved by the FDA for for research to
+3749.22 do this first in human study
+3751.44 um we've treated two patients we have
+3753.9 four more to come at Penn in um
+3756.78 and in this study uh it's something I've
+3759.599 been working towards my entire career
+3762.48 what we don't know is
+3766.2 where in the nucleus accumbens
+3769.079 will we identify
+3771.78 cells or
+3773.94 regions that seem to be uh
+3778.319 involved in this sort of reward seeking
+3781.98 Behavior I would call it a peditive it's
+3784.859 kind of like appetite but the word
+3786.78 repetitive is I think a a good word to
+3789.299 use what part of the nucleus Cummins is
+3791.22 repetitive is the whole thing repetitive
+3793.02 probably not it's huge in my world it's
+3795.0 huge as a neurosurgeon you know I Target
+3797.16 parts of the brain that are three or
+3798.48 four millimeters in size the nucleus
+3800.46 accumbens is almost a centimeter in size
+3802.14 wow I didn't realize it was that large
+3804.119 yeah it sort of like reminds me of
+3805.98 discussions around the amygdala everyone
+3807.299 thinks amygdala fear but Miguel has got
+3809.76 a lot of different sub-regions and
+3811.92 stimulation of certain areas of the
+3813.54 megdala makes people feel great that's
+3815.04 right another stimulation of other
+3816.599 errors makes them feel terribly afraid
+3818.339 exactly and that shouldn't surprise us
+3820.319 because you know when we treat patients
+3822.119 with Parkinson's disease for Tremor you
+3824.7 know if we're in one part of the
+3825.66 subthalamic nucleus will help their
+3827.04 Tremor if we're in another part of the
+3828.599 subthalamic nucleus the neurologist is
+3830.28 looking at me like why isn't this
+3831.72 working and that shouldn't surprise us
+3833.579 we already know that you know two or
+3835.2 three millimeters deviation or two or
+3837.96 three millimeters away from where we
+3839.22 want to be and you might not have the
+3840.24 result you want and that's probably also
+3842.339 true for these more limbic structures
+3844.079 like the amygdala and the nucleus
+3845.52 accumbens uh so you know regarding the
+3848.819 nucleus accumbens we Traverse some of
+3851.579 the nucleus accumbens not all of it in
+3853.5 order to place the electrode that we
+3855.78 want to use to
+3858.059 detect when Cravings are happening for
+3860.22 example and to try to block the Cravings
+3863.52 from leading to the behavior related to
+3865.92 the the reward seeking which is the
+3867.78 overeating in this case
+3869.4 uh
+3870.78 so what we decided to do in the
+3873.66 operating room was
+3875.28 to actually try to leverage a tool that
+3878.64 we use all the time when we take care of
+3880.079 patients with Parkinson's so with
+3881.76 Parkinson's these a lot of these
+3883.02 patients not all have Tremor and so when
+3886.14 we place an electrode into this motor
+3888.42 structure
+3889.74 to try to improve their movement
+3891.0 disorder we often can hear Trevor cells
+3895.14 and they sound we convert their
+3897.9 electrical signal to an audible signal
+3899.46 so we can actually hear it
+3901.319 um and it sounds kind of like the Tremor
+3903.78 looks like the frequency of the signal
+3905.579 is the same as the handshaking
+3908.48 exactly and so the the patient with
+3910.92 Parkinson's is is Trump trembling Yep
+3913.619 they're awake and you're poking around
+3916.04 in a in a dedicated careful way of
+3919.319 course one poke at a time one poke at a
+3921.119 time with a very fine wire a set of
+3923.099 wires listening to the electrical
+3925.079 activity until you
+3927.299 you encounter some cells that are
+3930.119 sending out electrical activity that's
+3931.799 right at a similar frequency exactly and
+3934.079 then you can stimulate them or quiet
+3936.059 them and see if the Tremor goes away so
+3937.92 we we are very confident that when we
+3939.72 stimulate that area of in this case the
+3942.54 subcollamic nucleus uh
+3945.119 we will make that Tremor we will disrupt
+3947.819 that Tremor circuit and that Tremor will
+3950.16 dissolve and it does that's why
+3952.02 Parkinson's is so beautiful and
+3953.7 inspiring and uh from us retractable
+3955.74 yeah exactly but what is the it makes us
+3958.2 feel we understand the brain right at
+3959.88 least in that limited way so what is the
+3962.76 um analog to Tremor in terms of appetite
+3966.299 and desire to binge craving
+3968.339 so craving is a term that you know
+3971.76 there's probably other terms we could
+3973.02 use by the way but that that's the term
+3974.579 we've chosen to use for a number of
+3976.44 reasons one because people relate with
+3978.299 that term people that have binge eating
+3980.28 disorder or obesity they if you ask them
+3983.16 if they crave the answer will often be
+3984.72 yes
+3985.68 um if you ask them if they lose control
+3987.359 or binge they might not know what you
+3989.64 mean or they might not actually feel out
+3991.38 of control even when they are
+3993.18 um so uh but the word craving is
+3996.48 relatable and so we set out to see if we
+4000.079 could identify craving cells
+4002.72 um in a patient with OCD which is
+4005.96 related in fact we target a very similar
+4007.819 part of the brain
+4009.579 we tried to identify
+4012.68 cells related to obsessions and we
+4015.38 believe we did do that it was a single
+4017.059 case study uh where we tried to optimize
+4019.579 where our electrode was placed so we had
+4021.74 some proof of concept that we would be
+4024.26 able to elicit a sort of
+4025.88 disease-specific symptom in the
+4027.799 operating room assuming the patient
+4029.72 could tolerate being awake not everybody
+4031.88 needs to be awake for this procedure but
+4033.74 at least for these first and human
+4034.88 trials where
+4037.039 um we're trying we're trying to
+4038.18 establish where in the brain we need to
+4039.74 be uh I think this type of approach is
+4041.839 really critical and you know
+4045.079 by the way none of this has been
+4046.64 published uh but I think it's so
+4048.619 important for people to know this so I I
+4051.079 am willing to share some aspects of what
+4052.94 we're trying to do
+4055.039 um but uh but that's that's really the
+4057.92 first goal of this trial is to identify
+4061.24 where the nucleus accumbens we can
+4063.5 detect these craving cells so we have to
+4065.24 provoke food craving in the operating
+4066.98 room that's the first thing how do you
+4068.599 do that ah well um there are some uh
+4072.44 somewhat validated ways to do that so
+4075.799 for example we asked patients to provide
+4078.559 pictures of food that they rate very
+4080.9 highly as something that they would
+4082.339 typically crave and you know depending
+4084.68 on the patient it might be something
+4086.359 that's very salty it could be very sweet
+4088.099 like a donut
+4089.96 um oh that's very good I love donuts
+4091.88 right Donuts are great you should you
+4093.38 should try the Cronut when you're here
+4094.52 in New York City I just might I try not
+4096.98 to eat that sort of thing for all the
+4098.6 reasons
+4100.6 just try to stop yourself after that one
+4102.799 so if I were one of these patients given
+4104.66 the fact that uh the binges come on
+4107.839 pretty seldom once a day do you you I
+4111.02 imagine you have them come to the the
+4112.759 operating room fasted or semi-fasted
+4115.279 they're faster okay they're fasted which
+4117.08 probably they're probably surgical
+4118.339 reasons for wanting that too they kind
+4120.38 of have to be right and then you they've
+4123.14 you've done the craniotomy removed a
+4124.88 patch of skull yes you've lowered the
+4126.44 wire into the nucleus accumbens and then
+4129.08 they are viewing pictures of food that
+4131.48 they crave and thinking of about it do
+4133.16 they have olfactory cues smells of
+4135.5 cronuts yeah I would love to do the
+4137.0 olfactory because we haven't implemented
+4138.319 that but that is a great uh thank you
+4140.6 for and I'll give you full credit when
+4141.859 we do review the grant but it sounds I'm
+4144.44 so glad this work is funded because I
+4146.06 mean this is what I I'll make this time
+4148.64 it's not a joke when I refer to you all
+4150.859 uh you neurosurgeons uh as the
+4154.94 astronauts of the brain you know this is
+4156.799 out on the
+4158.66 extreme edge of what we don't know about
+4162.199 how the brain functions and this is so
+4164.48 far and away different than giving a
+4166.04 mouse access to a high high fat food not
+4168.56 that I'm not being disparaging in the
+4170.12 mouse work but so the person says
+4173.42 well I'm the patient in this case so I
+4175.1 might say you know I'm hungry a donut
+4176.839 sounds really good right now but craving
+4179.96 to me is like I you know I'll cross the
+4183.14 street cross town be late for my meeting
+4185.719 eat three of these yes maybe even hide
+4189.44 that from somebody that cares about me
+4191.66 that doesn't want me doing this this
+4193.1 kind of thing hide it from myself yes
+4194.98 these kinds of behaviors I'm projecting
+4197.3 and I'm fortunate that
+4198.8 um I I have cravings for things in life
+4201.199 but uh Donuts are not among the more
+4203.48 extreme of them so
+4205.04 um so this is all happening in real time
+4206.78 and you're listening to the cells the
+4209.12 same way you would listen to it and
+4210.62 search for Tremor cells exactly same
+4212.42 exact tools and you're doing that by
+4214.94 um recording from a small population of
+4217.34 cells in the area yeah in fact we do get
+4220.04 multi-unit activity which is multiple
+4222.08 cells uh but we really try to find one a
+4225.02 single unit to listen to one neuron yeah
+4228.02 because it's just um much easier to
+4230.179 understand what that one neuron is doing
+4232.219 versus trying to listen to and we also
+4235.4 measure local field potential recordings
+4237.32 but those are analyzed which is more of
+4239.36 a population response thousands of cells
+4241.58 kind of a porous of cells exactly
+4244.46 um that we measure offline
+4246.679 um the device that we use to
+4250.04 um
+4250.94 sort of treat these patients or
+4252.44 intervene uh that we're studying it
+4255.5 can't do single unit recordings it's
+4257.3 only doing these more population
+4258.44 responses so we correlate what we see in
+4261.26 the operating room at the single unit
+4262.76 level to the population response but we
+4264.92 do that all offline
+4266.84 um I can explain that in a moment uh
+4270.38 but yes so we we try to identify these
+4273.26 craving cells and uh because this is a
+4277.04 feasibility study
+4279.02 um and we can't
+4280.699 you know be in the operating I'm
+4282.08 searching for hours and hours and hours
+4283.82 we do have some sort of we have
+4285.8 guidelines that we've set for ourselves
+4287.659 that we've uh developed with the NIH or
+4290.96 the FDA to make sure that what we're
+4293.36 doing is feasible and safe as well
+4295.94 um so we we will spend a limited time
+4298.04 trying to identify these uh craving
+4300.08 cells but another
+4301.64 uh sort of um strategy that we think is
+4304.82 really important is
+4307.159 um the effect of the stimulation so a
+4309.5 lot of patients and this gets to sort of
+4311.179 your question earlier about what kind of
+4312.739 what comes first
+4314.48 um you know a lot of people when they
+4317.3 when they binge or they lose control
+4319.52 over food
+4321.56 um or seek drugs that moment of
+4324.32 vulnerability is preceded by
+4327.98 what we call a a moment of sort of
+4330.38 pre-meal negative effect which basically
+4332.84 means right before they binge they're
+4335.36 feeling down or they feel stressed or
+4337.52 anxious
+4338.42 and they compensate for that momentary
+4342.699 symptom by binging or losing control
+4346.4 over food not everybody needs criteria
+4348.56 for a binge so I try to specify that we
+4351.38 are we are looking at loss of control
+4352.58 eating specifically just because the
+4354.44 Criterion of a binge is not as critical
+4357.14 for us
+4358.4 um
+4359.36 so um so what we want to be able to do
+4362.06 is trigger stimulation when this craving
+4365.179 is detected by the device uh
+4368.3 but we trigger it only when the craving
+4371.0 is there and we believe that if we can
+4374.48 sort of
+4375.62 temporarily Elevate their mood ever so
+4378.32 briefly again this is about five to ten
+4379.94 seconds of stimulation only that perhaps
+4382.34 that elevation in mood could actually
+4384.679 sort of
+4386.06 disrupt the
+4388.28 craving to binge cycle
+4390.92 maybe that's a habit maybe it's not but
+4393.26 if you crave and then you binge if we
+4395.6 can interrupt that with this moment of
+4398.06 feeling good
+4399.86 that might be a really good therapy for
+4401.6 a patient and in fact
+4404.48 when we do deep brain stimulation for
+4406.219 obsessive-compulsive disorder we can
+4408.86 fairly reliably induce a positive affect
+4412.4 the problem is that it's not sustained
+4414.8 and the reason it's likely not sustained
+4417.26 is because with obsessive-compulsive
+4419.0 disorder we treat that condition with
+4422.0 continuous stimulation
+4423.86 and it's not surprising that over time
+4426.08 the effect kind of goes away so when
+4428.179 they're in the clinic and we turn the
+4429.32 device on our patients feel great and we
+4431.659 feel like we've solved the problem
+4434.179 but they call us the next day and
+4435.8 they're like you know my my depression
+4437.179 came back or my OCD hasn't gotten better
+4439.94 and my moods back to where it was can
+4442.4 you can you get it back to where it was
+4443.6 yesterday because that felt great the
+4445.34 brain loves homeostatic regulation it
+4447.5 does and it does not like to shift
+4449.54 patterns regression to the norm right
+4452.0 um and I think there's sort of a
+4453.02 tolerance effect there
+4454.58 um that uh is is limiting the effect of
+4458.54 continuous stimulation and actually in a
+4460.4 mouse if you do continuous stimulation
+4463.219 um the the sort of blockade of binge
+4466.219 eating goes away so actually in a mouse
+4468.32 we've actually demonstrated
+4470.9 um we published this not too long ago in
+4473.0 pnas that if you deliver stimulation
+4476.02 intermittently and only when sort of a
+4478.76 craving signal is detected so to speak
+4481.94 um
+4482.6 that that X that effect will be the most
+4484.64 robust and durable
+4486.38 um but if you deliver it continuously
+4488.179 actually the benefit goes away over time
+4489.92 so I've always encouraged my colleagues
+4492.38 to consider more of an episodic
+4494.54 stimulation approach rather than
+4495.86 continuous deep brain stimulation but of
+4497.54 course that that's for these more
+4498.86 episodic conditions whereas these more
+4501.26 quote unquote State disorders uh as I
+4503.239 oversimplified earlier they might need
+4504.86 more of a continuous therapy so that's
+4506.54 definitely subject for a lot of research
+4508.58 in the future
+4509.9 um so in any case um the goal in the
+4512.54 operating room was to identify a craving
+4515.3 cell
+4517.04 um deliver stimulation safely but also
+4520.64 to capture a moment of elevated mood we
+4523.46 were able uh to do that as we we are in
+4526.219 our OCD patients as well
+4528.14 and also to get an interoperative CAT
+4530.96 scan we have devices now in the
+4533.36 operating room that allow us to get
+4534.679 Imaging in real time they're fabulous
+4536.78 tools that we didn't have 10 years ago
+4539.06 so we can confirm accuracy
+4541.64 um you know where the you can see where
+4543.5 the electrode is exactly precisely
+4545.06 exactly
+4546.14 um you know with 0.5 millimeters of air
+4548.42 so super precise uh or as precise as we
+4551.42 think we need to be
+4552.8 um and we use connectomics so there's a
+4556.82 tool in brain Imaging called
+4559.48 tractography where we can actually
+4562.58 measure circuit connections it's it's an
+4564.92 indirect assay but we believe it's
+4566.96 powerful it has its uh assumptions but
+4571.34 um like anything in in science but we
+4574.46 could actually
+4575.5 map out where the nucleus accumbens
+4578.42 connects to the prefrontal cortex sort
+4581.9 of the cortical control inhibitory
+4583.76 control pathway and where that pathway
+4586.159 intersects with the nucleus accumbens
+4587.719 and we can Target that area
+4590.12 um structurally so those three goals of
+4593.9 the surgery we we aim to set up to
+4595.699 accomplish and we believed if we
+4598.28 achieved two of those three that we
+4600.32 would have a successful result in our in
+4602.3 our early trial
+4603.739 amazing
+4605.54 given that at least to me the
+4608.36 non-clination that anorexia is the
+4611.3 mirror image of binge eating disorder
+4614.36 and at least from what I learned one of
+4618.199 the more deadly psychiatric conditions
+4620.12 yeah um but also quite common yes
+4624.02 um
+4625.1 is it possible that nucleus accumbens
+4627.5 this
+4628.52 so-called reward circuit is also
+4631.159 involved in anorexia but somehow it is
+4634.1 the resistance to eating the craving of
+4636.92 the fasted state or something like that
+4639.32 that's being reinforced and and I asked
+4641.659 this for two reasons one because I'm
+4643.28 genuinely curious about anorexia of
+4646.04 observed anorexia in a number of people
+4647.48 that I know and it's a striking thing to
+4650.6 see somebody just resist food despite
+4653.6 all
+4655.28 better knowledge of the fact that
+4657.14 they're getting quite ill maybe even at
+4659.48 risk of death but the other reason is
+4661.88 that
+4663.26 if in fact nucleus accumbens is the site
+4667.58 which can Harbor cells to promote
+4670.82 craving and craving of fasted States so
+4675.199 to speak then that I think might tell us
+4677.54 something fundamental about how the
+4678.739 brain works which is that structures
+4680.719 don't control functions per se
+4682.46 structures control dynamics of
+4685.04 interactions sort of like a
+4687.52 Orchestra conductor has a certain number
+4690.86 of operations that they perform but
+4692.42 really their main function is to
+4694.04 coordinate the actions of a lot of
+4695.48 things not to make sure that the violins
+4697.76 always play in a certain way alongside
+4701.06 the oboes you can tell I'm not a
+4702.38 musician here
+4703.54 I actually have an appreciation for the
+4705.56 openings yes those usually get left out
+4707.0 what's that the obos yeah they usually
+4708.5 get ignored my partner plays the elbows
+4711.26 oh yeah so yeah I think it's a great
+4713.659 analogy by the way
+4714.98 um
+4715.76 you know I I make this statement it's a
+4718.159 little controversial but I actually
+4719.48 think people would understand where it's
+4721.4 where I'm coming from
+4723.08 um across all of these sort of
+4724.34 sub-specialties of medicine uh but I
+4727.219 actually think especially with obesity
+4729.26 remember it's a phenotype that's
+4730.82 reflective uh often but not always of a
+4733.28 behavior
+4734.6 um but if you consider patients that
+4736.28 have obesity and they they exhibit some
+4739.1 sort of compulsion towards food so they
+4741.02 they overeat despite the risk of it I
+4743.6 think those kinds of patients are more
+4745.699 similar to anorexics than they are
+4747.199 different
+4748.159 um anorexia and obesity are both
+4750.02 phenotypes that are at least in this
+4752.36 specific case of obesity and in anorexia
+4754.48 a result of a compulsion to either over
+4757.46 or under eat despite the risk these
+4760.76 types of compulsions are driven by
+4762.5 societal pressures
+4764.32 brain vulnerabilities that are probably
+4766.699 more similar than they are different
+4769.219 they just happen to manifest differently
+4772.12 why they manifest differently is
+4774.199 probably related to each predisposition
+4777.62 or perhaps preference that's hard to
+4779.96 know like you I have a personal
+4782.719 connection to these Eating Disorders
+4784.52 anorexia included and uh yeah I think
+4787.699 it's um
+4788.84 it's very scary and it's a condition
+4791.78 that
+4794.02 often instills fear in psychiatrists
+4797.96 because I think you know not not
+4800.96 everybody by the way I mean I have some
+4802.82 phenomenal psychiatrists that I work
+4804.739 with both at Stanford and at Penn
+4806.679 they're also involved in my obesity
+4808.88 study that take care of these patients I
+4810.38 mean these are heroes but there's a lot
+4812.48 of psychiatrists that are not in this
+4813.86 domain that find anorexia scared for the
+4816.02 reason you said it has the highest
+4817.52 mortality of all psychiatric conditions
+4819.739 that includes depression because not
+4822.62 only can these patients die of suicide
+4824.12 but they die of metabolic complications
+4825.739 of being underweight
+4828.14 um so it's a uh it is it is a scary
+4831.44 condition I I relate with that I am
+4834.56 trying over time to bridge what I'm
+4837.44 doing in obesity and binging disorder to
+4839.48 atorexia for two reasons one because I
+4841.82 think these problems are more similar
+4843.38 than they are different and two because
+4845.239 of the need
+4846.32 um and I think we're well positioned to
+4849.38 sort of tackle anorexia
+4851.9 um using similar approaches not
+4854.36 identical but but similar approaches um
+4856.699 the nucleus accumbens has been studied
+4858.739 in patients with anorexia in China
+4861.26 actually my postdoc my first postdoc who
+4864.44 I had the honor to train uh when I was
+4866.6 at Stanford as a neurosurgeon in China
+4868.34 when before he came to me actually was
+4870.62 involved in a trial of anorexia that had
+4872.659 some benefits
+4873.86 um and uh there's studies in Europe
+4878.719 um and elsewhere that have examined
+4882.26 preliminarily uh the effects of deep
+4884.3 brain stimulation targeting the nucleus
+4885.98 accumbens uh for anorexia colleagues of
+4889.159 mine in Canada Andres lozado is a
+4892.159 wonderful neurosurgeon scientist has
+4894.92 been studying the effects of going after
+4896.48 Area 25 which is directly connected to
+4899.239 the nucleus accumbens by
+4901.46 um you know it's a monosynaptic
+4903.08 connection so in a lot of ways you know
+4905.179 perhaps delivering stimulation there
+4907.1 could could be very similar to
+4908.6 delivering stimulation with nucleus
+4909.86 accumbens it's all part of one critical
+4911.84 inhibitory control circuit he's seen
+4914.12 benefits as well
+4916.34 um
+4917.239 so I I definitely think there's some
+4919.159 evidence that this is an area that we
+4920.84 need to be studying
+4922.76 um I think our more episodic approach
+4924.5 with response to stimulation going after
+4926.36 sort of a signal in the nucleus
+4928.159 accumbens that seems to be related to
+4930.199 the compulsion to withhold from eating I
+4933.5 think is what we will be trying to
+4935.12 accomplish uh in our study it's a
+4938.12 right now just being conceived though uh
+4940.64 yeah these studies they move so slowly
+4943.28 because you have to get a grant that
+4945.38 Grant gets reviewed by the NIH six
+4947.3 months after you submit it often gets
+4949.58 rejected because it's too Innovative and
+4952.219 too high risk so then you have to edit
+4954.32 it and decrease the risk so it takes by
+4957.26 obesity so it took two years to get
+4958.76 funded
+4959.78 and I worry about that time frame
+4961.82 because that's a lot of time for
+4963.32 patients with anorexia to suffer that I
+4965.0 might be able to help at least in a
+4966.56 small sample of patients so
+4968.9 um but that that is the nature of how
+4970.4 these things go you also have to get FDA
+4971.9 approval to do these kinds of things we
+4973.699 try to do all of this in parallel it's
+4975.08 an enormous undertaking and in a lot of
+4977.48 ways we're starting from scratch but in
+4979.28 some ways we have some preliminary data
+4980.96 to go after this so my hope is in about
+4983.42 a year we'll have a similar trial for
+4985.04 anorexia at Penn so so more to come on
+4987.56 that
+4988.34 um and and we're not the only lab that's
+4990.8 trying to go after because of the the
+4992.42 clear need so what is the status of
+4995.48 non-invasive brain stimulation ablation
+4998.12 and blocking activity in the brain I get
+5000.88 a lot of questions about transcranial
+5002.32 magnetic stimulation yeah I've actually
+5004.12 had that done as a research subject sure
+5006.46 when I was at Berkeley Rich Ivory's lab
+5008.08 put a coil on my head I was tapping my
+5010.12 finger in concert to a uh a drum beat
+5012.82 and then all of a sudden uh because of
+5015.4 the stimulation it was impossible for me
+5017.02 to keep time yes with the drum beat
+5019.36 that's cool cool it's a pretty wild
+5021.719 experience to not have motor control and
+5024.82 uh than to have motor control returned
+5027.6 at the flip of a switch when someone
+5030.1 else is controlling the switch it makes
+5031.659 it especially Eerie
+5033.58 um so my understanding is that
+5035.38 transcranial magnetic stimulation is
+5036.88 being used to treat depression and a
+5038.38 number of other brain syndromes
+5041.46 non-invasively so no no drilling through
+5043.54 the skull the surgeons don't like that
+5044.92 surgeons love to cut and drill with
+5047.199 purpose but they do
+5049.12 um but uh my understanding is that the
+5052.719 spatial Precision isn't that great
+5055.48 um ultrasound is something I hear a lot
+5057.94 about these days
+5059.62 um and my understanding is that
+5060.94 ultrasound can allow researchers and
+5063.219 clinicians to stimulate specific brain
+5065.26 areas perhaps with more Precision
+5067.54 um maybe you could just give us a
+5068.8 coverage of what those are being used
+5070.48 for what are your thoughts on on um uh
+5074.86 these forms of non-invasive meaning no
+5077.86 no flipping open of a piece of the skull
+5079.659 type brain stimulation and blockade of
+5083.5 brain activity sure yeah I wanted to
+5085.9 clarify also these these surgeries
+5087.699 generally don't
+5089.32 um by the way require a full craniotomy
+5092.08 it's usually just a small opening about
+5093.52 the size of a dime in the bone so just
+5095.44 just to clarify but that's painless too
+5097.36 right uh well usually without pain yeah
+5099.699 there's a little bit of scalp numbing we
+5101.56 give a scalp block and the patients are
+5103.54 getting IV sedations so they in general
+5105.52 don't feel anything and if they do they
+5107.56 tell me and we give them more local
+5108.58 anesthetic but that's they're usually
+5110.32 asleep during that part so it's
+5112.0 minimally invasive but you know in a lot
+5113.98 of ways there's no such thing as a
+5115.239 minimally invasive procedure in the
+5116.679 brain you know it's a it's kind of so
+5118.54 glad to hear you say that oh no I you
+5120.699 know I'm I'm not one of those
+5122.02 neurosurgeons that you've probably
+5123.58 encountered and we have mutual friends
+5125.14 that uh and you know these mutual
+5127.36 friends are some of my favorite people
+5129.219 in neurosurgery and they probably
+5130.54 actually think more like me than than
+5132.04 not but there are neurosurgeons that
+5134.38 you're absolutely right and this is true
+5135.64 for all surgeries they really
+5137.679 in a lot of ways they think what they do
+5139.239 is sort of the ground truth or is it
+5141.04 closer to the ground truth and I I get
+5143.02 that
+5143.98 um uh you know probing with purpose I I
+5147.46 actually really like that I'm going to
+5149.32 use that if you don't mind
+5150.76 um just it's just describing what you do
+5153.28 so yeah but I I actually have I've
+5156.4 always said this I've said it publicly
+5158.44 I've said it to my boss I've said this
+5160.42 to my team
+5162.159 um we need to embrace non-invasive
+5163.719 approaches
+5165.699 um
+5166.48 some of them are a little fluffy
+5168.88 um fluffy in that we don't understand
+5170.5 how they work
+5172.12 we don't necessarily understand how deep
+5173.5 brains too much works by the way so
+5176.08 um but because we don't know exactly how
+5177.699 they work
+5178.6 they're not as precise as we would like
+5180.159 them to be so we have work to do there
+5181.719 and I actually think that work is doable
+5183.76 and actually underway
+5186.52 um you know at Stanford we have great
+5188.38 collaborators that that I think are
+5190.06 doing this people like Nolan Williams
+5191.56 and Connor Liston at Cornell and others
+5195.34 um so we uh I think that
+5198.28 TMS transcranial magnetic stimulation it
+5201.52 is FDA approved for depression by the
+5203.32 way it's also FDA approved for OCD and
+5205.3 for nicotine addiction where do they put
+5207.219 the coil for those three or more or less
+5209.8 yeah so they put it over was always on
+5212.02 the scalp and uh over the frontal lobe
+5214.78 and there's different parts of the
+5216.04 frontal lobe that have been demonstrated
+5217.8 to be a little better or a little bit
+5220.12 worse
+5221.5 um but what the FDA has approved for
+5223.96 depression I believe is uh similar to
+5227.08 what's been approved for uh OCD but for
+5229.42 addiction I believe it is a different
+5231.04 Target but we'd have to ask our our TMS
+5233.44 experts on that can they direct the
+5235.0 transcranial magnetic stimulation deep
+5236.8 below the cortex they try uh and we're
+5239.56 we're actually studying this in OCD
+5241.42 patients now
+5242.739 um I as a part of our invasive trial uh
+5246.58 where we are trying to pull patients
+5248.26 from a TMS trial that's in parallel to
+5250.54 what we're doing
+5251.92 um all funded by the foundation for OCD
+5254.139 research
+5255.12 where we believe we can use TMs to to
+5258.88 define a circuit that if modulated
+5262.32 improves OCD albeit temporarily and in
+5266.199 those patients if it's temporary they
+5267.76 would be appropriate for an invasive
+5269.26 study so something we're actively
+5271.84 working on I've always believed that
+5273.639 neurosurgeons need to be part of the
+5275.86 discussion with these non-invasive
+5277.42 approaches we don't need to do them but
+5280.12 I think we can help make them more
+5283.239 precise and to probe non-invasively with
+5286.659 purpose
+5287.82 rather than this more kind of
+5292.48 I don't know a non-invasive blast effect
+5294.639 kind of you know
+5296.92 I I just can't imagine how that is going
+5298.96 to be as effective as probing with
+5301.42 purpose but you can do that not
+5302.44 invasively as well and I think we need
+5304.179 to do better uh in that way I do believe
+5306.639 that's possible and I think people are
+5307.84 actively trying to do it
+5309.639 um getting deep in the brain with TMS I
+5311.62 think will always be hard but you can
+5313.48 get there indirectly by using
+5315.219 connectivity assays and targeting
+5317.4 superficial structures that have
+5320.199 High connectivity to deep structures so
+5323.98 for example
+5325.3 um perhaps one day there will be a TMS
+5327.28 Target for anorexia and obesity
+5330.84 if we are scratching the surface with
+5333.76 invasive approaches to these problems
+5336.28 we we're even doing less with the brain
+5338.92 stimulation
+5340.0 um so we have so much work to do there
+5341.62 eating disorders and TMS have been so
+5345.76 um sort of scarcely studied or or there
+5349.3 have been so such little research done
+5350.8 in that in that space and so it is an
+5353.26 area that we need to to work on
+5355.36 um for the obvious reason for example in
+5357.58 a patient with anorexia just thinking
+5359.02 practically you know placing a device in
+5361.36 a patient who is significantly
+5362.98 underweight might not be the best
+5364.84 approach you know wound erosion and
+5366.88 issues like that could come up so
+5368.739 developing a non-invasive approach I
+5370.3 think is critical the problem is where
+5373.0 do we target
+5374.5 and so the only way to answer that I
+5377.02 think reliably is to accept that we have
+5379.48 to get into the Brain before we're out
+5381.639 of the brain and with these kinds of
+5383.32 conditions we're only just starting to
+5384.88 get into the brain you know so I I worry
+5386.92 that we're a long way away from a
+5389.8 non-invasive approach that really works
+5391.9 consistently
+5393.76 um sorry to interrupt um I want to make
+5396.699 sure we touch on ultrasound because yes
+5398.679 um but um his
+5401.219 historically it seemed that there was a
+5403.42 bit more permission for people to probe
+5405.699 around in the human brain I I've um
+5407.86 sometimes refer the podcast to some of
+5410.679 these papers that were done uh allowing
+5413.98 patients to self-stimulate in the brain
+5415.9 these are work done in the in the 60s
+5418.48 and now his name Escapes Me Robert
+5420.82 um anyway there's a couple papers
+5422.199 published in science allowing patients
+5424.06 to stimulate a couple different brain
+5425.32 areas asking which ones they preferred
+5426.94 and I was always shocked and slightly
+5429.06 intrigued by the fact that the the brain
+5431.62 area that all three of these patients
+5433.179 who I don't think had any syndromes I
+5435.1 think they volunteered for these
+5436.3 experiments I don't think you could do
+5437.98 this anymore yes um regulatory yeah yeah
+5441.1 I think uh was not the same as it is now
+5443.139 things have changed
+5444.639 um fortunately but they
+5446.86 um all three of them seem to like some
+5449.56 midline thalamic structure which for
+5451.3 those listening it's just area kind of
+5452.56 in the in the dead center of the brain
+5455.139 um more or less that evoked a sense of
+5458.26 kind of frustration and anger which
+5460.0 surprised me because I would have
+5461.08 thought oh it's Robert Heath his
+5463.3 experiments rather than patients
+5464.86 preferring to stimulate areas that evoke
+5466.54 laughter or Joy or a feeling of
+5468.219 drunkenness or Delight it also explains
+5471.88 a lot of what I observe in social media
+5473.5 this sort of um kind of people
+5475.06 repeatedly engaging in battles
+5477.88 um that are kind of trivial it seems
+5479.5 like frustration and anger might have
+5481.0 its own reward circuitry anyway I don't
+5483.82 want to go too far down that rabbit hole
+5485.26 but it
+5487.0 um it's a deep one it's a deep one and
+5488.98 and kind of gets to our nature yeah you
+5491.739 know as humans and what we find
+5493.179 interesting or rewarding but you know
+5496.54 the ability the inability to probe
+5500.38 around the brain in a safe way without
+5502.84 the need for somebody to be very sick
+5505.84 would be I think would be enormously
+5507.76 powerful and at least in my mind if I
+5509.86 were in charge which I'm not
+5511.719 um would offer the opportunity to really
+5514.84 come to an understanding about how the
+5516.28 human brain works without all these
+5518.5 issues of how to translate from Mouse
+5520.12 studies and again there's huge value to
+5522.159 animal studies as we both agree but
+5524.679 um so many of the things that we want to
+5526.9 know about the human brain involve
+5528.46 asking the person hey do you what do you
+5530.679 feel when that set of neurons is
+5532.42 stimulated and what don't you feel uh
+5535.06 and a mouse we can ask and ask but
+5537.1 they're not going to tell us something
+5537.82 they do tell us they're not going to
+5538.84 tell us in English so
+5541.239 um how do we overcome this challenge but
+5543.4 first
+5544.179 ultrasound or if you prefer after
+5546.04 ultrasound what is ultrasound going to
+5548.32 be really useful towards solving these
+5549.82 clinical issues and these basic issues
+5551.44 yeah so I think
+5553.0 um
+5554.139 let's start with ultrasound then we'll
+5555.76 come back to it um so ultrasound right
+5558.1 now
+5558.9 transcranial magnetic
+5561.36 magnetic resonance guided Focus
+5564.1 ultrasound so
+5565.6 um uh this this is an FDA approved
+5568.36 method
+5570.04 to
+5571.54 deliver an ablation to the brain
+5573.58 non-invasively
+5575.32 there are researchers myself included
+5578.02 that are trying to use transcranial
+5580.36 magnetic guided magnetic resonance
+5582.04 guided Focus ultrasound or MRI guided
+5584.199 Focus ultrasound
+5585.6 to use it in a modulatory way not just
+5588.4 as an ablation but to drive neuronal
+5590.86 activity or inhibit it perhaps we're
+5592.659 still learning how to do that
+5594.46 um there are trials that are trying to
+5596.98 understand if you can use ultrasound to
+5598.54 open the blood-brain barrier so you can
+5599.98 deliver a medication to that specific
+5602.139 area uh perhaps for a brain tumor or
+5605.38 something like that
+5606.58 so um it's a very exciting field
+5609.82 um and it is FDA approved for Tremor
+5611.739 right now and so I actually do it
+5613.9 routinely
+5615.1 um
+5615.76 for patients with Tremor with
+5617.38 Parkinson's or a central Tremor and so
+5620.5 um I I love doing it it's uh often just
+5623.44 kind of a miracle because there's no
+5625.179 incision I don't have to place an
+5626.32 electrode into the brain to achieve a
+5627.94 similar result how early into the
+5630.78 pathology of Parkinson's can someone
+5633.04 think about approaching this so for
+5634.719 instance if somebody has a parent or a
+5637.06 sibling and they're developing some
+5638.38 resting Tremor yeah obviously they
+5640.36 should talk to a neurologist but a
+5642.1 neurosurgeon but this non-invasive
+5644.38 approach could be incredible for them as
+5647.08 opposed to just take only taking drugs
+5649.84 to increase dopamine levels yeah so um
+5652.239 depending on the reason you have Tremor
+5653.98 would dictate the kind of medication you
+5655.719 would use it could be Parkinson's but if
+5657.219 it's not it might be a central Trevor by
+5658.719 the way essential tremors 10 times as
+5660.52 common as Parkinson's really essential
+5662.62 tremor is the most common neurologic
+5664.3 condition in patients over the age of
+5666.04 70. we often aren't aware of that people
+5669.82 with essential Trevor feel they have
+5671.08 their forgotten disease because there's
+5672.4 no Michael J fox for a central Tremor I
+5675.219 sent a letter sorry is it essential
+5677.44 tremor or or essential
+5682.9 um
+5683.92 I actually sent a letter to Bill Clinton
+5685.96 I I've observed uh Tremor in him and I
+5689.02 think he's actually disclosed that he
+5690.28 has it and I hoped he'd become a
+5692.44 champion for for patients with a central
+5693.88 Tremor um Sandra Day O'Connor does as
+5696.46 well she's also public about it but I I
+5698.5 was not able to get them eager to become
+5700.719 the champion for this condition but like
+5702.76 Michael J fox these patients need a
+5704.62 champion like that
+5706.179 um but unfortunately it's a bit of a
+5708.219 forgotten disease nevertheless because
+5711.04 of the FDA approval of focus ultrasound
+5713.44 for Tremor
+5715.179 um another's trying to get some
+5716.92 attention for sure and uh it's
+5719.08 fabulously effective for these patients
+5720.58 it treats patients on one side usually
+5722.199 their dominant hand or their worst hand
+5723.76 and it um it really speaks to the fact
+5727.0 that wow you can deliver non-invasively
+5729.46 an ablation to the brain in a
+5731.62 hypothesized zone that we think is
+5733.9 related to the problem at hand and at
+5736.42 least with Tremor it works really well
+5738.159 could this be effective for psychiatric
+5740.739 disease obesity Eating Disorders uh well
+5745.36 um perhaps uh actually that would be the
+5747.76 ideal the problem is we don't know where
+5750.58 to do the ablation
+5752.739 um there is a trial that we would like
+5754.3 to do for OCD where we would deliver an
+5756.58 ablation to the same area of the brain
+5758.32 that we've been delivering ablations to
+5759.88 for years for patients with OCD and it
+5761.86 helps a bit that's called a capsulotomy
+5764.56 um but really the outcome is probably
+5766.12 going to be about the same it's a nice
+5767.679 method because it's non-invasive but we
+5770.86 need to find a new Target for these for
+5772.659 these conditions and because of the
+5774.4 common denominator of the urge despite
+5777.88 the risk sort of that compulsion
+5781.0 um yeah perhaps it could be the same
+5782.32 Target I don't know
+5783.94 um but I would argue we need to do these
+5786.219 modulatory experiments either with a
+5788.32 device or with uh invasive recordings uh
+5791.739 to better understand where these
+5793.36 problems are coming from to Define where
+5795.76 we should do an ultrasound treatment so
+5798.94 um you're right historically
+5801.48 without much regulation we've we've
+5804.4 probed the brain
+5805.659 um
+5806.26 the problem we can't learn a lot from
+5809.38 those experiments now uh well in this
+5811.96 way at least we don't know exactly where
+5814.0 those electrodes were we didn't have MRI
+5815.62 scanning or high quality cat scanning to
+5818.139 to know where those electrodes were with
+5819.76 certainty
+5820.84 where and we know two or three
+5822.58 millimeters matters and we also didn't
+5824.38 have the tools to place electrodes in a
+5826.96 precise way back then so unfortunately
+5829.9 we can't learn a lot from those
+5831.1 experiments right now
+5832.659 so we're sort of redesigning them and
+5835.179 there is a way to do it now
+5836.98 um patients with epilepsy benefit from
+5838.84 this all the time there has been a
+5840.94 revolution in America it was in Europe
+5843.04 before it was in America where we would
+5844.84 do stereo encephalography which is
+5847.239 basically like doing an EEG of patients
+5850.12 with epilepsy but with invasive
+5852.1 electrodes and we would Place tiny
+5853.96 little wires less than a millimeter in
+5855.52 diameter all throughout the brain into
+5857.26 parts of the brain that we believe are
+5858.76 involved in seizures and we would admit
+5861.159 the patients to the hospital and figure
+5863.08 out where the seizures were starting and
+5864.699 propagating and then um you know we
+5867.159 could stimulate these electrodes to see
+5868.6 if there was a symptom that was
+5869.739 important and I try to identify a region
+5872.8 that we thought we could either remove
+5874.84 surgically ablate with a laser or put a
+5878.139 stimulator in it perhaps that's
+5880.719 commonplace now for epilepsy
+5883.0 um
+5883.6 and it works extremely well and it's
+5885.76 very safe of course it's still a brain
+5887.38 procedure but the uh the complication
+5890.62 rate is surprisingly low quite honestly
+5893.199 for the amount of electors that we place
+5895.96 um and it's extremely well tolerated
+5897.58 most these patients leave the hospital
+5898.78 and they don't even feel like they've
+5899.86 had surgery
+5901.12 so uh there's actually a lot of interest
+5903.28 in using that procedure to study mental
+5906.699 health disorders
+5908.739 we are trying to do it for patients with
+5910.78 obsessive compulsive disorder we're
+5912.76 awaiting an FDA decision on that uh but
+5915.34 actually I credit uh our colleagues at
+5918.219 Baylor and at UCSF for for studying this
+5921.52 uh already we have fabulous colleagues
+5924.699 at UCSF that have studied depression
+5927.159 using this type of approach a mutual
+5929.86 friend of ours uh you know Eddie Chang
+5932.679 who's a wonderful friend and colleague
+5935.38 somebody I've emulated for many years as
+5937.3 well uh and and the the Psychiatry team
+5940.0 at UCSF have worked together on this
+5941.86 sort of
+5942.82 bringing together the epilepsy technique
+5944.92 and the Psychiatry expertise to study
+5947.38 how we could better Target electrodes in
+5950.32 depression and I'll tell you if they
+5952.42 have a consistent Target
+5954.4 perhaps there becomes an ultrasound
+5956.86 Target
+5958.0 um but right now the approach is a bit
+5960.28 more reversible because you can always
+5962.02 shut that electrode off or even remove
+5964.06 the electrode if perhaps it's not in the
+5966.76 optimal location to treat the depression
+5969.159 uh but actually after a large volume of
+5972.159 cases perhaps they could pool that data
+5975.699 to develop a a new ultrasound Target for
+5979.179 depression I think that would be
+5980.199 fabulous and probably is their long-term
+5982.3 goal
+5983.199 um not to speak for them but that would
+5985.12 be something that I I'm sure is on their
+5986.679 radar and a Baylor is trying to do the
+5988.84 same thing for depression their
+5991.36 approaches are a little bit different
+5992.62 but a similar tool to try to understand
+5994.42 uh depression and you know we're working
+5996.76 with all these types of uh colleagues
+5999.76 some of these are our friends to try to
+6001.26 to bring this to OCD as well and you
+6004.08 know it makes sense to try to do this
+6005.58 for addiction and obesity and anorexia
+6008.28 you might ask well why aren't you doing
+6009.9 this for obesity right now in uh in our
+6012.42 in our study and the reason is that
+6014.58 um we've developed a target for obesity
+6016.92 uh and binge eating disorder uh
+6018.96 developed out of mice that we believe
+6022.139 um is relevant for the human State
+6023.699 because you can model this problem in a
+6026.1 mouse a bit better than you can model
+6027.78 depression or OCD so we feel like we can
+6031.199 rely on the pre-clinical studies more
+6033.44 whereas with these perhaps more I don't
+6036.48 want to say more complicated but more
+6038.1 human mental health conditions that are
+6040.44 hard to model in a mouse you really have
+6043.56 to study it in the human and you can
+6046.02 perhaps start in an epileptic patient a
+6047.82 patient that has electrodes and try to
+6049.5 provoke a depressed state or study
+6051.06 epileptics like Dr Chang has done that
+6053.82 have comorbid depression for example and
+6056.88 that can really validate this approach
+6058.32 as well but in the end it's it's getting
+6060.54 into the human brain that we need to do
+6062.28 in the disease specifically that will
+6066.3 eventually lead to a non invasive
+6069.06 approach either a lesion or modulatory
+6071.46 approach modulatory would be like TMS or
+6073.5 lesion approach would be with ultrasound
+6077.46 couldn't agree more
+6079.28 meanwhile because there are many many
+6082.44 millions of people suffering from
+6084.06 depression Eating Disorders Parkinson's
+6086.76 and essential tremor
+6088.92 Etc
+6090.78 well first of all I should say based on
+6092.94 everything you've told me thus far it's
+6095.219 amazing to me that any pharmacologic
+6097.86 treatments work because of how systemic
+6101.04 they are and impacting serotonin
+6103.02 serotonergic neurons over here in
+6104.639 dopaminergic neurons over there and not
+6106.38 targeting any specific batch of cells it
+6108.239 makes perfect sense as to why all the
+6109.8 side effects exist
+6111.119 but earlier you said something that
+6112.86 really grabbed my attention I want to
+6114.54 come back to which is that
+6116.699 if people can be made to feel or make
+6119.46 themselves feel just a little bit better
+6121.679 a little less anxious just prior to a
+6124.739 craving episode or a binge episode
+6127.5 maybe even if people can become better
+6129.78 at detecting their own internal States
+6131.699 and when they're kind of veering toward
+6133.98 a binge or veering toward using a drug
+6136.26 or
+6137.28 maybe even veering towards suicidal
+6140.04 thinking
+6141.3 I based on what you said earlier that
+6144.239 those kind of um
+6146.36 pre-behavioral States
+6148.679 the kind of drift on the on the steering
+6152.219 um
+6153.3 those sound like powerful
+6155.76 levels of awareness at least for now
+6158.52 until we have specific sites in the
+6160.92 brain that we can Target non-invasive
+6162.3 methods that could be deployed to
+6163.5 millions and millions of people seems
+6165.3 like that awareness seems like maybe
+6168.179 among the best tools that people could
+6170.219 develop yes 100 agree with you you know
+6172.679 so for the person with OCD or uh who
+6175.44 suffers from anorexia or binge eating
+6177.54 disorder and to their clinicians you
+6179.219 know I I just want to highlight that you
+6181.26 said that I mean I'm not again I'm not a
+6183.179 clinician I always say this I don't
+6184.44 prescribe anything I profess things
+6187.08 um and uh but
+6189.9 awareness of one's thinking seems
+6192.6 immensely powerful in this context yeah
+6195.42 um and after all it is the clinical
+6198.42 probe that you use because the if let's
+6201.84 say the patient were to lie to you about
+6203.52 their experience of
+6205.92 what happens in their mind when you
+6207.78 stimulate you could basically the whole
+6210.54 thing the whole surgery the whole
+6212.159 procedure could go badly wrong so it's
+6215.159 it's up to the patient to be of course
+6217.139 honest with you in their their
+6218.9 incentivized to do that but to be honest
+6220.8 with themselves about ah you know I've
+6223.679 gone all day without a binge but you
+6226.92 know the the smell of a donut or the
+6228.84 thought of a donut is starting to have a
+6230.58 particular Allure that awareness seems
+6232.8 like an incredibly powerful thing to own
+6235.139 and to and to build and cultivate yes
+6237.48 I've always thought that if we could
+6239.219 improve awareness we can improve
+6241.02 outcomes I think that's probably true
+6243.06 for many of these patients the problem I
+6245.52 think comes down to the fact that some
+6247.26 of these patients are so resistant to
+6249.42 treatment
+6250.44 and the patients that we see as a
+6252.719 surgeon for example are the patients
+6255.0 that they've tried cognitive behavioral
+6257.52 therapy certainly have tried medications
+6259.32 they've tried Behavioral Management they
+6261.96 are aware of their problem and they've
+6264.239 shown that to us they can tell us when
+6265.739 they're craving
+6267.36 but despite the craving and despite
+6269.1 being involved in this invasive brain
+6271.08 surgical trial highly you know first in
+6274.38 human novel study which I think will
+6277.619 have a positive effect but it's still
+6279.239 experimental uh they still can't stop
+6281.88 themselves so there
+6284.4 sort of as made aware as could possibly
+6287.159 be did I use grammar there correctly I
+6289.44 think so
+6290.4 um they're as aware as they could
+6292.739 possibly be and they still lose control
+6295.219 we've had this studied in the lab so we
+6298.199 will bring patients to the laboratory
+6299.76 with this implanted device
+6301.92 to to try to provoke this electrographic
+6304.679 electrical signal that can be detected
+6307.679 by the actual device that will stimulate
+6309.96 them when they're at home
+6311.76 but before we actually initiate
+6313.199 stimulation we want us to see can this
+6315.48 device detect this craving cell signal
+6318.78 which is going to be different than what
+6320.34 we saw in the operating room because
+6321.3 that's a single cell but these devices
+6323.34 these electrodes are about a millimeter
+6324.84 in diameter instead of like a tenth of a
+6326.82 millimeter which is what we use in the
+6328.38 operating room
+6330.119 um so they're they're only hearing or or
+6332.639 detecting I should say thousands of
+6334.92 cells responses and
+6338.46 we actually have a way to provoke
+6341.34 binges it's called a mood provocation
+6343.38 it's very well well very well validated
+6345.6 it's a little bit like provoking
+6347.1 seizures in the epilepsy monitoring unit
+6348.9 but here in these sort of uh psychiatric
+6352.739 monitoring unit or the the food
+6354.3 monitoring unit uh we we actually have a
+6357.9 psychiatrist and eating disorder
+6359.1 Specialists come and
+6360.659 induce a mood that is related to
+6364.98 each patient's sort of self-described
+6367.98 binge episode so the psychiatrist comes
+6370.739 in and provokes yes a feeling that can
+6374.52 evoke the negative behavior that's
+6377.699 exactly right so that we can video and
+6380.1 synchronize the video to the brain
+6382.44 signal recordings
+6384.36 um the patients all wear an eye tracker
+6385.92 so we can see what they're eating at all
+6387.719 times and what they're looking at
+6389.159 specifically and that allows us to have
+6393.84 the best temporal resolution possible to
+6396.719 understand what is happening right
+6398.58 before the bite
+6399.78 and even under video surveillance
+6401.82 through a one day one-way mirror in a
+6403.98 laboratory setting when patients are
+6407.4 very well aware that their there to be
+6410.46 studied if they're going to binge
+6412.92 they still do and we believe they do
+6415.739 because they just can't control it as
+6417.84 aware as they are of it
+6420.239 and it's probably because they're the
+6421.679 most severe
+6422.94 so I think if we can improve awareness
+6425.639 not just the societal awareness that I
+6427.44 was talking about earlier but the
+6428.52 patient awareness around their problem I
+6431.699 think that could be a powerful way to
+6433.38 help so many of these patients and
+6434.639 that's sort of the role of cognitive
+6436.02 behavioral therapy
+6437.94 um the problem with cognitive behavioral
+6439.5 therapy or should say the limitation of
+6440.94 it I actually don't have any problem
+6442.32 with it I think it's a wonderful
+6443.4 treatment
+6444.9 um
+6446.219 is that if you stop it many of these
+6448.199 patients go back to their old behaviors
+6450.54 I don't say old habits but it might be a
+6452.58 habit but the old behaviors
+6454.44 and so um
+6456.36 that's the problem is it's not
+6457.619 necessarily lasting in the absence of
+6459.179 continued cognitive behavioral therapy
+6460.679 some people can benefit from it long
+6462.3 term but some can't uh
+6465.06 but I think in in in the less severe
+6467.34 patients improving awareness key but in
+6470.52 these really refractory patients this is
+6472.08 this is kind of like this is the disease
+6473.84 despite the awareness they can't control
+6475.98 themselves and that's what we're trying
+6477.84 to restore is that improved ability to
+6480.3 control their behavior
+6481.739 do you think there's a role for machines
+6483.719 and artificial intelligence here uh
+6487.199 there are a couple Laboratories up at
+6488.699 the University of Washington that are
+6490.86 using
+6492.48 particular signature patterns of within
+6496.02 voice to try and help
+6498.84 suicidal people who are suicidally
+6501.54 depressed
+6502.92 know when they're headed towards an
+6504.54 episode before they even can consciously
+6506.4 know so this gets right down issues of
+6507.96 Free Will and whether or not machines
+6509.1 can be smarter than we are but you know
+6510.9 one could argue that some of the search
+6512.159 algorithms on Google and other search
+6514.679 engines are actually more aware of our
+6516.84 preferences than we are
+6518.88 um
+6519.6 basically what these are these are
+6521.34 devices that are listening to people
+6522.659 talk all day they're also paying
+6524.159 attention to patterns of breathing and
+6525.719 how well people slept Etc integrating a
+6527.82 huge number of cues and then signaling
+6530.699 somebody with a you know a yellow light
+6532.739 like you know you're headed into a
+6534.6 depressive episode the person might say
+6535.92 I feel fine or I feel pretty good this
+6538.32 is kind of Baseline state for me and
+6540.06 they say ah this is where you were
+6543.36 preceding the last episode that took you
+6545.52 down a deep dark trench and it took
+6547.08 months to get out of
+6548.94 um I wonder whether or not some of these
+6550.44 devices could help with the sorts of
+6553.02 things that we're talking about today
+6554.159 yeah I think so
+6556.5 um I've always said we have to get in
+6558.719 the Brain before we get out of it and if
+6560.639 we get in the brain and understand what
+6562.38 these signals look like we'll know what
+6564.48 those non-invasive signals are I think
+6566.94 it's possible that we are
+6570.199 scientifically sophisticated enough to
+6573.96 use machine learning
+6576.239 um and sort of this kind of botan
+6578.4 technique to anticipate when somebody is
+6581.58 going to be highly impulsive you know
+6583.26 suicide it's the most dangerous impulse
+6584.58 it's something that is
+6587.48 immensely a focus of the lab is
+6590.1 impulsivity we've talked mostly about
+6591.659 compulsion compulsion being you know
+6594.54 going after a reward or the urge despite
+6597.6 the risk
+6598.86 um impulsivity is is similar but
+6601.26 different it's it's kind of going after
+6602.639 something
+6604.5 um a little bit if you if you model
+6606.48 impulsivity in a mouse it's you know
+6609.239 related to you know going after a food
+6612.659 reward without the sort of paired tone
+6616.08 that your the mouse is supposed to wait
+6617.52 for the mouse doesn't want to wait
+6619.08 anymore they just go after the food
+6621.36 um I've been that Mouse yeah we've all
+6623.1 been oh we could all relate with this uh
+6626.28 to a certain extent against the Spectrum
+6627.78 so
+6630.239 um
+6630.96 so in any case I uh non-sequitur but I I
+6633.9 I certainly think that there is a way to
+6637.679 use our own body's physiology
+6640.679 to anticipate
+6643.139 when these impulses are coming online
+6645.02 how best to do that I think we're just
+6647.699 scratching the surface but these are the
+6650.82 kinds of solutions we need these are
+6654.3 some of these problems are of epidemic
+6656.58 proportions the largest public health
+6658.44 problems in this country in this world
+6660.239 obesity opiate crisis depression
+6662.9 suicidality I mean that's like a third
+6664.8 of our country maybe more probably more
+6667.32 and think about it and a colleague of
+6669.54 ours at Stanford Psychiatry told me
+6671.1 something that still just blows my mind
+6673.199 which is that something like 75 percent
+6676.4 of the antidepressant and anti-anxiety
+6679.739 medication that exists in the world is
+6681.719 consumed in the United States it's
+6683.58 amazing which is I mean that's an
+6685.56 outrageous number yeah we do have an
+6687.36 obsession in this country for pharmacy
+6688.619 you know and the pharmaceutical industry
+6691.739 is very powerful here and probably
+6693.78 related some aspect of capitalism I'm
+6695.94 capitalistic and just like everybody
+6698.159 else but um I do worry about that a
+6700.619 little bit
+6701.82 um but you know we tend to over
+6704.04 prescribe and I think we as patients
+6705.96 tend to over want medication we like
+6710.04 quick Solutions and sometimes
+6711.6 medications provided sometimes not or
+6713.28 they're often just abandoned depends on
+6715.02 the problem of course
+6716.28 so
+6718.199 um but but I I agree that we need
+6721.08 scalable Solutions but you know I'm a
+6723.42 neurosurgeon I'm only going to be able
+6724.8 to treat the most severe of patients
+6726.9 with these problems you know you know
+6729.659 we've only done about 200 000 deep brain
+6732.78 stimulation surgeries ever
+6735.3 so I mean the problem we're talking
+6737.4 about here is
+6739.02 50 million Americans there's no
+6741.6 possibility that surgeons can address
+6743.52 that problem but we could help Inspire
+6746.88 an initiative to go after that kind of
+6749.159 problem or help make it more rigorous
+6751.199 because the last thing we need is a you
+6753.719 know some sort of wearable fancy tool
+6755.58 that you know
+6757.52 uh waste people's money and time you
+6760.56 know we need real therapies for these
+6762.06 things not that these devices that we're
+6763.8 discussing are not uh I think actually
+6765.42 there's lots of promise we use machine
+6767.699 learning in the lab all the time I'm not
+6769.56 a an electrical engineer or the
+6771.84 computational neuroscientist doing this
+6773.58 type of work I I just helped develop the
+6775.26 hypotheses around it but um and help
+6777.6 fundraise around it but I I definitely
+6779.82 think there's a future for it I just I I
+6782.04 suspect we're scratching the surface on
+6783.719 how best to do it
+6785.28 let's talk about your hands yeah sure
+6788.219 all the neurosurgeons I know are you
+6790.98 know very Faithfully protect their hands
+6793.58 because talking about insurance is too
+6795.6 expensive that's it right but I'm
+6798.119 guessing that you you all are not the
+6800.76 ones to reach into the garbage disposal
+6802.679 even if your eye is on the switch to
+6804.78 make sure that it isn't going to get
+6806.1 turned on they're just too precious they
+6807.6 are your livelihood yeah um and earlier
+6810.6 we talked about deadlifts uh there are
+6812.4 other forms of exercise
+6813.96 um they're things like tennis
+6816.119 um they're they're drawing and painting
+6818.159 a full range of things that one can do
+6819.54 with their hands use your imagination
+6820.86 sure
+6822.36 um is it true that neurosurgeons don't
+6825.659 do any uh really like heavy grip
+6828.84 activity because it can
+6831.02 refine the motor motor circuits in the
+6834.78 brain and elsewhere that can throw off
+6837.179 their neurosurgery game
+6839.52 I would say that
+6841.8 many neurosurgeons uh avoid activities
+6846.179 that put their hands at risk um another
+6848.28 one by the way you know there's a uh an
+6850.38 annual uh softball tournament uh that uh
+6855.139 neurosurgeons come to in New York City
+6857.159 in Central Park with a very softball no
+6859.5 I'm just kidding well actually it's
+6860.88 actually a very you know typical hard
+6863.76 softball I don't know why they call it
+6865.199 softball and uh actually a two close
+6868.32 colleagues of mine have gotten injured
+6870.06 at that tournament maybe this is a it's
+6871.98 also I must say and here I'm poking fun
+6874.02 but for those of you who are going in
+6875.52 the medical profession it's also one of
+6877.98 the more uh how should I say this well
+6879.6 I'm just going to say it there's a steep
+6881.699 hierarchy of training in neurosurgery
+6883.679 yes
+6884.58 um there's a certain harshness that's
+6886.08 been conveyed to me about the training
+6888.179 uh much like Astronaut training to be
+6890.639 totally fair and so maybe this is a
+6892.739 tactic to uh to weed out either the
+6895.32 younger or the older generation it says
+6898.08 Evolution right we uh have to evolve and
+6900.36 we need in medical the week I guess well
+6903.36 I I could say that one of the
+6904.739 individuals that got injured is one of
+6906.179 the more senior surgeons that I work
+6907.56 with now and is one of the best athletes
+6909.84 that I know and he's definitely not weak
+6911.639 but you can get injured playing these
+6913.32 Sports and uh that being said I can tell
+6915.78 you briefly is um I think that you know
+6919.92 it's funny my my mother came to me
+6921.42 recently she's she has osteopenia and
+6924.36 she told me her doctor told her she's
+6925.739 not allowed to do deadlifts and I was
+6927.719 like okay
+6928.86 um that's fine uh I'm not telling you
+6931.26 you should do deadlifts I just don't
+6932.639 exactly understand the relationship but
+6935.34 um
+6936.239 I can say that I do think
+6938.94 I'll give you a little story here the
+6941.04 reason why I'm being a little hesitant
+6942.719 to to confirm that I agree with you on
+6944.34 the deadlifts is I um
+6947.1 when I was operating this is when I was
+6948.9 at Stanford University operating and uh
+6951.9 we as I mentioned earlier we get an
+6953.699 interoperative CAT scan uh to confirm
+6955.44 accuracy of our lectures I do this for
+6956.639 all of my surgeries when I was reviewing
+6958.679 that CAT scan the x-ray technician
+6960.78 looked at me and said whispered into my
+6963.48 ear he's like your posture
+6965.639 really bad embarrassing your physical
+6968.639 posture while doing your surgeries yeah
+6970.32 and I looked at him and I kind of wanted
+6972.54 to say I won't curse but yeah exactly
+6975.3 I've been doing it intermittently during
+6976.86 our conversation because he made me
+6978.659 realize that I really did have bad
+6980.159 posture and
+6981.9 um we kind of had a little brief aside
+6983.76 and he I learned he was a personal
+6985.199 trainer and uh his name was Zach and he
+6988.679 uh you know he said to me you know your
+6990.78 posture is weak because or your posture
+6992.88 is poor because you're weak you need to
+6995.1 strengthen your body and strengthen your
+6997.199 core I was like how he's like power
+7000.5 lifting and I'm like I'm a little
+7002.48 hesitant to do this and I'll tell you I
+7004.58 started very slowly and I can't
+7006.679 prescribe power lifting to everybody for
+7008.3 the exact reason you said um and I've
+7010.219 gotten hurt doing it by the way but I do
+7012.92 think
+7013.82 I I wish I started a little younger
+7016.4 and I would argue that with close
+7019.04 supervision and very
+7021.86 well if you are if you have a very
+7024.619 experienced trainer which I would argue
+7026.84 if you're a neurosurgeon or an astronaut
+7028.4 uh or or have a highly specialized
+7030.739 profession where you need your your
+7032.78 limbs to to function dentists things
+7035.84 like that
+7037.099 um if you're going to take something on
+7038.179 like this it really needs to be
+7039.5 extremely carefully supervised and I can
+7041.48 tell you that you know my trainer had a
+7043.699 profound impact on my life and my
+7045.5 posture and my my physical health and so
+7048.56 uh we did deadlift I'll admit so when
+7051.199 you brought it up I kind of chuckled to
+7052.76 myself but uh yes I I have gotten mildly
+7056.42 hurt deadlifting but it was when I was
+7057.679 doing it by myself and I was kind of
+7059.3 cocky and I wasn't paying attention but
+7061.28 when I was with him and he was all over
+7063.32 my technique
+7065.0 it actually was the most efficient way
+7066.92 for me to feel stronger and it improved
+7069.38 my posture uh significantly and I I miss
+7072.44 him since I left California I I have a
+7074.96 new trainer in Philadelphia who's great
+7076.159 but uh uh and and I still deadlift
+7078.8 occasionally with him but I uh I I can
+7081.08 say I I am opposed to deadlifting
+7083.38 callously but if you're
+7085.76 extremely well monitored by it
+7088.04 experienced
+7089.42 um personal trainer or weight lifter uh
+7091.58 I think it could be a great exercise
+7092.96 great I love to be wrong in this case
+7096.679 um because I'm a huge proponent and on
+7099.199 the podcast I go on and on I mean
+7100.46 they're so there's so much data now
+7102.44 pointing the fact that 100 and 180 to
+7106.34 200 minutes of Zone 2 cardio kind of
+7108.38 jogging cycling swimming type behavior
+7110.36 is very healthy for everybody and we
+7112.04 should all be doing that at least that
+7113.659 yes I need to as well and that
+7115.52 resistance training on the order of you
+7118.28 know six hard sets per muscle group per
+7120.139 week are it's really important just to
+7121.58 offset deterioration of muscles and I'm
+7124.099 learning skeletal function and tendon
+7126.8 strength and that's just to maintain
+7128.239 we're not talking about all out sets to
+7130.4 Absolute failure but as you point out
+7132.32 with um with proper form so even the
+7135.139 neurosurgeons are doing this which I
+7137.42 think is is wonderful yes as a final
+7140.84 question
+7141.98 um but one that I think really or maybe
+7145.34 second to final question earlier I
+7147.5 commented on the remarkable calm at
+7150.5 least perceived calm of neurosurgeons it
+7154.159 could be caused or could be effective
+7155.84 the training but it's obvious to me why
+7158.239 one would want that trait in their
+7161.54 neurosurgeon
+7162.98 um I wouldn't want to hyperactive
+7164.78 certainly not an impulsive neurosurgeon
+7166.94 given that the margins of error are so
+7169.4 so tiny the spatial scale and probably
+7172.099 on the temporal scale too yes and you
+7174.199 don't want people doing things in time
+7175.76 that are or being spontaneous at all
+7179.78 do you think that this branch of
+7182.3 medicine that you're in selects for
+7183.92 people that at least can know how to
+7187.28 control any kind of fluctuations in
+7189.32 autonomic growl so they can calm
+7190.82 themselves in real time and here's a
+7192.8 specific question when I've never
+7194.36 operated on the human brain although
+7196.04 I've had the privilege of being in the
+7197.36 operating room and seeing this with some
+7199.219 of our experiments with people in VR
+7200.96 it's a remarkable thing I wish for
+7203.42 everybody that would get this experience
+7204.8 at some point not hopefully as a patient
+7206.659 unless they have a need but to observe
+7208.639 it but what was just striking to me is
+7213.159 the various uh stereotype behaviors of
+7217.219 the surgeon and when I did surgeries as
+7219.38 a graduate student as a postdoc in the
+7221.3 brains of other types of animals I would
+7222.98 find for instance that if I started to
+7224.42 tremble a little bit if I tapped my left
+7226.58 foot that my hand would stabilize a bit
+7228.56 that there's this kind of need to move
+7230.179 the body or one feels the impulse maybe
+7231.8 that's my my Tourette's like compulsions
+7234.38 again but but that one can kind of um
+7237.739 siphon off some of that energy into
+7239.9 another limb so that you could remain
+7241.76 precise so are these sorts of things
+7244.94 that I'm talking about are maybe it's
+7246.56 entirely my imagination but are these
+7249.199 the sorts of things that one learns as a
+7250.699 neurosurgeon how to still the body and
+7252.8 still the Mind do you have a meditative
+7255.199 practice when you go into the operating
+7256.82 room if you had a particularly
+7258.86 challenging morning or or a poor night's
+7261.08 sleep do you have tools that you use to
+7263.54 calibrate yourself and get yourself into
+7265.699 the Zone I think this would be very
+7267.98 interesting for people to get some
+7269.179 insight into even if they don't want to
+7270.86 be a neurosurgeon yeah I completely
+7272.9 agree and I I appreciate the earlier uh
+7275.96 reference to neurosurgeons as uh
+7278.179 astronauts because I've also heard you
+7280.4 know us compared to Cowboys before and
+7282.32 it's a little bit less flattering I uh
+7284.54 you know
+7287.0 some of what we do surgically really
+7289.34 does require a substantial amount of
+7291.56 confidence
+7292.58 um and that confidence hopefully comes
+7295.58 from years of training and experience
+7299.42 um
+7300.08 you always worry that the confidence is
+7302.48 sort of misplaced and that that is
+7304.699 problematic luckily I you so rarely see
+7307.219 that because our training is so rigorous
+7309.38 you know we have a board of uh American
+7313.28 Board of neurological surgeons that uh
+7316.04 sort of allows and and assesses surgeons
+7319.94 to continue practice and holds us to a
+7323.36 really high bar I do think it tends to
+7326.48 attract a certain personality uh in my
+7330.139 sub-specialty as a like a deep brain
+7332.06 stimulation surgeon we call it
+7333.199 stereotactic and functional neurosurgery
+7335.0 you know some people have likened us to
+7336.98 the neurologists with a scalpel
+7339.38 um we we tend to be a bit more
+7340.88 intellectual
+7342.199 um uh maybe maybe bedside manner is a
+7345.98 little bit friendlier
+7347.42 um and then there's the vascular
+7349.04 neurosurgeon who doesn't sleep and so
+7350.96 they're not as friendly there's the
+7352.58 spine surgeons who operate the most and
+7355.159 so they're you know busy busy busy uh we
+7358.04 there are some of these kind of
+7359.3 reputations going around but I I agree
+7361.34 with you there's a sort of a common
+7362.84 feature of of a calmness across
+7365.42 neurosurgeons and you know there's some
+7367.52 of my obviously my favorite people my
+7369.139 closest friends
+7370.46 um and I I can relate with them probably
+7373.04 because of that
+7374.719 um sort of a big picture they don't get
+7377.119 sort of uh flustered uh they they tend
+7381.619 to
+7382.76 are they tend to be really good at
+7385.34 figuring out how to have quality time
+7387.02 because we work really hard our hours
+7388.88 are uh significant and so the time with
+7391.94 our families our friends is less than we
+7395.42 would like it to be
+7396.739 um that obviously that's true for people
+7398.3 who work hard across any profession but
+7400.46 definitely true for neurosurgeons and I
+7402.739 think that we're very good at figuring
+7404.239 out how to make that time high quality
+7406.639 um you know even just texting with some
+7409.219 of my friends
+7410.48 um in that are that are neurosurgeons a
+7412.219 great friend of mine just became
+7413.239 chairman at Duke and just connecting
+7415.219 with him by text which takes seconds you
+7418.82 know you feel we feel connected you know
+7420.679 and I I think that's a that's a trait
+7423.02 amongst neurosurgeons we sort of know
+7424.4 how to cut to the chase in a way
+7426.8 um and prioritize our time it's a skill
+7429.08 that we probably
+7430.639 have innately but is also part of the
+7433.28 training you know when we are interns
+7435.5 now there's a lot of work hour
+7436.94 regulations that is probably quite
+7438.92 appropriate by the way
+7440.36 um I I think our hours before were
+7443.239 bordering uh on on uh on not necessarily
+7446.78 let's just say they were not ideal for
+7449.48 mental health and sleep which we know
+7452.06 are very important components um
+7453.98 certainly we had no time for meditation
+7455.36 I definitely did not I wish I did
+7458.36 um now knowing what I know about
+7460.699 meditation my wife's a health coach I I
+7463.219 get it I see it I I practice it myself
+7466.159 with her
+7467.84 um I see the value I wish I had that
+7469.58 tool when I was in training because it's
+7471.32 stressful
+7472.52 um you know you even with workout
+7474.619 restrictions we still don't sleep very
+7476.06 much we're still at work a lot about 80
+7477.86 hours you know a week throughout the
+7480.32 entire career uh there are times when
+7482.78 it's more because after training there's
+7485.719 no work hour restrictions so sometimes I
+7488.239 feel like as faculty we get abused and
+7491.36 the trainees are a little bit more
+7492.679 protected now it definitely was the
+7494.599 reverse at one point and that's also a
+7496.219 huge problem probably more of a problem
+7498.38 um and I'm joking a little bit I don't
+7500.0 necessarily think we're abused but
+7501.44 certainly our hours are significant
+7504.26 um
+7505.159 but you know they come a bit more here
+7508.28 and there you know on my or days when
+7510.199 I'm operating those are long days but on
+7512.179 the days that I'm lucky enough to be a
+7514.46 researcher you know uh like you those
+7516.5 days tend to be a bit gentler unless I'm
+7518.36 great writing those days can be long as
+7520.219 you know
+7522.139 um so I so to answer your question I do
+7524.3 think we're we're sort of self-selected
+7525.92 for it but I also think it's part of the
+7527.3 training you know we because of the long
+7529.34 hours that we're in the hospital we're
+7531.08 taking care of sick patients and we have
+7533.719 sort of a type a mentor approach where
+7537.08 our mentors are hard on us
+7539.0 you know we learn to cope with our
+7541.099 stress and be efficient and prioritize
+7544.099 things despite the stress of it all and
+7547.76 I think you know we take from that this
+7550.34 sort of calm demeanor and you know
+7552.619 perhaps
+7553.88 um perhaps it's just amplifies what we
+7556.52 were probably drawn to because before we
+7558.8 come to neurosurgery we want rotated
+7560.54 neurosurgery we might spend a month you
+7563.179 know pretending to be a neurosurgeon
+7565.28 learning from residents and and faculty
+7568.219 that are practicing the specialty but
+7570.44 you know prior to actually starting your
+7572.719 training you you never experience
+7574.639 anything like being a resident in
+7576.619 neurosurgery uh the stress and the
+7579.44 volume of patients that you have to take
+7581.0 care of and the long nights it can be
+7583.58 quite Lonely by the way
+7585.26 um you develop friends in the hospital
+7586.58 but sometimes you're on your own when
+7588.92 you're on call and you have backup you
+7590.48 can call your chief resident or you're
+7592.52 attending but you really have to learn
+7593.84 how to take care of patients yourself
+7595.58 you obviously form teams with nurses and
+7598.099 staff and things like that and other
+7599.54 residents but it can be lonely it can be
+7601.76 really challenging and I think because
+7604.219 of those experiences that all
+7605.9 neurosurgeons go through uh
+7608.78 you know we tend to have this sort of
+7612.4 unflappable personality that perhaps we
+7615.86 started with a bit compared to the
+7617.719 average person but the training
+7619.52 definitely amplifies it and do you have
+7622.28 tools that you implement if you ever
+7625.099 feel that you're getting slightly
+7626.42 off-center
+7627.619 I do now
+7629.36 um
+7630.08 you know I
+7631.88 when I was in training I actually
+7634.46 remember in my
+7636.92 second year so most neurosurgery
+7639.86 programs when you're a junior resident
+7641.54 in some ways that's your toughest year
+7643.699 not in every way
+7645.26 um
+7646.219 it is your toughest year because you're
+7648.44 you're young and you're inexperienced
+7650.119 and you don't know what you don't know
+7652.099 and and that that's why it's such a
+7653.9 tough year because you have to learn a
+7655.159 lot very quickly for patient safety
+7657.38 reasons for self-survival you know you
+7660.08 just have to learn a lot
+7661.699 um and you're on call by yourself in the
+7664.159 hospital and it's uh it's a real
+7666.32 Challenge and I think that you know I
+7668.42 you know personally I I gained a lot of
+7670.219 weight during that year the only
+7671.78 exercise I did consciously was taking
+7674.06 the stairs I refused to take the
+7675.32 elevator and I was at uh Penn at HUB
+7678.32 where I currently practice now
+7680.119 and I remember I would see patients
+7682.52 anywhere from sort of the ground floor
+7684.02 where the Chama Bay was or the ER all
+7686.48 the way up to Founders 12th 12th floor
+7688.159 and I would never take an elevator that
+7690.02 was my rule for the year because I knew
+7691.34 I would not have time to exercise but I
+7693.619 would just take the stairs and in the
+7695.119 beginning of the year I would be a
+7696.38 little winded when I got to the 12th
+7697.82 floor but by the end of the year
+7699.32 actually it didn't really phase me it
+7701.0 became a great Habit to have
+7703.28 um the problem with that though is I
+7705.619 paired that unfortunately with you know
+7708.139 a lot of sleepless nights or not enough
+7709.88 sleep let's say
+7711.26 and I had this terrible habit of
+7714.86 drinking coffee late at night and I
+7716.96 would put a lot of sugar in it and it
+7718.88 was sort of the only way for me to get a
+7720.38 quick you know um a quick bout of energy
+7723.739 that for some reason I prioritized at
+7725.659 that time obviously knowing that I would
+7727.699 crash which I always did and I always
+7729.56 kind of regretted it but I still did it
+7730.94 anyway and I I attribute that to poor
+7734.3 decision making inexperience
+7736.82 um and perhaps being a little vulnerable
+7738.619 like I think we all are that's why I
+7740.719 relate with a lot of the research that I
+7742.219 do and I remember I got married in my
+7745.099 third year the year after my second year
+7746.84 and my wife and I or my fiance at the
+7749.179 time we started going to the gym
+7750.739 together in the morning and my hours
+7752.84 were a little better so I would actually
+7754.34 be able to exercise before I operated
+7756.26 that day and I operated almost every day
+7758.06 as a third year resident so I remember
+7759.739 I'd get to the gym really early in three
+7761.84 months I lost like 20 pounds and I
+7763.52 wasn't trying to lose weight I just was
+7764.96 sleeping better and taking care of
+7766.82 myself and I remember when we got
+7768.5 married I I you know I fit into a tuxedo
+7771.8 that I had in college or it would have
+7773.239 fit me in college it actually was a new
+7774.5 tuxedo admittedly but it was the same
+7775.88 size as my tuxedo from college so I I
+7778.58 think that um I've always related with
+7781.04 the problems that our our patients have
+7782.96 to a certain extent and you know I when
+7786.199 I've been most vulnerable which is what
+7787.88 I was working the hardest with the least
+7789.679 amount of sleep I I related with it the
+7791.48 most and
+7792.98 yes exercise for me has always been my
+7795.32 tool
+7796.4 um more recently exercise some some you
+7800.179 know strength training I think is
+7801.38 important compared with cardio
+7803.54 um I don't do enough of either
+7805.4 um but I definitely do some and that
+7806.9 helps meditation helps me a bit we I do
+7809.48 that every night before I go to sleep
+7811.4 um
+7812.179 you know I I use an app for it it's
+7814.52 probably not the best way to do
+7815.719 meditation but if it keeps you doing it
+7817.46 regularly that's the best way to do it
+7819.199 Andrew I couldn't agree with you more
+7820.76 you know it's one of those things where
+7822.02 I look forward to it every night and you
+7824.36 know sometimes my wife falls asleep and
+7827.06 I come to bed a little later and I
+7828.619 whisper I'm like are you okay if I turn
+7829.76 the app on so you know she does the same
+7832.34 to me because I think we both value it
+7834.02 and I think that's that that's been very
+7835.58 helpful I didn't have that tool probably
+7838.159 what I needed it most but I have it now
+7839.719 and it's very helpful
+7841.58 I really appreciate you sharing those
+7843.86 tools a number of people uh I'm guessing
+7846.619 out there might want to become
+7847.699 neurosurgeons I really believe that in
+7849.739 hearing today's conversation that you
+7851.599 will spark an interest in medicine and
+7853.52 or neurosurgery
+7855.38 um well certainly you need to be a a
+7857.119 physician before you can become a
+7858.5 neurosurgeon so end neurosurgery in some
+7860.36 cases and that would be beautiful and I
+7862.46 predict that will be happen that will
+7863.96 happen excuse me as a consequence of
+7866.599 um what you've shared today I really
+7869.06 appreciate your mentioning of the um
+7871.76 emphasis and appreciation on quality
+7874.58 time uh I very much see this as quality
+7877.52 time I know that our listeners were will
+7880.159 as well really want to thank you for
+7881.659 taking time out of your not just
+7883.099 immensely busy but very important
+7884.78 schedule because again the work that
+7887.119 you're doing is really out there on that
+7889.639 cutting I don't want to say bleeding
+7891.86 edge because in this context it's not
+7893.179 going to sound right but on that extreme
+7895.52 Cutting Edge of what we understand about
+7897.199 how the human brain works and how it can
+7898.82 be repaired
+7900.02 um they're doing marvelous work will
+7902.0 Point people to various places they can
+7904.639 find you online and should they need
+7908.239 your the help of your clinic to to your
+7910.4 clinic and your laboratory as well so on
+7912.86 behalf of everybody and and myself as
+7915.08 well thank you so so very much I'm
+7917.3 honored thank you so much for having me
+7918.739 thank you for joining me today for my
+7920.54 discussion with Dr Casey Halpern about
+7922.639 the use of deep brain stimulation and
+7924.86 novel Technologies for the treatment of
+7926.42 eating disorders and movement disorders
+7928.4 of various kinds for those of you that
+7930.199 are interested in learning more about Dr
+7931.52 halpern's research please see the links
+7933.739 in our show note captions that include
+7935.239 links to his laboratory website and to
+7937.82 his Clinic as well as various research
+7940.28 Publications that are available in
+7942.02 complete form as downloadable PDFs if
+7944.599 you're learning from and or enjoying
+7945.98 this podcast please subscribe to our
+7947.84 YouTube channel that's a terrific zero
+7949.76 cost way to support us in addition
+7951.619 please subscribe to the podcast on both
+7953.54 Spotify and apple and on both Spotify
+7955.699 and apple you can leave us up to a five
+7957.739 star review if you have questions for us
+7960.139 or comments or feedback of any kind
+7962.06 please put that in the comment section
+7963.92 on YouTube we do read all the comments
+7966.38 please also check out the sponsors
+7968.119 mentioned at the beginning of today's
+7969.32 episode that's the best way to support
+7971.179 this podcast not so much today but in
+7973.34 many previous episodes of The huberman
+7974.78 Lab podcast we talk about supplements
+7976.52 while supplements aren't necessary for
+7978.26 everybody many people drive tremendous
+7980.3 benefit from them for things like
+7981.56 enhancing sleep and focus and hormone
+7983.42 optimization the huberman Lab podcast
+7985.52 has partnered with momentous supplements
+7987.26 if you'd like to see the supplements of
+7988.46 the huberman Lab podcast has partnered
+7989.84 with momentos on you can go to live
+7991.699 momentous spelled ous so
+7993.44 livemomentis.com huberman and there
+7996.32 you'll see a number of the supplements
+7997.76 that we talk about regularly on the
+7999.02 podcast I should just mention that that
+8000.639 catalog of supplements is constantly
+8002.26 being updated if you haven't already
+8003.699 signed up for the neural network
+8004.719 newsletter this is a monthly huberman
+8006.4 Lab podcast newsletter in which you get
+8008.86 some brief show note summaries as well
+8011.44 as a lot of actionable tools in summary
+8013.3 form many people find these very useful
+8015.34 for distilling out the vast amount of
+8017.8 information that we cover on the podcast
+8019.119 so for instance if you go to
+8020.739 hubermanlab.com com you can click on the
+8022.84 menu click to neural network newsletter
+8025.9 or simply newsletter and you can sign up
+8027.94 just give us your email we do not share
+8029.8 your email with anybody and again it's
+8031.96 completely zero cost we also have
+8033.639 examples of previous newsletters that
+8035.56 you can download immediately without
+8036.639 having to sign up for anything and
+8038.199 decide whether or not you want to sign
+8039.34 up again that's the neural network
+8040.48 newsletter at hubermanlab.com if you're
+8043.179 not already following us on social media
+8044.92 we are huberman lab on Instagram on
+8047.079 Twitter on Facebook and on LinkedIn and
+8049.54 especially on Instagram and on Twitter I
+8052.36 cover many of the tools that are
+8054.04 discussed on the human Lab podcast but
+8055.599 also a lot of Science and science-based
+8057.099 tools not covered on the huberman Lab
+8059.02 podcast again it's huberman lab on all
+8060.88 platforms once again thank you for
+8062.679 joining me today for my discussion with
+8064.239 Dr Casey Halpern I hope you learned as
+8066.34 much as I did and as always thank you
+8068.98 for your interest in science
+8070.41 [Music]

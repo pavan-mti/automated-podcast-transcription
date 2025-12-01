@@ -1,0 +1,4238 @@
+0.37 - Welcome to the Huberman Lab Podcast,
+2.35 where we discuss science
+and science based tools
+4.93 for everyday life.
+9.27 I'm Andrew Huberman,
+10.21 and I'm a professor of
+neurobiology and ophthalmology
+12.92 at Stanford School of Medicine.
+14.73 Today, we are going to discuss sugar,
+16.89 in particular, how our
+nervous system regulates
+18.99 our sugar intake and our
+are seeking of sugar.
+22.13 We're also going to discuss how sugar
+24.33 regulates our nervous system.
+25.84 And as you'll soon learn,
+27.28 sugar really impacts our brain and body
+29.09 by two main mechanisms.
+30.95 One of those mechanisms is based on
+32.62 the sweet taste of sugar,
+which itself is rewarding.
+35.97 Even if you're not much of a sweet tooth,
+37.66 I confess I'm not,
+39.09 most people enjoy sweet tastes
+more than bitter tastes.
+43.13 And the sweet taste of
+sugar and its various forms,
+46.94 is strongly reinforcing,
+48.51 meaning it triggers the
+activation of neurons,
+50.82 nerve cells in the brain and body,
+52.33 that make us want to consume
+more of that sweet substance.
+56.07 Incidentally, sweet tastes also
+make us want to eat more of
+59.49 other substances as well.
+61.17 You may be familiar with that phenomenon.
+62.98 Now sugar also triggers
+mechanisms in the brain and body
+65.84 based on its nutritive content,
+67.9 independent of its sweetness.
+69.72 What that means is that
+the actual caloric content
+74.05 and the way that sugar interacts
+with your nervous system
+76.82 at a subconscious level,
+without your awareness,
+79.91 also impacts your craving and seeking
+82.06 of sugar and other foods.
+84.5 Today, we are going to
+discuss what happens
+86.53 when you ingest sugar in
+terms of your body's reaction
+90.06 and your brain's reaction.
+91.67 We are also going to
+talk about what happens
+93.07 when you don't ingest enough sugar.
+95.43 'Cause it turns out sugar
+is such a powerful fuel
+98.5 for the brain
+99.34 that under conditions
+where people don't ingest
+101.43 enough sugar, or where their
+so-called blood glucose,
+104.4 which is basically blood
+sugar of a particular form
+107.0 gets too low, their neurons
+don't function as well.
+110.7 That said, there are conditions
+of very low blood sugar
+113.53 in which neurons can function even better.
+116.23 So today we are going to
+talk about the ins and outs,
+118.58 the ups and downs of sugar
+119.98 as it relates to your nervous system.
+121.48 And by the end of this episode,
+122.94 I'm confident that you
+have a much clearer picture
+125.34 as to how much sugar
+you should be ingesting,
+128.61 whether or not you should avoid sugars
+130.44 that you're currently eating,
+131.74 and you will certainly
+understand much, much more
+134.34 about the energy and fuel sources
+that your brain relies on,
+137.77 which I'm certain will allow you to make
+139.75 better informed choices about
+the foods you eat and avoid
+142.61 toward mental health, physical
+health, and performance.
+145.33 I'm pleased to announce that
+I'm hosting two live events
+147.98 this May.
+148.98 The first live event will be
+hosted in Seattle, Washington
+151.72 on May 17th.
+153.2 The second live event will be hosted
+154.8 in Portland, Oregon on May 18th.
+157.2 Both are part of a lecture series entitled
+159.21 The Brain-Body Contract,
+160.77 during which I will discuss
+science and science based tools
+163.83 for mental health, physical
+health and performance.
+166.44 And I should point out that
+while some of the material
+168.89 I'll cover will overlap with
+information covered here
+171.56 on the Huberman Lab Podcast,
+172.987 and on various social media posts.
+175.01 Most of the information I will
+cover is going to be distinct
+178.19 from information covered on
+the podcast or elsewhere.
+181.08 So once again, it's Seattle on May 17th,
+183.61 Portland on May 18th,
+184.94 you can access tickets by
+going to Hubermanlab.com/tour.
+189.02 And I hope to see you there.
+190.52 Before we begin,
+191.4 I'd like to emphasize that this podcast
+193.03 is separate from my teaching
+and research roles at Stanford.
+195.63 It is however part of my desire and effort
+197.52 to bring zero cost consumer information
+199.49 about science and science related tools
+201.39 to the general public.
+202.74 In keeping with that theme,
+204.0 I'd like to thank the
+sponsors of today's podcast.
+206.74 Our first sponsor is Thesis.
+208.75 Thesis makes what are called nootropics,
+211.05 which means smart drugs.
+212.8 Now, to be honest,
+213.633 I am not a fan of the term nootropics,
+216.13 I don't believe in smart drugs
+218.07 in the sense that I don't believe
+219.24 that there's any one substance
+or collection of substances
+222.09 that can make us smarter.
+223.78 I do believe, based on science, however,
+226.13 that there are particular neural circuits
+227.67 and brain functions that
+allow us to be more focused,
+230.21 more alert, access creativity,
+be more motivated, et cetera.
+233.93 That's just the way that the brain works,
+235.33 different neural circuits
+for different brain states.
+237.84 And so the idea of a nootropic
+that's to make us smarter
+240.32 all around,
+241.153 fails to acknowledge that
+smarter is many things.
+244.26 If you're an artist, you're a musician,
+245.64 you're doing math,
+you're doing accounting,
+247.73 at different parts of the
+day, you need to be creative.
+249.38 These are all different brain processes.
+251.6 Thesis understands this.
+253.09 And as far as I know they're
+the first nootropics company
+255.44 to create targeted nootropics
+for specific outcomes.
+258.72 They only use the highest
+quality ingredients,
+260.28 which of course is essential.
+261.62 Some of those I've talked
+about on the podcast,
+263.31 things like DHA, Ginkgo
+biloba, phosphatidylserine.
+267.2 They give you the ability to
+try several different blends
+269.27 over the course of a month,
+270.53 discover which nootropics work best
+272.27 for your unique brain chemistry
+and genetics and goals.
+275.56 And with that personalization,
+277.5 design a kit of nootropics
+279.46 that's ideal for the different
+brain and body states
+281.81 you want to access.
+282.86 I've been using Thesis for
+more than six months now,
+285.16 and I can confidently
+say that their nootropics
+286.743 have been a total game changer.
+288.78 My go-to formula is the Clarity Formula,
+291.46 or sometimes I'll use their
+Energy Formula, before training.
+294.6 To get your own personalized
+nootropic starter kit,
+296.63 go online to take thesis.com/huberman.
+299.56 Take a three minute quiz
+300.56 and Thesis will send you
+four different formulas
+302.55 to try in your first month.
+304.19 That's takethesis.com/huberman
+306.36 and use the code Huberman
+checkout for 10% off
+309.11 your first order.
+310.01 Today's episode is also brought to us
+311.5 by Athletic Greens, now called AG1.
+314.44 Athletic Greens is an all in one
+316.01 vitamin, mineral and probiotic drink.
+318.41 I've been taking Athletic
+Greens since 2012,
+321.28 so I'm delighted that they're
+sponsoring the podcast.
+323.73 The reason I started
+taking Athletic Greens
+325.197 and the reason I still
+take Athletic Greens
+326.87 once or twice a day is
+that it helps me cover
+329.15 all of my basic nutritional needs.
+330.91 It makes up for any
+deficiencies that I might have.
+333.41 In addition, it has probiotics,
+335.42 which are vital for microbiome health.
+338.03 I've done a couple of
+episodes now on the so-called
+340.66 gut microbiome and in the ways in which
+343.28 the microbiome interacts
+with your immune system,
+345.75 with your brain to regulate mood,
+347.65 and essentially with
+every biological system
+349.81 relevant to health throughout
+your brain and body.
+352.57 With Athletic Greens, I
+get the vitamins I need,
+354.35 the minerals I need,
+355.35 and the probiotics to
+support my microbiome.
+358.13 If you'd like to try Athletic Greens,
+359.52 you can go to athleticgreens.com/huberman
+362.17 and claim a special offer.
+363.64 They'll give you five free travel packs,
+365.41 which make it easy to
+mix up Athletic Greens
+367.13 while you're on the road.
+368.26 Plus a years supply of Vitamin D3+K2.
+372.113 There are ton of data now
+showing that vitamin D3
+373.9 is essential for various aspects
+375.73 of our brain and body health.
+377.02 Even if we're getting a lot of sunshine,
+379.12 many of us are still
+deficient in vitamin D3.
+381.5 And K2 is also important
+because it regulates things like
+384.07 cardiovascular function,
+calcium in the body, and so on.
+387.47 Again, go to athleticgreens.com/huberman
+390.27 to claim the special offer
+of the five free travel packs
+392.75 and the year's supply of Vitamin D3+K2.
+395.47 Today's episode is also
+brought to us by InsideTracker.
+398.47 InsideTracker is a
+personalized nutrition platform
+401.07 that analyzes data from your blood and DNA
+403.69 to help you better understand your body
+405.26 and help you reach your health goals.
+407.15 I've long been a believer in
+getting regular blood work done
+409.92 for the simple reason
+that many of the factors
+412.26 that impact your immediate
+and long term health
+414.32 can only be assessed with
+a quality blood test.
+416.85 What's unique about InsideTracker
+418.05 is that while there are a lot
+of different tests out there
+420.72 for hormones and metabolic
+factors, et cetera,
+423.41 with InsideTracker,
+424.243 you get the numbers back
+in terms of your levels,
+426.54 but they also give you
+very clear directives
+428.56 in terms of lifestyle,
+nutrition, and supplementation,
+431.27 that can help you bring
+those values into the ranges
+433.9 that are best for you
+and your health goals.
+435.98 And that's very different than
+a lot of the other programs
+438.22 where you get a lot of information,
+439.053 but you don't really know what
+to do with that information.
+441.38 InsideTracker makes that
+all very easy to understand
+444.04 and very actionable based
+on the very easy to use
+446.93 dashboard at InsideTracker.
+448.64 If you'd like to try InsideTracker,
+450.11 you can visit inside tracker.com/huberman,
+452.64 to get 20% off any of
+InsideTracker's plans.
+455.27 Just use the code Huberman at checkout.
+457.58 Okay, let's talk about sugar,
+459.3 let's talk about how
+sugar impacts your brain,
+461.63 and how your brain impacts
+your pursuit or your avoidance
+464.8 of sugar.
+466.31 Let's get a few things
+out of the way first.
+468.44 The first thing is that there's nothing
+470.15 inherently bad about sugar.
+472.41 I know the word sugar
+gets a bad rap nowadays,
+475.4 and indeed, you're going to
+hear over and over again,
+477.68 during this podcast,
+478.87 that consuming a lot of refined sugars,
+481.34 in particular high fructose corn syrup,
+483.68 is known to have a very
+large number of bad effects
+487.41 on the brain and body.
+488.33 I don't know that there's anyone
+489.49 that really debates that anymore.
+491.71 Even if we just agree, and
+I think we should all agree,
+495.47 on the so-called calories in,
+calories out principle, right?
+498.81 It's a principle thermodynamics
+500.38 that if we ingest more
+energy than we burn,
+503.44 we are going to gain weight.
+504.56 If we ingest less energy than we burn,
+507.43 we are generally going to lose weight.
+509.17 And if the two things are in balance,
+511.4 ingestion and burning of energy,
+514.38 well, then we're going to maintain weight.
+516.61 So everyone agrees on
+that, I agree on that.
+519.16 But beyond, there are a number of ways
+521.67 in which particular nutrients,
+523.48 in the case of today's episode, sugar,
+525.82 impact the way that the brain works,
+528.46 such that we tend to seek out
+more of particular nutrients.
+532.41 For instance, if we eat sugar,
+534.74 there are two, or at least two mechanisms,
+537.42 by which we will crave more sugar.
+539.53 I think most people are
+aware of that experience,
+541.18 but today I'm going to explain
+exactly how that works.
+543.69 But also that when we ingest sugar
+546.6 it has a bunch of different effects
+548.25 on the way that our neural circuits work
+550.97 that can allow us to be
+more or less focused,
+553.58 more or less agitated,
+a more or less happy,
+556.32 more or less depressed in some cases.
+559.77 So today, as we explore this
+thing we're calling sugar,
+561.937 we are going to explore
+that mainly in the context
+564.68 of the nervous system,
+566.06 but also in the context of how
+567.72 the nervous system regulates
+569.11 many, many functions and behaviors
+571.29 that are important to all of you,
+573.33 your ability to think,
+your ability to extra size,
+575.53 your ability to gain weight, lose weight,
+577.34 whatever your goals might happen to be,
+579.66 sugar plays a critical role
+in achieving those goals.
+582.85 And in some cases,
+584.2 if you're ingesting too
+much at the wrong times
+586.16 or the wrong forms, sugar can
+actually impede those goals.
+589.62 In fact, sugar can prevent
+all the right behaviors
+592.62 from allowing you to achieve
+the goals that you want.
+595.47 So today we are going to place sugar
+597.0 into its proper context.
+599.07 The way I want to start off by doing that
+601.13 is to tell you a little bit
+of what happens when we eat
+604.26 and a little bit of what the brain does
+606.84 to respond to those events.
+609.49 So what happens when we eat?
+610.9 Well, I've done an entire
+episode on metabolism.
+614.52 So if you're interested
+in the full cascade
+617.72 of hormonal and neural events
+that occurs when we eat,
+620.86 please check out that episode.
+622.41 But for the sake of today's discussion,
+624.05 let's just take a, what
+I call top contour view
+626.94 of the hormonal response
+to ingesting food.
+630.2 Now, anytime we eat,
+631.76 that is the consequence
+of a number of things
+633.51 that happened before we ate.
+636.01 There's a own in our
+brain body called Ghrelin,
+638.53 spelled G-H-R-E-L-I-N.
+640.99 Ghrelin is a hormone that increases
+644.09 depending on how long it's
+been since we ate last.
+646.89 So the longer it's been
+since we had a meal,
+649.75 Ghrelin levels are going to be
+higher and higher and higher,
+652.68 and it essentially makes us hungry
+654.36 by interacting with particular neurons
+656.81 in an area of the brain called
+657.927 the arcuate nucleus of the hypothalamus
+660.42 and some other areas as well,
+like the lateral hypothalamus.
+663.8 You don't need to know the
+names of those brain areas,
+665.43 but if you'd like to
+know them, there they are
+668.39 Ghrelin increases, it
+tends to make us hungry.
+671.58 And then when we eat,
+673.5 typically what happens is
+Ghrelin levels go down.
+676.51 So it's a very logical system.
+678.26 Now, when we eat, assuming
+that we eat carbohydrates,
+682.21 but even if we just eat
+some protein and some fats,
+685.0 we will experience a
+slight, or in some cases,
+688.5 a large rise in blood glucose,
+691.06 blood glucose is simply blood sugar.
+693.7 And the body and brain, we
+should say in particular,
+697.71 the nervous system doesn't function well
+700.06 if blood sugar is too high or too low.
+702.31 So as a consequence, we
+have another hormone,
+704.37 which is released from the pancreas,
+705.69 which is called insulin,
+706.84 which helps regulate the amount of glucose
+709.67 in the bloodstream.
+710.63 So even if you were to
+ingest an entire cup,
+713.89 an eight ounce cup of pure table sugar,
+716.09 which would send your blood
+glucose very, very high,
+718.69 assuming that you have a
+normal insulin response,
+720.54 that you're not diabetic,
+722.35 that insulin response would help clamp
+724.52 that blood glucose level
+so that it did not cause
+727.48 damage to your brain and body.
+729.76 Because if blood sugar goes too high,
+731.33 it's actually toxic to neurons
+and other cells of your body,
+734.15 it can kill them off.
+735.16 And neurons of the central nervous system,
+737.32 meaning the brain and spinal cord,
+738.45 once they are dead, they do not come back.
+740.35 So your biological systems understand this
+743.58 at a biological level that is,
+745.29 and prevent that death of
+cells due to high blood sugar,
+748.63 by keeping insulin around,
+751.38 in order to clamp blood glucose.
+753.54 Diabetics, we call them
+type one diabetics,
+755.71 who don't make insulin,
+756.86 have to take insulin when
+they eat in particular,
+758.98 when they eat foods that
+raise their blood sugar,
+760.98 specifically to avoid that neurotoxicity
+762.777 and the other deleterious
+effects of high blood sugar.
+765.66 So Ghrelin is a hormone that goes up
+767.38 the longer it's been since we've eaten,
+769.11 it tends to stimulate hunger.
+771.25 When we eat, Ghrelin is suppressed.
+773.68 Blood glucose typically goes up,
+775.54 especially when we eat a
+carbohydrate containing meal.
+779.29 When blood glucose goes up,
+it's regulated in the body,
+782.47 meaning its peaks and its valleys
+784.77 are more or less smoothed out,
+786.65 and that glucose is sequestered,
+788.43 it's taken away where it
+needs to be taken away.
+791.02 And in certain locations,
+it's delivered to cells
+793.39 so that those cells can use the glucose.
+795.99 Now, one of the chief organs
+for glucose utilization
+799.24 is the brain,
+800.62 neurons are tremendously
+metabolically active.
+803.79 And their preferred mode of metabolism
+807.44 is glucose metabolism.
+808.85 In other words, neurons
+basically run on sugar,
+812.05 which is not to say that you
+should eat a lot of sugar.
+814.67 As you'll see today, there
+are states of mind and body,
+817.84 for instance, fasted states,
+819.54 in which people report
+having immense amounts
+822.58 of mental clarity and their blood glucose
+824.95 is actually quite low.
+826.37 So it is simply not the
+case that the more sugar
+829.0 that you ingest, the better
+that your brain will function.
+831.73 But it is the case that for most people,
+833.96 meaning people who are not on a ketogenic
+835.75 or very low carbohydrate diet,
+837.35 they're not adapted to
+low carbohydrate diets,
+839.5 that neurons in their brain and body
+842.1 are using glucose in order to function.
+844.1 That's what allows those neurons
+845.34 to fire electrical potentials,
+that's how we refer to it,
+847.77 firing, meaning sending electrical
+signals down their length
+851.1 to communicate with other neurons.
+853.26 To illustrate just how
+important glucose is
+855.49 for brain function,
+856.94 I'd like to describe a study
+that just recently came out,
+860.36 that sits on a long
+history of similar studies.
+863.14 But the one that just came out
+is particularly interesting.
+865.6 Now I want to point out
+that, unless I say otherwise,
+870.02 I'm going to refer to typical diets,
+872.82 meaning I have to believe
+that most people out there
+875.68 are in ingesting some starch
+some starch or carbohydrate.
+877.99 I do realize there are people following
+879.59 very low carbohydrate diets
+881.16 or moderately carbohydrate diets.
+882.69 I even know that there's
+some folks out there
+883.97 who are on the so-called carnivore diet,
+885.62 they only eat meat and
+organs, maybe a little fruit.
+888.6 But I'm going to assume
+that the vast majority
+890.7 of people listening ingest
+proteins and carbohydrates.
+895.13 So unless I say ketogenic, or
+I emphasize ketosis itself,
+898.92 which I will,
+899.89 I'm referring to a kind of typical diet
+901.45 where people are consuming fats,
+proteins and carbohydrates.
+904.56 I count myself as one such individual.
+907.72 At some point I might try the
+carnivore diet, who knows,
+910.04 I might I a pure vegan diet, who knows.
+912.72 But for my entire life up
+until now, I'm 46 years old,
+915.76 I've been a proud omnivore,
+917.67 meaning I've tried to eat
+high quality as much as I can,
+921.02 unprocessed foods,
+922.08 I try and really avoid
+highly processed foods.
+923.96 But I do eat from those
+three macronutrient groups,
+926.24 proteins, carbohydrates, and fats,
+928.19 and I'm going to assume
+that most of you do as well.
+930.86 The study I'd like to emphasize,
+933.89 recorded from neurons, nerve cells,
+936.12 in the brain, in particular
+in the part of the brain
+939.297 `that responds to visual images,
+941.7 the so called visual cortex.
+943.22 And neurons in the visual
+cortex are beautifully tuned,
+947.34 as we say, to particular
+features of what we see.
+952.05 The primary example of this,
+952.883 the kind of classic example,
+955.06 is if you put a little
+electrode next to a neuron
+957.62 in your visual cortex,
+959.26 or if we put you into
+an FMRI scanner machine,
+963.08 which can detect neural activity,
+964.59 and I were to show you a
+bunch of just little lines,
+968.93 bars of light, they could
+be dark bars of light,
+970.81 they could be light bars of light,
+973.47 on a screen in front of you.
+974.69 So some would be vertical,
+some would be horizontal,
+976.64 some would be at 45 degrees,
+978.41 what we would see is that
+some neurons respond best,
+983.17 meaning they fire a lot
+of electrical activity
+985.8 to vertical lines,
+986.74 other ones respond to horizontal lines,
+988.79 and others respond to 45 degree lines.
+991.67 And this so called orientation tuning,
+994.27 meaning because of the
+orientation of the line,
+996.1 is a cardinal classic feature of the way
+999.32 that your visual system is built.
+1001.18 And everything that you see,
+1003.59 whether it's a face or a
+dog or a cat or a landscape,
+1007.01 is built up from these very
+simple neuron responses.
+1011.21 In other words, when you look at a face,
+1013.62 there are neurons deep in the
+brain that respond to faces.
+1016.17 But the only reason that those neurons
+1017.95 can respond to those faces
+1019.24 is because they receive
+signals from neurons
+1021.21 in your visual cortex.
+1022.85 Some of which respond to vertical lines,
+1024.5 some of which respond to horizontal lines,
+1025.837 and some which respond to 45 degree lines.
+1028.26 And all of those are built up
+1030.06 in what we call a
+hierarchical representation,
+1032.03 which just fancy language for
+those are the building blocks
+1034.23 by which you see a face
+and you recognize a face.
+1036.71 And it's really an amazing phenomenon,
+1038.2 it happens very, very fast.
+1039.76 You never notice that you're doing this,
+1041.46 but everything is built up from these
+1042.75 fundamental orientation-tuned neurons.
+1046.08 Now orientation-tuned
+neurons are so fundamental
+1050.12 that they are the building blocks
+1051.87 by which you make up all
+other things that you see,
+1054.95 it's the way you read,
+1055.783 it's the way that you recognize
+faces, as I mentioned,
+1058.08 and everything else.
+1061.03 Experimentally, it's quite straightforward
+1063.2 to measure how sharply tuned
+one of these neurons is.
+1067.23 In other words, if I were
+to show you a vertical line
+1070.33 and find a neuron in your brain
+1071.73 that responds to vertical lines,
+1073.65 I could also ask whether
+or not that neuron fires
+1077.49 any electrical activity
+in response to a line
+1080.65 that's not quite vertical,
+1082.17 maybe just 10 degrees off
+vertical or 20 degrees
+1085.21 or 30 degrees.
+1086.11 And what I eventually would
+find is that that neuron
+1088.67 was orientation-tuned over a
+particular range of angles.
+1093.1 It's not only going to
+respond to vertical lines,
+1095.27 it's also going to respond to lines
+1096.61 that are about 10 degrees
+off vertical on either side,
+1099.33 but probably not much more, maybe 20,
+1102.28 but usually it's going to
+be anywhere from vertical
+1105.06 to just tilted slightly.
+1108.903 In the recent experiment
+that was published
+1110.94 in the journal, "Neuron,"
+Cell Press journal,
+1112.57 excellent journal,
+1113.92 the authors asked a really
+interesting question,
+1116.2 they asked whether or not
+the sharpness of tuning,
+1118.96 the precision of orientation
+tuning of these neurons
+1121.98 is dependent on blood glucose level.
+1124.82 So just to cut to the chase,
+to give you the answer,
+1127.13 what they found is that
+when subjects are well fed,
+1131.25 neurons that responded to vertical,
+1133.22 responded very strongly to vertical,
+1135.07 but not very much at all to other angles,
+1137.87 of what we call stimuli,
+1139.7 so lines that are 10
+degrees or 20 degrees off.
+1143.14 If they looked at neurons that
+were primarily tuned, right,
+1146.39 that preferred horizontal lines,
+they found the same thing.
+1149.8 So it wasn't something
+unique to vertical lines.
+1151.42 What they basically
+found was the sharpness,
+1153.69 the precision of tuning
+of neurons in the brain,
+1156.55 was best when subjects were fed.
+1159.89 And conversely, when subjects were fasted,
+1162.92 the orientation tuning of these
+neurons became much broader.
+1167.64 What it meant was that a neuron
+1169.04 that normally would
+only respond to vertical
+1171.01 now responded to other
+angles of lines as well.
+1173.76 You might say, well, that's great, right,
+1175.3 these neurons that at one
+point could only do one thing
+1177.1 are now tuned to other things.
+1178.16 But it's not so great
+because what that means
+1181.1 is that in the fasted state,
+1183.62 your perception of the outside
+world is actually distorted,
+1187.53 it's blurred, it's not as
+precise as it is when you're fed.
+1191.28 And when I say fed,
+1192.45 what I really mean is when
+glucose is available to neurons.
+1195.55 Now, for some of you, maybe many of you,
+1198.43 and including myself,
+intermittent fasting,
+1201.38 or some variant thereof, is
+actually a state that I like.
+1204.21 It allows me to focus.
+1205.25 For instance, as I mentioned before,
+1206.95 and even earlier in this podcast,
+1208.19 I tend to eat my first meal
+sometime around 11:00 AM.
+1211.7 And then I generally eat my last meal
+1213.82 sometime around 8:00 PM,
+plus or minus an hour
+1216.0 on either side, I'm not
+super strict about it.
+1217.61 And occasionally I'll
+wake up really hungry
+1219.01 and I'll eat something before 11:00 AM.
+1220.55 I'm not super strict about this
+intermittent fasting thing.
+1223.95 It just seems to be how
+my appetite works best,
+1226.29 given my schedule, et cetera.
+1229.43 In the morning, I tend to be most focused.
+1231.93 And I always associated that with the fact
+1234.22 that I was fasted.
+1235.27 I ingest water and some caffeine about
+1237.37 90 minutes after waking
+up, I drink my caffeine,
+1239.47 but I hydrate from the time I
+get up, et cetera, et cetera.
+1241.8 And I know a lot of other people
+1243.8 have had the experience of being fasted
+1245.86 and feeling like they have
+a lot of mental clarity.
+1248.49 When you are in a fasted state,
+1250.34 typically you are going to use fuels
+1253.01 that are available to the neurons,
+1254.87 based on your intake
+of food the day before,
+1257.94 maybe you're using some glycogen,
+1259.73 maybe you're using some fat,
+1261.32 maybe you're using some blood sugar,
+1263.25 that's derived from other
+storage sites in the body.
+1266.15 You don't actually use
+fat as a fuel source
+1269.49 for neurons under typical conditions.
+1271.52 But there are ways in
+which proteins and fats
+1273.83 and glycogen, et cetera,
+are converted into fuel
+1276.6 that neurons can use.
+1278.17 What's interesting about this study
+1279.69 is that the study says that when well fed,
+1283.29 meaning when blood glucose, sugar,
+1285.86 is at a properly elevated
+level in the bloodstream,
+1290.5 it can be delivered to the brain
+1292.2 in a way that allows neurons to work best,
+1294.15 which is really all just
+to underscore the point
+1296.23 that I made earlier,
+1297.063 which is that your nervous system
+1298.33 is extremely metabolically
+demanding, and it loves glucose,
+1301.93 neurons love glucose.
+1304.15 So the takeaway from this study
+1306.03 is not that you should avoid fasting,
+1308.02 the takeaway from this study
+1308.96 is that there are elements
+of the fasted state
+1311.34 in particular the elevations in things
+1312.82 like epinephrine and norepinephrine,
+1314.47 also called adrenaline and noradrenaline,
+1316.68 that can give us this
+kind of clarity of mind
+1318.873 that many people are
+pursuing when they fast.
+1321.56 That's kind of one of the
+reasons a lot of people fast,
+1323.41 they like the way that they
+feel, mentally and physically.
+1326.54 But I think it's only fair to point out
+1329.52 that glucose is the preferred
+source of fuel for the brain.
+1332.4 And this study that I mentioned
+is one of many studies
+1335.41 that have explored how nutritional status
+1337.73 or blood glucose status
+in the brain and body
+1340.13 influence neuronal tuning
+and neuronal function.
+1343.28 And it really points to
+the fact that ultimately,
+1346.96 your brain as an organ, is
+a glucose consuming machine.
+1351.07 Now, when you eat a food,
+1354.16 that food is broken down and
+if it contains carbohydrates,
+1357.68 it's going to be converted into glucose.
+1359.46 And that glucose can't get
+directly into the brain
+1361.67 as a fuel source.
+1362.503 It actually has to be carried across
+1363.83 the so-called blood
+brain barrier, the BBB,
+1366.7 and the actual metabolism of glucose
+1370.13 and the delivery of the
+glucose to the neurons
+1372.41 is carried out by a different cell type.
+1374.38 And it's a cell type that
+you should all know about
+1376.14 because it's the most abundant
+cell type in your brain,
+1379.38 and maybe even in your
+entire nervous system,
+1381.16 and that's the so-called astrocyte.
+1383.22 Astrocytes are one of
+several types of glia,
+1386.41 the word glia means glue.
+1388.12 But many people have taken
+that name, glia, glue,
+1391.63 to think that, oh,
+1392.74 the only thing that the
+astrocytes are doing
+1393.643 is just kind of holding things together.
+1395.5 Actually, the astrocytes
+are involved in delivering
+1398.17 glucose to the neurons,
+1399.7 they are critically involved in shaping
+1401.76 your neuronal function
+and brain plasticity,
+1404.01 the brain's ability to change
+in response to experience.
+1406.2 So these astrocytes are like the little
+1407.75 waiters and waitresses
+bringing glucose to the neurons
+1410.777 and the neurons are going
+to do the heavy lifting
+1412.57 that's involved in perception
+and behavior and action.
+1416.29 So if prior to this episode,
+1417.62 you didn't already realize
+that glucose, blood sugar,
+1420.81 is vital to the function of your brain
+1423.53 and other neurons of your
+nervous system, now you know.
+1426.93 And for those of you that have experienced
+1429.66 the increase in mental clarity
+1432.18 that comes after a properly
+timed, properly composed,
+1437.35 meaning it has the right
+macronutrients in the right ratios,
+1439.65 and a properly sized meal,
+1441.73 well then now you have justification
+1443.56 for eating something as
+a way to improve the way
+1446.54 that your brain works.
+1447.373 It turns out that your
+brain is going to work best
+1449.06 when it's got glucose available,
+1450.85 whether you like to fast or not,
+1452.35 that's just the reality of things.
+1453.88 The same thing is also true
+for the neurons in your body.
+1457.41 The way that you are able to
+move the limbs of your body,
+1459.77 the way you are able to perform exercise
+1462.65 or movement of any kind for that matter,
+1464.8 is because as neurons,
+called motor neurons,
+1467.43 send electrical potentials
+to the muscle fibers,
+1470.21 they release a neurotransmitter
+called acetylcholine,
+1472.57 which causes contraction
+in the muscle fibers,
+1474.48 and allows you to move your limbs.
+1476.73 Those neurons are also very
+metabolically demanding,
+1479.59 especially when you're doing
+1481.21 demanding types of physical work,
+1482.627 and that could be cycling
+or running or weightlifting
+1484.57 or yoga or whatever it may be.
+1486.94 Those neurons require a ton of glucose.
+1490.44 If you've ever had the
+experience of having to
+1492.46 think very hard about how
+you're generating a movement
+1495.38 or force yourself to continue
+to endure in a given exercise,
+1499.45 you might have thought,
+1500.283 oh, you know, I'm running out of fuel,
+1501.96 that's why I'm getting
+tired, it's hard to do.
+1504.32 That's actually the case sometimes,
+1506.44 but that's not always the case.
+1509.12 One of the reasons that it feels like work
+1511.31 is because your so called
+upper motor neurons,
+1513.37 the ones that control
+the lower motor neurons
+1514.96 in your spinal cord, which
+control your muscles,
+1517.21 they have to be very metabolically active.
+1519.11 It's one thing to engage
+in a reflexive movement
+1521.17 where you're just walking around
+1522.22 or if you're running continuously.
+1523.82 But when you suddenly have to
+focus on what you're doing,
+1525.99 and you have to generate specific patterns
+1527.82 of motor movement,
+1528.88 well, that feels demanding because one,
+1532.44 it increases the release of adrenaline
+1534.15 in your brain and body,
+1534.983 which makes you feel a little
+bit agitated and more alert,
+1537.2 but also deliberate thought,
+1540.18 deliberately controlling the way
+1541.75 that your brain and body is moving,
+1543.93 requires more glucose uptake,
+1545.82 more energy in those very neurons.
+1548.0 And this is also why after
+doing a long about of exercise,
+1550.7 you might be tired,
+1551.533 but also if you do a about of
+skill learning of any kind,
+1555.75 or if you've been reading
+and thinking about
+1557.55 what you're reading,
+1558.62 or if you had a intense
+conversation with somebody
+1561.45 where you're really
+forcing yourself to listen,
+1564.0 and hopefully they're
+listening to you too,
+1565.46 and you're really trying to
+parse what they're saying,
+1567.12 and maybe you're doing that right now,
+1568.39 and you're trying to really
+track something, that's work,
+1571.007 and that work requires
+glucose uptake by neurons,
+1573.65 both in the brain and in your body.
+1575.62 Now that we've established that glucose
+1577.11 is the preferred source of
+fuel for the nervous system,
+1580.54 I'd like to concentrate on
+a few of the other types of
+1583.61 sugars that we ingest on a common basis,
+1587.28 and the impact that those have
+1589.28 on brain function and body function.
+1593.55 I'd particularly like
+to focus on fructose.
+1595.76 Fructose, of course, is found in fruit,
+1597.39 it's also found in the infamous
+high fructose corn syrup,
+1600.45 which we will talk about today.
+1602.62 It's worth pointing out
+that the concentrations
+1604.41 of fructose in fruit
+1606.09 is quite low compared to the
+concentrations of fructose
+1608.87 in high fructose corn syrup.
+1610.39 High fructose corn syrup is
+approximately 50% fructose,
+1615.12 which turns out to be
+1616.03 an enormously high percentage
+of anything, really,
+1621.77 especially when we cut contrast that
+1623.08 to the concentrations
+of fructose in fruit.
+1625.61 Fruits have other types
+of sugars in them as well.
+1629.25 You know, the sucrose
+content of most fruit
+1631.17 and fruit juices is low.
+1633.19 Although there are some
+fruits like melons, peaches,
+1635.96 pineapples, and so forth,
+1637.63 that contain a little less
+than 10% or so of sucrose.
+1642.09 Things like mangoES can
+have a lot of sucrose.
+1644.55 But typically the amount of fructose,
+1646.42 fructose, I think is the
+proper pronunciation,
+1649.24 people are always correcting me.
+1650.37 Fructose is anywhere from
+1% to about 10%, right?
+1658.66 It's really going to vary quite a bit.
+1660.45 And many of you have probably heard
+1661.78 of the so-called glycemic index,
+1663.34 which is basically a measure
+of how fast blood sugar rises
+1666.13 after eating particular foods, et cetera.
+1668.44 We're going to set aside
+the glycemic index for now,
+1670.61 we will come back to it.
+1671.97 It has some relationship
+1673.45 to the concentrations
+of fructose in fruit.
+1675.83 But the point that I'd like to make
+1677.14 is that fructose as a sugar,
+1678.73 is handled very differently
+in the body than is glucose.
+1683.04 But I also want to emphasize that
+1686.35 because the percentage of
+fructose in fruit is rather low,
+1689.99 especially compared to
+high fructose corn syrup,
+1693.23 many people have demonized fructose
+1695.8 saying that fructose makes you fat,
+1698.5 or that fruit makes you fat.
+1700.77 If you look at the data,
+that's not really the case.
+1703.6 The fact of the matter is that
+1704.62 the concentrations of fructose in fruit
+1706.28 are so low that unless someone
+is consuming a lot of fruit,
+1709.46 or they're consuming a lot of fruit
+1711.32 on the backdrop of a highly processed diet
+1714.96 or a diet that has a lot of other stuff
+1716.6 that they might not want to be ingesting,
+1718.26 you can't really say that
+fructose is fattening.
+1720.3 I don't really think that
+there's any basis for saying that
+1722.86 fructose itself is bad.
+1724.41 Now high fructose corn
+syrup is a different issue,
+1727.51 and too much consumption of
+anything, fructose included,
+1730.85 whether or not it comes
+fruit or otherwise,
+1732.58 can be a problem for
+the ways that it impacts
+1735.39 the neural circuits that process sugar,
+1738.56 not just glucose, but fructose.
+1740.32 And so we'll illustrate those
+neural circuits in a bit,
+1742.34 and it'll become very clear to all of you,
+1744.8 regardless of whether or not
+1745.71 you have a background in
+biology or metabolism,
+1748.01 nutrition, or otherwise,
+1749.32 why ingesting very high
+concentrations of fructose
+1752.35 is not going to be a good thing
+1753.9 for the way that your brain functions.
+1756.69 One of the key distinctions
+between glucose and fructose
+1759.61 is that fructose most likely
+1761.98 cannot directly access the brain.
+1763.86 It actually needs to be converted
+into glucose in the liver.
+1767.58 And the way that conversion occurs
+1770.01 feeds back to a set of
+hormones and neural pathways
+1773.41 that we talked about earlier,
+1774.86 which have a lot to do with appetite.
+1776.54 And to just summarize what is
+now a lot of very solid data,
+1782.13 fructose and specifically fructose,
+1784.9 has the ability to reduce
+certain hormones and peptides
+1788.52 in our body whose main job
+is to suppress Ghrelin.
+1792.91 As you recall, Ghrelin is
+a hormone that increases
+1796.22 the longer it's been since we've eaten,
+1798.23 and Ghrelin makes us hungry
+1799.78 by stimulating particular
+neurons in our hypothalamus,
+1803.12 it actually makes us really want to eat.
+1805.24 And in particular, really
+makes us want to eat sugary
+1808.17 and fatty foods.
+1809.62 Fructose reduces the
+activity of the hormones
+1812.78 that reduce Ghrelin .
+1814.6 And so the net consequence of that
+1816.34 is that fructose increases Ghrelin.
+1819.75 So, although I and I think
+pretty much everyone out there,
+1824.34 say for a few individuals,
+1826.3 agrees that calories in and calories out
+1828.37 is the fundamental
+principle of weight loss,
+1830.32 weight maintenance or weight gain.
+1832.15 Ingesting fructose shifts
+our hormone system,
+1836.19 and as a consequence, our neural
+pathways within our brain,
+1839.9 the hypothalamus,
+1841.27 to be hungrier regardless of
+how many calories we've eaten.
+1847.54 Now I also want to be absolutely clear,
+1850.25 this does not mean that eating
+an apple or eating a melon
+1853.37 or eating a couple of
+apricots or something
+1855.69 is going to make you hyperphagic,
+1858.97 meaning it's going to
+make you just want to
+1860.2 eat, eat, and eat, that's
+simply not the case.
+1862.28 But if you compare fructose
+and you compare glucose,
+1865.88 not only are they metabolized differently
+1867.91 in the brain and body,
+but in addition to that,
+1870.93 fructose has this impact
+of reducing the hormones
+1874.64 that reduce hunger hormones
+in neural circuits.
+1877.99 And so fructose does
+have this kind of twist
+1880.74 in its phenotype, right?
+1883.62 Or I guess if fructose
+had a dating profile,
+1887.05 this would be a kind of a
+red flag in that profile,
+1891.27 because fructose itself,
+1893.73 while it's actually a pretty
+good fuel source in many ways,
+1898.09 and it's often packaged
+in things like fruits,
+1900.2 which bring along fiber
+and vitamins and minerals,
+1902.5 that I think for many of us are things
+1905.04 that we should be eating more
+of and ingesting more of,
+1907.32 it can suppress the pathways
+that suppress hunger.
+1911.05 And as a consequence,
+it can increase hunger.
+1913.77 So current recommendations for most people
+1917.0 are to eat more fruits and vegetables.
+1918.78 But for those of you that are
+trying to control your hunger,
+1922.23 ingesting a lot of fruit to
+is probably not going to be
+1925.613 a good idea.
+1926.446 Certainly, ingesting it from
+high fructose corn syrup
+1928.85 is not going to be a good idea
+1929.81 because of the enormous
+percentages of fructose
+1932.62 in high fructose corn syrup,
+50%, or sometimes even more.
+1935.73 But even from fruit,
+1937.22 some people will find that fruit
+1938.57 really quenches their appetite.
+1939.89 Other people will find that
+fruit stimulates their appetite.
+1942.487 And I suppose if you're trying
+to stimulate your appetite,
+1944.7 then ingesting more fruit
+might actually be advantageous
+1947.82 to you.
+1948.653 So fructose provides a bridge for us
+1951.38 between a particular kind
+of sugar, hormone function,
+1956.71 in this case Ghrelin and the hypothalamus.
+1959.61 which leads us to the next question,
+1961.05 which is what is it about sugar
+1963.83 that makes it such an
+attractive thing for us?
+1966.07 Why do we like it so much?
+1967.84 And the obvious answer that
+most people arrive at is,
+1971.01 well, it just tastes really, really good.
+1973.58 But that's actually not the way it works.
+1976.85 The rewarding property
+is as we say of sugar,
+1980.74 whether or not they come in
+the form of sucrose or fructose
+1983.89 or foods that increase
+glucose to a very high level,
+1988.71 actually is not just related
+to the taste of the foods
+1993.05 that produce that elevation
+1994.11 in glucose, sucrose, or fructose.
+1996.12 It is in part, but that's
+only part of the story,
+1999.35 and the rest of the story,
+once you understand it,
+2002.38 can actually place you in a
+position to much better control
+2005.84 your sugar intake of all kinds,
+2008.42 but also your food intake
+in ways that can allow you
+2010.65 to make much better choices
+about the foods you ingest.
+2013.4 And actually at this point,
+2014.45 I should probably give a confession,
+2016.77 I've said today, and I'll say it again,
+2018.84 and I've said it I'm pretty podcast.
+2020.27 I don't have much of a sweet
+tooth and indeed that's true.
+2022.51 And I can kind of pass
+on chocolate or ice cream
+2025.46 or things like that,
+2026.293 it seems like with each successive year,
+2028.1 sweet things are less
+and less appealing to me.
+2030.84 Of course, savory foods,
+anything that is really fatty,
+2036.13 salty, savory, those don't
+last long in my presence,
+2039.74 but I always say, I don't really
+like sweet things so much,
+2042.75 and I like sweet people,
+2044.21 but I don't tend to like
+sweet foods, which is true.
+2047.3 But there's probably one
+exception and that's mangoes.
+2050.48 And it turns out that mangoes
+2052.23 have the highest percentage
+of sugar in them,
+2054.68 in particular fructose, as
+well as other forms of sugars.
+2058.61 So what I do, because
+I love mango so much,
+2062.64 is I will have mangoes
+probably twice a week,
+2065.43 but I'll have them after some
+sort of resistance training
+2068.66 or hard run or something like that.
+2070.44 Because it is the case that
+after you exercise hard,
+2073.29 in particular exercise that is
+2074.96 of the high intensity variety,
+2077.02 that your body is more efficient
+at using circulating sugar.
+2081.78 It's able to store that
+or use that for fuel.
+2084.82 And so what I'll typically
+do is just take the mango,
+2087.67 I actually eat the peels too.
+2089.02 I know there probably some
+people are going to cringe
+2090.5 when they hear that,
+I find them delicious.
+2092.01 So I'll just bite into
+those things like apples,
+2093.56 I don't eat the pits, however.
+2095.37 So now I want to take us on a journey
+2097.37 into the nervous system to explain,
+2099.48 the pathways in the brain and body
+2101.52 that regulate our appetite for sugar.
+2104.49 Now, keep in mind what I
+already told you before,
+2107.04 which is that when we ingest foods,
+2108.63 they're broken down
+into various components
+2111.46 and glucose is going to
+be shuttled to the brain,
+2114.06 and of course, to other
+neurons in our spinal cord
+2116.08 and elsewhere, and to our muscles, cetera,
+2118.75 in order for all of those
+cells and organs and tissues
+2122.23 is to be able to function.
+2125.14 The fact that so many cells
+and organs and tissues
+2128.02 require glucose in order to function
+2130.45 has led to a situation where you have
+2133.42 dedicated neural machinery,
+pieces of your brain,
+2136.5 that are almost entirely,
+if not entirely devoted,
+2139.89 to seeking out of sugar or
+foods that contain sugars.
+2144.74 And to make sure that you
+not only seek those out,
+2148.32 but you know where those foods are
+2150.12 and that you ingest more
+and more and more of them.
+2153.53 And there are two main ways
+that these neural circuits work.
+2155.94 In fact, we can see that
+there are two neural circuits
+2157.97 entirely that work in parallel.
+2160.13 And this is a common theme
+throughout the nervous system,
+2164.37 and that's parallel pathways.
+2166.15 Parallel pathways are the
+ways that you can distinguish
+2168.64 light from dark,
+2169.78 parallel pathways are
+the ways that you can
+2171.32 distinguish high pitched
+sounds from low pitched sounds,
+2173.65 parallel pathways are the ways
+2175.07 that you can flex your muscles
+versus extend your muscles.
+2178.25 For instance,
+2179.083 if you move your wrist
+closer to your shoulder,
+2180.46 you're flexing your bicep and
+you're actually inhibiting,
+2183.68 you're actually preventing
+the action of your tricep.
+2185.37 If you move your wrist
+away from your shoulder,
+2188.6 you are essentially using
+your extensor, your tricep,
+2191.53 and you're inhibiting the
+activity of your bicep.
+2193.78 So for every function in your body
+2195.97 that you might think is
+controlled by one brain area
+2198.45 or one neural circuit,
+2199.95 almost always there are
+two or more so called
+2202.69 parallel pathways that ensure
+2204.67 that that particular behavior happens.
+2207.96 Now, in the case of sugar consumption,
+2211.06 the two parallel pathways
+involve one pathway
+2214.15 related to the actual taste
+and the perception of taste
+2219.05 that lead, not just you,
+2221.31 but every animal that we're aware of,
+2223.61 to seek more sweet containing foods.
+2228.09 The other parallel pathway
+2230.0 is related to the nutritive
+component of sweet foods.
+2234.84 Meaning the degree to which a given food
+2237.64 will raise blood glucose.
+2239.55 I want to repeat that.
+2240.56 One pathway in your brain
+and body is devoted to
+2243.9 getting you to seek out
+sweet tasting things
+2246.51 that you perceive as sweet,
+2248.36 and another parallel pathway is devoted
+2251.65 to getting you to seek out foods
+2253.89 that lead to increases in blood glucose.
+2257.2 It just so happens that the foods
+2258.99 that lead to big
+increases in blood glucose
+2261.68 typically are associated
+with that sweet taste.
+2264.9 Now, this is distinctly different
+2266.62 than the neural pathways
+that control seeking
+2268.98 of savory foods or salty
+foods or spicy foods,
+2273.25 for that matter, or bitter foods.
+2275.23 The sweet pathway is what
+we would call hardwired.
+2278.84 It exists, as far as we
+know, in every mammal,
+2281.0 it even exists in fruit
+flies, hence fruit fly.
+2284.07 Basically getting sweet
+stuff into the body
+2287.26 might seem like it has a
+lot to do with the taste,
+2289.44 but it has just as much to do
+with the nutritive components
+2293.91 that sweet tasting foods carry,
+2295.99 and the fact that your nervous system
+2297.89 and so many cells in your
+brain and body run on glucose.
+2302.22 If you recall earlier, I said,
+even if you ingest fructose,
+2305.57 fructose can be converted
+into glucose in the liver.
+2309.83 And I mentioned, of course,
+2310.8 that fructose may actually
+work directly on the brain,
+2312.73 that's still unclear for humans,
+2314.51 the jury's still out on that, we will see.
+2316.92 But the fundamental
+thing to understand here
+2319.96 is that when you think you
+want a piece of chocolate
+2322.48 or you think you want a piece of cake
+2324.16 or you're craving something sweet,
+2326.83 you are both craving the taste
+2328.65 and your neurons are literally craving
+2331.73 the nutritive components
+that arrive with that taste.
+2335.47 And simply by understanding that
+2337.19 can allow you to circumvent
+some of the sugar cravings
+2340.97 that you might otherwise be a
+complete hopeless victim to.
+2345.53 Also in this episode,
+I will talk about ways
+2347.61 that you can sort of undermine
+2349.4 or short circuit these
+circuits, if you will,
+2351.6 in order to reduce sugar
+cravings on a regular basis,
+2354.68 if that's your goal.
+2356.38 Two parallel pathways,
+2358.08 one of the parallel pathways
+2359.32 has to do with conscious perception.
+2361.11 So animals of all kinds
+of mice, rats and humans,
+2364.56 will prefer sugary taste
+to non-sugary taste.
+2370.33 When we eat something that tastes sweet,
+2373.25 we register that sweet taste
+by way of sweet receptors,
+2377.89 literally little ports
+or portals of neurons
+2381.91 on our tongue and on our pallet,
+2384.18 a lot of people don't realize this,
+2385.18 but there are a lot of taste
+receptors on the soft pallet
+2388.31 and around the mouth, on
+the sides of the mouth.
+2390.71 So you're actually tasting things,
+2391.96 not just with your tongue,
+but with your entire mouth
+2393.92 and your pallet.
+2394.86 So when you ingest something sweet,
+2397.36 very quickly there are signals
+sent from those neurons
+2399.84 in your mouth to brain areas
+that cause you to seek out
+2404.31 or at least pay attention to,
+2405.98 the source and the abundance
+of those sweet things.
+2408.81 They literally change your perception.
+2411.45 In fact, there are beautiful
+neuroimaging studies
+2413.98 that show that when people
+ingest a sugary drink,
+2418.01 their perception of images
+of foods change very much
+2422.26 to make those foods
+appear more appetizing,
+2424.81 and not just foods that contain sugar.
+2428.35 Results of those studies do show
+2430.06 that there's an increase for instance,
+2431.44 in the perception of detail
+and images of ice cream,
+2435.44 after you ingest a sweet drink
+2436.98 or even if you put like a
+hard candy into your mouth,
+2440.21 it will make you seek
+out sugary things more,
+2442.26 it will make sugary things
+look more appetizing,
+2444.19 but also other foods, more appetizing.
+2446.94 So I think it's important that
+people recognize that fact,
+2449.06 that when you have a
+sweet taste in your mouth
+2451.73 or when you've tasted something
+sweet within your mouth,
+2454.91 I should say, your perception
+of has immediately shifted.
+2459.75 These are fast neural pathways.
+2461.58 We'll get into some of the
+brain structures in a moment,
+2463.79 but these are fast neural pathways
+2465.51 that shift your entire self
+toward seeking more sugary stuff
+2470.98 and more food generally.
+2472.77 Now, does that mean that
+you should never ingest
+2474.83 anything sweet?
+2475.88 No, certainly I'm not saying that,
+2478.69 everyone has to decide for themselves
+2480.08 what the appropriate
+amount of sugar intake is,
+2482.15 but I find it remarkable when people say,
+2484.93 oh, you know, I need to get my sugar fix,
+2486.93 or I need to have my chocolate,
+2488.7 or I need to have a
+little bit of something
+2489.96 to just kind of take care
+of that sugar appetite.
+2492.66 Because in taking care
+of that sugar appetite,
+2495.29 maybe for the very disciplined of you,
+2496.74 you can just have that
+one piece of chocolate
+2498.047 and it's great, and you can relish in it,
+2500.17 but it does shift the
+way that you perceive
+2503.38 other foods as well.
+2504.55 And the way it does that is through our,
+2507.46 probably if you're listener
+this podcast, now old friend,
+2510.52 but incredible neuro modulator, dopamine.
+2513.91 Dopamine is a molecule
+that is released from
+2516.08 several places in the brain.
+2517.79 There's a so-called
+mesolimbic reward pathway,
+2520.04 which is a whole set of places
+in the brain or circuits,
+2522.53 designed to get us motivated and craving
+2525.23 and in pursuit of things.
+2526.84 And then of course there
+are areas of the brain
+2528.64 that are involved in movement
+2529.73 that are linked up with those
+areas involved in motivation.
+2533.65 That makes perfect sense.
+2534.483 Why would you have a brain
+area involved in motivation
+2537.26 if you couldn't actually do
+something with that motivation?
+2539.1 So the way that your brain is designed
+2541.0 is when there's an increase in dopamine,
+2542.94 in the mesolimbic reward pathway,
+2544.44 there are signals sent
+to an area of the brain
+2546.34 called the striatum,
+2547.19 we're going to spend a
+little bit of time today
+2548.57 in the striatum.
+2549.46 It's got a dorsal part,
+meaning in an upper part
+2551.6 and a ventral part,
+which means a lower part.
+2553.86 And the dopamine sent to those area,
+2556.25 places us, excuse me,
+into modes of action,
+2559.5 to pursue particular things.
+2563.36 Sugar or sweet tastes, I should
+say, to be more specific,
+2567.02 have an incredibly potent ability
+2569.62 to activate dopamine release
+2571.44 within the mesolimbic reward pathway.
+2573.63 This has been shown over
+and over and over again
+2577.31 in animal models and in humans.
+2580.21 This is especially true, I should mention,
+2583.51 through the ingestion of sweet liquids.
+2586.75 Now this becomes a very
+important point to us
+2588.99 a little later on when we
+talk about the proliferation
+2592.79 of sodas and sweet drinks,
+and dare I even say,
+2597.2 non-sugar or diet sodas,
+2599.49 we're going to get into
+that a little bit later.
+2600.78 They are perhaps one of
+the most third rail topics
+2603.52 in nutrition.
+2605.09 But when we ingest something sweet,
+2608.54 the perception of that sweet taste
+2610.35 increases dopamine in the
+mesolimbic reward pathways,
+2613.27 which then are conveyed to
+pathways for motor behavior,
+2616.63 and in general, place us
+into modes of focused action
+2619.7 toward getting more of whatever was sweet.
+2622.92 Again, for those of you
+that are very disciplined,
+2625.06 you can probably eat that
+one piece of chocolate
+2627.77 and be just fine.
+2629.45 But if you understand the
+way that dopamine works,
+2632.75 what you'll realize is that
+when this dopamine pathway
+2634.96 is triggered,
+2636.02 it tends to create not the
+sensation or the perception
+2640.3 of satiety, of feeling
+like something is enough,
+2643.18 but rather to produce the
+sensation of wanting more.
+2647.37 As described in the episode that I hosted
+2649.37 with my phenomenal colleague
+2651.45 from Stanford School of
+Medicine, Dr. Anna Lembke,
+2654.09 she's an expert on addiction
+and dopamine pathways,
+2657.96 the dopamine circuits of the brain
+2660.26 have what we call a pleasure pain balance.
+2663.5 And there I'm paraphrasing
+what Dr. Anna Lembke has said,
+2667.68 and has written about
+in her beautiful book,
+2669.497 "Dopamine Nation."
+2670.33 If you haven't read that
+book, I highly recommend it.
+2672.39 Whether or not you have
+issues with addiction
+2674.74 or you know people that do, or you don't,
+2677.17 it's an incredibly important read,
+2679.17 especially if you're
+interested in understanding
+2680.82 motivated behaviors and ways
+to channel your behaviors
+2684.59 in life toward healthy,
+motivated behaviors,
+2686.91 and make sure that you avoid
+some of the common pitfalls
+2689.77 that people fall into, not just addiction,
+2691.93 but things like overuse of social media
+2695.24 or wasting time in general,
+it's a phenomenal book.
+2700.16 In that book, and of course,
+within research articles,
+2704.21 you will find evidence of this so-called
+2706.69 pleasure pain balance that exists
+2710.19 within our dopamine circuits.
+2711.43 Nobody has dopamine
+circuits that allow them
+2713.86 to escape this pleasure pain balance.
+2715.407 And the way this works is that anytime
+2717.43 that we engage in a behavior
+or we ingest something
+2721.06 that increases our levels of dopamine,
+2724.4 there is a subsequent increase
+in the neural circuits
+2727.81 that control our sense of
+frustration, pain, and lack.
+2732.79 You can actually notice this phenomenon
+2735.83 if, for instance,
+2736.77 you're somebody who
+really likes chocolate,
+2739.48 or you really like something else,
+2741.5 pay attention to the
+way that you experience
+2744.51 indulging in that thing.
+2747.24 If you eat that piece of chocolate
+2749.28 and you really focus on
+savoring its amazing taste,
+2752.44 you'll notice that it provides
+some quenching of your desire
+2757.71 for let's say sweet stuff
+or chocolate or both,
+2761.58 but right as you stop experiencing that,
+2765.24 right as that chocolate intake tapers off,
+2768.45 as you swallow it down your throat,
+2769.94 or you just pause for a second afterwards,
+2772.75 what you'll notice is
+that your brain and body
+2775.58 actually orient toward wanting more.
+2779.02 And that wanting of more
+is really the action
+2782.34 of the neural circuits that underlie pain
+2784.36 and are pushing your
+dopamine levels back down.
+2787.92 And when these circuits
+go awry or I should say,
+2790.96 when people fail to who control themselves
+2794.97 within the context of that
+pleasure pain balance,
+2797.51 the typical behavior is to
+reach for yet another chocolate
+2800.38 or to then look for something
+that will quench that desire
+2804.7 and get dopamine levels back up.
+2806.44 Now the way these pleasure
+pain circuits work
+2809.17 is very diabolical.
+2810.47 Because it turns out that were you to take
+2811.89 another piece of chocolate,
+2812.78 yes, your dopamine
+levels would go back up,
+2814.77 but not to the same extent that they did
+2817.87 the first bite of chocolate that you had.
+2820.7 In fact, we can say that
+the longer it's been
+2822.85 since you've indulged in
+something that you really enjoy
+2826.2 or would like,
+2828.09 the greater the dopamine
+you will experience
+2830.89 when you finally engage in that behavior
+2833.54 or indulge to that
+thing, ingest that thing,
+2836.21 and the greater the dopamine increase,
+2839.03 the greater the subsequent
+action of those pain circuits.
+2842.45 So this puts you on a
+very complicated seesaw.
+2845.68 It's a very wobbly
+precarious state to be in.
+2848.59 Which is not to say you shouldn't
+have a piece of chocolate,
+2850.43 it's just to say that the
+sweet taste of sweet things
+2855.33 in particular, things
+that we crave very much
+2857.27 and we wait and wait and wait,
+2858.3 and then we allow ourselves to indulge.
+2861.37 Those trigger changes
+in our neurochemistry,
+2863.59 in our neuro circuits,
+2864.51 that place us in a very vulnerable place,
+2867.72 to either want more and more of that thing
+2870.22 or to seek out other ways to
+fill that kind of emptiness
+2875.33 that we feel or that gap,
+2876.84 like, oh, I would love more,
+2877.86 but I'm not going to allow myself more.
+2879.63 Now again, I'm not saying
+that you shouldn't pursue
+2882.3 pleasurable things.
+2883.133 I mean this molecule
+dopamine exists for a reason.
+2886.16 Frankly, because of its involvement
+in sex and reproduction,
+2889.29 it's the reason we're all
+here in the first place.
+2891.05 Because last time I checked,
+2892.15 the only way any of us got
+here was one way or another,
+2895.68 sperm met egg and there was conception.
+2898.14 I still believe there are
+no exceptions to that,
+2900.524 that I'm aware of anyways,
+2903.28 that is a process, or I should say,
+2905.02 the events leading up to that process
+2906.57 typically involve dopamine
+in one way or another.
+2908.57 There are exceptions to that
+too, but you get the idea.
+2911.18 These dopamine pathways are
+not evil, they're not bad,
+2913.86 but once you understand the way they work,
+2916.45 you can leverage them to your advantage
+2919.23 as opposed to them leveraging
+you to their advantage.
+2922.41 So when you ingest something sweet,
+2925.02 you perceive that sweet
+taste and a cascade ensues
+2928.37 within your brain that makes you want more
+2930.51 of the sweet thing.
+2931.82 That's the conscious pathway
+for sugar perception,
+2937.31 for sweet perception.
+2939.59 Now there's the second pathway,
+2941.19 the second pathway is what's called
+2942.68 the post-ingestive reinforcing
+properties of sugar,
+2946.3 which is really just a fancy
+nerd speak way of saying
+2949.37 there are events that
+happen within your stomach
+2951.89 and below your conscious detection,
+2954.17 that are also driving you to
+seek out sweet tasting things,
+2958.02 independent of their taste,
+2960.12 and foods that increase blood glucose,
+2963.24 independent of their taste.
+2964.93 In order to illustrate the immense power
+2966.61 of these subconscious
+circuits for sugar seeking,
+2969.57 I'd like to describe an experiment.
+2971.16 And this is just one experiment of many,
+2973.46 of dozens or more experiments
+done in animal models
+2976.09 and humans, which essentially
+illustrate the same thing.
+2978.17 And as I describe this experiment,
+2979.81 I think you will come to understand
+2982.03 the power of these circuits.
+2983.66 I'll provide a link to
+this study in the caption.
+2988.04 The first author is Freeman.
+2989.87 The paper was published in
+Frontiers in Bioscience,
+2991.87 but there have been others,
+2994.0 papers in Nature Neuroscience,
+papers in Neuron,
+2996.23 Cell Press journals, et cetera,
+2997.32 many, many journals, many, many papers.
+3000.72 If subjects are given the
+choice of drinking plain water
+3004.48 or a sweet tasting fluid,
+3006.95 their preference for
+the sweet tasting fluid
+3009.03 is much, much higher, right?
+3011.58 Sweet tastes better than plain water,
+3014.08 at least for most people
+and certainly for animals.
+3018.57 Now, if, for instance,
+3021.41 you take an animal which
+completely lacks sweet receptors,
+3025.38 and you can do this through
+some molecular genetic tools
+3028.75 and gymnastics in the laboratory,
+3030.95 we call these knockout mice,
+3032.12 where you can knock out
+a particular receptor
+3033.68 for sweet taste,
+3034.513 you can confirm that there's
+no perception of sweet things
+3037.37 or at least no preference for sweet things
+3039.81 in those animals.
+3040.643 In humans, you can numb the mouth,
+3041.84 there are other pharmacologic ways
+3044.13 that you can eliminate sweet
+receptors in the mouth.
+3047.58 And by doing that, you
+people will tell you,
+3050.02 no, I can't taste anything sweet.
+3052.31 You could give them a ice cream,
+3054.05 you could give them pure sucrose,
+3055.37 you could give them table sugar,
+3056.64 and they wouldn't be able
+to perceive it as sweet.
+3059.02 If you eliminate the perception
+of sweet taste in the mouth
+3061.32 and you offer people
+or laboratory animals,
+3065.33 water versus some sugar
+containing solution,
+3067.97 you eliminate the preference
+for the sugary solution.
+3072.44 Which tells us that
+the perception of sweet
+3074.52 is important for the preference
+for sweet tasting drink.
+3079.43 This is also true for sweet
+tasting foods, I should mention.
+3083.18 However, in both animal
+models and in humans,
+3087.05 after about 15 minutes,
+3090.71 subjects start preferring
+the sugary water,
+3094.19 even though they can't
+taste that it is sweeter.
+3097.66 So to repeat that,
+3099.13 if you eliminate the
+ability to sense sweet,
+3101.75 to perceive sweetness in foods,
+3104.4 then you eliminate the preference
+3105.98 for sweet beverages or sweet foods.
+3108.54 So that's not surprising.
+3109.51 But if you wait about 15 minutes,
+3111.48 the preference for the sweet beverage
+3114.68 or the sweet food comes back.
+3116.31 Now that doesn't mean that they
+can perceive the sweetness.
+3119.15 In fact, the way these experiments
+are done is very clever.
+3121.96 You offer people various
+cups of different things
+3124.97 or different food items.
+3126.03 And then you just look
+at what they eat more of
+3127.68 or what they prefer to eat more of.
+3129.13 So this experiment is so crucial
+3131.71 because what it says
+is that the preference
+3134.48 for sugar containing foods is in part
+3137.99 due to the sweetness of those foods,
+3140.0 but in part due to something else.
+3142.47 And this something else is what we call
+3144.05 the post-ingestive effect,
+and as I mentioned before,
+3146.89 it took about 15 minutes.
+3148.2 And you've actually experienced this,
+3150.84 whether you realize it or not,
+3152.26 this phenomenon of post-ingestive
+rewarding properties
+3155.45 of sweet foods,
+3157.03 meaning what happens in your body
+3159.19 when you ingest something that increases
+3160.74 your blood glucose very much,
+3162.48 has no doubt controlled
+you from the inside,
+3166.61 below your awareness,
+3168.26 this was happening to you
+and you didn't realize it.
+3172.22 And here's how it works.
+3173.33 We all have neurons within our gut.
+3175.9 These neurons have a name,
+they're called neuropod cells.
+3178.96 Neuropod cells were famously discovered
+3181.22 by Professor, Dr. Diego
+Bohorquez at Duke University.
+3186.0 And these cells respond
+to, among other things,
+3189.91 to the presence of sugar within the gut.
+3192.8 So when we ingest a sugary food or drink,
+3196.17 or we ingest a food or
+drink that simply contains
+3199.59 fructose, sucrose, glucose,
+3201.27 or some other form of sugar
+that later, through metabolism,
+3206.42 will be converted into glucose,
+3209.18 the neuropod cells are able to register
+3212.0 the presence of those sweet
+or glucose stimulating foods.
+3217.25 And in response to that,
+send electrical signals,
+3221.25 because electrical signals are
+the way neurons communicate,
+3223.57 up to the brain, via the
+so-called vagus nerve.
+3226.56 The vagus nerve, of course,
+being a nerve pathway,
+3228.72 famous for its role in relaxation.
+3230.67 That's kind of the assumption out there,
+3233.08 that it's always involved in relaxation,
+3234.44 that's not the case.
+3235.35 It's involved in a lot of
+things besides relaxation.
+3237.83 But nonetheless,
+3238.74 these neuropod cells
+send electrical signals
+3242.14 through a particular
+highway within the vagus
+3245.1 to the so-called nodose
+ganglion, and this is a cluster,
+3247.78 a ganglion is just a cluster of neurons.
+3249.91 And then the nodose ganglion
+sends on information
+3252.9 to the nucleus of the solitary tract.
+3256.09 The nucleus of the solitary
+tract is an area of the brain
+3258.47 that we're going to talk
+about extensively today.
+3260.66 It's very important for
+understanding sugar preference.
+3265.61 These neuropod cells
+also trigger activation
+3268.89 of dopamine pathways within
+the mesolimbic reward pathway.
+3273.32 In other words, there are
+signals conveyed from the gut,
+3276.91 meaning stomach and
+intestines, to the brain
+3279.8 anytime we ingest sweet foods,
+3282.73 but it has nothing to
+do with our perception
+3285.24 of them being sweet, it has
+everything to do with the fact
+3287.67 that sweetness of food is
+almost always correlated
+3290.73 with an ability to increase blood glucose.
+3294.24 And the net effect of
+this is a parallel pathway
+3298.16 by which dopamine is increased further.
+3301.24 Now, the experiment
+that I described before
+3304.34 of animals or humans ingesting something
+3307.54 that contains sugar,
+3308.71 but not being able to
+perceive its sweetness,
+3310.93 and yet, after a period of time,
+3314.1 still preferring that food or drink
+3316.6 to non-sugar containing food or drinks,
+3319.32 even though they can't
+distinguish their taste,
+3321.77 is dependent on these neuropod
+cells and related pathways.
+3326.6 What this may for you is that anytime
+3328.98 you eat something sweet,
+3331.73 that substance is
+actually causing your gut,
+3335.08 your stomach and your intestine,
+or to be more precise,
+3338.48 I should say, that
+substance, food substance,
+3341.44 is causing the neuropod cells
+in your stomach and intestines
+3345.22 to send a parallel set of
+signals up to your brain saying,
+3348.89 eat more of that, or simply
+eat more, eat more, eat more,
+3352.34 and preferably eat more sweet foods.
+3354.57 So we've all heard of hidden sugars,
+3356.86 meaning the sugars that
+manufacturers have put into foods
+3359.71 and disguised them with other flavors.
+3361.62 I talked about this in
+the episode on salt,
+3363.7 using salt to mask the taste of sweetness
+3366.06 so that people ingest more sugar.
+3368.28 That is not an accident
+3369.84 that hidden sugars are
+often hidden with salt
+3372.64 or with other flavors.
+3374.55 It's done so that people
+will, meaning you or me,
+3377.97 will want to ingest more
+of a particular food,
+3381.93 independent of how sweet that food tastes.
+3384.8 And in fact, some crackers, for instance,
+3387.08 chips for instance, you might
+think, oh, well, you know,
+3389.65 chips, they're not sweet,
+they're salty and savory.
+3392.76 And again, I'll mention, I
+love salty and savory foods,
+3396.12 including certain foods, I love
+kettle chips, for instance,
+3398.5 I try not to walk by them
+in the grocery store.
+3401.33 I usually have to eat one
+bag while I'm in the store,
+3403.23 and then another later.
+3404.59 The savory foods are often
+laden with these hidden sugars
+3410.01 that we can't register as sweetness,
+3411.95 but trigger the neuropod cells,
+3413.4 which then further trigger dopamine,
+3414.85 which make us want more of them.
+3416.69 Now we may be able to
+resist eating more of them,
+3419.35 but it makes us crave
+more food in general.
+3423.61 Now we will talk about ways
+to regulate this pathway,
+3427.37 to sort of intervene in
+this subconscious pathway.
+3430.75 But for now I'm hoping
+that just the understanding
+3434.52 that we all have this pathway,
+3435.83 this is hardwired into our body,
+3439.63 could potentially allow
+people to better understand
+3441.88 why is it that their
+cravings are so intense,
+3445.46 that it's not necessarily just
+about the taste of that food.
+3448.48 And when you consider this
+in concert with the fact
+3453.09 that we have this dopamine pain
+pleasure balance, excuse me,
+3456.53 that I referred to earlier,
+3458.22 you start to realize that
+there are multiple mechanisms
+3460.45 hardwired into us, that make
+it especially hard to not eat
+3464.59 the sweet thing or to not eat
+the food that we're craving.
+3467.47 And indeed, that's the case.
+3468.81 We have two major accelerators.
+3470.72 It's like a car with two accelerators,
+3472.99 and we will talk about the brakes,
+3474.83 but two ways that really
+get us into forward motion
+3478.06 toward pursuing the
+consumption of sweet foods.
+3481.13 Now, if it doesn't already
+seem diabolical enough,
+3483.33 that sweet things that
+we perceive as sweet,
+3485.93 make us want to eat more of those
+3487.04 because of dopamine and then send us down
+3488.91 this pain pleasure pathway
+that I mentioned earlier,
+3493.03 and the fact that we have
+this subconscious circuit
+3496.0 coming from the neuropod cells in our gut
+3498.14 that are registering the presence of sugar
+3500.71 or glucose increasing foods in our gut
+3502.73 and sending those signals to
+the brain for yet more dopamine
+3504.917 and pain pleasure challenges,
+3507.69 there's a third layer to this whole thing.
+3510.11 And that has to do with how sugar
+3512.24 is metabolized in the brain.
+3513.71 Or I should say how glucose is used.
+3515.83 Without getting into too much detail,
+3518.3 some of the more beautiful
+studies of neuroimaging
+3521.67 and evaluating which
+brain areas are active
+3525.09 when we eat certain foods
+3526.34 were done by Dr. Dana Small's
+lab at Yale University,
+3529.83 and in some of her previous
+work when she was elsewhere,
+3533.14 and of course by other laboratories too.
+3535.17 And they used an approach called
+3536.72 positron emission tomography,
+3538.67 and they and others have used
+PET scanning as it's called,
+3542.96 positron mission tomography,
+3545.54 along with an tool
+called 2-Deoxy-D-glucose.
+3548.48 2-Deoxy-D-glucose is actually
+involved in the procedure
+3551.52 of seeing which brain areas are active
+3553.49 when people eat foods or engage
+in other types of behaviors.
+3556.52 But the way that 2-Deoxy-D-glucose,
+3559.33 sometimes shortened 2DG.
+3561.33 The way that it works is
+to block glucose uptake
+3565.55 from neurons.
+3566.93 And instead, bring along with it,
+3569.7 a marker that one can see through imaging.
+3572.43 So in other words,
+3573.78 a tool for looking at what
+parts of the brain are active
+3577.2 when eating particular foods,
+3579.12 actually prevents foods such as sugar,
+3582.6 from allowing glucose to
+get into particular neurons.
+3586.95 Now that might seem like a bad situation,
+3589.01 you'd say, well, wait,
+3589.843 you're trying to understand
+how sugar works in the brain,
+3592.53 and then you block the
+ability for sugar, glucose,
+3596.44 to bind to, or be used by these neurons,
+3599.75 because of the thing that
+you're using for the experiment.
+3601.54 Exactly, it's a huge problem,
+3603.41 but it turns out to be a huge problem
+3604.67 that led to a great insight.
+3606.11 And the great insight is this,
+3608.5 the preference for sweet
+tasting foods and liquids
+3611.97 is actually blocked by 2-Deoxy-D-glucose.
+3617.52 What that means, experimentally,
+3619.28 but also in terms of what
+it means for you and me
+3621.55 in the real world, is that there's yet
+3623.89 a third parallel pathway
+3626.98 that's related to the use of blood sugar,
+3630.99 the use of glucose by neurons,
+3634.1 that further reinforces our
+desire to eat more sweet things.
+3638.81 And the preference for sweet foods
+3640.9 can actually be eliminated
+through 2-Deoxy-D-glucose.
+3645.43 Now I am definitely don't
+want people going out
+3648.42 and consuming 2-Deoxy-D-glucose.
+3649.84 This is a laboratory tool,
+3651.07 it is not something that
+you should be ingesting.
+3654.05 So don't go look it up
+and try and get some,
+3656.15 there might be other uses for
+it, but that's not the point.
+3658.19 The point is that it is the
+sweet taste of sugary foods.
+3663.21 It is the signals coming from your gut,
+3666.87 from your digestive tract to your brain,
+3669.47 and it's the use of the
+metabolic consequences
+3673.89 of sugary foods that are
+acting as a three pronged push
+3678.62 on your desire to consume
+more sugary foods.
+3681.84 So this car analogy that I used before,
+3684.78 where it's some weird car
+that has two accelerators,
+3687.06 it actually has three accelerators.
+3689.38 And so with three accelerators,
+all pushing the system hard,
+3693.75 we can say, wow,
+3694.82 there must be something really
+special about this pathway.
+3697.57 And indeed there is,
+3698.7 this pathway is the quickest
+source of fuel for the brain
+3701.7 and the rest of the nervous system,
+3702.75 it's the source of fuel for
+the brain and nervous system.
+3705.95 And I realize, as I say
+that all the ketonistas
+3708.63 are probably going no,
+3709.54 actually ketones are the preferred source.
+3711.37 Okay, i acknowledge that
+there are conditions
+3713.95 under which you can bring
+your blood glucose very low,
+3716.13 and there are reasons to do that.
+3717.32 Actually ketosis has been a
+3719.41 terrifically successful treatment
+3721.28 for a lot of forms of epilepsy,
+3722.72 in particular, pediatric epilepsy.
+3726.19 Many people do derive
+benefit from ketogenic diets,
+3728.56 so I'm not knocking ketogenic diets,
+3730.69 but if you were to look at
+what neurons normally prefer,
+3734.54 meaning in a typical diet
+regimen, it would be glucose.
+3739.95 And the fact that fructose
+3742.26 is eventually converted to glucose,
+3743.97 the fact that when we ingest sucrose,
+3745.74 it's eventually converted into
+a fuel that neurons can use,
+3747.88 that's very much in the glucose pathway,
+3750.07 what you basically arrive at is the fact
+3752.0 that your nervous system is
+a glucose consuming machine.
+3755.0 And you've got at least three pathways,
+3757.12 of which I've described,
+3758.57 that are pushing on your brain consciously
+3761.15 and subconsciously to get
+you to seek and consume
+3764.06 more sugar.
+3765.19 Now that all sounds like a
+pretty depressing picture,
+3768.08 at least for those of you
+that are trying to reduce
+3769.56 your sugar intake.
+3770.393 And of course we can
+all reduce sugar intake
+3773.11 by way of sheer will,
+3774.43 we can not have those foods at home,
+3776.48 we can restrict ourselves from those.
+3778.4 But there are some things that we all can
+3781.33 and perhaps should do in order
+to regulate these pathways
+3785.02 such that we don't feel
+so controlled by them,
+3788.41 but rather that we control their output.
+3791.36 And of course they are us and we are them,
+3792.96 so this gets into all sorts
+of issues of consciousness
+3795.61 and freewill that I
+certainly don't want to cover
+3797.59 in this episode.
+3798.9 But nonetheless, I think
+once you understand
+3802.77 that these circuits exist
+3804.61 and you understand that there
+are simple substitutions
+3808.13 and modifications that one
+can make to their food intake
+3811.57 that can work within these pathways
+3814.82 and even bypass some of these pathways,
+3817.17 you start to realize that
+you have a lot more control
+3819.42 over sugar intake and sugar appetite
+3822.503 than you previously thought.
+3824.16 Now, many of you have heard of
+the so-called glycemic index.
+3826.57 The glycemic index is a measure of
+3828.44 how quickly blood sugar rises
+3830.0 after ingesting particular foods.
+3831.97 And very broadly speaking,
+3833.98 we can say that there are
+low glycemic index foods,
+3836.98 of less than 55, typically,
+is the measurement,
+3840.08 or medium glycemic index foods,
+3841.94 which go from about 55 to 69,
+3844.02 and then so called high glycemic
+foods, which are above 70.
+3846.89 And of course there's additional nuance
+3848.92 related to glycemic load
+3850.93 and many more features
+of the glycemic index.
+3854.98 A couple of things to understand
+3856.22 about how the glycemic index is measured.
+3858.77 And then I'd like to
+just briefly talk about
+3861.05 how the glycemic index can
+be leveraged to short circuit
+3865.55 some of the neural circuits
+that would otherwise lead us
+3868.73 to crave and perhaps
+even ingest sugar foods.
+3873.12 First of all, measurements
+of glycemic indices of food
+3877.76 are typically made by having
+people ingest those foods
+3880.51 in isolation.
+3881.8 And in general, we can say
+that anytime we ingest fiber
+3886.45 and/or fat, lipids, along
+with a particular food,
+3889.87 it will reduce the glycemic
+index of that particular food,
+3893.87 either the absolute level of blood glucose
+3897.39 that a particular food causes
+3900.16 or the rate at which that
+elevation in blood glucose occurs.
+3905.09 And this is why there are some
+seemingly paradoxical aspects
+3909.28 to sweet stuff in terms
+of the glycemic index.
+3911.45 For instance, Ice cream
+has a lower glycemic index,
+3914.52 provided its ice cream that includes fat,
+3916.48 which I hope it would,
+3917.313 'cause that's the good tasting ice cream,
+3918.38 in my opinion,
+3919.43 compared to something like
+mangoes or table sugar, right?
+3923.15 So the glycemic index is
+not something to hold holy,
+3927.21 in most cases,
+3928.1 because most people are not
+ingesting foods in isolation.
+3931.04 And there's actually a lot of argument
+3932.52 as to whether or not the glycemic index
+3933.96 is really as vital as some people claim.
+3938.21 There's also the context
+3939.41 in which you ingest particular foods.
+3941.22 As I mentioned earlier,
+3942.68 after I do hard training of any kind,
+3945.08 meaning training that
+ought to deplete glycogen,
+3946.9 so hard resistance training,
+3948.09 I actually make it a point to ingest
+3950.16 some very sweet high
+glycemic foods like a mango,
+3953.3 I'll also ingest some starches
+3954.73 'cause I'm trying to replenish glycogen.
+3956.12 I'm also trying to spike
+my blood sugar a little bit
+3958.79 because that can be advantageous
+3960.07 in terms of certain strength
+and hypertrophy protocols,
+3962.45 et cetera.
+3963.283 But most of the time I'm avoiding
+these high glycemic foods
+3965.247 and high sugar foods, I
+should point that out.
+3967.59 Now, why am I telling you
+about the glycemic index?
+3969.71 Well, if we zoom out
+and take our perspective
+3973.31 on all of this discussion
+about the glycemic index,
+3975.68 through the lens of the nervous system,
+3978.09 and we remind ourselves that neurons
+3980.38 prefer glucose for energy
+and that all sweet things,
+3984.24 or things that we perceive as sweet,
+3985.65 but also sweet things that
+are ingested and registered
+3988.47 by those neuropod cells in our gut
+3990.54 trigger the release of dopamine
+3992.45 and trigger these neural circuits
+3994.39 to make us want to eat
+more of these foods,
+3997.01 what we start to realize
+is that a sharp rise
+4000.04 in blood glucose or a very
+high degree of elevation
+4003.86 in blood glucose,
+4004.98 is going to be a much more potent signal
+4007.9 than would a more moderate
+rise in blood glucose
+4011.63 or a slower rise in blood glucose.
+4014.89 So if we think about the
+analogy of three accelerators,
+4018.23 meaning three parallel neural circuits,
+4020.13 all essentially there
+to get us to seek out
+4023.27 and consume more sweet
+tasting and sugary foods,
+4027.26 well then the glycemic index
+is sort of our measurement
+4031.01 of how hard we are pushing down
+4032.95 or how fast we are pushing down
+on those three accelerators.
+4036.5 And so for those of you that are trying to
+4038.2 reduce sugar take,
+4039.55 and you want to do that
+through an understanding
+4042.04 of how these neural circuits work,
+4043.56 and you want to short circuit
+some of the dopamine release
+4046.62 that's caused by ingesting sugary foods.
+4050.13 It can be advantageous
+to ingest sweet foods,
+4055.35 either alone or in combination with foods
+4058.96 that reduce glycemic index
+or reduce glycemic load.
+4062.9 So that might mean making
+different food choices.
+4066.02 So paying attention to sweet tasting foods
+4068.81 that can satisfy sugar cravings,
+4070.84 but do not have as steep or I should say,
+4073.51 do not cause as steep
+a rise in blood sugar,
+4076.04 or it could mean consuming other foods
+4079.26 along with sweet foods
+4080.88 in order to reduce the glycemic index
+4083.24 and thereby, slow or blunt
+the release of dopamine.
+4087.36 You might think, well, why
+would I want to do that?
+4089.31 I want the maximum dopamine output
+4091.68 in response to a given sweet food.
+4093.31 I don't just want the you know, level 10.
+4095.47 I want the level 100 output of dopamine.
+4098.08 But you really don't,
+4099.13 because of the pleasure pain
+balance that dopamine causes.
+4101.69 And in fact, if we consider
+some of the non-food substances
+4104.98 that really push hard on
+these dopamine pathways,
+4107.31 we can come up with a somewhat sinister,
+4109.88 but nonetheless appropriate analogy.
+4113.25 The drug, cocaine, causes
+very robust, potent increases
+4117.57 in dopamine within the brain,
+4119.53 and typically causes people
+to want to ingest more cocaine
+4122.89 because of those sharp
+increases in dopamine.
+4127.28 But within the category
+of the drug cocaine,
+4130.14 there are various modes of ingestion.
+4132.12 Some people inhale it,
+4133.73 some people will inject it intravenously,
+4137.52 some people will smoke it,
+4138.91 and those different
+forms of taking cocaine
+4142.13 actually impact the dopamine
+circuits differently.
+4144.95 And it turns out that crack cocaine,
+4147.67 the smokable form of cocaine rock,
+4151.27 increases dopamine to a very high degree,
+4153.93 but also very quickly.
+4156.26 And it is the sharp rise
+in dopamine over time,
+4160.56 not so much the absolute
+level of dopamine,
+4163.4 that makes crack cocaine
+so absolutely addictive.
+4167.45 So sometimes you'll hear, you know,
+4168.9 sugar is like crack,
+4170.4 well, and that's getting a little extreme
+4172.14 because even though I don't
+think the measurements
+4174.05 have been done in the same experiment,
+4176.1 I think it's reasonable to think
+4177.66 that the absolute level of dopamine caused
+4180.85 by ingesting sugar, at
+least for most people,
+4182.85 is not going to be as high as
+the absolute level of dopamine
+4186.09 caused by smoking crack.
+4188.39 Of course it goes without saying,
+4189.5 please don't do cocaine
+in any form, by the way.
+4193.7 It is appropriate to say that
+the rate of dopamine increase
+4198.87 over time has a profound
+effect on how people will,
+4203.95 and if people will,
+4205.75 go on to want to pursue
+more of what caused
+4208.46 that increase in dopamine.
+4210.16 So what I'm basically saying
+is if you're going to ingest
+4213.15 sweet foods in order to
+satisfy a sweet craving,
+4218.4 ingesting sweet foods for which
+the glycemic index is lower
+4222.33 or in which you've adjusted
+those glycemic index foods
+4226.06 through the co-ingestion
+of fiber, or maybe fat,
+4230.09 might be beneficial.
+4231.61 So is this justification
+for putting peanut butter
+4234.51 on that piece of chocolate
+4235.88 or for having a of ice
+cream along with the mango
+4239.8 that you're craving?
+4241.2 In some sense, yes, however,
+4244.23 there's also the issue of
+how sweet and how delicious
+4247.21 something tastes.
+4248.32 Highly palatable foods,
+absolutely delicious foods,
+4251.73 trigger that one neural circuit,
+4253.91 that one accelerator that
+we were talking about
+4256.41 in terms of our analogy
+of three accelerators,
+4258.95 and the more delicious something
+tastes within our mouth,
+4261.85 the further increase in dopamine.
+4264.66 So if you really wanted to
+adjust your sugar cravings
+4267.9 and you really still want
+to ingest some sugary foods,
+4272.62 you probably would better
+off combining fiber
+4275.55 with that sugary or sweet food.
+4277.99 Now I do realize that
+it's somewhat unusual
+4279.94 and you probably get some strange stares,
+4282.28 if you decided to consume broccoli,
+4284.54 for instance, along with your chocolate,
+4286.36 or with a another dessert
+that would otherwise
+4288.45 cause a steep increase in blood sugar
+4291.0 and has a high glycemic index.
+4292.69 But nonetheless, if your goal is to blunt
+4295.92 your sugar cravings,
+4297.33 what you really need to do is
+blunt that dopamine increase.
+4300.35 So what we're really talking about here
+4302.29 is trying to reduce the dopamine signal
+4305.14 that is the consequence
+of ingesting sweet foods.
+4307.75 And we're talking about doing that
+4309.08 through these different parallel pathways,
+4310.86 not just by preventing sweet taste,
+4312.96 but also by preventing
+the post-ingestive effects
+4315.79 of sweet foods.
+4317.76 And of course the backdrop to all of this
+4320.66 is that most of us, again,
+most of us, not all of us,
+4323.3 should probably be ingesting
+fewer refined sugars.
+4327.66 Certainly there are exceptions to that.
+4329.65 But I think the bulk of
+data point to the fact
+4333.07 that ingesting these highly palatable,
+4335.58 certainly highly palatable,
+highly processed foods,
+4337.89 or foods that contain a lot
+of high fructose corn syrup,
+4341.35 can be really deleterious to our health,
+4343.05 especially in kids.
+4344.79 And I'm not going to cite
+off a bunch of statistics,
+4347.61 you've all heard them before,
+4348.64 that you know, for hundreds of
+years, we ingested, you know,
+4352.84 the equivalent of a few cups
+or pounds of sugar per year.
+4356.32 And you know, now people are ingesting
+4357.98 hundreds of pounds of sugar per year.
+4360.34 The major culprit always
+seems to be sugary drinks,
+4363.72 meaning soft drinks, and I
+think indeed that's the case.
+4367.64 I do want to point out the incredible work
+4369.68 of Dr. Robert Lustig,
+4370.91 who's a pediatric endocrinologist
+4372.84 at the University of
+California San Francisco,
+4374.9 who was really early in the
+game of voicing the dangers
+4377.895 of so-called hidden sugars
+and highly processed foods,
+4380.55 there are other people, of
+course, now talking about this.
+4383.7 His laboratory has done important
+work showing for instance,
+4387.21 that if high fructose corn syrup
+4390.14 or even just fructose is
+replaced with glucose,
+4393.14 even if the same number
+calories is ingested,
+4396.69 that there are important
+meaning significant reductions
+4400.91 in type two diabetes,
+4403.37 some of the metabolic syndromes
+4404.66 associated with high fructose corn syrup
+4406.347 and on and on and on.
+4408.02 And of course there are other
+culprits in type two diabetes,
+4410.68 there are other factors that
+are going to lead to obesity.
+4413.9 But I think that work
+from Lustig and others
+4416.44 has really illustrated that
+we should all be trying
+4419.21 to reduce our intake of
+highly refined sugars
+4422.43 and high fructose corn syrup.
+4424.28 And certainly trying to reduce our intake
+4426.66 of very sugary drinks,
+not just soft drinks,
+4431.28 but also fruit juices that
+contain a lot of sugar.
+4433.95 Now, even for people that
+are of healthy weight
+4436.09 and who don't have metabolic syndromes,
+4438.36 there may be an additional reason
+4440.2 to not want to ingest very sweet foods
+4443.67 and highly refined sugars.
+4445.2 And this has to do with
+a new and emerging area
+4448.22 of nutrition neuroscience.
+4451.95 And I want to point out that
+these are new data, right,
+4454.7 so it's not a lock,
+4455.67 the double blind placebo
+controlled studies
+4457.61 in large populations
+have not been finished.
+4460.32 So I want to make sure that that's clear,
+4463.42 but I also want to make clear
+4465.37 what some of the really exciting data,
+4467.38 coming from Dana Small's lab at Yale,
+4469.75 and from other laboratories are showing.
+4472.03 And this has to do with what's called
+4473.92 conditioned taste preference.
+4476.07 Using a kind of Pavlovian
+paradigm, what they do,
+4479.67 is they have people, and these
+studies were done in people,
+4482.79 ingest maltodextrin, which
+increases blood glucose,
+4485.96 doesn't have much flavor,
+4487.0 but even if it does have a
+little bit of subtle flavor,
+4489.8 the maltodextrin is cloaked
+by some other flavor.
+4493.67 And by cloaking it with that other flavor
+4496.33 or pairing it with that other flavor,
+4497.95 what they find is that over time,
+4499.88 because the maltodextrin
+increases blood glucose,
+4502.36 and they're ingesting a particular flavor
+4504.06 along with that maltodextrin,
+4506.05 they can then remove the maltodextrin,
+4509.3 and the flavor will induce
+an increase in insulin.
+4513.85 The increase in insulin of course,
+4515.35 is the consequence of
+the fact that anytime
+4517.59 there's a rise in blood glucose,
+4518.78 provided the person isn't diabetic,
+4520.42 there's a parallel increase in insulin.
+4525.26 Now this is very interesting
+because what it says is,
+4528.47 well at a first pass, it says
+that we are very Pavlovian
+4531.62 in terms of our physiological
+responses to foods
+4534.9 and particular flavors
+come to be associated
+4537.66 with particular patterns
+of blood glucose increase
+4541.27 and hence patterns of insulin increase,
+4544.294 because of course,
+4545.127 insulin manages glucose in the bloodstream
+4547.29 as I mentioned earlier.
+4549.52 This also has implications
+for understanding
+4552.44 things like artificial sweeteners.
+4553.9 And here I want to
+highlight that this is still
+4555.83 very controversial work, needs
+more data, but nonetheless,
+4558.93 I'd like to share it with
+you for consideration.
+4563.08 The small laboratory has
+done studies in humans,
+4566.66 both in adults and in children,
+4568.66 showing that if the flavor
+of artificial sweeteners
+4573.07 is paired with maltodextrin,
+4574.85 and then the maltodextrin is removed,
+4577.45 that the artificial sweetener taste itself
+4580.92 can subsequently increase
+insulin in the bloodstream.
+4584.47 In other words, taking something
+that increases blood sugar,
+4589.03 attaching a flavor experience to that,
+4591.9 having children or
+adults ingest that thing,
+4596.15 allows the nervous system
+to associate that flavor
+4599.72 with that increase in blood glucose.
+4601.57 But then you can remove the
+glucose increasing substance,
+4605.2 and the flavor alone will increase insulin
+4607.63 because insulin typically
+follows blood glucose.
+4610.21 So this is a conditioning effect.
+4612.05 Now, the reason these
+data are controversial
+4614.01 is several fold.
+4614.843 First of all, the landscape
+around the discussion
+4619.15 around artificial sweeteners
+is definitely what I would call
+4623.16 a barbed wire topic.
+4624.69 And I want to preface what I'm
+about to say next by saying,
+4627.05 I actually ingest artificial sweeteners.
+4629.26 I will have the occasional
+diet soda, not every day,
+4632.32 maybe I don't know, once or twice a month.
+4634.0 I don't particularly like the taste,
+4635.11 but I'll do it just 'cause it's around,
+4636.54 and I want some caffeine
+and I like the carbonation
+4638.92 if I'm on a plane or something,
+4640.6 I do ingest plant-based
+non-caloric sweeteners.
+4644.52 To my knowledge, there have
+not been high quality studies
+4647.5 of plant-based non-caloric sweeteners
+4649.54 in the context that I'm referring to here.
+4652.49 Nonetheless, these studies
+show that particular flavors
+4655.5 can be conditioned to
+cause an insulin increase.
+4658.84 And the flavor associated with
+certain artificial sweeteners
+4663.81 is included in that category of flavors
+4666.2 that can induce insulin,
+4667.76 even in the absence of something
+4669.133 that can increase blood glucose.
+4670.69 Now the simple takeaway from these studies
+4674.298 would be the following,
+4676.59 and this is actually one
+interpretation that Dana Small
+4679.81 has offered to her data,
+4680.92 but she offers other
+interpretations as well.
+4682.96 One of interpretation is that if people
+4685.8 are going to ingest artificial sweeteners,
+4688.49 and they do that along with foods
+4690.72 that very sharply increase blood glucose,
+4694.13 then there is the potential,
+I highlight the potential,
+4697.77 for those same artificial
+sweeteners to increase insulin,
+4701.94 even in the absence of food.
+4704.76 In other words, let's
+just draw the scenario out
+4706.63 in the real world.
+4708.87 You're having a diet soda
+4711.81 along with a cheeseburger and fries.
+4715.26 You do that every day for lunch, okay?
+4717.92 Somewhat extreme example,
+but natural world example,
+4719.97 you do that every day for lunch.
+4721.09 And then you just have a diet soda alone.
+4724.57 The extreme interpretation of the data
+4727.7 that they've collected says,
+4729.12 well, that diet soda alone
+will increase insulin,
+4731.46 even though there's no
+increase in blood glucose
+4733.89 because you haven't ingested food with it
+4735.07 because you conditioned that
+taste of artificial sweetener
+4738.62 to the experience of a rise
+in glucose and hence insulin.
+4742.24 Now the counter argument to this would be,
+4744.82 well, that's a very unusual situation,
+4746.84 maltodextrin causes big
+increases in blood glucose,
+4750.09 so that's not really a fair experiment
+4752.77 or it's not a natural world experiment.
+4754.34 And I think that's a decent assessment.
+4756.32 Although I will point out
+that one of the reasons
+4759.32 why this study is so controversial
+4761.81 or why these data are so controversial,
+4763.45 is that the experiment
+actually had to be stopped.
+4766.24 And particularly the
+experiment in children
+4767.84 had to be stopped because
+the changes in insulin
+4772.31 that were observed early in
+the study were so detrimental,
+4776.53 that the institutional review
+board, quite appropriately,
+4779.77 said, we can't do this to these kids.
+4781.35 They're experiencing these
+odd shifts in insulin
+4784.64 that are not healthy for them
+4786.76 when they're just ingesting
+artificial sweeteners
+4788.81 in the absence of these
+glucose increasing foods.
+4791.86 So once again, I do ingest
+artificial sweeteners,
+4795.08 I'm not saying that they are dangerous,
+4796.31 I'm not saying that
+they are not dangerous,
+4798.65 I'm saying that you have
+to decide for yourself.
+4800.95 In previous episodes,
+4801.86 I've highlighted that
+artificial sweeteners
+4803.9 have been shown in studies of animals,
+4807.53 that when given in very high
+doses, sucralose in particular,
+4811.93 there can be fairly robust
+disruption to the gut microbiome,
+4816.46 which is vital for immune
+health and brain health,
+4818.56 et cetera, et cetera.
+4820.17 But thus far, our knowledge
+of how artificial sweeteners
+4824.07 negatively impacts or positively
+impacts, I should say,
+4826.81 the microbiome and other
+deleterious effects on the body,
+4832.58 has mainly been explored
+in animal studies.
+4836.13 Again, the work by Dana Small
+has been done in humans.
+4839.41 There's some parallel work
+by others in animal models.
+4842.04 I bring it up today to
+illustrate the following point.
+4847.56 Normally we have a pathway
+4849.27 that we don't have to condition at all,
+4851.01 it's there from birth,
+4852.64 whereby ingestion of sweet foods
+4855.14 causes increases in dopamine.
+4857.66 And there are parallel pathways
+by which neurons in our gut
+4862.02 and elsewhere in our body,
+4863.56 trigger further increases in dopamine.
+4867.56 There's no need for a conditioned response
+4870.27 or to become Pavlovian about this, right?
+4872.64 You're hardwired to want
+to eat sweet things,
+4875.59 by at least two and probably
+three parallel pathways.
+4878.61 Now the work from Dana
+Small's lab and others
+4881.63 that have illustrated this
+conditioned flavor preference,
+4884.91 I think beautifully show that any flavor
+4888.01 that's associated with a glucose spike
+4890.69 or a long sustained increase in glucose
+4894.37 can also be conditioned.
+4895.92 In other words, the circuits for dopamine
+4898.07 that reinforce the desire
+to eat particular things
+4900.57 is not unique to the sugar pathway.
+4902.43 And this is one of the reasons I believe,
+4905.48 why ingestion of sweet foods
+4907.87 doesn't just us to want
+to eat more sweet foods,
+4910.61 I think that is absolutely clear
+4912.23 based on animal data and on human data,
+4914.333 I think that's robust,
+4915.55 it's actually the stuff of textbooks now,
+4919.09 but in addition, ingesting sweet foods
+4921.09 and/or foods that raise blood glucose,
+4923.98 but that we don't perceive as sweet.
+4925.81 So for instance, foods with hidden sugars,
+4928.32 sugars that have been masked
+asked by salty or spicy taste,
+4932.17 increases our desire for
+glucose elevating foods
+4935.037 and food, generally,
+4936.95 I think that's the only
+logical interpretation
+4939.61 of the data that I can arrive at.
+4941.63 So for people that struggle
+with regulating their appetite
+4943.84 or with regulating their sugar appetite,
+4946.25 I think the understanding of
+conditioned flavor preference,
+4949.15 while a little bit complicated,
+4951.21 ought to be useful in
+trying to navigate reducing
+4954.06 sugar cravings and sugar intake.
+4955.82 As a segue into tools
+to control sugar intake,
+4958.41 as a means to both regulate
+sugar intake itself,
+4962.57 as well as food intake overall
+4964.41 and steer us towards healthier choices.
+4967.26 I'd like to talk about some
+of the special populations
+4970.45 out there that might want
+to be especially wary
+4972.9 of having a dysregulated
+sugar appetite system.
+4977.73 And the group I'm
+referring to specifically
+4980.06 are those with attention
+deficit hyperactivity disorder
+4983.23 or, I should say, and/or,
+4985.54 people who have issues with
+focus and attention, generally.
+4988.99 And I think more and more nowadays,
+4990.3 I'm hearing that people are
+having a hard time focusing.
+4993.07 This probably has something
+to do with our interactions
+4996.01 with electronic devices.
+4997.27 As I always say, if a picture
+is worth a thousand words,
+4999.64 a movie is worth a million pictures,
+5002.56 and the fact that we
+can access so any movies
+5005.53 just by scrolling with our thumb,
+5007.16 is something that the nervous system
+5008.26 has just never contended
+with before in human history.
+5010.82 I'm confident in that.
+5012.35 And it's not that it can't deal with it,
+5014.29 the question is what's the trade off?
+5016.36 What are the consequences of that?
+5018.66 So attention and ability
+to focus is obviously key
+5022.66 to success in school,
+success in relationships,
+5025.13 success in the workplace,
+and success in life.
+5028.38 We could probably even go so
+far as to say one's ability
+5031.35 to succeed in anything is
+proportional to one's ability
+5034.94 to focus and then deliberately defocus
+5037.32 when the time comes to defocus, right?
+5038.98 'Cause we all need rest
+and we need to disengage
+5040.84 and then reengage,
+5043.64 If you look at the sum
+total of the meta-analysis
+5047.92 and the clinical data
+on ADHD and nutrition,
+5052.13 you arrive at a pretty clear answer,
+5054.19 which is that sugar consumption,
+5056.21 in particular, highly refined sugars,
+5058.07 is just not good for people with ADHD
+5061.15 or with attentional issues.
+5062.82 Now, as I say that, I
+also want you to recall
+5065.46 the earlier study that I referred to,
+5067.17 whereby the tuning of neurons in the brain
+5069.46 is highly dependent on glucose.
+5071.02 So this doesn't mean consuming no glucose
+5074.11 is going to be a good idea.
+5075.15 It doesn't mean that the ketogenic diet
+5077.6 is necessarily the best diet for ADHD.
+5080.38 Although there are some
+people pursuing that
+5082.55 and exploring that, and we'll
+do yet another episode on ADHD
+5085.81 at some point that go was a
+little bit deeper into that,
+5087.92 because there's some new data.
+5088.91 I did do a very long and fairly
+extensive episode on ADHD.
+5094.47 You're welcome to look that
+up if you like in our archive,
+5097.88 excuse me, in our archive
+at hubermanlab.com,
+5102.58 it's all timestamped.
+5103.54 So, you know, because the
+number of people said,
+5105.75 oh, you know, it's an episode on ADHD
+5107.267 and you made it two and a half hours long.
+5108.72 Yes we did, because we wanted
+it to be as comprehensive
+5111.68 as we could at the time.
+5113.07 But it is timestamped,
+5114.26 you can just jump to the
+particular topics of interest
+5115.52 and there's short little cassettes there.
+5118.53 Now, if you'd like to
+know upon what I'm basing
+5121.26 this statement that sugar consumption
+5123.93 and highly refined sugar consumption
+5125.83 is potentially bad for ADHD,
+5128.14 I'm basing this mainly on the conclusions
+5131.56 of a really nice paper,
+5133.04 the title of the paper is
+5134.477 "Sugar Consumption, Sugar
+Sweetened Beverages,
+5137.32 and Attention Deficit
+Hyperactivity Disorder:
+5139.36 A Systematic Review and Meta-Analysis."
+5141.27 And this is a paper,
+5143.5 we'll put a link to this in the caption.
+5145.64 This was published in
+Complementary Therapies in Medicine
+5148.77 which is a bit of an atypical
+journal in some sense.
+5151.04 But I really like this meta-analysis.
+5153.43 The sum total of this
+meta-analysis is really that when,
+5159.32 especially kids, get beyond
+four sugary drinks per week,
+5164.26 so four sodas of a typical 12 ounce soda,
+5167.15 when they get past four
+12 ounce sugary sodas,
+5170.15 they didn't, as far as I know,
+5171.55 look at artificially sweetened sodas.
+5174.2 That's when you start
+to see a shift towards
+5177.52 more negative outcomes, more
+symptoms of existing ADHD.
+5181.98 Now where the controversy comes in
+5184.08 is whether or not sugar consumption
+5186.22 can actually trigger or cause ADHD.
+5188.857 And I don't think we can conclude
+that at all at this time.
+5192.19 And this review, if you
+decide to check it out,
+5195.3 review/meta-analysis, I should say,
+5197.3 if you decide to check it out,
+5198.46 goes into some of the nuance around that.
+5200.86 What's also interesting in
+terms of ADHD and sugar intake,
+5204.977 and it probably has
+relevance to all of us,
+5207.16 is that they also cover
+some of the interesting data
+5209.66 showing that supplementation
+with omega-3 fatty acids
+5214.0 can actually beneficial for people,
+5217.13 in particular kids with ADHD,
+5219.36 I've talked before about
+the utility of omega-3s,
+5222.45 that's been shown in various studies
+5223.85 that have compared
+omega-3 fatty acid intake
+5226.48 to say prescription
+antidepressants, like SSRIs,
+5229.89 like Prozac, Zoloft,
+and similar, Fluoxetine,
+5232.79 and the results of those
+studies are pretty clear,
+5235.16 at least to me,
+5236.07 that provided that one gets
+at least one gram of EPA,
+5240.63 essential fatty acids,
+5241.67 so it's not just getting one gram per day,
+5243.41 but one or more grams
+per day of the EPA form
+5247.22 of essential fatty acid,
+5248.56 can rival some prescription
+antidepressants
+5251.77 and/or decrease the
+amount of antidepressants
+5255.23 that's required to take.
+5256.21 Which for a lot of people
+can be a very useful thing
+5258.96 because of the side effect profile
+5260.44 of many of those antidepressants.
+5261.58 Of course, talk to your
+psychiatrist, talk to your doctor,
+5263.56 but the omega-3s are no doubt powerful.
+5266.29 And then of course there's a whole story
+5267.52 about omega-3s and heart health.
+5269.52 And of course, like anything else,
+5271.14 there's some controversy around omega-3s,
+5272.8 but I think the data
+are clear enough to me
+5274.62 around mood and cardiovascular health,
+5276.06 that certainly I personally ingest them.
+5277.497 But as always, I always say,
+5279.83 anytime you're going to
+add or remove anything
+5282.02 from your nutrition,
+supplementation, exercise,
+5284.03 or otherwise your lifestyle,
+5286.33 definitely consult with a
+board certified physician.
+5288.29 I don't just say that to protect me,
+5289.56 I say that to protect you,
+5291.36 you are responsible for
+your health ultimately.
+5293.92 So omega-3 supplementation
+has been shown to be
+5297.1 beneficial for ADHD.
+5298.39 Why am I talking about this in the context
+5300.04 of an episode on sugar
+and the nervous system?
+5302.34 Well, if you remember
+those neuropod cells,
+5304.99 those cells in your gut
+that respond to sugar
+5307.16 and send signals up to the brain
+5308.64 to cause the release of dopamine.
+5310.41 Well, it turns out that
+neuropod cells also respond to
+5314.58 amino acids and to fatty acids,
+5317.42 in particular, essential fatty acids.
+5320.29 So these cells that we
+call neuropod cells,
+5323.24 have three jobs.
+5325.3 One is to levels of sugar in the gut,
+5327.98 the other is to detect
+levels of amino acids,
+5331.09 and to detect levels of
+particular essential fatty acids,
+5334.76 and communicate that
+information to the brain.
+5338.38 And I should point out
+when I say communicate
+5339.99 that information, they're
+not actually saying,
+5341.34 hey, there's amino acids here,
+5342.79 or hey, there's sugar here,
+5344.54 or, hey, there's essential fatty acids,
+5346.13 because the language of these
+cells is somewhat generic.
+5349.19 It's just the firing of
+electrical potentials.
+5351.74 But that's the key point,
+5352.8 it's generic and all three
+or any of those three,
+5356.6 sugar, essential fatty
+acids, or amino acids,
+5359.51 will trigger these neurons to signal
+5361.96 to the brain to increase dopamine.
+5363.26 And it is not coincidental
+5364.97 that omega-3 fatty acid
+supplementation can help ameliorate
+5368.53 some of the symptoms of ADHD
+5371.76 by way of presumably increasing dopamine
+5374.98 in this neuropod to dopamine pathway
+5377.19 that we talked about earlier.
+5379.21 The whole thing has a very
+nice logical structure to it.
+5381.95 And points to yet again,
+5383.89 the immense value of
+bringing the proper amounts,
+5387.63 maybe even supplementing
+the proper amounts
+5389.57 of omega-3 fatty acids and the
+proper amounts of amino acids
+5392.93 into the gut as a way to supplant
+5395.96 some of the stimulation of these pathways
+5398.04 that would otherwise be caused by sugar.
+5401.47 There's actually a version
+of this where one could say,
+5404.15 if you want to reduce sugar cravings,
+5406.82 you might consider
+increasing certain forms
+5410.61 of amino acid intake or certain
+forms of fatty acid intake.
+5413.83 So what are some ways that we
+can reduce our sugar cravings,
+5417.23 and ideally ways that we can do that,
+5420.05 that also benefit us in other ways,
+5422.6 both nutritionally and from
+the neuroscience standpoint?
+5425.42 Well, these neuropod cells that respond to
+5429.28 and signal the brain when we
+ingest sugar, as I mentioned,
+5433.29 also respond to amino acids
+and essential fatty acids.
+5436.26 We already talked about
+the essential fatty acids.
+5438.78 I make it a particular
+point to ingest anywhere
+5440.8 from one to three grams, that's grams,
+5443.99 of EPA essential fatty acid per day.
+5447.22 I make it a point to do
+that with the ingestion
+5448.79 of high quality omega-3s.
+5451.09 For me, the simplest way to do that,
+5453.15 and I think for most people,
+the lowest cost way to do that,
+5456.46 is to use some liquid form of fish oil
+5458.37 or some capsule form of fish oil.
+5460.12 You really do have to see
+how much essential fatty acid
+5463.12 in the form of EPA is in those.
+5465.3 If you try and do that
+only through capsules,
+5468.02 it can get kind of expensive,
+5469.14 depending on which
+particular brands you use,
+5472.6 some have more EPA, some less.
+5474.32 You can, of course also
+do this through foods,
+5476.16 you can do this with non fish sources,
+5477.76 through things like algae,
+and there's some other forms,
+5480.23 you can look it up online now,
+5481.86 plant-based sources of EPAs,
+5484.18 you can do this with
+high quality fish oil.
+5486.83 In any case, that does
+seem at least based on
+5491.21 a modest amount, but
+nonetheless solid literature,
+5495.43 to reduce sugar cravings somewhat,
+5498.44 but that could easily be by
+mere replacement of calories.
+5502.06 So we don't know yet
+based on human studies,
+5504.67 whether or not the ingestion of those EPAs
+5506.47 is specifically activating
+the neuropod cells,
+5508.86 which specifically
+activates dopamine release
+5511.66 and bypasses the need for,
+or the craving for sugar.
+5515.19 We don't know that yet.
+5516.21 But logically, it holds up to assume that.
+5520.62 The fact that these neuropod cells
+5522.25 and I should say other
+neurons within the gut
+5524.69 respond very robustly to the presence
+5527.95 of particular amino acids
+is also a potential lever
+5533.04 by which one could reduce sugar cravings.
+5534.78 And there's an interesting literature
+5536.77 around the amino acid, glutamine,
+5538.63 in particular supplementing
+with the amino acid, glutamine,
+5541.48 as it relates to sugar cravings,
+5543.84 and certainly as it relates
+to other aspects of the gut,
+5547.73 in particular leaky gut.
+5549.6 The use of supplemental glutamine
+to try and treat leaky gut
+5552.7 is not a new phenomenon.
+5554.33 There are other approaches too, of course.
+5556.3 But there are many people
+who are experimenting
+5559.35 with supplementing with
+glutamine, several grams per day,
+5563.22 often even, you know, five
+grams distributed through
+5566.56 three or four different
+servings throughout the day
+5569.41 as a way to blunt their sugar cravings.
+5571.61 Now there has not yet been
+a large scale clinical trial
+5575.94 using glutamine to reduce sugar cravings,
+5577.81 but the results of the few
+studies that I looked at,
+5581.35 as well as my understanding of the logic
+5583.66 of these neuro circuits,
+including the neuropod cells,
+5586.47 brings us to a conclusion
+that it makes sense
+5590.1 why if there's a population
+of neurons within our gut,
+5593.28 that responds very robustly
+5594.87 to the presence of sugar,
+fatty acids, or amino acids,
+5598.53 that the intake of particular amino acids
+5601.2 would allow the dopamine pathways
+5603.73 that might otherwise be triggered by sugar
+5606.35 to be triggered by
+something like glutamine,
+5608.62 which has very few or no calories.
+5611.19 And in fact, having talked
+about this previously,
+5614.21 a number of people that I
+know went out and tried this,
+5617.69 now this is of course is
+what I call anec data, right?
+5620.714 This is not a quality peer reviewed study,
+5623.58 this is anec data.
+5625.74 Many of them have reported back
+5627.56 that they actually feel
+as if their sugar cravings
+5629.87 are reduced.
+5631.0 I know some people who
+actually take glutamine
+5632.847 and mix it with full fat cream
+5634.51 and take it kind of like
+a shot of full fat cream,
+5636.07 which sounds absolutely
+delicious by the way,
+5637.72 glutamine is a little bit chalky,
+5638.85 so it's not that great
+tasting to ingest with sugar.
+5642.01 I should mention, if you do
+try and take this approach
+5643.99 of ingesting glutamine
+to reduce sugar cravings,
+5646.82 you want to increase
+the amount of glutamine
+5648.41 that you take somewhat gradually.
+5649.93 It can create some gastric distress
+5652.06 if you just, you know,
+5652.893 I certainly wouldn't take
+a big table spoon of it,
+5654.51 throw it in water and chug
+it down three times a day.
+5656.55 Some of you with very hardy stomachs
+5657.96 can probably tolerate that.
+5659.007 You know, if you're like my bulldog,
+5662.7 which unfortunately
+passed away, but Costello,
+5664.47 I always imagine that if ever
+we did an autopsy on him,
+5666.5 he'd have like a license plate
+5667.68 and like a human being in his gut,
+5669.49 'cause it seemed like
+he could ingest anything
+5671.07 with no issues,
+5671.903 but of course, many people
+have kind of sensitive guts.
+5674.52 So if you're going to try taking glutamine
+5677.35 as a means to reduce sugar cravings,
+5679.02 just know that the
+studies are still ongoing.
+5681.3 Some people have achieved benefit.
+5683.49 Please also realize that
+there's an entire literature
+5685.78 devoted to the potential
+hazards of increasing glutamine
+5689.466 if you have a preexisting cancer.
+5692.45 So if you have cancer
+or you're cancer prone,
+5694.64 I would really discourage
+you from this approach.
+5696.67 And in any case, as always,
+talk to your doctor.
+5699.84 The logic nonetheless is there,
+5701.44 why increasing amino acid
+intake or fatty acid intake
+5705.82 might decrease sugar craving.
+5708.73 Now there are other ways
+to reduce sugar craving
+5711.74 and there are certainly
+ways to reduce the sharp
+5714.98 rise in blood glucose that can occur
+5717.42 when we ingest sugary sweet foods
+5719.63 or even just an abundance
+of carbohydrate foods,
+5722.5 and there are a huge
+number of these things.
+5724.59 I'm going to sort of
+layer up through the ones
+5727.08 that you might find in your
+cupboard, at the grocery store,
+5729.04 and then get into some
+of the more extravagant
+5731.75 or I should say, esoteric ones,
+5734.12 many of which however can be quite potent.
+5736.6 The first of which is
+simple lemon juice, right,
+5740.99 or lime juice.
+5742.4 There was an old lore
+and actually some papers,
+5745.54 pointing to the idea that
+the ingestion of vinegar,
+5748.89 either white vinegar or wine vinegar,
+5751.93 could somehow blunt blood glucose
+5754.66 after the ingestion of sugary foods
+5756.3 or the ingestion of a lot
+of carbohydrate foods,
+5758.44 or even just a big meal.
+5760.29 Actually, Tim Ferris, I should
+say the great Tim Ferris,
+5763.01 'cause I do have great
+respect for the fact
+5764.57 that he seems to be about 10
+years ahead of everything,
+5768.07 both in terms of nutrition
+and skill learning
+5770.17 and things of that sort,
+5771.003 many of the things that
+he predicted in his books,
+5773.457 "The Four Hour Body"
+and "The Four Hour Chef"
+5775.75 actually turned out to be
+true based on scientific data,
+5779.31 some of which only exists
+in the animal models,
+5781.25 but now also some predictions
+that played out to be true
+5786.51 in both the animal models
+and and the human models.
+5788.58 So I think that Tim
+certainly deserves a hat tip
+5793.55 for the fact that he
+experimented with these methods
+5796.036 and reported his experiences
+with those methods
+5799.32 and that now some of them, many of them,
+5801.73 have been validated by
+what I perceive to be
+5803.85 quality science.
+5805.25 He talked about the fact that,
+5807.06 at least in his experiments on himself,
+5809.66 the ingestion of vinegar
+did not seem to blunt
+5813.47 blood glucose, and he was using
+continuous glucose monitors.
+5816.13 These incidentally, another
+example of where Ferris
+5818.53 was early to the game and the rest of us
+5821.08 are kind of just in his wake.
+5822.7 He talked about the use
+of blood glucose monitors,
+5825.78 those, I think at the time
+were implanted below the skin.
+5827.94 Nowadays there are less
+invasive blood glucose monitors,
+5831.09 things like Levels and so forth,
+5832.31 and these are actually
+becoming pretty popular.
+5834.1 I've worn one of these before.
+5835.25 They're actually pretty informative.
+5837.22 I learned for instance,
+that when I go in the sauna
+5839.94 that I experience a sharp
+rise in blood glucose.
+5843.37 And that makes sense because
+of the dehydration associated
+5847.23 with being in the sauna,
+a lot of sweating,
+5848.66 the concentration of sugar
+in the bloodstream goes up.
+5851.41 So there's some other
+things that certain foods
+5853.12 affect my blood glucose
+one way or another.
+5854.58 It's kind of an interesting
+and fun experiment
+5856.97 that some of you might be
+interested in doing as well.
+5859.88 Regardless, there are now
+data pointing to the fact
+5863.69 that lemon juice and lime juice,
+5866.37 a couple tablespoons or so,
+5868.5 if ingested before, or
+even during, or even after,
+5871.39 consumption of sugary foods,
+5873.34 or I should say foods that
+sharply increase blood glucose
+5877.13 or large carbohydrate meals,
+5878.66 can actually blunt the
+blood glucose response.
+5880.89 And I did see that when I did
+my own experiments on myself
+5884.29 with a continuous glucose monitor,
+5886.59 it was kind of fun to
+do those experiments.
+5889.66 I preferred to do those experiments
+5891.05 by eating somewhat larger meals
+5892.72 of things that didn't
+contain a lot of sugar.
+5894.8 I saw some big increases in blood glucose
+5896.62 in certain instances,
+5897.5 and then I would ingest some
+lemon juice or lime juice,
+5900.26 typically mixed in with water.
+5901.73 And sure enough, you could see a blunting
+5903.42 of the blood glucose response.
+5904.67 And of course this was
+real time, continuous,
+5907.83 hence continuous, blood
+glucose monitoring.
+5910.97 So for those of you that are interested
+5913.0 in blunting your blood sugar
+response, certain foods,
+5917.27 that's a simple, low cost way to do that,
+5919.33 if you want to explore it.
+5920.18 I will say, if you are fasting
+5923.02 and you already have low blood glucose,
+5925.18 and you ingest lemon juice,
+5927.77 or I should say some lemon juice and water
+5929.53 or lime juice and water,
+5931.3 be careful because you can
+actually become hypoglycemic.
+5934.72 For the very same reasons
+that that lemon juice
+5937.82 and lime juice can blunt blood glucose
+5939.67 when your blood glucose
+levels are moderate to high,
+5942.51 you can also reduce blood
+glucose levels even further
+5945.01 when blood glucose levels are low.
+5947.77 Now that's lemon juice
+and lime juice there.
+5950.16 But we can't say that has
+to do with acidic things,
+5953.15 generally.
+5954.21 And just as a side point,
+5956.12 many of you have probably
+seen in the store,
+5957.96 so called adjusted pH
+waters or foods and drinks
+5961.42 that are supposed to adjust your pH.
+5963.01 Hate to break it to you,
+5963.92 but your pH is very tightly regulated
+5966.47 throughout your brain and body.
+5967.95 You do not want this to change.
+5969.7 It is entirely impossible,
+at least in any safe way,
+5973.8 that you would become
+quote unquote more alkaline
+5975.99 by ingesting an alkaline
+water or something like that.
+5978.4 It is true that the pH,
+your alkalinity and acidity
+5982.17 varies in different
+compartments in your body,
+5983.9 that's important.
+5985.27 Unless you are hemorrhaging or vomiting,
+5988.22 or there's something badly
+wrong with you, health wise,
+5990.69 and you're in a really dire circumstance,
+5992.78 you don't want big shifts in your body pH
+5994.82 and your body has all sorts
+of ways of buffering against
+5998.37 changes in pH.
+5999.39 So I encourage you not to fall on the,
+6002.65 or hop on the bandwagon of adjusting pH
+6005.11 and becoming less acidic,
+and that kind of thing.
+6006.72 When you ingest lemon juice or lime juice,
+6008.77 the mechanism by which
+it blunts blood glucose
+6011.56 is probably twofold.
+6013.27 One is probably through
+the post-ingestive effects
+6017.19 of glucose in the gut,
+6018.56 meaning the way in which
+sugars are interacting
+6022.85 with neurons and other
+components of your gut circuitry
+6026.34 to impact things like
+gastric emptying time,
+6030.48 to impact things like the
+firing of those neuropod cells
+6033.907 and their signaling to the brain.
+6035.84 But almost certainly it
+has something to do also
+6040.12 with the perception of
+sour taste on the tongue.
+6043.29 We didn't go into this too
+much today, but you, of course,
+6047.35 don't just have sweet taste
+receptors in your mouth,
+6049.86 you also have bitter taste receptors,
+6051.26 you have salty taste receptors,
+6053.09 you have sour taste
+receptors in your mouth
+6055.34 and of course, that means
+your tongue and palate.
+6058.5 And those are interacting.
+6060.37 If you ingest a substance that's
+just sweet or mostly sweet,
+6065.98 that causes a certain set of
+effects on your blood glucose,
+6068.85 but also your brain, dopamine,
+6070.51 and the other neuro
+circuits of your brain.
+6072.65 If you also ingest something that's sour
+6075.77 like lemon juice or lime juice,
+6077.85 it adjusts the output
+of those neural circuits
+6080.94 in your brain.
+6081.86 So again, where you have a situation
+6083.63 where you have two parallel pathways,
+6085.29 one that's post-ingestive
+coming from phenomenon
+6087.83 within our gut neurons,
+6090.02 but also things like
+gastric emptying time,
+6091.67 the clearance and transfer of food,
+6095.55 and the conversion of food
+into particular nutrients
+6098.47 and the circulation of
+glucose in your bloodstream
+6101.39 and how it gets into the brain.
+6102.7 But also simply by
+ingesting something sour,
+6105.96 you are changing the way
+6107.02 that sweet things impact your brain.
+6110.3 And so I think it stands to reason
+6112.49 that the lemon juice/lime juice effect
+6115.19 is not going to be magic.
+6117.1 It's going to have
+everything to do with the way
+6118.8 that ingesting sour foods
+can adjust the taste.
+6122.57 Excuse me, can adjust the neural response
+6125.62 to taste of sweet foods.
+6127.0 And in fact, we know based
+on the beautiful work
+6129.36 of Charles Zuker at
+Columbia Medical School,
+6133.15 that that's exactly what I happens.
+6134.88 They've measured the activity of neurons
+6137.15 at various locations in the so-called
+6138.82 taste pathways of the brain.
+6140.43 And they found that when particular tastes
+6143.47 like just sweet or just
+bitter or just sour
+6145.86 evoke certain ensembles of neurons to fire
+6148.7 in particular sequences,
+6150.36 when sweet and sour are co-ingested,
+6152.84 when bitter and sour are co-ingested,
+6155.53 you get distinct ensembles,
+6157.53 meaning distinct patterns of
+activity of those neurons.
+6160.03 And of course, distinct
+patterns of downstream activity
+6163.25 within the brain and body.
+6164.41 So while it is still somewhat mysterious
+6167.48 as to how exactly things like
+lemon juice and lime juice
+6170.69 can reduce our blood glucose spikes.
+6173.73 When we ingest those with sweet foods
+6176.51 or carbohydrate laden
+foods, or with big meals,
+6179.74 you can use this as a tool
+with the understanding
+6181.69 that there's a grounding in the biology
+6183.65 of the way these circuits work.
+6185.14 Now, some of you have
+probably heard that cinnamon
+6187.22 can be a useful tool for
+controlling blood sugar.
+6189.4 And indeed that's the case.
+6190.93 It's very clear that cinnamon can adjust
+6193.69 the rate of glucose entry into the stream,
+6196.5 possibly by changing the
+rate of gastric emptying,
+6199.9 it might slow the rate of gastric emptying
+6202.88 and thereby also reduce the glycemic index
+6206.22 of particular foods.
+6207.22 So I suppose if I were
+going to eat a mango,
+6209.72 and I hadn't just done a
+bunch of hard training,
+6211.62 I might sprinkle some cinnamon on it here.
+6213.58 I always enjoy kind of
+coming up with new ideas
+6215.41 of ways that I can eat
+foods during these podcasts.
+6218.19 In any event, there's
+some debate out there,
+6219.96 if you look online as to
+whether or not Saigon Cinnamon,
+6222.08 Cassia cinnamon, excuse me,
+or Ceylon cinnamon is best
+6226.09 for purposes of blunting
+blood glucose spikes.
+6229.63 But I think the, at least
+by my read of the data
+6234.39 and from what I've found,
+6235.57 it doesn't really matter
+provided it's real cinnamon.
+6237.82 And you have to actually
+look and make sure
+6239.67 that it's real cinnamon,
+6240.93 because a lot of cinnamon
+that you buy is not real.
+6243.38 I do want to provide a cautionary
+note about cinnamon however.
+6246.63 Cinnamon contains
+something called coumarin.
+6249.27 which can be toxic at high levels.
+6252.27 So you don't want to ingest
+more than about a teaspoon,
+6255.67 maybe a teaspoon and a
+half of cinnamon per day,
+6258.87 because you'll start
+to exceed the threshold
+6260.49 at which cinnamon could
+start to be problematic.
+6263.37 But certainly if you're
+going to have a big meal
+6266.57 or a meal that has a lot of sugar in it,
+6269.14 or a lot of carbohydrate laden foods,
+6271.61 and you don't want an
+increase in blood glucose,
+6274.1 you could put cinnamon in a beverage,
+6276.96 you could put cinnamon on food
+6278.25 in order to blunt that
+blood glucose increase,
+6281.58 reduce the glycemic index
+6282.81 by way of reducing gastric emptying time.
+6284.7 Again, just making sure
+that you don't get out past
+6287.15 that one and a half teaspoons per day,
+6288.897 'cause you really don't
+want to start dealing
+6291.41 with any of the toxicity
+related to coumarin.
+6293.34 So we've talked about
+lemon juice and lime juice
+6295.58 and cinnamon, these
+are kind of commonplace
+6297.2 in many kitchens.
+6299.67 Then of course we can venture
+into the more esoteric
+6303.07 or I would say the more advanced tools
+6304.87 for adjusting sugar intake.
+6307.72 And the one that comes to
+mind is of course Berberine.
+6311.97 Berberine is a derivative of tree bark
+6314.6 and it is a very, very potent substance
+6317.17 for reducing blood glucose.
+6318.33 So much so that it is on par with
+6320.72 Metformin or Glibenclamide,
+6322.49 which are prescription
+drugs specifically used
+6325.45 to reduce blood glucose.
+6327.43 So using Berberine is a serious step,
+6330.62 you should absolutely talk
+to your doctor about it.
+6333.0 I know of a number of people that use it
+6334.34 to lower blood glucose when
+they eat really large meals.
+6337.73 I know the number of
+people that are using it
+6339.67 to get to some of the
+other effects of Metformin
+6343.59 that people have discussed,
+6344.61 things like activating or
+tapping into the so-called
+6348.314 AMPK pathway, reducing mTOR,
+6350.33 these are people that are
+aiming their activities
+6354.05 at increasing longevity,
+6355.99 a somewhat controversial approach, still,
+6358.06 but I know many people are doing it.
+6360.72 It is true that if you ingest Berberine,
+6363.1 your blood glucose will plummet.
+6365.46 And I point that out because
+I've actually tried it before,
+6368.1 it gave me brutal headaches
+and I felt really dizzy,
+6371.7 and I felt like I couldn't see straight.
+6373.78 And actually I couldn't see
+straight, why did it do that?
+6376.48 Well, it made me hypoglycemic.
+6378.58 It actually drove my blood
+glucose down too far.
+6381.85 And the reason it did that
+6383.18 is that I took Berberine
+on an empty stomach.
+6385.82 I know some people can tolerate it.
+6388.43 I would say, be very cautious
+about ingesting Berberine
+6390.98 on an empty stomach,
+6391.813 or if you are in a low carbohydrate diet,
+6394.2 unless you really know what you're doing
+6395.67 and you have a medical professional
+6396.99 to kind of guide you through that.
+6399.66 If I took Berberine along
+with a very large meal,
+6403.64 that included a lot of
+carbohydrates, you know,
+6405.79 I can recall the days in
+which Costello and I would eat
+6408.61 a couple of pizzas and then
+we might get ice cream,
+6411.11 that kind of thing.
+6411.943 Then I felt perfectly fine
+on even up to 750 milligrams
+6415.78 or a gram of Berberine.
+6417.42 It has the kind of unique
+property of making you feel
+6420.9 not overwhelmed by the amount
+of blood glucose increase
+6424.55 that you're experiencing
+from eating a big meal.
+6426.4 I don't quite know how
+else to describe it.
+6428.55 It's almost as if you can keep
+eating and eating and eating,
+6430.95 and of course you have to
+protect your gastric volume.
+6435.62 I mean, you only have so
+much space in your stomach
+6437.45 to ingest food.
+6439.12 I wasn't using it to gorge on
+food, I just heard about it,
+6441.73 I was interested in experimenting with it.
+6443.13 I don't have any chronic
+blood sugar issues.
+6445.76 But again, when I took
+it on an empty stomach,
+6447.64 it made me hypoglycemic on
+a low carbohydrate intake,
+6451.45 hypoglycemic, not a good experience.
+6454.52 And again, an experience I think to avoid.
+6457.84 But provided there's a lot of
+glucose in your bloodstream,
+6460.52 and certainly if you are
+of the experimental type
+6464.05 or you're trying to
+regulate blood glucose,
+6465.85 Berberine might be a good option.
+6467.54 But again, talk to your doctor.
+6469.56 It does have some other
+interesting effects
+6471.25 in terms of lowering total cholesterol
+6473.61 that are research supported
+6475.64 of reducing insulin a little bit.
+6478.48 Well, that's not surprising
+if you reduce blood glucose,
+6480.47 you're going to reduce
+insulin because of course,
+6482.21 insulin manages blood
+glucose in the bloodstream.
+6485.5 So I would place Berberine and of course,
+6487.58 Metformin and Glibenclamide in
+the kind of the heavy hitting
+6491.74 potent tools for regulating blood glucose.
+6494.95 Now, this is an episode,
+not about sugar per se,
+6497.83 but sugar viewed through the
+lens of the nervous system.
+6500.68 And what's interesting about
+6501.64 Berberine, Metformin, Glibenclamide
+and related substances,
+6505.36 is that some of the
+effects are of course on
+6509.21 gastric emptying or
+buffering blood glucose
+6511.1 within the bloodstream, et cetera.
+6513.86 But there appeared to also
+be some neural effects
+6517.33 of having chronically low glucose
+6520.88 or blunting blood glucose
+through things like Berberine.
+6524.56 And some of those neural effects include
+6527.2 longstanding changes in
+the hormonal cascades
+6531.03 that are the consequence
+of having low blood sugar
+6533.39 and thereby, changes
+in the neural circuits
+6536.75 that manage blood glucose overall.
+6538.89 The simple way of saying
+this is that by maintaining
+6542.32 low to moderate blood glucose,
+6543.84 either by not ingesting heavily
+carbohydrate laden foods.
+6547.57 So here I'm speaking to the
+low carb or the ketogenic types
+6550.78 or by blunting blood
+glucose through things like
+6553.59 Metformin or Berberine,
+6555.64 even if ingesting carbohydrates,
+maybe even some sugars,
+6558.47 over time, it seems that
+there's a adjustment,
+6561.7 what we call a homeostatic regulation
+6564.0 of the neural circuits
+that control things like
+6565.89 sugar craving, and indeed,
+6567.8 some people report feeling
+fewer sugar cravings over time.
+6571.73 Now I didn't use Berberine for
+a very long period of time,
+6574.94 I've never used Metformin.
+6576.56 I have experienced a somewhat
+odd but welcome phenomenon
+6580.16 of with each progressive year of my life,
+6582.93 I have fewer and fewer sugar cravings.
+6585.76 Why that is, I don't know.
+6586.99 I suspect it might have
+something to do with my sleep.
+6589.34 And I'll talk about that in a few minutes.
+6591.28 But if you're going to explore
+6592.64 Berberine or Metformin or otherwise,
+6594.15 in addition to working with a doctor,
+6596.08 I think you should understand
+why you're doing it, right.
+6598.72 I think that many of the
+effects can be quite potent.
+6601.81 They can happen in both the immediate term
+6604.14 in terms of regulating blood glucose,
+6605.86 they can send you hypoglycemic
+if you aren't careful,
+6609.29 they can also cause longstanding changes
+6612.34 to the neural circuitry that regulates
+6613.95 blood sugar over time.
+6615.03 Some of which might be
+welcome changes, right?
+6616.95 Reduce sugar cravings for instance.
+6619.04 And if you are really, really serious
+6621.69 about modulating blood glucose
+6623.55 through things like Berberine,
+6625.4 the typical dose range, again,
+6626.87 is anywhere from half a
+gram to 1.5 grams daily,
+6630.59 that's the typical dosages
+that have been explored.
+6633.22 And there are some other
+substances like sodium caprate
+6637.61 which are known to augment
+the effects of Berberine
+6640.16 via the AMPK pathways.
+6642.23 They basically can increase
+the ability for Berberine
+6645.21 to have its glucose lowering actions.
+6647.37 But that of course is getting
+into the really potent,
+6649.84 what I would call sharp blade tools
+6651.63 for controlling blood glucose.
+6653.6 And listen, anytime you're
+dealing with blood glucose,
+6656.88 you are dealing with the brain's
+preferred source of fuel.
+6660.15 And anytime you're dealing
+6660.983 with the brain's preferred source of fuel,
+6663.3 you have to be especially cautious
+6664.81 about depriving the
+brain of what it needs.
+6667.05 So whether or not you're
+low carb, high carb,
+6670.16 you know, keto, vegan,
+carnivore, these substances,
+6673.36 like Berberine, are very, very potent
+6675.07 and you need to take them seriously.
+6676.7 There is yet another tool for
+controlling sugar cravings
+6680.01 and the neural circuits
+that regulate sugar craving
+6683.76 and its downstream consequences.
+6686.33 And this tool is what I would
+call a high performance tool,
+6690.25 but it's one that you
+probably didn't suspect
+6693.89 and that's sleep.
+6696.02 I've done extensive episodes about sleep,
+6698.7 and we actually have an episode
+called master your sleep.
+6702.02 You can find that episode
+easily at hubermanlab.com.
+6704.46 It's available in all the various formats,
+6706.03 YouTube, Apple, Spotify, et cetera.
+6707.91 and it provides a lot of tools.
+6709.69 And on social media, I
+provide a lot of tools,
+6711.67 often we have a newsletter
+that provides tools
+6713.2 on how to maximize sleep.
+6716.2 What is the role of sleep
+in sugar metabolism,
+6720.58 sugar, hunger, and the way that the brain
+6723.41 regulates those things?
+6724.66 Well, there's a really
+exciting study that came out
+6728.25 just last year.
+6730.017 This study was published in
+the journal, Cell Report,
+6731.94 a Cell Press journal, excellent journal.
+6734.12 And the reason I love this study so much,
+6736.1 is it involved having people,
+6737.48 so yes, this was done in
+humans, sleep in the laboratory.
+6740.56 That's not unusual, there's
+a sleep lab at Stanford,
+6742.77 there's sleep labs elsewhere.
+6744.42 But what they did was
+they actually measured
+6747.77 from the breath of these people,
+6750.27 and they extracted from their breath,
+6753.34 the metabolites that would allow them
+6755.39 to understand what sorts of metabolism
+6758.28 was occurring in these people's bodies
+6760.05 at different phases of sleep.
+6762.17 And this is a really remarkable study.
+6764.2 They actually did this every 10 seconds
+6767.7 throughout the entire night.
+6768.8 So in little tiny 10 second bits,
+6770.85 meaning at very high resolution,
+6772.48 they could evaluate what is the metabolism
+6774.26 in the brain and body
+that people experience
+6776.28 as they go from REM sleep,
+rapid eye movement sleep
+6778.59 to slow wave, sleep, and so on.
+6780.79 And I'll go deeper into the
+study again in the future,
+6783.55 because it's so interesting,
+and I think so important.
+6785.8 But what they discovered
+was that each stage of sleep
+6789.43 was associated with a very
+particular signature pattern
+6792.43 of metabolism and
+particular phases of sleep
+6796.15 are associated with sugar metabolism,
+6798.62 or more with fat metabolism,
+6800.5 or more with other aspects of metabolism.
+6803.21 And the reason why I think
+this study is important
+6806.22 to discuss in the context
+of today's discussion
+6808.61 about sugar in the brain,
+6810.15 is that many people have experienced
+6813.84 the effects of disrupted
+sleep on their appetite.
+6816.96 And in particular, it's been
+reported that when people
+6819.91 are sleep deprived or the quality
+6821.79 of their sleep is disrupted,
+6823.69 that their appetite for
+sugary food increases.
+6826.78 Now that was always assumed to
+be due to some metabolic need
+6832.3 that was triggered by
+the sleep deprivation
+6834.12 or by the poor sleep.
+6835.59 But in reading over this study,
+6836.78 some of the more important
+points made by the authors
+6839.12 relate to the fact that well,
+6840.71 sleep is known to have
+incredibly important effects
+6843.56 on brain and body, for
+a variety of systems,
+6845.92 immune system, neural
+functioning, et cetera.
+6848.88 This very organized sequence of particular
+6852.57 forms of metabolism being active
+6854.89 during particular phases of sleep,
+6856.57 which are very, very well orchestrated,
+6858.52 as we know, slow wave sleep, and REM sleep
+6860.91 being orchestrated in 90 minutes,
+6862.36 so-called ultradian cycles
+and so on and so forth,
+6865.9 is thought to of perhaps
+set up the brain and body
+6869.21 to be able to regulate
+itself in the waking hours.
+6872.4 And therefore, when
+people are sleep deprived
+6875.12 or deprived of certain forms
+or states within sleep,
+6878.81 such as rapid eye movement sleep,
+6882.06 that it creates a disruption
+6883.94 in a particular set of metabolic pathways.
+6886.66 Now we don't a leap
+too far from this study
+6888.77 to sugar metabolism
+and the neural circuits
+6890.64 controlling sugar metabolism.
+6892.3 But I will say this, if
+you look at the sum total
+6896.03 of the data on obesity
+or on type two diabetes
+6900.7 or on metabolic syndromes of any kind,
+6902.9 you almost always see
+disruptions in sleep.
+6906.53 Now, some of those could
+be you do to sleep apnea
+6909.27 caused by even just the
+size of somebody's neck
+6912.01 or the weight of their body.
+6914.89 In other words, we don't know
+the direction of the effect,
+6917.27 metabolic syndromes could disrupt sleep,
+6919.03 which disrupt metabolic syndromes.
+6920.77 And indeed the authors point
+out quite appropriately,
+6923.84 that they don't understand the direction
+6925.8 of the effects that they observe either.
+6928.16 But there is now a plethora
+of data pointing to the fact
+6932.35 that getting quality sleep each night
+6934.52 helps regulate not only appetite,
+6937.31 but also the specific forms of metabolism
+6939.76 that drive specific appetites.
+6942.18 So the takeaway is,
+6944.33 while there are extravagant
+and potent and interesting ways
+6949.89 to regulate blood glucose,
+6950.97 everything from cinnamon to
+lemon juice, to Berberine,
+6953.18 to sodium caprate, to behavioral tools,
+6956.17 to the mere understanding of how
+6957.69 the direct and indirect pathways
+6960.0 go from the gut to dopamine, et cetera,
+6963.3 if you're not establishing
+the firm foundation
+6966.38 of proper metabolism,
+6969.12 all of those things are going
+to be sort of rearranging
+6972.5 deck chairs on the Titanic
+as it's sometimes described.
+6975.92 So we can't overstate the importance
+6977.27 of getting regular sufficient
+amount of high quality sleep,
+6981.29 at least 80% of the time,
+6982.867 not for sake of immune system
+function, for clear thinking,
+6985.86 et cetera, but also for properly
+regulating our metabolism,
+6990.2 including our sugar metabolism.
+6992.1 Thank you for joining
+me for this discussion
+6993.58 about sugar and the nervous system
+6994.95 and how they are regulating each other
+6996.74 in both the brain and body.
+6998.94 If you're enjoying and/or
+learning from this podcast,
+7001.31 please subscribe to our YouTube channel.
+7003.02 That's a terrific zero
+cost way to support us.
+7005.7 Please also subscribe to our
+podcast on Apple and Spotify.
+7009.03 And on Apple, you have the
+opportunity to leave us
+7010.97 up to a five star review.
+7012.88 If you have comments and
+feedback or suggestions
+7014.9 for future topics and guests,
+7016.54 please leave those in the
+comments section on YouTube.
+7019.7 In addition, please check
+out the sponsors mentioned
+7021.78 at the beginning of today's podcast,
+7023.72 that's best way to support us.
+7025.58 In addition, we have a Patreon,
+7027.45 it's patreon.com/andrewhuberman.
+7030.15 And there you can support the podcast
+7031.98 at any level that you like.
+7033.42 If you're not already following
+Huberman Lab on Instagram
+7035.87 or Twitter, please do so.
+7037.34 There I cover science
+and science-based tools
+7040.09 that sometimes overlap with
+the content of the podcast,
+7042.71 but often is distinct from
+the content of the podcast.
+7045.75 During today's episode,
+7046.78 and on many previous episodes
+of The Huberman Lab Podcast,
+7049.48 I've discussed supplements.
+7050.86 While supplements aren't
+necessary for everybody,
+7053.07 many people derive
+tremendous benefit from them.
+7055.36 One issue with supplements
+7056.51 is that if you're going to take them,
+7058.3 you want to make sure that they have
+7059.32 the absolute highest quality.
+7061.07 For that reason, we've
+partnered with Thorne,
+7063.01 that's T-H-O-R-N-E,
+7065.04 'cause Thorn has partnered for instance,
+7067.14 with all the major sports
+teams and the Mayo Clinic.
+7070.37 There's tremendous trust in the fact
+7071.96 that Thorne supplements contain
+7073.64 the specific amounts of supplements
+7075.19 that are listed on the bottle
+7076.16 and that the quality of the
+ingredients they include
+7078.41 are of the very highest standards.
+7081.35 If you want to see the
+supplements that I take,
+7082.88 you can go to thorne.com/U/Huberman,
+7087.1 and you can get 20% off any of
+the supplements listed there.
+7090.28 Also, if you navigate
+further into the Thorne site,
+7092.59 through that portal,
+thorne.com/U/Huberman,
+7095.74 you can also get 20% off
+any of the other supplements
+7098.34 that Thorne makes.
+7099.29 Also, if you haven't yet signed up
+7100.61 for the Huberman Lab
+Neural Network Newsletter,
+7103.6 it's a semimonthly newsletter
+7105.53 that includes summaries
+of various podcasts,
+7108.34 it has some actionable protocols,
+it's completely cost free.
+7111.45 You simply provide your email.
+7113.2 We have a very clear privacy policy.
+7116.09 We do not share your email.
+7117.4 If you want to get the newsletter,
+7118.57 you can go to Hubermanlab.com.
+7120.32 Just go to the menu, you can
+find the sign up there easily.
+7123.02 You can also see some examples
+of previous newsletters
+7125.75 without having to sign up at all.
+7127.34 And last, but certainly not least,
+7129.5 thank you for your interest in science.
+7131.12 [upbeat music]

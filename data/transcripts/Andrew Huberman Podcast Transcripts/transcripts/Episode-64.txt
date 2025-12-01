@@ -1,0 +1,3951 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+1.91 where we discuss science
+and science-based tools
+4.93 for everyday life.
+5.763 [upbeat music]
+9.32 I'm Andrew Huberman and I'm
+a Professor of Neurobiology
+11.77 and Ophthalmology at
+Stanford School of Medicine.
+14.96 Today my guest is Dr. David Berson,
+17.22 Professor of Medical Science,
+Neurobiology and Ophthalmology
+20.47 at Brown University.
+22.29 Dr. Berson's laboratory is credited
+23.758 with discovering the cells in the eye
+26.01 that set your circadian rhythms.
+27.802 These are the so-called intrinsically
+30.12 photosensitive melanopsin cells.
+32.06 And while that's a mouthful,
+33.75 all you need to know for sake
+of this introduction is that,
+36.051 those are the cells that
+inform your brain and body
+38.81 about the time of day.
+40.61 Dr. Berson's laboratory has also made
+42.153 a number of other important discoveries
+44.27 about how we convert our
+perceptions of the outside world
+47.91 into motor action.
+50.11 More personally, Dr. Berson
+has been my go-to resource
+53.29 for all things neuroscience
+for nearly two decades.
+57.23 I knew of his reputation
+as a spectacular researcher
+60.22 for a long period of time.
+61.71 And then many years ago, I cold
+called him out of the blue,
+65.11 I basically corralled him
+into a long conversation
+68.26 over the phone after which
+he invited me out to Brown
+70.96 and we've been discussing neuroscience
+73.05 and how the brain works and
+the emerging new technologies
+76.75 and the emerging new
+concepts in neuroscience
+79.5 for a very long time now.
+82.05 You're going to realize today
+83.13 why Dr. Berson is my go-to source.
+85.64 He has an exceptionally
+clear and organized view
+89.3 of how the nervous system works.
+91.39 There are many many parts
+of the nervous system,
+93.58 different nuclei and connections
+and circuits and chemicals
+96.46 and so forth, but it takes
+a special kind of person
+99.21 to be able to organize that
+information into a structured
+102.33 and logical framework that
+can allow us to make sense
+105.76 of how we function in
+terms of what we feel,
+108.22 what we experience, how
+we move through the world.
+111.07 Dr. Berson is truly one
+of a kind in his ability
+114.09 to synthesize and organize and
+communicate that information.
+117.41 And I give him credit
+as one of my mentors,
+120.15 and one of the people that I respect most
+122.3 in the field of science and
+medical science generally.
+125.27 Today Dr. Berson takes us on a journey
+127.62 from the periphery of the nervous system,
+129.36 meaning from the outside,
+131.24 deep into the nervous
+system layer by layer,
+134.07 structure by structure, circuit by circuit
+136.394 making clear to us
+137.91 how each of these individual circuits work
+140.05 and how they work together as a whole.
+142.47 It's a really magnificent description
+144.53 that you simply cannot
+get from any textbook,
+147.47 from any popular book and
+frankly, as far as I know,
+150.31 from any podcast that
+currently exists out there.
+153.16 So it's a real gift to
+have this opportunity
+154.92 to learn from Dr. Berson.
+156.203 Again, I consider him my
+mentor in the field of learning
+160.0 and teaching neuroscience,
+161.48 and I'm excited for you to learn from him.
+163.81 One thing is for certain,
+by the end of this podcast,
+166.72 you will know far more about
+how your nervous system works
+169.59 than the vast majority of people out there
+171.303 including many expert
+biologists and neuroscientists.
+175.36 Before we begin, I'd like to
+emphasize that this podcast
+178.04 is separate from my teaching
+and research roles at Stanford.
+180.98 It is however part of my desire and effort
+182.92 to bring zero-cost to consumer
+information about science,
+185.5 and science-related tools
+to the general public.
+188.25 In keeping with that theme,
+189.27 I'd like to thank the
+sponsors of today's podcast.
+191.705 Our first sponsor is Athletic Greens.
+194.29 Athletic Greens is an all-in-one
+195.9 vitamin mineral probiotic drink.
+198.32 I've been taking Athletic
+Greens every day since 2012.
+201.54 So I'm delighted that they're
+sponsoring the podcast.
+203.94 The reason I started
+taking Athletic Greens
+205.75 and the reason I still take
+Athletic Greens is that,
+207.502 it covers all of my vitamin
+mineral and probiotic needs.
+211.52 Nowadays there's a lot of data out there
+213.61 pointing to the fact that
+a healthy gut microbiome
+216.28 literally, little microbes
+that live in our gut,
+218.31 that are good for us
+is important to support
+220.75 our immune system, our nervous
+system, our endocrine system,
+223.66 and various aspects of our
+immediate and long-term health.
+226.54 With Athletic Greens I get
+all the vitamins and minerals
+229.25 that I need plus the probiotics
+231.72 ensure a healthy gut microbiome.
+233.58 It also tastes really good, I
+mix mine up with some water,
+235.99 a little bit of lemon juice,
+I'll have that early in the day
+238.27 and sometimes a second time
+later in the day as well.
+240.77 It's compatible with intermittent fasting,
+242.305 it's compatible with vegan
+diets, with keto diets,
+245.99 and essentially every diet
+247.23 that you could possibly imagine out there.
+249.529 It's also filled with
+adaptogens for recovery,
+252.21 it has digestive enzymes for gut health,
+254.07 and has a number of other things
+255.14 that support the immune system.
+257.55 If you'd like to try Athletic Greens,
+258.93 you can go to athleticgreens.com/huberman
+261.47 to claim their special offer.
+262.99 They'll give you five free travel packs
+264.49 that make it really easy
+to mix up Athletic Greens
+266.36 while you're on the road,
+267.48 and they'll give you a year's
+supply of vitamin D3K2.
+270.98 There's now a lot of
+evidence that vitamin D3
+273.83 supports a huge number
+of metabolic factors,
+277.55 immune system factors, endocrine factors,
+279.365 basically, we need vitamin D3,
+281.38 we can get it from the sun,
+282.72 but many people are
+deficient in vitamin D3
+285.23 even if they are getting
+286.43 what they think is sufficient sunlight.
+288.33 And K2 is important for
+cardiovascular health.
+290.76 So again, if you go to
+athleticgreens.com/huberman,
+293.65 you can claim their special offer,
+295.18 the five free travel packs,
+296.36 plus the year supply of vitamin D3K2.
+299.21 Today's podcast is also
+brought to us by InsideTracker.
+302.229 InsideTracker is a
+personalized nutrition platform
+304.566 that analyzes data from your blood and DNA
+307.33 to help you better understand your body
+308.85 and help you reach your health goals.
+310.76 I've long been a believer in
+getting regular blood work done
+313.69 for the simple reason
+that many of the factors
+315.967 that impact your immediate
+and long-term health
+318.229 can only be analyzed from
+a quality blood test.
+321.12 And now with the advent
+of modern DNA tests,
+323.62 you can also get information
+about how your specific genes
+326.22 are impacting your immediate
+and long-term health.
+328.77 Now a problem with a lot of blood tests
+330.26 and DNA tests out there,
+is you get the numbers back
+332.73 but you don't know what
+to do with those numbers,
+334.75 with InsideTracker they make
+it very simple to figure out
+338.05 what to do to bring those
+numbers into the ranges
+340.37 that are right for you.
+341.61 They have a dashboard
+that's very easy to use,
+344.34 you can see the numbers from
+your blood and/or DNA tests,
+347.81 and it will point to
+specific lifestyle factors,
+349.788 nutritional factors as
+well as supplementation
+353.3 maybe even prescription factors
+that would be right for you
+355.96 to bring the numbers
+into range that are ideal
+357.98 for your immediate and
+long-term health goals.
+360.4 Another feature the InsideTracker has
+361.761 is their inner age test.
+363.96 This test shows you what
+your biological age is
+366.24 and compares that to
+your chronological age
+368.53 and what you can do to
+improve your biological age,
+371.26 which of course is the important number.
+373.13 If you'd like to try InsideTracker
+374.51 you can visit insidetracker.com/huberman
+377.12 to get 25% off any of
+InsideTracker's plans.
+380.09 Also an interview I did with
+Longevity Research Doctor
+383.41 and InsideTracker's
+Founder Dr. Gil Blander,
+385.523 is out now on their podcast,
+the longevity by design podcast
+389.6 and a link to that interview
+390.75 can be found in today's show notes.
+392.85 Today's episode is also
+brought to us by Magic Spoon.
+395.96 Magic Spoon is a zero sugar, grain-free,
+398.49 keto-friendly cereal.
+400.18 I don't follow a ketogenic diet.
+401.92 The way that I eat is basically geared
+403.84 toward feeling alert
+when I want to be alert
+406.13 and feeling sleepy when
+I want to go to sleep.
+408.04 Which for me means fasting
+until about 11:00 am or noon
+410.66 most days, then I eat
+low carb during the day.
+413.97 So I'll have some meat or
+fish or chicken and some salad
+416.62 that's what works for
+me, and in the afternoon,
+418.33 I remain on a more or
+less low carb-ish diet,
+421.07 and then in the evening, I eat
+pastas and things primarily
+423.687 and I throttle back on the protein
+425.44 and that's what allows me
+to fall asleep at night.
+427.17 That's just what works for me.
+428.72 So if I want a snack in the afternoon,
+430.79 I want that to be a
+ketogenic or low carb snack
+434.1 and that snack these days is Magic Spoon.
+436.86 Magic Spoon is really terrific,
+it has zero grams of sugar,
+439.51 13 to 14 grams of protein,
+441.15 and only four net grams of
+carbohydrates in each serving.
+444.25 It's really delicious,
+445.16 they have a number of
+different flavors like cocoa,
+447.24 fruity, peanut butter and frosted,
+449.34 I particularly like frosted.
+451.13 It tastes like donuts
+and I really like donuts
+453.28 although I try not to eat
+donuts too often if ever.
+456.58 What I do lately, is I take Magic Spoon,
+458.61 I put it in some Bulgarian
+yogurt which is really good
+460.99 and I mix that up, I put those in there
+461.923 and sometimes I put some cinnamon on them.
+464.03 And as I'm describing this,
+464.9 I'm getting hungry for Magic Spoon.
+466.21 So if you want to try Magic Spoon,
+467.99 you can go to magicspoon.com/huberman
+470.95 to get their variety pack.
+472.19 Just use the promo code
+Huberman at checkout
+474.63 to get $5 off your order.
+476.34 Again, that's magicspoon.com/huberman
+479.01 and use the code Huberman to get $5 off.
+481.78 And now for my discussion with
+Dr. David Berson, welcome.
+486.04 - Thank you.
+- Yeah.
+487.0 - So nice to be here.
+488.16 - Great to have you.
+490.62 For more than 20 years
+you've been my go-to source
+493.17 for all things, nervous
+system how it works,
+495.92 how it's structured.
+497.14 So today I want to ask you
+some questions about that.
+500.16 I think people would gain a lot
+of insight into this machine
+503.88 that makes them think and
+feel and see, et cetera.
+508.37 If you would, could
+you tell us how we see?
+512.8 A photon of light enters
+the eye, what happens?
+517.51 - Right.
+518.343 - How is it that I look
+outside, I see a truck drive by,
+521.35 or I look on the wall I
+see a photo of my dog,
+525.41 how does that work?
+526.35 - Right, so this is an
+old question obviously.
+529.13 And clearly in the end,
+530.93 the reason you have a visual experience
+532.83 is that your brain is got
+some pattern of activity
+536.16 that associates with the
+input from the periphery.
+539.14 But you can have a visual experience
+540.79 with no input from the periphery as well.
+542.59 When you're dreaming, you're seeing things
+546.05 that aren't coming through your eyes.
+547.49 - Are those memories?
+549.59 - I would say in a sense
+550.76 they may reflect your visual experience
+553.18 they're not necessarily
+specific visual memories,
+555.16 but of course they can be.
+556.77 But the point is, that
+the experience of seeing
+558.91 is actually a brain phenomenon.
+562.35 But of course, under normal circumstances,
+564.55 we see the world because
+we're looking at it
+566.51 and we're using our eyes to look at it.
+568.54 And fundamentally, when we're
+looking at the exterior world,
+572.29 it's what the retina is
+telling the brain that matters.
+575.07 So there are cells called ganglion cells,
+577.9 these are neurons that are the
+key cells for communicating
+581.21 between eye and brain, the
+eye is like the camera,
+584.45 it's detecting the initial image,
+586.46 doing some initial processing,
+587.7 and then that signal gets
+sent back to the brain proper
+591.53 and of course, it's there
+at the level of the cortex
+594.36 that we have this conscious
+visual experience.
+596.25 There are many other places in the brain
+597.433 that get visual input as
+well doing other things
+600.94 with that kind of information.
+602.79 - So I get a lot of
+questions about color vision.
+606.01 If you would, could you explain
+608.36 how is it that we can perceive
+reds and greens and blues
+612.35 and things of that sort.
+613.49 - Right, so the first thing
+to understand about light,
+616.43 is that it's just a form of
+electromagnetic radiation,
+620.98 it's vibrating, it's oscillating, but.
+623.62 - When you say it's
+vibrating, it's oscillating,
+625.58 you mean that photons are actually moving?
+628.5 - Well in a sense, photons
+they're certainly moving
+630.66 through space, we think
+about photons as particles
+634.47 and that's one way of
+thinking about light,
+636.07 but we can also think of it
+as a wave like a radio wave,
+639.23 either way is acceptable.
+640.89 And the radio waves have frequencies
+642.6 like the frequencies
+on the your radio dial,
+645.28 and certain frequencies in
+the electromagnetic spectrum
+648.094 can be detected by neurons in the retina,
+651.0 those are the things we see,
+652.98 but there's still different
+wavelengths within the light
+655.39 that can be seen by the eye.
+657.8 And those different wavelengths
+are unpacked in a sense
+660.54 or decoded by the nervous system
+663.57 to lead to our experience of color.
+667.55 Essentially, different
+wavelengths give us the sensation
+670.54 of different colors through the auspices
+673.7 of different neurons that are tuned
+675.9 to different wavelengths of light.
+677.7 - So when a photon, so
+when a little bit of light
+681.24 hits my eye goes in,
+683.8 the photoreceptors convert
+that into electrical signal?
+686.47 - Right.
+687.303 - How is it that a given photon of light
+690.7 gives me the perception eventually,
+692.41 leads the perception of red
+versus green versus blue?
+695.2 - Right, so if you imagine
+that in the first layer
+700.03 of the retina where this
+transformation occurs
+702.31 from electromagnetic
+radiation into neural signals
+706.54 that you have different
+kinds of sensitive cells
+709.74 that are expressing, they're
+making different molecules
+714.02 within themselves for this express purpose
+716.48 of absorbing photons
+which is the first step
+719.36 in the process of seeing, now
+it turns out that altogether,
+723.565 there are about five proteins like this
+726.7 that we need to think about
+in the typical retina,
+729.344 but for seeing color
+really it's three of them.
+731.89 So they're three different proteins,
+733.34 each absorbs light with a
+different preferred frequency,
+737.59 and then the nervous system
+keeps track of those signals
+742.67 compares and contrasts them
+to extract some understanding
+745.73 of the wavelength composition of light.
+748.11 So you can see just by
+looking at a landscape,
+750.65 or it must be late in the day
+753.39 because things are looking golden
+754.99 that's all a function of
+our absorbing the light
+758.57 that's coming from the world
+759.695 and interpreting that with our brain
+761.7 because of the different
+composition of the light
+764.54 that's reaching our eyes.
+765.709 - Is it fair to assume
+that my perception of red
+768.21 is the same as your perception of red?
+770.23 - Well, that's a great question.
+771.207 - And that mine is better?
+773.959 I'm just kidding, I'm just kidding.
+774.792 [laughs]
+775.625 - It's a great question, it's
+a deep philosophical question.
+777.6 It's a question that really
+probably can't even ultimately
+779.96 be answered by the usual
+empirical scientific processes,
+785.17 'cause it's really about
+an individual's experience.
+790.3 What we can say is that
+the biological mechanisms
+794.34 that we think are important
+for seeing color for example,
+797.45 seem to be very highly similar
+799.52 from one individual to the next
+whether it be human beings,
+802.04 or other animals.
+804.22 And so we think that the
+physiological process
+807.51 looks very similar on the front end,
+809.78 but once you're at the level
+of perception or understanding
+813.117 or experience, that's something
+that's a little bit tougher
+817.67 to nail down with the sorts
+of scientific approaches
+822.57 that we approach biological
+vision let's say.
+826.09 - You mentioned that there
+are five different cone types
+829.06 essentially, the cones being
+the cells that absorb light
+831.64 of different wavelengths.
+833.82 I often wondered when I had my dog,
+837.45 what he saw and how his vision
+differs from our vision.
+841.93 And certainly, there are
+animals that can see things
+844.22 that we can't see.
+845.12 - Right?
+845.953 - What are some of the more
+outrageous examples of that?
+848.581 - I've seen things.
+849.786 - And same things in the extreme.
+852.22 - Right.
+853.55 - Dogs I'm guessing see reds
+more as oranges, is that right?
+857.58 'Cause they don't have the
+same array of of neurons
+861.34 that we have for seeing color.
+862.92 - Right, so the first thing is,
+864.58 it's not really five types of colons,
+866.97 there are really three types of colons.
+868.84 And if you look at the
+way that color vision
+871.16 is thought to work, you can sort of see
+872.74 that it has to be three different signals.
+875.12 There are a couple of
+other types of pigments.
+877.3 One is really mostly for dim light vision.
+880.66 When you're walking
+around in a moonless night
+882.8 and you're seeing things
+with very low light
+885.73 that's the rod cell that
+uses its own pigment.
+889.22 And then there's another class of pigments
+891.37 we'll probably talk
+about a little bit later,
+892.96 this melanopsin pigment.
+894.39 - I thought you were
+referring to like ultraviolet
+896.26 and infrared and things like that.
+898.5 - Right, so in the case of a typical,
+901.67 well, let's put it this way.
+902.88 In human beings, most of
+us have three cone types
+906.54 and we can see colors that stem from that.
+910.84 In most mammals including
+your dog or your cat,
+915.9 there really are only two cone types
+918.53 and that limits the kind of
+vision that they can have
+921.84 in the domain of wavelength
+or color as you would say.
+925.08 So really, a dog sees the
+world kind of like a particular
+928.86 kind of color blind human
+might see the world,
+931.73 because instead of having
+three channels to compare
+933.77 and contrast they only have two channels
+935.76 and that makes it much more
+difficult to figure out exactly
+938.05 which wavelength you're looking at.
+940.14 - Do colorblind people
+suffer much as a consequence
+943.1 of being colorblind?
+944.47 - Well, it's like so
+many other disabilities.
+950.383 The world is built for people
+of the most common type.
+954.86 So in some cases, the
+expectation can be there
+959.66 that somebody can see something
+that they won't be able to
+962.0 if they're missing one of
+their cone types let's say.
+964.45 So in those moments, that
+can be a real problem.
+968.73 If there's a lack of contrast
+to their visual system,
+972.51 they will be blind to that.
+974.01 In general, it's a fairly
+modest visual limitation
+979.43 as things go.
+980.65 For example, if not
+being able to see acutely
+983.01 can be much more damaging,
+984.17 not being able to read
+fine print for example.
+986.542 - Yeah, I suppose if I had to give up
+990.0 the ability to see certain colors
+991.65 or give up the ability to see clearly,
+993.37 I could certainly trade
+out color for clarity.
+997.53 - Right, of course, color
+is very meaningful to us
+999.734 as human beings, so we
+would hate to give it up.
+1003.92 But obviously, dogs and cats
+and all kinds of other mammals
+1006.58 do perfectly well in the world.
+1008.11 - Yeah, because we take care of them.
+1009.27 I spent most of my time
+taking care of that dog.
+1013.15 - He took care of me too.
+1015.28 Let's talk about that odd photopigment.
+1020.88 Photopigment of course being
+the thing that absorbs light
+1023.55 of a particular wavelength,
+1025.1 and let's talk about these
+specialized ganglion cells
+1029.96 that communicate certain
+types of information
+1032.41 from eye to the brain
+that are so important
+1035.293 for so many things.
+1036.7 What I'm referring to here of course is,
+1038.46 your co-discovery of the so-called
+1040.15 intrinsically photosensitive cells,
+1042.31 the neurons in the eye that
+do so many of the things
+1045.06 that don't actually have
+to do with perception,
+1047.61 but have to do with important
+biological functions.
+1050.29 What I would love for you to do
+1051.21 is explain to me why once I heard you say
+1055.11 we have a bit of fly eye in our eye.
+1058.67 - Yeah.
+- And you showed this slide
+1060.19 of a giant fly from a horror movie.
+1063.46 - Yeah.
+- Trying to attack this woman.
+1065.8 - Yeah.
+1066.633 - And maybe it was an eye also.
+1068.6 So what does it mean that
+we have a bit of a fly eye
+1072.07 in our eye?
+1074.29 - Yeah, so this last pigment
+is a really peculiar one.
+1081.74 One can think about it
+1082.59 as really the initial
+sensitive element in a system
+1086.01 that's designed to tell your brain
+1088.35 about how bright things are in your world.
+1092.48 And the thing that's really
+peculiar about this pigment,
+1095.27 is that it's in the
+wrong place in a sense.
+1098.45 When you think about the
+structure of the retina,
+1100.6 you think about a layer cake essentially.
+1102.56 You've got this thin membrane
+at the back of your eye,
+1105.34 but it's actually a stack of thin layers
+1107.83 and the outermost of those layers
+1109.47 is where these photoreceptors
+1110.74 you were talking about
+earlier are sitting.
+1112.5 That's where the film of
+your camera is essentially,
+1115.44 that's where the photons do their magic
+1117.02 with the photo pigments and
+turn it into a neural signal.
+1119.16 - I like that I've never really thought
+1119.993 of the photoreceptors is
+the film of the camera,
+1122.04 but that makes sense.
+1122.93 - Or like the sensitive chip
+on CCD chip in your cell phone.
+1127.2 It's the surface on which
+the light pattern is imaged
+1130.12 by the optics of the eye,
+1132.25 and now you've got an array of sensors
+1134.22 that's capturing that information
+1136.34 and creating a bitmap essentially,
+1139.09 but now it's in neural signals
+1140.58 distributed across the
+surface of the retina.
+1143.29 So all of that was known to
+be going on 150 years ago,
+1148.35 a couple of types of
+photoreceptors cones and rods.
+1150.74 If you look a little bit more closely,
+1152.4 three types of cones, that's
+where the transformation
+1155.6 from electromagnetic
+radiation to neural signals
+1160.48 was thought to take place.
+1162.52 But it turns out that
+this last photopigment
+1164.7 is in the other end of the retina,
+1167.04 the innermost part of the retina,
+1168.5 that's where the so-called
+ganglion cells are.
+1170.54 Those are the cells
+that talk to the brain,
+1172.15 the ones that actually
+can communicate directly
+1174.87 what information comes to
+them from the photoreceptors.
+1178.24 And here you've got a case where actually,
+1181.15 some of the output neurons
+1182.772 that we didn't think had any business
+1184.79 being directly sensitive to light
+1187.0 were actually making this
+photopigment, absorbing light,
+1191.9 and converting that to neural signals
+1193.22 and sending it to the brain.
+1194.571 So that made it pretty
+surprising and unexpected,
+1198.64 but there are many surprising
+things about these cells.
+1201.8 - So, and what is the
+relationship to the fly eye?
+1205.24 - Right, so the link there is,
+1207.37 that if you ask how the photopigment
+1210.64 now communicates downstream
+1213.36 from the initial absorption event
+1215.96 to get to the electrical signal,
+1217.56 that's a complex cellular process
+1219.283 involves many chemical steps.
+1222.26 And if you look at how
+photoreceptors in our eyes work,
+1226.63 you can see what that cascade
+is, how that chain works.
+1230.34 If you look in the eyes
+of flies or other insects
+1234.222 or other invertebrates,
+1236.67 there's a very similar kind of chain.
+1238.72 But the specifics of how the signals
+1241.24 get from the absorption
+event by the pigment
+1243.6 to the electrical response
+1244.86 that the nervous system can understand,
+1247.03 are characteristically different
+1248.91 between fuzzy furry creatures like us
+1253.74 and insects for example like the fly.
+1256.49 - I see.
+1257.323 - So these funny extra photoreceptors
+1259.98 that are in the wrong layer
+1261.73 doing something completely different
+1263.07 are actually using a chemical cascade
+1266.76 that looks much more
+like what you would see
+1268.31 in a fly photoreceptor,
+1270.12 than what you would see
+in a human photoreceptor,
+1272.9 a rod or a cone for example.
+1274.62 So it sounds like it's a very
+primitive aspect of biology
+1279.33 that we maintain.
+1280.41 - Exactly right, exactly.
+1282.13 - And despite the fact that
+dogs can't see as many colors
+1284.33 as we can and cats can't see
+as many colors as we can,
+1286.89 we have all this extravagant
+stuff for seeing color
+1289.81 and then you got this other pigment
+1291.61 sitting in the wrong not wrong,
+1293.72 but in a different part of the eye
+1297.0 sending processing light very differently.
+1299.82 - Right.
+1300.653 - And sending that
+information into the brain.
+1302.49 So, what do these cells do?
+1306.39 Presumably, they're there for a reason.
+1307.84 - They are, and the
+interesting thing is that,
+1311.91 one cell type like this
+carrying one kind of signal
+1316.37 which I would call a
+brightness signal essentially,
+1320.24 can do many things in the brain.
+1322.15 - When you say brightness
+signal you mean that,
+1324.54 like right now, I have these
+cells do I have these cells?
+1326.807 Of course.
+- You do.
+1327.64 - I'm joking, I hope I
+have these cells in my eye.
+1329.8 And they're paying attention
+to how bright it is overall,
+1332.8 but they're not paying attention
+1333.7 for instance to the edge of area
+1334.99 or what else is going on in the room.
+1336.8 - Right, so it's the difference
+1338.5 between knowing what the
+objects are on the table
+1341.78 and knowing whether it's bright enough
+1343.21 to be daylight right now.
+1345.86 So why does your nervous
+system need to know
+1349.0 whether it's daylight right now?
+1350.75 Well, one thing that needs to know
+1352.01 that is your circadian clock.
+1354.03 If you travel across time zones to Europe,
+1357.47 now your internal clock
+thinks it's California time,
+1361.97 but the rotation of the earth
+1364.3 is for different part of the planet.
+1366.359 The rising and setting of the sun
+1367.88 is not at all what your
+body is anticipating.
+1370.29 So you've got an internal representation
+1372.12 of the rotation of the
+earth in your own brain,
+1374.64 that's your circadian
+system it's keeping time.
+1378.68 But now you've played a
+trick on your nervous system,
+1381.01 you put yourself in a different place
+1382.11 where the sun is rising
+at the quote wrong time.
+1385.68 Well, that's not good for you, right?
+1387.63 So you got to get back on track.
+1388.98 One of the things this system does,
+1391.26 is sends a oh, it's daylight
+now signal to the brain,
+1394.98 which compares with its internal clock.
+1396.86 And if that's not right, it
+tweaks the clock gradually
+1400.47 until you get over your jet lag
+1401.86 and you feel back on track again.
+1404.1 - So the jet lag case
+makes a lot of sense to me,
+1406.97 but presumably, these elements
+didn't evolve for jet lag.
+1411.41 - Right.
+1412.243 - So, what are they doing
+on a day-to-day basis?
+1415.87 - Right, well one way to
+think about this is that,
+1418.71 the clock that you have
+in not just your brain,
+1422.98 in all the cells, almost all
+of the cells of your body,
+1425.67 they're all oscillating, they're all.
+1429.0 - They got local little clocks in them.
+1430.027 - They got local little
+clocks in themselves,
+1431.29 they're all clocks.
+1435.14 They need to be
+synchronized appropriately,
+1439.9 and the whole thing has to be
+built in biological machinery.
+1444.66 This is actually a beautiful
+story about how gene expression
+1449.39 can control gene expression,
+and if you set it up right,
+1452.06 you can set up a little thing
+that just sort of hums along
+1455.47 at a particular frequency.
+1456.575 In our case it's humming
+along at 24 hours,
+1459.32 'cause that's how our earth rotates
+1461.05 and it's all built into our biology.
+1463.46 So this is great, but the reality is,
+1465.633 that the clock can only be so good.
+1468.04 I mean, we're talking about biology here.
+1469.6 It's not precision engineering,
+1472.37 and so it can be a little bit off.
+1474.15 - Well, also it's in our brain,
+1475.92 so it doesn't have access to
+any regular unerring signal?
+1479.61 - Well, if in the absence of the rising
+1482.06 and setting of the sun it doesn't,
+1483.0 if you put someone in a cave,
+1485.56 their biological clock will keep time
+1487.83 to within a handful of
+minutes of 24 hours,
+1491.87 that's no problem for one day.
+1495.01 But if this went on
+without any correction,
+1497.29 eventually you'd be out of phase
+1499.22 and this is actually one of the things
+1500.49 that blind patients often complain about.
+1503.5 If they've got retinal
+blindness is insomnia.
+1508.085 [indistinct]
+1510.1 Exactly, they're not synchronized,
+their clock is there,
+1513.13 but they're drifting out of phase
+1514.73 because their clock's only good
+to 24.2 hours or 23.8 hours
+1522.06 little by little if they're drifting.
+1524.12 So you need a synchronization signal.
+1526.03 So even if you never across time zones
+1527.677 and of course we didn't
+back on the Savannah
+1529.68 we stayed within walking
+distance of where we were,
+1534.21 you still need a synchronizer,
+'cause otherwise,
+1536.31 you have nothing to actually confirm
+1539.13 when the rising and the
+setting of the sun is,
+1541.58 that's what you're trying
+to synchronize yourself to.
+1544.36 - I'm fascinated by the circadian clock
+1547.12 and the fact that all
+the cells of our body
+1550.1 have essentially a
+24-hour-ish clock in them.
+1553.34 - Right.
+1554.45 - We hear a lot about
+these circadian rhythms
+1556.16 and circadian clocks the
+fact that we need light input
+1559.18 from these special neurons
+in order to set the clock.
+1562.3 But I've never really heard it described
+1564.31 how the clock itself works
+1566.49 and how the clock signals
+to all the rest of the body
+1570.19 when the liver should be doing one thing
+1572.737 and the stomach should be doing another.
+1575.62 I know you've done some work on the clock.
+1578.19 So if you would just
+maybe briefly describe
+1581.61 where the clock is, what it does,
+1584.53 and some of the top contour
+of how it tells the cells
+1588.51 of the body what to do.
+1589.8 - Right, so the first thing
+to say is that, as you said,
+1592.89 the clock is all over the place.
+1594.65 Most of the tissues in
+your body have clocks.
+1597.97 - We probably have what,
+millions of clocks in our body.
+1599.66 - Yeah, I would say that's probably fair.
+1601.98 If you have millions of cell types,
+1603.35 you might have millions of clocks.
+1606.33 The role of the central pacemaker
+for the circadian system
+1610.24 is to coordinate all of these.
+1612.77 And there's a little nucleus,
+1615.9 a little collection of
+nerve cells in your brain
+1619.293 it's called the suprachiasmatic
+nucleus the SCN,
+1623.6 and it is sitting in a funny place
+1625.77 for the rest of the structures
+in the nervous system
+1627.373 that get direct retinal input.
+1629.61 It's sitting in the hypothalamus,
+1631.99 which you can think about as
+sort of the great coordinator
+1635.5 of drives and.
+1638.48 - The source of all our
+pleasures and all our problems.
+1640.7 - Right.
+- Or most our problems.
+1642.13 - Yes, it really is.
+1643.92 But it's sort of deep in your brain
+1646.22 things that drive you to do things.
+1648.03 If you're freezing cold, you
+put on a coat, you shiver,
+1651.116 all these things are
+coordinated by hypothalamus.
+1654.15 So this pathway that we're
+talking about from the retina
+1657.56 and from these peculiar cells
+1659.67 that are encoding light intensity,
+1661.84 are sending signals directly into a center
+1665.43 that's surrounded by all of these centers
+1667.94 that control autonomic nervous system
+1671.04 and your hormonal systems.
+1675.03 So this is a part of your visual system
+1677.23 that doesn't really reach
+the level of consciousness,
+1679.45 it's not something you think about,
+1681.87 it's happening under the
+radar kind of all the time
+1685.06 and the signal is working its way
+1687.48 into this central clock
+coordinating center.
+1693.21 Now what happens then is
+not that well understood,
+1697.35 but it's clear that
+this is a neural center
+1699.98 that has the same ability to communicate
+1701.73 with other parts of your brain
+as any other neural center.
+1704.68 And clearly, there are circuits
+that involve connections
+1710.29 between neurons that are conventional.
+1714.07 But in addition, it's quite clear
+1715.33 that there are also
+sort of humeral effects
+1717.49 that things are being oozing
+out of the cells in the center
+1721.929 and maybe into the circulation
+1723.9 or just diffusing through
+the brain to some extent
+1727.64 that can also affect neurons elsewhere.
+1730.65 But the hypothalamus uses everything
+1732.77 to control the rest of the body.
+1734.24 And that's true, the supracosmetic nucleus
+1736.63 this circadian center as well,
+1740.1 it can get its fingers into
+the autonomic nervous system,
+1743.078 the humeral system and of
+course, up to the centers
+1746.67 of the brain that organize
+coordinated rational behavior.
+1752.16 So if I understand correctly,
+1754.3 we have this group of cells,
+the suprachiasmatic nucleus,
+1756.63 it's got a 24-hour rhythm,
+1759.93 that rhythm is more or less matched
+1761.58 to what's going on in our external world
+1763.84 by the specialized set
+of neurons in our eye.
+1766.46 But then the master clock itself the SCN,
+1770.49 releases things in the
+blood humeral signals
+1774.71 that go out various places in the body.
+1777.83 And you said to the autonomic system
+1779.41 which is regulating more or
+less how alert or calm we are,
+1782.15 as well as our thinking and our cognition.
+1785.29 So I'd love to talk to you
+about the autonomic part,
+1789.26 presumably that's through melatonin,
+1792.25 it's through adrenaline
+how is it that this clock
+1797.72 is impacting how the autonomic system,
+1800.44 how alert or calm we feel?
+1802.1 - Right, so there are pathways
+1805.17 by which the suprachiasmatic
+nucleus can access
+1809.33 both the parasympathetic and
+sympathetic nervous system.
+1812.3 - Just so people know the
+sympathetic nervous system
+1814.29 is the one that tends
+to make us more alert,
+1816.22 and the parasympathetic nervous system
+1818.14 is the portion of the
+autonomic nervous system
+1820.92 makes us feel more calm.
+1822.04 - Right.
+- In broadcasting.
+1823.5 Right, to first approximation, right?
+1825.82 So, this is both of these systems
+1828.92 are within the grasp
+of the circadian system
+1833.09 through hypothalamic circuits.
+1835.06 One of the circuits that will be I think,
+1837.59 of particular interest
+to some of your listeners
+1840.07 is a pathway that involves
+this sympathetic branch
+1843.836 of the autonomic nervous system
+1845.42 the fight or flight system
+1847.77 that is actually through
+a very circuitous route
+1850.95 innervating the pineal gland
+1852.83 which is sitting in the
+middle of your brain.
+1855.026 - The so-called third eye.
+1857.01 - Right, so this is.
+1858.39 - We'll have to get back to
+why it's called the third eye,
+1860.64 because, yeah.
+1861.55 - That's an interesting thing.
+1862.383 - You can't call something
+the third eye and just.
+1865.28 - Just leave it there.
+- Just leave it there.
+1866.82 - Right.
+- Right.
+1868.49 - Anyway, this is the
+major source of melatonin
+1870.79 in your body.
+1871.623 - So light comes in to my eye.
+1874.14 - Yes.
+1875.25 - Passed off to the
+suprachiasmatic nucleus
+1877.61 essentially, not the light itself,
+1878.92 but the signal representing the light.
+1881.27 - Sure.
+1882.103 - Then the SCN, the
+suprachiasmatic nucleus
+1884.34 can impact the melatonin system.
+1887.21 - Right.
+- Via the pineal?
+1888.49 - Right, the way this is seen is that,
+1890.65 if you were to measure
+your melatonin level
+1893.92 over the course of the day,
+1895.32 if you could do this hour by hour,
+1898.18 you'd see that it's
+really low during the day,
+1900.52 very high at night.
+1902.21 But if you get up in
+the middle of the night
+1904.15 and go to the bathroom
+1904.983 and turn on the bright
+full fluorescent light,
+1907.13 your melatonin level is
+slammed to the floor.
+1909.5 Light is directly impacting
+your hormonal levels
+1914.36 through this mechanism
+that we just described.
+1917.18 So this is one of the routes
+1918.342 by which light can act
+on your hormonal status
+1923.46 through pathways that
+are completely beyond
+1926.43 what you normally would
+think about, right?
+1928.46 You're thinking about the
+things in the bathroom.
+1930.55 Oh, there's the toothbrush,
+there's the tube of toothpaste.
+1933.83 But meanwhile, this other
+system is just counting photons
+1937.68 and saying oh wow, there's
+a lot of photons right now
+1940.1 let's shut down the melatonin release.
+1942.46 - This is one of the main reasons
+why I've encouraged people
+1945.28 to avoid bright light exposure
+in the middle of the night.
+1948.32 Not just blue light, but
+bright light of any wavelength,
+1952.12 because there's this myth
+out there that blue light
+1954.81 because it's the optimal signal
+for activating this pathway
+1957.71 and shutting down melatonin,
+1959.52 is the only wavelength of
+light that can shut it down.
+1963.42 But am I correct in thinking that
+1965.38 if a light is bright enough.
+1966.82 - Right.
+1967.653 - It doesn't matter if it's
+blue light, green light,
+1969.31 purple light, even red light.
+1970.97 - Right.
+1971.803 - You're going to slam
+melatonin down to the ground
+1974.73 which is not a good thing to happen
+1976.98 in the middle of the night.
+1977.813 - Right.
+- Correct?
+1978.646 Right, yeah, any light
+will affect the system
+1982.29 to some extent, the blue light
+is somewhat more effective,
+1986.44 but don't fool yourself into thinking
+1989.01 that if you use red light
+1989.93 that means you're avoiding the effect,
+1992.178 it's certainly still there.
+1994.46 And certainly, if it's very bright,
+1995.66 it'll be more effective
+in driving the system
+1998.45 than dim blue light would be.
+2000.06 - Interesting, a lot of
+people wear blue blockers.
+2002.227 - Right.
+2003.61 - And in a kind of odd twist
+of misinformation out there,
+2008.47 a lot of people wear blue blockers
+2009.71 during the middle of the day,
+2011.12 which basically makes no sense
+2012.92 because during the middle of the day
+2014.06 is when you want to get
+a lot of bright light
+2016.9 and including blue light
+into your eyes, correct?
+2019.42 - Absolutely, and not just for the reasons
+2021.92 we've been talking about in
+terms of circadian effects,
+2024.53 there are major effects of light on mood.
+2028.2 And seasonal affective
+disorder apparently,
+2031.87 is essentially a reflection of
+this same system in reverse.
+2035.84 If you're living in the northern climes
+2038.69 and you're not getting that much light
+2040.61 during the middle of
+the winter in Stockholm,
+2045.09 you might be prone to depression
+2046.57 and phototherapy might be
+just the ticket for you
+2049.42 and that's because there's a
+direct effect of light on mood,
+2053.054 there's an example where if
+you don't have enough light
+2056.127 it's a problem.
+2057.65 So I think you're exactly right.
+2058.71 It's not about is like
+good or bad for you,
+2060.41 it's about what kind of light and when
+2063.855 that makes the difference.
+2065.129 Yeah, the general rule of
+thumb that I've been living by,
+2067.27 is to get as much bright light in my eyes
+2069.11 ideally from sunlight
+anytime I want to be alert.
+2072.67 - Right.
+2073.503 - And doing exactly the opposite
+when I want to be asleep.
+2075.99 - Yeah.
+- We're getting drowsy.
+2077.32 - And there are aspects
+of this that spin out
+2080.88 way beyond the conversation
+we're having now
+2082.66 to things like this.
+2084.37 It turns out that the incidence of myopia.
+2087.58 - Nearsightedness.
+- Nearsightedness, right.
+2090.84 Is strongly related to the amount of time
+2093.59 that kids spend outdoors.
+2096.076 - In what direction of effect?
+2097.77 - The more they spend time outdoors,
+2099.83 the less nearsightedness they have.
+2102.16 - So this is not because
+they're viewing things
+2103.9 at a distance,
+2104.733 or because they're getting a
+lot of blue light, sunlight?
+2107.1 - It's a great question,
+it is not fully resolved
+2110.18 what the epidemiological,
+2111.62 what the basis of that
+epidemiological finding is,
+2114.4 one possibility is the amount of light
+2116.19 which would make me think
+2117.13 about this melanopsin system again.
+2119.97 But it might very well be
+a question of accommodation
+2122.355 that is the process by which
+you focus on near or far things
+2125.97 if you're never outdoors,
+everything is nearby.
+2128.36 If you're outdoors, you're
+focusing far, so this is.
+2130.358 - Or unless you are on your phone?
+2131.57 - Right, exactly.
+2132.9 - There's a tremendous
+amount of interest these days
+2136.04 in watches and things that count steps.
+2139.58 I'm beginning to realize
+2140.84 that we should probably have a
+device that can count photons
+2144.68 during the day.
+2145.513 - Right.
+2146.346 - And can also count photons at night
+2147.63 and tell us hey, you're
+getting too many photons,
+2149.43 you're going to shut down
+your melatonin at night,
+2151.05 or you're not getting enough photons,
+2152.36 today you didn't get enough bright light,
+2153.9 whether or not it's from
+artificial light or from sunlight.
+2156.376 I guess that, where would you put?
+2158.409 I guess you put on the top of your head
+2159.242 or you'd probably want it
+someplace outward facing?
+2162.64 - Right, probably what you
+need is as many photons
+2165.59 over as much of the retina as possible
+2167.28 to recruit as much of
+the system as possible.
+2171.36 - In thinking about other effects
+2172.65 of this non-image forming pathway
+2176.12 that involves these special
+cells in the eye and the SCN,
+2179.8 you had a paper a few years ago
+2181.58 looking at retinal input
+to an area of the brain
+2187.92 which has a fancy name the peri-habenular,
+2190.79 but names don't necessarily matter
+2193.03 that had some important effects on mood
+2196.41 and other aspects of light.
+2199.49 Maybe you could tell us a little bit
+2200.45 about what is the peri-habenular?
+2202.82 - Oh, wow, so that's a fancy term,
+2205.13 but I think the way to think about this,
+2207.08 is a chunk of the brain
+2209.69 that is sitting as part of a bigger chunk
+2212.72 that's really the linker
+between peripheral sensory input
+2217.16 of all kinds, virtually all kinds,
+2221.11 whether it's auditory
+input or tactile input
+2225.63 or visual input to the region
+of your brain the cortex
+2229.24 that allows you to
+think about these things
+2230.793 and make plans around
+them and to integrate them
+2233.807 and that kind of thing.
+2236.834 So, we've known about a pathway
+2242.42 that gets from the retina through
+this sort of linker center
+2247.72 which it's called the thalamus, and then.
+2250.245 [indistinct]
+2251.605 Exactly, but you want to
+arrive at the destination.
+2254.25 Right now you're at grand central
+2255.46 and now you can do your thing
+2256.74 'cause you're up at the cortex.
+2258.34 So this is the standard pattern.
+2260.13 You have sensory input
+coming from the periphery,
+2261.87 you've got these peripheral elements
+2263.4 that are doing the initial stages of.
+2265.97 - The eye, the ear, the nose.
+2266.803 - Your skin of your fingertips, right?
+2269.878 The taste buds on your tongue
+2271.51 they're taking this raw information in
+2274.594 and they're doing some pre-processing
+2276.5 maybe or the early circuits are.
+2278.9 But eventually, most of these signals
+2280.41 have to pass through the
+gateway to the cortex
+2282.68 which is the thalamus.
+2284.68 And we've known for years,
+for decades, many decades,
+2288.842 what the major throughput
+pathway from the retina
+2291.77 to the cortex is and where it ends up.
+2294.51 It ends up in the visual cortex.
+2296.04 You pat the back of your head
+2297.3 that's where the receiving center is
+2300.82 for the main pathway
+from retina to cortex.
+2303.84 But wait a minute, there's more.
+2305.69 There's this little side pathway
+2307.392 that goes through a different part
+2308.55 of that linking thalamus center.
+2311.662 [indistinct]
+2312.78 - Like a local train.
+2313.82 - Yeah.
+- From grand central to.
+2315.103 - It's in a weird part of
+the neighborhood, right?
+2317.6 It's a completely different,
+it's like a little trunk line
+2320.52 that branches off and goes
+out into the hinterlands
+2323.63 and it's going to the
+part of this linker center
+2326.46 that's talking to a completely
+different part of cortex
+2328.82 way up front, frontal lobe,
+2331.31 which is much more involved
+in things like planning,
+2334.11 or self-image or.
+2337.369 - Self-image literally, how one.
+2339.01 - Views oneself, do you
+feel good about yourself,
+2342.92 or what's your plan for next Thursday.
+2348.129 It's a very high level center
+2351.04 in the highest level
+of your nervous system
+2353.6 and this is the region
+that is getting input
+2356.07 from this pathway which is
+mostly worked out in its function
+2359.843 by [indistinct] Tara's Lab.
+2361.34 I know you had him on the podcast.
+2363.18 - We didn't talk about this path.
+2364.23 - This pathway at all right.
+2365.67 So Dale Fernandez and [indistinct]
+2369.52 and the folks that work with them,
+2372.11 were able to show that this
+pathway doesn't just exist
+2375.02 and get you to a weird place.
+2376.83 But if you activate it at
+kind of the wrong time of day,
+2383.03 animals can become depressed.
+2385.36 And if you silence it under
+the right circumstances,
+2388.75 then weird lighting cycles that
+would normally make them act
+2393.7 sort of depressed, no
+longer have that effect.
+2397.56 - So it sounds to me like
+there's this pathway from eye
+2400.7 to this unusual train
+route through the structure
+2405.19 we call the thalamus,
+2406.78 then up to the front of the brain
+2408.16 that relates to things of self-perception,
+2411.65 kind of higher level functions.
+2413.4 I find that really interesting,
+2414.49 because most of what I think about
+2415.363 when I think about these fancy,
+2417.76 well, or these primitive rather,
+2420.32 neurons that don't pay attention
+to the shapes of things,
+2422.89 but instead to brightness I think of well,
+2425.04 it regulates melatonin
+and circadian clock,
+2427.53 mood, hunger, the really
+kind of vegetative stuff
+2431.73 if you will.
+- Right.
+2432.563 - And this is interesting
+because I think a lot of people
+2436.83 experience depression
+2437.91 not just people that live in Scandinavia
+2440.68 in the middle of winter, and
+we are very much divorced
+2445.13 from our normal interactions with light.
+2448.87 It also makes me realize
+2449.82 that these intrinsically
+photosensitive cells
+2451.956 that set the clock et cetera,
+2453.82 are involved in a lot of things.
+2457.17 They seem to regulate a dozen
+2459.8 or more different basic functions.
+2462.97 I want to ask you about a different aspect
+2465.24 of the visual system now,
+2466.92 which is the one that relates
+to our sense of balance.
+2470.92 So I love boats but I hate being on them.
+2473.64 I love the ocean from shore,
+2475.42 because I get incredibly
+seasick, it's awful.
+2479.57 I think I'm going to get seasick
+if I think about it too much.
+2481.632 [laughs]
+2482.465 And once I went on a boat trip,
+2483.33 I came back and I actually got
+motion sick or wasn't seasick
+2488.46 'cause I was rafting.
+2490.29 So there's a system that
+somehow gets messed up.
+2493.56 They always tell us if you're feeling sick
+2494.76 to look at the horizon
+et cetera, et cetera.
+2497.16 - Right.
+- So what is the link
+2498.23 between our visual system
+and our balance system
+2500.74 and why does it make us nauseous sometimes
+2503.37 when the world is moving in a way
+2505.7 that we're not accustomed to?
+2507.13 - Right.
+2507.963 - I realize this is a big question,
+2508.9 because it involves eye
+movement, et cetera.
+2511.49 - Right.
+- But let's maybe just walk in
+2513.6 at the simplest layers
+of vision, vestibular,
+2519.82 so-called balance system
+2521.35 and then maybe we can piece
+the system together for people
+2524.32 so that they can understand,
+2525.18 and then also we should
+give them some tools
+2526.88 for adjusting their nausea
+2528.64 when their vestibular
+system is out of whack.
+2532.0 - Cool, so the first thing to think about
+2533.543 is that the vestibular system
+is designed to allow you
+2541.84 to see how your or detect sense
+2545.72 how you're moving in the
+world, through the world.
+2551.03 It's a funny one because
+it's about your movement
+2554.36 in relationship to the world in a sense,
+2556.3 and yet it's sort of interoceptive
+2558.84 in the sense that it is really
+2562.08 in the end sensing the
+movement of your own body.
+2566.17 - Okay, so interoception
+2567.16 we should probably delineate for people
+2568.5 is when you're focusing
+on your internal state
+2570.7 as opposed to something outside you.
+2572.14 - Right.
+2573.53 - It's a gravity sensing system.
+2575.32 - Well, it's partly a
+gravity sensing system
+2577.54 in the sense that gravity is
+a force that's acting on you
+2582.76 as if you were moving through the world
+2585.38 in the opposite direction.
+2586.52 - All right, now you got to explain that.
+2588.342 You got to explain that to me.
+2590.43 - Okay, so basically the idea is that,
+2594.57 if we leave gravity inside,
+we're just sitting in a car,
+2600.42 in the passenger seat and the
+driver hits the accelerator
+2604.48 and you start moving
+forward, you sense that.
+2606.73 If your eyes were closed, you'd sense it.
+2608.4 If your ears were plugged
+in, your eyes would close,
+2610.56 you'd still know it.
+2611.73 - Yeah, many people take
+off on the plane like this
+2613.88 they're dreading the flight
+2615.09 and they know when the
+plane is taking off.
+2616.92 - Sure, that's your
+vestibular system talking,
+2618.91 because anything that jostles you out
+2621.2 of the current position
+you're in right now
+2623.07 will be detected by the
+vestibular system pretty much.
+2627.79 So this is a complicated system,
+2629.61 but it's basically in your inner ear
+2632.86 very close to where you're hearing.
+2634.044 - That they put it there.
+2636.894 And I don't know.
+2638.018 - And I don't really know,
+they're sort of derived.
+2639.242 [indistinct]
+2640.075 - Now I'm just kidding.
+2641.43 To steal our friend Russ
+Van Gelder's explanation,
+2643.97 we weren't consulted the
+design phase and no one.
+2646.421 - That's a great [indistinct].
+2650.02 - But it's interesting it's in the ear.
+2651.74 - Yeah.
+- Right?
+2653.28 - Yeah, it's deep in there
+2654.65 and it's served by the same nerve actually
+2658.52 that serves the hearing system.
+2660.63 One way to think about it
+is both the hearing system
+2663.43 and this vestibular
+self-motion sensing system
+2666.87 are really detecting the signal
+2668.287 in the same way they're hairy
+cells and they're exciting.
+2672.255 [indistinct]
+2673.465 - Yeah, sort of they got
+little cilia sticking up
+2675.29 off the surfaces.
+2676.83 And depending on which way you bend those,
+2678.73 the cells will either
+be inhibited or excited,
+2681.11 they're not even neurons but
+then they talk to neurons
+2684.07 with a neuron-like process and off you go.
+2686.13 Now you've got an auditory signal
+2687.56 if you're sensing things
+bouncing around in your cochlea
+2691.5 which is.
+- Sound waves.
+2693.11 - Sympathetically the
+bouncing of your eardrum
+2695.78 which is symmetrically the
+sound waves in the world.
+2698.597 But in the case of the
+vestibular apparatus,
+2701.28 evolution has built a system
+2702.71 that detects the motion of say
+fluid going by those hairs.
+2707.87 And if you put a sensor
+like that in a tube
+2711.3 that's fluid filled,
+2713.06 now you've got a sensor
+that will be activated
+2714.604 when you rotate that tube around the axis
+2718.81 that passes through the middle of it,
+2720.02 those we're just listening won't be able.
+2722.391 [indistinct]
+2723.55 - I was thinking of it
+as three hula hoops.
+2725.45 - Right, three hoops.
+2726.283 - One standing up, one
+lying down on the ground.
+2728.28 - Right.
+2729.113 - The other one the other way.
+2730.353 - Three directions, the people who fly
+2733.47 will talk about roll pitch and
+you all that kind of thing.
+2735.82 So three axes of encoding
+just like in the.
+2739.852 [indistinct]
+2740.685 - Sort of the yes, the no
+2742.23 and then I always say
+it's the puppy head tilt.
+2744.42 - Yeah, that puppy tilt.
+2745.285 - That's the other one.
+2746.73 So the point is that,
+2747.924 your brain is eventually
+going to be able to unpack
+2752.29 what these sensors are telling you
+2754.66 about how you just rotated your head
+2757.14 in very much the way that
+the three types of cones
+2759.5 we were talking about before
+2761.53 are reading the incoming photons
+2764.92 in the wavelength domain
+differently, and if.
+2767.025 - Red, green, blue.
+2768.065 - Yeah, you can compare and
+trust you get red, green, blue.
+2769.98 So same basic idea if
+you have three sensors
+2773.13 and you array them properly,
+2774.64 now you can tell if you're
+rotating your head left or right,
+2777.22 up or down that's the sensory signal
+2780.68 coming back into your brain
+2783.34 confirming that you've just
+made a movement that you will.
+2786.6 - But what about on the plane?
+2787.73 Because when I'm on the plane,
+2788.7 I'm completely stationary
+the plane's moving.
+2790.81 - Right.
+2791.643 - But my head hasn't moved.
+- Right.
+2792.476 - So I'm just moving
+forward, gravity is constant.
+2795.61 - Exactly.
+2796.443 - How do I know I'm accelerating?
+2797.92 - So what's happening now
+2798.99 is your brain is sensing the motion,
+2802.45 and the brain is smart
+enough also to ask itself,
+2805.97 did I will that movement or
+did that come from the outside?
+2810.58 So now in terms of sort of understanding
+2812.56 what the the vestibular signal means,
+2814.72 it's got to be embedded in the context
+2816.34 of what you tried to do,
+2817.92 or what your other sensory
+systems are telling you
+2821.76 about what's happening.
+2822.77 - I see, so it's very interesting.
+2824.939 But it's not conscious or
+at least if it's conscious,
+2827.7 it's very not conscious, it's
+definitely very fast, right?
+2831.58 The moment that plane starts moving,
+2832.86 I know that I didn't get up out
+of my chair and run forward.
+2835.32 - Right.
+2836.153 - But I'm not really thinking about
+2836.986 getting up out of my chair I just know.
+2838.862 - I guess the way i
+think about it is that,
+2841.56 the nervous system is
+quote, aware at many levels
+2847.48 when it gets all the way up to the cortex
+2849.01 and we're thinking about it,
+2850.46 you're talking about it, that's cortical.
+2854.19 But the lower levels of the brain
+2857.42 that don't require you to
+actually actively think about it
+2860.45 they're just doing their thing
+are also made aware, right?
+2864.049 A lot of this is happening
+under the surface
+2865.93 of what you're thinking,
+these are reflexes.
+2868.8 - Okay, so we've got this
+gravity sensing system?
+2872.47 - Right.
+2875.879 - I'm nodding for those that are listening
+2877.14 for a yes movement of the head,
+2879.22 a no movement of the head
+or the tilting of the head
+2881.57 from side to side.
+- Right.
+2882.76 - And then you said that
+knowledge about whether or not
+2886.2 activation of that system
+comes from my own movements,
+2889.01 or something acting upon
+me like the plane moving.
+2892.16 - Right.
+2892.993 - Has to be combined with other signals.
+2895.68 And so, how is the visual information
+2899.62 or information about the visual world
+2901.09 combined with balance information?
+2902.91 - Right, so yeah.
+2905.183 I guess maybe the best way to think about
+2907.35 how these two systems work together,
+2910.0 is to think about what
+happens when you suddenly
+2912.45 rotate your head to the left.
+2915.19 When you suddenly rotate
+your head to the left,
+2916.65 your eyes are actually
+rotating to the right.
+2919.82 Automatically, you do
+this in complete darkness.
+2923.28 If you had an infrared
+camera and watched yourself
+2928.12 in complete darkness,
+you can't see anything.
+2929.82 Rotating your head to the left,
+2930.82 your eyes would rotate to the right.
+2932.5 That's your vestibular system saying,
+2936.021 I'm going to try to compensate
+for the head rotation.
+2941.01 So my eyes are still
+looking in the same place.
+2944.18 Why is that useful, well,
+if it's always doing that,
+2948.45 then the image of the world on your retina
+2950.28 will be pretty stable most of the time
+2952.85 and that actually helps vision.
+2954.84 - Have they built this into
+cameras for image stabilization
+2958.34 'cause when I move, when I
+take a picture with my phone,
+2960.42 it's blurry, it's not clear?
+2962.49 - Well actually, you might
+want to get a better phone,
+2965.65 because now what they have is
+software in the better apps
+2969.66 that will do a kind of
+image stabilization post-hoc
+2972.65 by doing a registration of the images
+2974.047 that are bouncing around,
+2975.78 they say the edge of the house was here,
+2978.24 so let's get that aligned
+in each of your images.
+2980.59 So you may not be aware if
+you're using a good new phone
+2984.77 that if you walk around a
+landscape and hold your phone,
+2990.16 that there's all this image
+stabilization going on.
+2992.99 But it's built into standard
+cinematic technology now,
+2997.936 because if we tried to
+do a handheld camera,
+3000.21 things would be bouncing around,
+3001.58 things would be unwatchable,
+3002.79 you wouldn't be able to really understand
+3004.14 what's going on in the scene.
+3005.56 So the brain works really hard
+3008.72 to mostly stabilize the image
+of the world on your retina
+3011.887 and of course you're
+moving through the world
+3013.5 so you can't stabilize everything.
+3014.87 But the more you can
+stabilize most of the time,
+3017.74 the better you can see.
+3019.06 And that's why when we're scanning a scene
+3022.84 looking around at things,
+3024.62 we're making very rapid eye movements
+3026.84 for very short periods of
+time and then we just rest,
+3030.44 but we're not the only ones that do that.
+3031.93 If you ever watch a hummingbird,
+3033.12 it does exactly the same
+thing at a feeder, right?
+3035.358 [indistinct]
+3036.191 It is with its body.
+3037.04 It's going to make a quick movement,
+3039.89 and then it's going to be stable.
+3041.45 And when you watch a pigeon
+walking on the sidewalk,
+3044.53 it does this funny head bobbing thing.
+3046.157 But what it's really doing,
+3047.22 is racking its head back on its neck
+3048.681 while its body goes forward
+3051.28 so that the image of the
+visual world stays static.
+3054.39 - Is that why they're doing it?
+3055.658 - Yes, and you've seen
+the funny chicken videos
+3058.78 on YouTube, right?
+3059.613 - You take a chicken move it up and down
+3061.14 the head stays in one place,
+it's all the same thing.
+3063.71 All of these animals are trying hard
+3066.21 to keep the image of the
+world stable on their retina
+3068.82 as much of the time as they possibly can.
+3070.88 And then when they've got
+to move, make it fast,
+3073.32 make it quick and then stabilize again.
+3075.38 - That's why the pigeons
+have their head back?
+3076.92 - It is, yeah.
+3078.06 - Wow.
+- Yeah.
+3079.54 - I just need to pause there for a second
+3081.718 and digest that, amazing.
+3085.271 In case people aren't.
+3087.86 Well, there's no reason
+why people would know
+3090.12 what we're doing here, but essentially,
+3091.36 what we're doing is we're
+building up from sensory
+3094.74 light onto the eye, make
+color to what the brain does
+3098.48 with the integration of
+that circadian clock,
+3101.34 melatonin, et cetera.
+3102.173 And now what we're doing
+3103.006 is we're talking about
+multi-sensory or multimodal
+3105.83 combining one sense vision
+with another sense balance.
+3109.897 - Right.
+3110.73 - And it turns out that pigeons
+3112.8 know more about this than I do,
+3114.07 because pigeons know
+to keep their head back
+3116.29 as they walk forward.
+- Right.
+3117.99 - All right, so that gets us to this issue
+3120.7 of motion sickness.
+- Right.
+3122.56 - And you don't have to go out on a boat.
+3125.71 Anytime I go to New York, I sit in an Uber
+3128.12 or in a cab in the back.
+3129.45 And if I'm looking at my phone
+while the car is driving,
+3133.26 I feel nauseous by time I
+arrive at my destination.
+3136.29 - Right.
+3137.123 - I always try and look out
+the front of the windshield,
+3139.5 because I'm told that helps
+but it's a little tiny window.
+3142.3 - Right.
+3143.133 - And I end up feeling slightly
+less sick if I do that.
+3147.0 So what's going on with the
+vision and the balance system
+3152.29 that causes a kind of a nausea?
+3154.33 And actually, if I keep
+talking about this.
+3155.68 [indistinct]
+3156.513 [laughs]
+3157.346 I don't throw up easily, but
+for some reason motion sickness
+3161.54 is a real thing for me.
+3162.61 - It's a problem for a lot of people.
+3164.623 I think the fundamental problem typically,
+3167.13 when you get motion sick
+3168.32 is what they call visual
+vestibular conflict.
+3172.75 That is, you have two sensory systems
+3175.35 that are talking to your brain
+3176.49 about how you're moving through the world.
+3178.5 And as long as they agree you're fine.
+3182.43 So if you're driving,
+3184.12 your body senses that
+you're moving forward.
+3187.16 Your vestibular system is picking up
+3189.92 this acceleration of the car,
+3192.168 and your visual system is
+seeing the consequences
+3194.606 of forward motion in the
+sweeping of the scene past you.
+3199.4 Everything is honky-dory,
+right, no problem.
+3201.819 But when you are headed forward
+3205.62 but you're looking at your cell phone,
+3206.9 what is your retina seeing?
+3208.106 Your retina is seeing the
+stable image of the screen.
+3210.33 There's absolutely no motion in that.
+3213.57 - Or the motion is just or some
+other emotion like a movie.
+3216.315 - If you're playing a game
+or you're watching a video,
+3219.25 a football game, the motion is uncoupled
+3221.7 with what's actually
+happening to your body.
+3224.34 Your brain doesn't like that,
+3225.61 your brain likes everything to be aligned.
+3228.32 And if it's not, it's
+going to complain to you.
+3230.301 - By making me feel nauseous.
+3231.703 - By making you feel nauseous
+3232.536 and maybe you'll change your behavior.
+3233.91 So you're getting.
+- I'm getting punished.
+3235.85 - Yeah, for setting it up.
+3237.991 [indistinct]
+3239.35 - Right.
+- By the vestibular?
+3241.16 - You'll learn.
+- Visuals.
+3242.252 [laughs]
+3244.18 In time, I love it.
+3246.47 I love the idea of reward signals
+3248.6 and we've done a lot of
+discussion about this
+3250.74 on this podcast of things like
+dopamine reward and things,
+3253.17 but also punishment signals
+and I love this example.
+3258.04 Well, maybe marching a little bit further
+3260.053 along this pathway,
+3262.91 visual input is combined
+with balance input.
+3266.92 Where does that occur,
+3268.37 and maybe 'cause I have some
+hint of where it occurs.
+3272.19 You could tell us a little bit
+3273.24 about this kind of
+mysterious little mini-brain
+3277.58 that they call the cerebellum.
+- Cerebellum, yeah.
+3280.14 So the way I tried to describe
+the cerebellum to my students
+3286.56 is that, it serves sort of like
+3289.14 the air traffic control system
+functions in air travel.
+3294.55 So that it's a system
+that's very complicated
+3297.241 and it's really dependent
+on great information.
+3301.1 So it's taking in information
+3302.32 about everything that's
+happening everywhere
+3304.67 not only through your sensory systems,
+3307.69 but it's listening into
+all the little centers
+3310.15 elsewhere in your brain
+3311.14 that are computing what
+you're going to be doing next
+3312.8 and so forth.
+3313.633 So it's just ravenous for
+that kind of information.
+3315.76 - So it really is like
+a little mini-brain.
+3317.73 - It is, it's got access
+to all those signals.
+3323.61 and it really has an
+important role in coordinating
+3327.56 and shaping movements, but
+if you suddenly eliminated
+3333.347 the air traffic control system,
+3336.5 planes could still take off and land
+3338.98 but you might have some unhappy
+accidents in the process.
+3344.15 So the cerebellum is kind of like that.
+3345.89 It's not that you would be paralyzed
+3348.2 if your cerebellum was gone
+3349.94 because you still have motor neurons,
+3351.38 you still have ways to
+talk to your muscles,
+3354.16 you still have reflex centers,
+3356.47 and it's not like you
+would have any sensory laws
+3359.84 because you still have your cortex
+3361.5 getting all of those beautiful signals
+3363.05 that you can think about,
+3365.01 but you wouldn't be coordinating
+things so well anymore.
+3369.42 The timing between input
+and output might be off.
+3372.91 Or if you were trying to
+practice a new athletic move
+3376.7 like an overhead serve in tennis,
+3379.29 you'd be just terrible at learning.
+3383.09 All the sequences of muscle movements
+3385.27 and the feedback from
+your sensory apparatus
+3387.37 that would let you really
+hit that ball exactly
+3389.85 where you wanted to
+after the nth rep, right?
+3392.522 Now 1000th rep or something
+you get much better at it.
+3396.11 So the cerebellum is all involved
+3397.46 in things like motor learning
+and refining the precisions
+3403.079 of movement so that they
+get you where you want to go
+3407.21 if you reach for a glass of champagne
+3409.95 that you don't knock
+it over or stop short.
+3413.542 [indistinct]
+3414.58 - People who have selective
+damage to the cerebellum.
+3417.31 - Absolutely.
+- And I'm familiar with.
+3422.02 Well, Korsakoff's is different, right?
+3424.45 Isn't that a B vitamin
+deficiency in chronic alcoholics?
+3427.57 - Right.
+- And they tend to walk
+3429.23 kind of bow-legged and they
+can't coordinate their movements.
+3432.122 That has some that not memory
+bodies but also a cerebellum?
+3436.46 - I'm not sure about the
+cerebellar involvement there.
+3439.06 But the typical thing would be a patient
+3443.88 who has a cerebral or stroke
+or a tumor for example,
+3448.69 might be not that steady on their feet
+3453.09 if the dynamics of the
+situation you're standing
+3457.621 on a street car with no
+handle pull to hold on to,
+3460.84 they might not be as good at adjusting
+3462.99 all the little movements of the car.
+3467.059 There's a kind of tremor that can occur
+3469.34 as they're reaching for things,
+3472.04 because they reach a little too far
+3473.57 and then they over correct and
+come back, things like that.
+3477.51 So it's very common neurological
+phenomenon actually.
+3483.609 Cerebellar ataxia is what
+the neurologists call it,
+3487.25 and it can happen not just
+with cerebellar damage,
+3489.16 but damage to the tracts
+that feed the information
+3491.44 into the cerebellum.
+3492.273 - Right, it is the private structure.
+3493.106 - Exactly, or output from the cerebellum.
+3495.03 - And so, the cerebellum
+is where a lot of visual
+3497.87 and balance information is combined.
+3499.9 - In a very key place in the cerebellum,
+3501.96 which it's really one of the oldest parts.
+3506.31 - In terms of flocculus.
+- The flocculus, right.
+3509.592 It's a critical place in
+the cerebellum where visual
+3513.17 and vestibular information comes together
+3515.35 recording just the kinds of
+movements we were talking about.
+3518.27 This image stabilizing network
+it's all happening there.
+3521.87 And there's learning
+happening there as well.
+3523.61 So that if your vestibular apparatus
+3525.91 is a little bit damaged somehow,
+3528.84 your visual system is actually
+talking to your cerebellum
+3532.81 saying there's a problem
+here, there's an error,
+3535.87 and your cerebellum is
+learning to do better
+3538.82 by increasing the output
+of the vestibular system
+3541.26 to compensate for whatever that loss was.
+3543.68 So it's a little error correction system
+3545.33 that's sort of typical
+of a cerebellar function
+3548.4 and it can happen in many,
+many different domains.
+3550.17 This is just one of the domains
+of sensory motor integration
+3553.48 that takes place there.
+3556.32 - So I should stay off
+my phone in the Ubers.
+3558.7 if I'm on a boat, I
+should essentially look
+3562.3 and as much as possible act
+as if I'm driving the machine.
+3565.421 - Right.
+- That'd be weird
+3567.1 if I was in the passenger seat
+3568.17 pretending I was driving the machine.
+3569.48 But i do always feel better
+3570.65 if I'm sitting in the
+front seat passenger.
+3572.69 - Right, so more of the
+visual world that you can see
+3575.78 as if you were actually
+the one doing the motion
+3577.903 I would think.
+3579.43 - Let's stay in the inner ear for a minute
+3581.03 as we continue to march
+around the nervous system.
+3586.38 When you take off in the
+plane or when you land
+3588.51 or sometimes in the middle of there,
+3590.08 your ears get clogged or at
+least my ears get clogged,
+3594.52 that's because of pressure
+buildup in the various tubes
+3597.6 of the inner ear, et
+cetera, we'll get into this.
+3600.37 But years ago, our good
+friend Harvey Karten,
+3605.13 is a another world-class neuroanatomist
+3609.93 gave a lecture and talked
+about how plugging your nose
+3613.7 and blowing out versus plugging
+your nose and sucking in
+3618.75 should be done at different times
+3620.14 depending on whether or not
+you're taking off or landing.
+3623.65 And I always see people
+trying to unpop their ears.
+3626.36 - Right.
+- And when you do scuba diving
+3628.38 you learn how to do this
+without necessarily I can do it
+3631.41 by just kind of moving my jaw now
+3632.91 'cause I've done a little bit of diving.
+3635.52 But what's the story there?
+3637.75 We don't have to get
+into all the differences
+3639.86 in atmospheric pressure, et cetera,
+3641.18 but if I'm taking off
+and my ears are plugged,
+3644.056 I've recently ascended, plane
+take off, my ears are plugged,
+3647.34 do I plug my nose and blow out,
+3648.58 or do I plug my nose and suck in?
+3649.99 - Right, so the basic idea is that,
+3652.09 if your ears feel bad because
+you're going into an area
+3657.23 of higher pressure, so if
+they pressurize the cabin
+3661.05 more than the pressure that
+you have on the surface
+3662.724 of the planet, your
+eardrums will be bending in
+3666.04 and they don't like that.
+3667.06 If you push them more
+they'll hurt even more.
+3668.69 - It's a good description
+that the pressure goes up
+3671.64 then they're going to bend in.
+3673.013 - Bend in and then reverse would be true
+3674.7 if you go into an area of low pressure.
+3676.68 So if you knew you started
+to drive up the mountain side
+3680.06 the pressure's getting
+lower and lower outside,
+3682.17 now the air behind your
+eardrum is ballooning out.
+3685.514 - Yep.
+- Right?
+3686.91 So it's just a question
+3687.743 of are you trying to get more
+pressure or less pressure
+3690.25 behind the eardrum and there's
+a little tube that does that
+3692.547 and comes down into
+back your throat there.
+3695.6 And if you force pressure up that tube,
+3697.296 you're going to be
+putting more air pressure
+3699.55 into the compartment.
+3701.15 - To counter it.
+3702.308 - If it's not enough and if you're sucking
+3705.54 you're going the other way.
+3706.5 In reality, I think as long
+as you open the passageway,
+3709.13 I think the pressure differential
+3710.444 is going to solve your problem.
+3712.27 So I think you could actually blow in
+3714.27 when you're not supposed to.
+3715.99 - Okay, so you could just hold
+your nose and blow air out,
+3720.23 or hold your nose and suck in the.
+3723.37 - Right.
+- Effect either way is fine?
+3725.05 - I think so.
+3725.98 - Excellent, I just won
+$100 from Harvey Karten.
+3728.154 [laughs]
+3729.15 - Thank you very much, this is a lot.
+3730.54 Harvey and I used to teach
+neuroanatomy together
+3732.47 and I was like I don't think it matters,
+3734.22 but thank you very much,
+I'll split that with you.
+3736.707 - Okay.
+3737.54 [laughs]
+3738.532 - This is important stuff.
+3741.116 But it's true you hear this.
+3743.092 So it doesn't matter either way.
+3744.77 - I'm no expert in this area.
+3746.93 - Don't worry.
+- Don't quote me.
+3747.92 - He's not going to, well,
+I'm going to quote you.
+3750.231 But, okay, so we've talked
+about the inner ear,
+3752.22 we've talked about the cerebellum.
+3754.0 I want to talk about an area of the brain
+3755.77 that is rarely discussed
+which is the midbrain.
+3759.38 - Yeah.
+3760.213 - And for those that don't know,
+3762.86 the midbrain is an area
+beneath the cortex.
+3765.322 I guess we never really defined cortex
+3766.65 was kind of the outer layers
+or are the outer layers
+3770.69 of the at least mammalian
+brain or human brain.
+3774.207 But the midbrain is super interesting,
+3776.796 because it controls a
+lot of unconscious stuff,
+3782.46 reflexes, et cetera.
+3784.78 And then there's this phenomenon
+even called blind sight.
+3787.93 So could you please tell
+us about the midbrain
+3791.02 about what it does, and
+what in the world is sight?
+3795.7 - Yeah, so there's a lot of pieces there.
+3799.55 I think the first thing to say is,
+3800.96 if you imagine the nervous
+system in your mind's eye,
+3804.999 you see this big honking brain
+3806.759 and then there's this little wand
+3810.87 that dangles down into your
+vertical column the spinal cord
+3814.57 and that's kind of your visual impression.
+3817.81 What you have to imagine is
+starting in the spinal cord
+3820.14 and working your way up into
+this big magnificent brain
+3822.567 and what you would do
+as you enter the skull,
+3826.44 is get into a little place
+where the spinal cord
+3828.97 kind of thickens out.
+3830.18 It still has that sort of long,
+skinny trunk-like feeling.
+3834.55 - It's more like a
+paddle or a spoon shape.
+3836.72 - Right, it starts to
+spread out a little bit
+3838.257 and that's 'cause your evolutionists
+3840.23 packed more interesting goodies in there
+3842.08 for processing information
+and generating movement.
+3845.33 So beyond that is this tween
+brain we were talking about.
+3850.557 This linker brain with
+diencephalon really means
+3853.443 the between brain.
+3854.85 - Oh, I thought you said tween.
+3856.08 - Well, it is, yes.
+- No, no, no, between.
+3857.78 Between.
+- Between.
+3858.613 [indistinct]
+- You said tween.
+3859.78 - Yeah, it's the between,
+it's the between brain
+3862.25 is what the name means.
+3864.32 It's the linker from the
+spinal cord in the periphery
+3867.78 up to these grand centers of the cortex.
+3870.107 But this midbrain you're
+talking about is the last bit
+3874.267 of this enlarged sort of spinal
+cordy thing in your skull,
+3877.97 which is really the brain
+stem is what we call it.
+3880.646 The last bit of that before
+you get to this relay up
+3884.04 to the cortex is the midbrain.
+3886.99 And there's a really
+important visual center there,
+3889.268 it's called the superior colliculus.
+3892.35 There's a similar center in the brains
+3894.56 of other vertebrate animals a
+frog for example or a lizard,
+3898.46 would have this is called
+the optic tectum there
+3901.41 but it's a center, then in
+these non-mammalian vertebrates,
+3908.44 is really the main visual center.
+3911.05 They don't really have what
+we would call a visual cortex
+3913.32 although there's something
+sort of like that.
+3915.68 But this is where most of the action is
+3917.57 in terms of interpreting visual input
+3919.57 and organizing behavior around that.
+3923.95 You can sort of think about this region
+3926.44 of the brain stem as a reflex center
+3928.55 that can reorient the
+animal's gaze or body
+3934.47 or maybe even attention to
+particular regions of space
+3939.41 out there around the animal
+3941.59 and that could be for
+all kinds of reasons.
+3943.493 It might be a predator just
+showed up in one corner
+3946.303 of the forest and you pick that up
+3948.177 and you're trying to avoid it.
+3949.683 - Or just any movement.
+- Any movement, right?
+3952.4 It might be that suddenly
+something splats on the page
+3957.31 when you're reading a novel
+3958.184 and your eye reflexively looks at it.
+3961.904 You don't have to think
+about that, that's a reflex.
+3964.2 - What if you throw me a ball
+but I'm not expecting it?
+3967.3 - Right.
+- And I just reach up
+3968.18 try and grab it touch it or not.
+3970.8 Is that handled by the midbrain?
+3972.32 - Well, that's probably not the midbrain
+3974.94 although by itself, because
+it's going to involve
+3978.3 all these limb movements,
+3979.71 this movement of your arm and body.
+3983.01 - What about ducking
+3983.89 if something's suddenly
+thrown in your head?
+3985.67 - Sure, right, things like that
+3987.1 will certainly have a brainstem component,
+3988.99 a midbrain component,
+something looms and you duck.
+3994.01 It may not be the superior colliculus
+3996.15 we're talking about now,
+3997.01 it might be another part
+of the visual midbrain.
+3999.15 But these are centers that emerged early
+4001.69 in the evolution of brains like ours
+4003.92 to handle complicated visual events
+4006.291 that have significance for the animal
+4008.9 in terms of space, where is it in space?
+4011.63 And in fact, this same center
+4013.02 actually gets input from all
+kinds of other sensory systems
+4016.21 that take information
+from the external world
+4018.88 from particular locations
+4020.59 and where you might want to
+either avoid or approach things
+4023.54 according to their significance to you.
+4025.338 So you get input from the touch system,
+4028.7 you get input from the auditory system.
+4031.53 I work for a while in rattlesnakes,
+4033.49 they get input from a
+part of their warm sensors
+4037.315 on their face, they're in
+these little pits on the face.
+4040.058 - To work on baby rattlesnakes, right?
+4042.104 - They were adults.
+4043.589 - Oh, I wasn't trying
+to diminish the danger.
+4045.67 I thought for some reason
+they were little ones.
+4047.29 - No.
+- Why in the world
+4048.507 would you work on rattlesnakes?
+4050.28 - Well, because they have a version
+4053.77 of an extra receptive sensory system
+4055.94 that is they're looking out into the world
+4059.02 using a completely
+different set of sensors.
+4061.1 They're using the same sensors
+4062.31 that would feel the warmth on your face
+4063.99 if you stood in front of a bonfire.
+4065.569 Except, evolution has given them
+4068.41 this very nice specialized system
+4069.97 that lets them image where
+the heat's coming from.
+4072.21 You can sort of do that anyway, right?
+4073.92 If you walk around the fire,
+4076.26 you can feel where the
+fire is from the heat
+4079.59 hitting your face.
+4080.57 - Is that the primary way
+in which they detect prey?
+4084.38 - It's one of one of the major ways.
+4086.71 And in fact, they use vision as well
+4089.14 and they bring these two systems together
+4091.14 in the same place in this tectum regions
+4093.81 brain stem, midbrain.
+4094.856 - What's the tongue jutting
+about when the snakes?
+4097.56 - That I don't know.
+4099.13 That may be old factory, they're maybe.
+4100.77 - They're sniffing the
+air with their tongue?
+4101.954 - Yeah, there may be, 'cause.
+4103.58 - On our drive you told me that
+flies actually taste things
+4107.08 with their feet.
+- They do, yeah.
+4108.59 - That's so weird.
+4109.423 - Yeah, they have taste receptors
+and lots of funny places.
+4113.32 I want to pause here just for one second
+4114.96 before we get back into the midbrain.
+4116.54 I think what's so interesting
+in all seriousness
+4120.16 about taste receptors
+on feet, heat sensors,
+4125.08 tongues shutting out of snakes and vision
+4128.5 and all this integration is that,
+4130.76 it really speaks to the fact
+that all these sensory neurons
+4135.06 are trying to gather information
+and stuff it into a system
+4139.75 that can make meaningful
+decisions and actions.
+4143.28 And that it really doesn't
+matter whether or not
+4145.14 it's coming from eyes or ears
+or nose or bottoms of feet,
+4148.55 because in the end, it's
+just electricity flowing in.
+4151.5 And so it sounds like it's
+placed on each animal,
+4154.92 it always feels weird
+to call fly an animal.
+4157.36 But they are creatures, they are animals.
+4161.41 It's placed in different
+locations on different animals
+4163.78 depending on the particular
+needs of that animal.
+4166.527 - Right, but how much more powerful
+4169.16 if the nervous systems
+can also cross-correlate
+4172.87 across sensory systems?
+4174.95 So if you've got a weak signal
+from one sensory system,
+4178.14 you're not quite sure
+there's something there.
+4179.98 And a weak signal from
+an another sensory system
+4183.02 that's telling you the same locations
+4184.8 is a little bit interesting.
+4186.36 There might be something there
+4187.78 if you've got those two together
+you've got corroboration.
+4190.53 Your brain now says it's much more likely
+4193.14 that that's going to be something
+worth paying attention to.
+4196.89 - Right, so maybe I'm feeling some heat
+4199.6 on one side of my face
+4202.28 and I also smell something
+baking in the oven.
+4205.56 - Right.
+- So now there's,
+4206.69 it's neither is particularly
+strong, but as you said,
+4208.85 there's some corroboration.
+4210.06 - Right.
+And that corroboration
+4211.34 is occurring in the midbrain.
+4212.51 - Right, and then if you
+throw things into conflict,
+4215.99 now the brain is confused
+4217.35 and that may be where your
+emotion sickness comes from.
+4220.05 So it is great to have, as a brain,
+4223.03 it's great to have as many
+sources of information
+4224.79 as you can have, just like if you're a spy
+4228.57 or a journalist, you don't
+want as much information
+4230.62 as you can get about what's out there,
+4233.07 but if things conflict,
+that's problematic, right?
+4235.67 Your sources are giving
+you different information
+4237.39 about what's going on.
+4238.51 Now you've got a problem on
+your hands, what do you publish?
+4241.518 - The midbrain is so fascinating.
+4243.56 I don't want to eject us from the midbrain
+4246.02 and go back to the vestibular system,
+4247.87 but I do have a question
+that I forgot to ask
+4249.68 about the vestibular system which is,
+4251.55 why is it that for many
+people including me,
+4253.882 despite my motion sickness in cabs,
+4256.46 that there's a sense of pleasure
+4259.25 in moving through space
+and getting tilted relative
+4262.3 to the gravitational pull of the earth?
+4264.21 For me growing up it was skateboarding,
+4265.72 but people like to corner
+in cars, corner on bikes,
+4270.2 maybe for some people it's
+done running or dance.
+4273.37 But what is it about moving through space
+4276.35 and getting tilted a lot
+of surfers around here.
+4279.72 Getting tilted that can tap
+4283.27 into some of the pleasure centers.
+4285.36 Do we have any idea why
+that would feel like?
+4286.93 - I have no clue.
+4288.61 - Is there dopaminergic
+input to this system?
+4291.5 - Well, the dopaminergic
+system gets a lot of places.
+4297.19 It's pretty much to some
+extent everywhere in the cortex
+4301.38 a lot more in the frontal lobe of course,
+4303.55 but that's just for starters.
+4306.17 There's basically dopaminergic
+innervation most places
+4308.69 in the central nervous system.
+4310.31 So there's the potential for
+dopamine urging involvement
+4312.72 but I really have no clue
+about the tilting phenomenon.
+4315.27 - People pay money to
+go on roller coasters.
+4318.04 - Right, well, I think that
+may be as much about the thrill
+4320.69 as anything.
+- Sure.
+4321.54 And the falling reflex is
+very robust in all of us
+4324.833 when the visual world's going up very fast
+4327.19 it usually means that we're falling.
+4328.46 - Right.
+- But some people like that,
+4329.98 some people don't.
+- Right.
+4331.33 And kids tolerate a lot more
+sort of vestibular craziness
+4336.07 spinning around until they've dropped.
+4338.47 - And I've friends, it always
+you worries me a little bit
+4341.809 that they throw their kids.
+4343.61 I'm not recommending anyone do this.
+4345.0 When they're little like throwing the kids
+4347.02 really far back and forth,
+some kids seem to love it.
+4350.034 - Yeah, yeah, our son loved
+being shaken up and down
+4353.91 very vigorously, that's the only thing
+4357.87 that would calm him down sometimes.
+4359.29 - Interesting, yeah, so I'm guessing
+4361.035 we can guess that maybe
+there's some activation
+4366.37 of the reward systems from.
+- Yeah.
+4368.32 - Being moving through space.
+4370.21 - Well, if you think
+about how rewarding it is
+4372.74 to be able to move through space
+4374.484 and how unhappy people
+are who are used to that
+4377.94 who suddenly aren't able to do that,
+4379.69 there is a sense of agency, right?
+4381.76 If you can choose to move
+through the world and to tilt,
+4385.25 that's not only you're
+moving through the world,
+4386.81 but you're doing it with a
+certain amount of finesse,
+4388.45 maybe that's what it is.
+4389.34 You can feel like you're the
+master of your own movement
+4393.29 in a way that you wouldn't
+if you're going straight.
+4395.119 I'm just blowing smoke here, right?
+4397.17 - Yeah, well, we can
+speculate, that's fine.
+4398.93 I couldn't help but ask the question.
+4401.44 Okay, so if we move ourselves pun intended
+4405.04 back into the midbrain,
+4407.26 the midbrain is combining
+all these different signals
+4409.13 for reflexive action.
+4411.17 At what point does this
+become deliberate action?
+4414.92 Because if I look at something
+I want and I want to pursue it,
+4417.61 I'm going to go toward it
+4419.18 and many times that's
+a deliberate decision.
+4422.36 - Right, so this gets
+very slippery I think,
+4426.69 because what you have to try to imagine
+4429.3 is all these different parts of the brain
+4431.03 working on the problem of staying alive
+4436.22 and surviving in the world,
+4439.02 they're working on the
+problem simultaneously,
+4441.12 and there's not one right
+answer how to do that.
+4446.28 But one way to think about it is that,
+4449.87 you have high levels
+of your nervous system
+4451.76 that are very well designed to override
+4456.1 an otherwise automatic
+movement if it's inappropriate.
+4459.58 So if you imagine you've been
+invited to tea with the queen
+4463.73 and she hands you very fancy
+Wedgewood teacup very thin.
+4469.74 - Wedgewood teacup?
+4470.84 - Yes, with very hot tea in it
+and you're burning your hand,
+4474.1 you probably will try to find
+a way to put that back down
+4476.96 on the saucer rather than
+just dropping it on the floor
+4480.13 because you're with the queen.
+4482.77 You're trying to be appropriate to that.
+4485.52 So you have ways of reining
+in automatic behaviors
+4489.4 if they're going to be maladaptive.
+4492.13 But you also want the
+reflex to work quickly
+4494.58 if it's the only thing
+that's going to save you.
+4496.06 The looming object coming at your head,
+4498.36 you don't have time to think about that.
+4500.3 So this is the interplay
+4503.07 in these hierarchically organized centers
+4505.26 of the nervous system at the lowest level.
+4507.69 You've got the automatic
+sensors and centers
+4510.23 and reflex arcs that will keep you safe
+4514.5 even if you don't have
+time to think about it,
+4516.56 and then you've got the
+higher center saying,
+4518.74 well, maybe we could do this as well
+4520.64 or maybe we shouldn't
+do that at all, right?
+4523.51 So you have all these different levels
+4525.7 operating simultaneously
+4527.55 and you need bi-directional communication
+4530.63 between high-level, cognitive centers,
+4534.61 decision-making on the one hand,
+4537.427 and these low-level very
+helpful reflexive centers,
+4540.3 but they're a little bit
+rigid, a little hard-wired
+4543.099 so they need some nuance.
+4544.55 So they're both of these
+things are operating in tandem
+4547.4 in real time, all the time in our brains
+4549.86 and sometimes we listen
+more to one than the other.
+4551.76 You've heard people in sports
+talking about messing up
+4555.5 at the play 'cause they over thought it.
+4557.55 Thinking too hard about it.
+4559.01 That's partly you've already
+trained your cerebellum
+4561.88 how to hit a fastball
+right down the middle.
+4564.98 - Right, and if you start looking
+4566.415 for something new or different,
+4568.8 you're going to mess up
+your reflexive swing.
+4571.13 - Right, if you're trying to think
+4572.05 about the physics of the
+ball as it's coming at you,
+4575.02 you've already missed, right?
+4576.103 Because you're not using
+your, all those reps
+4579.95 have built a kind of knowledge
+is what you want to rely on
+4583.69 when you don't have enough
+time to contemplate.
+4588.22 - This is important and a great segue
+4590.34 for what I'd like to discuss next
+4592.501 which is the basal ganglia.
+4595.92 This really interesting
+of the area of the brain
+4598.24 that's involved in go-type commands
+4602.72 and behaviors instructing us to do things
+4604.99 and no-go preventing us from doing things.
+4607.8 Because so much of motor
+learning and skill execution
+4610.75 and not saying the wrong thing
+4613.56 or sitting still in class
+4615.324 or as you use with the
+tea with the queen example
+4619.52 feeling discomfort involves
+suppressing behavior
+4623.93 and sometimes it's activating behavior.
+4625.338 - Right.
+4626.171 - A tremendous amount of online attention
+4627.44 is devoted to trying to
+get people motivated.
+4631.41 This isn't the main focus of our podcast.
+4633.35 We touch on some of the
+underlying neural circuits
+4634.892 of motivation dopamine and so forth.
+4637.45 But so much of what people
+struggle with out there
+4641.03 are elements around
+failure to pay attention.
+4646.03 - Right.
+4646.863 - Or challenges in paying attention
+4648.34 which is essentially like
+putting the blinders on
+4649.937 and they're getting a soda
+straw view of the world
+4652.69 and maintaining that for a about of work
+4654.72 or something of that sort and
+trying to get into action.
+4658.94 So of course, this is carried
+out by many neural circuits
+4662.44 not just the basal ganglia.
+4663.62 But what are the basal ganglia,
+4665.89 and what are their primary
+roles in controlling
+4669.1 go type behavior and no-go type behavior?
+4671.95 - Yeah, so the basal
+ganglia are sitting deep
+4675.175 in what you would call the forebrains
+4677.7 or the highest levels of the brain.
+4680.56 They are sort of cousins
+to the cerebral cortex
+4685.5 which we talked about as
+sort of the highest level
+4687.49 of your brain, the thing
+you're thinking with.
+4689.817 - The cerebral cortex
+being the refined cousins
+4691.552 and then you've got the.
+- Right.
+4692.777 - The brute, yeah.
+- Yeah.
+4695.87 That's probably totally unfair, but.
+4697.61 - That's right, I like the basal ganglia.
+4699.62 I can relate to the
+brutish parts of the brain.
+4702.47 A little bit of hypothalamus,
+4703.94 a little bit of basal ganglia, sure.
+4705.64 - We need it all, we need it all.
+4707.87 And this area of the brain
+has gotten a lot bigger
+4713.8 as the cortex has gotten bigger
+4715.32 and it's deeply intertwined
+with cortical function.
+4719.35 The cortex can't really
+do what it needs to do
+4721.251 without the help of the
+basal ganglia and vice versa.
+4723.73 So they're really intertwined.
+4728.8 And in a way you can think
+about this logically is saying,
+4732.37 if you have the ability
+to withhold behavior
+4735.087 or to execute it, how do
+you decide which to do?
+4738.89 Well, the cortex is going to
+have to do that thinking for you.
+4741.72 You have to be looking
+at all the contingencies
+4744.33 of your situation to decide
+is this a crazy move,
+4747.68 or is this a really smart
+investment right now or what?
+4751.35 - I don't want to go out
+for a run in the morning,
+4753.127 but I'm going to make
+myself go out for a run,
+4755.28 or I'm having a great time out on a run
+4757.84 and I know I need to get back
+4759.13 but I kind of want to go another mile.
+4760.74 - I mean, another great example is that,
+4762.59 the marshmallow test for the little kids.
+4764.3 They can get two
+marshmallows if they hold off
+4768.45 just 30 seconds initially,
+they can have one right away.
+4772.55 But if they can wait 30
+seconds, they got two.
+4774.29 So that's the no go because
+their cortex is saying,
+4777.4 I would really like to have
+two more than having one.
+4781.02 But they're not going to get the two
+4782.49 unless they can not reach for the one.
+4785.71 So they've got to hold off the action
+4789.64 and that has to result
+from a cognitive process.
+4793.38 So the cortex is involved
+in this in a major way.
+4797.614 - Yeah, as I recall in that experiment,
+4799.02 the kids used a variety of tools.
+4801.03 Some would distract themselves.
+4802.73 I particularly related to the kid
+4804.41 that would just put himself
+right next to the marshmallows
+4807.02 and then some of the
+kids covered their eyes,
+4810.0 some of them would count or sing.
+4811.86 Yeah, so that's all very cortical, right?
+4813.32 Coming up with a novel strategy,
+4815.1 simple example that we're using here.
+4816.59 But of course, this is at
+play anytime someone decides
+4819.55 they want to go watch
+a motivational speech
+4821.48 or something just a Steve
+Jobs commencement speech
+4824.28 just to get motivated
+to engage in their day.
+4826.077 - Should I take this new job?
+4828.306 It's got great benefits,
+4830.05 but it's in a lousy part of the country.
+4832.11 - Why do you think that some
+people have a harder time
+4836.13 running these go no-go circuits
+4838.17 and other people seem to have
+very low activation energy
+4842.23 we would say, they could
+just, they have a task,
+4844.78 they just lean into the task.
+- Right.
+4846.09 - Whereas some people
+getting into task completion
+4849.08 or things of that sort is
+very challenging for them?
+4852.48 - Yeah, I think it's really just another,
+4854.96 it's a special case of a
+very general phenomenon
+4857.34 which is brains are complicated.
+4860.35 And the brains we have
+are the result of genetics
+4865.48 and experience, and my genes
+are different from your genes
+4868.87 and my experiences are
+different from your experiences.
+4871.04 So the things that would
+be easy or hard for us
+4873.63 won't necessarily be aligned,
+they might just happen to be
+4877.17 just because they are,
+but the point is that,
+4880.387 you're dealt a certain set of cards,
+4883.98 you have certain set of
+genes, you are handed a brain,
+4887.66 you don't choose your
+brain it's handed to you.
+4890.71 Then there's all this
+stuff you can do with it.
+4892.33 You can learn to have new
+skills or to act differently
+4899.92 or to show more restraint
+which is kind of relevant
+4902.36 to what we're talking about here.
+4903.84 Or maybe show less restraint
+4905.83 if your problem is
+you're so buttoned down,
+4908.09 you never have any fun in life
+4909.26 and you should loosen up a little bit.
+4910.99 - Thank you, I appreciate that.
+4912.172 - Yeah.
+- Yeah.
+4913.296 [laughs]
+4915.36 David's always encouraging me
+4916.48 to have a little more fun in life.
+4917.907 [laughs]
+4919.94 So basil ganglia they're
+kind of the disciplinarian
+4924.12 or they're sort of the instructor
+conductor of sorts, right?
+4927.99 Go, no-go, you be quiet, you start now.
+4931.45 - I wish I knew more about
+the basal ganglia than I do.
+4934.95 My sense is that, this system is key
+4939.37 for implementing the plans that
+get cooked up in the cortex,
+4944.96 but they also influence the plans
+4947.69 that the cortex is dishing out
+4950.59 because this is a major source
+of information to the cortex.
+4954.57 So it becomes almost
+impossible to figure out
+4957.93 where the computation
+begins and where it ends
+4960.67 and who's doing what
+4961.82 because these things are all interacting
+4964.24 in a complex network, and it's all of it.
+4966.68 It's the whole network,
+it's not one is the leader
+4969.42 and the other is the follower.
+4970.55 - Right, of course, yeah,
+these are all the structures
+4972.53 that we're discussing
+are working in parallel.
+4975.45 - Right.
+4976.283 - And there's a lot of changing crosstalk.
+4979.18 I have this somewhat sick habit David.
+4983.3 Every day I try and do 21 no-gos.
+4986.23 So if I want to reach for my phone,
+4988.19 I try and not do it just to
+see if I can prevent myself
+4992.12 from engaging in that
+behavior, if it was reflexive,
+4995.55 if it's something I want
+to do a deliberate choice,
+4998.55 then I certainly allow myself to do it.
+5000.36 - Right.
+5001.193 - I don't tend to have too
+much trouble with motivation
+5002.026 with go type functions,
+mostly because I'm so busy
+5005.92 that I'd wish I had more time
+for more goes so to speak.
+5011.14 But do you think these circuits
+5013.18 have genuine plasticity in them?
+5015.24 - Absolutely, everybody
+knows how they've learned
+5018.27 over time to wait for the
+two marshmallows, right?
+5022.21 You don't have to have instant
+gratification all the time.
+5024.9 You're willing to do a job
+5027.29 sometimes it isn't your favorite job
+5029.51 because it comes with the territory
+5030.88 and you want the salary that
+comes at the end of the week
+5032.85 or the end of the month, right?
+5034.23 So we can defer gratification.
+5037.48 We can choose not to say the thing
+5039.94 that we know is going
+to inflame our partner
+5041.96 and create a meltdown for the next week.
+5046.43 We learn this control,
+5047.97 but I think these are
+skills like any other
+5051.41 you can get better at
+them if you practice them.
+5053.11 So I think you're choosing
+to do that to spontaneously,
+5055.605 is kind of a mental
+practice, it's a discipline,
+5058.82 it's a way of building a
+skill that you want to have.
+5061.78 - Yeah, I find it to be something
+5063.219 that when I engage in
+a no-go type situation,
+5069.89 then the next time and the next time
+5072.08 that I find myself about
+to move reflexively,
+5074.37 there's a little gap in consciousness
+5076.36 that I can make a decision whether or not
+5078.71 this is really the best use of my time.
+5080.86 Because sometimes I wonder
+whether or not all this business
+5083.87 around attention certainly
+there's the case of ADHD
+5087.0 and clinical diagnosed ADHD.
+5088.73 But all the issue around
+focus and attention
+5091.24 is really that people just
+have not really learned
+5093.49 how to short circuit a reflex.
+5096.3 And so much of what makes us
+different than rattlesnakes,
+5099.18 or well, actually they
+could be deliberate,
+5101.16 but from the other animals
+5103.3 and is our ability to suppress reflex.
+5106.022 - Yeah, well, that's the cortex.
+5108.3 Or let's say the forebrain.
+5109.775 Cortex and basal ganglia
+are working together
+5112.62 sitting on top of this lizard brain
+5115.63 that's giving you all these
+great adaptive reflexes
+5117.96 that help you survive.
+5119.47 You just hope you don't
+get the surprising case
+5122.43 where the thing that your
+reflex is telling you
+5124.69 is actually exactly the wrong thing
+5126.21 and you make a mistake, right?
+5127.616 [indistinct]
+5128.449 Right, so that's what the cortex is for.
+5129.9 It's adding nuance and
+context and experience,
+5133.78 past association and in
+human beings obviously,
+5137.37 learning from others
+through communication.
+5141.36 - Well, I was, you went right to it
+5144.51 and it was where I was going to go.
+5145.71 So let's talk about the cortex.
+5147.09 We've worked our way up
+the so-called neuraxis
+5149.71 as the aficionados will
+know, so we're in the cortex.
+5154.11 This is the seat of our
+higher consciousness,
+5155.87 self-image, planning and action.
+5158.23 But as you mentioned, the
+cortex isn't just about that,
+5160.5 it's got other regions that
+are involved in other things.
+5162.96 So maybe we should staying with vision,
+5165.6 let's talk a little bit
+about visual cortex.
+5167.87 You told me an amazing
+story about visual cortex
+5171.79 and it was somewhat of a sad story
+5173.3 unfortunately about
+someone who had a stroke
+5175.86 to visual cortex.
+5177.93 Maybe if you would share that story
+5180.29 because I think it illustrates
+many important principles
+5183.24 about what the cortex does.
+5185.08 - Right, so the visual cortex
+5189.938 you could say the projection screen.
+5191.61 The first place where
+this information streaming
+5195.76 from the retina through this
+thalamus connecting linker
+5201.78 gets played out for the highest
+level of your brain to see.
+5207.84 It's a representation,
+5208.81 it's a map of things going
+on in the visual world
+5212.58 that's in your brain.
+5215.16 And when we describe a scene to a friend,
+5221.06 we're using this chunk of our
+brain to be able to put words
+5224.49 which are coming from a
+different part of our cortex
+5227.26 to the objects and movements
+and colors that we see
+5230.75 in the world.
+5233.26 So that's a key part of
+your visual experience
+5237.383 when you can describe
+the things you're seeing,
+5240.46 you're looking at your
+visual cortex, and this is.
+5243.65 - Could I just ask a quick question?
+5244.64 So right now because I'm
+looking at your face.
+5247.07 - Right.
+- As we're talking,
+5249.03 there are neurons in my brain
+5251.04 more or less in the
+configuration of your face
+5254.73 that are active as you move about.
+5257.83 And what if I were to close
+my eyes and just imagine,
+5263.54 I do this all the time by the way David.
+5264.96 I close my eyes and i
+imagine David Berson's face.
+5268.111 [laughs]
+5268.944 I don't tend to do that
+as often, maybe I should.
+5271.12 But you get the point, I'm
+now using visualization
+5274.57 of what you look like by way of memory.
+5276.93 - Right.
+- If we were to image
+5278.15 the neurons in my brain,
+would the activity of neurons
+5282.46 resemble the activity of
+neurons that's present
+5287.49 when I open my eyes and
+look at your actual face?
+5289.72 - This is a deep question,
+we don't really have a full.
+5292.89 - It seems like.
+5293.723 [indistinct]
+5295.0 - Yes, except you're talking
+about looking in detail
+5298.8 at the activity of
+neurons in a human brain
+5302.11 and that's not as easy to do
+5304.042 as it would be in some
+kind of animal model.
+5307.13 But the bottom line is that,
+5309.05 you have a spatial representation
+of the visual world
+5314.27 late as a map of the visual world
+5316.404 lay down on the surface of your cortex.
+5318.92 The thing that's surprising is that,
+5321.5 it's not one map, it's
+actually dozens of maps.
+5324.88 - What do each of those maps do?
+5326.4 - Well, we don't really have a
+full accounting there either,
+5328.76 but it looks a little bit
+like the diversification
+5332.25 of the output neurons of the retina,
+5335.01 the ganglion cells we
+were talking about before.
+5336.95 There are different
+types of ganglion cells
+5338.79 that are encoding different
+kinds of information
+5340.95 about the visual world,
+5341.96 we talk about the ones that
+were encoding the brightness.
+5345.07 but other ones are
+encoding motion or color
+5347.74 these kinds of things, the
+same kinds of specializations
+5350.6 in different representations
+of the visual world
+5353.0 in the cortex seem to be true.
+5356.02 It's a complex story, we don't
+have the whole picture yet,
+5359.91 but it does look as if
+some parts of the brain
+5361.78 are much more important
+5362.613 for things like reaching for
+things in the space around you.
+5368.17 And other parts of the
+cortex are really important
+5370.07 for making associations between
+particular visual things
+5372.82 you're looking at now
+and their significance.
+5375.86 What is that object,
+what can it do for me,
+5378.44 how can I use it?
+5379.65 - What about the really
+specialized areas of cortex
+5382.4 like neurons that respond
+to particular faces,
+5386.5 or neurons that I don't
+know can help me understand
+5391.63 where I am relative to
+some other specific object?
+5394.72 - Right, so these are
+our properties of neurons
+5399.01 that are extracted from detected
+by recording the activity
+5406.66 of single neurons in
+some experimental system.
+5409.55 What's going on when you actually
+5411.51 perceive your grandmother's face,
+5413.78 is a much more complicated question
+5415.57 and it clearly involves
+hundreds and thousands
+5417.56 and probably millions of neurons
+5419.329 acting in a cooperative way.
+5421.49 So you can pick out any one little element
+5423.91 in this very complicated system
+5426.06 and see that it's
+responding differentially
+5428.17 to certain kinds of visual patterns
+5429.95 and you think you're seeing a glimpse
+5431.61 of some part of the process
+5433.05 by which you recognize
+your grandmother's face.
+5436.14 But that's a long way from
+a complete description
+5438.94 and it certainly isn't
+going to be at the level
+5440.95 of a magic single neuron
+that has the special stuff
+5444.16 to recognize your grandmother,
+it's going to be in some pattern
+5446.46 of activity across many, many cells
+5450.27 resonating in some kind of special way
+5452.89 that will represent the
+internal memory of your mother.
+5457.57 - So it's really incredible?
+- Yeah.
+5459.373 - I mean that every time
+we do this deep dive
+5461.62 which we do from time to time,
+5462.84 you and I we kind of like
+march into the nervous system
+5465.26 and explore how different
+aspects of our life experiences
+5470.193 is handled there and how it's organized.
+5475.855 After so many decades of doing this,
+5477.65 it still boggles my mind that
+the collection of neurons
+5482.76 one through seven active
+in a particular sequence
+5486.43 gives the memory of a particular face
+5488.68 and run backwards seven through to one,
+5492.27 it gives you a, it could be rattlesnake
+5496.27 pit viper heat sensing organs.
+- Right.
+5498.477 - You were talking about earlier.
+5500.98 So it sounds,
+5501.9 is it true that there's
+a lot of multi-purposing
+5504.82 of the circuitry, like we can't say
+5506.79 one area of the brain does A
+5509.32 and another area of the brain does B.
+5510.99 So areas can multitask
+or have multiple jobs.
+5515.59 They can moonlight.
+5516.51 - Right, but I think in my career,
+5521.15 the hard problem has been to square that
+5526.19 with the fact that things are specialized
+5530.94 that there are specific genes expressed
+5533.233 in specific neurons that make
+them make synaptic connections
+5537.21 with only certain other neurons.
+5539.29 And that particular synaptic arrangement
+5541.92 actually results in the
+processing of information
+5544.91 that's useful to the
+animal to survive, right?
+5548.45 So it's not as if it's either
+a big undifferentiated network
+5553.72 of cells and looking at any one
+5555.89 is never going to tell you anything
+5557.1 that's too extreme on the one hand,
+5559.29 nor is it the case that
+everything is hardwired
+5561.07 and every neuron has one function
+5562.66 and this all happens in
+one place in the brain,
+5565.81 it's way more complicated and interactive
+5568.0 and interconnected than that.
+5569.6 - So we're not hardwired or soft-wired?
+5571.85 - Both.
+- We're sort of,
+5573.533 I don't know what the analogy
+should be what substance
+5575.97 would work best David?
+5577.13 - No idea there, but the idea is that,
+5581.3 it's always network activity.
+5583.42 There's always many, many neurons involved
+5586.09 and yet there's tremendous
+specificity in the neurons
+5589.28 that might or might not be participating
+5590.98 in any distributed
+function like that, right?
+5593.9 So you have to get your mind
+5594.93 around the fact that
+it's both very specific
+5597.33 and very non-specific at the same time.
+5599.4 It's a little tricky to do,
+5600.63 but I think that's kind
+of where the truth lies.
+5603.1 - Yeah, and so this example
+5605.58 that you mentioned to me
+once before about a woman
+5609.09 who had a stroke in visual cortex,
+5610.69 I think it speaks to some of this.
+5612.13 - Right.
+5613.4 - Could you share with us that story?
+5614.82 - Sure, so the point is
+that, all those of us who see
+5620.322 have representations of the visual world
+5623.07 in our visual cortex.
+5624.72 What happens to somebody
+when they become blind
+5629.78 because of problems in the
+eye, the retina perhaps?
+5634.52 You have a big chunk of the cortex,
+5636.48 this really valuable [indistinct]
+for neural processing
+5641.06 that has come to expect
+input from the visual system
+5645.07 and there isn't any anymore.
+5646.229 So you might think about
+that as fallow land, right?
+5648.99 It's just used by the nervous system
+5652.917 and that would be a pity,
+5653.97 but it turns out that it is in fact used.
+5658.58 And the the case that you're
+talking about is of a woman
+5661.77 who was blind from very early in her life
+5668.12 and who had risen through the ranks
+5670.45 to a very high level
+executive secretarial position
+5673.75 in a major corporation.
+5676.3 And she was extremely
+good at braille reading
+5678.63 and she had a braille typewriter
+5679.79 and that's how everything was done.
+5681.98 And apparently, she had a stroke
+and was discovered at work,
+5686.1 collapsed and brought her to the hospital.
+5688.45 And apparently, the
+neurologist who saw her
+5692.0 when she finally came to said,
+5694.107 "I've got good news and bad news."
+5696.21 Bad news is you've had a stroke,
+5697.95 the good news is that it
+was in an area of your brain
+5700.26 you're not even using
+it's your visual cortex
+5703.07 and I know you're blind from birth
+5704.59 so there shouldn't be any issue here."
+5706.55 The problem was, she lost
+her ability to read braille.
+5711.18 So what appears to have been the case
+5713.49 and this has been confirmed in other ways
+5716.39 by imaging experiments in humans is that,
+5719.15 in people who are blind
+from very early in birth,
+5722.02 the visual cortex gets repurposed
+5725.28 as a center for processing
+tactile information.
+5728.77 And especially if you train
+to be a good braille reader,
+5731.56 you're actually reallocating
+somehow that real estate
+5735.73 to your fingertips.
+5737.131 A part of the cortex that
+should be listening to the eyes.
+5740.26 So that's an extreme level of plasticity.
+5742.45 But what it shows, is the visual cortex
+5745.76 is kind of a general
+purpose processing machine,
+5748.77 it's good at spatial information
+5751.527 and the skin of your fingers
+is just another spatial sense
+5755.07 and deprived of any other input
+the brain seems smart enough
+5759.63 if you want to put it
+that way to rewire itself
+5762.55 to use that real estate
+for something useful,
+5765.66 in this case, reading braille.
+5768.08 - Incredible, somewhat
+tragic, but incredible.
+5770.38 At least in that case tragic, yeah.
+5772.3 - Very informative.
+- Very informative.
+5774.11 And of course it can go the other way too.
+5775.64 - Right.
+5776.473 - Where people can gain function
+in particular modalities
+5780.22 like improved hearing or tactile function
+5782.69 in the absence of vision.
+- Right.
+5786.95 - Tell us about connectomes,
+we hear about genomes,
+5790.47 proteomes, microbiomes, ohms, ohms, ohms
+5794.324 these days.
+- Yeah.
+5796.94 - What's a connectome
+and why is it valuable?
+5799.4 - Yeah, so the connectome
+actually now has two meanings.
+5802.76 So I'll only refer to one
+that is my passion right now.
+5807.422 And that is really trying
+to understand the structure
+5810.14 of nervous tissue at a scale
+that's very, very fine.
+5818.13 - Smaller than a millimeter.
+5819.2 - Way smaller than a
+millimeter, a nanometer or less,
+5822.68 as that's 1,000 times smaller,
+5825.966 or it's actually a million times smaller.
+5832.0 So really, really tiny
+5834.1 on the scale of individual synapses
+5836.09 between individual neurons
+5837.3 or even smaller like the
+individual synaptic vesicles
+5840.44 containing little packets
+of neurotransmitter
+5842.26 they're going to get it
+released to allow one neuron
+5844.71 to communicate to the next.
+5846.37 So very, very fine, but
+the notion here is that,
+5853.13 you're doing this section after
+section at very fine scale.
+5859.27 So in theory what you have
+is a complete description
+5861.86 of a chunk of nervous
+tissue that is so complete
+5866.28 that if you took enough time to identify
+5868.06 where the boundaries of all the cells are,
+5869.86 you could come up with
+a complete description
+5872.36 of the synaptic wiring of
+that chunk of nervous tissue
+5875.78 because you have a complete description
+5876.82 of where all the cells are
+and where all the synapses
+5878.99 between where all the cells are.
+5880.4 So now you essentially
+have a wiring diagram
+5882.71 of this complicated piece of tissue.
+5884.69 So the omics part is
+the exhaustiveness of it
+5888.56 rather than looking at
+a couple of synapses
+5890.29 that are interesting to you
+from two different cell types.
+5893.89 You're looking at all the
+synapses of all of the cell types
+5897.77 which of course is this massive
+avalanche of data, right?
+5902.69 - So in genetics, you have genetics
+5904.34 and then you have genomics
+5905.38 which is the idea of
+getting the whole genome.
+5907.05 - All of it.
+5907.883 - And we don't really have an
+analogous word for genetics,
+5910.91 but it would be connectivity
+and [indistinct].
+5913.091 - Right.
+[indistinct]
+5918.07 - Right, so it's wanting it all
+5920.33 and of course it's crazy ambitious,
+5922.68 but that's where it gets fun.
+5925.24 Really it's a use of electron microscopy,
+5928.53 a very high resolution
+microscopic imaging system
+5933.48 on a new scale with way more payoff
+5936.9 in terms of understanding the connectivity
+5938.68 of the nervous system
+and it's just emerging,
+5941.53 but I really think it's going
+to revolutionize the field
+5944.29 because we're going to be
+able to query these circuits
+5947.23 how do they actually do
+it, look at the hardware
+5949.9 in a way that's never
+been possible before.
+5952.43 - The the way that I
+describe this to people
+5954.55 is if you were to take a
+chunk of kind of cooked
+5958.38 but cold spaghetti.
+- Right.
+5960.22 - And slice it up very thin
+you're trying to connect up
+5963.83 each image of each slice of
+the edge of the spaghetti
+5968.1 as figure out which ropes of spaghetti
+5970.07 belong to which.
+5970.903 - And have a complete description
+5972.23 of where this piece of spaghetti
+5973.46 touches that piece of spaghetti
+5974.466 is there's something
+special there obviously.
+5976.74 - Meat sauces and all the other cell types
+5978.69 and the pesto where it all
+is around the spaghetti
+5983.76 because those are the other
+cells, the blood vessels
+5985.58 and the glial cells.
+5987.03 And so, what's it good for?
+5990.7 Maps are great, I always think
+of connectomics and genomics
+5995.364 and proteomics, et cetera as necessary,
+5999.07 but not sufficient.
+- Right.
+6001.03 Right, so I mean in many cases
+what you do is you go out
+6003.84 and probe the function
+6005.89 and you understand how the
+brain does the function
+6007.99 by finding neurons that seem to be firing
+6010.92 in association with this
+function that you're observing.
+6014.09 And little by little
+you're work your way in
+6015.7 and now you want to know
+what the conductivity is
+6017.3 maybe the anatomy could help you.
+6019.73 But this connectomics approach
+6021.55 or at least the serial electron microscopy
+6023.66 reconstruction of neurons approach,
+6027.23 really is allowing us to frame questions
+6029.938 starting from the anatomy and saying,
+6033.45 I see a synaptic circuit here,
+6035.13 my prediction would be that
+these cell types would interact
+6038.01 in a particular way, is that right?
+6040.16 And then you can go and
+probe the physiology
+6042.2 and you might be right
+or you might be wrong.
+6043.76 But more often than not,
+it looks like the structure
+6046.83 is pointing us in the right direction.
+6048.78 So in my case, I'm using this
+to try to understand a circuit
+6053.51 that is involved in this
+image stabilization network
+6056.15 we're talking about, keeping
+things stable on the retina
+6060.25 and this thing will only respond
+6062.54 at certain speeds of motion.
+6064.307 These cells in the circuit
+6066.04 like slow motion they won't
+respond to fast motion,
+6068.867 how does that come about?
+6070.33 Well, I was able to probe the circuitry,
+6074.04 I knew what my cells looked like,
+6075.5 I could see which other
+cells were talking to it,
+6077.116 I could categorize all the cells
+6079.08 that might be the players here
+6080.58 that are involved in this
+mechanism of tuning the thing
+6083.54 for slow speeds,
+6085.53 and then we said it looks
+like it's that cell type
+6087.87 and we went and looked
+and the data bore that up.
+6090.814 But the anatomy drove the search
+6093.34 for the particular cell type
+6094.51 because we could see it
+connected in the right place
+6096.89 to the right cells.
+6098.02 So creates the hypothesis
+6100.09 that lets you go query the physiology,
+6102.62 but it can go the other way as well.
+6104.01 So it's always the synergy
+between these functional
+6106.12 and structural approaches
+it gives you the most lift.
+6111.29 But in many cases,
+6113.68 the anatomy has been a little
+bit the weak sister in this.
+6116.65 The structure trying
+to work out the diagram
+6119.12 because we haven't had the methods.
+6120.9 Now the methods exist
+6122.68 and this whole field is
+expanding very quickly,
+6125.74 because people want these circuit diagrams
+6127.815 for the particular part
+of the nervous system
+6130.91 that they're working on.
+6132.41 If you don't know the cell
+types and the connections,
+6134.31 how do you really understand
+how the machine works?
+6137.42 - Yeah, what I love about is,
+6138.85 we don't know what we don't know.
+6139.877 - Right.
+6140.71 - And scientists we don't ask
+questions, we pose hypotheses.
+6143.89 Hypotheses being of course some prediction
+6146.26 that you wager your time on basically.
+6148.9 - Right.
+- And it either turns out
+6150.98 to be true or not true,
+but if you don't know
+6155.93 that a particular cell type is there,
+6157.61 you could never in any
+configuration of life or a career
+6163.96 or exploration of a nervous
+system wager a hypothesis
+6167.79 because you didn't know it was there.
+6169.34 So this allows you to say ah,
+6170.46 there's a little interesting
+little connection
+6172.95 between this cell that
+I know is interesting
+6175.03 in another cell that's a little
+mysterious but interesting,
+6177.64 I'm going to hypothesize
+that it's doing blank,
+6180.08 blank and blank and go test that.
+6181.31 And in the absence of these connectomes,
+6183.45 you would never know that
+that cell was lurking there
+6185.15 in the shadows.
+6186.623 - Right, right, yeah.
+6188.3 And if you're just trying to understand
+6189.65 how information flows through
+this biological machine,
+6193.884 you want to know where things are.
+6196.37 Neurotransmitters are
+dumped out of the terminals
+6198.64 of one cell and they
+diffuse across the space
+6201.89 between the two cells which
+is kind of a liquidy space
+6204.285 and they hit some receptors
+on the postsynaptic cell
+6206.71 and they have some impact.
+6208.92 Sometimes that's not
+through a regular synapse,
+6211.41 sometimes it's through a neuromodulator
+6213.1 like you often talk about on your podcast
+6215.84 that are sort of.
+6216.673 - Dopamine.
+- Dopamine, exactly.
+6218.22 Oozing into the space between the cells
+6220.53 and it may be acting at some distance
+6222.7 far from where it was released, right?
+6225.03 But if you don't know where
+the release is happening
+6227.2 and where other things
+6228.14 are that might respond to that release
+6229.87 you're groping around in the dark.
+6232.162 - Well, I love that you are doing this
+6234.11 and I have to share
+with the listeners that,
+6238.42 the first time I ever met David
+6240.113 and every time I've ever
+met with him in-person
+6243.23 at least at his laboratory at Brown,
+6246.24 he was in his office, door closed,
+6248.75 drawing neurons and their connections.
+6250.937 [laughs]
+6251.77 And this is somewhat unusual
+6253.16 for somebody who's a endowed
+full professor or chairman
+6256.93 of the department et cetera for many years
+6259.24 to be doing the hands-on work.
+6260.91 Typically, that's the stuff
+that's done by technicians
+6262.77 or graduate students or postdocs.
+6264.18 But I think it's fair to say
+6266.09 that you really love
+looking at nervous systems
+6269.76 and drawing the accurate renditions
+6273.18 of how those nervous systems are organized
+6275.59 and thinking about how they work.
+6277.33 - Yeah, it's pure joy for me.
+6278.81 I mean, I'm a very visual
+person, my wife is an artist,
+6281.225 we look a lot of art together
+6283.55 just the forms of things are
+gorgeous in their own right.
+6287.58 But to know that the form
+is in a sense the function
+6291.29 that the architecture of the connectivity
+6295.56 is how the computation happens
+in the brain at some level
+6299.47 even though we don't fully
+understand that in most contexts,
+6302.85 gives me great joy 'cause
+I'm working on something
+6304.978 that's both visually beautiful
+but also deeply beautiful
+6309.499 in a sort of a higher
+sort of knowledge context,
+6315.389 what is it all about.
+6316.75 - I love it, well, as a final question,
+6320.04 I get asked very often about how people
+6322.52 should learn about neuroscience,
+6325.36 or how they should go about
+pursuing maybe an education
+6328.16 in neuroscience if they're
+at that stage of their life
+6330.33 or that's appropriate for
+their current trajectory.
+6334.07 Do you have any advice to
+young people, old people,
+6336.936 anything in between about how to learn
+6339.73 about the nervous system more
+maybe in a more formal way?
+6342.52 I mean obviously, we have our podcast,
+6343.89 there are other sources of
+neuroscience information
+6346.81 out there, but for the young person
+6348.61 who thinks they want to
+understand the brain,
+6351.61 they want to learn about the
+brain, what should we tell them?
+6355.12 - Well, that's a great question.
+6356.37 And there's so many sources out there.
+6357.88 It's almost a question
+6358.95 of how do you deal with this
+avalanche of information
+6361.723 out there, I think your podcast
+is a great way for people
+6364.635 to learn more about the nervous
+system in an accessible way.
+6368.25 But there's so much stuff out there
+6369.76 and it's not just that.
+6370.593 I mean, the resources are
+becoming more and more available
+6373.87 for average folks to participate
+in neuroscience research
+6378.58 on some level.
+6379.413 There's this famous Eyewire
+project of Sebastian.
+6381.108 - Oh yeah, maybe you let us about Eyewire.
+6383.26 - Yeah, so that's connectomics
+and that's a situation
+6386.243 where a very clever scientist realized
+6389.21 that the physical work of
+doing all this reconstruction
+6393.82 of neurons from these
+electron micro-graphs,
+6397.23 there's a lot of time involved.
+6399.92 Many, many person hours
+have to go into that
+6402.4 to come up with the map that you want
+6404.76 of where the cells are,
+and he was very clever
+6407.33 about setting up a context
+6409.24 in which he could crowdsource this
+6411.36 and people who were interested
+6412.193 in getting a little experience
+looking at nervous tissue
+6414.76 and participating in a research project
+6417.077 could learn how to do
+this and do a little bit.
+6419.413 - From their living room.
+- From their living room.
+6421.86 - We'll put a link to Eyewire,
+it also is a great bridge
+6424.61 between what we were just
+talking about connectomics
+6426.42 and actually participating in research.
+6428.5 - Right.
+6429.333 - And you don't need a graduate mentor
+6430.65 or anything like that.
+- Right.
+6432.79 So more of this is coming
+6433.867 and I'm actually interested
+in building more of this
+6438.24 so that people who are interested,
+6440.16 want to participate at some level
+6441.57 don't necessarily have
+the time or resources
+6444.52 to get involved in laboratory research
+6446.799 can get exposed to it and participate
+6449.9 and actually contribute, so
+I think that's one thing.
+6454.335 I mean, just asking questions
+of the people around you
+6457.897 who know a little bit more
+6459.4 and have them point you
+in the right direction.
+6461.22 Here's a book you might like to read,
+6462.62 there's lots of great
+popular books out there
+6465.84 that are accessible that
+will give you some more sense
+6468.75 of the full range of what's
+out there in the neurosciences.
+6471.99 - We can put some links to
+a few of those that we like.
+6474.39 - Right.
+- On basic neuroscience.
+6476.12 - Right.
+- Our good friend
+6476.953 Dick Masland, the late Richard,
+6479.57 people call him Dick
+Masland had a good book.
+6483.77 I forget the title at the moment.
+6485.118 It's sitting behind me somewhere
+over there on the shelf
+6488.681 about vision and how nervous systems work.
+6490.44 A pretty accessible book
+for the general public.
+6492.57 - Right
+- Yeah.
+6493.403 - Right, so that, and there's
+so many sources out there.
+6496.58 I mean, Wikipedia is a great way.
+6498.11 If you have a particular
+question about visual function,
+6500.13 I would say by all means,
+head to Wikipedians
+6502.431 and get the first look
+6505.55 and follow the the references from there,
+6507.56 or go to your library,
+or there's so many ways
+6511.33 to get into it, it's such
+an exciting field now.
+6513.95 There's so many,
+6514.783 I mean, any particular
+realm that's special to you,
+6517.49 your experience, your
+strengths, your passions,
+6522.03 there's a field of
+neuroscience devoted to that.
+6525.45 If you know somebody who's
+got a neurological problem
+6527.88 or a psychiatric problem,
+there's a branch of neuroscience
+6531.87 that is devoted to
+trying to understand that
+6534.64 and to solve these kinds
+of problems down the line.
+6538.46 So feel the buzz, it's an
+exciting time to get involved.
+6543.38 - Great, those are great
+resources that people can access
+6545.67 from anywhere zero-cost as you
+need an internet connection.
+6548.78 But aside from that, we'll
+put the links to some.
+6551.047 And I'm remembering,
+Dick's book is called,
+6553.817 "We Know It When We See It."
+6555.28 - Right, one of my heroes.
+6556.97 - Yeah, a wonderful colleague
+6558.5 who unfortunately we lost a few years ago.
+6560.1 But listen David, this has been wonderful.
+6564.17 - It's been a blast.
+6565.003 - We really appreciate you
+taking the time to do this
+6566.82 as people probably realize by now
+6569.31 you're an incredible wealth of knowledge
+6571.04 about the entire nervous system,
+6572.97 today we just hit this top contour
+6575.24 of a number of different areas
+6576.37 to give a flavor of the different ways
+6578.34 that the nervous system
+works and is organized
+6581.03 and how that's put together,
+6583.35 how these areas are
+talking to one another.
+6585.23 What I love about you
+6586.063 is that you're such an incredible educator
+6587.889 and I've taught so many
+students over the years.
+6590.46 But also for me personally as friends,
+6594.21 but also any time that I want
+to touch into the the beauty
+6597.85 of the nervous system, I
+rarely lose touch with it.
+6600.75 But anytime I want to touch into it
+6602.14 and start thinking about new problems
+6603.92 and ways that the nervous
+system is doing things
+6606.49 that I hadn't thought about, I call you.
+6608.36 So please forgive me for the
+calls past, present and future
+6612.77 unless you change your number.
+6613.603 And even if you do, I'll be calling.
+6616.19 - It's been such a blast Andy.
+6618.213 This has been a great session
+6621.03 and it's always fun talking to you.
+6622.66 It always gets my brain
+racing, so thank you.
+6627.91 - Thank you, thank you
+for joining me today
+6629.92 for my discussion with Dr. David Berson.
+6632.33 By now, you should have a
+much clearer understanding
+6635.22 of how the brain is
+organized and how it works
+6638.24 to do all the incredible
+things that it does.
+6640.8 If you're enjoying and/or
+learning from this podcast,
+6643.24 please subscribe to our YouTube channel.
+6645.07 That's a terrific zero-cost
+way to support us.
+6647.85 In addition, please
+subscribe to our podcast
+6650.32 on Apple and Spotify.
+6652.04 And on Apple, you have the opportunity
+6653.68 to leave us up to a five-star review.
+6656.19 As well if you'd like to make suggestions
+6658.08 for future podcast episode topics,
+6660.5 or future podcast episode guests,
+6662.94 please put those in the comments section
+6665.01 on our YouTube channel.
+6666.7 Please also check out our sponsors
+6668.06 mentioned at the
+beginning of each podcast.
+6669.95 That's the best way to support us.
+6671.82 And we have a Patreon, it's
+patreon.com/andrewhuberman.
+6675.89 There you can support us
+at any level that you like.
+6678.24 While today's discussion did
+not focus on supplements,
+6681.6 many previous podcast episodes
+6683.24 include discussions about supplements.
+6685.22 And while supplements aren't
+necessary for everybody,
+6688.24 many people derive benefit
+from them for things like sleep
+6691.1 or focus or anxiety relief and so on.
+6693.93 One issue with the
+supplement industry however,
+6696.15 is that oftentimes the quality
+6698.06 will really vary across brands.
+6700.59 That's why we partnered
+with Thorne, T-H-O-R-N-E,
+6703.08 because Thorne supplements
+6704.56 are of the absolute highest standards
+6706.27 in terms of the quality of
+the ingredients that include
+6708.54 and the precision of the
+amounts of the ingredients
+6710.64 they include, in other words,
+6711.99 what's listed on the bottle,
+6713.13 is what's actually found in the bottle,
+6714.9 which is not true of many
+supplements out there
+6717.08 that have been tested.
+6718.28 If you'd like to see the
+supplements that I take,
+6720.12 you can go to thorne.com/u/huberman,
+6724.99 and there you can see the
+supplements that I take
+6727.0 and you can get 20% off
+any of those supplements.
+6729.61 And if you navigate deeper
+into the Thorne site
+6731.71 through that portal thorne.com/u/huberman,
+6735.68 you can also get 20% off
+any of the other supplements
+6738.61 that Thorne happens to make.
+6740.08 If you're not already
+following Huberman Lab
+6741.83 on Instagram and Twitter,
+feel free to do so.
+6744.77 Both places I regularly
+post short video posts,
+6747.9 or text posts that give
+tools related to health
+6751.23 and neuroscience and so forth.
+6752.85 And most of the time,
+6754.21 that information is non-overlapping
+with the information
+6756.46 on the podcast.
+6757.293 Again, it's just Huberman
+Lab on Instagram and Twitter.
+6759.72 And last but not least,
+6761.29 thank you for your interest in science.
+6762.655 [upbeat music]

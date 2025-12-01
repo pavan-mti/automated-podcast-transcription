@@ -1,0 +1,4347 @@
+0.35 - Welcome to the Huberman Lab Podcast,
+1.92 where we discuss science
+and science-based tools
+4.93 for everyday life.
+6.0 [authoritative music]
+9.33 I'm Andrew Huberman,
+10.32 and I'm a professor of
+neurobiology and ophthalmology
+12.98 at Stanford School of Medicine.
+14.89 Today, we are going to discuss salt,
+17.4 also referred to as sodium.
+19.243 Now, most of us think of salt
+21.63 as something that we
+put on and in our food,
+24.39 maybe something to avoid.
+25.8 Maybe some of you are actually
+trying to get more salt.
+27.8 Some of you are trying to get less salt.
+29.92 We all seem to associate salt
+31.48 with things like blood
+pressure, et cetera.
+33.47 Today, we are going to go down
+a different set of avenues
+36.38 related to salt.
+37.213 We will certainly cover how
+salt regulates blood pressure.
+40.37 We are also going to talk about
+41.86 how the brain regulates
+our appetite for salt
+45.01 or our aversion for salt.
+47.26 We are also going to talk about
+48.58 how our sensing of salty tastes
+51.47 actually mediates how much sugar we crave
+54.64 and whether or not we
+ingest more or less sugar
+57.4 than we actually need,
+59.05 so what you're going to learn today
+60.47 is that the so-called salt system,
+62.5 meaning the cells and
+connections in our brain and body
+65.47 that mediate salt craving and avoidance,
+67.9 are regulating many, many
+aspects of our health
+71.55 and our ability to perform
+in various contexts,
+73.98 things like athletic performance,
+75.31 things like cognitive performance.
+77.54 We're also going to talk
+about aging and dementia
+79.82 and avoiding aging and dementia
+81.42 and what role salt and salt
+avoidance might play in that.
+85.52 We're going to touch on some themes that,
+86.99 for some of you, might seem controversial,
+88.88 and indeed, if they are controversial,
+90.6 I'll be sure to highlight them as such.
+92.52 I'm going to cover a lot of new data
+94.28 that point to the possibility,
+95.97 I want to emphasize the possibility,
+97.23 that for some people,
+more salt might help them
+100.93 in terms of health, cognitive,
+and bodily functioning,
+104.08 and for other people, less
+salt is going to be better.
+107.44 I'm going to talk about what
+the various parameters are.
+109.54 I'm going to give you
+some guidelines that,
+111.33 in concert with your physician,
+113.23 who you should absolutely talk to
+114.43 before adding or changing anything
+116.06 to your diet or supplementation regime,
+117.92 can help you arrive at a salt intake
+119.93 that's going to optimize your mental,
+121.3 physical health, and performance,
+123.3 so we're going to cover neurobiology.
+124.54 We're going to cover hormone biology.
+126.36 We're going to talk about liver function.
+127.65 We're going to talk about kidney function
+129.6 and, of course, brain function.
+131.45 I'm excited to share this
+information with you today.
+133.61 I'm certain you're going to come
+away with a lot of information
+136.48 and actionable items.
+138.09 I'm pleased to announce
+139.02 that I'm hosting two live events this May.
+141.37 The first live event will take place
+142.84 in Seattle, Washington on May 17th.
+145.45 The second live event will take place
+146.94 in Portland, Oregon on May 18th.
+149.9 Presale tickets for these
+two events are now available
+152.36 at hubermanlab.com/tour.
+155.25 I should mention that
+156.18 while I do hope to visit other
+cities in the near future
+159.24 to do more live events,
+160.47 right now,
+161.303 these are the only two live
+events I have scheduled,
+163.36 at least for the six months,
+165.0 so once again, if you go
+to hubermanlab.com/tour,
+167.61 you can access the presale tickets.
+169.49 I hope to see you at these live events,
+171.38 and as always, thank you for
+your interest in science.
+174.36 Before we dive into the
+topic of today's episode,
+177.17 I want to highlight a
+really exciting new study.
+179.81 This is a study from Diego Bohorquez' lab
+182.29 at Duke University.
+184.17 The Bohorquez Lab studies interactions
+186.54 between the gut and the brain
+188.87 and has made some incredible discoveries
+191.22 of the so-called neuropod cells.
+193.35 Neuropod cells are neurons, nerve cells,
+195.89 that reside in our gut
+197.84 and that detect things like
+fatty acids, amino acids,
+201.32 and some neuropod cells sense sugar.
+204.41 Previous work from this
+laboratory has shown
+206.9 that when we ingest sugar,
+209.27 these neuropod cells respond to that sugar
+212.89 and send electrical signals
+214.57 up a little wire that we call an axon
+216.54 through the vagus nerve, for
+those of you that want to know,
+219.04 and into the brain,
+220.97 and through subsequent
+stations of neural processing,
+224.06 evoke the release of dopamine.
+226.43 Dopamine is a molecule
+known to promote craving
+229.95 and motivation and indeed action,
+232.54 and what these neuropod
+cells that send sugar
+234.67 are thought to do is to promote
+seeking and consumption,
+238.18 eating of more sugary foods.
+240.96 Now, the incredible thing is
+that it's all subconscious.
+243.61 This is a taste system in the gut
+246.1 that is not available to
+your conscious awareness.
+249.6 Now, of course, when
+you ingest sweet foods,
+251.36 you taste them on your mouth too,
+252.92 and so part of the reason
+254.17 that you crave sweet foods, perhaps,
+256.09 is because they taste good to you,
+257.84 and the other reason
+259.5 is that these neuropod cells
+are driving a chemical craving
+263.3 below your conscious detection,
+264.79 so they're really two systems.
+266.4 Your gut is sensing, at a
+subconscious level, what's in it
+271.42 and sending signals to your
+brain that work in concert,
+274.07 in parallel with the signals
+coming from your mouth
+276.42 and your experience of
+the taste of the food.
+278.68 Now, that alone is incredible,
+280.62 and it's been the subject of
+many important landmark papers
+283.22 over the last decade or so.
+285.45 You can imagine how this
+system would be very important
+287.97 for things like hidden sugars
+289.3 when nowadays, in a
+lot of processed foods,
+291.61 they're putting hidden sugars.
+293.67 They're putting a lot of things
+295.24 that cause your gut to
+send signals to your brain
+298.85 that make you crave more of those foods,
+301.2 so for those of you
+that really love sugar,
+302.82 just understand it's not just
+about how that sugar tastes.
+306.48 The new study from the Bohorquez Lab
+308.02 deserves attention, I believe.
+309.97 This is a paper published just recently,
+311.94 February 25th this year, 2022,
+314.72 in "Nature Neuroscience,"
+an excellent journal,
+316.8 and the title of the paper is
+318.287 "The Preference for Sugar over Sweetener
+320.397 "Depends on a Gut Sensor Cell."
+322.56 The Bohorquez Lab has now
+discovered a neuropod cell,
+326.01 meaning a category of neurons,
+327.77 that can distinguish between
+sweet things in the gut
+332.33 that contain calories,
+for instance, sugar,
+336.38 and things in the gut that are sweet
+340.19 but do not contain calories:
+342.01 artificial sweeteners
+like aspartame, sucralose,
+344.28 and so forth.
+345.81 There are also, of course,
+346.7 nonartificial, noncaloric sweeteners
+348.94 like stevia, monk fruit, et cetera.
+351.39 They did not explore
+352.3 the full gallery of artificial sweeteners.
+354.69 What they did find,
+however, ought to pertain
+357.47 to all forms of sweet,
+noncaloric substances.
+361.43 What they discovered
+362.263 was that there is a
+signature pattern of signals
+364.48 sent from the gut to the brain
+366.72 when we ingest artificial
+or noncaloric sweeteners.
+371.07 This is important
+371.97 because what it says is that
+at a subconscious level,
+374.3 the gut can distinguish
+375.39 between sweet things that contain calories
+377.15 and sweet things that do not.
+378.64 Now, what the downstream
+consequences of this sensing is
+383.41 or what they are isn't yet clear.
+386.44 Now, I believe everyone
+387.37 should be aware of these kinds of studies
+389.72 for a couple of reasons.
+390.7 First of all,
+392.06 it's important to understand
+that what you crave,
+394.52 meaning the foods you crave
+and the drinks you crave,
+396.83 is, in part, due to your
+conscious experience
+399.32 of the taste of those things,
+400.85 but also due to biochemical
+and neural events
+404.25 that start in the body
+and impinge on your brain
+407.61 and cause you to seek out certain things
+410.72 even though you might not know
+412.03 why you're seeking out more sugar.
+413.6 You find that you're
+craving a lot of sugar,
+415.56 or you're craving a lot of foods
+with artificial sweeteners,
+418.12 and you don't necessarily know why.
+419.92 Now, artificial sweeteners themselves
+421.57 are a somewhat controversial topic.
+423.39 I want to highlight that.
+425.1 Some months back, I described
+a study from Yale University
+428.84 about how one can condition
+the insulin system.
+431.79 Insulin is involved in
+mobilizing of blood sugar
+433.99 and so forth in the body,
+as many of you know,
+435.91 and I described some studies
+438.12 that were done from Yale
+University School of Medicine
+440.46 looking at how artificial sweeteners
+442.3 can actually evoke an insulin response
+447.13 under certain conditions.
+449.06 Now, a couple of key things.
+450.81 I got a little bit of pushback
+after covering those studies,
+454.42 and I encourage pushback all the time.
+457.41 Pushback is one of those things
+458.59 that forces all of us to
+drill deeper into a topic.
+461.32 I want to be clear.
+462.153 First of all,
+462.986 I am not one to demonize
+artificial sweeteners.
+465.73 There is evidence, in animal models,
+467.96 in animal models,
+469.38 that artificial sweeteners can
+disrupt the gut microbiome,
+473.28 but those were fairly high
+doses of artificial sweeteners,
+475.75 and it's unclear if the same
+thing pertains to humans,
+477.98 still unclear, I should say,
+479.38 has not been investigated thoroughly.
+481.46 Some people don't like the
+taste of artificial sweeteners.
+483.64 Some people do.
+484.51 Some people find
+485.343 that they really help them
+avoid excessive caloric intake.
+488.49 Some people believe,
+489.73 and yet I should emphasize
+there still isn't evidence
+492.55 that they can adjust the
+insulin response in all people.
+495.33 I just want to repeat that three times
+496.64 so that people are clear on that fact.
+500.06 What these new data emphasize, however,
+501.94 is that we need to understand
+503.48 how artificial sweeteners are consumed
+506.32 at the level of the gut,
+507.153 or I should say registered
+at the level of the gut
+509.16 and how that changes brain function
+511.91 because one thing that I'm familiar with
+513.127 and that many people report
+514.5 is that when they first
+taste artificial sweeteners,
+517.27 they taste sort of not right to them.
+519.29 They don't like the taste,
+520.16 but over time, they actually
+start to crave that taste.
+522.9 I've experienced this.
+523.733 I used to drink a lot of diet sodas
+525.04 when I was in graduate school,
+526.51 so this would be aspartame,
+527.99 and I found that I would,
+I actually needed them.
+530.75 Now, maybe it was the caffeine.
+531.81 Maybe I just liked the sweet
+taste or the carbonation.
+533.8 We actually have a drive for carbonation,
+536.24 which is a topic of a future episode,
+538.31 but when I finally quit them,
+541.1 for reasons that were independent
+542.78 of any fear of artificial sweeteners,
+545.55 I found that I didn't like the taste.
+547.35 Nowadays, I only occasionally
+drink a diet soda.
+550.48 I usually do that if I'm on a plane
+551.65 and there's nothing else available to me,
+552.93 so I don't demonize them.
+554.31 I might drink one every once in a while.
+556.53 No big deal.
+557.363 I also want to be clear I consume stevia
+559.14 on a number of different supplements
+561.13 and foods that I consume.
+562.51 Stevia, of course, is a
+plant-based noncaloric sweetener,
+565.35 so I, myself, consume
+artificial sweeteners.
+567.57 Many people hate them.
+568.91 Many people like them
+570.44 and find them useful for their nutrition,
+572.33 and in fact, to keep their caloric intake
+574.53 in a range that's right for them,
+576.29 and many people, like myself,
+578.64 are curious about them
+and somewhat wary of them
+581.9 and yet continue to consume
+them in small amounts.
+584.21 I think most people probably
+fall into that category.
+586.44 I should also mention that
+many food manufacturers
+589.81 put artificial sweeteners,
+591.4 such as sucralose, et cetera, into foods,
+594.4 and it's always been unclear
+596.26 as to why they might want to do that,
+598.21 and yet we know that the
+sweet taste consumption,
+602.27 even if it doesn't contain calories,
+603.64 can drive more craving of sweet food,
+606.73 so there may be a logic or a
+strategy to why they do that.
+609.67 Again, a topic for
+exploration on today's podcast
+612.33 and in future podcasts
+613.26 because where we're headed today
+615.21 is a discussion about how
+salt and salt sensing,
+618.84 both consciously and unconsciously,
+620.77 can adjust our craving for other things,
+622.89 like sugar and water and so on,
+625.35 so I want to highlight this beautiful work
+627.01 from the Bohorquez Lab.
+627.843 We'll put a link to the study.
+629.38 I want to open this as a
+chapter for further exploration.
+632.54 I like to think that the
+listeners of this podcast
+635.12 are looking for answers
+where we have answers,
+637.0 but are also, I would hope,
+638.72 excited about some of the
+new and emerging themes
+641.23 in what we call nutritional neurobiology,
+643.58 and indeed, the Bohorquez
+Lab really stands
+645.96 as one of the premier
+laboratories out there
+648.43 that's looking at how foods,
+as consumed in the gut,
+652.07 are modifying our nervous system,
+653.82 the foods we crave, and
+how we utilize those foods.
+656.86 Before where we begin,
+657.7 I'd like to emphasize that
+this podcast is separate
+659.87 from my teaching and
+research roles at Stanford.
+662.04 It is, however, part
+of my desire and effort
+664.37 to bring zero cost to consumer information
+666.27 about science and science-related tools
+668.27 to the general public.
+669.74 In keeping with that theme,
+670.77 I'd like to thank the
+sponsors of today's podcast.
+673.39 Our first sponsor is Athletic
+Greens, now called AG1.
+677.05 I've been taking AG1 since 2012,
+679.38 so I'm delighted that they're
+sponsoring the podcast.
+681.68 The reason I started taking AG1
+682.927 and the reason I still take
+AG1 once or twice a day
+685.95 is that I find it to be the best way
+688.22 to ensure I get all of
+my vitamins and minerals
+690.6 and the probiotics I need.
+692.55 I try and eat really well,
+but I'm not perfect about it,
+695.6 and with Athletic Greens, AG1,
+698.34 I cover any deficiencies I might have.
+700.76 The probiotics are
+particularly important to me
+703.15 because, as we've talked about
+on many previous episodes
+705.91 and we'll talk about
+more on today's episode,
+707.83 the gut microbiome is
+supported by probiotics,
+710.3 and the gut microbiome supports
+many biological functions
+713.47 important for immediate
+and long-term health,
+715.35 things like immune system function,
+716.89 things like the gut-brain axis
+718.52 and mood and appetite and so forth.
+720.52 With Athletic Greens,
+721.55 I make sure all of those bases are covered
+723.32 because of the probiotics.
+724.51 If you'd like to try Athletic Greens,
+725.88 you can go to athleticgreens.com/huberman
+728.48 to claim a special offer.
+729.57 They'll give you five free travel packs,
+731.06 which make it really easy
+to mix up Athletic Greens
+733.44 while you're on the road,
+734.61 and they'll give you a year's
+supply of vitamin D3+K2.
+737.49 Vitamin D3 is crucial
+739.35 for many aspects of our
+immediate and long-term health,
+742.79 and many people simply are
+not getting enough vitamin D3,
+745.8 or the amounts they're
+getting are not optimal.
+748.15 K2 is important for cardiovascular health
+750.44 and for calcium regulation,
+751.7 so again, if you go to
+athleticgreens.com/huberman,
+754.56 you can claim the special offer,
+755.72 the five free travel packs
+756.86 and a year's supply of vitamin D3+K2.
+759.6 Today's episode is also
+brought to us by LMNT.
+762.25 LMNT is an electrolyte drink
+that has everything you need
+765.35 and none of the things you don't.
+767.81 That means it has salt,
+magnesium, and potassium,
+770.507 the so-called electrolytes,
+771.86 which are critical for neuronal function
+773.8 and a lot of other biological functions.
+777.13 As I mentioned on the podcast before,
+778.8 I'm a fan of salt.
+780.24 I believe in ingesting
+appropriate amounts of salt,
+782.51 and by appropriate, I mean,
+783.61 depending on what your
+background blood pressure
+785.76 happens to be,
+786.593 what your activity levels
+are, how much you sweat,
+788.85 what your cognitive and
+physical demands are.
+790.67 Today, we're going to talk about
+791.98 how to determine what those needs are.
+794.7 I'm always trying to stay
+on top of my hydration,
+797.4 and as you'll also learn about today,
+799.48 salt and water intake and
+hydration are intimately related.
+803.63 With LMNT, I'm sure to get
+the potassium, the sodium,
+807.447 and the magnesium that I need,
+809.14 and I do that in a great-tasting drink,
+811.1 and as I mentioned
+before, it has no sugar.
+813.43 If you'd like to try LMNT,
+you can go to drinklmnt.com,
+816.54 that's drinklmnt.com/huberman
+819.88 to claim a free LMNT sample pack.
+821.69 You only cover the cost of shipping.
+823.18 Otherwise, it's completely free.
+824.57 Again, that's drinklmnt.com/huberman
+828.49 to claim a free sample pack of LMNT.
+830.91 Today's episode is also
+brought to us by InsideTracker.
+833.745 InsideTracker is a
+personalized nutrition platform
+836.3 that analyzes data from your blood and DNA
+838.94 to help you better understand your body
+840.49 and help you reach your health goals.
+842.53 I am a big fan of getting
+regular blood work done,
+844.97 and I've been trying to do it
+846.2 as much as I can afford for years.
+848.48 The reason is that many of the factors
+850.53 that impact our immediate
+and long-term health
+852.62 can only be discovered
+from a quality blood test.
+856.21 With most blood tests
+and DNA tests, however,
+859.12 you get information back,
+860.22 but not a lot of information
+861.55 about what to do with those numbers,
+863.35 so if something's in high or low range,
+864.93 you might get one or two
+generic recommendations,
+866.98 things that you could
+easily look up online,
+868.75 but you're not going to get a
+lot of specific recommendations.
+871.77 With InsideTracker,
+872.66 they give you a lot of
+specific recommendations
+874.71 as to lifestyle factors,
+nutrition factors,
+876.86 supplementation factors,
+878.44 things you may want to add to your life
+881.03 or things you may want
+to delete from your life
+882.92 in order to bring the numbers
+into the ranges that are best
+885.44 for your immediate and long-term health.
+887.46 There's simply no replacement
+for these kinds of data,
+889.94 and your data are the most
+important data to you,
+893.03 and quality blood tests and DNA tests
+895.01 are the way to access them.
+896.27 If you'd like to try InsideTracker,
+897.69 go to insidetracker.com/huberman
+900.23 to get 20% off any of
+InsideTracker's plans.
+902.85 That's insidetracker.com/huberman
+to get 20% off.
+906.96 Okay, let's talk about salt.
+908.34 Salt has many, many important functions
+910.19 in the brain and body.
+911.64 For instance, it regulates fluid balance,
+914.24 how much fluid you desire and
+how much fluid you excrete.
+918.71 It also regulates your
+desire for salt itself,
+922.2 meaning your salt appetite.
+924.09 You have a homeostatically
+driven salt appetite.
+928.05 I'll talk about the mechanisms today,
+929.4 make them all very clear.
+931.33 What that means is that
+you crave salty things,
+934.39 beverages and foods,
+935.71 when your salt stores are low,
+937.5 and you tend to avoid
+salty beverages and foods
+940.8 when your salt stores are high,
+942.35 although that's not always the case.
+943.92 There are circumstances where
+you'll continue to crave salt
+946.79 even though you don't need salt
+948.61 or indeed even if you
+need to eliminate salt
+951.94 from your system.
+953.86 Salt also regulates your
+appetite for other nutrients,
+956.76 things like sugar, things
+like carbohydrates,
+959.4 and today, we'll explore all of that.
+961.55 Technically, salt is a mineral,
+964.04 and I should mention that when I say salt,
+966.51 I am indeed referring to
+sodium, in most cases,
+969.16 although I will be clear to
+distinguish salt from sodium,
+971.88 meaning table salt from sodium.
+974.08 Most people don't realize this,
+976.07 but one gram of table salt
+978.63 contains about 388 milligrams of sodium,
+982.93 so technically, we should be
+talking about sodium today
+985.71 and not salt.
+986.543 I will use them interchangeably
+988.0 unless I'm referring to some
+specific recommendations
+991.88 or ideas about trying to
+define your ideal salt,
+996.34 aka sodium intake, okay?
+998.31 So this is important.
+999.27 I think, right off the bat,
+1000.98 a lot of people get themselves
+into a place of confusion
+1003.77 and potentially even to a place of trouble
+1006.13 by thinking that table salt in grams
+1009.23 always equates to sodium in grams,
+1011.677 and that's simply not the case.
+1013.94 Today, we're going to
+explore the neural mechanisms
+1016.97 by which we regulate our salt appetite
+1020.64 and the way that the
+brain and body interact
+1022.81 in the context of
+salt-seeking, salt avoidance,
+1026.25 how to determine when we need more salt,
+1028.07 when we need less salt.
+1029.49 We'll talk about kidney function.
+1030.89 We'll get into all of it,
+1032.37 and we're going to do
+it very systematically,
+1034.12 so let's start in the brain.
+1036.28 We all harbor small sets of neurons.
+1039.83 We call these sets of neurons nuclei,
+1041.82 meaning little clusters of neurons,
+1044.35 that sense the levels of
+salt in our brain and body.
+1048.7 There are couple brain
+regions that do this,
+1051.04 and these brain regions
+are very, very special,
+1053.23 special because they lack
+biological fences around them
+1057.483 that other brain areas have,
+1059.4 and those fences, or I
+should say that fence,
+1062.38 goes by a particular name,
+1063.49 and that name is the
+blood-brain barrier, or BBB.
+1067.72 Most substances that are
+circulating around in your body
+1070.66 do not have access to the brain,
+1072.59 in particular, large molecules
+1074.49 can't just pass into the brain.
+1076.55 The brain is a privileged
+organ in this sense.
+1079.0 There are couple other
+organs that are privileged
+1080.89 and that have very strict barriers,
+1083.21 very particular fences, if you will,
+1085.597 and those other organs
+1086.7 include things like
+the ovaries and testes,
+1088.65 and that makes sense for
+the following reason:
+1091.25 First of all, the brain,
+at least most of the brain,
+1095.32 cannot regenerate after injury.
+1098.04 You just simply can't replace
+brain cells after injury.
+1100.55 I know people get really
+excited about neurogenesis,
+1102.87 the birth of new neurons,
+1103.97 and indeed, neurogenesis
+has been demonstrated
+1106.65 in animal models,
+1107.57 and to some extent it exists
+in humans in a few places,
+1110.52 for instance, the olfactory bulb,
+1112.45 where neurons are responsible
+1114.5 for detecting odorants in the environment,
+1116.47 for smell, that is,
+1117.47 and in a little subregion of
+the hippocampus, a memory area,
+1120.87 there's probably some neurogenesis,
+1122.82 but the bulk of really good data out there
+1124.75 point to the fact that in humans
+1126.44 there's not much turnover of neurons.
+1128.7 What that means is that the
+neurons you're born with
+1131.21 are the ones that you're going to be using
+1133.63 most, if not all, of your life.
+1136.28 In fact, you're born
+with many more neurons
+1138.3 than you'll have later,
+1139.6 and there's a process of
+naturally occurring cell death
+1142.08 called apoptosis, that
+occurs during development,
+1144.43 so you actually are born
+with many more neurons
+1146.48 than you have later in life,
+1147.4 and that's the reflection
+of a normal, healthy process
+1150.57 of nerve cell elimination,
+1153.08 so the estimates vary,
+1155.1 but anywhere from 1/3 to maybe even 1/2
+1158.06 or even 2/3 of neurons,
+depending on the brain area,
+1160.28 are just going to die across development.
+1162.09 That might sound terrible,
+1163.19 but that's actually one of the ways
+1164.29 in which you go from being kind
+of like a little potato bug
+1166.89 flopping around helplessly in your crib
+1168.82 to being an organism
+that can walk and talk
+1171.18 and articulate and calculate math
+1174.22 or do whatever it is
+that you do for a living,
+1176.5 so the brain has a set of elements,
+1179.92 these nerve cells and other cells,
+1181.51 and it needs to use those
+for the entire lifespan,
+1184.62 so having a BBB, a blood-brain
+barrier around the brain,
+1187.24 is absolutely critical.
+1189.14 The ovaries and testes have
+a barrier for, we assume,
+1193.86 the reason that they
+contain the genetic material
+1196.34 by which we can pass on
+our genes to our offspring,
+1199.37 progeny, meaning make children,
+1200.65 and those children will have our genes,
+1202.68 or at least half of them,
+1204.58 the other half from
+the partner, of course.
+1208.17 If the cells within the
+ovaries and testes are mutated,
+1212.92 well, then, you can get
+mutations in offspring,
+1214.76 so that's very costly in
+the evolutionary sense,
+1217.11 so it makes sense
+1217.943 that you would have a
+barrier from the blood
+1219.84 so if you ingest what's called a mutagen,
+1221.73 if you ingest something that
+can mutate the genes of cells,
+1225.08 you can imagine why
+there would be a premium
+1228.93 on not allowing those mutagens
+1230.44 to get into the brain, the
+ovaries, or the testes, okay?
+1233.53 So the brain has this BBB,
+1234.99 this blood-brain barrier around it,
+1236.49 which makes it very, very hard
+1237.56 for substances to pass into the brain
+1239.08 unless those substances are very small
+1241.15 or those substances and molecules
+1244.17 are critically required
+for brain function.
+1246.95 However, there are a couple
+of regions in the brain
+1250.68 that have a fence around them,
+1253.94 but that fence is weaker, okay?
+1255.61 It's sort of like going
+from a really big wall
+1257.87 thick electronic 24-hour
+surveillance fence
+1262.3 where nothing can pass through
+1263.48 except only the exclusive cargo
+that's allowed to go through
+1266.97 to having a little cyclone
+fence with a couple holes in it,
+1269.73 or it's a kind of a picket
+fence that's falling over,
+1272.29 and substances can move freely in
+1274.25 from the blood circulating
+in the body into the brain,
+1277.62 and it turns out that
+the areas of the brain
+1279.44 that monitor salt balance
+1281.53 and other features of
+what's happening in the body
+1284.58 at the level of what we call osmolarity,
+1287.58 at the concentration of salt,
+1291.09 reside in these little sets of neurons
+1294.56 that sit just on the other
+side of these weak fences,
+1297.47 and the most important
+and famous of these,
+1299.82 for sake of today's
+conversation, is one called OVLT.
+1303.54 OVLT stands for
+1304.91 the organum vasculosum of
+the lateral terminalis.
+1308.07 It is what's called a
+circumventricular organ.
+1310.72 Why circumventricular?
+1311.87 Well, not to bog you
+down with neuroanatomy,
+1314.23 but your brain is a big squishy mass
+1317.2 of neurons and other cell types,
+1319.01 but it has to be nourished,
+1320.88 and through the middle of that brain,
+1323.53 there is a tube, there's a
+hollow, that creates spaces,
+1326.687 and those spaces are called ventricles.
+1328.93 The ventricles are spaces
+1330.02 in which cerebrospinal fluid circulates,
+1333.86 and it nourishes the brain.
+1335.09 It does a number of other things as well.
+1337.84 The circumventricular organs
+1340.37 are areas of the brain that are
+near that circulating fluid,
+1343.82 and that circulating fluid
+has access to the bloodstream,
+1346.61 and the bloodstream has access to it,
+1348.23 and this structure that I'm referring to,
+1350.11 OVLT, organum vasculosum
+of the lateral terminalis,
+1353.46 has neurons that can sense
+1355.91 the contents of the blood
+1358.7 and, to some extent,
+the cerebrospinal fluid.
+1361.2 There are couple other brain
+areas that can do this as well.
+1364.34 They go also by the name of
+circumventricular organs,
+1367.87 and I'll talk about the names
+of some of those other areas,
+1370.13 but for today,
+1371.3 and I think for sake of
+most of the discussion,
+1373.32 understand that the OVLT is special.
+1375.51 Why?
+1376.343 Because it doesn't have
+this thick barrier fence,
+1378.74 which sounds like a bad thing,
+1380.39 and yet it's a terrific border detector.
+1384.48 The neurons in that region
+1387.16 are able to pay attention
+1388.36 to what's passing through
+in the bloodstream
+1390.9 and can detect, for instance,
+1392.67 if the levels of sodium in
+the bloodstream are too low,
+1395.3 if the level of blood pressure in the body
+1397.33 is too low or too high,
+1398.6 and then, the OVLT can send
+signals to other brain areas,
+1402.93 and then, those other
+brain areas can do things
+1405.2 like release hormones that
+can go and act on tissues
+1408.54 in what we call the
+periphery, in the body,
+1411.56 and, for instance, have the
+kidneys secrete more urine
+1416.06 to get rid of salt that's
+excessive salt in the body
+1419.41 or have the kidneys hold onto urine,
+1421.84 to hold onto whatever water
+or fluid that one might need,
+1425.14 so before I go any
+deeper into this pathway,
+1427.06 just understand that the OVLT
+has a very limited barrier.
+1430.49 It can detect things in the bloodstream,
+1432.4 and this incredible area of the brain,
+1435.83 almost single-handedly,
+1437.38 sets off the cascades of things
+1439.11 that allow you to regulate
+your salt balance,
+1442.05 which turns out to be absolutely critical,
+1444.13 not just for your ability to think
+1445.7 and for your neurons to work,
+1446.8 but indeed, for all of life.
+1448.45 If the OVLT doesn't function correctly,
+1450.35 you're effectively dead or dead soon,
+1452.75 so this is a very important brain region,
+1455.01 so let's talk about the
+function of the OVLT
+1457.12 and flesh out some of the
+other aspects of its circuitry,
+1460.39 of its communication
+with other brain areas
+1462.35 and with the body
+1463.19 in the context of something
+that we are all familiar with,
+1465.65 which is thirst.
+1467.12 Have you ever wondered
+just why you get thirsty?
+1469.94 Well, it's because neurons in your OVLT
+1473.38 are detecting changes in your bloodstream,
+1475.56 which detect global
+changes within your body,
+1478.57 and in response to that,
+1480.143 your OVLT sets off certain
+events within your brain and body
+1484.81 that make you either
+want to drink more fluid
+1487.4 or to stop drinking fluid.
+1490.62 There are two main kinds of thirst.
+1492.4 The first one is called osmotic thirst,
+1494.9 and the second is called
+hypovolemic thirst.
+1498.94 Osmotic thirst has to do
+1500.33 with the concentration of
+salt in your bloodstream,
+1503.23 so let's say you ingest
+something very, very salty.
+1505.5 Let's say you ingest a big bag of,
+1508.25 I confess I don't eat these very often,
+1509.88 but I really like those
+kettle potato chips,
+1511.76 and they're pretty salty.
+1512.66 I've never actually measured
+how much sodium is in them.
+1514.63 I'm sure the information is there.
+1515.77 Every once in a while,
+1517.6 I'm particularly interested in doing so,
+1520.97 I'll just down a bag of those things,
+1522.48 and I really like them,
+and they're very salty,
+1524.36 but they almost always
+make me feel thirsty,
+1526.53 and the reason is that by eating those,
+1528.96 I've ingested a lot of sodium.
+1530.37 Again, not a frequent occurrence for me,
+1532.55 but happens every now and again,
+1534.81 and I don't have too much shame about that
+1536.61 because I think I have a pretty
+healthy relationship to food
+1539.46 and I enjoy them,
+1540.87 and I understand
+1542.22 that it will drive salt
+levels up in my bloodstream,
+1545.72 and that will cause me
+to be thirsty, but why?
+1549.05 Why?
+1549.883 Because neurons in the OVLT
+come in two main varieties.
+1553.81 One variety senses the
+osmolarity of the blood
+1557.8 that's getting across
+that weak little fence
+1559.92 that we talked about before,
+1561.42 and when the osmolarity,
+1563.04 meaning the salt concentration
+of the blood, is high,
+1566.41 it activates these specific
+neurons in the OVLT,
+1569.34 and by activates,
+1570.19 I mean it causes them to
+send electrical potentials,
+1573.2 literally, send electrical
+signals to other brain areas,
+1577.69 and those other brain areas
+1579.05 inspire a number of
+different downstream events,
+1581.96 so what are those other brain areas?
+1583.97 Well, the OVLT
+1586.52 signals to an area called
+the supraoptic nucleus.
+1590.36 The name and why it's called
+the supraoptic nucleus
+1593.29 is not necessarily important.
+1594.97 It also signals to the so-called
+paraventricular nucleus,
+1597.86 another nucleus that
+sits near the ventricles
+1599.82 and can monitor the qualities,
+1603.0 the chemical qualities of
+the cerebrospinal fluid
+1605.53 as well as, probably,
+the bloodstream as well,
+1608.37 and the consequence
+1611.86 of that communication
+1613.61 is that a particular hormone
+is eventually released
+1617.22 from the posterior pituitary.
+1619.72 Now, the pituitary is a gland
+1622.81 that sits near the roof of your mouth.
+1625.13 It releases all sorts of things
+1626.47 like growth hormone and
+luteinizing hormone.
+1629.43 Luteinizing hormone will stimulate things
+1631.16 like estrogen and testosterone
+production and release
+1635.02 from the ovaries and testes and so on.
+1637.64 The pituitary has a bunch
+1638.75 of different compartments and functions,
+1640.07 but what's really cool about the pituitary
+1642.6 is that certain regions of the pituitary
+1644.54 actually contain the axons,
+the wires of neurons,
+1647.49 and the neurons reside in the brain,
+1649.59 and so the supraoptic nucleus
+gets a signal from the OVLT.
+1654.95 The signal is purely in the
+form of electrical activity.
+1657.44 Remember, neurons aren't
+talking in one another
+1659.44 about what's happening out there.
+1660.77 They're not saying, "Psst!
+1661.603 "Hey, there's too much
+salt in the bloodstream.
+1664.227 "Let's do something about it."
+1665.46 All they receive are
+so-called action potential,
+1667.86 waves of electricity.
+1669.49 The neurons in the supraoptic nucleus
+1671.85 then release their own electrical signals
+1676.01 within the pituitary,
+1677.64 and some of those neurons
+and nearby neurons
+1680.5 are capable of releasing hormones
+1682.7 as well as electrical signals,
+1685.38 so from the pituitary,
+1687.15 there's a hormonal signal that's released
+1688.84 called vasopressin.
+1690.95 Vasopressin also goes by the
+name antidiuretic hormone,
+1695.56 and antidiuretic hormone has the capacity
+1699.75 to either restrict the amount
+of urine that we secrete,
+1703.81 or, when that system is turned off,
+1706.13 to increase the amount
+of urine that we secrete,
+1709.64 so there's a complicated set
+of cascades that's evoked
+1713.53 by having high salt
+concentration in the blood.
+1715.96 There's also a complicated set
+of cascades that are evoked
+1718.84 by having low concentrations
+of sodium in the blood,
+1722.25 but the pathway is nonetheless the same.
+1724.22 It's OVLT is detecting
+those osmolarity changes,
+1728.09 communicating to the supraoptic nucleus.
+1729.73 Supraoptic nucleus is either
+causing the release of
+1734.38 or is releasing vasopressin,
+antidiuretic hormone,
+1737.85 or that system is shut off
+1739.87 so that the antidiuretic
+hormone is not secreted,
+1743.52 which would allow urine to
+flow more freely, right?
+1746.27 Antidiuretic means anti release of urine,
+1750.48 and by shutting that off,
+1752.78 you are going to cause
+the release of urine.
+1755.97 You're sort of allowing a
+system to flow, so to speak.
+1758.76 The second category of
+thirst is hypovolemic thirst.
+1763.26 Hypovolemic thirst occurs
+1764.76 when there's a drop in
+blood pressure, okay?
+1767.85 So the OVLT, as I mentioned before,
+1769.78 can sense osmolarity
+1772.58 based on the fact that
+it has these neurons
+1774.49 that can detect how much
+salt is in the bloodstream,
+1778.06 but the OVLT also harbors neurons
+1781.49 that are of the baroreceptor,
+1784.2 mechanoreceptor category.
+1786.86 Now, more on baroreceptors
+and mechanoreceptors later,
+1790.86 but baroreceptors are
+essentially a receptor,
+1795.89 meaning a protein that's in a cell
+1798.26 that responds to changes
+in blood pressure,
+1801.6 so there are a number of things
+1802.81 that can cause decreases
+in blood pressure.
+1805.91 Some of those include, for instance,
+1807.24 if you lose a lot of blood, right?
+1808.94 If you're bleeding quite a lot,
+1810.64 or in some cases, if
+you vomit quite a lot,
+1814.28 or if you have extensive diarrhea
+1816.46 or any combination of those,
+1817.83 and there are other things
+that can reduce blood volume,
+1820.73 and we will talk about
+some of those later,
+1823.29 but in the classic case
+of hypovolemic thirst,
+1827.49 one is simply losing blood,
+1829.48 and therefore, blood pressure goes down,
+1831.21 so very simple to imagine in your mind.
+1833.09 You have these pipes,
+1833.923 which are the arteries,
+veins, and capillaries,
+1835.37 and when you lose some blood volume,
+1837.28 the pressure in those arteries,
+veins, and capillaries
+1840.01 goes down.
+1840.843 OVLT has neurons
+1842.473 that can sense that
+reduction in blood pressure
+1845.739 because of the presence
+of baroreceptors in OVLT.
+1849.58 There are other elements
+1852.31 that also play into the response
+1854.47 to what we call hypovolemic thirst.
+1857.61 For instance,
+1859.44 the kidney will secrete
+something called renin.
+1862.28 Renin will activate something
+called angiotensin II
+1865.09 from the lungs, of all things, amazing,
+1868.36 and angiotensin II itself can act on OVLT,
+1872.206 organum vasculosum of
+the lateral terminalis,
+1874.33 which, in turn, will create thirst, okay?
+1878.84 So in both cases, right?
+1881.23 The osmolarity sensing system,
+meaning osmotic thirst,
+1884.73 and in hypovolemic thirst, where
+blood pressure has dropped,
+1888.68 the end result is a desire to drink more,
+1891.74 and that desire to drink more
+1893.35 comes through a variety of pathways
+1894.86 that are both direct and indirect,
+1896.44 include vasopressin and
+don't include vasopressin,
+1898.83 but I think, for just
+sake of general example,
+1902.29 and even for those of you
+1903.2 that don't have any biology background
+1905.04 or physiology background,
+1906.58 just understand that there
+are two main types of thirst.
+1909.97 Both types of thirst, osmotic
+thirst and hypovolemic thirst,
+1914.1 are not just about seeking water,
+1916.26 but they also are about seeking salt.
+1919.81 In very general terms,
+1921.81 salt, aka sodium, can help retain water.
+1926.94 Now, that doesn't mean that
+salt always retains water.
+1930.14 If you have excessive amounts of salt,
+1931.96 will you retain excessive
+amounts of water?
+1934.03 Well, sort of.
+1934.87 As we'll soon learn, it's all contextual,
+1937.28 but for most cases,
+1939.95 we can say that by having
+salt in our system,
+1943.57 our brain and our body
+can function normally
+1945.83 provided the levels of salt are adequate
+1948.4 and not too high or too low,
+1950.69 and thirst, while we often think of it
+1954.11 as just a way to bring
+fluid into our body,
+1956.74 is designed as a kind of
+1959.07 a interoceptive perception.
+1961.61 What I mean by that,
+interoception, as many of know now
+1964.47 from listening to this podcast,
+1965.55 is a paying of attention
+or a recognition, rather,
+1968.94 a conscious recognition
+1970.08 of the events going on within our body,
+1972.48 so when we are thirsty,
+1974.14 it's a certain form of interoception.
+1976.01 We go, "Oh, I need something
+or I crave something."
+1978.63 You may not know exactly what you need,
+1980.25 but when you are thirsty,
+you're not just seeking water;
+1983.53 you're also seeking to
+balance your osmolarity,
+1987.04 which means you may be
+seeking salty fluids
+1991.77 or foods, in some cases.
+1993.41 You'll try and accomplish this by eating,
+1995.52 or it may be that you're trying to avoid,
+1997.79 or you will be inspired to
+avoid salty fluids and foods,
+2001.69 but if you want to understand sodium
+2004.7 and its roles in the body,
+2005.81 you have to understand thirst,
+2006.98 and if you want to understand thirst,
+2008.27 you have to understand how fluid balance
+2011.32 is regulated in the body.
+2012.28 That's not surprising at all,
+2014.32 but sodium and water work together
+2017.55 in order to generate what we call thirst.
+2019.66 Sodium water work together in
+order to either retain water
+2023.71 or inspire us to let go
+of water, to urinate,
+2026.92 so before we can dive into
+the specifics around salt
+2030.49 and how to use salt for performance
+2032.08 and various recommendations
+and things to avoid,
+2035.47 we need to drill a little bit deeper
+2037.44 into this fluid balance
+mechanism in the body,
+2040.037 and for that reason,
+2041.12 we have to pay at least
+a little bit of attention
+2043.13 to the kidney.
+2044.22 The kidney is an incredible organ,
+2046.74 and one of the reasons
+the kidney is so amazing
+2048.96 is that it's responsible for
+both retaining, holding onto,
+2053.08 or allowing the release of
+various substances from the body,
+2056.77 substances like glucose or amino acids,
+2060.5 urea, uric acid,
+2063.64 salt, potassium, magnesium.
+2066.17 It's basically a filter,
+2067.62 but it's a very, very intelligent filter.
+2071.15 I mean, intelligent meaning
+it doesn't have its own mind,
+2073.53 but the way it works is really beautiful.
+2076.36 Basically, blood enters the kidney
+2079.52 and it goes through a series of tubes
+2082.65 which are arranged into loops.
+2084.35 If you want to look more into this,
+2085.58 there's the beautiful Loop of Henle
+2088.18 and other aspects of the kidney design
+2091.12 that allow certain
+substances to be retained
+2095.51 and other substances to be released,
+2096.97 depending on how concentrated
+those substances are
+2099.31 in the blood.
+2102.23 The kidney responds to a
+number of hormonal signals,
+2104.62 including vasopressin,
+2106.99 in order to, for instance,
+antidiuretic hormone,
+2109.25 in order to hold onto more fluid
+2111.58 if that's what your brain and body need,
+2115.03 and it responds to other
+hormonal signals as well,
+2117.81 so it's a pretty complex organ.
+2120.0 Nonetheless, there's a key
+point, which I already mentioned,
+2123.62 that I think most people don't realize.
+2125.33 This is actually something
+2126.163 that I like to tell kids when I meet them,
+2127.73 provided that they're of appropriate age.
+2129.24 I'll say, oftentimes, with kids
+learn that I'm a scientist,
+2133.06 they'll ask a question about
+something related to science,
+2136.52 and hopefully, for my sake,
+2138.4 it's something about neuroscience,
+2140.55 but one thing that I'll tell kids,
+2141.94 I'll say, "Do you know
+that your urine, your pee,
+2145.357 "is actually filtered blood?"
+2147.21 And occasionally, that
+will really terrify a kid,
+2149.52 but that also occasionally
+really terrifies an adult,
+2153.03 but indeed, your urine is filtered blood.
+2155.52 Basically, blood gets into the kidney.
+2157.19 The kidney's going to
+filter out certain things.
+2158.86 Certain things are going to
+be allowed to pass through
+2160.32 and others are not, okay?
+2162.51 So the way the kidney is designed is that
+2165.24 about 90% of the stuff that's
+absorbed from the blood
+2169.53 is going to be absorbed early
+in this series of tubes,
+2173.39 and only a small percentage
+2175.09 is going to be regulated or worked out
+2177.34 as you get into what's
+called the distal kidney.
+2179.34 I mean, distal just means
+the furthest part away, okay?
+2183.27 The proximal is up close,
+2185.54 so like your shoulder
+2186.373 is proximal to your midline of your body,
+2188.35 and your hand is distal,
+2189.89 so in biological terms,
+2190.93 you hear about proximal, distal,
+2192.04 which just means near or far from,
+2194.36 so just to give a really simple example,
+2196.15 let's say that you are very low on fluid.
+2199.97 You haven't had much to drink in a while.
+2201.41 Maybe you're walking around on a hot day.
+2204.38 Chances are that the neurons in your OVLT
+2208.16 will sense the increase
+in osmolarity, right?
+2211.34 The concentration of salt
+is going to be increased
+2214.53 relative to the fluid
+volume that's circulating.
+2218.17 This, of course, assumes
+2219.24 that you haven't excreted a lot of sodium
+2220.89 for one reason or another,
+2222.32 but that increase in osmolarity
+is detected by the OVLT.
+2225.93 The OVLT is going to signal
+a bunch of different cascades
+2229.5 through the supraoptic nucleus, et cetera,
+2231.61 and then, vasopressin
+is going to be released
+2233.73 into the bloodstream,
+2234.86 and vasopressin, again, also
+called antidiuretic hormone,
+2238.38 is going to act on the kidney
+2240.68 and change the kidney's function
+2243.55 in a couple of different ways,
+2244.94 some mechanical, some chemical, okay?
+2248.24 In order to make sure that your kidney
+2250.66 does not release much water,
+2252.93 doesn't make you want to urinate,
+2255.3 and in fact, even if you
+would try to urinate,
+2257.35 your body's going to tend to
+hold onto its fluid stores.
+2260.21 So very simple, straightforward example.
+2263.0 We can also give the other example
+2264.4 whereby if you are ingesting
+a lot, a lot, a lot of water,
+2267.86 and it's not a particularly hot day,
+2269.863 and you're not sweating very much,
+2271.49 let's assume your salt intake is constant
+2273.49 or is low for whatever reason,
+2275.79 well, then, the osmolarity,
+2277.75 the salt concentration in your blood,
+2279.56 is going to be lower.
+2280.393 Your OVLT will detect that
+2282.62 because of these osmosensing
+neurons in your OVLT.
+2286.84 Your OVLT will fail to signal
+2291.09 to the supraoptic nucleus,
+2293.14 and there will not be the release
+2294.84 of vasopressin antidiuretic hormone,
+2296.96 and you can excrete all the water
+2300.02 that your body wants to excrete,
+2302.22 meaning you'll be able to urinate.
+2303.49 There's no holding onto water
+2304.81 at the level of the kidney, okay?
+2306.13 Very simple examples,
+2307.18 but hopefully, it illustrates
+how events within the blood,
+2309.88 meaning the concentration of salt
+2311.2 relative to the amount of fluid, right?
+2313.58 That's what osmolarity is,
+is detected by the OVLT.
+2317.4 The brain then communicates
+to the pituitary.
+2319.97 The pituitary sends a
+hormone out into the blood,
+2322.15 and the hormone acts on the kidney
+2324.27 to either hold onto or let go of fluid,
+2328.43 meaning to prevent you
+from wanting to urinate
+2331.09 or from stimulating
+you to want to urinate.
+2334.17 Very, very simple kind of
+yes/no-type situation here.
+2337.63 There's a lot of nuance
+to this in reality.
+2339.56 There are a lot of other
+hormones in this pathway,
+2341.14 but I think, for at least
+this stage of the discussion,
+2344.14 this should be sufficient.
+2345.34 Some of you may have noticed
+2346.93 that a molecule we've been
+talking a lot about today,
+2349.38 vasopressin, was also mentioned
+2351.87 on a previous episode of
+the Huberman Lab Podcast,
+2354.0 but in a very different context.
+2356.13 The molecule I'm referring
+to is vasopressin,
+2358.33 and, as I mentioned,
+2359.72 it's a hormone involved in antidiuresis,
+2363.68 meaning preventing urination.
+2366.26 It's an antidiuretic,
+2368.19 but we also talked about vasopressin
+2370.56 in the context of desire,
+love, and attachment.
+2373.8 We talked about it
+2374.633 in the context of monogamy and nonmonogamy
+2377.17 in a species of animal
+called the prairie vole.
+2379.96 You can check out that episode.
+2381.88 I believe vasopressin in the
+nonmonogamous prairie voles
+2385.92 are mentioned in the timestamp,
+2388.4 so it should be easy to find.
+2390.6 Vasopressin is made
+2392.1 at multiple locations
+in the nervous system,
+2394.63 mainly the supraoptic nucleus,
+2396.79 and indeed, it's also involved
+2399.29 in aspects of sexual behavior and mating.
+2403.21 Now, it does that through mechanisms
+2405.74 that are distinct from
+its antidiuretic effects.
+2410.52 In fact, there are people
+2412.76 who take vasopressin as an aphrodisiac.
+2416.5 Now, I'm certainly not
+suggesting people do that,
+2419.13 but I have all the confidence in the world
+2422.36 that the moment I talk about vasopressin,
+2423.85 someone in the comments is going to say,
+2424.957 "What do you think about
+vasopressin nasal sprays
+2426.907 "and this kind of thing?"
+2428.18 Vasopressin, and indeed oxytocin,
+2430.58 another hormone that's
+involved in pair bonding
+2433.87 and various aspects of
+brain and body function,
+2436.56 are available as nasal sprays
+2439.33 that can get up into the
+deep recesses of the brain
+2442.28 and can impact some of these core
+2444.61 what we call hypothalamic functions,
+2446.13 these primitive drives and
+hypothalamic functions.
+2448.6 I would encourage a lot of caution,
+2451.75 maybe even extreme caution
+in recreational use
+2454.52 of things like vasopressin and oxytocin
+2456.76 unless you are working with MD,
+2458.73 an MD, excuse me,
+2459.77 and they prescribe it
+2460.603 or they really know what they're doing.
+2461.89 These are powerful hormones
+2463.64 that have a lot of different
+effects on the brain and body.
+2466.54 The way that vasopressin,
+meaning antidiuretic hormone,
+2469.9 prevents the release of
+fluid as urine from the body
+2473.88 is pretty interesting.
+2475.11 It acts directly on the kidney,
+2477.23 so, as I mentioned before,
+blood flows into the kidney.
+2479.74 A number of things are retained
+2481.05 in the early part of the kidney.
+2482.9 Vasopressin acts at a fairly distal,
+2485.58 meaning kind of end game part
+2489.235 of the loops of tubes through the kidney,
+2492.05 and it increases the
+permeability of those tubes.
+2495.47 In other words, it makes
+sure that the fluid
+2497.52 that would otherwise pass
+into a collecting duct
+2500.35 and then go out to the bladder
+2501.62 never actually makes it to the bladder.
+2503.99 I point this out because what
+antidiuretic hormone does is
+2507.13 it prevents the bladder
+from filling at all.
+2509.15 It's not as if it locks
+fluid in the bladder
+2511.39 and prevents you from urinating.
+2512.89 I think the way I've been
+describing things up until now
+2514.787 and the way you'll hear
+about antidiuretic hormone,
+2517.04 it might sound like it kind
+of locks up the bladder
+2519.38 or prevents you from
+being able to urinate,
+2521.25 but you have a full bladder.
+2522.17 That would be very uncomfortable.
+2523.22 That's not the way it works.
+2524.43 It actually causes the tubes
+2526.74 headed towards the bladder from the kidney
+2529.34 to become permeable,
+2530.4 meaning to allow fluid to go
+back into the bloodstream,
+2534.38 into the rest of the body,
+2535.34 so that fluid never
+actually fills the bladder,
+2537.27 and so you never feel the urge to urinate.
+2539.44 Now, this is an episode about salt.
+2542.25 A key thing to understand about the kidney
+2543.95 is that the kidney uses sodium
+in order to conserve water,
+2548.43 which has everything to do with the fact
+2550.43 that sodium can actually hold water.
+2553.96 Put differently, water
+tends to follow sodium,
+2557.69 so where we have sodium,
+we tend to have water,
+2560.57 and sodium, when it's concentrated,
+2563.74 can hold onto water,
+2565.41 and that's one of the main ways
+2566.81 that the kidney holds
+onto water in the body,
+2569.3 and as we'll soon learn,
+2571.24 there is no simple and direct
+formula to say, for instance,
+2574.937 "Okay, if salt levels are high,
+a lot of water is retained,
+2579.637 "and if salt levels are low,
+a lot of water is released."
+2584.26 On the one hand, that can be true,
+2586.34 but it's also the case
+2587.8 because these systems are homeostatic,
+2589.86 meaning they're always seeking balance,
+2591.85 both within system,
+within the salt system,
+2594.06 and between systems, the
+salt and water system.
+2596.97 It's also the case, often,
+2599.41 that if we have enough sodium,
+2602.11 well, then we can secrete sodium
+and some water will follow,
+2605.98 or if we don't have enough
+sodium, then, yes, indeed
+2611.67 because we're not holding onto water,
+2613.24 more fluid can be excreted,
+2615.35 but if that condition of low
+sodium lasts long enough,
+2619.81 then we start to retain water
+2621.33 because the body recognizes,
+2622.567 "Ah, salt is low, and
+water is being excreted,"
+2626.15 and eventually, a system
+will kick in to retain water,
+2629.35 so I'd love to give you
+2630.8 a simple black-and-white, yes-or-no answer
+2633.02 for low sodium, high sodium,
+2634.46 moderate sodium, and water balance,
+2636.35 but it's all contextual,
+2637.92 and when I say contextual,
+2639.05 I mean, it will depend on
+blood pressure, hypertension,
+2642.86 prehypertension, if that's there,
+2644.79 maybe normal tension, hormone levels,
+2648.46 exercise, et cetera, et cetera.
+2650.34 A pretty good example of how
+complicated this can all be
+2652.63 is one that some of you
+may be familiar with.
+2655.17 It's pretty well known
+2656.61 that during certain phases
+of the menstrual cycle,
+2659.75 when estrogen and progesterone
+2661.37 and other hormones are fluctuating,
+2663.15 that water can be retained in the body.
+2666.44 It's what's called edema,
+or a swelling, sometimes,
+2669.51 so the common assumption,
+2671.6 and indeed, it can be true,
+2672.86 that when estrogen levels are high,
+2674.84 there's water retention in the body.
+2677.69 Also, in males, if
+estrogen levels are high,
+2679.83 there can be water retention in the body.
+2681.28 This is one of the reasons why athletes
+2684.09 and, in particular, bodybuilders
+2685.28 who take anabolic steroids
+like testosterone,
+2687.48 which can be converted into estrogens,
+2689.35 sometimes they'll look,
+they'll walk around,
+2690.87 they look like they
+were partially inflated.
+2692.41 They look like they're going to pop,
+2693.58 and it looks like a swelling of the skin,
+2695.7 not just because they have large muscles,
+2697.16 and that's not always,
+but often, water retention
+2700.18 due to testosterone
+conversion into estrogen.
+2703.51 Now, that all sounds consistent, right?
+2705.9 Estrogen levels fluctuate
+in the menstrual cycle.
+2708.34 In males, where there's
+an increase in estrogen,
+2710.26 there's retention of water,
+2711.57 but actually, estrogen acts as a diuretic,
+2714.88 so one would think, "Okay,
+when estrogen levels go up,
+2717.267 "there should be a lot of fluid excreted,"
+2719.24 but I bring up this example to point out
+2721.32 that it's a very complicated
+and dynamic balance
+2723.61 between hormones and salt and fluid.
+2725.92 You can't draw a one-to-one
+relationship there,
+2728.56 and that turns out to be
+a very important point,
+2730.8 and we can use that,
+2732.35 not as a way to further complicate things,
+2734.47 but as a way to understand
+under which contexts
+2739.22 less sodium intake or more
+sodium intake can be beneficial,
+2743.3 so that's where I'd like
+to turn our attention now,
+2745.29 so how much salt do we need?
+2747.12 And what can we trust
+2748.69 in terms of trying to guide
+our ingestion of salt?
+2753.21 First of all, I want
+to be very, very clear
+2755.37 that there are a number
+of people out there
+2757.56 that have prehypertension or hypertension.
+2760.55 You need to know
+2761.383 if you have prehypertension
+or hypertension.
+2763.54 You need to know if you
+have normal tension,
+2766.21 meaning normal blood pressure.
+2767.91 Everyone should know their blood pressure.
+2770.147 It's a absolutely crucial measurement
+2772.55 that has a lot of impact
+2774.44 on your immediate and
+long-term health outcomes.
+2777.4 It informs a lot about what you should do.
+2779.47 Should you be doing more
+cardiovascular exercise?
+2781.62 Should you be ingesting more or less salt?
+2784.28 Should you be adjusting
+2785.33 any number of different lifestyle factors?
+2787.36 So you need to know that,
+2788.78 and without knowing what
+your blood pressure is,
+2791.37 I can't give a one-size-fits-all
+recommendation,
+2794.45 and indeed, I'm not going to
+give medical recommendations.
+2796.85 I'm simply going to spell out
+what I know about the research,
+2799.96 which, hopefully, will
+point you in the direction
+2801.35 of figuring out what's right for you
+2802.99 in terms of salt and indeed fluid intake.
+2805.54 There is a school of thought
+2807.03 that everybody is consuming too much salt,
+2810.42 and I do want to highlight the fact
+2812.52 that there are dozens, if not
+hundreds, of quality papers
+2816.49 that point to the fact that a,
+quote-unquote, high salt diet
+2821.51 can be bad for various organs
+and tissues in the body,
+2825.54 including the brain.
+2827.85 It just so happens that
+because fluid balance,
+2831.56 both inside and outside of cells,
+2833.35 is crucial, not just for
+your heart and for your lungs
+2836.89 and for your liver and for
+all the organs of your body,
+2839.34 but also for your brain,
+2840.85 that if the salt concentration
+2843.3 inside of cells in your brain
+2846.19 becomes too high, neurons suffer, right?
+2849.77 They will draw fluid into those cells
+2852.08 because water tends to follow
+salt, as I mentioned before,
+2856.3 and those cells can swell.
+2858.97 You can literally get
+swelling of brain tissue.
+2861.22 Conversely, if salt levels are too low
+2864.15 inside of cells in any tissue of the body,
+2866.9 but in the brain included,
+2870.03 then the cells of the
+body and brain can shrink
+2874.87 because water is pulled into
+the extracellular space,
+2879.36 away from cells,
+2880.62 and indeed, under those conditions,
+2883.09 brain function can suffer,
+2885.31 and indeed, the overall health
+of the brain can suffer,
+2888.06 so there are many reports out there
+2890.88 indicating, both in experimental models
+2893.75 and, to some extent, in humans,
+2895.41 that overconsumption of salt
+2897.24 is bad for brain function and longevity,
+2899.76 and yet there is also decent evidence,
+2903.04 in both animal models and humans,
+2905.05 that if salt consumption is too low,
+2908.24 then brain health and
+longevity will suffer,
+2911.27 as will other organs
+and tissues of the body,
+2913.93 so, like most things in biology,
+2915.42 you don't want things too high or too low.
+2918.73 Now, I would say that the vast
+majority of studies out there
+2922.14 point to the fact that a high-salt diet
+2925.47 is detrimental to brain
+health and function.
+2928.54 Most of the studies have
+focused on that aspect
+2932.11 of salt balance and its
+consequences on brain function.
+2937.28 One critical issue with many
+of those studies, however,
+2940.97 is that the high-salt diet
+2943.1 is often coupled to other elements of diet
+2946.28 that are also unhealthy,
+2947.87 things like excessively high
+levels of carbohydrates or fats
+2951.41 or combinations of carbohydrates and fats,
+2954.06 and so while I know
+2955.26 there are many burning questions out there
+2956.97 about how much salt one needs
+2958.86 if they are on a low-carbohydrate diet
+2960.96 or if they are fasting or
+if they are on a vegan diet,
+2964.31 there have simply not been many studies
+2966.9 that have explored the low, moderate,
+2969.52 and high-salt conditions
+2971.47 on a backdrop of very
+controlled nutrition,
+2974.33 and that's probably reflective of the fact
+2976.43 that there are not a lot
+2978.03 of very well-controlled
+nutrition studies out there.
+2980.25 There are some, of course,
+2982.0 but it's very hard to get people to adhere
+2984.12 to nutritional plans in a very strict way,
+2986.43 and to do that for
+sufficient periods of time
+2988.693 that would allow the various
+health outcomes to occur.
+2992.64 Nonetheless, there's
+some interesting reports
+2995.41 that indicate that the
+amount of salt intake
+2999.88 can indeed predict health outcomes
+3003.4 or what we call hazardous events,
+3006.38 things like cardiovascular
+events and stroke and so forth,
+3009.26 and what's interesting
+is that indeed a lower,
+3013.79 I'm not saying low, right?
+3015.033 Because I don't believe
+that you want your diet
+3016.83 to be truly low in anything
+except, perhaps, poison,
+3021.08 but a lower-salt diet can reduce
+3025.86 the number of these
+so-called hazardous events,
+3028.7 but it's a somewhat of a
+shallow U-shaped function
+3032.98 such that, yes indeed, a high salt intake
+3037.97 can be very detrimental for your health,
+3040.94 both in terms of
+cardiovascular events, stroke,
+3043.44 and other deleterious health events,
+3046.24 but somewhere in the middle
+3048.21 that actually sits quite to the right,
+3051.26 meaning higher than what
+is typically recommended
+3054.43 for salt intake,
+3055.83 can actually reduce the number
+of these hazardous events,
+3058.79 at least some reports point to that,
+3060.93 and so I want to emphasize
+3062.17 what one of those particular reports says,
+3065.67 and I also want to be sure to counter it
+3067.58 from the perspective of the context
+3069.493 that that study was set in
+3070.9 because, again, my goal here
+3072.27 is not to give you a strict
+set of recommendations at all.
+3075.873 It's to point you to the literature,
+3078.08 try and make that literature
+as clear as possible,
+3079.94 and allow you to evaluate for yourself,
+3081.97 and I don't just say that to protect us.
+3083.65 I say that to protect you
+3084.98 because indeed you are responsible
+3086.77 for your health and your health choices,
+3088.61 so the paper that I'm referring to
+3090.353 is a very interesting one.
+3092.37 We, of course, never want
+to put too much weight
+3094.97 on any one report,
+3096.38 but this is a paper that
+was published in 2011
+3099.42 in the "Journal of the
+American Medical Association."
+3101.94 The title of the paper is
+3103.277 "Urinary Sodium and Potassium Excretion
+3105.917 "and the Risk of Cardiovascular Events."
+3108.07 We have not talked much
+about potassium yet,
+3110.5 but sodium and potassium
+tend to work in concert
+3113.62 in the brain and body
+3114.79 in order to regulate
+3115.85 various physiological functions in health,
+3117.6 and we'll talk more about
+potassium as time goes on.
+3120.39 The key plot or set of data in this study,
+3125.395 for those of you that want to
+look it up, we will link to it.
+3128.49 There are a lot of data
+in here, but is Figure 1,
+3131.26 which is basically evaluating
+3134.24 the amount of urinary excretion of sodium,
+3137.3 which is a somewhat indirect,
+3139.41 but nonetheless valuable measure
+3141.23 of how much sodium people were ingesting
+3144.33 and plotted against that is
+what they call the hazard ratio,
+3148.27 and the hazard ratio points to
+3151.3 the composite of
+cardiovascular death, stroke,
+3153.56 myocardial infarction, and
+an infarct is an injury,
+3156.97 and hospitalization for
+congestive heart failure,
+3159.9 and what it points to is the fact
+3161.73 that the hazard ratio is low-ish
+3165.82 at sodium excretion of
+about 2 grams per day,
+3169.78 but then continues to go down
+3172.97 until about 4.5
+3176.57 to 5 grams per day
+3178.15 that, remember, this is sodium excretion,
+3179.88 so it's reflective of how
+much sodium was in the body,
+3182.89 which is reflective of how
+much sodium was ingested,
+3185.17 and then, the hazard ratio
+increases fairly dramatically,
+3189.12 a very steep slope,
+3190.85 heading anywhere from 7 to 8 to 10
+3194.54 and out towards 12 grams of
+sodium excretion per day,
+3198.17 so the simplest way to
+interpret these data
+3200.65 are that at fairly low levels of sodium,
+3204.85 meaning at about 2 grams per day,
+3207.69 you run fewer health risks,
+3209.95 but the number of risks
+continues to decline
+3211.9 as you move towards 4 and 5 grams per day,
+3214.56 and then, as you increase
+your salt intake further,
+3217.62 then, the risk dramatically increases,
+3220.89 so no study is holy,
+3222.13 nor is any figure in any study
+3224.82 or any collection of studies holy.
+3227.79 Rather, we always want to look
+3229.02 at what the bulk of data in
+a particular field reveal.
+3232.69 Nonetheless, I think the
+plot that we described,
+3234.93 meaning the graph that we described,
+3236.46 is pretty interesting
+3237.57 in light of the 2020 to 2025
+3241.95 dietary recommendations for Americans,
+3243.74 which is that people consume
+no more than 2.3 grams,
+3248.8 meaning 2,300 milligrams
+of sodium per day.
+3252.5 That's about 1/2 a teaspoon
+3255.19 of salt per day.
+3257.96 Now, most people are probably
+consuming more than that
+3262.36 because of the fact that they
+are ingesting processed foods,
+3266.42 and processed foods tend
+to have more salt in them
+3269.68 than nonprocessed foods.
+3270.82 Now, of course, that's not
+always the case, right?
+3273.05 Sea salt is not a processed
+food, in most cases,
+3276.4 and there are a lot of unprocessed foods
+3279.15 that can be high in sodium,
+3281.09 but processed foods, in particular,
+3282.83 tend to have a lot of sodium.
+3283.83 You can see this simply by
+looking at the packaging
+3286.41 of any number of different foods,
+3288.11 but if we are to take
+this number of 2.3 grams,
+3292.88 that's the recommended cutoff
+for ingestion of sodium,
+3297.44 it actually falls in
+a portion of the curve
+3301.11 that we were talking about a moment ago
+3302.82 that indeed is associated with low hazard,
+3307.71 low incidence of hazardous outcomes,
+3309.57 cardiovascular event, stroke, et cetera,
+3311.78 but the ingest, according to that plot,
+3315.37 the ingestion of 4 or 5 grams of sodium,
+3319.42 almost double,
+3320.63 or more sodium than is
+currently recommended,
+3324.49 is associated with even lower
+numbers of hazardous events,
+3329.33 so we need to think about this,
+3330.69 and we need to explore it
+3331.84 in the context of other
+studies, of course,
+3334.52 and we need to evaluate
+it in terms of this thing
+3337.95 that we've been going
+back to again and again,
+3340.4 which is context, right?
+3342.4 These recommendations of
+2.3 gram per day cutoff
+3346.57 is in the context of a
+landscape where some people
+3349.53 do indeed have hypertension
+or prehypertension.
+3353.45 The incidence of hypertension
+has gone up dramatically
+3355.8 in the last 100 years
+3357.45 and seems to continue to go up.
+3360.12 Whether or not that's because
+of increased salt intake
+3364.6 or whether or not it's because
+of increased salt intake
+3367.33 and other things such as
+highly processed foods,
+3370.43 that isn't clear,
+3371.3 again, pointing to the challenge
+3373.16 in doing these epidemiological studies
+3374.92 and really parsing what aspects
+3377.29 of a change in some health
+metric is due to, for instance,
+3380.92 the ingestion of more
+sugars versus more salts
+3383.12 or simply because of the
+ingestion of more salts.
+3385.76 It's a complicated, almost
+barbed-wire topic by now,
+3389.43 but we can start to pull
+apart that barbed wire tangle
+3392.55 and start to evaluate
+some of the other people
+3395.377 and other conditions that
+exist out there, maybe for you,
+3400.56 that actually warrant more sodium intake
+3403.79 and where more sodium intake
+might actually be beneficial,
+3406.72 so, again, I want to be very, very clear
+3408.63 that you need to know your blood pressure.
+3410.14 If you have high blood pressure
+or you're prehypertensive,
+3412.86 you should be especially cautious
+3414.46 about doing anything that
+increases your blood pressure,
+3417.18 and, as always, you want to,
+of course, talk to your doctor
+3419.41 about doing anything
+3420.243 that could adjust your
+health in any direction,
+3422.7 but nonetheless, there
+are some important papers
+3425.74 that have been published in recent years.
+3428.23 I want to point to one
+of them, in particular.
+3430.15 This is a paper that was published
+3432.39 in the journal "Autonomic
+Neuroscience: Basic and Clinical"
+3435.99 because this paper, like
+several other papers,
+3439.52 asked the question,
+3440.61 and indeed, they ask the
+question in the title.
+3442.43 It's a review: "Dietary Sodium and Health:
+3444.547 "How Much Is Too Much for Those
+with Orthostatic Disorders."
+3448.69 Now, orthostatic disorders
+3450.23 come in a bunch of different varieties,
+3451.54 and we're going to talk
+about those in a moment,
+3453.49 but there are a number of people out there
+3455.29 that have low blood pressure, right?
+3457.42 People that get dizzy when they stand up,
+3460.01 people that are feeling
+chronically fatigued,
+3462.82 and in some cases, not all,
+3465.0 those groups can actually benefit
+3466.56 from increasing their sodium intake.
+3468.67 Several episodes ago on
+the Huberman Lab Podcast,
+3471.26 I gave a, what, it's just
+clearly what we call anec-data,
+3475.07 which is not even really data.
+3476.33 It's just anecdotal data of an individual
+3480.47 who was always feeling
+hungry and craving sugar,
+3483.63 and based on the fact that they
+also had low blood pressure,
+3487.52 I had them talk to a physician,
+3489.09 and they got permission
+3490.13 to try a little
+mini-experiment on themselves,
+3493.02 and so they did, and
+that mini-experiment was
+3495.06 anytime they felt like
+they were craving sugar
+3497.69 or they were feeling a
+little lightheaded and dizzy,
+3499.44 rather than reaching for
+something with caloric intake,
+3502.19 they took a little bit of sea salt,
+3503.47 a little pinch of sea salt,
+3505.07 and put it into some water, and drank it,
+3507.46 or, in the case of this individual,
+3509.68 they would actually take
+a little sea salt packet,
+3511.3 and they would actually
+just down a sea salt packet,
+3513.09 and for them, that
+provided tremendous relief
+3515.76 for their dizziness,
+3517.66 but that, of course, was in the context
+3519.3 of somewhat abnormally low blood pressure,
+3522.72 so I don't think that they are alone
+3524.64 in the fact that many people out there
+3526.47 suffer from a low blood
+pressure condition.
+3530.09 Many people out there
+3531.03 suffer from a high blood
+pressure condition,
+3532.75 so know your blood pressure,
+3533.92 and understand that
+blood pressure, in part,
+3536.85 is regulated by your sodium
+intake and your sodium balance.
+3540.73 Why?
+3541.563 Well, because of the osmolarity of blood
+3543.88 that we talked about before,
+3545.38 where if you have a certain
+concentration of sodium,
+3549.9 meaning sufficient sodium
+in your bloodstream,
+3552.17 that will tend to draw
+water into the bloodstream,
+3554.02 and essentially,
+3554.853 the pipes that are your
+capillaries, arteries, and veins
+3557.62 will be full.
+3558.63 The blood pressure will
+get up to your head,
+3560.55 whereas some people, their
+blood pressure is low
+3562.9 because the osmolarity
+of their blood is low,
+3566.07 and that can have a number
+of downstream consequences.
+3568.96 I should also mention it can
+be the consequence itself
+3572.41 of challenges or even
+deficits in kidney function,
+3577.14 but all of these organs
+are working together,
+3579.37 so the encouragement here
+3581.1 is not necessarily to ingest more sodium.
+3582.753 It's to know your blood pressure
+3584.24 and to address whether or not
+an increase in sodium intake
+3587.89 would actually benefit your blood pressure
+3590.11 in a way that could relieve
+some of the dizziness
+3592.72 and other symptoms of things
+like orthostatic disorders,
+3597.76 but, of course, to do
+that in a safe context
+3599.81 and to never play games
+3600.92 with your blood sugar
+or your blood osmolarity
+3603.36 that could set your system
+3604.38 down a cascade of negative events.
+3607.17 Let's look at what the
+current recommendations are
+3610.01 for people that suffer
+from orthostatic disorders
+3613.02 like orthostatic hypo,
+meaning too low, tension,
+3616.0 orthostatic hypotension,
+postural tachycardia syndrome,
+3619.133 sometimes referred to as POTS, P-O-T-S,
+3623.27 or idiopathic orthostatic
+tachycardia and syncope.
+3626.85 These have the incredibly elaborate names.
+3629.96 Those groups are often told
+to increase their salt intake
+3633.25 in order to combat their symptoms.
+3634.75 The American Society of Hypertension
+3636.72 recommends anywhere from 6,000 to 10,000.
+3641.31 These are very high levels,
+3642.51 so this is 6 grams to 10
+grams of salt per day,
+3645.87 keeping in mind, again,
+3647.47 that salt is not the same as sodium,
+3650.92 so that equates
+3651.753 to about 2,400 to 4,000
+milligrams of sodium per day.
+3655.97 Again, if you want to
+learn more about this
+3657.78 and get more of the citations,
+3659.19 I'll refer you back to this study
+3661.13 on "Dietary Sodium and Health:
+3662.427 "How Much Is Too Much for Those
+with Orthostatic Disorders."
+3664.84 We'll put a link to this
+in the caption show notes,
+3667.77 so that's not just in the U.S.
+3670.71 The salt recommendations
+3671.7 from the Canadian Cardiovascular Society
+3673.7 are 10,000 milligrams of salt per day,
+3676.01 so 4 grams of sodium is
+what that equates to,
+3679.16 and on and on and on,
+3680.41 for things like POTS,
+3682.53 for these postural
+syndromes that result from,
+3685.33 or I should say from these syndromes
+3687.12 that involve low blood pressure
+3689.11 when people stand up
+or in certain postures,
+3691.55 so I point out this paper,
+3693.84 and I point out these
+higher salt recommendations
+3696.85 to emphasize, again, that
+context is vital, right?
+3700.82 That people with high blood pressure
+3702.25 are going to need certain
+amounts of salt intake.
+3704.9 People with lower blood pressure,
+3707.33 and maybe with some of these
+postural orthostatic syndromes,
+3710.76 are going to need higher amounts of salt,
+3713.18 and for most people out there,
+3715.7 you're going to need to
+evaluate how much salt intake
+3718.22 is going to allow your brain
+and body to function optimally,
+3721.0 and there are some fairly
+straightforward ways
+3723.68 to explore that,
+3724.56 and there's some ways to explore that
+3726.26 in the context of what you already know
+3728.25 about thirst and salt appetite
+3730.72 that can make that exploration
+3732.6 one in which it's not going to be
+3734.07 a constant wandering around in the dark
+3736.03 and where you can figure
+out what's right for you.
+3738.28 For most people, a moderate
+increase in salt intake
+3741.56 is not going to be detrimental
+3743.08 provided that you consume enough fluids,
+3746.31 in particular, water, 'kay?
+3748.85 Meaning if you happen
+to overeat salt a bit,
+3751.15 you will get thirsty, you
+will ingest more water,
+3754.49 and you will excrete the excess sodium.
+3757.94 There is evidence
+3758.773 that the body can store
+sodium in various organs.
+3762.58 That storage of sodium
+3764.13 may or may not be a detrimental thing.
+3767.3 In general, excess storage of sodium
+3769.9 in tissues and organs
+of the brain and body
+3771.91 is not thought to be good
+for long-term health,
+3775.78 so eating much more sodium than you need
+3779.02 for long periods of time
+is indeed bad for you.
+3783.56 Earlier, I mentioned that salt
+3786.3 and your hunger and thirst for salt
+3788.72 is homeostatically regulated,
+3791.04 and indeed, that's the case,
+3791.95 much like temperature is
+homeostatically regulated.
+3795.03 What that means is, if
+you pay attention to it,
+3799.39 if your salt levels are low,
+3801.93 you will tend to crave salt
+3803.76 and salty beverages and salty foods,
+3807.15 and in most cases, you should
+probably follow that craving
+3810.73 provided those salty
+beverages and salty foods
+3813.07 are not bringing in a lot of other things
+3816.2 or anything, ideally, that's bad for you,
+3818.9 so I think it's fair to say
+3820.88 that whether or not
+you're vegan, vegetarian,
+3823.01 carnivore, omnivore,
+3824.64 that we should all try
+to limit our ingestion
+3829.32 of processed foods, a'ight?
+3831.55 My read of the literature is that, sure,
+3833.97 some processed foods are acceptable for us
+3836.7 and aren't going to kill us outright,
+3838.73 but that for most people in the world,
+3840.87 eating fewer processed foods
+3842.38 is just going to be a good thing to do,
+3844.79 so following your salt hunger and thirst,
+3848.48 in most cases, is going to be beneficial
+3852.18 provided that it's in the context
+3854.43 of eating healthy, nonprocessed
+foods on whatever backdrop
+3858.52 of nutritional and dietary
+recommendations is right for you.
+3861.21 I simply can't tell you what
+to eat and what not to eat
+3865.49 because I acknowledge the fact
+that some people are vegans
+3869.65 because of ethical reasons
+related to animals,
+3873.29 or some people are
+vegans because of reasons
+3876.97 related to the climate
+and the environment.
+3880.06 Other people do it for
+specific health reasons.
+3883.79 Likewise, I know plenty of people
+3885.54 that eat meat and avoid
+vegetables, believe it or not,
+3888.39 and I know people that eat both,
+3889.84 and they do this, often,
+3891.91 each, I should say, all,
+3893.62 citing literature that
+supports their particular camp
+3896.11 and their particular view.
+3897.41 It's not a territory I want to get into,
+3899.9 but with respect to salt intake
+3901.6 and the fact that salt intake
+is homeostatically regulated,
+3906.83 it is the case that if
+you're craving salt,
+3909.13 you probably need it,
+3910.81 so for those of you that
+are sweating excessively,
+3913.11 or even if you're in a
+very hot environment,
+3916.41 and you're not exercising,
+and you're just losing,
+3919.46 you're losing water and
+salt from your system,
+3922.12 remember, also, that you can
+be in a very cold environment,
+3924.61 very cold, dry environments
+often go together,
+3927.76 and you can be losing a lot
+of fluids from your body,
+3930.29 and you will crave fluids and
+salt even though it's cold
+3932.89 and you're not actually
+noticeably perspiring,
+3936.84 so if you're exercising a lot,
+3938.48 if you're in a particular
+cold, dry environment
+3940.84 or a particular hot environment,
+3942.5 you ought to be ingesting
+3943.83 sufficient amounts of salt and fluid.
+3946.49 A rule of thumb for exercise-based
+replenishment of fluid
+3951.0 comes from what I, some episodes back,
+3954.02 referred to as the Galpin equation.
+3956.7 The Galpin equation, I
+named it after Andy Galpin,
+3960.4 and I think that is the
+appropriate attribution there.
+3963.26 Andy Galpin is an exercise physiologist
+3966.58 at Cal State, Fullerton, I believe,
+3969.56 and he's going to be a podcast guest
+3971.84 here on the Huberman Lab Podcast.
+3973.18 He's an exceptional muscle physiologist.
+3975.08 He also lives in the practical realm
+3977.01 where he gives
+recommendations about exercise
+3980.81 to expert athletes as well
+as the everyday person,
+3984.32 so the Galpin equation
+is based on the fact
+3986.44 that we lose about one to
+five pounds of water per hour,
+3991.1 which can definitely
+impact our mental capacity
+3994.12 and our physical performance,
+3995.97 and the reason that loss
+of water from our system
+3999.62 impacts mental capacity
+and physical performance
+4001.83 has a lot to do with, literally,
+4004.59 the changes in the volume of those cells,
+4006.7 the size of those cells,
+4007.93 based on how much sodium is contained
+4009.45 in or outside those cells,
+4010.84 and something that I've alluded
+to before on the podcast,
+4013.67 and I'll talk about more in a moment,
+4015.75 which is that neurons
+signal to one another
+4019.1 by way of electricity
+4020.68 through something called
+the action potential,
+4022.18 and that actually requires sodium
+4024.15 and potassium and magnesium,
+4026.08 so the Galpin equation
+suggests that we start exercise
+4028.86 hydrated with electrolytes,
+not just with water,
+4032.29 so that means water
+4033.53 that has some sodium,
+potassium, and magnesium.
+4038.24 There are simple, low-cost ways
+to do that we'll talk about,
+4041.46 and the formula for hydration,
+4043.93 the so-called Galpin equation,
+4045.13 is your body weight in
+pounds divided by 30
+4050.22 equals the ounces of
+fluid you should drink
+4052.33 every 15 minutes.
+4054.22 That may turn out to be more fluid
+4056.34 than you can comfortably consume
+4057.97 during the activity
+that you're performing.
+4059.9 Now, the Galpin equation
+4062.38 is mainly designed for exercise,
+4065.32 but I think is actually
+a very good rule of thumb
+4069.11 for any time that you need
+to engage mental capacity,
+4072.29 not just physical performance.
+4075.58 Your body weight in pounds divided by 30
+4077.69 equals the ounces of
+fluid you should drink
+4080.01 every 15 minutes
+4080.95 does not necessarily mean
+you have to ingest it
+4083.48 every 15 minutes on the dot,
+4086.27 and I think many activities,
+physical activities,
+4090.5 but also cognitive activities
+4092.48 like Zoom meetings or in-person meetings
+4096.42 or lecturing or running or cycling
+4100.71 are going to make it complicated
+4103.37 to ingest the appropriate amount of fluid
+4105.69 every 15 minutes on the dot.
+4107.89 I'm not going to speak
+for Andy, for Dr. Galpin,
+4110.8 but I think he would probably agree
+4112.77 that these are averages to shoot for,
+4115.99 and that unless you're hyperneurotic,
+4118.71 the idea is to make sure that
+you're entering the activity,
+4122.07 cognitive or physical,
+sufficiently hydrated,
+4126.16 and that throughout that activity,
+4127.7 you're hydrating regularly,
+4128.84 and it points to the fact
+4130.16 that most people are
+probably underhydrating,
+4133.19 but not just underhydrating
+4135.08 from the perspective of
+not ingesting enough water,
+4138.02 that they're probably not getting
+4139.23 enough electrolytes as well:
+4141.11 sodium, potassium, and magnesium,
+4143.47 so I've said two somewhat
+contradictory things.
+4145.82 On the one hand, I've said,
+"Follow your salt appetite.
+4149.947 "Follow your salt thirst.
+4150.977 "If you're craving salt,
+4152.807 "ingest some salt until
+you stop craving the salt."
+4156.3 On the other hand,
+4157.37 I've given you this fairly
+specific recommendation
+4161.5 based on the Galpin equation
+4163.73 that you should ingest
+your body weight in pounds
+4165.76 divided by 30.
+4166.9 That's how many ounces
+of fluid you should drink
+4168.48 every 15 minutes,
+4169.68 which I'm guessing, for most people,
+4171.09 is going to be more fluid
+4172.03 than they're currently
+drinking, on average,
+4174.37 and so how could it be
+4175.77 that you can have a
+recommendation for what's optimal
+4178.07 that's different than the amount
+4180.74 that you would reflexively drink?
+4182.05 And it has to do with the fact
+4183.44 that a lot of the hormone systems
+4185.7 like vasopressin antidiuretic hormone,
+4188.51 other hormones like aldosterone,
+4190.21 and a lot of the neural
+and hormonal signals
+4193.55 that govern salt and water balance
+4195.75 are fairly slow to kick in,
+4198.06 so, for instance, if you
+eat a fairly salty meal,
+4201.55 and you sense that salt,
+4203.15 you'll probably, meaning you
+detect it and perceive it
+4205.94 because the food tastes salty,
+4207.49 you'll probably want to drink
+4209.11 a fair amount of fluid with it,
+4210.54 whereas if some of the salt
+is disguised by other flavors,
+4213.73 something that we'll talk
+about in a few minutes
+4215.11 when we talk about the
+neural representation
+4217.33 of things like salty and sweet,
+4220.25 well, then, you might not
+notice that something's salty,
+4222.71 and then, a few minutes or
+hours after ingesting that meal,
+4226.26 you might feel very, very tired.
+4227.82 You might even wonder
+4229.03 whether or not it's because
+of some blood sugar effect.
+4232.55 Maybe it's a crash in blood
+sugar, you might think,
+4235.06 or something else related to that meal,
+4236.7 or maybe you think
+4237.533 it's because of some
+other event in your life,
+4239.87 but actually, what has
+happened is you're dehydrated
+4243.08 because you didn't recognize
+4244.21 that you needed to drink more fluids,
+4246.11 so I want to acknowledge the contradiction
+4250.12 in the idea that everything
+is homeostatically regulated,
+4252.79 and therefore you are
+aware of what you need,
+4255.82 and the counterargument that,
+4258.52 ah, you need to follow
+these strict recommendations
+4260.48 is actually going to be
+somewhere in between,
+4262.6 and, of course, your body
+and brain can start to adapt
+4264.59 to certain levels of salt intake.
+4266.45 There's now a fairly famous study
+4269.97 that was done in Germany
+4272.35 which looked at different
+phases of salt intake,
+4276.84 meaning they had subjects ingest
+4279.9 either 12 grams of salt
+per day or 9 grams per day
+4282.61 or 6 grams per day for
+fairly long periods of time,
+4286.27 and they collected urine for testing.
+4288.41 This was actually a very controlled study.
+4290.21 I'm just going to paraphrase
+4291.27 from the National Institutes
+of Health report on this study
+4295.26 because they did a very
+nice write-up of it,
+4297.96 and they say that a big
+surprise of these results
+4301.43 is that whatever the level
+of salt that was consumed,
+4304.47 sodium was stored and released
+from the subjects' bodies
+4308.67 in fairly regular weekly
+and monthly patterns,
+4312.46 meaning people tended to adapt
+4313.89 to a certain level of salt intake,
+4315.86 and then it led to a
+fairly constant amount
+4319.33 of salt retention and
+urine fluid excretion,
+4323.4 and that's because of
+the various hormones,
+4325.8 like aldosterone,
+4326.7 which regulates sodium
+excretion from the kidney,
+4328.73 and glucocorticoids,
+4329.96 which we'll talk about more in a moment,
+4331.44 which help regulate metabolism.
+4333.08 Glucocorticoids are released
+from the adrenal glands,
+4336.04 which ride atop the kidneys,
+4337.85 and there's a very close relationship
+4339.38 between the stress system glucocorticoids
+4342.11 and the salt system,
+4343.68 so the reason why your salt appetite
+4347.41 isn't a perfect readout of how
+much salt you should ingest
+4350.72 and why it might be helpful to
+follow some of these formulas
+4353.18 like the Galpin equation,
+4354.26 especially if you're engaging in exercise
+4357.02 where you're going to be
+perspiring, of course,
+4359.56 is that your body will tend to adapt
+4361.89 to a certain amount of
+salt intake over time,
+4363.68 and then, your appetite for salt
+4365.21 won't necessarily be the best indication
+4367.56 of how much salt you
+should ingest or avoid.
+4371.67 Before I move on,
+4372.72 I want to really reemphasize the fact
+4375.41 that inside of the Galpin equation
+4377.83 there is that mention of every 15 minutes,
+4380.32 and people have come back to
+me again and again about this
+4382.96 saying, "I can't drink that
+much water every 15 minutes.
+4385.267 "It's too much volume
+of fluid in my stomach.
+4388.127 "I can't run with that," et cetera.
+4389.43 Remember, these are averages,
+4391.79 so that's what you want to average
+4393.31 around a particular activity.
+4394.66 These not strict recommendations
+where a buzzer goes off
+4396.98 and every 15 minutes you have to chug
+4398.44 that exact amount of
+electrolyte-containing solution.
+4401.33 Another key feature of the study
+4404.231 that I was referring to before,
+4406.05 which, incidentally,
+4407.05 was published in the "Journal
+of Clinical Investigation,"
+4409.41 is that the body regulates
+its salt and water balance,
+4412.86 not just by excreting sodium, right?
+4415.6 But by retaining or releasing water,
+4418.18 and this is because of the relationship
+4419.51 between sodium and water that
+we were talking about before,
+4422.22 and the advantage of this
+mechanism, they state,
+4424.66 here I'm paraphrasing,
+4425.84 is that the long-term
+maintenance of body fluids
+4428.27 is dependent, is not as
+dependent on external water
+4431.95 as once believed, right?
+4433.21 What this system probably evolved to do
+4435.56 was to adjust to different
+levels of sodium availability
+4438.45 in the environment,
+4439.67 and that raises a really key element
+4442.64 of salt and its importance
+in human history
+4446.31 and human evolution and human health.
+4448.46 Haven't talked too much about this,
+4449.64 and there are several very good books
+4452.32 about the history of salt.
+4453.93 Salt was a very valuable
+4457.2 and heavily sought-after substance
+4459.67 throughout much of human history,
+4461.65 so much so that there are
+actually written reports
+4464.88 of people being paid for
+labor in the form of salt,
+4468.72 and salt, when it's scarce,
+4472.008 has been quite expensive in
+certain regions of the world,
+4474.98 especially regions located
+further away from the sea,
+4478.46 and a friend of mine
+4479.74 who has deep roots within
+the culinary community
+4483.38 told me about traveling
+4486.421 to some somewhat impoverished
+areas of Europe some years ago
+4490.68 and going into homes where
+4493.04 in the middle of the kitchen
+table, there was a fish,
+4496.84 a salty fish hanging from a thread
+4500.67 above the table,
+4502.0 and that because of a lack of
+availability of table salt,
+4505.46 the common practice was to take any food
+4507.85 that needed some salt
+for additional flavoring
+4510.06 and to actually rub that
+food on this salty fish
+4513.24 or to squeeze the fish a
+bit onto the food substance
+4517.48 in order to get salt from it,
+4519.23 so that's a very kind of extreme example.
+4522.68 Nowadays, we kind of
+take salt for granted,
+4524.54 and most of the discussion out
+there is about excess salt,
+4527.67 but, as I'm pointing out,
+that salt, for a long time,
+4531.25 has been a very sought-after commodity
+4534.49 and one that people really
+cherished for their health.
+4538.22 In the episode that I did on metabolism,
+4540.68 I talked about the relationship
+between salt and iodine.
+4543.36 If you're interested in iodine
+4545.03 and whether or not iodized
+salt or noniodized salt
+4547.43 is best or required,
+4549.53 I'd encourage you to
+listen to that episode,
+4551.33 which was about, again, metabolism.
+4553.67 Some people may need more iodine intake.
+4556.02 Some people perhaps do not.
+4557.37 Some people might even want
+to ingest things like kelp.
+4559.68 Some people might not,
+4560.97 so please listen to that episode
+4562.56 if you're interested in
+the iodine aspects of salt,
+4565.06 which have direct impact
+4566.61 on thyroid hormone and thyroid function,
+4568.91 which, of course, relates to metabolism.
+4571.87 Nowadays. there's a lot of interest in
+4573.75 and even a kind of proliferation
+of what I call fancy salts,
+4577.18 so whether or not you should
+be ingesting sea salts
+4579.32 or common, whether or not
+common table salt will suffice.
+4583.64 In most cases, for what
+we're discussing here,
+4586.31 common table salt is fine,
+4588.63 but I should point out that sea salt
+4590.54 often contains other minerals,
+which can be very useful,
+4593.33 and we will do entire episodes
+on those other minerals,
+4595.76 so sea salt can contain
+4598.88 dozens or more of minerals,
+4600.68 some of which can be quite
+valuable to our health,
+4603.72 others of which are less important
+4606.04 and only need to be
+consumed in trace amounts,
+4608.01 but you're not going to
+get many minerals, if any,
+4610.79 from common table salt,
+4612.35 and that's why, in addition
+to the pretty colors,
+4615.27 and, perhaps, some people report
+4617.05 that they actually taste better,
+4619.11 some of these so-called
+fancy salts or sea salts,
+4621.96 you might want to consume
+4623.16 a more advanced form of salt, if you will,
+4626.21 although I suppose
+4627.043 it's actually the more
+primitive form of salt
+4628.62 if it's actually the one
+that comes from the ocean,
+4630.62 so we've all heard about how excess salt,
+4632.55 it's bad for blood pressure,
+4634.2 damage the heart, the brain, et cetera.
+4636.44 I do want to give some voice to situations
+4639.67 where too little salt can
+actually cause problems,
+4642.91 and this has everything to
+do with the nervous system,
+4645.55 so without getting into
+excessive amounts of detail,
+4648.69 the kidneys, as we talked about before,
+4652.1 are going to regulate
+salt and fluid balance.
+4654.81 The adrenal glands, which
+ride atop the kidneys,
+4658.4 are going to make
+glucocorticoids, like aldosterone,
+4661.2 and those are going to directly impact
+4663.36 things like fluid balance,
+4665.89 and, in part, they do that
+4667.41 by regulating how much craving for
+4670.56 and tolerance of salty solutions we have,
+4674.57 and there's some really nice studies
+4676.62 that have looked at
+so-called adrenalectomies.
+4679.52 Now, this is an extreme case,
+4680.84 and it's typically done in animal models,
+4682.86 but it illustrates the
+role of the adrenals
+4685.88 in salt preference.
+4688.08 Basically, when the glucocorticoid system,
+4691.71 meaning the release of
+these particular hormones
+4694.13 from the adrenal glands,
+4695.62 is eliminated by adrenalectomy,
+-ectomy means removal,
+4700.14 then, the threshold for
+what's considered too salty
+4703.1 really shifts, okay?
+4704.86 So typically, when the
+adrenals are intact,
+4709.24 a animal or a human
+4711.46 will prefer a mildly salty
+4714.23 to moderately salty
+solution if given a choice,
+4717.94 and at some point,
+4718.88 it's so salty that it just feels aversive,
+4721.03 just like taking a gulp of seawater
+4722.79 is almost always aversive.
+4724.19 I can't think of an instance
+where it's not aversive,
+4726.3 and actually drinking
+seawater can kill you
+4727.95 because of the high
+osmolarity of seawater.
+4731.14 You certainly don't
+want to drink seawater.
+4733.75 Under conditions where
+the adrenals are missing,
+4738.27 animals and humans will tend to prefer
+4740.86 a higher sodium concentration fluid,
+4744.1 and they will be willing to tolerate
+4746.13 ingesting very high
+concentrations of sodium.
+4748.93 Now, that's a very crude experiment,
+4750.67 and not one that you want
+to do, I promise you,
+4753.94 but I mention it
+4755.7 because it illustrates the
+very direct relationship
+4759.21 between the stress system,
+4760.79 which is the glucocorticoid system,
+4762.79 and the salt craving system,
+4765.04 and this actually makes sense.
+4766.91 Earlier, as we were talking
+about hypovolemic thirst,
+4769.04 when there's a loss of
+blood pressure from,
+4772.12 usually due to a loss
+of blood from the body,
+4774.45 there's a salt craving
+4775.6 in order to bring that
+blood volume back up
+4777.47 because by ingesting salt,
+4778.93 you bring fluid into the bloodstream.
+4781.05 You're increasing that blood pressure,
+4782.51 and you can restore the blood that's lost.
+4784.84 Now, there are many examples where,
+4786.94 if sodium levels get too
+low in the bloodstream,
+4790.69 either because people are
+ingesting too little salt,
+4794.08 or they're ingesting too much water
+4796.39 and therefore excreting too much salt,
+4799.06 that it can cause stress and anxiety.
+4802.54 There's some really nice data
+4803.67 that point to the fact
+that low dietary sodium
+4806.47 can actually exacerbate
+anxiety in animal models,
+4810.79 and to some extent,
+4812.19 there's evidence for
+this in humans as well,
+4814.73 and that should not come as a surprise.
+4817.77 The whole basis for a relationship
+4820.25 between the adrenal system,
+4821.64 these glucocorticoids,
+things like aldosterone,
+4824.05 and the craving for sodium
+4825.83 is that the stress system
+is a generic system
+4829.96 designed to deal with various
+challenges to the organism,
+4833.9 to you or to me or to an animal,
+4836.36 and those challenges can
+arrive in many different forms.
+4841.1 It can be an infection. It can be famine.
+4843.31 It can be lack of water and so on,
+4846.53 but in general,
+4847.53 the stress response is one
+of elevated heart rate,
+4850.58 elevated blood pressure,
+4852.03 and an ability to maintain movement
+4854.29 and resistance to that challenge, 'kay?
+4857.1 I've said this before, but
+I'll emphasize it again,
+4860.16 there's this common misperception
+that stress makes us sick,
+4863.18 and indeed, if stress lasts too long,
+4865.28 it has a number of negative
+effects on our health,
+4868.15 but more often than not, if
+we're pushing, pushing, pushing,
+4872.38 we're studying or taking care of somebody
+4874.12 or traveling like crazy,
+4876.13 we don't tend to get sick
+under those conditions,
+4878.66 but as soon as we stop,
+4880.86 as soon as we reduce
+our adrenaline output,
+4883.0 as soon as we reduce our
+glucocorticoid output
+4885.75 from our adrenals,
+4886.8 then we will get sick.
+4888.11 That's a very common occurrence,
+4889.66 and it's because stress actually
+activates our immune system
+4893.33 in the short term,
+4894.51 so I'd like to try and dispel this myth
+4896.97 that stress actually
+suppresses the immune system,
+4899.45 at least not in the short term.
+4900.93 For long-term stress,
+it's a different issue.
+4903.15 You don't want long-term ongoing stress,
+4905.34 especially of several weeks or more.
+4908.95 Nonetheless, it makes sense
+4910.84 that bringing sodium into the body
+4913.48 would be at least one way
+that we would be wired
+4916.91 to counteract or to
+resist stressors, right?
+4921.09 Stressors being the things
+on the outside coming at us,
+4924.29 so it could be stressful relationships,
+4925.87 stressful job situation,
+again, infection, and so on.
+4931.45 It's clear from a number of studies
+4932.9 that if sodium levels are too low,
+4935.83 that our ability to meet
+stress challenges is impaired.
+4939.6 Now, that doesn't mean
+4940.433 to place your sodium
+intake cosmically high,
+4943.92 but it does point to the fact that
+4945.69 if you're feeling anxious,
+4947.63 perhaps from low blood pressure,
+4949.31 which can also give symptoms of anxiety,
+4951.06 as we talked about before,
+4952.33 but even if it's independent
+of low blood pressure,
+4955.6 that slightly increasing sodium intake,
+4958.56 again, I would encourage people to do this
+4960.61 not in the context of
+processed foods and drinks,
+4962.83 but ideally, in the form
+4964.13 of maybe a little bit
+of sea salt and water
+4966.29 or salting one's food a little bit more,
+4968.56 that that can stabilize blood pressure
+4972.03 and one's ability to lean
+into stressors and challenges,
+4975.48 and I say this because I
+think that most people assume
+4978.41 that adding salt is always bad,
+4981.02 when, in fact, that's simply not the case.
+4983.59 There are conditions,
+4984.67 such as when we are
+under stress challenge,
+4986.9 when there is a natural
+craving for more sodium,
+4990.09 and that natural craving for more sodium
+4992.3 is hardwired into us as a
+way to meet that challenge,
+4996.14 so it's hard for me to know
+whether or not people out there,
+4999.31 especially the listeners of this podcast,
+5000.78 are getting too much, just
+enough, or too little sodium,
+5004.86 so I can't know that.
+5005.97 I'm shouting into a tunnel here.
+5007.29 You have to decide how much
+sodium you are ingesting,
+5011.18 but I think that there's
+some, for most people,
+5014.1 especially people who are not
+hypertensive, prehypertensive,
+5016.78 there's some wiggle room
+5017.613 to explore whether more intake of sodium
+5021.65 could actually be beneficial
+5022.88 for suppressing some of
+the anxiety responses
+5025.29 that they might feel under
+conditions of stress.
+5027.31 Again, more studies need to be done.
+5029.11 Certainly, more studies
+in humans need to be done,
+5031.92 but the relationship between
+stress and sodium intake
+5034.437 and the fact that additional
+sodium intake may be beneficial
+5039.53 and indeed, is naturally
+stimulated by stress
+5043.2 shouldn't be necessarily looked
+at as a pathological event.
+5046.76 I know when some people get stressed,
+5048.08 they crave salty foods.
+5049.33 That's actually a hardwired
+biological phenomenon
+5052.19 that you see, not just in
+humans, but in animals,
+5054.61 because this is a very primitive mechanism
+5057.03 whereby your body is preparing
+5058.95 to meet any additional
+challenges and stressors.
+5061.87 Now, we can't have a
+discussion about sodium
+5063.75 without having a discussion
+about the other electrolytes,
+5066.58 magnesium and potassium.
+5069.05 Magnesium is important enough
+and an extensive enough topic
+5072.2 that we should probably
+do an entire episode
+5073.67 just on magnesium.
+5076.0 For purposes of today's discussion,
+5077.96 I just will briefly touch on
+some of the forms of magnesium
+5081.8 that we've discussed on the podcast before
+5083.84 in different contexts.
+5085.67 I want to emphasize that many people
+5087.56 are probably getting enough
+magnesium in their diet
+5090.67 that they don't need to
+supplement magnesium.
+5093.6 Some people, however, opt
+to supplement magnesium
+5096.8 in ways that can support them,
+5098.55 and there are many different
+forms of magnesium,
+5100.65 and just in very brief passing,
+5103.56 I'll just say that there is some evidence
+5107.24 that you can reduce muscle
+soreness from exercise
+5111.37 by ingestion of magnesium
+malate, M-A-L-A-T-E.
+5115.76 I've talked before about
+magnesium threonate,
+5120.07 T-H-R-E-N-O-A-T-E, magnesium threonate,
+5124.29 for sake of promoting
+the transition into sleep
+5127.15 and for depth of sleep
+5128.13 and perhaps, again, highlighted perhaps,
+5130.66 'cause right now it's
+mainly animal studies
+5133.02 and ongoing human studies,
+5134.43 but the data aren't all in.
+5135.77 Perhaps magnesium threonate can be used
+5138.76 as a way to support cognitive
+function and longevity.
+5142.95 That was discussed in the episode
+5144.16 with Dr. Jack Feldman from UCLA.
+5148.11 Typically, magnesium threonate is taken
+5149.75 30 to 60 minutes before bedtime
+in order to encourage sleep.
+5153.04 You can go to our neural
+network newsletter
+5154.66 and look for the one on sleep,
+5156.38 and you can see the recommendations,
+5158.11 or I should say, the options for that
+5160.96 because, again, you should
+always check with your physician.
+5163.17 Those aren't strict
+across-the-board recommendations,
+5165.42 and then, there are
+other forms of magnesium:
+5167.61 magnesium bisglycinate,
+5169.02 which is a somewhat of an
+alternative to threonate,
+5172.68 not known to have cognitive
+enhancing effects,
+5174.57 but seems, at least on par
+with magnesium threonate
+5178.69 in terms of promoting transition into
+5180.59 and depth of sleep and so on.
+5182.81 There are other forms of
+magnesium, magnesium citrate,
+5185.62 which has other functions.
+5187.55 Actually, magnesium citrate
+5190.28 is a fairly effective laxative,
+5194.1 not known to promote sleep
+and things of that sort,
+5196.16 so a lot of different forms of magnesium,
+5197.615 and there's still other forms out there.
+5199.83 Many people are not
+getting enough magnesium.
+5201.75 Many people are.
+5202.67 Okay, that's magnesium.
+5205.33 Anytime we're talking
+about sodium balance,
+5207.56 we have to take into
+consideration potassium
+5209.92 because the way that the kidney works
+5212.04 and the way that sodium
+balance is regulated,
+5213.85 both in the body and the brain,
+5215.29 is that sodium and potassium
+5217.1 are working in close
+concert with one another.
+5219.89 There are a lot of
+different recommendations
+5221.41 about ratios out there,
+5223.84 and they range widely
+5225.27 from two-to-one ratio
+of potassium to sodium.
+5229.78 I've heard it in the other direction too.
+5231.89 I've heard a two-to-one
+sodium to potassium.
+5235.22 The recommendations vary.
+5236.54 One of the sponsors of
+this podcast, for instance,
+5238.64 LMNT, which I've talked about
+in this episode and before,
+5242.0 the ratio there is a gram of sodium
+5243.87 to 200 milligrams of potassium,
+60 milligrams of magnesium,
+5247.53 so there, they've opted
+5248.84 for a five-to-one ratio
+5252.43 of sodium to potassium,
+5254.193 and, of course, many people opt
+5255.49 to make their own hydration
+electrolyte formulas.
+5257.76 They'll put sea salt into some water,
+5259.32 maybe even ingest a potassium tablet.
+5261.43 It all depends on the context,
+5263.02 and an important contextual
+element is your diet,
+5266.21 so, for instance, carbohydrates
+hold water in the body,
+5269.33 so regardless of how much salt
+5270.64 and how much fluid you're ingesting,
+5272.12 if you're ingesting carbohydrate
+5273.45 and you drink fluids, water,
+5276.78 some of that fluid is going
+to be retained in the body.
+5279.1 Now, for people that are
+following low-carbohydrate diets,
+5282.29 one of the most immediate effects
+of a low-carbohydrate diet
+5285.56 is that you're going
+to excrete more water,
+5287.43 and so, under those conditions,
+5289.13 you're also going to lose not just water,
+5291.29 but you'll probably also
+lose sodium and potassium,
+5293.8 and so some people, many people, in fact,
+5296.89 find that when they are on a
+lower or low-carbohydrate diet,
+5300.32 then they need to make sure
+5301.36 that they're getting enough
+sodium and enough potassium,
+5304.34 and some people do that
+5305.21 by taking 99-milligram potassium tablets
+5307.45 every time they eat.
+5308.45 Some people do that
+5309.283 by ingesting more foods
+that contain potassium,
+5313.82 and, of course,
+5314.653 some people who are on
+low-carbohydrate diets
+5316.63 do ingest vegetables
+5318.88 or other forms of food that
+carry along with them potassium,
+5322.93 so it's quite variable
+from person to person.
+5327.26 I mean, you can imagine if
+carbohydrate holds water,
+5330.3 water and salt balance and potassium
+5332.69 go hand in hand, and hand,
+5334.65 that if you're on a low-carbohydrate diet,
+5336.53 that you might need to adjust
+5337.46 your salt intake and potassium,
+5339.03 and conversely, that if you're
+on a carbohydrate-rich diet
+5342.14 or a moderate carbohydrate diet,
+5343.42 then you may need to ingest
+less sodium and less potassium,
+5346.38 and, in fact, a certain amount of water
+5348.15 is probably coming in through
+the foods you eat as well,
+5350.72 so I don't say all this to confuse you.
+5352.69 Again, I say this because it
+all depends on the context.
+5357.6 I'll give yet another context
+5358.94 that I think is fairly common nowadays,
+5361.45 which is many people are
+following a pattern of eating
+5365.03 that more or less resembles
+intermittent fasting
+5367.98 or at least time-restricted feeding,
+5369.46 so they're eating between
+particular feeding windows,
+5372.45 and then, in the certain
+parts of the 24-hour cycle,
+5375.32 not just sleep,
+5376.34 but during certain parts
+of their waking cycle,
+5378.1 they're also actively avoiding food,
+5380.49 banking on, I think, either the possible,
+5384.09 I want to say possible,
+longevity-promoting effects
+5387.28 of intermittent fasting,
+5388.53 or, and/or, I should say,
+5391.0 they are banking on the
+fact that for many people,
+5393.66 not eating is easier than portion control
+5396.14 for certain parts of the day,
+5396.973 and so they find it beneficial
+to limit calories overall
+5401.16 to a given amount, depending
+on what their goals are,
+5403.92 by not consuming food for
+certain periods of the day,
+5407.88 but usually, during
+those periods of the day,
+5409.37 they're consuming fluids,
+5410.64 and oftentimes, those fluids
+include not just water,
+5412.78 but caffeine, and caffeine is a diuretic.
+5415.4 It actually causes the excretion
+of fluids from the body
+5418.63 in part, because it causes
+the excretion of sodium.
+5423.4 All of that to say
+5424.36 that if you're somebody who, for instance,
+5426.43 eats your first meal around
+noon or 1:00 or 2:00 p.m.,
+5429.06 and you're fasting for
+the early part of the day,
+5431.01 and you're drinking coffee or tea
+5432.63 or ingesting a lot of water,
+5435.43 you are going to be excreting
+sodium along with that water,
+5439.1 and so many people, including
+myself, find that it's useful,
+5442.47 especially when I'm drinking caffeine
+5445.14 during that so-called fasting
+5446.94 or nonfood intake part of
+time-restricted feeding,
+5451.29 that I'm making sure to get enough salt,
+5453.46 either in the form of something like LMNT,
+5456.24 an electrolyte drink,
+5457.21 or putting some sea salt into some water,
+5459.39 or certainly, anytime one
+is ingesting caffeine,
+5463.71 replacing some of the lost water
+5465.63 by increasing one's water intake.
+5467.65 There are some simple
+rules of thumb around this
+5470.56 that I think can get
+most people into a place
+5473.34 where they're more comfortable
+and functioning better,
+5475.95 which is for every ounce of
+coffee or tea that you drink,
+5480.32 I should say caffeinated
+coffee or tea that you drink,
+5482.76 that you consume 1 1/2
+times as much water,
+5486.3 so let's say you have an 8-ounce coffee,
+5489.01 try and drink about, you
+don't have to be exact,
+5490.82 but try and drink about a
+12-ounce glass of water,
+5493.61 and you might want to put a
+tiny bit of sodium into that.
+5495.81 By tiny bit, I just mean
+a tiny pinch of sodium
+5498.0 because remember, even if we're talking
+5500.17 about increasing the amount
+of sodium intake overall,
+5503.76 the total amount of
+sodium contained in salt
+5507.03 is sufficiently high that
+even just 1/4 teaspoon
+5510.25 is going to really start
+to move that number
+5511.77 up towards that range that's
+still within the safe range,
+5514.67 but you're going to, if you
+keep doing that all day long,
+5517.14 you're very quickly
+5517.973 going to get into that
+excessive salt intake range
+5519.87 that is deleterious for health,
+5521.91 so again, if you're
+consuming more caffeine,
+5523.55 you're going to be excreting
+water and salt and potassium,
+5526.31 and so you're going to have to find ways
+5527.62 to bring water, salt,
+and potassium back in.
+5529.64 Again, this has to be evaluated
+5531.55 for each of your own
+individual situations.
+5534.14 If you're exercising fasted,
+5537.11 and you're doing that
+after drinking caffeine,
+5539.74 then before, during, and
+certainly after exercise,
+5543.52 you're going to want to replenish
+5544.81 the fluids and electrolytes
+that you lost, including sodium,
+5548.35 so you can imagine
+5549.73 how this all starts to
+become pretty dizzying,
+5551.92 and yet it doesn't have to be dizzying.
+5553.47 We can provide some useful ranges
+5555.12 that, for most people, will work,
+5557.29 and so let's talk about
+what those ranges are,
+5559.05 and I'm going to point you to a resource
+5560.7 that explores what those ranges are
+5562.45 in these various contexts of
+nutrition, exercise, and so on.
+5565.85 The resource is a book
+5567.61 that was authored by Dr.
+James DiNicolantonio.
+5571.67 He's not a medical doctor.
+5573.11 He's a scientist,
+5574.91 so he's cardiovascular physiology
+5578.39 as well, I believe, as
+a doctor of pharmacy,
+5580.72 and the title of the
+book is "The Salt Fix."
+5582.677 "The Salt Fix" is an interesting read
+5584.26 because it points to, first of all,
+5586.39 the history of salt in society
+5589.35 and as it relates to health.
+5591.78 It actually emphasizes
+some of the major missteps,
+5594.79 maybe even pretty drastic errors,
+5596.99 that have been made in terms
+of trying to interpret the role
+5600.37 that salt has in various diseases
+5604.3 and emphasizes some of the
+ways in which, perhaps,
+5608.47 increasing salt can actually
+improve health outcomes,
+5611.73 and I think it strikes
+a pretty nice balance
+5613.87 between what's commonly known about salt
+5616.88 and what I believe ought
+to be known about salt,
+5620.37 or at least taken into consideration.
+5623.36 The book does provide
+certain recommendations,
+5626.57 and I actually reached out to the author.
+5628.42 I've never met him in person
+or talked to him directly,
+5631.35 and I asked him outright.
+5634.05 I said, "How much salt
+5636.207 "do you recommend people take on average?"
+5639.29 And he gave, of course,
+the appropriate caveats
+5643.03 about prehypertension,
+hypertension, et cetera,
+5645.48 but made a recommendation
+which I'll just share with you,
+5649.99 and if you want to learn more
+5651.35 about the support for this recommendation,
+5653.61 you can check out his book.
+5655.55 The recommendation he made was
+5656.79 anywhere from 8 to 12 grams of salt a day,
+5659.56 which corresponds to
+5661.37 3.2 to 4.8 grams of sodium,
+5664.95 so going back to the
+current recommendations
+5668.99 that we talked about before,
+2.3 grams of sodium per day,
+5672.27 this is about 1 1/2 times
+5674.11 to double the amount of sodium
+5677.96 that's currently
+recommended in most circles,
+5680.94 and then, what this corresponds to
+5682.33 is about 1 1/2 to 2
+teaspoons of salt per day
+5686.3 to arrive at that 3.2
+to 4.8 grams of sodium.
+5689.12 Again, this is the recommendation
+5691.27 that was passed along for
+most people, most conditions,
+5694.99 barring specific health issues.
+5698.8 Now, what was also interesting is
+5699.93 he pointed to a sodium-to-potassium ratio,
+5703.35 which is 4 grams of potassium,
+5706.41 and he also mentioned 400
+milligrams of magnesium,
+5708.94 and pointed out, and I
+generally agree here,
+5711.17 that many people are
+deficient in magnesium,
+5714.09 so again, that was a 3.2
+to 4.8 grams of sodium,
+5718.92 4 grams of potassium.
+5721.06 You might think, "Well, gosh,
+5721.927 "that's 1 1/2 to 2 times
+the current recommendation,"
+5724.88 but we can go back to that study
+5727.67 that was mentioned earlier in the episode,
+5729.43 that 2011 study,
+5730.74 where I describe this
+sort of J-shaped curve
+5734.93 in which, when you look at the occurrence
+5737.72 of these negative health events,
+5739.37 they were fairly low at low sodium intake,
+5742.49 lower still at slightly
+higher sodium intake,
+5745.54 much in line with the
+recommendations that are made
+5748.55 or that Dr. DiNicolantonio
+passed along to me,
+5753.05 and then, they increased quite,
+5754.7 those health risks increased
+quite substantially
+5757.52 as one moves out past 6 grams of sodium,
+5760.91 7 grams of sodium per day.
+5762.13 That's when things really
+do seem to get hazardous,
+5765.92 and really, it makes sense, I think,
+5768.62 given the consensus around this,
+5770.24 to really avoid very high salt intake,
+5773.24 so "The Salt Fix" describes the rationale
+5777.22 behind those recommendations.
+5779.117 "The Salt Fix" also describes,
+in quite beautiful detail,
+5783.43 the relationship between salt
+intake, potassium intake,
+5787.47 and the relationship to the
+sugar consumption system.
+5791.09 I'd like to pick up on this idea
+5792.5 of the relationship between salt and sugar
+5795.98 because I think that one key aspect
+5798.65 of the way that salt can work
+5800.51 and can benefit us or can
+harm us has to do with the way
+5803.81 that sodium and sugar are regulated
+5807.24 and actually perceived by the brain
+5809.15 and how,
+5809.983 under conditions of certain
+levels of sodium intake,
+5812.63 we might be inspired to seek more sugar
+5814.57 or to crave sweets more or less,
+5816.86 so up until now,
+5817.693 we've been talking about
+salt as a substance
+5819.78 and a way to regulate fluid balance
+5821.94 and blood volume and so on.
+5824.24 We haven't talked a lot
+about salt as a taste
+5826.35 or the taste of things that are salty,
+5828.96 and yet we know that
+we have salt receptors,
+5832.32 meaning neurons,
+5833.99 that fire action potentials
+5836.35 when salty substances are detected,
+5838.82 much in the same way that
+we have sweet detectors
+5840.95 and bitter detectors,
+5842.41 and we have detectors of
+umami, the savory flavor,
+5846.11 on our tongue,
+5847.16 and earlier, at the
+beginning of the episode,
+5849.18 I talked about the fact that
+we have sweet receptors,
+5853.07 neurons that respond to
+the presence of sugar
+5855.49 or even noncaloric
+sweet things in the gut,
+5858.85 and that signals up to the
+brain through the vagus nerve,
+5862.15 and those signals converge on pathways
+5864.06 that relate to dopamine and so on.
+5865.96 Well, we also have salt sensors
+5867.92 at various locations
+throughout our digestive tract,
+5871.06 although the sensation
+and the taste of salt
+5873.63 actually exerts a very robust effect
+5876.69 on certain areas of the brain
+5879.04 that can either make us crave more
+5881.72 or sate, meaning fulfill,
+our desire for salt,
+5886.05 and you can imagine why
+this would be important.
+5887.94 Your brain actually has to register
+5889.27 whether or not you're bringing in salt
+5891.72 in order to know whether or not
+5893.41 you are going to crave salt more or not,
+5896.56 and beautiful work that's
+been done by the Zuker Lab,
+5899.6 Z-U-K-E-R, Zuker Lab
+at Columbia University,
+5902.44 as well as many other labs
+5903.92 have used imaging techniques
+5905.44 and other techniques
+such as molecular biology
+5907.44 to define these so-called
+parallel pathways,
+5909.43 parallel meaning pathways
+that represent sweet
+5912.97 or the presence of sweet
+taste in the mouth and gut,
+5916.0 parallel pathways, meaning neural circuits
+5917.83 that represent the
+presence of salty tastes
+5920.03 in the mouth and gut and so on,
+5921.91 and that those go into the brain,
+5924.47 move up through brain stem centers
+5926.71 and up to the neocortex
+5928.23 indeed where our seed of
+our conscious perception is
+5930.64 to give us a sense and a perception
+5933.44 of the components of the foods
+5936.303 that we happen to be ingesting
+5937.96 and a sense and a perception of the fluids
+5940.77 and the components of those fluids
+5942.1 that we happen to be ingesting.
+5944.07 Now, parallel pathways,
+as I'm describing them,
+5946.95 are a fundamental feature
+of every sensory system,
+5950.73 not just the taste system,
+but also the visual system.
+5953.4 We have parallel pathways
+5954.42 for perceiving dark objects
+versus light objects,
+5956.81 for perceiving red
+versus green, et cetera.
+5959.86 This is a fundamental
+feature of how we are built
+5962.62 and how our nervous system works,
+5964.3 and in the taste system, much
+like in these other systems,
+5968.72 these pathways are indeed parallel,
+5971.35 but they converge, and they
+can influence one another,
+5974.53 and I think the simplest way to put this
+5976.57 is in the context, first,
+of the visual system,
+5978.56 whereby your ability
+to detect the color red
+5982.34 has everything to do with the fact
+5983.88 that you have neurons in your eye
+5985.81 that absorb long wavelengths
+of light that we call reds,
+5989.4 red wavelengths of light,
+5990.59 which are longer wavelengths
+than, say, blue light,
+5993.93 which are shorter wavelength,
+5995.24 but it is really the comparison
+of the electrical activity
+5998.21 of the neurons that absorb red light
+6000.36 with the activity of the
+neurons that absorb green light
+6003.52 which actually gives you
+the perception of red,
+6005.75 so that might seem a
+little counterintuitive,
+6007.98 but indeed, it's not.
+6009.3 It's actually because something is red
+6012.74 and has less greenness
+6014.89 that we perceive it as
+more red than the green,
+6018.37 and this is actually the way
+6019.63 that your entire nervous system works
+6021.67 is that we aren't really good
+6023.3 at evaluating absolute levels of anything
+6025.86 in the context or perception.
+6027.08 It's only by comparison,
+6029.47 and actually, there's a fun
+experiment that you can do,
+6031.53 I think you could probably
+find it easily online,
+6033.387 but you could also do
+this experiment at home.
+6035.12 You can stare at something that's red,
+6038.06 or green, for that matter, for a while,
+6040.17 so you make an active
+decision to not blink
+6044.27 and to stare at something that's red,
+6046.02 and then you look away from that thing,
+6047.93 and you'll actually see a green afterimage
+6050.45 of that red object.
+6051.84 Conversely, if you look at something
+6053.0 that's green for a while,
+6054.27 and you stare at it, and you look away,
+6055.71 you will see the red
+afterimage of that thing.
+6058.74 Now, the taste system doesn't have
+6060.16 quite the same aftertaste type effect,
+6064.42 but nonetheless, the pathways,
+6067.16 the parallel pathways for salty
+6068.76 and the parallel pathways for
+sweet and bitter and so on
+6072.28 can actually interact,
+6073.377 and this has important relevance
+6074.89 in the context of food
+choices and sugar craving.
+6078.55 One of the things that's
+commonplace nowadays is
+6081.73 in many processed foods there
+is a business, literally,
+6085.41 a business of putting
+so-called hidden sugars,
+6088.29 and these hidden sugars
+6089.16 are not always in the
+form of caloric sugars.
+6091.15 They're sometimes in the
+form of artificial sweeteners
+6093.71 into various foods,
+6095.27 and you might say, "Well,
+6096.727 "why would they put more sugar into a food
+6098.937 "and then disguise the sugary taste
+6101.117 "given that sweet tastes
+often compel people
+6103.387 "to eat more of these things?"
+6104.98 Well, it's a way, actually,
+6106.73 of bypassing some of the
+homeostatic mechanisms for sweet,
+6111.01 even though we might think that
+the more sweet stuff we eat,
+6113.37 the more sweet stuff we crave,
+6115.16 in general, people have a threshold
+6116.74 whereby they say, "Okay, I've
+had enough sugary stuff."
+6119.97 You can actually experience this.
+6121.65 If you ever feel like something
+is really, really sweet,
+6124.37 take a little sip of water
+6126.45 with a little bit of lemon
+juice in it or vinegar,
+6128.21 and it will quickly quench
+6129.84 that overly sweet sensation or perception.
+6132.82 It will disappear almost immediately.
+6134.76 There's actually a practice in fancy meals
+6137.27 of cleansing the palate
+6139.2 through the ingestion of different foods,
+6141.0 and that's the same idea that
+you're cleansing the palate.
+6142.68 You're actually neutralizing
+the previous taste
+6145.0 so then they can bring yet another dish
+6146.98 to overindulge you in
+decadence and so forth,
+6150.19 so these sensory systems
+interact in this way.
+6154.32 By putting sugars into foods
+6156.99 and hiding the sugary
+taste of those foods,
+6160.15 those foods, even if they
+contain artificial sweeteners,
+6163.66 can activate the sorts of neurons
+6165.55 that we talked about at the
+beginning of the episode,
+6167.18 like the neuropod cells
+6168.8 that will then signal to the
+brain to release more dopamine
+6171.4 and make you crave more of that food,
+6172.99 whereas had you been able
+6174.36 to perceive the true
+sweetness of that food,
+6177.77 you might have consumed less,
+6178.907 and indeed, that's what happens,
+6180.44 so these hidden sugars
+are kind of diabolical.
+6183.34 Why am I talking about all of this
+6185.08 in the context of an episode on salt?
+6187.85 Well, as many of you
+have probably noticed,
+6190.54 a lot of foods out there
+6192.31 contain a salty-sweet combination,
+6195.44 and it's that combination
+of salty and sweet
+6198.33 which can actually lead you to consume
+6199.87 more of the salty-sweet
+food than you would have
+6204.81 if it had just been sweet
+or it had just been salty,
+6208.3 and that's because both
+sweet taste and salty taste
+6212.59 have a homeostatic balance,
+6214.44 so if you ingest something
+that's very, very salty,
+6216.55 pretty soon your appetite for
+salty foods will be reduced,
+6219.4 but if you mask some of that with sweet,
+6221.83 well, because of the interactions
+6224.52 of these parallel pathways,
+6225.96 you somewhat shut down your perception
+6228.29 of how much salt you're ingesting,
+6230.68 or conversely, by ingesting
+some salt with sweet foods,
+6233.93 you mask some of the sweetness
+6235.79 of the sweet foods that you're tasting,
+6237.11 and you will continue to
+indulge in those foods,
+6238.99 so salty-sweet interactions
+can be very diabolical.
+6243.13 They can also be very tasty,
+6244.47 but they can be very diabolical
+6245.84 in terms of inspiring you to
+eat more of a particular food
+6248.91 than you would otherwise
+6250.23 if you were just following
+your homeostatic salt
+6253.25 or your homeostatic sugar balance systems,
+6256.7 and the beautiful imaging
+work that's been done
+6258.83 by the Zuker Lab and other labs
+6260.48 has actually been able to reveal
+how some of this might work
+6263.53 by showing, for instance,
+that a certain ensemble,
+6266.76 meaning a certain group of neurons,
+6268.34 is activated by a sweet taste
+6270.65 and a nonoverlapping distinct
+set of neurons just nearby
+6274.28 sitting cheek-to-jowl
+with those other neurons
+6277.13 would be activated by salty tastes
+6279.33 and yet others by bitter taste et cetera,
+6281.22 so there's a separate map
+6282.87 of these different parallel pathways,
+6284.59 but that when foods or fluids are ingested
+6287.81 that are both salty and sweet,
+6290.05 you get a yet entirely different ensemble
+6293.35 of neurons activated,
+6294.78 so your brain, whether or not
+it's for your visual system
+6298.59 or your auditory system
+or your taste system,
+6300.61 has a way of representing
+the pure form of taste,
+6303.46 salty, sweet, bitter, et cetera,
+6305.08 and has a way of representing
+their combinations,
+6307.82 and food manufacturers have
+exploited this to large degree.
+6312.1 I mention all of this
+6313.19 because if you're somebody
+who's looking to explore
+6316.74 either increasing or
+decreasing your sodium intake
+6319.86 for health benefits, for
+performance benefits,
+6322.97 in many ways, it is useful to do that
+6325.67 in the context of a fairly pure,
+6328.2 meaning unprocessed
+food intake background,
+6331.0 whether or not that's key
+to a carnivore, omnivore,
+6334.93 intermittent fasting, or what have you.
+6336.45 It doesn't really matter,
+6337.57 but the closer that foods are
+to their basic form and taste,
+6342.06 meaning not large combinations
+6344.5 of large amounts of ingredients
+6346.33 and certainly avoiding
+highly processed foods,
+6349.14 the more quickly you're
+going to be able to hone in
+6351.75 on your specific salt
+appetite and salt needs,
+6354.91 which, as I've pointed out numerous times
+6356.96 throughout this episode,
+6357.793 are going to vary from person to person
+6359.4 depending on nutrition,
+depending on activity,
+6361.32 depending on hormone status,
+6362.95 or even portion of your
+menstrual cycle, for that matter,
+6366.06 so if you want to home in
+6367.94 on the appropriate
+amount of sodium for you,
+6369.84 yes, blood pressure is going
+to be an important metric
+6372.78 to pay attention to as you go along,
+6374.36 and the parameters for
+healthy blood pressure ranges
+6376.77 are readily available online,
+6378.24 so I'll let you refer to those
+6379.99 in order to determine those for yourself,
+6381.9 but in determining whether or not
+6384.56 increasing your salt
+intake might be beneficial,
+6387.68 for instance, for reducing anxiety a bit
+6389.53 or for increasing blood pressure
+6391.21 to offset some of these postural syndromes
+6393.61 where you get dizzy, et cetera,
+6394.93 for improving sports performance
+or cognitive performance,
+6399.15 I can only recommend that you do this
+6401.84 in a fairly clean context
+6403.62 where you're not trying to do this
+6404.73 by ingesting a bunch of salty foods
+6406.48 or salty-sweet foods, et cetera,
+6408.6 and indeed, many people find,
+6410.09 and it's reviewed a bit,
+6411.44 and some of the data are reviewed
+6413.04 in the book "The Salt Fix,"
+6414.89 that when people increase
+their salt intake
+6417.86 in a backdrop of relatively
+unprocessed foods,
+6421.62 that sugar cravings can
+indeed be vastly reduced,
+6424.47 and that makes sense
+6425.56 given the way that these neural pathways
+6427.32 for salty and sweet interact.
+6429.04 Now, thus far, I've already
+covered quite a lot of material,
+6432.93 but I would be completely remiss
+6435.44 if I didn't emphasize the
+crucial role that sodium plays
+6439.82 in the way that neurons function.
+6441.7 In fact, sodium is one of the key elements
+6444.61 that allows neurons to function at all,
+6447.32 and that's by way of engaging
+6448.67 what we call the action potential.
+6450.65 The action potential
+6452.24 is the firing of electrical
+activity by neurons.
+6457.09 Now, neurons can engage
+electrical activity
+6459.81 in a number of different ways.
+6460.92 They have graded potentials.
+They have gap junctions.
+6464.22 There's a whole landscape
+6465.75 of different
+electrophysiologies of neurons
+6469.02 that I don't want to go into just yet,
+6471.63 at least not in this episode,
+6473.33 but the action potential
+is the fundamental way
+6475.98 in which neurons communicate
+with one another.
+6478.66 They're sometimes called spikes.
+6480.77 It's just kind of nomenclature
+that neuroscientists use.
+6484.29 I'm just going to briefly
+describe the action potential
+6486.46 and the role that sodium plays,
+6488.4 and this will involve a
+little bit of chemistry,
+6490.83 but I promise it will
+be accessible to anyone,
+6493.16 even if you don't have a
+chemistry or a physics background
+6495.41 or electrophysiology background.
+6498.14 Neurons have an inside and an outside,
+6500.85 and inside are things like
+your genetic material.
+6505.68 They have a bunch of things
+floating around in there
+6507.84 that allow those cells to function,
+6509.77 and they tend to have this
+wire extending out of them,
+6512.81 sometimes a very long wire,
+sometimes a short one,
+6514.74 that we call the axon,
+6516.14 and at the end of that wire, that axon,
+6519.24 they release little packets of chemicals
+6522.51 that either cause the next
+neuron to fire action potentials
+6527.16 or prevent the next neuron
+from firing action potentials,
+6529.97 so they kind of vomit out these
+little packets of chemicals
+6533.9 that either inspire or
+suppress action potentials
+6537.8 in other neurons.
+6540.24 The way that that whole process occurs
+6543.83 is that a given neuron
+6545.5 needs to change its electrical activity,
+6548.58 so normally, neurons are hanging out,
+6552.02 and they have what we
+call a negative charge,
+6553.87 and the reason they have a negative charge
+6556.36 is that the inside of the cell
+6558.26 has things floating around in it
+6559.67 like potassium, a little bit of sodium,
+6562.46 and some stuff like chloride.
+6563.94 These are literally just,
+6565.12 just imagine these as
+little balls of stuff,
+6568.5 and if they have a
+negative charge on them,
+6571.283 then the inside of the cell
+6572.65 is going to tend to be more negative,
+6574.08 and outside of the cell, it turns out,
+6576.16 you're going to have a bunch of stuff
+6578.65 that's positively charged,
+6580.71 and one of the main factors
+6582.73 in creating that positive
+charge is sodium.
+6584.97 Sodium carries a positive charge,
+6587.1 so you have neurons that
+you can just imagine a,
+6590.42 for sake of this discussion,
+6592.22 you can just imagine as a sphere
+6593.67 with a little wire sticking out of it.
+6596.7 You can put a little minus
+on the inside for negative.
+6598.81 You can put a little plus
+on the outside for positive,
+6601.3 and when that neuron is
+stimulated by another neuron,
+6606.02 if the stimulation,
+6607.14 the electrical stimulation
+is sufficiently high,
+6611.24 meaning enough little
+packets of neurotransmitter
+6614.67 have been vomited onto its surface
+6617.25 at sufficient concentration,
+6619.27 what happens is little
+pores, little spaces,
+6624.04 little gaps open up in
+the membrane of that cell
+6628.75 that separates the
+inside from the outside,
+6631.84 and because it's positive,
+6634.15 there's a lot of positive charge outside,
+6635.95 and there's a lot of negative inside,
+6638.35 it's like a boulder running downhill.
+6640.5 All the stuff tends to rush downhill.
+6642.63 It tries to create even amounts of charge,
+6644.73 so it's negative on the inside,
+positive on the outside,
+6647.23 and what happens is sodium
+rushes into the cell
+6651.45 carrying a lot of charge into the cell,
+6653.58 and as a consequence,
+6655.08 the charge of that cell
+goes from negative,
+6657.61 actually, very negative,
+to quite positive,
+6660.33 and if it hits a certain
+threshold of positive charge
+6663.86 because of all the sodium
+ions going into the cell,
+6667.43 then it fires what's
+called an action potential,
+6670.35 and it vomits out its own set of chemicals
+6673.58 onto the next neuron,
+6674.47 and so it sets off a chain
+6675.77 of one neuron goes from
+negative to positive,
+6678.34 blech, vomits out chemicals
+onto the next one.
+6680.63 The next one, the next neuron,
+6683.27 that binds to receptors
+or enters the cell,
+6686.23 and that cell goes from
+negative to positive charge,
+6689.631 [imitates vomiting] vomits its
+contents onto the next cell,
+6692.18 and so on and so forth.
+6695.51 Sodium rushing into the cell, therefore,
+6697.89 is the way that the action
+potential is stimulated.
+6701.27 In other words, sodium is the way
+6704.33 that neurons communicate with one another.
+6706.77 Now, the neurons don't
+stay in a positive charge.
+6710.08 Otherwise, they would just keep
+vomiting out their contents,
+6712.413 [imitates vomiting], but they
+need to maintain some of that,
+6714.867 and they need to go back
+6715.81 to preparing to do it the
+next time and the next time
+6718.04 by resting a bit,
+6719.37 and turns out that the way
+they restore their charge
+6722.06 is by pushing that sodium
+back out of the cell.
+6726.23 There are mechanisms in place to do that,
+6728.32 things like the so-called
+sodium-potassium pump.
+6731.26 There's a change in the
+levels of the potassium
+6734.55 across the cell membrane
+and so on and so forth.
+6736.64 If you want to look at
+a demonstration of this,
+6738.051 you can just,
+6738.884 you can put into a web
+browser the action potential.
+6742.89 You'll find some beautiful
+descriptions there
+6744.65 on YouTube and elsewhere.
+6746.6 Maybe some time on Instagram,
+6748.37 I'll do a description with a diagram
+6750.31 'cause I realize
+6751.24 number of people are
+just listening to this.
+6753.04 I can't do that here.
+6754.13 I won't do that here
+6755.52 'cause I want everyone
+6756.353 to be able to get the
+same amount of material
+6757.88 regardless of whether
+or not they're watching
+6759.22 and/or listening to this,
+6760.9 but the point I'd like to make,
+6763.73 at least as it relates
+to this episode on salt,
+6765.8 is that having sufficient
+levels of salt in your system
+6769.89 allows your brain to function,
+6771.31 allows your nervous
+system to function at all.
+6773.39 Again, this is the most basic aspect
+6775.43 of nervous system function,
+6777.1 and there are cases
+6778.55 where this whole system gets disrupted,
+6782.29 and that brings us to the topic
+of sodium and water balance.
+6787.21 As many of you have probably heard,
+6788.48 but hopefully, if you haven't,
+6790.76 you'll take this message seriously,
+6793.1 if you drink too much water,
+6795.82 especially in a short amount of time,
+6797.78 you can actually kill yourself, right?
+6800.4 And we certainly don't
+want that to happen.
+6802.73 If you ingest a lot of water
+in a very short period of time,
+6807.37 something called hypernatremia,
+6810.07 you will excrete a lot
+of sodium very quickly,
+6812.78 and your ability to
+regulate kidney function
+6815.08 will be disrupted,
+6816.17 but in addition to that,
+6817.66 your brain can actually stop functioning,
+6819.64 so people have actually
+consumed water to excess,
+6823.57 especially after sports
+events and so forth,
+6825.85 and if that water doesn't
+contain sufficient electrolytes,
+6829.25 you can actually shut
+down neurons' ability
+6831.42 to function at all
+6832.45 by disrupting this balance
+of sodium and potassium
+6836.51 and the amount of extracellular sodium
+6838.43 and neurons' ability to
+signal to one another
+6841.85 through action potentials,
+6843.33 and I can't emphasize the importance
+6844.83 of action potentials enough.
+6846.11 They are the way that I
+can lift my pen right now.
+6848.23 They're the way that I can speak.
+6849.22 They're the way that you breathe.
+6850.78 They literally control all aspects
+6852.66 of your nervous system function.
+6854.42 Now, it takes quite a lot of water intake
+6856.14 before you excrete enough sodium
+6858.07 that your nervous system
+is going to shut down,
+6860.12 and I certainly don't want
+to give the impression
+6861.69 that simply by ingesting more sodium,
+6863.31 your neurons will work better,
+6864.94 but it absolutely is the case
+6866.35 that if you don't ingest enough sodium,
+6868.81 that your neurons won't
+function as well as they could,
+6871.53 and that if your sodium
+levels are made too low
+6875.63 by hemorrhage
+6876.97 or by ingesting so much water, fluid,
+6881.46 that you excrete excess amounts of sodium
+6884.34 or through any other mechanism, that is,
+6886.91 then indeed your neurons
+6888.36 won't be able to fire action potentials
+6889.727 and your brain and nervous
+system simply won't work,
+6892.31 and that's one of the primary
+reasons why dehydration
+6894.88 leads to confusion and dizziness
+and lack of coordination,
+6898.85 and I've talked about this a bit
+6900.39 in the episode on endurance,
+6901.96 but there are instances
+6903.69 in which competitive athletes
+have come into the stadium
+6906.9 to finish a final lap
+of a long endurance race
+6909.34 and are completely disoriented
+6910.89 and actually can't find
+their way to the finish line.
+6912.91 It might sound like kind
+of a silly, crazy example,
+6915.5 but there are examples
+6917.06 of people having severe mental issues
+6920.47 and physical issues post-exercise
+6922.97 when that exercise
+involved a ton of sweating
+6925.23 or hot environments
+6926.1 or insufficient ingestion
+of fluids and electrolytes
+6929.41 because included in the
+electrolyte formula,
+6931.42 of course, is sodium,
+6932.81 and as you just learned,
+6933.75 sodium is absolutely crucial
+for neurons to function,
+6936.98 so to briefly recap some of
+what I've talked about today,
+6940.77 we talked about how the brain
+monitors the amount of salt
+6943.83 in your brain and body
+6945.2 and how that relates to thirst
+6947.22 and the drive to consume more
+fluid and/or salty fluids.
+6951.78 We also talked a little
+bit about the hormones
+6953.92 that come from the brain
+6954.753 and operate at the level of the kidney
+6957.18 in order to either retain
+6958.98 or allow water to leave your system.
+6962.75 Talked a little bit about the
+function of the kidney itself,
+6965.46 a beautiful organ.
+6966.91 We talked about the relationship
+6969.41 between salt intake and
+various health parameters
+6972.93 and how a particular range of salt intake
+6976.42 might be optimal,
+6978.7 depending on the context
+6980.85 in which that range is being consumed,
+6982.42 meaning depending on whether or not
+6984.82 you're hypertensive,
+prehypertensive, or normal tension.
+6987.92 We talked about fluid intake
+and electrolyte intake,
+6990.35 so sodium, potassium, and magnesium
+6992.04 in the context of athletic
+or sports performance,
+6995.32 but also, in terms of
+maintaining cognitive function.
+6997.62 Talked about the Galpin equation,
+6999.18 which you could easily
+adapt to your body weight
+7001.747 and to your circumstances.
+7003.94 Of course, adjusting the amount of fluid
+7006.87 and electrolyte intake upwards
+7009.29 if you're exercising or working
+in very hot environments,
+7013.06 downwards, maybe, if you're
+in less hot environments
+7016.14 where you're sweating less and so on.
+7017.88 We also talked about the relationship
+7019.29 between the stress system
+and the salt craving system
+7022.91 and why those two systems interact
+7025.4 and why, for some people
+who may suffer a bit
+7029.06 from anxiety or under
+conditions of stress,
+7032.28 increasing salt intake,
+7033.6 provided it's done through healthy means,
+7035.73 might actually be beneficial.
+7038.07 We also talked about conditions
+7039.3 in which increasing salt
+intake might be beneficial
+7042.41 for offsetting low blood pressure,
+7044.98 and some of these postural syndromes
+7046.65 that can lead people to
+dizziness and so forth.
+7049.14 These are things that have to be explored
+7050.62 on an individual basis,
+7051.79 and, of course, have to be explored
+7054.04 with the support of your doctor.
+7055.94 I mentioned "The Salt Fix,"
+7057.47 which I think is an interesting read,
+7059.32 keeping in mind that a lot
+of the information in there
+7061.46 runs counter to the typical narrative
+7063.64 that you hear around salt,
+7065.07 but nonetheless, has some
+very interesting points
+7067.3 that you might want to consider
+7068.92 and certainly will broaden your view
+7071.35 of the history of and
+the applications of salt
+7074.23 as it relates to a great number
+7076.52 of health and performance metrics.
+7078.44 We also talked about
+the perception of salt,
+7080.79 meaning the perception of salty tastes
+7082.81 and how the perception of salty tastes
+7084.4 and the perception of
+other tastes, like sweet,
+7086.62 can interact with one another
+7088.26 to drive things like
+increased sugar intake
+7091.18 when you're not even aware of it,
+7092.76 and indeed, how the combination
+of salty and sweet taste
+7096.54 can bias you towards craving more,
+7099.22 for instance, processed foods,
+7100.63 and why that might be
+a good thing to avoid,
+7102.83 and, of course, we talked about salt
+7104.68 and its critical role
+in the action potential,
+7107.26 the fundamental way
+7108.093 in which the nervous
+system functions at all,
+7110.5 so my hope for you, in
+listening to this episode,
+7113.07 is that you consider a question,
+7115.3 and that question is
+7116.42 what salt intake is best for you?
+7119.56 And that you place that question
+7121.1 in the context of your fluid intake,
+7124.16 you place that in the context
+of the diet you're following,
+7127.19 the amount of caffeine
+you might be ingesting,
+7130.39 and the diuretic effects of caffeine,
+7132.55 and crucially, that you
+place that in the context
+7135.7 of the electrolytes, more generally,
+7138.16 meaning sodium, potassium, and magnesium.
+7141.35 Someday, there will be an online program
+7143.82 or an app, I imagine,
+7145.26 where one could put a bunch
+of different parameters in
+7148.93 about their particular health status,
+7152.6 their particular diet, their
+particular exercise, et cetera.
+7155.47 Maybe it would all be run
+by AI algorithm or something
+7158.34 where it would monitor all of that for us,
+7160.07 and then it would spit out for us
+7161.97 a precise amount of sodium that
+we should take in each day.
+7165.79 Unfortunately, no such tool
+or device exists right now,
+7169.41 and so all of us have to figure out
+7172.06 the appropriate amount of
+sodium intake for ourselves,
+7174.92 and that has to be done
+7176.4 under these contextual considerations.
+7179.3 Who knows?
+7180.133 Maybe one of you will design
+such an app or such a device.
+7182.34 I think it would be very useful.
+7185.39 If nothing else,
+7186.95 today's discussion ought
+to illuminate the fact
+7189.71 that some strict
+recommendation of salt intake
+7193.92 cannot be made universally
+across the board for everybody.
+7196.82 There's just simply no
+way that could be done,
+7199.41 and yet, I think most of
+what we've learned about salt
+7203.29 in the general discussions around health
+7205.72 are that it's this evil substance.
+7207.98 Nothing could be further from the truth.
+7209.38 It's an incredible substance.
+7211.01 Our physiology is dependent on it.
+7213.51 Our cognition is dependent on it.
+7216.23 Indeed, our mental and physical health
+7218.027 and our performance in
+essentially all aspects of life
+7220.64 is dependent on it,
+7222.01 and I hope I've been able to illuminate
+7223.793 some of the beautiful ways
+7225.25 in which the brain and
+the bodily organs interact
+7227.93 in order to help us regulate this thing
+7229.7 that we call sodium balance,
+7231.1 and the fact that we
+have neurons in our brain
+7233.21 that are both tuned to the
+levels of salt in our body
+7237.55 and positioned in a location in the brain
+7240.17 that allows them to detect
+the levels of salt in our body
+7242.97 and to drive the intake
+of more or less salt
+7246.17 and more or less fluid
+and other electrolytes
+7248.92 really just points to
+the beauty of the system
+7251.5 that we've all evolved
+7252.79 that allows us to interact
+with our environment
+7254.74 and make adjustments
+7255.76 according to the context of
+our daily and ongoing life.
+7259.0 If you're learning from
+and/or enjoying this podcast,
+7261.38 please subscribe to our YouTube channel.
+7263.28 That's a terrific zero-cost
+way to support us.
+7265.72 In addition, please
+subscribe to the podcast
+7267.93 on Spotify and/or Apple
+7270.47 and on Apple, you have the opportunity
+7272.3 to leave us up to a five-star review,
+7274.1 and you can also leave us a comment.
+7275.98 The best place to leave
+us comments, however,
+7277.94 is on the YouTube channel.
+7279.5 There, you can make suggestions
+7280.73 about future podcast guests
+that you'd like us to interview,
+7283.46 future podcast topics that
+you'd like us to cover,
+7286.07 and, of course, you can give us feedback
+7287.78 about the content of
+this or other podcasts.
+7290.46 We do read all those comments.
+7292.62 Please also check out our sponsors
+7294.03 mentioned at the beginning
+of today's episode.
+7295.84 That's the best way to
+support this podcast.
+7298.07 We also have a Patreon.
+7299.51 It's patreon.com/andrewhuberman,
+7302.43 and there you can support the podcast
+7304.2 at any level that you like.
+7305.74 During today's episode,
+7306.8 and on many previous episodes
+of the Huberman Lab Podcast,
+7309.63 we discuss supplements.
+7311.57 While supplements aren't
+necessary for everybody,
+7313.74 many people derive
+tremendous benefit from them
+7315.98 for things like enhancing
+sleep and focus and so on.
+7320.29 One issue with supplements, however,
+7321.69 is that the quality of
+supplements varies tremendously
+7324.75 from one brand to the next.
+7326.24 For that reason, we've partnered
+with Thorne, T-H-O-R-N-E,
+7329.22 because Thorne supplements
+7330.98 are of the absolute highest quality
+7333.12 in terms of the ingredients they include
+7334.89 and the precision of the amounts
+7336.41 of the ingredients they include,
+7337.76 meaning what's listed on the bottle
+7339.38 is what's actually
+contained in that product.
+7342.03 They've partnered with
+all the major sports teams
+7343.85 and with the Mayo Clinic,
+so trust is very, very high
+7346.59 with respect to the
+quality of Thorne products.
+7348.78 If you'd like to see the
+Thorne supplements that I take,
+7351.07 you can go to Thorne,
+7352.03 that's thorne.com/u/huberman,
+7356.64 and you can get 20% off any
+of those Thorne supplements.
+7359.9 In addition, if you navigate
+deeper into the Thorne site
+7362.45 through that portal,
+thorne.com/u/huberman,
+7365.94 you can also get 20% off
+7367.72 any of the other supplements
+that Thorne makes.
+7370.62 If you're not already
+following Huberman Lab
+7372.39 on Instagram and Twitter, please do so.
+7374.77 There, I cover science
+and science-based tools
+7377.23 that sometimes overlaps with
+the content of this podcast,
+7380.15 but sometimes is distinct from
+the content of this podcast.
+7383.73 We also have a "Neural
+Network" newsletter.
+7386.05 The "Neural Network" newsletter
+comes out once a month.
+7388.33 It is zero cost.
+7389.84 You sign up for it by
+providing your e-mail.
+7391.61 We do not share your e-mail with anybody.
+7393.92 The privacy policy is made very clear,
+7395.96 and you can sign up for the
+"Neural Network" newsletter
+7397.92 by going to hubermanlab.com,
+just going to the menu,
+7401.27 scroll down to "Neural
+Network," and you can sign up,
+7403.65 and even without signing up,
+7404.79 you can access some of
+the previous newsletters
+7406.86 if you'd like to see what they are like.
+7408.73 We include short summaries from podcasts,
+7411.09 some key takeaways, and
+some resources and tools
+7413.54 that you won't find anywhere else.
+7415.57 Thank you once again for joining me today
+7417.49 to discuss the neuroscience
+and the physiology around salt
+7421.6 and its many incredible
+influences on our brain and body,
+7425.18 and last, but certainly not least,
+7427.56 thank you for your interest in science.
+7429.2 [authoritative music]

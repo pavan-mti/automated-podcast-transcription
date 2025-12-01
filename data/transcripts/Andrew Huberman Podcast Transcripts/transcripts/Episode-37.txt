@@ -1,0 +1,4638 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.28 where we discuss science
+3.72 and science-based tools for everyday life.
+5.766 [upbeat music]
+9.36 I'm Andrew Huberman,
+10.38 and I'm a Professor of
+Neurobiology and Ophthalmology
+13.29 at Stanford School of Medicine.
+15.27 Today, my guest is Ido Portal.
+17.61 Ido Portal is somebody who
+truly defies formal definition.
+21.93 He is, however, accredited by many
+23.82 to be the world expert
+in all things movement.
+27.3 Movement is one of the more fascinating
+29.1 and important aspects
+of our nervous system.
+31.5 In fact, it was the great
+Nobel Prize winner Sherrington
+34.71 that said, "Movement is
+the final common path."
+37.38 And what he was referring to is the fact
+39.81 that so much of our nervous
+system is dedicated to movement
+43.05 and, in particular, that
+the human nervous system
+45.72 can generate the greatest
+variety of forms of movement.
+49.29 We can run, we can jump, we can crawl,
+51.27 we can move at different speeds.
+53.04 Far more variation in movement
+55.41 and different types and speeds of movement
+57.18 than any other animal in the
+animal kingdom can perform.
+61.53 My interest in bringing Ido
+Portal onto this podcast
+63.87 stemmed from a discussion about just that,
+65.94 about Sherrington and the
+enormous range of movements
+68.79 that humans can engage in.
+70.23 Ido is both a practitioner
+and an intellectual.
+73.53 We all know what a practitioner is,
+74.97 it's somebody who walks the walk,
+76.32 who actually performs the thing
+78.3 that they are knowledgeable about.
+80.34 And indeed, Ido has studied capoeira,
+83.31 a number of other martial arts,
+84.63 dance, gymnastics, various forms of sport,
+87.48 he's trained top athletes
+like Conor McGregor,
+90.24 and he has many, many
+other credits to his name
+92.76 as a practitioner and teacher.
+95.16 However, he is also a true
+intellectual of movement.
+98.94 I define an intellectual as somebody
+101.13 who can both think about
+and talk about a subject
+104.31 at multiple levels of granularity
+106.41 that is with exquisite detail
+108.51 and with exquisite simplicity
+depending on their audience
+111.96 and depending on the topic at hand.
+113.61 And as you'll soon hear
+from my discussion with Ido,
+116.31 he is both a practitioner
+and a true intellectual
+120.06 of all things movement.
+121.53 Today, through our discussion,
+123.12 you will learn how the nervous
+system generates movement,
+126.12 and the different forms of movement,
+127.47 the different speeds of movement.
+129.0 You're also going to get
+an incredible insight
+131.25 through Ido's mind and eyes
+of how movement can serve us
+135.6 in the various context of life.
+137.7 Not just in sport, not just in exercise,
+140.49 but in every aspect of our lives
+142.83 from the time we get up in the morning
+144.24 until the time we go to sleep at night,
+146.19 how we engage with others,
+how we engage with ourselves,
+148.98 indeed, how movement even informs
+151.02 relationships of different kinds.
+153.54 I found our discussion to be
+one of the most enlightening
+156.66 and interesting discussions
+that I've ever had,
+158.76 not just about movement, but
+about the nervous system.
+162.12 I can assure you that by
+the end of this episode,
+164.52 you will not only learn a
+tremendous amount about movement
+167.85 through the eyes and mind of
+the one and only Ido Portal,
+171.39 but you also will learn a
+tremendous amount of neuroscience
+174.99 about how the cells, and
+circuits, and hormones,
+177.3 and neurotransmitters of your body
+179.04 assist in creating the
+various forms of movement
+181.653 that you can generate,
+183.03 that you're trying to learn and generate,
+185.04 and that perhaps you should think about
+187.26 trying to learn and generate.
+188.88 And indeed, you'll learn
+some protocols and tools
+190.89 for how to do that.
+192.0 In science, we have a phrase,
+193.59 actually it's a title,
+194.82 that's reserved for only
+the rarest of individuals,
+198.33 we say that somebody is an n-of-1,
+201.03 meaning a sample size of one.
+202.95 And as you'll soon learn,
+204.54 Ido Portal is truly an n-of-1.
+207.36 Before we begin, I'd like to
+emphasize that this podcast
+209.88 is separate from my teaching
+and research roles at Stanford.
+212.49 It is, however, part
+of my desire and effort
+214.41 to bring zero-cost to consumer information
+216.27 about science and science-related tools
+218.04 to the general public.
+219.39 In keeping with that theme,
+220.44 I'd like to thank the
+sponsors of today's podcast.
+223.11 Our first sponsor is Athletic Greens.
+225.27 Athletic Greens is an all-in-one
+226.74 vitamin, mineral, probiotic drink
+228.63 that also has adaptogens
+and digestive enzymes.
+231.54 I started taking Athletic
+Greens way back in 2012,
+234.297 and so I'm delighted that
+they're sponsoring the podcast.
+236.7 In fact, when people ask me,
+237.547 "What's the one supplement
+they should take?"
+239.79 I always say, "Athletic Greens
+241.14 because it covers all of those
+essential nutritional bases
+244.59 and the probiotics, adaptogens,
+and digestive enzymes
+247.86 are vital for things
+like the gut microbiome."
+249.99 Your gut microbiome is trillions
+of little microbacteria
+253.44 that live in your gut, and that
+support your immune system,
+255.66 your endocrine system, and
+the so-called gut-brain axis,
+258.3 which is important for mood and
+neurotransmitter production,
+260.97 a huge number of biological
+systems in your brain and body.
+264.57 Athletic Greens also taste great.
+266.01 I mix mine with water
+267.33 and I like a little bit of lemon juice
+268.59 or lime juice in there.
+269.52 As I mentioned, I drink it twice a day,
+271.29 usually once in the morning,
+272.67 during the phase of the day
+in which typically I'm fasting
+275.01 or around breakfast time,
+276.09 and then again in the afternoon
+or even in the evening.
+278.37 If you like to try Athletic Greens,
+279.66 you can go to athleticgreens.com/huberman
+282.33 to claim a special offer.
+283.8 They'll give you five free travel packs,
+285.45 which make it very easy
+to mix up Athletic Greens
+287.64 while you're on the road.
+289.23 And they'll give you a year
+supply of vitamin D3, K2.
+292.71 Vitamin D3 and K2 are
+important for endocrine health,
+296.64 for cardiovascular health,
+297.9 for calcium regulation, and so on.
+300.24 Again, that's athleticgreens.com/huberman
+302.82 to claim this special offer.
+304.41 Today's episode is also
+brought to us by ROKA.
+307.069 ROKA makes eyeglasses and sunglasses,
+308.91 they're the absolute highest
+quality and practicality.
+312.54 I've spent a lifetime
+working on the visual system,
+314.64 and I can tell you that your visual system
+315.99 has to contend with an
+enormous number of challenges.
+318.06 For instance, when you
+move from a shady area
+319.98 to a bright area, your
+eyes have to adapt to that.
+322.86 ROKA understands the various challenges
+324.66 that the visual system has to face
+326.01 and they've developed
+sunglasses and eyeglasses
+328.41 with all of that biology in mind.
+330.81 Their glasses were developed
+331.89 by two All-American
+swimmers from Stanford.
+334.14 And initially, ROKA
+sunglasses and eyeglasses
+336.54 were for athletes.
+338.25 They designed eyeglasses
+that then and still now
+340.92 will stay on your face if you get sweaty.
+342.45 You can wear them running,
+343.47 you can wear them cycling, et cetera.
+344.85 They're very lightweight,
+345.78 so lightweight in fact
+that most of the time
+347.13 you don't even remember
+that they're on your face.
+349.11 But ROKA eyeglasses and sunglasses
+350.76 also come in a terrific aesthetic
+352.29 so you can wear them anywhere.
+353.43 So, unlike a lot of so-called
+performance glasses out there
+355.59 that make people look like cyborgs,
+357.3 you can wear ROKA
+eyeglasses and sunglasses
+359.34 when exercising, to dinner, to work.
+361.86 Again, the aesthetics are really terrific
+363.66 and really adaptable to all
+those different environments.
+365.94 If you'd like to try ROKA glasses,
+367.47 you can go to ROKA, that's roka.com,
+370.17 and enter the code HUBERMAN to
+get 20% off your first order.
+373.59 Again, that's roka.com,
+375.51 enter the code HUBERMAN at checkout.
+377.58 Today's episode is also
+brought to us by Helix Sleep.
+380.25 Helix Sleep makes mattresses and pillows
+382.38 that are customized to your sleep needs.
+385.26 I've talked a lot on this podcast,
+386.697 and on another podcast,
+and on social media
+388.71 about the essential need for sleep.
+390.78 Put simply, sleep is the
+foundation of all mental health,
+393.75 physical health, and performance.
+395.79 Just a few nights or even
+one night's poor sleep
+397.86 can really hinder your mental health,
+399.63 physical health, and performance
+in all aspects of life.
+403.14 Helix has customized sleep products,
+406.02 that is mattresses and
+pillows that are designed
+408.27 to your sleep needs.
+409.38 And you can figure out
+what those sleep needs
+410.73 are very easily by going
+to the helix website,
+413.1 they have a quiz, it takes
+just about two minutes,
+415.08 and ask you questions like
+do you sleep on your back,
+417.27 your side, or your stomach?
+418.14 Do you tend to run hot or
+cold during sleep, et cetera?
+420.57 Or maybe you don't even know
+the answers to those questions,
+422.31 that's fine too,
+423.143 that's an option that
+you can answer as well.
+426.03 You take the brief two-minute quiz
+427.53 and then Helix will match you
+429.15 to the ideal mattress and pillow for you.
+431.52 I matched to the so-called Dusk Mattress.
+434.22 I started sleeping on that
+well over a year ago now,
+436.41 and it's the best sleep I've ever had.
+437.91 I'm sleeping much longer and much better
+441.51 through the entire night.
+442.59 And as a consequence,
+I'm feeling much better,
+444.33 more clear, more physically
+alert, et cetera,
+446.67 throughout the day.
+447.81 If you're interested in
+upgrading your mattress,
+449.4 go to helixsleep.com/huberman.
+451.89 You can take that two-minute quiz
+452.97 and they'll match you to a
+customized mattress for you,
+454.92 and you'll get up to $200
+off all mattress orders
+457.92 and two free pillows.
+459.39 Again, if you're interested,
+460.223 you go to helixsleep.com/huberman
+462.48 for up to $200 off and two free pillows.
+465.3 And now, for my discussion
+with Ido Portal.
+468.6 Ido, thank you for coming here today.
+471.78 I've been looking forward
+to sitting down with you
+473.49 to talk for a very long time.
+475.8 I was first exposed to your work
+478.53 from my post or a podcast I believe
+482.22 of you had a group of people
+walking down handrails,
+486.3 literally the handrails along stairwells.
+488.22 And as a, I don't want to
+say former skateboarder,
+490.89 once a skateboarder,
+always a skateboarder.
+493.08 As a skateboarder, handrails
+have a particular meaning,
+496.62 but I was really struck by, first of all,
+501.21 the incredible range of
+skill that people had
+504.27 and yet their willingness to do this.
+507.48 Right, I think of handrails
+and walking on handrails
+509.79 or skateboarding on handrails
+as a potential hazard,
+512.25 and yet some of the incredible proficiency
+515.43 that some of the people
+there including yourself had.
+517.53 So, like many people, I
+was drawn to your practice
+520.077 and your work initially
+through a wide-eyed, "Wow."
+523.32 You know, they're doing
+some incredible stuff
+524.97 on natural objects,
+526.32 much as skateboarders or parkour folks do.
+529.14 But over the years, we've
+been in communication
+532.2 and I've come to realize that
+you're a true intellectual
+535.65 of the topic of movement.
+537.36 And I define it intellectual
+538.65 as somebody who can understand a topic
+540.69 at multiple levels of granularity,
+542.94 detail, general, specific,
+connections, et cetera.
+546.57 So, to start off,
+550.11 could you share with us your conception
+553.29 of this idea of movement?
+555.72 You know, obviously movement
+557.88 involves translation through space,
+560.85 but when you talk about
+a movement practice,
+563.91 what are you really thinking about?
+565.74 What are we talking about
+566.82 when we talk about a movement practice?
+570.63 - It's a big question.
+574.08 I somehow left the definition,
+578.88 the very tight definition
+of it out for myself
+583.89 because I felt it was
+starting to constrict me
+586.41 and be around me
+587.243 and I let the practice
+itself really define it.
+591.48 But I think part of
+our sense of everything
+595.95 is actually a sense of movement
+598.35 and then the stillness in
+the background of that.
+602.37 So, for me, this is the entity
+that I refer to as movement,
+606.57 and using that perspective for
+self-evolution development,
+612.84 of course, the physical side,
+614.61 but also movement of emotions,
+616.35 movement of thoughts, and
+any other movement streams.
+621.81 And by switching these layers
+624.21 and examining it from different places,
+626.25 you get a better and better sense of it.
+629.85 I think the visuals nowadays and media
+632.58 are what defines for people
+in the beginning things.
+636.24 And then little by little with experience,
+638.1 they can dive deeper, which is good.
+640.26 There is some aspect, sexy
+aspect or not so sexy aspect,
+645.09 and then you pull on it
+and you start to examine
+648.15 and dive deeper, and then
+you receive the gift of it,
+653.79 finding out more.
+656.01 - I heard you say once
+656.97 that we are not just a brain with a body,
+659.19 but we are a body with a brain,
+662.07 which I absolutely love
+because as a student
+665.28 and a researcher of the nervous system,
+667.41 I never think about the brain
+as its own isolated thing,
+670.77 I think about the nervous system
+671.603 and the fact that the
+brain and the spinal cord
+673.83 are connected to the body,
+674.663 and the body is connected
+to this, to the brain.
+677.787 And in every direction,
+679.29 it's everything truly is connected
+681.99 at the physical level,
+physiological level.
+685.02 Could you just share for a moment
+686.82 how you think about this
+body-brain relationship
+689.46 in terms of you mentioned
+movement of emotions,
+694.35 movement of the body,
+695.58 that you can't really separate the two.
+697.92 And for the typical person
+who's listening to this,
+700.98 they might not immediately
+understand what that means.
+704.07 Maybe it's something that
+has to be experienced,
+706.02 but when we think about
+the body and the brain
+709.62 and the whole thing working
+as one cohesive whole,
+712.44 what does that mean to you?
+714.059 Or put simply,
+715.86 when you do a movement practice
+what are you focusing on?
+719.82 Are you focusing on the
+movement of your limbs?
+722.04 I have to imagine that's true,
+723.18 but are you also focusing
+on how that makes you feel
+725.58 or how your feelings make you move?
+729.0 - Okay, okay, so some thoughts,
+734.01 I will try not to answer
+any of your questions
+736.92 during this interview,
+738.0 but I will definitely give some thoughts
+740.43 and then we can play with it.
+745.71 I think these definitions
+747.84 and, in general, the limitation of words
+750.87 ends up creating
+753.9 some kind of a corruptive process.
+756.987 You know, words corrupt us
+and corrupt our understanding.
+761.91 So, I think the brain-body,
+763.44 this Cartesian state of mind and thinking
+767.82 brought a lot of good, but
+also brought a lot of problems.
+772.11 And movement, for me,
+773.49 is the entity that ties
+everything together.
+776.52 It's the magic, it's the thoughts anima,
+780.231 it's when the coin spins
+783.0 and you see both sides
+appear at the same time.
+786.27 It's a beautiful analogy
+787.65 from a friend of mine, Dr. Rasmus Olme.
+792.33 So, the mind and body
+are one of those pairs,
+796.53 and I call it the
+movement/body/mind system,
+799.5 so it's when it's
+integrated, it's in motion.
+803.7 There is also a stillness
+that appears there, of course,
+806.34 and without it there can be no motion,
+808.86 but maybe that is a very good way
+813.87 to start to think of things.
+815.34 There is no really pure mental processes,
+818.25 cognitive processes.
+819.36 There is no pure physical processes,
+822.3 everything touches everything,
+824.31 there is a wholeness, and
+that wholeness is in motion.
+830.43 Yeah, the movement
+practice takes these beats
+833.91 and examined them.
+834.9 And here is a pragmatic thing,
+838.23 the scientist, the cerebral
+thinking about movement,
+843.27 this is important.
+845.76 The emotional side coloring,
+849.93 feeling the colors and
+the textures of motion.
+852.51 A lot of people who are involved
+with a movement practice
+855.03 never end up feeling motions,
+857.43 really focusing on how it makes you feel
+859.89 or how it feels itself.
+861.99 And then the actual movement, the action,
+864.54 so, it's action, emotion, and thought.
+867.51 And those are three streams of movement
+869.73 and they interlay together
+871.08 into this kind of a braided experience
+875.91 and whole experience.
+877.017 And I try to bring all these
+aspects into my practice
+880.322 and the way that I live my life.
+883.23 - I think most people who
+embark on a movement practice
+888.45 will first want to know
+which movements to do, right?
+892.56 Squats, planks, push-ups,
+896.91 pirouettes, right?
+898.56 Pick your movement, it
+could be any movement.
+901.32 Are there any sort of
+just basic entry points
+905.88 that you believe everybody
+should walk through
+909.21 as they embrace a movement
+practice the first time
+911.64 and maybe even every time
+they do a movement practice?
+914.4 I mean, earlier today I
+had the great privilege
+917.67 of being guided through a long
+series of movement practices,
+921.54 and yet, the first
+practice we did involve,
+923.91 at first anyway, stillness not movement.
+927.33 So, if you would, could
+you inform us how people
+931.65 should think about approaching
+a movement practice?
+934.98 What is the first layer of
+any good movement practice?
+940.11 - So, you touched the word movement,
+942.06 and it's important for me to separate it
+944.46 from the word Movement with a capital M.
+948.75 Movements are the containers
+950.88 and movement is the content,
+953.49 and the content cannot be carried
+956.04 in any way without containers.
+958.53 So, the first entry point
+is to choose containers,
+961.8 and then the second thing to make sure
+963.87 is to put specific content
+into those containers
+968.49 and then enjoy them.
+970.53 I tell people that it's
+like a cup of water
+972.99 and you're being handed that cup of water.
+974.67 And nowadays very often people
+will start to chew on the cup
+979.5 instead of drinking the water,
+980.94 making it yours and discard the cup.
+983.46 And then, maybe later you want
+to have bone broth or soup
+986.58 so you use a different container, a bowl.
+989.43 So, a movement practice to
+start can start from anywhere,
+992.52 it's a rhizome, it's an open system,
+996.36 it has no center, it's decentralized,
+998.73 and it can be approached from anywhere,
+1000.8 and that's its magic and
+that's the benefit of it.
+1005.39 Some people find the
+body a good entry point,
+1009.53 some people don't even
+enter from the body.
+1013.52 Sometimes you can enter
+from other perspectives
+1015.8 and then inside the body,
+1017.06 for example, where should we enter?
+1019.34 If we decided to take the body approach,
+1021.8 the spine can be a nice decision,
+1023.6 but some will choose just the pelvis.
+1026.72 Any one of those points are valid.
+1029.51 And then, playfulness
+can be an entry point,
+1031.97 an attribute, and this is so open.
+1035.06 So, I don't want to limit
+people and limit their minds
+1039.65 in the way that they
+engage with the practice,
+1041.57 but I also want to
+encourage the self-inquiry.
+1047.03 Am I doing movements practice,
+1049.37 or am I doing a movement practice?
+1052.22 - So, could you help
+me distinguish the two
+1054.05 a little bit further?
+1054.92 I think I understand the difference
+1056.12 between a sort of the
+noun versus the verbs.
+1059.06 And in some ways here we are
+dealing with the challenge
+1062.72 of the barriers that language present
+1065.78 to something that's physical, right?
+1067.04 I mean, indeed, there may not be a...
+1071.51 I have to assume
+1072.343 there is no perfect verbal
+language for movement.
+1075.56 There are certain movements
+that defy language.
+1077.63 I could say somebody jumped
+at a particular trajectory
+1081.14 at a particular speed and
+moved this limb and that limb,
+1083.48 but by fractionating it something
+is most definitely lost.
+1088.79 So, if someone wanted to,
+let's say, get in better touch
+1092.48 with their body, in quotes,
+1094.1 in order to explore the
+infinite space that is movement,
+1099.59 how might they begin to approach that?
+1101.6 Is it does it begin with an awareness,
+1103.85 with practice, or both?
+1105.92 - It begins with education.
+1107.067 You know, that's probably the
+most stable point of entry,
+1111.59 awareness to some something as a concept
+1114.548 that it is a concept,
+that there is validity,
+1118.52 or because sometimes people look for that
+1121.46 to looking at this
+entity, this open entity.
+1125.66 And that's part of the reason
+why answering questions
+1129.38 is not something I can do
+1133.61 or even attempt to do.
+1135.56 I believe in the power of
+the non-complete process,
+1139.88 like making this table,
+1143.0 but living something undone,
+1145.85 not perfecting the product, why?
+1148.34 Because it offers some kind of
+a dynamic nature of evolution
+1151.76 that naturally unravels from it.
+1156.74 Almost like sometimes I do it,
+1159.74 I count reps and I'll only count to nine
+1163.91 'cause it tends to leave
+people in the count
+1166.88 and it keeps going instead
+of giving them the 10.
+1169.79 - Everyone wants to end on 10. [laughs]
+1171.44 - Yeah, which is because of
+the decimal system, et cetera.
+1176.0 So, all kinds of things
+like that is also important
+1180.14 with the movement idea is to discuss,
+1182.78 to examine, to look, to taste, to try,
+1186.05 but then also not to try to capture
+1187.85 because if you like the
+invisible loop of Hoffstadt.
+1191.6 If you look at it too closely, it's gone,
+1194.51 but if you look away,
+1196.19 it functions and exists
+just like us very powerfully
+1199.67 and obviously gives us the
+experiences that we have.
+1204.77 So, when people enter movement practice,
+1207.83 it is about education,
+1209.75 bringing some awareness to
+the fact that they are living
+1213.62 in a body, that they are living in motion,
+1216.59 that their mind is a type of movement,
+1219.47 that their life is a type of movement.
+1222.26 Bringing attention to the
+movement of the emotions as well.
+1226.37 Bringing just attention to the fact
+1228.32 that things are in motion.
+1230.81 The Heraclitus panta rhei, all in flux,
+1237.38 nothing stops besides something
+that is the background of it
+1242.66 and allows it to express,
+1244.16 and this is the beauty of things.
+1246.23 And this for me is the movement practice
+1248.953 is this examination and bringing
+this awareness into things.
+1252.68 As we sit now here, I'm
+also aware of my body,
+1258.53 I'm also aware of the way
+that things make me feel,
+1261.14 the way that your face
+is communicating to me.
+1263.48 And I'm not just in some limited
+1268.7 and very verbal, overly verbal state
+1271.37 because it misses a lot
+of the beautiful flux.
+1275.39 - I'm going to inject some
+or project some ideas,
+1278.96 and perhaps you would tell
+me if they're ridiculous,
+1283.67 potentially useful, or useful.
+1286.4 As I understand what
+we're talking about now
+1289.13 and what we've discussed
+earlier is that movement
+1292.1 can and should be incorporated
+into one's entire life.
+1296.03 I've even heard you say
+1296.863 that even before getting
+out of bed in the morning,
+1298.73 one can experience movement,
+1300.86 and it doesn't necessarily
+have to be of the intimate kind
+1303.17 with somebody else, it's
+it can be paying attention
+1306.53 to the rhythm of one's breath,
+1307.91 or how you get out of the bed.
+1309.29 Or actually, in anticipation
+of you arriving here today,
+1312.41 I noticed that as I was
+going up and down the stairs
+1314.454 in this house, that I was injecting
+1318.92 a little bit of playfulness
+1320.03 in the way that I might
+have many, many decades ago,
+1322.46 but haven't for a very long time.
+1324.83 And I asked myself whether or not
+1327.5 that's what Ido is referring to
+1329.72 when he talks about
+threading this body awareness
+1332.75 throughout the day.
+1333.98 As opposed to, but of course not exclusive
+1336.68 from just saying I have 45 minutes,
+1339.14 I'm going to do movement practice
+1341.09 before I shower and have some dinner.
+1342.92 Right, I have to imagine both are helpful,
+1344.45 but in terms of moving through the day
+1345.92 and having bodily awareness,
+1348.86 clearly there are an
+infinite number of ways
+1350.45 one could do that,
+1351.283 maybe you could just share a few.
+1352.58 You mentioned, I mean,
+one could pay attention
+1355.07 to their breath, could
+pay attention to posture.
+1357.92 And this notion of play
+is a very attractive
+1360.62 or as we say in science,
+it's a sticky concept,
+1363.11 a concept that kind of draws one in.
+1365.54 Maybe if you would, could you
+share with us just some ideas
+1368.36 to get people thinking about
+1369.5 or maybe even incorporating
+1371.15 movement practice into their day,
+1373.43 and maybe even touch on the potential role
+1376.64 of play or playfulness?
+1378.32 - Okay.
+1381.53 Yeah, those are some good directions.
+1384.98 I think one thing is this
+what you call wordlessness.
+1389.141 I have been recommending to
+people non-verbal experiences
+1394.25 and the awareness of the body,
+1396.89 which is not really the awareness
+of the body, as you know,
+1400.73 not purely or not fully.
+1403.37 The awareness of motion is
+a very good way to start
+1408.45 to bring awareness to that layer.
+1411.23 And that layer will start to get clarified
+1413.36 more and more and more,
+the more you practice.
+1415.157 And then, it will enable for most people,
+1417.83 a safe haven away from many
+states and difficulties,
+1422.0 and will unlock a lot
+of potential attributes,
+1427.34 and strength, and freshness,
+and a lot of beautiful things.
+1432.53 Really one of the really perspectives
+1435.65 about who we are comes from a person
+1438.98 who influenced my thinking a lot,
+1440.33 Moshe Feldenkrais, the
+late Moshe Feldenkrais.
+1443.03 And he talks about the body
+as the core three elements,
+1447.08 the core nervous system,
+1449.81 two is the mechanical system
+of muscle, skeleton, et cetera,
+1455.12 and the third is the environment,
+1457.28 which is a unique way to look at it.
+1460.22 And he talks about how the nervous system
+1462.11 is both receiving
+information from the outside
+1466.31 and from the inside.
+1467.27 And in the first years of life,
+1469.13 you work a lot on differentiating those,
+1473.42 what is me and what is not me?
+1476.39 And I think movement,
+when you feel movement,
+1479.48 you feel the movement of the outside
+1482.24 that is, of course, arriving
+to you and receiving this,
+1485.45 and also your own internal movement.
+1487.337 And the same can be said for stillness.
+1490.94 So, bringing the attention
+into those layers,
+1494.39 it's a tricky thing.
+1495.56 It's one of those elusive
+things to look at,
+1498.83 but it's definitely of huge
+benefit to start to train it,
+1502.76 start to practice it, to
+feel not our thoughts,
+1507.59 not necessarily our body,
+1510.47 but to start to recognize
+1512.72 the dynamic nature, the flux, the motion,
+1515.9 and it occurs in all these layers.
+1518.57 So, you will need to find
+it in multiple locations
+1522.86 before you start to more
+and more make it your own,
+1527.24 make it really yours.
+1529.64 How, for example,
+1532.01 simple, pragmatic things
+I used to do this,
+1534.266 I spent some time in Hong Kong,
+1537.169 I would need to get my practice in,
+1539.48 but I'm really turned
+off from commercial gyms
+1543.68 and there is not a lot of
+nature accessible there
+1546.74 so I would just strap on my bag
+1548.9 and I would walk the streets of Hong Kong,
+1550.91 which are very crowded
+1552.29 and then I would try to
+avoid touching anyone.
+1555.74 And it would be like two hours
+1557.75 of just like moving, involved,
+1559.85 fully involved, fully in my body,
+1561.47 and experiencing beautiful things,
+1564.38 and enjoying and developing myself as well
+1566.99 in all kinds of scenarios,
+1568.25 up and down in the escalators and off.
+1571.55 So, this is an example
+of a way to practice.
+1576.59 And then, the way that we are sitting
+1579.35 like these chairs, for example,
+1581.39 our chairs are not very dynamic,
+1582.95 but there is rocking chairs, right?
+1584.48 And this is something I
+recommend for a lot of kids
+1587.81 like in schools, I used
+to rock on the chair,
+1590.93 which is very common.
+1592.294 I'm sure-
+- I used to put my skateboard
+1593.36 underneath my chair and
+roll it back and forth,
+1595.19 and the teacher would tell me to stop.
+1597.59 And I would just slowly little by little
+1599.09 trying to get the most
+subtle movement I could
+1600.71 without them telling me
+1602.36 they were going to take it away, or try.
+1604.43 - Which is probably
+horrible, horrible advice
+1607.25 and instruction just like sit up straight
+1610.04 and chew with your mouth closed
+1611.81 because they remove a
+lot of the self-education
+1616.22 and a lot of the self-development
+1617.78 and the practical discoveries
+that are necessary
+1620.45 and even will damage focus
+1623.42 and thinking processes in some ways.
+1628.88 So, for example, I would make
+the chairs even more mobile
+1634.187 and I would support more motion,
+1636.74 and then I would be able
+to bring attention there,
+1639.2 but I would also be able to
+bring attention away from it
+1642.26 into other things.
+1643.7 And it keeps refreshing me
+so I don't become stale,
+1647.78 the water doesn't stand,
+1649.22 this is the beauty of movement.
+1650.957 So, you can focus for long periods of time
+1653.36 and do incredible things with the mind,
+1655.1 with focus, with awareness, attention.
+1657.68 And it's like we're skin in the game,
+1660.26 so I'm not talking as some meditator
+1663.02 and he's describing the
+act of being very focused,
+1666.65 but then I put a stick on
+the edge of his fingers
+1669.32 and I tell him, "Balance it."
+1670.52 And everyone can do it for 10 seconds
+1672.86 and I tell him, "Okay,
+now hold it 10 minutes."
+1675.53 And you see that the skill has,
+he has no skin in the game.
+1679.85 It wasn't developed in various scenarios,
+1682.88 but so there is a delusion
+that start to develop
+1686.397 and that's how movement
+keeps me very honest
+1691.19 and humble in the way that I view humility
+1694.67 and in a way that protects me
+1697.76 and keeps me, yeah, it keeps me fresh.
+1704.51 - I loved the example of moving
+through the crowded street
+1707.84 with a backpack because of the way
+1709.13 in which it's completely adaptive
+1710.78 to the situation you happened to be in
+1712.91 and highlights the fact
+that one doesn't need a gym
+1716.48 or any specific scenario,
+1719.72 although we will certainly touch
+1721.28 on ideal learning
+circumstances for movement
+1723.83 and some of the work that
+you're doing, of course.
+1727.64 - The less of your own personal practice,
+1730.55 and understanding, and
+knowledge you've done,
+1733.61 the more toys you need.
+1736.13 The more you've really worked on yourself,
+1740.06 the more high-tech you are.
+1741.8 The more low-tech are your tools,
+1743.81 the more high-tech you are.
+1745.28 And this is the most advanced technology
+1748.76 by far on this planet.
+1750.68 With all the advancement, it
+doesn't even start to scratch,
+1753.969 and you know it,
+1754.82 from the way that we understand the eyes
+1757.58 all the way to with all the
+respect to the Boston Robotics,
+1763.1 a 5-year-old motion-
+1764.78 - Yeah, yeah.
+- Movements.
+1766.94 Or animal motion with very underdeveloped,
+1770.21 still relatively to us as systems.
+1773.09 So, important to remind ourselves.
+1777.05 - A lot can be done with
+the body and gravity
+1780.2 as I-
+- Floor, a piece of floor,
+1781.46 a piece of wall, a corner of a
+room is a beautiful scenario,
+1785.63 which you can become
+discover in and play in.
+1790.34 And, but we are not so developed
+1793.19 so we don't see those options.
+1795.05 And this is something
+that I try to stimulate,
+1796.97 and that's why I made it a point to avoid
+1799.79 any of the big sponsorship
+1802.73 and high-tech tools.
+1805.04 And I on point brought a stick
+1808.1 into big conventions
+1810.62 and/or sometimes I use
+a shirt with holes in it
+1815.633 that just like a used
+shirt as a point to make
+1818.3 when I'm addressing a crowd to keep things
+1822.535 where it's important and it's important,
+1826.37 we are important, and our
+experience is important.
+1830.12 And we have to be very careful,
+1832.58 these habits and these directions,
+1836.42 they come from many times good intention,
+1838.76 but they are the devil many times,
+1842.15 they turn into the devil,
+1843.65 just like our technology nowadays
+1846.2 and what is happening with
+people and with depression,
+1848.99 with meaning, meaninglessness,
+1853.16 also with the body in
+various perspectives,
+1855.47 or even I will also flip it
+into high performance sports
+1860.18 and their price.
+1862.52 Because for me, this is
+not a movement practice,
+1864.71 it erases the person in the center of it.
+1867.83 And then came places like
+skateboarding or break dancing
+1872.9 where somebody with a disability
+1875.27 becomes the best in the world,
+1877.01 turns it into the biggest advantage,
+1879.2 but you would never be
+accepted into gymnastics class,
+1882.38 and I love that.
+1884.15 And that change
+1885.83 to place change in the
+center, it's important.
+1891.2 - You touched on mention of a few sports,
+1894.95 maybe it was Charles Poliquin,
+1896.18 or maybe it was another
+trainer that I heard once say
+1900.23 that, "For kids, one of the
+worst things they can do
+1904.34 is overspecialize in a particular sport."
+1907.073 The idea being that it leads
+to improvements in performance
+1911.57 in a very narrow domain,
+1912.95 but they raised the idea
+1916.34 that it could perhaps also constrains
+1918.92 the development of the nervous system,
+1920.21 such that certain emotional states,
+1922.686 certain intellectual abilities
+will forever be shut off
+1926.3 because of the intense plasticity
+that occurs early in life.
+1930.14 The more I learn from you,
+1931.7 the more I'm thinking that that statement
+1933.29 really should be extended to all of life.
+1935.39 And I love to remind people
+1938.15 because I started off as a
+developmental neurobiologist,
+1940.4 that development doesn't start and end,
+1942.29 you don't have childhood and adulthood.
+1944.18 Our life is one long developmental arc
+1945.95 from birth until death,
+however long that might be.
+1948.71 So, if one is going to be anti-specialist,
+1952.82 maybe even we call that a generalist,
+1955.7 what does that look like?
+1956.69 What are the different
+domains of movement practice?
+1959.63 And as I asked this, I
+realized I am in serious danger
+1964.76 of fractionating movement
+into a list of words
+1968.3 like strength, and speed, and
+explosiveness, and suppleness,
+1972.083 a word that I've heard you use before.
+1974.48 And yet, I think for most people
+1975.53 because we think in words, often,
+1979.85 some of those categories can be useful.
+1981.56 So, let's say I was going to
+embark on a movement practice
+1983.63 or a child was going to
+embark on a movement practice
+1986.51 and either throughout the day
+1988.4 or for a dedicated period of time,
+1990.92 what are the sorts of
+categories of movement
+1992.78 that I might want to think about,
+1994.79 ballistic movement, smooth movement?
+1997.1 Maybe you could just enrich us
+1999.08 with some of the landscape around that.
+2001.93 - Okay, first I'll address the first part
+2004.96 that you mentioned.
+2006.67 And I've learned from
+you about certain changes
+2011.35 in the way that things
+develop later in life
+2015.31 versus earlier in life.
+2016.99 And you're right, it is something
+2018.55 that Charles Poliquin also mentioned
+2020.137 and I learned from back in
+the day as well from him,
+2024.1 which can seem dark a
+bit and kind of hopeless,
+2027.85 but then you should go beyond that.
+2033.82 One thing that does seem to appear
+2039.22 for me when I look around
+2041.71 is these the concepts of unique postures.
+2048.16 And I think this is true
+for postures of thought,
+2052.27 emotional postures, and movement postures.
+2056.14 Truly, earlier in life,
+2058.78 we are creating these unique postures
+2062.77 and they get into these drawers
+2066.25 or like language letters.
+2069.91 Later in life, the process moves more
+2073.66 towards integration of
+these unique postures
+2076.39 into all different organizations.
+2079.18 The beauty of it is that you
+can use very few postures
+2081.88 to create many possibilities,
+2084.28 just like a lib needs
+a search for a language
+2087.294 that contain one symbol only versus two,
+2092.14 which he discovered.
+2096.186 And this is something that is often seen,
+2101.23 like you take someone who
+moves in a certain way
+2104.95 and you teach them all these
+new sports or techniques,
+2108.25 but essentially if you look
+deeply and you're sensitive,
+2111.52 you see it's the same postures
+2114.07 that he will have to work
+with till the end of his life,
+2118.06 the same thinking postures.
+2120.61 And this is really problematic,
+2124.3 where we are not freeing
+2128.05 the mind beyond this,
+2133.99 how would I say, a scaffolding of thinking
+2137.86 and we are actually
+letting go of the content.
+2140.35 We get more and more focused
+2143.26 on the way of thinking
+2148.45 versus the thinking itself,
+2150.34 or habitual ways and forms of thinking,
+2154.63 associated thinking, et cetera.
+2157.27 And emotionally the same,
+2158.65 we are constructing
+these emotional postures
+2161.14 and then we have to go
+through the rest of our lives
+2163.36 working with that.
+2165.04 So, this is the dark side, right?
+2167.62 But of course, there are
+always possibilities,
+2171.91 both I think invading this early system,
+2176.59 to some extent, even if it's
+5%, or 7%, or whatever percent,
+2181.99 and also on the freeing yourself
+2184.93 of going beyond all postures period.
+2188.95 Working with the postures you have,
+2190.96 but towards a postureless
+way of doing things.
+2195.34 So, this is something interesting to work
+2198.4 when people work with movements,
+2200.47 but finally are able to go into movement
+2204.52 and this magic starts to happen,
+2206.26 and then the techniques fall
+apart and something appears,
+2211.63 and it's a face change,
+it's a transformation,
+2217.54 it's a binary moment.
+2219.4 There is a jump there for sure,
+2220.708 and it's very rare to see both
+in thinking, and emotionally,
+2225.67 and other ways, we have many names for it.
+2228.337 And some talk about enlightenment
+2230.65 and some talk about all kinds
+of processes related to it.
+2233.347 And I think most of them
+2234.94 are shadows of the sun,
+2238.69 but it's not the sun itself really.
+2241.93 And then, talking about ways
+of thinking about movement,
+2245.56 this is where I use something
+I called my slice and dice
+2250.0 because of the problem of using words,
+2252.28 and definitions, and categories,
+2253.81 I try to create a lot of them
+2256.69 and I write them on the paper
+and then I crumble them,
+2260.77 throw them into the bin, and
+I keep doing it all my life.
+2264.91 The writing them down
+and the geeking on it
+2267.94 is very important, also
+very important to let it go.
+2272.26 I tell people what you
+forgot is not the same,
+2277.09 forgetting is not the
+same as never knowing it.
+2279.97 The crumbling and throwing
+away is a form of forgetting,
+2283.45 but it leaves some kind of a homeopathic
+2288.4 trace behind.
+2290.05 So, let's take some slice and dice,
+2292.75 and try to look at it.
+2294.49 Here is a physical one,
+contraction, relaxation.
+2300.46 That's a spectrum,
+2301.9 and pretty much everything
+falls on this spectrum.
+2304.87 Also, in terms of analyzing
+a person or yourself,
+2308.47 you can tell me if you
+feel closer to this side
+2311.8 or closer to that side,
+2313.93 and then it allows you to
+examine your practices.
+2316.24 How many of the practices are
+moving you towards balance
+2320.98 and how many are it's your addiction
+2323.05 of just doing what you're
+good at versus what you need?
+2327.91 Here is another example, physical culture.
+2331.24 So, we have the dense realm
+2333.94 working with internal concepts
+2337.72 and expressing them, abstract
+concepts, expression.
+2343.39 Second perspective, the Marshall concept,
+2346.0 but not in the sense of just fighting,
+2347.83 but also partnering,
+working with another person,
+2351.803 a dynamic entity that is
+communicating with you.
+2355.42 The third one is I call the elements,
+2357.46 working with the environment.
+2361.51 The next one is a somatic
+one, is the internal practice.
+2365.86 And of course, there are all gray zones,
+2367.93 and another one is object manipulatory,
+2371.29 which you can think of it
+also as the environment,
+2373.15 but it's more small objects,
+2375.43 heavy objects, many objects, few objects.
+2378.04 And then you can look
+at this way of thinking,
+2380.71 and you can say, "Oh, I
+have many of my practices
+2383.74 in this direction, but not,"
+2385.39 and you can draw it for yourself.
+2387.79 So, that's another perspective,
+2389.41 and this way I use dozens of perspectives.
+2393.1 And with the years,
+2395.14 it gives people a sense
+of where they want to go,
+2397.72 how they want to do it,
+2398.95 and what they need to address
+2400.48 versus what they like
+to address, et cetera.
+2402.91 Is it helpful?
+2403.743 - Very helpful, those different
+bins are very helpful.
+2408.16 I really appreciate that you mentioned
+2410.26 that people will often
+practice what they're good at
+2412.93 as opposed to what they need.
+2414.7 In gym culture, we refer to this
+2418.45 as the guy that always skips
+leg day type of person, right?
+2422.14 You know, big upper body, skinny legs,
+2423.91 or you you'll see people
+2425.35 that have these enormous thick torsos
+2427.36 and they're bench pressing all day,
+2428.65 but they clearly need to pull on an object
+2431.56 every once in a while
+to create some balance,
+2433.42 but they don't do it because
+they, for whatever reason,
+2437.68 they have an obsession with moving
+2439.54 greater and greater poundage
+or something like that,
+2442.93 which in certain sports like power lifting
+2445.81 or aesthetics aren't the goal,
+2447.61 and it's simply to push
+more weight off one's chest
+2449.86 that you could imagine
+2450.693 that there's something beneficial there.
+2452.26 However, I think that
+it's really important
+2455.92 in intellectual endeavors
+and in movement endeavors,
+2459.97 if I understand correctly,
+2460.96 to bring oneself to a
+place of real challenge
+2463.9 on a regular basis.
+2465.52 In fact, earlier today,
+2466.78 I was in a state of constant challenge
+2468.25 'cause it was all new to me.
+2469.96 And as much as I told
+myself, "Beginners' mind,
+2472.48 beginners' mind, beginners' mind,"
+2474.04 it's hard, I confess,
+to not want to do well,
+2477.25 to perform well, right?
+2478.51 And I think that's a
+natural and healthy thing.
+2481.18 Yet-
+- Not only natural,
+2482.95 it is necessary,
+2484.87 but I want you to keep it on that side
+2488.23 and to bring something to balance it.
+2491.35 If there is not this challenge,
+the process will not work.
+2495.88 It has to be this scale.
+2497.47 And you're talking about
+scales of pain, pleasure,
+2500.26 and this is another scale.
+2502.93 And this discomfort again is necessary
+2506.38 and should be recognized as,
+"I'm in the right place."
+2509.92 When it becomes too high
+and I'm unable to resolve,
+2514.63 to make any progress,
+2517.81 I went overboard, but
+when it's not present,
+2521.74 I don't do nothing here.
+2523.42 Nothing that I'm truly interested in,
+2525.34 I'm just gratifying myself, wankery.
+2528.46 It's in essence,
+2533.11 it's not about searching
+for the discomfort,
+2536.68 but it's a marker.
+2539.2 And I think the question
+2543.76 should be who am I serving?
+2546.64 'Cause people do not serve
+themselves, in essence,
+2551.02 they serve part, parts of it,
+2553.941 some kind of a fraction of themselves.
+2557.83 And this separation of
+oneself from oneself,
+2561.61 and this is also a result of
+the practice, a good practice.
+2567.37 I think maybe the biggest gift I received
+2570.58 from the practice is I can say
+2574.21 although it will take
+maybe a certain context,
+2578.17 I am not my friend.
+2581.53 At times I am,
+2582.91 but many times I am not my friend.
+2585.13 And by creating this separation,
+2587.2 I can assume a certain stability
+2590.56 in the face of everything
+2593.02 all the way up to our
+own mortality and death,
+2596.35 which is, and maybe beyond, who knows?
+2600.58 - Yeah, it was a striking
+moment for me earlier today
+2604.21 when I was really challenged
+2605.8 with one of the practices we were doing,
+2608.98 and you said, "This is
+exactly what I experienced
+2612.37 this morning, Andrew,"
+that's what you said.
+2615.19 And I couldn't imagine that
+you were having challenges
+2617.44 doing what I was attempting to do.
+2618.97 And of course, you were,
+2619.803 and I believe what you were referring to
+2621.25 is that you had put yourself at that edge
+2623.77 earlier in the day in which
+you were making failures,
+2626.89 you were failing to execute
+2628.63 the way that you were
+attempting to execute movement.
+2631.93 I should just to inject some neuroscience
+2634.39 and neuroplasticity there,
+I can't help myself,
+2636.76 it is what I do after all.
+2639.07 There are beautiful data
+in animals and humans
+2641.86 showing that in the seconds and minutes
+2645.16 after a failed attempt at a
+motor execution of something,
+2649.21 the forebrain is in a
+heightened state of focus.
+2651.73 And when you hear it,
+suddenly makes perfect sense,
+2654.46 of course, why would the
+nervous system change
+2656.71 unless it got a cue to change?
+2658.9 And the cue almost always comes
+in the form of frustration,
+2663.31 the [imitates buzzer] or
+as we said earlier, nah,
+2666.73 the nah signal
+[Ido laughing]
+2668.35 is the one that preps you
+to extract more learning
+2671.92 from the subsequent trials.
+2673.69 And yet, for a lot of people,
+2675.52 they feel that ugh,
+that failure to execute,
+2678.46 or even to approximate execution
+2682.12 and they feel and experience
+that ah negative signal,
+2686.5 and they lean out of the practice,
+2689.02 they start to depart either
+mentally or physically or both.
+2692.59 And if there's anything I
+think that perhaps we can offer
+2695.92 is this understanding that that edge
+2697.51 as some people call it
+2698.38 or that failures aren't just necessary,
+2701.23 they are part of the learning process,
+2703.75 they are the entry gate
+to neuroplasticity.
+2707.71 - Yes, contextualizing
+or recontextualizing
+2712.3 that sensation is
+something I work a lot with
+2715.1 and I just remind people
+2716.83 and I also reminded to myself,
+2719.02 and if it wasn't difficult
+2720.67 and we didn't need to
+redo it again and again,
+2723.7 we wouldn't be again
+on this correct scale,
+2727.27 which is dynamic and moving
+just like rolling downhill.
+2731.41 So, there is definitely a
+necessity to succeed, to orient,
+2735.7 there is certain aspects
+that you want to achieve,
+2739.24 but then there is also
+the letting go of it
+2743.68 and the deambitioning of it.
+2745.94 And within that tension,
+2749.32 the plus and the minus comes movement,
+2751.48 and that that's how I did it.
+2752.857 And again, if I stretch it too far away,
+2755.14 or if I increase one of them too much,
+2757.227 then I would have some issues,
+2759.13 but you will with practice
+2761.71 learn to recognize the
+optimal point of progression.
+2767.14 Of course, it takes many years
+2769.547 and a lot of play and
+exposure to get a sense of it,
+2774.25 regardless of the layer
+in which it is applied.
+2778.09 So, I'm sure in your field
+and in your pursuits,
+2782.26 you are already aware of it
+and applying it in your life,
+2786.19 talking about focus, talking
+about ways of thinking,
+2789.13 creativity, et cetera.
+2790.96 But then it's enough that I
+pull into another perspective
+2794.08 and you will see that
+people are specialists,
+2796.45 and then they don't have
+really the real essence
+2800.562 of the concept.
+2802.15 It's not theirs, it's
+applied specifically.
+2805.78 The one who changes all the time
+2808.15 gets the general component
+2809.77 because what appears
+when everything changes?
+2811.923 That is that new entity.
+2814.45 Everything changes, something stays.
+2818.11 That's what we want to get,
+2819.19 this concept and this understanding.
+2822.85 - I've heard the statement before,
+2824.32 we are just a meat vehicle, right?
+2826.36 We're just a sack of cells
+2828.46 and it's I truly despise that statement
+2831.52 because, first of all,
+2832.9 it deprives us of all
+meaning in of our lives.
+2836.68 And we can go down the route of philosophy
+2840.13 as to whether or not
+there's meaning or not,
+2842.26 but more importantly, it
+divorces us from the idea
+2845.38 that the body and brain are interconnected
+2847.15 and have at least equal
+value at any one moment
+2850.99 that they're informing each other.
+2852.19 Emotions inform movement,
+movement informs emotions.
+2855.79 One thing that I've heard you say before,
+2857.223 and I'd really love to
+hear you embellish on
+2860.98 is this important principle
+2863.23 that human beings are truly unique
+2865.48 in terms of the enormous
+range of movements
+2868.42 that we can perform.
+2870.67 And yet, we are excellent,
+2872.41 maybe superior to all other species
+2874.72 at certain types of movement.
+2877.39 The one that comes to mind is
+walking, strides, striding.
+2880.81 So, maybe we could just explore that idea
+2885.52 because obviously a cheetah is very fast,
+2888.82 the gibbon seems to have
+a lot of proficiency
+2891.01 at grabbing and swinging from branches,
+2894.49 but human beings perform an enormous
+2897.4 or can potentially perform an
+enormous array of movements.
+2899.98 Do you think all human beings
+2901.36 are potentially able to explore
+2904.18 all the different types of movement?
+2907.21 And if so, how does one approach that?
+2909.7 So, basically what I'm doing
+is I'm tabling a concept,
+2913.12 which is not range of motion,
+2915.43 right, for the gym rats,
+discard with range of motion,
+2918.61 I'm talking about the
+variety of movements.
+2923.86 - First, it's not important what I think,
+2927.37 if it's possible or not possible,
+2929.53 or if it's even possible for
+you or not possible for you,
+2933.52 what is important is what
+you truly want to do,
+2938.59 what you truly are after.
+2940.48 And it's important for
+me because many times,
+2942.67 this way of thinking about
+things is already limited.
+2947.89 I like to say
+2950.71 a man doesn't go to the ocean
+to empty it with a spoon.
+2955.36 A lot of the types of dressing
+up of the concepts nowadays
+2960.64 is trying to fit an elephant
+2962.41 into the hole in the needle, yeah?
+2967.0 Like for example, the concept of practice,
+2971.17 and then our lives, as if we have a life.
+2976.84 We have some kind of
+a stream of behaviors,
+2981.37 we have there is an argument
+of free will, et cetera.
+2985.03 There is a multiplicity,
+definitely a man is a legion,
+2989.44 that's the real meaning of that phrase.
+2993.34 One day you wake up like this,
+2995.83 I say, "Andrew, let's
+meet tomorrow at 7:00 am,"
+2998.32 but I don't know who's
+going to wake up tomorrow.
+3000.57 And then you send me a text message,
+3003.307 "Oh, I'm feeling off,"
+3006.36 right at 6:55 and go back to sleep.
+3009.54 So, examining that and seeing that
+3012.27 I think frees you up eventually
+3014.19 and start to orient you
+in a better direction.
+3019.26 So, what do you want to do and what,
+3022.35 but in the orientation of
+also what you need to do,
+3025.53 what you sense, and
+what you are developing
+3029.01 as an evolutionary direction for you,
+3032.85 this is the important bit.
+3035.34 Is it possible for everyone to engage
+3037.38 in certain specific physical movement?
+3039.39 For example, in Scandinavian countries,
+3041.88 the squat is not very approachable,
+3047.25 it's very difficult.
+3048.78 They're more built for
+dragging heavy things
+3051.69 and also in this climate, I guess it,
+3055.41 it makes less sense to squat
+3057.33 and 'cause you're going to freeze there.
+3059.43 So, this is and then you see
+the squat in warm climates
+3063.87 and it's like so open and accessible.
+3067.05 They're very good deadlifters usually,
+3070.83 not good squatters and the-
+3073.082 - They want to get away from the ground.
+3074.65 - Yeah, the shallow hip socket,
+which allows one activity,
+3078.81 but then the stability
+of the deep hip socket
+3081.21 architecture of the hip,
+3084.6 the femur heads, the Q
+angles, the shapes, et cetera.
+3088.38 So, we are all unique and
+there are certain elements,
+3091.29 which like, for example,
+my squat challenge
+3093.45 is like for most people
+3096.3 there is something there, but-
+3097.15 - Could you remind people
+what the squat challenge is?
+3099.72 - The squat was my attempt to bring
+3103.59 a new, fresh state of
+mind into the word squat,
+3109.08 not as a strength element,
+3111.27 but it's a fundamental
+resting position really.
+3115.59 Actually, should be one
+of the most abundant ones,
+3118.05 we replaced it with sitting,
+3120.93 which is not really doesn't work well
+3122.58 if you're in a natural environment,
+3124.53 it's not very comfortable
+3125.7 actually to sit for long periods of time,
+3127.5 rocks and different terrains
+3129.12 so you end up lying down,
+standing, and squatting a lot.
+3133.35 Also, when you're moving low and dynamic,
+3135.63 like even collecting berries,
+3137.46 the squat is much more dynamic and open.
+3140.91 And then elimination is happening there,
+3142.98 so it's like it's such a fundamental thing
+3144.72 and we totally eliminated it.
+3146.88 We eliminated many other things,
+3148.53 overhead movements, behind the back,
+3152.04 all kinds of back realm
+3154.08 what I call the back
+realm is totally absent
+3156.78 in people's awareness.
+3159.21 So, that was my attempt to
+bring it back into people,
+3161.43 and I recommended to in order
+3164.34 to really get the transformation,
+3167.37 going to accumulate 30 minutes
+a day in the squat position,
+3172.11 unloaded, just resting down,
+3173.76 not correct, not erect, many
+people make this mistake,
+3176.7 they didn't read through the whole thing.
+3178.74 It's just resting down there.
+3180.45 And of course, you have
+to be mindful of dosages.
+3183.27 Some people will get hurt if
+they try to do it too quickly
+3186.69 so they might need a
+buildup process towards it.
+3189.06 And also, I'm not talking
+about 30 minutes straight,
+3193.11 but accumulation throughout the day.
+3195.39 And this does a lot of good
+for digestive problems,
+3198.69 for lower back pain, for
+hip pains, for knees,
+3202.59 and generally for aging
+3204.69 because it's basically folding your body
+3208.74 in the most basic way.
+3210.0 Are you folding your body?
+3211.05 If you're not folding your body,
+3212.82 you will lose the
+foldability of your body.
+3215.13 And this is probably the easiest
+3218.07 and the most abundant
+way to fold the body.
+3221.34 So, but this is an example of something
+3224.7 that can be very useful
+with many, many people,
+3227.49 but there will always
+be unique individuals
+3230.64 which needs something else.
+3232.62 And there are benefits
+3236.85 in examining things
+3238.89 and also there are
+benefits in getting hurt,
+3242.34 which is not often discussed,
+especially not in these parts.
+3245.97 So, I'm one of the only ones as a teacher
+3250.53 that says, "I injured
+many of my students."
+3254.07 And if I did not do that,
+3255.66 I would be totally
+useless for them as well.
+3259.98 That totally safe system
+has nothing to offer,
+3264.63 practically nothing is totally safe.
+3266.67 And we can, of course,
+we don't approach it
+3268.86 with a ballsy or machoistic thing,
+3271.32 but we are aware that sometimes
+3273.12 we have to go beyond the boundaries
+3274.74 and hopefully those would
+be the small injuries
+3277.44 that will help us avoid the big injuries.
+3280.05 But if you try to avoid
+the small injuries,
+3281.85 maybe you'll get those
+big injuries in there.
+3284.73 So, examining which types
+and forms of movement,
+3288.69 the location of the
+body, speed of execution,
+3293.19 the type of organization of the body,
+3295.65 which is a whole thing
+that we can discuss.
+3299.55 All of this is up for the grabs
+3301.65 and something that we have to create
+3303.51 individual relationship with,
+3306.42 hopefully with good guidance,
+3308.25 where we can get the right scenarios,
+3312.27 a facilitator of good
+scenarios for our learning,
+3315.12 which is what I try to do.
+3316.83 And less of a technical state of mind,
+3318.69 do this ABC or, yeah, like chunking
+3322.74 what I really dislike from a long time
+3325.885 is like many people they tell me,
+3328.747 "Have you met this guy?
+3330.27 He's an amazing teacher
+3331.53 because he chunked the
+process into these bits
+3334.14 and not even in the
+correct places to chunk,"
+3336.099 it was like and it doesn't offer,
+3338.64 it locks us, this state of mind.
+3340.95 I talk about the chemistry model,
+3343.05 I call it my chemistry
+model where an atom,
+3346.47 a molecule, and then a
+compound is conceptualized
+3349.38 versus just chunking.
+3350.97 So, there is an actual evolution
+3353.13 like I call it also sketch learning.
+3356.58 I'm not going to try to draw you,
+3358.74 if I know anything about art and drawing,
+3361.32 I'm going to start by
+capturing something very rough.
+3364.32 And I need to practice that
+first, that dynamic entity,
+3368.01 before I go into the rendering
+and the shading, et cetera.
+3373.08 So, the same way to learn things,
+3375.33 so big picture, the small details.
+3378.63 And unlike many of my
+teachers in that I ran into,
+3382.32 and I say, with the greatest respect
+3385.14 because I don't know who taught me more,
+3386.76 my good teachers or my worst teachers,
+3390.15 but some of them just teach
+from the small details
+3392.91 into a big picture that never arrives.
+3395.67 - Given that humans can
+generate such a broad array
+3399.45 of types of movement,
+3400.47 run, jump, duck, squat, leap,
+3403.05 and all these types of movements.
+3405.75 Do you think there's value
+in observing the movements
+3408.06 of other animal species?
+3409.32 I know I certainly enjoy
+watching other animals move.
+3414.87 I think the most,
+3415.74 one of the more spectacular animal facts
+3419.19 that was shared with me is
+when I was a graduate student,
+3422.1 someone down the hall was
+working on the little pedals
+3425.28 of the chameleon, which can walk up walls.
+3429.36 And it was a great mystery
+3430.77 as to whether or not they were suction,
+3432.45 but turns out they can do it in a vacuum,
+3433.89 so it's not suction.
+3435.06 Whether or not there was
+some sticky substance
+3436.65 and it turned out, I don't know,
+3438.69 I feel compelled to share this with you
+3440.04 so I'm going to do it
+because I have a feeling
+3441.87 it will lead us to an
+insight of some sort,
+3444.48 that those little tiny pedals are so thin
+3447.33 and so close together that the chameleon
+3450.81 actually sticks to the wall
+3452.07 by what are called van der Waals forces,
+3454.47 meaning it's a very weak molecular force,
+3456.57 but strong enough to stick to the wall
+3458.61 because they are actually
+exchanging molecules
+3460.89 with the surface they're on.
+3462.42 - Wow.
+- So, obviously
+3464.31 we can't do that, and yet I spent hours,
+3468.78 because they were in the lab next door,
+3470.28 watching videos of these
+little chameleon walk
+3473.13 and the articulation of
+these feet is incredible
+3476.73 because they're literally
+rolling those little pedals along
+3479.7 in a way that it kind of defies
+3482.07 anything else I've ever seen.
+3484.38 I told myself this was useful,
+3486.63 A, because I thought it was interesting,
+3487.95 but, B, because I never
+really thought about
+3490.53 how I articulate my foot.
+3492.09 I've thought about being a heel striker
+3493.53 or a toe striker when I run
+3494.91 and no one can tell me which
+one I'm supposed to be.
+3497.157 And maybe you can tell me,
+[Ido laughing]
+3498.72 but the point is, or I
+suppose the question is,
+3503.73 do you think there's value in observing
+3505.47 the extremes of animal kingdom movement
+3508.53 as a way to inform the play space
+3510.63 and the exploration space
+3511.92 of our own human movement practice?
+3515.7 - I think so.
+3516.533 I think, first, it's inspiring,
+3521.58 it opens up, but I will take it away
+3524.19 from the romantic point of view.
+3527.37 And I would offer another way
+3528.87 to examine all these movements exist in us
+3534.12 in ways, in certain ways.
+3536.25 Like the work of Gracovetsky on the spine,
+3539.407 "The Spinal Engine",
+3541.26 and to see how these old ways
+3546.48 of moving even all the
+way up to exoskeletons
+3549.24 and like primary, very ancient
+3553.68 or even single cell
+things are still within us
+3557.04 to a certain extent.
+3557.873 And then, of course, this gets developed
+3562.41 like the Darwinian state of mind
+3565.62 got stuck for many years on
+the survival of the fetus.
+3570.36 But actually, I believe,
+3572.22 I always believed and
+I saw some information
+3575.46 about it lately that mutation
+is the heart of the model,
+3579.39 not survival of the fittest.
+3581.19 - Yeah, people often
+hear the word mutation
+3583.26 and they think, "Oh, mutations are bad."
+3585.33 There are maladaptive mutations
+3587.94 and then there are adaptive
+mutations, for sure.
+3590.67 - And then, this places the
+word change in the heart of it,
+3594.51 what it wants to do, change.
+3598.2 So, it does not want to become better,
+3602.52 there is an inherent change in it.
+3607.02 And then, of course, they
+become better at X, Y, Z,
+3610.17 fittest is the secondary perspective
+3613.77 that arrives in relation
+to certain things,
+3615.81 but there is still a stronger,
+3617.28 more ancient driving
+force into the process.
+3620.85 So, for me, this is cool
+to see these animals
+3624.48 take it all the way to this extreme,
+3626.73 but it's also still reflecting within us.
+3629.67 So, I love to do, like for example,
+3631.56 I introduce with people spinal waves,
+3634.5 and by bringing these waves into the body,
+3637.53 sometimes you get weird
+experiences like emotional releases
+3642.45 and sometimes, and other times
+3645.3 it can become an incredible
+tool to help an athlete
+3648.78 which specialized and
+reach the top of the top.
+3651.81 And then, you defrag
+his system a little bit
+3654.99 and offer him some freshness
+and some segmental movement.
+3659.4 And first you fuck him up,
+3661.71 that's usually the case.
+3663.51 Technically he's off,
+his coordination is off,
+3665.97 but later the growth will arrive.
+3668.88 It's a form of playfulness,
+3670.65 it's a form of examining things
+3672.96 regardless of their success or failure.
+3675.39 More understanding that
+change is important
+3678.42 and then after that,
+3679.74 we can also look at the more
+competitive state of mind
+3684.39 and the more success
+and failure orientation,
+3688.38 but there is no game without change.
+3690.81 So, this is the primary one,
+3693.586 and that's why I say, "Okay,
+3695.16 you want to succeed in the
+tasks like we did earlier,
+3698.13 but you stayed within the
+game, to sustain the game,
+3700.68 the infinite versus
+finite game perspective."
+3704.97 To sustain the game means
+to continue to change,
+3709.2 continue to transform,
+3711.78 and then to win the game
+sometimes mean game over.
+3717.21 So, it's like, yeah, within that tension
+3719.91 I think it's beautiful to
+play, and to exist, and to be.
+3724.53 - You mentioned something that for me
+3726.15 is an incredibly important concept
+3728.76 for a couple of reasons,
+3729.69 and you mentioned these spinal waves.
+3731.64 Right, I have to assume that's
+taking the torso for us,
+3735.03 you know, movement morons
+3737.22 that I'll just refer to in
+coarse terms of thoracic spine.
+3741.0 So, I mean, I will stay away
+from the technical anatomy
+3743.4 and the torso and creating movement
+3745.83 either side to side undulation
+3748.95 or arching and extension of the spine.
+3752.22 - Yeah, dorsal, ventral, side to side,
+3754.65 or rotational as well as spiraling.
+3759.96 - Have you ever had the
+experience that of yourself
+3763.17 or other people engaging
+in those types of movements
+3765.33 and experiencing particular
+categories of emotions?
+3768.75 And I have a particular
+reason for asking this,
+3770.46 there's no right or
+wrong answer, of course,
+3771.93 but I'm just curious
+whether or not movement
+3774.57 of let's call it the core of the body,
+3776.64 things close to the midline
+3777.96 as opposed to far away from the
+midline like the digits far.
+3781.23 Is there any,
+3782.672 do you have any evidence
+that that can evoke
+3784.5 a certain category of emotional states?
+3787.95 - Evidence, I have none,
+3789.3 but I have experience and I
+have some thoughts about it.
+3794.4 Ida Rolf is known to have created Rolfing
+3798.99 or structural integration
+3800.22 said, "The issues are in the tissues."
+3803.07 And around the spine, the spine is us,
+3807.18 as you know, it's like can
+take an arm off, a limb,
+3810.12 but there's been attempts,
+3813.66 but there is no brainy alone,
+3816.72 this cerebral thing alone,
+3818.61 the spine and the maybe
+more parts of n-systems
+3822.24 inside the torso are important.
+3824.01 So, that's why I like to
+start from that core entity.
+3826.8 And then these little
+fluctuations they create,
+3833.4 they unblock things, they
+start to move things.
+3836.82 And you can avoid, funny enough,
+3839.73 mobilizing those areas by
+doing big frame motions,
+3844.62 and competitive motions, and
+techniques all your life.
+3848.49 So, even most yogis, for example,
+3851.22 they look extremely mobile,
+3853.56 but then when you're actually
+going into the small,
+3855.9 what I call the small frame,
+3857.64 I borrowed this from Chinese martial arts,
+3860.19 small frame, big frame.
+3861.57 The big frame is this big changes
+3864.63 of our total body in space posture.
+3868.26 And then the small frame is barely moving,
+3870.39 but mobilizing the
+little bits that comprise
+3873.33 the same pretty much posture.
+3875.79 So, these are very beneficial
+3877.23 and it has totally disappeared
+from our physical culture.
+3881.73 When you introduce it back,
+3884.79 the small frame offers the big frame,
+3887.19 but the big frame doesn't
+offer the small frame
+3889.41 because, of course, the
+small detail come together
+3892.2 into the big picture.
+3893.43 So, if I want to place my
+body in a specific position
+3896.13 and I have all these bits moving well,
+3898.17 I can construct it in whatever way I want.
+3900.84 But if I just work on the big one,
+3903.9 most chances are I just
+mobilize certain areas
+3907.44 while other areas are
+totally held or blocked
+3911.07 and then I'm specialized one more time.
+3914.58 Take me out of this realm
+and I'll have difficulties.
+3917.91 What will sit there in this stagnation?
+3920.34 Emotion, material, thoughts, traumas.
+3925.14 That's why people get discharges.
+3929.34 The body memory is not
+what we think it is,
+3932.58 that's how I believe,
+3933.413 it is stored in a lot everywhere,
+3938.34 and I've had those experiences.
+3940.68 A lot of people have the opposite.
+3942.69 When a certain emotion is evoked,
+3945.09 they start to undulate the spine.
+3948.12 So, this can be worked from this direction
+3950.37 or from this direction.
+3951.33 And I believe by applying such a practice,
+3957.28 it is wise, you basically
+turn over the lens
+3961.59 and you are allowing things
+3965.913 to shift, and to move, and to adapt.
+3968.4 So, I highly recommend it
+3969.99 and we teach it in a very
+elaborate and gradual way.
+3973.615 And this is needed really
+3977.16 because people, when they just go
+3979.02 into like some general recommendation,
+3980.91 they usually just get
+stuck into a new pattern,
+3983.287 "Ah, that spinal wave,
+3984.54 okay, that's it."
+3985.89 So, I've been using,
+3986.91 again, this slice and dice-like teaching
+3988.95 dozens of systems of moving the torso
+3991.74 until a person is freed
+to really move the torso
+3995.07 like the language is created,
+3996.93 the small enough units are
+created in your understanding
+4000.77 from all these systems
+4002.45 and then you improvise,
+4003.65 you reach the highest
+level of the practice.
+4006.8 - I love the answer.
+4008.48 Let me tell you a bit of why I asked.
+4012.56 So, there's a principle in neuroscience,
+4016.49 but especially in neuroevolution,
+4018.71 they call it evo-devo sometimes,
+evolution and development,
+4021.59 how those link.
+4022.58 If you look at, so we have motor neurons,
+4024.59 as you know, but for the audience,
+4026.09 that live in our spinal cord
+4027.26 that cause transmission and
+contraction of the muscles,
+4029.72 allows us to move our limbs.
+4031.46 And then, we have motor neurons up here
+4033.08 called upper motor neurons
+4033.98 that control the motor lower ones.
+4035.75 So, once something is
+reflexive or learned,
+4038.39 we're not thinking about it, so to speak,
+4039.74 we mainly use the lower motor neurons.
+4041.42 We know this because you
+can do an experiment,
+4043.22 it's a rather barbaric experiment,
+4044.63 but it's been done many times
+4046.64 called creating a decerebrate cat.
+4048.92 You actually remove the neocortex
+4051.05 and these cats will walk on a treadmill,
+4053.03 it's called fictive
+motion, no problem at all.
+4055.55 There are human beings
+who don't have a neocortex
+4058.43 or much of their neocortex is missing,
+4060.41 they generate perfectly fine movement.
+4062.357 - The pattern has been download.
+4064.28 - That's right, and it's truly
+downloaded into the spine
+4067.88 and the connection between
+the spine and muscles.
+4069.98 Now, the motor neurons
+4071.36 that control the spinal
+waves, as you called them,
+4075.65 are of a particular category.
+4078.29 They have a molecular signature,
+a physiological signature,
+4081.23 they were identified by, he's dead now,
+4083.42 but a biologist at Columbia
+University named Tom Jessell,
+4087.14 and many of his scientific offspring.
+4089.0 Here's what's interesting,
+4090.71 in fish or in animals that
+really only have the opportunity
+4094.97 to undulate and flap their little fins.
+4100.58 Though, motor neurons
+4101.78 that control undulation in those animals
+4104.6 are identical molecularly to
+the motor neurons that control
+4108.14 the spinal undulation in humans.
+4110.6 What's been added in human
+evolution are extra rows,
+4114.56 literally categories, of
+molecularly distinct neurons
+4117.35 so that as you move from the
+center of the body outward,
+4120.68 unlike a fish, which can move its fins,
+4123.47 but can't actually, it
+doesn't have digits.
+4125.87 We have special motor neurons
+to move these little bits,
+4129.02 these bits, these bits,
+4131.24 and I can't do a spinal wave,
+4133.04 but I can do the mudras thing,
+4135.44 like the belly thing.
+4136.807 - Ah-ha.
+- That comes from seeing
+4138.32 the movie "E.T." when I was a kid
+4139.85 and puffing out my stomach
+[Ido laughing]
+4141.11 and then realizing that I could wave it,
+4143.18 but only in one direction and-
+4144.68 Okay.
+- apparently not up.
+4145.82 Anyway, the yogis out there
+can chuckle at that, but.
+4150.56 - The yogis actually do it to the side.
+4152.45 - Oh, do they?
+- Yeah.
+4153.56 - I don't know if I can do that.
+4155.54 Anyway, my spinal wave is
+weak, but I'll work on it.
+4159.53 But what I find so
+interesting about these layers
+4162.86 of, I don't want to say sophistication,
+4164.96 but these with evolution
+4167.96 came the addition of more
+pools of opportunity.
+4170.93 These motor neuron
+pools, as they're called,
+4172.43 are opportunity to engage in new,
+4175.16 more elaborate types of movement.
+4176.99 But with each new pool
+became the opportunity
+4179.75 to create combinations of new movement.
+4182.75 And so, the reason I
+asked you why spinal waves
+4185.3 create one category of movement
+4186.98 is that if you touch a fish
+on one side of its body,
+4190.22 it moves to the opposite side,
+4191.87 it never moves toward it.
+4193.55 But earlier we were doing a practice,
+4195.02 somewhat similar of testing
+this similar reflex.
+4198.2 And sometimes I or someone
+will move toward a touch,
+4202.91 we don't deviate to the opposite side.
+4205.52 So, I have this untested,
+4210.53 at least formally tested hypothesis
+4212.3 that movements of small digits
+4215.03 and portions of our
+distal, as they're called,
+4217.01 far from the midline body parts
+4219.68 evoke different sensations,
+4221.6 maybe even far more subtle sensations
+4223.79 than movements of the core of our body
+4225.644 and the stuff closer to the spine.
+4229.16 Again, it's just a theory,
+4230.57 but I'm grateful for your answer
+4233.33 because it lands at least in
+the general vector direction
+4236.15 of my idea here.
+4239.54 - The central orientation is
+mostly gone from our culture,
+4244.61 we don't even walk basically these days.
+4247.94 If you look at traditional culture,
+4249.8 the amount of walking you
+do on a rest day, it's huge.
+4254.03 And so, we started to create technologies
+4257.66 to bring everything into the periphery,
+4260.54 controlling it with the
+fingertips, et cetera.
+4262.7 So, we have incredible
+neurological development
+4265.91 relating to this, but
+our central patterns,
+4269.87 swimming, running, jumping, throwing,
+4273.74 throwing is not pushing away,
+4275.93 that's an example, right?
+4277.01 - Like some people when you
+give them a ball to throw,
+4279.053 that you can tell if they've never
+4280.73 thrown a ball before.
+- Yeah,
+4281.563 they throw like a girl.
+- Yeah, they don't just-
+4282.938 - That is often said
+[Andrew laughing]
+4284.571 here in the US.
+4285.587 And it's, of course, unfair,
+4286.79 but it relates to experience, right?
+4289.52 That is less maybe promoted
+4292.97 or offered for females,
+4294.41 so you get this peripheral pattern
+4297.89 instead of a central-generated pattern
+4300.44 that progresses towards the extremities.
+4304.58 One thing I wanted to ask you
+4307.49 is I know an area that
+is not often mentioned
+4311.54 is that some of these
+ancient patterns and systems
+4315.68 are primary in many ways,
+4317.81 hence those newer
+developments inside of us
+4321.5 are constrained by using the connections
+4324.71 running through these ancient systems.
+4327.05 Hence, we are much more limited
+4331.91 by the gene pool.
+4335.51 We are hitchhikers on a
+piece of DNA, I like to say,
+4339.92 and that gene pool is like is
+driving something so primary
+4343.97 that even when you are in
+kind of the driver's seat
+4348.77 in your eyes, you're actually not
+4350.9 or you're being totally
+constrained by that.
+4355.76 And I wanted to hear about this.
+4357.83 - Yeah, recently we had
+a guest on the podcast
+4361.52 named Erich Jarvis, he's a
+professor at Rockefeller,
+4364.37 who was offered a position to dance
+4367.4 with the Alvin Ailey dance company.
+4369.08 So, an accomplished dancer
+4370.55 and comes from a musical family
+4371.84 chose to become a
+neuroscientist instead and study
+4373.94 speech and language.
+- Wow.
+4375.14 But he said something incredible,
+4376.61 several incredible things,
+4377.957 and really looking forward to
+getting your reflections on.
+4381.95 First of all, he said that
+when you look at the species
+4385.85 in the kingdom of animals, including us,
+4389.15 that have elaborate
+language and true song,
+4394.19 they all also have the capacity to dance.
+4398.09 All the...
+4398.923 It turns out hummingbirds
+4399.89 actually have a dance and a song capacity.
+4402.86 That perhaps, and this is the going idea
+4406.31 now in neuroscience and
+evolution of the brain,
+4409.64 that singing actually came before
+4413.72 finally articulated speech and language,
+4416.36 that voice involved first
+to sing, to communicate.
+4419.57 I mean, to enunciate ugh, or uh, or mm.
+4422.9 You know, but then song
+may have come first.
+4426.26 Where you have song, you have dance
+4429.05 and the capacity to dance,
+4430.16 which of course is movement of the body.
+4432.08 And where you have song and dance,
+4434.33 you always find that those species
+4436.7 can generate elaborate language.
+4438.95 Now, the simple version of this is okay,
+4441.53 sophisticated brains
+tend to create clusters
+4443.84 of sophisticated capabilities,
+4445.91 but the other possibility,
+4447.11 and it's the one that Jarvis proposes
+4448.73 and I think it's in line
+4449.69 with what you're perhaps raising here
+4451.58 is the idea that movement of the body
+4454.46 and range and sophistication
+of movement of the body
+4457.79 through all these different systems
+4460.1 may have actually promoted
+or even driven the evolution
+4464.21 of the things that we think
+of as speech and language
+4469.1 and the ability to have multiple
+words for the same concept,
+4473.24 or to have elaborate
+articulation of speech.
+4476.27 I find this incredibly
+attractive as an idea
+4479.54 because certainly from
+as a hierarchy of needs,
+4483.26 we needed to move first to survive,
+4485.15 and to mate, and to flee, and to attack.
+4488.33 It makes perfect sense
+to me that the layers
+4489.98 would be built up fundamentally
+from the body to the mind
+4492.62 and not the other way around.
+4495.2 So, that's one piece,
+4496.25 and then the other piece,
+4497.54 which I'll just share for any
+reflections you might have
+4500.69 that just blew me away
+4502.43 was Jarvis told me that when we read,
+4508.22 if, and this has been done experimentally,
+4510.53 if one records the EMG,
+4512.51 the low level muscular activity
+in the larynx and pharynx,
+4516.14 we are actually repeating
+the words that we read,
+4519.59 but so subtly so that we
+don't actually speak them out,
+4523.7 unless there's some sort
+of neurologic deficit,
+4526.16 which some people have, some
+people mumble while they read.
+4528.56 But what that tells me is
+that language is movement
+4533.06 and movement is language.
+4535.1 So, again, we have this convergence,
+4537.23 but at a very basic level
+4539.24 I'd love your reflections
+on those are all his ideas,
+4542.06 I want to say, I'm just
+repeating what he said
+4544.22 and not nearly as precisely as he did,
+4547.58 but how do you think of movement
+4551.18 as either the foundation of
+language or as its own language
+4556.85 that perhaps even defies words?
+4558.83 - Mm, [gasps].
+4561.74 Wow, those are beautiful perspectives,
+4564.89 and I definitely feel the same.
+4568.49 There's a lot to say
+about singing and dancing
+4570.77 as well as also as a form
+4572.75 of ancient programs of transmission.
+4580.52 Sometimes that there is this
+4582.98 in some ancient practices, the mantras.
+4587.21 And people don't realize
+4590.51 that they are tantric practices,
+4593.9 they contain a form of
+vibrating and breathing
+4601.79 all tied together into very elaborate way
+4605.6 to promote a certain effect.
+4608.06 And how would you do something
+like this in ancient times?
+4610.52 This is ingenious.
+4612.17 We, even until today,
+4613.55 we need a full book to describe something
+4615.347 and it wouldn't work as well,
+4617.48 so it's like a very ancient
+form of transmission.
+4621.95 The more accurate we
+became with the language,
+4626.45 the more dead it became,
+4628.73 because it is less of a movement entity,
+4632.6 it is less of a dynamic
+entity from its nature.
+4635.93 And that's why Yukio Mishima
+says, "It's corrupting,
+4639.74 it corrupts us."
+4643.34 So, definitely, definitely
+4644.6 the conducing force
+4649.16 or the primary force for me is
+movement that is experienced.
+4654.92 Every time we talk about movement,
+4657.2 basically, even now we are
+spilling it into a container
+4661.22 to call it what it is,
+but it is beyond that.
+4665.87 So, then it is applied into dancing,
+4669.02 into singing, into language.
+4672.26 There is no other language
+that I see as a primary mode,
+4676.49 and this is a nature of
+space, time, things moving.
+4683.39 So, I think everything moves
+4686.48 into the direction of
+understanding that more and more,
+4689.45 and maybe it's not so
+popular to call it movement
+4693.44 or people have some connotations,
+4695.18 and it's okay, you can
+throw away this word
+4697.04 and put another word, and
+we probably need to do that
+4699.65 also like regularly,
+4700.88 like I start to see the
+end of this word for me.
+4705.5 Things get corrupted
+again, overused, abused,
+4709.13 and then we need a new word.
+4712.85 And that's even that word is
+only needed for communication
+4716.75 and for specific processes
+of education exchange,
+4721.49 it's important to stay
+within the experiences.
+4724.34 It's important to continue
+to promote scenarios
+4727.22 in which the experience is primary,
+4730.79 more open experience, let's say,
+4732.8 and not try to hold down
+4735.98 and define overly accurately
+4739.82 or if it's done throwing
+it away and starting again.
+4744.38 So, there is no winning concept,
+4745.91 you got to the winning
+concept, you got nothing.
+4749.84 You were able to grab
+it, you were able to,
+4752.72 this is very science, right?
+4754.06 It's like, "We got it, we got it,"
+4756.59 and then it turns out to be nothing.
+4759.208 And like more and more time passes
+4763.16 I feel science is becoming more humble
+4766.76 and things are being
+discussed in this way.
+4772.19 And because really what does science do?
+4777.56 Report the sun came up
+4779.45 a certain amount of billions of times
+4782.87 and then tomorrow it will come up again.
+4786.23 It's statistics.
+- Yeah, it's good prediction.
+4788.51 - Yeah, yeah, but we can go beyond,
+4791.48 there is something inside
+of us that can go beyond.
+4794.72 Hard to communicate, I can't
+offer it right now here,
+4798.02 but I have the experience and
+thankfully I have a practice
+4801.56 and a way to sense it, to
+feel it, and to reexamine it,
+4805.76 and then we can talk about it,
+and have something from that.
+4810.523 - Edward Wilson, the great sociobiologist,
+4813.23 he actually founded the
+field of sociobiology,
+4815.03 E. O. Wilson, they call
+him, Edward Wilson,
+4817.73 had this beautiful word
+and indeed named a book.
+4820.34 Actually, the word was better
+than the book, sorry Wilson,
+4822.53 but the book was a little
+bit meandering for my taste,
+4825.62 but then, again, he's the
+Harvard professor, not me.
+4829.1 Well, Stanford's pretty darn good.
+4832.28 This word is consilience,
+4833.72 this idea of a leaping together
+4835.34 of divergent forms of knowledge
+4837.08 to create a truly valuable
+concept, which I love.
+4841.01 I love it because, of
+course, I'm formally trained
+4843.26 as a scientist, I look at things
+4844.49 mainly through the lens of neuroscience,
+4845.9 but experience is real
+and observation is real.
+4851.51 And even in the field of medicine,
+4852.98 you have double-blind
+placebo-controlled clinical trials
+4856.31 and then you have case
+studies, n-of-1, right?
+4861.14 Not often discussed,
+4862.19 right, I mean, H.M.,
+4863.27 the most famous example in neuroscience
+4866.33 of a patient that had no hippocampus
+4868.73 informed us more about
+the process of memory
+4871.01 and indeed the function of the hippocampus
+4873.35 than thousands of independent
+experiments that followed.
+4877.46 So, you can't have one,
+4879.53 you need all these different
+forms of exploration,
+4881.57 which is I think we share the belief,
+4885.29 if I may, that convergent
+forms of knowledge,
+4888.59 eventually this process of consilience
+4890.96 can eject a new concept.
+4893.36 And yet, the challenge,
+4894.44 again, is that if we don't
+have a language for it,
+4897.35 it becomes hard to transmit.
+4899.81 One of the things that I find incredibly,
+4904.37 I'll use this word again, sticky
+4906.05 is this notion of movement culture.
+4908.63 I don't know who coined that phrase,
+4910.28 or I've seen it in the circles
+4912.59 and accounts around your
+Instagram account and others.
+4916.22 I don't know if that's a
+phrase that you coined,
+4918.89 but this idea of engaging in
+movement practice with others,
+4922.01 whether or not it's dance
+or other movement practices
+4925.43 because it's so dynamic, there's
+the unpredictability of it.
+4929.09 Even to like today,
+4930.71 two practitioners at vastly
+different levels of knowledge
+4933.77 and experience in movement practice,
+4935.57 there's information, I
+like to think, to be gained
+4937.91 from both sides. [laughs]
+4939.71 So-
+- 100%.
+4941.6 So, one thing that I've
+heard you say before,
+4945.56 which really resonated with me
+4947.33 is this idea that people have
+maybe particularly in the US
+4951.14 have this concept of, "Oh,
+I have my yoga friends
+4955.1 or the people I dance with are distinct
+4957.23 from my family friends,
+are distinct from."
+4959.78 But as you pointed out,
+gathering around movement
+4963.89 is an age-old tradition.
+4966.98 And that perhaps we
+better off not thinking
+4969.68 about people we exercise
+with or train with,
+4972.23 but that friendship and
+connection made through movement
+4976.91 is perhaps the most
+valuable form of connection.
+4980.75 - Yeah, I think it's a
+product of those practices
+4983.57 that are maybe not so aware
+4987.26 or not so movement-oriented
+in the open sense
+4990.35 and then you get this
+sensation with people,
+4993.92 but alone, we do nothing,
+4996.05 so much so that we're never alone
+4999.26 also on the inside and we will manufacture
+5002.59 and produce entities inside,
+5007.99 so we're constantly
+5009.1 in a dynamic exchange, cultural exchange.
+5011.5 And practically, I learned
+this lesson in capoeira,
+5017.2 it's a cultural manifestation.
+5019.66 Things happen within this context,
+5024.01 we rub against reality,
+5025.99 we rub against each other
+5028.99 and their movement occurs
+5032.02 and their insight is to be
+gained and development happens
+5040.21 and then comes other thoughts,
+5043.06 collective knowledge
+versus self-knowledge.
+5046.9 We are transmitting knowledge.
+5048.85 If we go on top of some mountain,
+5051.79 20 people, 20 normal individuals,
+5057.862 and we spent 20 years
+5060.58 just fighting four hours in the morning,
+5063.97 four hours in the afternoon,
+5066.85 and we do it for 20 years,
+5069.25 but we're isolated from any
+other source of knowledge,
+5072.43 we would still not reach anything
+5075.01 that a very young fighter these days has.
+5081.1 We will be unable to develop
+5083.86 those techniques, those insights,
+5086.02 that's where collective knowledge comes in
+5087.73 and transmission jumps us forward,
+5091.24 but what is the problem with that?
+5093.11 Staying within just those
+technical constraints
+5096.73 and never making it yours,
+5098.29 that's the part of self-knowledge.
+5101.95 The digestion of this
+collective information
+5105.64 until it becomes digested and
+becomes part of yourselves,
+5109.6 and then you are it
+versus you are doing it.
+5114.19 And this is a clear separation
+that you can see in sports
+5117.46 on a very high level and
+on a not so high level,
+5121.12 even though I would be honest
+5124.18 if I say that some people reach very far
+5127.45 just with collective knowledge
+5128.92 and a very technical approach,
+5131.29 and others reach extremely
+far with very little of it.
+5136.39 And there is always outliers,
+5138.43 there are always the
+outliers in that case.
+5141.07 Another thought I had when
+you mentioned evo-devo,
+5145.93 evolution development is
+also the Greek concepts
+5149.62 of poiesis and physis.
+5155.05 The growing of the seed into the tree,
+5161.05 and the other process
+5162.1 of the manufacturing of
+the chair from the tree.
+5167.89 Two processes of development
+evolution, very different.
+5173.11 One from everything to something,
+5175.87 the other from nothing to something.
+5178.24 One is accumulation based,
+one is subtraction based.
+5183.19 Both of these processes relate
+to collective knowledge,
+5186.25 self-knowledge, but they're
+not exactly just that.
+5189.64 And what should we do?
+5191.53 This is a question that my friend Rasmus,
+5194.23 he asks in his thesis and thoughts,
+5198.31 what is the ultimate for us?
+5200.65 Should we manufacture our chair
+5203.53 or should we grow like into the tree?
+5206.95 Civilize the mind, leave savage the body.
+5209.38 Is it in this way or should
+the mind also be left wild?
+5218.17 Wild and wise is a nice
+combination of words
+5221.697 that I like to place together, wild, wise.
+5225.13 So, this is something that I try to bring
+5228.58 into the way that I live
+my life and my practice.
+5230.98 And I try to bring the information,
+5235.15 and the wisdom, and the
+collective knowledge,
+5240.55 but I also try to let go of more and more
+5244.15 until an essence is gleaned,
+5245.92 until something is appearing
+5248.44 and because everything was already there.
+5251.08 For example, if I'm sitting here,
+5255.73 all the movements are already occurring,
+5261.73 all the possibilities are.
+5264.91 So, it's just about, I need to open,
+5267.61 I open this window, the
+air would come from here.
+5269.89 If I open this window, the air would come.
+5271.57 I don't need to drive my motion,
+5273.58 I need to discover what is
+stopping it from happening.
+5277.63 Something is constantly holding,
+5279.7 and when we remove this
+immediately movement appears,
+5283.18 this is real deep movement
+5285.31 versus the driven movement
+5288.76 that is a very wasteful
+of times like walking,
+5291.4 you see people pushing through the walk
+5293.29 instead of the controlled
+falling that it should be.
+5298.36 Fighting, punching to
+manufacture the strength
+5304.03 and then to have someone who knows
+5307.03 how to facilitate the conditions
+5309.88 in which you are knocked out.
+5312.49 It doesn't knock you out,
+5314.117 "It hits versus I hit,"
+like Bruce Lee said.
+5318.25 So, this is a beautiful thing to examine
+5320.797 and to work within that,
+5322.36 so it's to see am I skateboarding?
+5326.53 Am I using this perspective?
+5329.2 Or am I trying to, to control
+because of risk and danger,
+5333.22 I'm trying to overly control something
+5335.05 that actually can never be controlled.
+5337.21 The way to control it is
+to let go of the control
+5340.27 and then, okay, but what
+about all this collection
+5343.81 of information, knowledge
+that I can bring in?
+5346.85 Where do I want to play?
+5348.88 I can play down here
+or I can play up here.
+5352.0 The collective knowledge is
+maybe take you further in,
+5355.27 and then you're still going
+need to do your individual work.
+5358.09 A lot of people like
+to romanticize on that
+5360.1 and it's you don't need
+teachers, we don't need nothing,
+5364.3 we don't need information.
+5365.89 It's not fully honest, you don't need,
+5368.62 but depends on where you want to function
+5371.14 and how you want to function.
+5372.087 They shouldn't be demonized,
+5373.84 but they shouldn't be
+overly glorified as well.
+5377.02 - You mentioned about the
+opportunity for movement,
+5379.57 perhaps even all forms of
+movement coming from deep within,
+5382.6 it raises to mind in the
+neuroscience of motor systems
+5386.8 we talk about motor
+neurons, as I described,
+5389.11 the ones that actually evoke
+contraction of muscles.
+5392.71 And then, there's this category of neurons
+5395.02 that isn't often discussed,
+but certainly exist.
+5399.19 Aren't often discussed
+5400.24 in kind of popular
+nomenclature of neuroscience,
+5402.1 which is the pre-motor system.
+5404.5 Most of our movements are the reflection
+5407.35 of certain patterns of transmission
+5411.1 breaking through from the
+pre-motor to the actual motor.
+5414.88 In other words, we are always
+5416.89 in a anticipatory mode of movement.
+5420.94 And as and I think you,
+the way you describe it,
+5423.61 you clearly intuitively understand this,
+5425.41 you feel it, and you recognize it.
+5427.3 And think of it as it's
+like a layer of neurons
+5430.12 that's constantly humming
+5431.701 [hums] ready to go.
+5433.39 And it's the release of these gates
+5435.07 that allows movement to
+occur in a particular way,
+5437.8 could be very smooth,
+could be very ballistic.
+5440.35 - Which is DNA, the same,
+5443.08 turning off and on, all the
+information is already there.
+5446.56 - Right.
+- And then the possibilities
+5447.847 are just allowed.
+5449.5 So, I'm allowed,
+5450.91 I don't do free will already,
+5455.47 but I am allowed to do, I am.
+5459.61 There are possibilities
+5461.65 and I am dancing within that dance,
+5467.53 but I am not the only dancer.
+5470.35 So, that's, that's my sensation
+5472.69 at least with most
+5478.18 states of being, let's say.
+5480.19 Maybe there is other states
+that could be reached,
+5485.86 a stability that will
+arrive from the waters,
+5488.98 from the movement of the waters,
+5491.17 this humming, these
+potential possibilities
+5495.67 to be in that state,
+5497.44 to vibrate like this is
+very powerful for our lives.
+5501.4 To wake up in the morning
+and feel that living thing
+5505.18 is the feeling of movement,
+5506.473 and, for me, it's a
+result of the practice.
+5508.99 And so, then it's easy not to stagnate
+5513.07 and then the mind can
+stay focused for hours
+5515.44 like we've done today,
+5516.79 and I can listen and tune
+in and I won't lose you.
+5521.11 Which is very difficult,
+5522.01 like I haven't had a good conversation
+5523.84 here in the US it's very difficult,
+5526.45 and I've had your attention
+and you're listening,
+5529.09 but it's rare.
+5530.32 It's rare that somebody can do that,
+5531.85 and it's a struggle, always a struggle,
+5534.61 but it's definitely my
+trick, my dirty trick.
+5538.48 - In that you said you're allowed
+5541.03 and, again, I'm taking
+some of the language
+5542.98 and what you report about your experience
+5545.32 and I'm trying to map it to some concepts
+5547.96 that relate to neural circuits.
+5549.67 In the principles of neuroscience,
+5552.52 we talk about instructiveness
+versus permissiveness.
+5556.81 There are instructive cues,
+5558.16 like for instance, the ability
+to pick up this pen, right?
+5561.19 There's an instruction, clearly
+there's a motor command,
+5565.0 but that's just one way of looking at it.
+5566.83 The way it actually works
+5568.0 is that there's a pre-motor system
+5569.77 that's already generating that movement,
+5571.81 and what we've done is
+we've flung open the gate
+5573.73 and allowed that movement
+to occur precisely.
+5576.07 - Surfing it.
+5577.78 - Right.
+- Surfing that current,
+5578.793 or this current, or another current,
+5581.14 or opening the window.
+5582.58 - Exactly, and if you
+look at the formal study
+5587.23 of movement and improvement of movement,
+5590.74 the most basic example I can
+give is like a tennis serve.
+5594.28 And they, if you just,
+5595.117 and they've done this many times over.
+5596.92 You map the trajectories,
+5598.09 and in a novice the lines
+are all over the place,
+5601.09 it ends up looking more like a tangle
+5603.91 of rubber band ball, right?
+5605.92 Whereas in the Federer or the expert,
+5608.92 you almost wonder if it's
+just one line being drawn,
+5611.62 but it's the trajectories
+are incredibly stereotyped.
+5615.04 That's the reflection of
+one little narrow gate
+5617.11 opening again, and again, and again.
+5619.24 Of course-
+- Let me inject
+5621.1 something here from an old
+neurologist, you can say,
+5625.72 Bernstein, the Soviet.
+5628.946 And he talked about degrees of freedom,
+5631.57 and they did in order
+to increase productivity
+5634.63 in Soviet Union.
+5637.36 I don't know if you
+you've heard this story.
+5639.267 - [Andrew] No.
+5640.69 - He was brought in to
+examine the movement habits
+5643.63 of the workers and he
+collected some information.
+5649.39 He placed, he was one
+of the first kinetic,
+5652.48 I don't know how it's called in English,
+5654.4 the kinetic capturing of motion
+5657.61 with moving pictures in that time.
+5660.37 And so, he placed these dots
+and they took these photos,
+5664.45 which became kind of moving.
+5666.76 And what he discovered was
+something very interesting,
+5670.21 the accuracy of the
+heat of the sledgehammer
+5676.12 increased while the variants
+in the various points
+5681.94 became more, not less.
+5683.92 So, it wasn't a fixed pattern,
+5686.05 it was a meta pattern.
+5688.48 And this pattern is adjusted
+5691.63 in this way to achieve
+the perfect execution.
+5695.86 Those were very early findings,
+5697.57 and I'm not sure how does
+that sit with everything,
+5700.75 but I'm sure there is some
+truth to it from my experience.
+5705.22 Basically, the self-adjusting
+dynamic nature of the system
+5709.36 allows you to reach a very constant
+5712.93 and stable end result by being so open
+5717.88 and letting go of your control.
+5719.32 - Mm-hmm, the example
+you give fits very well
+5722.98 with the one that I described before
+5724.75 because and I'm recalling the experiment.
+5726.61 If people want to look
+this up, it's a paper,
+5728.26 we'll put it in the show note caption,
+5729.88 a guy also happens to be at Harvard
+5732.19 named Bence Ölveczky, a Hungarian,
+5734.41 I'm clearly pronouncing his name wrong,
+5735.88 but I know Bence.
+5736.99 And I remember the slide in my mind's eye,
+5739.9 and the trajectory that was mapped
+5741.25 was the movement of the tennis racket,
+5742.66 not of the limbs themselves
+in the Federer case.
+5745.66 So, that I think aligns well
+with what you're describing.
+5748.69 Yeah, that exploration
+of degrees of freedom
+5751.27 is where the opportunity
+5752.77 for real advancement
+5756.67 and expansion of skill shows up.
+5758.23 As that I think the way
+it's been described to me
+5759.94 is that we go from unskilled to skilled
+5763.33 and then there's mastery,
+5764.38 and then there's this top tier,
+5765.76 which is this beautiful, thin layer
+5767.98 that so few people occupy,
+which is virtuosity,
+5770.68 in which the practitioner
+invites variability
+5773.89 and chance back in as an
+opportunity to do truly new things.
+5781.93 - It made me think many years ago,
+5784.3 this kind of thinking about
+so what is that entity?
+5788.38 Because obviously, it's not technique,
+5790.72 and it wouldn't even be honest
+5792.07 to say it's a movement pattern,
+5794.38 there is too much diversity there.
+5797.17 I started to talk about,
+5798.55 I called it movement
+sleeves or meta technique,
+5802.12 but the word technique
+is already misleading.
+5807.79 So, there is some kind of a dynamic sleeve
+5811.45 in which you can move in
+5813.73 as long as you are not out of this sleeve,
+5816.1 you are still within the boundaries
+5818.26 of achieving the result that you're after.
+5821.77 And then, the result is adaptation
+5824.53 of all these elements inside
+to keep you in the sleeve.
+5827.77 The sleeve is not constricted
+as we once thought,
+5831.287 "Oh, beautiful technique."
+5833.38 There are many ways to skin a cat,
+5837.07 and that experience, and
+that variety, that diversity
+5841.9 goes into virtuosity.
+5843.46 It's true freedom because your
+focus is on the right thing.
+5847.66 You don't point at the
+moon, look at your finger,
+5850.51 and that's really in
+essence being a virtuoso,
+5854.77 for me, like mastery, let's
+say if there is such a thing.
+5859.09 - Oh, there's I do believe
+there is such a thing
+5861.13 and I'll flatter and
+attempt to embarrass you
+5864.13 by saying I think that I'm not alone
+5865.6 in viewing you as a virtuoso of movement.
+5867.67 I think that's what comes to mind
+5870.28 because there's this notion
+5871.66 that not everything is pre-planned,
+5874.45 that even you might not know
+5876.19 what you're going to do next
+until the moment of execution,
+5879.04 but that here I'm projecting
+my own assumptions.
+5885.37 I'd like to talk about mindsets
+5887.95 in approaching practice a little bit more,
+5890.95 but I want to wade into that territory
+5893.74 by talking about vision in the eyes,
+5896.8 something that we both
+share a deep interest in.
+5899.35 I from the background
+of visual neuroscience,
+5901.57 but also from the realization
+5902.95 that we have this incredible ability
+5905.53 to adjust the aperture
+of our visual window,
+5907.72 we can focus very narrowly
+and we can focus very broadly.
+5911.44 So, something I encountered,
+I think first as a child,
+5913.63 realizing that I could spend all day
+5915.64 watching ants play in a very fine domain
+5918.61 and then look up and go inside
+5919.93 and realize there's a whole
+world and realizing, "Wow,
+5923.05 I'll never be able to consume
+5924.94 the full range of experiences
+at any one moment."
+5928.63 There are ants probably
+in the corner of this room
+5930.79 doing their thing.
+5932.83 And so too our approach to movement
+5935.47 can be, as you mentioned,
+very big and dynamic
+5938.14 in terms of the broad movements
+5939.97 of our limbs or fine articulation.
+5942.28 When you begin a practice
+5944.38 and as you move through a practice,
+5946.63 do you apply a regimented
+way of focusing your vision?
+5952.84 Are you in panoramic vision?
+5954.37 Are you in a very narrow field of view?
+5956.68 Or does it entirely depend?
+5958.51 And for the person who's a true beginner,
+5960.52 a true novice, like myself,
+5962.5 how should I show up to
+the practice with my eyes?
+5967.24 - The eyes are a good starting point
+5969.88 as you help a lot of people to understand.
+5973.66 And when you encounter
+difficulties with other layers,
+5977.32 it's very powerful to start with the eyes.
+5979.99 Another thing important to understand
+5983.05 and to experience, you can't believe me,
+5986.26 or you've got to examine it for yourself,
+5989.65 we do not move the eyes
+as well as we think we do.
+5994.48 'Cause as long as you can
+see and move the eyes,
+5997.66 people never think about
+it, that it can be trained,
+6001.23 that it can be improved, et cetera,
+6003.36 and the effects of it are far reaching.
+6007.59 The eyes lead to the inner eye,
+6009.99 you can think of it in a
+beautiful metaphorical way.
+6015.48 And it's a representation of the way
+6018.483 that we use various
+cognitive and mind processes
+6024.06 and also, of course, affect the body.
+6026.88 The eyes lead in many ways
+6030.57 and the head is also a very
+because all of these inputs
+6034.86 are coming in here.
+6036.51 So, it's very easy to lead the body
+6038.55 and if you look at it
+centrally from the head,
+6041.58 it's a very powerful and easy thing.
+6043.56 For example, when you
+teach boxers how to bob,
+6049.17 usually it's not done
+6050.25 in the way that I believe
+it should be done,
+6053.91 you teach it with the periphery.
+6056.34 They teach it from the feet
+6058.59 because they have the
+idea, which is correct,
+6060.57 that you need to do it
+in spatial conditions,
+6064.47 in movement, in space.
+6067.32 But in reality, the head will
+organize the feet for you.
+6071.46 Instead, you are now putting
+two elements together
+6074.1 and then with years of practice,
+6075.63 you hope of tying them together well.
+6078.15 I prefer to do something else
+6079.5 because if I'll pull
+your head now to side,
+6082.65 you will immediately start to
+organize your feet under you.
+6085.98 So, I give you just one element
+6087.54 to manipulate the system from,
+6088.89 that's how I would teach
+someone something like this.
+6092.16 Many animals hunt with the head,
+6094.32 so you can see the body running forward
+6096.45 while the head is turning to the side,
+6098.22 the whole thing follows afterwards.
+6100.29 So, it's a very powerful
+way to address movement,
+6102.48 not the only one,
+6104.46 there are many modes, thankfully,
+6106.02 and we're very adaptable in that,
+6107.67 but definitely a primary one.
+6110.28 And then, the use of
+the eyes is, of course,
+6112.59 maybe the most important
+element with that usually.
+6118.95 Yeah, what else can I say about the eyes?
+6121.5 So, how do you come in?
+6123.03 Well, it depends on the practice,
+6124.53 you need to start to have
+some kind of a checklist
+6128.43 of what you're looking to do.
+6131.22 And then by this,
+6132.09 you can start to tailor the
+way that you use your eyes.
+6135.9 The same thing I do for posture,
+6138.3 the same thing I do for stance,
+6140.16 the same thing eventually I do for state.
+6143.61 And there is different flavors,
+6145.05 there is no correct way to use the eyes.
+6146.85 Sometimes it's very peripheral,
+6148.53 soft, open awareness orientation,
+6151.86 sometimes it's very focused.
+6154.62 Notice that I'm pulling
+these two opposites,
+6158.37 awareness and focus,
+6159.84 which is often put together and fused,
+6162.57 but and then the eyes
+6166.02 are like the immediate
+6167.88 and the easiest entry point into that.
+6171.33 Another thing is the placement
+of the head and the eyes,
+6175.95 like for example, when we lower our chin,
+6179.13 we seem to see better.
+6182.52 When we raise the eyebrows,
+6184.89 there is too much exposure
+of top light sources
+6188.31 and so people would usually
+when looking into the distance
+6191.16 will tilt their chin in.
+6193.38 And in many scenarios, tilting
+of the chin to the side,
+6197.16 or placing just like
+listening with the ear,
+6200.85 placing a certain eye or dominant eye,
+6203.73 depending on various scenarios.
+6206.49 And this is all like information
+6208.2 that I can come in cerebrally,
+6211.2 and think about, and
+jump my practice forward.
+6214.71 Instead, of just letting the
+experience teach me that,
+6218.52 I'm using some kind of a
+thinking process to improve.
+6221.34 And this is not cheating, this is great.
+6224.43 Will it work?
+6225.45 We got to try, it's a process.
+6228.69 And those are some thoughts
+and to start to play with.
+6231.63 - Yeah, I love that
+you mentioned chin down
+6236.07 because we all have a natural reflex
+6237.75 when chin goes down, eyes goes up,
+6239.4 and the opposite is true when
+head goes up, eyes go down.
+6243.3 And there are two separate
+clusters of neurons
+6245.58 in these cranial nerve
+nuclei that, as we call them,
+6250.17 when eyes are up,
+6252.45 it increases our level
+of alertness overall.
+6254.949 This is not woo science,
+6258.03 this is the function of
+these cranial nerve nuclei.
+6262.11 When our eyes are down,
+6264.54 we go into states of
+more calm and quiescence.
+6267.3 And this makes perfect sense,
+6268.38 you know, and then the
+eyelids usually go down
+6270.0 and then people fall asleep.
+6271.59 Eyes up does not mean head up
+6273.69 'cause, as you said, there's
+a very dynamic control
+6275.85 over the amount of luminance
+depending on the environment.
+6278.43 So, that and then, as you mentioned,
+6281.34 this difference between
+focus and awareness,
+6283.89 I think is a really important one.
+6286.17 When we are in this more
+panoramic, soft gaze
+6289.77 and broad awareness, big swaths
+of visual field, as we say,
+6293.85 the neurons that control that
+6295.44 come through a pathway
+called magnocellular pathway.
+6297.48 In any event, those
+neurons are much thicker,
+6299.52 thicker cables, they transmit much faster,
+6301.47 just like thick pipes can
+carry more water more quickly.
+6305.58 And your reaction time
+is at least four times
+6309.3 what it is in this awareness mode
+6311.76 than it is when you're
+narrowly focused on something.
+6314.13 And this is counterintuitive,
+I think, to a lot of people,
+6316.47 but the person who is
+running to catch the ball
+6318.27 is not tracking the ball
+in a smooth movement,
+6321.232 most of their vision is
+in peripheral vision.
+6323.52 When we drive we're in
+this peripheral vision
+6325.77 and our reaction times
+are much, much faster.
+6328.53 So, I don't know if I'm
+reluctant to encourage people
+6332.73 to shift toward a
+particular type of practice
+6334.98 toward a particular type of vision.
+6336.15 I think what you and I,
+6337.539 I hope agree on, correct me if I'm wrong,
+6341.16 is that exploring these different extremes
+6344.61 and everything in between
+is where the real value is.
+6346.95 Panoramic focused,
+6349.23 eyes, head up, eyes down,
+6351.21 head down, eyes up,
+6352.26 playing with it and exploring it
+6354.6 and as opposed to for the
+first 10 minutes of practice
+6358.86 being panoramic vision.
+6360.06 You know, the sort of-
+6360.893 - Yeah.
+- earlier today we were joking
+6362.67 about and kind of lamenting the fact
+6365.4 that this word biohacking exists
+6367.47 or that the optimal performance,
+6369.42 it's that they're unfortunate terms
+6371.19 because they suggest that
+if you just plug it in,
+6373.56 it's going to be like
+two plus two equals four
+6375.15 and you're going to get
+it right every time.
+6377.61 - Another pragmatic bit
+here, if I can offer,
+6380.4 is since our culture
+6385.74 has been more geared and
+pushing us towards focus,
+6389.021 the focus use of the eyes,
+6390.45 and primary language,
+reading, and other things,
+6394.71 we have less opportunities
+6396.6 to work with the more open panoramic one.
+6399.63 So, it would be smart
+6401.52 to start to balance things out a bit more.
+6405.57 When you're in nature, you
+don't look at each leaf,
+6408.81 everything is moving, and you
+are kind of immersed in that.
+6412.32 And then, something
+attracts your attention,
+6413.917 "Oh, it's a bird," and you focus,
+6415.8 and you go back into the general state,
+6419.19 the base state, which is open awareness.
+6422.79 Here, we switch things
+around in our modern culture,
+6425.82 we are mostly focused and
+then we sometimes daydream,
+6430.11 which is maybe some kind
+6431.914 of a balancing act
+6436.02 that comes from deep within,
+6437.52 I don't know, maybe you can share
+6440.1 some information about that,
+6441.3 but I see that many time people need to,
+6444.45 the focus is overly done
+by far in our lives.
+6449.49 - I couldn't agree more,
+6450.84 and I think a lot of I'll
+even venture so far as to say
+6453.39 that a lot of the visual deficits
+6456.45 that we now see in young people,
+6458.34 myopia, literally nearsightedness, occurs
+6461.4 because if we look at things
+that are too close to us
+6463.56 as children or as adults,
+6464.82 the eyeball actually gets longer.
+6466.83 The lens focuses the visual image in front
+6470.82 of nearer to the lens, nearsighted,
+6473.28 than in front of where it should land.
+6476.76 And basically, it's a
+lack of panoramic vision
+6481.17 that is or open awareness
+that's driving these changes.
+6484.59 And nowadays, we are essentially,
+6486.87 most people are 90% of the
+time in this narrow focus mode.
+6491.04 You know, right before recording,
+6492.09 we took a break and went
+up to look at a vista
+6494.4 and to look off to the
+distance, incredibly useful,
+6498.3 easy practice at some level,
+6499.74 but I think most people are
+not doing this sort of thing.
+6502.41 And the way that it shapes the mind
+6503.97 and the perception of time,
+6505.23 of course, is a whole
+other kingdom of ideas.
+6508.35 But one thing I'd like to relate
+6511.29 this element of vision
+to and open awareness
+6513.69 is earlier you mentioned the
+cone of auditory attention,
+6516.54 the other sense that we can play with
+6518.88 in as in our practice
+and throughout the day.
+6523.65 Do you see any value to both
+paying attention to things
+6527.61 in a very narrow cone
+of auditory attention,
+6529.62 but also just walking and listening
+6531.9 to all the sounds at once?
+6533.7 I could imagine that could be useful.
+6535.38 And in terms of physical
+movement practices,
+6538.65 I was going to say where are your ears?
+6540.24 Your ears are always more
+or less in the same place,
+6542.1 but where is your hearing when
+you approach your practice?
+6546.238 - Another set of
+parameters to think about,
+6549.66 and to play with, and to be aware of.
+6553.53 Also, I have the
+experience that some people
+6556.95 are better at using this
+system or that system.
+6562.5 And you would be amazed how
+differently the same results
+6567.69 seemingly outside results are done
+6569.58 by different practitioners
+and different scenarios.
+6575.1 This goes into this
+mutation and change idea
+6577.62 is what really jumps us forward eventually
+6580.89 some kind of a mutation.
+6582.75 So, it's like all of our culture,
+and practices, and success
+6587.34 puts us closer and closer to each other,
+6590.16 so we have the same opinions
+everywhere around the world
+6594.42 becoming more and more the same,
+6596.94 less and less different,
+6598.65 but the real hope comes
+from the different,
+6602.49 so and we have a difficulty
+in promoting that.
+6609.57 And so, this is another
+thing that can be promoted
+6613.38 with the right practices,
+6615.54 the right, for example,
+I work with corporates
+6619.29 or even worked with governments before
+6622.11 to bring in some of that freshness
+6624.09 with simple habits in the workday,
+6626.61 or in the education of children,
+6628.89 or in companies increasing productivity.
+6634.74 I don't really give a fuck,
+6636.72 but I am there to give
+what I view is important
+6641.34 and what is important maybe
+increases productivity,
+6646.02 but it's more important to me
+6647.22 that it improves people's
+lives who are involved
+6650.43 and improves, yeah, being and becoming,
+6656.1 being and becoming, these two entities.
+6659.19 I'm not there, I'm on
+my way, I'm a process.
+6662.91 So, thinking about hearing,
+6666.75 the way that people use their ears,
+6669.06 the way that people use listening.
+6672.21 Again, we can talk about
+placement of the head and posture,
+6677.01 sometimes angling as well,
+sharper angle, chin down,
+6680.7 some people tend to use
+the shape of the ear,
+6684.81 people with different ears
+closer or further out.
+6688.89 This is it's if you're very sensitive
+6691.5 and you're looking around,
+6692.37 you would see this is
+affecting people's motion.
+6697.26 Even the shape of our face,
+6700.44 like the development of the vocal chords
+6702.27 and speaking will totally
+change how we are, how we look,
+6706.32 but how we listen also will do the same.
+6711.24 I don't have any proof of it,
+6712.56 but it is something I believe in.
+6716.624 - Well, people will even make
+their ears bigger, right?
+6719.16 We, we try and become like
+little fennec foxes or something
+6722.34 by, I mean, a lot of people don't realize
+6724.2 that's actually why we do this
+6725.18 is to capture more sound waves, right?
+6727.41 And the leaning is that
+the localization of sound
+6729.722 is based on a simple brainstem calculation
+6732.24 of interaural time differences,
+6734.37 the time in which something,
+6736.35 the brain intuitively, it just knows
+6739.08 'cause it's a pretty hardwired circuit
+6740.91 that if a sound arrives first
+to this ear then that ear,
+6743.46 that it's likely coming from over here.
+6746.55 Whereas, if it's dead center,
+6748.23 arrives at the two at the same time,
+6749.85 that it's almost ridiculously
+simple when one hears it,
+6753.45 no pun intended,
+6754.53 but it is an incredibly
+valuable way of thinking
+6759.69 about how the architecture of the body
+6762.57 changes our experience.
+6765.3 Along those lines earlier,
+you mentioned something
+6767.37 and it flagged an
+important question for me.
+6771.93 When I see people walking
+6775.192 sometimes I think, "Wow, they
+really move in a strange way."
+6779.31 Occasionally you see somebody,
+6780.33 they walk really, it's
+impressive for whatever reason,
+6783.93 you know, and you just think, "Wow,
+6784.95 they sort of glide along."
+6787.53 People come in different shapes and sizes,
+6789.33 short torsos, long arms, et cetera.
+6793.11 Do you think that if
+people have a body type
+6796.26 that facilitates certain kinds
+of movement and not others
+6799.35 that they should intentionally
+try and move in the way
+6802.86 that is right at the edge
+6804.6 of the kind of friction and challenge
+6807.81 in order to shape new possibilities,
+6811.83 or do you think that they should lean
+6813.15 into the smooth execution
+6814.89 of what comes most naturally to them?
+6817.71 - Yeah, I think a good
+practice is to have many walks
+6825.9 because they're required.
+6827.04 And, of course, there is a very efficient
+6829.86 and endurance, stamina-oriented thing
+6832.83 that if you have the experience,
+6834.96 it will naturally develops and unravel.
+6837.6 And if not,
+6838.433 you can get some collective
+knowledge and improve.
+6841.92 And then there is a lot of emotion,
+6845.52 emotional things related to walk
+6847.5 like how I'm walking
+into a business meeting
+6851.94 and/or how I'm walking
+6856.29 out of a bad situation.
+6859.47 And there is a lot of beautiful
+things to research there
+6864.27 practically with yourself,
+6865.95 trying to approach someone
+with the chin slightly down,
+6868.98 very linear, very efficient
+in the straightest line,
+6872.1 or trying to approach someone
+a little bit more rounded
+6874.89 from the side and tilting your head,
+6877.71 and you will see totally
+different results,
+6880.56 totally different
+communication that happens
+6884.01 over people's heads.
+6885.09 But if you're sensitive,
+you realize that, "Wow,
+6887.91 this opened the door."
+6889.62 Instead, many people
+you start on the minus.
+6892.14 My sister, my big sister, Atali,
+6893.82 she always says, "I started on the minus,
+6896.7 why don't I start on zero with them?"
+6899.13 You know, so, but it's
+part of the approach.
+6902.61 You can affect that, and you
+can start even on the plus
+6905.43 if you are the sly man as
+the practitioner needs to be.
+6910.62 So, this is something to
+play with and to work with
+6914.31 and then you have, of
+course, body proportions,
+6916.56 and ways, and we have all
+these like technical invasions,
+6920.52 mathematics, and trigonometry,
+and architecture,
+6923.58 they invaded our bodies, they
+invaded our nervous system.
+6927.27 And now, our walk and
+our physical practices,
+6930.09 they look linear and efficient,
+6932.7 the path between two
+points is a straight line,
+6934.8 it's not, this is biomechanics,
+6936.6 it's not mechanics,
+nothing there is a given,
+6941.43 there's no gospel.
+6943.26 So, the walkers is
+sometimes have to go around
+6947.4 or sway from side to side,
+6949.05 and there is coiling and coiling
+and there are moving bits.
+6951.69 And what about the coordination
+6953.76 of my breathing with my walk?
+6955.2 Because if I walk too linearly,
+6957.39 there is less pumping of
+the air naturally in and out
+6960.36 so now I have to forcefully
+6962.1 bring it in and out, I'm wasteful.
+6964.92 And that's why you see in last years,
+6967.77 these incredible runners,
+especially in long distance,
+6972.03 doing things we never
+thought were possible
+6976.399 in the worst possible way
+that we used to think,
+6981.63 pronation and all kinds of things
+6983.883 like our technical thoughts
+6986.22 were totally misguided and wrong.
+6990.99 And then, somebody comes
+in and does it in some way
+6996.15 that is totally wrong
+6997.08 and he gets results we could never get.
+7000.62 And that's the beauty of playfulness,
+7003.35 experimentation, change, being different.
+7008.18 - As you're describing this I'm smiling
+7009.5 because one of my
+favorite neuroscientists,
+7012.32 he's out of the university of Chicago,
+7014.99 was in a meeting and there was an argument
+7016.79 about evolution of the nervous system
+7018.26 and he said, "At the end,"
+7020.87 and people were arguing about
+whether or not this gene
+7023.12 in one animal was homologous
+7024.71 to this gene in humans, et cetera,
+7026.3 it can get very dicey.
+7027.95 And he said very, very appropriately that,
+7031.617 "One of the major jobs of evolution
+7033.53 is to take existing
+cell types and circuits
+7036.17 and give them new functions.
+7037.76 But that can only be done
+through the playful exploration
+7041.48 of new possibilities,"
+7043.16 which I think maps very
+well to what you're saying,
+7045.77 that at the extreme thresholds
+of technical execution,
+7049.91 you know, mastery, mastery, mastery, you,
+7052.28 your obviously performance is very high,
+7054.95 but the opportunity for
+evolution of the sport,
+7057.71 or the music, or the dance,
+or the intellectual endeavor
+7060.65 is limited because you're
+not introducing variability.
+7064.07 In the attempt to get proper execution,
+7066.8 you're limiting oneself.
+7069.02 - Hence, I want to offer
+something that is relating to you.
+7075.17 We should be wary
+7076.34 of defining the mechanisms
+7083.54 and putting certain meaning
+with certain processes and ways
+7088.97 because just history and experience shows
+7091.55 it doesn't work well for us most times,
+7095.167 or it becomes like this
+much more elaborate thing
+7098.6 even if we were somewhat
+in the right direction
+7102.53 because even thinking
+this way can offer a lot.
+7106.13 Like for example, your advice
+7108.26 about heat, dopamine, light,
+7110.51 offers a lot of benefit,
+but also can create problems
+7114.47 and it can enclose something
+7118.4 which the improviser
+7122.75 will find, the MacGyvers, right?
+7124.7 Like take a pink, some paper clip,
+7128.15 and you make it into something great.
+7131.15 And this is really our,
+7134.42 we are the biggest improvisers around
+7136.37 like that's what made
+us who we are, I think,
+7138.707 and this is incredible
+what we can do with it.
+7142.46 You know, the Russian-American
+space exploration story
+7147.47 with the space pen,
+7148.91 famous story about the
+development of the space pen.
+7152.42 - I don't know.
+- It's a-
+7153.32 - A space pen?
+- Yeah.
+7154.411 - No, I don't know about this.
+7155.41 - I think it's an urban myth.
+7157.78 I don't know if it's true,
+but I like it so I use it.
+7161.15 Well, there was this, of
+course, a space competition
+7165.71 and the Russians put the
+first animal in space
+7169.566 and the first.
+- He was a macaque monkey
+7171.07 or something like that, yeah.
+- Yeah.
+7172.936 And then Laika, and they
+put the first Sputnik,
+7177.68 the satellite, and men in space,
+7180.23 but Americans took the man on the moon.
+7183.89 And on the way a lot of
+technologies got developed
+7186.347 and the Americans because
+of lack of gravity out there
+7189.17 developed the space pen
+with a huge investment,
+7191.93 the Russians used a pencil.
+7193.801 [Andrew laughing]
+7196.55 So, I don't know if it's true,
+7198.77 I don't think it is,
+7199.61 but it represents something
+in the state of mind.
+7202.49 Like you look at, for example,
+7203.63 the military equipment
+in Soviet equipment,
+7206.72 it all can do multiple things
+7209.57 and it means that it's heavier,
+7211.1 it's less efficient, it's not as light,
+7214.13 but even the Navy SEALs
+will still carry an AK
+7219.32 with certain conditions, why?
+7221.69 Because you can pour
+a whole bucket of sand
+7223.76 into the mechanism and
+it will keep running
+7226.13 while the most advanced
+German Heckler & Koch
+7229.13 and accurate and light weapons,
+7231.74 for every grain can get
+stuck and overly specialized.
+7235.19 And there is something about this openness
+7236.87 that we humans need to keep,
+7239.42 and also maybe something for our leaders
+7242.39 to be more of less specialists
+and more in this openness,
+7245.99 less capable in this or that way,
+7248.78 but more capable of doing the whole thing.
+7253.67 - I love the story, whether
+or not it's a legend or not,
+7257.3 it's legendary because it's fantastic.
+7260.48 As you say, in the laboratory,
+7261.56 whenever someone takes
+on a project in my lab,
+7263.42 I always say, "You know,
+you have to ask yourself
+7265.61 how much technical detail and
+challenge you want to take on
+7269.09 because with more technology,
+advanced technology,
+7272.18 yes, there's the opportunity
+for more discovery,
+7273.98 but more downtime.
+7275.33 Your PhD will literally take longer
+7277.58 if you're going to use a microscope
+7278.87 that's out of commission 30% of the time,
+7281.72 and you just have to understand that."
+7283.49 So, there's a dynamic interplay there.
+7286.31 - By the way, I think that
+scientists get it right,
+7289.01 it's where you transmit the knowledge
+7290.917 out of the scientific field
+7292.91 because science have
+debate and everything,
+7295.46 you're not so connected,
+7296.99 of course this can happen as well,
+7298.31 but then when it goes out
+7300.74 and the simple person
+without the experience
+7305.51 takes it more as a
+gospel, as a fixed thing,
+7308.12 and then it was just a report.
+7309.95 - Right.
+- It was just reporting
+7311.0 some functions here and play with it,
+7313.25 see what it does for you.
+7315.133 Because with all the greatest
+information that I can give,
+7319.01 the person will examine it
+7320.267 and it might be not useful at all for him.
+7324.02 This is the practitioner,
+make it your own,
+7326.75 go practice, try heat, cold, light,
+7330.74 movement, awareness to
+this, awareness to this.
+7334.196 And this is up to you to make it yours,
+7336.44 but we don't like to
+have this responsibility.
+7339.83 - No, people prefer to have
+7341.42 that this will work the
+first time every time
+7344.15 and will serve you best
+compared to everything else.
+7347.69 And while there are more
+reliable tools than others,
+7351.5 in my mind, the more reliable tools
+7353.6 tend to be ones that are
+grounded in our innate physiology
+7359.51 as opposed to some, I
+don't like the word hack,
+7361.82 in fact, I loathe the word biohack,
+7363.71 as we were talking about again earlier,
+7365.93 because a hack in my mind is something
+7368.36 that is designed for one purpose
+7370.01 that's used for another,
+7371.587 it's not the most
+efficient use of that tool,
+7374.6 nor is it naturally the best solution.
+7377.45 Whereas, biology has
+some very good solutions,
+7379.91 but they don't always
+work, not every time.
+7383.6 Earlier today, we did a practice
+7385.04 in which involved a invasion,
+7388.79 shall we say, of peripersonal space.
+7391.34 We weren't standing super close
+for any particular reason,
+7394.19 but there was God forbid-
+- God forbid.
+7396.74 - But there was we were
+close enough together
+7400.13 we could touch one torsos
+7401.78 and we were doing that
+as part of this practice.
+7404.15 And you encouraged me to pay attention
+7406.13 to how does it feel
+7407.78 to have someone in your
+peripersonal space?
+7410.3 And then, this notion of reactivity.
+7412.07 I find this an immensely interesting
+7414.17 and potentially powerful practice
+7416.72 because I think a lot of people,
+7418.52 I know a lot of people suffer from anxiety
+7421.79 just being in a face-to-face conversation.
+7424.1 Some people have a lot of anxiety
+7426.02 about being physically close to people,
+7427.7 whether or not they know them or not.
+7429.56 And many people are reactive,
+7431.33 they are in that anticipatory state
+7433.16 of something that is going to happen.
+7434.57 And sometimes this relates to trauma
+7436.25 and negative experience, but sometimes no,
+7437.96 sometimes they're just not
+used to being in dynamic,
+7441.23 excuse me, exchange with other beings.
+7444.68 And so, one thing that I love
+about the movement practice
+7448.16 and how dynamic is that
+one can explore that space.
+7450.35 Maybe you could talk about
+that a little bit more.
+7453.56 - Yeah.
+7456.71 Touch, proximity, all these things,
+7461.27 also taking very,
+7465.26 it takes a very, I think,
+limited place in our lives.
+7468.98 People are not touched and
+they don't touch enough.
+7472.13 There is certain bubbles
+of peripersonal space
+7475.55 according to culture,
+according to environment,
+7477.92 what is right, what is wrong?
+7479.21 And then came all the, of
+course, political correctness,
+7482.54 and harassments, and all kinds.
+7485.33 And this is a problem,
+7486.71 it's a problem to navigate
+all this scenario.
+7490.19 And I think we are,
+7491.69 there is definitely this
+side which is suffering.
+7495.41 People go to BJJ classes to touch,
+7498.257 not to learn BJJ.
+7500.96 Most of it, they're not even aware of it,
+7503.15 before they would go
+to a prostitute, maybe.
+7508.43 It would not be honest to say that,
+7513.41 yeah, this is not required or
+necessary more in our lives.
+7518.27 Children who are not touched,
+7519.8 there is a lot of information
+about that and the problems,
+7522.68 but adults who are not touched,
+7524.54 there is not a lot of information.
+7525.89 And I think it's no less of a problem
+7528.02 because it's something that
+has to be constantly present.
+7532.19 And then, proximity being
+able to, as you said,
+7537.32 remove certain reactivity
+and to learn to control
+7543.41 that volume control
+over how reactive I am,
+7547.82 and in other scenarios,
+7549.14 how do I remove this reactivity altogether
+7551.3 is very important for performance
+7553.07 and also for our lives for
+clear thinking, et cetera,
+7556.37 because everything is moving through us
+7558.59 and is being monitored by us
+7561.14 so everything has the
+potential to detract us
+7563.9 from a certain direction of exploration
+7567.2 or and if you're reactive, you're a slave,
+7571.048 and it becomes worse and worse and worse.
+7574.52 Or as, for example, a fighter,
+7576.56 or a football player, et cetera,
+7578.6 has to know what to
+take, what not to take.
+7581.09 The fact that you can sense more
+7582.98 doesn't mean you should react to it.
+7584.48 And the practice helps that
+7586.88 by bringing people into these scenarios,
+7589.19 but oftentimes disarming them.
+7591.35 Like when we were working closely today,
+7594.08 and because you have a certain background
+7597.2 with boxing or fighting,
+7599.33 I can tell you, you are
+missing some kind of a way
+7603.65 to be in that space that is not marshaled.
+7607.61 So, you carry a certain tone,
+7610.34 although you're a very kind person,
+7612.32 but oftentimes you held me
+7614.81 without realizing you're holding
+me with a lot of strength,
+7617.78 for example, and it just,
+7622.61 it was clear to me you're not fully aware
+7624.89 of what is unfolding
+7625.723 and it's just, of course,
+a question of experience.
+7629.42 So, to be able to be in this scenario,
+7631.04 but do something else,
+7632.93 which is not geared towards
+winning, losing competition,
+7637.04 or just being able to
+play with another person.
+7639.89 Like for example, contact
+improvisation took that
+7642.95 and played with that,
+7644.237 and the work of Steve Paxton
+7646.04 for the ones who are not familiar.
+7649.67 So, this is where I call it the hybrids
+7654.05 become very useful,
+7655.64 like we don't when you are
+practicing in this open way,
+7661.04 you are not bound by specific rule set
+7663.74 or ways of doing things.
+7665.0 It can be a fight, but it can be a dance
+7670.1 a moment after.
+7671.03 Another thing that I learned from capoeira
+7674.18 the situation's very tricky there
+7675.92 'cause I've seen kids
+doing cartwheels in Brazil
+7679.37 and scissors fall from their pocket.
+7682.97 Why, why would you go to with
+a scissor in your pocket?
+7686.96 Obviously, there is certain intentions
+7689.48 and then at other times you see back flips
+7691.25 and beautiful things, but people
+die in capoeira every year.
+7696.95 - Neck breaks or something?
+7698.69 - Kicks through the face
+from various violence.
+7703.1 It's I've explored other
+martial arts and boxing,
+7707.36 I was involved with MMA and BJJ,
+7710.42 but I tell you the most violent arenas
+7712.49 is that vibe 'cause it's unknown.
+7714.92 One moment, it smiles,
+7716.57 another moment, it's something
+else and it's uncontrolled.
+7718.88 There is no categories, no weights,
+7720.53 and it's a street phenomenon.
+7722.69 So, you have musical instruments,
+7724.58 sometimes they break it on your head.
+7726.35 People don't see that,
+7727.34 but you can look online on YouTube
+7729.47 and see some of that side of capoeira,
+7731.81 which is actually the day-to-day in Brazil
+7736.34 and the reality and how things unfolded.
+7739.55 So, it's very important to explore
+7743.21 many ways of being within
+different distances and spaces
+7747.23 from other people and
+touched in different ways
+7750.38 and not contextualizing
+it always in the same way.
+7754.76 I can touch your chest in one way,
+7757.64 I can touch it with the exact
+same pressure and speed,
+7760.67 but it will feel very different.
+7762.95 The parameters, I'm not
+sure, certain intentions,
+7766.22 certain combination of postures or ways,
+7769.46 and this is beautiful exploration.
+7771.191 And again, I would
+encourage you and others
+7776.12 to explore the discomfort.
+7778.16 For example, certain
+discomfort to be with a man
+7782.213 in a certain scenario or with a woman
+7784.31 and trying to see what is that?
+7786.98 Because if we're truly strong,
+7789.89 we are not afraid of anything.
+7791.69 If we truly know who we are
+7794.75 and we are in that exploration,
+7796.97 we don't know the end result,
+7798.47 but we are in a research
+7800.15 and then we are not afraid
+of being in debt or this,
+7803.18 and we don't come out of boundaries,
+7805.28 and this will improve
+our culture tremendously.
+7807.77 Of course, there must be agreement,
+7809.87 you never force yourself,
+7810.95 but you meet someone
+who is also interested
+7813.23 in that exploration and then you do it.
+7816.031 And there are many scenarios
+7818.45 to do that with traditional practices,
+7820.82 like learning to grapple
+7822.62 or going to contact improvisation
+7826.25 and studying there, or going to dance,
+7828.86 to Latin dance class
+7830.707 or and there is, of course, my favorite
+7833.27 is to create and to come
+up with your own hybrids
+7837.62 of that and scenarios.
+7839.72 Communicating with your
+loved one through movement,
+7842.51 not sitting around food and talking,
+7846.17 moving together in all kinds of ways.
+7848.09 Sometimes it's walking together,
+7850.04 but sometimes it's all
+kinds of, it can be game,
+7853.7 playful, it can be romantic.
+7856.032 And there are many shades,
+7858.23 sex doesn't start here
+and end here, right?
+7861.68 It's like a continuum,
+7863.09 and we don't even need
+to define it in that way.
+7866.12 So, with time, I think it unlocks
+7870.32 a lot of things.
+7871.153 People become much
+stronger in a good sense,
+7873.89 in sense of becoming, being,
+7876.92 and we abuse less, and we can approach,
+7882.38 yeah, other aspects to us.
+7885.02 - I love the idea that
+through the exploration
+7887.3 of a range of physical contacts
+7890.84 provided one knows they can always return
+7893.33 to their center, so to speak,
+7895.52 then there's a lot of
+opportunity that opens up.
+7898.7 I wish there was more of that
+encouraged in children's play,
+7903.26 but also, as you mentioned,
+in adult environments.
+7907.07 Because yeah, nowadays
+for all sorts of reasons
+7911.06 that you've touched on,
+7912.95 the idea of keeping at least
+in arms length distance
+7915.26 has become critical.
+7916.34 There are a lot of environments
+7917.21 actually where hugging is not allowed.
+7919.91 I don't know what it's like in Israel,
+7921.5 but in the states many
+institutions you're not allowed
+7924.41 to touch anyone else's body.
+7926.93 There's actually a wonderful study
+7928.04 that comes to mind from
+an Israeli laboratory,
+7930.02 a guy named Noam Sobel, who's over there,
+7933.92 who has shown that by recording
+people's first interactions
+7938.51 that when people meet,
+if they shake hands,
+7942.5 they almost always,
+7944.3 I think it's greater than 85% of the time
+7946.52 they will then wipe the chemicals
+7948.05 from the other person onto their own eyes,
+7950.24 typically their eyes or their face.
+7952.4 This changed a little bit
+during the whole pandemic thing,
+7955.82 but this is thought to be a carryover
+7959.78 from what other animals do
+7961.01 in terms of exchanging
+microbiome elements,
+7963.56 exchanging chemicals that
+we're constantly feeding
+7966.29 our subconscious with
+the chemical knowledge
+7970.37 of the chemical constituents
+of other people, right?
+7974.24 So, it goes way beyond how people smell,
+7977.27 how they look, et cetera.
+7978.83 More touch seems to me just, as you said,
+7981.83 provided it's consensual,
+7982.76 it seems like it's just a
+really good thing overall.
+7985.79 - And I think maybe also
+important for discharging,
+7989.87 discharging certain experiences,
+remodeling, reframing.
+7993.5 So, it's like touches,
+it's very powerful in that.
+7996.622 If you're touched and
+you're touching a lot,
+7999.59 you're unpacking and you
+experience that touch
+8002.56 that maybe has been traumatic
+and you're reframing it,
+8006.1 you have the opportunity,
+which is something interesting.
+8011.05 I've heard some story
+8014.5 about some traditional culture
+8016.66 in which when you were burned by mistake,
+8019.69 they would immediately burn you again.
+8023.079 And it made me think,
+8024.127 and then there would not be any burn marks
+8027.79 and there would not be
+the same side effects,
+8030.94 that's the claim.
+8033.01 It made me think it's like,
+"What's the source of this?"
+8035.38 And I realized that maybe it allows
+8038.26 a certain completion to happen
+8041.05 that in the traumatic moment is not there.
+8044.08 So, the re-exposure,
+while you're still open,
+8047.02 the pores are still open,
+8048.88 allows you to reframe the experience
+8051.4 and then the unfolding
+of the rest of the event
+8055.06 is very different.
+8056.59 This is if you're touching
+8058.21 in your practice in the day-to-day,
+8059.8 and you're working with people,
+and you're being touched,
+8061.72 and people come closer, further
+away, it happens naturally.
+8067.39 Yeah, and if you pass a certain limit
+8070.18 and it becomes too much,
+8072.37 there is always, of course, communication
+8074.44 that has to be present.
+8076.54 Certain cultures make
+this communication pre,
+8080.71 certain cultures post.
+8083.35 The Israeli, for example, post,
+8085.75 here pre.
+8086.98 - Ah, so in Israel,
+8087.813 they'll say, "That
+didn't feel good to me,"
+8089.8 or, "That felt good," or, "That was fine."
+8091.93 - Yeah, it would be more common.
+8095.2 Here in the airport,
+8096.73 the guys telling me, "I'm
+going to slide my hands
+8099.04 up towards your crotch
+until I meet the hard stop,"
+8103.951 and then he does this in a way
+that is supposed to show me,
+8108.07 I have no enjoyment in that
+8110.95 and for me it just feels aggressive.
+8114.07 But his intention is good, showing me.
+8117.16 But if it was a loving touch,
+8119.11 it would be nicer for me actually,
+8121.48 personally that's it would be gentle,
+8124.6 but he goes up there and he shows me,
+8126.947 "I have no enjoyment in this."
+8129.927 [groans] That's my testicle right there,
+8133.45 so it's different choices.
+[Andrew laughing]
+8137.29 I don't think it's like worse,
+8138.697 but this description can
+be a bit dissociated.
+8142.39 And what does it make me think?
+8144.01 Is it truly what he feels or not?
+8146.277 'Cause it feels robotic, so it's not.
+8149.5 So, sometimes I'd rather not say it
+8151.6 and I'm going to touch your chest
+8154.36 and just place my hand on the chest.
+8157.0 And, of course I, we
+can't avoid a problem,
+8161.02 I'm not suggesting that there is,
+8162.52 but there is an examination.
+8164.14 And because I moved around
+and around the world,
+8166.84 I've seen many things
+8167.77 and I've seen benefits
+here and benefits there.
+8172.18 And in the practice, I think
+it's important to discuss this,
+8175.18 to examine this, I don't have a solution,
+8176.98 but it's something to talk about.
+8179.65 - It is something to talk about,
+8180.97 and I'm glad you raised it
+8181.93 because I think that it's so clear to me
+8184.54 that much of the value
+of a movement practice
+8187.42 involves this dynamic
+interaction with somebody else.
+8189.85 As you pointed out, it can
+be performed on one's own
+8192.4 and practiced throughout one's day.
+8194.47 But the unpredictability is
+a key element to all of it,
+8199.09 and in bringing out all the potential
+8202.18 that you've described.
+8204.52 In reference to this notion of trauma
+8206.65 and burn and re-burn.
+8208.54 My colleague at Stanford, David Spiegel,
+8210.49 he works on trauma
+8212.56 and has actually on this podcast,
+8215.23 he voiced that he's against
+things like trigger warnings
+8218.11 because of the way that
+it puts the nervous system
+8219.88 into this state of
+readiness and reactivity
+8222.58 that can exacerbate problems.
+8225.31 Whereas, it's very clear
+from the literature on trauma
+8229.57 and trauma relief that
+the way to deal with that
+8232.15 is through a controlled,
+8234.07 but clearly a controlled
+re-exposure to the trauma
+8237.7 in order to diminish the
+emotional response over time.
+8240.61 I mean, it's very clear
+if we avoid the thing,
+8243.28 obviously we don't want
+to re-injure ourselves
+8245.14 or re-traumatize,
+8246.16 but if one avoids the
+thing that makes them upset
+8248.14 over and over, all it
+does is serve to create
+8250.06 a heightened state of readiness,
+it primes more trauma.
+8253.18 - Yeah.
+- So, I think
+8254.05 it makes good sense.
+8254.95 - I think impressions are very useful here
+8257.98 also when stepping into an
+area in which trauma can occur.
+8262.3 And then, by going through the impression
+8266.2 that it already occurred,
+8267.76 you create some kind of a
+thermal layer of protection,
+8272.23 so I've already been hit
+when I'm entering that space,
+8276.64 it's so beneficial.
+8278.47 Or I've already been touched
+in a way that I didn't like
+8281.53 if I go to a contact improvisation class,
+8283.99 and just running this
+scenario in your head
+8287.68 protects so well, yeah.
+8291.16 - I'm glad you mentioned
+running scenarios in your head.
+8293.14 I've been curious all
+day as to whether or not
+8295.81 you do visualization
+8297.67 or mental rehearsal of physical movement.
+8301.12 This is it seems to be a
+popular idea in the states,
+8304.6 people are always asking me, "You know,
+8306.31 can you just imagine a movement
+8308.5 and learn it better than where
+you to actually perform it?"
+8312.43 My hunch based on and my understanding
+8314.62 of the scientific literature
+is that visualization
+8317.47 can be useful to some extent
+8319.33 for people that are very
+good at visualization,
+8321.79 but for many people, it doesn't help.
+8323.92 And that there's nothing
+like real physical practice
+8327.43 to improve physical practice.
+8330.67 - Yeah, the word visualization's
+not good, obviously,
+8334.63 it has to be experientialization
+8339.19 in a very complete way, not
+just visually, of course.
+8343.87 And unless you already developed
+8349.09 certain experience, tangible experience
+8351.513 that has benefited from
+feedback, from outside feedback.
+8357.16 It is not a very useful thing to do,
+8360.037 and it ends up being fabrications.
+8364.42 But if you are very experienced
+8365.89 and you already gained the
+benefit of being burnt here
+8369.19 or overextended here,
+8371.02 then you have a certain experience
+8372.55 and then you can strengthen
+certain aspects of it,
+8375.43 but you got to be careful
+because you do not have feedback.
+8379.33 And because of the missing feedback,
+8381.07 you might develop delusions.
+8383.14 It might be that you
+develop stronger patterning,
+8386.59 but ultimately this would lead you away
+8389.68 from the aliveness of the movement itself.
+8394.39 Drilling, for example,
+very useful to learn
+8399.34 a general infrastructure
+of the movement sleeve
+8403.15 or the technique, but then to dress it up,
+8406.12 you need feedback, you
+need it to be alive,
+8409.48 you need to receive something corrective.
+8414.19 - I love it.
+8415.81 For many people, they approach movement
+8418.3 in the form of weight
+training, or yoga, or running.
+8422.56 Yoga's a bit more dynamic,
+8424.06 but it fairly linear types
+of exercise and movement,
+8429.73 Peloton, rowing, those kinds of things.
+8433.09 I think most people
+will probably not depart
+8437.05 from those practices entirely
+because they like them.
+8439.72 I'm speaking about myself,
+8441.19 I like some of those
+very much, I enjoy them.
+8444.31 But in terms of thinking about
+adding a movement practice
+8447.73 to one's already existing exercise regime,
+8452.8 I can imagine threading
+it throughout the day,
+8454.39 I can imagine having a
+dedicated movement practice.
+8456.79 One thing that I have started doing
+8459.76 on the basis of some of your teachings,
+8461.86 and I just sort of created this idea
+8463.24 is rather than statically
+8464.74 standing there and lifting weights,
+8465.91 actually walking from, as
+I alternate repetitions,
+8468.67 it occurred to me that
+I'd never done a curl,
+8472.6 a bicep curl with one foot
+in front of the other,
+8475.96 and then I'd never
+actually switched that up.
+8478.84 And it's kind of an odd stance
+to be standing in parallel
+8481.42 and curling one's arm,
+8482.29 it's kind of a ridiculous
+movement when one thinks about it.
+8484.84 So, I started incorporating some of that,
+8486.13 you get some strange looks in the gym,
+8487.57 but I just give them strange looks back.
+8489.76 So, what are your thoughts
+[Ido laughing]
+8492.34 about these very linear forms of exercise?
+8494.522 And, do you encourage people
+8497.8 to expand the play space, as it were,
+8501.19 for these kinds of exercise?
+8503.05 Or do you think that movement
+practice is just best explored
+8507.13 through three dimensionality,
+8510.07 gravity, and maybe a stick or a ball?
+8513.085 - Hmm, it's definitely a problem,
+8516.34 and it's approachable.
+8518.17 People want a quick, people want a hack,
+8520.93 people want the icing, there is no cake.
+8524.95 There is no cake, and it's
+just like industries of icing,
+8528.13 icing, icing on what?
+8529.81 What are you putting it on?
+8531.31 So, for me that, that's why
+I'm going towards this side,
+8536.17 it's like I have my life,
+8538.12 now tell me what movement
+practices I should pursue.
+8542.32 You are movement,
+8544.6 in essence, you are not
+thinking of yourself
+8548.17 in any serious way through my eyes.
+8553.0 There is a dynamic entity to you,
+8556.0 the body is a huge part
+of it communicating,
+8559.81 you have genetic layers,
+8562.57 there is a personalities
+that got developed
+8565.24 and built around various influences,
+8567.46 but then there is also
+some kind of an essence,
+8569.95 something that reeks
+from within the cells.
+8573.7 And if you grew up in my family
+8576.46 and I grew up in your family
+and it would still be the same,
+8579.7 and that it's something that
+I always try to think about,
+8582.52 what is that inside of me?
+8586.48 So, I think these practices,
+they're very good,
+8589.36 but they're not designed for the goal
+8592.03 that we think they were designed to do it,
+8595.81 it orients towards something else.
+8597.4 For example, yoga,
+8599.38 there is a good book
+called the "Yoga Body",
+8602.14 which will destroy a lot
+of people's yoga practice.
+8606.334 And it goes into how
+did we get to this yoga,
+8609.61 the influence of Swedish gymnastics
+8612.16 and Mongolian contortionists,
+8615.94 and the Western, the West affecting it,
+8620.59 and then the ancient practice,
+8622.12 which was barely asana-related,
+8626.23 posture, position.
+8627.28 So, actually you said yoga is less linear,
+8629.5 yoga is very linear, very
+linear these days, these lines.
+8633.55 Look at all the traditional dances,
+8635.47 they look like nothing like yoga.
+8638.05 Look at tai dance, look at
+Chinese dances, martial arts,
+8642.25 it's all rounded, it's all curved,
+8643.66 it's like the like out nature,
+8645.49 what you see in nature and
+the movement of the animals.
+8649.33 So, where does it come from?
+8651.82 These are things to understand
+8653.23 because it designs you now, it shapes you.
+8656.05 You're placing yourself
+in these forces of change
+8659.62 and these streams of change,
+8661.51 and you have a good intention,
+8662.83 you just want this or that,
+but the joke is on us.
+8667.09 And this is the movement practice
+for me is first education,
+8672.01 let's start to think about this.
+8673.6 I have nothing that I
+can just sprinkle now,
+8677.83 some magic powder that
+will help resolve this
+8681.04 because it's a start of
+a deep investigation.
+8685.3 And then, some of the things,
+let's talk pragmatically,
+8688.51 because what you described
+8690.43 is not about you placing the foot in front
+8692.83 when you're curling, it's
+about the examination,
+8696.43 this is why it is a very good direction.
+8700.21 And then, you will need
+another one, another one,
+8702.46 don't get stuck on that
+foot in front of it
+8704.8 and try to do with the eyes closed
+8706.93 or with a different head posture,
+8708.19 and you will see things arrive,
+8710.83 unrelated things because
+the associative mind,
+8713.98 the thinking, this relates,
+8715.33 this doesn't get to
+the heart of it, never.
+8718.6 So, just infusing
+8723.22 these elements like in a cup
+8726.07 will create endless combinations,
+8729.43 possibilities, and a lot of discovery.
+8731.95 And this for me is humility
+of the practitioner.
+8734.53 I don't know, I try like today with you.,
+8737.29 I tried various combinations
+8739.72 and oh, I discover something,
+8741.16 oh, there is, this is a playful approach,
+8743.35 and this is a researcher approach.
+8746.59 I don't try to fit my
+truth into something,
+8749.377 I'm there to examine.
+8751.87 I don't have a motive yet, why?
+8755.05 Because I'm fine, I don't
+depend on that to define myself.
+8759.37 I'm a human being,
+8760.87 but if I don't have that sense of worth,
+8762.602 I'm already like geared
+towards I need to do this,
+8766.15 I need to prove this, I have this agenda.
+8768.37 And this is how we get
+all the lies in the world
+8770.92 and all the problems and difficulties.
+8773.74 So, these practices,
+they are related to it
+8777.58 to prove this, that, this way,
+8780.94 why we need muscles for X, Y, Z.
+8783.97 And a lot of the reported outcomes
+8789.49 are often from my place is like funny.
+8792.43 I hear about something
+like I heard you say
+8794.98 about gratitude practice
+8797.56 that actually experiencing from outside
+8801.76 as somebody else,
+8802.6 or you are receiving gratitude
+is actually more powerful.
+8806.53 It's true, but I see why it's true,
+8808.9 I'm not sure everybody sees.
+8810.64 If somebody tries to feel gratitude,
+8813.34 just sit with the eyes clothes
+8815.56 or watch a movie and
+sense the gratitude there,
+8819.16 it will be clear to you,
+8820.48 one is very difficult to do
+and the other is very easy.
+8823.84 Hence, if gratitude is
+achieved easier this way,
+8826.48 that's why it works like that.
+8828.43 Although all the traditional
+practices are about you
+8832.36 and by challenging yourself
+8833.92 to sense that gratitude yourself,
+8836.44 they achieve much more powerful thing,
+8837.85 but this is not the research people
+8839.763 and the people in the research,
+8841.54 we don't have a lot of those people.
+8843.49 So, a lot of the things
+that can arrive to us,
+8847.33 weight training, the benefits,
+8849.55 or the way that the hormonal effect,
+8854.05 the effect of cognition, et cetera.
+8857.26 When you open a bit and you go far out,
+8859.72 you see certain things, not the truth,
+8862.42 but maybe less delusion.
+8865.75 There is nothing definite,
+8868.0 but there is something
+8871.39 maybe more wholesome that appears.
+8878.5 Yeah, I think this is so this is a state,
+8882.833 a state of exploration.
+8885.67 I don't want to have the same
+thought if I already had it,
+8892.6 why would I want to have the same thought?
+8894.37 I already had it.
+8896.02 I don't want to have the same practice,
+8898.636 I don't want to.
+8900.13 I curled already in this way,
+8902.29 I want to experience
+something else, I want to.
+8905.08 There is a benefit to gain,
+8906.67 No, but that was better.
+8909.61 The better is better,
+8913.72 is not more, is not faster.
+8916.39 It's like better is better,
+8918.58 and better isn't, we don't
+know what better is, right?
+8921.343 So, it's like it's open.
+8923.44 Oh, this is better, I don't know.
+8925.72 It's just more weight, it's one more kilo,
+8928.24 but maybe if I remove one kilo,
+8931.81 I discover something like,
+for example, power development
+8937.03 that has been shown to
+gain certain benefits
+8940.09 when you lighten the load
+and you accelerated more
+8942.97 in certain conditions,
+but who discovered it?
+8945.01 A practitioner, a math person,
+8948.7 not Verkhoshansky, Zatsiorsky,
+8951.43 they reported something,
+8955.0 but it was already within the
+grasp of the practitioners.
+8959.177 And I think, and as a
+researcher, this is very powerful
+8964.63 to remind yourself this
+and to work with that.
+8967.357 And as a practitioner,
+8968.41 as a living human being, for everyone,
+8970.48 I think something very useful.
+8972.64 And then, those plays that you're doing,
+8977.29 people give you the weird looks,
+8979.33 and it's like yeah, I tell people,
+8981.767 "You don't want to be normal.
+8985.03 If you don't get the weird looks,
+8986.47 you're not moving in the right direction."
+8989.23 You're moving in a very fixed
+8992.98 and you already know the
+result of that direction,
+8995.65 let's say at least that.
+8997.48 So, continue to play with
+that, continue to play.
+9000.99 Look elsewhere, look at
+places you didn't look at
+9003.57 because this is still like
+within the same layer,
+9005.52 one foot in front, one foot behind,
+9007.89 what happens when you do it with a smile,
+9010.95 the same workout, and when
+you do it with a frown?
+9016.26 Or what happens, breath
+holding or blood restrictions,
+9020.37 all this is great play,
+9022.68 and I think very beneficial
+to do, to go through.
+9028.069 - Love it, I think that's
+a wonderful message.
+9031.11 And what I keep hearing
+from you over and over again
+9033.33 is that people should
+explore, explore, explore.
+9039.12 And listen, I want to thank
+you for your time today,
+9044.13 first of all, for the incredible teachings
+9047.13 here at this table,
+9048.24 but also the introduction
+to a movement practice.
+9052.14 Although, now I'm tempted to say
+9053.22 that I've been moving my whole life,
+9054.57 I just didn't know I was-
+- It's true.
+9056.19 - that it was such a vast landscape.
+9059.61 Also, that your willingness to tread out
+9062.16 in this journey that is truly unique.
+9065.82 You know, that the greatest compliment
+9067.26 that one can give in science
+9068.58 is the one that I'm going to tell you now
+9070.53 because it's entirely appropriate,
+9071.79 which is we say you're an n-of-1, right?
+9074.458 That and you truly are,
+9076.08 I don't think there's anyone
+9078.12 that has been as willing to
+embrace existing practices,
+9081.72 evolve them, create new practices,
+9084.306 and to share so broadly
+9088.05 to really be willing to give
+and teach so much knowledge.
+9091.14 You know, earlier you made
+the mention of your goals
+9093.66 of in part of being wild and wise,
+9097.47 and I'm here to tell you that
+you are both wild and wise.
+9101.067 And so, thank you so much.
+9103.08 - Thank you very much, thank you.
+9104.94 - Thank you for joining
+me today for my discussion
+9106.92 about the science and practice of movement
+9108.84 and movement culture with Ido Portal.
+9111.51 If you'd like to learn more about Ido,
+9113.37 and his workshops, and other
+aspects of what he does,
+9116.52 please go to his social media.
+9118.08 His Instagram handle is
+Portal, P-O-R-T-A-L.Ido, I-D-O.
+9123.96 You can also go to idoportal.com,
+9126.48 and there, there are a
+tremendous number of resources
+9128.82 that will lead you to more
+information about what he does.
+9132.06 If you're learning from
+and/or enjoying this podcast,
+9134.37 please subscribe to our YouTube channel,
+9136.08 that's a terrific zero-cost
+way to support us.
+9138.75 As well, please subscribe to our podcast
+9140.76 on Spotify and Apple.
+9142.53 And on both Spotify and Apple,
+9144.3 you have the opportunity to leave us
+9145.68 up to a five star review.
+9147.45 On Apple, you can also leave
+us comments and feedback.
+9150.42 And if you have suggestions
+about topics or podcast guests
+9153.69 that you'd like us to
+cover on the podcast,
+9155.58 if you have criticism or questions,
+9157.47 please put those in the
+comment section on YouTube,
+9160.29 we do read all those comments.
+9162.57 Please also check out the sponsors
+9163.89 mentioned at the beginning
+of today's podcast,
+9165.78 that's the best way to
+support this podcast.
+9168.18 Not on today's episode,
+9169.29 but on many previous episodes
+of the Huberman Lab Podcast,
+9171.84 we discuss supplements.
+9173.34 While supplements aren't
+necessary for everybody,
+9175.47 many people derive
+tremendous benefit from them,
+9177.54 or could derive tremendous
+benefit from them.
+9180.3 For that reason, the Huberman Lab Podcast
+9182.19 has decided to partner with Momentous.
+9184.68 We decided to partner with Momentous
+9186.15 because, first of all,
+9187.08 they are the absolute highest quality.
+9189.0 Second of all, they ship
+anywhere in the world.
+9191.04 And third, we wanted to have one site
+9193.08 that people could go to
+9193.913 where they could find the supplements
+9195.3 that are discussed on this podcast
+9197.01 in the various dosages and
+single ingredient forms
+9199.71 that we often suggest or point
+people to on the podcast.
+9203.49 So, if you'd like to see
+the supplements that I take,
+9205.47 or that have been
+mentioned on the podcast,
+9207.42 please go to livemomentous.com/huberman,
+9210.33 and they're listed there
+as well as available there.
+9212.88 If you're not already
+following us on social media,
+9215.25 we are @hubermanlab on
+both Instagram and Twitter.
+9218.73 Both places, I do short
+posts about science
+9221.1 and science-related tools,
+9222.3 some of which overlap with the content
+9223.89 of the Huberman Lab Podcast,
+9225.18 and other of which is distinct
+9227.04 from the information on
+the Huberman Lab Podcast.
+9229.14 So, again, that's @hubermanlab on Twitter
+9230.73 and @hubermanlab on Instagram.
+9232.56 We also have a newsletter
+that many people find useful.
+9235.23 This is a completely zero-cost newsletter,
+9237.27 you can find it by going
+to hubermanlab.com,
+9239.31 click on the menu and go to newsletter,
+9240.87 and you sign up with your email,
+9241.98 we do not share your email with anybody,
+9243.78 and we have a very clear
+privacy policy listed there.
+9246.69 You can also get access
+at the very same site
+9249.27 to newsletters from the past
+9251.25 to see if those newsletters
+are indeed of interest to you.
+9254.13 We have newsletters about a
+toolkit for sleep, for instance,
+9256.71 or a neuroplasticity super protocol
+9259.05 that incorporates a lot of
+different podcast episodes
+9261.3 and themes that you might find useful.
+9263.64 Again, that's hubermanlab.com,
+9265.38 and go to the menu and click
+on newsletter, and sign up.
+9268.56 And last but certainly not least,
+9270.69 thank you for your interest in science.
+9272.371 [upbeat music]

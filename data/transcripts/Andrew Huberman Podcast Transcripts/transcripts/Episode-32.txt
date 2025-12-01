@@ -1,0 +1,5008 @@
+0.3 - Welcome to the Huberman Lab Podcast,
+1.9 where we discuss science
+and science-based tools
+4.89 for everyday life.
+6.719 [upbeat rock music]
+9.24 I'm Andrew Huberman,
+10.23 and I'm a professor of
+neurobiology and ophthalmology
+13.05 at Stanford School of Medicine.
+14.97 Today we are going to be
+discussing bipolar disorder,
+17.61 often called bipolar depression.
+20.13 Bipolar depression is a condition
+22.41 in which people undergo massive shifts
+24.87 in their energy, their
+perception, and their mood.
+28.32 However, it is very important to note
+29.94 that these shifts in mood,
+energy, and perception
+32.61 are all maladaptive.
+34.35 They can often cause tremendous damage
+36.21 to the person suffering
+from bipolar disorder
+39.03 and tremendous damage to
+the people in their lives.
+42.27 Today we are going to parse the biology
+44.61 that leads to these shifts in
+mood, energy, and perception.
+48.18 And we are going to talk
+49.56 about the various treatments that exist.
+51.57 Some of those treatments have been around
+52.83 for a very long time,
+54.24 and indeed one of those
+treatments, lithium,
+56.52 has an incredible backstory
+about its discovery
+60.39 and in understanding how lithium works
+62.97 and some of the ways in
+which it does not work well,
+65.82 it reveals a tremendous amount
+67.32 about how the brain works
+normally in all individuals.
+70.5 So that's a miraculous
+story that I look forward
+72.45 to sharing with you.
+73.92 As we go forward in this
+discussion about bipolar disorder,
+77.01 I want everyone to keep in mind
+78.06 that it is a very severe condition.
+80.37 In fact, people suffering
+from bipolar disorder
+82.74 are at 20 to 30 times
+greater risk of suicide.
+86.7 So today is a serious discussion
+88.86 and it's certainly one in which people
+90.72 who are suffering from
+manic bipolar disorder
+92.79 or who know people that are suffering
+94.2 from manic bipolar
+disorder can benefit from.
+97.17 However, for those of you
+that might know people
+99.54 or who themselves suffer
+from major depression,
+103.02 we will also be talking about important
+104.67 treatment developments
+for major depression.
+106.86 Major depression is a very
+common thing for many people.
+110.34 In fact, most people will
+suffer from depression
+113.16 of some sort at some point in their life,
+115.56 although not necessarily a
+major depressive episode,
+118.14 and yet major depression is very common.
+120.99 So you'll soon learn up to 20% of people
+122.88 will suffer from major depression.
+124.92 So today's discussion will
+encompass all of that.
+126.957 And it will also encompass
+basic brain mechanisms
+130.23 of neuroplasticity, the
+brain's ability to change
+132.75 in response to experience
+both for good and for worse.
+136.32 And you'll learn a lot
+about the basic biology
+139.5 of how the brain regulates
+mood, energy, and perception.
+143.28 I'm pleased to announce that
+the Huberman Lab Podcast
+145.14 is now partnered with
+Momentous Supplements.
+147.45 We often talk about supplements
+on the Huberman Lab Podcast
+149.94 and while supplements aren't
+necessary for everybody,
+152.16 many people derive
+tremendous benefit from them
+154.29 for things like enhancing
+the quality and speed
+157.11 with which you get into sleep,
+158.64 or for enhancing focus
+or for hormone support.
+161.67 The reason we partnered
+with Momentous Supplements
+163.47 is several fold.
+164.303 First of all, their supplements
+165.3 are of the absolute highest quality.
+167.04 Second of all, they ship internationally
+169.32 which is important because
+many of our podcast listeners
+171.81 reside outside the US.
+173.43 Third, many of the supplements
+that Momentous makes
+176.25 and most all of the supplements
+177.81 that we partnered with them directly on
+179.64 are single ingredient formulations.
+181.77 This is important for a number of reasons.
+183.27 First of all, if you're going to create
+184.59 a supplement protocol that's
+customized for your needs,
+187.35 you want to be able to figure
+out which supplement ingredients
+189.72 are most essential and only use those
+191.7 and supplements that
+combine lots of ingredients
+193.74 simply won't allow you to do that.
+195.27 If you'd like to see the supplements
+196.44 that we partnered with Momentous on,
+198.18 you can go to livemomentous.com/huberman,
+201.15 and there you'll see
+many of the supplements
+203.28 that we've talked repeatedly about
+204.72 on the Huberman Lab Podcast episodes.
+206.97 I should mention that the
+catalog of supplements
+209.43 that are available at
+livemomentous.com/Huberman
+212.1 is constantly being expanded
+213.84 So you can check back there,
+livemomentous.com/huberman
+217.2 to see what's currently available.
+218.97 And from time to time, you'll notice
+220.59 new supplements being
+added to the inventory.
+222.78 Before we dive into the discussion
+224.1 about manic bipolar disorder,
+225.27 I want to highlight some recent findings
+226.89 in an area totally
+separate from mental health
+229.77 that I think are really
+important for everyone
+231.27 to know about.
+232.17 This is a paper published
+in the journal Cell,
+234.18 which is a Cell Press
+Journal, an excellent journal.
+236.28 In fact, one of the three apex journals.
+238.11 So for those of you that are curious,
+239.67 papers published in the journal
+Nature, Science and Cell
+242.76 are considered the sort of Super Bowl,
+245.52 Stanley Cup, and NBA
+championships of publishing.
+248.4 And this paper entitled,
+250.5 an inter-organ neural circuit
+252.27 for appetite suppression illustrates
+254.01 a very important principle
+that I think everyone
+256.02 should know about,
+256.92 and that's the principle of
+so-called parallel pathways.
+260.43 Parallel pathways, as the name suggests,
+262.86 are pathways, they
+could be neural pathways
+264.9 or hormonal pathways or otherwise
+267.9 that operate independently of one another
+270.39 to accomplish a common goal.
+273.0 And what this paper really shows
+274.74 is that there's a set
+of peptides in the body
+278.61 and the peptide that
+I'm referring to today
+280.65 is called GLP-1, Glucagon-like peptide-1,
+284.34 and some related peptides.
+285.72 I've talked about these
+on the podcast before
+287.94 for two reasons.
+288.773 First of all, I'm a big
+proponent and consumer
+292.47 of yerba mate.
+294.119 Yerba mate is a tea that
+can promote the release
+296.64 of glucagon-like peptide-1.
+298.98 And there are also new prescription drugs
+301.62 that are now hitting the market.
+302.94 And for which there are really
+impressive clinical trials
+305.04 for diabetes and obesity
+306.93 that are essentially glucagon-like
+peptide-1 stimulator,
+311.16 so they stimulate the release of that,
+312.45 or they are in fact, a synthetic version
+315.27 of glucagon-like peptide-1.
+316.92 what is glucagon-like peptide-1?
+319.11 It is a peptide, which is
+a small little protein,
+321.96 that can dramatically suppress appetite.
+325.11 So that's why these
+drugs are being explored
+327.45 and are showing quite impressive results
+330.3 for things like treatment
+of type 2 diabetes
+333.18 and other forms of diabetes,
+as well as obesity.
+336.45 So they lead to weight loss.
+338.01 Now in terms of the yerba mate stimulation
+339.96 of glucagon-like peptide-1,
+341.28 that's going to be a much lower amount
+343.17 of glucagon-like peptide-1 that's released
+345.06 from drinking yerba
+mate as opposed to say,
+347.76 taking a drug that stimulates GLP-1
+350.1 or taking a drug that is GLP-1.
+352.53 Nonetheless, should also point out
+355.26 that yerba mate comes in a
+bunch of different forms.
+358.59 There is some concern about
+certain smokey-flavored forms
+363.03 of yerba mate being carcinogenic,
+365.28 so that's why I avoid
+those forms of yerba mate.
+367.8 But for me, yerba mate is one
+369.0 of the preferred sources of caffeine.
+370.95 For me, I like the way it tastes.
+372.48 It does provide that sort of caffeine kick
+374.43 that I like to have early in the day
+375.66 for focus and for work and for exercise.
+378.21 And yet I actively avoid
+the smoked varieties
+380.94 of yerba mate because of the potential
+382.92 carcinogenic effects of
+the smoked varieties.
+386.28 Glucagon-like peptide-1,
+as I mentioned earlier,
+388.98 can suppress appetite.
+390.75 But what this paper shows is it does that
+393.93 by at least two mechanisms
+through parallel pathways.
+397.68 What this paper shows is
+that glucagon-like peptide-1
+401.31 axon receptors in the body in a portion
+403.92 of the nervous system called
+the enteric nervous system,
+406.53 E-N-T-E-R-I-C, enteric nervous system.
+409.95 This is a component of your nervous system
+411.24 that you don't really have control over,
+412.83 it's autonomic or automatic.
+415.23 GLP-1 binds to what are called
+417.3 intestinofugal enteric neurons,
+419.82 you don't need to know the name,
+420.99 but those neurons do two things.
+422.7 First of all, they cause
+some gut distension,
+426.24 so they actually make you feel full.
+428.37 This is incredible, right?
+429.48 A peptide, not actual physical food,
+431.88 but a peptide that stimulates neurons
+435.24 that cause changes in the
+so-called mechanoreceptors
+438.38 of the gut, of the enteric nervous system
+440.97 and make people feel full.
+442.59 So it can lead to actually mild,
+444.54 or I suppose if levels
+of GLP-1 are very high,
+447.09 to major gut distension.
+449.37 I think that the levels
+of GLP-1 that would come
+451.35 from drinking yerba mate
+452.43 and hopefully from appropriate dosaging of
+455.61 the synthetic forms of GLP-1
+or drugs that stimulate
+458.4 GLP-1 would cause mild,
+not major, gut distension,
+460.86 'cause major gut distension
+would be uncomfortable.
+463.68 So GLP-1 is acting at the level of gut
+466.05 to increase gut distension,
+468.36 and by way of a pathway
+that goes from the gut
+471.66 up to the hypothalamus, this
+little cluster of neurons
+474.18 about the size of a marble that sits above
+476.07 the roof of your mouth, is
+also suppressing appetite
+478.98 through brain mechanisms.
+480.57 So this is really beautiful, right?
+481.98 You have a peptide, a small little protein
+484.11 that's released in the gut
+486.06 and that release within the
+gut causes gut distension,
+490.5 which makes you feel full.
+491.7 And by way of neural
+stimulation of the hypothalamus
+494.79 also activates neural
+pathways within the brain
+497.31 that trigger satiety, the feeling
+of having had enough food.
+500.67 So to me, GLP-1 is both
+impressive and important.
+503.76 Why?
+504.593 Because this recent category of drugs
+506.76 that's now hitting the market
+508.5 seems to adjust obesity or can
+help people with weight loss
+512.04 in order to help their health.
+513.78 And it's doing so by at
+least two mechanisms.
+516.39 One is within the brain, and
+the other is within the gut
+519.45 and communication through the
+so-called gut brain access.
+522.63 Because again, these enteric neurons
+524.37 are communicating to the
+brain, the hypothalamus,
+527.37 by way of this, what's called
+529.284 the
+sympatho-gastro-spinal-reticular-hypothalamic
+pathway,
+532.59 you absolutely do not
+need to know all of that.
+534.69 That's a mouthful,
+535.523 that's enough to make
+your mouth feel distended.
+537.51 But at the same time,
+things like yerba mate,
+540.45 and I'm sure there are other
+compounds out there as well,
+542.31 but certainly yerba mate can
+stimulate the release of GLP-1.
+545.4 So for those of you that are looking
+546.51 for some mild appetite suppression
+548.34 and want to accomplish that
+while also ingesting caffeine,
+551.4 yerba mate might be a
+good option for that.
+553.38 And just know that it's
+operating through two mechanisms,
+556.23 on the body through mild gut distension
+558.03 to make you feel full,
+558.9 and on the brain to increase satiety
+560.73 and make you feel less hungry.
+562.23 And then for everybody, not just those
+564.39 that are interested in
+appetite suppression,
+566.43 I think it's important to understand
+568.44 that these parallel
+pathways are fundamental
+570.66 to how we are organized.
+572.13 Another good example of this would be
+573.48 when we are excited by
+something positive or negative,
+576.0 so it could be stressful or
+we are positively aroused,
+578.52 there is a parallel activation
+of epinephrine, adrenaline,
+581.85 both from your adrenals and
+from an area in the brain
+584.04 called the locus coeruleus.
+585.48 So again and again, we see this in biology
+587.427 and in neuroscience that
+your brain and your body
+590.37 are acting in concert.
+592.11 They're acting together through mechanisms
+594.42 that either are independent,
+so separately in the brain
+596.85 and separately in the body,
+598.14 but directed towards a common goal,
+600.66 or through communication
+between brain and body,
+603.15 and almost always that communication
+605.31 is going to be bidirectional,
+606.63 body to brain and brain to body.
+608.58 So I think these results
+are really interesting
+610.41 and really important
+for sake of weight loss,
+612.45 for sake of appetite suppression,
+614.49 and just generally for the
+way that they illustrate
+616.77 this very important theme
+618.42 of the way that we are constructed
+620.22 at a biological level
+which is parallel pathways.
+623.19 Before we begin, I'd like to emphasize
+624.99 that this podcast is
+separate from my teaching
+626.91 and research roles at Stanford.
+628.53 It is however part of my desire and effort
+630.6 to bring zero cost to consumer information
+632.49 about science and science-related tools
+634.44 to the general public.
+635.76 In keeping with that
+theme, I'd like to thank
+637.5 the sponsors of today's podcast.
+639.6 Our first sponsor is InsideTracker.
+642.06 InsideTracker is a
+personalized nutrition platform
+644.46 that analyzes data from your blood and DNA
+646.98 to help you better understand your body
+648.6 and help you reach your health goals.
+650.61 I've long been a believer
+651.72 in getting regular blood work done
+653.34 for the simple reason
+that many of the factors
+655.62 that impact your immediate
+and long-term health
+657.75 can only be assessed with
+a quality blood test.
+660.12 And nowadays, with the
+advent of modern DNA tests,
+662.97 you can also get insight
+into, for instance,
+664.86 what your biological age is
+666.45 and compare that to
+your chronological age.
+668.46 And of course your biological age
+669.96 is the one that's important
+for your longevity
+672.03 and your understanding of
+your current health needs.
+674.34 One major problem with most blood tests
+675.9 and DNA tests out there however,
+677.94 is that you get information
+back about levels
+679.92 of metabolic factors, levels
+of hormones and lipids
+682.44 and so forth, but you don't know exactly
+684.12 what to do with that information.
+685.86 InsideTracker solves that problem
+687.6 through their personalized platform
+689.31 which can tell you, for instance,
+690.78 lifestyle factors like
+fitness or nutrition
+694.2 or supplementation that you can use
+695.97 to bring the numbers into the ranges
+697.38 that are ideal for your health needs.
+699.24 If you'd like to try InsideTracker,
+700.65 you can visit insidetracker.com/huberman
+703.38 to get 20% off any of
+InsideTracker's plans.
+706.08 That's insidetracker.com/huberman
+to get 20% off.
+709.74 Today's episode is also
+brought to us by ROKA.
+712.14 ROKA makes eyeglasses and sunglasses
+713.97 that are of the absolute highest quality.
+715.77 The company was founded by
+two all-American swimmers
+717.72 from Stanford and everything about ROKA
+719.58 eyeglasses and sunglasses were designed
+721.59 with performance in mind.
+723.09 I've spent a lifetime working
+724.23 on the biology of the visual system
+725.73 and I can tell you that your visual system
+727.23 has to contend with a number
+of very important challenges
+729.81 in order for you to see clearly.
+731.52 The designers of ROKA
+eyeglasses and sunglasses
+733.5 understand this
+734.7 and for that reason, ROKA
+eyeglasses and sunglasses
+737.1 allow you, for instance, to move
+738.66 from a shady area to a bright area
+740.22 or from a bright area to a shady area
+741.9 and still see everything
+with crystal clarity.
+744.33 Originally, their glasses and sunglasses
+745.92 were designed for performance,
+747.51 that is for running and cycling,
+749.01 and as a consequence, the
+eyeglasses and sunglasses
+751.38 stay on your face even if you get sweaty
+752.88 and they're extremely lightweight.
+754.14 In fact, most of the
+time, I don't even realize
+755.79 that they're on my face.
+756.78 I wear ROKA eyeglasses for
+reading and for driving at night
+759.72 and I wear their sunglasses
+when I'm out during the day
+761.7 and it's really bright and
+I need to use sunglasses
+764.22 in order to be able to navigate
+in that bright sunlight.
+766.86 If you'd like to try ROKA
+glasses, you can go to roka.com,
+769.62 that's R-O-K-A.com, and
+enter the code Huberman
+772.44 to save 20% off your first order.
+774.6 Again, that's ROKA, R-O-K-A.com
+776.79 and enter the code Huberman at checkout.
+778.98 Today's episode is also
+780.21 brought to us by Blinkist.
+781.799 Blinkist is an app that has
+thousands of nonfiction books
+784.26 condensed town to just 15 minutes each
+786.54 of key takeaways that you
+can read or listen to.
+789.39 I'm a big believer in
+reading physical books,
+791.46 I actually own a lot of hard cover books
+793.38 and paperback books and I
+like holding them my hand
+795.93 and flipping through the pages.
+797.19 I also like listening to audiobooks.
+799.17 But the reality is I don't have
+a ton of time to read books
+802.29 and I don't have a lot of time
+803.19 to listen to entire audiobooks.
+805.08 There are also a lot of books
+that I've really enjoyed
+806.97 in the past that I have
+read in their entirety
+809.1 but then I like to update myself
+810.39 on the information on
+every once in a while.
+812.61 Blinkist has terrific books available.
+814.35 For instance, I'm a big fan
+815.34 of Tim Ferris's 4-Hour Body,
+817.47 gleaned So much knowledge from that book.
+819.3 Also from Nassim Taleb's
+book, The Black Swan
+822.06 and the great Matt Walker's
+book, Why We Sleep,
+824.85 which is a book that
+I've read several times
+826.32 and I actually listen to the synopsis of
+828.54 on Blinkist over and over
+830.25 because there's so many key takeaways.
+832.17 With Blinkist you get unlimited access
+833.88 to read or listen to a massive library
+835.71 of condensed non-fiction books,
+837.72 essentially all of the books
+838.74 that you ever wanted to listen to,
+840.42 and now you have time
+841.47 because they're condensed
+down to just 15 minutes each.
+843.75 Right now, Blinkist has a special offer
+845.31 just for Huberman Lab Podcast listeners.
+847.23 If you go to blinkist.com/huberman,
+849.69 you can get a free seven-day trial
+851.67 and you can get 20% off a
+Blinkist premium membership.
+854.88 That's Blinkist spelled B-L-I-N-K-I-S-T,
+858.12 blinkist.com/huberman to get 25% off
+861.39 and a seven-day free trial.
+863.37 Let's talk about bipolar disorder.
+865.11 And today I'm going to
+refer to bipolar disorder
+867.21 interchangeably with bipolar depression,
+870.33 although as you will soon learn,
+872.31 not everyone with bipolar disorder
+874.35 necessarily goes through highs and lows.
+877.53 There is a subset of people who suffer
+879.54 from bipolar disorder who
+experience the manic phases,
+882.84 the highly elevated mood and energy,
+885.93 and then drop down to so-called baseline,
+888.6 so they don't necessarily go
+down into a depressive state.
+891.75 They often will return to
+a somewhat normal state.
+894.42 In fact, we will talk about
+the percentage of time
+897.63 that people with bipolar disorder
+899.31 tend to be symptom-free manic or depressed
+902.82 in the context of the different categories
+904.44 of bipolar disorder.
+905.7 But as we wade into this topic
+that is bipolar disorder,
+909.12 I just want to give you a little bit
+910.05 of the background statistics
+911.85 to anchor us in just how
+serious and prevalent
+914.88 bipolar disorder is.
+916.86 So bipolar disorder
+impacts about 1% of people,
+920.25 that might seem like a small percentage,
+922.56 but if you think about a
+room of a hundred people,
+925.23 that means that at least one of them
+927.09 is very likely to have bipolar disorder.
+930.69 And as I mentioned earlier
+in the introduction,
+932.88 bipolar disorder is very serious.
+935.25 It has a 20 to 30% greater
+incidence of suicide
+939.72 than the general population, which is,
+942.09 first of all, extremely tragic
+943.74 and extremely concerning.
+945.54 So anyone that thinks they
+might have bipolar disorder
+948.54 or who knows someone with bipolar disorder
+950.25 should be especially vigilant about this.
+952.11 And we'll talk about some of the,
+953.97 or signs and risk factors, age of onset,
+956.58 et cetera, as we move forward.
+958.74 So 1% of people have bipolar disorder.
+961.11 The typical age of onset
+is anywhere from 20
+964.17 to 25 years old, although
+it can be much earlier.
+967.59 And the earlier the onset
+of a bipolar episode,
+971.43 which we will define in a few minutes,
+973.14 the earlier the onset of that episode,
+975.66 the higher likelihood
+that the bipolar disorder
+978.45 is going to be a stable feature
+980.25 of that person's psychology going forward.
+982.95 And yet, I also want to point out
+984.75 that there are some very good treatments
+987.12 for bipolar disorder that those people
+988.56 could still benefit from.
+990.66 There are basically two
+kinds of bipolar disorder
+993.93 referred to as bipolar 1 and bipolar 2.
+996.96 So let's just talk about bipolar 1 first.
+999.75 Bipolar 1 is characterized by
+1002.45 a fairly extended period of mania.
+1005.09 What is mania?
+1006.2 Mania is a period of very elevated mood,
+1009.47 energy, distractibility, impulsivity,
+1012.32 and some other symptomology
+that we'll talk about
+1014.57 going forward.
+1015.62 But this manic episode is extreme.
+1019.64 This is a condition in
+which the energy lift,
+1023.51 the mood lift, and the sort of impulsivity
+1026.6 and actions and words of the person
+1028.73 suffering from manic bipolar disorder
+1030.65 are very noticeable and very extreme.
+1033.8 Now a key thing, however,
+1035.15 is that it's not always noticeable
+1036.95 to the person suffering from it
+1038.9 that they are in this mode.
+1040.43 Sometimes they recognize
+that, sometimes they don't,
+1042.74 but it's always highly
+recognizable to other people
+1045.92 that the person suffering
+from manic bipolar disorder
+1049.22 is not like other people.
+1050.96 So let's talk about bipolar
+1 in a little bit more depth.
+1054.47 One of the key clinical criteria
+1056.69 or diagnostic criteria for bipolar 1
+1059.09 is that a person suffer
+from these manic episodes
+1062.66 or display these manic episodes
+1064.7 for seven days or more.
+1066.59 That turns out to be very key.
+1067.7 The stability of that manic episode
+1069.98 for seven days or more turns
+out to be very important.
+1073.88 And for those seven days,
+1075.89 the person is in an elevated mood,
+1077.84 expansive thought all day,
+every day for those seven days.
+1082.4 Now there are a lot of reasons
+1083.51 why somebody could be in a manic mode.
+1086.24 It doesn't necessarily mean
+1087.68 that somebody has bipolar disorder.
+1089.72 In fact, someone could be in a manic mode
+1091.82 for seven days or more
+1093.62 and still not be diagnosed
+with bipolar disorder.
+1095.9 Why?
+1096.733 Well, there are other things
+that can create manic episodes,
+1100.64 things like traumatic brain
+injury, things like seizure,
+1103.82 things like various prescription
+drugs or illicit drugs,
+1106.4 things like amphetamine and cocaine,
+1108.56 that is not the same as bipolar disorder
+1110.81 even though from a
+symptomology perspective,
+1114.05 they might look even identical.
+1116.06 So let's think about these symptoms
+1117.32 and the diagnostic criteria
+that a psychiatrist would use
+1120.98 in order to ask whether
+or not someone is manic
+1124.01 because they have manic
+by bipolar disorder
+1126.47 or whether or not that person is manic
+1128.42 for some other reason, such
+as traumatic brain injury,
+1131.39 illicit drugs, et cetera.
+1133.52 So typically a person would
+be brought into a clinic
+1137.81 or a person would bring
+themselves to a clinic
+1140.66 or meet with a psychiatrist,
+1142.49 it seems more likely that
+they would be directed
+1144.53 toward a psychiatrist because oftentimes
+1146.24 people who are in a manic episode
+1148.13 just simply won't have the perspective
+1150.32 or the foresight to bring
+themselves into the clinic.
+1153.5 And the psychiatrist is
+going to start to evaluate
+1156.2 for a couple of different things.
+1157.79 But first of all, what they're
+going to try and figure out
+1160.25 is whether or not the
+person has at least three
+1162.71 of the following symptoms.
+1165.83 The first symptom is distractibility.
+1168.29 Is the person distractable?
+1169.43 Are they going from one thing to the next.
+1170.93 People who are in a manic episode
+1172.28 will be talking about a pen
+1173.24 and then they'll be talking
+about something they saw
+1175.16 the other day and then
+something they want to purchase
+1176.69 and then a place they're
+going to travel to, et cetera,
+1178.7 but they are also very
+prone to any stimulus
+1181.79 within the room.
+1182.623 Meaning a bell could go off
+1184.31 or there could be a
+sound out in the hallway
+1185.48 and they'll orient to that.
+1186.47 And then they'll orient to the clinician
+1187.79 and then they'll orient to
+something in their pocket,
+1189.47 so they're all over the place.
+1190.79 You could think of this
+a little bit like ADHD
+1193.28 or attention-deficit disorder,
+but it's very extreme.
+1196.34 So highly distractable,
+1197.84 highly impulsive, impulsivity
+relates to actions.
+1201.65 So the person might be
+fidgeting with something
+1203.63 and then they might try and leave the room
+1205.22 or the person might, if they
+were out in the real world,
+1208.959 somebody might notice that the person
+1210.83 is going and purchasing
+1213.17 multiples of something that
+would be unusual for someone
+1216.02 to purchase.
+1216.853 So for instance, I happen to know someone
+1218.6 whose ex-spouse had bipolar disorder
+1221.06 and their ex-spouse went out and bought
+1224.03 10 plus air fryers.
+1225.523 I mean, I think unless you're a restaurant
+1227.66 that's using a lot of air fryers,
+1228.83 the idea that you would need more than one
+1230.48 or two air fryers might
+just seem a little bit
+1233.75 out of the norm.
+1234.86 And so that impulsivity can be purchasing,
+1237.98 it can be other things as well.
+1239.96 It can be booking 12 international
+trips in one afternoon
+1243.35 or going and buying three cars, et cetera.
+1245.48 So impulsivity.
+1246.62 the other is grandiosity.
+1248.63 People who have manic bipolar disorder
+1251.27 who are in a manic
+episode will often display
+1254.72 words of or actions of grandiosity.
+1257.15 And keep in mind, these are not lies
+1259.7 in the sense that the person isn't lying
+1261.53 in order to try and pull
+one over on anybody,
+1264.11 these are actual beliefs
+that the person comes to have
+1266.96 about their grandiose
+position in the world
+1269.81 or grandiose opportunities
+or potential in the world.
+1273.2 Typical forms of grandiosity
+and manic episodes
+1276.11 would be that the person suddenly decides
+1278.09 that they are going to
+win a Pulitzer Prize.
+1280.07 They are the person selected
+to win a Pulitzer Prize.
+1282.17 They're going to write
+a novel that afternoon,
+1284.18 and they're going to win a
+Pulitzer Prize that year,
+1286.31 which is more or less
+a delusion of grandeur.
+1289.46 The idea that someone could
+do that in one afternoon,
+1291.35 I suppose it is possible in
+the realm of all possibilities,
+1295.22 but it's extremely unlikely.
+1297.71 Other forms of grandiosity
+that often present themselves
+1301.1 in people suffering from a manic episode
+1303.44 will be that they're
+going to run for president
+1305.45 or that they are the
+person that they believe
+1309.26 is selected by the
+citizens of a given country
+1313.49 or by the universe to be the
+president of that country
+1317.0 or to be present of the universe.
+1318.77 It sounds ridiculous, but
+those sorts of delusions
+1321.35 of grandiosity are one condition
+1323.18 that often presents itself,
+1324.71 or one set of symptoms
+that presents itself.
+1327.74 Flight of ideas are also
+typical of manic episodes.
+1331.13 So this is a little bit
+like distractibility,
+1333.02 but this would be people
+talking extensively
+1335.36 about one thing and then switching
+1336.92 and talking extensively
+about something else.
+1338.66 It would be as if I was doing this podcast
+1340.46 talking about manic bipolar disorder
+1341.78 and then suddenly switching to OCD
+1343.67 and then to deliberate cold exposure
+1345.2 and then to the role of sugar
+1347.06 and its impact on the brain, et cetera.
+1348.47 So essentially a random selection
+1351.56 of the different topics
+that exist in science,
+1354.8 all of which I happen
+to be very interested in
+1356.51 and curious about,
+1357.59 but just as we have
+episodes of the podcast
+1360.92 that are about one or two topics,
+1362.57 and we focus on those in
+a fairly narrow trench
+1365.09 of discussion,
+1366.26 somebody who has a flight of ideas
+1368.45 would be jumping between
+categories and topics
+1371.96 in a kind of pseudo random way.
+1373.58 So they might take off
+down a path of one thing
+1375.71 and then switch to another
+without any transition
+1378.32 or with transitions that that don't have
+1379.97 any logical structure to them.
+1381.98 The other aspect of manic bipolar disorder
+1385.07 that often presents itself
+in the manic episodes
+1387.17 are agitation.
+1388.07 People feeling extremely
+physically agitated,
+1390.05 so a lot of shaking and moving about.
+1392.24 This can venture into
+the realm of paranoia,
+1394.58 but a lot of agitation,
+1396.14 a difficulty sitting down and being still,
+1399.23 a difficulty in just looking,
+feeling and acting calm.
+1404.93 And then another condition is no sleep.
+1408.02 And when I say no sleep, I mean no sleep
+1410.84 or very minimal sleep.
+1412.97 As incredible as it sounds,
+1415.22 people who are in a manic episode
+1416.93 can often go seven days
+or more with zero sleep.
+1420.89 And a key feature of this zero sleep
+1423.02 is that they're not troubled by it.
+1424.25 They're not thinking, oh,
+I'm suffering from insomnia
+1426.5 and I really, really want to sleep.
+1427.73 Sometimes that's the case,
+but more often than not,
+1430.34 they are simply not sleeping.
+1431.93 They're staying up 24 hours
+then another 24 hours,
+1434.62 it just continues for an entire week.
+1436.94 Again, inconceivable to those of us
+1439.01 that don't suffer from manic episodes.
+1441.847 I can only imagine how pulled
+apart most of us would feel
+1444.95 under those conditions,
+and yet they are just going
+1447.68 and going and going with no sleep,
+1449.63 up all hours, shopping, talking, running,
+1454.7 doing all sorts of different
+things in the categories
+1456.95 of other symptoms that
+we talked about before.
+1459.17 And it doesn't bother them
+that they're not sleeping.
+1462.23 And then the last sort
+of category of symptoms
+1465.62 that the psychiatrist is evaluating for
+1467.81 and seeing if they present
+is rapid pressured speech.
+1471.56 The rapid pressured speech is something
+1473.45 that when you hear it, you recognize it.
+1475.22 This is somebody that almost
+seems to be hitting you
+1477.11 with speech like machine gun fire,
+1479.66 it's coming at you, coming
+at you, coming at you
+1481.61 and there's really no
+room for conversation.
+1483.83 They're not offering any opportunity
+1485.87 for a back and forth, or if
+there is a back and forth,
+1487.82 they might ask you how
+you feel about something
+1489.17 and then you started, well, I,
+1490.239 [speaking gibberish]
+1491.229 then they're going to hit
+you with another barrage
+1492.86 or a paragraph of information
+1495.68 or of just speech, that pseudo random.
+1498.08 So we've got distractibility, impulsivity,
+1500.3 grandiosity, flight of ideas, agitation,
+1502.94 no sleep, and rapid pressured speech.
+1506.24 For someone to be diagnosed
+as in a manic episode,
+1509.12 they do not have to be engaging in
+1511.97 or displaying all of those symptoms.
+1515.3 They do however need to present
+1517.64 at least three of those symptoms,
+1519.59 and then in order to meet
+the condition of bipolar 1,
+1523.07 they have to be presenting
+those three symptoms
+1525.26 for at least seven days.
+1527.78 It could be longer, but
+at least seven days.
+1530.9 Now, this seems pretty
+straightforward, right?
+1534.2 At one level, the way that I describe this
+1536.417 and the way that it exists
+in the clinical literature,
+1538.46 you could think, well,
+1539.39 this should be pretty easy to diagnose.
+1541.31 And yet there's a complication there
+1542.89 or a challenge there because
+the psychiatrist, again,
+1545.63 has to determine that these manic episodes
+1548.21 are not due to something
+other than bipolar disorder.
+1553.46 For instance, again, it could be TBI,
+1555.44 traumatic brain injury,
+it could be seizures,
+1557.18 or meds or other sorts of drugs.
+1558.92 Corticosteroids, which
+are often prescribed
+1560.87 for a number of immune
+conditions or for wound healing
+1563.63 can also cause manic episodes.
+1565.76 So they have to determine that everything
+1568.34 that's happening meets the
+criteria I described before,
+1570.95 three out of seven of
+these symptom categories
+1573.02 for seven days or more
+1574.4 and that it can't be better explained
+1576.56 by something else going
+on in that person's life
+1579.2 or immediate medical history.
+1581.33 That's very important.
+1582.5 Now, the other challenge,
+1583.58 and this is something
+that's going to come up
+1584.87 again and again today, not
+just in the description
+1587.24 of the biology of bipolar disorder,
+1589.28 but also the description
+of different treatments
+1592.19 and treatment approaches,
+1593.57 is that typically, when
+somebody is sitting
+1596.99 in front of a psychiatrist,
+1599.21 in particular for the first time
+1601.76 those two people are interacting,
+1604.01 the psychiatrist is just
+getting one snapshot
+1606.89 of the person at that moment.
+1608.99 So the person could be on
+day one of a manic episode,
+1612.17 the person might be on day
+six of a manic episode,
+1614.69 the person could be transitioning
+out of a manic episode,
+1617.66 or the person could be
+suffering from a combination
+1620.57 of manic episode where,
+1622.34 because of the impulsivity
+of bipolar disorder,
+1624.62 they went out and used illicit drugs.
+1626.03 They also used cocaine.
+1627.68 So the psychiatrist has
+a serious challenge.
+1630.86 The psychiatrist has to determine
+based on a conversation,
+1634.1 this isn't a blood test,
+1635.87 this isn't a measurement
+that you can take on a scale
+1638.27 or with a biomarker, they
+have to use language,
+1641.12 a conversation with somebody
+who, by all accounts,
+1643.7 is pretty impaired at conversation
+1645.71 to determine whether or not
+1647.33 they're suffering from a manic episode
+1649.85 that is the consequence
+of bipolar disorder.
+1653.36 You can imagine this in the real world,
+1654.83 as somebody says, well,
+how long has it been
+1656.69 since you slept?
+1657.523 And the person starts to answer,
+1659.36 oh, well, the other day I
+went down to the basement.
+1661.85 I was going to get something out of
+1662.99 the refrigerator and I
+thought I might take a nap.
+1664.85 And then all of a sudden they're talking
+1665.683 about something completely different.
+1666.71 So they might not even have an answer.
+1668.87 So the psychiatrist has to
+be a really good detective,
+1673.01 a benevolent detective,
+1674.09 but a detective nonetheless
+1676.04 in determining whether or not
+1677.15 these symptoms have existed
+for seven days or more,
+1679.19 and whether or not they
+meet the, at least three,
+1681.53 it could be more, but at least three
+1682.64 of the criteria of symptom categories
+1684.86 I talked about before.
+1686.27 Now, assuming that they do,
+1688.22 assuming that the patient
+meets those criteria,
+1690.74 they are likely to be
+diagnosed with bipolar 1.
+1694.1 Now bipolar 1 disorder
+1696.89 means they're having these
+extended manic episodes,
+1698.66 seven days or more,
+1699.83 but it does not necessarily mean
+1701.99 that they are dropping into
+a depressive episode as well.
+1705.83 This is a common misconception
+about bipolar disorder
+1708.77 because as it's often called,
+1710.72 bipolar disorder is referred
+to as bipolar depression,
+1714.26 and yet many people with bipolar disorder
+1716.84 don't necessarily experience
+the deep depressive episodes.
+1719.99 Many of them do, but many of them do not.
+1722.48 So somebody can truly
+be diagnosed accurately
+1726.23 with bipolar one,
+1728.27 even though they're only
+experiencing manic episodes
+1730.61 and then dropping down to baseline.
+1732.2 Manic episode, then
+dropping down to baseline.
+1734.33 That's very important to understand.
+1736.85 Now, the second category of
+bipolar disorder is bipolar 2.
+1740.63 So BP-II or bipolar disorder
+2 is somewhat different
+1744.35 than bipolar disorder 1.
+1745.55 First of all, it's
+characterized most often
+1748.58 by the presence of both
+manic episodes, mania,
+1751.79 and depressive episodes,
+1753.29 or what's referred to as hypomania.
+1755.84 Now, anytime in biology or
+in medicine you hear hypo,
+1759.95 it's the opposite of hyper.
+1761.99 So we've got normal hyper and hypo.
+1764.18 Hypomania is a somewhat
+suppressed level of mania.
+1767.72 So this is not going to be as extreme
+1769.64 as the mania that we typically think of.
+1771.98 And yet the hypo can
+be due to the duration,
+1776.09 not the intensity of mania.
+1778.37 That's right.
+1779.203 Hypomania can mean a
+lessened intensity of mania,
+1782.99 but it can also be used to refer to
+1785.33 a shorter duration of mania.
+1786.767 And in fact, that's
+one of the key criteria
+1789.29 for bipolar 2.
+1790.43 Bipolar 2 is often diagnosed
+1792.17 on the basis of the
+presence of manic episodes
+1794.9 that are lasting four days or even less.
+1798.71 So someone with BP-II might have four days
+1801.08 of this increased energy,
+goal-directed activity,
+1803.63 they're irritable, they're euphoric,
+1805.07 they're not sleeping, et cetera,
+1806.63 but it's only lasting for about four days.
+1809.12 Or they could be having longer
+extended periods of mania,
+1812.51 but they are hypomanic episodes.
+1815.24 They're not quite as intense
+1816.56 so the pressured speech
+isn't quite as pressured.
+1819.47 The impulsivity isn't quite as severe,
+1821.69 et cetera, et cetera.
+1822.77 The other aspect of bipolar 2
+1824.06 is one that I had mentioned
+briefly a moment ago,
+1826.49 which is that it's often associated
+1828.98 with the drops into
+the depressive episode.
+1831.44 So people are going from manic episodes
+1833.54 for four days or less,
+1834.86 then they're dropping into a depression,
+1836.99 going back to normal, manic again.
+1840.77 I do want to point out however
+1841.85 that people who have
+bipolar 1 can indeed go
+1844.61 from manic episodes to severe,
+1846.53 what we call major depression,
+1847.73 so they can oscillate like a sine wave,
+1850.04 really high highs, really low lows.
+1853.07 And very important to understand
+1855.86 in terms of understanding
+both bipolar 1 and bipolar 2
+1859.7 is that it's not always a sine wave.
+1861.71 This is really important
+1862.67 and it's something that
+frankly I did not know
+1865.22 until I started researching this episode
+1866.81 and talking to some psychiatrists.
+1868.4 I should mention, I've talked to several
+1869.72 board certified
+psychiatrists in preparation
+1871.64 for this episode,
+1872.81 I'll give some references to them.
+1874.28 And in fact, some of them
+are going to be coming
+1875.66 on the podcast as guests in the future
+1877.52 for more in-depth discussion about bipolar
+1879.41 and other psychiatric disorders.
+1881.63 But all the psychiatrists
+I spoke to confirmed
+1884.81 what the other was saying, which was that
+1887.3 the way that bipolar disorder can present
+1889.34 can vary tremendously between individuals.
+1892.04 One person might go from very high highs
+1894.14 that last seven days or more,
+1895.13 to very low lows.
+1896.15 Bouts of depression, major depression
+1898.283 that can last two weeks or more.
+1900.62 Other people are rapid cycling by way
+1902.99 of three days manic, three days normal,
+1905.06 three days manic, and then dropping
+1906.56 into three days depression.
+1908.03 So you want to erase
+that picture in your mind
+1910.49 that manic bipolar
+disorder is this sine wave,
+1913.49 this cycling up and down
+between mania and depression.
+1916.46 It can take a lot of different forms.
+1918.92 And again, this is a serious challenge
+1922.16 for the psychiatrist to
+diagnose people because of that
+1925.88 fact that they're only getting a snapshot
+1927.8 of the person unless they've
+known them for some time
+1929.81 and are working with them for some time.
+1931.67 But this is also especially important
+1933.83 for those of you that
+1935.45 either have bipolar depression
+or suspect that you might,
+1938.99 or that know someone
+with bipolar depression
+1942.65 or suspect somebody might
+have bipolar depression,
+1946.13 AKA bipolar disorder.
+1947.9 Because if you're noticing that somebody
+1949.94 is very manic and then normal, well,
+1953.03 that's a very different picture
+1954.23 than somebody who's going from very manic
+1956.06 to very deep bouts of depression.
+1958.55 The very manic to deep bouts of depression
+1960.77 is easier to recognize
+because of the extremes
+1963.71 of those highs and lows.
+1964.76 Now, this might seem somewhat obvious
+1966.32 to all of you as I describe it,
+1967.91 and yet it's very important as a, frankly,
+1971.12 a citizen of the planet
+1972.65 who knows other human beings
+1974.27 to keep an eye out for
+these manic episodes,
+1976.34 because again, whether or
+not it's four days or less,
+1979.01 or whether or not it's seven days or more,
+1981.44 these manic episodes really
+are the defining criteria
+1985.04 of bipolar disorder,
+AKA bipolar depression.
+1988.01 There are a couple other key features
+1990.62 about bipolar 1 and bipolar 2
+1992.75 that can allow us to get better insight
+1994.55 into whether or not somebody
+has bipolar 1 or bipolar 2,
+1997.28 and that's the percentage of time
+1999.44 that people with bipolar
+1 versus bipolar 2 spend
+2003.1 in a manic state, a depressed state,
+2004.99 or a symptom-free state.
+2006.64 And this is also important to discuss
+2008.08 because it turns out that people
+2010.18 with genuine diagnosed bipolar 1
+2013.18 or bipolar 2 are often symptom-free,
+2016.45 which again can make it difficult
+2018.64 for us as people that know them
+2020.77 or for people that are treating people
+2023.41 with bipolar disorder to
+identify whether or not
+2026.71 somebody is in a manic episode
+2028.72 or a depressive episode,
+2029.553 or whether or not they
+are headed into a manic
+2031.57 or depressive episode.
+2032.95 So the numbers on this have been studied.
+2035.68 This from a paper, actually two papers,
+2037.69 first author, Judd, J-U-D-D et al.
+2040.12 published some years ago, 20 years ago,
+2042.1 but the data hold up
+really nicely over time.
+2044.35 These were both published
+2045.28 in Journal American Medical
+Association Psychiatry.
+2047.86 So JAMA Psychiatry is a superb journal.
+2050.35 And basically people who
+have bipolar 1 on average
+2053.92 spend about 50%, it's
+actually 53% was the number
+2058.18 that was eventually converged upon,
+2060.43 but about 50% of their time symptom-free.
+2062.86 That's interesting, right?
+2063.76 Somebody who has genuine
+bipolar 1 disorder
+2067.15 can spend as much as half of their life
+2069.22 symptom-free, sleeping normally,
+2070.75 speaking normally, et cetera.
+2072.4 About 32% of the time depressed,
+2076.48 And when we say depressed,
+we mean major depression.
+2078.52 So severe challenges with waking up
+2081.43 at two or three in the morning,
+2083.02 and having trouble falling back asleep.
+2084.55 That's one of the defining
+characteristics of depression,
+2086.53 or sleeping far too much,
+2087.76 having a hard time getting
+out of bed in the morning,
+2089.29 suppressed appetite, suppressed libido,
+2091.0 suppressed motivation,
+2092.65 all the general symptoms
+of major depression
+2094.45 which we'll talk about
+a little bit more later
+2096.19 and in an upcoming episode
+about major depression
+2098.95 in particular.
+2099.783 And then about 15% of their time
+2101.92 in this kind of manic
+state or mixed manic state,
+2104.83 where they are showing
+2107.2 long, again, seven days or more bouts
+2109.12 of sleeplessness, irritability,
+2110.68 pressured speech, grandiosity, et cetera.
+2113.98 Contrast that with people
+who have bipolar 2 disorder
+2116.74 who are spending about half of their time
+2119.98 in a depressed state.
+2121.78 So that's interesting, people
+with bipolar 2 disorder,
+2124.45 while not always
+displaying depressed states
+2127.33 or oscillations between mania or hypomania
+2129.97 and depressed states,
+2131.14 they tend to be in the
+depressed state more often.
+2133.66 And again, this is major depression.
+2134.98 This isn't just a little bit of a low,
+2136.45 this is a serious depression
+of their nervous system,
+2139.3 their mood, and as we say, their affect,
+2141.7 their outlook on life,
+2142.84 and that's one of the key
+distinguishing features
+2145.21 of major depression is that
+people's outlook on life
+2148.57 becomes very diminished in the sense
+2150.91 that they don't see a future.
+2152.14 You ask them about, how's work going?
+2154.57 How're your relationships?
+2155.403 And it's not just that they
+feel that that's going poorly,
+2158.29 they really feel as if
+there's no opportunity
+2160.24 for those things to improve.
+2162.64 Those people with bipolar 2
+2164.77 tend to be symptom-free
+about 45% of the time.
+2167.53 Again, these are averages,
+2169.36 so about 45% of the time,
+2171.37 that's a considerable amount of the time.
+2173.35 And they tend to be in
+these hypomanic states
+2175.81 only about 4 or 5% of the time.
+2178.24 Again, the criteria for BP-II, bipolar 2
+2180.76 is these four days or less
+2182.32 of mania or hypomania,
+2184.33 but only 4% of the time or 5% of the time
+2187.42 is a small enough sliver of the pie
+2190.75 that is these people's existence
+2192.79 that you could imagine why it would be
+2195.43 easy for them or other people
+2197.68 to overlook the fact that
+they have bipolar disorder
+2200.59 and not major depression.
+2201.61 Think about it.
+2202.443 This is a person who, or I should say
+2204.64 a collection of people who are spending
+2205.9 about half of their time depressed,
+2208.24 close to half, 45% of
+their time symptom-free,
+2212.47 and then about 5% of their
+time in a hypomanic state.
+2216.13 So either shorten bouts of
+2218.86 high intensity mania or hypomania
+2222.43 that is of reduced intensity.
+2224.5 One of the reasons that I
+mentioned these percentages
+2227.02 of time spent in a
+symptom-free, depressed manic
+2229.3 or hypomanic state is
+because one of my major goals
+2231.34 for today's episode is that
+it will increase awareness
+2234.82 of whether or not you
+or somebody you know,
+2237.82 could be a coworker, could
+be family member, et cetera,
+2239.95 might be suffering from
+bipolar 1 or bipolar 2.
+2242.68 I think it's fair to say
+that if somebody is suffering
+2244.57 from bipolar 1,
+2246.25 that is likely to be revealed
+2249.19 or to reveal itself
+2251.32 before too long, because of the fact
+2253.42 that people have these
+extended periods of mania
+2255.307 and mania is such an extreme state,
+2257.35 not just for the person
+who's experiencing it,
+2259.48 but the way that it
+presents is just so extreme
+2261.7 and out of the ordinary.
+2263.53 But bipolar 2, you can imagine
+2265.57 could really duck under the radar
+2267.61 of our awareness.
+2268.87 And you could imagine
+that we might just think
+2270.82 somebody is low or depressed,
+2272.23 especially if that person
+tends to self-medicate
+2274.51 with alcohol or other substances.
+2276.46 We might think, oh, they're
+drinking more than often
+2278.5 more than usual, excuse me,
+2279.79 or they're spending more
+time alone and isolating.
+2282.58 But then when they're in
+their hypomanic state,
+2284.2 that might actually
+present as normal to us
+2286.69 because they were in such
+a depressed state before.
+2289.39 So it's very important that
+we dial up our awareness,
+2291.94 that we have tune our
+antennae to the possibility
+2294.25 that people out there who
+might appear depressed
+2296.35 or that we haven't heard from in a while
+2297.88 might actually be suffering
+from bipolar 2 disorder.
+2300.58 Before we move into a in-depth discussion
+2302.98 about the different kinds of treatments
+2304.33 for bipolar disorder,
+2305.92 I'd like to touch on just
+a few additional aspects
+2308.62 of what bipolar disorder can do
+2311.05 in terms of its negative consequences.
+2312.73 And also talk about some
+of the inherited risk
+2315.31 that is the genetic factors
+2317.23 and the environmental
+factors that can contribute
+2319.3 to bipolar disorder.
+2320.62 In terms of the burden,
+2323.29 the very real, emotional, and occupational
+2326.47 and educational burden that can occur
+2328.57 for somebody with bipolar disorder,
+2330.67 that's actually been studied.
+2331.72 There's a measure of this,
+it's called global burden
+2333.94 which is defined as the years lost
+2336.82 in engaging a normal life
+due to some disability.
+2340.33 So that disability could be cancer
+2342.22 or that disability, in this
+case, is bipolar disorder.
+2345.07 And basically the way
+this sort of study is done
+2347.89 is that through questionnaires,
+2349.21 I should say quite
+in-depth questionnaires,
+2351.61 there's a probing for whether
+or not somebody has lost
+2355.36 two consecutive weeks or more
+2357.61 of interest in normal activities.
+2359.5 Now, for people who have depression,
+2361.06 that's a kind of straightforward
+thing to address, right?
+2363.55 You ask somebody, when
+was the last time you ate,
+2365.89 or when was the last time
+that you went a few days
+2367.75 without food or lost interest
+2369.34 in relationships or work or
+sex or things of that sort
+2372.91 and they answer and you can figure out
+2374.89 the amount of time that you've essentially
+2376.99 been withdrawn from normal
+levels of activity for them.
+2381.73 With bipolar disorder, What it turns out
+2384.25 is that the global burden
+of having bipolar 1
+2387.76 and even bipolar 2 is massive.
+2390.13 In fact, having bipolar disorder
+2392.74 sits as one of the highest risk factors
+2396.07 for being in the top 10
+2398.68 of all categories of disabilities
+2400.93 leading to global burden.
+2402.1 Put in plain English, what that means is
+2403.78 having bipolar 1 or bipolar 2 disorder
+2406.9 is extremely debilitating.
+2408.52 It really slows down one's life trajectory
+2412.27 unless it's treated properly.
+2414.13 Now, the other aspect of bipolar disorder
+2416.38 is its heritability.
+2417.7 And this gets into a little
+bit of some tricky science
+2420.7 related to inheritability versus
+2423.91 the genetic contribution
+of a given disease.
+2428.05 So that might sound like the same thing,
+2430.03 you think, okay, genes
+relate to heritability,
+2432.34 heritability relates to genes,
+2433.75 but of course, everything about the way
+2436.57 that our nervous system
+works and functions
+2438.67 and expresses itself,
+healthy or otherwise,
+2441.37 is an interaction between our genes
+2443.71 and our environment.
+2445.06 And so typically the way
+these studies are done
+2447.13 is you address what is the risk
+2449.62 of somebody having a given condition
+2451.66 in the general population?
+2452.74 We talked about that
+before, bipolar disorder
+2454.69 is a 1% of the world's population.
+2457.15 Compare that to people who
+have only major depression.
+2460.03 So this would be repeated bouts
+2462.07 of two weeks or more
+of serious depression,
+2464.95 not just low mood or
+something due to a life loss,
+2467.65 but major depression,
+2469.84 which is 10 to 17% of people
+have major depression.
+2473.921 They suffer from major
+depressive disorder,
+2477.13 compared to bipolar disorder
+which, again, is 1%.
+2479.77 Now, you can address how much of the 1%
+2484.122 of bipolar disorder that exists is due
+2486.1 to genes versus environment
+2488.44 in a somewhat exact way.
+2490.21 This is never an exact science.
+2491.74 And the way that this is typically done
+2493.36 is to look at concordance,
+2495.43 that is the likelihood
+that two identical twins
+2500.02 will both have a given condition
+2502.39 as opposed to two fraternal twins,
+2504.19 which have more different genes
+2506.89 than identical twins, of course.
+2508.21 And then two siblings who
+have similar genes, of course,
+2511.24 but less similar than
+identical or fraternal twins
+2514.42 and so on and so forth.
+2515.5 So what you basically do
+2516.55 is you evaluate the
+probability that two people
+2518.59 in the general population
+who are completely unrelated
+2521.32 will have the same
+condition, versus two people
+2523.939 in the general population
+who are very related,
+2526.6 identical twins.
+2527.433 And what you find is
+that in identical twins,
+2530.92 if one identical twin
+has true major depression
+2534.79 or major depressive disorder,
+2536.65 there's a 20 to 45% chance
+2539.77 that their identical twin will also have
+2542.05 major depressive disorder.
+2543.67 Now that tells you right there
+2545.41 that it can't all be genes,
+2547.36 that is not a gene for
+major depression per se,
+2549.67 or if it is a gene or
+a collection of genes,
+2553.36 that those genes are also subject
+2555.1 to environmental influences,
+2556.48 either prenatal, within the womb
+2557.89 or after children are born.
+2560.14 Now the large range there of 20 to 45%
+2562.51 could be due to any number of things.
+2564.4 It could be experimental,
+2566.11 meaning the techniques that
+were used in experiments,
+2568.03 it could be due to regional differences,
+2571.54 one part of the world versus another.
+2572.77 There are a lot of different factors.
+2574.48 Right now, we probably
+shouldn't delve into all that.
+2576.76 At some point, we'll
+probably do an episode
+2578.17 all about the genetics of
+nervous system heritability
+2581.74 and heritability of features
+and mental health, et cetera.
+2584.59 But we can compare major
+depression and the heritability
+2587.98 or the genetic concordance
+between identical twins
+2590.77 in major depression and
+bipolar disorder and ask,
+2593.11 if one twin of an identical twin pair
+2596.86 has bipolar depression,
+2599.77 what is the likelihood that
+the other twin will have it?
+2602.38 And it turns out that
+number is much higher.
+2605.71 It's 40 to 70% likelihood or probability
+2608.98 that if one twin has bipolar disorder,
+2612.82 that their identical twin will
+also have bipolar disorder.
+2615.58 So again, the total
+incidence of bipolar disorder
+2619.23 in the general population is much lower
+2622.51 than it is for major depressions,
+2623.83 1% for bipolar versus 10 to
+17% for major depression.
+2628.12 But the genetic component is much higher,
+2631.27 40 to 70% for bipolar disorder
+2633.76 versus 20 to 45% for major depression.
+2636.85 I know I'm throwing a
+lot of numbers out there,
+2640.24 but basically what this means
+2641.95 is that researchers have been
+able to take those numbers
+2645.52 and filter them through a
+number of different risk factors
+2648.82 that are related to early development,
+2650.89 ask questions like if two
+twins were raised separately
+2653.71 or together, or in one part
+of the world versus another,
+2656.35 or had a two parent household
+versus one parent household,
+2659.17 evaluate a lot of different variables,
+2661.21 what they were able to discover,
+2663.13 and this has been shown again and again,
+2665.08 is that the genetic
+contribution to bipolar disorder
+2670.15 is very, very high.
+2672.04 That is the heritability
+of bipolar disorder is 85%.
+2677.86 So again, I want to be
+really clear what this means,
+2681.73 the total occurrence in the
+general population, fairly low,
+2686.02 still serious, 1%,
+2687.91 but fairly low compared to other things
+2690.13 like major depression.
+2691.12 However, if someone has bipolar disorder,
+2695.11 it's very likely that they inherited
+2697.69 some gene or sets of genes,
+2699.49 or more accurately, a
+susceptibility within their genes
+2704.17 to environmental influences
+2705.76 that can trigger bipolar disorder.
+2708.25 There are a lot of
+different ways to discuss
+2710.41 and to conceptualize heritability
+2712.33 so I want to be very careful with the way
+2713.83 that I'm wording this.
+2715.39 What this means is that
+people with bipolar disorder
+2718.54 very likely have a gene, or more typically
+2721.54 it's going to be a set of genes
+2723.07 that creates a susceptibility
+for bipolar disorder
+2725.68 to present itself.
+2727.51 Now, what environmental factors trigger
+2730.36 or increase that susceptibility
+is not entirely clear.
+2734.47 This always seems to center back
+2735.76 onto the same sets of things like
+2738.22 early life stress, trauma, et cetera,
+2740.02 certainly those are going
+to exacerbate the likelihood
+2742.69 that someone who has a genetic propensity
+2744.67 for bipolar disorder will express
+2746.95 that bipolar disorder
+2747.783 and its full array of symptomology,
+2750.31 but 85%, while very,
+very high, is not 100%.
+2755.95 Again, 85%, while a very high number
+2758.38 for heritability is not 100%.
+2760.18 What that means is that
+there is no single gene
+2763.6 or identified gene cluster
+for bipolar disorder.
+2767.26 The reason I keep drilling
+into this over and over
+2769.27 is that I think we can confidently say
+2771.28 that if someone has bipolar disorder,
+2772.81 that there was something
+in their genetic lineage
+2775.15 that led to that, or that
+very likely led to that,
+2778.21 and yet it's not like eye color
+2782.38 or some other physical feature,
+2784.63 which we can actually do the direct,
+2787.3 so it's called Mendelian genetics,
+2788.71 and figure out whether or not somebody
+2791.59 directly inherited that
+gene from one parent
+2793.66 or the other parent.
+2794.493 So the takeaway here is that if you have
+2797.92 certainly an identical
+twin, or a fraternal twin,
+2799.93 or a sibling or a parent,
+2801.46 or even a cousin or an uncle
+2802.72 that has bipolar disorder,
+in particular bipolar 1,
+2806.89 well, then you need to be on the lookout
+2809.38 for bipolar disorder, perhaps in yourself
+2811.84 and for the family members of that person.
+2813.85 My goal within this episode up until now
+2816.37 has been to provide a
+clear and detailed picture
+2819.7 of bipolar disorder and its various forms.
+2823.03 Before we start to talk about treatments
+2824.77 for bipolar disorder and some
+of the neural circuit basis
+2827.92 for bipolar disorder,
+2829.48 I want to make sure that I
+distinguish bipolar disorder
+2832.18 from borderline personality disorder.
+2835.24 We will do an entire episode
+2836.74 or maybe even several episodes
+2838.15 about borderline personality disorder.
+2840.52 Borderline personality disorder
+2842.53 can indeed present itself
+2845.23 in ways that resemble bipolar
+disorder and vice versa,
+2849.49 but there's some key
+distinctions that need to be made
+2852.34 because it turns out that bipolar disorder
+2854.47 and borderline personality disorder
+2856.99 are quite distinct in terms
+of their defining criteria.
+2860.95 The key distinction between somebody
+2862.84 with borderline personality disorder
+2865.3 and bipolar disorder
+2867.22 is that in borderline
+personality disorder,
+2870.34 there can be episodes that can
+resemble mania or hypomania.
+2874.36 So periods of flights of ideas,
+2876.55 or where people are
+spending money excessively
+2879.07 or sexually promiscuous in ways
+2881.41 that seem manic or could even be
+2883.27 a little bit manic or a lot manic,
+2885.67 and yet more often than not,
+2888.28 there is an environmental trigger
+2890.59 for those manic episodes.
+2892.27 That is distinctly different
+from bipolar disorder
+2895.99 where the person will have manic episodes
+2898.33 without any need for a trigger.
+2900.34 There doesn't need to be a call
+2902.38 from someone saying, hey, let's
+go on a vacation together,
+2905.29 or there's something coming up this Friday
+2907.48 that's really exciting,
+2908.77 or let's enter a relationship together
+2911.17 of one form or another.
+2912.4 The person with bipolar disorder
+will have episodes of mania
+2915.46 or episodes of major depression
+2917.59 without any need for an external stimulus
+2920.5 or environmental trigger.
+2922.15 But the person with borderline
+personality disorder,
+2924.94 almost always, again,
+2926.23 there's never an always
+in biology and psychiatry,
+2928.45 but almost always is going
+to exhibit flights of mania
+2933.04 or depressive episodes or
+other types of mood shifts
+2935.8 that are dramatic and maladaptive
+2937.99 in response to things
+that are coming in through
+2941.11 the external environment or relationships
+2943.06 of some kind.
+2943.893 In fact, one of the
+defining characteristics
+2945.7 of borderline personality disorder
+2947.86 is this thing that's
+referred to as splitting.
+2950.05 A good example of splitting in a person
+2952.09 with borderline personality disorder
+2954.1 is that they will feel that
+they absolutely adore you
+2957.85 and want to spend all their time with you
+2959.65 and just think the world of you.
+2961.06 You can do no wrong.
+2962.23 And in fact, they
+genuinely can feel that way
+2965.38 and can genuinely think
+that way about you.
+2967.72 And then for whatever reason,
+2970.0 it could be a perception of something
+2972.19 that you did or something that you said
+2974.26 or suspicion that you're
+thinking something about them,
+2977.11 they can suddenly shift
+or split their emotions
+2981.51 in what's called move
+you from a good object
+2985.03 or a can do no wrong
+object to a bad object.
+2988.24 They'll suddenly decide that
+you are cheating on them
+2990.76 or that you are being mean to them
+2993.22 or that you're insulting them
+2994.54 or that something that
+you're doing is in violation
+2998.08 to their self worth,
+their wellbeing, et cetera
+3000.66 and that can send them down a pathway
+3002.55 of being very angry, very
+depressed, et cetera.
+3004.95 As I describe the contour of a person
+3006.81 with borderline personality disorder
+3008.79 as somebody who splits
+very suddenly in response
+3011.52 to some environmental
+trigger, real or perceived,
+3014.46 there's the risk, of course,
+3016.17 that it makes the person with borderline
+3017.97 personality disorder
+sound like a bad person,
+3020.34 that they're very volatile.
+3022.08 And while they can be volatile,
+3023.79 I want to be very careful to point out
+3025.41 that the person with
+borderline personality disorder
+3027.66 is also suffering in this context.
+3030.3 So while those sorts of relationships
+3033.21 with people with borderline
+personality disorder,
+3035.79 whether or not they're
+romantic relationships
+3037.62 or familial or coworkers, et cetera,
+3039.69 can be very challenged,
+can be very high friction
+3042.03 because of the good object,
+bad object shifts, et cetera,
+3046.47 it's bidirectional, meaning the person
+3048.39 with borderline personality disorder,
+3049.95 as you can imagine, is also going through
+3051.6 a lot of suffering.
+3052.433 At one moment, they feel
+3053.58 as if someone is wonderful
+and can do no wrong
+3055.68 to them and they want to
+be so strongly affiliated
+3057.54 with them, and then in the next moment,
+3059.25 they feel as if that
+person is attacking them
+3061.41 through their actions or even
+through their non actions.
+3064.05 So again, we will return
+3065.64 to borderline personality disorder
+3067.47 in a separate episode,
+it's a serious disorder,
+3069.96 both for the person that has it
+3071.22 and for people around them.
+3072.63 Fortunately, there are
+some emerging treatments
+3074.46 that are showing promise
+3076.2 and it's a fairly common disorder,
+3078.54 but it's important that we distinguish
+3080.61 borderline personality
+disorder from bipolar disorder,
+3083.85 mostly on the basis of
+this need for a trigger.
+3085.98 Again, in bipolar
+disorder, there is no need
+3088.98 for a trigger to create a manic episode
+3091.14 or a major depressive episode,
+3092.49 they just happen or they can just happen.
+3095.67 Whereas in borderline
+personality disorder,
+3098.34 almost always there's an external trigger
+3100.56 or a perception that something happened
+3102.6 in the environment or
+that somebody is behaving
+3105.24 a certain way that dramatically shifts
+3107.13 the person with borderline
+personality disorder
+3109.62 from one mode to the next.
+3111.48 As we move into our discussion
+about the treatments for
+3113.82 and neural circuits
+underlying bipolar disorder,
+3116.55 I want to just nail
+down one more key point.
+3119.97 This is a very brief point
+3121.47 but it's perhaps the most
+important point, which is
+3125.37 the highs and lows, or
+we should say the highs,
+3129.15 these manic episodes, and sometimes lows,
+3131.49 'cause again, not everybody
+3132.54 with bipolar disorder 1 or 2
+3134.13 suffers from depressive episodes,
+3135.9 sometimes yes, sometimes no,
+3137.64 in particular in bipolar 2, yes,
+3139.83 but people with bipolar 1 can
+have extreme manic episodes
+3142.77 and then just return to
+normal as you recall.
+3145.05 Well, those extreme lows
+and or extreme highs
+3148.47 of people with bipolar disorder
+3150.51 impact their lives in very negative ways.
+3153.99 This is essential and it's something
+3156.06 that we're going to return
+to a little bit later
+3157.65 when we talk about the relationship
+3159.03 between bipolar disorder and creativity,
+3161.61 because it turns out that there's a quite
+3163.38 strong association there,
+3165.48 one that would almost lead you to believe
+3167.19 that being bipolar can be beneficial
+3168.72 in certain contexts, and yet,
+3171.36 on whole, having bipolar disorder
+3174.21 is extremely detrimental and challenging
+3176.88 to the person suffering from it.
+3178.32 And it's something that
+we want to keep in mind
+3179.97 as we think about treatments
+and the underlying biology.
+3183.45 Now I'd like to talk about
+some of the treatments
+3185.25 for bipolar disorder.
+3186.9 And in the discussion of those treatments,
+3188.88 there's an absolutely incredible history
+3191.82 of the discovery of one
+particular treatment
+3194.28 that still shows great
+success in many patients,
+3198.12 although some people
+can't take it for reasons
+3200.28 that we'll talk about.
+3201.54 And in the description of the discovery
+3203.94 of this treatment for bipolar disorder,
+3206.28 it also reveals to us that sometimes
+3209.07 treatments come to the
+profession of medicine
+3212.82 and through science in ways that precede
+3216.63 the discovery of the underlying biology.
+3219.51 That's right, every once in a while,
+3221.61 someone will discover a
+treatment for a disease
+3224.4 without any understanding
+3226.29 about the underlying biological basis
+3228.63 of that disease.
+3229.95 And in fact, that is the
+case for bipolar disorder
+3232.8 and the treatment that we are referring to
+3234.84 is lithium.
+3236.58 Lithium, as some of you know,
+3239.04 is on the periodic table of elements.
+3241.47 It is indeed a naturally
+occurring substance.
+3244.44 It actually arrived on
+earth by way of star dust.
+3248.25 Yes, we are talking about
+star dust on this podcast,
+3251.04 but if you'd like to learn more
+about the origins of lithium
+3253.53 and how lithium arrived here on earth
+3255.81 for its discovery and
+applications in psychiatry,
+3258.96 there's a beautiful talk
+that exists on YouTube
+3261.66 and we'll provide a link to this
+3262.74 in the show note captions that describes
+3265.86 the history of lithium in terms
+3267.93 of its interplanetary travels
+3269.91 and arrival on earth.
+3271.26 This is a talk delivered by a physicist
+3274.14 who is expert in quantum mechanics
+3276.39 and is expert in lithium.
+3278.28 And it's a just wonderful
+talk that I can refer you to,
+3280.74 less on the biology in that talk,
+3282.36 but certainly a lot about
+lithium as an element.
+3284.37 So for those of you nerds like me,
+3286.83 that love to know how things
+came to be here on the planet
+3290.82 in one form or another,
+3292.38 I'll encourage you to take
+a brief listen to that talk.
+3295.26 We are going to discuss
+lithium in the context
+3297.36 of its applications for
+treatment of bipolar disorder.
+3300.51 And the discovery of
+lithium as a treatment
+3302.34 for bipolar disorder is
+truly a miraculous story
+3305.94 that I think everyone should know.
+3307.53 The key player in this
+story is a physician
+3311.4 by the last name Cade, he
+was an Australian physician.
+3314.88 And Cade has a very interesting
+story in his own right.
+3318.18 Cade was an Australian psychiatrist
+3320.07 or Australian psychiatrist
+3322.83 who also was a soldier.
+3324.81 And during World War II,
+3327.3 after the fall of Singapore to Japan,
+3329.13 he became a prisoner of war
+3331.35 and he was a prisoner of
+war from 1942 until 1945.
+3335.58 So he had some time for observation
+3337.8 and during his imprisonment,
+3339.48 he observed some of his fellow inmates
+3341.73 is going through pretty wild vacillations
+3344.58 in mood and energy,
+3346.26 essentially going from manic episodes
+3348.51 to depressed episodes, or
+from manic to normal episodes.
+3351.81 And for one reason or another,
+3354.87 we don't know why because
+I couldn't find any report
+3357.09 as to why he hypothesized this,
+3359.04 but he hypothesized that
+there was some buildup
+3361.62 of some chemical in these people's brains
+3365.4 that then they would urinate out.
+3367.98 And that urinating out
+of whatever chemical
+3371.7 was in there would allow
+them to be more relaxed
+3374.94 and not manic.
+3375.773 In other words, Cade hypothesized
+3377.88 that there's a buildup of a chemical
+3379.26 in certain people's brains
+that makes them manic
+3381.24 and they urinate that chemical out.
+3383.61 So eventually he got out of this prison,
+3387.12 as we mentioned in 1945,
+3389.04 and he started doing experiments
+3390.96 in addition to seeing
+patients in his clinic.
+3393.87 And what he did is he
+started to take urine
+3396.06 from people who exhibited mania
+3398.28 and urine from people who were not manic,
+3400.98 and he took that urine
+and he would inject it
+3403.5 into guinea pigs as an experimental model.
+3406.41 And his general observation was that
+3409.74 there was something in the urine
+3411.48 that was indeed making
+the guinea pigs more manic
+3415.17 if they were injected with
+urine from a manic patient.
+3419.67 The exact measures that he was
+taking in these guinea pigs
+3422.25 wasn't exactly clear.
+3423.3 This is at a time or an era in science
+3426.18 when you could just sort of report things
+3428.28 a little bit more subjectively,
+3429.72 although there were still
+numbers and statistics,
+3432.21 it was a little bit more
+of like case studies
+3434.55 and descriptions, but it turns out
+3436.17 that even though that all
+seems a little bit loose,
+3438.27 it led to some incredible and
+still important discoveries
+3441.93 for psychiatric health.
+3443.67 So what he figured out was that the urine
+3446.22 from manic patients
+seemed to be more toxic
+3448.29 for these guinea pigs.
+3449.85 And he also knew that there
+are two toxic substances
+3453.42 in urine, urea and uric acid.
+3456.81 So he was able to separate
+the urea and uric acid
+3460.17 from people with mania
+3461.88 and patients that did not have mania.
+3464.58 And he figured out that the
+urea was the same in both
+3468.63 these mentally ill, manic patients
+3470.82 and the non manic patients.
+3472.62 So it did not seem that urea
+3474.84 was the compound that was
+creating these manic episodes
+3478.68 or related to manic episodes
+3480.72 or held the toxicity
+3482.85 so instead he focused on the uric acid.
+3485.79 Now in order to put the
+uric acid into solution
+3489.51 so that he could inject
+it into these guinea pigs,
+3491.79 he had to try a number
+of different compounds
+3493.89 in order to dilute it.
+3494.82 It just so happens that,
+3496.47 and you chemists will
+be familiar with this,
+3498.21 but there's certain
+things that just don't go
+3500.19 into solution easily.
+3501.18 You put the powder in a vial,
+3503.16 you add some water or a
+saline or another solution,
+3505.44 you mix it up and the powder
+stays suspended in there,
+3508.31 it doesn't actually ever
+become a clear liquid
+3512.61 that you can inject.
+3513.96 So in order to try injecting
+different strengths
+3516.93 of uric acid,
+3518.16 he ended up using lithium
+3520.53 to assist in the dilution,
+and lithium worked.
+3523.74 So what he basically was doing,
+3525.21 again for you chemists,
+3526.11 is he was taking uric acid,
+he was adding lithium,
+3529.44 and making a solution of lithium urate.
+3532.77 this is a lot of details,
+but this is important
+3535.44 because what he eventually found
+3537.54 is that when he diluted the uric acid
+3540.66 with lithium and created lithium urate,
+3542.88 lithium urate could actually
+3545.37 calm down these guinea
+pigs that were injected
+3548.04 with the toxic urea.
+3550.35 He also found that lithium urate
+3553.17 had a generally calming
+effect on these guinea pigs.
+3556.89 So now we're really
+off in crazy territory,
+3559.53 we're talking about urine from patients
+3561.72 that's separating out urea and uric acid,
+3564.9 we're adding lithium to the uric acid,
+3567.03 we're injecting this into guinea pigs,
+3568.323 this is getting pretty
+wild and pretty weird,
+3570.75 but this is medicine,
+and from time to time,
+3573.36 this is medicine and science.
+3576.15 Cade was a good scientist in addition
+3578.34 to being a good physician,
+3579.9 and by good scientists,
+3581.55 I mean that he did control experiments.
+3583.5 Here he was injecting
+lithium urate into animals
+3588.39 and seeing an effect,
+3589.62 but he knew that that
+solution of lithium urate
+3592.68 contained not just the uric acid,
+3595.5 but it also contained lithium.
+3597.03 And so he quite appropriately asked,
+3600.09 maybe the lithium alone is
+having this calming effect
+3604.08 on these guinea pigs.
+3605.46 And indeed, that was the case.
+3607.26 When he did the proper control experiment
+3609.21 and injected only lithium
+solution into these guinea pigs,
+3614.28 they calmed down.
+3615.51 From there, he in sort
+of 1940 style medicine,
+3620.04 this would not happen now,
+3621.99 he very quickly moved
+from that animal model
+3624.03 into human patients and started
+injecting human patients
+3627.72 with lithium or providing
+lithium orally to those patients.
+3631.65 And lo and behold, found
+an absolutely profound
+3636.12 and positive effect of lithium
+3638.85 in reducing symptoms of mania.
+3641.37 And as all good physician scientists do,
+3644.04 he wrote up his results.
+3645.72 And he wrote it up in a paper entitled,
+3648.96 Lithium Salts in the Treatment
+of Psychotic Excitement.
+3652.38 Okay, back then they didn't call it mania,
+3653.64 they called it psychotic excitement.
+3655.89 This is a paper that was
+published September 3rd, 1949
+3658.71 in the Medical Journal of Australia.
+3660.63 We will provide a link to this study,
+3662.19 is now a classic study in
+the field of psychiatry.
+3665.52 It's a really wonderful paper to read.
+3667.26 And actually I encourage people,
+3669.27 even if you're not a
+scientist or a clinician
+3672.69 to just take a quick
+look at the second page
+3674.85 in this paper that we've
+made available to you
+3677.79 where he describes each of
+the various case studies
+3681.42 or the individuals that he looked at.
+3683.58 I'm not going to read these in detail now,
+3685.17 'cause it would take a
+lot of unnecessary time,
+3687.12 but things like case seven,
+MC, aged 40-years-old,
+3691.65 suffering from manic recurrent mania.
+3693.44 In this episode, he'd
+been excited, restless,
+3695.37 and violent for over two months
+3696.93 and was interfering so often
+3698.175 that had to be confined to a single room
+3699.57 during the day.
+3700.5 So this is very debilitating,
+3702.81 what we now know to be bipolar depression.
+3705.93 He commenced taking
+lithium citrate, 20 grains,
+3708.33 that's a measure of the amount of lithium,
+3710.37 three times a day.
+3711.203 In four days, he was distinctly quieter
+3713.76 and by February 13th, 1949,
+appeared practically normal.
+3718.47 He continued well and
+on February 20th, 1949,
+3720.93 the dose of citrate was
+reduced to 10 grains,
+3723.09 et cetera, et cetera.
+3723.923 He left the hospital.
+3725.37 There are numerous descriptions
+3727.29 of this sort within this paper,
+3728.76 including some descriptions of patients
+3730.35 that did not see such success,
+3732.87 and including some
+descriptions of patients
+3735.24 that suffered from some
+negative side effects.
+3738.21 So that's important to point out as well,
+3740.01 but it's an absolutely wonderful paper
+3742.26 and it's an absolutely wonderful voyage
+3744.72 into the history of psychiatry
+3746.31 right down to the discussion where
+3748.05 in just three short paragraphs,
+3750.3 Cade really lays out the case for why
+3753.72 lithium is such a important discovery
+3756.0 in the treatment of what, at that time,
+3757.98 they were calling psychotic excitement
+3759.48 and what we now know to be
+manic bipolar depression.
+3763.32 Lithium, I should mention,
+3764.79 has a number of important features,
+3766.41 but it also a number of
+important side effects
+3768.69 that need to be considered.
+3769.71 First of all, it does have
+3772.05 a certain toxicity and
+so levels of lithium
+3774.72 in the blood need to be
+monitored extremely carefully.
+3777.69 So it's not the sort of thing that people
+3779.1 can just take at a given dose
+3780.81 and every patient responds the same,
+3782.46 there's a lot of oversight
+and a lot of blood tests
+3784.74 that have to be done,
+3785.573 especially in the first three
+months of lithium treatment.
+3788.85 I should mention that lithium treatment
+3790.26 is still used to some great
+degree of success in many,
+3794.16 not all people suffering
+from bipolar depression,
+3797.82 or bipolar disorder rather,
+3800.34 but there are a number of
+important things that happened
+3803.85 between 1949 and present day
+3806.49 that prevented lithium
+from reaching patients
+3810.63 that really needed it.
+3811.47 And that all can be summarized
+3813.15 in two or three short sentences.
+3815.16 Basically, by virtue of
+the fact that lithium
+3817.98 is a naturally occurring element,
+it could not be patented.
+3821.31 And as a consequence of that,
+3823.11 there wasn't a lot of potential profit
+3825.06 for drug companies to produce lithium.
+3827.04 In fact, still to this
+day, it's very low cost,
+3830.67 and still to this day, no
+one really owns the patent
+3834.09 for lithium in its purest form.
+3836.28 So that made it unattractive.
+3837.78 It turns out that the
+FDA in the United States
+3840.09 didn't allow lithium to
+be used as a treatment
+3842.58 for manic bipolar disorder until 1970.
+3846.72 So we're talking about a full 21 years
+3848.85 from the publication of this paper by Cade
+3851.7 in the Medical Journal of Australia
+3853.11 showing quite beautifully
+3855.03 the great potential in use of lithium
+3857.82 for quelling the symptoms
+of bipolar disorder
+3860.94 until the first patients
+in the United States
+3864.36 were starting to access lithium regularly.
+3866.58 And nowadays, of course,
+lithium is available,
+3868.29 but still not able to be patented
+3870.48 'cause it's element number
+three on the periodic table,
+3872.79 it's naturally occurring.
+3874.17 It's not literally falling
+down from the stars as stardust
+3876.75 and going into pill form,
+3877.74 but rather it can be synthesized
+3880.53 in laboratories, but it is available.
+3883.41 It does show not only great
+potential in many patients
+3887.04 but great application in many patients
+3889.2 despite its side effects.
+3891.12 So lithium really stands as
+this kind of golden example
+3895.23 of a treatment that works,
+at least in many individuals,
+3898.71 prior to an understanding
+of the biological basis
+3901.98 of the disease for which
+that treatment is needed.
+3904.92 Now with that said,
+scientists and clinicians
+3907.05 have been quite rigorous
+in trying to understand
+3909.78 why and how lithium works
+in order to understand
+3913.11 the why and how of bipolar disorder.
+3915.24 This is the way that proper
+medicine and science is done.
+3917.58 Even if there's an excellent
+treatment for something,
+3920.13 it's important to understand
+why that treatment works
+3922.98 because, first of all, not everyone
+3924.9 responds to that treatment.
+3925.95 Second of all, scientists
+and physicians understand
+3929.4 that just because we have
+one treatment that works,
+3931.95 if it has any side effects at all,
+3934.29 there is the possibility
+for better treatments.
+3936.72 So it's not just about
+trying to bypass a drug
+3939.87 that doesn't make much
+money for drug companies,
+3941.7 I know a lot of people
+think in those terms,
+3943.35 they think, oh, well,
+3944.79 there's this continued
+search for better treatments
+3946.71 for bipolar disorder
+even though lithium works
+3948.96 because lithium doesn't
+allow drug companies
+3950.61 to make much money.
+3951.66 That's not really the case.
+3952.86 The fact of the matter
+is is that the toxicity,
+3955.23 some of the other issues that
+are created with lithium,
+3958.59 the fact that people need
+3959.97 the ongoing blood testing, et cetera,
+3962.88 really stimulates the
+need, really an urgent need
+3965.94 for new and better treatments
+for bipolar disorder.
+3968.13 And only by understanding
+how lithium works
+3970.32 at the cellular level, at
+the neural circuit level,
+3972.81 et cetera, do we really stand to find
+3974.76 those new discoveries.
+3976.02 If you were to do a literature search on
+3979.17 the actions and mechanisms of lithium
+3981.96 in terms of how it can calm people down
+3984.24 and reduce their manic episodes,
+3986.28 you would find an
+enormous array of papers,
+3989.01 literally thousands of scientific studies
+3991.65 in animals and in humans,
+3993.99 which, for instance will tell
+you that lithium treatment
+3997.2 will increase so-called BDNF,
+3999.66 brain-derived neurotrophic factor.
+4002.27 BDNF is often talked about in the context
+4004.55 of neuroplasticity,
+4005.69 the brain and nervous system's ability
+4007.34 to change in response to experience.
+4009.41 And indeed it does seem
+that ingesting lithium
+4013.34 increases BDNF.
+4015.141 BDNF is what we call
+permissive for neuroplasticity.
+4019.28 It doesn't create specific
+changes in the brain,
+4022.07 meaning it's not going to
+make your memory better
+4024.41 or your coordination better,
+4026.36 or your emotional state better per se,
+4028.79 what BDNF does is it permits the neurons,
+4032.54 the nerve cells and their
+connections in the brain
+4035.03 to be more likely to change
+4037.91 if the proper environmental
+conditions are met.
+4041.57 That is BDNF creates a kind of
+buoyancy to neuroplasticity.
+4046.52 It opens the gates to neuroplasticity.
+4048.95 So lithium does increase BDNF,
+4051.23 we'll talk about why that's
+important in the context
+4053.03 of the neural circuits involved
+4054.89 with bipolar disorder in a few minutes.
+4057.41 It also seems to be a
+potent anti-inflammatory.
+4061.22 Now, inflammation is one of those words
+4062.87 that's thrown around extensively nowadays,
+4065.18 especially on social media
+and especially as it relates
+4067.52 to any health condition,
+it's like inflammation,
+4069.65 inflammation, inflammation,
+always seems to be discussed
+4072.62 in the context of inflammation being bad.
+4074.45 But I do want to point
+out that inflammation
+4076.91 is a natural adaptive
+response to physical injury
+4080.15 to a cell or organ or tissue of any kind.
+4083.21 Inflammation is the basis by which
+4085.88 adaptations occur to exercise.
+4088.25 So if, for instance,
+4089.45 you were to weight train and use a heavier
+4091.64 than normal weight kind,
+4092.87 do a set to failure or create
+some little micro tears
+4095.81 in the muscle that are healthy
+4097.19 in the sense that they
+would create adaptations
+4099.62 and make that muscle stronger,
+maybe even grow that muscle,
+4102.38 there's an inflammatory
+response associated with that
+4104.69 that is critical to the
+positive adaptation.
+4107.39 So inflammation isn't always bad,
+4109.46 although excessive, or as we say,
+4111.56 runaway inflammation is bad.
+4113.9 Lithium seems to be able to
+suppress inflammation and,
+4117.74 importantly, it can suppress inflammation
+4120.14 in neural tissues and within
+the brain in particular.
+4123.14 That is important.
+4124.52 And we return to that
+and why it's important
+4126.98 in a little bit.
+4128.36 The other thing about lithium
+4129.83 is that lithium is neuroprotective,
+4132.89 that is it can prevent neurons from dying
+4136.13 under certain conditions.
+4137.27 Why would neurons die?
+4138.41 Well, there are a lot of
+reasons why neurons can die.
+4140.36 There can be a physical
+insult to the neurons.
+4141.92 You can get hit really
+hard in the head, a bullet,
+4145.16 God forbid, can enter the
+skull and kill neurons,
+4147.865 there are a lot of reasons
+why neurons can die.
+4150.56 Neuroprotection is a
+situation in which a neuron
+4154.91 is given some sort of chemical
+or physical resiliency
+4158.24 that allows it to suffer an insult
+4160.85 and yet bounce back.
+4161.93 So it's very similar to
+the way that we think
+4163.55 about psychological resiliency,
+4165.02 neuroprotection is an ability for neurons
+4168.23 to be better able to handle stress
+4170.75 of different kinds, in
+particular, excitotoxicity.
+4174.23 There's a phenomenon in bipolar disorder
+4176.57 and a lot of other psychiatric conditions
+4178.67 in which hyperactivity
+of certain brain areas
+4181.73 actually starts to kill off neurons.
+4184.43 Hyperactivity doesn't always do this,
+4186.29 but it turns out that if
+certain brain circuits
+4188.12 are too active for too long,
+4189.8 some of the chemicals
+associated with neuroactivity,
+4192.56 things like calcium and neurotransmitters
+4194.72 like glutamate can actually
+kill the very neurons
+4196.88 that are active.
+4197.84 So it seems that lithium can prevent
+4199.61 some of that neurotoxicity.
+4200.96 Now, this turns out to
+be particularly important
+4203.81 for this discussion about bipolar disorder
+4205.73 and the neural circuit
+basis of bipolar disorder
+4208.43 because if we are just
+take a step back and ask,
+4210.59 what's different in the brains of people
+4212.3 with bipolar disorder?
+4214.07 There are some very interesting answers
+4215.45 that start to emerge.
+4216.89 There are basically two
+main neural circuits
+4219.41 that are present in normal individuals,
+4222.59 I say normal, I say that respectfully
+4224.72 to the people with bipolar disorder
+4226.01 by referring to people who do not suffer
+4228.98 from manic episodes or
+from manic depression.
+4232.49 There are circuits that are present
+4233.78 in people with bipolar disorder
+4236.24 and in people that do not suffer
+4238.25 from bipolar disorder,
+4240.5 both of those circuits do the same thing
+4243.56 in both sets of individuals,
+4245.39 and yet in people with bipolar disorder,
+4247.85 there seems to be an atrophy or a removal
+4251.18 of certain neural connections over time
+4253.25 that leads to a situation in which people
+4255.83 with bipolar disorder become very poor
+4259.58 at registering their own internal state,
+4262.25 in particular, their emotional states
+4264.14 and their somatic states.
+4265.85 What we're referring to here
+4266.81 is something called interoception.
+4268.46 I've talked about this a little bit
+4269.45 on the Huberman Lab Podcast before,
+4271.25 but there are two modes of perception.
+4273.77 Perception, of course, is a attention
+4276.68 to something that's
+happening in our environment
+4278.78 or to us on or within our body.
+4281.96 Exteroception is literally
+an attention to things
+4285.47 that are happening beyond
+the confines of our skin.
+4287.9 So seeing that person's face over there,
+4289.97 or seeing that color of leaf over there,
+4292.67 or hearing a sound over to my left,
+4294.65 that is exteroception,
+perception of things
+4297.23 beyond the confines of one's skin.
+4299.63 Then there's interoception
+4301.4 which is perception of things
+that are happening internally
+4304.22 like, how full does my gut feel?
+4306.405 How fast is my heart beating?
+4308.54 Some people can measure
+that quite accurately
+4310.49 just by thinking about
+it, other people can't.
+4313.31 How happy am I, how sad
+am I, how energetic am I,
+4316.91 how lethargic am I, et cetera, et cetera.
+4319.01 So we are always existing in a balance
+4320.72 between exteroception and interoception,
+4323.45 but as it turns out, people
+with bipolar disorder
+4326.87 over time, and especially into the second
+4329.21 and third decade of
+having bipolar disorder
+4331.97 seem to have progressively
+diminished levels
+4335.24 of interoception.
+4336.774 And that very likely is important
+4338.27 in their inability to
+register, for instance,
+4340.52 that, wow, they are talking
+at an excessive rate
+4343.76 or they haven't slept
+in 5 or even 10 days,
+4347.27 or they haven't eaten in
+a long period of time.
+4350.21 This atrophy of neural
+circuits for interoception
+4355.25 is starting to emerge
+as one of the defining
+4358.55 neural circuit characteristics
+4360.02 or underpinnings of bipolar.
+4362.15 Now I bridge to this conversation
+about neural circuits
+4364.88 from the statement that
+lithium can protect
+4368.69 against some of the neurotoxic effects
+4371.66 of neural circuits being very active.
+4373.4 Now this can get a little bit complicated,
+4375.32 but I promise I'm going to make it clear
+4377.06 for any of you that are
+watching and or listening.
+4379.79 The reality is
+4381.89 that people with bipolar depression
+4383.9 very likely have a hyperactivity,
+4386.27 that is an increased level of activity
+4388.01 in certain circuits within the brain
+4389.57 early in the expression of their disease.
+4392.39 And that typically, as
+I mentioned earlier,
+4394.31 sets in around the early
+20s, although sometimes
+4396.74 that can be even earlier,
+in the teens and so forth.
+4399.83 But that hyperactivity, we think,
+4402.74 leads to a toxicity and excitotoxicity
+4407.3 of certain elements of the neural circuits
+4409.16 that are responsible for interoception.
+4411.65 In other words,
+4412.483 the overuse of certain
+circuits can lead to a
+4416.21 diminishing, an atrophy, or even a death
+4418.31 of certain elements within those circuits
+4419.99 and it appears that lithium,
+4421.55 through its anti-inflammatory
+and neuroprotective effects
+4425.42 and through its ability to increase BDNF,
+4429.17 very likely protects us against some
+4431.27 of that atrophy of those
+circuits for interoception.
+4434.24 So this isn't a case in which
+4436.4 people with bipolar have a neural circuit
+4439.04 or lack a neural circuit
+4440.06 and people without
+bipolar are the opposite.
+4442.22 This is a case in which
+everyone more or less
+4443.72 starts out the same,
+4445.1 but it seems that there's a hyperactivity
+4447.26 of certain neural circuits in people
+4448.49 with bipolar disorder that over time
+4451.01 actually causes those
+circuits to diminish.
+4453.41 Now, this is very important because some
+4455.33 of the more recent longitudinal studies
+4457.31 doing brain imaging on people
+4458.51 with bipolar disorder and those without,
+4460.52 and doing that over time in patients
+4462.41 starting as early as their teens,
+4463.85 but into their 20s and
+30s reveals just that,
+4467.63 that there can be hyperactivity
+of circuits early on,
+4469.91 but then hypo, reduced activity
+of those very same circuits
+4473.81 at a time 5 or 10 years later.
+4476.36 Again, this speaks to
+the complicated nature
+4478.22 of bipolar disorder and
+the complicated nature
+4480.65 of psychiatry and linking
+specific psychiatric disorders
+4484.97 to neural circuits in general.
+4486.83 Because if you have a situation in which
+4489.8 in one disease, let's just,
+4492.41 hypothesize here for a second
+4493.58 that for instance, in certain
+forms of schizophrenia,
+4495.86 there's elevated dopamine
+and where we to just reduce
+4498.08 the amount of dopamine, that
+they would receive relief
+4500.12 from those schizophrenic symptoms,
+4502.16 well, that's all pretty
+straightforward on the face of it,
+4504.41 but in this situation
+with bipolar disorder,
+4506.42 what we're talking about is hyperactivity,
+4508.16 too much activity leading to hypoactivity
+4511.52 through death of those very circuits.
+4512.96 And so now you can
+especially appreciate why
+4516.8 when the patient shows
+up to the psychiatrist
+4519.08 or when the psychiatrist
+shows up to the patient
+4520.82 in the total course of their disease
+4523.19 is going to be very important.
+4524.42 And then layer on top of that
+4525.86 the complexity of the fact
+4526.88 that the very defining characteristic
+4528.8 of bipolar disorder is that
+there are oscillations in mood.
+4531.86 So now we need to think about treatments,
+4533.75 not just for the manic episodes,
+4535.58 but also treatments for
+the depressive episodes.
+4538.07 And that's, in fact,
+what psychiatrists do.
+4540.38 Turns out that they apply
+different treatments
+4542.72 or combinations of treatments for patients
+4544.97 that are in manic episodes
+versus depressive episodes
+4547.97 and they have to infer
+all that from discussions,
+4551.48 again, just exchange of words
+4553.16 depending on when that person
+walked into their office,
+4556.73 where they are in terms of manic episodes,
+4559.46 no symptomology or
+depressive symptomology,
+4562.07 and whether or not they've
+had that symptomology
+4564.5 for an extended period of time.
+4566.0 And then just to make the
+situation even more complicated,
+4568.64 the very circuits that
+atrophy that start to wane
+4571.43 and disappear in people
+with bipolar disorder
+4573.5 are the circuits for interoception,
+4575.57 for understanding of what's
+going on in one's own body.
+4577.79 So you can imagine if you
+sit down and ask somebody,
+4580.28 well, how long have, has it been
+4582.41 since you've slept, that
+person may genuinely not know.
+4586.13 Or if you ask the very depressed person,
+4588.68 how depressed are you?
+4589.7 That person may not be
+able to articulate that.
+4592.55 So fortunately there are solutions to this
+4594.89 and the solution is that
+more often than not,
+4598.58 the accurate understanding
+of whether or not someone
+4600.53 has bipolar depression or not,
+4603.26 and what stage of the illness
+they might be in or not
+4607.19 is going to depend on the
+reports of people around them
+4610.31 and not the patient themselves,
+4612.26 hence the importance of
+having a rather detailed
+4615.44 and admittedly a rather intense discussion
+4617.57 about the symptomology
+of bipolar disorder,
+4619.88 so that you can have an understanding
+4623.1 of the people around you
+and have an eye and an ear
+4626.15 to whether or not those
+people might be suffering
+4628.07 from bipolar, and if so, at
+what stage of the disease
+4630.68 they might happen to be at.
+4631.97 Now I'd like to talk a little bit more
+4633.26 about what is known
+about the neural circuits
+4635.27 that lead to the manic states,
+4637.37 as well as the depressive states,
+4638.63 but mainly the manic
+states of bipolar disorder.
+4642.29 We already discussed the
+fact that interception,
+4645.32 registering of one's own internal emotions
+4647.51 and bodily states is diminished in people
+4649.49 with bipolar disorder.
+4651.14 But we haven't really talked
+about the neural circuits
+4653.27 that are responsible for
+that lack of recognition.
+4656.84 For that reason, I'd like
+to point out a paper.
+4658.97 This is a fairly recent paper,
+just came out this year,
+4661.73 but it's an excellent one,
+4663.53 Looking at the changes over
+time in neural circuitry
+4666.38 in people with high genetic
+risk for bipolar disorder,
+4670.37 and in particular in young people.
+4671.81 And studies of this sort are rare,
+4674.33 but are exceedingly
+important because of the fact
+4676.67 that they track individuals over time.
+4678.68 The title of this paper is,
+4680.06 Longitudinal Changes in
+Structural Connectivity
+4682.4 in Young People at High Genetic
+Risk for Bipolar Disorder.
+4685.88 We will provide a link to this study
+4687.56 in the show note captions.
+4689.21 There are a lot of data in this paper,
+4692.09 in particular, neuroimaging data,
+4694.82 and it's quite extensive
+in terms of analyzing
+4697.52 the so-called connectomics.
+4699.56 You've probably heard of genomics,
+4701.09 which is the analysis of
+genes and their display
+4704.0 in different individuals or
+different animals, et cetera.
+4706.91 You have proteomics,
+which is the display of,
+4709.67 or the existence of different proteins.
+4711.17 So omics is a big thing now in science,
+4713.27 you kind of throw omics behind anything
+4714.98 and it becomes its own Wikipedia page,
+4717.32 which means it becomes its own thing,
+4719.21 so to speak, I say that
+only partially in jest.
+4722.39 Nonetheless, connectomics
+4724.52 is the analysis of connections
+4726.92 between different neurons
+and neural circuit elements.
+4730.13 And what this paper really showed
+4731.99 by analyzing the connectomics
+of neural circuits
+4734.39 in the brains of many different people
+4737.18 with different categories
+of, and onset of,
+4741.83 and severity of
+4744.47 bipolar disorder,
+4745.43 as well as controls in
+different age groups, et cetera,
+4751.16 is that people who are
+of particularly high risk
+4754.94 for having bipolar disorder
+4755.983 or that have full blown bipolar disorder,
+4759.23 have deficits and actually reductions
+4762.26 in the amount of connectivity between
+4764.09 what are called the parietal brain regions
+4765.89 and the limbic system.
+4767.21 Now, the limbic system
+I've talked about before
+4768.8 in this podcast, if you're
+not familiar with it,
+4770.63 I'll explain what it is in a moment,
+4772.91 it's simply a collection
+of brain structures,
+4774.77 not one brain structure,
+4775.82 but a collection of brain structures
+4777.74 that generally are responsible
+4779.63 for shifting the overall
+state that we're in
+4783.23 from states of more relaxed and calm
+4786.35 to states of more alert and focused.
+4788.81 The limbic system is intimately related
+4791.99 to the so-called autonomic nervous system,
+4793.94 which regulates our sleep wake cycles
+4796.07 and a number of other things
+like our digestion, et cetera,
+4799.01 our level of hunger and on and on.
+4800.99 So the limbic system is really
+kind of like a volume control
+4805.07 or as nerd scientists like to say,
+4807.5 a kind of gain control
+on the overall level
+4811.13 or amplitude of alertness or calmness.
+4814.01 In fact, if we're very, very calm,
+4815.6 we are asleep or even more
+calm, we can be in a coma.
+4818.63 If we are very alert, we can be wide awake
+4820.97 and ready to work and run, et cetera.
+4822.77 Or if we are very, very, very alert
+4825.02 by way of limbic autonomic interactions,
+4827.54 well, then we can be in anxiety.
+4829.34 We can be in full blown panic attack,
+4831.11 or we can be in mania.
+4833.39 We can have so much energy
+4835.01 that we feel like we don't need to sleep.
+4836.117 And in fact, disruptions in the circuitry
+4838.79 really seems to be what's going on
+4841.1 in people who have bipolar disorder.
+4843.83 Now, if disruptions in the circuitry
+4846.98 are present in the limbic system,
+4848.3 that doesn't necessarily
+mean that the limbic system
+4850.67 is at fault because the way
+that neural circuits work
+4853.13 is that different brain areas are talking
+4854.57 to one another through
+electrical-chemical signaling,
+4857.06 and they're regulating one another.
+4858.56 And what this paper really tells us
+4861.05 is that there are elements
+within the parietal lobe,
+4863.3 which is a kind of a section of the brain
+4864.89 that sits off to the side,
+4866.21 it's not really off to the side,
+4867.41 but in neuroanatomical nomenclature,
+4870.74 the parietal lobe is connected
+in two ways, bidirectionally.
+4875.93 So parietal lobe is
+connecting to limbic system
+4878.18 and limbic system is
+connecting to parietal lobe.
+4880.31 And in people with bipolar disorder,
+4881.99 it seems that the parietal lobe
+4883.4 is able to exert less top down control,
+4886.58 that is less suppression
+of certain elements
+4889.34 of the limbic system,
+which, at least right now,
+4893.3 is leading researchers to hypothesize
+4895.4 that the limbic system is sort
+of revving at higher levels.
+4899.57 It's kind of like RPM in your cars
+4901.25 or kind of redlining at
+times and for durations
+4904.85 that are inappropriate
+or at least abnormal.
+4907.25 So we have two major sets
+of neural circuit deficits
+4911.72 or changes in people with bipolar.
+4913.61 Their lack of internal
+awareness is reduced,
+4915.68 and that turns out to be,
+by way of neural structures,
+4918.29 like the insula which is a brain region
+4920.96 that is connected in a very direct way
+4923.6 to our somatosensory cortex,
+4925.7 so the part of our cortex that
+4928.28 registers how we feel,
+4929.81 literally, sense of
+touch and internal state.
+4933.11 So those circuits, excuse me,
+4934.427 for those for those of you listening
+4936.05 I just bumped the microphone, excuse me.
+4938.33 Those circuits are disrupted
+in people with bipolar
+4942.05 and the top down control,
+4944.27 that kind of accelerator and break
+4946.04 on our overall levels of
+energy are also disrupted.
+4950.03 Now that's all fine and good
+because, well, it's true,
+4954.11 at least according to what the data
+4955.73 at this point in time tell us,
+4957.35 there may be new discoveries to come,
+4958.76 but that all seems to be the case,
+4960.62 but it doesn't tell us how to modulate
+4962.33 or change that circuitry.
+4963.98 It also doesn't tell us
+how something like lithium
+4967.25 can actually benefit a
+large number of patients
+4970.19 or how a good number
+of the other treatments
+4973.04 for bipolar disorder, which
+we'll talk about going forward
+4975.98 can benefit patients with bipolar.
+4978.05 So it appears that lithium is exerting
+4979.46 its positive effects on
+bipolar depression treatment,
+4982.7 at least in part by preventing the loss
+4985.28 of certain neural circuits,
+4986.3 namely the neural
+circuits for interoception
+4988.13 and the top down control
+over the limbic system.
+4990.89 Now it turns out to be
+examining lithium's effects
+4994.16 at an even more reductionist level,
+4996.38 we can gain really important
+insight into what's going on
+4999.41 in bipolar depression and
+some of the other treatments
+5002.44 for bipolar depression,
+including behavioral treatments,
+5005.41 things like transcranial
+magnetic stimulation,
+5007.42 and even some of the more natural
+5009.58 or so-called nutraceutical treatments
+5011.77 including things like high
+dose omega-3 supplementation,
+5015.37 which we're going to
+talk about extensively.
+5017.44 Now, in order to
+understand what we're going
+5019.09 to talk about next, it's important
+5020.56 that everybody understand a
+key concept of neuroplasticity.
+5024.01 And this is a key concept
+regardless of whether or not
+5026.47 one is talking about bipolar depression.
+5028.45 In fact, it's something I think everybody,
+5030.07 every citizen of earth should know about,
+5032.56 and that's called homeostatic plasticity.
+5035.05 Homeostatic plasticity
+is a particular form
+5037.75 of neuroplasticity in
+which if a neural circuit
+5041.17 is overactive for a period of time,
+5044.5 there are changes that
+occur at the cellular level
+5047.5 that lead to a balance or
+a homeostatic regulation
+5052.03 of that circuit so that
+it's no longer overactive.
+5055.15 Conversely, if a neural
+circuit is underactive
+5058.06 for a period of time,
+5059.23 certain changes happen within
+the cells of that circuit
+5062.17 to ramp up their activity
+or make them more likely
+5064.93 to be active.
+5065.86 And whether or not a neural circuit
+5067.9 and the neurons within
+it become more active
+5070.93 or less active in the context
+of homeostatic plasticity
+5074.14 largely depends on one mechanism,
+5076.21 and it's a beautiful
+mechanism that I'll make
+5077.95 very clear to you right now,
+5078.97 even if you don't have
+a background in biology.
+5081.31 Neurons communicate with one another
+5082.99 by releasing so-called neurotransmitters,
+5084.76 which are just chemicals.
+5085.78 Those neurotransmitters are vomited out,
+5088.27 they're not actually vomited,
+5089.17 but they're spit out into
+the so-called synaptic cleft,
+5091.45 often called the synapse.
+5092.5 The synapse is just a
+little gap between neurons.
+5094.96 And when they are
+released into the synapse,
+5098.35 they don't just stay there,
+5099.28 they actually park or bind to receptors
+5101.83 on what's called the postsynaptic neuron.
+5103.81 And depending on how many
+receptors they bind to
+5107.11 and how many receptors
+are available, et cetera,
+5109.21 they can have a greater or lesser effect
+5110.83 on the postsynaptic neuron.
+5112.3 This scenario of
+neurotransmitters being released
+5114.91 into synapses then binding to receptors
+5117.46 on postsynaptic neurons and influencing
+5119.86 the electrical excitability
+of those postsynaptic neurons
+5122.53 sits central to not just the
+treatment of bipolar disorder,
+5125.71 but to all treatments of
+all psychiatric conditions
+5128.77 and indeed to things like
+neuropathic pain as well.
+5131.53 For example, the so-called SSRIs,
+5134.98 Prozac, Zoloft and others, et cetera,
+5137.95 stands for selective
+serotonin re-uptake inhibitor.
+5141.28 What does that mean?
+5142.113 Well, serotonin is a neurotransmitter.
+5143.98 It's actually a
+neuromodulator that's released
+5145.57 into the synapse, and then the SSRI,
+5148.72 the selective serotonin
+re-uptake inhibitor
+5151.36 allows more of that serotonin
+to sit within the synapse
+5154.87 for longer, it's a re-uptake inhibitor,
+5157.36 it prevents re-uptake by
+the presynaptic neuron.
+5160.087 and that serotonin therefore can park in
+5162.79 or dock in the receptors, as it's called,
+5165.147 of the postsynaptic
+neuron in greater numbers,
+5168.07 and have a greater impact
+on that postsynaptic neuron.
+5171.94 So the drugs that are
+used to treat depression
+5174.34 or other things of that
+sort, things like SSRIs,
+5178.0 work by changing the
+availability of neurotransmitter
+5181.27 in the synapse.
+5182.11 Other things like MAO inhibitors,
+5184.39 Monoamine oxidase inhibitors,
+work a different way.
+5187.48 They inhibit the enzyme.
+5188.68 Anytime you hear ase in biology,
+5190.48 it's very likely an enzyme
+which breaks things down.
+5193.87 so MAO inhibitors prevent the
+breakdown, not the re-uptake,
+5198.85 but the breakdown of neurotransmitter
+5200.92 and therefore allow more neurotransmitter
+5203.14 to be available in the synapse
+5205.0 and influence the postsynaptic cell.
+5207.49 Homeostatic plasticity is
+a form of neuroplasticity
+5212.26 in which overall circuits can
+become much more excitable
+5215.77 or much less excitable by the addition
+5218.5 of more receptors in
+the postsynaptic neuron
+5221.5 or by the removal of more receptors
+5223.51 from the postsynaptic neuron.
+5224.65 And the way this happens
+is just beautiful.
+5226.66 It was first discovered
+in the visual system
+5229.24 and the person primarily responsible
+5231.43 for the discovery of
+homeostatic plasticity,
+5233.29 although there are several,
+5234.46 is a woman by the name of Gina Turrigiano,
+5236.2 she's a professor at Brandeis University.
+5238.42 And what the Turrigiano Laboratory showed
+5241.39 was that for instance, if we
+5244.27 are in the dark for a long
+period of time, literally,
+5246.82 and we're not seeing much
+for a long period of time,
+5248.83 there's an increase in
+the number of receptors
+5251.02 in the postsynaptic neurons
+5252.4 so that a smaller amount
+of light and excitability
+5255.55 within the visual system can lead
+5257.32 to greater amounts of
+activity in the visual system.
+5260.47 Conversely, if there's an overactivity
+5262.81 or an increase in that
+activity in the visual system
+5265.0 for some period of time,
+5266.65 then a number of receptors
+in the postsynaptic neuron
+5269.89 are removed from that
+postsynaptic neuron surface,
+5272.92 making any neurotransmitter
+that's available
+5275.74 only able to bind the
+receptors that are left
+5278.14 and have less of an
+influence on those cells.
+5280.54 In other words, keeping a circuit
+5282.4 in so-called homeostatic balance
+5284.71 in a particular range of excitability.
+5287.77 Now, while that's a mouthful and an earful
+5290.17 and a concept-full, I don't know
+5291.82 if a concept-full is a
+word, but in any case,
+5293.74 that's a lot to think about,
+5295.15 but all you need to know
+is that if a neural circuit
+5297.37 is very active for a period of time,
+5299.05 in normal individuals,
+there will be a reduction
+5302.26 in the amount of activity
+by way of removing
+5304.78 receptors that bind neurotransmitter.
+5306.55 Whereas, if a neural
+circuit is very quiet,
+5309.28 it's not activated for a period of time,
+5310.78 maybe your leg is in a cast for instance,
+5313.03 and you're not activating
+your quadricep and calves
+5315.91 very much, well when that cast comes off,
+5318.55 sure, the muscle might be atrophied
+5320.14 but the nerves that connect to that muscle
+5322.0 are actually in a position
+to influence that muscle
+5324.46 even more once you start using
+that muscle or those muscles,
+5328.81 because whatever
+neurotransmitter is released
+5331.21 now has the opportunity
+to bind to more receptors,
+5334.81 in that case in muscle,
+5335.74 or in the case of brain circuits,
+in postsynaptic neurons.
+5339.22 So homeostatic plasticity
+is this beautiful,
+5341.95 balancing mechanism that makes
+sure that neural circuits
+5344.38 are never too active nor
+too quiet for too long.
+5348.25 And in a beautiful display of how
+5352.75 treatments can lead to a better
+understanding of biology,
+5355.84 which can lead to the discovery
+5357.31 of even better treatments, lithium and
+5361.51 another compound, which
+we'll talk about, ketamine
+5364.69 seem to exert their actions largely
+5368.08 through effects on
+homeostatic neuroplasticity.
+5371.44 There's a wonderful paper that describes
+5373.18 all the nitty-gritty of this.
+5374.86 Certainly most people
+listening, I'm guessing,
+5377.17 are not going to be
+interested in all this detail,
+5380.56 but for those of you that you are
+5381.7 and you want to delve deep into this,
+5383.59 this paper was published in
+Neuron Cell Press journal,
+5386.08 excellent journal,
+5387.67 it's titled, Targeting
+Homeostatic Plasticity
+5390.04 for the Treatment of Mood Disorders.
+5391.69 And there's one particular
+figure in this paper
+5393.46 that I'll just describe to you
+5394.87 in which measurements
+were made from neurons
+5398.5 and the number of
+receptors in those neurons,
+5400.54 it's done somewhat
+indirectly through a method
+5402.34 that's detailed and
+neuroscientists are familiar with.
+5405.01 Basically what it measures is how excited
+5407.83 a given neuron is, electrically
+excited a given neuron is
+5410.56 to a given amount of neurotransmitter.
+5413.44 So that the amount of
+neurotransmitter that's vomited
+5416.26 onto a neuron is
+essentially kept constant,
+5418.6 and then the response
+5419.89 of the postsynaptic neuron is measured.
+5421.69 So it can be of one
+level or higher or lower
+5424.42 depending on homeostatic plasticity.
+5427.39 And what this paper shows
+and what's been shown
+5430.78 over and over again, is that
+when neurons are exposed
+5435.46 to lithium for a period of time,
+5437.68 there is a reduction in the excitability
+5441.67 of the postsynaptic neuron,
+that is neurons within the brain
+5444.85 become less excitable over
+time if lithium is present,
+5450.07 whereas ketamine, which is
+now a common FDA-approved,
+5453.85 at least in the US, it's
+approved for the treatment
+5456.28 of major depression,
+ketamine does the opposite.
+5459.25 Ketamine seems to increase
+the number of receptors
+5461.68 in the postsynaptic neuron
+and lead to greater levels
+5465.28 of excitability and electrical activity
+5467.32 within neural circuits
+to a given fixed amount
+5469.99 of neurotransmitter.
+5471.34 So this is super interesting
+because what it means
+5473.29 is that lithium is causing
+circuits to be less active,
+5476.56 ketamine is causing
+circuits to be more active.
+5479.17 And we know from excellent
+clinical data now
+5482.17 that ketamine seems to be
+a very effective treatment
+5485.41 for major depression, and for
+the major depressive episodes
+5490.3 of people that suffer
+from bipolar depression,
+5493.09 that includes these
+major depressive episodes
+5495.04 of two weeks or longer of
+suppressed mood, appetite,
+5498.1 sleep issues, et cetera.
+5499.87 Now, the key thing about ketamine
+5502.09 that's often not discussed
+is that while its effects
+5505.57 are very potent, they are transient.
+5508.84 So one major drawback to
+ketamine therapy for depression
+5512.83 is that it has to be done repeatedly,
+5514.6 and how repeatedly, or how often, rather,
+5517.45 depends, of course, on a discussion
+5519.22 between the psychiatrist and the patient.
+5520.93 This is not something
+to cowboy on your own.
+5524.53 I know that, and many of
+you are probably familiar
+5527.05 with the fact that ketamine
+also is abused recreationally.
+5531.19 It is a so-called NMDA,
+5533.08 N-methyl-D-aspartate receptor antagonist,
+5536.05 so it blocks the very
+receptor that's responsible
+5538.78 for neuroplasticity for
+changes in neural circuits.
+5541.69 It also changes excitability
+in neurons as I just described.
+5544.18 So ketamine is a very potent chemical
+5546.31 that has been shown over and over again
+5548.467 and is now FDA approved for the treatment
+5550.57 of major depression, but its
+effects seem to be transient.
+5553.63 Lithium, as I described earlier,
+5555.55 seems to reduce the manic episodes
+5559.54 or the intensity of manic
+episodes in symptomology,
+5561.6 in people with bipolar disorder,
+5563.29 it's doing that through neuroprotection.
+5565.15 So protecting neural
+circuits from dying away
+5567.34 that initially are overactive
+5568.99 and that overactivity
+causing excitotoxicity,
+5571.51 blocks that excitotoxicity, we believe.
+5574.45 And it seems to do that in part
+5578.2 by diminishing the amount of
+activity in those circuits.
+5581.47 So this is a beautiful mechanistic story,
+5584.08 and it's the sort of story
+that you'd love to have
+5586.33 for a great number of
+psychiatric illnesses.
+5588.82 And fortunately we have
+for bipolar disorder.
+5590.95 Overactivity of a given circuit
+5592.39 eventually leads to
+neurotoxicity, excuse me,
+5596.44 lithium is preventing that
+neurotoxicity by reducing
+5599.23 the number of receptors
+in certain elements
+5601.45 within those circuits, so
+called homeostatic scaling,
+5604.36 it's downregulating
+the number of receptors
+5606.82 leading to less
+excitability and preventing,
+5608.95 we think, excitotoxicity.
+5611.02 And in that sense, you can see exactly why
+5615.01 it's important to get lithium treatment
+5616.45 in there early for people
+with bipolar disorder.
+5619.84 Ketamine as a treatment
+for major depression
+5621.58 seems to be effective but transient.
+5623.59 And you can also see why
+it would be important,
+5625.72 not just to reduce the manic episodes
+5628.209 for people with bipolar disorder,
+5629.83 but to also treat the depressive episodes.
+5632.17 So this is a key feature of the treatment
+5633.85 for bipolar depression
+and for bipolar disorder.
+5636.88 there needs to be
+treatment both of the mania
+5639.07 and of the depressive
+episodes if they're present.
+5641.68 And fortunately, there are
+excellent drugs to do that.
+5644.53 And I should mention
+that ketamine and lithium
+5647.44 are just two of the drugs within the kit
+5650.38 that psychiatrists have access to.
+5652.39 There are many things, olanzapines
+5655.057 and a number of different,
+including Clozapine.
+5658.27 Clozapine is an antipsychotic
+5660.28 which is commonly prescribed to
+5662.92 as a sedative in some
+cases that allows people
+5665.53 in manic episodes to sleep.
+5666.82 It's classically described
+5668.41 as so called dopamine
+receptor 4 antagonist,
+5671.23 although it does other things as well.
+5672.88 Clozapine has a number
+of side effect features
+5675.79 related to white blood cell
+5678.1 and things of that sort that
+require careful monitoring.
+5680.62 So there are an enormous number now,
+5684.16 literally dozens and
+dozens of different drugs,
+5686.71 each designed to target
+either the manic phase,
+5689.86 the depressive phase, or
+some what we call acute
+5693.7 sort of early phases
+versus ongoing treatments.
+5696.25 This is a vast galaxy of drug treatments
+5699.4 that really should be navigated,
+5701.44 I should say, absolutely
+should be navigated
+5703.78 by a board certified psychiatrist.
+5706.3 And of course in close discussion
+5708.7 with both the person suffering
+from bipolar disorder,
+5711.82 but also ideally the family members
+5714.37 of the person suffering
+from bipolar disorder.
+5716.8 But I think, at least up until now,
+5719.95 we've focused on the two major pathways
+5723.4 for treatment, lithium and ketamine.
+5725.71 And we've talked about why
+lithium and ketamine work,
+5728.38 that they're working on opposite ends
+5729.7 of this homeostatic scaling.
+5730.9 We talked a bit about the
+circuits that are involved
+5733.57 in generating what we think
+5735.28 are the manic symptomology
+and the lack of interception.
+5738.34 Why people can just
+persist in staying awake,
+5740.44 awake, awake, not eating, et cetera.
+5743.05 Now you have in mind how
+all that is put together.
+5745.96 And I think you have in mind,
+5747.4 some of the well-demonstrated treatments
+5749.92 for the different component
+parts of bipolar disorder,
+5752.62 which now I'm hoping
+you're also well versed in
+5754.69 based on our early, early discussion
+5757.15 of what constitutes
+bipolar 1 and bipolar 2.
+5760.03 Now I would like to also talk about
+5762.22 some of the not so typical therapeutics
+5764.92 for bipolar disorder and
+also point to the things
+5767.95 that have been tried and failed
+5770.29 for successful treatment
+of bipolar disorder,
+5772.75 because some of those things
+5775.09 are often talked about and suggested,
+5777.52 especially in online communities,
+5779.23 and while it's not clear that any of them
+5781.21 are particularly hazardous on their own,
+5784.3 although some of them
+do carry some hazards,
+5786.94 I do think it's important
+because of the critical
+5789.7 time sensitive nature of bipolar disorder
+5791.77 and the urgency of
+getting treatments early
+5794.77 to try and prevent some
+of the longer lasting
+5796.93 neural circuit changes
+that if people can avoid
+5799.6 some of the less effective or demonstrated
+5801.4 to be ineffective treatments,
+5803.86 that they stand to combat bipolar disorder
+5806.41 much more successfully.
+5807.58 First of all, a key point
+about drug therapies
+5810.07 versus non-drug therapies
+or talk therapies,
+5814.3 without question, drug therapies
+5817.36 are going to be most effective
+5819.16 when done also with talk therapies.
+5822.04 And we'll talk about which talk therapies
+5823.39 have been demonstrated
+to be most effective.
+5826.18 There is some argument about
+what I'm about to say next,
+5828.55 but in general, most
+psychiatrists will tell you,
+5832.0 or certainly the ones I've
+spoken to have told me,
+5834.91 that talk therapy on its own
+5837.46 is rarely, if ever effective
+for bipolar depression
+5842.38 and bipolar disorder, whether
+or not it's BP-I or BP-II.
+5845.68 That's just the reality of it.
+5847.39 Contrast that with our discussion
+5849.1 about obsessive-compulsive disorder,
+5850.78 which we talked about a few episodes ago,
+5852.7 if you haven't seen that episode,
+5854.29 We have an in-depth episode all about OCD
+5856.6 and obsessive-compulsive
+personality disorder.
+5859.45 There it seems that drug
+therapies and talk therapies
+5862.63 can be done independently
+or in combination.
+5865.72 As expected, combined
+drug and talk therapies
+5869.14 are more effective there
+than either one alone,
+5871.3 but there are pretty impressive effects
+5873.52 of talk therapy alone provided
+5874.9 that they're initiated at the right time,
+5876.31 and it's the right form of talk therapy.
+5878.53 That's OCD, but in terms
+of bipolar disorder,
+5881.38 it really seems that the
+drug therapies are necessary,
+5884.86 at least in most all cases.
+5887.92 That said, talk therapies
+are terrific augment
+5892.0 or support for those drug therapies
+5893.59 and sometimes can allow people
+5894.73 to take lower doses of
+those drug therapies,
+5896.68 which turns out to be important
+5897.85 because of the side
+effect profiles of a lot
+5899.34 of drug therapies and
+sometimes the cost as well.
+5902.05 I guess we can think of cost
+5902.98 just as another side effect really.
+5905.74 There are both established
+and more novel forms
+5908.77 of talk therapy being used, again,
+5911.53 in concert with drug treatments
+for bipolar disorder.
+5915.61 Cognitive behavioral therapy is the one
+5917.53 that seems to be best,
+5918.73 at least by way of the
+statistics and papers that exist.
+5921.67 It's also the one that's
+been explored the most.
+5923.35 So one of the reasons
+why it's often considered
+5925.45 the most popular or effective
+5926.68 is 'cause it's also been around longer
+5928.12 and it's been explored the most.
+5929.08 Cognitive behavioral therapy in general
+5931.84 is a progressive exposure of the patient
+5935.47 in a very controlled way,
+in a clinical setting,
+5937.48 to some of the triggers or the conditions
+5940.21 that would exacerbate bipolar disorder.
+5942.79 Now, earlier I said borderline
+personality disorder
+5945.4 has all these triggers
+and triggered elements
+5947.89 from the external environment,
+5948.94 whereas bipolar disorder does not.
+5950.89 And that's still true, but
+5954.28 it is the case that somebody with bipolar
+5956.8 can have worse symptoms if life conditions
+5959.47 get worse or more stressful.
+5960.52 So cognitive behavioral therapy,
+5962.56 I mean the discussion about
+5964.12 and sometimes the direct exposure to
+5967.24 anxiety provoking elements of life
+5969.34 can be very helpful for
+adjusting the responses
+5973.72 to those otherwise triggering events
+5975.4 and sometimes making the drug treatments
+5976.87 more effective even at lower doses.
+5978.61 There are also forms of therapy
+5980.47 including family-focused therapy,
+5982.78 which is especially important in terms
+5985.36 of bipolar disorder because
+5988.24 family members, provided
+that they are not themselves
+5991.33 in a manic episode due to the
+5992.818 close heritability of bipolar disorder,
+5995.83 but family members can
+often be excellent windows
+5999.64 into whether or not somebody
+is doing well or poorly,
+6002.76 or is veering toward or is emerging from
+6005.25 a manic or depressive episode
+6006.93 because they understand that person,
+6008.19 they have a lot of data,
+6009.75 it could be purely subjective data,
+6011.19 but they have a lot of
+exposure to how long
+6012.93 or well somebody's been
+sleeping or eating, et cetera.
+6015.39 So family-focused therapy
+involves other members
+6017.4 of the person suffering from
+bipolar disorder's family,
+6020.25 as well as conversations
+about family members
+6024.09 in a way that helps patients
+6025.77 with bipolar disorder navigate,
+6027.6 not just through manic episodes
+and depressive episodes,
+6029.79 but start to learn to predict
+what are the conditions
+6032.88 psychological, physical, and otherwise
+6035.07 that can trigger bipolar episodes.
+6038.1 And then there's a category of therapy
+6041.04 called interpersonal and
+social rhythm therapy.
+6044.07 This is deserving of its
+own entire episode really.
+6048.24 Interpersonal and social rhythm therapy,
+6049.98 it's sort of an expansion
+on family-focused therapy,
+6053.01 although it's distinct
+in certain ways as well,
+6055.35 and really focuses on how
+people are relating to others
+6059.19 in their life, and in the workplace,
+6061.41 and in the school environment,
+6063.0 and also within the family, et cetera.
+6064.98 And I should say that a overall theme
+6067.89 that's emerging in
+psychiatry and psychology
+6070.47 is to start wherever
+possible to incorporate
+6073.56 more of the social aspects
+6075.51 and the interpersonal aspects.
+6077.07 In other words, not just talking to
+6078.72 and examining a patient
+as one biological system,
+6081.45 one nervous system, one set
+of chemicals, and one life,
+6084.57 but rather a set of
+chemicals, neural circuits,
+6087.03 and a life that's
+embedded in the chemicals
+6088.95 and neural circuits and
+lives of other people.
+6091.324 Just by way of example, you can imagine
+6093.24 that if somebody is in a
+very healthy relationship
+6095.94 or a very abusive relationship,
+6097.83 that that's going to strongly impact
+6099.9 the outcomes of manic episodes.
+6101.73 You can imagine that if
+the financial situation
+6104.4 is one in which people can
+recover from manic episodes,
+6107.58 I didn't mention this
+earlier, but I should have,
+6109.59 forgive me, that oftentimes people
+6111.45 who are in a manic episode will go out
+6113.04 and spend immense amounts of money
+6114.78 that they simply cannot afford to lose.
+6116.97 And then the depressive
+episodes that, in many cases,
+6120.12 follow are made far worse
+by the financial anxiety
+6125.1 and the financial stress that results
+6127.26 from those manic episodes
+of spending, et cetera.
+6129.48 And then of course, this carries over
+6131.13 to sexual promiscuity where
+people might be dealing
+6134.76 with unwanted pregnancy or STIs, or
+6138.42 very fractured interpersonal dynamics
+6140.76 with existing or new relationships.
+6142.35 I mean, you can imagine
+how these manic episodes,
+6145.98 as well as the depressive episodes
+6147.63 can really wick out into an
+enormous amount of destruction,
+6151.08 which brings us back
+to the initial criteria
+6154.14 of BP-1 and BP-2 is that
+these manic episodes
+6157.35 are not a good thing.
+6159.15 These depressive episodes
+are not a good thing.
+6162.63 They create this sense of euphoria
+6164.64 in the person experiencing mania,
+6166.22 or they create this sense
+that anything is possible.
+6168.87 But at the end of the day,
+and actually every day,
+6172.41 these episodes are quite maladaptive.
+6174.72 They really destroy people's lives.
+6176.43 And it's not just the life of the person
+6178.02 that's suffering from bipolar disorder.
+6179.217 And so hence cognitive behavioral therapy,
+6181.71 family-focused therapy and interpersonal
+6183.6 and social rhythm
+therapies are the primary
+6185.52 three talk therapies that
+are most often combined
+6188.4 with drug therapies in order to try
+6190.41 and really reduce the harm.
+6192.87 It's really all about harm reduction
+6195.78 from manic episodes and
+depressive episodes.
+6198.27 One very exciting and emerging treatment
+6200.22 that does show great promise,
+6202.56 and in some cases, great outcomes,
+6204.6 for bipolar disorder is, believe it or not
+6207.48 electric shock therapy.
+6209.19 Electric shock therapy may sound barbaric,
+6211.26 and in fact, it tends to look barbaric,
+6213.27 although this is done in
+the controlled setting
+6214.92 of a hospital.
+6215.76 If any of you have seen One
+Flew Over the Cuckoo's Nest,
+6218.49 the final scene or near
+final scene in that movie
+6221.67 was Jack Nicholson with
+the sort of bite protector
+6225.36 in his mouth and getting
+electric shock therapy,
+6227.58 and it's as the name suggests,
+it's a kind of inducing
+6232.02 a global seizure, either low
+level or grand mal type seizure
+6237.09 in the patient's brain and nervous system.
+6239.76 You might ask, well, why
+would one want to do that?
+6242.61 Well, it turns out that
+this is a well-established,
+6246.03 and in many cases, very
+effective treatment
+6248.4 for major depression.
+6249.63 Electric shock therapy is generally used
+6252.45 for treatment-resistant depression.
+6254.34 So these are people that
+have no positive response
+6257.64 or ongoing positive
+response to drug therapies
+6259.64 or other therapies.
+6260.85 Electric shock therapy is thought to work
+6263.07 primarily by stimulating the massive kind
+6266.4 of indiscriminate release of things
+6268.08 like serotonin, dopamine, acetylcholine,
+6271.26 a huge variety of neuromodulators,
+6273.84 as well as things like BDNF,
+6275.58 brain-derived neurotrophic factor
+6276.81 which then allows
+neuroplasticity to take place.
+6279.3 Again, BDNF being permissive
+for neuroplasticity.
+6282.3 The problem with ECT is
+that it's really only useful
+6285.18 for treatment-resistant depression,
+6287.16 it doesn't actually
+target the manic aspects
+6289.47 of bipolar depression
+and bipolar disorder,
+6292.38 but nonetheless, is used when
+drug treatments don't work.
+6296.01 Some of the negatives of
+electric shock therapy
+6299.57 or electric convulsive therapy, ECT,
+6302.52 is the proper acronym
+and way it's described
+6305.19 is that it's quite invasive, right?
+6306.66 This is something that you
+need to go to the hospital for
+6309.09 and oftentimes there's some
+inpatient care required
+6311.52 after the electric convulsive therapy.
+6314.07 It's a fairly high cost,
+6315.39 especially for those that
+don't have insurance.
+6317.79 And of course it requires anesthesia.
+6320.1 For most people, that's
+not going to be a problem,
+6321.6 but for many people
+that could be a problem.
+6324.69 And there's often some
+associated memory loss.
+6328.35 And so the memory loss,
+the invasive nature of ECT
+6333.36 and the cost oftentimes rule
+out ECT for most patients,
+6337.62 and that's why it's sort of a late stage
+6339.21 or kind of last resort type thing
+6341.1 for treatment-resistant depression.
+6342.75 Nowadays ketamine type
+therapy is done repeatedly
+6345.57 or other treatments, for instance,
+6347.58 transcranial magnetic stimulation
+6350.13 which is basically non-invasive,
+6352.11 it's a coil that's placed on the outside
+6353.94 of the skull, excuse me.
+6357.03 And we can more accurately refer to it
+6359.76 as repetitive or rTMS,
+6362.28 repetitive transcranial
+magnetic stimulation.
+6364.89 Transcranial magnetic
+stimulation is a tool
+6367.65 that allows researchers and clinicians
+6369.69 to reduce the amount of activity
+6371.28 in specific neural circuits.
+6372.51 So they can actually
+target the magnetic field
+6375.18 to particular neural
+circuits to reduce activity
+6377.1 in those neural circuits.
+6378.36 Again, it's minimally invasive.
+6380.01 It has been shown to be effective
+6381.69 in both increasing
+neuroplasticity in positive ways,
+6385.47 as well as reducing depressive episodes
+6387.57 and in a few instances in reducing
+6390.69 the amplitude or the
+intensity of manic episodes
+6393.63 in people with bipolar disorder.
+6395.73 The problem is it's still
+a very early technique.
+6399.06 There aren't a lot of
+clinics and labs doing it.
+6401.1 I'm starting to see more advertisements,
+6402.93 literally commercial clinics
+6405.21 that are advertising rTMS or TMS.
+6408.12 I encourage you to approach
+those clinics with caution.
+6410.61 I'm of the mind that if those clinics
+6413.37 are not either closely
+or maybe even distantly
+6416.46 associated with a research institution
+6418.2 that's really up on the latest of rTMS,
+6420.6 you'd be wise to at
+least do your research,
+6423.39 and explore, talk to other patients
+6425.91 who've done these treatments,
+6427.38 but certainly in university hospitals
+6429.54 and in clinical settings
+and research settings,
+6431.61 rTMS is being used as
+a way to, for instance,
+6435.18 reduce the activity of
+certain limbic circuitries
+6437.76 so that people are just overall
+less excitable and manic
+6440.46 or to activate because it can also be used
+6443.34 for activation now of
+certain neural circuits.
+6445.02 Activate, for instance,
+the parietal inputs,
+6447.18 the top down control
+over the limbic system.
+6449.19 This is all happening right now.
+6450.96 So we have ECT, repetitive TMS or rTMS,
+6454.92 and then as I mentioned
+earlier, ketamine therapies,
+6456.99 most of those are targeted
+toward the depressive aspects
+6459.78 of manic depression.
+6461.4 So for people with bipolar disorder
+6462.96 that doesn't include depression,
+6464.31 those are going to be less effective,
+6465.93 but overall, it's going
+to be the talk therapies
+6468.35 of the sort that we discussed
+earlier, or a moment ago.
+6471.93 Plus drug treatments,
+6474.57 almost always lithium will be explored,
+6476.28 plus some treatments for
+the depressive episodes
+6478.95 in particular if those
+depressive episodes are present.
+6481.89 Nowadays, there's a lot of
+excitement about psilocybin
+6484.98 which is a psychedelic.
+6486.33 In the US, psilocybin is still illegal.
+6489.15 It is not legal, meaning you
+can get in a lot of trouble
+6492.93 for possessing it, certainly
+for selling it, et cetera.
+6495.84 But psilocybin is being explored
+6497.43 as a clinical therapy in
+certain laboratory settings
+6500.01 in particular, at Johns
+Hopkins School of Medicine.
+6502.65 It's being explored in human patients
+6504.24 for the treatment of major depression,
+6505.77 for OCD I believe as well,
+6508.44 but certainly for major depression
+and for eating disorders.
+6511.2 And it seems from the
+initial wave of publications
+6514.32 from that work done by the
+incredible Matthew Johnson
+6517.86 or Dr. Matthew Johnson, who was a guest
+6519.63 on this podcast before,
+6520.62 he's also been on the Tim Ferris Podcast,
+6523.32 he's been on the Lex Fridman Podcast.
+6525.57 Dr. Matthew Johnson came on this podcast,
+6528.12 he's talked about some of the work
+6529.05 with psilocybin for the
+treatment of depression.
+6531.63 Very impressive results there.
+6534.09 And as you can imagine,
+very impressive results
+6536.28 for the major depressive
+episodes for bipolar.
+6538.5 However, at least to my knowledge,
+6541.08 again, to my knowledge,
+6542.58 there have not been any
+controlled clinical trials
+6544.95 exploring psilocybin
+for the mania associated
+6547.95 with bipolar disorder.
+6548.97 If someone out there is aware
+of those clinical trials,
+6551.31 please let me know.
+6552.143 I'll do an update in a future podcast,
+6553.95 but right now, no knowledge from me
+6556.92 about psilocybin clinical trials
+6558.66 for the manic component
+of bipolar disorder.
+6562.35 A number of people are
+probably also going to wonder
+6564.42 about whether or not cannabis
+6566.67 or medical marijuana is
+useful for bipolar disorder.
+6571.02 To address this, I looked
+to some previous lectures
+6574.23 and some clinicians at
+Stanford Psychiatry.
+6577.59 This question was asked of
+them, and as it turns out,
+6580.98 cannabis does not seem to be effective
+6583.41 for the treatment of the manic phases
+6585.45 of bipolar disorder or for the treatment
+6588.06 of the major depressive component.
+6590.34 The only treatment perhaps,
+6592.74 or I should say the only situation perhaps
+6595.14 in which it might be useful,
+6595.973 and this is what was relayed to me,
+6597.72 is that it may help with
+sleep in certain people
+6600.6 that are having trouble with insomnia,
+6603.48 though nowadays, it's far
+more common for people
+6606.09 in manic episodes to be prescribed things
+6607.98 like Trazodone or other
+benzos, benzodiazepines
+6611.76 in order to try and get sleep
+6613.17 within the manic episodes.
+6614.34 And benzodiazepines and
+Trazodone, et cetera,
+6616.98 work largely through the
+so-called GABA system.
+6619.23 This is a neurotransmitter
+6621.24 that causes reductions in
+excitability of neurons,
+6625.14 hence why it's being used
+to try and calm people down
+6627.78 and allow them to sleep
+during their manic episodes.
+6629.88 So not a lot, or essentially no data,
+6632.01 supporting the use of
+cannabis for the treatment
+6633.75 of bipolar disorder, per se,
+6635.79 nor data supporting the use of psilocybin
+6638.49 for the treatment of
+bipolar disorder per se.
+6640.44 But I realize, as I say that,
+6643.05 that there are going to
+be a number of people
+6644.43 that may have had positive
+or negative experiences
+6648.36 with cannabis or psilocybin
+6649.56 as they relate to bipolar disorder.
+6651.0 So please, if you're
+willing or comfortable,
+6653.82 put that, if you're comfortable,
+6654.96 into the comment section on YouTube.
+6657.66 And of course, if you
+are aware of any studies
+6659.64 on cannabis or psilocybin
+showing positive outcomes
+6663.06 for the treatment bipolar
+disorder, please provide links
+6666.21 or PubMed ideas to those, I'd
+love to peruse those studies.
+6670.2 There are two naturopathic,
+or I should say,
+6673.26 nutrition, supplement-based
+approaches to bipolar disorder.
+6677.07 They get talked about a
+lot, and one of them shows
+6680.67 some interesting promise,
+or effectiveness even,
+6683.52 in a limited context.
+6686.19 Before marching into this description
+6688.26 of these two compounds, in
+fact before even mentioning
+6691.2 these two compounds,
+I do want to emphasize
+6694.23 what's been said and written
+about over and over again
+6697.5 and what was relayed to me
+from expert psychiatrists.
+6702.93 It is not wise to rely
+purely on talk therapy
+6705.72 or on natural approaches to the treatment
+6708.59 of bipolar disorder given
+the intensity of the disorder
+6712.68 and the high propensity for suicide risk
+6716.25 in people with bipolar disorder,
+6717.81 it is a chemical and
+neural circuit disruption,
+6720.57 and it needs to be dealt with head on
+6722.25 through the appropriate chemistry
+6725.01 and prescription drug approaches
+6726.87 from a board-certified psychiatrist.
+6729.09 I don't say this to protect me,
+6731.31 I say this truly to protect
+those who either suffer from
+6734.76 or think they may suffer
+from bipolar disorder
+6736.55 or if you know someone
+who you think might suffer
+6738.75 from a bipolar disorder.
+6740.82 Now, all that is not to say
+6742.59 that there aren't useful
+lifestyle interventions
+6744.93 that can support people
+with bipolar disorder.
+6746.82 So I just briefly want to mention those.
+6748.47 And again, I'm lifting the
+statements I'm about to make
+6750.99 from some excellent online lectures
+6753.78 from psychiatrists at
+Stanford and elsewhere,
+6756.48 which essentially say that,
+6758.76 of course, of course, of course,
+6761.94 getting better sleep,
+getting adequate exercise,
+6765.09 getting proper nutrition, having quality,
+6768.03 healthy, social interactions,
+6770.58 even getting regular sunlight in the day
+6772.41 and avoiding bright light at night,
+6773.7 all of those things are
+going to braid together
+6777.0 to support the nervous
+system and the psyche
+6779.64 of somebody with bipolar disorder,
+6781.993 but they braid together
+to support the psyche
+6784.86 and the neurochemistry
+and the neural circuits
+6786.48 of anybody and everybody.
+6788.37 So they have generally a modulatory effect
+6791.22 that is they're indirectly shifting
+6794.22 the likelihood that somebody
+might have an episode,
+6797.19 or the intensity of an episode,
+6799.26 in particular, the depressive episodes.
+6801.15 You can imagine how someone who's heading
+6802.38 into a depressive episode,
+6803.79 maybe they're on a lower
+amount of medication
+6805.56 or they haven't yet medicated
+6807.15 for the depressive episode of bipolar.
+6809.19 And now they're making sure
+or their family is making sure
+6812.49 that they're getting exercise, sunshine,
+6814.05 eating correctly, social
+engagement, et cetera.
+6816.78 Of course it makes perfect sense
+6818.1 why they would have
+perhaps a shallower drop
+6820.65 into depression or maybe an offset
+6822.39 of depressive episode.
+6823.92 That said, most all, if not all people
+6827.52 with bipolar disorder are likely to need
+6829.86 some sort of drug therapy intervention
+6832.62 in order to help them.
+6833.88 So lifestyle factors are always important
+6836.82 in all individuals,
+6838.29 those suffering from
+psychiatric conditions or not.
+6842.55 But in some conditions
+of the mind and body,
+6845.46 those lifestyle interventions
+can have a greater effect
+6848.13 in offsetting symptoms,
+whereas in bipolar disorder,
+6851.25 I think it's naive, and
+in fact, wrong to say
+6853.86 that lifestyle interventions alone
+6856.32 are going to prevent,
+especially the extreme forms
+6858.81 of mania and depression.
+6860.61 Again, bipolar disorder being so serious
+6863.13 and carrying such high suicide risk,
+6865.44 we just have to point
+this out again and again.
+6867.51 Now with that said,
+there are two substances
+6869.73 generally found as supplements,
+6871.83 although there are other
+sources of them as well,
+6873.78 including within nutritional sources
+6875.94 that have been shown, at
+least in some studies,
+6878.34 to be pretty effective
+in adjusting the symptoms
+6882.35 of bipolar disorder, and
+those two things are inositol
+6886.17 and omega-3 fatty acids.
+6888.75 Now inositol is a compound
+6891.66 that is taken for a variety of reasons.
+6893.4 It's something we've talked
+about on the podcast before.
+6895.44 I personally take inositol not because
+6897.18 I have bipolar disorder,
+in fact I am quite lucky
+6899.58 that I don't have bipolar disorder,
+6902.13 but I take inositol, a 900
+milligrams of myo-inositol
+6905.22 every third night or so in
+order to improve my sleep.
+6907.8 It's something that I've
+added to my sleep stack.
+6909.66 It's something that I
+found greatly enhances
+6912.39 the depth and quality of my sleep.
+6914.49 And if I wake up in
+the middle of the night
+6916.11 to use the bathroom, et cetera,
+6917.37 it's greatly enhanced my
+ability to fall back asleep
+6920.61 when I want to go back to sleep.
+6922.02 It also seems to have a fairly potent
+6924.24 anti-anxiety effect during the day.
+6926.79 And as I discussed in our episode
+6929.19 about obsessive-compulsive disorder,
+6930.84 inositol has been used at high dosages,
+6934.02 again, I should say
+myo-inositol has been used
+6935.85 at high dosages, at levels
+of even 10, 18 grams,
+6940.29 those are massive dosages by the way,
+6942.42 to deal with certain symptoms
+of OCD to limited success.
+6946.68 And I should mention that
+high dosages of 10 or 18 grams
+6950.16 of inositol can cause a lot
+6952.35 of gastric discomfort, et cetera.
+6954.45 If you want to learn more about inositol
+6957.24 and its various uses, I encourage
+you to go to examine.com
+6960.93 where there's the so-called
+Human Effect Matrix,
+6963.54 and that Human Effects
+Matrix will describe the many
+6966.63 places in which myo-inositol
+and other forms of inositol
+6969.99 have been show shown to be effective
+6971.88 in, for instance, reducing anxiety,
+6973.44 enhancing sleep and on and on.
+6975.78 Myo-inositol is important
+because myo-inositol,
+6979.35 and we can just say inositol,
+6981.42 is related to so-called
+second messenger pathways.
+6984.15 I don't want to get too deep
+into second messenger pathways,
+6986.25 but when certain substances
+bind, like neurotransmitters
+6989.67 to a receptor on a cell surface,
+6991.65 oftentimes those receptors
+themselves will open
+6994.17 and allow the passage of ions
+and other things into a cell.
+6997.26 Oftentimes they will engage
+6999.21 what are called second messenger systems
+7001.01 that is they will trigger
+mechanisms within the cell
+7003.86 to then go do other things.
+7005.48 This is probably something
+we should get into
+7007.04 in real detail in a future episode
+7008.75 for those of you that
+really want to nerd out
+7010.4 on cell-cell signaling, which
+is a favorite topic of mine.
+7013.43 In any case, inositol is related
+7016.04 to a number of so-called
+second messenger systems,
+7018.38 this handoff, or this kind of stimulating
+7021.41 of changes within a cell
+that can inspire changes
+7025.52 in what's called membrane fluidity,
+7027.59 can actually make the membranes of cells,
+7030.35 the outside fence around a cell,
+7032.84 which is made up of fatty stuff,
+7036.05 it can change the fluidity,
+7037.55 meaning how readily things can float
+7040.43 around in the membrane.
+7041.51 You know, we think of cells as very rigid,
+7043.16 like there's a cell, there's a neuron,
+7044.75 or there's a immune cell,
+7045.98 but actually those cells
+have a fatty outside,
+7049.82 in particular neurons
+have a fatty outside.
+7051.98 It's a thin fatty outside,
+it's called the cell membrane,
+7055.4 and things are floating
+around in that cell membrane,
+7057.83 but it's kind of like jello
+that hasn't quite fixed.
+7060.29 And so things like receptors
+moving into the synapse
+7063.38 or moving out the synapse
+for homeostatic plasticity,
+7066.38 things like the ability for certain genes
+7070.7 to be turned on in a
+cell or not turned on,
+7072.56 can depend a lot on
+things that are happening
+7074.96 in that cell membrane and how readily
+7076.7 things move around in the cell membrane.
+7078.35 One way to think about this whole picture
+7079.94 of membrane fluidity is that just imagine
+7082.73 that everyone of your
+cells has this layer,
+7085.04 it's kind of a gelatinous-like layer
+7087.38 and there are lots of little rafts
+7089.09 floating around in there, but those rafts
+7092.81 are able to move more quickly
+7095.3 from one place to
+another, or get more stuck
+7097.76 at one place or another,
+depending on how set
+7099.53 that jello is.
+7101.21 Inositol
+7102.8 and lithium,
+7104.9 and as we'll talk about
+next, omega-3 fatty acids
+7108.98 seem to change the fluidity
+of those membranes,
+7112.1 in other words, they
+allow things to move in
+7114.23 and out of those membranes
+more readily or not.
+7117.32 And this is no surprise given that
+7121.7 those membranes are
+made out of fatty stuff.
+7124.82 In particular, the membranes of neurons
+7127.16 are what called a lipid bilayer,
+7129.2 it's two layers of fat,
+bi means two, lipid, fat.
+7134.33 And omega-3 fatty acids
+of the sort that are found
+7137.54 in certain fish, and that
+fatty fish in particular,
+7141.5 and that are found in fish oil
+and cod liver oil, et cetera.
+7146.36 Omega-3 fatty acids, when we ingest them
+7149.09 are used for a lot of different things,
+7151.19 but they can be readily
+incorporated into pathways
+7154.58 or directly incorporated
+into cell membranes,
+7157.61 changing the way those cell membranes work
+7159.68 and if those cell membranes
+are the cell membranes
+7161.87 of neurons, changing the
+way that neurons work.
+7164.36 So the ability for fish oil,
+7167.78 and in particular, the
+omega-3 fatty acids,
+7170.27 which come in varieties like EPA and DHA,
+7172.73 we'll talk about that in a moment,
+7174.11 have been explored at
+relatively high dosages
+7176.84 for their ability to
+offset some of the effects
+7180.02 of mania and to offset the effects
+7183.26 of depressive episodes
+in bipolar disorder.
+7186.11 And actually, the data there
+7187.46 are pretty impressive, although,
+7190.07 although they are varied,
+7192.8 meaning you will find several studies,
+7195.32 and I'll mention a few,
+that found no effect
+7197.78 of omega-3 supplementation
+through fish oil,
+7200.09 usually it's capsuled fish oil,
+7201.53 although fish oil can
+also be taken, excuse me,
+7203.81 in liquid form.
+7204.77 Oftentimes taking in liquid form
+7206.09 is the more cost efficient way to do it.
+7207.8 Taking in capsule form is the
+more palatable way to do it,
+7210.92 because fish oil for a lot
+of people doesn't taste good.
+7213.59 But nonetheless,
+7215.9 there are several studies that have shown
+7217.55 that supplementing with fish
+oil or omega-3 fatty acids
+7221.57 at levels of, for instance,
+four grams per day
+7225.05 for a period of time,
+7225.92 this is a study that we
+will link in the show notes,
+7227.66 This is Murphy at al. 2012.
+7229.91 This is a fatty acid
+supplementation of 70% EPA to DHA
+7235.1 actually worsen symptoms of mania
+7237.56 over a period of about 16 weeks,
+7239.9 which on the face of it
+makes it seem like, okay,
+7242.03 omega-3 fatty acid supplementation,
+7243.8 very likely to not be
+good for bipolar disorder.
+7247.1 And yet that was the manic phase.
+7250.46 When one looks at some
+of the other studies
+7252.14 of omega-3 fatty acid supplementation,
+7254.69 there is, for instance, a
+study published in 1999,
+7258.08 this is a much higher
+dosage supplementation
+7261.2 with omega-3 fatty acid,
+7262.31 this is a 9.6 grams of fish
+oil per day for four months.
+7266.81 And then actually greatly reduced symptoms
+7270.16 of bipolar depression
+compared to the control
+7274.49 group which received olive oil,
+7276.29 olive oil is a different form
+of fat, monounsaturated fat
+7279.5 but doesn't contain as much
+7280.82 of the omega-3 fatty acids and so forth.
+7282.89 So 9.6 grams of fish oil
+per day over four months
+7287.42 is a lot of fish oil
+7289.88 to be ingesting on a given day.
+7291.59 This was a double blind study.
+7293.93 This was only carried out, I
+should mention, in 30 subjects,
+7296.75 but it was males and females.
+7298.4 And the age range was pretty broad,
+7299.87 anywhere from 18 all the
+way up to 64 years of age,
+7302.51 which is important given
+7304.037 the sort of longitudinal
+or changes over time,
+7306.92 that one sees in bipolar disorder.
+7309.05 Here's the major takeaway,
+7310.85 supplementing with high dose omega-3s
+7312.83 does seem to be beneficial
+for a good number of people
+7316.04 with bipolar disorder.
+7317.6 However, again, I want
+to highlight, however,
+7320.33 it should not be viewed as
+the only treatment approach
+7323.69 for bipolar disorder.
+7324.56 This goes back to what I was saying before
+7326.36 about the essential
+need, in most every case,
+7329.09 for high potency
+prescription drug treatments
+7332.36 prescribed by board
+certified psychiatrists
+7334.13 for bipolar disorder.
+7335.0 However, omega-3 supplementation
+does seem to improve
+7340.79 or reduce the depressive symptoms
+7342.47 in the major depressive
+episodes of bipolar.
+7344.39 And there are a couple studies,
+7345.86 and we'll link to these
+in the show notes as well,
+7347.9 that show that it may even improve
+7349.64 some of the manic episodes as well,
+7351.98 meaning it reduces some
+of the manic symptoms.
+7354.89 Now I say all this from
+a place of great caution,
+7358.1 because I know, especially
+for listeners of this podcast,
+7361.1 there's a lot of interest
+in the behavioral tools,
+7362.93 the supplement-based tools,
+7363.89 the nutrition tools that can
+support bipolar disorder,
+7366.29 but I don't think I can
+overemphasize enough
+7368.6 that especially for bipolar disorder
+7370.307 and the great risk of
+suicide and suffering
+7373.1 and inappropriate spending,
+7375.11 or I should say maladaptive
+spending and impulsivity
+7377.48 that's associated with bipolar disorder,
+7379.31 that it's hard to imagine a scenario
+7381.35 in which just talk therapy and fish oil
+7383.45 and lifestyle interventions
+are going to completely
+7386.18 suppress or treat bipolar disorder.
+7388.28 People with bipolar disorder
+really need to consider
+7390.86 the full picture of treatments,
+the drug treatments,
+7393.83 the
+7395.27 talk therapy treatments,
+and lifestyle treatments,
+7398.18 and nutraceutical, or we can say
+7401.33 supplement-based treatments
+such as omega-3 supplementation
+7404.81 as a full and necessary picture
+7408.05 for dealing with their illness.
+7409.88 I'd be remiss, however,
+7411.5 if I didn't emphasize that
+the omega-3 fatty acid
+7414.02 supplementation
+7415.58 is very interesting, not just in terms of
+7418.4 the subjective effects,
+7420.23 people saying they feel less depressed
+7421.57 or able to sleep better, or
+maybe even some reduction
+7423.98 in manic symptoms,
+7425.15 there's actually been some
+really good brain imaging
+7427.07 to try and understand how
+omega-3 fatty acid treatments
+7430.61 are actually changing the brains
+7432.5 and neural circuits of
+people with bipolar.
+7434.06 And I will put a reference to this.
+7435.32 This is a paper that was published
+7436.82 in the American Journal Psychiatry.
+7438.74 It's entitled, Omega-3
+Fatty Acid Treatment
+7440.96 and T2 Whole Brain Relaxation
+Times in Bipolar Disorder.
+7445.79 I don't have the opportunity
+to go into a lot of detail
+7448.16 right now about what T2 whole
+brain relaxation times are,
+7451.13 but basically when people go into a MRI
+7453.89 or f, functional MRI scanner,
+7458.6 excuse me,
+7459.433 magnetic resonance imaging scanner,
+7462.32 what they're getting essentially is pulses
+7464.21 of magnetic fields and the
+way that brain structures
+7467.87 and neural activity can be evaluated
+7469.4 has a lot to do with
+7470.99 the sort of spinning, or not sort of,
+7473.03 it has to do with the spinning
+and the relaxation times
+7476.03 of different elements,
+7478.37 literally the protons and
+electrons within the neurons,
+7481.79 so it gets really detailed there,
+7483.71 and the relaxation time
+is essentially looking
+7486.2 at how quickly some of that
+spinning returns to rest.
+7489.95 And in particular,
+7492.38 the fact that the relaxation
+times are different
+7495.77 for aqueous, that is liquid,
+7498.44 versus lipid, fatty versus other
+components of brain tissue.
+7503.06 And basically what this study shows
+7505.1 is that the membranes of neurons
+7507.68 within the brains of these people
+7509.3 with bipolar disorder,
+showed more fluidity,
+7511.7 more ability of things to move
+in and around the membranes,
+7514.94 which we know is an important
+component of neuroplasticity
+7518.84 in bipolar subjects that were treated
+7520.97 with omega-3 fatty acids as compared
+7523.16 to bipolar subjects that did not receive
+7525.77 omega-3 fatty acids.
+7527.15 And fortunately this study also include
+7529.49 a healthy comparison group where
+they could essentially find
+7532.88 that people with bipolar
+disorder who supplemented
+7535.4 with omega-3 had changes
+at the cellular level
+7538.58 and the neural circuit level
+that brought their brains
+7542.45 and neural circuits closer to that
+7544.21 of the healthy comparison subjects.
+7546.29 So while I don't want to
+point to omega-3 fatty acid
+7549.95 supplementation as the
+be-all end-all of treatment
+7552.17 for bipolar disorder, certainly it is not,
+7554.24 it does have a strong
+mechanistic basis for
+7558.65 its possible support of neural circuitry,
+7563.03 of neuroplasticity, and in particular,
+7565.37 the ability to make
+changes in cell membranes
+7567.47 that are very reminiscent of some
+7570.05 of the neural circuit changes
+7571.31 and changes in membrane fluidity
+7572.93 that are seen with lithium treatment
+7574.7 and other known
+prescription drug treatments
+7577.31 that have been established now for decades
+7580.22 to be very effective for bipolar disorder.
+7582.95 So what that says is that
+omega-3 supplementation,
+7586.43 while not the only intervention
+that one should consider
+7590.0 is something to consider and
+talk about with your doctor
+7593.09 and it's operating in powerful ways.
+7595.64 It's not just that it's
+changing, for instance,
+7598.22 your gut microbiome, which is powerful,
+7600.32 but is indirect to the brain,
+7601.52 it does seem to be having
+direct effects on neurons
+7603.8 and neural circuits.
+7604.91 Before we begin to conclude our discussion
+7606.53 about bipolar disorder,
+7608.15 I want to talk a little bit
+about this word, disorder,
+7611.0 and this is a theme
+that doesn't just relate
+7612.89 to bipolar disorder,
+7614.27 but other psychiatric disorders as well.
+7616.667 And when we think of a disorder,
+7618.71 we think of something that
+is really detrimental to us.
+7622.1 Something that really impairs
+our ability to function
+7625.04 in work, in school, in relationships,
+7626.75 and really starts to pull
+down our health status
+7630.08 in a variety of ways.
+7631.19 And certainly bipolar
+disorder meets those criteria.
+7634.94 However,
+7636.59 there is this idea that
+things like bipolar disorder,
+7639.74 even things like
+schizophrenia in some cases
+7642.65 are responsible for some
+of the creative aspects
+7645.56 or the creative works
+that have been observed
+7647.84 and carried out by human
+beings for many centuries.
+7651.11 And believe it or not, there are good data
+7653.18 to support the fact that
+certain aspects of mania
+7656.36 are associated with creativity.
+7658.85 Now, we are long overdue for
+an episode about creativity,
+7662.24 its neural circuit
+basis, its chemical basis
+7664.19 here on the Huberman Lab Podcast,
+7665.81 and certainly we will
+have that conversation.
+7668.24 But in the meantime, I'd like
+to just briefly touch upon
+7671.51 this idea that certain
+occupations are associated
+7674.9 with a higher incidence
+of bipolar depression.
+7677.84 And in fact,
+7679.55 it's been explored at a research level.
+7682.49 There are data pointed to the fact
+7684.56 that certain individuals
+of certain occupations
+7687.8 tend to be more creative
+and that creativity
+7690.47 is associated with, again, associated,
+7692.9 this isn't causal, it's
+associated, correlated with
+7695.78 higher levels or incidents
+of bipolar depression
+7699.05 and maybe even other forms of depression.
+7701.09 So this is a study
+looking at mood disorders
+7704.24 in eminent individuals.
+7705.83 So these are people that are
+not just good at what they do,
+7708.95 but are exceptional at what they do,
+7710.93 and explored the percentage
+of people in given professions
+7715.64 with either depression or mania.
+7719.0 And this was actually a data set gleaned
+7721.4 from more than a thousand
+20th Century Westerners
+7725.12 based on their biographies that were
+7727.76 reviewed by other people.
+7729.02 So it's a bit of an indirect measurement.
+7730.58 This isn't psychiatrist
+data, this is data,
+7733.79 or I should say these are data
+7735.74 that were compiled from self reports
+7739.34 or from reads of self reports.
+7742.13 And they explored a number
+of different professions.
+7743.87 So for instance, they looked
+at people in the military
+7746.48 or people who were professional athletes
+7748.43 or natural scientists
+or social scientists,
+7751.07 people who occupied
+positions in public office,
+7753.38 or were musical performers,
+7755.72 artists, nonfiction
+writers, poetry, et cetera.
+7758.57 There are a lot of professions here.
+7760.25 I will post this or I'll post a link to it
+7762.71 in the show note captions
+for you to peruse,
+7764.99 but I'll just give you
+a sense of the extremes
+7767.15 on this graph because
+they're very interesting.
+7769.43 Turns out that if you were
+to look at the profession
+7772.128 or I should say among the
+professions they looked at
+7774.98 in this study, 'cause they
+didn't look at all professions,
+7778.22 those in the military and those
+7780.62 who are professional athletes or had jobs
+7783.11 in the social or natural
+sciences, of those,
+7787.73 there was a lower percentage of those
+7789.68 that had depression or mania.
+7791.83 In some cases like those who
+were professional athletes
+7793.91 didn't seem to have, there
+was no incidence of mania,
+7796.37 at least in this dataset,
+7798.14 whereas at the opposite
+extreme of the graph,
+7800.57 those that were poets, so
+these are eminent individuals,
+7804.2 people that were exceptional poets,
+7806.06 exceptional fiction writers,
+7808.04 exceptional artists or
+non-fiction writers,
+7811.31 well there, especially for the poets,
+7814.1 you find that as many as 90%
+7818.14 of these very successful poets
+7820.49 had either depression or mania.
+7824.96 As high as 90%, that's incredible.
+7827.21 Contrast that with military
+where it's as few as 10%
+7830.24 or professional athletes
+where it's as few as 20%,
+7832.277 and for the professional
+athletes, as I mentioned before,
+7834.56 none of them had mania.
+7836.24 So does this mean that being a poet
+7839.06 will make you manic or depressed?
+7840.62 Well, first of all, let's
+look at the poetry category.
+7843.32 It turns out that 75%
+of these eminent poets,
+7847.91 these highly accomplished
+poets had major depression,
+7852.65 whereas only about 20% of
+those poets had manic episodes.
+7859.88 So again, it's not that being a poet
+7862.67 is going to give you mania,
+7863.6 certainly we're not saying that,
+7864.59 it's not that being a poet is
+going to give you depression,
+7866.45 but it turns out that
+people with depression
+7869.63 and people with depression and mania
+7872.24 seem to gravitate towards poetry
+7874.16 or at least are very successful at poetry.
+7877.28 Again, associative, correlative,
+7879.98 no causal relationship here.
+7882.47 But it is really striking to see
+7884.36 how the creative
+occupations, poetry, fiction,
+7888.5 art, non-fiction writing,
+7890.3 even though non-fiction
+writing is about non-fiction,
+7892.13 it's still creative, music
+composition, theater,
+7894.95 much higher incidents
+of things like mania.
+7897.71 In fact, for the people
+in theater, the actors,
+7901.01 even though the overall
+7903.17 occurrence of depression
+and mania is lower
+7905.78 than that in poets, the fraction of those
+7909.32 individuals that have
+mania is exceedingly high.
+7912.5 It's about 30% of those
+that they looked at
+7916.31 who are actors,
+7918.53 have manic episodes or
+have full blown mania.
+7922.25 So I'm referring to these
+data because first of all,
+7924.86 I find them incredibly interesting,
+7926.57 right up until now we've been talking
+7927.68 about bipolar disorder
+and other mood disorders
+7930.26 for their maladaptive effects.
+7931.7 And again, they're extremely maladaptive,
+7933.35 much, much higher instance
+of suicide, et cetera,
+7936.47 but we'd be wrong to
+say that certain aspects
+7939.02 of manic episodes don't
+lend themselves well
+7940.82 to creativity or that certain aspects
+7943.1 of major depression don't
+lend themselves well
+7945.68 to creativity or to the performing arts
+7948.29 or to poetry.
+7949.31 That said, in no way, shape or form,
+7952.91 do I believe that being
+depressed is a good thing
+7956.27 or that being manic is a good thing.
+7957.89 Again, we return to the
+basic foundational criteria
+7960.92 for bipolar disorder, major depression
+7962.48 which is that the pressured
+speech, the not sleeping,
+7966.95 the incredible increases in energy
+7969.86 and the flights of ideas
+7971.75 are generally not going to lead,
+7974.24 or I think it's fair to say,
+7976.07 are not going to lead to good places.
+7978.17 In fact, often lead to bad places.
+7980.84 But we would also be wrong if
+we didn't consider the fact
+7984.14 that there is a somewhat
+inextricable relationship
+7987.74 between mania and creativity.
+7990.08 And it could be that hypomania
+7993.26 or brief periods of mania,
+maybe even an hour a day
+7996.5 or 30 minutes a day of
+composing or writing poetry,
+7999.53 maybe even some of the lows that we feel,
+8001.96 some of the sadness, some of the grief,
+8003.55 some of the nostalgia that we feel
+8005.2 provided that it's not pathologic,
+8007.24 that it's not persistent
+for the four or seven days
+8010.24 that are diagnostic of bipolar 2
+8012.4 and bipolar 1 disorder respectively,
+8014.47 well, then we can start
+to view emotional states
+8018.07 as something that can
+actually lend themselves
+8020.35 to positive outcomes and
+maybe even to creativity
+8023.47 and to improved occupations.
+8025.21 So it's important that
+we have a nuanced view
+8027.55 of what sadness versus depression
+8030.58 versus major depression are,
+8032.35 it's important that we distinguish between
+8035.23 being erratic, being very energized,
+8038.68 and full blown bipolar disorder.
+8040.75 And I raise this for
+another reason as well.
+8042.76 Nowadays, it's very common
+8044.74 to hear people saying, ah, you know,
+8046.48 that person is OCD.
+8047.59 Well, on the episode about OCD
+that I did a few weeks back,
+8051.94 that you can find if you
+like at hubermanlab.com,
+8055.12 in that episode, I pointed out that OCD,
+8058.72 obsessive-compulsive
+disorder is very maladaptive.
+8061.81 I think it's number seven, as I recall
+8063.88 on the list of debilitating diseases,
+8066.1 all diseases in terms
+of lost time at work,
+8069.16 suffering relationships, et cetera.
+8070.84 So it's a really serious condition.
+8072.55 And yet we often hear, oh,
+that person is obsessive.
+8075.04 And as I pointed out,
+8076.33 there is obsessive-compulsive
+personality disorder.
+8078.79 And then there is
+obsessive-compulsive tendencies,
+8081.52 which actually benefit people,
+8083.26 but that is distinct from
+obsessive-compulsive disorder
+8086.71 as a clinically diagnosed thing.
+8089.44 Similarly, we hear that, oh,
+somebody's being bipolar.
+8093.1 You know, they're all over the place.
+8094.18 They're bipolar.
+8095.11 Well, that's a very subjective
+8098.5 label that people give
+one another in passing,
+8101.83 more and more often I'm hearing this,
+8103.21 and yet bipolar disorder,
+8105.94 whether or not it's BP-1 or BP-2
+8108.01 are extremely maladaptive
+and extremely associated
+8112.45 with high suicide risk.
+8114.37 So while I'm not here to police people,
+8117.46 I'm not certainly not the word police
+8118.72 or the nomenclature police,
+8120.28 I do think that whether or
+not you refer to people as OCD
+8123.16 or as bipolar, et
+cetera, that's up to you,
+8125.26 it's not my place to say,
+8126.46 but I do think it's important
+that all of us understand
+8129.01 that these psychiatric
+conditions carry with them
+8131.59 tremendous maladaptive weight.
+8133.84 So today we've really done a deep dive
+8135.94 into bipolar disorder
+and to both the manic
+8139.42 and the depressive components
+8140.8 that are present or can be present
+8143.89 in bipolar disorder
+and the different forms
+8145.84 of bipolar disorder and
+8147.85 some of the major treatments
+for bipolar disorder,
+8149.8 in particular lithium and
+its underlying mechanisms
+8152.2 and some of the neural
+circuit and chemical basis
+8154.54 and neuroplasticity
+basis of the treatments
+8157.6 for bipolar disorder, in
+particular homeostatic scaling
+8161.65 or homeostatic plasticity.
+8163.78 All of that, of course, is
+relevant to bipolar disorder
+8166.6 and I hope will be useful
+in your understanding
+8168.73 and maybe even in your
+pursuit of treatments
+8170.38 for bipolar depression,
+bipolar disorder for you
+8172.98 or other people.
+8174.25 I also hope that it will be
+useful in your understanding
+8176.98 of how brain circuits work
+8178.81 in normal conditions or in conditions
+8180.55 where there is no disease state
+or maladaptive conditions.
+8183.82 Homeostatic plasticity
+is present in all of us.
+8187.45 Membrane fluidity due to how
+easily things move around
+8191.14 in the surface, the fatty
+layers on the outside of neurons
+8193.93 and the movement of receptors
+in and out of neurons
+8195.91 that is present in all of us.
+8197.56 The influence of omega-3 fatty acids
+8199.69 is central to that discussion.
+8201.97 As is the discussion about
+various drug treatments
+8204.61 because even if you're
+not somebody who's taking
+8206.14 a drug treatment or who is
+pursuing a drug treatment
+8208.9 for bipolar disorder or
+another psychiatric condition,
+8211.72 your serotonin levels,
+your dopamine levels,
+8213.73 your acetylcholine
+levels, all of these play
+8215.47 into what we call your
+mental and physical health.
+8217.78 In fact, if any of you are interested
+8219.19 in the various categories
+of neuromodulators
+8221.56 and tools to adjust those neuromodulators
+8224.02 under more standard
+non-disease conditions,
+8226.87 we did an episode
+8228.67 on neurochemicals and how to control them.
+8230.89 You can find that at hubermanlab.com
+8232.84 along with all other episodes
+of the Huberman Lab Podcast.
+8235.42 I should mention everything is timestamped
+8237.31 So you can navigate to the specific topics
+8238.93 and tools of interest to you.
+8240.7 And meanwhile, I just
+want to thank all of you
+8243.4 for joining me on this voyage
+8246.01 through the biology and the
+treatments for bipolar disorder.
+8249.16 I do hope you found it beneficial
+8251.44 both for yourself and for others.
+8253.36 I just want to remind
+people that bipolar disorder
+8255.33 is an extremely serious condition.
+8257.53 If you suspect that you
+have bipolar disorder
+8259.66 or you know somebody who does,
+8261.85 please make sure that you or they talk
+8263.83 to a qualified health professional.
+8265.54 If you're learning from and
+are enjoying this podcast,
+8267.82 please subscribe to our YouTube channel,
+8269.5 that's a terrific, zero
+cost way to support us.
+8271.87 In addition, please
+subscribe to the podcast
+8274.12 on Spotify and Apple.
+8275.8 And on both Spotify and Apple,
+8277.09 you can leave us up to a five star review.
+8279.19 If you have suggestions about topics
+8281.17 you'd like us to cover or guests
+you'd like us to interview
+8283.51 on the Huberman Lab Podcast,
+8284.71 or if you have questions
+about material already covered
+8287.35 on the Huberman Lab Podcast,
+8288.82 please put that in the
+comment section on YouTube,
+8291.22 we do read all the comments.
+8293.05 In addition, please check
+out the sponsors mentioned
+8294.94 at the beginning of today's episode,
+8296.65 that's the best way to
+support this podcast.
+8298.84 During today's episode, and certainly
+8300.34 on many previous episodes
+of the Huberman Lab Podcast,
+8302.89 we talk about supplements.
+8304.24 Once again, while
+supplements aren't necessary
+8306.16 for everybody, many people derive
+8307.72 tremendous benefit from them for things
+8309.16 like enhancing sleep and
+focus and hormone support
+8311.74 and other aspects of
+mental and physical health
+8313.87 and performance.
+8315.13 As I mentioned at the
+beginning of today's episode,
+8316.87 the Huberman Lab Podcast
+is happy to announce
+8318.73 that we partnered with
+Momentous Supplements.
+8320.71 If you'd like to see our supplements
+8322.09 and the ones that we designed
+in concert with Momentous,
+8324.34 you can go to livemomentous.com/huberman.
+8327.79 Please also check out
+Huberman Lab on social media.
+8330.46 We are hubermanlab on both
+Twitter and Instagram.
+8333.43 In both places, I cover science
+and science-related tools,
+8336.19 some of which overlaps with the content
+8337.75 of the Huberman Lab Podcast,
+8339.22 but much of which is distinct
+8340.51 from the information covered
+on the Huberman Lab Podcast.
+8343.12 We also have a newsletter,
+8344.44 it's called the Neural Network Newsletter.
+8346.57 It's completely zero cost
+8347.83 and it contains summaries of podcasts
+8350.11 and some actionable
+protocols from each podcast.
+8352.24 You can sign up for it by
+going to hubermanlab.com,
+8354.52 go to the menu and click on
+Neural Network Newsletter.
+8357.43 You can also see some examples
+8358.66 of previous newsletters there.
+8360.22 I should mention that by signing up,
+8361.96 you do provide your email,
+8363.22 but we do not share
+your email with anybody.
+8365.14 And again, it is completely zero cost.
+8367.3 So once again, thank
+you for joining me today
+8368.98 for our discussion about the biology
+8370.69 and treatment of bipolar disorder.
+8372.19 And last, but certainly not least,
+8374.53 thank you for your interest in science.
+8376.294 [upbeat rock music]

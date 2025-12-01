@@ -1,0 +1,4445 @@
+0.34 - Welcome to the Huberman Lab Podcast,
+1.94 where we discuss science
+3.75 and science-based tools for everyday life.
+5.827 [upbeat music]
+9.22 I'm Andrew Huberman,
+10.21 and I'm a Professor of
+Neurobiology and Ophthalmology
+13.06 at Stanford School of Medicine.
+15.01 Today, we are going to discuss
+the science and practice
+17.6 of flexibility and stretching.
+19.78 Flexibility and stretching
+are topics that I believe
+22.05 do not receive nearly as much
+attention as they deserve.
+25.37 For most people, the topics
+of flexibility and stretching
+27.71 bring to mind things like yoga,
+30.2 injury prevention, or
+maybe even contortionism.
+33.03 But it turns out that
+flexibility and stretching
+35.34 are features that are built
+into our basic body plan.
+39.09 Young children, young animals, and adults,
+42.29 and, indeed, older children and animals
+44.88 all stretch and all have
+some degree of flexibility.
+48.68 It turns out that having flexibility,
+50.49 and our ability to stretch,
+52.15 and the interaction between
+stretching and flexibility
+55.19 are fundamental to how we move,
+57.72 our ability to learn new movements,
+59.96 indeed also to prevent
+injury or repair injuries,
+64.17 and to offsetting and
+reducing inflammation
+67.12 throughout the body.
+67.953 In fact, today I'm going to share with you
+69.53 a remarkable set of studies
+that show that stretching
+72.41 can actually adjust
+things like tumor growth.
+75.61 This is work that was done
+by one of the major directors
+77.76 of the National Institutes of Health.
+79.67 So, today's discussion will start
+81.18 with a description of the mechanisms,
+83.74 literally the cells
+84.9 and the connections
+from your nervous system
+86.67 that mediate flexibility and stretching.
+88.95 And I promise that I'll make
+89.98 that information accessible to you
+91.99 whether or not you have a
+biology background or not.
+94.86 Then with that information in hand,
+96.7 I'm going to present to you
+what the scientific literature
+98.82 says about the best times
+and ways to stretch,
+102.01 everything right down to the detail
+103.3 of how long to hold a stretch,
+105.23 whether or not to hold a stretch at all
+106.64 because it turns out there are
+multiple kinds of stretching.
+108.917 So, you can imagine you have stretches
+110.43 where you hold the stretch
+for a very long time
+113.1 and use as little momentum as possible,
+114.967 and then there's also
+what's called dynamic
+117.01 and ballistic stretching
+117.95 where you're literally swinging your limbs
+119.77 trying to increase the range of motion.
+121.73 I will explain the science and application
+123.52 of flexibility and stretching
+124.59 in the context of sports performance,
+127.33 whether or not you are engaging
+in cardiovascular exercise,
+129.96 or resistance exercise, or both,
+132.46 whether or not you're
+a competitive athlete
+133.96 or simply a recreational
+exerciser, as I am,
+137.41 whether or not you are
+trying to increase your range
+140.0 of motion and flexibility
+for longevity purposes,
+142.56 or whether or not you're trying to do it
+144.08 in order to access different
+parts of your nervous system
+146.74 'cause we'll soon learn today
+148.4 that your ability to improve flexibility
+151.52 and, indeed, to engage in
+specific stretching exercises
+155.0 can actually be used
+to powerfully modulate
+157.31 your ability to tolerate pain,
+159.27 both emotional and physical pain.
+161.36 So, this thing that we call
+flexibility and stretching
+164.02 is actually a vast landscape.
+165.8 We're going to simplify and
+organize all that for you today
+168.43 and by the end of today's episode,
+170.12 you're going to have a number
+of simple, easy-to-apply tools
+173.14 that are grounded in the
+best scientific research
+175.48 that you can apply for
+your specific goals.
+178.08 Before we begin, I'd like to
+emphasize that this podcast
+180.79 is separate from my teaching
+and research roles at Stanford.
+183.78 It is, however, part
+of my desire and effort
+185.93 to bring zero-cost to consumer information
+187.89 about science and science-related tools
+190.17 to the general public.
+191.66 In keeping with that theme,
+192.7 I'd like to thank the
+sponsors of today's podcast.
+195.52 Our first sponsor is Thesis.
+197.56 Thesis makes custom nootropics
+199.23 that are designed to
+get your brain and body
+201.02 into the optimal state for the
+cognitive and physical things
+204.29 that you need to perform
+at the highest level.
+206.8 I have to confess, in fact
+I've said it many times before,
+209.52 I am not a fan of the word nootropics
+211.27 because it means smart drugs.
+213.19 And frankly, as a neuroscientist,
+215.42 I'd be remiss If I didn't acknowledge
+217.16 that there's really no
+circuit in your brain
+218.79 for being smart,
+219.8 you have neural circuits in
+your brain that are designed
+222.64 to get you to focus very well,
+or to task switch very well,
+225.98 or to be creative.
+227.48 Thesis understands this,
+228.79 and as a consequence
+they've designed nootropics
+230.86 that are tailored to your specific needs
+233.19 in the cognitive and physical realm.
+235.2 What I mean by that is if
+you go to the Thesis site,
+237.95 you fill out a short quiz,
+239.46 and they'll give you the opportunity
+240.78 to try a small kit of different nootropics
+243.01 with different ingredients.
+244.31 You have the opportunity to
+try several different blends
+247.04 over the course of the month
+248.05 and discover which nootropics works best
+249.81 for your unique brain
+chemistry and genetics.
+252.5 I've been using Thesis
+253.52 for about eight and a half months now,
+255.41 and I can confidently
+say that their nootropics
+257.3 have been a game changer.
+259.23 To get your own personalized
+nootropic starter kit,
+261.22 you can go online to
+takethesis.com/huberman.
+264.85 There you'll find that three-minute quiz
+266.31 and Thesis will send you
+four different formulas
+268.11 to try in your first month.
+269.25 That's takethesis.com/huberman,
+271.64 and use the code HUBERMAN at checkout
+273.48 to get 10% off your first box.
+275.75 Today's episode is also
+brought to us by InsideTracker.
+279.015 InsideTracker is a
+personalized nutrition platform
+281.5 that analyzes data from your blood and DNA
+284.22 to help you better understand your body
+285.82 and help you reach your health goals.
+287.96 I've long been a believer in
+getting regular bloodwork done
+290.75 for the simple reason
+that many of the factors
+293.3 that impact your immediate
+and long-term health
+295.84 can only be analyzed from
+a quality blood test.
+299.16 One issue with a lot of blood
+tests and DNA tests out there
+302.15 is that you get information
+back about hormone levels,
+304.93 metabolic factors, et cetera,
+307.07 but you don't know what to
+do with that information.
+309.003 InsideTracker has a very easy
+to use personalized platform
+313.05 that lets you look at those numbers
+314.75 and then you can
+literally move your cursor
+317.11 over those numbers and there
+are little popup windows
+320.56 that will tell you the
+things that you can do
+322.45 in terms of lifestyle,
+323.64 so exercise, and nutrition,
+supplementation, and so on
+327.51 to bring those numbers into the ranges
+329.27 that are optimal for you.
+330.68 So, it really takes all the
+guesswork out of what to do
+333.6 with that bloodwork and DNA information.
+336.66 If you'd like to try InsideTracker,
+338.12 you can visit insidetracker.com/huberman
+340.67 to get 20% off any of
+InsideTracker's plans,
+343.22 just use the code HUBERMAN at checkout.
+345.39 That's insidetracker.com/huberman
+347.72 to get 20% off any of
+InsideTracker's plans,
+350.37 again, just use the code
+HUBERMAN at checkout.
+353.07 Today's episode is also
+brought to us by Eight Sleep.
+355.91 Eight Sleep makes smart mattress covers
+357.66 that have cooling, heating,
+and sleep tracking capacity.
+360.5 And, indeed, you can dial in,
+362.28 you can literally program
+363.73 the temperature of your
+sleeping environment
+366.05 from the time you go to sleep
+367.11 until the time you wake up in the morning.
+369.33 This turns out to be immensely powerful
+371.27 because as I've talked
+about on the podcast before,
+373.92 in order to fall asleep
+and stay deeply asleep
+376.4 throughout the night,
+377.65 your body has to drop by
+about one to three degrees,
+381.07 and waking up in the morning
+382.54 actually involves a warming
+up of your body temperature.
+386.17 For many people, they just
+can't precisely control
+389.04 their sleep environment well enough
+390.41 in order for all that to go well.
+392.29 I was one such person.
+393.38 So, for a long time I'd
+fall asleep pretty easily,
+395.95 but then I'd wake up in
+the middle of the night,
+397.94 I tended to run warm,
+399.4 but then sometimes I'd feel
+really tired in the morning
+401.76 as if I couldn't wake up.
+403.38 I started sleeping on an
+Eight Sleep mattress cover.
+405.76 I programmed it so that the temperature
+407.53 would be rather cool in the
+early part of the evening
+409.55 when I would get into bed
+410.68 and then would drop into the
+deeper phases of the night
+413.41 when I was entering deep sleep
+415.27 and then rapid eye movement sleep,
+417.37 and then would warm towards morning,
+418.95 it would help me wake up quickly.
+420.16 And as a consequence,
+420.993 I'm sleeping throughout the night now
+422.81 and I'm waking up feeling
+completely refreshed.
+425.17 If you'd like to try an
+Eight Sleep mattress cover,
+427.18 you can go to eightsleep.com/huberman
+429.99 to check out the Pod Pro Cover
+and save $150 at checkout.
+433.82 Eight Sleep currently
+ships within the USA,
+435.79 Canada, and the United Kingdom.
+437.75 Again, that's eightsleep.com/huberman
+440.4 to save $150 at checkout.
+442.72 Let's talk about
+flexibility and stretching.
+445.51 Before we talk about the practices
+447.28 of flexibility and stretching,
+448.817 I'd like to just highlight
+some of the features
+450.85 that are already built
+into your nervous system
+453.07 and into your body that
+allow you to be flexible.
+456.6 Some of us feel tighter than others,
+458.91 sometimes in specific
+limbs or areas of our body,
+462.0 some people feel really loose and limb,
+464.44 some people even have what's
+called a hyper-flexibility.
+467.78 I, for instance, have a relative
+that can take her fingers
+470.44 and bend them back to the point
+where they touch her wrist.
+473.4 And it always makes me
+cringe a little bit,
+476.1 but she can do that without any pain,
+477.5 she seems to have some
+hyper-flexibility in her joints.
+479.56 I do not have that feature.
+481.32 Some of you may find that
+you are more flexible
+483.15 than others naturally,
+484.55 and some of you might be thinking
+486.49 you don't need to build
+in additional flexibility.
+488.94 Well, I think by the
+end of today's episode,
+491.68 you'll realize that almost
+all of us can benefit
+494.28 from having some sort of
+understanding about flexibility
+497.28 and having some stretching protocol
+499.41 that we incorporate into our life,
+501.44 if not just for physical
+performance reasons
+504.45 and for postural reasons,
+506.06 then also for cognitive
+and mental reasons,
+509.6 and I'll be sure to clarify
+what all of that means.
+513.07 Right now, I'd like to take a moment
+514.3 and just highlight the
+flexibility that you already have.
+517.42 For instance, if you were to move your arm
+520.45 behind your torso a little bit
+522.13 and then sort of let go
+524.34 or stop exerting any effort in doing that,
+527.58 you would find that the limb would return
+529.52 more or less to a position
+next to your torso,
+531.45 at least I would hope so.
+532.61 And why is that?
+534.48 Well, it turns out that there are aspects
+536.06 of your nervous system, aspects
+of your skeletal system,
+540.23 aspects of your muscles,
+541.94 and aspects of the connective tissue
+544.16 that binds all of that together,
+546.71 that try and restore a particular order
+549.35 or position to your limbs
+551.71 and your limbs relative to one another.
+554.29 So, that reflects a very
+specific set of processes
+557.58 that it turns out are
+the same set of processes
+560.12 that you use when you are trying
+561.44 to enhance flexibility and stretching.
+564.15 So, I'd like to just take a moment
+565.84 and review the basic
+elements of nervous system,
+569.89 muscle, connective tissue,
+and skeletal tissue, bone,
+574.66 that allow for flexibility and stretching.
+578.06 And here we can point
+to two major mechanisms
+580.88 by which your nervous system,
+582.62 neurons, meaning nerve cells,
+584.56 communicate with muscles,
+586.55 and those muscles communicate
+back to your nervous system
+590.24 to make sure that your
+limbs don't stretch too far,
+592.89 they don't move too far
+such that you get injured.
+596.54 And in addition to that,
+598.72 mechanisms that ensure that
+you don't overload your muscles
+601.84 too much with weight, or
+with tension, or with effort
+605.18 and damage them that way.
+606.73 'Cause it turns out that the
+second security mechanism
+609.87 of making sure that you
+don't overload muscles
+611.95 can be leveraged toward
+613.27 increasing your flexibility
+almost immediately.
+616.67 That's right, there
+are protocols and tools
+618.73 that I'll share with you
+that are going to allow you
+620.45 to vastly improve your
+flexibility over time.
+625.0 But there are also
+mechanisms that allow you
+626.78 to quite significantly increase
+your degree of flexibility
+630.93 in a very short period of time,
+632.77 and within just a few seconds.
+634.42 So, let's establish some of the
+basic biological mechanisms.
+638.45 Any time we talk about
+biology or physiology,
+640.95 we're going to talk about structure,
+642.56 meaning the cells and their connections,
+644.24 and functions, what they do.
+646.35 There are just a few names to understand,
+647.94 you do not have to memorize these names.
+650.29 The important thing that
+I'd like you to know
+652.12 is that flexibility and
+the process of stretching
+654.6 and getting more flexible
+involves three major components,
+658.82 neural, meaning of the nervous system,
+661.23 muscular, muscles, and connective tissue.
+664.31 Connective tissue is the stuff
+665.53 that surrounds the neural
+stuff and the muscular stuff,
+669.45 although it's all kind of weaved together
+671.11 and braided together in complicated ways.
+673.38 Some of you may have heard of fascia.
+675.03 We're going to talk a little
+bit about fascia today,
+676.76 although it's such an interesting tissue
+679.04 that's really deserving
+of its own episode.
+682.009 Fascial tissue, we're going to
+talk about some of the stuff
+684.6 that surrounds muscles that
+really gives you your shape,
+687.44 and holds everything together,
+688.74 and allows for flexibility to occur.
+691.47 So, here's a key thing
+that everyone should know
+693.75 whether or not you're talking
+about flexibility or not.
+697.16 Your nervous system controls your muscles,
+700.24 it's what gets your muscles to contract.
+702.78 So, within your spinal cord,
+704.32 you have a category of
+neurons, nerve cells,
+706.94 that are called motor neurons.
+708.98 To be precise, they
+are lower motor neurons
+711.2 'cause they're in your spinal cord.
+713.53 We call them lower to distinguish them
+715.09 from the motor neurons
+that are in your brain
+717.7 up in your skull.
+720.06 Those lower motor neurons,
+721.97 hereafter I'll just refer
+to them as motor neurons.
+724.87 If I want to talk about the
+other kind of motor neurons,
+726.71 I'll say upper motor neurons.
+727.76 So, if I say motor neurons,
+728.81 I just mean the ones in your spinal cord.
+730.9 Those motor neurons send a little wire
+734.26 or set of wires out to your muscles,
+737.06 and that creates what's called
+a neuromuscular junction,
+740.42 which just means that the
+neurons meet the muscles
+742.39 at a particular place.
+743.93 Those neurons release a chemical,
+745.92 that chemical is called acetylcholine.
+749.02 Some of you may have heard
+about acetylcholine before,
+751.12 acetylcholine also exists in your brain
+753.66 and does other things in your brain,
+755.15 mainly it's involved
+in focus and attention.
+758.2 But at the neuromuscular junction,
+760.23 the release of acetylcholine
+from these nerve cells,
+763.16 these neurons, onto the muscles
+765.01 causes the muscles to contract.
+766.82 And when muscles contract,
+767.96 they are able to move limbs
+771.77 by way of changing the
+length of the muscle,
+775.99 adjusting the function
+of connective tissue
+779.09 like tendons and ligaments.
+780.63 And for instance,
+781.57 if you're bringing your wrist
+closer to your shoulder,
+784.07 that biceps muscle is
+contracting, it's getting shorter.
+788.2 I mean, in reality it hasn't
+gotten shorter overall,
+790.7 it's just temporarily shorter, of course.
+793.17 All of that is controlled by neurons.
+795.96 And it's those motor
+neurons from the spinal cord
+798.75 that are really responsible
+for the major movement
+801.75 of your limbs by way
+of causing contraction
+805.5 of specific muscles at specific times.
+807.67 So, the key thing to
+take away is that nerve
+810.56 controls the contraction of muscles.
+813.4 Now, within the muscles themselves,
+816.45 there are nerve connections.
+819.34 And these are nerve connections that arise
+821.44 from a different set of
+neurons in the spinal cord
+823.54 that we call sensory neurons.
+825.78 The sensory neurons
+827.26 exist in a different
+part of the spinal cord,
+829.39 and they send a low wire or
+set of wires into the muscles.
+833.1 And there's a particular
+kind of sensory neuron
+835.88 that comes out of your spinal
+cord and into your muscles,
+838.44 which are called spindle neurons.
+841.9 They create or they actually
+wrap around muscle fibers,
+846.41 kind of corkscrew around them
+848.05 and give kind of a spring-like appearance.
+850.12 And for you aficionados out there,
+852.18 these are intrafusal
+connections or neurons.
+855.91 Intrafusal means within the muscle,
+858.08 but you really don't need to know that
+859.87 unless you're really curious about it,
+861.77 or you're going to
+become a neuroscientist,
+863.11 or you're in medical school or something.
+865.37 These spindle connections
+within the muscle
+869.87 that wrap around the muscle fibers
+871.62 sense the stretch of those muscle fibers.
+875.83 So, now we have two parts to
+the system that I've described.
+879.3 You've got motor neurons
+880.36 that can cause muscles
+to contract and shorten,
+883.45 and we have these spindles
+within the muscles themselves
+888.24 that wrap around the muscle fibers,
+890.27 and that information
+is sent from the muscle
+893.21 back to the spinal cord.
+895.18 It's a form of sensing what's
+going on in the muscle.
+898.79 Much in the same way that
+you have neurons in your eye
+901.13 that sense light in your
+external environment,
+903.98 you have neurons in your
+ear that sense sound waves
+906.87 in your external environment,
+908.35 you have neurons in your spinal cord
+910.76 that are sensory neurons
+912.18 that are sensing the amount
+of stretch in the muscles.
+916.57 What happens is if a given
+muscle is stretching really far,
+921.12 those sensory neurons, those
+spindles within the muscle
+924.89 will activate and will send
+a electrical potential,
+928.9 literally a bit of electricity
+930.6 along that wire's length
+into the spinal cord.
+933.42 And then, within the spinal cord
+935.19 that sensory neuron communicates
+937.52 through a series of intermediate steps,
+939.17 but to the motor neuron
+942.21 and makes sure that that
+motor neuron contracts.
+945.22 Now, why would that be useful?
+946.72 Well, what this does is
+it creates a situation
+949.27 where if a muscle is or
+is stretching too much
+952.63 because the range of motion of
+a limb is increased too much
+956.8 then the muscle will contract
+958.49 to bring that limb range of
+motion into a safe range again.
+963.78 Now, what determines whether
+or not a range of motion
+966.17 is quote-unquote safe or not
+968.32 is dictated by a number of things.
+970.16 It's dictated by things that are happening
+971.76 in this kind of loop of neural connections
+973.76 in the spinal cord and muscle.
+975.19 It's also determined by
+what's going on in your head,
+978.45 literally in your mind cognitively
+980.17 about whether or not the
+movement of that limb
+982.67 its increasing range of
+motion is good for you,
+985.46 whether or not you're
+doing it deliberately,
+987.16 whether or not it's bad for you.
+988.19 And then there are also
+some basic safety mechanisms
+991.39 that are put in there that
+really try and restrict
+993.84 our limb range of motion.
+995.83 Okay, so just to clarify,
+997.61 this whole thing looks like a loop,
+999.09 and the essential components of the loop
+1000.67 are motor neurons contract muscles,
+1004.81 sensory neurons, of
+which there are a bunch
+1007.14 of different varieties,
+1007.973 well, in this case, what
+we're calling the spindles
+1009.59 are sensing stretch within the muscles.
+1011.6 And if a given muscle is elongating
+1015.12 because of the increased
+range of motion of a limb,
+1018.81 those sensory neurons
+send an electrical signal
+1021.11 into the spinal cord
+1022.44 such that there is an
+activation of the motor neuron,
+1025.57 which by now should make perfect sense
+1027.72 as to why that's useful.
+1028.73 It then shortens up the muscle.
+1030.72 It actually doesn't
+really shorten the muscle,
+1031.99 but it contracts the muscle
+1033.09 that brings the limb back
+into a safe range of motion.
+1037.11 Okay, so this process is very fast,
+1041.5 it was designed to keep
+your body together and safe.
+1045.97 It's designed to make sure
+that you don't take your arm
+1048.61 and swing it behind your torso
+1049.86 and it just goes all the way back
+1050.98 to the middle of your back.
+1051.88 I mean, unless you're a contortionist
+1053.14 or you've trained that kind
+of level of flexibility,
+1055.59 that would be terrible
+1056.423 because it could provide a
+lot of damage to the muscles,
+1060.01 and to the connective
+tissue, and so forth.
+1062.92 So, that's one basic mechanism
+that we want to hold in mind,
+1066.42 this idea of a spindle that senses stretch
+1068.53 and can activate
+contraction of the muscles
+1070.52 and shorten the muscles.
+1071.78 The next mechanism I want to describe,
+1073.67 and once again there are only two
+1075.37 that you need to hold in
+mind for this episode.
+1078.36 This other mechanism has
+a lot of the same features
+1081.03 as the one I just described,
+1082.68 but it has less to do with stretch,
+1084.82 in fact, it doesn't
+have to do with stretch
+1086.21 as much as it has to
+do with sensing loads.
+1089.77 So, at the end of each muscles
+you have tendons typically,
+1094.57 and there are neurons that
+are closely associated
+1099.65 with those tendons
+1101.18 that are called Golgi
+tendon organs, right?
+1103.69 These are neurons that are sensory neurons
+1106.44 that sense how much load
+is on a given muscle.
+1109.3 Right, so if you're lifting
+up something very, very heavy,
+1111.97 these neurons are going to fire,
+1113.73 meaning they're going to
+send electrical activity
+1115.33 into the spinal cord.
+1116.67 And then, those neurons have
+the ability to shut down,
+1121.17 not activate, but shut down motor neurons
+1124.32 and to prevent the
+contraction of a given muscle.
+1127.83 So, for instance, if you were to walk over
+1129.75 and try and pick up a weight
+that is much too heavy for you,
+1133.92 meaning you could not do it
+without injuring yourself
+1136.47 and you start to try and heave
+that weight off the ground.
+1140.46 There are a number of reasons
+1141.43 why you might not be able to lift it,
+1142.68 but let's say you start to get it
+1143.75 a little bit off the ground,
+1144.97 or you start to get some force generated
+1148.38 that would allow it to move.
+1150.3 But the force that you're generating
+1152.59 could potentially rip your
+muscles or your tendons
+1155.44 off of the bone,
+1156.7 right, that it could disrupt the joints
+1158.067 and it could tear ligaments.
+1160.03 Well, you have a safety
+mechanism in place,
+1161.77 it's these Golgi tendon organs,
+1163.08 these GTOs, as they're called,
+1165.27 they get activated and
+shut down the motor neurons
+1167.62 and make it impossible for
+those muscles to contract.
+1170.92 Okay, so on the one hand,
+1171.88 we have a mechanism that senses stretch
+1173.76 and can figure out when
+stretch is excessive.
+1176.75 And when this system detects
+that stretch is excessive,
+1180.46 it activates the contraction of muscles.
+1184.37 And then, we have a second
+mechanism that senses loads,
+1187.6 and when tension or
+loads is deemed excessive
+1191.18 by these circuits,
+1192.13 and remember these
+circuits don't have a mind,
+1193.5 they don't go, "Oh, this is excessive,"
+1195.06 they just sense loads.
+1196.24 And when those loads
+exceed a certain threshold,
+1198.65 well then those GTOs,
+those Golgi tendon organs,
+1202.03 send signals into the spinal cord
+1203.45 that shut down your motor neuron's ability
+1206.37 to contract muscle so that
+you no longer can lift
+1208.67 that heavy load.
+1209.76 So, both of these are
+protective mechanisms,
+1212.26 but both of these can be
+leveraged in a very logical way
+1216.21 and in a very safe way
+1217.49 in order to increase your
+limb range of motion.
+1220.25 So, there are a couple of
+things I want to point out
+1222.03 before going a little bit further
+1224.17 into how your nervous system
+1225.89 controls flexibility and stretching,
+1228.28 and those key points are the following.
+1231.0 There are now dozens if
+not hundreds of studies
+1234.25 that show that a dedicated
+stretching practice
+1238.87 can improve limb range of motion.
+1241.24 Now, for many of you listening,
+1242.6 you're probably saying, "Duh,"
+1244.0 but I think it's important
+to point that out,
+1246.33 that a dedicated stretching practice
+1248.25 can increase limb range of motion.
+1250.6 And as you'll soon learn,
+1252.02 there are specific mechanisms
+that can explain that effect.
+1255.15 The second point is one of longevity.
+1257.61 And when I say longevity,
+1259.01 I don't necessarily mean late-stage aging.
+1262.35 We all undergo a decrease
+in limb range of motion,
+1266.27 unless we do something
+to offset that decrease.
+1269.15 And the current numbers
+vary from study to study,
+1271.78 but if you look en masse,
+1273.38 you look at all of those studies
+1274.64 and what you basically find
+1276.02 is that we start to experience
+a decrease in flexibility
+1279.72 from about age 20 until about
+age 49 that's pretty dramatic.
+1284.56 And then, of course, it
+will continue after age 49,
+1287.7 but basically it's a 10%
+decrease every 10 years.
+1291.0 So, we could say it's
+a 1% decrease per year,
+1293.76 although it's not necessarily linear.
+1295.56 What do I mean by that?
+1296.393 Well, it's not necessarily
+that on your 21st birthday,
+1299.65 you are 1% less flexible
+1301.72 than you were on your 20th birthday
+1303.17 and it decreased by 1% per year,
+1305.29 some of these changes can be non-linear.
+1307.21 So, you can imagine the person
+1308.25 who's doing just fine
+in terms of flexibility
+1310.72 between 20 and 30,
+1311.86 and then they get to 32
+1313.96 and suddenly they've lost
+5% of their flexibility.
+1316.25 Now, of course, there will be
+a ton of lifestyle factors.
+1318.81 If you're a regular practitioner of yoga,
+1320.61 if you have a dedicated
+stretching practice,
+1322.39 if you're doing other things
+1323.42 to improve your muscle contractibility,
+1325.88 so you're doing resistance training
+1327.41 it turns out can actually
+indirectly improve flexibility.
+1331.77 There are a number of different factors,
+1333.4 but the key point is that maintaining
+1335.86 some degree of flexibility
+1337.46 and maybe even enhancing range
+of motion and flexibility
+1341.42 is of immense benefit
+for offsetting injury
+1343.97 provided it's not pushed too far.
+1346.74 There are a number of people
+1347.69 who have pushed their limb range of motion
+1350.07 so far that they experience
+all sorts of injuries,
+1353.86 both acute and chronic injuries.
+1355.54 Today, we'll also talk about
+how to avoid those scenarios.
+1358.47 Okay, so we've established
+that there are mechanisms
+1360.2 within the spinal cord,
+muscles, and connective tissue,
+1362.77 those remember it's the motor neurons,
+1365.13 the spindles, the GTOs,
+1367.14 and, of course, the muscles themselves,
+1369.41 and connective tissue, tendons,
+1371.81 but also other forms of connective tissue
+1374.23 that establish whether or not a limb
+1377.12 is going to stay within a
+particular range of motion or not,
+1379.94 and whether or not a limb
+is going to be allowed
+1383.22 by the nervous system to pursue
+1386.07 or handle a given load, a given tension.
+1389.84 There are also mechanisms that arrive
+1392.54 to the neuromuscular system
+1394.77 from higher up in the nervous
+system, from the brain.
+1398.16 And those mechanisms involve
+a couple of different facets
+1401.1 that are really interesting,
+1403.08 and I think that we should all know about.
+1405.01 In fact, today, I'm going to
+teach you about a set of neurons
+1407.33 that I'm guessing 99.9% of
+you have never heard of,
+1410.65 including all you
+neuroscientists out there,
+1412.96 if you're out there, and
+I know you're out there,
+1416.46 that seem uniquely enriched in humans
+1420.58 and probably perform essential roles
+1423.3 in our ability to regulate our physiology
+1425.48 and our emotional state.
+1427.07 So, within the brain,
+1428.17 we have the ability to sense
+things in the external world,
+1431.34 something we called exteroception,
+1433.37 and we have the ability to sense things
+1435.08 in our internal world within
+our body, called interoception.
+1438.68 Interoception can be the
+volume of food in your gut,
+1441.38 whether or not you're experiencing
+1442.52 any organ pain or discomfort,
+1444.18 whether or not you feel good
+in your gut and in your organs,
+1446.62 that's actually a kind of
+feeling, "Hmm, I feel great,
+1448.85 I feel sated, I feel relaxed,"
+1450.96 but those are all different
+forms of interoception.
+1454.01 The main brain area that's associated
+1456.47 with interpreting what's
+going on in our body
+1458.56 is called the insula, I-N-S-U-L-A.
+1461.27 It's a very interesting brain region,
+1462.81 it's got two major parts.
+1464.17 The front of it is mainly
+concerned with things like smell,
+1469.82 and to some extent vision, and
+to some extent other things
+1473.7 that are arriving from the external world
+1476.23 and combining with what's
+going on internally
+1479.03 and making sense of all that,
+1481.14 or at least routing that
+information elsewhere
+1483.16 in your nervous system to make decision,
+1484.74 like if you smell something
+good to approach it,
+1486.5 or if you smell something bad to avoid it.
+1488.28 The front of the insula is really doing
+1490.27 all of that kind of stuff
+along with other brain areas.
+1493.75 The posterior insula, the
+back of the insula that is,
+1497.87 has a very interesting and
+distinct set of functions.
+1501.8 The posterior insula is mainly concerned
+1504.42 with what's going on with
+your somatic experience.
+1508.01 How do you feel internally?
+1509.49 And how is the movement
+that you happen to be doing
+1514.91 combining with your internal state
+1517.59 to allow you to feel,
+1519.16 as I like to say the nervous
+system mainly batches things
+1522.12 into yum, like, "Oh, this
+is really good for me,"
+1525.06 yuck, "This is really bad
+for me and I need to stop,"
+1527.63 or meh, "This is kind of neutral."
+1529.76 Okay, so this isn't about food,
+1531.33 but we could say for most stimuli,
+1533.44 most senses, whether or not they're senses
+1535.5 of things internally or externally,
+1537.58 our nervous system is
+trying to make decisions
+1539.4 about what to do with that information,
+1540.84 and so it mainly batches
+information into yum,
+1543.39 I want to keep doing this
+or approach this thing,
+1546.1 or continue down some path
+of movement, or eating,
+1550.52 or staying in a temperature
+environment, et cetera,
+1553.61 or yuck, I need to get out of here,
+1555.27 I don't want any more of this,
+1556.4 I don't want to keep doing this,
+1557.44 this is painful, or
+aversive, or stressful.
+1560.0 And then meh, so if it
+doesn't really matter,
+1562.2 I can just kind of stay right here or not.
+1563.76 Yum, yuck, and meh.
+1565.46 Well, in your posterior insula,
+1569.9 you have a very interesting population
+1571.99 of very large neurons,
+1573.54 these are exceptionally large neurons
+1576.03 called von Economo neurons.
+1578.75 These are neurons that are, again,
+1581.18 unbeknownst to most neuroscientists
+1582.97 and they seem uniquely enriched in humans.
+1586.43 Chimpanzees have them
+1588.08 and some other large animals have them.
+1590.27 So, they're found in whales,
+1592.23 chimpanzees, elephants, and in humans.
+1595.61 But even though we are much
+smaller than most whales
+1598.69 and even though we are much
+smaller than most elephants,
+1601.59 I mean, remember there are baby elephants.
+1603.51 As far as I know, they haven't bred up
+1605.52 like mini-elephants yet,
+1607.1 they seem to have a teacup version
+1609.14 of pretty much every dog breed.
+1612.121 You can look that up,
+1612.992 I certainly have mixed
+feelings about this notion
+1615.84 of trying to downsize everything
+1617.59 to the point where you could
+1618.49 kind of like the pocket-sized bulldog
+1620.18 I think of someday will arrive.
+1621.39 I'm not a fan of that kind of downsizing
+1623.087 of different breeds,
+1624.57 but because there aren't teacup elephants
+1626.46 and teacup gorillas, and teacup
+chimpanzees, and so forth,
+1630.3 most all of those other
+species are larger than us.
+1633.14 They have these von Economo neurons
+1635.93 and we have these von Economo neurons,
+1638.06 but we have in upwards
+of 80,000 of these things
+1642.46 in our posterior insula.
+1644.05 These other species tend to have
+1645.6 somewhere in the range of
+1,000 to maybe 10,000 or so.
+1649.23 Why is that interesting?
+1650.81 Well, these von Economo neurons
+1654.01 have the unique property of integrating
+1656.94 our knowledge about our body movements,
+1660.81 our sense of pain and discomfort,
+1663.29 and can drive motivational processes
+1665.7 that allow us to lean into discomfort
+1668.03 and, indeed, to overcome any discomfort
+1670.5 if we decide that the discomfort
+that we are experiencing
+1673.14 is good for us or directed
+toward a specific goal.
+1677.06 This knowledge turns out
+1678.07 to be very important to keep in mind
+1679.76 because as we migrate this conversation
+1681.92 toward the things that we can do
+1683.36 to enhance flexibility and stretching,
+1686.29 you'll soon learn that there are moments
+1688.52 within a stretching protocol
+1690.08 where you have the opportunity
+to either override pain
+1693.64 and discomfort to kind of relax through it
+1696.33 or push through it.
+1697.97 Right, there's a decision
+fork in the road there,
+1701.24 and it'll tell you which
+fork in the road to take,
+1703.89 or to say, "Uh-uh, I'm
+not going to do that.
+1706.74 I'm going to allow these natural reflexes
+1708.75 of the spindle to kick in
+1710.08 and just essentially
+stop me from stretching
+1712.52 if a given limb isn't designed
+1714.67 or shouldn't be stretched that far."
+1717.42 So, I'd like you to keep these
+von Economo neurons in mind.
+1722.69 I should mention they're named von Economo
+1724.27 because the guy, Constantin von Economo,
+1726.45 that discovered them at the
+end of the 1800s, early 1900s,
+1731.21 decided to name them after
+himself, as many scientists do,
+1734.13 or certainly the
+neurologists and physicians
+1736.87 are famous for naming
+things after themselves.
+1738.89 These von Economo neurons
+1740.55 turn out to be very
+important to keep in mind
+1742.73 as we embark on our exploration
+1744.78 of what sorts of stretching practices
+1748.15 can be best applied to
+increase flexibility
+1751.55 because whether or not
+you undertake a mild,
+1755.7 moderate, or intense flexibility training,
+1759.59 you will no doubt encounter
+a scenario at some point
+1763.54 where you will have to ask
+yourself, "Do I quote-unquote
+1767.39 relax into this stretch,
+1769.38 or do I try and push through
+1771.26 just a little bit of discomfort?"
+1773.06 And I'll explain how
+to gauge that decision
+1775.45 in a very specific and ideally safe way,
+1778.93 and I'll give you some
+tools that will allow you
+1780.3 to make that decision in a way
+1781.75 that best preserves the integrity
+of those neural circuits
+1784.9 that I described earlier
+and can keep you safe.
+1787.59 These von Economo neurons
+sit in the exact position
+1791.81 that one would want to be able to evaluate
+1794.23 what's going on in the body,
+1795.87 in particular what's going on
+in terms of limb movements,
+1798.41 how that relates to our
+feelings of discomfort.
+1800.69 And then there's the other aspect
+1803.61 of these von Economo neurons,
+1805.01 which is that these von Economo neurons
+1807.83 are connected to a number
+of different brain areas
+1810.83 that can shift our internal state
+1812.78 from one of so-called
+sympathetic activation.
+1815.19 So, this is a pattern of
+alertness and even stress,
+1819.58 sometimes even panic,
+1820.6 but typically alertness and stress
+1823.08 to one of so called
+parasympathetic activation
+1826.71 to one of relaxation.
+1830.29 Oftentimes, you'll hear that stretching
+1832.3 should be done by
+relaxing into the stretch.
+1834.9 Well, what does it actually
+mean to relax into the stretch?
+1837.71 Well, these von Economo neurons
+1839.77 sit at this junction where
+they're able to evaluate
+1842.34 what's going on inside our body
+1844.49 and allow us to access neural circuitries
+1847.02 by which we can shift our
+relative level of alertness
+1850.93 down a bit, or our relative
+level of stress down a bit
+1855.27 and thereby to increase so-called
+parasympathetic activation
+1859.6 and to literally override some
+of those spindle mechanisms,
+1864.42 even the GTO mechanisms,
+1865.88 but especially the spindle mechanisms
+1868.37 at the neuromuscular and
+muscular spinal junction.
+1872.9 And in that way,
+1874.82 gently, subtly override the reflex
+1878.43 that would otherwise cause us
+1879.45 to contract those muscles back.
+1881.0 The reason that's possible
+is because your brain
+1885.38 has those other kinds of motor neurons,
+1887.04 the upper motor neurons
+that can both direct,
+1890.75 meaning control, and can
+override lower motor neurons.
+1895.94 I'll give you a brief example of this
+1897.36 that you've already done in your life,
+1899.03 and that we all have the capacity for.
+1901.65 What I'm referring to is the
+monosynaptic stretch reflex.
+1905.64 This is something that every
+first year neuroscience
+1908.74 graduate student learns,
+1910.04 which is that if you were to step
+1911.9 on a sharp object with a bare foot,
+1914.62 you would not need to make the decision
+1916.78 to retract your foot, you
+would automatically do that
+1920.01 provided you have a
+healthy nervous system.
+1922.18 There are mechanisms in place
+1923.89 that cause the retraction of that limb
+1926.72 by way of ensuring that
+the proper muscles contract
+1930.61 and other muscles do not contract,
+1933.06 in fact, that they fully relax.
+1934.58 Okay, so in the case of
+stepping on a sharp object
+1937.51 like a piece of glass,
+or a nail, or a tack,
+1939.84 you would essentially
+activate the hip flexor
+1942.12 to lift up your foot
+as quickly as possible.
+1945.54 In doing so, that same neural circuit
+1949.7 would activate a contralateral,
+1952.26 meaning opposite side of the body circuit,
+1955.0 to ensure that the leg,
+1956.54 the foot that's not
+stepping on the sharp object
+1959.2 would do exactly the
+opposite and would extend
+1962.64 to make sure that you don't fall over.
+1964.64 All of that happens reflexively,
+1966.57 it does not require any
+thought or decision making.
+1970.28 In fact, humans without any neocortex,
+1974.62 literally that who decerebrate
+1977.78 or an animal that doesn't have...
+1979.68 When I say decerebrate, I
+mean lack of cerebral cortex.
+1984.44 They can perform that
+1985.44 because it's all controlled by circuits
+1987.16 that are basically below the
+brain and in the spinal cord.
+1991.31 There's a little bit of
+activation of circuits
+1992.81 in the kind of deeper parts of the brain,
+1994.48 but basically you don't need to think
+1996.34 or decide in order to do that.
+1998.23 However, if your life depended
+2001.5 on walking across some
+sharp objects, let's say.
+2005.07 Let's make it a little less dramatic
+2006.42 so it's not like the "Die
+Hard" movie or something
+2008.25 where he has to run
+barefoot across the glass,
+2010.89 although that's a pretty good example
+2012.66 of what I'm describing here,
+2014.11 but let's say you had to walk
+across some very hot stones
+2017.46 to get away from something
+that you wanted to avoid.
+2020.91 You could override that stretch reflex
+2023.92 by way of a decision made
+with your upper motor neurons,
+2026.5 your insula, and your cognition,
+2027.92 and almost certainly
+those von Economo neurons,
+2030.13 which would be screaming, "Don't do this,
+2031.53 don't do this, don't do this,"
+2032.46 could shuttle that
+information to brain areas
+2034.94 that would allow you
+to override the reflex
+2037.49 and essentially push through the pain.
+2039.52 And maybe even, in fact,
+2041.59 even not experience the pain
+2043.98 to the same degree or even at all.
+2046.48 So, these von Economo neurons
+2048.37 sit at a very important
+junction within the brain.
+2052.16 They pay attention to what's
+going on in your body,
+2054.55 pain, pleasure, et cetera.
+2057.62 And that includes what's
+going on with your limbs
+2059.51 and your limb range of motion.
+2061.24 They also are paying attention
+2063.59 and can control the amount of activation,
+2067.15 kind of alertness or calmness
+2068.61 that you are able to
+create within your body
+2072.49 in response to a given sensory experience.
+2075.56 And as I mentioned before,
+2077.37 they seem to be uniquely
+enriched in humans,
+2079.5 they seem to be related to
+the aspects of our evolution
+2083.93 that allow us to make decisions
+2086.18 about what to do with our body
+2087.87 in ways that other
+animals just simply can't.
+2090.61 Before we go any further,
+2091.56 I want to give you a practical tool
+2093.46 that you can, of course, use,
+2095.33 but that will also give
+you insight and experience
+2098.88 into your muscle spindle
+spinal cord circuit mechanisms.
+2103.42 So, what I'd like you to do
+2105.55 is if you're in a proper place to do this,
+2107.89 you're going to stand with legs straight,
+2110.3 meaning knees not bent,
+2111.78 and you're going to try
+and touch your toes,
+2113.91 or for some of you that's
+going to be very easy
+2116.3 and you might even be
+able to put your hands
+2118.15 flat on the floor.
+2120.09 I don't have that kind of flexibility,
+2120.923 it's pretty easy for me to touch my toes.
+2123.18 I don't care if you
+round your back or not,
+2124.93 although ideally I would
+say don't round your back.
+2127.79 Not because it's bad to do so necessarily,
+2129.79 but just to try and keep this
+2132.36 the same from trial to trial, as it were.
+2134.89 So, try and get a sense of
+what your range of motion
+2137.81 is in terms of bending over at the waist
+2140.61 while maintaining a flat back
+2141.9 and trying to touch your
+toes or even touch the floor.
+2143.99 Maybe, again, you can even
+go hands flat to the floor
+2146.5 or maybe even far out in front of you.
+2148.82 Okay, now what I'd like
+you to do is stand back up
+2152.28 and I'd like you to
+contract your quadriceps
+2156.82 as hard as you possibly
+can for about 5-15 seconds.
+2161.29 Let's say 10 seconds
+2162.34 just to keep things
+more or less normalized.
+2164.91 This obviously is not a
+super controlled experiment.
+2168.17 So, to contract your quadriceps
+2169.55 for those of you who don't know,
+2170.46 you're going to extend
+your lower limb out.
+2173.36 So, this would be like kicking,
+2174.66 although don't do it too quickly,
+2175.78 you're going to kick out your foot,
+2178.97 you should feel your quadriceps contract
+2180.81 on the top of your thighs.
+2182.06 And you're going to try and
+consciously contract them
+2184.77 as hard as you can.
+2186.3 Okay, typically if you
+want to point your toe
+2188.99 back towards your knee or
+shin that's also going to help
+2191.56 somewhat to contract
+even harder and harder.
+2194.56 Okay, so, do that for about 10 seconds.
+2197.89 A lot of you will do
+this just while standing,
+2200.07 contract, contract, contract.
+2201.11 Okay, then release it,
+2202.66 and then now go ahead
+and repeat that stretch
+2207.18 where you're trying to touch
+your toes or touch the floor.
+2209.49 So, this is, again, relying more or less
+2211.52 on hamstring flexibility
+among other things.
+2214.68 Okay, what most of you will find
+2216.84 is that you have an immediate increase
+2219.59 in hamstring flexibility,
+2221.1 or your range of motion has increased.
+2224.33 If you didn't experience that,
+2225.61 then I would encourage you
+2226.45 to try and contract your
+quadriceps harder and longer,
+2229.41 so maybe 20 or 30 seconds,
+2231.06 and then try this
+so-called experiment again.
+2235.15 Why would contracting your quadriceps
+2237.32 allow your hamstring flexibility
+to suddenly increase?
+2241.88 Well, the way that our
+muscles are organized
+2245.17 is such that we have muscles
+2247.59 that are antagonistic to one another.
+2250.03 So, our quadriceps and our hamstrings
+2253.07 work in sort of a push-pull
+fashion, if you will.
+2256.73 They can antagonize one another,
+2258.54 so when you move your
+heel towards your glutes,
+2262.19 you are using your hamstring,
+2263.76 the hamstring obviously
+also does other things
+2265.58 related to hip movement.
+2266.89 And when you lift your knee
+2269.86 or when you extend your foot
+2273.12 and contract your quadriceps,
+2275.0 you are essentially
+relaxing the hamstrings.
+2278.34 Now, of course, most movements
+2279.5 involve both quadricep and
+hamstring in synchrony.
+2282.77 And that synchrony is
+really an elegant one,
+2284.95 but here we're more or less isolating
+2286.47 the quadriceps from the hamstrings,
+2287.76 at least to the extent
+that it can leverage
+2289.93 these spindle stretch mechanisms.
+2292.16 So, what happens is when you
+contract your quadriceps hard,
+2295.54 you are relaxing or
+releasing some of the stretch
+2300.89 that's occurring in those
+intrafusal spindle sensory fibers
+2304.47 going into your spinal cord.
+2305.86 And as a consequence,
+2308.51 you're able then to stretch
+your hamstrings further,
+2313.47 or we can be more accurate and
+say that your range of motion
+2317.35 about the hamstring and its related joints
+2319.75 is greater when you aren't
+engaging that spindle reflex,
+2324.01 which would cause the
+hamstrings to contract.
+2326.44 Okay, so if you are somebody
+who has tight hamstrings,
+2328.8 there could be a variety
+of reasons for that,
+2331.02 but part of the reason
+is likely to be neural
+2334.6 and you can release that
+neural spindle reflex
+2337.63 by contracting the opposite
+antagonistic muscle,
+2341.49 which in this case is the quadriceps.
+2343.3 The same thing is true
+and can be leveraged
+2345.69 for stretching other muscles.
+2347.04 So, for instance, if you're
+going to do a tricep stretch,
+2348.82 the typical kind of overhead
+where you grab your elbow
+2351.02 and move it toward the
+midline of your body
+2353.67 with using your opposite hand.
+2356.4 Well, you can do that,
+2357.71 and then I would suggest
+trying to flex your bicep,
+2361.11 contract your bicep that
+is, while doing that.
+2363.73 And for most people
+you'll notice a increase
+2366.61 in the tricep range of motion
+2368.39 or ability to kind of lean into,
+2370.99 or to relax into, or to push that stretch,
+2375.02 excuse me, a little bit further.
+2376.82 Now, for you physios out there
+2378.95 and for those of you that have
+backgrounds in kinesiology,
+2382.03 I want to acknowledge,
+2382.863 of course, there are other mechanisms
+2384.21 that are coming into play.
+2385.76 There are actually neural connections
+2387.86 within the joints themselves
+2389.32 that are providing
+proprioceptive feedback,
+2391.16 et cetera, et cetera.
+2392.16 But this is simply to illustrate
+2394.38 that part of our range of motion
+2397.25 is determined by these spindle mechanisms
+2399.94 that I spent some time
+focusing on earlier.
+2403.08 And indeed, this approach can be leveraged
+2405.83 toward creating increased
+limb range of motion,
+2409.37 not just for the hamstrings,
+but for your quadriceps.
+2412.01 So, for instance, if you
+have tight quadriceps,
+2414.65 you can do the opposite.
+2415.72 You can contract your
+hamstring very intensely
+2419.61 for let's say 10 seconds, or
+20 seconds, or 30 seconds.
+2423.08 So, that would take some conscious effort
+2424.6 of bringing your heel
+up towards your glutes.
+2428.56 You could do that in a way
+2429.58 that you're really trying to
+contract those muscles hard,
+2431.64 you'd have to use some deliberate
+2432.9 hamstring activation there,
+2434.19 meaning you have to use
+those upper motor neurons
+2436.097 and the other aspects of your
+upper brain power, as it were,
+2439.99 to try and really contract your hamstrings
+2442.84 as intensely as possible,
+then you would relax that,
+2446.67 and then you would do your
+quadricep stretch again.
+2449.04 And if you did a pre-hamstring contraction
+2451.73 measurement of your quadricep flexibility,
+2454.68 and then you did a
+post-hamstring contraction
+2458.04 measure of your quadricep flexibility,
+2460.92 almost certainly you would find
+2461.91 that that flexibility had increased.
+2463.93 Now, of course, the muscle
+really didn't change much,
+2466.91 the tendons didn't change much.
+2468.59 What changed was the
+patterns of neural activation
+2470.93 that were restricting you
+from in the first case
+2473.94 stretching your hamstring or having a...
+2476.8 To be more accurate we should say
+2478.3 having a certain range of
+motion about the hamstring
+2482.26 and its related joints
+2484.63 and those brake mechanisms were removed.
+2486.82 And, of course, then when
+you contract your hamstring,
+2488.57 you're removing some of the neural brakes,
+2490.45 the spindle acting as a brake
+2493.44 and inhibiting that
+quadricep range of motion.
+2497.22 Okay, so you can imagine this,
+2498.697 and in fact you can apply this
+2500.07 for any number of different muscles,
+2501.8 the larger muscles and the sort of biceps,
+2504.03 triceps, and hamstrings, quadriceps
+2507.3 that are sort of the simplest
+place to think about this
+2509.167 and to apply it.
+2510.38 But in theory and, indeed, in practice,
+2513.02 it really works for all
+the various muscle groups,
+2515.493 it's just sometimes harder to access
+2517.35 these so-called
+antagonistic muscle groups.
+2520.2 Now, we should take a
+moment and just discuss
+2524.12 what actually happens
+as we get more flexible
+2526.49 in the short-term and long-term.
+2527.58 I just mentioned what
+happens in the short-term,
+2529.66 clearly those don't involve
+lengthening of the muscles.
+2533.95 It's not like the muscles
+slide along the bones
+2536.06 or that the tendons really stretch out
+2538.15 that much more than they had
+prior to that kind of exercise.
+2542.92 But it is the case that if people stretch
+2546.45 consistently over a given
+period of several weeks or more
+2550.78 that there are changes in the muscles.
+2553.37 This gets a little bit tricky
+in terms of nomenclature,
+2555.66 and I just want to highlight that
+2556.99 because I think that a number of people
+2559.47 get frustrated and confused,
+2562.44 in fact, when we talk about
+muscles getting longer.
+2566.39 You know, that the whole concept
+of a muscle getting longer
+2568.86 isn't really in keeping with reality,
+2570.81 but there are elements within the muscles
+2573.26 that can change their confirmation.
+2575.52 So, to get a little bit detailed here,
+2577.34 and we won't spend too much time on this,
+2578.65 but I just want to acknowledge this
+2579.79 for those of you that are interested
+2580.75 in neuromuscular physiology
+2582.09 and how it relates to flexibility.
+2584.0 You know, you have your muscle fibers
+2585.9 and then you have your
+so-called myofibrils.
+2588.57 So, you can imagine
+kind of a single fiber,
+2592.1 that fiber, of course, will get input
+2593.62 from those motor neurons.
+2594.96 And then within those fibers,
+2597.39 you have what are called sarcomeres.
+2598.88 And you can kind of think about sarcomeres
+2600.37 as little segments, kind of
+like the segments of bamboo.
+2602.61 If you ever look at bamboo,
+it's not just one big stalk,
+2605.37 it's got those little
+outpouching along the way
+2608.55 that going to break up
+2611.43 the what would be just
+one big stalk of bamboo
+2614.58 into different segments,
+but they're all connected.
+2617.11 The sarcomeres are somewhat like that.
+2620.57 And within the sarcomeres
+2622.01 you have a couple of different components.
+2623.47 One thing is called myosin,
+which is like a thick layer,
+2626.83 and then the other is actin.
+2628.2 And those are interdigitated, as we say,
+2630.97 they're kind of connected to one another,
+2632.42 kind of like if you were
+put your fingers together
+2634.21 from your two hands.
+2635.79 If you put your fingers
+2637.12 in between one another,
+that's interdigitated,
+2639.14 literally interdigitated in
+this case, so pun intended.
+2643.01 And that myosin and actin
+2646.78 kind of move relative to one another
+2648.61 and they have a lot to
+do with your ability
+2650.21 to contract muscles.
+2651.64 When we stretch muscles,
+2654.59 when we go through a stretching practice,
+2656.46 there are a number of things that change,
+2657.94 some neural, some related
+directly to connective tissue,
+2661.58 but also it appears from really nice work
+2663.71 mainly done from McGill University,
+2666.12 I'll provide a link to a
+couple of these studies
+2667.59 if you want to dig in there more deeply,
+2670.19 that change the confirmation,
+2672.74 the relative size and spacing
+of some of these things
+2675.76 like sarcomeres and the
+way that myosin and actin
+2678.73 kind of work together.
+2680.43 But we don't want to think
+of muscles as lengthening,
+2684.4 we can, however, think about
+the resting state of a muscle
+2688.49 being slightly different
+or, indeed, very different
+2691.58 than the resting state of a muscle
+2694.03 of somebody or of a limb
+2695.67 that has not undergone
+regular flexibility training.
+2698.65 So, that's as much time
+as I want to spend on that
+2700.52 because we could spend an entire hour
+2701.9 getting right down into the details,
+2703.85 but I do want to emphasize, however,
+2705.54 that muscles have different
+parts, they have fibers,
+2707.89 they have sarcomeres, they
+have myosin, they have actin.
+2711.56 But the idea of making our muscles longer,
+2713.9 that reflects a number of processes
+2715.87 that occur basically within
+an existing muscle length.
+2719.91 The length of our muscle bellies
+2721.76 and where our insertions are relative
+2724.95 to our connective tissue in our limbs
+2726.66 is genetically determined, right?
+2729.54 Some people have, for instance,
+2730.84 a bicep that goes all the way
+from the crook of their elbow
+2734.07 up to their shoulder, right?
+2736.37 And some people can if
+they were to put their arm
+2739.04 in a 90 degree angle could
+put two or three fingers
+2741.91 between their bicep and their elbow.
+2744.36 They have, we can say, a shorter
+bicep, relatively shorter.
+2748.37 Now, the reason I mentioned
+2749.6 these highly detailed cellular mechanisms
+2752.13 is because as we start to
+embark on different protocols
+2756.33 for using stretching
+to increase flexibility
+2759.257 and range of motion,
+2760.97 we need to ask ourselves what
+is preventing our ability
+2764.96 to extend range of motion?
+2766.7 Is it the spindle, right?
+2768.1 Is it because the muscle
+is stretching too much?
+2770.93 Oftentimes, it can be because of that
+2772.577 and/or because of a sense of pain
+2774.59 or simply a sense that the
+muscle is not in a position
+2778.87 that it's been in before
+2780.26 that's unrelated to pain
+or to spindle activation.
+2783.39 And oftentimes, it can be related directly
+2787.31 to these changes in the
+confirmation of myosin and actin,
+2791.34 and within the context of the sarcomeres.
+2794.12 Now, of course, you can't peer into
+2795.84 or sense your individual sarcomeres,
+2798.0 however, you do have neurons
+that innovate these areas
+2801.68 and that send that sensory information
+2803.44 back into the spinal cord and
+up to your brain to interpret.
+2806.01 So, you'll find that as we move along,
+2808.27 there are specific
+adjustments that you can make
+2810.95 at both the macro level,
+2812.77 meaning how much movement to insert
+2815.83 into your stretching, right?
+2816.88 Is it going to be a static,
+2817.72 or a dynamic, or even a ballistic stretch?
+2820.07 Or, for instance, at the micro level,
+2823.26 that even just a slight sub-millimeter
+2826.04 or millimeter increase in the
+stretching of a given muscle
+2830.97 and it related tissues
+2832.75 can translate into an increased
+range of motion performance.
+2836.19 As a quick but relevant aside,
+2837.54 I thought I'd share with
+you something useful
+2839.66 that's also grounded in this
+notion of antagonistic muscles.
+2844.28 So, for those of you that
+do resistance training,
+2846.91 whether or not it's with body weight,
+2848.23 or with physical weights,
+or machines, what have you,
+2851.67 you may have found that if you,
+2852.98 let's say, were to do three
+sets of a pushing exercise,
+2855.77 so this could be pushups,
+2857.8 this could be bench presses,
+this could be shoulder presses,
+2860.22 something of that sort.
+2861.81 And then, later in the
+workout you were to do,
+2865.1 let's say, machine
+pull-downs, or pull-ups,
+2868.11 or chin-ups of some sort,
+so a pulling exercise.
+2871.24 Typically, what you would find
+2872.35 is if you were to do what's
+often called straight sets,
+2875.42 so you would do three sets of pushups,
+2877.52 let's say, with two
+minutes of rest in between
+2880.58 that you might be able to get
+2881.7 a certain number of
+repetitions on the first set.
+2883.98 Let's just for sake of example,
+2885.8 let's say you can get 10
+repetitions on the first set,
+2889.1 and then you get eight
+repetitions on the second set,
+2892.68 and then you get six
+repetitions on the third set
+2894.65 with two minutes in between,
+2896.44 and then you would move on at some point
+2898.95 to your pulling exercises.
+2900.63 And similarly, let's say
+you were doing chin-ups
+2902.91 or pull-downs and you
+would get 10 repetitions,
+2905.25 rest two minutes,
+2906.083 eight repetitions, rest two
+minutes, and six repetitions.
+2908.79 Okay, fine.
+2910.06 Well, typically what people discover
+2913.19 is that if they interleave
+2914.91 their pushing and pulling exercises,
+2917.09 provided they do that for muscles
+2918.79 that are antagonistic to one another.
+2920.88 So, in this case, pushing with the chest,
+2923.86 shoulders, and triceps
+for the pushing exercises,
+2926.29 and pulling with the back and biceps,
+2928.48 and, of course, there are
+other muscles involved as well.
+2930.61 But because those muscle groups
+2931.98 are at least in part
+antagonistic to one another,
+2934.81 what people often find
+is that if they were
+2937.09 to, say, do their pushing
+set, get 10 repetitions,
+2940.73 then move to a pulling set
+2944.93 after just say 60 seconds
+and perform that pulling set,
+2949.32 then go back to the pushing set,
+2953.05 then go back to a pulling set,
+2954.63 push, pull, push, pull,
+2956.18 in other words, interleaving their sets.
+2958.07 Even if they were to maintain
+the same amount of rest
+2961.52 between sets of pushing
+and sets of pulling,
+2965.33 what they discover often is that the drop
+2968.78 in the number of repetitions that they get
+2971.29 is somewhat offset.
+2972.41 So, rather than get 10, 8, 6,
+2974.87 as it were with the straight sets,
+2976.5 it will be 10, 9, 8.
+2979.89 So, what this means is
+not that you're increasing
+2983.79 the total rest time to
+four minutes between sets
+2985.97 because then, of course,
+it wouldn't be equivalent,
+2988.84 but rather that while maintaining
+the same amount of rest
+2992.04 between sets for this same muscle group,
+2995.47 by going from push, pull, push, pull
+2998.15 of antagonistic muscles,
+3000.37 you're able to have improved performance.
+3003.96 And the reason for that
+has everything to do
+3006.13 with what we were describing before,
+3008.09 which is that typically if
+you were to do push set,
+3012.03 rest, push set, rest, push set, rest.
+3015.0 Well, in between those sets
+3017.46 and, in fact, actually
+during those sets of pushing,
+3020.54 the pulling muscles that would
+be involved in the chin-ups
+3024.48 or pull-downs, et cetera,
+are actually relaxing,
+3027.75 or at least are being
+released of some tension,
+3029.97 including the activation of the
+spindles among other things.
+3034.24 So, that's a long-winded way of saying
+3036.25 that interleaving push and
+pull of antagonistic sets
+3040.3 can leverage some of
+the same neural circuits
+3042.61 that we're talking about leveraging
+3043.76 for sake of increasing flexibility.
+3045.67 Now, I offer this to you
+as a tool that you can try.
+3049.19 One of the challenges
+with using this tool,
+3051.02 however, is that you often
+have to occupy multiple sites
+3054.31 within the gym.
+3055.3 You know, if you're doing this at home
+3057.06 and you have your own
+gym, that's one thing.
+3058.96 If you're doing this in a gym
+3059.86 where you have multiple
+pieces of equipment,
+3061.62 well, then you become that person
+3062.94 who has essentially taken
+over some small corner,
+3065.39 or multiple corners, or
+machines within the gym.
+3068.37 And oftentimes, you'll
+find that you'll walk back
+3070.12 to a machine or you'll walk back
+3071.51 to a given resistance exercise
+3073.59 and someone has now taken it over
+3074.827 and the whole thing could be thrown off.
+3076.21 So, it takes a little bit of orchestrating
+3078.75 in order to do properly.
+3080.27 But in general, what people find
+3082.08 is that this can allow you to
+enhance performance overall
+3085.11 of these individual movements,
+3086.76 again, while maintaining
+the same amount of rest.
+3090.96 And even if you choose not to do this,
+3092.97 I encourage you to pay
+attention to this as a concept
+3096.93 because, again, it's leveraging this idea
+3099.31 of antagonistic muscles,
+flexors and extensors,
+3102.34 antagonistic neural relationships
+3104.67 between the spinal cord mechanisms
+3106.68 that control one set of muscles
+3108.89 and activating those muscles,
+3110.18 allowing the opposite
+antagonistic muscle to relax
+3113.99 and therefore to perform
+better on its next set.
+3117.61 So, now I'd like to shift to the question
+3119.16 of what types of stretching
+can and should we do
+3121.89 to increase limb range of motion?
+3124.38 If our goal is to do that
+3125.52 in the most efficient way possible
+3127.12 'cause I realize that most people
+3128.17 don't have endless amounts of time
+3130.4 to dedicate to a stretching practice.
+3133.31 And even for those of us that do,
+3134.94 I'm sure that you want
+to get the most outcome
+3138.08 for a given effort.
+3139.75 And what are the modes of stretching
+3141.64 that are going to allow us
+to increase our flexibility
+3144.107 and limb range of motion most safely?
+3147.12 Now, there are a number of
+different types of stretching
+3149.1 or methods of stretching.
+3151.05 Broadly defined, we can
+describe these as dynamic,
+3156.0 ballistic, static, and
+what's called PNF stretching.
+3160.68 PNF stands for Proprioceptive
+Neuromuscular Facilitation,
+3165.15 and it involves and leverages
+many of the mechanisms
+3168.5 that I described to you earlier.
+3170.12 The first two that I mentioned,
+3171.14 dynamic and ballistic stretching,
+3172.75 both involves some degree of momentum,
+3175.95 and can be distinguished
+3176.98 from static and PNF-type stretching.
+3179.74 Now, to distinguish dynamic stretching
+3182.07 from ballistic stretching,
+3183.427 I'd like to focus on
+this element of momentum.
+3186.45 Both involve moving a limb
+through a given range of motion,
+3192.49 in dynamic stretching, however,
+3194.73 it tends to be more controlled,
+less use of momentum,
+3197.43 especially towards the
+end range of motion.
+3200.0 Whereas in ballistic stretching,
+3202.12 there tends to be a bit
+more swinging of the limb
+3205.58 or use of momentum.
+3207.31 So, I invite you to visualize what dynamic
+3209.44 and ballistic stretching
+might look like in your mind,
+3211.58 you can even try it if it's
+safe for you to try it.
+3213.88 You know, you could imagine
+swinging your arm up overhead
+3216.83 as much as possible and bringing it down.
+3218.34 I'm doing this because I'm seated,
+3219.53 it's kind of a ridiculous
+movement to do while seated
+3221.48 or perhaps at all.
+3222.88 But for instance,
+3224.16 you can see dynamic and
+ballistic stretching.
+3226.64 Anytime someone, for instance,
+is holding onto something
+3229.24 with one arm or maybe not holding on
+3230.99 and swinging out their foot,
+3233.69 so essentially getting
+movement about the hip joint.
+3237.71 And you'll notice that
+some people raise it up,
+3239.68 and pause it, and bring it down,
+3241.27 that's one form of dynamic stretching.
+3243.84 Whereas others will swing it up
+3247.22 and sort of let it carry
+itself a bit further
+3250.31 due to the momentum at
+the top of the movement,
+3252.02 and then just let it drop back down
+3253.4 or maybe even control the descent.
+3254.98 There is an enormous range
+of parameter space here
+3258.67 or variables that one could imagine,
+3260.66 and there's just simply no way
+3262.15 that we could subdivide all those.
+3263.34 But again, dynamic and
+ballistic stretching
+3265.5 both involve movement,
+3267.68 so we have to generate some force
+3269.27 in order to create that movement.
+3271.5 Ballistic stretching
+involving a bit more momentum
+3273.657 or sometimes a lot more momentum,
+3275.46 especially at the end range of of motion.
+3278.09 Now, both of those are highly distinct
+3280.15 from static stretching,
+3281.42 which involves holding
+the end range of motion,
+3284.25 so minimizing the amount
+of momentum that's used.
+3287.04 So, to stay with the simple example
+3288.87 that we are all now familiar with
+3290.9 from our earlier discussion,
+3293.43 slowly bending over at the waist
+3295.44 and trying to touch your toes
+3297.46 or putting your hands to the floor
+3299.35 and then holding that end position
+3301.84 before coming up in a
+slow and controlled way,
+3305.29 such that you reduce the
+amount of momentum to near zero
+3310.81 would be one example of static stretching.
+3313.29 Static stretching can
+be further subdivided
+3315.59 into active or passive.
+3317.67 Right, there are different names
+3319.52 for these kinds of approaches.
+3321.38 You can hear about the Anderson approach
+3323.03 or the Jander approach,
+3324.08 you can look these sorts
+of things up online.
+3326.08 And, again, people tend to
+name things after themselves,
+3328.15 so some of these are proprietary
+3329.8 related to specific programs,
+I'm not focusing on those.
+3332.42 Others come to be named
+after the physiologists
+3334.65 or the practitioners that
+initially popularize them.
+3338.2 As is always the case,
+3339.56 there's always a naming and renaming
+3341.1 and claiming of territory
+with these things.
+3343.57 For the time being, I'd
+like to just emphasize
+3345.51 that static stretching can be both active,
+3348.37 where there's a dedicated effort
+3351.79 on the part of the stretcher, you,
+3354.86 to put force behind the
+hold to kind of extend
+3359.41 or literally to extend
+the range of motion.
+3362.03 And then, there's also
+passive static stretching
+3365.81 in which it's more of a relaxation
+3367.85 into a further range of motion,
+3369.95 and that can be a subtle distinction.
+3371.42 And there are other ways in
+which we can further distinguish
+3373.73 active and passive static stretching.
+3375.95 But nonetheless, static stretching
+3377.21 involves both those types of
+elements, active and passive,
+3381.41 but is really about eliminating momentum.
+3384.28 And then, there's the PNF,
+3386.637 the Proprioceptive
+Neuromuscular Facilitation.
+3388.7 And proprioception has
+several different meanings
+3391.8 in the context of
+neuroscience and physiology.
+3394.44 To just keep it really simple for today,
+3396.82 proprioception involves both
+a knowledge and understanding
+3400.15 of where our limbs are in
+space and relative to our body.
+3404.51 Typically, relative to the midline,
+3405.93 so the brain is often trying to figure out
+3408.06 where are our limbs
+relative to our midline
+3410.75 down the center of our body.
+3412.52 And we know where our limbs are
+3414.91 based on so-called
+proprioceptive feedback,
+3417.13 so that's feedback that
+comes from sensory neurons.
+3420.64 Right, now you know what sensory neurons
+3422.55 that are essentially monitoring
+3425.48 or responding to events within the joints,
+3428.63 the connective tissue, and the muscles,
+3431.32 and within the deep
+components of the muscles
+3434.97 like the spindle reflex,
+3436.13 and within the tendons like the GTO,
+3438.49 the Golgi tendon organ.
+3440.1 So, PNF-type stretching
+3443.34 leverages these sorts of
+mechanisms, these neural circuits,
+3448.24 by way of, for instance,
+you would lie on your back
+3452.15 and if your goal is to increase
+your hamstring flexibility
+3455.35 and the flexibility and range of motion
+3457.62 of other related muscle systems,
+3460.21 you might put a strap around your ankle
+3462.35 and pull that muscle.
+3465.14 Or I should say, excuse
+me, that limb towards you,
+3467.49 you're not going to pull
+the muscle towards you,
+3468.55 you're going to pull that
+limb your ankle towards you
+3469.933 to try and get it sort
+of back over your head.
+3472.61 And then, progressively
+relaxing into that,
+3475.53 or maybe even putting
+some additional force
+3478.46 to push the end range of
+motion and then relaxing it.
+3481.86 And then, actually trying
+to stretch that same limb
+3484.81 or increase the limb range
+of motion without the strap.
+3488.21 Right, sometimes these are
+assisted by other people.
+3491.53 So, people will even use loads,
+3493.72 sometimes they'll even use machines.
+3495.7 There are a number of different apparati
+3497.72 that have been designed for this,
+3498.95 sometimes it'll involve
+a training partner.
+3501.82 There's a huge range of PNF protocols,
+3505.17 and those protocols can
+be done both by oneself
+3508.95 with or without straps, with machines,
+3510.9 with actual weights, or
+with training partners.
+3514.5 If you're interested in
+the variation of exercises
+3516.96 to, say, target your hamstrings
+versus your quadriceps
+3519.99 versus your shoulders versus
+your chest muscles, et cetera,
+3522.66 your neck muscles, and so on,
+3524.72 there is an enormous range of information
+3527.68 on dynamic, ballistic,
+static, and PNF stretches
+3530.62 for all the various muscle groups.
+3532.63 And I should say there
+are some excellent books
+3535.34 on those topics,
+3536.21 there are also some excellent videos
+3538.08 on YouTube and elsewhere.
+3539.9 Nowadays, it's pretty
+easy to find exercises
+3543.33 that allow you to target
+specific muscle groups.
+3546.87 Again, I encourage you to be
+safe in how you approach this,
+3549.36 and I would encourage
+you also to pay attention
+3551.87 to the information that soon follows
+3553.56 as to what sorts of
+protocols one would use
+3555.97 to apply those exercises.
+3557.81 But the number of exercises
+3560.04 and the availability of those exercises
+3562.04 for targeting different muscle groups
+3563.28 with these four different
+kinds of stretching
+3565.36 is both immense and
+fortunately, thankfully,
+3569.91 immediately accessible to
+all of us often at zero cost.
+3572.83 So, specific exercises
+3574.68 to target specific muscle groups aside,
+3576.56 we've now established
+3577.49 that there are four major
+categories of stretching,
+3580.24 or at least those are
+the four major categories
+3582.44 I'm defining today.
+3584.53 And we can further divide those categories
+3587.94 into which are the ones that
+are going to be most effective
+3591.06 for increasing range of
+motion in the long-term,
+3593.74 not just in one individual session.
+3596.2 And there have been a number
+of studies exploring this.
+3599.38 I can list out at least four,
+3600.84 and we'll put those four
+as a kind of a cluster
+3603.43 under one heading in
+the show note captions
+3606.09 that arrive at essentially
+the same answer,
+3609.18 which is that for increasing
+limb range of motion,
+3612.86 it does appear that static type,
+3616.19 including PNF, but static-type stretching
+3620.34 is going to be more effective
+3622.03 than dynamic and ballistic stretching.
+3625.8 So, at least in my
+mind, this is good news.
+3628.69 Why is it good news to me?
+3629.85 Well, while dynamic and
+ballistic stretching
+3632.72 can be immensely useful
+for improving performance
+3636.45 of specific movements,
+3638.59 in particular, in the
+context of particular sports
+3641.06 like tennis, or in sprinting,
+or frankly for any sport,
+3645.52 they do carry with them
+a certain amount of risk
+3648.54 because of the use of momentum.
+3650.49 So, you don't need to be highly trained
+3652.61 in order to perform them.
+3653.71 In fact, there is a place
+3655.21 and we will describe when one
+would want to apply dynamic
+3658.22 or ballistic stretching.
+3659.92 I'll just give away for now,
+3661.83 I think that most physios out there
+3663.68 and certainly the ones that I spoke to,
+3664.91 Dr. Andy Galpin, Dr. Kelly
+Starrett, and a few others
+3670.56 point to the fact that doing some safe
+3674.89 dynamic and ballistic stretching
+3676.44 prior to, say, a resistance
+training session,
+3679.93 or maybe even prior to a
+cardiovascular training session
+3683.33 can be useful both in terms
+of range of motion effects
+3687.54 and in terms of neural activation effects.
+3690.57 I don't want to use the words warm-up
+3691.94 because warming up is typically associated
+3693.83 with increasing core body
+temperature, as it should be,
+3697.01 but for engaging the neural circuits
+3700.51 and becoming familiarized
+with the neural circuits
+3703.22 that you're about to
+use in other movements
+3705.16 while also increasing the
+range of motion of the joints
+3707.96 involved in those movements
+3708.89 so that you can perform them more safely
+3710.47 and more confidently.
+3711.81 So, I'm certainly not saying,
+3714.06 I want to repeat, I'm certainly not saying
+3715.37 that dynamic and ballistic
+stretching are not useful,
+3717.51 they absolutely are,
+3719.1 but in terms of increasing
+limb range of motion
+3721.6 in the long-term of truly
+becoming more flexible
+3726.18 as opposed to transiently more flexible,
+3730.01 static stretching, which includes PNF,
+3734.14 appears to be the best route to go.
+3735.82 So, if your goal is to increase
+your limb range of motion
+3738.44 for a given muscle group, or
+perhaps for all muscle groups,
+3741.85 although you can imagine
+that'd be pretty tough.
+3743.65 I mean, you're not going to spend time,
+3745.33 I could imagine, working on
+your tongue muscle control
+3748.35 or neck muscle control
+and every muscle control,
+3751.03 but most of us want to
+reduce so-called tightness
+3754.14 in air quotes and increase
+limb range of motion
+3756.75 for certain muscle groups.
+3758.53 And it appears that
+the best way to do that
+3761.76 is going to be static
+stretching of some kind,
+3764.46 which raises the question of how often
+3766.6 to do that static stretching
+3767.79 and how long to hold
+those static stretches.
+3771.07 And we can also ask the question,
+3772.87 we should ask the question,
+3774.65 where to hold those static stretches?
+3776.62 Is it always a good idea to
+hold those static stretches
+3779.75 at the end or the point of
+maximal range of motion?
+3784.18 We're going to address that now.
+3785.58 There's some terrific science around this.
+3787.71 A slightly older study,
+3788.87 but nonetheless a powerful one
+3790.98 because it provided a foundation
+3792.81 for a lot of subsequent work,
+3794.1 which basically served to just confirm
+3795.99 the answer they got here is
+a study from Bandy et al.
+3799.99 And the title of this study
+3801.58 is The Effect of Time and
+Frequency of Static Stretching
+3804.5 on the Flexibility of
+the Hamstring Muscles.
+3807.788 It was a study involving 93 subjects,
+3810.04 so 61 men, 32 women ranging
+an age from 21-39 years,
+3814.86 so a pretty broad demographic
+3817.25 who had limited hamstring
+muscle flexibility,
+3819.7 here I'm paraphrasing,
+3820.7 and randomly assigned
+to one of five groups.
+3823.19 So, the four stretching groups
+3825.34 stretched five days
+per week for six weeks,
+3828.35 the fifth group, which served
+as a control, did not stretch.
+3831.55 The results clearly show that quote,
+3834.517 "The change in flexibility
+appeared to be dependent
+3836.79 on the duration and
+frequency of stretching."
+3838.75 This is great,
+3839.583 this tells us that stretching
+for a given amount of time
+3842.65 scales with the amount
+of limb range of motion
+3845.0 improvement that one will see.
+3846.86 There were many interesting
+findings within this study,
+3849.56 but the one that I'd like
+to highlight most is quote,
+3853.127 "The results of this study
+suggest that a 30 second duration
+3857.24 is an effective amount of time
+3858.75 to sustain a hamstring muscle stretch
+3860.6 in order to increase range of motion.
+3863.35 No increase in flexibility occurred
+3865.5 when the duration of
+stretching was increased
+3867.34 from 30 seconds to 60 seconds,
+3870.27 or when the frequency of
+stretching was increased
+3872.6 from one to three times per day."
+3875.09 Okay, so now we're starting
+to lay down some parameters.
+3878.31 What this study reveals and
+what subsequent studies tell us,
+3881.51 and we will get into
+those subsequent studies,
+3884.13 is that ideally one
+would do static stretches
+3888.38 that are held for 30 seconds.
+3891.79 Perhaps more in certain instances,
+3893.44 and I'll explain when that can be useful,
+3895.22 but here holding those stretches
+for more than 30 seconds
+3899.45 did not turn out to be
+additionally useful.
+3902.63 So, if you're going to stretch
+your quadricep, for instance,
+3904.9 and you're going to hold that
+stretch in static fashion,
+3907.59 remember not using momentum,
+3909.9 and you can use the mental tricks
+3912.61 of either trying to push through the pain,
+3914.89 which I don't recommend necessarily,
+3917.02 I think that makes us prone to injury,
+3919.59 or to relax into the stretch,
+3921.25 but nonetheless providing some force
+3923.51 typically with a hand in
+order to pull your ankle back,
+3926.65 if you're doing a quadricep stretch,
+3927.88 some people might do this
+on the edge of a sofa.
+3929.8 Remember, there are a lot
+of different exercises
+3931.66 and ways to do this that
+you can explore elsewhere.
+3934.3 Well, holding that static
+stretch for 30 seconds
+3937.75 appears to be sufficient
+3939.97 to stimulate an increase in
+limb range of motion over time.
+3944.09 Again, these are protocols
+3944.99 that were used repeatedly over time,
+3946.4 and we'll talk about
+how often to repeat them
+3948.68 in order to get maximal effect.
+3950.3 But 30-second holds for static stretches
+3952.95 is the number that I
+think we want to focus on
+3954.86 and that most of us are
+going to want to utilize.
+3956.99 So, now let's explore how
+many sets of static stretching
+3960.9 one ought to do in order to get
+3963.42 a maximum range of motion improvement
+3966.18 while not placing us into a system
+3968.8 that's going to create injury
+3970.29 nor a situation where we have
+to be constantly stretching
+3973.91 throughout the day
+3974.743 because, again, most of us
+don't have time to do that.
+3977.15 This issue of sets is an important one.
+3979.55 In the context of cardiovascular exercise,
+3981.54 we've talked about the
+data that support the fact
+3984.52 that doing at least 150
+3987.73 and ideally as much as
+200 minutes per week
+3990.33 of Zone 2 cardiovascular exercise
+3992.37 is very useful for cardiovascular health
+3994.15 and for other aspects of health.
+3995.92 And, of course, there are other aspects
+3996.99 of cardiovascular exercise
+3998.23 that could be layered onto and into that
+3999.683 that can be useful like 90 second
+4001.83 maximal sprints, et cetera.
+4003.38 Discussed this a lot in the
+episode with Dr. Andy Galpin
+4006.15 and on our episode about endurance.
+4008.21 And we also talked about sets
+4010.13 in the context of strength
+and hypertrophy building,
+4012.83 building muscle size and/or strength
+4015.42 in the episode about that.
+4017.35 And in particular, in the
+episode with Dr. Andy Galpin,
+4020.2 and there, we could also arrive
+at some specific parameters.
+4023.04 And it's going to vary, of
+course, between individuals,
+4025.76 depending on how hard you train,
+4027.15 whether or not you take sets to failure,
+4028.78 your repetition range, et cetera,
+4030.63 but in the context of strength
+and hypertrophy building,
+4033.02 we arrived at a approximately six,
+4036.78 maybe as many as 10 sets
+per week per muscle group.
+4039.9 Some of that work is done as direct work
+4041.64 to a given muscle group, some
+of that work is indirect.
+4044.35 So, doing certain pulling exercise,
+4045.95 of course, will target the
+latissimus dorsi muscles,
+4051.01 but also the biceps.
+4052.01 So, that doesn't necessarily
+mean you have to do 10 sets
+4054.98 for the biceps and for the lats,
+4056.5 sometimes you're getting some
+indirect work, et cetera.
+4058.36 All of that was delineated in the episode
+4060.34 with Dr. Andy Galpin.
+4061.8 And we arrived at those numbers of sets
+4064.34 according to the same criteria
+that we will apply here,
+4067.37 what is the minimum number of sets
+4070.32 both to maintain and to improve
+4074.1 a given mode of performance?
+4076.66 Strength and hypertrophy
+or cardiovascular health,
+4079.39 again, to either maintain or improve.
+4081.32 And we can do the same thing for improving
+4084.39 or maintaining range of motion
+4086.25 because as I mentioned earlier,
+4087.77 the data pointed to the fact
+4088.96 that if we don't do some dedicated work
+4091.43 to improve range of motion over time,
+4093.77 we will lose our flexibility
+4095.97 and limb range of motion over time
+4098.18 just by virtue of the fact
+4099.69 that we're not doing
+anything to offset that.
+4101.74 So, whether or not you want to maintain,
+4104.36 reestablish, or gain limb range of motion,
+4109.09 static stretching of holds of
+30 seconds appear to be best.
+4114.0 Now, the question is how
+long should you do that?
+4116.91 And how many sets should you do that?
+4118.11 And how many times a
+week should you do that?
+4120.21 And to answer those questions,
+4122.35 I'm going to turn to what I think
+4123.76 is a really spectacular review.
+4125.47 This was a review that was
+published in the year 2018,
+4128.15 so it's fairly recent,
+4129.34 first author Thomas, Ewan Thomas,
+4131.51 last author Palma.
+4132.92 We will put a link to this
+in the show note caption.
+4135.09 The title of the paper
+4136.05 is The Relation Between
+Stretching Typology
+4138.43 and Stretching Duration: The
+Effects on Range of Motion.
+4140.917 It's a very straightforward title.
+4144.16 This is a review article that explored
+4147.38 a number of different studies,
+4150.38 had criteria for whether
+or not those studies
+4152.1 could be evaluated in the
+context of the questions here,
+4155.51 had some quality standards
+and some other standards
+4157.65 that they applied.
+4158.483 And basically, windowed down
+a large collection of studies
+4162.44 to a remaining 23 articles
+4164.9 that were able to be
+considered quote, "Eligible
+4167.85 and included in the quantitative
+synthesis done here."
+4170.91 So, key points from that quantification
+4175.0 and synthesis done in this paper.
+4177.14 First of all, and I quote,
+"All stretching typologies
+4180.16 showed range of motion improvements
+over a long-term period.
+4183.26 However, the static protocols
+showed significant gains
+4186.95 with a p-value less than .05,"
+4188.61 which means a probability
+that cannot be explained
+4192.24 by chance alone,
+4194.007 "When compared to ballistic
+or PNF protocols."
+4196.52 So, again, that we're hearing
+is that static stretching
+4198.75 is the preferred mode for
+increasing limb range of motion.
+4202.08 Although, here they make
+the additional point
+4204.66 that static stretching
+might even be superior,
+4207.74 not just to ballistic stretching,
+but also to PNF protocols.
+4212.94 Because before, as you may recall,
+4215.04 there was a distinction
+between ballistic and dynamic,
+4219.98 and static and PNF.
+4221.34 And so, here it appears
+again that static stretching
+4224.29 is sort of rising to the top of the list
+4227.27 as the optimal approach
+4228.62 relative to all other
+stretching approaches,
+4231.73 at least in the context of
+increasing limb range of motion.
+4236.55 The authors go on to say,
+"Time spent stretching per week
+4239.8 seems fundamental to elicit
+range of movement improvements
+4242.74 when stretches are applied
+for at least or more
+4245.32 than five minutes per week."
+4247.72 Okay, this is critical.
+4248.89 This is not five minutes per stretch.
+4250.94 Remember, 30 seconds per static stretch,
+4253.13 but at least five minutes per week.
+4255.49 Whereas the time spent stretching
+within a single session
+4258.7 does not seem to have a significant effect
+4260.47 for range of motion gains.
+4261.64 If this is getting confusing,
+4262.96 I'll make sure that you soon understand
+4265.03 exactly what we can export
+from these conclusions.
+4269.95 The data indicated that
+performing stretching
+4271.73 at least five days a week.
+4274.63 Now, some of you may already be groaning,
+4276.66 for at least five minutes per week.
+4278.77 Okay, so five days per week, that's a lot,
+4281.14 but at least five minutes per week,
+4283.2 five minutes per week is not that much.
+4284.967 "Using static stretching may be beneficial
+4287.4 to promote range of motion improvements."
+4290.27 Okay, I've read this study in detail now,
+4293.04 they highlight, again, the
+reduction in flexibility
+4295.34 that occurs from 20-49
+years of age and so on,
+4298.85 how acute bouts of short-term stretching
+4301.13 up to three weeks can
+improve stretch tolerance.
+4303.42 I think that's a key point
+that in the short-term,
+4306.03 the first three weeks of embarking
+4307.4 on a stretching and flexibility program,
+4310.01 much of the improvements
+come from the short-term
+4312.34 neural improvements that
+we talked about before
+4314.13 of inhibiting the
+spindle reflex and so on.
+4315.98 And also, a stretch tolerance,
+4317.57 a comfort with doing the movements
+4319.11 and maybe even a comfort in overriding
+4320.71 some of the pain mechanisms.
+4321.78 I'll talk a little bit more
+about that in just a bit
+4324.22 and the particular utility of yoga.
+4327.74 Something that I don't often practice,
+4329.86 but that after reading this article
+4331.38 that I'll mention in a little bit,
+4332.75 I'm considering perhaps taking up
+4334.46 some form of yoga protocol.
+4337.3 Now, I've already highlighted
+4338.41 some of the key take aways from the study,
+4340.67 namely that we need to get at
+least five minutes per week
+4345.15 of static stretching per muscle group.
+4347.71 And based on the previous
+paper that we talked about,
+4351.98 we need to divide that five minutes
+4353.57 into sets of 30 seconds each.
+4356.62 And as I mentioned earlier,
+4358.71 it doesn't seem to be the case
+4360.11 that you can do all of that
+in one day, unfortunately.
+4364.13 It does seem important that the frequency
+4366.36 of stretching practice
+4367.56 distributed throughout
+the week is important.
+4370.12 So, let's talk protocols.
+4372.19 We are now talking about
+doing static stretching,
+4374.28 so holding, so limiting momentum
+4376.05 and holding a stretch
+for 30 seconds per set.
+4378.5 We're talking about trying to achieve
+4381.03 five minutes per week
+of those static holds,
+4384.0 but that we can't do it all in one session
+4388.07 because the frequency of sessions
+4390.16 distributed throughout the week
+4391.47 correlates with the improvements
+in limb range of motion.
+4394.41 So, what this means is that
+we should probably be doing
+4397.67 anywhere from two to four sets
+4400.63 of 30 second static holds stretches
+4405.43 five days per week or
+some variant thereof.
+4409.66 And I do say some variant
+thereof because it turns out
+4412.41 that even though there
+was that earlier study
+4414.02 that we talked about
+4415.18 that holding a stretch
+for more than 30 seconds,
+4417.98 in that case 60 seconds,
+4419.58 didn't turn out to be
+additionally beneficial.
+4422.4 It appears that if you
+do hold those stretches
+4425.07 for 60 seconds per static
+stretching set, for instance,
+4429.08 you can get away with stretching
+4430.9 fewer days per week overall.
+4433.41 So, in order to make
+this as clear as possible
+4436.95 'cause I do realize there
+are a lot of parameters
+4439.35 and you might be asking,
+4440.457 "Why didn't you just make me a list
+4441.7 of the exact things I should do?"
+4443.04 Well, it doesn't work that way
+4444.17 because once you understand the mechanisms
+4446.13 and once you understand
+your particular goals,
+4448.45 this information is designed
+for you to be able to construct
+4451.26 a stretching program that is tailored
+4453.13 to your specific goals.
+4454.61 If I just gave you the stretching
+program that I'm doing,
+4456.99 or I should say that I'm soon to be doing
+4458.54 'cause I'm soon to be doing one
+4459.8 based on the research for
+this particular episode.
+4463.56 Well, that wouldn't be beneficial for you
+4465.49 because, for instance, if you
+have very flexible hamstrings,
+4468.39 but not very flexible quadriceps,
+4470.33 or you are somebody
+who is engaged in sport
+4472.94 or not engaged in sport,
+4474.95 what you need to do is
+going to vary somewhat.
+4476.95 So, what would effective
+stretching protocol look like?
+4480.37 We're all trying to improve
+limb range of motion
+4482.63 for different limbs and
+different muscle groups.
+4485.93 But just by way of example,
+4487.24 and it's because the one we've been using,
+4488.44 let's talk about hamstrings
+for the time being.
+4491.58 This could, of course, be
+applied to other muscle groups.
+4494.27 Let's say you want to
+improve hamstring flexibility
+4497.06 and limb range of motion
+about and around the hamstring
+4501.04 and involving the hamstring,
+4503.66 you would want to do three sets
+4506.77 of static stretching for the hamstring.
+4509.06 Again, easy to find such
+exercises on the internet.
+4513.73 You would do that by holding
+the stretch for 30 seconds,
+4518.24 resting some period of time,
+4519.75 and doing it again,
+holding for 30 seconds,
+4521.83 resting some period of time,
+4523.14 and then holding it for 30 seconds.
+4526.31 That would be one training
+session for the hamstrings.
+4528.73 I have to imagine that you'd
+probably want to stretch
+4530.83 other muscle groups as
+well in that same session.
+4533.55 Although, at least as far as I could tell,
+4534.99 there was no data pointing to the fact
+4537.0 that you couldn't do
+your hamstring stretching
+4538.9 one part of the day
+4539.733 and your quadricep stretching
+another part of the day.
+4542.02 But presumably, you're
+going to want to combine
+4544.21 your flexibility training
+into one single session.
+4547.95 So, three sets of 30 seconds each
+4552.21 get 90 seconds,
+4553.61 and you would do that
+ideally five times a week
+4557.0 or maybe even more
+4558.06 because it does seem like frequency
+4559.72 distributed throughout the
+week is an important parameter.
+4562.03 Now, one thing that we
+have not highlighted
+4564.47 or at least described
+4565.69 is how long to rest
+between stretching sets.
+4569.18 And despite my efforts,
+4571.36 I could not find
+research-backed information
+4575.59 that pointed to whether
+or not 30 seconds of rest
+4578.78 for every 30 seconds stretching,
+4580.18 or 60 seconds rest for every
+30 second stretching was ideal.
+4584.83 I think it's reasonable to assume
+4586.3 that doubling the amount of time
+4588.96 for the interleaving rest
+4590.74 would be appropriate or at least doable.
+4593.74 If anyone out there has
+knowledge about rest
+4595.98 between stretching sets
+and has some physiology,
+4599.46 or some biology, or some
+experiential information
+4602.75 as to why a given ratio of
+duration of static stretch
+4607.01 to rest in between static
+stretch sets ought to be used,
+4610.26 please put it in the comments on YouTube,
+4612.42 that'd be a terrific way for
+us to get that information.
+4614.49 I'd love to do any follow-up
+4615.55 to links that you provide and so on.
+4618.66 But now, we're starting
+to build into a protocol
+4622.09 that is backed by the scientific data.
+4624.95 Three sets of 30 seconds of holds
+4627.63 done five times or maybe
+even six times per week.
+4631.41 One thing that did show
+up in my exploration
+4634.77 of the peer-reviewed research
+4636.3 is this notion of warming up for all this.
+4638.41 We haven't talked about that yet.
+4640.75 In general, to avoid injury,
+4642.16 it's a good idea to raise your
+core body temperature a bit
+4644.47 before doing these kinds of stretches.
+4647.15 Even these static stretches,
+4648.46 which we can sort of ease into
+4649.9 and don't involve ballistic
+movement by definition.
+4653.87 And the basic take away
+that I was able to find
+4657.47 was that if we are
+already warm from running,
+4661.25 or from weight training,
+or from some other activity
+4664.48 that doing the static stretching
+4666.67 practice at the end of
+that weight training,
+4669.51 or cardiovascular, or
+other physical session
+4671.9 would allow us to go immediately
+into the stretching session
+4675.6 because we're already warm, so to speak.
+4677.84 Otherwise, raising one's core
+body temperature by a bit
+4681.57 by doing five to seven,
+maybe even 10 minutes
+4684.66 of easy cardiovascular exercise
+or calisthenic movements,
+4688.45 provided you can do those
+without getting injured,
+4691.13 seems to be an ideal way to
+warm up the body for stretching.
+4693.72 We should be warm or warm-up to stretch,
+4696.56 although those warm-ups
+4697.393 don't have to be extremely extensive.
+4699.23 And then, just by way of logic,
+4700.9 doing the static stretching
+after resistance training
+4703.68 or cardiovascular training
+seems to be most beneficial.
+4706.34 In fact, and unfortunately
+we don't have time
+4708.46 to go into this in too much detail today,
+4710.45 I was able to find a number of
+papers that make the argument
+4714.26 that static stretching prior
+to cardiovascular training
+4718.1 and maybe even prior
+to resistance training
+4721.84 can limit our performance
+4723.62 in running and resistance training.
+4726.09 I realize that's a controversial area,
+4728.29 you have those who say, "No,
+it's immensely beneficial,"
+4731.35 you have those who say, "No,
+it inhibits performance,"
+4733.957 and those that say, "No, it's a matter
+4736.22 of how exactly you perform
+that static stretching,
+4738.077 and which muscle groups,
+and how you're doing this,
+4740.23 and how much time in between
+4742.38 static stretching and performance."
+4743.75 But to leave all that aside,
+4745.7 doing static stretching after
+some other form of exercise
+4749.57 and if not after some form of exercise,
+4752.86 after a brief warm-up to raise
+your core body temperature
+4755.55 definitely seems like the right way to go.
+4757.55 Now, for some of you out there,
+4758.68 and I confess for me as well,
+4760.72 doing something five days a week
+4762.18 seems like a big commitment,
+4763.23 even if that commitment is
+one to only do three sets
+4766.02 of 30 second static stretches.
+4768.86 I say this because you've got the warm-up,
+4771.36 I generally like to
+bring a kind of a focus
+4773.5 and dedication to a practice.
+4775.1 And, of course, because when
+doing these kinds of protocols,
+4780.0 it's likely that you're not
+just stretching your hamstring,
+4781.94 so it's not just 90 seconds of work
+4783.7 with a minute of rest in between,
+4785.58 but very likely that we're also
+doing quadricep stretching,
+4788.48 and also doing stretching
+for the shoulders,
+4790.25 and stretching for the back,
+and the neck, and so on.
+4792.36 And so, that entire session
+is going to take some time,
+4794.83 and five days a week is a
+pretty serious commitment
+4797.1 for most, especially for those
+of us that don't exercise
+4800.25 or do athletics for a
+living, which I don't.
+4803.66 So, there is some evidence
+from the literature
+4806.4 that one can get away with,
+4808.06 or I don't even know that
+we should think about it
+4809.69 as getting away with,
+4810.523 but that one can do longer
+hold static stretches
+4814.15 of up to say 60 seconds,
+4817.29 but do fewer total sessions per week.
+4820.97 So, rather than three
+30 second static holds,
+4824.26 doing three 60 second static holds
+4827.53 and doing those every other day.
+4830.14 And there really hasn't been
+4831.58 a systematic exploration of this.
+4833.13 The article that I was referring
+to just a few moments ago,
+4837.33 this analysis of the 23 articles
+4840.73 was combined into this
+enormous set of tables
+4843.15 and some really quite nice graphs
+4845.35 that you're welcome to look at
+4846.77 since we're going to
+provide a link to the study.
+4849.09 There are a couple of key take
+aways that I want to mention
+4852.08 that are separate from this issue
+4853.27 of how long to stretch and how often.
+4855.97 First of all, they describe
+in their discussion
+4859.64 that there were improvements
+in range of motion
+4863.34 independent of whether or not
+people did static stretching,
+4867.08 active stretching, passive stretching,
+4868.83 ballistic stretching, or PNF stretching.
+4871.97 So, all of those forms of stretching
+4873.65 will improve limb range of motion.
+4875.51 This is essential to point out
+4877.17 and I want to emphasize this.
+4879.33 Static stretching, however,
+4881.77 gave the greatest degree of
+gains in limb range of motion.
+4885.95 And on average, they saw a 20.9% increase,
+4889.79 but some of the other
+increases they observed
+4892.24 were also quite substantial.
+4894.19 So, ballistic stretching can also provide
+4896.68 some pretty impressive limb
+range of motion improvements.
+4900.53 However, they tended to be in the range
+4902.16 of, here they point out, 11.65% increase,
+4905.96 or in the case of PNF, a 15% increase.
+4908.4 So, it appears that the
+greatest improvements
+4911.3 in limb range of motion for
+your time spent and effort spent
+4915.2 is going to be this minimum
+of five minutes per week
+4918.6 to elicit a significant response
+4920.14 with five days being the minimum
+4921.68 weekly recommended frequency
+4923.26 to achieve significant range
+of motion improvements.
+4927.46 I confess, this was
+pretty surprising to me
+4930.35 when I compare flexibility training
+4933.26 to, say, resistance training
+for strength and hypertrophy.
+4936.41 I've had the experience,
+4937.4 and I know that other people
+have had the experience,
+4939.13 and I think Dr. Andy
+Galpin would probably agree
+4943.29 that provided one trains
+hard enough and appropriately
+4947.11 that you don't need to
+train resistance training
+4950.73 five days a week in order to
+get significant improvements
+4953.78 in strength and hypertrophy.
+4954.88 Some people might need to,
+4956.22 but you can get a lot of positive results
+4959.1 in those variables with
+less frequent training,
+4962.19 certainly with three or four
+days a week of training.
+4965.64 And for cardiovascular training,
+4967.29 I'm not aware of anyone having tested
+4969.24 whether or not one very long run each week
+4971.41 can actually increase
+cardiovascular fitness
+4973.27 and you're not doing anything else.
+4974.35 Although, I have to
+imagine you'd probably see
+4975.97 some improvement compared
+to not doing anything,
+4978.06 but most people are doing
+repeated training sessions
+4981.67 of cardiovascular strength training.
+4984.13 Not a lot of people are
+doing five days a week
+4986.9 of strength training, at
+least that I'm aware of.
+4989.53 Some people are, but most
+people I think are not.
+4992.17 And some people are
+doing five or more days
+4995.14 a week of cardiovascular training.
+4997.44 I'm guessing that most people
+are not doing five days a week
+5000.71 of dedicated static stretch
+5002.68 range of motion directed training,
+5005.77 but it does appear that that
+frequency about the week
+5009.25 getting those repeated sessions,
+5010.49 even if they are short for
+an individual muscle group,
+5012.82 turns out to be important.
+5014.04 And so, that points to perhaps the reason
+5017.49 why so few people are doing
+dedicated range of motion work,
+5020.51 but it also reminds me
+that all of the studies
+5024.59 that were described at
+least in this review
+5026.64 and some of the other ones that were not
+5028.73 really show impressive changes
+in limb range of motion.
+5032.16 I mean, 20+%, or even 15% with PNF,
+5036.18 I mean, these are big changes
+that are going to benefit us,
+5039.07 they're going to offset
+the age-related losses
+5041.5 in flexibility, for sure,
+5043.32 if one is dedicated about these practices.
+5045.58 And in many cases,
+5047.3 they're going to increase
+limb range of motion
+5049.5 in ways that are going to
+allow us better performance
+5052.3 in certain physical endeavors,
+certainly better balance.
+5055.183 All right, we haven't really talked
+5056.06 about balance and stability,
+5057.33 but range of motion can
+impair balance and stability
+5061.23 in some extreme circumstances,
+5062.77 but by and large, limb range
+of motion, lack of tightness,
+5065.59 improved posture, improved
+physical performance, excuse me.
+5069.3 And things of that sort is something
+5071.41 that I think we can all benefit from,
+5072.717 and that are key features of longevity.
+5075.63 We don't often think of them
+5076.66 because we so prioritize
+cardiovascular health
+5079.04 and the relationship between
+the heart and brain health,
+5080.96 and resistance training, and
+musculoskeletal hypertrophy,
+5085.87 or strength, et cetera.
+5087.16 But as I delved into this literature,
+5089.47 it really highlighted for me the extent
+5091.25 to which having really
+good limb range of motion,
+5094.82 at least maintaining limb range of motion
+5096.92 as we age from year to year,
+5099.02 and maybe even improving
+limb range of motion
+5101.44 can be immensely beneficial
+for reducing pain
+5104.73 for, again, improving posture,
+5107.19 improving our ability to
+perform, to walk, et cetera.
+5110.24 And indeed, there's a whole literature
+5112.45 that relates our limb range of motion
+5114.68 to things like pain management
+5116.43 of things related to headache
+and so on and so forth.
+5119.18 So, limb range of motion is not just about
+5121.82 becoming a contortionist
+5123.01 or being able to complete the yoga class,
+5125.33 it really is about maintaining
+the integrity and the health
+5127.86 of the neuromuscular system,
+the connective tissue,
+5131.39 and the neuromuscular connective network
+5133.88 because those are indeed
+working as an ecosystem
+5136.31 and a network.
+5137.19 I'd like to just briefly touch
+5138.49 on PNF stretching for a moment.
+5142.33 Again, this is a vast landscape
+5143.83 with many parameters and
+different practitioners,
+5145.83 a lot of competing opinions out there,
+5150.95 to put it lightly.
+5152.29 Nonetheless, I do want to
+emphasize that the PNF training
+5155.72 leverages those spindle mechanisms
+5157.53 and GTO mechanisms that
+we talked about earlier,
+5160.59 but I realize that in describing
+the quadricep contraction,
+5163.92 hamstring stretch little mini-experiment
+5166.83 that hopefully you did,
+5168.75 that I didn't really highlight
+the role of the GTOs,
+5171.24 the Golgi tendon organs that much.
+5173.27 And I just would like to just
+briefly do that for a moment.
+5176.27 The GTOs have multiple functions.
+5180.34 In fact, I think even though GTOs
+5182.11 are in every medical textbook,
+every physiology textbook,
+5184.77 every first year neuroscientist
+learns about them
+5187.69 when learning about the
+neuromuscular junctions
+5189.46 and the mechanisms of
+interoception, et cetera,
+5192.21 they're likely to have
+other functions as well.
+5194.67 And one of the reasons why
+PNF stretching does work,
+5199.75 whether or not you're
+doing that by using a strap
+5202.33 to pull back a limb,
+5204.04 or whether or not you're
+actively contracting
+5206.45 your quadriceps to then
+release and emphasize
+5210.27 stretch range of motion
+for your hamstrings
+5212.62 and related muscle groups is
+that activation of those GTOs,
+5218.06 meaning putting loads and
+tension into that system
+5222.54 can inhibit the spindles
+5224.83 in the opposite
+antagonistic muscle groups.
+5227.53 Okay, so one of the reasons why flexing,
+5231.32 or I should say
+contracting your quadriceps
+5234.5 really intensely for some period of time
+5236.75 allows your hamstrings to
+subsequently experience
+5240.0 greater range of motion.
+5241.66 And again, it's not just the hamstrings,
+5243.04 but the related connective tissue
+5244.81 and neural circuits, et cetera
+5247.16 is because yes, it's
+quote-unquote relaxing
+5252.11 the hamstrings and the spindle,
+5254.27 but there's also a direct relationship
+5257.96 between activation of
+the GTOs in the quadricep
+5262.1 and release of the spindles
+5265.8 in the hamstring and related muscles.
+5267.42 This has a name, it's
+called autogenic inhibition,
+5269.95 it's a fancy name for
+contraction of one muscle group
+5273.73 providing a relaxation
+of the other muscle group
+5277.16 that's antagonistic to it.
+5279.31 And it relates back to this idea
+5280.93 of interleaving sets in the gym.
+5282.66 So, if you think back to that example,
+5285.08 now it should make sense
+as to why, for instance,
+5288.32 if you do, let's say,
+a set of bench presses
+5290.78 or shoulder presses,
+5292.1 and you let's say you get 10 repetitions
+5294.5 and you fail on the 11th,
+5296.06 that muscle is very, very fatigued.
+5298.34 If you were to rest some period of time
+5300.27 and then go back and do another set,
+5302.91 well, during the rest, that
+muscle group has been relaxing,
+5306.12 it's obviously not
+contracting the same way
+5307.67 it was during the resistance set,
+5309.87 but by going and doing a pulling exercise
+5312.58 that involves the
+antagonistic muscle group,
+5314.6 so strongly contracting the
+back muscles through a pull
+5317.36 like a pull-down, or a chin-up,
+or a row-type exercise,
+5321.66 you're activating or near
+activating the GTO system
+5326.03 in those pulling muscles in a way
+5327.89 that provides autogenic inhibition
+for the pushing muscles.
+5332.81 Now, again, the physios out there
+5335.53 are probably either screaming
+5337.41 or banging their heads
+against whatever sound system
+5339.98 this happens to be arriving
+through to them saying, "Wait,
+5342.69 but in many cases, the GTOs
+aren't activated enough
+5345.84 to provide that autogenic inhibition."
+5347.63 That's true, but even the
+sub-threshold activation
+5351.71 of those intraspinal circuits,
+5353.52 so the place where the GTO circuit
+5355.75 and the spindle circuit interact,
+5357.54 can provide an additional replenishment
+5360.92 of, say, the pushing muscles
+5362.94 while you're activating
+those pulling muscles.
+5364.76 And this is at least one, not the only,
+5366.71 but at least one mechanism
+5368.1 by which interleaving push
+and pull, push and pull
+5370.97 for both strength and
+hypertrophy training,
+5373.11 but also for range of motion
+stretching-type training
+5377.56 can allow you to achieve better results
+5380.67 in a shorter period of time.
+5382.34 And I raise this because
+I want to keep in mind
+5384.99 the efficiency of any training program.
+5387.27 We just a moment ago
+established that doing,
+5390.49 for example, three sets
+of 30 second static holds
+5393.32 can be very useful for the hamstrings
+5394.94 with let's just say for sake
+of simplicity and practicality
+5399.02 a minute's rest in between.
+5400.67 But during that minute's rest,
+5402.53 you can stretch the opposite
+antagonistic muscle group,
+5406.39 such as the quadriceps,
+5408.38 or if you want to use PNF training,
+5410.77 you could do loading of
+the quadriceps in between.
+5413.84 So, there are a number of different ways
+5415.06 in which you can start to
+interleave static stretching
+5419.13 with PNF stretching,
+5420.87 you can start to interleave
+even PNF-type protocols
+5424.55 with resistance training,
+5425.55 although that gets a bit more complicated.
+5427.8 You can really start to construct
+5429.26 and build protocols
+that are ideal for you.
+5432.74 What we will do
+5433.573 is for an upcoming Neural
+Network Newsletter.
+5436.89 So, for those of you that aren't familiar,
+5438.2 the Huberman Lab Podcast
+5439.22 has a so-called Neural Network Newsletter,
+5440.96 these are monthly newsletters
+where we put distilled points
+5444.57 from the podcast and oftentimes protocols
+5447.01 in a downloadable PDF form.
+5448.87 You can access it by giving us your email,
+5450.41 we don't share your email with anybody.
+5451.91 If you want to see examples of these,
+5453.12 you can go to hubermanlab.com
+5454.61 and go to the menu and see Newsletter,
+5456.31 you don't have to sign up for anything
+5457.4 to see examples of what these are like.
+5459.52 I'll provide a couple
+of different protocols,
+5461.92 one that is pure static stretching,
+5464.67 one that involves PNF-type stretching,
+5467.84 and I'll also put down a protocol
+5470.83 that involves the antagonistic
+interleaved muscle training
+5474.03 of the sort that I've been describing
+5475.2 a few times throughout this episode.
+5476.94 And then, you can try and apply those
+5478.81 either separately or maybe
+combine them in some way
+5481.7 that's useful for your goals.
+5483.25 There are a couple of key
+elements that are essential
+5485.48 for building a safe and
+effective range of motion
+5488.97 increasing program that arrived to us
+5491.46 both through the peer-reviewed research
+5493.28 and, admittedly, from people
+that have been involved
+5496.02 in teaching and training range of motion
+5498.54 for a very long period of time.
+5500.38 Some of you may be familiar
+5501.63 with the so-called Anderson method,
+5503.22 it's been around for a long time.
+5505.21 Actually have never met Anderson,
+5506.73 I don't, I should know this,
+5508.04 I don't even know if he's still alive,
+5509.32 I hope he's still alive,
+5510.51 but in any event, there are
+a lot of different features
+5513.1 to the Anderson and other protocols.
+5515.21 But one of the aspects
+of the Anderson protocol
+5517.76 that I think is highly relevant.
+5519.36 In fact, I know is relevant
+to the peer-reviewed research
+5521.54 that we're going to talk
+about in a few moments
+5523.62 is this notion of pushing through pain,
+5526.87 and how active or how passive
+to be about static stretching.
+5530.79 Now, this is somewhat subjective.
+5532.61 Right, if you think about
+getting into a stretch,
+5535.73 again, we'll just use the
+hamstrings for example.
+5537.59 So, you're either reaching
+for your toes while seated,
+5541.52 or maybe you're using a strap
+5543.87 and you're raising your foot
+overhead while lying down,
+5547.14 or maybe you're doing a
+toe touch-type exercise.
+5552.83 How far should you reach?
+5554.07 Where is the end range of motion?
+5556.27 Should you balance?
+Should you not balance?
+5557.81 We're going to talk a little
+bit more about that in a moment,
+5560.06 but Anderson has an
+interesting idea and principle,
+5562.7 which has thread through
+a lot of his teachings
+5565.01 that I think are very much
+in keeping with the study
+5567.89 that I'm about to describe next,
+5569.71 where he emphasizes to yes,
+5573.22 to stretch to the end
+of the range of motion,
+5576.56 but not to focus so much on
+where that range of motion
+5579.37 happens to be that day.
+5581.35 So, for instance, not thinking, "Oh,
+5584.06 I can always touch my toes, for instance.
+5586.92 And therefore that's the starting place
+5589.29 for my flexibility training today."
+5591.86 But rather to take the entirety
+of your system into account
+5595.76 each day and understand that, okay,
+5597.37 provided your warmed up appropriately,
+5599.81 that you're now going to
+stretch your hamstrings,
+5601.46 for instance, and you're going
+to reach down for your toes,
+5604.54 but that your range of motion
+might be adjusted that day
+5607.61 by way of tension and stress,
+5609.72 or by way of ambient
+temperature in the room.
+5611.96 And to basically define
+the end range of motion
+5614.69 as the place where you
+can feel the stretch
+5617.82 in the relevant muscle groups.
+5619.42 I think this is important
+5620.56 because unlike resistance training
+5623.2 or cardiovascular training,
+5624.82 where we can measure
+distance traveled over time
+5627.44 in the case of cardiovascular training,
+5628.9 or how much weight is on the bar,
+5630.55 and count repetitions, et cetera.
+5632.9 With range of motion training,
+5634.89 of course, range of motion is the feature
+5637.02 that we're interested in,
+5638.23 but there is likely to be a lot
+of variation from day-to-day
+5642.25 based on a number of different internal
+5644.09 and external factors.
+5645.54 And so, the Anderson method
+5646.9 is really about getting into static
+5648.89 and other forms of stretching.
+5650.53 I think today we've mainly been focusing
+5652.12 on static stretching and
+holding the end range of motion,
+5655.35 but really paying attention
+to the feel of the stretch
+5657.947 and the muscles involved.
+5659.51 And there are parallels in resistance
+5661.56 and cardiovascular training
+too I realize, right?
+5663.85 In the case of trying
+to build hypertrophy,
+5666.26 or I should say improve
+hypertrophy, muscle size,
+5669.2 oftentimes the best
+advice that one can give
+5672.22 is to don't try to lift weights,
+5673.97 but rather to challenge muscles.
+5675.44 Now, of course, you need
+to provide adequate loads
+5677.26 in order to get hypertrophy,
+5678.8 but when you're training
+purely for strength,
+5680.45 it's about moving weights.
+5682.52 When you're training
+purely for hypertrophy
+5684.21 or mainly for hypertrophy,
+5685.31 it's really about challenging
+muscles using weights
+5688.03 or other forms of resistance.
+5689.53 And similarly, and in keeping
+with this Anderson method,
+5694.08 when trying to build limb range of motion,
+5697.3 doing static stretching at a
+place where it's difficult,
+5700.8 but that you can experience
+the stretch of the muscle
+5703.81 cognitively, consciously being
+able to focus on the muscles
+5707.82 and their stretch is at least as useful
+5710.88 as is evaluating the
+current range of motion
+5713.88 you're able to achieve.
+5714.713 So, what does this mean?
+5715.546 This means feel the muscles
+as you stretch them,
+5717.44 don't just go through the motions.
+5718.75 And this means don't get so attached
+5721.39 to being able to always achieve,
+5723.07 for instance, a stretch
+of a given distance
+5725.73 within a given session.
+5726.93 You might actually find that
+by just finding the place
+5730.26 where you can't get much further
+5732.15 and holding the static stretch there,
+5734.28 that on the second and third set
+5735.72 that you happen to be doing that day,
+5736.86 that your range of motion will
+be increased considerably.
+5740.14 Maybe not, but very likely yes, you will.
+5742.61 And, of course, evaluating
+range of motion over time
+5746.22 is the key parameter
+5747.36 because that's the goal
+of all this type of work.
+5749.68 Now, along these lines,
+5752.95 there is this variable that
+we've mentioned a few times
+5755.27 of passive versus active stretching,
+5757.38 and there's this even
+more nebulous variable,
+5760.38 this even more kind of subjective thing
+5762.15 of how much effort to put into it?
+5765.56 Should you push into the stretch?
+5767.2 Would you even want to balance a tiny bit?
+5769.54 Would you want to reach
+into that end point
+5772.63 and try and extend it within
+a given set and session?
+5776.0 And for that reason,
+5778.18 I was excited to find this paper
+5780.55 entitled A Comparison of
+Two Stretching Modalities
+5782.85 on Lower-Limb Range of Motion Measurements
+5784.94 in Recreational Dancers.
+5786.96 Happens to be done in
+recreational dancers,
+5788.68 it's a six-week intervention program
+5790.72 that compared low-intensity stretching,
+5792.69 which they call Microstretching.
+5794.95 They used a capital M,
+5795.98 so I don't know if that
+means that it's proprietary,
+5797.98 although I didn't see evidence
+of a conflict of interest,
+5801.69 but they call it Microstretching.
+5803.46 But to be very clear,
+5806.537 Microstretching in the
+case of this manuscript
+5808.77 is low-intensity stretching.
+5810.85 And they compared that
+5811.683 with moderate intensity static stretching
+5814.51 on an active and passive ranges of motion.
+5816.92 Okay, so there are a lot of
+different variables are here,
+5818.94 but I'll just highlight
+a few of the things
+5821.44 that are really most relevant to us,
+5823.17 and I'll give you the
+take away at the outset
+5825.08 and then return to it at the end
+5826.53 so that if I lose any of your attention
+5829.45 in the next couple of minutes,
+5830.41 at least you have that key take away.
+5834.14 Basically, what they found
+5835.22 was that a six-week training program
+5837.05 using very low-intensity stretching
+5839.82 had a greater positive effect
+on lower limb range of motion
+5842.93 than did moderate-intensity
+static stretching.
+5846.09 I find that incredibly
+interesting, so very low intensity,
+5848.83 and we'll define what
+that means in a moment.
+5852.01 Here, I'm quoting them,
+5853.587 "The most interesting aspect of the study
+5855.3 was the greater increase
+in active range of motion
+5857.81 compared to passive range of motion
+5859.39 by the Microstretching group."
+5860.76 So, this relates to what
+we were just talking about
+5862.67 a few moments ago as it
+relates to the Anderson method,
+5865.83 which is that very
+low-intensity stretching,
+5869.99 meaning effort that feels not painful
+5873.7 and in fact might even feel
+easy or at least not straining
+5879.48 to exceed a given range of motion
+5882.74 turns out to not just be as effective,
+5884.96 but more effective than
+moderate-intensity stretching.
+5888.68 So, what is low-intensity
+static stretching?
+5891.12 Well, they define this as
+the stretches were completed
+5893.67 at an intensity of 30-40%
+5897.35 where 100% equals the
+point of pain, right?
+5900.87 So, 30-40% in these individuals,
+5904.49 and again, I'm paraphrasing,
+5905.68 induced a relaxed state
+within the individual
+5908.64 and the specific muscle.
+5909.73 And here they were holding
+these static stretches
+5911.71 I should mention for one
+minute, not 30 seconds.
+5915.37 Now, the control group
+5916.9 was doing the exact same overall protocol,
+5919.59 so daily stretching for six weeks,
+5922.7 the same exercises, holding
+each set for 60 seconds,
+5927.17 but were using an
+intensity of stretch of 80%
+5931.35 where, again, 100
+represents the point of pain
+5934.72 or the point where the person
+would want to stop stretching.
+5938.28 I find these data incredibly interesting
+5939.94 for, I think, what ought
+to be obvious reasons.
+5942.52 If you're going to embark on a flexibility
+5945.39 and stretching training program,
+5947.78 you don't need to push
+to the point of pain.
+5949.92 In fact, it seems that
+even just approaching
+5952.62 the point of pain is
+going to be less effective
+5955.12 than operating at this 30-40% of intensity
+5960.4 prior to reaching that pain threshold.
+5961.98 The pain threshold being 100%.
+5963.62 Now, of course, this is pretty subjective,
+5965.12 but I think all of us should be able
+5967.29 to register within ourselves,
+5969.06 so whether a given range of motion
+5971.59 or extending a given range of motion
+5973.01 brings us to that threshold
+of pain or near pain.
+5975.77 And according to this study at least,
+5979.13 operating or performing stretching
+5981.64 at an intensity that's quite
+low, that's very relaxing
+5984.77 turns out to be more beneficial
+5986.96 in increasing range of motion
+5988.57 than is doing exercises aimed
+at increasing range of motion
+5992.84 at a higher intensity.
+5994.41 Okay, so lower intensity stretching,
+5996.81 I should say lower
+intensity static stretching
+5999.38 appears to be the most beneficial way
+6001.48 to approach stretching.
+6002.313 And I think that's a relief
+probably to many of us
+6005.63 because it also suggests
+that the injury risk
+6008.76 is going to be lower
+than if one were pushing
+6010.81 into the pain zone, so to speak.
+6013.0 The authors offer a number
+of different explanations
+6015.21 as to why this approach, this
+Microstretching approach,
+6017.94 might be more effective.
+6020.13 Here, I'm paraphrasing
+from their discussion
+6022.46 where they mentioned that
+it could be hypothesized
+6025.81 that they had improved
+reciprocal inhibition
+6028.67 within the hamstring muscle group.
+6029.89 So, this gets right back to
+the sorts of neural mechanisms
+6031.99 that we talked about before,
+6032.94 that somehow by doing this
+low-intensity stretching
+6035.81 that they were able to
+access some of those spindle
+6037.76 and GTO-type mechanisms that
+we were referring to earlier,
+6041.03 and the inhibition of hamstring
+and quadricep stretches.
+6044.63 They also offer a number
+of different ideas
+6047.16 about how this could shift the activation
+6050.67 of the so-called sympathetic,
+6051.87 remember the kind of stress
+division of our nervous system,
+6055.55 and to reduce that relative
+6058.68 to activation of the parasympathetic arm
+6060.76 of the nervous system.
+6061.97 I confess, they have a couple of arguments
+6063.69 around sympathetic, parasympathetic
+6065.33 that are somewhat convoluted.
+6066.95 I will just in fairness
+to the neuroscience
+6070.94 on those systems,
+6073.04 I wouldn't suggest putting too much weight
+6075.3 on their arguments about
+sympathetic and parasympathetic.
+6078.02 To my mind, they didn't
+really hold much water,
+6080.37 but here I'm not trying to be disparaging
+6082.38 of the overall work, which I
+think is really quite sound,
+6085.01 which is that low intensity,
+so called Microstretching,
+6088.53 is going to be the most effective way
+6090.41 to increase limb range
+of movement over time.
+6093.25 I want to just briefly return to this idea
+6095.26 of whether or not to do
+ballistic or static stretching
+6097.93 before some sort of skill training,
+6100.5 or weight training, or any kind of sport,
+6103.76 or even cardiovascular
+exercise like running.
+6107.25 Again, the data are
+really split out there.
+6109.29 There are even folks who suggest
+6110.98 that doing any kind of
+stretching prior to running
+6113.5 is going to lower running efficiency,
+6115.25 it's going to require
+essentially more work
+6116.907 and more oxygen uptake at a given speed
+6120.1 for a variety of reasons,
+6121.22 and runners and that community
+argue about this endlessly.
+6124.7 There are papers in both
+sides, in both directions,
+6126.81 I'm sure I'll hear about
+some of this in the comments.
+6129.07 I'm not really going to take a
+stance on this as a consequence
+6132.18 because the data are all over the place.
+6134.6 However, I think there's a
+general logic that we can apply,
+6137.56 and here I'm borrowing
+from some conversations
+6140.44 and some information put out
+there by Dr. Andy Galpin,
+6143.25 who I think is, of course, both an expert
+6145.98 and thinks about these things
+6146.813 in a really sound and
+flexible way, no pun intended.
+6151.88 There are instances, for example,
+6154.95 where an individual might want
+to do some static stretching
+6157.75 to increase limb range of motion
+6159.56 prior to doing weight training
+6161.16 even if it's going to
+inhibit that person's ability
+6164.71 to lift as much weight.
+6166.36 Why would you want to do that?
+6167.39 Well, for instance,
+6168.62 if somebody has a
+tightness or a limitation
+6170.98 in their neuromuscular
+connective tissue system
+6173.6 someplace in their body and system
+6176.62 that prevents them from using proper form,
+6180.04 that they can overcome by
+doing some static stretching.
+6183.75 Well, that would be a great idea
+6185.51 as Dr. Galpin points out.
+6187.64 Or for instance, if proper
+stability within the movement
+6191.51 requires increasing limb
+range of motion in some way,
+6194.57 well then compromising
+the use of greater loads
+6198.75 could be greatly offset by
+doing some static stretching
+6202.05 to improve, say, hamstring flexibility
+6203.88 or another muscle group flexibility.
+6205.6 So, we can't always think about
+6206.61 just what's going to allow us
+6208.37 or inhibit us from using
+the maximal amount of weight
+6211.01 or from running as far as we want to run
+6213.72 as fast as we want to run.
+6215.26 There are instances where
+people are trying to overcome
+6217.39 injuries where they're trying to come back
+6219.96 from a repetitive surgery
+6221.87 or something of that sort,
+coming back from a layoff
+6224.08 where some additional static stretching
+6227.13 prior to cardiovascular,
+or weight training,
+6229.3 or skill training, or sport of some kind
+6231.17 is going to be useful
+because it's going to put us
+6234.04 in a position of greater safety
+6235.66 and confidence and performance overall,
+6238.22 even if it's adjusting down our speed
+6240.72 or the total amount of loads that we use.
+6242.92 So, it's you that needs to consider
+6245.64 whether or not for you and
+within a given training session
+6249.45 you want to do static training,
+6252.19 I should say static stretching
+range of motion training
+6255.01 prior to or after that training session.
+6258.57 And similarly, there are a lot of data
+6262.18 pointing to the fact
+that doing some dynamic
+6264.16 or even ballistic stretching
+prior to skill training,
+6267.45 or cardiovascular, or weight
+training can be beneficial
+6270.0 in part to warm-up the
+relevant neural circuits,
+6272.41 joints, and connective
+tissue, and muscles,
+6275.04 and as well to perhaps
+improve range of motion
+6278.8 or ability to perform those
+movements more accurately,
+6282.16 with more stability, and
+therefore with more confidence.
+6285.2 And while Dr. Andy Galpin
+6286.87 would never name any
+protocol after himself,
+6289.24 he's far too humble to do that,
+6290.75 I've named a couple of
+protocols after him,
+6292.81 particularly the Galpin
+equation for hydration,
+6295.66 because he was willing to
+stick his neck out there
+6298.04 and put down some specific
+numbers that people could follow
+6302.32 in order to ensure proper
+hydration during training,
+6304.95 you can look up the
+Galpin equation elsewhere.
+6307.33 You can just Google it or
+look elsewhere and find it.
+6310.72 And Dr. Galpin has also been
+very thoughtful and generous,
+6315.29 and I think very accurate in offering
+6317.85 a kind of a general organizational logic
+6320.64 for how to think about the goals
+6322.9 of a particular training session,
+6325.32 and thereby to decide whether or not
+6327.82 you're going to do ballistic,
+or static stretching,
+6329.73 and so on and so forth.
+6331.09 So, we can refer to this
+general approach as Galpinian.
+6335.843 Galpinian, is that right?
+6337.53 Galpin-ian logic, Galpinian logic.
+6341.6 Thus far, we've been
+talking about stretching
+6343.27 for sake of increasing limb
+flexibility and range of motion,
+6346.54 but there are other reasons perhaps
+6349.55 to embark on a stretching protocol
+6352.15 that include both our ability to relax
+6355.78 and access deep relaxation quickly,
+6358.16 as well as even to reduce inflammation
+6361.71 and perhaps even combat
+certain forms of cancer.
+6364.65 And if that sounds really far-fetched,
+6366.9 I want to emphasize that the study
+6368.78 I'm about to share with you in a moment
+6370.49 was actually carried out
+by one of the directors
+6373.25 of a division of the National
+Institutes of Health.
+6377.45 And this was the work of Helene Langevin,
+6381.14 who's a medical doctor, has
+done really important work
+6385.32 on the mechanisms underlying
+things like acupuncture
+6390.01 and has approached all that
+6391.29 from a very mechanistic viewpoint.
+6394.02 Right, so not looking just at
+the effects of acupuncture,
+6396.46 but really trying to understand
+what sorts of cytokines,
+6399.45 inflammatory molecules,
+and pathways are activated?
+6403.04 What sorts of neural
+mechanisms get engaged
+6406.03 by things like acupuncture
+6408.26 that impinges on the fascial
+tissues and so forth?
+6412.2 And Dr. Langevin is currently
+6413.69 Director of the National Institutes
+6415.42 of Complementary Health and Medicine
+6419.36 at the National Institutes of Health.
+6420.7 So, this is a major division
+supported by tax dollars
+6423.73 that support systematic
+mechanistic exploration
+6427.19 of things like respiration,
+meditation, yoga, acupuncture.
+6431.43 So, this is serious science
+applied to protocols
+6434.38 and approaches that have been
+used for some period of time,
+6436.13 but really aimed at trying to understand
+6437.64 what would the best protocols
+be to evolve new protocols?
+6441.7 So, there's a really interesting study
+6443.83 done in animal models,
+6445.31 but I think it's a powerful enough result
+6447.51 that I think we all should
+pay attention to it.
+6449.66 The title of this paper,
+6450.75 and, again, the last author
+is Dr. Langevin herself,
+6453.76 is Stretching Reduces Tumor Growth
+6456.47 in a Mouse Breast Cancer Model.
+6458.63 And yes, you can get mice to stretch,
+6460.62 it turns out that if you gently
+lift up mice by their tail
+6464.07 and they'll hold onto their cage,
+6465.05 there's a way in which you
+can mechanically stretch them
+6467.46 in a way that doesn't harm them.
+6468.9 First, I should mention
+that Dr. Langevin and others
+6471.29 have shown that just a brief
+whole body stretch of that sort
+6474.96 induces an increase in activation
+of the parasympathetic arm
+6480.22 of the autonomic nervous system,
+6481.94 again, not arm, limb arm,
+6483.51 but the aspect of the
+autonomic nervous system
+6485.88 that creates a whole body,
+6488.17 whole nervous system shift
+toward more relaxation.
+6491.87 So, yes, indeed stretching
+6494.63 induces relaxation at a systemic level,
+6498.06 not just at a local level.
+6499.41 And I think that's important,
+6501.13 probably not surprising to those of you
+6502.68 that use stretching regularly,
+6504.3 but yes, it does indeed relax us.
+6506.37 Yes, you can do this in mice
+and see that in mice as well.
+6509.62 Here's what they did
+for this current study,
+6511.98 or I should say this was
+a study published in 2018
+6515.71 in Scientific Reports.
+6518.79 They write, "Recent studies have shown
+6520.9 that gentle daily stretching
+for 10 minutes can reduce
+6523.14 local connective tissue
+inflammation and fibrosis."
+6525.41 Now, that's local tissue
+inflammation and fibrosis
+6529.74 as well we now know as
+systemic inflammation
+6533.81 and can induce relaxation systemically.
+6537.77 In this case, they focused
+on mice, not humans.
+6540.88 And mice were randomized to a stretch
+6542.68 versus no stretch condition
+6544.25 and were treated for 10 minutes
+once a day for four weeks.
+6548.45 So, it's 10 minutes of this
+passive whole body stretching
+6552.6 a day for four weeks.
+6554.72 What's remarkable, I mean,
+6556.19 just I have to say is just striking
+6558.39 is that tumor volume in these mice,
+6560.47 they were able to induce
+tumors in these mice
+6562.13 and the tumor volume at the
+end point was 52% smaller
+6566.02 in the stretch group compared
+to the no stretch group.
+6569.32 This is a highly significant effect,
+6571.61 and they point out in the
+absence of any other treatment.
+6574.96 And they explored whether or
+not cytotoxic immune responses
+6577.74 were activated and a
+number of other features.
+6580.53 They weren't able to get too deeply
+6581.76 into the underlying mechanisms,
+6583.93 but this is pretty remarkable.
+6585.58 Even three weeks into stretching protocol,
+6588.01 this daily stretching
+protocol for these mice
+6589.83 tumor volume was reduced, I
+mean, by it's almost halved,
+6594.09 this is pretty incredible.
+6595.66 So, they have these
+measures of tumor volume
+6598.77 and the only difference
+in the way these animals
+6601.37 were treated and handled
+6603.01 was the introduction
+of this daily stretch.
+6606.26 I find this result to
+be, of course, limited
+6609.73 in to the extent that it's
+done in an animal model,
+6612.19 not in humans, we have to point it out,
+6614.14 but as they point out in their discussion,
+6616.157 "Our results demonstrate a 52% reduction
+6618.33 in mammary tumor growth over one month
+6620.45 in mice undergoing stretching
+for 10 minutes a day
+6622.6 without any other form of therapy."
+6624.7 Do they think that stretching itself
+6627.04 is changing the tumor size?
+6628.54 No, in fact they raise the
+possibility that stretching
+6631.87 because of its impact on the fascia
+6633.74 might even create micro environments
+6635.43 that are more permissive for tumor growth
+6637.77 in certain instances,
+6638.87 so they're careful to emphasize
+6641.28 what I also believe to be the case,
+6642.92 which is that it's unlikely
+that the stretching itself
+6645.05 was directly acting to reduce tumor size,
+6647.61 but rather that there's this possible link
+6650.36 between inflammation and
+immune exhaustion mechanisms
+6653.62 that if you can periodically
+relax a nervous system,
+6658.07 here through stretching,
+6659.32 that it can affect certain pathways
+6662.33 related to the immune system
+6663.45 that would allow the immune
+system to combat tumor growth
+6666.57 to a significant degree.
+6667.84 So, again, even though
+this is a study in mice,
+6670.1 it argues that relaxation
+induced by stretching
+6672.9 can have a powerful influence
+on mammary tumor growth.
+6675.56 Again, a huge effect carried out
+6678.15 by one of the premier labs and individuals
+6682.81 who do this sort of work and
+think about this sort of thing.
+6685.09 And, of course, I want to point out
+6686.1 it wasn't just Dr. Langevin
+that did this study,
+6688.15 there are a number of
+co-authors on the study
+6689.68 we will provide a link to the co-authors,
+6692.17 excuse me, we will provide
+a link to the study
+6694.33 so that you can peruse it
+in more detail if you like.
+6697.16 Now, as a related and
+somewhat final point,
+6700.49 I'd like to return to
+this idea and this place,
+6703.55 this real estate within our brain
+6705.53 that we call the insular
+cortex, the insula.
+6708.02 As you recall, way back at
+the beginning of this episode,
+6711.19 we were talking about
+the von Economo neurons,
+6713.05 that Constantin von Economo
+6714.75 the Austrian scientist discovered.
+6718.15 And the fact that we are able to make
+6721.32 and perform interpretations of
+our internal landscape pain,
+6725.58 our dedication to a practice,
+6728.02 for instance, whether
+or not we are in pain
+6730.87 because it's a practice that
+we are doing intentionally
+6734.14 and want to improve ourselves,
+6735.57 or whether or not it's
+pain that's arriving
+6737.44 through some externally
+imposed demands or situations.
+6740.92 Well, the insula is handling all that.
+6743.44 And fortunately, there's a wonderful paper
+6746.16 that was published,
+6747.28 it was a few years ago now in
+the journal Cerebral Cortex,
+6750.14 which is a fine journal.
+6751.42 This is the year 2014
+6753.19 entitled Insular Cortex Mediates
+Increased Pain Tolerance
+6756.02 in Yoga Practitioners.
+6757.41 I'll tell you why I like this study.
+6759.25 I'm personally not a practitioner of yoga,
+6761.15 I've taken a few yoga
+classes over the years,
+6762.97 I've done some of the hot yoga classes.
+6765.91 Those rooms can get really,
+really warm, I confess,
+6769.526 and I've done the kind of
+standard yoga every now and again.
+6771.87 It's not something that
+I've kept up regularly.
+6775.21 This study explored the effects
+6778.85 on brain structure volume
+in yoga practitioners.
+6783.73 And for those of you out there
+that are aficionados in yoga,
+6786.62 they pulled subjects from
+having backgrounds in the...
+6791.43 Here, I'm probably going to mispronounce
+6792.75 these different things, and forgive me,
+6794.48 the Vinysasa yogas, the Ashtanga yogas,
+6797.118 the Iyengar yogas, the Sivananda yogas.
+6799.35 Okay, so some people were
+new to these practices,
+6801.63 some were experienced.
+6803.8 That the important take aways
+6805.62 were that they took
+these yoga practitioners
+6808.2 and they didn't explore
+their brain structure
+6810.29 in the context of yoga itself,
+6811.6 they looked at things like pain tolerance.
+6814.48 So, they used thermal stimulation,
+6816.5 basically they put people into conditions
+6817.98 where they gave them very
+hot or very cold stimuli
+6820.37 and compared those yoga practitioners
+6823.16 of varying levels of yoga experience
+6824.98 to those that had no experience with yoga,
+6827.29 so-called controls.
+6828.42 And they found some
+really interesting things,
+6830.47 there are a lot of data in this paper,
+6832.81 but here's something
+I'd like to highlight.
+6835.79 The pain tolerance of yoga practitioners
+6839.26 was double or more to that
+of non-yoga practitioners,
+6844.27 even for those that weren't
+doing this so-called hot yoga.
+6846.67 Right, they also found that pain tolerance
+6849.53 was significantly greater,
+6850.6 both for heat pain and for cold pain.
+6853.33 They also found significant
+increases in insula,
+6858.83 again, the insula, this brain region,
+6860.74 gray matter volume.
+6861.93 Typically, when we talk about gray matter,
+6863.44 we're talking about the
+so-called cell bodies,
+6865.4 the location in neurons
+where the genome is housed
+6869.97 and where the kind of all the
+housekeeping stuff is there.
+6873.08 And then white matter volume
+tends to be the axons,
+6876.04 the wires because they're
+ensheathed with this stuff
+6878.27 that appears white in MRIs,
+6880.27 and indeed is white under the microscope,
+6882.04 and indeed is white, it's
+actually lipid, which is myelin.
+6884.74 So, increased gray matter
+volume of the insula
+6888.3 is a significant finding
+6890.47 because what it suggests is
+that people that are doing yoga
+6893.61 have an increased volume
+of these areas of the brain
+6896.183 that are associated with
+interoceptive awareness
+6899.12 and for being able to
+make judgements about pain
+6902.1 and why one is experiencing pain,
+6903.96 not just to lean away from pain,
+6905.29 but to utilize or leverage
+or even overcome pain.
+6908.7 So, there are many studies of
+yoga and meditation out there,
+6912.99 few that have as much
+mechanistic detail as this one.
+6915.97 And in fact, there's a beautiful figure,
+6918.43 Figure 3 in this paper
+6919.93 that shows that the gray matter volume
+6921.74 of this particular brain region
+6923.6 scales in a almost linear way
+6926.56 with the duration of yoga practice
+6928.35 that somebody has been taking on in years.
+6930.02 So, people that had, well,
+hey had a few subjects
+6932.36 that have up to 15 or 16
+years of yoga practice
+6935.37 had much larger left
+insula gray matter volume,
+6939.29 bigger brain areas associated
+with these abilities.
+6942.71 And I find this interesting
+6944.23 because there are a lot
+of activities out there
+6946.91 that don't create these kind
+of changes in brain volume,
+6950.6 especially within the insula.
+6952.08 So, it appears that it's
+not just the performance
+6954.42 of the yogic movements,
+6955.81 but the overcoming or the kind of pushing
+6957.88 into the end ranges of motion
+6959.89 and to push through
+discomfort to some extent,
+6963.47 of course, we want people doing
+that in a healthy, safe way,
+6966.77 but that allows yoga practitioners
+6968.7 to build up the structure and function
+6972.39 of these brain areas that
+allow them to cope with pain
+6974.96 better than other individuals,
+6976.74 and to cope with other kinds
+of interoceptive challenges,
+6980.41 if you will, not just pain but cold,
+6983.236 not just pain but discomfort
+6985.3 of being in a particular
+position to do that.
+6988.0 And again, we wouldn't want
+people placing themselves
+6990.3 into a compromised position
+literally that would harm them,
+6993.93 especially given that earlier we heard
+6996.4 that Microstretching of
+the kind of non-painful
+6998.85 sort low-intensity sort is
+actually going to be more effective
+7001.24 for increasing end range of motion.
+7003.01 But this study really
+emphasizes the extent to which
+7006.72 practitioners of yoga
+don't just learn movements,
+7010.01 they learn how to control
+their nervous system in ways
+7013.02 that really reshapes their
+relationship to pain,
+7017.01 to flexibility, and to the kinds of things
+7019.94 that the neuromuscular
+system was designed to do.
+7023.23 And as a final point,
+7024.96 there's a beautiful graph in this paper,
+7027.39 beautiful I think because it explores
+7028.98 some of the more subjective
+dimensions of yoga
+7033.16 and insula function,
+7035.07 which is a here I'll read
+it out in the nerdy form
+7038.59 and then I'll explain what it means,
+7039.887 "This is a frequency histogram
+7041.6 of categories of mental
+strategies used by yogis
+7044.86 versus controls during the
+cold pain tolerance task."
+7047.77 What they're describing here and showing
+7050.19 is quantitatively how
+people are conceptualizing
+7055.47 cold pain in order to get through it.
+7057.87 And the different categories
+are, for instance,
+7060.43 distraction, right?
+7061.69 Some people just choose to
+distract themselves from pain
+7064.55 or to attempt to, other
+people will try to ignore it,
+7066.91 it's a lot like distraction,
+7068.22 but nonetheless, to engage
+in a negative emotion,
+7073.14 sort of like, "[growls]
+like I'm going to dig,
+7074.72 I'm going to be in resistance to this."
+7077.94 Control subjects tended
+to use those approaches,
+7080.78 whereas practitioners
+of yoga tended to use
+7084.06 other sorts of subjective
+approaches like positive imagery
+7087.58 to some extent,
+7089.15 the ability to relax
+despite the extreme cold,
+7093.54 the ability to quote-unquote accept
+7095.98 like, "This is just happening,"
+despite the extreme cold,
+7098.83 to observe, to third person themselves.
+7101.29 And the greatest effect,
+of course, was to breathe,
+7104.99 to focus on their respiration
+7107.15 as a way to deal with this
+challenge, this cold challenge.
+7111.42 Now, all of that are subjective data,
+7114.3 but I want to remind you that
+the practitioners of yoga
+7118.51 are not just using entirely
+different mental strategies,
+7121.37 but they are far more
+effective at dealing with pain,
+7125.0 their pain tolerance is much higher
+7127.89 as evidenced by the other data
+7129.43 in the previous graphs in the paper.
+7131.39 So, while this podcast episode
+7133.61 is most certainly not about yoga per se,
+7136.0 it's about flexibility and stretching,
+7138.63 flexibility and stretching are elements
+7140.28 within yogic practices.
+7142.39 And, of course, yogic practices
+7143.72 involve breathing and mental work,
+7146.19 and a lot of other things
+balance, et cetera.
+7148.44 It's a vast landscape
+as as many of you know.
+7151.26 But I think that if ever
+there was a manuscript
+7154.44 that pointed to the utility
+of something like yoga
+7157.83 for sake of tapping into a
+particular set of brain circuits
+7161.98 and mechanisms that could wick out
+7164.24 into multiple dimensions of life,
+7166.52 so day-to-day life, stress,
+7169.48 challenges in dealing with all
+sorts of external stressors,
+7172.52 career-related,
+family-related, relationally,
+7175.99 et cetera, et cetera, excuse me,
+7178.43 but as well for increasing range of motion
+7181.87 for increasing flexibility.
+7183.37 So, if ever there was a practice
+that one could embark on
+7186.76 that would not only increase flexibility
+7188.737 and limb range of motion,
+7189.98 but would also allow one to cultivate
+7192.32 some improved mental functioning
+7194.33 as it relates to pain tolerance
+7195.83 and other features of stress management
+7198.19 that no doubt wick out
+into other areas of life,
+7201.18 appears that yoga is a
+quite useful practice.
+7204.36 And so, for those of
+you that are interested
+7206.1 in increasing limb range of motion
+7207.61 and you're already a
+practitioner of yoga, great.
+7209.8 I can imagine that someday
+there'll be another study
+7212.5 like this one and you'll be in that 10
+7215.01 or 15-16 year practitioner graph.
+7218.56 You'll be that dot way out
+on the far end of the graph
+7221.82 that shows that your
+insula is that much bigger
+7223.76 than the rest of ours,
+7225.05 and therefore your internal
+awareness, and pain thresholds,
+7228.01 and stress management
+will be that much better,
+7230.17 but of course, yoga isn't the only way
+7232.92 to increase limb range of
+motion and flexibility.
+7236.95 Up until now, we've described
+7238.07 a number of different ways to do that
+7239.69 and we've arrived at some
+general themes and protocols.
+7242.2 Again, those themes and
+protocols will be distilled
+7245.01 into some specific and precise list
+7247.94 in our Neural Network Newsletter,
+7249.41 but we can revisit a couple of them now
+7251.39 just in summary and synthesis.
+7254.24 Static stretching appears
+to be at least among
+7256.74 the more useful forms of stretching.
+7258.44 So, low or zero momentum stretching
+7261.24 typically at end range of motion.
+7263.83 I love this concept of Microstretching,
+7267.11 even though it's just a couple of studies
+7268.87 that have addressed whether
+or not high-intensity
+7271.15 or low-intensity static stretch
+holds are more beneficial.
+7274.3 The idea and indeed the
+data that low-intensity,
+7278.19 so 30-40% of what would
+one would consider painful
+7283.41 appears to be more effective
+than 80% of that threshold.
+7287.4 I find that incredibly interesting.
+7288.78 And then, there's this idea of frequency,
+7290.98 it really does appear that getting
+7293.72 at least five minutes per
+week total of stretching
+7296.97 for a given muscle group
+is important for creating
+7299.45 meaningful, lasting changes
+in limb range of motion.
+7302.77 And that is best achieved
+by five day a week,
+7306.59 or six day a week, or even
+seven day a week protocols,
+7309.32 but those can be very short protocols
+7311.41 limited to, say, three sets of 30,
+7314.27 maybe in 45 or 60 seconds of static hold.
+7317.54 Although, 30 seconds seems
+to be a key threshold there
+7321.53 that can get you maximum benefit.
+7323.75 There is no need to do
+full 60-second holds
+7325.76 unless you're doing fewer
+total sessions per week.
+7328.43 And, of course, to always warm-up
+7330.58 or to arrive at the
+stretching session warm.
+7333.02 And then, of course, there are
+the other forms of stretching
+7335.28 that we touched upon a
+bit, things like PNF.
+7338.3 And we talked about why PNF works,
+7340.32 things like the spindle and
+the Golgi tendon organ reflexes
+7343.67 that are built into all of us
+7345.0 that we arrive in this world with.
+7346.75 And of course, the other
+forms of stretching
+7348.41 that are known to be
+effective and important,
+7350.97 such as dynamic and ballistic stretching.
+7354.18 Again, stretching protocols that involve
+7356.46 a lot of momentum in order
+to improve range of motion
+7359.97 for performance of
+particular types of work
+7362.88 that one is about to embark on.
+7364.75 Typically, that would be physical work,
+7366.61 but a whole interesting
+and unexplored landscape
+7370.4 is the extent to which
+changing limb range of motion
+7373.77 and different types of body movement
+7375.21 actually shape our cognitive abilities,
+7377.63 and that will be the
+topic of a future episode
+7379.94 of this podcast.
+7381.03 If you're learning from
+and/or enjoying this podcast,
+7383.42 please subscribe to our YouTube channel.
+7385.19 That's a terrific zero-cost
+way to support us.
+7387.45 In addition, please
+subscribe to our podcast
+7389.72 on Spotify and Apple.
+7391.42 And at both Spotify and Apple,
+7392.89 you can leave us up to a five star review.
+7395.43 If you have feedback such as comments
+7397.75 about the content of
+this or other episodes,
+7399.97 or you have suggestions about topics
+7401.53 that you'd like us to explore
+on the Huberman Lab Podcast
+7403.79 or guests that you would
+like me to interview,
+7405.73 please put those in the
+comment section on YouTube.
+7408.3 That's the best place for us to find them,
+7410.32 we do read them all,
+7411.7 and we do take them into consideration
+7413.82 when building out future programming.
+7415.94 Please also check out the sponsors
+7417.28 mentioned at the beginning
+of today's episode,
+7419.14 that's the best way to
+support this podcast.
+7421.84 Not so much on today's episode,
+7423.31 but in many episodes of
+the Huberman Lab Podcast
+7425.9 we talk about supplements.
+7427.27 While supplements aren't
+necessary for everybody,
+7429.49 many people deriv
+tremendous benefit from them
+7431.71 for things like improving
+the transition time
+7434.23 and depth of sleep,
+7435.62 or for improving focus, or
+for a variety of other things
+7438.86 including things like anxiety management.
+7440.86 For that reason, the Huberman Lab Podcast
+7442.47 has decided to partner
+with Momentous Supplements.
+7445.53 First of all, Momentous Supplements
+7446.74 are of the very highest quality,
+7448.68 they're used at various
+professional sports teams
+7450.97 and they have contracts
+7452.3 with various government organizations
+7453.87 exploring the role of
+particular supplements
+7455.69 in human performance.
+7457.4 Second of all, they ship internationally
+7459.42 because we know a number of you
+7460.66 are outside the country
+of the United States,
+7463.24 we hope that will be useful to you.
+7465.26 As well, we wanted to
+have a single location
+7468.1 where people could go to access
+7470.44 the most often discussed supplements
+7473.08 here on the Huberman Lab Podcast.
+7474.9 So, while the full catalog
+of those supplements
+7477.03 isn't quite available yet,
+many of them are available,
+7480.69 you can find them by going to
+livemomentous.com/huberman.
+7484.24 Again, that's livemomentous.com/huberman
+7486.8 to find supplements for sleep,
+for recovery from exercise,
+7489.79 for focus, and many other features
+7491.59 that impact mental health,
+physical health, and performance.
+7494.64 If you're not already
+following Huberman Lab
+7496.34 on Instagram and Twitter, please do so.
+7499.17 At both places, I describe
+science and science-related tools
+7502.99 that relate to some of the themes
+7504.53 covered here on the Huberman Lab Podcast.
+7506.13 But oftentimes I'll do posts
+that include information
+7508.72 and tools not detailed here
+on the Huberman Lab Podcast.
+7512.06 We also have a newsletter,
+7513.16 I've mentioned this a few
+times during today's episode,
+7515.55 it is the Neural Network Newsletter.
+7517.74 You can access that newsletter
+completely zero of cost
+7520.99 by going to hubermanlab.com,
+7522.51 go to the menu and sign
+up for our newsletter.
+7524.31 You supply your email,
+7525.77 we do not share your
+email with anybody else,
+7527.8 we have a very clear privacy
+policy that you can find there.
+7530.87 If you want to see examples
+of previous newsletters,
+7533.75 you can find them there
+without having to sign up.
+7536.31 Again, that Neural Network Newsletter
+7537.84 comes out about once a month
+7539.43 and we use it to distill
+out essential protocols
+7542.79 from the podcast,
+7543.67 to synthesize information
+from the podcast.
+7545.99 We do believe many
+people find them useful,
+7547.76 so sign up for the
+Neural Network Newsletter
+7549.79 if you're interested.
+7550.82 So, thank you once again
+for joining me today
+7552.88 for a discussion about the neural,
+7555.2 and neuromuscular, and connective tissue,
+7557.77 and skeletal aspects of
+flexibility and stretching.
+7561.64 And as always, thank you for
+your interest in science.
+7564.509 [upbeat music]

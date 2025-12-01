@@ -1,0 +1,6055 @@
+0.0 ANDREW HUBERMAN: Welcome to
+the Huberman Lab podcast, where
+2.458 we discuss science and science
+based tools for everyday life.
+6.421 [MUSIC PLAYING]
+9.13 I'm Andrew Huberman,
+and I'm a professor
+10.9 of neurobiology
+and ophthalmology
+13.06 at Stanford School of Medicine.
+14.77 Today we are
+discussing creativity.
+17.23 Creativity is a topic that to
+many people is very abstract.
+21.31 That is, we know when something
+seems creative, some of us
+25.33 know people who are creative
+or perhaps are creative,
+28.57 and yet the ability to be
+creative resides in everybody.
+32.619 And we know that because
+the neural circuits
+34.72 that underlie creativity
+have been somewhat defined
+38.2 and the steps and processes
+within the brain and body that
+41.08 lead to creativity
+are well known.
+43.57 That said, most people don't
+know how to access creativity.
+47.45 And if they do know how
+to access creativity,
+49.66 they are only able
+to access creativity
+51.61 in a fairly limited
+number of domains of life.
+54.04 For instance, in the visual arts
+or in music or within science
+58.75 or engineering or any number
+of different domains ranging
+62.08 from the kitchen to sport
+to childhood interactions.
+67.21 That is, childhood games.
+69.14 In other words, some
+adults are able to access
+71.35 their creative spirit when
+engaging in childlike play
+74.14 with children or for
+that matter with adults.
+77.23 But as it turns out,
+all of creativity
+79.99 stems from just a small
+subset of neural structures
+82.6 in the brain that
+need to be activated
+84.85 in a particular
+sequence or order.
+86.68 Today we will talk about what
+those neural structures are,
+89.17 what particular order they need
+to be activated in in order
+92.38 to come up with, for instance,
+new ideas that are creative,
+95.65 and then how to implement
+those creative strategies.
+99.13 We will also talk
+about different ways
+100.93 to access creativity
+that include--
+103.24 narrative and storytelling as
+well as applying new rule sets
+107.26 or even entirely new worldviews.
+109.12 And we will do this in
+a structured way that
+111.55 will allow anyone, whether
+or not you consider yourself
+114.07 creative or not to
+be able to apply
+116.74 these tools in different domains
+of life-- work, family, play,
+120.55 and on and on.
+121.66 By the end of
+today's episode, you
+123.22 will have a better understanding
+of what creativity is
+126.73 and how to access it.
+128.479 And if you like to bring others
+into your creative endeavors
+132.61 which as you'll soon
+learn can massively
+135.43 expand the extent to
+which you yourself
+137.77 can express your
+creative talents.
+139.69 As is the case with all episodes
+of the Huberman Lab podcast,
+142.93 today we will discuss
+both scientific mechanisms
+145.63 and nomenclature.
+146.56 And I promise to make
+all of that clear to you
+148.483 even if you don't have
+a background in biology
+150.4 or psychology.
+151.63 But we will also, of
+course, discuss tools.
+153.97 That is, specific steps
+that you can take in order
+156.31 to be more creative.
+157.42 One particular tool that I'm
+excited to share with you
+159.91 involves a meditation, but this
+is a very unusual meditation.
+163.81 This is not sitting with eyes
+closed focusing on your breath
+166.66 or focusing on a chime
+or some other feature
+169.6 in your sensory environment
+or even in your body.
+171.97 Later we will talk about
+open monitoring meditations.
+175.75 Open monitoring meditations are
+very distinct from other forms
+179.08 of meditation and
+involve learning
+181.51 how to sit back
+and simply observe
+184.09 your thoughts
+while intentionally
+186.7 varying where your thoughts go.
+188.69 So for those of you
+that find it a struggle
+191.17 to focus or to refocus in more
+traditional forms of meditation
+194.98 or maybe even in your work
+and even for those of you that
+197.92 may suffer from things
+like ADHD or similar,
+201.67 open monitoring meditation can
+be an extremely valuable tool
+205.21 for accessing your
+creative abilities.
+206.973 Because of the
+ways that it allows
+208.39 you to tap into
+specific circuits
+210.4 within the frontal
+networks of your brain,
+212.18 so these are networks
+of the brain that
+213.805 include the areas just
+behind your forehead
+216.4 and that allow you to evaluate
+new and novel rule sets
+220.51 in a very unconstrained way.
+221.892 Because if you think
+about it, creativity
+223.6 is really the ability to
+take existing elements
+226.12 from the physical world or from
+the thought world, if you will,
+230.05 or from any domain of life,
+mood, thinking, and information
+234.85 and to reorder those into
+novel combinations that
+238.0 are useful for something.
+239.71 And as we'll also
+find out later,
+241.27 creativity has this
+incredible aspect to it,
+243.8 which is that when we see or
+create or experience something
+248.38 that is truly creative,
+it reveals to us something
+251.8 fundamental about the way
+that the natural world
+254.44 and indeed the way
+that our brains work.
+256.959 If that sounds very mysterious
+and abstract to you now,
+259.3 I promise that by the
+end of today's episode,
+261.529 you will not only
+understand what that means
+263.47 but you will also understand
+how to use open monitoring
+266.32 meditations as well as other
+forms of tools in order
+269.86 to access your creative ability.
+271.45 Before we begin, I'd
+like to emphasize
+273.162 that this podcast is separate
+from my teaching and research
+275.62 roles at Stanford.
+276.64 It is however part of
+my desire and effort
+278.74 to bring zero cost to
+consumer information
+280.69 about science and
+science related tools
+282.64 to the general public.
+283.84 In keeping with
+that theme, I'd like
+285.34 to thank the sponsors
+of today's podcast.
+287.75 Our first sponsor is ROKA.
+289.39 ROKA makes eyeglasses
+and sunglasses
+291.55 that are the absolute
+highest quality.
+293.463 The company was founded by
+two All-American swimmers
+295.63 from Stanford and everything
+about ROKA eyeglasses
+298.27 and sunglasses were designed
+with performance in mind.
+301.117 I've spent a lifetime
+working on the biology
+302.95 of the visual system.
+303.77 And I can tell you that
+your visual system has
+305.687 to contend with an enormous
+number of challenges for you
+308.087 to be able to see clearly.
+309.17 For instance, when you move from
+a shady area to a sunny area.
+312.23 There are all
+adaptations that have
+313.82 to occur in your eye and brain.
+315.44 ROKA understands
+these adaptations.
+317.96 And the other ones
+required to see clearly.
+319.87 And those are built into the
+engineering of their sunglasses
+322.37 and eyeglasses.
+323.24 One of the things that makes
+ROKA eyeglasses in sunglasses
+325.79 so terrific, is that they
+are extremely lightweight.
+328.167 In fact, most of the
+time I don't even
+329.75 realize that they're on my face.
+331.083 I wear sunglasses when
+I drive and whenever
+333.02 I need to throughout the day
+and I wear readers at night.
+335.75 I do not wear sunglasses when I
+get my morning sunlight, which
+339.29 I do every single morning
+as you should be doing also
+342.5 as is covered many
+times on this podcast.
+344.6 ROKA eyeglasses and sunglasses
+are also unique in that
+347.27 unlike a lot of so-called
+performance eyeglasses
+349.34 out there.
+350.12 They don't make you
+look like a cyborg.
+351.77 They have some of
+the styles that
+353.06 make you look like a cyborg,
+if that's your thing.
+355.143 But if you want to wear
+glasses or sunglasses out
+358.28 to dinner or around
+for social reasons,
+360.98 they have many different
+aesthetic styles
+362.75 to choose from.
+363.5 If you'd like to try ROKA
+eyeglasses or sunglasses,
+365.75 go to roka.com, that's R-O-K-A
+.com and enter the code
+369.05 Huberman to save
+20% off your order.
+371.33 Again, that's ROKA, roka.com
+and enter the code Huberman
+375.11 at checkout.
+375.71 Today's episode is also
+brought to us by Thesis.
+378.2 Thesis makes custom nootropics.
+380.24 And as you may have
+heard me say before,
+381.95 I am not a fan of
+the word nootropics
+383.9 because it means smart drugs.
+385.28 And frankly, there
+is no neural circuit
+387.38 in the brain for being
+quote unquote "smart."
+390.08 There are neural
+circuits for focus.
+391.64 There are neural circuits
+for task switching.
+393.68 There are neural circuits
+for today's topic,
+396.36 which is creativity.
+397.97 Nootropics therefore
+is not a great word
+400.7 to describe any
+supplement or drug that
+403.22 can enhance brain function
+because it lacks specificity.
+406.55 Thesis understands
+this and therefore has
+408.68 designed custom nootropics
+that are tailored
+410.99 to your specific needs and that
+allow you to enter the brain
+414.29 and bodily states that are
+optimal for things like focus,
+416.99 energy, creativity, and so on.
+419.29 If you'd like to try your own
+personalized nootropic starter
+421.79 kit, go online to take
+thesis.com/Huberman.
+424.79 Take their brief
+three minute quiz.
+426.29 And Thesis will send you
+four different formulas
+428.29 to try in your first month.
+429.44 Again, that's take
+thesis.com/huberman and use
+432.44 the code Huberman at checkout
+for 10% off your first box.
+435.68 Today's episode is also
+brought to us by LMNT.
+438.085 LMNT is an
+electrolyte drink that
+439.46 contains everything you need
+that is sodium, magnesium,
+443.04 and potassium in
+the precise ratios
+444.92 that you need without sugar.
+447.02 As I talked about many
+times before on this podcast
+449.15 and elsewhere, every
+cell in your body
+451.64 requires hydration
+and electrolytes
+454.04 in order to function properly.
+455.45 And a key example of this are
+the neurons, the nerve cells
+457.943 of your brain that allow
+you to think clearly,
+459.86 to exercise hard, et cetera.
+462.2 Neurons require sodium
+in order to fire
+464.455 what are called
+action potentials
+465.83 or electrical signaling
+between neurons.
+467.93 And they require
+potassium and magnesium.
+469.85 And those have to be present
+in the correct ratios in order
+472.73 for your brain and body
+to function optimally.
+474.86 LMNT is formulated
+to help anyone
+476.66 with their electrolyte needs.
+477.92 And is perfectly suited
+to anyone following
+480.56 a ketogenic, low carbohydrate,
+or Paleolithic diet,
+483.41 or a basic omnivore diet which
+is the one that I follow.
+486.68 If you'd like to try LMNT,
+you can go to drink element
+489.11 that's lmnt.com/huberman to
+claim a free element sample
+493.1 pack with your purchase.
+494.24 And right now LMNT has
+two special flavors
+496.16 for the holidays--
+chocolate caramel and mint
+498.53 chocolate, which I should
+mention taste especially good
+501.41 if you actually heat it up.
+503.01 So if you treat it
+like a tea, it works.
+505.82 Or if you drink it
+cold it's delicious.
+507.59 All the flavors of
+LMNT I find delicious.
+510.0 Again, you can go
+to drink element,
+511.76 that's lmnt.com/Huberman.
+514.61 The Huberman Lab
+podcast is now partnered
+516.409 with Momentous supplements.
+517.58 To find the supplements we
+discuss on the Huberman Lab
+519.83 podcast, you can go to
+livemomentous spelled
+522.049 O-U-S, livemomentous/huberman.
+525.01 And I should just
+mention that the Library
+526.76 of those supplements is
+constantly expanding.
+528.89 Again, that's
+livemomentous.com/huberman.
+531.95 Let's talk about creativity.
+533.66 Now on the face of it, the word
+creativity and creative acts
+537.32 might seem somewhat
+abstract to us.
+539.27 That is, we know
+when we see something
+541.67 that we consider creative and
+we know when we see something
+545.3 that is not creative.
+546.74 Things that aren't
+creative are things
+548.33 that we see every day, a car
+with four tires, for instance,
+551.66 a bicycle with two
+tires, not creative.
+555.23 However, we also see things that
+are novel that are different
+559.013 and that we don't really
+think of as creative.
+560.93 In fact, they can be
+downright trivial.
+563.12 For instance, if I were
+to take a fish tank
+565.61 and put wings on it,
+that's a novel combination
+569.69 of things, which is
+one of the key criteria
+572.36 for an act or an object
+or a piece of music
+576.62 that is creative.
+577.76 And yet, neither of
+us I believe would
+580.52 find it very creative
+or very interesting
+582.74 that a fish tank
+has wings on it.
+584.12 Why or why not I should say?
+586.44 Well, it turns out
+that for something
+588.47 to be creative it actually
+has to reveal to us something
+591.08 fundamental about the
+world or about how we work.
+594.81 And I must say that oftentimes
+the most creative and the most
+598.34 interesting and the most
+beloved creative acts
+601.52 reveal to us something
+fundamental about the world
+603.95 or the way that we work in a
+way that delights and thrills
+606.83 and surprise prizes us but
+that we aren't even aware what
+609.95 that fundamental rule is.
+611.208 I'll return to this
+in a few minutes.
+612.75 But for the time being,
+let's just build up
+616.01 from first principles what
+constitutes something creative
+618.71 and what does not constitute
+something creative.
+622.154 Creativity is a way of
+interacting with the world
+624.98 or combining or recombining
+things in the world
+627.53 in a way that appears novel
+to us and to other people.
+631.64 My example of a fish tank
+with wings on it is novel.
+635.57 But frankly, it's
+not very creative
+637.37 and it's not very interesting.
+639.02 It doesn't reveal
+anything new to us.
+641.72 Sure there are flying fish
+although they just jump far,
+644.81 they don't really fly.
+646.02 And as a consequence,
+putting wings on a fish tank
+648.92 could be used as a metaphor for
+the fact that fish don't fly.
+651.643 But you already
+knew and I already
+653.06 knew that fish don't fly.
+654.44 And so there's
+nothing novel revealed
+656.18 to us about the world except
+something we already knew.
+659.27 Now, creative acts on the
+other hand, of course,
+662.15 involve novel combinations
+of existing rule sets that
+666.02 could be different combinations
+of music or colors or shapes
+669.08 or technology, et cetera.
+672.41 But it does so in a way
+that tells us something
+675.35 fundamental and different.
+677.33 Let me give an example of a few
+truly creative artistic acts.
+681.53 And I'll do that in the domain
+of visual arts but, of course,
+685.393 there are many
+examples that could
+686.81 come from music or from other
+domains sport, et cetera.
+690.23 The examples I'll give rather
+than a fish tank with wings
+693.59 are for instance, the
+comparison between a drawing
+698.39 or a very accurate painting
+of a face, an Escher
+704.06 painting, and a Banksy.
+706.79 If you don't know what
+those are I'll explain.
+709.31 First of all, let's talk about
+an accurate representation
+712.43 of a face.
+713.21 If I were to sit
+you down or if you
+714.92 were to send me a
+photograph and then
+716.9 I were to paint
+or draw a picture
+719.03 of your face in a way that
+faithfully represented,
+722.21 the position and shape of your
+nose relative to the eyes,
+725.18 maybe a curl of the
+lip, maybe a few hairs
+729.41 of your eyebrows in a
+particular way, that
+731.66 really captured you accurately.
+734.06 I think most people would
+say, OK, it's accurate.
+736.97 It looks a lot like the
+photograph or the person.
+739.04 And on the one hand why
+that could be interesting
+742.31 it's not particularly
+creative because it faithfully
+744.95 represents what's already there.
+747.77 In contrast, a painting or
+a picture like an Escher,
+751.28 and for those of you that aren't
+familiar with Escher's involves
+754.31 a lot of repeating patterns.
+755.58 So for instance, a bird image
+that's repeated over and over
+758.54 and over and over
+again, sometimes
+760.13 in partially overlapping manner.
+762.47 And perhaps a building
+that's repeated over and over
+765.47 and over again or stones
+repeated over and over again
+767.78 or staircases over
+and over again.
+770.27 Escher's capture elements
+from the outside world
+774.62 and faithfully represent them,
+but faithfully represent them
+777.62 over and over and over again,
+which is not typically seen
+780.23 in the natural world.
+781.14 In fact, most of what
+our visual system does
+783.83 is to eliminate repetitive
+patterns when we see them.
+787.02 In fact, most of what
+our visual system does
+788.96 is try and make us blind
+to repetitive patterns
+791.45 in our visual
+environment and only
+793.43 allow us to see things
+that are unusual
+795.65 in that visual environment.
+797.27 Now, this is especially
+true at visual scales.
+801.092 What I mean by that is if
+you were to go to the beach
+803.3 and lie on your towel and
+look down at the sand,
+805.55 you would start to notice
+that the sand is a very, very
+808.34 repetitive pattern.
+809.18 So at very small scales and in
+particular at molecular scales
+812.15 when you get down to the
+level of atoms and so forth,
+814.97 everything is repetitive.
+816.075 It's the same thing,
+is just reproduced
+817.7 in different combinations
+over and over again.
+819.32 But as we move
+through our world,
+820.61 typically we're not looking
+down at pebbles on the ground
+822.985 or little grains of sand
+or the pattern of leaves
+826.73 in a particular clover or
+something of that sort.
+828.973 Most of the time
+we're looking out
+830.39 on landscapes or at
+people's faces, et cetera.
+832.94 And very seldom do we see
+highly repetitive patterns
+837.41 at that scale.
+838.65 So what Escher's do
+is they essentially
+840.8 reveal to us a
+fundamental feature
+842.81 about the way that our
+visual system works,
+844.98 which is that repetitive
+patterns tend to become noise
+849.17 in our visual system.
+850.1 That is, our brain encodes
+repetition as things
+853.16 not to be interested in.
+854.69 And the things that stand
+out against that repetition
+857.18 as the things to be interested
+in so-called signal to noise.
+860.45 What Escher's do is they invert
+the relationship between signal
+863.66 and noise and they make the
+repetitive patterns the signal
+866.72 and the unusual
+patterns the noise.
+869.54 In fact, in every Escher
+there are unusual patterns
+871.76 and those completely
+disappear to us.
+873.56 Now, when you look at an
+Escher, what you probably see
+875.81 and what I see are just a bunch
+of birds repeated over and over
+878.435 again or buildings or staircases
+repeated over and over again.
+881.17 And you may like
+Escher's and you may not,
+882.92 that's not the point.
+883.88 Today we're not
+talking about taste
+885.5 in particular creative acts.
+887.12 What we're trying
+to identify here
+888.8 are the rules and mechanisms
+of what constitutes something
+891.65 creative and why it's creative.
+893.42 And the key element here is that
+what's revealed by an Escher
+896.87 through these
+repetition patterns
+899.36 is an inversion of the way
+that our brain normally
+901.55 encodes visual images.
+902.96 And therefore, the
+rule that repetition
+906.11 is suppressed in
+our visual system
+908.78 and that unusual visual features
+are revealed to us, that rule
+914.48 is what pops out to us
+when we look at an Escher.
+916.853 Now, when I say pops out I don't
+mean that you look at an Escher
+919.52 and go oh, normally I
+don't see repetition,
+921.59 normally I see the unusual
+stuff, et cetera, et cetera.
+924.2 But there seems to be something
+about truly creative acts
+927.26 that capture the attention.
+929.03 And sometimes the delight
+of many, many people
+931.67 is that they reveal a
+fundamental rule about how
+934.34 the brain or the world works.
+936.3 Let me give you a
+different example
+938.46 also from the visual art world.
+940.29 Let me give you the
+example of Banksy.
+942.11 Banksy is an artist that many of
+you are probably familiar with
+945.5 and probably some of you
+are not familiar with.
+947.69 So for those of you that are
+not familiar with Banksy,
+949.94 Banksy is an artist
+that most often
+952.49 does two dimensional artwork.
+953.9 So these would be stencils
+or paintings or drawings
+956.75 like many artists and does
+them in an urban landscape,
+959.93 an actual city or
+suburban landscape.
+963.41 That is, he draws or stencils or
+graffiti in a very cryptic way,
+968.04 I should say.
+968.84 No one really knows who Banksy
+is or when he does his art.
+971.54 He just reveals his
+art by putting it up.
+973.25 But he does this in
+the context of cities
+975.8 and on three
+dimensional objects.
+977.64 So a good example would be he
+will stencil next to a phone
+981.62 booth a police officer.
+983.39 Or he will graffiti next
+to an actual fire hydrant
+987.23 a dog lifting its leg to
+urinate on that fire hydrant.
+990.56 Now, what's interesting about
+Banksy's is not simply the fact
+994.67 that he puts two dimensional art
+onto three dimensional surfaces
+997.97 in the urban and
+suburban landscape
+1000.03 because if you think
+about it, that's been
+1001.78 done many, many times before.
+1003.07 All graffiti is that.
+1004.45 All City Art and murals is that.
+1008.05 So what's unique about Banksy?
+1009.88 What's unique about
+Banksy or I should
+1012.76 say Banksy's, the actual
+art, is that he combines
+1016.66 two dimensional art with a three
+dimensional landscape in a way
+1021.34 that the concept
+pops out at you.
+1024.292 What do I mean by that?
+1025.25 Well, in the case of
+the dog lifting its leg
+1027.083 to urinate on the fire hydrant,
+that's a scene that most people
+1029.77 and in fact, most children are
+familiar with from cartoons
+1032.2 or from our basic understanding
+of the stereotype of dogs
+1034.575 and I must tell you having
+owned a male dog, a bulldog
+1037.66 Costello for many years.
+1040.089 Hydrants were a particular
+target for Costello.
+1042.595 Of course, everything
+was a particular target
+1044.47 for Costello urinating outdoors.
+1046.569 Nonetheless, he liked
+to pee on fire hydrants.
+1049.33 That itself is not interesting.
+1051.1 Seeing a photograph of
+a dog raising its leg
+1053.65 to pee on a fire hydrant
+is not interesting.
+1057.04 Seeing a painting of
+that isn't interesting.
+1059.8 Seeing an actual dog
+urinating on a fire hydrant
+1062.2 isn't interesting.
+1063.16 In fact, seeing a painting in
+two dimensions of a dog raising
+1067.87 its leg to, of course,
+it can't actually
+1070.51 urinate but give you the
+impression that it would
+1073.33 urinate on that fire
+hydrant isn't particularly
+1075.85 interesting except for the fact
+that it reveals to us something
+1078.58 fundamental, which
+is that we tend
+1080.32 to pair visual relationships
+between different objects
+1084.1 that share a common
+theme and then
+1086.62 the theme tends to pop out us.
+1087.975 So, for instance,
+the dog raising
+1089.35 its leg next to a
+fire hydrant even
+1090.928 if the dog is drawn
+in two dimensions
+1092.47 and the fire hydrant
+is in three dimensions
+1094.39 allows the concept of
+dog and fire hydrant
+1097.12 to emerge or pop out at us,
+which reveals to us something
+1100.21 fundamental about
+how our brain works,
+1102.08 which is that our brain encodes
+concepts and entire stories
+1105.91 as symbols of interaction
+between different objects.
+1109.583 Let me give you a
+different example just
+1111.25 to make sure that
+this hits home.
+1113.86 One of Banksy's more
+famous paintings
+1116.05 is a rather politically
+charged one,
+1118.06 which is of a girl holding
+a bouquet of balloons.
+1122.65 And this two dimensional drawing
+was put on to the West wall
+1127.21 dividing territories
+in the Middle East.
+1130.03 A very controversial issue.
+1131.752 The controversies
+of that issue are
+1133.21 not what I want to get into.
+1134.2 But I don't think
+anyone would doubt
+1135.76 that is a controversial issue.
+1138.1 The two dimensional
+drawing of the girl
+1139.9 with the balloons
+on the actual wall
+1143.05 turns out to be quite
+interesting as an art piece
+1146.92 because what it reveals to
+us is the entire controversy
+1150.4 around the presence of
+that wall and the desire
+1152.86 for certain people to breach
+that wall and the desire
+1155.23 for other people to insist
+that that wall not be breached
+1157.967 for whatever reason.
+1158.8 Again, this is not about
+the particular controversy,
+1161.08 the point is that a two
+dimensional image combined
+1164.08 with a three
+dimensional structure
+1165.88 allows the purpose of that
+three dimensional structure.
+1169.96 And the controversy around that
+three dimensional structure
+1172.75 to pop out at us in a way that
+if, for instance, we had just
+1176.47 seen a photograph of
+somebody next to that wall
+1179.65 or with a ladder
+or if we just seen
+1181.6 a drawing of a girl holding
+a bouquet of balloons
+1185.86 on a drawing of that
+wall to not emerge.
+1188.47 In other words, it captures
+two fundamental features
+1190.715 of the visual system.
+1191.59 Our ability to encode
+things in two dimensions
+1193.81 and understand symbols.
+1195.16 And our ability to understand
+things in three dimensions.
+1197.855 And in particular, the wall
+as a three dimensional object
+1200.23 is really interesting
+because it's
+1202.45 an actual physical barrier.
+1204.11 So showing it as the
+actual physical barrier
+1206.23 that it is in real space,
+in three dimensions
+1209.17 turns out to allow the
+interaction between those two
+1212.3 things.
+1212.8 The concept, the controversy
+to pop out at us and make us
+1216.61 think about that particular
+controversy and perhaps
+1218.8 where we each individually
+stand on that controversy.
+1221.98 Now, there are many
+examples of what I just
+1224.26 gave in the visual domain.
+1226.12 For instance, Rothko's
+which are just
+1228.7 color on Canvas are
+particularly interesting source
+1232.3 of information about the way
+that the brain encodes color.
+1235.03 Later I'll fill in exactly
+what that information is.
+1237.7 You may like
+Rothko's, you may not.
+1239.233 But I'll tell you one thing.
+1240.4 When you look at
+a Rothko, you are
+1242.95 seeing colors in a
+very different way
+1245.11 than you would ever see
+colors in any other context.
+1247.87 The fact that they don't
+have a frame typically
+1250.36 and the fact that
+there's no white canvas
+1253.78 allows the colors
+that you see to be
+1255.85 novel hues of those
+colors that you will not
+1258.49 see in any other context.
+1260.29 And in doing so
+reveals to you what
+1263.62 your brain does in order to
+understand and extract color.
+1267.58 Now in the context of
+music, for instance,
+1269.8 you will sometimes hear a
+street musician play a song
+1273.28 maybe a Bob Dylan song or a Led
+Zeppelin song or a Pink Floyd
+1276.13 song pretty closely, pretty
+accurately to the way
+1278.987 that song is played.
+1279.82 But, of course,
+that's not creative.
+1280.87 That's just like the photograph
+or the accurate portrait
+1283.203 of somebody's face.
+1284.05 Or you may hear an
+acoustic version
+1286.0 of what's normally an electric
+guitar song or electrical song
+1289.51 or vise versa.
+1290.59 Somewhat creative,
+sometimes sounds
+1292.48 even better than the original
+but not particularly creative.
+1295.03 However, each and
+every one of us
+1297.31 has a particular taste in music.
+1298.93 Maybe it's classical, maybe
+it's rock, maybe it's punk,
+1301.222 maybe it's hip hop.
+1302.43 Within each of those
+genres, I think all of us
+1305.07 are familiar with hearing
+something for the first time
+1308.52 and maybe even every time.
+1310.11 And there's something
+about the combination
+1312.42 of the words and the
+music or sometimes
+1315.15 just the music or just the words
+that allows some feature of it
+1318.78 to pop out at us as
+particularly exciting.
+1322.17 And when we feel that
+excitement and we
+1323.91 feel that it's
+really novel, it's
+1325.47 different than what we've
+heard before, I assure you
+1327.78 what it's revealing
+to you is the way
+1330.12 that your auditory
+system and often
+1332.01 your auditory and
+your emotional system
+1334.11 encodes information
+that you hear.
+1336.96 And again, the rule
+that it's revealing
+1339.51 is not splayed out for you.
+1341.53 For instance, it's
+not told to you
+1343.02 oh, this is the way
+you normally hear
+1344.37 and now you're hearing
+things differently.
+1345.99 Sometimes it's the
+change in for instance
+1347.7 in the way that
+words are accented
+1349.2 or the way the sentences
+are constructed.
+1351.21 This often you'll hear
+in hip hop the way
+1352.95 that sentences are
+constructed can be divided up
+1355.74 not as normal declarative
+sentences the way
+1357.668 that they're typically written.
+1358.96 But the way that sentences
+are chopped up and fractured
+1361.86 reveals to us new meaning
+and in fact, enhanced
+1364.492 meaning about particular
+words that we wouldn't
+1366.45 see if it was written
+out as a paragraph
+1368.2 and then sung as a script that
+would be the same as the one
+1370.81 that we would read.
+1371.61 Again, the point is that what
+is exciting and novel to you is
+1375.66 just the way that you hear it.
+1376.95 But it's exciting
+and novel to you
+1378.6 because there are circuits
+within the brain that when
+1382.08 we hear or see or
+feel or experience
+1386.4 known elements in new ways
+that are truly creative,
+1390.78 the way that those neural
+circuits function is changed.
+1394.83 And when neural
+circuits change the way
+1397.11 that they function
+simply by way of what
+1399.57 comes into our eyes,
+our ears, and the way
+1401.55 that we experience
+our feelings, there
+1403.95 is the release of
+chemicals, including
+1405.66 the release of the
+chemical dopamine
+1407.19 and other
+neuromodulators as well
+1409.14 that make us feel both
+surprised, delighted.
+1412.18 And this is very key,
+excited in anticipation
+1415.89 that we might see it again.
+1417.605 So with the
+understanding in mind
+1418.98 that true creativity
+involves the l combination
+1421.8 of some elements could be notes
+of music, could be numbers,
+1426.45 could be visual elements
+like lines or colors,
+1429.21 could be physical
+movements, et cetera.
+1431.52 But novel combinations
+of some things
+1434.58 that reveal to us something
+fundamental about the way
+1438.03 that our brain and/or
+the world work.
+1440.47 And of course, as
+I mentioned before,
+1442.65 that fundamental
+thing may or may not
+1444.78 be consciously accessible to us.
+1447.06 We may not know what exactly
+it is that's novel to us.
+1450.9 But it feels novel
+and it feels true.
+1454.62 Well, with that
+understanding in mind,
+1456.36 we therefore can ask,
+what are the underlying
+1459.33 principles and
+neural circuits that
+1461.4 underlie the creative process.
+1463.41 And the word process here
+is especially important.
+1466.45 In fact, if there's
+one thing I'd really
+1468.3 like to impress on
+everybody is that when
+1470.91 thinking about biology,
+it's almost always better
+1474.09 to think about verbs
+as opposed to nouns.
+1476.49 So rather than
+think of creativity
+1478.32 as a noun or somebody being
+creative as an adjective,
+1481.83 think about the verb creativity.
+1483.57 That is what are
+the steps required
+1485.82 and therefore what are the
+cells and circuits and thoughts,
+1488.29 et cetera required in
+order to be creative.
+1492.15 This element of
+thinking about verbs
+1494.91 then allows us to say, OK, what
+are the various steps in coming
+1498.51 up with a creative idea,
+in testing a creative idea,
+1501.93 and then implementing
+that creative idea.
+1504.18 And in doing so, we find based
+on the scientific literature
+1507.66 that there are basically
+three major networks
+1509.97 within the brain, each of
+which is responsible for each
+1512.94 of the three steps to arrive
+at something truly creative.
+1516.33 The first neural circuit
+involved in creativity
+1518.37 is the so-called
+executive network.
+1520.77 This is a goofy name because
+the neural circuits that I'm
+1523.71 about to describe do a bunch
+of other things as well,
+1526.11 but they certainly control what
+are called executive functions.
+1529.62 Executive functions
+are functions
+1531.9 that you and I both have,
+which is our ability
+1535.35 to govern our thinking
+and our behavior
+1537.48 in very deliberate ways.
+1538.95 And that is largely
+accomplished through the use
+1542.01 of the neural circuitry
+that sits right
+1544.29 behind the forebrain, the
+so-called prefrontal cortex.
+1546.85 Now, the prefrontal
+cortex involves
+1549.18 many different subregions.
+1550.565 It has a bunch of
+different parts
+1551.94 just like any country has
+different states, et cetera
+1554.148 and provinces.
+1555.72 Executive function involves
+the prefrontal cortex
+1558.0 and some other
+neural structures.
+1560.14 But for the sake
+of this discussion,
+1562.65 executive function and
+the prefrontal cortex
+1565.59 are mainly responsible
+for suppressing action.
+1568.71 That is, for eliminating choices
+among the infinite number
+1573.3 of choices that exist.
+1574.96 For instance, of what colors
+to combine on a painting
+1577.26 or what lines to draw
+or what notes to play
+1579.66 or what movements
+to make in a sports
+1581.34 endeavor, what numbers to
+include in a mathematics
+1583.68 endeavor, or what words
+and letters and syllables
+1587.04 and sentences to include in
+writing a creative passage.
+1591.95 The second network is the
+so-called default mode network.
+1595.162 There's a lot of discussion
+nowadays about the default mode
+1597.62 network as it relates to
+consciousness and meditation,
+1600.38 et cetera.
+1600.92 The default mode network
+does many different things.
+1603.54 But in the context of our
+discussion about creativity,
+1605.93 the default mode
+network is really
+1608.3 the network that
+starts being engaged
+1610.16 when you close your eyes
+and start paying attention
+1613.1 to what's going on in terms
+of your thinking as opposed
+1616.13 to the sensory outside world.
+1618.38 And the default mode network is
+especially important for what's
+1622.1 called spontaneous imagination.
+1624.03 Now, spontaneous
+imagination is something
+1625.94 that you can try at any moment
+if you were to close your eyes
+1628.55 and to try and not pay attention
+to the sounds around you.
+1631.58 But even if you do, to just
+pay attention to whatever
+1636.16 thoughts or feelings emerge
+when your eyes are closed.
+1639.72 By closing your eyes
+and shutting yourself
+1641.47 off to the outside
+sensory world,
+1644.18 you start to engage much
+more of your brain machinery
+1647.29 dedicated towards
+what's going on
+1649.12 inside you, so-called
+interoception but also
+1651.46 what you're thinking
+about your thinking
+1653.38 whether or not your thoughts
+are complete or incomplete,
+1656.0 whether or not they are
+fragmentary in a way that goes
+1658.69 from one thought to another
+distantly in the past
+1661.27 or present to future, et cetera.
+1662.89 Depending on time of
+day, how well-rested
+1664.885 you are, how stressed you
+are, how happy you are,
+1667.57 the default mode
+network will take you
+1669.368 through a journey of
+different types of thoughts,
+1671.41 different types of
+feelings, et cetera.
+1673.035 The specific types of
+thoughts and feelings
+1675.07 are not as interesting
+as the fact
+1676.54 that when you close your
+eyes you're essentially
+1678.4 engaging this default mode
+network, which is essentially
+1680.8 the network associated with
+imagination and imagination
+1684.04 based on elements that exist
+only within your head, that
+1687.88 is within your brain and
+therefore must rely on memory
+1693.01 of previous experiences.
+1694.685 As soon as you close your
+eyes, you are shutting yourself
+1697.06 off from the sensory world.
+1698.54 So by definition
+you can no longer
+1700.39 be bringing in novel
+experiences in that moment.
+1703.12 You're relying on your library
+of existing experiences
+1706.3 and your memory of those in
+order to imagine new things.
+1709.45 And you're doing this in a
+very free associative way.
+1711.963 You're not trying to
+imagine new things.
+1713.63 It's just whatever
+geysers to the surface.
+1715.7 So we've got the
+executive network,
+1717.16 which is involved in suppressing
+particular thoughts or actions.
+1721.12 We have the default
+mode network, which
+1723.37 is involved in imagination.
+1724.78 And the default mode network
+I should mention also
+1727.06 involves a subregion of
+the prefrontal cortex.
+1728.99 It's called the medial
+prefrontal cortex
+1730.657 but other brain regions as well.
+1732.71 And then the final
+element within
+1734.35 the circuits
+underlying creativity
+1735.963 is the so-called
+salience network.
+1737.38 The salience network is a
+network of brain regions
+1741.19 that involves areas such as
+the Insula, which actually
+1743.98 has a complete map
+of your body surface
+1745.75 as well as some
+information mapped there
+1747.96 about what's going on
+in the outside world
+1749.71 and how those
+combined with what's
+1750.94 going on in your
+internal landscape, that
+1752.648 is within your body.
+1753.7 Also a brain region called
+the ACC or intengu--
+1756.49 excuse me, anterior cingulate
+cortex and the amygdala.
+1760.185 So a lot of
+information is mapped
+1761.56 within the salience
+network about how we feel
+1764.207 and how we feel in relation
+to things that are happening
+1766.54 around us and within us.
+1768.11 And the salience network
+has one main job,
+1770.752 which is to pay
+attention to what's
+1772.21 most interesting either
+in the world or inside us
+1777.07 in terms of feelings
+or experiences.
+1779.75 So we've got three networks--
+executive network, which
+1782.53 is there to suppress
+choices in terms of actions
+1786.13 we could take but
+decide not to, or things
+1788.44 we could think about but
+choose not to or try not to,
+1791.32 the default mode network,
+which is basically the catalog
+1794.83 or library of
+previous experiences
+1797.59 that we have available to us
+that would act as the paints
+1801.76 on a palette or the
+possible ingredients
+1805.24 that could go into a recipe.
+1806.59 All of that has to, again,
+arise from previous experience.
+1809.47 We can't close our
+eyes and suddenly
+1811.51 be able to access all the
+melodies that we've never
+1814.51 heard before or all our ideas
+and concepts and knowledge
+1818.41 about music if we don't
+have musical understanding
+1820.72 or visual understanding.
+1821.92 So we're really
+drawing up the library.
+1824.23 And that library tends to
+be rather disorganized.
+1826.66 It swirls around.
+1827.95 It's not very structured
+unless we're actively trying
+1830.86 to think about something.
+1832.15 And then we have the
+salience network,
+1834.31 which is the networks within
+the brain that decide or make
+1837.4 choices about what's most
+interesting to pay attention to
+1839.95 in a given moment.
+1841.52 So those three networks work
+together to create things.
+1845.29 And when I say create
+things, we again
+1847.48 have to really
+definition of creativity.
+1850.78 Creativity is a rearrangement
+of existing elements into novel
+1855.46 combinations that reveal
+something fundamental about how
+1858.37 we or the world works.
+1860.29 And, this is very important.
+1862.73 It tends to be things
+that are useful.
+1865.99 Now, they can merely be
+useful because they're
+1867.91 entertaining or
+thrilling, they can also
+1870.04 have a particular utility
+or use in the world
+1872.11 like a piece of technology
+that is actually
+1874.39 useful like an app
+or a smartphone
+1877.03 or a computer actually
+has utility or a vehicle.
+1880.06 There are creative acts that
+led to the formation of vehicles
+1883.84 and computers, et cetera.
+1885.28 But the point is that
+just merely coming up
+1888.46 with novel combinations of
+things like wings on a fish
+1890.95 tank, that's not
+creative or it's not
+1893.17 creative in any meaningful way
+because it's simply not useful.
+1897.71 It doesn't reveal anything
+fundamental new or purposeful.
+1901.39 It doesn't allow
+us to think about
+1903.19 or interact with the world
+or ourselves in novel ways.
+1905.77 Whereas things, people,
+actions, and ideas
+1910.69 that are truly creative
+really change the way
+1913.408 that we are able to
+access the world.
+1914.95 They act as portals to the
+world and to ourselves.
+1918.58 I'd like to take a quick
+break and acknowledge
+1920.83 one of our sponsors
+Athletic Greens.
+1922.99 Athletic Greenes now called AG1
+is a vitamin mineral probiotic
+1927.31 drink that covers all of your
+foundational nutritional needs.
+1930.64 I've been taking Athletic
+Greene since 2012.
+1933.192 So I'm delighted that they're
+sponsoring the podcast.
+1935.7 The reason I started taking
+Athletic Greens and the reason
+1938.117 I still take Athletic Greens,
+once or usually twice a day
+1941.19 is that it gets to me
+the probiotics that I
+1943.53 need for gut health, our
+gut is very important.
+1946.08 It's populated by
+gut microbiota that
+1948.56 communicate with the brain, the
+immune system, and basically
+1951.06 all the biological
+systems of our body
+1952.8 to strongly impact our
+immediate and long-term health.
+1956.34 And those probiotics
+and Athletic Greens
+1958.26 are optimal and vital
+for microbiome health.
+1962.043 In addition, Athletic
+Greens contains a number
+1963.96 of adaptogens,
+vitamins, and minerals
+1965.58 that make sure that all of my
+foundational nutritional needs
+1968.22 are met.
+1968.85 And it tastes great.
+1970.818 If you'd like to
+try Athletic Greens,
+1972.36 you can go to
+athleticgreens.com/huberman,
+1975.57 and they'll give you five
+free travel packs that make it
+1978.12 really easy to mix up
+Athletic Greens while
+1980.107 you're on the road, in the
+car, on the plane, et cetera.
+1982.44 And they'll give you a year
+supply of vitamin D-3 K-2.
+1986.04 Again, that's
+athleticgreens.com/huberman
+1988.65 to get the five free travel
+packs and the year supply
+1991.23 of vitamin D-3 K-2.
+1992.91 So now you have some idea about
+the brain areas and networks
+1995.61 involved in creativity.
+1997.44 But I want to be very
+clear that any time we
+1999.69 talk about mechanisms
+and brain areas, what's
+2001.88 far more important than the
+names of those brain areas
+2004.43 is an understanding
+of what they do.
+2005.947 So if you couldn't remember
+the anterior cingulate
+2008.03 cortex or the fact that
+the prefrontal cortex is
+2010.16 involved in executive function,
+et cetera, that's fine.
+2013.58 It's less important that
+you know the names of things
+2015.8 than you understand the action
+steps that those things take.
+2018.86 That is the verb actions
+that those particular brain
+2021.77 areas engage in order to arrive
+at a particular endpoint.
+2024.41 And the endpoint we're talking
+about today is creativity.
+2028.47 I want to discuss creativity
+in terms of what actually
+2031.67 goes into being creative.
+2033.11 And it turns out there
+are just two elements.
+2035.012 And those two
+elements are now well
+2036.47 understood from the
+perspective of psychology
+2038.54 and fortunately, the
+neuroscience well
+2041.39 supports what the psychology
+says and vise versa.
+2044.51 And those two elements
+that go into coming up
+2047.48 with a creative idea and then
+implementing or developing
+2050.929 that creative idea
+into something real
+2052.98 that you and the rest of
+the world can experience
+2055.55 or divergent thinking
+and convergent thinking.
+2059.03 And divergent thinking
+and convergent thinking
+2061.909 are very straightforward
+to understand.
+2064.61 Divergent thinking is taking
+some known object or event
+2071.15 in the world or
+sport or concept.
+2074.449 It could be running.
+2075.409 It could be a musical note.
+2076.94 It could be jumping.
+2078.17 It could be a particular
+color on a piece of paper.
+2082.46 And asking yourself how
+many different things
+2087.32 could that thing actually be.
+2089.297 And you might say, well,
+running is running.
+2091.13 But let's use divergent
+thinking as a way
+2093.65 to illustrate what
+divergent thinking is.
+2095.659 If I show you a picture
+of somebody running,
+2097.508 I say, what do you.
+2098.3 See and you say I
+see somebody running.
+2100.19 And then I might give you
+a divergent thinking task
+2103.16 and these tasks
+are the same ones
+2104.84 used in various experiments.
+2106.103 And I'd say, how many
+different things can you
+2108.02 think about based on
+this picture that you
+2111.53 see of somebody running.
+2112.91 Now, if you are able to
+engage divergent thinking,
+2115.86 you could say
+running to the store.
+2118.73 Running away from a lion.
+2120.65 Running towards somebody I love.
+2122.69 Or maybe you have a more
+elaborate imagination
+2125.81 and you could say,
+running in front of a bus
+2129.41 to grab a kid so the kid
+doesn't get hit by the bus.
+2132.08 Or running toward a
+concert because I'm
+2134.18 so excited about the
+particular concert
+2136.07 and then it starts to
+spool into a story.
+2137.85 In other words,
+divergent thinking
+2139.88 involves taking one simple what
+we would call a neuroscience
+2143.6 or psychology stimulus, one
+image, or sound, et cetera
+2147.2 and trying to
+radiate out from that
+2149.24 as many different divergent
+situations, properties,
+2156.2 characteristics, events, things
+from that one specific element.
+2161.09 So any divergent thinking task
+would involve exactly that.
+2163.82 I'd show you pictures or play
+you sounds or words or notes
+2168.02 or describe to you
+events in history
+2171.26 and try and see how many
+things can radiate out
+2174.17 from that in to diverse,
+diverse, even distant types
+2178.67 of concepts and pictures.
+2180.16 OK.
+2180.66 So that's divergent thinking.
+2182.1 Divergent thinking
+is really the process
+2183.95 that underlies idea generation.
+2186.17 And the basis of
+divergent thinking
+2189.38 is that more than
+one idea is correct.
+2192.17 In fact, the more ideas that
+you have about one thing,
+2195.56 the better your
+divergent thinking.
+2197.57 So if I were to give you
+three minutes to list off
+2200.69 all the things you can think
+about related to this pen
+2203.787 that I'm holding up.
+2204.62 For those of you listening
+I'm just holding up
+2205.76 a pen in front of me.
+2207.23 You just write them
+out or say them out.
+2208.97 Over the next 3 minutes
+that would be an example
+2211.623 of divergent thinking.
+2212.54 However, if you just said
+black pen, red pen, white pen,
+2215.595 green pen, et cetera, that's
+not very divergent thinking.
+2217.97 It's only divergent in the
+context of color space.
+2221.01 And when I say space
+that's just a nerd
+2223.13 speak for one particular
+domain of thinking.
+2225.68 Whereas if you said
+red pen, white pen,
+2230.0 essay pen in a door
+to hold the door
+2233.54 open so that someone can
+return to a building.
+2235.94 And you started spooling
+off a story related to that
+2238.25 and why that was important,
+well, there you go.
+2240.32 Divergent thinking is
+essentially taking one element
+2243.17 and coming up with
+many, many answers.
+2244.942 And in the context of
+divergent thinking,
+2246.65 any answer goes, but
+as we'll soon learn,
+2249.32 not every answer is
+interesting and relevant
+2252.14 that is not every answer help
+solve something or reveal
+2255.53 something fundamental
+and therefore,
+2257.03 not every divergent
+answer is truly creative.
+2260.697 The other aspect of
+divergent thinking
+2262.28 that's really
+important to understand
+2263.96 is that the selection criteria
+are extremely vague and vast.
+2269.12 That is, there
+are no constraints
+2270.56 on what you come up with.
+2271.86 So if I hold up this
+pen and you say,
+2273.77 orangutan, that's a perfectly
+valid divergent idea
+2278.63 from this pen because
+you thought of it
+2280.58 and it's distantly related.
+2281.75 However, we have to
+remember our earlier rule.
+2285.47 If black pen and orangutan are
+not linked up in our brain,
+2291.23 in the observer's brain
+in any meaningful way,
+2293.66 it's only interesting
+to you because you
+2296.185 are the only one
+that understands
+2297.56 the rule that underlies the link
+between this pen and orangutan.
+2302.33 Whereas if you come up with
+something different that
+2305.48 somehow tells me and
+everybody else something
+2307.76 interesting about
+pens or orangutans,
+2309.5 now that's a truly
+creative idea.
+2311.63 I don't have such
+an example in mind
+2313.418 but later I'll give
+you some examples
+2314.96 of how you can actually
+March down the path
+2316.752 of divergent thinking and
+use that executive network
+2319.73 to suppress certain
+options to cross off
+2321.62 certain answers because, again,
+an answer is valid but not all
+2325.97 valid answers are
+interesting or useful.
+2328.67 And you can cross
+those off and arrive
+2330.53 at the most interesting
+and truly creative answer.
+2334.16 A couple of more things
+about divergent thinking.
+2336.45 Divergent thinking largely
+taps into the networks
+2338.9 of the brain that are involved
+in mental flexibility.
+2342.51 So this is a different aspect
+of our prefrontal cortex, which
+2345.95 is not based on executive
+function and our ability
+2348.83 to reduce options but rather
+areas of the prefrontal cortex
+2354.33 that are available to
+generate multiple options
+2357.3 and actually suppress context
+to forget that pens are just
+2360.973 for writing, for
+instance, and that pens
+2362.64 can do other things
+like hold a door open.
+2364.5 It's really an
+unusual use of a pen.
+2367.005 Again, none of these
+examples that I'm giving
+2368.88 are particularly interesting.
+2370.118 They're just designed to get
+you to understand the underlying
+2372.66 concept of divergent thinking.
+2374.55 And then the last
+thing I'd like you
+2376.05 to know about divergent thinking
+is that divergent thinking
+2379.35 involves a exploration.
+2381.66 It's a wandering through
+of ideas that you already
+2385.14 had in your library, in
+your memory banks about pens
+2389.58 and what pens
+could be related to
+2392.13 and what pens ought
+not to be related to.
+2394.95 So, again, what's really
+important about creativity
+2397.68 is that there has to be the
+basic building blocks already
+2401.13 existing within us.
+2402.31 This is why it's so
+important to understand
+2404.55 that if you are somebody who
+really seeks to be creative,
+2407.67 you really do need to
+be somebody who forages
+2410.28 for information and structured
+information in particular
+2414.09 if you are to be creative.
+2415.74 The architect
+simply can't come up
+2417.69 with incredible drawings
+or plans for buildings
+2421.26 without understanding how
+buildings are put together
+2423.48 in the various rules
+that govern buildings.
+2425.808 In other words, you
+can't break rules
+2427.35 that you don't understand.
+2428.64 I think in movies,
+especially, we
+2431.82 have this idea in mind
+of this limitless concept
+2435.42 or that we have these hidden
+geniuses that somehow have
+2439.32 access to all the math
+knowledge without ever having
+2442.38 done any formal math.
+2443.28 Actually I was flying
+back from Texas recently
+2445.792 and Good Will Hunting
+was on somebody's screen.
+2447.75 I don't tend to watch
+movies on the plane
+2449.458 very often, sometimes
+but not often.
+2451.27 And I was remembering
+in that movie,
+2452.85 you've got this math genius who
+is a janitor at MIT, et cetera
+2458.13 and apparently just has
+access to all this knowledge.
+2460.86 It's a wonderful concept.
+2462.93 A very, very I would say
+even exceedingly rare thing
+2466.83 to occur in the world.
+2467.797 Sure there are people
+who seem to have
+2469.38 a natural talent for mathematics
+or for something else.
+2472.24 But this idea that
+there are incredible
+2475.59 geniuses among us that
+just spontaneously
+2478.2 have so much knowledge, that's
+by far the exception rather
+2482.4 than the rule, of course, and
+may not even actually exist.
+2484.902 I'm sure someone will put
+it in the comments examples
+2487.11 where this actually exists.
+2488.04 More often than
+not, what you find
+2489.48 is that people who have extreme
+virtuosity in a given area
+2493.26 put many, many years
+into developing
+2496.32 the basic substrates,
+the basic building blocks
+2498.93 of whatever it is
+their craft happens
+2500.49 to be where they
+demonstrate virtuosity.
+2502.26 So this is very
+important to understand.
+2503.927 Nonetheless, divergent thinking
+is the critical element
+2508.86 for initiating the
+creative process.
+2511.5 Again, thinking about
+creativity as a verb.
+2513.54 And divergent thinking involves
+taking some starting point,
+2517.86 in this case a pen,
+and then radiating out
+2520.2 from that in a fairly
+unconstrained what biologists
+2523.08 call a random walk just
+wandering through your thought
+2526.44 space and memory
+space about what
+2528.12 could be related to this pen.
+2529.44 Now, on the flip
+side of creativity
+2531.0 is the implementation of
+specific combinations of things
+2535.38 and testing those to see whether
+or not they are interesting,
+2538.5 relevant, or delight
+to us or other people
+2541.38 or scare us or other people
+or thrill us or other people.
+2544.59 In other words, a testing
+of whether or not there's
+2547.77 some fundamental rule to emerge.
+2550.59 Again, I'm going to repeat
+this many, many times
+2552.87 throughout this
+episode and I'm not
+2554.01 going to apologize for
+that because I think
+2555.54 it's so important to understand
+that creativity is not just
+2558.0 novel combinations.
+2558.93 They are novel
+combinations of things that
+2561.03 reveal something fundamental.
+2562.65 And that often pop out
+to us if not every time
+2566.43 certainly most of the time
+that we see that thing.
+2568.8 It almost never
+seems to be the case
+2570.87 that something truly creative
+dulls in its expression.
+2574.14 And that's because what
+it's repeating to us
+2576.45 over and over again is this
+fundamental rule that normally
+2579.06 we can't see or
+hear or experience
+2581.04 in the absence of
+this creative act.
+2583.68 So the second part of creativity
+where things are tested
+2587.73 and where truly creative
+elements are discovered
+2590.85 is in convergent thinking.
+2592.53 And convergent thinking
+is, as the name
+2594.21 suggests, just the opposite
+of divergent thinking.
+2596.37 Convergent thinking
+would be, for example,
+2599.323 if I give you an image or I
+tell you the following things,
+2601.74 I say wing, water, an engine.
+2607.69 The concept that I
+happen to have in mind
+2609.61 is that of a plane
+that can land on water.
+2613.66 Most planes don't
+land on water or not
+2616.12 intended to land on water.
+2617.83 One would hope that
+their plane doesn't
+2619.48 land on water unless
+it's a plane designed
+2621.23 to land on water.
+2622.18 But in this case, a plane
+that can land on water
+2625.69 is one of the very few answers
+that can combine wing, water,
+2632.11 and engine.
+2633.73 I'm sure there
+are other answers,
+2635.14 there are other
+convergent thinking modes
+2637.39 that can take you to an
+answer that would be valid.
+2639.86 But there are not many.
+2641.08 And here what's
+really most important
+2642.67 is that I'm not asking
+you to spool out
+2644.8 or to radiate out from
+these three things.
+2647.68 Rather, I'm asking you to
+combine them in some way that
+2650.14 makes sense in the real world.
+2652.33 And indeed there are planes
+that can land on water.
+2655.0 And wing water and
+engine combined
+2658.493 within those things
+they are fundamental
+2660.16 features, they are in
+fact, necessary but not
+2663.13 sufficient for having a
+plane that can land on water.
+2666.05 OK.
+2666.55 So that's just one example
+of convergent thinking.
+2668.633 And a convergent
+thinking task would
+2670.36 involve you being given
+a list of two or three
+2673.19 or maybe even five
+different things.
+2674.69 And then for each of
+those two or three or five
+2676.09 different things,
+as quickly as you
+2677.62 can to come up with
+a single answer
+2679.51 that binds all of those
+in a real world concept
+2682.36 that obey the laws of nature
+or physics in some way.
+2685.84 For instance, you can just come
+up with some answer that said,
+2690.28 a bird that swallowed
+an engine and that
+2693.79 happens to be a sea bird.
+2694.96 You could come up with that,
+but that actually is not
+2697.24 something that happens or
+is that very typical at all.
+2700.58 And so it seems like a mishmash
+of things that are really
+2703.75 just designed for you
+to try and accomplish
+2705.61 an answer rather
+than something real,
+2707.36 such as a plane
+that lands on water.
+2709.07 OK.
+2709.75 The point here is that
+divergent thinking
+2712.69 is one aspect of our
+cognition, of our thinking.
+2716.14 And convergent thinking
+is a very distinct aspect
+2719.68 of our cognition.
+2720.91 In fact, one of the
+critical requirements
+2723.61 for convergent thinking is
+also to access our memory banks
+2726.805 and our understanding
+about the outside world
+2728.68 just as it were with
+divergent thinking,
+2730.99 but it requires more focus
+and more persistence.
+2735.16 In fact, if we were to
+come up with a key rule
+2737.56 for divergent
+thinking, it would be
+2739.15 you almost want to have just
+enough focus to remember what
+2742.12 the initial object or
+thing that was mentioned
+2745.27 was to keep that in mind
+so that your answers don't
+2748.24 become completely random.
+2749.62 But the more distant and
+everywhere in between that
+2753.31 you can generate
+answers that is,
+2755.35 the things that are
+very close to pens,
+2757.69 black pen, red pen
+versus pen and doorstop,
+2761.47 pen acting as a doorstop.
+2763.06 Those are-- one is
+very close, red pen is
+2766.81 very close to black pen,
+doorstop is pretty far
+2769.75 from black pen.
+2771.19 So that's the idea.
+2772.51 Is that you want to explore and
+undergo a range of exploration
+2775.773 of different ideas whereas
+with convergent thinking,
+2777.94 you're really trying to
+bind these things together.
+2780.26 And so the key element
+for convergent thinking
+2783.64 is the aspect of
+persistence and focus.
+2787.06 And that's why convergent
+thinking in many ways
+2790.27 feels harder than
+divergent thinking.
+2792.55 It feels like there's an answer.
+2793.99 And I want to get the answer
+right and I can't solve it.
+2796.323 It's a puzzle and
+it's a puzzle that
+2797.89 relies on very
+distinct brain circuits
+2799.99 from divergent thinking.
+2801.16 Which brain circuits?
+2802.39 Well, that's what we're
+going to describe next.
+2804.43 And again, this
+is not just going
+2805.805 to be a list of different brain
+circuits with different names
+2808.382 doing different things,
+that wouldn't be useful
+2810.34 to you or to me.
+2811.57 Rather, what you're about to
+learn is truly incredible.
+2815.92 What it is we're going to talk
+about one single molecule--
+2819.46 dopamine, which is a
+molecule most typically
+2822.43 associated with motivation
+and desire and drive
+2825.1 and feelings of
+pleasure in some cases.
+2826.96 But that actually resides
+within four different networks
+2830.828 in the brain.
+2831.37 Today we're going to talk
+about two of those networks.
+2833.92 And dopamine acting
+in one network
+2837.8 directly underlies
+divergent thinking.
+2840.89 Whereas dopamine in
+another brain network
+2843.38 underlies convergent thinking.
+2845.42 And if at this point
+in this episode
+2847.225 you're saying OK,
+when am I going
+2848.6 to get the tools to
+understand creativity
+2850.4 and how to be creative,
+what I can assure
+2852.26 you is that if you understand
+divergent thinking which
+2854.63 hopefully now you do, and you
+can understand what convergent
+2857.63 thinking is, and
+you can understand
+2860.39 that dopamine is responsible
+for both divergent thinking
+2864.17 and convergent thinking but
+through separate pathways.
+2867.29 Well, then if you can understand
+how those two separate pathways
+2870.17 work and how to engage
+them differentially,
+2873.14 therein lie the tools that you
+can use both to explore ideas.
+2878.07 In other words, find what it
+is that could be creative.
+2881.6 And then systematically
+test each of those ideas
+2884.81 for what is truly creative.
+2886.4 That is what meets the
+criteria for something
+2888.59 that is novel and truly
+useful and informs us
+2891.62 about something that we've never
+seen, heard, or felt before.
+2895.17 Let's just take a moment to talk
+about the incredible molecule
+2897.77 that is dopamine.
+2899.51 Many people are familiar with
+dopamine from the concept
+2902.0 of quote unquote
+"dopamine hits," which
+2904.88 is popular language describing
+the feeling of pleasure
+2908.75 that we get from pretty
+much anything that we like
+2912.32 or that we continue to
+engage in repeatedly.
+2914.45 So some people will talk
+about the dopamine hit
+2916.408 that they get from
+somebody attractive
+2918.5 that they like texting them back
+or the dopamine hit that they
+2921.565 get from social media or
+the dopamine hit that they
+2923.69 get from sugar or the dopamine
+that they get from this
+2926.0 or from that.
+2927.08 To be honest, the
+concept of dopamine hits
+2929.66 is not one that I favor because
+in general, whenever people
+2933.032 talk about dopamine
+hits, typically
+2934.49 they are talking
+about activities
+2935.865 such as social media
+for which dopamine
+2938.75 may be involved at some level.
+2940.82 But often it's the case
+that the behavior associated
+2944.45 with that thing in
+this case, social media
+2946.22 is more of the compulsive
+nature rather than
+2949.04 an active seeking of something
+with positive anticipation.
+2952.49 And that's really what
+dopamine is about at least
+2954.83 in the context of one of its
+major functions in the brain.
+2957.38 Dopamine is really about
+motivation and desire
+2960.53 and movement.
+2962.3 And it makes sense why
+motivation, desire,
+2964.16 and movement would be
+linked up through a common,
+2967.19 in this case neuromodulator
+or chemical like dopamine.
+2970.34 Because throughout
+evolution if we
+2972.98 were excited for or motivated
+to pursue something,
+2976.82 we had to move in order
+to get it, to obtain it.
+2979.97 And in general, we
+can frame dopamine
+2981.77 under the umbrella
+of dopamine tends
+2983.425 to be involved in
+neural circuits
+2984.8 in the brain that are involved
+in processes that are taking us
+2989.0 beyond the confines of our skin.
+2990.92 That is, they motivate us
+to go do something in terms
+2993.62 of action in the world.
+2995.03 Now, that statement might
+seem distantly placed
+2998.57 from a discussion
+about creativity,
+3000.377 but as we'll learn
+a little bit later,
+3001.96 one of the most useful tools
+for engaging creativity
+3006.07 and becoming more creative is
+to think about action elements
+3010.39 within a narrative.
+3011.44 That is, things that we
+and others can do in order
+3014.26 to discover new rules
+through actual movement.
+3017.74 That's a little bit cryptic.
+3019.48 Forgive me.
+3020.11 But I promise I'll
+return to it later
+3021.652 and I will make
+it crystal clear.
+3024.46 There are four major circuits
+in the brain that use dopamine.
+3027.88 Although I should mention,
+there are additional circuits
+3030.45 as well.
+3030.95 In fact, your eye
+even contains neurons
+3032.883 that release
+dopamine that control
+3034.3 the sensitivity of your eye
+at different times of day
+3036.73 to light, et cetera.
+3038.23 The four major
+circuits in the brain
+3039.73 that utilize
+dopamine however, are
+3041.29 used for four major purposes.
+3043.395 And I'll describe
+what those are.
+3044.77 First of all is a
+neural circuit that
+3047.17 uses dopamine among other
+things but certainly relies
+3050.14 on dopamine in a critical way
+to engage movement, including
+3054.19 eye movements.
+3054.903 And we will return
+to eye movement
+3056.32 to why they're so important
+for understanding creativity
+3059.14 and maybe even for generating
+creativity a little bit later.
+3062.39 The name of the
+circuit, again, is less
+3064.24 important than what it does.
+3065.81 But the name of this circuit
+for those that want to know
+3068.56 is the so-called
+nigrostriatal pathway.
+3071.53 The substantia nigra
+is a brain area
+3073.6 that is very dark that
+projects to an area
+3076.42 called the dorsal striatum.
+3077.853 It contains a bunch
+of subregions.
+3079.27 So, again, for those of you that
+really geek out on this stuff
+3081.853 great, you can learn these names
+and retain them in your memory.
+3084.633 If you don't care about
+names, don't worry about it,
+3086.8 just discard the names.
+3087.91 But areas of the brain like
+the caudate and putamen
+3090.22 and the dorsal
+striatum receive input
+3091.99 from the substantia nigra.
+3093.76 In neuroanatomy, when
+we name something,
+3096.52 we say the origin of that thing
+and where it connects through.
+3100.6 So nigrostriatal
+tells you that there
+3103.147 is a connection between
+the substantia nigra
+3104.98 because it came
+first, nigrostriatal,
+3106.63 and then striatal
+is where it ends up.
+3108.43 So nigrostriatal pathway is
+involved in generating bodily
+3111.4 movements.
+3112.24 It's involved in eye movements.
+3114.58 And it is actually
+a brain area that's
+3116.95 engaged when you
+think about movement.
+3119.943 You can just have a story
+in your mind about walking
+3122.11 or a story in your mind
+about running or story
+3124.225 in your mind about driving.
+3125.44 This area is engaged.
+3126.79 Very interesting brain area.
+3128.89 So that's the first circuit.
+3130.172 Very important to understand.
+3131.38 And I'll tell you
+right now, that
+3133.09 is the brain circuit
+that is engaged when
+3136.0 you undergo divergent thinking.
+3139.39 Now, that itself
+should be interesting.
+3141.37 Even if you don't remember
+any of the names of the things
+3143.29 I just told you, that
+you have a brain circuit
+3145.24 that even if you just
+think about walking it
+3148.0 becomes more active.
+3148.93 And the dopamine is involved
+in that brain activity.
+3151.88 And if you recall,
+divergent thinking
+3153.82 involves taking a concept
+as boring as a pen
+3158.62 and thinking about
+other concepts that
+3161.71 could link up with that pen in
+some way, logical or illogical.
+3165.67 The bridge could be completely
+abstract and really fantastical
+3169.99 with a bunch of different
+ideas in between.
+3172.09 A pen acting as a doorstop
+because of some situation
+3174.498 where you need to run
+down stairs in a fire
+3176.29 and get back upstairs
+quickly to rescue
+3177.915 somebody, very divergent.
+3179.35 Or as divergent as
+black pen to red pen.
+3183.15 But what's amazing is
+that that same circuit
+3185.7 is the one that's involved
+in generating and thinking
+3189.69 about physical movement.
+3190.8 That turns out to be vitally
+important for tapping
+3193.83 into the creativity process.
+3195.1 So really frame that up in your
+mind or commit it to memory.
+3197.74 Now, the second dopamine circuit
+associated with creativity
+3200.46 is the one associated with
+convergent thinking, which,
+3203.19 again, is the
+thinking where there's
+3204.69 a specific correct answer.
+3206.81 It requires focus and
+it requires persistence.
+3209.46 And the name of that
+circuit, again, the name
+3211.47 isn't as important
+as what it does.
+3212.95 But the name of that circuit
+is the mesocortical pathway.
+3217.59 The mesocortical pathway
+is involved in motivation
+3221.07 and it has an emotional
+component too.
+3224.09 Now, it will become
+clear in a few minutes
+3225.84 why that emotional
+component is vital.
+3227.97 But this is a circuit
+that originates
+3229.53 in a brain structure called the
+lateral ventral tegmental area.
+3233.16 Again, a bunch of words you
+can remember it if you want,
+3235.53 lateral ventral
+tegmental area or you
+3238.14 can not worry about the name.
+3239.52 And it connects to
+the prefrontal cortex,
+3241.38 that area just
+behind the forehead.
+3243.31 And this mesocortical
+area is involved
+3245.31 in motivation and emotion
+and is critical for focus
+3248.19 and persistence.
+3249.39 It is distinct from
+a very nearby area,
+3251.91 just sitting right next door
+the so-called mesolimbic area,
+3256.08 which is involved in desire
+and feelings of reward.
+3260.08 And this is the area that
+is associated more typically
+3262.44 with addictive behaviors
+or compulsive behaviors.
+3266.305 We're going to leave
+out the discussion
+3267.93 about the mesolimbic
+pathway for now
+3269.97 because it's not critical
+to divergent or convergent
+3273.27 thinking and it's not critical
+to the process of creativity
+3277.02 at least as far as we know.
+3278.682 But I mention it because it
+is the third and the four
+3280.89 dopaminergic circuits.
+3281.82 And then the fourth
+circuit certainly
+3283.89 one I've never talked about
+before on this podcast, which
+3287.31 doesn't mean anything
+except that we
+3288.81 haven't gotten to it yet,
+is that tuberoinfundibular
+3292.77 pathway.
+3293.43 And that is the
+pathway associated
+3294.99 with dopamine and
+your pituitary gland
+3296.91 and the release of
+hormones, in particular
+3299.76 that travel to the ovary.
+3301.068 If you have ovaries
+or to your testes
+3302.61 if you have testes and
+trigger the release of things
+3304.777 like estrogen and
+testosterone, et cetera.
+3307.29 Dopamine is intimately
+involved in that circuitry.
+3311.04 Again, not the topic
+of today's discussion.
+3313.5 For today's discussion,
+we want to remember
+3315.42 that there's a
+dopamine circuit called
+3317.01 the nigrostriatal circuit,
+which is involved in movement
+3319.74 and divergent thinking.
+3322.38 And that alone should set
+a flag up for you like wow,
+3325.68 just thinking about
+new ideas has something
+3327.93 to do with physical movement.
+3330.24 And the dopamine circuit that is
+the mesocortical pathway, which
+3336.34 is the one that's associated
+with motivation and emotion,
+3339.49 and that's the one required
+for persistence and focus
+3341.95 for convergent thinking.
+3343.46 Why am I telling you all
+of this about dopamine?
+3346.27 Well, it turns out that dopamine
+creates a certain number
+3350.89 of responses in the brain and
+body when it is active in one
+3355.778 or the other of these circuits.
+3357.07 And just for sake
+of simplicity, so
+3358.93 I don't have to keep saying
+nigrostriatal and mesocortical.
+3363.55 Here going forward,
+I'm going to talk
+3365.74 about the dopamine
+circuit that's
+3367.57 associated with
+divergent thinking
+3369.46 or the dopamine
+circuit associated
+3371.11 with convergent thinking.
+3372.235 And, again, divergent
+thinking and convergent
+3374.11 think are the two processes
+that have to occur.
+3377.56 Usually first divergent then
+convergent thinking then
+3380.175 back and forth
+and back and forth
+3381.55 in order to arrive at
+something creative.
+3383.74 Divergent thinking
+is about exploration.
+3385.475 Convergent thinking is about
+testing things and coming up
+3387.85 with things that are the
+right answer that feel right.
+3390.58 And we will better define what
+right means a little bit later.
+3393.55 But you already know
+right in this context
+3397.57 is when you have some
+combination of elements
+3400.96 or some idea or
+some written passage
+3402.76 or some music or
+some physical action
+3405.19 that you just know this is
+really novel and really cool.
+3410.71 Or people see it or
+hear it or taste it
+3414.55 and say, this is really
+novel and really cool
+3416.83 and they don't
+necessarily know why.
+3418.66 It's just different in
+a way that feels true.
+3421.69 I'd like to take a brief
+break and thank our sponsor
+3424.9 InsideTracker.
+3426.37 InsideTracker is a
+personalized nutrition platform
+3429.01 that analyzes data
+from your blood and DNA
+3431.44 to help you better
+understand your body
+3433.18 and help you reach
+your health goals.
+3434.95 I've long been a
+believer in getting
+3436.45 regular blood work done.
+3437.56 For the simple reason
+that many of the factors
+3440.042 that impact your immediate
+and long term health
+3442.0 can only be analyzed from
+a quality blood test.
+3444.535 The problem with a lot
+of blood and DNA tests
+3446.41 out there however,
+is that you get data
+3448.36 back about metabolic factors,
+lipids, and hormones,
+3451.33 and so forth.
+3451.88 But you don't know what
+to do with those data.
+3453.797 InsideTracker
+solves that problem.
+3455.38 And makes it very easy for you
+to understand what nutritional,
+3459.67 behavioral, maybe even
+supplementation based
+3462.52 interventions you might
+want to take on in order
+3465.13 to adjust the numbers of
+those metabolic factors,
+3467.29 hormones, lipids,
+and other things that
+3469.21 impact your immediate and
+long-term health to bring
+3471.58 those numbers into the
+ranges that are appropriate
+3474.04 and indeed optimal for you.
+3475.78 If you'd like to
+try InsideTracker,
+3477.34 you can visit
+insidetracker.com/huberman
+3479.86 and get 20% off any of
+InsideTracker's plans.
+3482.41 That's
+insidetracker.com/huberman
+3485.02 to get 20% off.
+3486.167 Now, I realize that for some of
+you listening to this episode,
+3488.75 we are probably at the point
+along the pathway of concept
+3492.16 and definition
+and mechanism that
+3494.95 leaves you in a place
+of real wanting a tool.
+3498.02 And so I promise that I'm
+going to get into more tools,
+3500.96 but to satisfy you and to
+make sure that you do indeed
+3505.36 understand that
+there are tools that
+3506.86 can emerge from the information
+that you already now
+3509.23 have in mind.
+3510.13 I do want to share with
+you one particular tool
+3512.23 from the literature that
+has been demonstrated over
+3515.86 and over again to support
+and build and enhance
+3519.85 divergent thinking.
+3521.475 And I also want
+to share with you
+3522.85 a tool that has been shown
+from the scientific literature
+3525.225 to enhance convergent thinking
+because both convergent and
+3527.83 divergent thinking are critical
+for the creative process.
+3530.6 Now, I should emphasize
+that some people out there
+3535.63 either by training or
+by genetics or by both
+3538.63 will be naturally better
+at divergent or convergent
+3542.86 thinking.
+3543.55 And in fact, we now know
+in almost poetic way
+3548.56 that naturally
+occurring variations
+3551.38 in genes which underlie
+naturally occurring variations
+3555.01 in the percentage of
+dopamine in one set of brain
+3560.23 circuits versus another do,
+seem to relate to whether or not
+3564.01 people are naturally good
+at divergent thinking
+3566.32 or convergent thinking.
+3567.64 Now, that's a very
+nature based explanation
+3571.143 for why some people are
+better at divergent thinking
+3573.31 and other people are better
+at convergent thinking.
+3576.72 Nature and nurture is
+something that can never really
+3579.15 be teased apart exactly because,
+of course, if someone has
+3582.15 a natural proclivity for
+something based on their genes,
+3584.55 you can't often separate
+that from their parents
+3588.18 because we inherit our
+genes from our parents
+3591.0 although even in cases
+where people are raised away
+3593.37 from their parents through
+adoption, et cetera.
+3597.06 It's very hard to separate
+nature and nurture
+3599.172 because somebody with a
+natural proclivity for things
+3601.38 might engage in those things
+more, et cetera, et cetera.
+3604.11 The point is that
+for those of you that
+3606.12 are very, very good
+at divergent thinking
+3608.28 or very, very good at convergent
+thinking, some of that
+3611.07 might have been inherited.
+3612.72 But more than likely some of
+that depended on the activities
+3616.05 that you engaged in
+in your early years,
+3619.38 in particular in the years
+between age 5 and 25.
+3623.31 And for those of you that
+are aged between 5 and 25,
+3626.85 all I can say is
+please learn to engage
+3629.28 both divergent and convergent
+thinking as much as
+3631.477 possible because you will
+enhance your ability for both.
+3633.81 For those of you
+25 and older, you
+3635.76 can still enhance
+your ability to engage
+3637.86 divergent and
+convergent thinking.
+3639.39 And the fortunate news,
+the equalizer I should say
+3643.35 is that regardless
+of whether or not
+3645.45 you're a naturally better
+at divergent or convergent
+3647.76 thinking or you acquired
+it through activities,
+3650.16 you need both in
+order to be creative.
+3652.33 So what we know is that in order
+to engage divergent thinking,
+3655.02 we need access to
+our memory banks.
+3656.94 We need to come up
+with possibilities.
+3658.668 And those possibilities
+can only come
+3660.21 from what's contained within
+our memory systems of our brain.
+3664.377 Areas like the
+hippocampus, et cetera.
+3665.96 But the names
+again don't matter.
+3667.43 We just know that
+if we are going
+3669.23 to come up with novel
+combinations of things or novel
+3671.99 uses of things or totally
+new ideas about how
+3674.81 objects or notes of
+music or foods or tastes
+3677.57 or whatever can be
+combined, we have
+3680.03 to do that with
+pre-existing knowledge.
+3681.69 And yet what we
+need to do in order
+3683.36 to engage divergent
+thinking is suppress
+3686.78 what is called
+autobiographical narratives
+3690.14 and in particular,
+autobiographical narratives.
+3692.33 We need to discard
+with judgments
+3695.09 about how certain
+combinations of things
+3698.03 impacted us in the past.
+3699.95 This here I think
+is what people mean
+3701.9 when they encourage the
+exploration of creativity
+3704.84 by so-called
+boundary exploration.
+3706.97 You hear about this a
+lot in the self-help,
+3708.83 in psychology literature.
+3710.03 And I'm not at all
+disparaging of that literature
+3712.1 although rarely does it define
+exactly how and why to go
+3715.7 about being more
+creative or in this case
+3717.8 to be more divergent
+in our thinking.
+3720.62 So they'll say, you
+have to take risks
+3722.75 or you have to
+suppress judgment.
+3725.09 But how do you actually do that?
+3726.66 Well, there's a wonderful
+paper that talks about one way
+3729.8 to do it.
+3730.37 One way to do it is what's
+called open monitoring
+3733.28 meditation or even just
+open monitoring thinking.
+3736.118 And just to make
+what could otherwise
+3737.66 be a somewhat complex
+section here very simple.
+3740.847 What I'll also tell
+you is that if you
+3742.43 want to enhance
+convergent thinking,
+3744.92 you can do that
+a number of ways,
+3747.35 but you can do that
+in particular by doing
+3749.57 a different type of meditation
+or thought process, which
+3753.23 is called focused
+attention meditation.
+3755.58 So let's talk about open
+monitoring meditation
+3757.68 and why it's so
+useful for enhancing
+3759.23 divergent thinking,
+this critical element
+3761.0 of the creative process.
+3763.62 First of all, open
+monitoring meditation
+3765.8 and focused attention
+meditation can be performed
+3770.04 the exact same way physically.
+3772.1 You can sit there,
+eyes closed, I
+3774.172 don't care if you're
+in a Lotus position,
+3775.88 it doesn't really matter, you're
+lying down, you're standing up.
+3778.547 You could in theory do open
+monitoring meditation with eyes
+3781.46 open and that would be an
+interesting variant on it.
+3783.87 But for sake of the
+discussion right
+3786.05 now, let's just
+focus on the study
+3787.52 that talks about these
+specific tools and the way
+3791.42 that they were
+used in the study.
+3793.32 The title of the paper that
+I'm essentially summarizing
+3796.07 is called open monitoring
+meditation reduces
+3798.56 the involvement of brain regions
+related to memory function.
+3801.66 Now, right off the
+bat that will cue you
+3803.36 to something interesting.
+3804.51 Something about divergent
+thinking and open monitoring
+3807.17 is related to
+suppressing memory.
+3809.99 But as you recall,
+just a few moments ago,
+3812.39 I said that in order to
+engage in divergent thinking,
+3815.22 you need to kill off
+the narratives of what
+3819.35 has to be related to what and
+come up with new narratives.
+3821.81 You still need to
+understand possibilities
+3823.97 but you need to forget
+prior understanding of what
+3827.11 those possibilities have to be
+and start thinking about what
+3829.61 those possibilities could be.
+3831.3 And so that it turns
+out involves suppression
+3833.3 of certain brain areas.
+3835.43 Open monitoring
+meditation is typically
+3837.62 done for about 10 to 30 minutes
+although it could be longer.
+3841.46 And unlike other
+forms of meditation
+3843.95 where you sit and
+concentrate on your breathing
+3846.59 and trying to redirect your
+thinking back to your breathing
+3849.35 or to your posture or
+to a chant or a mantra,
+3854.03 open monitoring
+meditation is simply
+3856.79 a matter of having sit there
+or lie down and close your eyes
+3859.94 and to allow whatever surfaces
+in your mind to surface.
+3864.05 And what you practice is
+the practice of nonjudgment.
+3867.95 Now, nonjudgment itself is a
+little bit of an abstract theme
+3870.47 because, of course, the
+moment you say don't judge you
+3873.68 and others start to judge.
+3874.82 It's just the way
+that the brain works.
+3876.02 You say, don't think
+about an elephant
+3877.49 you think about an elephant.
+3878.27 That's a perfectly natural.
+3879.395 You go to an edge of a bridge
+or a cliff and you think about
+3882.823 jumping off even
+though you don't.
+3884.24 Please don't jump off.
+3885.343 And that's because it's
+part of the circuitry that's
+3887.51 keeping you from jumping off.
+3888.68 Is the thought about what
+would happen if you did.
+3890.39 OK?
+3891.02 So open monitoring
+meditation involves
+3893.51 dedicating a certain amount of
+time where you close your eyes
+3896.27 and whatever thoughts arise,
+whatever emotions arise,
+3899.48 whatever ideas arise
+to watch those and take
+3903.38 an inventory of them to just
+merely watch them show up
+3906.74 and pass or maybe become fixated
+on them for some period of time
+3910.098 or maybe even just one
+for a long period of time.
+3912.14 All of that is fine.
+3913.32 In other words, whatever
+surfaces surfaces.
+3916.07 That's open
+monitoring meditation.
+3917.84 And that we know from
+brain imaging studies
+3920.3 and we know from
+measurements of dopamine,
+3922.28 in particular brain circuits and
+we know from people who train
+3926.63 with open monitoring
+meditation on a regular basis
+3930.41 improves divergent
+thinking capability.
+3933.6 So in terms of tools, practicing
+open monitoring meditation
+3937.64 or what I would just call
+open monitoring thinking
+3940.37 is going to be immensely useful.
+3942.53 And this is actually
+an opportunity
+3944.15 to queue up something that
+I mentioned in our episode
+3946.358 on meditation, which goes deep
+into the different meditation
+3949.01 involving focus inward
+and outward, et cetera.
+3951.122 You're welcome to
+check out that episode.
+3952.83 It's at hubermanlab.com.
+3954.29 But the point is that rather
+than think about the word
+3958.22 meditation, which carries a
+bunch of ideas about what it is
+3962.03 and what it isn't
+and how to do it,
+3964.27 meditation is really just
+a perceptual exercise.
+3966.815 For instance, you
+could do a meditation
+3968.44 where you look at a single
+point on a wall for five minutes
+3971.71 and redirect your focus to that
+single point on a wall over
+3974.332 and over again
+every time your mind
+3975.79 drifts as it no doubt would.
+3977.38 Or to a tone in the room.
+3979.06 You could attend to that
+and redirect to that.
+3981.1 Rather than think about
+it as a meditation,
+3982.892 it's really just a
+perceptual exercise.
+3984.74 That's all that meditation is.
+3986.53 So open monitoring
+meditation is really
+3988.72 just a form of perception
+where you're paying attention,
+3991.27 you're perceiving your thoughts
+without laying judgment
+3994.51 to those thoughts or
+trying not to lay judgment
+3996.67 to those thoughts.
+3997.42 And what people
+find is that they
+3998.795 very quickly within
+a few days get better
+4000.78 at doing open
+monitoring meditation.
+4002.31 And fortunately,
+within just a few days
+4005.04 and certainly within about a
+week or more of practice and it
+4008.4 doesn't even have to
+be daily practice.
+4010.31 So although, of
+course, daily practice
+4012.0 will accelerate the
+process further,
+4013.56 people become significantly
+better at divergent thinking.
+4016.778 And that's because of
+the dopamine circuits
+4018.57 and in particular, along
+the nigrostriatal pathway
+4021.45 becoming more active.
+4022.5 And the wonderful
+thing is that when
+4024.12 you repeat a practice and
+a particular neural circuit
+4027.21 is engaged over and
+over again deliberately,
+4029.52 that neural circuit
+becomes easier to engage.
+4031.96 So-called neuroplasticity.
+4033.87 So I would encourage
+any of you that
+4036.9 want to explore the creative
+process for whatever reason
+4039.96 or get better the
+creative process,
+4041.52 dedicate some amount of time.
+4043.14 Maybe even just five
+minutes every other day
+4045.84 to doing this open
+monitoring meditation.
+4047.97 I've tried this meditation.
+4049.29 It's actually quite fun to
+do because at least to me
+4053.47 it feels a lot easier than
+the meditation associated
+4057.33 with convergent thinking.
+4058.71 Now, the convergent
+thinking meditation
+4061.05 is the so-called focus
+attention meditation.
+4063.55 And that's also described
+in the same study.
+4065.49 And other studies have
+explored which particular brain
+4068.43 networks it involves.
+4069.75 And I can just tell
+you that focused
+4072.06 attention meditation,
+which you can think of
+4074.37 or I'd prefer that you think of
+just as a perceptual exercise
+4077.13 involves sitting or lying
+down, closing your eyes,
+4079.68 focusing either on your breath,
+or some element of your body.
+4083.25 Could be the tops of your knees
+or the clasp of your hands.
+4087.48 It could be focusing
+on an auditory tone,
+4090.51 you could even do it eyes open
+and stare at a point on a wall
+4094.23 or a flame of light.
+4095.46 Whatever it happens
+to be that allows
+4097.26 you to redirect your focus to
+a particular location or idea
+4100.859 or sound.
+4102.21 That is known to
+improve your ability
+4106.62 to engage convergent
+thinking, to quickly
+4110.01 parse through or analyze a
+bunch of different choices,
+4114.33 and to persist in
+choice selection
+4118.47 and therefore more rapidly
+arrive at the correct answer.
+4121.45 This is well-established
+and, in fact, in, the episode
+4123.7 I did with a wonderful
+guest Dr. Wendy Suzuki
+4125.832 from New York
+University she talked
+4127.29 about how a daily meditation
+of about 10 to 13 minutes
+4130.77 performed for about eight weeks.
+4132.12 That's what they explore.
+4133.162 And that study greatly
+increases people's ability
+4135.359 to focus and in
+fact, their memory.
+4137.981 And that's exactly
+the point, which
+4139.439 is that convergent thinking as
+I mentioned before, it requires
+4142.022 persistence, focus, and
+access to specific memories.
+4146.102 So if you are somebody who
+wants to get better at focusing,
+4148.56 that is the meditation for you.
+4150.21 However, because today we're
+talking about creativity,
+4153.277 if you are somebody
+who wants to get better
+4155.069 at divergent thinking
+and convergent thinking,
+4157.2 the two elements of creativity.
+4158.76 That is, I would encourage
+you to do a dual meditation.
+4163.17 That is, a meditation
+that starts
+4165.27 with open monitoring for
+maybe 5 to 10 minutes
+4169.05 and then transitions to
+focused attention for maybe
+4173.46 5 to 10 minutes.
+4174.51 Because the positioning
+of divergent thinking
+4178.5 and then convergent thinking
+close together, more closely
+4181.68 resembles what the
+creative process really is
+4184.439 and what it typically involves.
+4185.88 Most of us would love to
+have a situation where
+4188.88 we can spend a morning or a
+day or a week brainstorming.
+4192.66 Just brainstorming.
+4193.62 Whatever we think about is fine.
+4195.117 That's divergent thinking.
+4196.2 Whatever elements just throw
+them up on the whiteboard.
+4198.66 We sometimes see
+people and companies
+4200.31 doing this at retreats.
+4201.57 You bring people into
+a novel environment.
+4203.55 You say, let's just
+forget all the rules
+4205.217 and let's just come up with
+new ideas about something.
+4208.67 New uses of something,
+new strategies.
+4210.93 And nothing is too crazy.
+4212.79 Nothing is off limits.
+4213.75 And sure, that's
+a useful exercise
+4215.7 so-called brainstorming.
+4216.99 But at some point,
+there's the requirement
+4219.24 to cross off things.
+4220.143 And typically that's
+done later in the retreat
+4222.06 or later in the meeting
+or later in the weekend.
+4224.71 And that's a wonderful
+way to approach creativity
+4227.79 and to try and be creative.
+4229.14 But not a lot of people train
+for that on a regular basis.
+4232.51 So what I just
+described to you are
+4234.15 research tested
+tools for training
+4236.002 for divergent thinking
+and convergent thinking.
+4237.96 And I would encourage
+people who are
+4239.46 interested in being more
+creative to try and do these
+4242.49 on a somewhat regular basis.
+4243.97 If not every day then certainly
+a few times a week or more.
+4247.56 Certainly the more
+you do it, the better
+4249.492 you're going to get it.
+4250.45 That's well demonstrated
+in the literature.
+4252.45 And if you're somebody
+who's very consistent doing
+4254.533 maybe five minutes of open
+monitoring meditation and five
+4257.44 minutes immediately
+after of focus attention
+4259.77 meditation daily, you
+can expect that you
+4261.87 will get very, very good
+at these processes very,
+4265.52 very quickly.
+4266.45 Now, I'm not going to go
+into a lengthy description
+4268.75 of the different lines of
+evidence that the corresponding
+4272.62 areas of the brain are active
+in each of these different .
+4275.11 Meditation but
+what I can tell you
+4276.918 is that there have been
+some beautiful what
+4278.71 are called loss of
+function studies
+4280.81 where particular brain areas
+are either depleted of dopamine
+4284.62 or where dopamine
+in some cases I
+4286.298 guess what we would call
+gain of function studies
+4288.34 although not the gain
+of function studies
+4290.08 associated with virology
+different gain of function
+4292.205 studies where you enhance the
+level of dopamine in the brain.
+4294.86 What you find is that both
+divergent and convergent
+4298.3 thinking are enhanced
+when levels of dopamine
+4302.35 are elevated.
+4303.46 Now, we're not necessarily
+talking about pharmacology
+4306.05 here.
+4306.55 It turns out that
+there are other ways
+4308.17 to elevate dopamine
+that make us better
+4310.27 at divergent and convergent
+thinking in particular,
+4313.81 by using mood.
+4315.49 And now I'd like to
+talk about what mood you
+4319.09 are in when you happen to
+start a creative process,
+4322.31 or try and do a training such
+as open monitoring meditation
+4326.68 or focused meditation.
+4327.97 How your mood relates to your
+level of dopamine at baseline.
+4332.3 What we call your
+tonic as it's called,
+4334.61 meaning consistent or
+ongoing level of dopamine,
+4338.44 how that dictates whether or
+not you are going to be better
+4341.44 at one particular aspect of
+the creative process or another
+4344.71 and how you can enhance
+your creativity in the very
+4347.89 short term, very quickly using
+tools that are known to trigger
+4352.06 additional release of dopamine,
+which in some cases is good
+4354.94 and in some cases is
+bad, I should mention.
+4357.43 And in other words,
+determine how
+4361.18 you feel in one
+moment should dictate
+4363.79 what tool you should use in
+order to become more creative.
+4367.27 The relationship between
+mood and creativity
+4370.18 is a fascinating
+one that is bridged
+4372.85 by one main feature, which is
+the amount of dopamine present
+4376.84 in this nigrostriatal pathway.
+4378.85 And there's a really
+wonderful correlate
+4380.95 or measure of the
+amount of dopamine
+4383.41 that's active in
+that pathway that
+4385.3 can be addressed noninvasively
+in the laboratory.
+4388.54 As I mentioned, the
+nigrostriatal pathway
+4390.25 is involved in movement
+and in eye blinking which,
+4394.338 of course, is a movement.
+4395.38 It's not a movement of
+the sort that we typically
+4397.09 think of when we
+think of movements,
+4398.59 but nonetheless it
+relies on dopamine levels
+4400.51 in this pathway.
+4401.41 And in fact, we can
+state very confidently
+4404.29 that when dopamine
+levels are elevated,
+4406.9 the blinking reflex
+is more active.
+4409.36 People just blink more.
+4410.44 When dopamine levels are lower
+or less active in this pathway,
+4413.92 people tend to blink less.
+4415.42 So blink frequency
+is a common measure
+4418.75 in studies of dopamine
+within this pathway that
+4422.35 relate to creativity.
+4424.09 The work that I'm
+about to describe
+4425.65 is largely the
+work of two authors
+4427.51 who have done wonderful
+work across several papers.
+4430.54 Unfortunately,
+for me their names
+4431.935 are difficult to pronounce.
+4433.06 So I apologize to them
+and their relatives
+4434.81 for what is sure to be
+incorrect pronunciation.
+4437.89 But the last names
+of these authors
+4440.23 are Chermahini and Hommel.
+4442.765 They're in the Netherlands.
+4443.89 So Chermahini and Hommel done
+a number of different papers
+4447.37 or studies rather
+of the relationship
+4449.35 between blinking,
+mood, and creativity
+4451.78 in particular,
+divergent thinking.
+4453.73 What they found is that
+if people are blinking
+4456.01 fairly often and they
+measure their mood
+4458.2 through subjective
+tests and if they
+4460.09 were to do brain imaging,
+which other studies have done,
+4462.64 they find is that
+those people can
+4464.14 engage in divergent
+thinking very easily.
+4467.56 In other words,
+being in a good mood
+4469.99 facilitates divergent thinking.
+4472.66 Now, some of you might
+immediately say, well, duh,
+4475.15 if you're in a good
+mood you can be
+4476.68 more playful about the
+exploration about what
+4478.99 could happen with
+these notes of music
+4480.76 or these foods, et cetera.
+4482.35 But it's not so obvious.
+4483.58 Because it turns out that if
+your dopamine levels are very,
+4486.77 very high, and this can
+be measured noninvasively
+4490.828 through the frequency
+of blinks or it
+4492.37 can be measured more invasively
+through brain imaging
+4494.86 even through blood
+draws or other methods
+4497.14 to measure dopamine.
+4498.04 If dopamine levels are very,
+very high, what you observe
+4501.37 is that divergent thinking
+is actually very, very poor.
+4504.37 Now, a naturally occurring
+truly pathological example,
+4508.06 this would be something
+like manic bipolar disorder
+4510.49 where somebody is in the
+manic phase or somebody who
+4513.1 has taken methamphetamine or
+cocaine, what tends to happen
+4516.58 is that they have lots and lots
+of ideas, all of those ideas
+4519.73 seem really exciting to them.
+4521.182 But if you were to talk to
+them for any given moment,
+4523.39 they would be very fixated on
+one particular tunnel of ideas.
+4527.38 And by being fixated on one
+particular tunnel of ideas
+4530.095 like the idea that they're going
+to run for president tomorrow,
+4532.72 this is unfortunately
+typical of people
+4535.847 who have bipolar, which is
+not to say that everybody who
+4538.18 runs for president is bipolar
+rather people who are bipolar
+4541.21 often have these
+delusions of grandeur
+4543.158 that they're somehow going
+to be president simply
+4545.2 because they decided to and that
+they were selected to do this,
+4547.45 et cetera, et cetera.
+4548.645 Ideas about themselves
+and other people
+4550.27 that are very constrained.
+4551.95 In other words,
+not very divergent.
+4554.12 So divergent thinking is favored
+by having elevated levels
+4557.65 of dopamine but not too high.
+4560.908 Well, that, of course,
+creates a conundrum.
+4562.7 How do you know how
+much dopamine you need
+4564.71 and how to achieve those
+elevated levels of dopamine.
+4567.08 Well, leaving aside
+people who are suffering
+4569.33 from a manic episode what
+Chermahini and Hommel have
+4573.98 discovered is that if
+people are in a low mood,
+4578.18 they're not feeling great,
+maybe they're depressed
+4580.4 but they're just not
+feeling that great.
+4582.067 They feel on a scale of 1 to 10,
+around a 2, or a 3, maybe a 4.
+4585.83 The probability
+that they will be
+4587.39 able to engage effectively
+in divergent thinking
+4590.24 is quite low.
+4591.57 However, the good news
+is, they are typically
+4594.59 very susceptible to
+elevations in mood
+4598.13 through observing or
+hearing positive stories,
+4602.43 listening to music
+that they like,
+4604.31 any kind of so-called
+inspirational stimuli.
+4607.102 Now, this is good news.
+4608.06 What this means
+is that if you're
+4609.435 somebody who's not feeling
+very motivated to engage
+4611.907 in divergent thinking, you're
+not feeling very creative,
+4614.24 you're feeling a little low.
+4616.07 The thing to do in
+that case is actually
+4618.41 to take external stimuli.
+4620.39 Things that you like and start
+interacting with those stimuli
+4623.81 to get your mood elevated
+and then to engage
+4625.85 in divergent thinking.
+4627.26 However, what Chermahini
+and Hommel have also shown
+4631.55 is that if people are
+already in a very good mood,
+4637.58 elevating dopamine
+further is not conducive.
+4640.37 And in fact, is detrimental
+to divergent thinking.
+4643.34 And in that case, they would
+be better off for example,
+4647.51 not engaging in any
+activities or taking anything
+4652.25 in the way of pharmacology
+that would further
+4654.14 increase their dopamine.
+4655.61 And probably limiting the
+amount of external stimuli
+4658.94 that are coming in through
+music and visual stimuli
+4661.49 and really focusing
+on divergent thinking
+4663.62 and the creative
+process immediately.
+4665.85 Now, this is important.
+4667.1 In an earlier episode
+both on bipolar
+4669.29 and on other forms
+of depression,
+4670.88 I talked about how rates
+of bipolar manic episodes
+4676.37 and dopamine levels
+and creativity
+4679.31 tend to be correlated.
+4680.85 Now, unfortunately, rates of
+suicide are 20 to 30 times
+4684.2 higher in people who have
+bipolar disorder as well.
+4686.7 And so there's a whole dark
+side to the bipolar disorder
+4689.167 that makes it a very, very
+dangerous and important
+4691.25 disorder to treat.
+4692.99 But for sake of the
+discussion of creativity,
+4696.44 what this means is
+that we all need
+4698.51 to develop some
+intuitive sense as to
+4700.31 whether or not our mood is--
+4703.04 suppose we could spin this into
+three categories is kind of--
+4706.46 yes, happy, excited, positive
+mood, and, of course,
+4710.16 there are going to
+be levels to that.
+4712.01 Low like, mmmh, or
+meh in the middle.
+4716.1 So if you're in a
+low mood or meh mood,
+4718.82 by all means engage
+in something probably
+4721.49 for about 5 to 30
+minutes that elevates
+4723.83 your mood before trying to
+engage in divergent thinking.
+4726.41 However, if you happen to be
+in a pretty positive mood,
+4728.84 even if you're not 10
+out of 10 on mood, then
+4731.66 bringing in additional
+stimuli to increase
+4735.08 your levels of dopamine
+will not help you
+4737.24 and in fact can hurt the
+divergent thinking process.
+4740.22 So in that case, I
+would also encourage
+4742.43 you to think about
+something that
+4743.93 was discussed on a
+previous episode, which
+4745.73 is the particular
+effects of caffeine.
+4747.86 I'll get into caffeine
+a little bit later.
+4749.7 But just very briefly,
+caffeine increases
+4752.84 levels of dopamine receptors.
+4754.71 So it's not the caffeine is bad.
+4756.082 In fact, caffeine can
+be neuroprotective,
+4757.79 it can enhance
+focus and so forth.
+4759.81 But divergent thinking
+is anti focus.
+4762.74 It requires just
+enough focus to be
+4764.24 able to come up with new ideas.
+4766.19 But you actually don't
+want to be overly focused.
+4768.68 Focus is more conducive
+to convergent thinking.
+4771.058 In fact, that's exactly
+what the literature
+4772.85 shows, is that caffeine because
+its effects on epinephrine
+4776.24 and related systems in
+the brain like adenosine.
+4778.64 But mainly because
+of its effects
+4780.26 on persistence and
+focus is very conducive
+4783.26 to convergent thinking.
+4784.82 So if you're somebody who
+wants to explore creativity
+4788.18 and wants to get
+better at creativity,
+4789.83 you now know that
+you need to engage
+4791.51 in divergent thinking and then
+afterwards convergent thinking.
+4795.89 I would recommend not using
+stimulants such as caffeine
+4799.37 prior to divergent thinking
+but rather use stimulants
+4802.94 if you do want to use
+stimulants such as caffeine
+4805.49 prior to convergent thinking.
+4807.59 And in fact, in formulating
+the architecture
+4810.47 of today's episode,
+which took me
+4812.75 many hours across many
+different days I confess,
+4815.36 I actually decided to try this.
+4817.1 In trying to imagine the
+different configurations
+4819.47 and ways that this
+information can be organized,
+4821.667 I deliberately
+abstained from caffeine
+4823.25 during those bouts of work.
+4824.75 And when structuring
+everything according
+4827.66 to the decisions I
+had already made,
+4830.03 I purposely ingested
+caffeine prior to that.
+4833.07 Now, of course, constructing
+a podcast episode
+4836.36 is not really the ultimate
+example of a creative act
+4840.062 because, of course, it's
+taking existing information.
+4842.27 It's arranging in a novel ways.
+4843.562 But it doesn't necessarily
+allow key concepts
+4845.93 to pop out in the way
+that, for instance,
+4848.21 Banksy or a Rothko or
+an Escher would pop out.
+4851.33 I'm certainly not naive
+in thinking that it does.
+4853.85 But the principle of is
+what's important here.
+4857.403 You need divergent thinking.
+4858.57 You need convergent thinking.
+4859.778 You need some level
+of elevated dopamine
+4862.19 in order to engage in
+divergent thinking.
+4865.01 But not so high that it starts
+to inhibit that process.
+4868.025 Now, if you were to come
+into the laboratory,
+4869.9 this could be measured by
+your frequency of blinking.
+4872.5 For better or for
+worse, we can't actually
+4874.25 count the number of times that
+we blink unless we're actively
+4876.86 paying attention to it.
+4877.74 So I don't recommend that you
+pay attention to your blinking
+4879.38 because that will take
+you off course from all
+4881.09 the other important
+things of your life.
+4882.86 And how many times
+you're blinking
+4884.42 is rarely an important thing
+for you to pay attention to.
+4887.72 You can however, learn to
+calibrate your mood that is,
+4891.14 to assess your mood whether
+or not you're in low, medium,
+4894.93 or high mood.
+4896.0 No problem using
+that broad binning.
+4898.67 You could scale it on 1 to 10.
+4899.92 And then decide
+whether or not you're
+4901.462 going to use some
+dopamine elevating
+4903.05 stimulus from the outside.
+4904.28 Again, could be music, could be
+exercise, is an excellent way
+4907.657 to elevate dopamine.
+4908.49 I'll talk about another
+well-established one
+4910.43 from the research
+literature that
+4912.32 is known to elevate dopamine by
+65% in the particular pathway
+4917.99 that's relevant for
+divergent thinking
+4920.12 and to do that without
+any pharmacology.
+4921.908 I'll share that with
+you in a moment.
+4923.45 But you need to decide
+for you in a given moment
+4926.99 or in a given work attempt
+at creativity what you need
+4930.62 and apply accordingly.
+4931.86 Because as Chermahini and Hommel
+have shown, whether or not
+4936.23 you are in a low mood,
+medium mood, or high mood,
+4938.972 really can determine
+whether or not
+4940.43 you'll be able to access
+divergent thinking or not.
+4943.58 Now, if you're somebody who
+already has an idea in mind,
+4946.43 you're very excited
+about a creative idea
+4948.26 and you want to hone it,
+you want to shape it,
+4950.82 you want to pressure test it.
+4952.26 We'll talk a little
+bit more about what
+4953.885 that means in a three step
+process in just a little bit.
+4957.69 I would strongly
+encourage you to look
+4960.48 at that process is a very
+linear process in which there
+4963.42 are right and wrong answers.
+4965.38 And there, the use of caffeine
+at appropriate dosages
+4968.61 and dosages for
+caffeine that are safe
+4970.83 and in fact,
+performance enhancing
+4972.33 were covered in the
+episode on caffeine turns
+4974.205 out it's 1 to 3 milligrams
+per kilogram of body weight,
+4977.47 by the way.
+4978.27 And if you want to
+leverage caffeine or maybe
+4981.21 even other forms of
+healthy legal stimulants,
+4984.75 those are covered in
+the caffeine episode.
+4986.5 And I'll talk about a few
+more a little bit later.
+4988.583 So to summarize this
+segment and also
+4990.203 just to make a
+more general point,
+4991.62 I think it's very
+useful for people
+4993.09 to start to pay attention to
+what their tonic level, that
+4996.66 is their baseline
+level of dopamine
+4998.94 ought to be in this
+nigrostriatal circuit
+5002.6 and in other circuits.
+5003.56 And to do that by learning
+to assess one's mood
+5006.14 and pay attention to what
+mood they happen to be in.
+5009.02 And then to leverage tools.
+5010.49 Behavioral tools, maybe
+pharmacologic tools
+5012.405 provided they're safe
+and they're legal
+5014.03 in order to either
+increase dopamine
+5016.64 or to elect not to
+increase dopamine in order
+5019.55 to access the creative process.
+5021.195 Now, I've mentioned
+pharmacology a few times.
+5023.07 And I'd like to talk about
+that just a little bit more
+5025.32 in the context of dopamine.
+5026.78 First of all, there is
+no supplement or drug
+5030.89 that you or anyone else can
+take that will selectively
+5035.33 elevate dopamine in only
+one of the four circuits
+5039.23 that I described before.
+5040.73 This is just the state of
+the technology nowadays.
+5043.19 If you take a pill
+or even if you
+5045.14 were to inject some
+substance, again, I
+5046.94 hope this would be legal
+and safe, et cetera.
+5050.36 Whatever mode of delivery,
+there is no technology
+5053.84 that exists at this time that
+would allow you to selectively
+5057.23 amplify dopamine.
+5058.46 For instance, just in the
+nigrostriatal pathway or just
+5061.688 in the means of
+mesocortical pathway.
+5063.23 Again, the nigrostriatal
+pathway associated
+5065.022 with diversion thinking, the
+music mesocortical pathway
+5067.37 associated with cognitive
+persistence and convergent
+5070.43 thinking.
+5072.12 If you were to amplify
+dopamine levels, for instance,
+5074.79 by taking the amino
+acid precursor
+5076.56 to dopamine
+L-Tyrosine, something
+5078.27 that I occasionally
+do to enhance
+5079.86 dopamine levels for
+sake of work or energy,
+5082.02 500 milligrams or 1,000
+milligrams even of L-Tyrosine.
+5085.02 Sometimes I'll combine that with
+other things like Alpha-GPC.
+5087.63 It's going to enhance
+dopamine transmission
+5090.45 in the nigrostriatal pathway,
+the mesocortical pathway,
+5093.48 but also in the
+mesolimbic pathway,
+5095.13 and also, for that matter in
+the tuberoinfundibular pathway
+5098.35 associated with the pituitary.
+5099.6 There is no way to direct
+dopamine activation
+5103.11 to just one of those pathways.
+5105.19 That's just a reflection
+of the existing technology.
+5108.22 Now, this is also true if
+you rely on illicit drugs
+5112.14 to increase dopamine.
+5113.05 So if it's cocaine
+or methamphetamine,
+5114.633 those will greatly increase
+dopamine but nonselectively
+5118.38 across all those
+different pathways.
+5120.54 And likewise with any drugs that
+inhibit or block or antagonize
+5125.01 as it's called dopamine.
+5126.6 This is why people who, for
+instance, have schizophrenia
+5129.78 and take drugs to suppress
+auditory hallucinations, some
+5133.35 of those drugs work because they
+block the so-called D2 receptor
+5137.45 of the dopamine pathway.
+5138.45 D2 receptors are
+present in all four
+5140.76 of the dopaminergic
+pathways in the brain.
+5142.68 And oftentimes, those
+drugs will in fact
+5145.47 suppress psychotic symptoms,
+auditory hallucinations,
+5147.78 et cetera, because
+they reduce dopamine.
+5149.76 But those people oftentimes will
+have problems with movement.
+5152.85 They will express what's called
+in the clinical literature
+5155.91 tardive dyskinesia.
+5157.71 Writhing of the
+face and the body
+5159.9 from suppression
+of dopamine within
+5162.698 the nigrostriatal pathway, which
+is associated with movement.
+5165.24 They will sometimes have
+deficits in eye blinking.
+5167.82 People with Parkinson's
+who actually
+5169.83 have selective deficits of
+dopamine within the substantia
+5173.04 nigra.
+5173.73 Nigrostriatal, remember,
+it's substantia nigra
+5176.13 show deficits in what?
+5177.435 In movement.
+5178.18 In the smoothness of movement.
+5179.43 Oftentimes they
+won't blink at all.
+5181.29 They'll have a blank stare.
+5182.82 And they have other
+issues as well.
+5184.69 So if you're somebody who
+is interested in increasing
+5187.83 dopamine through the use
+of legal safe pharmacology
+5191.43 as I would hope it
+would be the case,
+5193.93 there are ways to
+do that, reasonably
+5195.78 safely for most people.
+5196.74 Again, people with
+bipolar disorder issues,
+5198.66 with the dopaminergic
+pathway should not do this.
+5200.85 I know nowadays there's
+a lot of use of drugs
+5204.39 that increase dopamine such as
+Ritalin, Adderall, modafinil,
+5210.51 armodafinil, often prescribed
+for things like attention
+5213.63 deficit hyperactivity disorder.
+5214.98 We did an entire episode
+on ADHD and pharmacologic,
+5217.86 prescription, supplement, and
+behavioral, nutritional tools
+5220.77 for ADHD.
+5221.4 You can find that episode
+at hubermanlab.com.
+5223.77 I know a number of people
+take those compounds in order
+5226.59 to increase dopamine and
+focus for sake of studying
+5231.03 or other activities staying
+up long hours, et cetera.
+5234.12 And the fact that
+they increase focus,
+5235.95 they are effective although
+they do have their side effects.
+5238.86 Sometimes severe, sometimes
+habit forming, sometimes
+5241.47 even addicting as well.
+5242.898 But the fact that
+they increase focus
+5244.44 should automatically
+tell you something
+5246.27 that those drugs in
+particular increase
+5249.54 dopamine in the
+so-called mesocortical
+5253.86 and mesolimbic pathways.
+5255.75 Why can I say that?
+5257.128 How can I say that with
+any degree of confidence?
+5259.17 Well, there are these four
+pathways ones involved
+5261.33 in movement, but
+these other ones
+5263.73 are involved in motivation
+and desire and reward.
+5266.85 And I told you that
+these things can
+5268.35 be habit forming and
+addicting in some cases
+5270.21 and they are can
+greatly increase focus.
+5272.91 And focus is supported by
+enhanced levels of dopamine
+5276.78 within this mesolimbic
+and mesocortical pathway.
+5280.66 So yes, those drugs increase
+dopamine across the board,
+5283.5 but there does seem to be
+some weighting of dopamine
+5285.96 toward the systems involved
+in motivation and reward
+5288.66 and sometimes even leading to
+habit formation and addiction.
+5291.27 That's why those
+drugs should only
+5293.67 be taken with the close
+supervision of a very
+5297.48 skilled psychiatrist or somebody
+else who's board certified
+5300.75 who can really govern that.
+5303.33 There are however, ways
+to increase dopamine
+5306.03 more evenly across the
+board using nonprescription
+5308.77 approaches.
+5309.27 And one I already
+mentioned, which
+5310.74 is L-Tyrosine taken
+typically in dosages
+5313.44 of 500 to 1,000 milligrams.
+5315.12 L-Tyrosine is not as potent
+in increasing dopamine
+5318.18 as are the prescription drugs
+that I referred to before.
+5322.5 Tends to be milder.
+5323.49 For some people it can have
+a very amplified effect.
+5325.95 They feel it right away.
+5327.01 It's very intense in
+elevating focus and motivation
+5330.42 and the desire to move.
+5332.4 For other people,
+it's less potent.
+5335.053 It really depends on
+a number of things.
+5336.72 I should mention that regular
+consumption of caffeine
+5339.54 of 1 to 3 milligrams per
+kilogram of body weight per day
+5342.54 also will increase dopamine
+receptor efficacy and density,
+5346.78 which will make any existing
+dopamine more effective
+5349.95 whether or not that dopamine
+is triggered by things
+5352.26 like L-Tyrosine, or if
+you're not taking anything
+5354.63 to elevate dopamine.
+5355.72 The dopamine that
+you do make will
+5357.21 be more effective in elevating
+your mood, motivation,
+5360.57 and desire to move.
+5362.52 And by extension
+divergent thinking.
+5364.95 If you are consuming
+caffeine, but, again, caffeine
+5367.44 should be taken prior to
+convergent thinking type task
+5369.69 probably more than it
+should be taken prior
+5371.77 to divergent thinking task.
+5373.3 And, of course, there are
+other legal supplements
+5375.67 that can elevate
+dopamine as well
+5377.08 and particular phenethylamine
+is very effective in doing that.
+5379.96 600 milligrams of that
+has a brief effect lasting
+5383.44 only about 30 to 45 minutes.
+5384.982 But it is one that
+many people find
+5386.44 beneficial for sake of studying
+or for creative thinking
+5389.44 and so on and so forth.
+5390.65 Now, that's pharmacology.
+5391.93 And in fact, there's
+an extensive landscape
+5394.028 of prescription and
+supplement based pharmacology
+5396.07 and indeed nutrition.
+5397.9 For instance, the
+consumption of foods
+5399.76 that are high in L-Tyrosine
+such as aged Parmesan cheese,
+5403.153 for instance, of all things.
+5404.32 Very, very high in L-Tyrosine.
+5405.76 The precursor to dopamine.
+5407.2 Certain foods.
+5408.1 You can look up
+online which foods
+5409.57 contain high levels
+of L-Tyrosine
+5411.34 and which ones are compatible
+with your nutrition.
+5413.59 But leaving pharmacology
+aside, there's
+5416.98 a very exciting
+nonpharmacological tool.
+5420.49 A purely behavioral tool
+that the research literature
+5424.0 has told us can selectively
+increase dopamine
+5427.87 within the
+nigrostriatal pathway.
+5430.75 The pathway that's involved
+in divergent thinking.
+5433.12 And can do so very dramatically
+as much as 65% above baseline.
+5437.98 And so this is a
+behavioral tool that
+5440.56 is useful for a number of things
+but that I find particularly
+5443.47 interesting in leveraging
+towards the exploration
+5446.62 and enhancement of creativity
+because first of all,
+5448.85 it's purely behavioral.
+5449.86 So it's 0 cost.
+5451.63 And it involves no manipulation
+of brain neuromodulators
+5456.7 or chemistry through
+pharmacology.
+5458.38 So it's something that you
+can explore very safely
+5461.17 and certainly not having
+to purchase anything.
+5463.21 And what's really remarkable
+is the selectivity
+5466.57 or I think it's fair to
+say the immense selectivity
+5469.42 that this particular
+behavioral intervention seems
+5472.3 to exert on dopamine within
+this pathway associated
+5475.9 with divergent thinking.
+5477.1 So the study that
+I'm about to describe
+5478.96 is a study that
+dates back 20 years.
+5481.425 Now, that should
+not concern you.
+5482.8 In fact, the early arrival
+of this study or what
+5487.15 now seems to be early arrival.
+5488.5 I mean, it wasn't that long
+ago, is really exciting
+5491.89 because the first
+line of this study
+5493.78 really illustrates how important
+or how much of a landmark study
+5497.86 this really is.
+5498.53 And so I'll just read you
+the first line of the study,
+5500.35 then I'll tell you
+the title, then I'll
+5501.975 tell you what they discovered
+in fairly top contour
+5504.965 and we will provide
+a link to the study
+5506.59 if you want to peruse
+it in more detail.
+5509.06 The first line of the study
+is this is the first in vivo,
+5512.23 just meaning in the organism.
+5513.73 In this case, this
+was a study on humans.
+5516.05 This is the first in
+vivo demonstration
+5518.17 of an association between an
+endogenous neurotransmitter
+5521.68 release, endogenous means within
+us, and conscious experience.
+5525.677 So what this sentence
+essentially says
+5527.26 is this is the first study
+exploring how a chemical that's
+5529.84 naturally released in our body
+relates to a particular quality
+5534.07 of conscious experience.
+5536.02 This study was performed
+in Scandinavia,
+5538.66 in one of the
+hospitals in Denmark.
+5540.853 Again, we'll provide a link.
+5542.02 The first author is Kjaer.
+5543.443 I think I'm pronouncing it
+correctly although probably not
+5545.86 K-J-A-E-R et al.
+5549.1 And the title of the
+study is Increased
+5550.99 Dopamine Tone During
+Meditation Induced
+5552.94 Change of Consciousness.
+5554.152 And I want to just highlight
+that the meditation used
+5556.36 in this study isn't really
+a meditation at all.
+5558.65 I don't know why they
+selected that for the title.
+5560.83 The behavioral protocol
+used in the study
+5563.11 was more akin to what is
+normally called yoga nidra
+5566.68 or NSDR nonsleep depressed.
+5569.51 Now yoga nidra and NSDR have
+been discussed many times
+5572.02 before on this podcast.
+5573.52 Yoga nidra, for
+instance, is a practice
+5575.35 that's been around for hundreds
+if not thousands of years
+5577.725 in which people
+deliberately lie still.
+5580.15 So they're forcing themselves
+to be mostly motionless,
+5583.42 small movements are fine.
+5585.19 And they're directing
+their attention
+5586.78 to the surface of
+their body, they're
+5588.01 doing long exhale breathing.
+5589.21 Sometimes some intentions,
+sometimes some visualization.
+5592.51 But it's really
+self-directed relaxation.
+5595.06 And the key component is that
+people stay awake and engage
+5598.96 in very little movement.
+5600.91 And the key word
+there is movement.
+5602.74 Now, nonsleep depressed is a
+acronym, a term that I coined.
+5607.6 It's not a term that
+I coined in order
+5609.64 to try and wipe away or
+discard with yoga nidra.
+5612.76 I'm a person who has
+great respect for yoga
+5615.7 nidra and its traditions.
+5616.99 It's a term that
+I coined in order
+5619.63 to encompass a number of
+practices that don't include
+5622.66 any mystical type language
+or scientific language
+5626.073 for that matter.
+5626.74 And that doesn't
+involve intentions.
+5628.6 It involves deep relaxation
+yet remaining wide awake
+5632.29 and conscious.
+5632.95 Sometimes people fall
+asleep and that's OK.
+5634.87 But this is really an
+atypical brain state
+5637.51 of being deeply relaxed yet in
+general awake and motionless.
+5643.48 Again, motionless being the key.
+5645.55 Very few brain states involve us
+being mostly if not completely
+5649.54 motionless and yet awake.
+5650.66 And it turns out that
+brain state whether or not
+5652.66 you call it yoga nidra,
+you call it NSDR,
+5654.82 whether or not you call it
+meditation induced shift
+5657.58 in consciousness as
+they did in this study,
+5660.32 although they do
+refer to yoga nidra,
+5662.23 all refer to the same thing,
+which is being motionless
+5665.62 and yet aware and relaxed.
+5668.71 I should mention.
+5669.55 So in this study,
+what they did was
+5671.14 they subjects into
+the laboratory.
+5673.96 They had them either undergo
+this self-directed deep
+5678.28 relaxation while they are
+motionless or mostly motionless
+5681.7 or they had them listen
+to an audio script
+5684.97 while also just lying
+there with eyes closed.
+5687.28 And then they used a
+number of chemical tricks.
+5689.448 And I don't want to
+get too deep into those
+5691.24 now because they can be
+a little bit distracting.
+5692.77 For those of you
+that are interested,
+5693.86 you can look at it in the study.
+5695.193 This is a binding of a
+chemical in the brain
+5697.287 that then they can image
+with brain imaging, which
+5699.37 is what they did in the study
+to evaluate how much dopamine
+5703.06 changed in the brain
+and where specifically
+5705.13 in the brain dopamine
+changed its levels before,
+5708.44 during, and after this
+particular behavioral practice
+5711.91 in one or the other group.
+5713.2 And what they discovered
+is that people
+5716.02 who did this deep
+relaxation, that
+5718.21 is, self-directed deep
+relaxation lying their eyes
+5722.05 closed, relatively motionless
+although small movements
+5727.24 of the body or movements of
+the head are absolutely fine.
+5730.57 What they observed was a 65%
+increase in dopamine release.
+5735.49 Now, here its key.
+5736.27 Dopamine release.
+5738.07 And they observed an increase
+in so-called theta activity.
+5741.49 Theta activity is a pattern
+of brain wave activity that's
+5745.21 commonly associated
+with creative states
+5747.85 and divergent thinking
+in particular.
+5749.42 So that's important.
+5751.25 And they observe
+that across subjects
+5753.79 specifically in the
+nigrostriatal pathway.
+5756.14 This pathway associated
+with divergent thinking.
+5758.42 So this is very exciting.
+5759.693 This is a study
+that really points
+5761.11 to a behavioral tool that can
+be used to selectively elevate
+5764.68 dopamine in the very pathway
+that one would want to if they
+5768.52 wanted to engage divergent
+thinking for sake
+5770.44 of creative exploration.
+5772.18 There are also a number of key
+observations within this study.
+5775.66 First of all, the reduction in
+bodily movement was essential.
+5781.19 In fact, when people rated or
+when the amount of readiness
+5786.46 for action in their system,
+their body was evaluated.
+5790.33 What people found was that
+immediately after this practice
+5793.36 they felt very still.
+5795.04 In other words, they felt as
+if remaining still was natural.
+5797.833 Now it's not the case
+that they couldn't move.
+5799.75 In fact, the
+elevation in dopamine
+5801.19 that occurred during
+this practice, this yoga
+5804.88 nidra-like nonsleep or
+NSDR-like practice, actually
+5808.96 prepared them to be able to
+move in a much more dedicated
+5813.58 and robust way afterwards.
+5814.845 But during the practice,
+their readiness for action
+5816.97 went way, way down.
+5817.762 Not surprising.
+5818.5 They were pretty
+much motionless.
+5820.21 But interestingly, as the
+level of readiness for movement
+5825.16 went down, down,
+down, down down,
+5826.84 their degree of
+visual imagery, that
+5829.51 is, their internal
+landscape and their ability
+5832.39 to imagine new things increased.
+5835.57 And in fact, areas
+of the brain that
+5837.64 are associated
+with visual imagery
+5839.14 such as the visual or
+so-called occipital
+5841.72 cortex and the parietal cortex
+has been shown in other studies
+5844.96 to ramp up when
+people are motionless.
+5846.973 So there seems to be
+this inverse relationship
+5848.89 between movement and visual
+imagery which makes sense.
+5851.597 When we're moving
+we can pay attention
+5853.18 to things in the
+outside world, we
+5854.89 tend to be aware of our sensory
+environment to varying degrees.
+5858.13 But we don't tend to be very
+focused on visual imagery
+5860.8 within our head whereas when we
+lie down or sit down and close
+5863.74 our eyes and we are motionless,
+the degree of visual imagery
+5866.35 really increases.
+5868.03 Hence, the increase
+in divergent thinking
+5870.52 because what
+essentially is happening
+5872.11 is the library of
+options, the library
+5875.29 of possible interactions
+with whatever it
+5877.13 is that you're thinking about.
+5878.38 I gave the example, which
+is a trivial one on purpose
+5880.588 of a pen.
+5881.23 But the bank of options
+that becomes available
+5884.83 when we are motionless
+and when we are limiting
+5886.96 our visualization of
+the external world
+5890.2 increases exponentially.
+5892.295 So this is important.
+5893.17 And what it points
+to is the fact
+5894.58 that this very simple completely
+nonpharmacologic behavioral
+5898.03 practice of lying
+down motionless
+5900.0 for some period of time.
+5901.0 And I confess the amount
+of time that they use
+5902.92 in the study was quite long.
+5904.91 It was longer than 60 minutes.
+5906.94 But all the data that I'm aware
+of in terms of NSDR and yoga
+5910.87 nidra, and there's a
+growing body of literature
+5912.85 on these practices
+I should mention,
+5915.01 show that even 10
+minutes or even better
+5918.79 would be 20 or 30 minutes
+of lying motionless
+5921.49 with eyes closed and
+allowing the mind to drift,
+5925.3 wherever it happens
+to go, but focusing
+5929.14 on relaxing by doing
+long exhale breathing,
+5931.69 perhaps doing a body
+scan or focusing
+5933.61 your attention on
+particular body parts
+5935.83 but not keeping it focused
+on any one particular body
+5938.23 part for that long, that general
+practice of deep relaxation
+5941.86 while awake and being
+relatively motionless really
+5944.92 favors the brain
+states associated
+5946.95 with divergent thinking.
+5947.95 And actually
+represents an accessing
+5950.62 of the various
+components that you would
+5952.66 use during divergent thinking.
+5954.88 And perhaps most
+excitingly, it's
+5957.4 associated with this massive
+increase, 65% increase
+5960.79 in dopamine release within
+the very pathway that
+5963.4 underlies divergent thinking.
+5965.233 So my recommendation
+would be for those of you
+5967.15 that are trying to
+enhance divergent thinking
+5969.025 and creative ability, that
+you would do this practice
+5972.41 at a minimum once per week.
+5974.013 And I should say if you were
+going to do it once per week,
+5976.43 I would recommend doing it
+for about 20 to 30 minutes.
+5978.92 Some of you might be able to do
+it for as long as 60 minutes.
+5981.89 I myself do such a practice
+on a daily basis, anywhere
+5984.89 from 10 minutes to 20
+minutes, sometimes 30 minutes.
+5988.46 There's an example of an NSDR
+script, completely zero cost.
+5992.6 I confess it does
+happen to be my voice.
+5994.61 So forgive me in advance.
+5996.47 There are other options of NSDR.
+5998.0 You can go to YouTube,
+put NSDR and my name.
+6000.82 Again, completely zero cost.
+6002.14 You can get a sample of
+what a 10 minute NSDR
+6005.32 script looks like.
+6006.22 That's through Virtusan,
+put that out there.
+6009.14 So thank you Virtusan for
+putting that out there
+6011.14 at zero cost.
+6012.25 There are examples of 20 and
+30 minute NSDR scripts and yoga
+6016.6 nidra scripts.
+6017.35 Some that I particularly like.
+6018.8 We will also provide a
+link to some of those.
+6020.8 Again, those are completely
+zero cost for you to explore.
+6023.62 But more important than you
+follow any one particular yoga
+6026.8 nidra NSDR script
+is that you learn
+6028.96 to take your body and brain into
+these states of limited motion,
+6034.0 elevated dopamine within
+this particular pathway,
+6036.61 and fairly deep relaxation.
+6038.23 Again, if you happen
+to fall asleep,
+6039.91 that's not necessarily
+a bad thing,
+6041.913 although the idea
+is that you stay
+6043.33 in a shallow plane
+of consciousness
+6045.13 or sleep hence the term
+nonsleep deep rest.
+6049.12 So in any event, I think this
+is a very useful practice
+6051.67 that many people
+could benefit from.
+6053.17 And the fact that it's zero
+cost and purely behavioral,
+6055.462 I think adds additional
+benefit because it's
+6058.355 certainly one that
+people could explore
+6059.98 depending on what amount of
+time you're willing to commit.
+6062.8 And the research
+data on this now
+6065.29 extend beyond this
+one individual paper.
+6067.42 And I think is really
+exciting because what it says
+6070.06 is as the title and
+first line of the paper
+6072.61 suggests is that we
+can increase dopamine
+6074.74 using specific types
+of meditation induced
+6077.47 consciousness.
+6078.25 And those increases
+in dopamine can
+6080.47 be used to increase our
+ability to be more creative.
+6083.32 Before moving forward, I
+want to make absolutely clear
+6086.23 how it is that you
+would use an NSDR a.k.a.
+6089.32 yoga nidra or similar,
+the name doesn't really
+6091.9 matter after all, the
+practice is what matters,
+6094.66 in order to enhance dopamine
+in this nigrostriatal pathway
+6099.16 and enhance divergent thinking.
+6100.96 The key thing to
+understand here is
+6103.12 that the period
+of motionlessness
+6106.12 and deep relaxation
+while awake increases
+6109.6 dopamine in the
+nigrostriatal pathway.
+6111.97 It increases mental imagery.
+6114.58 That is, it increases access to
+the bank or the library, if you
+6119.29 will, of possible
+solutions or elements
+6122.77 to engage in the divergent
+thinking process.
+6125.35 But divergent thinking
+itself does not
+6127.87 occur during NSDR a.k.a.
+6130.66 yoga nidra.
+6132.49 The NSDR and yoga nidra, a
+deep relaxation meditation,
+6136.13 whatever it is you want to call
+it, sets a dopaminergic tone.
+6139.635 And that's actually the
+appropriate use of the word
+6141.76 dopaminergic tone it
+raises the baseline
+6144.1 of dopamine transmission
+in that circuitry that
+6147.37 then positions you to
+engage in divergent thinking
+6150.67 more effectively.
+6151.82 So the idea would be to
+do anywhere from 10 to 20,
+6154.9 maybe 30 minutes, maybe
+even as much as an hour,
+6157.37 depending on how much time
+you had to dedicate of such
+6159.91 a meditation and NSDR practice.
+6162.13 And then not
+necessarily immediately
+6164.77 but within the 5 to 15
+minutes following, then
+6168.79 to go into a practice
+of divergent thinking
+6171.58 and start doing
+creative exploration.
+6173.5 That is to start thinking
+about different ways
+6175.54 to combine existing
+elements in whatever domain
+6178.0 it is that you want
+to achieve creativity.
+6180.34 So the point is that the
+divergent thinking itself
+6183.04 is not occurring during the
+NSDR or yoga nidra practice.
+6187.48 The NSDR and yoga nidra
+practice prepares you
+6189.94 for divergent thinking that
+you do in the hour or hours
+6193.27 that follows.
+6194.08 And just to contrast
+that with pharmacology,
+6196.57 I am not aware of any specific
+dopamine related pharmacology
+6200.86 that would allow us to
+selectively increase dopamine
+6203.53 in the very pathway associated
+with divergent thinking
+6205.99 and creativity.
+6207.64 Now, there are forms
+of pharmacology
+6209.71 that can shift brain
+neurotransmitters
+6211.99 and modulators in ways
+that favor creativity.
+6214.438 And this is certainly
+a topic that we
+6215.98 we'll go into in more
+depth in a future episode.
+6218.62 But there's an
+exciting study that
+6220.12 was performed just
+this last year looking
+6222.4 at the role of serotonin,
+another neuromodulator,
+6225.91 in divergent and
+convergent thinking.
+6228.16 And it turns out that serotonin
+underlies a lot of the brain
+6233.02 activity that's responsible
+for both divergent
+6235.66 and for convergent thinking.
+6237.37 And there's one particular
+form of pharmacology
+6240.52 which can enhance activation
+of the serotonergic pathways
+6244.06 associated with the so-called
+5-HT, that's serotonin.
+6247.72 5-HT, that's the abbreviation.
+6249.88 5-HT2A receptor.
+6252.88 Serotonin 2A receptor in
+particular brain areas
+6255.91 in ways that favor both
+divergent and convergent
+6258.46 thinking.
+6259.03 And the pharmacologic
+agent in that case
+6261.94 turns out to be very low
+dose or as some of you
+6264.97 may have heard of it referred
+to as microdosing of psilocybin.
+6269.383 Now, I do want to say because it
+would be entirely inappropriate
+6272.05 for me to not say this, that
+in most areas of the world
+6275.747 and particularly in
+the United States,
+6277.33 psilocybin is still illegal.
+6279.25 It is not legal.
+6280.42 In some areas it has
+been decriminalized
+6282.97 and there are a number of
+different clinical trials
+6285.64 occurring now at Johns
+Hopkins, at Stanford,
+6288.25 at University of
+California, San Francisco,
+6290.26 and elsewhere
+exploring psilocybin
+6292.15 for the treatment of
+depression, for trauma,
+6294.88 for eating disorders.
+6296.53 Most of those studies focus
+on macrodoses of psilocybin
+6300.25 not microdosing.
+6301.3 There are far fewer studies
+of microdosing of psilocybin.
+6303.85 And I do have to point
+out that psilocybin use
+6307.09 and possession and, of
+course, sale is still illegal.
+6310.34 So I would be remiss
+if I didn't state that.
+6312.86 However, I will provide
+a link to the study that
+6315.34 shows that microdosing
+of psilocybin
+6317.62 for a series of weeks
+on a daily basis.
+6320.54 So these are dosages
+of psilocybin
+6322.06 that do not induce hallucination
+and do not massively
+6325.93 shift mood or internal states in
+any way that has people feeling
+6330.79 like they are acting
+or feeling that
+6333.145 much different although
+some people do report
+6335.02 a subjective shift.
+6336.34 Does seem to increase
+divergent thinking ability.
+6340.06 But I do want to put a
+big asterisks, a highlight
+6343.72 in an underlying beneath the
+statement I'm about to make,
+6347.12 which is that pharmacology
+of the serotonin system
+6350.29 just as pharmacology
+of the dopamine system
+6353.44 is very broadband.
+6355.06 It's a shotgun approach.
+6356.08 You're going to hit
+all the circuits
+6357.58 of the brain that
+involve serotonin
+6359.08 with microdosing psilocybin.
+6360.91 Although it has some selectivity
+for the 5-HT2A receptor
+6364.24 it can attach to other
+receptors as well and act there.
+6368.39 This is the same reason why
+SSRI, Selective Serotonin
+6370.81 Reuptake Inhibitors can
+indeed shift mood and appetite
+6374.26 but it can also shift
+libido and other things.
+6376.72 It's because there are
+serotonin receptors everywhere,
+6379.39 or I should say many
+places, not just in
+6381.982 the areas of the brain that
+are associated with mood,
+6384.19 for instance.
+6385.61 And as I mentioned before,
+agents, whether or not they
+6389.74 are recreational or illicit
+drugs or prescription drugs
+6393.1 or supplements that
+increase dopamine will also
+6396.61 be broadband into a number of
+different circuits in parallel.
+6399.95 So this is why I always
+say behavioral tools really
+6404.02 should come first.
+6405.22 I don't say that because
+I dislike pharmacology,
+6407.555 I say that because in many
+cases behavioral tools are not
+6409.93 only safer and easier
+to titrate to adjust
+6412.45 the duration, et cetera
+than is pharmacology,
+6415.33 but also because
+they can sometimes
+6417.412 as in the case of
+the study we just
+6418.87 described for you more
+specificity not less than
+6422.77 pharmacology.
+6423.53 Pharmacology has its
+place can be wonderful,
+6426.52 provided safe and
+legal, et cetera.
+6428.44 But it can cause a lot of
+so-called off target effects.
+6431.842 So for those of you that
+are interested in increasing
+6434.05 creativity through
+pharmacology, I
+6436.72 would say, stay tuned for
+the data on psilocybin
+6440.62 and microdosing psilocybin.
+6441.88 If you are absolutely obsessed
+with the idea of microdosing
+6445.93 psilocybin for
+enhancing creativity
+6447.708 and you'd like to go
+straight to the study,
+6449.5 I will tell you what that
+study is and therefore you
+6452.02 can access some of the
+specifics in terms of dosages
+6454.45 and protocols, et cetera.
+6455.56 So since I can't
+help myself, I'll
+6456.977 just very briefly summarize that
+microdosing psychedelic study.
+6461.18 The title of the study,
+which was published in 2018
+6464.38 is Exploring the Effect of
+Microdosing Psychedelics
+6466.6 on Creativity in an Open
+Label Natural Setting.
+6470.26 Interesting title.
+6471.22 This was a microdosing
+event organized
+6473.53 by the Dutch
+psychedelic society.
+6475.6 They examined the effects
+of psychedelic truffles
+6478.24 where they knew what psychedelic
+compounds were contained there
+6482.65 on two creativity related
+problem solving task,
+6486.13 the picture concept task, which
+I don't expect you to recognize
+6489.46 or know but it assesses
+convergent thinking
+6491.83 and the alternative
+uses task which
+6494.447 I also don't expect
+you to know but is
+6496.03 a standard task for
+assessing divergent thinking.
+6498.67 They tested once before
+taking a microdose
+6501.07 and while the effects were
+expected to be manifested
+6503.92 they say.
+6504.79 Interesting.
+6505.3 They use the word manifested
+in a study of psychedelics.
+6507.633 Science is changing indeed.
+6510.25 In any case, what they found
+was an enhancement of creative.
+6516.13 That is, divergent and
+convergent thinking
+6519.25 not surprising given the
+fact that the 5-HT2A receptor
+6524.05 activity is increased by
+microdosing of psilocybin
+6528.46 and 5-HT2A receptors are present
+both on the neural circuits
+6532.45 that underlie divergent
+and convergent thinking.
+6535.54 So, again, this is not a plug
+for microdosing psilocybin.
+6540.34 This is really in
+response to what
+6542.315 I know will be a number of
+different questions about what
+6544.69 pharmacologic agents can be
+used to increase creativity.
+6548.02 So more on that later
+and, again, we'll
+6549.91 provide a link if you want to
+read that study in more depth.
+6553.84 I can imagine that
+a number of you
+6555.31 are probably also wondering
+about the effects of alcohol
+6557.94 and the effects of
+cannabis on creativity.
+6559.69 We did a long in-depth
+episode all about alcohol
+6562.87 and its effects on health.
+6564.85 The bottom line on
+alcohol is that in excess
+6568.055 of two drinks per
+week, you're starting
+6569.68 to run into the cancer promoting
+and toxic effects of alcohol.
+6573.55 I didn't choose for
+the answer to be that,
+6576.62 but that's what
+the data tell us.
+6579.46 I'm not telling you you can't
+drink more than two drinks
+6581.83 per week, I'm just saying that
+if you're going to do that,
+6583.58 you should really
+consider offsetting
+6585.64 that with some other
+behavioral measures
+6587.62 all discussed in the
+episode on alcohol.
+6589.39 And despite what
+people think, there
+6592.12 is absolutely zero evidence that
+alcohol increases creativity.
+6597.31 However, by way of
+reducing activation
+6600.55 of the prefrontal cortex,
+there is some evidence
+6603.28 that alcohol and
+other substances
+6605.26 that reduce what's called
+autobiographical scripting,
+6608.65 that is, a narrative
+about ourselves,
+6612.5 so self awareness, that it
+can enhance divergent thinking
+6615.97 at very low doses.
+6617.435 And this makes sense.
+6618.31 Divergent thinking involves
+remembering certain things
+6621.43 that we can use as elements
+in the creative process
+6623.77 but suppressing narratives
+about what the use of those
+6626.89 would mean.
+6627.46 Will people like it?
+6628.36 Will they not like it?
+6629.41 Will it to the outcome we want?
+6630.55 Well, it won't.
+6631.18 All of that
+autobiographical scripting
+6633.01 involves the forebrain
+being very, very active
+6636.16 and specific regions of the
+forebrain in particular.
+6638.86 And that all needs
+to be suppressed,
+6641.56 which alcohol in very
+low doses can accomplish.
+6644.37 But, again, that's not
+a plug for alcohol.
+6646.12 I think behavioral tools
+would be a much better route.
+6648.49 But therefore it
+shouldn't be surprising
+6651.16 why some people have used
+low dose alcohol in order
+6653.74 to engage in the
+creative process
+6655.54 because it involves
+less inhibition
+6657.19 or sense of self that could be
+detrimental to the divergent
+6659.89 thinking process.
+6660.91 Now, with respect to
+cannabis, I went in depth
+6664.12 into the biology and the
+various uses, misuses,
+6667.54 dangers, and in some cases
+benefits of cannabis use
+6670.72 in certain.
+6672.1 The key word there is
+certain populations.
+6674.63 And I also dove
+into whether or not
+6677.62 cannabis can be used to increase
+divergent and convergent
+6680.3 thinking.
+6680.8 So that's timestamped
+in that episode.
+6682.27 I'll refer you to that episode.
+6683.562 But the long and short of
+it is that many of the ideas
+6686.89 that people come up with when
+under the influence of cannabis
+6690.16 in particular high THC
+containing cannabis does lead
+6695.53 to enhanced divergent
+thinking, but so enhanced
+6699.22 it turns out that
+oftentimes those ideas can't
+6701.8 be constrained by the
+convergent thinking process.
+6704.27 In other words, they
+have lots of ideas
+6705.91 that make sense while under
+the influence of cannabis.
+6709.57 But that later cannot be
+implemented into a coherent
+6713.83 framework that leads to any
+actual creative endeavor
+6718.3 or creative product.
+6719.92 Or, as is often the
+case with cannabis,
+6722.17 they simply can't remember
+what they were thinking about.
+6724.78 Any time there's a
+discussion about dopamine,
+6727.03 there seems to be a discussion
+about motivation, desire,
+6729.91 and drive.
+6730.54 And, of course, that makes sense
+given the roles of dopamine.
+6733.09 We did an entire episode
+on dopamine, motivation,
+6735.18 and drive.
+6735.68 It's one of our most
+popular episodes.
+6737.47 Again, you can access that
+with timestamps and all formats
+6740.44 at hubermanlab.com.
+6742.15 And any time
+there's a discussion
+6743.59 about dopamine and
+motivation, we also
+6746.95 seem to have a lot of questions
+about attention and focus
+6750.22 and ADHD or attention
+deficit hyperactivity
+6752.98 disorder in particular.
+6754.58 So just as a brief
+mention, there
+6756.52 is a literature although
+not terribly extensive,
+6759.4 a small but strong literature
+on the relationship
+6762.58 between ADHD and creativity.
+6764.89 And the long and short
+of that literature
+6766.63 is that people who have
+ADHD regardless of age
+6770.5 do seem to have an
+ability to focus.
+6773.11 I've mentioned that
+in the episode on ADHD
+6775.09 provided that they are
+interested in the thing
+6777.79 that they are focusing on.
+6779.09 So that runs counter to this
+idea that people with ADHD
+6781.57 simply can't focus.
+6782.53 They can but it tends to be a
+focus that selective for things
+6785.62 that they are very excited about
+or interested in as opposed
+6788.47 to a general ability to focus.
+6790.93 What's also highly
+underappreciated
+6793.75 is that people who
+have ADHD oftentimes
+6797.26 are very effective
+at divergent thinking
+6799.9 but are less effective
+at convergent thinking.
+6802.72 What this tells us is
+that people with ADHD
+6805.0 can often have excellent novel
+and indeed creative ideas,
+6809.5 but that the implementation
+of those creative ideas
+6812.32 is sometimes challenge.
+6813.43 And that's one reason to
+explore rational pharmacology,
+6816.22 nutrition,
+supplementation, et cetera.
+6818.05 Those are all things
+to explore in concert
+6820.15 with or I should say in
+working closely with a board
+6823.33 certified physician or ideally
+psychiatrist expert in ADHD.
+6826.948 You can also check out the
+episode that we did on ADHD.
+6829.24 There are a lot of tools there.
+6830.532 A lot of science mentioned
+there to support those tools.
+6833.2 Again, you can find
+that Hubermanlab.com.
+6835.15 But I did think it was
+important to point out,
+6837.35 even if briefly that having ADHD
+is not a barrier to creativity
+6841.99 and, in fact, may actually be
+an enhanced portal to creativity
+6845.71 but that it doesn't
+allow people to access
+6848.44 the convergent thinking that
+allows creative ideas to be
+6852.1 implemented into specific
+strategies, pressure tested,
+6854.95 and eventually delivered in
+the form of a final product
+6857.92 of music, art, et cetera.
+6859.63 That is not to say that people
+with ADHD cannot accomplish
+6862.69 that, but that it is going to
+require some additional steps
+6865.63 and protocols in order to
+enhance convergent thinking.
+6868.81 And that episode and
+the episode that we
+6870.49 did on focus and in particular
+tools to enhance focus
+6874.3 is very much directed at ways
+to enhance convergent thinking.
+6878.26 So if you have ADHD or
+know somebody who does
+6880.45 and you're interested
+in the creative process,
+6882.367 we're focusing generally
+please check out the episodes
+6884.77 that I mentioned.
+6885.58 Now, there's also a small
+but nonetheless very exciting
+6887.98 literature on the relationship
+between physical movement
+6890.74 and divergent thinking.
+6892.13 This should come as
+no surprise to us.
+6894.28 As mentioned many times
+now in this episode,
+6896.53 the nigrostriatal pathway
+involved in divergent thinking
+6899.17 that involves dopamine is also
+responsible for eye blinks
+6902.56 and for movements of the
+limbs of the body in very
+6905.92 deliberate ways.
+6907.36 This tells us that there's
+some direct or maybe
+6910.75 indirect relationship
+between movement
+6912.67 of the body and
+divergent thinking.
+6915.207 And despite the fact that
+it's only a few studies,
+6917.29 there have been some studies
+of whether or not people are
+6919.9 able to engage in
+divergent thinking
+6921.7 more effectively when
+they are doing things
+6923.86 like pacing or walking.
+6926.277 And this could be on a
+treadmill or back and forth
+6928.36 across the room.
+6929.17 And in fact, that is
+absolutely the case.
+6931.36 If you're somebody
+like myself who
+6933.25 tends to have their
+best ideas, not
+6936.55 saying that my ideas are always
+terrific, but among the ideas
+6939.58 I have, some of the better
+ones arrive to me while
+6942.28 on my long Sunday run.
+6944.08 I tend to do a long
+run or hike on Sundays
+6946.63 sometimes with a light weight
+vest or something of that sort.
+6949.58 But when I'm in a state
+of essentially not
+6952.3 directing my attention
+to any one thing
+6954.73 in my external environment, this
+is extremely key for reasons
+6957.475 that now should be obvious.
+6958.6 Any time we are
+directing our attention
+6960.225 to a visual target
+or an auditory target
+6962.77 we are not as able to engage
+in divergent thinking.
+6965.38 This is why I will
+sometimes listen
+6967.42 to podcasts or to audiobooks
+while I go on these runs.
+6970.09 But for portions of
+these runs or hikes
+6971.74 I tend to turn those off and
+just focus on the movement
+6975.07 and focus on not focusing
+on anything in particular.
+6977.65 And oftentimes I will stop and
+write down ideas that suddenly
+6981.19 or seemingly suddenly appear
+to me or geyser to the surface.
+6985.12 I'll have an idea.
+6985.87 Sometimes those are good ideas,
+sometimes less good ideas.
+6988.3 The fact that happens
+for me and the fact
+6990.37 that many people are
+pacers or runners
+6993.04 or come up with their best
+ideas while in the shower
+6995.35 or while engaging in
+activities that don't require
+6998.02 a lot of sensory
+attention to one
+6999.88 specific location either
+visual or auditory,
+7002.58 et cetera, that is because it
+engages these nigrostriatal
+7007.29 pathways through movement
+which then opens up
+7010.53 this library of ideas and
+allows the intersection
+7013.38 of different ideas that
+normally would be constrained
+7015.9 to separate categories.
+7017.46 One way to think
+about this by analogy
+7019.53 would be when I was a kid
+you'd go to the library,
+7022.62 nowadays you just go online.
+7023.79 But the different pages
+of different books
+7025.74 on different topics are kept
+distinct from one another.
+7028.89 That is bound by different
+book covers and book
+7031.68 ends, different
+shelves in the library.
+7034.807 It's as if different pages
+and elements from those books
+7037.14 are now being combined
+in a pseudo random.
+7039.96 Not random but in a
+pseudo random way.
+7042.48 And in that combination,
+new possibilities
+7045.48 about ways that information
+could be combined
+7047.58 and implemented start to arise.
+7050.05 So the tool that emerges
+from this is very simple.
+7052.32 And it won't necessarily
+apply to everybody.
+7054.79 But if you are
+somebody who finds
+7056.31 that just sitting in a chair
+and trying to be creative
+7058.56 is very challenging, some
+of you might benefit from,
+7061.025 for instance, if
+you are engaging
+7062.4 in writing or you want to
+write to talk into the voice
+7066.42 recorder of your phone while
+walking or simply walking
+7069.06 and not attending to any
+one specific thing visually
+7071.91 or through headphones.
+7072.87 And then as ideas
+surface, seemingly
+7076.71 out of nowhere, which
+is how it happens,
+7078.483 that you could either
+put them into your phone
+7080.4 by voice dictation or you could
+type them out if you like.
+7082.817 The key thing is to
+not be distracted
+7084.42 by other things
+in your phone, not
+7085.842 to start going onto social
+media or doing phone calls
+7088.05 or looking at text messages
+because that by definition
+7090.72 is going to take you out
+of this what biologists
+7093.99 call a pseudo random walk.
+7095.91 And this pseudo random element
+is extremely important.
+7099.94 We know, for instance, that
+many circuits within the brain
+7102.69 have what's called dedicated
+point to point wiring.
+7105.21 So, for instance,
+the brain circuits
+7106.815 that govern your breathing.
+7107.94 The brain circuits that
+govern your heartbeat.
+7109.857 The brain circuits that
+govern your specific movements
+7112.42 once you are an adult and allow
+for smooth directed movement
+7115.59 are very precise, very little
+slop if any in the wiring.
+7119.55 However, there are aspects of
+your brain circuitry, yours
+7123.75 and everybody
+else's I should say,
+7126.73 that are maintained
+into adulthood that
+7129.18 include a lot of extra wiring.
+7132.09 And these are fine wires.
+7133.59 They are not the major highways
+between different areas,
+7135.97 if you will.
+7136.54 So like Google Maps has highways
+and streets and little passages
+7141.09 and alleys.
+7141.75 But it's as if
+there's a little web
+7143.7 of additional possible pathways
+cast over that entire thing.
+7147.54 The human brain maintains
+such webs of possible passage.
+7151.71 And it's only during activities
+such as walking, running,
+7156.25 cycling, swimming,
+hiking, pacing, et
+7160.76 cetera that the activation of
+those pseudo random pathways
+7164.76 starts to ramp up.
+7166.24 So this is a purely
+behavioral approach
+7168.99 to engaging different elements
+within neural networks that
+7172.35 normally would not
+communicate with one another
+7174.39 when we are completely still.
+7175.83 So again, the
+practices that I talked
+7177.64 about earlier of being
+completely still to raise
+7179.64 dopamine and enhanced
+divergent thinking--
+7182.49 I just want to
+reemphasize are designed
+7185.76 to position you to
+ready you to engage
+7188.82 in the activities like
+walking and pacing,
+7191.22 et cetera, that best
+facilitate divergent thinking.
+7194.7 So if you are somebody who wants
+to enhance divergent thinking,
+7197.61 I would encourage
+you to explore how
+7199.5 different patterns of movement
+in particular, patterns
+7201.75 of movement that don't require
+any conscious attention
+7204.18 to any one specific thing
+allow you to access new ideas
+7208.65 and new ways of combining
+existing elements
+7210.96 in whatever domain it is
+you want to be creative.
+7213.45 Now, this is also an opportunity
+to underscore something
+7215.982 I said back at the
+beginning, which
+7217.44 is you are not going to come
+up with great works of music
+7220.08 if you don't understand
+chords and melodies and notes
+7224.07 and music.
+7224.97 Those basic elements
+have to be built up
+7226.89 through some formal or at least
+rigorous or regular training.
+7230.152 In the same way that you're
+not going to take a walk,
+7232.36 and then suddenly
+be able to paint
+7233.94 an incredible picture if you
+have no painting ability.
+7236.19 That is not going to happen.
+7237.78 What I'm talking
+about here are ways
+7239.28 to enhance your capacity
+for divergent thinking,
+7241.6 such as NSDR and ways to
+engage in divergent thinking,
+7245.68 such as through certain forms
+of movement that don't require
+7248.76 a lot of conscious attention
+to your surroundings or any one
+7251.34 specific sensory target.
+7254.1 And in doing so,
+enhancing your ability
+7256.98 to be more creative in a
+domain for which you already
+7259.86 have some degree of
+skill or even mastery.
+7262.65 Now, in keeping with
+the theme of how
+7264.24 to enhance our
+creativity, there's
+7266.52 a very exciting and yet parallel
+literature to the literature
+7271.11 that I've been
+describing thus far.
+7272.688 Now, I promise you
+that I'm not going
+7274.23 to open up an entire
+library of new information
+7277.74 related to neural
+circuits and so forth.
+7279.7 But I would be remiss
+if I didn't mention
+7281.91 this parallel literature because
+it speaks very specifically
+7285.03 to some important practices
+that we can all use in order
+7288.63 to enhance creativity.
+7289.74 And to do so the first
+time and every time.
+7292.71 And this is really because
+certain scientists out there
+7295.25 have really gone
+through the trouble.
+7297.14 I should even say the
+painstaking trouble
+7299.18 of really trying to dissect
+what the creative process is
+7302.0 both for individuals and
+in groups or even in pairs.
+7306.5 And so what I'm about to tell
+you is beautifully encapsulated
+7309.59 in an article entitled--
+7311.81 "A new method for
+training creativity--
+7314.03 narrative as an alternative
+to divergent thinking."
+7317.12 So again, we've been talking
+about divergent thinking.
+7319.37 That's one pathway into
+the creative process
+7321.83 but there are others as well.
+7323.4 And as it turns
+out, they're not so
+7325.28 distinct in terms of the
+underlying brain mechanisms.
+7327.71 Nonetheless, let
+me describe briefly
+7329.54 how narrative can be
+used to train creativity
+7332.36 and to become more creative.
+7333.98 And in order to
+do that, I'd like
+7335.54 to just briefly
+paraphrase or read
+7337.22 from the first
+paragraph of this paper.
+7339.09 So what I'm about to read are
+the author's words, not mine.
+7342.17 Quote "Here's a paradox.
+7344.63 According to current
+research young children
+7346.88 are more imaginatively
+creative than adults."
+7349.46 And indeed that is
+true, by the way.
+7351.59 "Yet also according
+to current research,
+7354.05 creativity is main neural
+engine is divergent thinking,
+7357.56 which relies on memory
+and logical association
+7360.8 to tasks at which young
+children underperform adults."
+7364.55 That is, children are not as
+good at divergent thinking
+7368.09 as adults are.
+7368.84 So how could it
+be the authors are
+7370.67 asking that children are
+more imaginative and thus
+7374.15 more creative than adults.
+7375.83 This can only mean that
+there are alternate pathways
+7379.34 to creativity.
+7380.93 And indeed that is the case.
+7382.68 And so what this
+paper really explores
+7385.34 is other ways to
+access creativity.
+7387.65 And what they describe is
+what's called narrative theory.
+7390.71 And there's a number
+of different aspects
+7392.48 to this narrative theory.
+7394.64 But they agree that the standard
+definition of creativity
+7398.24 is the same one that we
+were talking about before.
+7400.53 So we're not talking about a
+different form of creativity,
+7402.5 here we're talking
+about a different way
+7404.167 to access creativity.
+7405.2 They describe the standard
+definition of creativity
+7407.63 as quote "The
+ability to generate
+7409.28 novel ideas that are useful."
+7411.18 So the commonly accepted one.
+7412.82 And what they cite as the
+basis for narrative theory
+7416.87 is this breakthrough
+finding in the 1950s.
+7419.107 This is the work of Guilford
+Some people out there
+7421.19 might be familiar with it.
+7422.273 I was not at the outset of
+researching this episode.
+7424.91 What this theory from
+Guilford essentially states
+7427.497 is that there are different
+intellectual capacities that
+7429.83 are not captured by
+standard IQ tests.
+7431.548 I think that's generally
+accepted nowadays.
+7433.34 We know there's
+emotional intelligence,
+7435.26 we know the standard
+IQ, et cetera.
+7437.63 But the important
+element to understand
+7440.21 is that these authors
+were able to trace back
+7443.9 the idea of narrative
+training as a way
+7447.02 to enhance creativity long
+before Guilford in the 1950s,
+7451.14 all the way back to Aristotle.
+7453.273 So this is incredible.
+7454.19 Narrative theory
+was actually birthed
+7455.9 in 335 BCE in his
+writing called Poetics,
+7460.55 which I think is
+incredible at least to me
+7464.1 that people long before us
+were thinking about creativity
+7467.33 and what goes into creativity.
+7468.98 And what Aristotle said, what
+Guilford then elaborated on
+7472.31 and what the authors
+of this paper
+7474.86 further elaborate
+on and actually have
+7476.93 developed training
+protocols for,
+7478.67 is the idea that there are
+three elements that we can use
+7481.43 in order to enhance creativity.
+7482.9 And those three
+elements are what's
+7485.36 called world
+building, I'll explain
+7487.52 what these are in a moment,
+perspective shifting,
+7490.34 and action generating.
+7492.17 And right off the
+bat, the word action
+7494.96 should raise a flag for you.
+7496.83 And by that I mean a positive
+flag because once again,
+7499.46 we are back into the world and
+therefore the neural circuits
+7502.43 of movement and motion.
+7504.77 So three elements of world
+building perspective, shifting,
+7508.34 and active generating are
+what make up this narrative
+7510.95 approach to creativity.
+7512.24 And I should mention that
+these authors and others are
+7514.64 using such approach with
+companies, with groups,
+7517.19 with individuals.
+7518.003 So this is using a bunch
+of different contexts
+7519.92 to approach and enhance
+different forms of creativity.
+7523.79 So let's talk first about
+world building techniques.
+7527.19 This is going to be
+immediately familiar to you
+7530.72 when you hear it.
+7531.63 But one of the key elements of
+creativity is to at the outset
+7536.6 come up with some idea
+that makes sense or is
+7539.9 attractive to you about how
+the world is different inside
+7543.47 of your creative endeavor.
+7544.92 So for those that
+write science fiction
+7547.328 or think about
+science fiction, there
+7548.87 are some obvious
+aspects to this.
+7550.82 But for those of you
+that don't, maybe you
+7552.71 come up with a
+narrative, for instance,
+7554.34 in the context of storytelling
+that in your world
+7557.33 we are the house
+cats and the cats
+7561.045 are actually the ones that
+are the curators of the Earth.
+7563.42 OK.
+7563.92 So right there, there
+is a conceptual shift
+7566.81 that the world in which
+whatever creative idea is going
+7570.02 to emerge is entirely
+different than the one
+7572.15 that we actually live in.
+7573.32 So that sets a certain number
+of important constraints.
+7575.782 It means certain things
+are now possible,
+7577.49 other things are
+not possible that
+7578.907 are very different from
+the world that we live in.
+7581.21 You can see the parallels here
+to childhood imagination where
+7585.025 essentially anything can
+happen in the child's mind
+7587.15 because they are unconstrained.
+7588.56 The second element
+is this perspective
+7590.27 shifting techniques.
+7591.53 And the idea here is
+that not only are we
+7595.21 supposed to have the reader or
+the listener or the observer
+7598.99 or us explore for creativity
+and develop a creative idea
+7603.46 by thinking differently
+which is a generic term.
+7606.968 How do we actually
+think differently.
+7608.51 But rather than just say take
+the perspective of somebody
+7612.34 else in terms of what
+they would see or do
+7614.5 or say or think
+rather, we are supposed
+7617.35 to think about their
+underlying motivation.
+7619.42 So we could do the world shift,
+that is the world structure
+7622.84 shift from step one.
+7623.95 And then in step two, you
+would ask yourself OK,
+7627.19 rather than write about
+or think about or move
+7630.37 from the perspective
+of myself, let's say,
+7632.62 you're feeling particularly
+happy that day.
+7634.81 You'd say, I'm actually
+going to take the perspective
+7637.18 of somebody who's angry.
+7638.44 But rather than
+just act angry, I'm
+7640.717 going to think about what their
+motivation for being angry is.
+7643.3 Maybe they had a breakup.
+7645.13 Maybe they were jealous.
+7646.21 Maybe somebody had
+wronged them in some way.
+7648.24 Maybe they're just generally
+angry at the world for whatever
+7650.74 reason and then operate from
+that motivational stance.
+7653.77 And this is a very
+interesting and powerful step
+7656.89 because what it really
+captures at least
+7659.02 as viewed by me,
+the neuroscientists,
+7661.06 is it captures a whole set
+of neural circuits about what
+7663.58 that motivational state means
+because motivational states
+7666.61 dictate a huge number of
+possible different outcomes,
+7669.92 but they really constrain the
+number of different actions
+7673.01 and outcomes that any
+of us would engage in.
+7674.89 Rather than saying I'm going
+to view the world the way
+7677.14 that someone else
+will view the world,
+7678.723 by stating that we are
+going to be motivated
+7680.68 by their set of motivations
+and not our own,
+7683.17 it includes a lot more
+possibilities and yet not
+7686.26 an infinite number
+of possibilities.
+7687.88 They are constrained
+in a logical way,
+7689.78 which is one of the key
+elements of creativity.
+7692.265 And then the third
+element, which
+7693.64 is action generating techniques
+is a really cool one that you
+7698.53 will immediately
+notice implications
+7700.03 for the workplace, which
+is forced collaboration.
+7703.39 So inside of this thing
+that we're building here,
+7705.82 this story, you create a
+novel rule for the world
+7710.35 that your story is
+going to exist in
+7712.06 or your music is going to exist
+in or your sport will exist in.
+7716.05 Then you create this
+perspective shift
+7718.54 where you take on the
+motivation of someone
+7721.27 else different than
+you and then you
+7723.64 force collaboration
+between that person who
+7726.22 has this alternate
+motivation different from you
+7729.28 and someone else who has an
+entirely different motivation.
+7731.74 And in doing so,
+you create these
+7733.57 what are called the
+creative collisions.
+7735.642 Now they're collisions because
+they're crossing one another
+7738.1 and something new has
+to emerge from them.
+7739.85 They could be antagonistic.
+7741.59 They could be arguments
+fighting physical or verbal
+7743.86 or Otherwise they
+could be synergistic.
+7746.0 They could take on any
+number of different forms
+7748.0 depending on the motivations
+and the individuals that
+7750.49 are involved.
+7751.46 But even though I
+just described this
+7753.49 in fairly top contour,
+what I just described
+7756.22 is actually the core
+elements of any story
+7759.76 or any creative endeavor.
+7760.89 It's just that many stories are
+from the perspective of what
+7763.39 we already know and believe
+and think the world to be.
+7767.53 And our own perspective
+and the actions
+7771.34 that we would take given that
+world in that perspective.
+7774.13 Whereas if we want
+to be creative,
+7776.33 we want to think outside
+of our usual framework
+7778.75 and yet using elements
+that exist within us
+7781.24 no one has to tell us
+the creative narrative.
+7783.22 We're trying to come
+up with it on our own.
+7785.12 We want to essentially
+think in a childlike way
+7787.93 how do children think?
+7789.16 Well, they have new
+different or entirely novel
+7793.57 concepts about how
+the world works.
+7795.37 But those are bounded.
+7797.202 And this is a key word.
+7798.16 Those are bounded.
+7798.91 They're not infinite.
+7799.785 It's not that
+anything can happen.
+7801.94 Some kids will say, you can fly
+and you can shoot lasers out
+7804.482 of your eyes, you
+can do all things
+7805.94 that are unicorns or candy
+falling from the sky.
+7808.15 At some point, if you don't
+bound the change in the world,
+7812.6 it just becomes pure chaos and
+even children don't do that.
+7815.18 So we need to bound the
+change and yet create
+7817.45 some alternate universe, if you
+will, in which the story takes
+7821.26 place or the
+creation of any kind,
+7823.625 doesn't have to be
+a story takes place.
+7825.25 Then there has to be
+a perspective shift.
+7826.81 And this is very useful.
+7827.81 This is actually a
+tool that we can all
+7830.05 use of trying to take
+the perspective of others
+7832.27 but not just asking what they
+would feel or think or do.
+7835.99 But ask what is their
+motivation in life generally
+7839.74 or what mood stance or goal
+stance are they taking.
+7843.17 Are they trying to
+extract from others?
+7844.84 Are they trying
+to give to others?
+7846.28 Are they very altruistic,
+et cetera, et cetera.
+7848.47 And then you take
+that individual
+7850.3 and you do that also for
+another individual or group
+7853.125 of individuals
+and then you start
+7854.5 thinking about how those
+different individuals because
+7857.597 of their different
+motivational states
+7859.18 would engage at the
+level of action.
+7860.873 What they would do,
+what they would say,
+7862.54 would they mate,
+would they fight,
+7863.957 would they-- et
+cetera, et cetera.
+7865.6 You think of any story.
+7866.77 The story of Star Wars,
+of the Greek myths.
+7869.74 You think of any story that has
+been created, which we consider
+7874.21 great and novel works.
+7876.19 And you start to find these
+three elements-- worldbuilding,
+7880.27 perspective shifting, and
+action generating techniques.
+7883.36 And so while this is, again,
+just a broad contour of what
+7887.59 this narrative
+approach involves,
+7889.24 I think it's a very
+important and very exciting
+7891.43 one because it
+gives us a formula.
+7893.425 We already know that
+divergent thinking
+7895.05 and convergent thinking
+are both elements
+7896.758 of the creative process.
+7898.44 This is suggesting
+that whether or not
+7901.17 it involves divergent
+thinking or not,
+7903.072 these authors seem
+to think this is
+7904.53 distinct from divergent
+thinking that capturing some
+7906.96 of the elements of creativity
+that are present in childhood
+7909.96 but that then tend to
+disappear as we start
+7911.91 to assume identity, build
+identity, and understand rules
+7914.82 about the actual
+world we live in.
+7916.56 All of those basic elements
+of early childhood creativity
+7920.34 can be reawakened.
+7921.343 And, in fact, they have data
+to support the fact that they
+7923.76 can be reawakened in
+adults in meaningful ways
+7926.19 that can lead to new product
+design, new workplace
+7928.62 interactions, and on and on.
+7930.6 That I find very exciting.
+7932.68 And as a consequence,
+I do intend
+7935.73 to do an entire episode
+at some point on narrative
+7938.61 and storytelling.
+7939.48 And the role of narrative
+and storytelling
+7941.34 not just for sake of
+creativity but also
+7943.23 for accessing neuroplasticity
+and for enhancing memory
+7947.46 and so on.
+7948.01 There's an entire landscape of
+literature and exciting tools
+7950.55 and things to understand there.
+7951.85 But in the meantime, we will
+provide a link to this paper.
+7954.87 And for those of you that
+choose not to access the paper,
+7957.45 simply understanding these
+three aspects of narrative
+7960.96 as an alternative to
+accessing creativity.
+7963.18 That is, a dedicated and well
+understood or established
+7967.77 world shift that you choose,
+perspective shifting and taking
+7971.07 on the motivation of
+others, and creating
+7974.37 some landscape of exploration
+for what interactions would
+7977.49 occur between that individual
+or groups of individuals
+7979.74 and other individuals that
+have other motivations
+7982.65 and yet are still living
+in this alternate world.
+7985.86 Those three elements
+we now know can
+7988.29 be combined into what
+you or I or anyone
+7991.53 would consider important
+creative works.
+7993.97 So today we
+discussed creativity.
+7996.27 This absolutely fascinating
+aspect to human brain
+7999.63 function that has allowed us as
+a species to develop everything
+8003.83 from great works
+of art and music
+8005.87 to technological innovations
+that allow us to fly and allow
+8009.59 us to access people all over
+the world through little screen
+8012.23 devices that we carry around
+in our pockets and on and on.
+8016.615 As I mentioned at the
+beginning of today's episode,
+8018.74 I find creativity to be one of
+the most fascinating aspects
+8022.55 of brain function.
+8023.96 And in particular,
+because we don't actually
+8026.81 know what the upper
+limits of creativity
+8028.58 are and yet we understand
+that there are certain bounds,
+8032.778 there are certain requirements.
+8034.07 And the key requirement
+for creativity
+8036.11 is this aspect of utility.
+8037.7 Now, that doesn't
+necessarily mean
+8039.2 that for something to
+be considered creative
+8041.37 it has to be useful in
+the practical sense,
+8044.18 but it does seem
+that for something
+8046.13 to be considered truly
+creative or especially creative
+8050.0 in some cases that
+it revealed to us
+8052.19 something fundamental about the
+way that we or the world works.
+8056.338 We discuss some of the
+neural circuits that
+8058.13 underlie the different
+aspects of creativity
+8060.14 in particular divergent
+and convergent thinking
+8062.18 as well as narrative building
+and some of the tools
+8064.97 and steps that can allow
+us to better access
+8067.88 divergent thinking and
+convergent thinking.
+8070.31 And those tools include
+behavioral tools as well as
+8073.13 pharmacology.
+8074.33 And we talked about narrative
+building as a way to reawaken
+8078.47 or I should say, reaccess
+the childhood creativity
+8081.83 that did indeed exist in all
+of us at some point in time.
+8085.52 If you're learning from
+and/or enjoying this podcast,
+8088.2 please subscribe to
+our YouTube channel.
+8089.94 That's a terrific zero
+cost way to support us.
+8092.15 In addition, please
+subscribe to the podcast
+8094.55 on Spotify and Apple.
+8096.23 And on both Spotify
+and Apple, you
+8097.76 can leave us up to
+a five star review.
+8099.71 If you have questions for us
+or comments about the podcast
+8102.417 or suggestions about
+guests that you'd
+8104.0 like us to interview on
+the Huberman Lab podcast,
+8106.1 please put those in the
+comment section on YouTube.
+8108.62 We do read all the comments.
+8110.36 Please also check
+out the sponsors
+8111.83 mentioned at the beginning
+and at various times
+8113.87 during today's episode.
+8115.07 That's the best way to
+support this podcast.
+8117.44 As I mentioned at the
+beginning of today's podcast,
+8119.66 we've partnered with
+Momentous supplements
+8121.82 because Momentous supplements
+are the very highest quality.
+8124.71 They have single
+ingredient formulations
+8126.74 which turns out to be
+most effective in building
+8129.213 a supplement protocol.
+8130.13 And when I say most
+effective I mean,
+8131.672 most biologically effective
+and most cost effective.
+8134.45 And we're fortunate that
+they ship internationally
+8136.778 because we know that many of
+you reside outside of the United
+8139.32 States.
+8139.82 If you want to check out
+the supplements mentioned
+8141.903 in today's and in other episodes
+of the Huberman Lab podcast,
+8144.47 supplements that are
+aimed at enhancing sleep,
+8146.63 enhancing focus, hormone
+support, et cetera,
+8148.67 you can go to live
+momentous spelled O-U-S.
+8150.89 So its
+livemomentous.com/huberman.
+8153.362 If you haven't already
+subscribed to the Huberman Lab
+8155.57 podcast Neural
+Network Newsletter,
+8157.35 this is a monthly newsletter
+that is completely
+8159.35 zero cost that has summaries
+of particular podcast episodes
+8163.01 as well as toolkits for things
+like enhancing sleep, enhancing
+8166.43 focus, dopamine, deliberate cold
+exposure, and many other topics
+8169.64 important to you, the listeners
+of the Huberman Lab podcast.
+8172.298 If you'd like to
+join the newsletter,
+8173.84 please go to hubermanlab.com,
+click on the Menu
+8176.18 and go to a newsletter.
+8177.14 You provide your email to us.
+8178.64 We do not share your
+email with anybody else.
+8180.75 And as I already mentioned,
+it is completely zero cost.
+8183.373 If you're not
+already following us
+8184.79 on Instagram, Twitter, or
+Facebook and/or LinkedIn,
+8187.43 please do so.
+8188.25 It is Huberman Lab
+on all platforms.
+8190.25 On all those social
+media platforms,
+8192.139 I describe science and science
+related tools, some of which
+8194.65 overlap with the content
+of the Huberman Lab podcast
+8197.02 but often which does not
+overlap with the content
+8199.783 of the Huberman Lab podcast.
+8200.95 Again, its Huberman
+Lab on all platforms.
+8203.177 So thank you once
+again for joining me
+8204.76 for today's discussion
+all about the science
+8206.83 and tools for creativity.
+8208.57 And last but
+certainly not least,
+8211.01 thank you for your
+interest in science.
+8212.739 [MUSIC PLAYING]

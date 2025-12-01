@@ -1,0 +1,4423 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.28 where we discuss science
+and science-based tools
+4.92 for everyday life.
+6.54 [upbeat music]
+9.27 I'm Andrew Huberman,
+10.35 and I'm a professor of
+neurobiology and ophthalmology
+13.32 at Stanford School of Medicine.
+15.27 Today, we're discussing alcohol,
+17.31 one of the most commonly
+consumed substances
+19.23 on the planet Earth.
+20.1 I should mention that both humans
+21.84 and non-human animals consume alcohol
+24.54 either for recreational purposes
+26.73 because they like the
+feeling that it gives them
+29.79 or for medicinal purposes
+31.5 or for other purposes that we'll discuss.
+33.87 We are, of course, going to
+discuss the effects of alcohol
+36.57 on our biology, ranging from its effects
+39.03 on individual cells, on
+organs and organ systems
+42.63 in our brain and body.
+43.92 We are also going to discuss the effects
+45.75 of the effects of alcohol,
+47.49 that is, what being inebriated really does
+50.01 to our thinking and our
+behavior and how it does it.
+52.47 And we are going to address
+53.43 what seems to be one of the
+more common questions out there,
+55.92 which is whether or not low to
+moderate amounts of drinking
+59.22 are better for our health
+60.39 than zero alcohol consumption at all.
+63.72 And of course we will talk
+64.65 about severe alcohol
+intake, binge drinking.
+68.61 We will also talk about hangover
+70.29 and what science says about ways
+72.09 to reduce the effects of hangover,
+74.52 either by doing things
+that are inoculatory,
+76.47 meaning before you drink
+or while you drink,
+79.11 as well as things to do if
+you happen to have a hangover.
+82.68 We will discuss some of
+the genetic differences
+84.6 for alcohol and alcoholism,
+86.7 and we will discuss alcohol
+consumption in young people
+91.32 and how that can be especially
+detrimental for reasons
+93.99 that I think are going to be
+quite surprising to most of you.
+96.39 My goal is that by the
+end of today's episode,
+98.31 you will have a thorough understanding
+99.75 of what alcohol does
+to your brain and body
+101.79 and that you will be able
+to make informed decisions
+104.13 as to whether or not you
+should be consuming zero,
+106.95 absolutely no alcohol,
+108.87 small to moderate amounts of alcohol,
+110.703 and, again, we'll define
+exactly what that means,
+114.24 small to moderate amounts,
+115.98 and if you or somebody else that you know
+118.11 is consuming excessive amounts of alcohol
+120.42 that are clearly
+detrimental to your health,
+122.55 some of the better routes and
+resources that you can use
+125.82 in order to remove that
+dependence and/or consumption.
+129.24 I'd like to preface all of that by saying
+131.82 that today's discussion is really geared
+134.37 toward giving you information.
+136.38 It is not about judging alcohol intake
+138.36 or lack of alcohol intake.
+139.98 I just want you to be able to make
+141.78 the most informed decision
+about alcohol possible.
+145.26 I'm pleased to announce that
+the Huberman Lab Podcast
+147.15 is now partnered with
+Momentous Supplements.
+149.46 We've partnered with Momentous
+150.54 for several important reasons.
+151.71 First of all, they ship internationally,
+153.39 because we know that many of you
+154.74 are located outside of the United States.
+156.81 Second of all, and perhaps most important,
+158.82 the quality of their
+supplements is second to none
+161.37 both in terms of purity
+162.42 and precision of the
+amounts of the ingredients.
+164.97 Third, we've really emphasized supplements
+167.61 that are single-ingredient supplements
+169.8 and that are supplied in dosages
+171.87 that allow you to build a
+supplementation protocol
+174.84 that's optimized for cost,
+176.67 that's optimized for effectiveness,
+178.56 and that you can add things
+180.06 and remove things from your protocol
+181.71 in a way that's really
+systematic and scientific.
+183.81 If you'd like to see the supplements
+184.98 that we partner with Momentous on,
+186.3 you can go to livemomentous.com/huberman.
+189.42 There, you'll see those supplements,
+190.56 and just keep in mind
+191.58 that we are constantly expanding
+the library of supplements
+194.13 available through Momentous
+on a regular basis.
+196.65 Again, that's livemomentous.com/huberman.
+199.23 Before we get into
+today's content in detail,
+201.93 I just want to answer a
+commonly asked question
+204.24 about alcohol consumption and the brain,
+206.52 and the question that so often comes up
+208.95 is whether or not low to
+moderate amounts of alcohol,
+211.95 so maybe one drink a day
+213.45 or one or two drinks a day kind of thing,
+215.55 whether or not that is bad for your brain,
+218.46 in particular, whether or
+not it causes degeneration
+220.62 of neurons or nerve cells.
+222.03 Now, the reason that
+question comes up so often
+224.34 is because, for many years,
+225.93 it's been known that high
+levels of alcohol consumption,
+228.36 so 12 to 24 drinks per week or more,
+232.41 is certainly causing neurodegeneration,
+235.11 in particular of the so-called neocortex,
+237.0 the outer layers of the brain
+238.8 that house associative memories,
+240.9 that house our ability to think and plan,
+243.18 that house our ability to
+regulate our more primitive drives
+247.74 according to context, et cetera.
+250.35 So to make very clear, drinking a lot,
+253.41 so having, you know, three
+or four drinks per night
+256.8 every night of the week, is
+clearly bad for the brain.
+259.71 A recent study, however,
+finally addressed the question
+262.8 of whether or not low to moderate amounts
+265.14 of alcohol consumption can
+cause brain degeneration.
+268.89 The title of the study
+270.57 is Associations between
+alcohol consumption
+273.0 and gray and white matter
+volumes in the UK Biobank,
+276.48 the United Kingdom Biobank.
+278.46 First of all, gray matter are the neurons,
+280.62 it's the so-called cell bodies
+281.91 that house the genome
+of the cells, et cetera,
+283.8 and white matter is the
+connections, the fibers,
+286.83 the so-called axons of neurons,
+288.81 and it's called white
+matter because that tissue
+292.35 is surrounded by a fatty
+tissue called myelin,
+294.54 which allows nerve cells
+295.77 to communicate with
+each other very quickly.
+297.63 So what this study did is
+it looked at the brains,
+300.63 both the gray matter and the white matter,
+302.52 of more than 30,000, and
+even more than 35,000
+306.51 generally healthy
+middle-aged and older adults
+309.18 in the United Kingdom
+310.38 who were drinking various
+amounts of alcohol.
+313.53 What they found was that even for people
+316.2 that were drinking low to
+moderate amounts of alcohol,
+320.07 so one or two drinks per day,
+323.73 there was evidence of
+thinning of the neocortex,
+327.09 so loss of neurons in the neocortex,
+328.71 and other brain regions.
+330.87 And I don't say this in
+order to cause alarm.
+333.03 I tell you this because
+they are important data
+336.12 because they reveal and
+indeed answer the question
+339.63 that has been burning for so long
+341.01 as to whether or not
+chronic alcohol intake
+344.37 can disrupt the brain
+345.51 even if the chronic intake is very low.
+347.7 Now, we should talk about
+what the word chronic means
+349.53 because many people, when
+they hear the word chronic,
+352.11 think high levels of
+whatever intake, okay?
+356.01 So they think 5 drinks a
+night or 10 drinks a night
+358.95 or people drinking every night.
+360.96 Now, in this study, they looked at people
+362.13 who, on average, were drinking
+one or two drinks per night.
+366.06 So that could be 14 drinks on the weekend,
+369.39 it could be one drink per night.
+371.88 it could be seven drinks on Friday,
+374.01 in other words, on average,
+one or two drinks per night.
+377.1 And I think many people out there
+378.6 are drinking somewhere
+between one and two drinks
+381.54 per night or day of the week on average,
+384.96 so that would be 7 to 14 drinks per week.
+388.23 So this is an important study
+389.55 because it says that if you're consuming
+391.56 even just seven glasses
+of wine across the week,
+394.17 it's likely that there is
+going to be some degeneration
+397.05 of your brain in response
+to that alcohol intake.
+400.2 Although, as mentioned earlier,
+402.0 we will talk about some of the things
+403.26 that can inoculate against
+some of that neuronal loss.
+406.35 For those of you that are interested
+407.46 in reading the study in more detail,
+410.1 we've put a link to it in
+the show note captions.
+412.41 Before we begin, I'd like to
+emphasize that this podcast
+414.96 is separate from my teaching
+and research roles at Stanford.
+417.51 It is, however, part
+of my desire and effort
+419.61 to bring zero-cost-to-consumer information
+421.41 about science and science-related tools
+423.39 to the general public.
+424.74 In keeping with that theme,
+425.79 I'd like to thank the
+sponsors of today's podcast.
+428.52 Our first sponsor is Levels.
+430.53 Levels is a program that lets you see
+432.06 how different foods affect your health
+433.95 by giving you real-time
+feedback on your diet
+436.02 using a continuous glucose monitor.
+438.48 One of the most important features
+440.31 of our immediate feelings of well-being
+442.56 and our ability to focus and
+think and move and have energy,
+445.32 as well as our long-term health,
+447.75 are our blood glucose levels.
+449.91 That is, our blood sugar levels.
+451.44 And that's because all the
+cells and tissues of our body
+454.11 and especially neurons, nerve cells,
+456.03 rely on glucose for fuel.
+458.4 I realize some of you
+out there are ketogenic,
+460.29 and, yes, you can use ketones for fuel,
+461.79 but the vast majority of people
+463.2 are using glucose for fuel in their cells.
+466.59 If you want to maintain energy
+and focus throughout the day,
+468.84 you want to keep that blood glucose steady
+471.45 and you don't want it ever
+to spike or to drop too much,
+475.23 so you need to understand
+how different foods
+476.79 and indeed how different activities
+478.32 impact your blood glucose.
+479.58 I started using Levels about a year ago
+481.53 as a way to understand how
+different foods and exercise
+484.53 and supplements and combinations
+of food and exercise
+486.93 and even sequencing, like when I do what,
+488.52 how that affects my blood glucose levels.
+490.17 It's been tremendously informative.
+491.94 It's completely reshaped when
+I exercise, how I exercise,
+495.03 when I eat relative to
+exercise, et cetera.
+496.98 So if you're interested in
+learning more about Levels
+498.81 and trying a continuous
+glucose monitor yourself,
+501.18 go to levels.link/huberman.
+503.76 Again, that's levels.link/huberman.
+507.39 Today's episode is also
+brought to us by Eight Sleep.
+510.09 Eight Sleep makes smart mattress covers
+511.65 with cooling, heating, and
+sleep tracking capacity.
+514.53 I've talked many times on the podcast
+516.27 about the fact that getting
+a great night's sleep
+518.79 is the foundation of mental
+health, physical health,
+522.03 and all forms of performance.
+523.77 And one of the key variables
+525.06 in getting a great night's sleep
+526.44 is making sure that your
+sleeping environment
+528.15 is the right temperature.
+529.38 Indeed, your brain and body have to drop
+531.27 by one to three degrees
+in order to get into sleep
+534.33 and to stay in deep sleep
+throughout the night.
+537.36 If your room is too hot or
+if you're running too warm,
+539.4 you will wake up.
+540.27 In fact, that is why you
+wake up in the morning.
+542.49 With Eight Sleep, you can
+adjust the temperature
+544.56 of your mattress and your
+overall sleeping environment
+547.02 and customize that to you.
+548.91 I started using Eight Sleep some time ago
+551.46 and it's just been a total game changer.
+553.68 I program mine so that
+there's a subtle drop
+555.87 in the temperature of my mattress
+556.86 at the beginning of the night
+557.73 and then it gets progressively cooler
+559.02 and then it heats up toward morning.
+560.61 It even has this nice
+little vibrate feature
+562.71 so it wakes me up by vibrating
+the mattress a little bit.
+566.13 And, of course, that mattress is warming
+567.75 and warming is the way that we wake up.
+569.43 If you'd like to try Eight Sleep,
+570.72 go to eightsleep.com/huberman.
+572.91 Check out their Pro Pod Cover
+574.26 and save up to $150 at checkout.
+576.84 Eight Sleep currently ships in the USA,
+578.85 Canada, and the United Kingdom.
+580.53 Again, that's eightsleep.com/huberman
+583.08 to save $150 at checkout.
+585.27 Today's episode is also
+brought to us by ROKA.
+587.373 ROKA makes eyeglasses and sunglasses
+589.74 that are of the absolute highest quality,
+591.57 and they also have some
+unique characteristics.
+594.03 The company was founded
+594.863 by two all-American swimmers from Stanford
+596.91 and everything about ROKA
+eyeglasses and sunglasses
+599.25 were designed with performance in mind.
+601.77 ROKA eyeglasses and sunglasses
+603.21 can be worn while running or cycling.
+605.46 If you get sweaty, they
+won't fall off your face,
+607.74 and they're extremely lightweight.
+609.03 In fact, most of the time,
+609.863 I can't even remember
+that I'm wearing them.
+611.52 I wear ROKA eyeglasses
+when I read at night,
+613.83 so I wear their readers,
+615.03 and I wear sunglasses at various
+times throughout the day.
+617.73 The great thing about ROKA
+eyeglasses and sunglasses
+619.77 is that even though they were designed
+621.12 for athletic performance,
+622.38 they have a terrific aesthetic.
+624.06 So unlike a lot of so-called
+performance glasses
+626.64 that make people look like
+cyborgs, in my opinion,
+629.46 ROKA eyeglasses and
+sunglasses are the sort
+631.2 that you could wear out to dinner
+632.28 or that you could wear to work.
+633.45 They have a terrific aesthetic.
+634.89 If you'd like to try ROKA
+eyeglasses or sunglasses,
+637.08 you can go to ROKA, that's roka.com
+639.51 and enter the code Huberman
+640.8 to save 20% off your first order.
+642.69 Again, that's ROKA, roka.com,
+644.91 and enter the code huberman at checkout.
+647.19 Let's talk about alcohol,
+648.36 and let's just acknowledge
+that human beings
+649.8 have been consuming alcohol
+for thousands of years.
+652.08 If you look at the archeological
+evidence from Mesopotamia,
+654.57 you'll find that 5,000 years
+ago, people had wine vessels.
+657.21 Or if you want to know
+658.38 when people first started
+distilling alcohol,
+660.93 much to people's surprise,
+661.86 that did not first take place in Ireland,
+663.93 and that's not a joke about the Irish.
+665.49 You'll see a lot of claims online
+666.78 that the Irish were the
+first to distill alcohol,
+668.64 but, in fact, they were not.
+670.26 It was the Chinese that were
+the first to distill alcohol,
+672.57 and that took place in
+China in the first century.
+675.36 Alcohol has been used
+for nutritional purposes,
+677.73 so there are cultures that believe,
+680.127 and indeed still believe,
+681.54 that the calories in alcohol are useful,
+683.61 although later we'll talk
+about how alcohol calories
+685.62 are indeed empty calories
+686.88 and what an empty calorie really
+is, why it's called empty.
+691.35 Alcohol has been used
+for medicinal purposes
+693.51 because indeed it does kill bacteria,
+695.55 and, as you'll soon find out,
+696.66 the fact that it kills bacteria,
+698.43 because that is absolutely true,
+700.74 it also kills the good
+bacteria in your gut,
+702.57 and the destruction of that
+good bacteria in your gut
+704.76 can lead to things like leaky gut syndrome
+707.1 and has all sorts of issues,
+708.27 and there are ways to
+deal with those issues
+709.62 and we'll talk about those.
+710.85 So alcohol has been used
+for medicinal purposes,
+712.89 it's been used to clean surfaces,
+714.27 it's used in my laboratory
+715.47 in order to make up so-called reagents
+717.9 to do our experiments,
+719.73 but most humans have
+been consuming alcohol
+722.61 in order to change their internal state,
+724.41 in order to feel differently
+than they would otherwise.
+727.56 That feeling of being drunk or inebriated
+729.75 or tipsy or lightheaded is something
+732.18 that many, not all, but many
+humans seem to enjoy and pursue
+736.53 even though, typically,
+it leads to a feeling
+740.55 of being less happy, less motivated,
+744.99 more stressed, et cetera,
+when the alcohol wears off.
+748.17 That's pretty incredible, right?
+749.22 I mean, we're talking about a substance
+750.78 that people have been
+highly motivated to pursue,
+752.82 that are still highly motivated to pursue,
+755.01 to create and to consume,
+that they'll spend money on,
+758.52 and that's despite the fact
+that it makes them feel good
+761.97 and then it makes them feel lousy.
+763.5 Now, some of you might be saying,
+764.437 "Well, I drink, but I
+don't drink to excess
+766.65 and, therefore, I don't feel lousy.
+768.12 I feel good when I drink
+and then it wears off
+770.16 and it allows me to
+get through my evening,
+771.78 and then the next
+morning I'm ready to go."
+773.91 Okay, that very well may be
+true, I believe those people,
+778.5 and, as I mentioned in the
+beginning of the episode,
+780.18 I'm not here to demonize
+alcohol in any way.
+782.76 But I do want to point out what alcohol is
+785.73 and how it creates the
+effects that it does,
+788.61 and then I want to talk
+about what those effects are
+791.43 when you engage in consuming alcohol
+794.82 even as often as one
+or two nights per week,
+797.58 or let's say you're just
+somebody who has a drink or two
+799.74 on Friday, maybe a few more on Saturday,
+801.78 or maybe you're somebody who
+consumes all your alcohol
+804.27 one night per week or one night per month.
+805.95 We'll talk about how that's
+affecting your biology.
+808.44 So let's address what alcohol is
+811.17 and how it affects the cells and tissues
+812.73 and organs of your body.
+813.78 Then we'll take a look at
+some of the epidemiology,
+816.24 that is, how many people
+are consuming alcohol
+818.31 and how much they're drinking.
+819.63 And then you will be able,
+I think, to get a good sense
+822.75 of how the alcohol that you're drinking,
+824.58 if you're drinking any at all,
+826.92 is impacting your brain and body
+828.51 and the choices you might want to make
+830.25 about how and when to drink alcohol,
+832.8 or even if you want to
+eliminate alcohol altogether.
+835.2 Okay, so some basic chemistry
+and biology of alcohol,
+838.17 and, again, I'll make this very clear
+839.76 even if you don't have a
+chemistry and biology background.
+842.52 Because of the structure of alcohol,
+844.86 it is what's called both
+water-soluble and fat-soluble.
+848.88 Translated into what's meaningful for you,
+851.61 what that means is when you drink alcohol,
+853.89 it can pass into all the cells
+and tissues of your body.
+857.61 It has no trouble just passing
+right into those cells.
+860.94 So unlike a lot of substances and drugs
+863.91 that actually attach to
+the surface of cells,
+866.13 to receptors, as they're
+called, little parking spots,
+868.41 and then trigger a bunch of downstreams,
+871.53 like, domino cascades of effects,
+873.9 alcohol actually has its
+own direct effects on cells
+876.75 because it can really just
+pass into those cells.
+879.51 So it's water- and fat-soluble,
+882.0 and the fact that it can pass
+883.59 into so many organs and cells so easily
+886.32 is really what explains
+its damaging effects.
+889.47 I should mention that there are
+three main types of alcohol.
+892.05 There's isopropyl,
+methyl, and ethyl alcohol,
+895.47 and only the last one,
+ethyl alcohol or ethanol,
+898.59 is fit for human consumption.
+900.48 However, it is still toxic, okay?
+903.51 It produces substantial
+stress and damage to cells.
+907.92 I'd love to be able to tell you otherwise,
+909.39 but that's just a fact.
+910.92 Ethanol produces
+substantial damage to cells,
+914.4 and it does that because
+when you ingest ethanol,
+917.76 it has to be converted into something else
+919.56 because it is toxic to the body.
+921.66 And there's a molecule inside
+of all of us called NAD,
+925.11 and you may have heard of NAD
+because it's quite popular,
+927.75 there's a lot of discussion about NAD
+930.18 in the longevity literature right now.
+932.037 NAD is present in all our
+cells from birth until death.
+934.71 The levels of NAD tend to
+go down across the lifespan.
+937.44 There are ideas that
+increasing levels of NAD
+939.75 may extend lifespan.
+940.8 A lot of that is still controversial,
+942.33 or, at least we should say, is ongoing
+943.92 in terms of the research.
+945.3 But nonetheless, when you ingest ethanol,
+947.652 NAD and related biochemical pathways
+950.22 are involved in converting that ethanol
+952.47 into something called acetaldehyde,
+954.09 it's broken down into acetaldehyde.
+956.55 And if you thought ethanol was bad,
+958.14 acetaldehyde is particularly bad.
+959.97 Acetaldehyde is poison.
+It will kill cells.
+963.09 It damages and kills cells
+and it is indiscriminate
+965.88 as to which cells it damages and kills.
+969.0 Now, that's a problem, obviously,
+971.88 and the body deals with that problem
+974.07 by using another component of
+the NAD biochemical pathway
+978.42 to convert acetaldehyde into
+something called acetate.
+982.74 Acetate is actually something
+984.0 that your body can use as fuel.
+986.25 And that process of going from ethanol
+989.46 to acetaldehyde to acetate
+992.43 does involve the production
+of a toxic molecule, right?
+995.46 Again, acetaldehyde is really toxic.
+997.44 And NAD, and if we want to get technical,
+1000.11 it's the NAD-to-NADH ratio,
+1003.68 and that chemical step
+is the rate-limiting step
+1007.49 to ethanol's metabolism.
+1008.72 What does that mean for you?
+1010.22 What that means is that if your body
+1012.5 can't do this conversion of ethanol
+1014.42 to acetaldehyde to acetate fast enough,
+1017.21 well, acetaldehyde will
+build up in your body
+1019.58 and cause more damage,
+1021.2 so it's important that your body
+1023.09 be able to do this
+conversion very quickly.
+1025.88 And the place where it does
+that is within the liver,
+1029.21 and cells within the liver
+1030.62 are very good at this conversion process,
+1033.68 but they are cells and they
+are exposed to the acetaldehyde
+1037.01 in the conversion process,
+1038.66 and so cells within the
+liver really take a beating
+1042.26 in the alcohol metabolism events.
+1045.47 So the key thing to understand here
+1047.78 is that when you ingest alcohol,
+1049.52 you are, yes, ingesting a poison,
+1051.44 and that poison is converted
+1052.76 into an even worse poison in your body,
+1054.47 and some percentage of that worse poison
+1056.48 is converted into a form of calories
+1058.55 that you can use to generate
+energy, generate ATP.
+1062.24 And the reason why alcohol
+is considered empty calories
+1065.51 is because that entire process
+is very metabolically costly,
+1068.78 but there's no real nutritive value
+1071.15 of the calories that it creates.
+1073.4 You can use it for immediate energy,
+1075.32 but it can't be stored
+1076.64 in any kind of meaningful
+or beneficial way.
+1078.83 It doesn't provide any vitamins,
+1080.48 it doesn't provide any amino acids,
+1082.16 it doesn't provide any fatty acids,
+1084.05 it's truly empty calories.
+1085.91 I know some people talk about
+sugar is empty calories,
+1087.98 but sugar actually is a
+far better fuel source
+1090.68 than alcohol or acetate.
+1093.2 But nonetheless, when you ingest alcohol,
+1096.14 some percentage is being
+shuttled into a worse poison
+1099.26 and some is being shuttled
+into a fuel source.
+1102.71 Now, the important thing to understand
+1104.45 is that it is the poison,
+the acetaldehyde itself,
+1108.29 that leads to the effect of
+being inebriated or drunk.
+1112.79 I think most people don't realize that,
+1114.11 that being drunk is actually
+a poison-induced disruption
+1118.43 in the way that your neural circuits work.
+1120.41 And so we should ask ourselves,
+1121.82 like, which neural
+circuits, what brain areas,
+1124.28 what body areas are involved
+in feeling drunk or inebriated?
+1127.79 Now, in thinking about this
+state of being tipsy or happy
+1130.58 or really drunk or a little bit drunk,
+1133.607 I want to mention something
+1134.44 that I think most people aren't aware of,
+1136.97 and that's the fact that for people
+1139.1 that are regular drinkers
+1140.72 or that have a genetic
+predisposition to alcoholism,
+1144.95 when they drink, they tend
+to feel very energized
+1148.28 and very good for longer periods of time.
+1151.58 Again, people who have a genetic
+predisposition to alcohol
+1153.97 or people who are chronic drinkers
+1155.54 or even just, if you recall,
+1157.25 chronic doesn't have to
+mean a ton of alcohol
+1159.5 but they're drinking one or two per night
+1161.12 or they're every other night type drinkers
+1162.92 or Thursday through Sunday drinkers,
+1165.71 those people typically
+experience an increase
+1168.86 in alertness and mood when they drink,
+1171.02 whereas occasional drinkers
+1172.82 will have a briefer, meaning
+less long-lasting, period
+1177.38 of feeling good when they drink
+1178.82 and then more quickly
+transition into a state
+1181.67 in which they're tired or they
+start losing motor skills,
+1184.46 they start slurring their speech.
+1187.04 I also want to emphasize this
+is distinct from tolerance.
+1189.65 We'll talk about tolerance later
+1190.85 and exactly what tolerance means.
+1192.56 But I really want to highlight the fact
+1193.94 that when people ingest this poison,
+1196.97 'cause indeed it is poison,
+1199.13 the range of effects is very different,
+1201.08 and you can reliably predict
+1203.42 who are the people with a
+predisposition to alcoholism
+1206.42 and who are the people who
+are more regular drinkers
+1209.27 by the contour or the timing
+of the different effects.
+1212.51 And, again, people who tend
+to feel more alert and excited
+1216.83 every time they drink, they
+tend to get a real lift,
+1219.62 they become kind of the life of the party
+1221.03 and that lasts a long while,
+1223.37 those people are the ones
+that really have to be careful
+1226.1 about predisposition for alcoholism.
+1229.13 And those people also need to be careful
+1231.65 about their drinking
+1233.027 and the amount of drinking
+that they're doing,
+1234.8 even if they're not full-blown alcoholics.
+1237.47 Now, of course, people
+who are ingesting alcohol
+1239.81 who are not accustomed to drink alcohol
+1241.16 have to be concerned
+about drinking alcohol
+1242.9 for other reasons,
+1243.733 because it can impair motor function
+1245.0 and judgment, et cetera.
+1246.71 But in thinking about the
+biochemical effects of alcohol
+1249.527 and what it's doing to the body,
+1251.63 what it's doing in all cases
+1254.0 is it's consumed into the gut, right?
+1257.03 Goes into the stomach,
+1257.863 the liver immediately
+starts this conversion
+1259.76 that we talked about before
+1260.66 of ethanol to acetaldehyde to acetate,
+1262.91 and some amount of
+acetaldehyde and acetate
+1265.1 are making it into the brain,
+1266.24 it crosses the blood-brain barrier.
+1267.71 Again, the brain has this fence around it
+1269.63 that we call the blood-brain
+barrier or the BBB.
+1272.15 Many things, most things, thankfully,
+1274.67 can't pass across the blood-brain barrier,
+1276.83 but alcohol, because it's
+water- and fat-soluble,
+1279.08 just cruises right across this fence
+1281.06 and into the milieu, the
+environment of the brain,
+1284.27 which is made up of a couple
+different major cell types,
+1286.4 neurons, nerve cells, and
+so-called glial cells,
+1288.68 which are in between the nerve cells,
+1290.66 and we'll talk about the
+effects on each of those soon.
+1293.66 So what happens when
+alcohol gets into the brain
+1295.58 that makes us feel tipsy or drunk
+1297.14 and, in some people, makes people
+1298.49 feel really especially
+energized and happy?
+1302.06 Well, alcohol is indiscriminate
+1304.94 in terms of which brain areas it goes to.
+1307.58 Again, it doesn't bind
+to particular receptors,
+1310.01 but it does seem to have a propensity
+1312.47 or an affinity for particular brain areas
+1315.11 that are involved in certain
+kinds of thinking and behavior.
+1317.33 So one of the first things that happens
+1319.46 is that there's a slight,
+1321.2 at least after the first
+drink or second drink,
+1324.14 there's a slight suppression
+in the activity of neurons
+1327.65 in the prefrontal cortex.
+1329.03 This is an area of your neocortex
+1331.28 that's involved in thinking and planning
+1333.35 and, perhaps above all,
+1335.36 in suppression of impulsive behavior.
+1338.57 So if you go to a party
+and they're serving alcohol
+1341.45 and people are consuming drinks,
+1343.01 what you'll notice is that a
+few minutes into that party,
+1346.01 the volume of people's
+voices will increase,
+1348.26 and that's because people are
+simply not paying attention
+1350.48 to their voice modulation,
+1351.71 and as other people start
+speaking more loudly,
+1353.45 other people are speaking more loudly.
+1354.68 We've all had this experience,
+right, of going to a party
+1356.63 and then you step outside for a moment
+1358.28 and you go, "Oh, my
+goodness, I was shouting."
+1359.72 You come home, the next day,
+you've got a sore throat.
+1361.43 It might be that you
+picked up some sort of bug,
+1363.23 some virus or something,
+1364.64 but oftentimes it's just the fact
+1366.617 that you've been shouting
+all night just to be heard
+1368.24 because as the prefrontal
+cortex shuts down,
+1370.52 people stop modulating their
+level of speech quite as much.
+1375.206 You also notice that people
+start gesticulating more,
+1377.45 people will start standing
+up and sitting down more,
+1379.82 they'll start walking around more,
+1380.9 if there's music on,
+1381.733 people might spontaneously start dancing.
+1384.05 All of this is because these
+areas of the prefrontal cortex
+1387.2 normally are providing what's
+called top-down inhibition.
+1390.05 They are releasing a
+neurotransmitter called GABA
+1393.2 onto various parts of the
+brain that are involved
+1395.3 in impulsive motor behavior
+and thought patterns,
+1397.97 and as you shut down
+the prefrontal cortex,
+1400.07 that GABAergic suppression of impulses
+1403.67 starts to be released,
+1404.51 so people will say things
+that they want to say
+1407.45 without so much forethought
+about what they're saying,
+1410.39 or they might do things
+that they want to do
+1412.82 without really thinking
+it through quite as much
+1414.92 or they might not even remember
+thinking it through at all,
+1417.35 or experience, I should say,
+thinking it through at all.
+1419.3 We haven't talked about blacking out yet
+1420.71 and the effects of alcohol on memory,
+1422.63 but as long as we're there,
+1423.56 I'll just tell you that alcohol
+has a very strong effect
+1426.65 in suppressing the neural networks
+1428.33 that are involved in memory
+formation and storage.
+1431.21 This is why oftentimes we
+forget the events of a night out
+1435.02 if we've been drinking.
+1436.82 One of the more important things to know
+1438.56 about the effects of alcohol in the brain
+1441.02 is this disruption in top-down inhibition,
+1443.9 but, also, that areas of the brain
+1446.84 that are involved in flexible behavior,
+1449.69 sort of considering different options,
+1451.22 like I could do A or I could do B,
+1452.69 I could say this to them
+or I could say that,
+1454.652 I could say it in that way or
+I could say it in this way,
+1456.65 this might be a little more tactful,
+1458.6 those brain areas basically
+shut down entirely
+1461.72 and people just tend to
+say what they want to say.
+1463.88 So the key thing to understand
+is that when people drink,
+1466.61 the prefrontal cortex and
+top-down inhibition is diminished,
+1471.2 that is, habitual behavior
+and impulsive behavior
+1474.5 starts to increase.
+1476.15 Now, what's interesting is
+this is true in the short term,
+1479.21 so after people have one or
+two, maybe three or four drinks,
+1482.3 but it's also true that the
+more often that people drink,
+1488.03 there are changes in the very circuits
+1490.58 that underlie habitual
+and impulsive behavior.
+1493.67 This is really important to highlight,
+1495.2 so much so that I want to drill
+into it a bit more deeply.
+1498.8 For the person that drinks,
+say, every Thursday night
+1501.77 or every Friday night
+1502.82 or goes out only on
+Saturdays but every Saturday,
+1506.3 there's evidence that there are changes
+1508.16 in the neural circuits of the brain
+1509.78 that control habitual behavior
+and impulsive behavior,
+1512.6 and they are modified
+and strengthened in ways
+1516.2 that make those people more
+habitual and more impulsive
+1519.86 outside the times in
+which they are drinking,
+1522.74 and when they drink, impulsive
+and habitual behavior
+1526.07 tends to increase even further.
+1527.84 This is something that's
+not often talked about
+1530.18 when discussing the effects of alcohol.
+1531.89 I mean, we all know the
+effects of being drunk
+1534.65 can be bad, right?
+1536.15 Can be bad in terms of
+judgment, motor coordination,
+1539.39 certainly driving drunk
+is a terrible thing,
+1541.73 get you or other people killed and so on.
+1544.64 But rarely do we hear about
+the changes in neural circuits
+1547.67 from just one or two
+nights of regular drinking.
+1552.47 Again, chronic drinking
+doesn't necessarily mean
+1555.17 every day and every night.
+1556.64 It could be the person that simply drinks
+1558.32 every Thursday or every Friday
+1559.61 or just once a week has
+three or four drinks
+1561.1 or maybe even a few more.
+1563.03 That person is going to
+experience a decrease
+1565.76 in this top-down inhibition,
+1567.62 so an increase in impulsivity
+and habitual behavior,
+1569.93 because the brake on those behaviors
+1571.88 has been removed while they're drinking,
+1573.74 but also changes in the
+very neural circuits
+1576.38 that allow habitual and impulsive behavior
+1579.02 to occur more readily even
+when they're not drinking.
+1581.51 And if you want to know the
+actual substrate for that,
+1583.73 the cellular substrate, I
+can briefly describe it.
+1585.68 It's really interesting.
+1587.09 Again, you don't need to know any biology
+1588.38 to understand this.
+1589.28 What it does is it increases
+the number of synapses,
+1593.03 the actual points of connection
+in the neural circuits
+1595.34 that control habitual behavior.
+1597.83 So there's literally a growth
+1599.81 of the neural circuits in your brain
+1601.16 that lead to existing
+habit execution, all right,
+1604.85 the performance of things
+you already know how to do,
+1607.22 and a reduction in the neural circuits,
+1609.8 or I should say a reduction
+1610.88 in the number of
+synapses, of the contacts,
+1613.55 within the neural circuits
+that are controlling behavior.
+1616.58 So this, again, is a not
+often discussed aspect
+1619.04 of alcohol intake.
+1620.18 Fortunately, it is reversible.
+1622.25 So in animals or humans
+1624.02 that undertake a period of abstinence
+1626.51 of anywhere from two to six months,
+1628.94 these neural circuits return to normal
+1631.31 except in cases where people
+have been chronically drinking
+1634.19 large volumes of alcohol
+for many, many years.
+1636.32 And in those cases,
+1637.58 while there is some
+recovery of brain circuitry
+1640.88 after people get sober,
+meaning completely sober,
+1644.15 they stop drinking entirely,
+1646.04 there is evidence of long-lasting impact
+1648.62 of heavy alcohol usage
+throughout the lifespan.
+1651.29 But, of course, this
+doesn't mean that anyone
+1652.88 that's suffering from
+alcoholism or that used to
+1654.8 should not continue to
+focus on their health.
+1656.93 You absolutely should. All is not lost.
+1659.3 But for people that have been
+drinking for a lot of years,
+1661.04 maybe you went to college and
+you drank a lot in those years
+1663.56 and your neural circuits changed,
+1665.42 if there's a period in which
+you don't drink alcohol,
+1667.85 again, from two to six
+months and ideally longer,
+1671.63 those neural circuits
+can then be remodified
+1673.7 back to their original state.
+1675.29 So let's consider some of the
+other neurochemical effects
+1677.78 of alcohol in the brain and body.
+1679.37 And, again, for right now,
+1680.78 we're confining the conversation to people
+1682.97 that are drinking, on average,
+one or two drinks per night.
+1686.33 Now, some people might think
+1687.163 that two drinks per night is a lot,
+1688.58 and a lot of that will
+depend on body weight.
+1690.41 So for instance, people
+who weigh 110 pounds,
+1695.45 for them to ingest two alcoholic drinks
+1698.39 is going to be substantially different
+1699.86 in terms of the biochemical effects
+1701.63 than somebody who weighs 220 pounds.
+1704.36 Of course tolerance will
+also factor into this,
+1706.88 genetic background will
+also factor into this,
+1709.49 and indeed whether or
+not people have eaten
+1712.13 will factor into this,
+1712.97 so there are a lot of factors
+and we'll talk about that.
+1715.04 For the time being, if you're curious
+1716.21 about how food impacts
+the effects of alcohol
+1719.75 and your feelings of being drunk,
+1721.4 you may have heard, for instance,
+1722.6 that if somebody's inebriated
+and they want to sober up,
+1725.06 they should eat something.
+1726.08 Turns out that does not work.
+1728.12 Here's how it does work, however.
+1730.13 If you eat something
+prior to drinking alcohol
+1733.34 or while ingesting alcohol,
+1735.83 it will slow the absorption of
+alcohol into the bloodstream.
+1739.76 In other words, you won't
+feel as drunk as fast,
+1742.07 for many of you, this
+probably comes as no surprise,
+1744.26 in particular, if that meal
+includes carbohydrates,
+1747.57 fats, and proteins, okay?.
+1749.72 The inclusion of all
+three major macronutrients
+1752.84 seems to slow the absorption
+of alcohol into the bloodstream
+1755.69 far more than having any one of those
+1758.54 or two of those macronutrients present.
+1761.24 Now, if you are already inebriated
+1763.73 or you've had a glass of wine or a beer
+1765.89 and you eat something,
+1768.95 chances are that alcohol
+has already made it
+1771.02 into your bloodstream
+1771.853 because it moves into the
+bloodstream so quickly.
+1774.98 Again, it's fat-soluble and water-soluble,
+1777.08 so within minutes, right?
+1779.187 If you have an empty stomach,
+within five to 10 minutes,
+1781.61 that alcohol is going to
+be within your bloodstream
+1783.35 and distributed throughout your body,
+1784.4 maybe even faster depending
+on the type of alcohol
+1786.68 and your metabolism.
+1788.63 But if you're already drunk
+and you eat something,
+1792.26 it's not going to sober
+you up more quickly,
+1793.82 but it certainly will blunt the effects
+1795.11 of any additional alcohol
+that you might consume.
+1797.93 And if you're somebody who is concerned
+1800.48 about getting too drunk too quick,
+1802.19 even from a small amount of alcohol,
+1803.42 having some food in your gut
+can certainly be beneficial.
+1806.93 Now, that's food and alcohol
+and the absorption of alcohol,
+1810.29 but let's go back to talking
+about the biochemical
+1813.38 and neurochemical effects
+of alcohol on the brain.
+1815.93 We talked about top-down inhibition,
+1818.03 and we talked about habitual
+1819.44 and impulsive behavior circuitry.
+1821.87 There are also dramatic changes
+in the activity of neurons
+1825.92 that control the release
+of so-called serotonin.
+1828.08 Serotonin is a neuromodulator.
+1830.12 It changes the activity of neural circuits
+1832.88 and many neural circuits,
+1834.05 in particular, those involved in mood
+1836.03 and feelings of well-being.
+1837.5 Recently, there's been a
+lot of interest in serotonin
+1840.02 because of a study that was released
+1841.34 that showed pretty conclusively
+1842.87 that serotonin levels can't
+really explain depression
+1846.59 and depression-like symptoms.
+1848.33 I want to make it very clear
+1849.47 that although that study did
+show that serotonin levels
+1853.16 are not necessarily
+associated with depression,
+1856.37 the study was interpreted
+by many to mean that SSRIs,
+1859.61 selective serotonin reuptake inhibitors,
+1861.59 which have the net effect
+of increasing serotonins,
+1864.59 these are things like Prozac, et cetera,
+1867.23 that those drugs are somehow not helpful
+1870.47 because they increase serotonin
+1873.11 and serotonin isn't
+involved in depression.
+1875.99 That logic doesn't really hold together
+1878.36 so I'm going to use this as an opportunity
+1879.77 to just clarify what
+really occurred there,
+1882.41 and then we'll talk about how serotonin
+1884.06 relates to alcohol consumption
+1885.32 in things like feeling
+good and in depression.
+1889.16 The key thing is this, SSRIs
+can help alleviate depression.
+1894.89 That's right. SSRIs can
+help alleviate depression.
+1897.86 They are often, not always,
+associated with side effects,
+1900.11 dosage is very important, et cetera.
+1902.36 But they probably support
+relief from depression
+1907.16 by changing neural circuits,
+1908.87 not necessarily by
+increasing serotonin itself.
+1912.11 That is, increasing
+serotonin with these drugs
+1914.48 likely changed the neural
+circuits involved in mood,
+1917.54 allowing people to feel better
+1918.86 through so-called neuroplasticity,
+1920.45 which is the brain's
+ability to change itself
+1922.58 in response to experience.
+1923.9 So there's a bit of confusion,
+1924.92 and, again, I'm using
+this episode on alcohol
+1927.83 to highlight some of the confusion
+1929.03 because I think it's timely,
+1930.32 because the study just came out
+1931.25 and there's a lot of
+chatter about this out there
+1933.29 that when people are depressed,
+1935.72 it's not necessarily because
+serotonin levels are low.
+1938.84 However, if serotonin levels are increased
+1941.21 with things like Prozac,
+Zoloft, and other SSRIs,
+1944.15 oftentimes there is, yes,
+a relief from depression,
+1947.84 but that's probably not
+1949.31 because of restoring
+serotonin levels, per se.
+1951.56 It's probably because serotonin
+facilitates the changes
+1956.21 in neural circuits that need to occur
+1957.59 in order for people to
+feel elevated mood, okay?
+1960.35 So, again, that's a bit
+of a tangent and aside,
+1962.09 but I do think it's a vital
+one for people to know about.
+1964.73 Again, if you're thinking
+about taking SSRIs
+1966.59 or you're currently taking them
+and you've heard this news,
+1968.87 definitely talk to your doctor.
+1970.34 Again, there is great utility
+for some of these SSRIs,
+1972.71 and, also, in conditions like OCD,
+1974.78 they've been shown to be very beneficial,
+1976.43 so we really don't want to throw SSRIs out
+1978.62 as a potentially valuable treatment.
+1981.56 Getting back to the effects
+of alcohol on serotonin,
+1985.04 it's very clear, beyond any doubt,
+1988.61 that many of the circuits in the brain
+1990.38 that are involved in mood
+and feelings of well-being
+1992.84 and also sort of self-image
+and how we see ourselves
+1997.16 employ the neuromodulator serotonin,
+1999.77 and alcohol, when we ingest it
+2002.53 and it's converted into acetaldehyde,
+2005.56 it goes and that
+acetaldehyde acts as a toxin
+2009.67 at the very synapses,
+2011.11 the connections between
+these serotonergic neurons
+2013.12 and lots of other neurons.
+2014.47 In other words, when we ingest alcohol,
+2016.45 the toxic effects of alcohol
+disrupt those mood circuitries,
+2020.26 at first making them hyperactive.
+2022.9 That's right, making them hyperactive.
+2023.763 This is why people
+become really talkative,
+2026.29 people start to feel really good
+2027.4 after a few sips of alcohol,
+at least most people do.
+2030.16 And then as they ingest more alcohol
+2033.1 or as that alcohol wears off,
+2034.99 serotonin levels and the
+activity of those circuits
+2037.63 really starts to drop, and
+that's why people feel less good.
+2040.99 And typically what they do,
+they go and get another drink
+2043.39 and they attempt to kind
+of restore that feeling
+2045.7 of well-being and mood.
+2046.9 Now, typically what happens
+2048.01 is that as people ingest
+the third and fourth,
+2050.92 maybe even the fifth drink,
+2052.96 there's an absolute zero chance
+2054.94 of them recovering that
+energized mood, right?
+2057.73 Most people, as they drink more and more,
+2059.62 will now start to feel
+more and more suppressed.
+2063.31 The forebrain is now
+shutting down quite a lot,
+2065.56 a lot of the motor cortical areas
+2067.51 that control coordinated movement
+2069.61 and deliberate movement
+start to shut down,
+2071.05 so people start to slur their speech,
+2073.03 people start to shuffle their feet,
+2074.77 people forget their posture,
+people start to lean on things,
+2078.04 people start passing out on couches.
+2080.2 There's a great depression,
+2081.7 not depression of the
+psychiatric depression sort,
+2085.0 but a depression of alertness and arousal,
+2090.52 and eventually people will pass out.
+2093.07 Now, I said most people
+2094.48 because there's a subset of
+people that have gene variants
+2097.39 or who are chronic drinkers
+2100.27 or who are chronic drinkers
+and have gene variants
+2103.51 that, as they ingest the third and fourth
+2106.72 and fifth drink, what happens?
+2108.73 They become more alert,
+they start talking more,
+2111.13 they feel great, they
+have all sorts of ideas
+2112.84 about the fun they could have that night.
+2114.31 And they're the ones that,
+2115.75 if you've ever fallen asleep
+at a party for whatever reason,
+2118.54 or you're getting tired
+and you're yawning,
+2119.89 you're looking around the room
+2120.723 and, like, these people are
+still drinking and partying
+2122.56 and they're having what seems
+to be this amazing time,
+2126.31 often, not always,
+2127.78 those are the future
+alcoholics in the room,
+2131.05 or those are the people
+2132.46 that have a genetic
+predisposition for alcoholism,
+2135.58 or those are the chronic drinkers,
+2136.897 the people who have built
+up enough of a tolerance
+2139.87 or who have the chemical genetic makeup
+2142.54 such that increasing amounts of alcohol
+2145.0 make them feel better
+and better and better.
+2146.83 And of course, they, too, have a threshold
+2149.14 beyond which their nervous system
+2150.73 will start to get diminished
+2151.9 and they'll pass out,
+fall over, et cetera,
+2155.38 but that threshold is way, way higher
+2157.75 than it is for most people.
+2159.73 Now, this is important to understand,
+2161.89 and it's important to understand
+2163.51 because I think everyone should know
+2165.34 and recognize their own predisposition
+2167.59 and kind of risk in terms
+of developing alcoholism.
+2171.67 It's also important to understand
+2172.9 because it relates to the
+phenomenon of blackout.
+2175.48 Many people think that
+blacking out is passing out,
+2178.15 but blackout drunk is when people drink
+2181.36 and they're talking and doing things,
+2182.77 sometimes, sadly or tragically,
+2185.53 they'll often drive home or walk home
+2187.78 or they'll hop on a bicycle and ride home
+2189.28 or they'll go swimming in the ocean,
+2190.39 all, of course, very
+dangerous activities to do
+2193.3 when people are really drunk,
+2194.92 or even a little bit drunk in some cases.
+2196.72 So these people will do
+these sorts of things
+2199.0 and they do them because they
+have the energy to do them
+2201.67 and they feel good while doing them,
+2203.71 but they are doing them
+2204.7 while the activity of
+neurons in the hippocampus,
+2207.16 which is involved in memory formation,
+2208.9 are completely shut off.
+2210.37 And this is why the
+next day, you tell them,
+2214.007 "Hey, maybe we should talk
+about what happened last night."
+2216.1 Like, "What happened last night?"
+2217.36 You said, "Well, do you
+remember going to the party?"
+2218.777 "Yeah, I know, it was great.
+We did this, we did this."
+2220.427 "And then what?"
+2221.62 And it's very clear all of a sudden
+2224.17 that they have no recollection
+2226.0 of all the things they were
+doing despite being awake.
+2229.0 Now, I wish I could tell you
+2229.84 that there's some sort of
+blood test or other biomarker
+2232.12 or even a fingerprint
+test that would allow you
+2234.55 to determine whether or
+not you have a propensity
+2237.4 to be one of these drinkers
+2238.99 that has a predisposition for alcoholism.
+2242.44 And if you've ever been blackout drunk,
+2244.48 and certainly if you've
+been blackout drunk
+2246.34 more than a few times, you
+should be quite concerned.
+2249.25 And as we talk more about
+the more chronic effects
+2252.16 and long-lasting effects
+of alcohol consumption
+2254.92 a little bit later in the episode,
+2256.63 I think it'll become clear
+2257.56 as to why you should be concerned.
+2259.27 But in any case, there is
+something that can tell you
+2263.47 whether or not you might
+be in that category
+2266.26 versus likely not in that category,
+2268.03 and I alluded to this a
+couple of times already,
+2269.77 but I want to be really
+clear that when people drink,
+2274.66 no matter who you are,
+2276.04 initially, there's that shutting down
+2277.23 of those prefrontal cortical circuits,
+2279.43 there's a gradual shutting down
+2280.53 of the circuits that control memory,
+2282.49 but then people divide
+into these two bins.
+2284.89 And these two bins
+2285.76 are the people who, after
+more than a couple of drinks,
+2289.3 start to feel sedated,
+2291.1 and the people who, after
+more than a few drinks,
+2293.23 do not start to feel sedated.
+2295.54 Now, of course there's
+going to be differences
+2297.97 created by how quickly
+people are drinking,
+2300.28 whether or not they're combining
+different types of alcohol,
+2303.16 the types of alcohol, et cetera,
+2305.05 but in general, that can predict
+2306.85 whether or not you're somebody
+2307.69 who has a predisposition
+for alcoholism or not.
+2311.47 One also very interesting finding
+2313.63 is that alcohol changes the relationship
+2316.84 between what's called the hypothalamus
+2319.3 and the pituitary gland and the adrenals.
+2321.91 Now, the hypothalamus is a
+small collection of neurons
+2324.19 about the size of a large gumball
+2325.75 that sits above the roof of your mouth,
+2327.1 and it houses neurons that are responsible
+2328.96 for some incredible aspects of
+our behavior and our mindset,
+2333.13 things like rage, things like sex drive,
+2336.37 things like temperature regulation,
+2338.02 very primitive functions,
+2340.06 including appetite, thirst, et cetera.
+2342.61 Alcohol, because it can
+go anywhere in the brain,
+2344.86 remember it's water- and fat-soluble,
+2347.08 has effects on the hypothalamus.
+2349.33 The hypothalamus normally
+provides very specific signals
+2353.68 to what's called the pituitary gland.
+2355.18 This is a little gland
+2356.32 that actually sticks out of the brain,
+2358.27 but it receives instructions
+from the hypothalamus.
+2362.14 And then the pituitary releases hormones
+2364.36 into the bloodstream that go
+and talk to your adrenals,
+2366.902 and your adrenal gland sit
+right above your kidneys
+2369.64 in your lower back.
+2370.96 And the adrenals release, as
+the name suggests, adrenaline,
+2374.41 also called epinephrine,
+2375.34 and also a molecule called cortisol,
+2377.77 which is involved in the kind
+of longer-term stress response
+2380.68 and it has some healthy effects,
+too, on the immune system.
+2382.6 Okay, so the
+hypothalamic-pituitary-adrenal axis,
+2386.53 I know that's a mouthful,
+2387.67 you don't need to remember the names,
+2389.17 but the
+hypothalamic-pituitary-adrenal axis
+2391.6 maintains your physiological balance
+2393.61 of what you perceive as stressful
+2395.2 and what you don't perceive as stressful.
+2398.17 People who drink regularly,
+2400.15 so this, again, could be just
+one or two drinks per night
+2402.79 or it could be somebody
+that drinks just on Fridays
+2405.31 or just on Saturdays or
+maybe just on the weekend,
+2407.74 two to four drinks,
+2409.06 well, those people experience changes
+2410.77 in their
+hypothalamic-pituitary-adrenal axis
+2414.04 that result in more cortisol,
+2415.93 more of this so-called stress hormone,
+2417.97 being released at baseline,
+when they are not drinking.
+2421.66 This is really important.
+2423.88 People who drink a bit,
+2425.26 and when I say a bit, I
+don't mean one or two sips
+2427.24 or even a glass of wine
+every once in a while.
+2429.73 I mean, again, people that are maybe
+2431.65 having one drink a night with dinner
+2434.56 and maybe on the weekend a few more.
+2436.84 Again, I offer a bunch of
+different patterns to explain
+2439.21 how it could also be two
+or three drinks on Friday
+2442.63 or six drinks only on Saturday.
+2444.76 Well, all of those groups
+experience increases
+2447.22 in cortisol release from
+their adrenal glands
+2451.15 when they are not drinking,
+2452.5 and as a consequence,
+they feel more stressed
+2456.28 and more anxiety when
+they aren't drinking.
+2459.58 This is a seldom talked
+about effect of alcohol
+2463.15 because so often we hear
+2464.35 about the immediate
+effects of alcohol, right?
+2466.36 And we've been talking
+about some of those effects,
+2468.25 effects like reducing
+the amount of stress.
+2470.47 I mean, how many times
+have we heard somebody say,
+2472.697 "Ugh, I need a drink."
+2473.53 And then they have a drink and
+they're, like, calmed down,
+2475.63 now they can shake off the
+thoughts about the day's work
+2478.69 they can start to think about things
+2480.04 in a maybe more grounded or rational way,
+2482.29 or at least they believe that,
+2483.43 or they can somehow just relax themselves.
+2486.28 Well, while that very well may be true,
+2489.04 that it can relax them,
+2490.33 when they are not drinking,
+that level of cortisol
+2493.78 that's released at baseline
+has increased substantially.
+2497.2 Again, this relates to
+a defined neural circuit
+2500.65 between brain and body,
+2501.73 and it has to do with
+the ratio of cortisol
+2504.25 to some of the other hormones
+2505.9 involved in the stress response.
+2508.03 We'll provide a reference to the study
+2509.59 that describes how all of this works
+2511.24 for those of you that really
+want to delve into it,
+2513.25 but let's go back to this issue
+2515.53 of those who are prone to alcoholism
+2517.54 versus those who are not.
+2519.04 Remember, there are people
+who have genetic variants,
+2522.88 meaning genes that they
+inherited from their parents,
+2525.82 that make it more likely that
+they will become alcoholics.
+2528.94 But there are also people who drink often
+2532.06 who start to experience
+this increase in alertness
+2534.94 the longer they drink across the night.
+2537.79 Part of that effect, we
+think, is because of changes
+2541.24 in this
+hypothalamic-pituitary-adrenal axis.
+2543.97 So alcohol is kind of a
+double hit in this sense.
+2547.45 It's causing changes
+in our brain circuitry
+2549.34 and neurochemistry that,
+2551.47 at the time in which we're
+inebriated, are detrimental,
+2554.98 and it's causing changes in
+neural circuitry that persist
+2558.04 long past the time in which
+we're experiencing the feeling
+2560.68 of being tipsy or drunk.
+2562.75 Now, again, I don't want
+to demonize alcohol.
+2565.06 I'm not saying, oh, you know,
+2565.893 if you have a glass of wine now and again
+2567.7 or you drink a beer now and again
+2568.9 or even have, you know, a
+mixed drink now and again
+2573.34 or a shot that that's
+necessarily terrible for you.
+2575.92 I certainly do not want
+that to be the message.
+2579.52 What I'm saying is that if people
+2581.71 are ingesting alcohol chronically,
+2583.36 even if it's not every night,
+2585.19 there are well-recognized
+changes in neural circuits,
+2590.11 there are well-recognized changes
+2591.85 in neurochemistry within the brain,
+2593.95 and there are well-recognized changes
+2596.17 in the brain-to-body stress system
+2599.62 that generally point in three directions,
+2604.0 increased stress when
+people are not drinking,
+2607.93 diminished mood and feelings of well-being
+2610.3 when people are not drinking,
+2612.34 and, as you'll soon learn,
+changes in the neural circuitry
+2617.47 that cause people to
+want to drink even more
+2621.13 in order to get just back to baseline
+2623.83 or the place that they were
+2625.27 in terms of their stress modulation
+2627.04 and in terms of their feelings of mood
+2628.27 before they ever started
+drinking in the first place.
+2631.45 So again, I don't want
+to demonize alcohol,
+2634.18 but I do want to emphasize
+2635.89 that there are long-term plastic changes,
+2638.32 meaning changes in neural
+circuitry and hormone circuitry,
+2641.14 that, across a period of several months
+2643.81 and certainly across a period of years
+2645.46 of the sorts of drinking
+patterns I described,
+2647.53 which I think, for most people,
+2649.21 are going to sound, like,
+pretty typical, right?
+2651.22 I mean, nothing that I described so far
+2652.84 was about drinking a case a night
+2654.85 or about binging on alcohol
+2656.44 in the way that we often
+hear about it in the news.
+2658.6 These are pretty common
+patterns of alcohol consumption.
+2661.72 I mean, all you have to do is
+board a transatlantic flight
+2664.84 or actually go to an airport
+on a Sunday afternoon
+2667.21 in a sunny area of the US
+2668.53 and, you know, people are
+having three, four, five,
+2670.96 six beers, et cetera.
+2672.7 Again, personal choice is personal choice.
+2674.89 I'm not telling you what to do.
+2676.09 But it's very clear that those
+sorts of drinking patterns
+2678.76 are changing neural circuitry
+2680.23 and they're changing hormone circuitry,
+2682.15 and I'd love to be able to tell you
+2683.14 that they're changing them for the better,
+2684.37 but they simply are not.
+2686.11 They're actually changing
+them for the worse,
+2687.61 and worse is defined as making people
+2689.08 less resilient to stress,
+2690.43 higher levels of baseline
+stress, and lower mood overall.
+2693.82 Before we continue with
+today's discussion,
+2696.07 I'd like to just briefly
+acknowledge our sponsor,
+2698.14 Athletic Greens, now called AG1.
+2701.35 Athletic Greens, AKA AG1,
+2703.63 is an all-in-one vitamin,
+mineral, probiotic drink
+2706.09 that also has adaptogens
+and digestive enzymes.
+2709.15 I've been taking Athletic
+Greens since way back in 2012
+2711.85 so I'm delighted that they're
+sponsoring the podcast.
+2714.31 The reason I started
+taking Athletic Greens
+2715.9 and the reason I still drink
+Athletic Greens twice a day
+2718.84 is that it supplies total
+foundational coverage
+2721.75 of my vitamin and mineral needs,
+2723.16 and it supplies important
+nutrients that I need
+2726.07 to support my gut microbiome.
+2727.66 The gut microbiome, as many of you know,
+2729.37 supports the immune system.
+2730.48 It also supports the
+so-called gut-brain axis,
+2732.52 which is vital for mood,
+2734.02 for energy levels, for regulating focus,
+2736.15 and many other features
+2737.23 of our mental health and physical health
+2738.7 that impact our daily
+performance and high performance
+2741.22 in any endeavors we might be involved in.
+2743.32 If you'd like to try Athletic Greens,
+2744.73 you can go to athleticgreens.com/huberman
+2747.46 and claim a special offer.
+2748.99 They're giving away
+five free travel packs,
+2750.64 plus a year's supply of
+vitamin D3 K2 with every order.
+2754.54 And, of course, vitamin D3 K2 are vital
+2756.76 for all sorts of things
+2757.93 like hormone health and metabolic health
+2759.67 and K2 for cardiovascular
+health and calcium regulation.
+2762.43 Again, you can go to
+athleticgreens.com/huberman
+2765.67 to claim that special offer.
+2767.14 Now, I've been talking a little bit
+2768.19 about genetic predisposition,
+2770.62 but there are a couple of important points
+2772.21 I'd like to make about that.
+2773.53 First of all, what sorts
+of genes are involved
+2776.29 in setting someone down the
+path of alcoholism or not?
+2780.55 Well, it should come as no surprise
+2782.47 that the genes that chronic
+alcohol usage modifies,
+2787.42 they tend to fall
+primarily in the pathways
+2790.99 related to genetic control
+over serotonin receptors,
+2795.31 GABA receptors, remember
+that top-down inhibition
+2797.8 and the involvement of GABA,
+2799.0 and, no surprise, the HPA,
+2801.7 the hypothalamic-pituitary-adrenal axis.
+2803.77 All of those, of course
+combined with environment,
+2806.38 they combine with
+patterns of abuse, right,
+2808.84 we know that if you're in a social setting
+2810.28 where a lot of people are drinking,
+2811.48 the likelihood that you're
+going to drink is much higher,
+2814.42 social pressures, trauma, right?
+2817.78 Some people will use
+alcohol to self-medicate
+2819.94 to try and turn off their thinking
+2821.26 or to deal with trauma, et cetera.
+2823.48 So they combine with the environment,
+2825.22 but the genes that are in
+the serotonin synthesis
+2828.55 and receptor synthesis
+pathway, GABA and HPA axis,
+2832.51 combine with environmental pressures
+2834.76 to give rise to alcohol use disorders.
+2838.24 So there's a fairly coherent picture
+2840.28 that we have here, right?
+2841.78 This is not a case where, for instance,
+2844.15 people that have a lot of the enzyme
+2846.127 for metabolizing alcohol,
+2847.09 which we'll talk about in a
+minute, alcohol dehydrogenase,
+2850.06 it's not like they are
+necessarily the people
+2852.61 that become alcoholics,
+2853.45 whereas certainly in certain cultures,
+2855.64 certain Asian cultures in particular,
+2857.86 there are gene differences
+2860.14 that lead them to have low
+levels of alcohol dehydrogenase.
+2862.69 There are actually people
+2863.523 who have so little alcohol dehydrogenase
+2865.21 that when they ingest alcohol,
+2866.65 they get very red and they just feel sick.
+2868.6 So if you're somebody
+that has a sip of alcohol
+2870.13 and you just feel horrible,
+it makes you feel nauseous,
+2872.35 chances are you have gene
+variants that create a situation
+2876.16 where you're not making very
+much alcohol dehydrogenase.
+2879.04 You just simply can't metabolize alcohol
+2881.11 so you just get a rapid buildup
+2882.61 of the toxic effects of
+alcohol, the acetaldehyde,
+2885.67 you're not converting it
+into those empty calories.
+2888.46 But in cultures where you
+have a lot of genetic variants
+2892.66 and genes expressed in people
+2894.52 where they have a lot of
+alcohol dehydrogenase,
+2896.62 sure, they can drink more,
+2898.39 and they're converting
+more of that alcohol
+2900.22 from its toxic form to a non-toxic form,
+2903.1 and, yes, of course, you
+will observe more alcoholism
+2906.01 in those communities because
+they're drinking more,
+2908.56 but I do want to emphasize
+that the environmental factors
+2911.62 are playing a strong role there, too,
+2913.03 because if you can drink more,
+you're likely to drink more.
+2915.4 If you're somebody that feels sick
+2916.54 immediately from drinking,
+2917.89 it's likely that you're
+not going to engage
+2919.24 in alcohol consumption,
+2920.74 especially if these things
+are genetically related,
+2922.99 and, of course, genes and culture
+2924.67 and location in the world
+tend to run together.
+2927.07 So do you have the gene for alcoholism?
+2930.94 Well, there isn't one single gene.
+2933.1 Chances are if you have
+an immediate relative
+2935.95 who's a chronic abuser of alcohol
+2938.17 or several relatives who are
+chronic abusers of alcohol,
+2941.56 well, that's going to predispose
+you to be an alcoholic.
+2945.16 But since you don't know
+which genes you express
+2947.41 unless you do genetic testing,
+2948.82 and those things are available
+2949.96 but most people aren't doing that,
+2951.85 this assay, if you will,
+2954.01 and it's not an assay, as we say,
+2955.54 an assay is a test that you run in the lab
+2957.97 to determine something,
+2959.47 and it's not one that I recommend
+2960.76 that you go drink in order to do,
+2962.44 but if you've noticed
+that you or somebody else
+2964.75 is somebody who can drink
+a lot throughout the night
+2966.7 and have increased energy
+2967.66 and can just drink and drink and drink,
+2969.94 and especially if there's
+blackout episodes,
+2972.31 not remembering things the next day
+2973.63 despite being alert throughout
+the entire night and so on,
+2976.6 well, then I would be very concerned
+2978.58 that you might actually
+have a genetic variant
+2980.32 predisposing you to alcoholism.
+2982.06 The other thing that predisposes people
+2983.77 to abuse of alcohol is age.
+2987.4 People who start drinking at younger ages
+2991.06 are greatly predisposed to
+developing alcohol dependence
+2995.8 regardless of your family
+history of alcoholism.
+2998.53 Okay, so I'm going to repeat that.
+2999.67 People who start drinking younger
+3001.68 are at great risk for
+developing alcoholism
+3004.62 even if they don't have
+alcoholism in their family.
+3006.93 Now, of course, you don't
+have to be an epidemiologist
+3009.6 to understand that if you grow
+up in a family of drinkers
+3012.36 and alcohol is everywhere,
+3013.89 and especially if there's peer pressure
+3015.21 or lack of oversight,
+3016.8 then there's going to
+be a higher tendency,
+3019.26 or a higher probability, I should say,
+3021.12 that you will start
+drinking at a younger age.
+3023.19 However, even people that grow up
+3025.86 nowhere near their relatives,
+3027.69 if they start drinking at a young age,
+3029.58 so for instance, at 13
+or younger or 14 or 15,
+3033.42 there's a much higher probability
+3034.68 that they're going to develop
+3036.09 a long-lasting dependence on alcohol.
+3038.94 People who take their
+first sip of alcohol later,
+3042.69 15, 16, or one would hope even later,
+3044.85 I can say one would hope
+3045.78 'cause I'm now of that, you
+know, age and generation
+3047.88 where, you know, you
+think about all the things
+3049.74 that young people do,
+and you go, "Oh, gosh,
+3052.14 if they only would wait or
+if they only would abstain."
+3054.6 You know? It's just what happens.
+3056.04 I don't know, there's some
+neural circuit for that
+3057.33 that I can't explain yet.
+3058.59 But people who, for instance,
+3060.72 drink only once they reach
+legal age of drinking,
+3063.3 which in the US, I believe in
+every state is 21 years old,
+3066.78 if they take their first drink at 21,
+3068.64 the probability that they'll go on
+3070.08 to develop full-blown alcohol dependence
+3072.27 or alcohol use disorder, as
+it's called, AUD, is very low.
+3075.72 Now, a subset of them will
+3076.8 because they have such a
+strong genetic predisposition
+3079.29 or maybe life circumstances
+create a pattern
+3082.53 in which they become a chronic drinker.
+3084.48 But I found this very interesting.
+3086.28 Genes matter, but also the age
+3089.19 in which somebody starts
+drinking really matters.
+3092.28 Now, whether or not that's
+because there are changes
+3094.2 in neural circuitry as a
+consequence of that drinking
+3097.05 that make people want to seek
+out more and more alcohol,
+3100.14 or whether or not there's
+some other effect,
+3102.24 maybe it's a change in
+hormones, et cetera,
+3104.49 that predisposes those young drinkers
+3106.5 to become chronic drinkers or
+even full-blown alcoholics,
+3109.59 certainly developing alcohol use disorder.
+3111.96 There's a definition for
+that. We can talk about it.
+3113.55 It involves the amount of drinking
+3115.56 over a certain period of time, et cetera.
+3117.9 So it's very clear that
+drinking early in life
+3120.51 creates a propensity for the development
+3123.27 of alcohol use disorder later in life.
+3126.51 And while there is a genetic component
+3129.03 to developing alcohol use disorder,
+3131.88 I find it very interesting
+3133.11 that if people who have
+those gene variants
+3136.47 delay their onset of drinking,
+3138.48 well, then the probability
+that they'll develop
+3140.13 full-blown alcohol use
+disorder drops as well.
+3143.13 So again, it's genes and environments.
+3144.87 It's not an either/or
+3145.74 and there's no single gene for alcoholism.
+3148.14 Well, I promise you I will also talk
+3149.97 about some of the documented
+positive effects of alcohol.
+3153.66 Although they are very few and
+far between, they do exist.
+3157.5 But before I do that, I would be remiss
+3159.69 if I didn't emphasize some
+more of the terrible things
+3162.72 that alcohol does and
+the way that it does it.
+3165.33 And for those of you that enjoy alcohol,
+3168.57 again, I'd like to say I feel
+guilty about telling you this
+3172.65 because I know how much some
+people enjoy a good drink
+3175.08 every once in a while,
+3175.913 and I say a good drink
+3176.746 because some people do
+like the taste of alcohol.
+3179.25 I suppose I lucked out
+3180.083 in that I don't really
+like the taste of alcohol
+3182.037 and that it just puts me to sleep,
+3183.15 but I know that people do enjoy it.
+3184.83 And I do want to point out
+that there is zero evidence
+3190.32 that, you know, provided
+somebody is of drinking age,
+3194.25 certainly not in the stage
+of brain development,
+3197.4 that having one drink or two
+drinks every now and again,
+3200.91 meaning every three or
+four weeks or once a month,
+3203.97 that is not going to cause
+major health concerns
+3207.6 or major health issues for most people.
+3210.15 I suppose if you have zero
+3212.34 or very little alcohol dehydrogenase,
+3214.17 it might make you feel sick,
+3215.003 but then you're probably
+not the kind of person
+3216.39 that's going to be drinking at all.
+3218.31 So, again, if you enjoy alcoholic drinks,
+3221.13 I'm not trying to take them
+away from you by any means,
+3226.2 but you should know what drinking does
+3228.45 if you're consuming it
+3229.47 in this kind of typical chronic pattern,
+3231.57 as we can now refer to it,
+3232.71 which is that one or two a night
+3234.96 or a few stacked up on Friday
+3238.68 and maybe three or four on Saturday,
+3240.42 this kind of pattern of
+drinking, which is quite common.
+3243.42 And one of the more serious effects
+3244.95 that we should think about
+3246.18 is the impact on the
+so-called gut-brain axis,
+3248.58 or for sake of today's discussion,
+the gut-liver-brain axis.
+3252.24 I don't think the gut-liver-brain axis
+3253.8 has ever been discussed on this
+podcast, maybe any podcast.
+3256.53 Although at the moment I say that,
+3258.39 you know, the gut-liver-brain axis,
+3260.88 people are going to come after me
+3261.93 with, I suppose, gut, liver, and brains.
+3264.48 In any event, you have
+a brain. You have a gut.
+3269.22 That gut runs from your throat
+3271.38 down to the end of your intestine.
+3276.09 Your gut and your brain communicate
+3278.04 by way of nerve cells,
+neurons and nerve connections,
+3281.37 the vagus nerve in particular,
+3283.26 and by way of chemical signaling.
+3285.72 Your gut also communicates
+by way of chemical signaling
+3288.36 and, believe it or not,
+3289.193 by way of neural signaling,
+too, to your liver.
+3292.44 And, as we talked about earlier,
+3293.85 the liver is the first
+site in which alcohol
+3296.79 is broken down or metabolized
+into its component parts.
+3301.53 The liver is also
+communicating with the brain
+3304.32 through chemical signaling
+and neural signaling,
+3306.96 so we have the gut-liver-brain axis.
+3310.29 And what you find
+3312.18 is that people who ingest
+alcohol at any amount
+3316.74 are inducing a disruption in
+the so-called gut microbiome,
+3321.09 the trillions of little microbacteria
+3324.0 that take resident in your gut
+3325.47 and that live inside you all the time
+3326.85 and that help support your immune system
+3328.32 and that literally signal
+by way of electrical signals
+3331.95 and chemical signals to your brain
+3333.96 to increase the release of things
+3335.76 like serotonin and dopamine
+3337.14 and regulate your mood
+generally in positive ways.
+3339.6 Well, alcohol really
+disrupts those bacteria,
+3342.03 and this should come as no surprise.
+3343.2 I mean, earlier, we talked
+about this and it's well known,
+3345.27 if you want to, you know,
+sterilize something,
+3347.31 you want to kill the bacteria,
+you pour alcohol on it.
+3349.767 And I can remember scraping
+myself or cutting myself
+3353.88 or I was always injuring
+myself when I was a kid,
+3355.86 and, you know, the moment
+they take out the peroxide,
+3358.5 you're like, "Oh, boy, here it comes."
+3359.64 But if there's no peroxide around
+3361.38 and you've got a wound there
+and you need to clean it out,
+3363.39 yeah, they'll use alcohol,
+3364.98 which I do not recommend, by the way.
+3366.51 That's one of the harshest
+ways to clean a wound.
+3368.64 But for centuries,
+thousands of years really,
+3371.04 alcohol has been used
+in order to clean things
+3373.98 and kill bacteria.
+3375.69 So alcohol kills bacteria
+and it is indiscriminate
+3379.74 with respect to which bacteria it kills,
+3382.23 so when we ingest alcohol
+and it goes into our gut,
+3384.48 it kills a lot of the
+healthy gut microbiota.
+3387.87 At the same time, the metabolism
+of alcohol in the liver,
+3390.99 which you now understand,
+3392.16 that pathway involving NAD,
+acetaldehyde, and acetate,
+3397.56 that pathway is proinflammatory,
+3400.83 so it's increasing the release
+of inflammatory cytokines,
+3403.89 things like IL-6, et cetera,
+tumor necrosis factor alpha.
+3407.85 If you'd like to learn more
+about the immune system,
+3409.41 we did an episode all
+about the immune system.
+3411.51 You can find it at hubermanlab.com.
+3412.98 It'll teach you all the
+basics of what are cytokines,
+3415.44 what are mast cells, et cetera.
+3417.54 In any event, all these
+proinflammatory molecules,
+3422.1 those are being released.
+3423.96 You've now got disruption
+of the gut microbiota.
+3427.38 As a consequence, the lining
+of the gut is disrupted,
+3430.56 and you develop, at least
+transiently, leaky gut.
+3435.03 That is, bacteria that exists in the gut
+3437.46 which are bad bacteria
+3438.75 can now pass out of the
+gut into the bloodstream,
+3440.85 so you've got a two-hit
+kind of model here.
+3443.07 In biology, we talk about two-hit models,
+3445.47 that is, it's kind of a
+one plus one equals four,
+3447.99 and it's generally when you hear two-hit,
+3449.34 it's not a good thing.
+3450.75 So you've got bad bacteria
+from partially broken down food
+3455.22 moving out of the gut,
+3456.3 the good bacteria in the
+gut have been killed.
+3458.37 You might say, why doesn't the alcohol
+3459.78 kill the bad bacteria in the gut?
+3462.03 Well, the bad bacteria that are
+from partially digested food
+3467.07 oftentimes escape the gut
+3469.41 before the alcohol can disrupt them,
+3472.47 and so now you've got
+leaks in the gut wall,
+3475.41 you've got the release
+of this bad bacteria,
+3477.24 you've got inflammatory cytokines
+3479.28 and other things being
+released from the liver,
+3481.26 and they are able to get into the brain
+3483.81 through what's called a
+neuroimmune signaling.
+3486.48 And what's really bizarre,
+3488.07 in terms of the way that
+this manifests in the brain,
+3490.77 I mean, it's not the
+way I would've done it,
+3492.87 but then again, as I always say,
+3494.19 I wasn't consulted at the design phase,
+3496.68 and anyone who says they did,
+3497.7 you should be very skeptical of them.
+3500.43 The net effect of this
+3501.75 is actually to disrupt the neural circuits
+3505.05 that control regulation of alcohol intake,
+3507.75 and the net effect of that is
+increased alcohol consumption.
+3512.37 So this is just terrible, right?
+3513.78 I mean, so you take in something
+that disrupts two systems,
+3517.62 the gut microbiota, and
+it disrupts in two ways,
+3519.87 it's killing the good gut microbiota
+3521.91 and it's allowing the bad bacteria
+3525.84 to move from the gut into the bloodstream,
+3527.52 you've also got proinflammatory cytokines
+3529.71 coming from the liver,
+3530.97 and those converge or arrive in the brain
+3535.11 and create a system in
+which the neural circuits
+3538.29 cause more drinking.
+3540.15 That's a bad situation.
+3541.5 And this is why people
+who drink regularly,
+3544.05 even if it's not a ton of alcohol,
+3546.81 again, of the sorts of
+patterns of drinking
+3548.49 I talked about before,
+3549.323 and certainly for those that
+are chronic heavy drinkers,
+3552.6 what you end up with is a situation
+3554.34 in which you have inflammation
+3555.96 in multiple places in the brain and body
+3558.0 and the desire to drink even more
+3560.34 and to further exacerbate
+that inflammation
+3562.32 and the gut leakiness.
+3564.12 So this is basically a terrible scenario
+3566.28 for the gut-liver-brain axis,
+3568.62 and it's especially prevalent
+3569.91 in so-called alcohol use disorder,
+3571.44 again, people that are ingesting
+3572.43 somewhere between 12
+and 24 drinks per week.
+3574.95 For those of you that are interested
+3576.15 in learning more about
+the gut-liver-brain axis
+3578.22 and, in particular, alcohol use disorder,
+3580.14 I'll provide a link in
+the show note captions.
+3582.33 There's a wonderful review
+on this that details that.
+3585.57 But on the positive side,
+3587.46 it points to the possibility
+that at least some,
+3590.07 again, at least some,
+3591.63 of the negative effects
+of alcohol consumption,
+3593.67 whether or not you're somebody
+3594.78 who's currently ingesting alcohol
+3597.0 or who used to ingest alcohol
+3598.047 and is trying to so-called
+repair these systems
+3600.45 of the brain and body,
+3601.56 whether or not replenishing
+the gut microbiota
+3603.99 is going to be beneficial.
+3604.89 And we know that there
+are ways to do that,
+3607.05 and we know that there's
+at least some promise
+3609.09 for the ability for this
+system to repair itself.
+3611.85 How does one do that?
+3613.11 Well, I've talked before
+about this on the podcast,
+3615.24 but studies done by colleagues
+of mine at Stanford,
+3617.73 Justin Sonnenburg, who's been
+on this podcast as a guest,
+3620.07 an amazing episode all
+about the gut microbiome,
+3622.14 and his collaborator, Chris Gardner,
+3623.76 also at Stanford School of Medicine,
+3625.86 have explored not alcoholism,
+3628.83 but what are ways to
+improve the gut microbiota,
+3632.88 in particular, to reduce the production
+3636.66 of inflammatory cytokines
+3638.49 and to adjust what's
+called the inflammatome.
+3640.56 You've heard of the genome
+and the proteome, et cetera.
+3643.11 Well, the inflammatome is the total array
+3646.95 or at least the near-total array
+3648.57 of genes and proteins
+that control inflammation.
+3651.36 How can you reduce inflammation
+3652.77 and make that inflammatome healthier?
+3655.2 Well, they've shown that
+two to four servings
+3658.02 of fermented foods per day,
+3659.67 and here, I'm not referring
+to fermented alcohol.
+3661.71 I'm talking about
+low-sugar fermented foods,
+3663.2 so things like kimchi, sauerkraut, natto,
+3667.62 for those of you that like Japanese food.
+3669.96 There are others, I
+know, things like kefir
+3672.3 or things like yogurts that
+have a lot of active bacteria,
+3675.63 again, low-sugar varieties
+of all these things.
+3679.05 Those are terrific at
+reducing inflammatory markers
+3683.1 and at improving the gut microbiome.
+3685.8 One could imagine that
+either inoculating oneself
+3689.01 from some of the effects of alcohol,
+3690.66 although I'd prefer that people
+3691.59 just not drink alcohol
+chronically, frankly,
+3694.53 or if somebody's trying to
+repair their gut microbiome
+3697.2 because they ingested a lot of alcohol
+3699.51 or because they had a lot of
+these inflammatory cytokines
+3701.64 for many years or even
+a short period of time,
+3704.43 regular ingestion of two to four servings
+3706.62 of these fermented foods
+can be quite beneficial.
+3711.122 I want to make it clear,
+that has not been examined
+3713.19 specifically in the context
+of alcohol use disorder,
+3717.15 but because a huge component
+3719.79 of the negative effects
+of alcohol use disorder
+3721.98 are based in this gut-liver-brain axis
+3724.02 and disruption of the gut microbiome
+3725.067 and the inflammatory cytokines,
+3727.11 it stands to reason that things
+that are well-established
+3730.26 to improve inflammation status,
+3732.96 in other words, reduce inflammation,
+3734.61 such as ingesting two to four servings
+3736.26 of low-sugar fermented foods per day,
+3739.59 makes sense in terms of trying to repair
+3741.51 or replenish the system.
+3743.28 One could also imagine taking
+probiotics or prebiotics.
+3745.86 Certainly that would work as well,
+3747.84 although I've sort of
+favored the discussion
+3749.85 around fermented foods
+3750.81 and replenishment of the gut microbiome
+3753.0 mostly because there are more studies
+3755.88 that have examined that in humans
+3757.56 and because of the direct relationship
+3759.54 that's been established between doing that
+3761.16 and reducing negative markers
+within the inflammatome.
+3764.34 And I should mention,
+3765.39 along the lines of repair and recovery,
+3767.19 I put out a question on
+Twitter the other day.
+3769.26 I said, "What do you want
+to know about alcohol?"
+3771.15 I got more than 1,000 questions
+3773.31 and I'll take some more of those questions
+3774.57 a little later in the episode.
+3775.53 But one of the things I noticed
+3776.49 is that many of the
+questions, hundreds, in fact,
+3780.09 related to the question of,
+3782.49 well, if I drank a lot
+previously, am I doomed?
+3785.82 Can I reverse the negative effects?
+3787.44 Or, you know, I'm trying to drink less
+3789.6 and I'm trying to improve
+my health as I do that.
+3791.91 What should I do?
+3792.743 Well, certainly focusing a
+bit on the gut microbiome
+3796.14 ought to be useful.
+3797.55 The other thing I should mention
+3798.69 is as people wean themselves off alcohol,
+3801.06 even if they're not full-blown alcoholics
+3803.34 or have alcohol use disorder,
+3805.02 they should understand that
+that increase in cortisol
+3808.92 that we talked about earlier
+3809.91 that leads to lower stress threshold
+3812.04 and greater feelings
+of anxiety and stress,
+3815.73 that's going to be present
+3816.99 and it's going to take
+some time to dissipate.
+3819.33 So for some people, it might
+even just be helpful to realize
+3822.63 that as you try and wean
+yourself off alcohol
+3825.38 or maybe you even go cold turkey,
+3827.25 that increased anxiety
+and feelings of stress
+3831.39 should be expected.
+3832.65 And in that case, I would
+point you to an episode
+3834.42 that we did on master stress.
+3835.95 You can find that, again,
+at hubermanlab.com.
+3837.75 It's got a ton of behavioral, nutritional,
+3839.61 supplementation-based, exercise-based,
+3841.65 I suppose, exercise is
+behavioral, but a lot of tools.
+3844.62 You can navigate to those
+easily 'cause we have timestamps
+3846.75 so you can go right to
+the topic of interest.
+3848.37 Those tools are going to be very useful
+3849.78 in trying to clamp or control your stress.
+3852.3 And the point here
+3853.17 is just that some increase
+in stress should be expected,
+3857.01 and it should be expected
+3858.15 because of that increase in cortisol
+3859.68 that occurs with even
+low-level consumption
+3862.38 yet chronic alcohol consumption.
+3864.42 Now I'd like to talk about
+a fairly common phenomenon,
+3867.63 which is post-alcohol consumption malaise,
+3871.47 also referred to as hangover.
+3874.05 Hangover is a constellation of effects
+3877.08 ranging from headache to nausea
+3880.14 to what's sometimes called hangxiety,
+3882.54 which is anxiety that
+follows a day of drinking.
+3887.01 Hangxiety, I think we can
+understand physiologically
+3890.25 if we think about that
+process of alcohol intake
+3894.9 increasing the amount of cortisol
+3896.94 and the ratio of cortisol to
+some other stress hormones.
+3900.57 That well explains why some
+people wake up the day after
+3904.23 or even the day the day
+after a night drinking
+3908.76 and feel anxious and not well
+3910.8 and stressed for reasons
+they don't understand.
+3913.26 So if you're somebody who
+experiences hangxiety,
+3917.28 then, again, I refer you to
+the master stress episode
+3920.49 that we put out some time ago,
+3922.38 and you can find that at hubermanlab.com,
+3924.33 tools to deal with anxiety,
+tools to deal with stress,
+3926.49 ranging, again, from
+behavioral to nutritional
+3928.62 and supplement-based, et cetera.
+3930.87 That, of course, is not justification
+3933.21 for going out and drinking so much
+3934.68 that you get hangxiety-induced hangover,
+3938.04 but for those of you that are experiencing
+3939.96 post-alcohol consumption
+hangxiety, as it were,
+3943.41 that could be a useful resource
+3944.85 because I certainly don't want anyone
+3946.44 experiencing uncomfortable
+amounts of anxiety,
+3949.17 and there are great tools
+and resources for that.
+3951.57 Now, the other aspects of hangover,
+3954.15 such as the stomachache or headache
+3958.38 or feelings of malaise or fogginess,
+3961.17 those could be related to a
+number of different things
+3962.85 and probably are related to
+a number of different things.
+3965.19 First of all, the sleep that
+one gets after even just one,
+3970.02 yes, even just one glass of wine or a beer
+3973.98 is not the same sleep that you get
+3975.72 when you don't have alcohol
+circulating in your system.
+3978.3 And not trying to be a downer here,
+3979.65 but this was discussed in the
+Huberman Lab Podcast episode
+3982.71 where I had Dr. Matthew
+Walker from UC Berkeley on.
+3986.16 And, of course, Dr. Walker
+is a world expert in sleep,
+3989.85 runs one of the preeminent laboratories
+3991.59 studying sleep and its effects,
+3993.51 wrote the incredible book,
+"Why We Sleep," and so on.
+3997.68 Dr. Walker told me, and
+it certainly is supported
+4000.29 by lots and lots of quality
+peer-reviewed studies
+4003.32 in animals and in humans,
+4005.09 that when alcohol is present
+in the brain and bloodstream
+4008.45 that the architecture
+of sleep is disrupted.
+4010.28 Slow-wave sleep, deep sleep,
+and rapid eye movement sleep,
+4013.16 all of which are essential
+4014.09 for getting a restorative
+night's sleep, are all disrupted.
+4016.31 So for those of you
+4017.18 that are drinking a glass or two of wine
+4019.73 or having a hard liquor drink or a beer
+4023.75 in order to fall asleep,
+4025.4 the sleep you're getting is
+simply not high-quality sleep,
+4027.95 or certainly not as high-quality
+4029.33 as the sleep you'd be getting
+4030.32 if you did not have
+alcohol in your system,
+4032.99 Of course, when we're
+talking about hangover,
+4034.82 we're talking generally
+about the consumption
+4037.16 of more than just one or two drinks.
+4039.59 Of course, for some
+people, one or two drinks
+4041.33 is probably sufficient to induce hangover,
+4043.25 but for most people it's going
+to be having three or four,
+4045.92 exceeding their typical
+limit, as it's called.
+4048.59 Again, not the legal limit,
+that's a whole other business.
+4051.71 But when one ingests too
+much alcohol for them,
+4056.63 one of the reasons they
+feel terrible the next day
+4059.33 is because their sleep
+isn't really good sleep.
+4061.37 In fact, it's not even sleep.
+4062.9 It's often considered pseudosleep,
+4064.981 or at least that's what it's called
+4065.814 in the sleep science field,
+4067.1 because people are in kind of a low-level,
+4069.02 hypnotic kind of trance,
+it's not real sleep,
+4071.1 there are multiple bouts of waking up,
+4072.98 they may not even realize
+they're waking up multiple times.
+4075.89 Okay, so there's the
+sleep-induced effects.
+4077.69 Then there are the disrupted
+gut microbiome effects,
+4081.89 some of which we talked about earlier
+4083.18 so now you understand the mechanism
+4085.01 of alcohol destroying good,
+healthy gut microbiota,
+4089.57 which then leads to leaky
+gut and things of that sort.
+4092.3 But one could imagine,
+again, could imagine,
+4095.03 and there is some evidence
+starting to support this,
+4097.76 that, again, ingesting
+low-sugar fermented foods
+4101.51 or maybe even prebiotic or probiotics
+4103.34 to support the gut microbiome
+4104.78 might assist in some of
+the gut-related malaise
+4108.59 associated with hangover.
+4110.21 In other words, get those
+gut microbiota healthy again
+4113.45 as quickly as possible,
+4114.38 or maybe even before you drink,
+4116.09 have those gut microbiota healthy.
+4117.38 I would hope that you'd do that.
+4118.213 I think everybody should
+be doing something
+4119.57 to support their gut microbiome,
+4120.95 whether or not it's the ingestion
+4122.0 of low-sugar fermented foods daily
+4123.83 or at least on a regular basis
+4125.57 or ingestion of probiotic or prebiotic.
+4127.97 The gut microbiome is so important
+4129.47 for so many different things.
+4131.12 In terms of hangover and headache,
+4135.02 we know that that's caused
+by vasoconstriction,
+4138.08 the constriction of blood
+vessels that tends to occur
+4140.57 as a rebound after a night of drinking.
+4142.91 Alcohol can act as a vasodilator,
+4144.61 it can dilate the blood vessels.
+4146.12 Part of that is associated
+with the increase
+4149.36 in so-called parasympathetic tone.
+4151.34 We have an autonomic nervous system
+4152.537 and it's got a sympathetic component.
+4154.94 These are neurons that make us more alert,
+4157.22 and if they're very active,
+they make us very stressed.
+4159.56 There's also the parasympathetic aspect
+4162.65 of the autonomic nervous system.
+4163.7 This is all just fancy geek speak
+4165.2 for the parts of your brain and body,
+4166.97 the nerve cells that
+make you very relaxed.
+4168.62 When you're very relaxed,
+there tends to be vasodilation.
+4172.73 It allows for more movement of blood
+4175.07 and other things through the bloodstream,
+4177.47 and alcohol tends to
+induce some vasodilation,
+4180.68 at least in some of the capillary beds.
+4182.39 And then when the alcohol wears off,
+4184.37 there's vasoconstriction and
+people get brutal headaches.
+4188.12 That's why some people will
+take aspirin or Tylenol
+4191.0 or Advil or things like that,
+4193.247 the sort of non-steroid
+anti-inflammatories.
+4195.89 I should mention, there is a
+lot of literature coming out
+4198.62 that some of these non-steroid
+anti-inflammatory drugs
+4202.34 are not good for us for a
+number of different reasons,
+4204.133 the way they impact the liver,
+4206.36 the way they impact the immune system,
+4208.34 and, no surprise, the way they
+impact the gut microbiome.
+4211.88 So I'm not one to tell
+you what medications
+4214.43 to take or not take,
+4215.39 but you certainly would want
+to do a quick web search
+4217.79 of effects of non-steroid
+anti-inflammatories
+4222.59 and aspirin before you start taking those,
+4224.96 or stop taking those, for that matter.
+4227.66 Generally, they will alleviate headache,
+4229.16 but they can often have other issues,
+4230.93 including liver issues.
+4231.83 And keep in mind, the
+night after drinking,
+4233.87 your liver has already taken a beating
+4236.03 because of the need of the liver
+4238.07 to convert alcohol from
+acetaldehyde into acetate,
+4242.84 which is now a pathway
+that you well understand.
+4245.06 So I'm not certain
+4246.74 and, in fact, I believe
+it's not the greatest idea
+4248.57 to burden your liver further
+4250.55 through the use of things
+that are going to cause it
+4253.85 to have to work harder
+and metabolize things
+4256.04 if the goal is simply
+to alleviate a headache.
+4258.71 There's a lot of kind of lore,
+4261.14 old school lore about how
+to relieve a hangover.
+4263.09 We already talked about how
+eating food won't do that
+4266.09 but eating food will
+prevent the rapid absorption
+4269.66 of even more alcohol into the bloodstream.
+4271.91 There's the lore that one should
+simply ingest more alcohol.
+4275.69 What terrible advice that is.
+4277.34 That's just going to delay
+an even worse hangover.
+4279.5 However, I'd be remiss if I
+didn't say that the reason
+4283.07 that that myth came to be,
+4285.47 or that, I should say,
+that truth came to be,
+4288.41 because indeed ingesting more alcohol
+4291.17 will alleviate a hangover
+4292.67 but then a worse hangover will show up,
+4294.74 the reason that came to be
+4295.61 is because ingestion of more alcohol
+4297.41 will cause those constricted vessels
+4299.81 that are giving the
+headache to dilate again.
+4302.03 But, of course, ingesting more
+alcohol to relieve a hangover
+4304.49 is simply a bad idea.
+4305.99 Just don't do it.
+4306.823 I think this is called the
+hair of the dog approach.
+4308.75 Maybe someone can put in the
+show note captions on YouTube
+4311.27 why it's called the hair of the dog.
+4313.97 I can come up with a few ideas
+4315.38 but they're not going
+to be very good ones,
+4318.47 and some of them would probably
+even be outright ridiculous.
+4322.01 So do not ingest more alcohol
+4323.96 simply to try and recover from a hangover.
+4326.63 I know many people have
+tried that one before
+4328.76 but that's a terrible idea.
+4330.56 Now, one thing that
+you'll also hear out there
+4332.12 is that deliberate cold exposure,
+4334.22 for instance, taking a cold
+shower, might relieve hangover.
+4337.22 I find this one particularly interesting
+4338.78 because we've done
+episodes on the benefits
+4340.94 of deliberate cold exposure.
+4341.87 We have an entire episode about that.
+4343.333 You can find it, again, hubermanlab.com.
+4345.99 There are direct links
+to some of the tools
+4348.08 related to deliberate cold exposure
+4349.73 and we have an entire newsletter
+4352.73 on deliberate cold exposure protocols
+4354.5 that you can find on hubermanlab.com,
+4355.85 go to our Neural Network newsletter.
+4357.71 So those of you that are
+interested in ice baths
+4359.69 and cold showers and
+ways to leverage those,
+4362.21 you can find that there.
+4363.47 What you won't find there is a description
+4365.24 of how to use deliberate cold exposure
+4366.65 for sake of treating hangover.
+4368.12 But here, I went into the literature
+4369.44 and I found something kind of interesting.
+4371.12 There is some evidence
+4372.59 that increasing levels of
+epinephrine in the bloodstream
+4376.01 can actually help with alcohol clearance.
+4378.71 That was very surprising to me,
+4379.97 and I want to point out
+4380.803 this is not a large and robust literature,
+4383.03 but there's some evidence
+pointing to the fact
+4384.92 that when levels of
+epinephrine, adrenaline,
+4386.93 are raised in the brain and bloodstream,
+4388.94 that some of the components
+of alcohol metabolism
+4391.16 can be accelerated
+4392.36 and some of the inebriating
+effects of alcohol
+4395.0 can be reduced,
+4395.833 so maybe this old school
+lore of taking a cold shower
+4398.36 actually has something to it.
+4399.68 So in thinking about the use
+of deliberate cold exposure
+4402.05 in order to reduce the effects of hangover
+4404.6 or to more rapidly clear alcohol
+4408.08 from the brain and bloodstream,
+4409.79 I want to be very clear and I
+want to emphasize your safety.
+4414.56 The way to do that is to understand
+4416.42 that alcohol lowers core
+body temperature, okay?
+4419.65 It can make people slightly hypothermic.
+4422.6 It's going to drop core body temperature.
+4425.0 So if you were inebriated
+4427.49 and you went and got into
+a body of water, right,
+4430.04 a pool or a lake or something,
+4432.05 first of all, that's extremely dangerous
+4433.88 to do while you're inebriated, right?
+4435.59 People drown all the time.
+4436.79 People drown, they die as a
+consequence of doing that,
+4439.19 so please don't do that.
+4440.99 But also, if it's very cold water,
+4443.09 your core body temperature is
+going to drop even further.
+4445.79 Now, if you've heard the
+episodes that I've done
+4447.53 on deliberate cold exposure previously,
+4450.53 I've talked about how normally,
+4452.09 when people are not ingesting alcohol,
+4454.34 they get into an ice bath or a cold shower
+4456.08 and their body temperature initially dips
+4457.85 but then it rebounds and increases.
+4459.47 That's a process that's going to occur
+4460.97 when people do not have
+alcohol in their system.
+4463.61 When you have alcohol in your system,
+4465.02 one of the reasons that
+you become hypothermic
+4467.69 is because there's a disruption
+4469.22 in those hypothalamic brain areas,
+4470.69 in particular, the brain area
+4471.68 called the medial preoptic area
+4473.48 that regulates core body temperature.
+4475.43 So it's not so much that
+alcohol makes you cold,
+4478.01 it's that alcohol disrupts
+the central command centers
+4481.49 of the brain that control
+temperature regulation,
+4483.77 and that leads you to
+be slightly hypothermic.
+4486.77 So if you then go get
+into a very cold lake
+4489.2 or you get into even a
+cold shower or an ice bath,
+4492.56 there's the possibility
+4493.49 of you going very, very
+far down the ladder
+4496.91 into very hypothermic territory
+4499.22 and that can be very dangerous.
+4500.78 Now, in terms of dealing with hangover
+4502.4 when the alcohol has been
+largely cleared from your system,
+4505.22 well, that's where some of this old lore
+4507.98 combines with some of the modern science
+4510.14 and says, well, if you
+can spike adrenaline,
+4513.5 and certainly getting into an ice bath
+4515.27 or getting into a cold shower
+4516.89 or any kind of cold body of water,
+4519.17 provided you can do that safely,
+4520.4 that will sharply increase your adrenaline
+4522.71 and, I should say, your dopamine.
+4524.06 That's been shown
+4524.893 and we've talked about
+this on the podcast before.
+4526.43 You get these long, extended increases,
+4528.83 several hours of increases in dopamine
+4530.45 from deliberate cold exposure.
+4531.8 It's well-documented
+in humans, by the way.
+4534.23 So one could imagine using
+deliberate cold exposure
+4537.95 as a way to accelerate the
+recovery from hangover.
+4541.91 Provided that's done safely,
+4543.32 I think there's no reason
+to not explore that,
+4545.54 and if you wonder what safely is
+4547.91 and what temperatures to use,
+4549.29 please check out the episode
+on deliberate cold exposure.
+4552.59 Cold showers, therefore,
+might actually be one way
+4555.89 to at least partially relieve hangover.
+4557.69 Certainly the science from
+various places in the literature
+4561.29 converged to say that.
+4562.34 But, again, be careful, please,
+please, please be careful
+4565.7 not to get into cold water
+when you are inebriated.
+4569.24 It's absolutely dangerous
+for all the obvious reasons,
+4572.24 and it's dangerous also
+for the nonobvious reasons,
+4574.73 not the least of which
+4575.69 is the dramatic decreases
+in core body temperature
+4579.02 that can make you dangerously hypothermic.
+4581.42 Now, how would you go about
+using deliberate cold exposure
+4583.7 to accelerate recovery from hangover?
+4585.56 Well, there, I would look to
+the kind of standard protocols
+4588.44 of, you know, one to three minutes
+4589.61 or maybe even six minutes
+if you can tolerate it,
+4591.26 or if you're really cold-adapted,
+4593.3 maybe you do seven or ten
+minutes in a cold shower,
+4595.79 although that could be a lot.
+4596.66 Most people are going to
+experience a sharp increase
+4600.32 in epinephrine, in adrenaline,
+4601.67 and a long-lasting increase in dopamine
+4604.25 from one to three minutes
+of deliberate cold exposure,
+4607.49 ideally done immersion up to the neck,
+4609.23 again, do this safely,
+please, please, please,
+4611.33 or a cold shower where you're
+getting under the shower
+4613.25 as much as possible.
+4614.083 How cold? Well, that's going
+to vary person to person.
+4616.73 I suggest making it as
+cold as is uncomfortable
+4619.55 such that you really want to get out
+4620.93 but that you know you can stay in safely
+4622.31 without, for instance, giving
+yourself a heart attack,
+4623.84 because if the water
+is really, really cold,
+4625.46 of course you can give
+yourself a heart attack.
+4626.75 Most showers won't go that cold,
+4628.43 although probably some will.
+4630.41 Again, please use caution.
+4631.88 Spike your adrenaline, spike your dopamine
+4633.62 with deliberate cold exposure safely.
+4635.9 Other components of hangover
+that could be good targets
+4638.24 for trying to alleviate hangover,
+4639.98 and, here, I hope you
+are getting the picture
+4642.02 because it is accurate
+to say that hangover
+4645.62 is a multifaceted phenomenon.
+4647.78 It's not like one
+molecule and one receptor.
+4649.58 It's a bunch of things
+happening in the brain and body.
+4651.83 But is the dehydration
+associated with alcohol?
+4654.89 Alcohol is a diuretic.
+4656.57 For multiple reasons, it causes people
+4658.43 to excrete not only water but also sodium.
+4661.91 Sodium is an electrolyte
+4663.11 critical for the function of neurons,
+4664.7 so making sure that
+you have enough sodium,
+4666.59 potassium, and magnesium,
+so-called electrolytes,
+4669.5 is going to be important
+4670.94 for proper brain function,
+bodily organ function.
+4674.6 Even for people that have
+just had one or two drinks
+4676.67 the night before,
+4677.503 it's likely that your electrolyte balance
+4679.94 and your fluid balance
+is going to be disrupted,
+4682.34 and that's because alcohol also disrupts
+4684.53 the so-called vasopressin pathway.
+4686.36 I talked a lot about vasopressin
+4688.52 and the way that it interacts with
+4691.04 and controls different
+aspects of water retention
+4693.65 and water release from the
+body in the form of urine
+4696.23 in the episode on salt.
+4698.24 So, again, I'm referring
+to hubermanlab.com
+4701.78 as the site where you
+can find that episode
+4703.25 on salt balance and ways to
+restore electrolyte balance.
+4706.16 Having your electrolytes
+at the proper levels
+4709.79 before you drink is ideal.
+4711.38 Some people will say for
+every glass of alcohol
+4714.23 that you drink, you should
+drink one glass of water.
+4716.9 I would say better would
+be two glasses of water
+4720.08 given the dehydrating effects of alcohol,
+4722.09 and even better would be
+water with electrolytes.
+4724.58 That certainly would set you up
+4726.08 for a better day the next day.
+4727.88 And if you don't manage to do that,
+4729.667 'cause I suppose it's kind of geeky
+4731.24 walking around with electrolyte packets
+4733.46 out at the bar or whatnot,
+4735.08 although, you know, geeky,
+in my book, is a good thing,
+4739.13 the next day, you could take
+some electrolytes upon waking,
+4742.58 maybe even some before you go to sleep
+4744.71 the night of drinking.
+4745.97 So hangover's made worse
+by disturbed sleep,
+4749.06 made worse by disrupted gut microbiome,
+4750.89 made worse by disrupted electrolytes,
+4753.05 made worse by the depletion
+of epinephrine and dopamine.
+4756.44 That's why replenishing the
+microbiome with fermented foods,
+4759.83 low-sugar fermented foods, that is,
+4761.72 that's why using safe
+deliberate cold exposure
+4765.59 for spiking adrenaline and
+for increasing dopamine,
+4769.97 and that's why consuming electrolytes
+4772.64 are all going to be beneficial.
+4774.8 The folks over at examine.com,
+a website that I really like
+4778.49 because it just has so
+much useful information,
+4781.16 have assembled a list of things
+4783.65 that have been proposed,
+purported to improve,
+4788.06 or, I should say, to remove
+the effects of hangover,
+4791.66 and, as they point out
+4793.49 and I would like to point out over there,
+4794.66 there isn't a lot of quality
+science to support the idea
+4797.93 that any one compound
+can eliminate hangover.
+4801.11 And that's probably because hangover,
+4802.52 again, arises from multiple
+organs and tissues and systems
+4805.97 in both the brain and body.
+4807.41 Nonetheless, they have a terrific
+list over there of things,
+4810.77 everything from Japanese pear fruit juice
+4814.07 has been proposed to do this,
+4815.33 to some other really esoteric things,
+4817.61 even things like yohimbine.
+4820.85 Frankly, when I look at the
+literature there and elsewhere,
+4825.56 one simply cannot find
+the magic substance,
+4829.19 the one herb, the one potion
+that can wipe away hangover.
+4833.84 Getting rid of hangover
+4834.83 is going to be best solved
+by doing a collection
+4839.21 of a small number of very powerful things,
+4841.79 of which I've already listed off a few.
+4844.46 However, there are some additional things
+4846.08 that one can do for relieving hangover,
+4848.48 and one of them is to be very thoughtful
+4851.87 about what sorts of alcohol one consumes.
+4854.42 So I find this interesting.
+4856.13 There have actually been studies
+4857.72 of which types of alcohol lead
+to the greatest hangovers.
+4862.22 There's actually a lot of legend and lore
+4864.08 about this as well.
+4866.24 Some people have said, for instance,
+4867.59 that drinks that have a high sugar content
+4870.23 lead to greater hangovers.
+4872.36 Turns out that's not the case,
+4873.68 or at least that's not
+what the science points to.
+4875.75 If you look at the
+expected hangover severity,
+4878.81 what you find is that at
+the bottom end of the scale,
+4881.99 there's a drink that I'm not
+going to tell you, for the moment,
+4885.86 but what you find is that near
+it is, for instance, beer.
+4889.82 The consumption of beer,
+4891.23 provided it is not overconsumption, right,
+4893.66 it's not far beyond the
+tolerance of the individual,
+4896.87 so it's one or two beers,
+4898.34 is less likely to cause a
+hangover than, say, whiskey.
+4902.66 And a glass of whiskey,
+4904.28 or, you know, not as much
+whiskey as beer, of course,
+4906.92 but a glass of whiskey, for instance,
+4908.51 is more likely to cause hangover
+than gin, as it turns out.
+4913.13 Again, this is what's
+fallen out of the data.
+4916.37 And yet a glass of rum or red wine
+4920.12 is more likely to cause a hangover
+4922.1 than any of the other things
+I've mentioned so far.
+4924.44 At the top, top, top of the list
+4926.09 of drinks that induce hangover is brandy.
+4929.0 And one could then say,
+4930.747 "Well, doesn't brandy have a lot of sugar?
+4932.66 Maybe it's the sugar
+that's causing hangovers."
+4934.46 And this is something that's been,
+4935.72 again, discussed over and
+over, that people say,
+4937.467 "Oh, it's the high-sugar
+drinks that cause hangover."
+4939.92 It turns out, however,
+4941.45 that when one looks at alcoholic drinks
+4945.14 and sugar content and hangover,
+4946.94 at the very bottom of the list is,
+4950.12 gosh, this makes me cringe
+just to think about,
+4952.04 is ethanol diluted in orange juice.
+4955.7 Ugh, I can't believe
+people actually drink this,
+4957.62 but ethanol diluted in orange juice.
+4959.3 So this is not vodka
+and orange juice, okay?
+4961.43 Vodka was third on the
+list from the bottom
+4963.86 of drinks that induce hangover.
+4965.36 Again, this is within amounts
+4967.46 that are comfortable
+for the person to drink,
+4970.25 that they have enough experience with
+4972.08 or that they have the
+body weight to tolerate
+4973.67 without getting very, very drunk.
+4975.56 So the point is that if it were sugar
+4978.68 that's causing hangover,
+4979.76 well, then the ethanol
+diluted in orange juice
+4982.97 would probably be at the top of the list
+4984.71 in terms of inducing hangover.
+4986.3 But it's not, it's at
+the bottom of the list,
+4987.8 and brandy is at the top of the list.
+4989.96 So what you find is that what scales
+4992.96 from ethanol diluted in orange juice
+4995.39 to beer to vodka to gin,
+4996.68 here, I'm ascending the hierarchy
+4998.09 of things that cause hangover,
+4999.83 gin, white wine, whiskey, rum, red wine,
+5002.2 and then brandy at the peak,
+5004.15 it's sort of the world
+heavyweight champion
+5006.67 of hangover-inducing drinks,
+5009.19 well, what's increasing are
+congeners within those drinks.
+5014.35 Congeners are things like
+nitrites and other substances
+5017.95 that give alcohol it's distinctive flavor
+5021.76 and that also lead
+5023.14 to some of the inebriating
+effects of alcohol.
+5026.92 Now, then you ask,
+5027.753 "Okay, well, what is it that
+these congeners are doing?
+5030.88 And what are these nitrites doing?"
+5032.2 And guess what?
+5033.55 While they do have effects on the brain
+5035.2 and on other tissues,
+5037.09 their main effects are to
+disrupt the gut microbiome.
+5040.9 So what this points to again
+5043.45 is that having a healthy gut microbiome
+5045.91 and perhaps ensuring that you
+bolster your gut microbiome
+5051.58 the day after drinking
+5052.63 is going to be especially
+important for warding off hangover
+5056.43 or at least reducing
+the effects of hangover
+5059.44 or the symptoms of hangover or both.
+5061.6 I would love to see a study on this.
+5064.12 I could imagine designing
+the study myself,
+5066.01 although this isn't
+really the sorts of things
+5067.66 my laboratory does,
+5069.16 but can imagine some people
+getting probiotic and prebiotic,
+5072.55 some regularly, some just after drinking,
+5075.18 or low-sugar fermented foods,
+5077.23 and see what the effects are
+5078.25 in terms of subjective effects of hangover
+5080.68 but also some physiological measures.
+5083.38 I think the way to think
+about hangover overall
+5085.81 is that, again, it
+represents a multifaceted,
+5090.16 multi-organ, multi-tissue phenomenon,
+5094.06 and the best way to deal with it
+5095.62 is as a multi-cell, multi-tissue,
+multi-chemical phenomenon.
+5099.88 And before I listed off some of the things
+5101.41 that one could do in
+order to adjust hangover,
+5105.22 again, the one that comes
+out at the top of that list,
+5108.7 I believe, at least based
+on my read of the data,
+5110.92 is to support the gut microbiome
+5113.44 and certainly not to ingest more alcohol.
+5116.62 And I suppose if we were
+to get really honest
+5119.11 with one another
+5120.55 and ask what's the best
+way to avoid a hangover,
+5123.4 it would be to not drink
+in the first place.
+5125.65 So we've covered the
+major effects of alcohol
+5128.2 that lead to this state
+5129.52 that we call drunkenness or inebriation.
+5133.33 Again, there's a range there.
+5134.5 You can be tipsy, people
+can be blackout drunk,
+5137.23 people can be passed out drunk.
+5140.26 We've also talked about hangover
+5142.03 and the fact that it's a
+multifaceted phenomenon
+5144.55 and recovery from hangover
+involves a multifaceted approach.
+5149.68 Next I want to talk about tolerance.
+5151.75 Tolerance to alcohol is a
+very interesting phenomenon.
+5154.48 It has roots mainly in the
+brain and in brain systems.
+5160.42 There's not time in the world,
+5162.19 let alone within this podcast,
+5163.6 to get into all the aspects of tolerance.
+5165.58 There are more than 10
+different types of tolerance.
+5168.13 There's functional
+tolerance, chronic tolerance,
+5169.81 rapid tolerance, there's
+metabolic tolerance,
+5172.45 there's psychological tolerance.
+5174.64 Let's keep it simple for
+sake of today's discussion.
+5176.74 And for those of you that are interested
+5178.09 in learning about all the
+different types of tolerance
+5180.34 and aspects of tolerance,
+there's an excellent review,
+5183.73 we will provide a link to this.
+5185.02 This was published in 2021,
+so it's pretty recent,
+5187.54 in the journal "Pharmacology
+Biochemistry and Behavior."
+5190.72 Incidentally, or not so incidentally,
+5192.61 that was the first journal
+I ever published in
+5194.44 so I have a particular
+affection for that journal.
+5198.43 Nonetheless, it is called
+Tolerance to alcohol:
+5201.4 A critical yet understudied
+factor in alcohol addiction.
+5204.67 And while this paper
+5206.71 does include alcohol
+addiction in the title,
+5210.1 it's not just about alcohol addiction.
+5212.71 Here's the basic summary
+of what tolerance is.
+5214.81 First of all, tolerance
+refers to the reduced effects
+5217.87 of alcohol with repeated exposure,
+5221.05 and it is caused mainly by changes
+5223.3 in neurotransmitter systems in the brain
+5226.15 that are the direct consequence
+of the toxicity of alcohol,
+5229.54 that aldehyde molecule that
+we talked about before.
+5232.69 There's an enormous number
+of chemicals that change
+5236.41 with repeated exposure to acetaldehyde,
+5240.04 everything from GABA to
+dopamine to serotonin,
+5242.32 second messenger systems,
+adenosine, and on and on.
+5245.17 Rather than go into
+each of those in detail,
+5247.0 I just want to talk about the
+contour of the reinforcing
+5251.29 and the tolerance-inducing
+effects of alcohol.
+5253.39 What do I mean by that?
+5254.68 Well, here we are back to our old friend,
+5258.73 meaning the molecule that
+comes up over and over again
+5261.7 in these podcast episodes,
+which is dopamine.
+5264.91 Whether or not somebody
+5265.743 has a predisposition to alcoholism or not,
+5267.7 whether or not they're
+experienced drinker or not,
+5269.95 when people initially start drinking,
+5271.24 there are increases in dopamine,
+5273.22 or what we call dopaminergic transmission.
+5275.26 Dopamine is involved in
+motivation, in craving,
+5278.29 it creates a sense of
+well-being, it increases energy,
+5281.26 again, typically only at the
+beginning of alcohol exposure.
+5285.28 That occurs in most people as
+a sharp spike, as a increase.
+5288.73 Again, if somebody does not
+have alcohol dehydrogenase
+5292.09 or has very low levels of the enzyme
+5293.56 that convert that
+acetaldehyde into acetate
+5297.52 and that metabolize
+alcohol, in other words,
+5299.11 they will feel sick and lousy in a way
+5301.69 that will override any recognition
+of the dopamine release.
+5304.45 They're going to be the people
+that are listening to this
+5306.19 and just thinking, "Alcohol
+just makes me feel sick.
+5308.17 I don't like it."
+5309.22 Okay, that's a specific
+subcategory of people,
+5311.35 but most people experience
+some sort of mild euphoria.
+5315.07 That's why so many people drink, right?
+5316.69 The current estimates are
+that in most countries,
+5318.67 and certainly in the US, as
+many as 80% of the adult,
+5322.6 legal drinking age
+population drinks alcohol,
+5325.99 and that number could be even higher now
+5327.97 because in the last couple of years,
+5329.32 there's been a trend towards
+increased alcohol consumption,
+5331.42 especially in the wake of the pandemic
+5334.21 and during the pandemic.
+5336.1 Topic for another time.
+5337.81 So there's an increase in dopamine
+5339.46 and an increase in serotonin,
+5341.23 so it's kind of an increase in well-being,
+5342.88 an increase in mood, but it's
+a very short-lived increase.
+5346.9 Very soon after, and actually
+triggered by that increase,
+5350.2 is a long and slow reduction
+in dopamine and serotonin
+5355.21 and related molecules in circuits.
+5357.22 So basically what you're
+getting is a blip of feel good
+5359.68 followed by a long, slow
+arc of feeling not so great,
+5363.58 which is why, typically, people will drink
+5365.11 again and again across the night.
+5369.1 The key thing to
+understand about tolerance
+5371.83 is that with tolerance,
+5374.32 the duration of that long, slow reduction
+5378.04 in dopamine and serotonin
+gets even longer.
+5382.18 In other words, the
+negative effects of alcohol
+5384.7 that happen after the
+initial feeling good,
+5387.88 extend longer and, in
+fact, get more robust.
+5392.14 However, there's also a reduction
+5395.53 in the reinforcing properties of alcohol.
+5397.33 There's a shrinking of the feel good blip
+5400.24 that happens when one
+first ingests alcohol,
+5402.427 and this has been measured
+in animals and humans.
+5404.86 So the first drink that somebody has,
+5406.9 provided they have enough
+alcohol dehydrogenase
+5409.14 so that doesn't make them feel
+nauseous and sick right away,
+5411.85 they feel really good.
+5413.86 And then as it wears off,
+they feel kind of lousy
+5415.81 and they want to drink more
+so they might drink more.
+5417.76 With each subsequent drink,
+5418.96 and even drinks on different
+nights or even different weeks,
+5423.52 the amount of dopamine
+that's released is reduced,
+5426.73 the amount of serotonin
+that's released is reduced.
+5429.19 So what you're getting is less and less
+5431.59 of the reinforcing properties of alcohol,
+5434.59 the feel good stuff,
+5436.27 and more and more
+5437.35 of the punishment pain
+signal aspects of alcohol.
+5439.96 This is the contour of
+chemical release in the brain
+5445.39 that was referred to by my colleague,
+5448.03 the incredible Dr. Anna
+Lembke, who's a medical doctor.
+5450.49 She wrote the incredible
+book "Dopamine Nation."
+5452.38 She was a guest on this
+podcast, on Joe Rogan's podcast,
+5454.87 on Rich Roll's podcast and
+several other podcasts.
+5457.6 World expert in addiction,
+5458.8 and she talked about this
+pleasure-pain balance
+5461.26 that extends beyond alcohol
+5463.12 to things like sex and
+gambling and to other behaviors
+5467.29 that can potentially become addictive
+5469.03 but certainly includes alcohol.
+5471.22 So tolerance, it seems, is
+a process in which people
+5475.63 are ingesting more and more alcohol
+5478.15 as an attempt to get that
+feeling of well-being back,
+5482.5 but what they're really
+getting is an extended period
+5484.9 of punishment, of pain, and
+of malaise from the alcohol.
+5488.56 Now, you might say,
+5489.393 "Well, how does that relate to tolerance?"
+5490.99 Well, it turns out what
+they do behaviorally,
+5493.36 and when I say they,
+5494.193 I mean animals do this and humans do this,
+5495.94 is they start drinking more and more
+5498.01 in an attempt to activate those dopamine
+5500.62 and serotonin neurons and receptors,
+5503.92 and as they do that,
+5506.11 there is an increase in
+alcohol dehydrogenase,
+5508.72 so the enzyme that metabolizes
+alcohol is increased
+5511.51 because the body and liver
+5512.77 have to contend with all that alcohol,
+5514.96 so now you've got,
+again, the two-hit model.
+5517.06 You're getting less of
+the feel good chemicals,
+5518.77 more of the negative chemical release,
+5521.11 or pattern of subjective
+feeling, I should say,
+5525.1 and you're metabolizing alcohol
+5528.37 more quickly and more readily,
+5529.93 but it's not taking you to a better place
+5531.85 in terms of how you feel.
+5533.2 That's one of the major underlying reasons
+5535.36 for what we call tolerance.
+5536.62 So if you're somebody who drinks
+5537.85 and you notice that the feeling
+5539.14 that you are seeking with alcohol
+5541.36 is now requiring an additional
+drink, or drinks plural,
+5546.37 chances are you are
+disrupting the dopamine
+5549.25 and serotonergic systems of your brain,
+5551.77 and you are doing that in a way
+5553.81 that is increasing the
+pain and punishment signals
+5557.26 that follow alcohol ingestion.
+5560.26 And again, that's not just on
+the night that you're drinking
+5562.09 but afterwards as well.
+5563.74 Is that all bad news? Well, pretty much.
+5566.14 But the good news is that
+if you abstain from drinking
+5569.08 for some period of time,
+5570.88 then, of course, these systems reset.
+5572.86 How long you need to abstain
+5574.03 will depend on how much you were drinking
+5575.74 and how long you were drinking for.
+5576.88 Certainly people who
+have alcohol use disorder
+5578.607 or who are alcoholics,
+5580.54 their main goal should be
+to quit alcohol completely.
+5582.85 I know there's some debate about this,
+5584.38 and I don't want to get into that debate
+5585.82 because I'm certainly not going to try
+5587.44 and direct anyone's recovery.
+5588.61 There are expert counselors and MDs
+5592.45 and people that can work with people.
+5593.86 In fact, for some very heavy drinkers
+5595.93 and people with serious
+alcohol use disorder,
+5598.06 going cold turkey, that is,
+stopping drinking completely,
+5600.55 can actually be medically dangerous.
+5602.53 So the path to sobriety for certain people
+5605.53 looks different than the path
+to sobriety for other people.
+5607.81 What I'm referring to here
+are people that are ingesting,
+5610.72 again, somewhere between, on average,
+5612.61 one to two drinks per night,
+5614.65 whether or not that's done night to night
+5616.48 or whether or not that's
+condensed to weekend use.
+5619.24 I know a number of
+people are going to ask,
+5621.16 perhaps are screaming, "Is
+drinking good for me in any way?"
+5625.09 For instance, many people
+have probably heard
+5627.07 that resveratrol is good for people
+5629.107 and that red wine is rich in resveratrol.
+5632.14 I hate to break it to you but the reality
+5633.79 is that if indeed
+resveratrol is good for us,
+5637.39 and there's some debate about this,
+5638.65 some people say strongly yes,
+5639.94 some people say no,
+other people say maybe,
+5642.76 the amount of red wine that
+one would have to drink
+5646.12 in order to get enough resveratrol
+5647.98 in order for it to be health promoting
+5650.29 is so outrageously high
+5651.82 that it would surely induce
+other negative effects
+5654.46 that would offset the positive
+effects of resveratrol.
+5657.31 So I wish I could tell you different.
+5659.8 Again, I'm not here to be
+the bearer of bad news,
+5662.5 but the statement I just made
+5663.91 was confirmed by Dr. David Sinclair
+5665.89 when he was a guest on this podcast.
+5667.6 It's confirmed by other researchers
+5669.64 who work on resveratrol
+and related pathways.
+5673.15 I wish I could tell you
+5673.983 that red wine is good for your health,
+5675.43 and indeed it might be
+through some other mechanisms.
+5679.33 So, for instance, there have been studies
+5681.03 of low to moderate red wine consumption.
+5684.28 This would be anywhere from
+one to four glasses per week.
+5688.45 And I don't mean enormous glasses,
+5690.22 I mean six-ounce glasses of red wine.
+5693.19 And in those cases, some
+of the stress reduction
+5696.76 that can be induced by
+consumption of red wine,
+5699.31 maybe some of the other micronutrients
+5701.92 and components within red wines,
+5703.57 in particular red wines that
+come from particular grapes,
+5705.94 and this gets really nuanced
+5707.59 and, frankly, is not well worked out
+5709.66 in the peer-reviewed literature
+5711.58 or certainly not clinical trials,
+5713.71 at least not that I'm aware of.
+5714.82 Tell me if you're aware of a
+great clinical trial on this.
+5717.49 Well, there may be some positive effects
+5719.23 of that very low level of consumption.
+5722.29 I'm not trying to take
+away anybody's red wine.
+5724.36 I'm not trying to take
+away anybody's anything.
+5727.57 I would be remiss, however,
+if I didn't tell you
+5732.01 that resveratrol as the
+argument for drinking,
+5736.27 and drinking red wine in particular,
+5737.68 is just not a good one.
+5739.09 It's just not supported by
+the peer-reviewed research.
+5742.21 A few other things about
+alcohol and health.
+5745.63 At the beginning of the
+episode, I referenced a study
+5747.85 showing that indeed not just
+heavy alcohol consumption
+5751.99 of 12 to 24 or more drinks per week,
+5753.7 but also light to moderate
+alcohol consumption of any type,
+5757.45 wine, beer, spirits, et cetera,
+5759.76 does reduce the thickness of the brain.
+5763.27 It really does reduce cortical thickness.
+5765.28 In fact, it actually scales
+5767.68 with the amount of
+alcohol that people drink,
+5770.53 and this has been well-documented
+5772.84 in a number of different studies.
+5773.86 I can provide a link to several of these.
+5776.17 One of the more striking
+ones actually shows
+5777.82 that there's almost a
+dose-dependent increase
+5781.36 in shrinkage of gray matter volume
+5783.31 and in these white matter tracts,
+5784.75 these axons, these wires, as it were,
+5787.96 that connect different neurons
+5789.88 as a function of how much
+alcohol people drink.
+5791.287 And that's also what's been
+seen in this recent study
+5794.14 that I referenced at the beginning
+5795.22 and that's in the show note captions.
+5797.02 So, again, probably the best
+amount of alcohol to drink
+5800.08 would be zero glasses per
+week or ounces per week.
+5803.65 For those of you drinking
+low amounts of alcohol,
+5805.72 make sure you're doing other
+things to promote your health.
+5808.99 And for those of you that
+are drinking moderate
+5811.81 and certainly for those of
+you that are heavy drinkers,
+5813.76 please do everything you
+can to move away from that
+5816.58 and to quit entirely.
+5818.05 But even for the moderate
+consumers of alcohol,
+5821.56 you are going to want to be aware
+5823.99 of some of the negative health effects
+5825.19 and do things to offset those
+5826.69 if indeed you're not
+going to stop drinking
+5829.27 or reduce your intake.
+5830.53 One of the really bad effects of alcohol,
+5832.99 but that's extremely well-documented,
+5835.63 is the fact that alcohol,
+because of this toxicity
+5840.04 of acetaldehyde and the related pathways,
+5842.62 can alter DNA methylation,
+it can alter gene expression.
+5846.25 That can mean many things
+in different tissues,
+5848.68 but it is associated
+5851.32 with a significant
+increase in cancer risk,
+5854.74 in particular, breast cancer,
+5856.45 and in particular, because
+breast tissue is present
+5859.54 in both males and females,
+5860.53 but in women, it's especially vulnerable
+5863.38 to some of the DNA methylation changes,
+5865.84 well, breast cancer in women
+5868.12 has a relationship to alcohol intake,
+5869.86 and alcohol intake has a relationship
+5871.33 to breast cancer in women.
+5873.1 In fact, there has been proposed
+5876.16 to be a anywhere from 4 to 13% increase
+5881.14 in risk of breast cancer
+5883.12 for every 10 grams of alcohol consumed.
+5885.94 How much is 10 grams?
+5887.17 Well, there, we need to think a little bit
+5888.79 about the variation in
+the amount of alcohol
+5890.407 and different drinks across the world.
+5892.3 Different countries serve
+different sized drinks
+5894.19 and have different concentrations
+5895.27 of alcohol in those drinks.
+5896.74 So without going down
+too much of a rabbit hole
+5899.02 and just giving you some good
+rules of thumb to work with,
+5901.84 there have been studies of
+the percentage of alcohol
+5905.05 included in different drinks
+5906.13 and the sizes of different drinks
+5907.48 that are served in different countries,
+5908.65 and here's kind of a
+patchwork of those findings.
+5912.79 In Japan, one beer, one glass of wine,
+5917.26 or one shot of liquor,
+as it's served there,
+5920.11 tends to include anywhere
+5921.25 from seven to eight grams of alcohol.
+5924.22 In the US, one beer, which
+generally is 12 ounces
+5928.3 if it's in a bottle,
+5930.85 one glass of wine or a shot of liquor
+5932.71 tends to include about 10
+to 12 grams of alcohol.
+5937.9 And in Russia, one drink
+5941.31 of the various sorts that I just described
+5944.65 typically will have as
+much as 24 grams of alcohol
+5949.09 because of the differences in
+the concentration of alcohols
+5952.81 and the sizes of drinks that are poured
+5955.21 in these different countries, okay?
+5956.86 Of course, there are other
+countries in the world,
+5958.24 those countries are
+also vitally important,
+5959.95 but those are the ones that
+I extracted from the studies
+5962.74 that I could find.
+5965.2 What does this mean?
+5966.033 Well, what we're talking about
+5967.3 is that for every 10
+grams of alcohol consumed,
+5969.97 so that's one beer in the US,
+5972.52 maybe a little bit more
+than one beer in Japan,
+5974.92 or basically a third of a drink in Russia,
+5978.94 there's a 4 to 13%
+increase in risk of cancer.
+5984.94 That's pretty outrageous, right?
+5986.65 And you might think,
+"Wait, how could it be
+5988.39 that, you know, this stuff is even legal?"
+5990.67 Well, look, as I described
+before, it's a toxin.
+5994.06 It's also a toxin that
+people enjoy the effects of.
+5997.18 I mean, in the US at least,
+they tried prohibition.
+6000.45 It certainly did lead, yes,
+did lead to a reduction
+6004.62 in alcohol-induced health disorders,
+6008.07 in particular, cirrhosis of the liver.
+6009.51 It also led to a lot of crime
+6011.22 because it became a substance
+6013.02 that a lot of people still wanted
+6015.09 and that people were
+willing to break the law
+6017.28 in order to provide, or, I
+should say, to sell and provide.
+6020.79 But the point is that the
+more alcohol people drink,
+6025.11 the greater their increase of cancer,
+6026.52 in particular, breast cancer.
+6027.357 And that's because of the fact
+6029.7 that alcohol has these effects on cells
+6033.51 that include changes in gene expression,
+6036.57 and cancer, that is, the growth of tumors,
+6039.42 is a dysregulation in cell cycles, right?
+6042.21 A tumor is a aggregation
+or the proliferation,
+6045.54 aggregation is stuff sticking
+together, by the way,
+6047.58 proliferation is stuff duplicating,
+6050.16 a proliferation or aggregation of cells
+6053.01 that could be a glioma, glial cells,
+6055.17 glioma brain tumor, right?
+6056.928 It could be lymphoma, so within
+the lymph tissue, et cetera.
+6060.66 The mutations that alcohol
+induces to cause this
+6063.99 are wide ranging,
+6065.31 some of those are
+starting to be understood.
+6067.29 For those of you that are
+interested in cell biology,
+6069.0 I'll just mention that the PD-1 pathway,
+6071.55 again, this is super specialized
+6074.19 and for the aficionados only,
+you don't need to know this,
+6077.22 the PD-1 pathway seems
+to be upregulated and,
+6079.74 and we knew this from
+the discussion earlier,
+6081.9 there's a downregulation
+6083.49 in some of the anti-inflammatory molecules
+6087.78 that help suppress this
+proliferation of cancers.
+6091.41 Nowadays, there's a lot
+of interest in the fact
+6093.36 that the immune system is
+constantly combating cancers
+6097.38 that exist in us all the time.
+6098.73 You know, little tumors start growing
+6100.65 and our immune system
+goes and gobbles them up.
+6102.69 Little tumors start growing,
+6104.04 the immune system senses inflammation,
+6105.93 sends out these incredible cells,
+6107.34 these killer B-cells and
+T-cells, and beats them up.
+6111.36 Cancers proliferate and take
+hold and cause serious problems
+6115.2 when the proliferation of cells
+6117.3 exceeds the immune system's ability
+6119.46 to gobble up and remove those cells.
+6120.96 There are other mechanisms
+of regulating cancers,
+6122.97 but that's one of the primary one.
+6124.26 And alcohol hits it. Again,
+it's a two hit model.
+6127.26 It increases tumor growth
+6129.15 and it decreases the sorts of molecules
+6132.66 that suppress and combat tumor growth.
+6135.3 So, again, even low to
+moderate amounts of alcohol
+6138.75 can be problematic for sake of cancers,
+6140.7 in particular, breast cancers.
+6143.4 Epidemiologists and health specialists
+6146.13 love to try and compare
+different substances
+6148.71 in terms of how bad they are.
+6150.3 Rarely do they compare substances
+6152.31 in terms of how good they
+are, but sometimes they do.
+6155.73 And what they'll sometimes tell you
+6158.07 and what you can find in the literature
+6159.36 is that ingesting 10 to
+15 grams of alcohol a day,
+6162.66 so that would be like one beer in the US
+6164.18 or one glass of wine,
+6165.51 is the same as smoking
+10 cigarettes a day.
+6168.54 Frankly, it's hard to make
+that direct relationship
+6173.07 really stick because,
+you know, it's a question
+6175.56 of, you know, how long people inhale,
+6177.27 do they have a predisposition
+to a lung cancer, et cetera.
+6180.63 But even if that number is off
+6183.45 by plus or minus two cigarettes,
+6186.69 or even if that number was the equivalent
+6189.57 of one glass of wine equals
+one cigarette per day...
+6192.3 I think there's general consensus now
+6194.49 that nicotine consumed by
+vaping or by cigarette,
+6198.54 it's bad for us in terms of lung cancer
+6202.56 and other forms of cancer.
+6204.03 And for some reason, I don't know why,
+6206.55 because this knowledge
+about alcohol and cancer
+6209.43 and these established relationships
+6211.71 have been known since the late 1980s.
+6213.93 The first, you know,
+landmark paper on this
+6216.27 was published in 1987.
+6217.68 I can provide a link to that paper.
+6218.85 It's actually quite interesting to read.
+6221.85 Well, the relationship is there
+6225.27 and yet we don't often
+hear about it, right?
+6227.46 In fact, before researching this episode,
+6229.59 I had heard before that alcohol
+can increase cancer risk
+6232.98 but I wasn't aware of just how
+strong that relationship is.
+6236.31 Because of the serious nature
+of what we're talking about
+6238.83 and because I would hate to be confusing
+6241.83 or misleading to anybody,
+6243.21 I want to just emphasize
+that this statistic,
+6245.79 that there is a 4 to 13%,
+6247.89 depending on which study you look at,
+6249.3 a 4 to 13% increase in the risk of cancer,
+6252.51 in particular, breast cancer,
+6253.71 for every 10 grams of alcohol consumed,
+6257.25 that's 10 grams per day, so
+that's one drink per day.
+6260.85 But I do want to emphasize
+6263.01 that if that equates to
+seven drinks per week
+6267.24 and all those seven drinks
+6269.13 are being consumed on Friday and Saturday,
+6271.2 it still averages to 10 grams per day.
+6273.84 And I also want to emphasize
+that there are things
+6276.18 that people can do to at
+least partially offset
+6278.76 some of the negative effects of alcohol
+6280.92 as it relates to
+predisposition to the formation
+6284.4 of certain kinds of tumors and cancers.
+6287.49 I also want to be clear before I say it
+6289.53 that doing the things
+I'm about to tell you
+6292.02 is not a guarantee that you're
+not going to get cancer,
+6295.83 nor is it a guarantee that
+alcohol is not going to lead
+6299.94 to an increased predisposition
+for certain kinds of cancers,
+6303.9 and the two things are
+consumption of folate
+6307.26 and other B vitamins, especially B12.
+6310.47 You know, the consumption
+of folate and B12
+6314.58 has been shown to decrease cancer risk
+6317.04 in people that ingest alcohol,
+but not completely offset it.
+6321.54 Why that is isn't exactly clear.
+6323.46 It probably has something
+to do with the relationship
+6326.01 between folate and B12
+and other B vitamins
+6329.82 in gene regulation pathways
+that can lead to tumor growth.
+6334.02 At some point soon, we will get
+an expert in cancer biology,
+6337.14 and, in particular, in breast
+cancer biology, on the program
+6340.83 and we can ask them about this.
+6342.45 But I realize this is going
+to raise a number of questions
+6345.21 and maybe even cause some
+of you to go out there
+6347.4 and start taking folate and
+other B vitamins and B12.
+6351.72 Not incidentally, a lot of the
+reported hangover supplements
+6357.51 and treatments include folate and B12.
+6360.39 I don't know if they had the
+cancer literature in mind
+6362.88 when they created those
+supplements and products.
+6366.06 I doubt they did.
+6367.92 Alcohol really does
+disrupt B vitamin pathways,
+6371.28 both synthesis pathways
+and utilization pathways,
+6374.28 so sometimes you'll hear,
+6375.337 "Oh, you know, if you get your B vitamins,
+6376.83 it helps you recover from
+hangover more quickly."
+6380.34 Again, the literature
+doesn't support that,
+6382.47 but also again, there
+aren't a lot of studies.
+6384.6 But more to the point
+as it relates to alcohol
+6387.897 and the formation of tumors and cancers,
+6390.06 it does appear that decreased folate
+6393.15 and other B vitamins like
+B12 are partially responsible
+6396.78 for the effect of alcohol
+in increasing cancer risk.
+6400.98 And it does appear that
+consuming adequate amounts
+6405.27 of folate in B12 might,
+6407.04 again, might partially,
+6408.93 really want to bold face
+6410.07 and underline and highlight partially,
+6411.9 offset some of that increased risk.
+6414.36 There's an additional category
+6415.77 that I want to highlight, of course,
+6418.2 and this is vitally important to state
+6421.2 even though it's obvious,
+6422.61 which is that people who are pregnant
+6425.43 should absolutely not consume alcohol.
+6429.12 Fetal alcohol syndrome is well known
+6432.39 and established, it's terrible.
+6434.34 Fetuses experience
+diminished brain development
+6438.18 that's often permanent,
+6439.68 diminished limb development,
+6441.15 diminished organ development
+in the periphery,
+6443.07 meaning, you know, the heart,
+the lungs, liver, et cetera.
+6445.68 Ingesting alcohol while
+pregnant is simply a bad idea.
+6448.89 And the reason I say this at all
+6450.72 is, first of all, it's
+important to include
+6453.33 in an episode like this,
+6454.26 but also because we
+can look at two things.
+6457.95 First of all, we can look at mechanism
+6459.45 and then we can also
+look at some of the lore
+6462.03 that still sadly exists out there.
+6464.94 Let's take care of the lore
+that sadly exists first.
+6468.42 If you look online,
+6470.76 you will sometimes be able to find, sadly,
+6474.48 that some people believe
+that certain kinds of alcohol
+6478.53 are not detrimental to fetuses.
+6480.39 They'll say, "Well, champagne is safe
+6482.55 for a pregnant mother to
+drink but beer is not."
+6485.37 That is absolutely categorically
+false. Alcohol is alcohol.
+6489.9 There is no evidence whatsoever
+6492.03 that consuming certain types of alcohol
+6493.74 is safer for fetuses than others.
+6495.6 Alcohol is a toxin,
+6496.68 and the reason fetal
+alcohol syndrome exists
+6499.17 is because the ability of that toxin
+6502.02 to disrupt cellular processes.
+6504.21 Remember tumor growth
+and the way that alcohol
+6507.33 can accelerate tumor growth
+by proliferation of cells,
+6510.78 the wrong cells, the ones you
+don't want to proliferate?
+6513.57 Well, all of embryonic development,
+6515.43 all of fetal development,
+6517.29 it's not the growth of a tumor,
+6518.4 it's obviously the growth of an embryo,
+6519.99 and it's done in a very orchestrated way.
+6523.47 I started off studying brain development.
+6525.15 That's where I got my
+beginnings in neurobiology,
+6527.76 and I still teach embryology
+6529.8 to medical students and graduate students.
+6532.5 The set of coordinated processes
+6535.14 that has to take place
+from conception to birth
+6538.32 in order to give rise to a healthy embryo
+6540.48 is so, so dynamically controlled
+and so exquisitely precise,
+6545.91 with checkpoints and recovery mechanisms
+6547.98 and redundancy in the
+genes that are expressed
+6550.38 to make sure that if anything goes wrong,
+6551.97 it's repaired, et cetera.
+6553.77 Alcohol as a mutagen, I
+haven't used that word yet,
+6557.67 but a substance that can mutate DNA
+6561.09 through alterations in DNA methylation
+6563.19 in these checkpoints in the cell cycle,
+6565.32 alcohol as a mutagen is
+one of the worst things
+6569.34 that a developing embryo
+can be exposed to.
+6571.8 And, again, because it's
+water-soluble and fat-soluble,
+6574.92 ingestion of alcohol
+when people are pregnant
+6576.72 passes right to the fetus.
+6579.09 Now, I realize that a
+number of people out there
+6581.58 might be thinking, "Oh goodness,
+6582.413 you know, I didn't realize I was pregnant
+6585.18 until a certain stage of pregnancy,
+6586.95 and before I realized, I
+was ingesting alcohol."
+6590.1 Obviously, one can't
+undo what's been done,
+6593.94 but I want to also emphasize
+that fetal alcohol syndrome,
+6597.21 while, yes, there's a full-blown syndrome
+6599.58 that manifests as changes in
+the cranial facial development
+6602.1 that are very obvious,
+and you can look these up,
+6603.96 you've probably seen these before,
+6604.85 or the pictures before, rather,
+6606.75 it has to do with eye
+spacing, forehead size,
+6608.7 a number of other features
+6609.69 of the cranial facial development,
+6611.76 and of course stuff's
+going on in the brain too,
+6613.65 it's along a continuum.
+6615.42 So it is possible that some
+of the changes that occur
+6618.9 are more minor,
+6620.07 and, thankfully, the young brain,
+6622.74 in particular, the early postnatal brain,
+6624.57 is incredibly plastic.
+6625.65 There are things that can be done
+6626.85 in order to help recover neural circuits
+6628.8 that didn't develop well, et cetera.
+6631.83 But even though it's somewhat
+obvious, or should be obvious,
+6636.21 I really want to make clear
+6637.65 that there's zero evidence whatsoever
+6639.06 that certain forms of alcohol
+6640.35 are safer for pregnant
+women to ingest than others.
+6642.51 Absolutely wrong, no one who's pregnant
+6644.94 should be ingesting alcohol whatsoever.
+6648.0 And certainly, if people feel
+6650.1 like they can't avoid
+alcohol while pregnant,
+6652.32 they really need to work with somebody
+6654.12 to make sure that it just
+absolutely doesn't happen
+6655.95 because it is so detrimental
+to the developing fetus.
+6658.86 Lastly, I want to talk
+6659.82 about the effects of alcohol on hormones,
+6662.07 and I want to distinguish
+6663.9 between low amounts of alcohol intake,
+6666.48 higher amounts of alcohol intake,
+6668.01 and, again, this chronic alcohol intake
+6669.96 versus occasional use
+versus really chronic use,
+6673.62 meaning alcoholic or
+alcoholic use disorder,
+6676.59 where people are drinking
+an immense amount
+6678.36 on an ongoing basis.
+6680.43 The literature on alcohol and
+hormones is quite extensive,
+6683.19 and there are, of course,
+6684.023 many, many different types of hormones.
+6685.38 The hormones that most often get mentioned
+6688.02 and talked about on this podcast
+6689.25 are the hormones
+testosterone and estrogen,
+6691.02 which are present in both men and women
+6692.287 and that, in both men and women,
+6694.2 are important for things like libido,
+6698.31 they're also responsible
+for sexual development,
+6700.38 actual development of the genitalia
+6702.57 before birth and after birth,
+6703.95 they're responsible, for
+instance, estrogen is important
+6706.17 for memory and cognition.
+6707.4 You never want to drop estrogen
+too low in men or women
+6709.86 'cause it can disrupt cognition
+and joint health, et cetera.
+6714.57 To keep this discussion
+relatively constrained,
+6716.85 it's fair to say that alcohol,
+6719.19 and, in particular, the
+toxic metabolites of alcohol,
+6723.36 increase the conversion of
+testosterone to estrogen.
+6727.68 Now, this occurs in a
+number of different tissues.
+6730.65 This is not just occurring
+in the testes of males,
+6732.78 this is occurring in lots
+of different tissues.
+6734.34 And I'll refer you to a excellent review.
+6736.44 We'll provide a link in
+the show note captions.
+6738.33 This is a paper that was
+published in the year 2000
+6741.33 but the data are still quite strong.
+6743.487 The journal is called,
+of all things, "Alcohol,"
+6748.56 yes, literally a journal called "Alcohol"
+6751.17 for the publication of data and reviews
+6753.57 on alcohol and its effects,
+6754.95 and the title of the paper is
+6756.03 Can alcohol promote aromatization
+of androgens to estrogens?
+6759.36 Aromatization is this
+process of the conversion
+6761.67 of testosterone and other
+androgens to estrogens
+6764.64 through things like aromatase enzyme.
+6766.77 And this is a beautiful review
+6768.78 that describes every tissue,
+or near every tissue,
+6772.86 from the ovary in females to the placenta
+6776.19 to the liver to the testes,
+6778.44 in which alcohol can
+increase the aromatization
+6782.94 of testosterone to estrogen.
+6784.11 Now, in females, this
+may be part of the reason
+6786.69 why there's an increase in
+estrogen-related cancers.
+6789.78 Breast cancer can be
+either estrogen-related
+6792.06 or non-estrogen-related,
+6793.17 there are other types of
+estrogen-related cancers
+6794.94 outside of breast cancer,
+6796.77 but it appears that one reason why alcohol
+6799.11 increases the risk of breast cancer
+6800.79 is because of this aromatization from,
+6803.7 of testosterone, excuse me, to estrogen.
+6806.58 In males, accelerated
+or abnormal conversion
+6811.74 of testosterone to estrogen
+6812.94 can actually lead to growth
+of the breast tissue in males,
+6815.52 so-called gynecomastia, or
+other effects of high estrogen,
+6819.84 or I should say of altered
+testosterone-estrogen ratios,
+6823.32 'cause that's really what's important.
+6825.45 And these can include things
+like diminished sex drive,
+6828.9 increased fat storage, and
+a number of other things
+6831.6 that I think most people would
+find to be negative effects.
+6836.46 I once talked about the
+fact that drinking alcohol
+6838.68 can increase the aromatization
+of testosterone to estrogen.
+6841.26 I posted that online,
+6842.55 and I didn't get attacked
+but I did get criticized
+6846.96 for the fact that it has been shown,
+6848.91 yes, has been shown,
+6849.96 that small amounts of alcohol ingestion,
+6851.82 so five grams or so of alcohol ingestion,
+6854.13 this would be half a glass of
+wine or half a glass of beer,
+6856.44 at least in some studies showed
+increases in testosterone,
+6859.8 which was kind of surprising.
+6861.21 But I should point out,
+6862.38 other studies have shown
+that alcohol ingestion
+6865.59 causes decreases in
+testosterone over time.
+6869.19 So there's always this issue
+6870.66 of whether or not you're
+looking at a study
+6871.68 of acute exposure versus chronic exposure,
+6873.891 you know, one dose versus
+multiple doses and exposure.
+6877.98 I think it's fair to say,
+6879.57 based on my read of the literature,
+6881.04 this review and other reviews
+6882.72 that focus more particularly on humans,
+6885.06 that regular ingestion of alcohol
+6887.25 is going to increase estrogen levels
+6889.59 whether or not you're male or female,
+6890.91 and it's largely doing that
+6892.35 through the aromatization process,
+6894.24 by increasing the aromatase enzyme.
+6897.39 Yes, there's some dose dependence,
+6899.07 but I think if you're
+somebody who's trying
+6900.48 to optimize your
+testosterone-to-estrogen ratio,
+6903.27 regardless of whether or
+not you're male or female,
+6905.34 well then most certainly
+6906.3 you're going to want to avoid
+drinking too much alcohol.
+6909.48 So we've covered a lot of topics
+6911.49 and data related to the
+mechanisms of alcohol,
+6914.82 hangover, tolerance,
+cancer risk, et cetera.
+6918.21 I acknowledge that I've
+mainly talked to you
+6920.01 about the negative effects of alcohol.
+6922.83 I want to acknowledge that
+many people enjoy alcohol
+6926.61 in moderation or even light drinking,
+6930.15 the occasional drink or
+the occasional two drinks
+6932.79 or maybe even, on average,
+one drink per night,
+6935.43 so seven drinks per week.
+6937.14 I'm certainly not here
+to tell you what to do
+6939.18 and what not to do.
+6940.8 I do find it immensely
+interesting, however,
+6943.71 that, first of all,
+alcohol is a known toxin
+6946.8 to the cells of the body.
+6947.94 Some of you might immediately say,
+6949.057 "Well, wait, what about hormesis?
+6950.55 What about this phenomenon
+6951.54 where if we regularly ingest a
+toxin, it makes us stronger?"
+6954.84 In other words, what doesn't
+kill us makes us stronger.
+6957.12 Yeah, there's, you know,
+some reason to believe
+6959.37 that might be beneficial
+6960.81 in terms of some forms of
+cellular resilience maybe, maybe.
+6964.98 No, sorry. It doesn't work that way.
+6967.68 There are processes of hormesis
+6969.96 in which, for instance,
+exposing yourself safely
+6973.2 through increases in adrenaline
+through, you know, ice baths
+6976.2 or other things that increase adrenaline
+6977.85 can raise your so-called stress threshold,
+6980.13 but here, we're talking
+about cellular stress
+6982.74 and damage to cells.
+6984.81 So my read of the literature,
+6986.43 and, again, this is my read
+6987.96 and I invite others to,
+you know, provide studies
+6990.84 or I would prefer actually
+collections of studies
+6993.27 that point in the
+direction, if they exist,
+6995.91 that alcohol can be beneficial,
+6999.12 but my read of the literature,
+7001.13 or I should say my understanding
+7003.14 of what I would call the center of mass
+7005.09 of the literature on alcohol
+7007.22 is that no consumption, zero consumption,
+7010.7 consumption of zero ounces of alcohol
+7013.88 is going to be better for your health
+7016.01 than low to moderate
+consumption of alcohol,
+7019.19 and that low to moderate
+consumption of alcohol
+7022.37 is going to be better for you, of course,
+7024.38 than moderately high to
+high alcohol consumption
+7028.52 on the order of 12 to 24
+or more drinks per week.
+7033.2 I realize that for most
+people listening to this,
+7035.69 it's probably low to
+moderate alcohol consumption
+7039.71 that is part of their standard repertoire,
+7043.07 and I'm not here to give you
+justification for doing that
+7046.4 nor am I going to tell you not to do that.
+7048.38 I would like you to
+consider perhaps, however,
+7051.56 the negative effects that we understand
+7053.96 and that are documented.
+7054.83 For instance, the negative effects
+7056.54 of alcohol on the gut microbiome
+7058.85 and the things that you can do
+7060.53 to better support your gut microbiome,
+7062.63 the negative effects on the stress system,
+7065.03 that HPA axis that we
+talked about earlier,
+7067.19 and the fact that even
+low to moderate levels
+7069.62 of alcohol consumption
+7070.58 can increase our levels of
+stress when we're not drinking,
+7073.91 and to think about acquiring some tools
+7077.39 and, you know, getting some
+proficiency with tools,
+7080.12 behavioral or otherwise,
+7081.17 that can help you with stress modulation
+7083.3 that don't involve alcohol consumption.
+7086.0 Again, the point here is to illustrate
+7089.03 where the problems lie
+with alcohol consumption,
+7091.13 but, also, what I've tried to do
+7093.26 is to point you to some resources
+7094.7 that can help offset some
+of those negative effects.
+7097.37 Will they offset all the effects?
+7099.44 I can't say that for sure,
+7100.97 but certainly taking measures
+7104.06 to offset some of the negative effects
+7105.65 of any alcohol consumption that
+you might be having or doing
+7109.67 is going to be beneficial to you.
+7111.56 And those tools and protocols
+7112.79 are going to be
+health-promoting in any case.
+7114.77 If you're learning from
+and/or enjoying this podcast,
+7117.14 please subscribe to our YouTube channel.
+7119.12 That's a terrific zero-cost
+way to support us.
+7121.52 In addition, please
+subscribe to the podcast
+7123.98 on Spotify and on Apple,
+7125.69 and on both Spotify and Apple,
+7127.49 you can leave us up to a five star review.
+7129.74 If you have questions for us
+7131.0 about the content covered on the podcast
+7132.83 or suggestions of topics
+you'd like us to cover
+7135.29 or guests that you'd like us to host
+7136.79 on the Huberman Lab Podcast,
+7138.29 please include all of that
+7139.49 in the comments section on YouTube.
+7141.2 We do read all the comments.
+7143.18 Please also check out
+the sponsors mentioned
+7144.92 at the beginning of today's podcast,
+7146.57 and check out Momentous Supplements,
+7148.46 our new partners in the supplement space,
+7150.11 and check out Athletic Greens.
+7152.12 That's the best way to
+support this podcast.
+7154.43 If you're not already
+following us on social media,
+7156.68 please do so.
+7157.97 We are hubermanlab on Twitter
+7159.71 and we are also hubermanlab on Instagram,
+7161.75 and both places, I cover science
+and science-related tools,
+7165.11 some of which overlap with the content
+7166.67 of the Huberman Lab Podcast,
+7167.84 but much of which is unique
+7169.19 from the content covered on
+the Huberman Lab Podcast.
+7171.59 Again, that's hubermanlab on Instagram
+7173.3 and hubermanlab on Twitter.
+7174.95 Please also check out our Neural
+Network monthly newsletter.
+7177.83 This is a newsletter that has
+summaries of podcast episodes.
+7181.37 It also includes a lot
+of actionable protocols.
+7183.65 It's very easy to sign
+up for the newsletter.
+7185.69 You go to hubermanlab.com,
+7187.22 click on the menu, go to Newsletter.
+7188.93 You supply your email,
+7189.92 but we do not share
+your email with anybody.
+7191.93 We have a very clear and
+rigorous privacy policy,
+7194.81 which is we do not share
+your email with anybody.
+7197.03 And the newsletter comes out once a month
+7199.52 and it is completely zero cost.
+7201.08 Again, just go to hubermanlab.com
+7203.12 and go to the Neural Network newsletter.
+7205.55 I'd also like to point out
+7206.6 that the Huberman Lab
+Podcast has a clips channel,
+7209.06 so these are brief clips,
+anywhere from 3 to 10 minutes,
+7213.41 that encompass single concepts
+and actionable protocols
+7216.98 related to sleep, to focus,
+interviews with various guests.
+7220.16 We talk about things like caffeine,
+7221.57 when to drink caffeine, relative to sleep,
+7224.0 alcohol, when and how and
+if anyone should ingest it
+7226.64 relative to sleep,
+7228.38 dopamine, serotonin, mental health,
+7230.3 physical health, and on and on,
+7231.89 all the things that relate to the topics
+7233.84 most of interest to you.
+7235.19 You can find that easily
+by going to YouTube,
+7237.86 look for Huberman Lab
+Clips in the search area
+7240.77 and it will take you there.
+7241.603 Subscribe, and we are
+constantly updating those
+7243.98 with new clips.
+7244.813 This is especially useful, I believe,
+7246.23 for people that have missed
+some of the earlier episodes
+7248.24 or you're still working
+through the back catalog
+7249.86 of Huberman Lab Podcast,
+7250.94 which, admittedly, can be rather long.
+7253.07 And last, but certainly not least,
+7255.38 thank you for your interest in science.
+7257.199 [upbeat music]

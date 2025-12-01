@@ -1,0 +1,3878 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.31 where we discuss science
+and science-based tools
+4.95 for everyday life.
+6.011 [gentle music]
+9.33 I'm Andrew Huberman, and I'm a professor
+11.25 of neurobiology and ophthalmology
+13.38 at Stanford School of Medicine.
+15.25 This podcast is separate from my teaching
+16.97 and research roles at Stanford.
+18.71 It is, however, part
+of my desire and effort
+20.91 to bring zero cost to consumer information
+23.2 about science and science-related tools
+25.28 to the general public.
+26.97 In keeping with that theme,
+28.37 I'd like to thank the
+sponsors of today's podcast.
+31.41 Our first sponsor is Roka.
+33.27 Founded by two All-American
+swimmers from Stanford,
+36.56 Roka eyeglasses and sunglasses
+have really been designed
+39.43 with the utmost care
+and the utmost attention
+41.61 to the science of optics
+and the visual system.
+44.71 So one of the things I like so much
+46.32 about Roka eyeglasses and sunglasses
+48.46 is that they're extremely lightweight.
+50.64 If you get sweaty, so for instance,
+52.29 if you wear them while
+running, or walking, or hiking,
+54.47 they don't slip off.
+56.03 And with the sunglasses,
+when you're outdoors,
+58.51 if there's cloud cover,
+or if there's shadows,
+61.01 or if the day gets brighter or dimmer,
+62.7 you can still see your
+surroundings perfectly well.
+65.23 And that's because the designers at Roka
+67.01 really understand the way
+the visual system works
+69.61 how it habituates, how it adapts.
+71.79 You don't need to understand the science
+72.98 behind all that, but they do,
+74.44 and as a consequence the
+eyeglasses perform extremely well
+77.52 under all conditions,
+78.52 whether or not that's indoors or outdoors.
+81.51 So they put a ton of science
+and purpose into the design.
+83.91 They also happen to look really good.
+85.4 They have a really nice aesthetic.
+87.06 A lot of, as you know,
+performance active wear eyeglasses
+90.76 look rather ridiculous, but
+the Roka glasses, I think,
+94.06 have a very nice aesthetic to them
+95.74 that you can wear anywhere.
+97.05 If you'd like to check out Roka glasses,
+98.65 you can go to Roka, that's roka.com
+101.74 and enter the code Huberman at checkout,
+103.91 and you'll get 20% off your first order.
+106.14 That's Roka, R-O-K-A .com
+108.72 and enter the code Huberman at checkout
+110.65 for 20% off your order.
+112.37 Today's podcast is also brought
+to us by Inside Tracker.
+115.66 Inside Tracker is a
+personalized nutrition platform
+118.11 that analyzes data from your blood and DNA
+120.83 to help you better understand your body
+122.35 and reach your health goals.
+124.23 I'm a big believer in getting
+regular blood work done
+126.9 for the simple reason
+that many of the factors
+129.61 that impact our immediate
+and longterm health
+132.66 can only be analyzed from a blood test.
+135.29 And now, with the advent
+of modern DNA tests,
+137.69 we can also get insight
+into our specific DNA makeup
+141.0 and how that influences
+our lifestyle choices
+144.73 and our health status.
+146.99 The problem with a lot of blood tests
+148.74 is that you get a lot of information back,
+150.64 but you don't always know what
+to do with that information.
+153.57 With Inside Tracker, they
+have a very easy to use,
+155.87 personalized dashboard platform
+158.26 that informs you what sorts of lifestyle,
+161.04 nutrition, exercise, changes
+you might want to make,
+164.9 according to the levels of
+particular metabolic factors,
+167.64 hormone factors, et cetera,
+in your blood and DNA.
+171.58 So it makes everything very simple,
+173.13 both in terms of where
+you're at health-wise
+175.6 and what you should or could do,
+178.03 in order to improve your health,
+179.34 something I do believe most
+everybody would like to do.
+182.59 With Inside Tracker, it
+makes all that very easy.
+184.73 They also have something
+called the inner age test.
+186.98 This is a test that shows
+you what your biological age
+190.09 and compares to that, of course,
+to your chronological age.
+192.72 And, of course, your biological age
+194.13 is really what you want to know,
+195.3 because it's a predictor of
+how long you're going to live
+197.96 and the quality of your life.
+199.72 If you'd like to try Inside Tracker,
+201.25 you can visit insidetracker.com/huberman.
+204.44 And if you do that, you'll get 25% off
+206.64 any of Inside Tracker's plans,
+208.41 just use the code Huberman at checkout.
+210.8 Today's episode is also
+brought to us by Helix Sleep.
+214.03 Helix Sleep makes mattresses and pillows
+216.14 that are ideally suited
+to your sleep needs.
+219.08 Everybody needs something different
+221.03 in terms of what to sleep on.
+222.42 Some people like a hard mattress.
+223.97 Some people like a soft mattress.
+225.24 Some people tend to run warm.
+226.58 Some people tend to run cold.
+228.46 With Helix Sleep, you go to their website,
+230.5 you take a very brief two-minute quiz,
+232.89 and you answer some questions such as,
+234.55 do you tend to sleep on your stomach,
+235.84 or your side, or your back?
+236.75 Maybe you don't know.
+237.583 Do you tend to run hot or cold, et cetera.
+239.78 At the end of that quiz, you
+match to a specific mattress.
+242.57 I took that quiz about six months ago,
+244.22 and I matched to the Dusk Mattress,
+246.47 and I've been sleeping on
+a Dusk mattress from Helix
+248.76 for the last six months,
+249.72 and I've been sleeping better
+than I ever have before.
+253.25 Basically, everyone's unique,
+and Helix understands that,
+256.25 and that's built into the
+design of their mattresses
+258.49 and this two-minute quiz that
+you take to match you to one.
+261.46 If you'd like to try a
+Helix Sleep mattress,
+263.53 you can go to helixsleep.com/huberman,
+266.72 take their two-minute quiz,
+268.27 and they'll match you to
+a customized mattress.
+270.54 You'll also get up to $200
+off any mattress order
+273.45 and two free pillows.
+274.42 They make terrific pillows.
+276.34 You'll get a 10-year
+warranty on that mattress,
+278.61 and you get to try it out
+for 100 nights risk-free.
+280.91 If you don't like it,
+281.81 they'll come pick it up and take it away.
+283.19 You won't get charged,
+284.023 you'll get your money back, et cetera.
+285.77 So that's helixsleep.com/huberman
+288.55 for up to $200 off and two free pillows.
+291.32 We are now beginning a new topic
+293.24 for the next four to five episodes
+295.41 of the Huberman Lab Podcast.
+297.63 Before we move into that,
+299.12 I want to just briefly
+touch on a couple questions
+301.37 that I got from the last episode,
+303.29 which was related to the
+science of endurance training.
+306.43 I described the four kinds
+of endurance training.
+308.58 We posted protocols of
+the specific four kinds
+311.66 of endurance training at hubermanlab.com.
+314.37 Just go to that episode,
+you can see the download,
+316.41 it's a zero-cost PDF.
+318.28 I got a lot of questions
+319.95 about what's called concurrent training,
+322.07 which is how to program endurance training
+324.9 if you are also interested
+326.56 in strength and hypertrophy training.
+328.61 Or how to incorporate strength
+and hypertrophy training,
+331.31 which was in the previous
+episode, with endurance training.
+335.81 This can all be made very simple.
+338.23 Ask yourself, what are
+you trying to emphasize,
+340.41 and then emphasize that
+for a 10 to 12 week cycle.
+343.5 So if you're mostly
+interested in endurance,
+346.4 I would say use a three to two ratio,
+348.96 maybe get three endurance
+training workouts per week,
+352.03 maybe four, and two strength
+and hypertrophy workouts.
+356.47 If you're mainly focusing
+on strength and hypertrophy,
+359.32 get three or four workouts
+for strength and hypertrophy
+362.24 and do two endurance workouts.
+365.26 Start with the minimum number
+of sets that's required
+368.4 to get the result that you want.
+370.79 So if you're not accustomed
+to doing endurance work,
+373.19 you would start with the minimum number
+374.67 that's listed on that protocol.
+376.23 So if it says three to five sets,
+377.57 you would start with
+three, maybe even just two,
+380.12 and then work your way up
+by adding sets each week.
+384.07 I do suggest that people get
+385.52 at least one complete rest day per week.
+387.6 And although I know a lot
+of people don't like that,
+390.19 I benefit from that.
+391.023 I actually benefit from having
+392.1 two complete rest days each week.
+393.73 I just continue to make progress that way,
+395.51 whether or not it's for
+strength and hypertrophy
+397.51 or for endurance.
+399.2 I am a big believer in rest
+days, other people are not.
+401.78 And those could be active rest days,
+402.97 hiking, relaxing, et cetera.
+405.69 After a 10 to 12 week cycle,
+408.0 then I also suggest taking anywhere
+410.24 from five to seven days completely off.
+412.54 You can still enjoy life and do things,
+414.2 I know for you addicted exercisers
+416.56 that you're going to loathe to do that,
+418.06 but that's one way to stay injury free,
+419.7 keep your joints and
+tissues healthy over time,
+421.8 and continue to make progress.
+423.3 If you don't want to do
+that week off, don't do it.
+425.3 None of this is holy.
+426.25 None of it is a strict prescriptive.
+427.93 Just ask yourself, what
+are you going to emphasize
+429.96 and emphasize that, in
+terms of the total volume
+432.05 of workouts that you do,
+and work up incrementally,
+434.92 and then move into another cycle.
+437.36 That's what I suggest.
+438.63 So go to hubermanlab.com,
+439.99 you can get the protocol there.
+441.78 We are now going to move into a new topic
+443.97 unrelated to physical performance.
+445.84 Starting with this episode
+447.55 and for the next four to five episodes,
+450.5 we are going to talk all about the senses.
+454.36 That's sight, eyesight,
+hearing, touch, taste, smell,
+461.94 and we're also going to talk
+about this critical sense
+464.56 that we call interoception,
+466.17 or our sense of our internal real estate.
+469.04 Now, the reason that we are
+talking about the senses
+471.75 is because if you understand
+how the senses are perceived,
+476.72 what they're about, what
+the underlying cells
+478.84 and connections are about,
+480.95 you will be in a terrific position
+482.98 to understand the month's
+topic that follows,
+486.22 which is all about mental health.
+488.59 Now, I want to emphasize
+that if you're somebody
+491.81 who doesn't have any trouble
+493.73 seeing, hearing, tasting, smelling
+496.77 and has an excellent
+sense of interoception,
+500.49 I do believe that these episodes
+501.91 will still be very relevant to you,
+503.99 because they have everything to do with
+505.82 how you move through the world,
+507.47 how you make sense of information,
+509.83 and how you organize your
+thoughts and your emotions.
+513.35 I also want to emphasize
+that we're going to cover
+515.32 a lot of practical tools.
+517.06 So today's episode is going to be
+518.65 all about vision and eyesight,
+520.9 a topic that's very near
+and dear to my heart,
+522.81 because it's the one that
+I've been focusing on
+525.01 for well over 25 years of my career.
+528.08 But we're not just going to get
+into the mechanistic details
+530.78 about how light is converted
+532.58 into electrical potentials
+and things like that.
+535.07 We are going to talk about practical tools
+537.95 that you can and should use
+to help maintain the health
+542.49 of your visual system and your eyesight.
+545.54 Very often, young people
+will say, what should I do?
+548.74 You know, you're always talking about,
+550.26 you know, neuroplasticity and
+how it tapers off over time,
+553.35 but I'm a young person, what should I do?
+556.56 You should absolutely train
+and support your eyesight.
+560.48 In fact, if you're a young
+person and you see perfectly,
+563.52 or you feel as if you
+see the world perfectly,
+566.14 you are in the best position to bolster,
+569.08 to reinforce that visual system,
+571.18 so that you don't lose
+your vision as you age.
+574.0 In addition, you can
+leverage your visual system
+576.2 for better mental and
+physical performance,
+578.12 and we're going to talk about that.
+579.66 If you're somebody who suffers
+580.86 from a clinical disorder of vision,
+583.14 you have trouble seeing,
+584.26 or if you need corrective
+lenses in order to see,
+586.65 this episode is definitely for you.
+588.39 And while of course I can't
+make clinical diagnoses,
+591.701 I can't have a one-to-one conversation
+593.16 with any of you in this
+format, nor am I a clinician,
+596.35 I'm a scientist, not a physician.
+599.27 I did consult with our
+chair of ophthalmology,
+602.78 Dr. Jeffrey Goldberg
+603.84 at Stanford University School of Medicine,
+606.13 as well as several other people
+607.63 to really vet the information
+608.91 and make sure that the protocols
+610.39 that I'm describing are consistent
+611.93 with the clinical literature.
+613.6 If you have a severe eye problem,
+614.88 you should be working with
+616.46 a really good ophthalmologist
+and/or optometrist,
+621.03 but certainly an an ophthalmologist
+who's a medical doctor.
+624.42 But I do believe that the information
+626.33 that we're going to discuss today
+627.65 is going to be relevant to everybody
+629.3 and will set the stage for the month
+631.07 on mental health and mental performance.
+634.51 So, let's get started.
+636.12 When we hear the word vision,
+637.79 we most often think about eyesight,
+640.09 or our ability to perceive
+shapes, and objects,
+643.23 and faces, and colors.
+645.05 And indeed, vision involves eyesight,
+648.15 our ability to see shapes,
+and objects, and faces,
+650.8 and colors, and so forth.
+652.48 However, our eyes are responsible
+for much more than that,
+657.85 including our mood,
+our level of alertness,
+661.32 and all of that is included
+in what we call vision.
+665.33 So I just want to take about
+three, maybe four minutes,
+668.91 and talk about how the visual
+system works, how it's built,
+672.79 and how you are able to
+so-called see things around you.
+677.56 I also want to describe the ways
+679.67 in which your eyes and your visual system
+683.14 impact your mood and
+your level of alertness.
+685.93 And then, we are going to get
+right into some protocols,
+688.77 some specific things that
+each and all of you should do
+692.64 if you want to enhance your vision
+695.67 and maintain your vision as you get older.
+698.52 And again, if you're a
+15-year-old or a 12-year-old,
+702.4 this episode is especially for you,
+703.97 because your nervous system
+705.0 is far more plastic than mine is.
+707.25 It's much more amenable to change,
+708.95 so you can really build a
+very strong visual system.
+711.85 And in doing that,
+713.39 and if you adopt specific behaviors
+715.17 at any age of light viewing
+717.69 at particular times and particular ways,
+720.35 then you can build an emotional system
+722.47 that's also reinforced
+by your visual system.
+724.96 So, let's talk about vision.
+727.04 What is vision?
+727.873 Well, vision starts with the eyes.
+731.24 We have no what's called
+extraocular light perception.
+735.4 While it feels good to
+have light on our skin,
+737.9 while it feels good to be outside
+739.58 in the sunlight for most people,
+741.98 the only way that light information
+743.75 can get to the cells of your body
+745.86 is through these two little goodies
+747.42 on the front of your face.
+748.253 And for those of you listening,
+749.22 I'm just pointing to my eyes.
+751.32 As many of you have heard me say before,
+753.42 on this and other podcasts,
+754.86 your eyes, in particular,
+your neural retinas
+757.18 are part of your central nervous system.
+758.98 They are part of your brain.
+760.31 They're the only part of your brain
+762.56 that sits outside the cranial vault.
+764.97 In other words, you have
+two pieces of your brain
+767.26 that deliberately got squeezed
+769.12 out of the skull during development
+770.8 and placed in these things
+we call eye sockets.
+773.04 There's a genetic program
+for the specific purpose
+776.3 of making sure that three
+little layers of neurons,
+779.34 nerve cells, got squeezed out
+781.72 and form what are called
+your neural retinas.
+784.25 Now, the eyes have a lot
+of other goodies in them
+786.19 that are very important,
+787.35 and those are the goodies
+788.183 that we're going to focus on a lot today.
+791.37 There's a lens to focus light,
+precisely to the retina.
+795.66 If you're somebody who requires
+eyeglasses or contacts,
+799.49 chances are, you don't do that correctly,
+802.35 and so, that's why you use other lenses,
+804.52 like eyeglasses or contacts.
+806.6 There are also other pieces of the eye
+808.1 that are designed to
+keep the eye lubricated.
+810.55 You also have these things
+that we call eyelashes.
+812.84 Most people don't know this,
+814.09 but eyelashes are there to
+trigger the blink reflex
+817.99 if a piece of dust or something
+gets in front of your eye.
+820.22 It's a beautiful adaptation of nature.
+823.17 They aren't just aesthetically nice.
+824.91 Costello happens to have
+very long eyelashes.
+826.95 He gets compliments
+about this all the time.
+829.32 Maybe you have long eyelashes.
+830.77 I don't have particularly long eyelashes.
+832.6 But the eyelashes are there,
+834.3 so that if a piece of dust or something
+836.25 starts to head towards the cornea,
+837.88 the eye blinks very, very fast.
+839.69 It's the fastest reflex you
+own is your eye blink reflex.
+843.84 We also have these things called eyelids.
+846.16 Now, eyelids might seem like
+the most boring topic of all,
+848.7 but they are incredibly fascinating.
+850.5 Today, we're going to talk
+about how you can actually
+853.22 use your visual system to
+increase your levels of alertness
+857.41 based on the neural circuits
+859.43 that link your brainstem
+with your eyelids.
+862.69 And no, we are not going
+to have a blinking contest,
+864.84 because I would win and you would lose,
+867.02 and that wouldn't be fun for you.
+868.9 So, let's talk about what
+the eyes do for vision.
+873.95 Basically, the entire job of the eyes
+876.3 is to collect light information
+878.67 and send it off to the rest of the brain,
+881.31 in a form that the brain can understand.
+883.17 Remember, no light actually gets in
+885.61 past those neural retinas.
+887.05 It gets to the neural retina,
+889.09 and we have specific cells in
+the eye called photoreceptors.
+892.87 They come in two different
+types, rods and cones.
+896.13 Cones are mainly responsible
+for daytime vision,
+900.96 and the rods are mainly
+responsible for vision at night
+904.59 or under low light conditions,
+generally speaking.
+908.2 So basically what happens
+is if your eyelids are open,
+912.27 light comes into the eye,
+the lens focuses that light,
+917.28 light is also just called
+photons, light energy,
+919.62 onto the retina.
+921.67 These photoreceptors, the rods and cones,
+924.82 have chemical reactions inside them
+926.67 that involve things like vitamin A
+929.85 and that chemical reaction
+931.89 converts the light into electricity.
+935.52 Now, that might seem incredibly abstract,
+937.88 but the way to think about
+this is very similar to,
+940.29 for instance, you have
+touch receptors on your skin
+942.65 and when you press on
+those touch receptors,
+944.62 they convert pressure, physical pressure,
+947.25 into electrical information
+949.26 and those neurons send it up
+to your spinal cord and brain,
+951.093 and you can register that somebody or you
+953.17 are touching the top of
+your hand, as I'm doing now.
+956.62 With the eyes and the retina,
+957.613 it's just that light gets converted
+959.32 into electrical information.
+961.49 Within the eye, within the retina,
+963.09 there are then a series
+of stages of processing,
+967.69 and that information eventually
+gets sent into the brain
+970.87 by a very specific class of neurons.
+973.44 I would like you to know
+the names of these neurons.
+975.86 They're called retinal ganglion cells.
+977.73 So the only thing you need to know
+978.98 about the neuroscience
+of the eye at this point
+981.27 are that there are rods and cones.
+982.95 The cones are involved
+in bright daytime vision
+985.93 and rods are involved in more
+dusk or nighttime vision.
+989.96 And you've got these cells
+called retinal ganglion cells
+992.71 that send the information
+off to the rest of the brain.
+995.75 Now, here's what's incredible.
+997.55 I just want you to
+ponder this for a second.
+999.04 This still blows my mind.
+1001.96 Everything you see around you,
+1004.91 you're not actually seeing
+those objects directly.
+1007.67 What you're doing is
+you're making a best guess
+1011.06 about what's there based on
+the pattern of electricity
+1013.95 that arrives in your brain.
+1015.94 Now, that might just seem totally wild
+1017.91 and hard to wrap your head around,
+1020.38 but think about it this way,
+1022.24 because this is the way it actually works.
+1024.67 Let's take an example of a
+color, like green or blue.
+1029.48 You have cones in your eye
+1032.47 that respond best to
+the wavelength of light
+1036.46 that is reflected off, say, a green apple.
+1039.55 So, you don't actually
+see the green apple.
+1041.23 What you see is the light
+bouncing off that green apple,
+1044.49 and it goes into your eye,
+1047.17 and you see it and perceive
+it as round and green,
+1050.98 but not because you see anything green.
+1053.68 No green light arrives in your brain.
+1056.43 What happens is your
+brain actually compares
+1059.61 the amount of green reflection
+coming off that apple
+1063.62 to the amount of red and blue around it.
+1067.91 Well, you might say, well, the green apple
+1070.03 is sitting on a brown
+table or a white surface.
+1073.11 Well, then, it will appear very green.
+1076.08 Because the amount of wavelength of light
+1078.85 for green is very high,
+1081.5 and the amount for red is very low,
+1084.02 and so, it looks very green, okay?
+1086.76 So, we don't actually
+see anything directly.
+1090.0 What the brain is receiving
+is a series of signals,
+1093.33 electrical signals, and it's
+comparing electrical signals,
+1096.99 in order to come up with what
+we call these perceptions.
+1099.15 Like I see something green,
+a green apple, or I see red.
+1101.89 Let me give you a slightly
+different example.
+1103.78 If you were to play a key on the piano,
+1106.66 let's say you play, I'm not a musician,
+1108.54 but I'm going to, so hopefully
+I won't get this too incorrectly
+1111.91 but let's say you have like E sharp,
+1114.3 and maybe it's like ding,
+ding, ding, ding, ding.
+1116.54 If the brain gets that signal,
+1119.17 it doesn't actually know E that's what,
+1121.97 it doesn't recognize it
+1123.66 until you were to play
+another key next to it,
+1126.57 dun, dun, dun, dun,
+1127.91 and what it does, it does the math,
+1129.47 it does the subtraction,
+and it compares those two.
+1133.07 So when we see something green,
+1134.74 or we see something red,
+or we see something blue,
+1137.28 we're not actually seeing it directly.
+1138.75 The brain is making a guess about
+1140.5 how green or red or blue that thing is
+1142.9 by comparing what's around it, okay?
+1147.07 And if that seems hard
+to wrap your head around,
+1148.82 don't worry, because we will explain it
+1151.46 in more depth going forward.
+1152.69 But I really want people
+to understand this,
+1154.77 that vision, eyesight, is not
+looking at things directly,
+1160.17 and that information getting
+directly into your brain,
+1162.44 it is translated.
+1164.16 Light information is transformed
+into electrical signals
+1167.38 that your visual system
+exquisitely understands.
+1169.84 Now, what does this mean?
+1171.22 Why should you care about this?
+1172.56 Well, if you have a dog
+like I do, or a cat,
+1176.29 they are not colorblind,
+1178.09 but they lack the cones
+that respond to red,
+1183.2 meaning long wavelength light.
+1185.19 So what does that mean?
+1186.77 That means that when they see green,
+1188.9 it's different than the green you see.
+1192.0 Not because that apple
+is invisible to them,
+1195.47 but because they aren't
+able to compare it to red,
+1198.58 and you are.
+1200.35 As a consequence, when
+they look at a green lawn,
+1203.22 it looks more brownish or orange to them.
+1206.17 When you wear a red shirt
+in front of your dog or cat,
+1210.64 if you see a stop sign
+and they see a stop sign,
+1213.28 they see orangish-brown, and you see red.
+1216.61 presuming that you are a trichromat,
+1218.43 meaning you have three-color vision.
+1220.73 So, this is all to say that every animal
+1224.03 sees the world differently,
+1225.7 depending on whether or not they have
+1227.39 one or two or three of
+these different cones,
+1229.56 the red, blue, or green cones.
+1231.68 If you are a mantis shrimp of all things,
+1235.7 you see hundreds of colors
+1238.92 that human beings can't see, okay?
+1242.5 Many things animals see into visual ranges
+1246.02 that you and I can't see in.
+1247.61 So for instance, a pit
+viper senses heat emissions,
+1250.09 it literally sees the
+heat coming off of you
+1253.21 or of an animal that they want to eat.
+1255.78 If you are a ground squirrel,
+1257.78 you can see ultraviolet light.
+1259.81 This is going to sound kind of weird,
+1260.87 but ground squirrels
+actually signal one another
+1263.76 by standing up outside
+and shining sunlight
+1266.79 off each other's stomachs to each other,
+1268.93 signaling at a distance,
+just like, you know,
+1270.79 you could signal somebody with a mirror
+1272.31 in sunlight at distance.
+1273.99 There are species of primates,
+1275.29 this isn't very pleasant to think about,
+1276.68 that urinate on their hands,
+1278.19 and then wipe it all over their stomach.
+1279.66 and then use that sunlight
+1281.31 to reflect different
+signals to each other.
+1283.29 I don't know what they're saying.
+1284.13 We always assume it's
+something cute and nice,
+1285.72 but maybe they're insulting each other.
+1287.63 So this actually gets right down
+1289.63 to the heart of these bigger questions,
+1291.28 like consciousness, what do we see?
+1293.11 What's out there?
+1293.95 How much of life is
+really accessible to us?
+1298.22 And I could go on and on, you know,
+1299.59 this used to be kind
+of an obsession of mine
+1302.2 when I was coming up in the
+field of visual neuroscience
+1304.27 to understand how different
+animals see the world
+1306.81 compared to us.
+1308.36 You know, I'll give one
+more example, a diving bird,
+1310.71 you know, a bird that
+flies over the ocean.
+1312.84 It has an incredible task.
+1314.8 It has to both view the horizon,
+1316.95 and it has to view schools of fish,
+1318.62 and then, it has to make a trajectory
+1319.94 down into the water and grab
+one of those fish to eat.
+1323.56 And the water has what's
+called a refractory index.
+1325.89 It actually shifts like a prism,
+1328.62 the impression or the perception
+1330.33 of where that fish is, right?
+1331.76 If the bird sees the fish
+right below it, it has to know,
+1335.14 it has to adjust its diving
+trajectory just right,
+1339.06 because it knows that that fish
+1340.51 actually isn't where it sees it.
+1342.54 It's probably a few inches
+ahead or to the side of that,
+1345.3 because of the way that
+water diverts the image.
+1349.2 If you've ever dropped a
+coin to the bottom of a pool,
+1351.62 if you go straight down
+looking at that location.
+1354.98 If you were to look from
+the top of the pool,
+1356.41 and you dive straight down
+with your eyes closed,
+1358.17 you will miss, because the water refracts,
+1361.15 it shifts the visual image.
+1363.37 Well, diving birds have an arrangement
+1366.43 of these retinal cells that
+communicate to the brain
+1369.61 that's both a streak to view the horizon,
+1371.79 'cause they need to know where they are
+1372.85 relative to the horizon,
+1373.89 and they have a pupil like we
+do on the bottom of their eye,
+1376.55 so that they can make very
+accurate dive and attacks
+1380.06 on these schools of fish,
+1381.16 and catch fish, and eat those fish.
+1383.47 We just have pupils in
+the middle of our eyes.
+1385.95 So there's a ton about
+the optics of the eye,
+1388.167 and the way that it
+communicates with the brain
+1390.53 that allows us to see.
+1392.08 We could spend hours talking about this,
+1393.54 but what I'd like to embed in your mind
+1395.97 is that what you experience
+in the outside world
+1399.32 is bottlenecked, it's
+limited by which wavelengths,
+1403.33 which colors if you will,
+of light that you can see.
+1406.77 That your brain is coming up
+1407.91 with a best guess about what's there.
+1409.85 It doesn't actually know what's there.
+1412.86 And that your vision
+is distinctly different
+1416.11 from say, the vision of a dog
+1418.14 or from the vision of
+somebody who's a dichromat,
+1420.19 meaning they don't have a red cone.
+1422.56 A lot of people, in particular
+about 1 in 80 males,
+1426.92 lacks a red cone and
+therefore, sees the world
+1429.15 much the same way that Costello does.
+1430.91 Although, he sees it from just
+much lower toward the ground.
+1434.76 So, that's what I'd like you to understand
+1437.18 about the way the eye
+communicates with the brain.
+1440.01 I would also like you to understand
+1442.28 that the brain itself
+is making these guesses
+1446.89 and that those guesses are largely right.
+1450.16 How do I know that?
+1451.72 Well, they're right
+because when you reach out
+1453.26 to grab a glass, most of
+the time you grab the glass,
+1455.39 and you don't miss, right?
+1457.37 Most of the time, when you make judgments
+1459.25 about the world around you,
+1460.6 based on your visual impression of them,
+1463.62 it allows you to move
+functionally through the world.
+1467.27 But let me give you some examples
+1468.67 of where this guessing
+is happening right now.
+1471.84 And it's so incredible that, to this day,
+1474.78 this still blows my mind.
+1476.0 Cover one eye with one hand.
+1478.32 If you're driving, maybe don't do this.
+1480.57 If you're viewing the world around you,
+1482.34 presumably you can see
+everything that's out there.
+1484.98 I could do this with one
+eye or the other eye.
+1487.16 You probably see better
+out of one or the other,
+1488.81 and we'll talk about that.
+1491.91 You have a giant blind spot
+1493.87 in the middle of your visual field.
+1496.37 It's called your blind spot.
+1497.65 It is the spot in which
+the connections, the wires,
+1500.26 from all those retinal ganglion cells
+1501.9 exit the back of the eye and
+head off toward the brain.
+1506.27 In other words, you are
+blind for a huge spot
+1509.01 of your central vision.
+1510.06 The part of your vision
+1510.893 that's highest acuity, highest detail,
+1513.08 and yet, you don't see that ever.
+1515.61 You cover one eye, and
+you see perfectly fine.
+1517.91 And it's not just because your eye
+1519.15 is moving around really quickly.
+1520.68 Your brain is guessing
+what's in that spot,
+1523.94 which is absolutely incredible,
+1525.54 and so, you don't see that blind spot.
+1528.16 This is happening all the time.
+1530.33 Now, when you have two eyes open,
+1532.36 the way that your eyes are
+positioned in your head
+1534.18 and the way they view the world is such
+1535.49 that they fill in each
+other's blind spots,
+1537.68 so it's pretty convenient.
+1539.46 But if you cover one
+eye, that's impossible,
+1542.54 and yet, you still see
+the world as complete.
+1545.59 So the brain is doing
+these incredible things.
+1548.4 It's also creating
+depth, a sense of depth.
+1550.94 Even though what arrives from the retina
+1553.43 is essentially a readout of a
+two-dimensional, flat image,
+1556.55 so it can sense depth.
+1557.81 How do you know depth?
+1558.84 Well, this is very simple.
+1561.14 Things that are closer
+to you tend to be larger
+1563.58 than things that are far away.
+1565.32 Things that are closer to you
+1566.45 tend to look like they're moving faster.
+1568.5 If you've ever been in a train
+and you look to your side,
+1570.7 the rungs on a fence, or the
+train tracks going by you,
+1574.14 look like they're going very fast.
+1575.31 If you look off in the distance,
+1576.19 they look like they're moving very slowly.
+1578.23 And there are differences
+1581.2 between what's close to you
+and what's further away.
+1583.36 So, a little house on the horizon,
+1584.92 you don't look at it and say,
+1585.83 oh, that must be a tiny, little house.
+1587.74 You have some prior knowledge
+1589.27 that things further away are smaller.
+1591.7 So that's the main way that you do that.
+1593.15 And you compare the location,
+1596.63 at which information about
+light lands on the two eyes.
+1600.44 So your eyes are slightly
+offset from one another.
+1603.55 So that, for instance, if I look at you,
+1605.2 if you were standing right
+in front of me right now,
+1606.527 and I were to look at you,
+1608.04 the image of your face,
+1609.68 the light bouncing off your
+face to be more precise,
+1612.48 lands on one eye in a
+slightly different location
+1615.6 than it does in the other eye,
+and then the brain does math.
+1619.91 It basically does the equivalent
+1621.48 of geometry and trigonometry,
+1623.4 and essentially figures out
+how far away you are from me,
+1629.5 which is just incredible.
+1630.54 So the brain does all
+this very, very fast,
+1633.08 and the brain uses about 40 to 50%
+1636.21 of its total real estate for vision.
+1639.35 That's how important vision is.
+1640.98 Now, for those of you that are blind,
+1642.74 or low vision, or no vision,
+that real estate in the brain
+1646.33 will be taken over by neurons
+that control sense of touch
+1651.2 and a sense of hearing,
+1652.16 and your, indeed, hearing
+and touch are much better,
+1654.84 higher acuity, and faster in blind people.
+1659.4 But for most of you, who
+I presume are sighted,
+1662.45 this is how it works.
+1664.18 So, that's kind of vision from
+eye to brain in a nutshell.
+1668.29 There are a bunch of different stations
+1669.41 in the brain that do different things.
+1670.76 That's eyesight.
+1672.51 Now, I want to talk about
+the other aspect of vision,
+1676.51 which is the stuff that
+you don't perceive,
+1678.78 the subconscious stuff.
+1680.75 And then, we'll transition directly
+1682.78 into how you can use light and eyesight
+1685.44 to control this other stuff
+because it's very important
+1688.537 and that other stuff is
+mood, sleep, and appetite.
+1693.93 And there are ways in which
+you can use the same protocols
+1697.32 that I will describe,
+1698.8 in order to preserve and
+even enhance your vision,
+1702.56 your ability to see things
+and consciously perceive them.
+1706.47 So the protocols we will describe
+1708.05 have a lot of carry over
+to both conscious eyesight
+1712.3 and to these subconscious
+aspects of vision.
+1715.46 And I just want you to
+understand a little bit more
+1717.39 about the science of seeing,
+of eyesight and vision,
+1720.46 and then all the protocols
+will make perfect sense.
+1723.57 So as amazing as eyesight is,
+1725.74 it actually did not evolve for us
+1728.71 to see shapes and colors
+and motion and form.
+1731.93 The most ancient cells in our eyes,
+1736.07 and the reason we have eyes,
+is to communicate information
+1740.7 about time of day to the
+rest of the brain and body.
+1743.79 Remember, there's no
+extraocular photo reception.
+1746.07 There's no way for light information
+1747.87 to get to all the cells of your body,
+1750.42 but every cell in your body needs to know
+1752.43 if it's night or day.
+1753.737 And I talked a little bit about this
+1755.36 on the, in the episodes on sleep,
+1757.97 and this episode is not about sleep.
+1760.63 But I want to emphasize that
+there is a particular category
+1764.49 of retinal ganglion cell,
+1765.7 remember the neurons that
+connect the retina to the brain,
+1770.11 that is involved in a
+special kind of vision
+1773.02 that has nothing to do
+with conscious perception
+1775.04 of what's around you,
+1776.27 and it's happening right now,
+it's happening all the time.
+1779.6 These are so-called melanopsin
+retinal ganglion cells,
+1783.16 named after the opsin that
+they contain within them.
+1786.25 They are essentially photoreceptors,
+1788.15 remember before I said
+there are photoreceptors
+1789.81 and then these ganglion cells?
+1790.77 Well, these melanopsin
+cells, as the name suggests,
+1794.05 melanopsin, have their own
+photoreceptor built inside them.
+1800.0 The opsin that they contain
+1801.48 is actually very similar to the melanopsin
+1805.07 that is present in the
+skin of some amphibians
+1809.98 and that causes those amphibians
+to change their skin color
+1815.73 in different light conditions.
+1817.77 So you have, believe it or not,
+1819.86 a little bit of frog skin
+in your eye, so to speak.
+1825.68 Okay, not exactly, but you
+essentially have the equivalent
+1828.7 of what frogs have on
+their skin in your eye.
+1833.31 If you are low vision or no vision,
+1837.25 as long as you have retinas,
+1838.83 it's very likely you
+still have these cells,
+1841.07 even though you can't see
+or you don't see well.
+1844.42 These cells, retinal ganglion cells,
+1846.49 communicate to areas of the brain
+1849.19 when particular qualities of light
+1851.68 are present in your environment
+and signal to the brain,
+1855.99 therefore, that it's early
+day or late in the day.
+1861.69 These melanopsin ganglion cells
+1863.13 are sometimes also called
+intrinsically photosensitive cells
+1865.88 because they behave like photoreceptors.
+1868.54 What do these cells respond to,
+1870.13 and why should you care about them?
+1871.51 Well, you should care about them,
+1872.75 because they regulate
+when you'll get sleepy,
+1874.73 when you'll feel awake, how
+fast your metabolism is,
+1878.64 excuse me, your blood sugar levels,
+1880.49 your dopamine levels,
+and your pain threshold.
+1885.51 There are other factors
+that impact those things,
+1887.33 but they are one of the,
+1889.07 if not the most powerful determinant,
+1891.45 of those other things like
+mood and pain threshold,
+1894.19 sleepiness, wakefulness, et cetera.
+1897.6 These melanopsin ganglion cells
+1899.87 have been shown by the
+Nitz Group, N-I-T-Z,
+1906.02 up at University of Washington,
+1907.38 and by Samer Hattar's lab
+and David Burson's lab,
+1909.78 and a number of other people's labs,
+1911.42 Satchin Panda, Prevencio, et cetera,
+1914.41 a number of excellent labs in neuroscience
+1918.2 to set the circadian clock
+1920.06 and to respond best to the contrast
+1923.63 between blue and yellow light
+1925.85 of the sort that lands on the
+cells when you view the sun,
+1932.19 when it's a so-called low solar angle,
+1934.09 when it's low in the sky,
+1935.33 either in the morning or in the evening,
+1938.21 what does all this mean?
+1939.38 It means, and here's the first protocol,
+1941.55 and you've probably
+heard me say this before,
+1943.94 but is appropriate to this
+episode to say it again.
+1947.84 If you are not viewing the sun, sunlight,
+1952.33 even through cloud cover,
+1954.03 for two to 10 minutes in
+the early part of the day,
+1957.4 when the sun is still low in the sky
+1959.64 and doing the same thing
+again in the evening,
+1962.24 you are severely disrupting
+your sleep rhythms,
+1965.87 your mood, your hormones, your metabolism,
+1969.18 your pain threshold,
+and many other factors,
+1971.63 including your ability to
+learn and remember information.
+1974.8 The most central and important
+aspect of our biology,
+1978.51 and perhaps our psychology as well,
+1980.47 is to anchor ourselves in
+time, to know when we exist.
+1987.11 Okay, it sounds a little bit
+abstract and philosophical,
+1990.75 but it's not.
+1991.583 And we don't know time as a real thing
+1995.55 because of watches and clocks.
+1996.77 We know time at a biological level,
+1999.4 based on where the sun is and where,
+2002.35 which of course is where
+we are relative to the sun,
+2005.27 because the earth is spinning around.
+2006.84 Now, what does this mean for a protocol?
+2009.33 It means, see, get that light
+in your eyes early in the day,
+2013.66 and anytime you want to be awake.
+2015.19 So try and get as much sunlight
+2016.47 in your eyes during the
+day as you safely can.
+2018.2 We'll talk about eye safety
+this episode in depth.
+2021.3 And the blue light and the
+contrast of that blue yellow,
+2025.85 remember we don't see blue,
+this is all subconscious.
+2028.95 This is blue reflections
+coming off of sunlight.
+2031.13 Blue light, we've been
+told is so terrible for us,
+2033.17 it is absolutely essential and wonderful
+2034.84 for waking up the brain,
+2036.33 for triggering all sorts of
+positive biological reactions,
+2039.34 but it needs to be
+viewed early in the day.
+2041.65 If you can't see sunlight,
+2042.84 because it's the thick
+cloud cover of say a,
+2046.4 you know, you're in
+the UK and it's winter,
+2048.43 then artificial lights,
+especially blue lights,
+2051.64 would be very beneficial to you.
+2053.698 We need a lot of this light
+and its contrast with yellow,
+2056.94 in order to trigger
+these melanopsin cells,
+2059.2 which will then trigger
+your circadian clock,
+2061.6 which sits above the roof of your mouth,
+2062.74 which will signal every cell in your body,
+2064.81 including temperature, rhythms, et cetera.
+2067.1 So first things first, your visual system
+2069.56 was not for seeing
+faces, motion, et cetera.
+2073.96 The most ancient cells in your eye,
+2076.98 which are there right now as we speak,
+2078.96 are there to inform your body
+and brain about time of day,
+2084.51 so you want to get that
+bright light early in the day.
+2086.56 Absolutely essential, two to 10 minutes,
+2088.14 you can download the light meter app
+2090.13 if you want to measure lux.
+2091.71 When we, when I explained how
+to do that in earlier episodes
+2094.27 it got a little convoluted,
+2096.08 get that two to 10 minutes,
+ideally without sunglasses.
+2099.1 Now, here's another reason to do this,
+2101.49 and I've never spoken about
+this before on any podcast,
+2104.72 which is that there have
+been several studies now
+2107.51 in thousands of subjects,
+2110.15 exploring what can be done
+2112.01 to prevent myopia, nearsightedness,
+2115.41 and other visual defects.
+2118.24 And it turns out, in a series
+of large clinical trials,
+2122.52 the conclusion has emerged
+that getting two hours a day
+2127.04 of outdoor time without sunglasses,
+2129.7 blue light, this blue light
+that everyone has demonized,
+2132.94 getting that sunlight during
+the day for two hours,
+2136.38 even if you're reading other things,
+2138.01 and doing other things outside,
+2139.97 has a significant effect
+on reducing the probability
+2144.61 that you will get myopia, nearsightedness.
+2148.6 Now, whether or not that's also due
+2150.19 to the fact that myopia can be caused
+2152.02 by viewing things up close to too much.
+2154.64 So if you're indoors,
+2155.54 we tend to be looking at
+things more closely, right?
+2157.34 Unless you have a very large house
+2158.75 with walls that are
+very far away from you,
+2161.99 but the effect does seem
+to be directly related
+2164.81 to getting sunlight,
+2166.17 and not just to the distance
+that you're viewing.
+2168.76 I'm going to describe
+this study just briefly,
+2170.73 but this is a second protocol.
+2172.02 So we have one protocol
+about getting sunlight
+2173.7 to set your circadian
+clocks, meaning wake you up,
+2176.71 establish your sleep, will occur
+about 12 to 16 hours later,
+2180.56 that's all in the sleep episode.
+2181.7 But also to enhance your mood,
+to enhance your metabolism,
+2184.84 to optimize your hormone levels,
+2186.95 and to optimize learning
+and dopamine levels,
+2188.99 this feel good neuromodulator
+2190.7 that's essential to not
+getting depressed, et cetera.
+2195.79 But now's the second protocol,
+2197.33 which is ideally, and
+this includes children,
+2200.9 as long as they're not very small infants,
+2203.59 ideally, we're all getting
+two hours of outdoor time,
+2206.93 even if there's cloud cover.
+2208.69 Remember, we evolved mostly
+under outdoor conditions,
+2212.02 not indoor conditions,
+2213.32 and no artificial blue light
+2215.26 will not replace this
+aspect of your visual system
+2219.62 and offsetting myopia.
+2221.51 So I just want to briefly
+describe this study,
+2223.28 because it's a very important one,
+2224.47 and I don't think it's
+discussed often enough.
+2227.07 There are many studies exploring this,
+2228.56 but one of the ones I liked the most,
+2231.1 looked at 693 students,
+2234.75 and a subset of them were encouraged
+2237.85 to spend 11 hours a week outdoors.
+2240.83 Okay, so most kids are in
+school five days a week or so,
+2244.53 so they're spending 11
+hours a week outdoors.
+2247.1 They are sometimes reading outdoors.
+2248.5 They're not always just playing outdoors,
+2249.85 they might be reading books, et cetera.
+2253.9 They used eight different schools.
+2256.35 And the reason they did the study,
+2257.65 I probably should have mentioned,
+2258.57 is that myopia, nearsightedness,
+is a global epidemic.
+2261.56 At least, that's how it was
+referred to in the study.
+2263.85 I don't know who decides
+what's an epidemic or not.
+2266.06 I think there are thresholds for that.
+2268.97 This paper published in the
+journal Ophthalmology in 2018
+2274.09 described the fact that being
+outdoors for two hours a day
+2278.7 could significantly reduce the probability
+2281.38 that these children would
+develop nearsightedness.
+2284.6 And it turns out based on other studies,
+2287.04 that adults who spend
+two hours a day outside,
+2290.53 that would be reading
+outside, talking outside.
+2293.42 No, it does not include light
+2294.96 coming through the windshield of your car,
+2296.68 I'll explain why in a few moments,
+2299.46 offset the formation of myopia.
+2303.57 Now, myopia, or nearsightedness,
+2305.21 has to do with the way that the lens
+2307.48 focuses light onto the retina.
+2311.35 I don't want to get into a
+long description of this now,
+2313.57 but basically the lens has
+bring light to the retina,
+2317.13 not in front of it, not behind it.
+2319.53 If it brings light to a
+position in front of the retina,
+2323.27 then you won't see clearly, you
+will need corrective lenses.
+2327.05 If it brings light directly to the retina,
+2328.92 then you will see clearly,
+2330.23 that should be intuitive why
+that makes, why it makes sense.
+2333.23 So you might say, well,
+why would being outside,
+2335.34 getting this blue light
+2336.44 or this blue-yellow contrast from sunlight
+2340.27 actually offset myopia?
+2342.6 Well, it probably, and I
+want to emphasize probably
+2345.74 has to do with the fact
+2346.72 that these melanopsin ganglion cells,
+2348.4 these intrinsically
+photosensitive ganglion cells,
+2350.15 are not just responsible for sleep,
+2353.12 and talking to your circadian
+clock, and that sort of thing,
+2355.75 they also make connections
+within the retina.
+2358.38 They connect to things like,
+2360.15 this is for the aficionados,
+2361.44 the ciliary body, the iris,
+2364.15 the muscles and the
+structures within the eye
+2366.79 that actually move the lens
+2369.04 and allow you to adjust your vision
+2371.95 to things up close or far away.
+2374.24 And in doing so, they
+increase or improve the health
+2378.02 of the little tiny muscles within the eye
+2380.86 that move the lens.
+2382.88 And they probably, again, this
+needs a little bit more work,
+2386.66 in order to really tamp
+down the mechanism.
+2388.76 They're probably also involved
+2390.0 in bringing growth
+factors and blood supply
+2394.14 to the muscles and to the
+neurons that are responsible
+2398.99 for this focusing
+mechanism within the eye.
+2402.81 So remember, your eye
+is an optical device.
+2405.64 You were born with lenses,
+you don't have to use glasses,
+2407.82 or maybe you do because you
+have lenses in your eyes
+2410.34 and those lenses need to move.
+2411.84 It's not a rigid lens, like a glass lens.
+2414.233 It's a dynamic lens,
+2415.417 and it has little muscles that pull on it,
+2417.76 and squeeze it, and make
+it thicker or thinner,
+2421.44 as you look at things close and far away,
+2423.29 and I'll describe how
+that works in a moment.
+2425.27 These melanopsin cells and
+their activation by sunlight,
+2430.17 completely subconsciously,
+unaware, you're unaware of this,
+2434.4 promote the health of
+this system within the eye
+2438.21 and allow you to offset the
+myopia, nearsightedness.
+2443.03 In other words, getting
+outside for two hours a day,
+2446.24 each day, on average, even
+if there's cloud cover,
+2449.59 without sunglasses on,
+2451.6 will allow you to offset
+the formation of myopia.
+2456.72 Now, you might still form myopia
+2458.52 if you have certain structural features
+2460.22 or a genetic basis for that,
+2461.37 we will talk about things
+that you can do as well.
+2463.59 But for everybody, we
+should be doing this.
+2465.84 And that might seem like a lot,
+2467.27 but this is the way that
+your visual system works.
+2469.67 Staying indoors, just
+getting artificial light,
+2473.13 and looking at things up
+close leads to visual defects.
+2477.52 Okay, it's a form of kind of
+like visual obesity, right?
+2480.87 The posture of your visual
+system, if you will,
+2483.62 is going to be unhealthy
+if you're just indoors
+2486.12 and you're not getting
+sunlight early in the day
+2488.27 and for at least two hours per day.
+2490.79 I want to talk a little bit
+more about how our eyes adjust
+2493.87 to things that are
+close to us or far away.
+2497.26 This is an absolutely
+brilliant consequence
+2500.26 of our nature and our design.
+2502.69 And whenever I say nature and design,
+2504.67 people always ask me, you know,
+2506.29 what are you really trying to say?
+2507.47 Are you trying to talk about creators?
+2509.95 Are you talking about intelligent design?
+2511.44 Look, I want to be very frank with you.
+2513.71 I wasn't consulted at the design phase,
+2515.89 and neither were you.
+2517.0 And so, that is all very interesting,
+2519.16 but it's not the topic of this discussion.
+2522.27 What is clear and what is
+the topic of this discussion
+2525.63 is that the eye can dynamically adjust
+2529.07 where light lands by moving the lens
+2531.76 and changing the shape
+of the lens in your eye,
+2534.11 through a process called accommodation.
+2536.77 And if you understand this
+process of accommodation,
+2539.81 you not only can enhance
+the health of your eyes
+2542.92 in the immediate and long-term,
+2544.81 but you also can work better.
+2546.83 You'll be able to focus better
+on physical and mental work.
+2549.93 You will be able to
+concentrate for longer.
+2552.84 And I want to emphasize that
+so much of our mental focus,
+2557.03 whether or not it's
+for cognitive endeavors
+2558.84 or physical endeavors,
+2561.29 is grounded in where we
+place our visual focus, okay?
+2565.21 What we look at and our ability
+2567.01 to hold our concentration there
+2568.93 is critically determining how we think.
+2573.81 So, in other words, if
+you can hold visual focus,
+2576.95 you can hold mental
+focus, cognitive focus,
+2579.55 but holding visual focus is
+challenging, it's tiring,
+2582.88 because it requires movement of the lens.
+2587.28 And that movement of the lens
+2588.38 requires activation of muscles.
+2590.21 And the activation of muscles,
+2591.42 as you know from the physical
+performance episodes,
+2593.96 if you saw them and even if you don't,
+2595.49 is dictated by neurons.
+2597.56 So, what is accommodation?
+2599.2 Well, it's actually very
+simple and very elegant.
+2604.19 And again, this is another case where
+2606.07 whenever I look at this stuff,
+2607.56 even though I've been
+looking at for years,
+2609.2 learning about it for years,
+it still boggles my mind
+2611.71 that we have these apparati
+built into our eyes.
+2615.74 So, we have lenses in our eyes,
+2617.43 and we have these things
+called the irises.
+2619.33 You know, you're all
+familiar with the iris,
+2621.02 because you'll see people's
+pupils get bigger or smaller,
+2624.12 and we intuitively think of
+eyes as having the pupils.
+2627.99 If you actually draw two
+circles on a sheet of paper,
+2632.11 and you just, they look like two circles.
+2633.96 But if you put little dots
+in the middle of them,
+2635.8 they look like eyes.
+2636.99 Your brain recognizes those as eyes,
+2638.81 because one of the first things you see
+2640.12 when you come into this world are eyes.
+2641.99 And actually, if you put the
+little dots close together,
+2644.57 it'll look kind of wrong,
+like it's cross-eyed.
+2646.81 And if you put them at different locations
+2649.2 within those two dots,
+of opposing locations,
+2651.08 it'll look google-eyed.
+2652.14 And so, your brain is actually filling in
+2653.65 all the face and other information,
+2655.07 even emotional information,
+2656.85 just based on this recognition of eyes.
+2659.39 And so, there's clearly we know this,
+2661.66 there's real estate deep up in,
+2662.517 you know, further up in the brain,
+2664.75 that's responsible for
+analyzing and recognizing faces
+2669.38 and the eyes and the position
+2670.75 of these little things we call irises,
+2672.52 and pupils, et cetera, is really important
+2675.31 for how we interpret the status of others.
+2679.52 And that's why it's such a powerful thing
+2681.02 just to put two circles and, you know,
+2682.73 move the pupils around on paper.
+2685.72 In fact, I want to get into accommodation,
+2687.577 but if you think about it,
+2689.26 if one of my pupils was up there
+2690.707 and the other one was down there,
+2691.97 one was really big, and
+one was really small,
+2693.65 that would actually be a
+sign of pretty severe damage.
+2695.97 If someone gets hit hard
+on the side of the head,
+2698.09 you'll notice that they
+shine a light in one eye.
+2700.87 You know why they're doing that?
+2701.78 They're actually looking at the other eye.
+2704.39 When you shine light of the
+eye that pupil constricts
+2706.82 to limit the amount of
+light that comes in,
+2708.24 so it doesn't damage the eye.
+2709.393 This also happens when you
+walk outside, and it's bright,
+2711.82 it constricts, but we have what's called
+2714.28 the consensual pupil reflex.
+2716.15 There's a connection
+deep in the brainstem,
+2718.11 deep back here in the brain near my neck,
+2720.51 that connects the pupil
+mechanism for the two eyes,
+2724.04 and they're looking at the other eye.
+2725.09 And if you shine light in one eye,
+2726.92 and that people constricts
+but the other one doesn't,
+2729.16 there's a good chance
+there's brainstem damage.
+2731.61 This is what they do on the side
+2732.79 of a, you know, football
+field or a boxing match,
+2735.13 or if someone unfortunately
+hits their head.
+2737.8 So, two pupils and don't
+freak out if one pupil
+2740.16 is a little bit smaller than the other,
+2742.48 that doesn't necessarily
+mean brain damage.
+2744.02 But if you suddenly have one
+pupil bigger than the other,
+2746.91 you absolutely want to go
+see a neurologist right away.
+2749.86 So, the eyes and the pupils
+are indicative of things
+2752.64 that are happening deep in the brain.
+2754.83 Now, accommodation is our
+ability to accommodate
+2758.57 to things that are up
+close here or further away.
+2762.1 And the way this works is that the iris,
+2764.56 and the musculature, and a structure
+2766.55 called the ciliary body move the lens.
+2768.66 So, when you look far away,
+2770.78 okay, when you see things far away,
+2773.32 your lens actually relaxes,
+it can flatten out.
+2777.95 So I want you to think about this.
+2778.783 When you look far away,
+2780.41 when it may be anywhere from
+like 20 feet away from you
+2783.75 out to a horizon that's miles
+or kilometers away from you,
+2787.99 the lens can just relax.
+2789.5 It can flatten out.
+2791.0 And you'll notice that
+it actually is relaxing
+2793.31 to look at a horizon.
+2795.1 It's relaxing to look far away.
+2796.86 Whereas if I look at
+something up close to me
+2798.97 like this pen, or my phone,
+or a computer screen,
+2801.71 or this microphone, it takes effort.
+2804.87 You'll sense the effort.
+2806.47 Now, some of that effort
+is actually eye movements,
+2808.71 because you have muscles
+that can move your eyes
+2810.38 within their sockets.
+2812.19 But a lot of the work, quote unquote,
+2814.48 is neural work of the muscles
+having to move and contract,
+2819.32 such that the lens actually gets thicker,
+2822.43 in order to bring the light to the retina
+2825.54 and not to a location in
+front of it or behind it,
+2828.26 so called accommodation.
+2830.28 There's also changes in
+the size of the pupil,
+2832.33 as things are closer and
+further away from you.
+2834.8 In fact, there's a simple
+way to think about this.
+2838.36 Healthy pupils are going to dilate
+2840.96 when you look at something
+far away from you.
+2843.56 Now, when you see
+something that excites you
+2845.63 or stresses you out,
+your pupils also get big.
+2848.24 Your eyes get wide.
+2850.99 But if you look at something far away,
+2853.5 your pupils are going to dilate.
+2855.73 And when you look at things
+that are closer to you,
+2858.18 when you move them up close,
+2859.12 the pupils are going to shrink.
+2860.66 That's all part of this
+accommodation mechanism.
+2863.55 Now, you might say,
+2864.99 why are you telling me
+about accommodation?
+2866.6 This is crazy.
+2867.433 Why are you telling me about this?
+2868.28 Well, these days we're
+spending a lot of time
+2871.74 looking at things, mainly
+our phones up close,
+2874.01 and computers up close,
+and we are indoors.
+2876.77 If you are a young person, and
+even if you are 25 or older,
+2880.83 and you are spending a lot of time
+2882.53 looking at things up close,
+2884.32 and you are not allowing
+your vision to relax.
+2888.22 In other words, you are
+not giving your lens
+2890.47 the opportunity to flatten out,
+2891.84 and for these muscles to
+relieve themselves of this work,
+2895.99 you may or may not have
+migraine headaches.
+2897.78 You may or may not have headaches.
+2899.81 You might, and that could
+be the cause of those.
+2902.65 But you are also training your eyes
+2908.13 to be good at looking at things
+up close and not far away,
+2912.91 and as a consequence,
+2913.97 you are reshaping the neural
+circuitry in your brain,
+2917.24 and it is not good.
+2918.87 It is not healthy to only
+look at things up close.
+2923.66 Now, there are a lot of
+recommendations out there right now,
+2925.82 especially with all the lockdowns
+2927.47 of the last, you know, 12 to 18 months
+2929.61 that people should look up from
+Zoom every once in a while.
+2931.62 Or maybe now, I'm hearing
+that people should take calls
+2933.75 instead of doing Zoom,
+2935.06 where you should look up
+from your computer screen.
+2936.63 It's actually not going
+to solve the problem,
+2939.72 just to look up from your computer screen.
+2941.64 You need to go to a window.
+2942.89 You need to look out at a distance.
+2945.45 Ideally, you would even open the window,
+2948.15 because those windows actually filter out
+2950.52 a lot of the blue light that
+you want during the daytime.
+2953.42 A lot of the sunlight,
+2954.55 it's actually 50 times less gets through.
+2957.15 You want to get out onto a balcony.
+2958.49 You want to relax your eyes
+and look out at the horizon.
+2961.57 You want to go into what's
+called panoramic vision,
+2963.48 and let your vision expand.
+2965.03 You want this lens mechanism
+to be very elastic.
+2968.31 You don't want it to get stuck
+2970.08 in that configuration of
+looking at things up close.
+2972.33 Accommodation is a wonderful
+feature of your visual system,
+2975.3 but you don't want to push that too hard,
+2978.2 too often, or for too long.
+2981.85 You want to view the horizon.
+2984.05 You want to get outside,
+2985.36 not just to lighten the load on your mind,
+2988.77 or to think about other things,
+2990.02 but to maintain the health
+of your visual system.
+2994.3 In other words, you want
+to exercise these muscles
+2998.78 and that involves both the lens moving
+3002.17 and getting kind of thicker
+and relaxing that lens.
+3005.67 And the relaxation of the lens
+3006.96 is actually one of the
+best things you can do
+3008.59 for the musculature of the inner eye.
+3010.97 So what's the protocol, how
+often should you do this?
+3014.96 You might be surprised,
+3015.84 but for every 30 minutes of focused work,
+3019.09 you probably want to look
+up every once in a while
+3021.23 and just try and relax
+your face and eye muscles,
+3023.24 including your jaw muscles,
+3024.47 because all these things are
+closely linked in the brainstem
+3027.78 and allow your eyes to go into
+a so-called panoramic vision,
+3030.61 where you're just not
+really focusing on anything
+3032.36 and then refocus on your work.
+3034.84 At least every 90 minutes of
+looking at things up close,
+3040.71 or even if you're looking at a screen,
+3042.79 you know, television screen,
+3043.89 or you're watching a
+movie, or you're indoors,
+3047.09 for every 90 minutes of that,
+3049.18 you ideally would have at least 20,
+3053.51 probably more like 30 minutes
+of being outside, ideally.
+3057.41 But if you can't be outside,
+of non up-close vision.
+3062.107 And you might say, that's impossible,
+3063.26 how am I supposed to do that?
+3064.34 You know, I'm in an office
+or I'm in a building.
+3065.98 Get to a window, get outside
+if you can do it safely,
+3069.55 get onto a balcony, and
+just let your eyes relax.
+3073.94 Many people are experiencing
+severe vision problems,
+3078.02 because they're not getting
+enough sunlight during the day.
+3080.19 They have sleep problems,
+3081.41 because they're not viewing
+sunlight early in the day.
+3084.67 And as I've mentioned
+in previous episodes,
+3087.87 they're getting a lot of
+artificial stimulation,
+3090.17 artificial light stimulation,
+3091.38 of the eye in the middle of the night,
+3093.78 all of this is through the visual system.
+3095.92 So migraines, fatigue,
+3098.92 challenges with your eyesight
+getting worse as you age,
+3102.32 or even in young people, there's a,
+3103.62 you know, at least
+according to the articles,
+3105.55 they describe it as
+this epidemic of myopia
+3108.52 can largely be dealt
+with by getting outside,
+3112.48 going into panoramic vision,
+3114.32 experiencing some distanced vision,
+3116.85 look at things off in the horizon.
+3119.04 If you're walking or hiking or biking,
+3120.98 not looking at your phone the whole time
+3122.53 that you're doing that.
+3123.62 If you're at the bus
+stop or you're commuting,
+3126.27 certainly not looking at your phone
+3127.97 the entire time you're doing that.
+3130.24 So this is vital.
+3131.53 And I want to emphasize another protocol,
+3133.8 though I don't want to get
+into it in too much depth,
+3135.34 'cause I want to make sure
+3136.173 that I also talk about a number
+of other important aspects
+3138.81 of the visual system that
+are more related to sight,
+3141.37 but getting into optic
+flow is very important
+3145.96 for de-stressing your system.
+3149.41 When you move through space,
+3150.76 whether or not it's through
+walking, biking, even swimming,
+3154.61 if it's self-generated optic flow,
+3157.52 so probably not driving or motorcycling,
+3160.11 but yes, bicycling or I
+don't know, unicycling.
+3163.84 I don't know why I
+thought about unicycling.
+3164.98 There used to be a graduate
+student at Stanford
+3166.32 who was a really impressive unicycler,
+3167.67 those are pretty rare.
+3169.94 As long as it's self-generated optic flow,
+3171.96 meaning you're generating
+motion of your body
+3174.55 and the visual images around you
+3176.57 are passing by on your eyes,
+3178.84 that is very good for the visual system.
+3180.94 And it's very good for the mood systems
+3183.01 and the neuromodulator
+systems of the brain and body
+3185.1 that regulate mood.
+3186.31 This is well-established.
+3188.24 So I'm not telling people to get away
+3190.32 from their phone and their computers.
+3191.44 I spend a lot of time staring at a page,
+3193.67 drawing, writing, texting,
+et cetera, just like you do,
+3196.57 but we're really talking about
+some very simple protocols
+3200.08 that aren't just designed
+to improve your sleep,
+3202.24 but are really designed to
+bolster and enhance your vision.
+3206.335 And of course, because it's this podcast,
+3208.01 we will also talk about things
+3209.27 that you can take to improve your vision.
+3211.05 But if your visual behavior isn't right,
+3215.14 and I do believe we should
+always start with behaviors,
+3217.36 and then think about nutrition,
+supplementation, et cetera,
+3219.93 if your behaviors around
+vision aren't right,
+3222.14 you cannot expect to have
+good, healthy eyesight
+3225.27 for a long time, meaning
+throughout your lifespan.
+3228.6 And if your vision is already poor,
+3230.41 many of these things that
+I'm talking about today,
+3232.86 perhaps all of them,
+3233.693 will improve your vision to some degree.
+3236.51 And if your vision is starting to go,
+3239.07 then doing these behaviors
+3240.91 is likely to really enhance
+the quality of the vision
+3243.94 that you will build
+and maintain over time.
+3246.66 And all of these are
+essentially zero cost, okay?
+3249.82 If you live in a very dark environment,
+3251.77 like a cave or outer space,
+3254.77 it's going to be hard to
+do some of this stuff.
+3256.56 But if you're on planet earth,
+even if there's cloud cover,
+3260.61 chances are you can do some, or most,
+3263.0 or even all of these
+some, most, or all days.
+3266.11 What I'm about to describe next
+3267.45 is going to seem so
+silly on the face of it,
+3270.03 but has deep mechanism to support it.
+3273.36 Put simply, when you get
+tired, your eyelids close,
+3279.04 and when you're alert,
+your eyelids are open.
+3282.45 That is because you have
+neurons in your brain,
+3286.49 that depending on your level of alertness,
+3289.11 will make it easy or hard
+to keep your eyes open.
+3293.09 Now, that's a complete duh,
+3295.23 except that we don't often
+think about the relationship
+3297.35 between alertness and where we
+are looking and our eyelids.
+3302.45 Now, I learned this from a
+colleague of mine in psychiatry,
+3305.27 who happens to work on hypnosis.
+3306.52 I'm not going to hypnotize you right now.
+3307.95 That's actually for a future episode.
+3310.35 But what happens when we get tired?
+3314.55 Our eyelids close, and
+our chin moves down.
+3318.2 We tend to nod out this way.
+3320.1 If you have ever been in a classroom,
+3322.92 certainly not one of mine,
+3324.08 but if you've been in a classroom
+3325.94 and the lecturer is kind of drawing on,
+3328.34 or it's the afternoon,
+3329.72 what you'll notice is
+that a number of students,
+3331.3 their heads are jolt, kind
+of their eyelids are closing,
+3335.36 and their chin is dropping, and they,
+3337.1 you'll see a bunch of heads
+bouncing back up, right?
+3339.2 I was definitely one of
+those people in class.
+3341.59 If it was post-lunch in the afternoon,
+3343.93 it's warm, the hum of the air conditioner,
+3346.63 or whatever it is, and I'm just out, okay?
+3350.54 When we're wide awake,
+the opposite happens.
+3353.38 Our eyelids are open all the way,
+3356.47 and our chin happens to be up.
+3358.28 And no, this is not me telling
+you to have good posture.
+3361.28 However, what I learned from
+my colleague at Stanford
+3364.75 is that these circuits
+actually act in loops.
+3368.61 When we look up, maybe it's
+because these melanopsin cells
+3373.68 are in the bottom of our retina, they are,
+3375.69 and maybe it's because they're there
+3377.27 in order to view sunlight,
+which is overhead, which it is,
+3381.75 but that system of alertness
+3384.42 is linked to the position of our eyes.
+3386.62 So when we look up and our eyelids are up,
+3388.55 it actually has a purpose.
+3391.55 It actually creates a
+wakefulness signal for the brain.
+3395.68 And so, while this might seem like
+3397.33 the silliest and simple tool
+3398.93 that I might ever
+describe on this podcast,
+3401.3 if you are feeling tired, it
+actually can be beneficial
+3405.87 to the wakefulness systems of the brain,
+3407.55 including the locus coeruleus
+3408.94 and these areas that
+release norepinephrine
+3411.05 to actually look up,
+3412.57 to actually look up toward the ceiling.
+3414.66 You don't want your chin all the way back,
+3416.42 but to look up and to raise
+your eyes toward the ceiling
+3419.53 and to look up and try and
+hold that for 10 to 15 seconds.
+3422.97 So this isn't looking up
+and closing your eyes,
+3424.81 like on a nice sunny day, that's relaxing.
+3427.15 This is looking up and actually
+looking up at the ceiling.
+3431.16 It actually triggers some
+of the areas of the brain
+3433.72 that are involved in wakefulness.
+3435.43 So if you're somebody who's
+falling asleep at your work,
+3438.26 this can be very beneficial.
+3440.26 Likewise, many people are
+looking at their phone all day,
+3446.75 and their chin is down,
+3448.41 and then they're sitting at a computer
+3449.9 that's positioned below them,
+3451.04 and they're having trouble
+staying awake or focusing.
+3454.01 It can be very, I tell
+Costello this all the time,
+3456.18 'cause he's always falling asleep
+3457.17 while he's trying to do his work,
+3458.41 positioning your computer
+screen up at eye level,
+3462.92 or sometimes having it
+actually above eye level,
+3466.41 can actually create
+wakefulness and alertness
+3469.15 for the work that you're going to do.
+3470.44 This is simply because of this connection
+3473.27 between the brainstem circuits
+3475.01 and the other neural circuits
+that control wakefulness
+3478.38 and eyelids opening and looking up.
+3481.97 Okay, so it, again,
+it's remarkably simple,
+3484.52 almost laughably simple, but it's grounded
+3486.61 in some of the most hardwired,
+3488.63 meaning present from birth,
+3489.83 aspects of our neural circuitry.
+3492.2 And norepinephrine released
+from locus coeruleus
+3495.52 isn't just a mouthful,
+3496.99 it's a really interesting
+and powerful mechanism
+3501.02 for how the rest of the brain wakes up.
+3502.65 Locus coeruleus hoses
+the rest of your brain
+3505.29 with norepinephrine, in order
+to wake up those circuits
+3509.02 for work and attention.
+3510.24 And so, eyes up is actually a way,
+3514.23 a route into increased alertness.
+3516.59 Eyes down is a route into sleepiness,
+3519.53 into reduced alertness.
+3521.55 And I have only one
+friend that texts up here,
+3525.373 like on the street
+holds his phone up here.
+3527.52 It looks ridiculous.
+3529.04 And yet, you know, if we were trying
+3532.34 to create more sense of alertness,
+3534.14 if that's your goal,
+3535.34 positioning computer
+screens up high, chin up,
+3538.56 looking up if you need to kind
+of create an alertness signal,
+3541.33 not always being chin down and texting,
+3543.64 or working into typewriters,
+or reading below us.
+3546.8 is actually going to send a
+recurring wakefulness signal.
+3550.47 When things are up, we tend to be alert.
+3551.87 When everything's focused
+down, including our eyes,
+3554.19 it tends to have a more suppressive
+3555.72 or sedative type signaling
+3557.49 to the deeper centers of the brain.
+3559.18 Now, before we move on to
+the science, and tools,
+3562.17 and protocols related to pattern vision,
+3564.69 I want to mention another
+study that was done
+3566.85 by the University of Pennsylvania.
+3568.46 They have a terrific group
+there that works on sleep.
+3571.73 They made an important discovery
+3573.41 that I think everybody should know about,
+3575.81 which is that children that sleep in rooms
+3579.95 that have a nightlight or dim
+lights are much more likely
+3584.9 to develop myopia, nearsightedness.
+3588.84 Conversely, children that
+sleep in very dark rooms,
+3593.13 so either very dim
+nightlights or complete black,
+3598.53 they have a much lower,
+statistically speaking,
+3601.46 a significantly lower probability
+3603.17 of developing myopia, nearsightedness.
+3606.16 Now, why is that?
+3608.0 It's because the wavelengths
+of light that matter
+3612.44 for these melanopsin cells,
+3615.16 oftentimes can get through the eyelids.
+3618.66 And that's particularly true for children
+3621.88 and people that have thin eyelids.
+3623.81 Some people, like me,
+have very thin eyelids.
+3626.4 I've been told this before.
+3628.83 Not many people touch my eyelids,
+3630.18 but among those that have,
+I have very thin eyelids.
+3633.57 I notice I have very thin eyelids
+compared to say, Costello.
+3636.83 Now, Costello's eyes droop.
+3638.24 He can't even close his eyes
+all the way they're so droopy.
+3640.66 But many people have thin eyelids,
+3643.64 and those people are going
+to be even more prone
+3645.7 to light coming in through the eyelid.
+3648.28 So for parents, for kids, and for adults,
+3652.58 you really want to try to get to a place
+3654.98 where you can sleep in a completely black
+3657.41 or dark environment.
+3658.96 One little exposure to light, no big deal.
+3660.93 But this ties back to the other protocol
+3663.65 that I've described before in
+the mood and sleep episodes,
+3666.46 which is that viewing light,
+3668.63 even a very low intensity
+3670.29 between the hours of 10:00 PM and 4:00 AM
+3672.45 is extremely detrimental to the dopamine
+3674.49 and other mood producing
+systems of the brain.
+3677.15 It can negatively impact
+learning, and immunity,
+3679.76 and even blood sugar,
+3681.22 and make people type two diabetes prone
+3683.4 by way of communication
+from these melanopsin cells
+3686.16 to a structure in the
+brain called the habenula.
+3688.7 Why am I throwing out all this verbiage?
+3690.54 Well, because people have
+asked for more mechanisms.
+3692.45 So, if you really want to know,
+3693.47 when you look at blue light
+3695.25 or if blue light is getting
+in through your eyelids
+3697.01 in the middle of the night,
+3698.34 it is likely distorting
+3699.97 this lens accommodation
+mechanism in the eye
+3703.63 and leading to myopia in some cases.
+3707.26 So, that's one reason to
+avoid blue light exposure
+3709.427 and bright light exposure,
+even nightlight exposure,
+3711.44 in middle of the night.
+3712.75 Viewing any light of bright intensity
+3715.34 between the hours of 10:00 PM and 4:00 AM
+3718.03 on a consistent basis is
+going to suppress dopamine,
+3721.04 because of the way that that light
+3722.68 activates these melanopsin cells,
+3724.17 and the habenula, and the dopamine system.
+3726.77 So it's all very simple,
+3728.68 get as much bright light
+as you can safely, right?
+3732.29 You never want to look
+at any light so bright
+3733.8 that it's painful look
+at, during the daytime.
+3736.76 Try and go without sunglasses,
+unless you need them.
+3738.96 Now, I wear sunglasses for sake of sport
+3741.11 and sake when it's really bright out,
+3743.18 but I try to get two hours a day
+3745.04 of working outside or being outside,
+3747.37 even if there's cloud cover,
+that's going to offset myopia.
+3750.73 It's going to help you get better sleep.
+3752.33 It's going to support mood
+and metabolism, et cetera.
+3755.31 And at night, if you're sleeping
+3757.5 with a lot of lights in the room,
+3758.56 and especially, if there are
+kids that need a nightlight,
+3761.45 you should try and wean
+them off that nightlight,
+3763.9 because it's going to be beneficial
+3765.24 for their vision to wean
+them off that nightlight
+3767.31 and put them into a darker environment.
+3769.27 Obviously, you want to get
+them emotionally comfortable
+3770.88 with that first.
+3772.48 Now, let's talk about pattern
+vision, actual seeing things,
+3776.02 like faces and colors, et cetera.
+3778.04 I'm presuming that some of
+you out there are colorblind.
+3781.28 We can all help the red-green
+colorblind folks out there
+3785.29 by not using red in slides and diagrams,
+3788.69 and on menus, and things of that sort.
+3790.23 Try and use magenta instead.
+3792.03 They can see the contrast
+between magenta and green
+3795.56 better than if there's red and green.
+3799.01 So, be kind to the
+colorblind folks out there.
+3801.16 It's actually a fair percentage.
+3803.08 And there are a lot of
+different kinds of colorblind.
+3804.96 I should just mention some
+people are true monochromats.
+3808.31 They see the world in black and white.
+3809.7 That's exceedingly rare.
+3812.12 Most colorblind people,
+colorblind in quotes,
+3815.15 are red-green colorblind,
+3816.9 meaning they lack red cone photo pigment,
+3819.68 meaning they can't see
+long wavelengths of light.
+3822.13 So they see the world much
+as a canine or a cat does,
+3825.55 where they don't get
+the green-red contrast.
+3828.27 That's why we call it
+red-green colorblind.
+3830.54 They have the green cones,
+3832.0 but they can't do the contrast comparison
+3834.03 that I described at the
+beginning of the episode.
+3836.72 So use magenta, and they
+will be able to see things.
+3840.45 You wonder why stop signs and stop lights
+3842.44 and things aren't in magenta.
+3843.94 Well, because the world is unkind
+3845.41 to the red-green color blind individuals,
+3847.8 and they have to learn the
+position of those lights
+3849.86 in the street lights.
+3851.4 And they have to learn
+the shapes of signs,
+3853.44 which they can do readily,
+3854.36 and it usually says stop on it as well.
+3856.74 But if you care about
+colorblind folks, which I do,
+3859.66 then we could all do them a service
+3861.29 by, I think by law actually in the U.S.,
+3864.62 menus are required to be
+colorblind accessible.
+3868.89 How can you improve your vision?
+3871.5 How can you get better at seeing things?
+3874.01 Well, one way is to make sure
+3875.98 that you spend at least
+10 minutes a day total,
+3879.39 at least, viewing things
+off in the distance.
+3882.33 So that would be well
+over half a mile or more,
+3885.42 try and see a horizon,
+3886.76 try and get your vision out to a location
+3890.11 that's beyond the four walls
+of your house or apartment,
+3893.99 or the doors of your car, and
+the windshield of your car.
+3896.7 I know that can be hard to
+do, but it's very valuable.
+3899.39 If you live in a city like New York
+3900.98 and it's skyscrapers everywhere,
+3902.86 you've probably experienced
+3904.13 the incredible sense of relaxation,
+3906.38 and it's aesthetically beautiful,
+3908.11 when you are walking down
+one of these long avenues,
+3910.27 and you turn, and I think they have
+3912.15 a name for this in New York,
+3914.1 where the sunset is suddenly visible
+3917.58 along a long avenue
+between some skyscrapers.
+3920.33 And it's just very relaxing to be able,
+3922.32 suddenly, to see at a distance,
+3923.75 and that's actually
+because this eye mechanism
+3925.87 of relaxing the lens
+3929.2 and relaxing some of the
+musculature around the eyes
+3932.31 sends signals deep into the brainstem
+3934.06 that release some of the centers
+3935.45 that are involved in
+alertness, AKA stress.
+3939.1 And it's very pleasant for a reason.
+3940.92 It's not a, it's not a
+placebo effect if you will.
+3945.29 There are a bunch of neurochemicals
+3946.57 and things that are associated with that.
+3948.34 So try and see at a distance,
+3949.86 because it's good for your eyesight.
+3951.42 It'll keep this lens nice and elastic,
+3954.06 and the muscles nice and
+strong that move the lens,
+3956.69 and it has this relaxing component to it.
+3960.51 Now, our visual system is
+exquisitely tuned to motion,
+3965.09 not just our self-generated motion,
+3967.13 but the motion of things around us.
+3968.92 And one of the things that it does
+3971.05 is something called smooth pursuit.
+3973.78 Smooth pursuit is our ability
+to track individual objects
+3978.96 moving, as the name suggests,
+smoothly through space
+3982.51 in various trajectories.
+3984.84 You can actually train
+or improve your vision
+3989.98 by looking at smooth pursuit stimuli,
+3992.747 and that sounds really boring.
+3994.03 What you can do is, and
+I'll provide a link to some
+3996.06 that I think are pretty good
+3997.11 that are used in various clinics,
+3999.44 ophthalmology and optometry clinics.
+4002.4 You can actually take
+a few minutes each day,
+4005.04 or maybe if you don't do it each day,
+4006.7 you could every third day or so,
+4007.93 and actually just visually track a ball.
+4010.49 Sometimes it's moving in and
+kind of an infinity symbol.
+4012.63 Sometimes it's more of a sawtooth.
+4015.07 Sometimes it's changing speed.
+4016.72 Sometimes the cue that you're following,
+4019.82 the little target, is
+dilating and contracting.
+4023.38 This is going to keep the
+muscles, I want to be clear,
+4026.56 this is going to keep
+the extraocular muscles
+4029.44 conditioned and strong
+4031.24 and allow you to have a
+healthy smooth pursuit system.
+4035.5 Remember, the brain follows the eye.
+4037.54 It follows the movements of the eye.
+4039.71 It has to deal with that.
+4040.9 And the neural circuits within the brain
+4042.62 have to cope with changes
+in smooth pursuit.
+4045.6 So if you're doing a
+lot of reading up close,
+4047.58 you're not viewing horizons,
+4048.72 you're not getting a lot of
+smooth pursuit type stimulation
+4051.78 from your life, or you're just getting it
+4055.19 within the confines of a
+little box on your phone,
+4057.36 like your smooth pursuit is
+over, you know, millimeters
+4060.59 or what we always talk
+in terms of visual angle,
+4063.11 but the amount of degrees of visual angle.
+4064.92 But if you're just
+looking at smooth pursuit
+4066.37 in this little tiny box on your phone,
+4068.07 or on your computer screen,
+4069.4 and you're not looking at
+objects in your environment
+4071.47 like swooping birds and things like that,
+4072.97 which I'm guessing many of you
+4073.96 are not spending your time doing,
+4075.6 well, these mechanisms for smooth pursuit
+4077.4 will get worse over time.
+4078.46 Your vision will get worse.
+4079.61 And so, while I prefer that people
+4081.61 get out into the real world
+4083.11 and experience smooth pursuit
+tracking of visual objects,
+4087.08 I don't know, maybe it's a good reason
+4087.913 to go to a hockey game or, you know,
+4089.473 and try and keep your eye on the puck,
+4091.13 which I can never seem to do.
+4092.18 It moves so fast.
+4093.92 Or I guess this is a good
+reason to watch live sports
+4096.57 if that's your thing, or
+to watch a tennis match,
+4098.83 like a cat, like a kitten,
+4099.93 watching the ball go back and forth,
+4101.97 whatever, watching kids play,
+it doesn't really matter.
+4105.08 The idea is that you want to
+use the visual system regularly
+4109.99 for what it was designed for,
+4111.03 and smooth pursuit is a great way
+4113.48 to keep the visual and
+motion tracking systems
+4116.46 of the brain and the eye
+and the extraocular muscles
+4118.84 working in a really
+nice coordinate fashion.
+4121.15 I would say five to 10 minutes,
+4124.78 three times a week will be great.
+4126.94 If you care about your vision,
+4127.97 you can train your vision in this way.
+4130.21 The other one is to train accommodation.
+4133.58 There are a lot of videos out
+there, I want to be clear,
+4135.88 on the internet, some of
+which are from clinicians,
+4140.03 some of which are not.
+4141.36 Some of which are from scientists,
+4142.64 some of which are from other sources,
+4144.61 talking about things you can do
+4147.04 to make your vision better,
+to improve your vision.
+4149.61 Most of those are geared
+4151.81 toward improving the
+extraocular eye muscles,
+4154.317 but I did consult with
+our chair of ophthalmology
+4158.16 at Stanford School of
+Medicine, Jeff Goldberg,
+4161.02 who's an MD and a PhD,
+a phenomenal scientist,
+4163.81 and a phenomenal clinician,
+4165.64 and incidentally, a
+phenomenal chairman as well,
+4168.4 about what sorts of things, tools,
+4171.7 are actually beneficial for
+pattern vision and sight,
+4175.23 because there's just so much
+out there on the internet.
+4177.64 Not all of which is
+accurate or good, frankly.
+4180.99 And he agreed that a
+smooth pursuit stimulus,
+4183.97 that kind of training,
+as well as, or exercise,
+4187.95 as well as near far.
+4189.75 So spending a few minutes,
+you might even just do this
+4192.21 for two minutes of looking
+at something up close,
+4194.96 that's going to activate these
+accommodation mechanisms,
+4197.2 and then moving it at arms length,
+4199.27 and focusing on it for five, 10 seconds,
+4201.4 maybe more, maybe 15 or 20 seconds,
+4203.87 then slowly moving it into
+a location, and then out.
+4207.51 This is actually a lot
+like the visual training
+4209.74 that's done post-concussion
+to try and repair,
+4213.77 actually repair some of
+the balance, and motor,
+4216.35 and visual, and cognitive
+aspects of the brain.
+4220.38 And we are going to have a guest on
+4221.85 at a future time that,
+4223.57 to deal with concussion and
+some post-concussion training.
+4226.61 A lot of post concussion
+recovery and training
+4228.75 centers around the visual system.
+4230.42 Not just because people are
+trying to recover their vision
+4233.84 and their sense of balance,
+4235.58 but because, as I mentioned earlier,
+4237.34 the brain's ability to make
+sense of its environment,
+4240.52 and the brain's ability to parse time,
+4242.88 not just on the day-night schedule,
+4244.84 but also shorter time intervals,
+follows the visual system.
+4249.23 Something we'll turn to a
+little bit more at the end.
+4251.17 So what does this mean?
+4252.1 The tool is, spend two to three minutes
+4255.75 doing smooth pursuit.
+4256.87 There's some programs on YouTube,
+4259.076 or you can just look up
+smooth pursuit stimulus,
+4260.89 and I'll provide a link to
+a couple I like as well.
+4264.27 You could do this with
+a pen if you wanted.
+4266.64 You could do this.
+4267.99 Someone else could hold a
+wand, and you could do that,
+4270.04 if you've got someone
+that can do that for you.
+4271.58 Practice accommodation for a few minutes,
+4273.31 maybe every other day,
+4274.85 just bringing something in close.
+4276.41 You'll feel the strain
+of your eyes doing that.
+4278.183 I can feel it right now, move it out.
+4281.01 You'll feel a relaxation point.
+4282.55 Move it past that relaxation point,
+4284.24 where you will have to do
+4285.073 what's called the vergence eye movement
+4286.24 to maintain focus on that
+location as it moves out,
+4288.67 bring it back in.
+4290.1 At the point where you
+actually have to go cross-eyed,
+4292.76 this will differ for different people,
+4293.98 depending on how far apart your eyes are,
+4295.87 so called interpupillary distance.
+4297.58 So for me, I have been teased before,
+4299.33 I have a very short
+interpupillary distance.
+4301.52 I'm not a cyclops, but I'm heading there.
+4304.34 Some people are more
+walleyed, like a flounder.
+4307.07 Well, depending on your
+interpupillary distance,
+4309.86 the point at which things
+4310.89 get blurry and cross-eyed will vary.
+4313.91 But for me, you know, as I get about,
+4316.64 oh gosh, I guess it's about
+six inches from my nose.
+4319.39 It's really hard, I can't
+accommodate any longer.
+4321.47 I move it out another inch,
+and everything's in nice focus.
+4324.03 Try and see whether or not
+you can get things closer.
+4325.97 Now, you don't want to get cross-eyed.
+4327.34 Remember what your parents told you,
+4329.04 or my parents told me,
+4330.1 that if you cross your
+eyes, when you're young,
+4332.35 that they can stay that way.
+4333.55 Actually, they won't
+necessarily stay that way,
+4336.08 but your brain can
+start losing information
+4338.98 and the ability to see binocular depth,
+4341.85 something we'll talk about in a moment.
+4342.99 But for now, the protocol would be,
+4345.36 you know, two to three,
+maybe five minutes,
+4347.47 just practice that,
+practice accommodation,
+4349.44 and then be sure to give
+your eyes some rest,
+4351.91 get outside, look at a
+horizon, or do nothing,
+4354.55 just kind of let your eyes go soft.
+4356.3 I guess what the yogis
+would call soft gaze.
+4358.14 Just kind of relax your eyelids,
+not this, not eyes closed.
+4361.23 Just relaxed, panoramic vision,
+4363.87 try and see the walls around
+you without moving your head.
+4366.95 Exercise your eye muscles,
+4368.33 exercise the accommodation
+mechanisms of your eyes,
+4370.97 practice a little bit of smooth pursuit.
+4373.19 You don't have to be neurotic about this,
+4374.63 but if you do this often
+enough, meaning every other day,
+4378.25 every third day or so, you
+can be the strange person
+4380.74 on the plane or in the
+classroom doing this.
+4382.77 You know, that people might
+chuckle or look at you funny,
+4385.32 or tease you, but that's okay,
+4386.99 because you'll be able to see
+4388.81 when they are losing their vision,
+4391.1 so you'll get the last laugh.
+4393.05 Please don't laugh at them,
+but maybe you can help them.
+4395.05 At that point, you can
+hold the pen for them.
+4398.36 It's worth doing.
+4399.33 It's really worth preserving your vision.
+4401.24 And again, if you're a
+young person, this is great,
+4403.63 because then you can actually build
+4404.95 an extra strong visual system,
+4407.29 using all the tools that we're describing.
+4409.63 I do want to talk about
+a new set of findings
+4413.19 that are related to red light
+4414.96 and offsetting age-related
+macular degeneration.
+4418.0 There are a lot of ways
+in which our visual system
+4419.98 gets worse over time,
+4420.84 but one is so called age-related
+macular degeneration.
+4424.07 Glen Jeffrey at the
+University College London,
+4426.21 somebody I've known for decades as a,
+4428.8 because he's a scientist,
+4430.34 has done beautiful work on
+development and function
+4432.45 of the visual system,
+4433.283 has published a number of papers recently,
+4435.76 one that got a particularly high amount
+4439.05 of attention in the press
+4440.14 was one that showed that
+flashing red light into the eyes
+4443.82 early in the day, not late
+in the day, early in the day,
+4447.09 can help offset some age-related
+macular degeneration,
+4451.22 presumably by enhancing
+the mitochondrial function
+4454.16 in the photoreceptors.
+4455.73 There does seem to be
+some evidence for that.
+4457.95 Although, it's still early days,
+4459.53 I want to emphasize
+you don't want to shine
+4461.82 really bright lights into your eyes.
+4463.25 You never want to look at any light
+4464.58 that's so bright that it's painful,
+4466.9 and you never want to force
+your eyelids to stay open.
+4468.74 If you need to close your eyes
+in order to be comfortable,
+4471.02 well, then chances are
+that light is too bright.
+4473.42 But doing just a couple minutes a day,
+4475.59 like two minutes a day of flashing
+4477.78 this red light into one
+eye, and then the other.
+4481.38 As long as it was early in
+the day before noon time,
+4484.44 and as long as it was in individuals
+4486.11 that were 40 years or older,
+4488.9 did seem to have a significant effect
+4490.67 in offsetting some of the
+age-related macular degeneration
+4493.84 that would otherwise occur.
+4495.62 Again, these are early findings.
+4496.9 If you want to do this, please be careful.
+4499.24 Please talk to your optometrist
+and/or ophthalmologist.
+4502.64 Your eyesight is precious.
+4503.7 You don't want to damage
+it, but it is interesting.
+4506.15 And it does seem like red light
+4507.5 can improve the function
+of the mitochondria.
+4509.31 These photoreceptors have
+a lot of mitochondria,
+4511.87 the energy-producing
+organelles within the cells,
+4514.57 because they are some of the
+most metabolically active cells
+4517.74 in your entire body.
+4518.99 Your photoreceptors
+are active all the time
+4520.97 as you're looking around,
+4521.803 and even when your eyes
+are closed, they're active.
+4523.87 In fact, through a weird
+twist of the biology,
+4526.46 and please look this up if
+you're really interested in this,
+4529.13 your photoreceptors are actually
+most active in the dark.
+4532.58 This is so weird.
+4533.413 It's a twist of biology, the
+way the system's arranged,
+4537.1 that when light comes on,
+they shut off their activity.
+4540.15 So actually whether or
+not you see something
+4542.3 in front of you, like this pen or my face,
+4544.88 is because the way your photoreceptors
+4547.35 are turning off not turning on.
+4549.09 It's a really cool twist,
+4550.28 and I don't want to go too
+far down that rabbit hole,
+4553.58 but check it out if you're interested
+4555.15 in how photoreceptors work.
+4556.17 It's an absolutely incredible literature.
+4559.04 Just Google, excuse
+me, look up on the web.
+4561.68 We are not partial just to Google.
+4563.02 I happen to use Google,
+but use your web browser
+4566.07 to look up photoreceptors
+hyperpolarization site.
+4570.3 And you can learn a lot about that,
+4571.5 if you're a real nerd for
+this stuff, like I am.
+4574.19 Okay, so red light to the eye,
+4577.5 can perhaps, it seems,
+help maintain vision,
+4581.1 doing smooth pursuit exercises,
+4582.77 and accommodation near-far exercises.
+4585.37 Some people suffer from poor eyesight,
+4587.89 simply because their eyes get dry.
+4589.8 There are incredible, believe it or not,
+4591.97 lubricating mechanisms for the eye,
+4594.41 not just tears, but a thin sheet of oil.
+4597.25 I mean, it's just amazing.
+4598.083 Unless you have some
+sort of corneal abrasion,
+4600.03 the cornea is the clear stuff
+on the outside of your eye,
+4602.73 corneal abrasion, when
+you blink, it's smooth,
+4606.01 you don't feel it.
+4607.25 It's just really, really smooth.
+4608.7 And yet, if you've ever
+had a corneal scratch,
+4610.92 I've had this, it's really
+rough, it is so painful.
+4614.11 You have a ton of pain
+receptors in the cornea.
+4618.84 The lubrication of the cornea
+is supported by blinking.
+4623.82 And while it seems a little silly,
+4626.09 some people actually
+benefit from doing some,
+4629.74 you know, five or 10 or
+15 seconds of blinking,
+4632.43 and then doing their focused work.
+4635.04 Some people, their eyes are drying out,
+4636.51 because as we focus, if
+we're trying to do something,
+4639.11 our eyelids stay open,
+the eyes can dry out,
+4642.13 but it also can make it such,
+4643.76 that when we blink the next time,
+4645.43 there's a kind of a need to focus,
+4646.96 because there's some distortions
+in these oils and liquids
+4650.06 across the corneal surface.
+4652.06 If you're somebody who
+suffers from dry eye,
+4653.76 I do hope they'll find a treatment
+4655.31 or a cure for dry eye soon.
+4656.44 There isn't one at present.
+4657.91 Someone stands to make
+a lot of money out there
+4659.64 if you can find a cure for dry eye.
+4662.194 Let the companies know or start a company,
+4665.02 right now it's still a
+mystery as to how to do that.
+4667.14 But blinking for five 15 seconds,
+4669.12 probably slowly, not as quickly
+as I'm doing here on video,
+4671.52 but just, you know, maybe a
+blink every a second or two
+4674.37 for 15 seconds can lubricate the eyes.
+4676.41 And that's not directly
+related to anything neural,
+4679.34 it's just going to allow the
+optics of your eye to be clear.
+4681.62 Just like when the screen
+of your phone gets dirty,
+4683.98 like when Costello's texting on my phone,
+4685.65 and I pick it up, and it's
+like covered with smudge,
+4687.74 to clean it off in order
+to see things clearly,
+4689.61 the same thing is happening
+for these optical devices
+4692.09 on the front of your brain.
+4694.14 Remember, these are brain.
+4696.01 Okay, so a lot of protocols today,
+4698.81 almost all of them behavioral protocols.
+4702.67 I do want to talk a little
+bit more about vision
+4705.937 and how it works internally.
+4707.65 And then I also want to talk about
+4709.41 some of the foods and supplements
+4711.26 that have been shown to support vision
+4712.93 and offset visual loss,
+4714.44 and maybe even reverse some visual loss.
+4716.97 Let's talk about binocular
+vision and lazy eye.
+4721.05 I'm very familiar with lazy eye,
+4722.67 because when I was a kid,
+I went swimming one day,
+4726.29 one day, and I didn't have my goggles.
+4729.33 And so, something must
+have been happening,
+4731.62 as I recall, with the eye
+moving down through the water,
+4734.92 I've always had this problem
+4736.01 that I can only do the freestyle
+stroke off to one side.
+4738.62 The people I swim with
+are always laughing.
+4740.29 Somehow, I kind of move toward drowning
+4742.43 when I try and breathe on the right side.
+4744.34 I think there's some asymmetry
+in the way I'm organized.
+4747.45 Anyway, I was off to my left,
+4749.82 and my eye kept going
+in and out of the water,
+4752.28 and there was chlorine in the water,
+4753.45 and it was making my own uncomfortable,
+4754.5 so I just closed my eye.
+4755.603 I just decided, you know,
+4756.52 I knew more or less how
+to swim straight-ish.
+4759.89 Might've bounced off the
+lane lines a few times,
+4761.68 but I just use the other
+eye to kind of steer
+4763.29 for that mark on the wall.
+4765.14 Got out of the pool,
+took a shower, dried off,
+4768.81 and then completely lost by
+binocular vision for three days,
+4772.58 completely.
+4774.26 The young brain, up until about age seven,
+4777.15 but maybe even extending
+out until about age 12
+4780.3 is extremely vulnerable to differences
+4784.26 in ocular input between the two eyes.
+4786.89 My scientific great-grandparents
+won the Nobel Prize
+4789.53 for discovering so
+called critical periods,
+4791.67 periods of time in which
+the brain is more plastic,
+4794.01 more able to change.
+4795.53 Those two guys, David
+Hubel and Torsten Wiesel,
+4797.91 thank you, David and Torsten,
+4799.11 forever changed the face
+of visual neuroscience
+4801.53 and forever changed the way
+4802.86 we think about treatment
+of the young brain.
+4806.78 It used to be thought that
+you wouldn't want to do
+4808.35 a surgery on a young kid,
+4810.21 because of risk of anesthesia
+in young individuals.
+4813.9 But we now know that you need
+to repair these imbalances,
+4817.02 that even a few hours,
+4819.03 okay, I don't want to scare
+anybody, I'll talk about reversal.
+4821.04 But a few hours of occluding
+one eye early in life
+4824.55 can lead to permanent,
+unless something's done,
+4827.71 permanent changes in the way
+4828.92 that the brain perceives
+the outside world,
+4831.33 such that when that
+eye is opened up again,
+4833.87 the brain actually can't make sense
+4835.46 of anything that's coming through it.
+4836.44 It shuts down that visual pathway somehow.
+4838.63 So what happened to me was,
+4839.95 I actually was, my eye was fine.
+4842.36 I got out of the pool, I opened my eye,
+4843.86 but I couldn't see through that eye.
+4845.45 Everything was blurry, double vision,
+4847.4 unless I covered this eye,
+4848.77 and then I could see perfectly fine.
+4850.84 Fortunately, I went to an ophthalmologist
+4853.23 who understood the literature.
+4855.24 Thank you, Dr. Mark Lurie,
+4857.71 who understood the
+literature and made it clear
+4862.53 that what I needed to do was
+to occlude the other eye,
+4865.7 the eye that was working very well.
+4867.5 Clearly, he understood the
+work of you Huber and Wiesel.
+4869.36 Now, again, you don't want
+to start playing games
+4871.2 with this kind of stuff when you're a kid.
+4872.54 If you wear, let's say you
+have a Halloween costume
+4874.85 and you wear an eye patch,
+4875.96 you're a pirate or
+something for Halloween,
+4878.0 and you cover it up on one side,
+4879.87 probably for the night
+of Halloween, it's okay.
+4881.67 I do not recommend doing
+that recreationally
+4885.15 if you don't need that
+if you're a young child
+4887.21 or for your child to do that.
+4888.18 Because, indeed, you create imbalances
+4891.08 in the brain machinery
+that compares information
+4893.75 coming in through the two eyes,
+4894.91 and it can shut down
+the neural information
+4898.02 for the occluded, the closed eye.
+4900.44 Now, I was able to reverse this issue,
+4902.28 but my binocular vision
+has never been terrific.
+4904.25 I'm much better at the dart board
+4905.77 and still not very good
+if I close one eye.
+4908.16 I'm much better at the pool table,
+4909.44 if I close one eye, and
+I still am terrible.
+4912.32 I was the kid in, you
+know, in the outfield.
+4915.74 You know, the ball is coming towards me,
+4916.84 the ball's coming towards me,
+I'm going to catch the ball,
+4918.21 and like it hit me square in the lip.
+4920.54 My binocular vision isn't great
+4923.02 as a consequence of this early event.
+4925.78 And I have a hard time with
+those binocular stereograms,
+4929.96 those images that are kind of,
+4931.19 you're supposed to look at them,
+4932.25 and then the binocular
+depth image like pops out.
+4935.51 All the other kids were going,
+4936.49 oh, there's the, whatever,
+the Statue of Liberty.
+4938.67 There's the [inaudible], and I see dots.
+4941.08 Okay, so I have binocular
+vision, but I use other cues.
+4944.63 I use the near-far cues
+that I talked about before.
+4947.43 Motion parallax, the fact
+that things are closer to me
+4949.75 are moving faster than
+things further away,
+4952.05 in order to judge depth.
+4953.78 And years later, when I got involved in,
+4955.53 and I don't suggest this for most people,
+4959.16 I got involved in boxing and martial arts
+4960.86 when I was younger.
+4961.73 You sometimes will see fighters,
+4963.48 this is a slip to avoid getting punched.
+4966.1 It's also generating motion parallax.
+4968.32 Many animals judge depth
+by moving their head,
+4972.69 not by using other mechanisms
+of accommodation, okay?
+4976.4 So a lot of birds and monkeys and animals
+4979.22 will judge depth by moving
+their head like this,
+4982.62 or they'll move from side to side.
+4984.54 Animals that will undulate sometimes
+4986.45 are actually doing a depth measurement,
+4988.36 because as you move from side to side,
+4990.09 the brain is able to do the math of depth.
+4992.54 So what does this all mean
+in terms of protocols?
+4994.38 If you're a young person,
+4995.33 do your best to get really
+good binocular vision,
+4998.59 not just at level of your
+phone or your tablet,
+5001.02 but also at distance,
+5002.1 you will build strong
+binocular visual machinery
+5005.71 in the brain and at the level of the eyes
+5007.867 and the eye musculature.
+5010.11 Now, if you're somebody
+who did have an occlusion,
+5012.82 what's needed is to cover up the other eye
+5015.17 to create an imbalance,
+so that the weak eye,
+5017.05 the so-called lazy eye,
+5017.883 this is sometimes
+referred to as amblyopia,
+5020.41 that eye has to work harder.
+5022.09 So for me, they patched this other eye
+5025.13 and made this eye,
+5026.26 eventually, I got vision
+through that eye back.
+5027.76 then they opened them both up.
+5029.14 Now, you might ask,
+5030.84 what happens if you cover
+both eyes early in life?
+5033.33 And this is where it gets interesting.
+5034.72 You might think, well, if covering one eye
+5036.28 leads to poor vision for that
+eye after that eye is open,
+5040.43 covering both eyes will
+probably make you blind, right?
+5043.11 Actually, that's not what happens.
+5045.13 What Hubel and Wiesel discovered
+5046.38 and what's been affirmed
+many, many more times over
+5049.82 in subsequent studies is
+that it's competitive,
+5053.21 that the two eyes are competing
+5054.93 for real estate up in the brain.
+5056.51 So if you actually cover both eyes,
+5058.79 you actually extend the
+period of critical plasticity.
+5063.09 This is a really interesting aspect
+5064.71 that other people are
+starting to leverage now,
+5066.89 in terms of how to reopen
+plasticity later in life.
+5069.48 But please don't, you know,
+5070.79 go around with your eyes
+covered for too long.
+5073.08 There are some like retreats and stuff
+5075.13 where people go into caves
+with absolutely no vision.
+5078.15 It creates hallucinations.
+5079.33 We'll talk about why
+that is in just a moment,
+5081.47 but here's my suggestion.
+5083.13 Try and get balanced visual
+input through the two eyes.
+5085.49 Almost everybody has a dominant eye.
+5087.81 It usually doesn't relate
+to your dominant hand,
+5090.33 although it can.
+5091.42 And so for me, if I cover up my right eye,
+5093.95 I see much less well, much more poorly.
+5097.0 It's a little bit fuzzy,
+5098.21 and I have to work harder
+5099.47 in order to see the camera for instance.
+5101.56 Then, if I cover up my left eye,
+5103.22 it's actually really easy for me to relax.
+5104.91 I have a dominant eye.
+5106.92 Now, you can balance that out
+5108.25 by covering up the dominant
+eye a little bit each day,
+5110.95 but I would warn any young people,
+5112.94 meaning, you know, 12 or younger,
+5116.0 against creating these imbalances
+5118.13 if there isn't a clinical need to do that.
+5120.41 And if you do have strong
+imbalances between the two eyes,
+5123.74 which can be caused by
+cataract and lens issues,
+5127.53 can be caused by neuromuscular
+issues, et cetera,
+5129.94 to try and get those dealt
+with as early as possible
+5132.72 by contacting a really
+good ophthalmologist
+5135.41 and ideally a neuro-ophthalmologist.
+5137.7 It is very normal,
+5139.23 I should say, it's very common
+for young children, babies
+5142.62 to have an eye that, with strabismus,
+5145.39 that either deviates
+out or that deviates in.
+5148.02 It is important to correct that.
+5150.18 If you would like to
+have balanced division
+5153.22 between the two eyes and for the brain
+5154.53 to respond equally to the two eyes
+5157.41 and to have, I would say high
+fidelity, quality vision.
+5161.48 Although some people who
+have an eye that drifts
+5163.89 can function normally in life,
+5166.61 you have an opportunity
+early in life to rescue that.
+5170.21 I won't do, well, maybe I will do this,
+5171.77 but I can actually relax this eye.
+5174.52 It's so weak, in some cases,
+5176.16 that it actually can start to deviate.
+5177.5 Here, I'll just do this here.
+5178.41 It's not crossing my eyes.
+5179.243 So I actually can move my,
+I can misalign my eyes,
+5182.31 because I have to fight very hard
+5183.96 to have the musculature for this eye,
+5186.765 keep that eye aligned with the other eye.
+5188.77 And that's because I've
+been doing eye exercises,
+5190.98 since I was in my twenties,
+5192.39 'cause I noticed when I would study a lot,
+5194.27 this eye would start to drift
+in, I'd start to see double,
+5196.28 and I would then, next thing you know,
+5197.24 I was just covering the eye up,
+5198.317 and it was getting weaker and weaker,
+5199.92 just like the atrophy of a muscle.
+5201.81 So I went to the doctor, what did they do?
+5203.74 They did the exact wrong thing.
+5205.66 The optometrist I went to gave me a prism,
+5207.86 which adjusted it so that I
+could see things normally,
+5210.07 which just made the eye weaker and weaker.
+5211.79 It's like putting a weak arm into a sling.
+5214.64 So I had to spend at least
+three years of 10 minutes a day,
+5218.75 is what I recommend, doing near-far,
+5221.83 covering up my good eye, doing
+near-far with my bad eye.
+5225.94 And now, it's been about 10, 12 years
+5229.41 that I have pretty
+decent binocular vision.
+5232.49 Now, many of you aren't dealing with this,
+5235.4 or have these early childhood issues.
+5237.45 Some of you might be experiencing
+5239.68 challenges with fatigued eyes
+5242.1 or with differences in
+focus with the two eyes.
+5244.3 These eye exercises of
+near-far, smooth pursuit,
+5246.87 and checking for dominant
+and non-dominant eye
+5250.01 can be very beneficial.
+5251.46 I'm again, I'm not a
+clinician, so I don't want to,
+5254.15 you know, give you protocols
+5255.78 or enforce protocols on anybody.
+5257.42 You need to figure out what's
+right and safe for you,
+5259.36 given your vision history.
+5262.09 I do recommend talking to a
+really good ophthalmologist
+5264.39 if you have severe vision
+problems of any kind,
+5266.69 or if you want to offset
+vision problems of any kind.
+5269.8 An optometrist as well,
+5271.21 but ideally would be a
+neuro-ophthalmologist.
+5273.96 Okay, I did mention hallucinations,
+5276.63 and they're fun to talk
+about and think about.
+5278.697 And for years, people have asked,
+5280.51 why do people get visual hallucinations.
+5283.32 Costello's in sleep right now,
+5284.66 you can probably hear him
+snoring, he's snoring so loud.
+5286.72 He's probably having hallucinations
+5287.91 about rabbits, pizza, and
+those are mainly his favorite,
+5291.66 and sleep.
+5292.493 He's dreaming about sleep in sleep.
+5295.45 Hallucinations are a property
+of the visual system,
+5298.48 and it was always thought
+that hallucinations arise,
+5301.97 because of over-activation or activation
+5304.31 of certain aspects of the visual system.
+5305.86 I just briefly want to mention a paper
+5307.45 that was published by my good friend
+5308.77 and phenomenal scientist and
+physicist for that matter,
+5313.07 Cris Niell who's up at the
+University of Oregon in Eugene.
+5316.63 They studied LSD light compounds
+5318.97 and discovered that
+hallucinations actually occur,
+5322.29 because portions of your
+brain become underactive.
+5326.23 The visual portions of your
+brain are under-stimulated.
+5329.05 This is probably why,
+5330.52 when people go into these cave retreats,
+5332.58 something I've never done, I
+don't think I ever will do,
+5335.22 where it's completely black,
+5336.8 pretty soon, they start hallucinating.
+5338.93 They start seeing things, even
+though there's nothing there.
+5341.91 The visual system is desperate
+5344.16 to make guesses about
+what's out in the world.
+5346.05 It's like the eager beaver of your brain.
+5347.57 It's like, what's out
+there, what's out there,
+5348.66 what's out there?
+5350.27 Even in low to no vision
+people, blind people,
+5353.86 they are, their brain is
+going to be making guesses
+5355.58 about what's out there
+in the auditory world.
+5357.21 What sounds are there? What
+touch sensations are there?
+5360.78 For sighted folks, it's going to be,
+5363.43 what's out there in terms of light?
+5364.97 Light is the dominant way.
+5366.19 Vision is the dominant way
+5367.21 that we evaluate the world around us.
+5369.27 So it turns out that hallucinations
+5371.78 are an under-activation
+of the visual system,
+5374.25 and then a compensatory, a compensation,
+5376.88 by which the visual system
+5378.01 creates activity and hallucinations.
+5381.06 So if you're in the dark long enough,
+5382.68 you start to hallucinate and see things.
+5384.71 So, that's a little note
+about hallucinations.
+5387.71 One of the things that you
+can do to improve your vision,
+5389.89 and it's also kind of fun
+5391.54 is to put a Snellen chart in your home.
+5395.0 A Snellen chart is that list of letters.
+5397.01 Or if you go to the dreaded
+Department of Motor Vehicles,
+5399.88 actually I'm up for renewal soon,
+5401.16 so I love the Department
+of Motor Vehicles.
+5403.61 The Department of Motor Vehicles,
+5404.72 they'll have you cover up an eye,
+5406.33 read the letters on the chart,
+5409.47 the letters of course
+gets smaller and smaller,
+5411.08 they're trying to figure out
+roughly what your vision is.
+5413.62 Cover up the other eye, you'll do that.
+5416.52 Some people including nerdy,
+vision scientists like me
+5419.62 have had Snellen charts in their office
+5422.04 or in their home for many years now,
+5424.3 and you can just practice,
+5425.27 and you can see how you're doing
+5426.27 sitting at a particular distance.
+5428.63 Your, this is something
+that's not often mentioned,
+5431.24 but your performance on the Snellen chart
+5433.08 will vary depending on time of day,
+5436.18 because your level of fatigue
+5438.04 and your ability to
+control that accommodation
+5439.93 and other mechanisms of
+the eye muscles will vary,
+5442.57 so you can take it as an average.
+5444.55 It's also a good thing,
+5446.43 if you're going to get your vision tested
+5448.15 for corrective lenses,
+5449.744 or maybe you're going to do laser surgery,
+5451.56 or something of that sort,
+5452.61 if you're thinking about any of that,
+5453.81 to really get it measured
+by a professional.
+5455.67 The ones that you get
+in those supermarkets,
+5457.906 or in many eyeglass stores,
+5461.03 apologies to the eyeglass stores,
+5462.26 are often wrong by an order of magnitude.
+5466.4 And then, when you start
+putting corrective lenses on
+5468.94 that are over-correcting
+or under-correcting,
+5472.41 but more often are over-correcting,
+5474.24 well, then you're essentially
+weakening the system.
+5476.22 It's like putting a prosthetic on a limb
+5477.9 that you didn't necessarily need,
+5479.76 or robot arm when you didn't need
+5482.53 the use of the robot arm.
+5483.65 Although now there's so much
+excitement about robots,
+5485.76 I think people are going
+to be doing that anyway.
+5487.67 Nonetheless, get your vision tested
+5490.09 by somebody who really understands vision,
+5492.13 like an ophthalmologist or
+a really good optometrist.
+5495.78 If you put a Snellen chart in your home,
+5498.087 you know, you can do that as
+part of your visual training.
+5501.41 Now, this might seem excessively nerdy,
+5503.41 but what is more important
+than your eyesight, right?
+5506.8 Eyesight is so vital.
+5508.05 It's right up there with
+movement and our ability to move,
+5510.73 to generate, to get up out of chairs,
+5512.41 and to walk and to run, and
+to take care of ourselves.
+5515.28 Eyesight and movement are the main ways
+5517.91 that we are able to take care of ourselves
+5520.66 and take care of others.
+5521.8 When you start having compromised eyesight
+5524.01 or compromised movement,
+people need to take care of us,
+5526.7 and we become much more challenged
+5528.73 in moving through our daily life.
+5530.36 So while it might seem nerdy
+5531.41 to have a Snellen chart in your home,
+5533.49 or to do a smooth pursuit
+exercise a couple of times a week,
+5536.56 or to get outside for a few hours a day
+5538.19 and do your reading or
+your laptop work there,
+5540.83 preserving your eyesight
+and preserving your vision
+5543.27 is one of the most life-enhancing
+5545.68 or quality of life enhancing
+things that you can do.
+5547.97 And if you're a young person,
+5549.64 and you can build some of
+this into your framework
+5552.86 of exercise or brain training,
+if you want to call it that,
+5556.33 that can be immensely beneficial
+and will really set you up
+5558.69 to have really good vision
+over a long period of time.
+5561.29 Now, of course, there are genetic factors,
+5562.98 and there are injury-related factors
+5565.33 that can compromise eyesight
+and our ability to see.
+5568.53 And, of course, the things
+I'm talking about today
+5571.64 aren't going to solve all those issues,
+5573.54 but they can have a
+tremendous, positive impact
+5577.03 if you're willing to do
+just a little bit of work,
+5578.92 and none of this is
+involving any cost, right?
+5582.71 It's just time cost.
+5584.35 So I want, I do want to talk
+about a few other things
+5586.87 that can perhaps improve vision.
+5589.4 I want to dispel a few myths about stuff
+5591.54 to take to improve vision.
+5593.57 And then, I want to just
+close by talking about
+5596.51 how we perceive time using our vision,
+5599.84 because that will nicely set the stage
+5601.49 for what we're going to
+talk about next episode.
+5604.01 So now, you understand a lot
+about the biology of vision.
+5607.58 You understand that light
+has to arrive at the retina
+5609.57 and get converted into electrical signals.
+5612.06 That process requires
+things like vitamin A,
+5616.5 a fat soluble vitamin.
+5618.56 It requires things like the carotinoids.
+5622.1 That metabolic cascade,
+the biochemical cascade,
+5626.36 is essential for vision.
+5627.85 And this is why you've been told
+5629.26 that carrots help you see better
+5630.93 'cause they're high in vitamin A.
+5633.93 There are a few simple things you can do
+5635.39 to support your vision.
+5636.87 First of all, it is true
+that eating vegetables,
+5642.34 the dark, leafy vegetables
+5643.89 and things like carrots that
+have vitamin A in abundance,
+5648.04 and eating them in
+close to their raw form,
+5651.19 so naturally occurring foods
+5653.41 that contain a lot of
+vitamin A in their raw form
+5657.38 can help support vision.
+5659.48 Now, does that mean that if you ingest
+5661.43 super physiological amounts of that stuff,
+5663.61 that it's going to make your
+vision that much better?
+5665.84 No, but you do need a
+threshold level of vitamin A
+5669.65 in order to see and in order to see well.
+5673.8 Now, there's a lot of excitement nowadays
+5676.6 about supplementation to
+help support the health
+5679.79 of the visual system.
+5680.81 And I'm somebody who's pretty open
+5683.09 to novel forms of supplementation.
+5685.21 You've probably gathered that,
+5686.25 if you've been listening
+to this podcast for awhile.
+5688.85 You have to determine what's safe,
+5690.83 and economical, and right for you,
+5693.3 what your risk tolerance is, et cetera.
+5695.71 But I want to talk about a molecule
+5698.66 that's in a lot of
+supplements to support vision,
+5701.73 and there are some really good
+data on, and that's lutein.
+5705.95 Now, the study I want to describe
+5708.75 is actually published in 2016.
+5711.34 It's from the Journal of Ophthalmology.
+5713.04 It's a good journal.
+5715.1 And the title of this paper is,
+5716.88 it might catch your attention,
+5718.41 it's "Increased macular
+pigment optical density,"
+5722.07 that just means that macula,
+5724.11 is an area of the eye for central vision,
+5726.95 for high acuity vision.
+5729.09 Pigment density there is
+good, you want pigment there.
+5732.817 "Increase macular pigment optical density
+5735.717 "and visual acuity,"
+5737.01 Visual acuity is your ability
+to see things in fine detail.
+5740.387 "Following consumption
+of a buttermilk drink
+5742.68 "containing lutein-enriched egg yolks."
+5745.71 Remember, raw foods?
+Lutein-enriched egg yolks.
+5749.2 Sounds like a Rocky movie,
+5750.44 where he would drink the raw egg yolks.
+5752.767 "A randomized double-blind
+placebo controlled trial."
+5756.2 Now, I'm not suggesting you
+go out and eat raw egg yolks.
+5759.5 There's the risk of salmonella.
+5760.63 Although, I did hear this,
+5761.77 someone correct me if I'm wrong,
+5762.82 but the salmonella is actually
+on the outside of the egg,
+5766.04 not actually in the egg
+itself, it's on the shell.
+5768.95 For reasons that relate to how
+that egg got into the world,
+5773.33 that's where the salmonella lives,
+5775.14 but I could be wrong about that.
+5777.35 But raw egg yolks are not something
+5779.75 that most people want to consume.
+5781.96 What is this lutein stuff?
+5783.28 Well, lutein is in the pathway
+that relates to vitamin A
+5787.58 and the formation of the
+OPs in the photopigment
+5792.06 that captures light in
+the back of your eye,
+5793.86 literally absorbs light
+pigment in your eye,
+5797.5 and converts that into electrical signals,
+5799.35 and allows you to see.
+5800.57 And there is some evidence,
+5802.38 I spoke to our chair of ophthalmology,
+5804.36 there is some evidence through
+quality peer-reviewed studies
+5808.11 that supplementing with
+lutein can help offset
+5813.48 some of the detrimental effects
+5816.29 of age-related macular degeneration.
+5818.8 But, I want to emphasize
+but, or emphasize however,
+5824.69 only for individuals with moderate
+5827.14 to severe macular degeneration.
+5829.56 For people that have normal vision,
+5831.62 or with a, just a low-degree
+of macular degeneration,
+5836.78 these studies did not see
+a significant improvement
+5839.33 of vision from supplementing with lutein.
+5842.02 So, I'm not going to to tell you
+5843.02 to supplement with lutein or not.
+5846.18 I don't think any study
+is holy, but it does seem
+5849.48 that if you have moderate to
+severe macular degeneration,
+5852.65 talk to your physician, of course,
+5853.84 talk to your ophthalmologist,
+5855.15 I'll always say that, and
+I'll say it three times,
+5859.19 supplementing with lutein
+could perhaps support vision
+5862.99 and offset some vision loss in that case.
+5865.04 Probably also talk to your ophthalmologist
+5867.0 or consider the red light therapy
+5868.33 that I talked about earlier.
+5869.75 Whereas, if you have normal vision,
+5871.95 or a low amount of macular degeneration,
+5875.55 it does not seem, at
+least from these studies,
+5877.53 that lutein had much of an effect.
+5879.76 Now, I know, and I confess
+I'm sort of of the mind
+5883.86 that if I personally had
+age-related macular degeneration,
+5889.18 or a propensity for it in my family,
+5890.73 which fortunately I
+don't, but in that case,
+5895.56 I would think that
+supplementing with lutein,
+5897.06 provided it's safe, could
+perhaps be of benefit.
+5900.61 You might want to consider
+a low dose of that.
+5902.47 So again, I'm not pushing any of this
+5903.84 on anybody by any means,
+but you should know that,
+5907.91 under certain conditions of
+severe macular degeneration
+5910.5 or moderate macular degeneration,
+5911.86 it does seem like lutein
+can be beneficial.
+5913.43 It does not have to be
+consumed through raw egg yolks,
+5916.09 although that is the
+highest density source.
+5919.9 Cooking the egg yolk, cooking your eggs,
+5921.67 if you like your scrambled eggs dry,
+5923.49 or you like your eggs not easy
+over or whatever, not runny,
+5928.39 then you aren't going to get
+the benefits of the leucine.
+5931.03 There are other sources of leucine,
+5932.43 non-animal sources of leucine as well.
+5933.92 You can look those up on the internet.
+5937.03 Now, there are other
+compounds that have been shown
+5940.83 to perhaps be important for offsetting
+5943.06 or helping different forms of vision loss.
+5946.5 One is, I'm going to spell
+this out, I-D-E-B-E-N-O-N-E,
+5950.88 idebenone, idebenone, idebenone,
+5954.9 I can never pronounce these
+compounds, forgive me,
+5958.37 unless I've worked with them.
+5960.46 There is evidence that
+it can be beneficial
+5962.63 for Leber's congenital eye disease.
+5967.57 I would definitely go on to examine.com,
+5970.02 put in I-D-E-B-N-O-N-E.
+5972.73 And for things like
+Leber's optic neuropathies,
+5976.59 which is a degenerative
+condition of the eye,
+5979.67 whether or not people should
+5980.56 just be taking this stuff anyway
+is still an open question.
+5983.27 There aren't a lot of studies about it.
+5985.29 A lot of people that are interested
+5986.87 in taking things to support their vision
+5989.41 are taking lutein as a
+preventative measure.
+5993.38 I don't pass any judgment
+one way or the other.
+5995.4 Typically, those supplements
+5997.61 also include the zeaxanthins
+and astaxanthins.
+6002.55 Okay, the pronunciation of
+this is terrible, I'm sure,
+6005.67 but that's not too far off,
+6007.05 but basically Z-E-A-X-A-N-T-H-I-N.
+6012.83 You can see why it's hard to pronounce,
+6013.82 Z-E-A-X-A-N-T-H-I-N.
+6017.02 And the other one is
+A-S-T-A-X-A-N-T-H-I-N.
+6021.45 Both of these have been shown, excuse me,
+6024.44 both of these have been shown
+6026.18 to offset some of the disruption in vision
+6030.86 that occurs with aging.
+6032.77 What is astaxanthin?
+6035.32 It's a really interesting compound.
+6037.44 It's the red-pink pigment
+found in various seafoods.
+6041.17 So shrimp, I'm not a big seafood fan,
+6043.91 but like certain fish, like the,
+6046.06 you'll see at the fish market
+6047.23 will have that red-pink pigment.
+6049.51 And it's also in the
+feathers of flamingos,
+6051.77 please don't eat the
+feathers of flamingos,
+6054.27 and please also don't eat flamingos.
+6057.32 It's structurally similar to betacarotene,
+6059.52 so it's very pro vitamin A,
+6062.04 but it has some chemical differences,
+6063.71 which may make it safer than vitamin A.
+6065.9 Remember, vitamin A is
+a lipid-soluble vitamin,
+6069.21 so it can be stored in our
+body for long periods of time.
+6072.72 What is the deal with this astaxanthin?
+6075.36 You know, what are its drawbacks?
+6076.49 Well, we can go to our
+ever favorite examine.com.
+6080.79 What does it do?
+6081.623 Well, it has a number
+of different effects,
+6083.43 a huge number in fact, but it
+does seem to notably increase,
+6087.83 it's now been shown in three studies,
+6089.63 the antioxidant enzyme profile.
+6092.85 It has a number of different effects,
+6094.87 but the most notable for
+sake of this episode,
+6096.82 is the one on ocular blood flow.
+6099.17 It does seem to increase the
+amount of ocular blood flow,
+6101.93 so the blood supply to the eyes,
+6103.72 so that makes it an interesting compound.
+6106.12 It has a number of other effects.
+6107.93 For whatever reason, it
+also has a notable effect,
+6111.8 several studies have shown
+this, on fertility in males.
+6115.61 So it seems to at least
+double the pregnancy rate
+6119.64 when men take astaxanthin
+6124.04 and works as, in particular, it seems here
+6126.92 in men that were previously infertile.
+6128.64 So, I don't know if that has something
+6131.05 to do with the blood flow
+to the eyes, probably not.
+6133.15 It probably has something to do
+6134.21 with something unrelated to the eyes.
+6136.67 Nonetheless, that's an
+effect of this molecule.
+6139.14 It's also been shown to
+have positive effects
+6141.84 on things like skin
+elasticity, skin moisture,
+6144.31 skin quality, et cetera,
+6145.84 probably due to its effects on blood flow.
+6148.79 So lutein, astaxanthin,
+A-S-T-A-X-A-N-T-H-I-N,
+6154.44 and for people who have concerns
+6157.37 about Leber's optic neuropathies,
+6159.43 which is going to be a small
+percentage of people out there,
+6161.76 but that is a pretty severe condition,
+6164.11 there are supplements that
+are available out there.
+6167.0 I do encourage you, as always,
+6168.24 to talk to your ophthalmologist
+and physician about them.
+6171.63 And I will say that there
+are a number of people
+6173.65 that take lutein and some
+of these other things
+6176.17 as a precautionary measure, in
+order to bolster their health
+6179.27 in the same way that some people
+take vitamins and minerals
+6181.57 to bolster their health,
+6182.41 and some people are
+very health, excuse me,
+6184.507 and some people are very averse
+6185.91 to taking vitamins and minerals,
+6187.13 'cause they feel like
+they can get all that
+6188.67 from healthy, whole foods.
+6190.11 And of course, you can get
+these things from whole foods.
+6193.87 The question is whether
+or not you can get them
+6195.21 in concentrations that are sufficient.
+6197.32 I do think that in the years to come,
+6199.25 we are going to see more about lutein.
+6202.31 I think we are going to see more
+6204.27 about some of these other
+compounds like astaxanthin,
+6208.39 and hopefully by then I'll
+be able to pronounce it.
+6210.81 But, at present, these
+things are more or less
+6214.19 in the kind of experimental
+or self-experimental phase.
+6216.94 There are some good double-blind
+placebo controlled studies,
+6219.25 like the egg yolk buttermilk
+study of all things
+6221.89 published in really good journals.
+6223.53 Journal of Ophthalmology,
+6224.8 Journal of Investigative
+Ophthalmology and Vision Sciences,
+6228.79 these are good journals.
+6230.44 These are journals are
+peer-reviewed by experts.
+6233.41 The study that I mentioned
+earlier about keeping rooms dark
+6237.96 that was also published
+in an excellent journal,
+6239.91 I think it was JAMA.
+6240.93 I'll go back and look, it's
+not on my screen any longer,
+6243.26 but very easy to find,
+6244.88 and there been some
+follow-up studies as well
+6246.47 from the University of Pennsylvania
+and other universities.
+6249.65 So everything I've talked about today
+6251.6 relates to studies that were done
+6253.85 and published in quality,
+peer-reviewed journals.
+6255.98 That doesn't necessarily
+mean you want to run out
+6257.84 and start taking this
+stuff that I've described,
+6259.98 or even doing the
+protocols I've described,
+6261.68 I've given you an array, a
+palette, a buffet if you will,
+6264.67 of things that you could
+do to try and enhance
+6266.76 or support your vision.
+6268.42 Depending on how good your vision is,
+6270.1 your family history of
+vision and vision loss,
+6273.33 your occupational hazards.
+6275.05 You know, people that
+work with metal filings
+6278.09 that are flying out of machines
+6279.63 are going to have a
+higher degree of vision,
+6283.9 you know, risk to their visual system
+6285.55 than well, people who just do office work.
+6287.11 Although, if you're doing
+a lot of office work,
+6289.0 chances are you're not getting
+a lot of long-view vision.
+6291.69 Your accommodation mechanisms
+6293.01 are going to start to suffer over time.
+6294.53 I think we can reliably predict that.
+6296.69 So I've tried to give you an
+array of behavioral tools,
+6299.57 and we did touch upon some
+supplementation tools.
+6303.09 I'd be remiss if I didn't say that,
+6304.88 because blood flow is so critical
+6307.19 for the neurons of the eye,
+6308.15 remember, these are the most
+metabolically active cells
+6310.15 in your entire body, the
+cells within your retina,
+6312.8 because blood flow is required to get them
+6314.67 the energy and nutrients they need,
+6316.28 having a healthy
+cardiovascular system, right,
+6319.41 doing endurance work,
+6320.45 doing strength training work regularly,
+6323.14 is going to support your
+eyes, and your brain,
+6325.587 and your vision.
+6326.42 It's indirect, but it's essential, right?
+6328.9 It's necessary, but it's
+not going to be sufficient.
+6331.77 You're going to have to do other things
+6333.15 to support your eyesight, as well.
+6334.89 But having a healthy
+cardiovascular system,
+6336.75 because it's going to deliver
+blood and oxygen and nutrients
+6340.15 to this incredible apparati
+on the front of your face,
+6344.4 these two pieces of brain,
+6345.94 is going to support your
+overall brain health
+6348.46 and vision over time.
+6350.13 So early in the podcast,
+6351.27 I talked about how the optimal window
+6353.06 for learning is 90 minutes.
+6354.72 That's the so called
+ultradian cycle for learning.
+6357.47 That's why we had all our
+episodes to about 90 minutes.
+6359.51 They're now starting to extend
+6360.88 into the hour and 50
+minute and two hour mark.
+6363.71 That simply reflects my
+enthusiasm and excitement
+6366.09 about these topics and
+my desire to give you
+6367.75 as much information as I
+possibly can in each episode.
+6371.02 Please remember you don't have to listen
+6372.42 to the whole episode all at once.
+6374.1 Everything is timestamped.
+6375.2 Everything is captioned
+in English and Spanish.
+6377.98 The captions take a few days on YouTube.
+6380.25 We apologize for that,
+6381.13 but in order to have them done correctly,
+6383.19 it takes a few days after it's posted.
+6385.93 So if you need those captions,
+6388.0 please check back maybe 24 or 48 hours
+6391.42 after the episodes are released.
+6393.46 If you're enjoying this
+podcast and the information,
+6396.06 if you're finding it beneficial,
+6397.52 there are a couple of
+things that you can do
+6398.46 that are totally zero cost that
+really help us and help you
+6401.87 get this information going forward.
+6404.3 One is, if you don't already
+subscribe on YouTube,
+6406.78 please do subscribe.
+6408.44 We release episodes every Monday,
+6409.84 and hopefully soon more often than that,
+6411.55 shorter episodes as well.
+6413.22 But every Monday we release an
+episode, please do subscribe.
+6416.81 If you don't already subscribe
+on Apple and Spotify,
+6419.27 that's very beneficial, please do that.
+6421.75 That helps us as well.
+6423.04 If you could give us a
+five-star review on Apple,
+6424.95 if you feel that that's what we deserve,
+6426.8 and Apple also gives you the opportunity
+6428.72 to give us comments,
+feedback about the episodes.
+6431.68 If you have suggestions about episodes,
+6433.7 feedback of any kind,
+6435.69 please put it in the
+comment section on YouTube.
+6439.15 Routinely throughout the week,
+6440.38 after the release of each episode,
+6441.86 I cover content in shorter format
+6443.61 and in more depth on
+Instagram @hubermanlab.
+6447.27 Every episode is also
+indexed and searchable
+6451.89 in the search function on
+our website hubermanlab.com.
+6454.85 That's also where we post
+links to various studies
+6457.85 and downloadable protocols, all zero cost.
+6460.66 And as I mentioned, you can
+search for different topics,
+6462.8 and it will bring you to
+the particular episodes
+6465.23 that contain the
+information on those topics.
+6468.04 If you'd like to support us on Patreon,
+6470.52 we have a Patreon account, it's
+patreon.com/andrewhuberman.
+6474.81 There you can support us
+at any level that you like.
+6477.43 As well, if you'd like to support us,
+6479.58 please check out our sponsors.
+6481.06 The sponsors that we discussed
+6482.22 at the beginning of the podcast
+6483.61 are a vital way to keep the information
+6485.65 being distributed at
+zero cost to everybody.
+6489.07 We only work with sponsors
+6490.51 that we really love their products
+6492.63 and that we really respect the people
+6494.05 that we're working with there.
+6495.56 And of course, there's
+no obligation to purchase
+6498.38 or to even check out those sponsors,
+6499.97 but if you're in a position to do so,
+6501.33 that really does help us.
+6503.07 Routinely throughout the podcast,
+we talk about supplements.
+6505.56 There are a lot of supplement companies
+6506.81 and sources of supplements out there.
+6508.97 The one that we work with
+6509.803 and that we partnered with
+is Thorne, T-H-O-R-N-E,
+6513.21 because Thorne has the
+highest levels of stringency,
+6515.38 in terms of what they say
+is in their supplements
+6518.32 is actually in their supplements,
+6519.43 because it's independently
+tested and verified.
+6521.28 As well as the amounts that
+they list on the bottles
+6524.23 actually are matched by what's
+in the capsules and tablets.
+6527.65 That's a serious problem
+in the supplement industry,
+6529.7 and Thorne deals with that problem
+6531.51 by being very truthful and very accurate
+6533.76 about what's in their supplements
+6535.25 and how much of those things are in there.
+6536.84 If you want to see the
+supplements that I take,
+6538.7 you can go to Thorne,
+thorne.com/u/huberman.
+6544.38 There, you'll see all the
+supplements that I take.
+6546.63 You can get 20% off any
+of those supplements,
+6548.86 as well as 20% off any
+of the other supplements
+6551.35 that Thorne happens to make,
+6553.08 if you happen to navigate
+into their website
+6554.81 through that portal,
+thorne.com/u/huberman.
+6559.9 And last but not least,
+6561.3 I want to thank you for your
+time and attention today.
+6563.42 Your willingness to learn about
+vision and the visual system
+6565.97 and the various things that you can do
+6567.6 to help support the health and functioning
+6569.41 of your visual system.
+6570.83 And of course, I want to thank you
+6571.96 for your interest in science.
+6572.973 [upbeat music]

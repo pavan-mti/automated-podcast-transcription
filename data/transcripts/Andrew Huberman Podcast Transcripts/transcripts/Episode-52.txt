@@ -1,0 +1,4614 @@
+0.36 - Welcome to The Huberman Lab Podcast,
+1.92 where we discuss science
+and science-based tools
+4.93 for everyday life.
+5.963 [upbeat music]
+9.33 I'm Andrew Huberman,
+10.28 and I'm a professor of
+neurobiology and ophthalmology
+13.06 at Stanford School of Medicine.
+14.92 Today my guest is Dr. Justin Sonnenburg.
+17.117 Dr. Sonnenburg is a
+professor of microbiology
+19.91 and immunology at Stanford
+School of Medicine,
+22.8 and one of the world's leading experts
+24.54 on the gut microbiome.
+26.43 The gut microbiome is the
+existence of trillions
+29.88 of little microorganisms
+throughout your gut,
+32.74 and by your gut, I don't
+just mean your stomach.
+35.26 I mean your entire digestive tract.
+37.61 Turns out we also have
+a microbiome that exists
+40.63 in our nose, in any other
+location in which our body
+44.37 interfaces with the outside world.
+46.72 In fact, there's a
+microbiome on your skin.
+49.41 And while it might seem kind of intrusive,
+51.05 or kind of disgusting to have
+52.69 all these little microorganisms,
+54.17 they can be immensely
+beneficial for our health,
+57.46 meaning our hormonal
+health, our brain health
+60.12 and our immune system function.
+61.87 Dr. Sonnenburg teaches us
+about the gut microbiome,
+64.48 how it's organized spatially,
+65.99 meaning which microbiota live where.
+67.81 He teaches us about
+these incredible things
+69.81 called crypts and niches,
+71.41 which are little caves
+within our digestive tract
+74.26 that certain microbiota take residence.
+76.169 And at that premier real estate,
+78.44 they're able to do incredible
+things to support our health.
+80.87 He also talks about the
+things that we can all do
+83.07 to support our microbiome
+in order for our microbiome
+86.264 to support our brain and body health.
+89.42 Dr. Sonnenburg co-runs his
+laboratory with his spouse,
+92.83 Dr. Erica Sonnenburg, and
+together they've also written
+95.92 a terrific and highly
+informative book called,
+97.937 "The Good Gut: Taking
+Control of your Weight,
+100.15 your Mood, and your Long Term Health."
+102.23 Even though that book was
+written a few years back,
+104.19 the information still
+holds up very nicely.
+106.76 And today he also builds
+on that information,
+109.6 informing us about recent
+studies, that for instance,
+112.36 point to the important
+role of fermented foods,
+115.3 and the role of fiber in supporting
+117.25 a healthy gut microbiome.
+119.2 So if you heard about the gut microbiome,
+121.29 or even if you haven't,
+122.37 today you're going to hear about it
+123.73 from one of the world's leading experts.
+126.17 He makes it immensely
+clear as to what it is,
+128.97 how it functions, and how to support it
+131.23 for your brain and body health.
+133.14 During today's discussion,
+134.32 we don't just talk about nutrition.
+136.15 We also talk about the impact
+137.67 of behaviors and the microbiome.
+140.55 Behaviors such as who
+you touch, who you kiss,
+143.13 who you hug, whether or
+not you interact with,
+145.25 or avoid animals,
+146.95 whether or not those
+animals belong to you,
+148.95 or whether or not they
+belong to somebody else.
+150.64 If all that sounds a little bit bizarre,
+152.173 you'll soon understand
+that your microbiome
+155.33 is constantly being modified
+by the behavioral interactions,
+158.92 the nutritional interactions,
+160.37 and indeed your mood
+and internal reactions
+163.88 to the outside world.
+165.109 This is an incredible
+system. Everyone has one.
+168.96 Everyone should know how it works,
+170.25 and everyone should
+know how to optimize it.
+172.15 And today you're going to learn
+173.72 all of that from Dr. Sonnenburg.
+175.76 I'm pleased to announce that I'm hosting
+177.17 two live events in May, 2022.
+180.04 The first live event will take place
+181.58 in Seattle, Washington on May 17th.
+184.4 The second event will take place
+185.72 in Portland, Oregon on May 18th.
+188.66 Both are part of a series called
+"The Brain-Body Contract."
+191.88 For this series, I will discuss science,
+194.01 so I will discuss the mechanistic science
+195.68 around things like sleep
+and focus and motivation,
+198.41 physical performance, mental
+health, physical health,
+200.88 a large number of topics that I believe
+202.74 many people are interested in,
+204.0 and that certainly are important
+205.56 for our health and
+wellbeing, and performance.
+208.05 In addition, I will of
+course describe tools
+210.34 and actionable items, most
+of which I have not discussed
+213.62 on The Huberman Lab
+Podcast, or anywhere else.
+216.097 Pre-sale tickets for these two events
+217.83 go live Tuesday, Match 8th
+at 10:00 a.m. Pacific Time.
+221.26 We've made these tickets
+exclusively available
+223.43 to the listeners of The
+Huberman Lab Podcast.
+225.25 So they are password protected.
+227.15 To find them, you can go
+to hubermanlab.com/tour
+230.63 and use the code Huberman.
+232.41 Before we begin, I'd like to
+emphasize that this podcast
+235.06 is separate from my teaching
+and research roles at Stanford.
+237.84 It is however, part of my desire effort
+239.79 to bring zero cost to consumer
+information about science
+242.4 and science-related tools
+to the general public.
+245.1 In keeping with that theme,
+246.18 I'd like to thank the
+sponsors of today's podcast.
+248.95 Our first sponsor is Athletic
+Greens, now called AG1.
+253.1 I've been taking AG1 since 2012,
+255.48 so I'm delighted that they're
+sponsoring the podcast.
+257.92 The reason I started taking AG1,
+259.207 and the reason still take
+AG1 once or twice a day
+262.49 is that it meets all my basic,
+264.31 foundational supplementation needs.
+266.44 What I mean by that is
+it covers any vitamin
+269.44 and nutritional deficiencies
+that I might have,
+272.29 'cause I'm trying to be good
+about my nutrition and diet,
+274.59 but I don't always manage to
+get everything that I need,
+277.5 and I'm sure that there
+are a lot of gaps in there.
+279.8 So it covers those gaps.
+280.93 It also has probiotics,
+and as you'll learn
+284.23 in today's episode, and
+I've talked about it
+285.84 on previous episodes,
+287.96 the probiotics are essential
+for a healthy gut microbiome.
+291.86 We need probiotics in order
+for our microbiome to thrive,
+295.46 and our microbiome supports
+things like gut-brain health,
+297.94 indeed things like
+metabolism, mood, hunger.
+300.76 It also that supports the immune system.
+302.79 As you'll learn today,
+304.45 your gut microbiome actually
+manufactures neurotransmitters,
+307.63 the very chemicals that impact
+mood and brain function.
+310.43 Athletic Greens primes your system
+312.04 for a healthy gut microbiome,
+314.23 something that can be achieved
+315.46 with food and lifestyle factors,
+317.12 but is often hard to achieve
+318.72 with just food and lifestyle factors.
+320.73 If you'd like to try out Athletic Greens,
+322.19 you can go to athleticgreens.com/huberman
+325.05 to claim a special offer.
+326.4 They give you five free travel packs
+327.483 that make it very easy
+to mix up Athletic Greens
+329.79 while you're on the road.
+331.21 And a year's supply of vitamin D3 K2.
+333.75 vitamin D3 has many important
+biological functions
+336.62 that support your media
+and long term health,
+338.39 and K2 as well is very
+important for things
+340.76 like cardiovascular health,
+341.887 calcium regulation and so on.
+344.02 Again, if you go to
+athleticgreens.com/huberman,
+346.84 you can claim the special offer
+348.03 of the five free travel packs
+349.56 and the vitamin D3 K2.
+351.41 Today's episode is also
+brought to us by ROKA.
+353.764 ROKA makes eyeglasses and
+sunglasses that I believe
+356.54 are of the very highest quality.
+358.69 I've spent my lifetime working
+360.12 on the biology of the visual system,
+362.06 and I can tell you that the
+biology of the visual system
+363.99 has a lot of mechanisms in there.
+366.24 So that for instance, if you
+move from a bright environment
+368.49 to a dim environment, your
+visual system needs to adapt.
+371.77 One issue with a lot of
+sunglasses and eyeglasses
+373.93 is you move from one
+environment to the next,
+375.95 you have to take sunglasses
+or eyeglasses off,
+377.86 you get a glare or you have to adjust
+379.72 because of the way that
+the lenses are designed.
+381.73 With ROKA, they've taken the
+biology of the visual system
+384.16 into account, and so you never
+have to take them off and on
+386.55 in order to move from one
+environment to the next.
+388.86 They are also designed for
+movement and athletics,
+391.64 or you can wear them for
+just things like work,
+394.01 and going out to dinner and so forth.
+395.27 They have a terrific aesthetic,
+396.33 they're extremely lightweight.
+397.53 In fact, I often forget that
+they're even on my face.
+400.01 I wear sunglasses when it's very bright
+401.63 and when I'm driving into
+sunlight, I wear readers at night.
+404.11 I hardly ever remember
+that they're on my face.
+406.973 They also won't slip off your face
+408.71 if you use them when running or cycling.
+410.738 The company was developed by two
+412.34 all-American swimmers from Stanford.
+414.0 So everything about these
+sunglasses and eyeglasses
+415.948 was developed with performance in mind,
+418.42 in a lot of different
+situations and scenarios.
+421.09 If you'd like to try ROKA,
+422.11 you can go to roka.com,
+that's R-O-K-A .com,
+425.16 and enter the code huberman to save 20%
+427.31 off your first order.
+428.32 Again, that's ROKA, roka.com,
+430.5 and enter the code huberman at checkout.
+432.64 Today's episode is also
+brought to us by Helix Sleep.
+435.28 Helix makes mattresses and pillows
+437.254 that are designed for your
+particular sleep needs.
+440.53 What I mean by that is you
+can go to the Helix site,
+442.85 you can take a very brief
+two or three minute quiz,
+445.368 ask questions like do
+you sleep on your side,
+447.67 your back, your stomach,
+448.72 do you tend to run hot or
+cold through the night?
+450.23 Maybe you don't know the
+answers to those questions.
+451.88 And then they match you to a mattress
+454.63 that's designed for your
+particular sleep needs.
+457.63 I matched to the Dusk, D-U-S-K, mattress.
+460.46 I like a mattress that's
+not too firm, not too soft.
+462.68 I tend to sleep on my side,
+463.918 or sort of in the
+crawling soldier position.
+465.61 Seems to be the the most
+common position I sleep in.
+468.52 And that really works
+terrifically well for me.
+470.4 But you need to take the quiz
+471.68 to see which mattress works best for you.
+474.081 So if you're interested in
+upgrading your mattress,
+476.3 go to helixsleep.com/huberman,
+478.41 take the two quiz and they'll match you
+479.89 to a customized mattress.
+481.4 You can figure out how to
+get your optimal sleep,
+483.41 which was talked about on this podcast
+485.36 so many times before.
+486.29 Sleep is the foundation of all
+mental and physical health,
+488.871 and performance in any aspect of life.
+491.59 Sleep is key, and the
+mattress you sleep on is key
+494.18 to the sleep you get.
+495.58 After matching you do
+a customized mattress,
+497.63 you can get up to $200
+off any mattress order
+500.57 and two free pillows.
+501.98 Again, if you're interested,
+502.813 you can go to heli sleep.com/huberman
+to get up to $200 off
+506.81 and two free pillows.
+508.13 And now for my discussion
+with Dr. Justin Sonnenburg.
+511.7 Justin, thanks so much for being here.
+513.059 - Great to be here.
+- Yeah.
+515.2 I am a true novice when it
+comes to the microbiome,
+519.83 so I'd like to start off
+with a really basic question,
+523.005 which is, what is the microbiome?
+525.98 I imagine lots of little
+bugs running around in my gut
+530.25 and I don't quite like the image of that,
+532.98 but I'm aware that our
+microbiome can be good for us,
+537.04 but we can also have an
+unhealthy microbiome.
+539.83 So if I were to look at
+the microbiome at the scale
+543.35 that I could see the meaningful things,
+545.0 what would it look like, and
+what's going on in there?
+548.1 - Yeah, I mean essentially you're correct.
+551.74 I mean, we have all of
+these little microorganisms
+554.09 running around in our gut.
+555.17 I think, just to start off
+with clarifying terminology,
+560.124 microbiome and microbiota
+quite often are referred to,
+563.675 or used to refer to our microbial
+community interchangeably,
+567.13 and I'll probably switch
+between those two terms today.
+569.91 The other important thing to
+realize is that these microbes
+572.35 are not just in our gut, but
+they're all over our body.
+576.39 They're in our nose,
+they're in our mouths,
+578.71 they're on our skin.
+580.05 And so basically anywhere that
+the environment can get to
+584.09 in our body, which includes
+inside our digestive tract,
+587.31 of course, is colonized with microbes.
+590.05 And the vast majority of these
+593.325 are in our distal gut and in our colon,
+596.3 and so this is the gut
+microbiota or gut microbiome.
+599.57 And the density of this
+community is astounding.
+604.38 I mean, it really is.
+606.86 If you get down to the
+scale of being able to see
+610.85 individual microbes, you start
+off with a zoomed out view
+615.83 and you see something that
+looks like fecal material
+618.41 that digest inside the
+gut, and you zoom in,
+622.45 and you start to get to
+the microscopic level
+624.88 and see the microbes.
+625.964 They are just packed
+side to side, end to end.
+629.38 It's a super dense bacterial community,
+632.12 almost like a biofilm,
+634.247 something that's just made up of microbes,
+636.66 to the point where it's
+thought that around 30%
+640.28 of fecal matter is microbes, 30 to 50%.
+643.89 So it's an incredibly
+dense microbial community,
+647.99 we're talking of trillions
+of microbial cells.
+652.52 And all those microbial cells,
+654.61 if you start to get to know
+them, and see who they are,
+658.804 break out in the gut probably to hundreds,
+662.14 to 1,000 species, depending upon
+664.87 how you define microbial species.
+668.02 And then most of these are bacteria,
+671.068 but there are a lot of
+other life forms there.
+674.06 There are archaea, which
+are little microbes
+677.61 that are bacterial-like,
+but they're different.
+680.98 There are eukaryotes.
+683.26 So we commonly think of
+eukaryotes in the gut
+687.2 as something like a parasite.
+690.98 But there are eukaryotes,
+693.23 there are fungi, there
+are also little viruses.
+696.87 There are these bacteriophages
+698.79 that infect bacterial cells.
+702.39 And those actually outnumber
+the bacteria, like 10 to one.
+706.01 So they're just everywhere
+there, they kill bacteria.
+710.37 And so there's these really interesting
+712.17 predator/prey interactions.
+714.0 But overall, it's just this really dense,
+716.96 complex, dynamic ecosystem.
+719.9 And so, we're talking about
+the human as a single species,
+725.23 but we're also thinking of
+the human as this complex,
+727.55 integrated ecosystem of hundreds
+to thousands of species,
+731.68 interacting concert to do
+all the fantastic things
+735.02 that we know happen in the human body.
+737.11 - Amazing. So we've got a lot of cargo.
+739.94 Or maybe we're the cargo.
+- Yeah.
+741.16 - Who knows?
+- Yeah, I mean,
+742.82 there have been people
+that have likened humans
+745.53 to just a really elaborate
+culturing flask for microbes,
+748.94 and that we've actually been designed
+752.09 over the course of evolution,
+753.676 designed to just efficiently propagate
+758.64 this microbial culture
+from person to person,
+761.35 from generation to generation.
+763.03 So it's a different way of
+thinking of the human body.
+765.18 - Interesting.
+767.39 I believe that our pH or the
+pH of our digestive system
+773.56 varies as you descend,
+774.94 as you go from mouth
+to throat and stomach.
+778.5 And you said that most of the microbiota
+780.86 are in the distal colon.
+784.44 Are there distinct forms
+of microbiota all along
+786.8 the length of the digestive tract,
+788.79 and within these other interfaces
+with the outside world?
+792.67 - Totally. Yeah.
+793.503 So it starts with our
+teeth and in our mouth,
+795.86 and saliva, there's a oral microbiota.
+799.63 These microbial species are very different
+802.31 than the ones that you find
+in the digestive tract.
+804.67 They're usually built to
+deal with oxygen very well.
+810.243 They're in an area that is
+exposed to a lot of oxygen,
+813.65 they of course see different
+nutrients than, for instance,
+816.19 the colonic bacteria would see.
+818.11 And they grow quite often
+in mats that live on teeth.
+822.71 So they're very structured in terms of...
+827.305 And not moving around a lot.
+829.87 So they're very, fairly stationary.
+832.22 As you move down the digestive tract,
+833.83 there are microbes in
+esophagus in our stomach,
+836.23 but those communities are not very dense,
+839.6 and actually not very well studied.
+841.19 We know of a very...
+843.46 There's a very famous stomach bacteria
+845.44 known as Helicobacter pylori,
+847.142 which can cause stomach ulcers
+and cause gastric cancer
+850.94 in some less frequent situations.
+855.43 But this is
+859.195 a very different set of
+microbes, they have to be adapted
+863.73 to a different environment,
+in the stomach especially,
+865.69 incredibly acidic environment.
+867.91 But also very different in terms
+869.25 of their ability to interact
+with other microbes,
+872.13 just because the
+communities are less dense,
+874.06 they're less dynamic, there's
+less nutrients that stay there
+877.86 and passage through the community.
+880.0 So a lot of times those communities
+882.17 are reliant upon nutrients
+derived from the host,
+885.18 as opposed to nutrients
+derived from our diet.
+887.49 As you move down out of the stomach,
+889.02 into the small intestine,
+890.17 you start to see these communities,
+892.21 which are the ones that are
+becoming more well-studied.
+895.355 Small intestine is still
+a bit of a black box,
+898.18 just because it's hard to access.
+899.77 And so there's some really
+cool technologies out there
+901.94 for using, for instance,
+capsules to do sampling
+905.597 as the capsule passes
+through the digestive tract,
+909.07 so that we have a better
+idea of what's going on
+910.82 in the small intestine.
+912.08 And then you get to the colon,
+and this is the community
+915.44 that's just so incredibly
+densely packed, doing a ton of...
+920.27 There's a ton of metabolic
+activity happening there,
+922.995 and a bunch of interaction with the host.
+926.35 And that's the community
+that's really the best studied.
+931.44 Part of the reason for
+that is because stool
+934.56 is so easy to obtain
+compared to, for instance,
+937.06 something in the stomach
+or small intestine.
+939.17 And that stool is fairly
+representative, we know,
+942.5 from studies that have been done
+943.87 using colonoscopies and so forth.
+945.64 Stool is fairly representative
+947.24 of what's happening in the colon.
+949.12 So dense, super exciting community,
+951.69 but also the best studied,
+952.86 just because it's the easiest to access
+955.347 in the lower digestive tract.
+957.38 - Very interesting.
+959.93 I imagine these microbiota
+have to get in there
+962.29 at some point, are
+microbiota seen in newborns?
+965.948 In other words, where do they come from?
+968.5 And dare I ask, what direction
+do they enter the body?
+972.16 Or is it from multiple directions?
+974.79 - Yeah, yeah. Great question.
+976.29 So one of the burning questions
+that we can come back to
+978.87 at the end of this, is where
+does our microbiota come from?
+981.12 Because it is this kind of
+983.49 existential question in the field,
+985.22 like where is this
+community assembling from?
+988.42 And the reason that it's
+such an interesting question
+990.97 is that, a fetus, when it's in the womb,
+995.46 that's actually a sterile environment.
+997.84 There have been some
+studies that have looked
+999.53 at whether there are microbes in the womb,
+1001.91 and microbes colonizing
+the fetus at that point.
+1005.165 There's some debate about this,
+1006.68 but overall it looks like that's not a big
+1008.78 part of the equation of
+microbial colonization.
+1011.47 And so each time I'm an infant is born,
+1014.93 it's this new ecosystem.
+1016.8 It's like an island
+rising up out of the ocean
+1018.9 that has no species on it,
+1020.26 and suddenly there's this land rush
+1021.778 for this open territory.
+1024.93 And so we know that infants go through
+1029.53 this really complex process
+of microbiota assembly
+1033.37 over the first days, weeks,
+months, years of life.
+1036.47 And then you get into
+switching to solid food,
+1040.76 two to three years of age.
+1042.88 There are some changes in
+childhood, adolescence,
+1046.17 working into adulthood.
+1047.59 But that first zero to one year
+1052.58 is a super dynamic time
+with really kind of
+1056.53 stereotypical developmental changes
+1058.49 in the gut microbiota, that
+appear to have the possibility
+1062.25 of going wrong and causing
+problems for infants
+1066.54 in some instances.
+1068.02 But if you step away
+from that extreme side
+1071.73 of things going wrong,
+1073.15 there also were a lot of
+different trajectories
+1076.24 that developmental process can take,
+1077.87 because our microbiota is
+so malleable and so plastic,
+1081.98 and those trajectories can be affected
+1083.84 by all sorts of factors in early life.
+1086.4 So an example is whether an infant is born
+1089.17 by C-section or born vaginally.
+1091.92 We know from beautiful work
+that's been done in the field
+1095.03 that infants that are born by C-section
+1098.26 actually have a gut microbiota that looks
+1102.57 more like human skin than it does
+1106.0 like either the birth canal,
+the vagina microbiota,
+1110.69 or the mother's stool microbiota.
+1115.28 Babies that are born
+through the birth canal
+1117.22 have initial colonization
+of vaginal microbes
+1120.98 and of stool microbes from their mother.
+1123.22 And so just these first days,
+1124.85 whether you're born by C-section
+1126.2 or through natural childbirth,
+1128.53 your gut microbiota looks very different.
+1131.09 And then compound on top of that,
+1133.1 whether you're breast fed or formula fed,
+1135.47 whether your family has a
+pet or doesn't have a pet,
+1138.49 whether you're exposed to antibiotics,
+1140.617 there are all these factors that really
+1143.17 can change that developmental process,
+1145.75 and really change your microbial identity,
+1147.82 eventually in life.
+1149.36 The reason that the field is
+paying really close attention
+1154.75 to this and studying this right now
+1156.25 is because we know from animal studies,
+1160.486 that depending upon the microbes
+that you get early in life,
+1165.68 you can send the immune
+system or metabolism
+1170.24 of an organism or other
+parts of their biology
+1172.652 in totally different
+developmental trajectories.
+1175.58 So what microbes you're
+colonized with early in life
+1179.14 can really change your biology,
+1180.327 and we can come back to that later, but-
+1181.97 - Yeah, we should.
+1183.83 - Getting back to that original question
+1185.26 of where do your microbes come from,
+1187.42 you'd think because you're born
+1189.3 through your mother's birth canal,
+1190.84 or exposed to her skin microbes,
+1192.57 that a lot of your microbes
+would come from your mother,
+1195.75 but it actually turns out that,
+1197.285 we can certainly detect that signal,
+1199.45 we certainly see maternal
+microbes in the infant,
+1202.73 but there are a lot of
+microbes that are coming
+1204.83 from other places, surfaces, other people,
+1208.64 perhaps other caregivers, but
+perhaps strangers as well.
+1212.25 So we acquire our microbes
+from a variety of sources.
+1216.224 The first ones are from our mom,
+1218.51 or from our caregivers from the hospital,
+1220.64 but then we add to that tremendously
+1222.79 over the first year or so of life.
+1224.68 - Incredible, you even said pets.
+1227.06 So if there's a dog in the
+home or a parakeet in the home,
+1233.33 clearly they have a microbiome also,
+1235.08 and potentially the child
+is deriving microbiota
+1238.28 species from those pets, correct?
+1240.67 - Exactly, yeah.
+1241.503 And so the best studies
+that have been done
+1246.14 have just looked at pets in
+the household as a factor,
+1248.88 and whether that changes
+the group of infants
+1252.84 that have a pet to look slightly different
+1255.0 than the group of infants
+that don't have a pet.
+1257.51 And then the question is,
+1258.61 what is the pet doing to
+change those microbes?
+1261.27 And some of it is probably
+actually contributing,
+1263.92 direct members of the microbiota.
+1265.503 Actually, I have a dog,
+that dog occasionally
+1270.39 will lick my mouth without
+me paying attention,
+1273.58 and that's probably introducing microbes.
+1275.675 We also know that pets
+are down in the dirt,
+1280.19 they're outside, they're being exposed
+1283.75 to a lot of environmental microbes.
+1285.72 And so just pets serving as a conduit
+1290.12 for a bunch of microbes
+that we wouldn't otherwise
+1293.17 come in contact with is
+a possibility as well.
+1296.31 - Well, we will return to pets,
+and in particular your dog,
+1299.862 an amazing dog, by the way.
+1301.31 I met your dog just the other day,
+1303.25 and I had to force myself,
+1304.48 I had to pry myself away from...
+1306.227 It's a Havanese, right?
+- Havanese.
+1307.73 - [Andrew Huberman] Incredible.
+What is your dog's name?
+1308.968 - Louis. Louis Pasteur.
+1310.64 - Louis Pasteur.
+- Yeah, yeah.
+1311.86 - How appropriate.
+1313.39 Amazing dog, what a personality
+1315.15 on that dog.
+- Yeah.
+1317.836 - The issue that I think
+1319.514 a lot of people are probably wondering is,
+1322.76 what is a healthy microbiome?
+1325.015 What is it supporting?
+1327.05 We hear that you need a healthy microbiome
+1329.96 to support the immune
+system or metabolism,
+1331.9 or even the gut-brain axis.
+1334.01 How do we define a healthy,
+versus a unhealthy microbiome?
+1337.72 Some people might know
+the unhealthy microbiome
+1339.85 is dysbiosis is the word that
+I encounter in the literature.
+1343.66 But given that there's so
+many species of microbiota,
+1346.213 and given that I think we
+probably each have a signature
+1349.4 pattern of microbiota,
+1350.854 how do we define healthy
+versus unhealthy microbiota?
+1354.04 Is there a test for this?
+1356.63 Later we'll talk about technologies
+for testing microbiota.
+1358.697 There are a lot of companies now,
+1361.05 a lot of people sending
+stool samples in the mail.
+1364.38 Never look at the Postal
+Service the same way again,
+1366.18 but it's out there and
+it's getting analyzed.
+1369.38 So how should I think about this?
+1370.81 I can think about things like heart rate,
+1372.89 heart rate variability, BMI,
+all sorts of metrics of health.
+1377.96 How should I think about the microbiota?
+1379.75 How do I know if my microbiome
+is healthy or unhealthy?
+1382.1 - Yeah, it's a million
+dollar question right now
+1384.75 in the field, and there's
+a lot of different ways
+1386.641 of thinking about that, and I
+can talk about some of those.
+1388.34 But I would say that there
+are sessions at conferences,
+1393.42 there are review articles
+being commissioned.
+1395.28 There are all sorts of thought
+pieces about this right now,
+1398.28 like what is a healthy microbiota?
+1399.95 What are the features that define it?
+1402.26 And I think before diving into this,
+1405.01 the important thing to realize
+is, it's a complex topic.
+1411.227 Context matters a lot.
+1413.28 What's healthy for one
+person or one population
+1415.45 may not be healthy for
+another person or population.
+1418.76 And the microbiota is malleable.
+1423.57 It's plastic, it changes
+our human biology,
+1428.59 which I think is, how we think
+about health quite often,
+1432.72 BMI and longevity, reproductive success,
+1436.37 however you want to define it.
+1439.38 It certainly can accommodate a variety
+1443.81 of configurations of gut
+microbiota, and we don't have...
+1448.03 It's really hard to untangle
+all of the different factors
+1452.0 of what could be very healthy,
+1454.03 versus a little bit less healthy.
+1456.092 So I will say that there's
+no single answer to this,
+1458.76 but there's some really
+important considerations.
+1460.92 And perhaps the best way
+to start talking about this
+1463.66 is to go back to the inception
+1467.2 of the Human Microbiome Project,
+1468.68 which was this program that NIH started.
+1471.42 They invested a lot of money in 2008, 2009
+1474.604 for really propelling the field
+of gut microbiome research.
+1481.57 It was becoming evident at that point
+1483.81 that this was not just a
+curiosity of human biology,
+1486.37 that it was probably really
+important for our health.
+1488.61 And they had all this
+wonderful sequencing technology
+1491.64 from the Human Genome Sequencing Project,
+1494.34 and with the human genome
+completed that point,
+1496.64 they started turning that technology
+1498.17 to sequencing our gut microbes.
+1499.61 And it's important to contextualize
+1501.89 the amount of information that
+they're trying to document,
+1505.52 the collective genome of our
+gut microbes is on the order
+1509.89 of 100 to 500 times larger
+than our human genome.
+1515.04 So it's just in terms
+of the number of genes.
+1517.44 So it's just this vast number of genes,
+1520.03 and then if you start getting into
+1521.42 some of the fine variation,
+it's scales by 10 to a 100 fold.
+1524.94 So really a huge amount information
+1527.2 they're trying to document.
+1528.18 And so it was a wonderful investment,
+1531.93 and it continues to pay
+dividends to this day.
+1534.544 But one of their goals of that
+project was to try to define
+1537.78 what a healthy microbiome is,
+versus a diseased microbiome
+1541.23 in different contexts.
+1542.19 And so they started enrolling
+a bunch of healthy people
+1545.72 and a bunch of people with, for instance,
+1547.09 inflammatory bowel disease
+and other diseases.
+1549.47 And the idea was, let's
+document those microbiomes.
+1552.725 What microbes are there,
+what genes are there?
+1555.41 And then we can start to get a sense of,
+1557.05 what are the commonalities
+of the healthy people,
+1560.0 and how can that go wrong in
+these different disease states?
+1568.75 There were some answers from that,
+1570.56 but through those studies,
+1573.47 we really started to get the image
+1574.95 that there is this
+tremendous individuality
+1577.59 in the gut microbiome.
+1578.97 And so it's really hard to
+start drawing conclusions
+1586.34 after initial pass of that project,
+1588.44 of what is a healthy microbiome?
+1590.59 But the other thing that
+we started to realize
+1592.7 at the same time, there
+were studies going on
+1595.325 documenting the gut microbiome
+of traditional populations
+1599.43 of humans, hunter-gatherers,
+rural agricultural populations.
+1603.68 And those studies were really mind-blowing
+1606.89 from the perspective of all
+these people are healthy,
+1609.93 they're living very different lifestyles,
+1612.45 and their microbiome doesn't look anything
+1614.65 like a healthy American microbiome.
+1617.57 - So does that mean that the
+healthy American microbiome
+1620.81 is healthy, but only in
+the context of living
+1625.55 in the United States and
+consuming what's consumed here?
+1629.05 Or is it that there is a
+superior microbiome signature,
+1632.095 somewhere in our history
+or currently in the world?
+1634.84 - Yeah, I think that's kind
+of a big question right now.
+1639.53 I think there's a great quote
+from Dobzhansky that says,
+1644.057 "Nothing in biology makes sense,
+1645.66 except in the light of evolution."
+1647.53 And these traditional
+populations are all modern people
+1651.916 living on the planet now,
+1653.99 but their lifestyle does represent
+the closest approximation
+1659.37 to how our ancestors, early humans lived.
+1663.34 And so those microbiomes,
+1666.07 and now we know from
+sequencing of paleofeces,
+1668.92 the microbiome of these
+traditional populations
+1671.14 is more representative of the microbiome
+1675.2 that we evolved with,
+that potentially shaped
+1678.11 our human genome.
+1679.43 And so one possibility is
+that in industrialized world,
+1685.33 we have a different microbiome
+from traditional populations,
+1688.417 and that microbiome is well-adapted
+1690.5 to our current lifestyle,
+and therefore healthy
+1693.05 in the context of an
+industrialized society.
+1695.05 And there probably are
+elements of that that are true.
+1697.72 But another possibility is
+that this is a microbiome
+1700.74 that's gone off the rails,
+1701.947 that it is deteriorating in
+the face of antibiotic use,
+1706.75 and all the problems associated
+1710.55 with an industrialized diet, Western diet.
+1714.01 And that even though the
+Human Microbiome Project
+1719.19 documented the microbiome
+of healthy people,
+1722.56 healthy Americans, that what they really
+1724.87 may have been documenting
+there is a perturbed microbiota
+1728.38 that's really predisposing
+people to a variety
+1731.75 of inflammatory and metabolic diseases.
+1734.9 - It reminds me, as a neurobiologist,
+1737.779 was weaned in the landscape
+of so-called critical periods,
+1741.45 where early life environment
+very strongly shapes the brain.
+1747.07 And so many studies were
+done on animals raised
+1749.28 in traditional cages with a
+water bottle and some food,
+1751.53 maybe a few other animals
+of the same species.
+1754.2 And then people came along and said, wait,
+1756.2 normally these species in
+the wild would have things
+1758.52 like things to climb over
+and things to go through,
+1760.62 and you provide those very basic elements,
+1762.72 and all of a sudden the
+architecture of neural circuits
+1765.08 looks very different, and you realize
+1766.28 that were studying a deprived condition.
+1768.773 And earlier you actually referred to,
+1770.7 if I understood correctly,
+to critical periods
+1773.41 for gut microbiome development.
+1776.43 Is it fair to say that
+there are critical periods?
+1779.69 Meaning, if let's say my...
+1781.3 Let's aim it at me.
+1782.133 If my gut microbiome was dysbiotic,
+1786.35 it was off early in
+life, can I rescue that
+1790.26 through proper conditions and exercise?
+1792.6 Or is there some sort of fixed pattern
+1795.34 that's going to be hard
+for me to escape from?
+1797.22 - Yeah, there's a big
+field that's emerging now
+1800.88 that we refer to as kind of reprogramming
+1804.29 the gut microbiome.
+1805.33 And I think if we want
+to conceptualize humans
+1809.13 as this aggregate human microbial biology,
+1813.268 most people have heard of CRISPR,
+1815.827 and the ability to potentially
+change our human genome
+1819.13 in ways that correct genetic problems.
+1823.22 That's a wonderful technology,
+and has kind of put
+1828.1 on the table genetic
+engineering for cur disease,
+1831.007 but it's much easier to change
+gut microbes for a problem,
+1835.01 just because that community is malleable.
+1839.0 The issue that I think
+we're seeing in the field
+1843.4 is that microbiomes quite often,
+1847.13 whether they're diseased or healthy,
+1849.28 exist in stable states.
+1850.9 They kind of tend towards this
+well that has gravity to it
+1856.09 in a way, biological gravity,
+1858.04 where it's really hard to dislodge
+1860.78 that community from that state.
+1862.7 So even individuals, for
+instance, that get antibiotics.
+1866.52 You take oral antibiotics,
+1869.13 the community takes this huge hit.
+1871.12 We know that a bunch of microbes die,
+1873.059 the composition changes.
+1875.39 And that represents a
+period of vulnerability
+1878.29 where pathogens can come in and
+take over and cause disease.
+1880.98 But if that doesn't happen,
+the microbiota kind of works
+1884.68 its way back to something
+that is not exactly like,
+1887.51 but similar to the
+pre-antibiotic treatment.
+1890.695 We know with dietary perturbations,
+1893.981 quite often you'll see
+a really rapid change
+1897.04 to the gut microbiome.
+1898.33 And then it's almost like a
+memory where it snaps back
+1901.26 to something that's very
+similar to the original state,
+1904.51 even though the diet remains different.
+1906.9 And so there's this incredible,
+1908.82 what we refer to as resilience
+of the gut microbiome,
+1911.191 and resistance to change,
+1914.0 or at least resistance to
+establishing a new stable state.
+1918.04 So that doesn't mean it's hopeless
+1919.7 to change an unhealthy microbiome
+to a healthy microbiome,
+1924.19 but it does mean that we
+need to think carefully
+1926.39 about restructuring
+these communities in ways
+1930.88 where we can achieve a new
+stable state that will resist
+1934.067 the microbial community
+getting pulled back
+1936.83 to that original state.
+1938.2 And one of the really
+simplest and nicest examples
+1942.814 of this an experiment that
+we performed with mice,
+1949.63 where we were feeding
+mice a normal mouse diet,
+1952.698 a lot of nutrients there
+for the gut microbiota,
+1955.51 things like dietary fiber.
+1957.21 And we switched those mice, half the mice,
+1960.74 to a low fiber diet.
+1962.38 And we were basically asking the question
+1964.57 that if you switch to kind
+of a Western-like diet,
+1967.75 a low fiber, higher fat diet,
+1969.93 what happens to the gut microbiota?
+1971.74 And we saw the microbiota
+change, it lost diversity.
+1974.93 It was very similar to what
+we see in the difference
+1978.66 between industrialized and
+traditional populations.
+1981.34 But when we brought back a healthy diet,
+1983.95 a lot of the microbes
+returned, it was fairly...
+1987.75 There was this kind of
+memory where it went back
+1990.13 to very similar to its original state.
+1992.41 The difference is that
+when we put the mice
+1994.96 on the low fiber, high fat diet,
+1997.3 and then kept them on that
+for multiple generations,
+2001.14 we saw this progressive deterioration
+2003.56 over the course of generations
+2005.2 whereby the fourth generation,
+2007.07 the gut microbiome was a fraction
+of what it originally was.
+2011.71 Let's say 30% of the species only remained
+2015.07 something like 70% of the
+species had gone extinct,
+2018.2 or appeared to have gone extinct.
+2020.42 We then put those mice back
+onto a high fiber diet,
+2023.124 and we didn't see recovery.
+2025.35 So in that case, it's a situation
+where a new stable state
+2029.17 has been achieved.
+2030.082 In that case, it's
+probably because those mice
+2032.44 don't actually have access
+2033.988 to the microbes that they've lost.
+2036.31 And we actually know that we
+did the control experiment
+2039.57 of mice on a high fiber
+diet for four generations.
+2042.73 They maintain all their microbes.
+2044.28 If we take those fourth generation mice
+2046.74 with all the diversity
+and do a fecal transplant
+2049.54 into the mice that had
+lost their microbes,
+2051.97 but had been returned
+to a high fiber diet,
+2053.834 all of the diversity was reconstituted.
+2056.581 So your question of like,
+2059.53 how do we establish new stable states?
+2061.59 How do we get back to a healthy microbiota
+2063.42 if we have taken a lot of antibiotics,
+2065.55 or have a deteriorated microbiota,
+2067.152 it's probably a combination
+of having access
+2069.96 to the right microbes.
+2071.44 And we can talk about what
+that access looks like.
+2073.91 It may look like
+therapeutics in the future.
+2075.57 There are a lot of companies
+working on creating cocktails
+2077.85 of healthy microbes.
+2078.92 But it'll be a combination of
+access to the right microbes
+2082.53 and nourishing those microbes
+with the proper diet.
+2086.93 - Very interesting.
+2087.763 This multi-generational
+study reminds me of something
+2089.68 that I was told early in my training,
+2091.488 which was that it takes a long
+time for a trait to evolve,
+2096.21 but not a long time for traits to devolve.
+2099.0 - Yeah, exactly.
+2100.24 - Which generally is true
+of human behavior too,
+2104.35 although it depends.
+2106.161 We can all do better, nonetheless.
+2107.757 - [Justin Sonnenburg] Very interesting.
+2108.75 - So I have a puzzle
+or a bit of a conundrum
+2114.31 around this notion of
+species of microbiota.
+2117.54 So if the pH, if the acidity
+2121.129 differs along the digestive tract,
+2123.77 but is more or less fixed
+for a given location, right?
+2126.11 I mean, unless something's really off,
+2127.31 the pH of the stomach is
+within a particular range,
+2129.92 and the intestines and so forth.
+2132.55 And certain microbiota
+thrive at a given station,
+2136.98 a given location along
+the digestive tract,
+2139.53 and the pH is sort of fixed more or less.
+2143.59 I'm trying to figure out,
+2145.58 what is allowing certain microbiota
+2147.95 to stay in a given location?
+2149.97 Why don't they migrate up or down?
+2151.7 So are they pH sensitive,
+2152.99 and that's what they're
+selecting for along the tract?
+2156.31 And I'm also trying to figure
+out how these changes in food
+2161.09 so robustly change the microbiome.
+2163.44 The way you describe it
+almost makes it sound
+2165.03 like food is the variable
+that's going to dictate
+2167.85 the quality of the microbiome,
+2169.78 although I'm sure there
+are other factors as well.
+2171.96 And then in the back of my mind,
+2173.46 I don't know that I want
+to ask this question,
+2175.25 but I really want to ask this question,
+2176.7 which is, where are they in there exactly,
+2179.77 and why don't they all get flushed out?
+2181.71 Right?
+- Right.
+2182.61 - If 30% of fecal matter is microbiota,
+2187.5 then where are they living?
+2189.39 Are they along the lining,
+and the little microvilli
+2193.73 of the intestine, and
+what are they attaching to
+2196.564 and interacting with?
+2198.17 we know there are neurons in there,
+2200.74 especially within the stomach,
+2201.94 there's a lot of work now being done
+2203.68 on the gut neurons and how they signal
+2205.9 to the brain and so forth.
+2207.38 But who are they talking to in terms
+2209.35 of the host cells?
+- Yeah.
+2212.43 - Because if it's just from food,
+2214.09 I imagine that they're in
+there having their good time,
+2216.1 or not, and then some are
+getting flushed out or not,
+2219.97 but how do they actually stay in there?
+2221.89 - Yeah.
+- Who are they attaching to?
+2223.43 What are they talking about?
+What are they doing for fun?
+2225.85 - Yeah.
+- And so forth.
+2226.683 - Yeah, yeah. Super interesting.
+2228.33 So I'll come back to
+the attachment question,
+2231.79 and kind of why they don't get washed out,
+2233.75 'cause this is a super
+fascinating question.
+2235.83 And I think your initial point of like,
+2239.389 the kind of regional
+differences in what's happening
+2243.41 in terms of physiology, biochemistry
+2245.44 along the length of the
+gut is really interesting.
+2247.65 There certainly is a pH gradient
+2249.32 along the length of the gut.
+2250.59 There is actually
+bicarbonate that's secreted
+2253.68 into the small intestine to
+try to neutralize stomach acid.
+2257.38 There also is bile that's secreted.
+2259.511 That creates a different
+chemical environment in there,
+2262.82 bio-loving bacteria that kind of live
+2265.49 in that region of the gut.
+2267.03 And then there is a nutrient gradient,
+2271.18 just because as food leaves the stomach,
+2275.27 a lot of the simple
+nutrients are absorbed.
+2278.38 And so you might see microbes
+in the small intestine,
+2281.86 for instance, that are better
+at consuming simple sugars,
+2284.72 but you won't find many
+microbes in the colon like that,
+2287.22 because all the simple sugars
+2288.43 have been depleted at that point.
+2290.28 And then the immune system
+is a big factor as well.
+2293.597 And the immune system is incredibly active
+2296.39 in the small intestine.
+2298.31 The small intestine is
+this really interesting
+2300.17 challenge for the host, because
+it's a tissue that's been...
+2302.87 Its purpose is mainly absorptive.
+2304.756 And so there has to be
+flow of a lot of things,
+2310.41 a lot of nutrients from
+the luminal contents
+2315.09 into host cells.
+2316.7 And so that means the barrier
+can't be as fortified.
+2320.68 And so the immune system
+is incredibly active
+2324.34 in the small intestine to
+make sure that microbes
+2326.83 aren't getting so close, and
+if they are getting close,
+2329.91 there's a response to
+them to put them back
+2331.86 in their right location.
+2335.417 And then along this whole kind
+of architecture of the gut,
+2341.056 there's the longitudinal gradients,
+2344.01 things like pH and so forth.
+2346.012 And I should say that pH starts
+to drop again in the colon,
+2349.5 because a lot of those
+microbes are fermenting things
+2352.21 and producing acids.
+2353.83 And so you actually end up
+with the pH starting to drop,
+2357.93 not as low as the stomach,
+but starting to drop again
+2359.857 if there's a lot of fermentation
+happening in the colon.
+2363.83 In addition, you also have a gradient
+2365.73 from the host surface epithelium
+2368.74 out to the middle of the gut.
+2371.66 And that is likely the key for
+what is retained in the gut
+2378.16 and how the community isn't washed out.
+2381.16 So lining the gut, we
+have epithelial cells.
+2384.62 In the small intestine,
+they're largely absorbative.
+2386.625 In the colon, there's a
+lot of mucus production.
+2390.257 And we also see this
+in the small intestine,
+2393.62 and this mucus lining is this
+substance that we secrete,
+2398.47 largely made of carbohydrate actually.
+2401.0 And the purpose of that
+is to keep microbes
+2404.96 in the right spot and to allow nutrients
+2408.93 and water to be absorbed
+in the small intestine
+2411.84 and large intestine.
+2412.68 And so it's this mesh
+work that is supposed
+2415.27 to keep out large things
+like back to and lead,
+2417.51 and small things like nutrients.
+2420.84 That mucus layer is, it
+turns over more slowly
+2426.38 than the luminal contents passing by.
+2429.44 And so if a microbe learns to
+hold onto that mucus layer,
+2434.11 it can actually resist the flow
+of the contents of the gut.
+2439.71 And so there there's
+many microbes in the gut
+2442.36 that are not just good
+at attaching to mucus,
+2444.58 but also good at nibbling
+on it, at eating it.
+2448.36 And there are these bacteria,
+2449.95 like Akkermansia
+muciniphila, mucus-loving.
+2453.108 One of its main things it
+does is actually eat mucus
+2456.58 in the gut, that's its lifestyle.
+2458.127 And so there's an incredible
+gradient of activity
+2464.06 from the host tissue,
+2465.2 working your way out to
+the middle of the gut.
+2467.26 What's amazing is some microbes actually
+2469.35 do penetrate past the mucus,
+2471.11 and there are these invaginations
+2473.0 in the intestine known as crypts,
+2475.2 actually where the stem cells live
+2476.996 that produce the epithelium,
+2478.96 and there are microbial communities
+2480.79 that can form in those crypts.
+2482.72 And we don't know completely
+what their function is,
+2484.973 but we've done some studies
+that appear to indicate
+2487.86 that if you can localize to a crypt,
+2490.62 you've hit the jackpot as a microbe
+2492.882 for being able to maintain
+dominance in the gut.
+2496.48 So if you sit in the crypt
+and something similar to you,
+2500.38 another microbe that's similar
+to you, comes into the gut,
+2502.92 you can actually exclude that microbe.
+2505.39 And the thinking is that
+it can't find a spot
+2509.39 to resist being washed out of the gut.
+2512.08 So there probably are these little niches
+2514.08 close to host tissue in the mucus
+2515.93 that are absolutely essential
+2517.454 for resisting getting washed out
+2520.284 with the flow of all the contents.
+2522.92 - Incredible.
+2524.52 That raises a question about two things
+2526.65 that are reasonably popular.
+2528.99 One is this notion of cleanses,
+from either direction.
+2533.11 People will consume things by mouth to try
+2535.06 and cleanse their digestive tract.
+2537.15 This there's a long history of this.
+2538.57 I'm not recommending this.
+2540.3 There's differing
+opinions on whether or not
+2541.9 this is good or bad.
+2543.05 And the other is fasting
+or time-restricted feeding.
+2546.95 The reason I ask about
+time-restricted feeding,
+2549.82 is my understanding is
+that after a prolonged
+2552.97 period of fasting, there's
+some auto-absorption
+2556.59 or digestion of one's own digestive tract,
+2560.91 that then gets renewed.
+2561.9 In other words, you're testing and stomach
+2563.83 start eating its own lining to some extent
+2565.76 in the absence of food.
+2567.16 So what do we know about cleanses?
+2569.27 Oh, and then I suppose there's cleanses
+2570.5 from the other direction too, right?
+2571.91 Which, less popular, but I've
+never run the statistics,
+2575.78 but certainly exist out there.
+2580.46 What's the idea about cleanses and fasting
+2583.75 as it relates to the
+health or the dysbiosis
+2586.21 of the microbiota?
+2587.54 - Yeah, there hasn't been a
+lot of high quality science
+2590.76 in this area, and so it's
+really hard to conclude
+2592.9 whether these are good for
+health or bad for health.
+2595.327 I think the fasting...
+2599.05 We're in a really interesting situation
+2601.194 in the industrialized world,
+2603.12 because we have so many problems
+2604.75 associated with our digestive tract,
+2606.52 and that probably has to do
+with our highly processed diet
+2610.16 and perhaps having a microbiota
+2611.85 that's fairly perturbed as well.
+2614.02 And so,
+2617.66 whether doing things like
+this are good or bad,
+2624.385 it's really hard to define,
+because we may be starting off
+2628.33 in a fairly bad state anyway.
+2630.43 There's so many diseases
+that we're dealing with,
+2633.28 metabolic syndrome,
+inflammatory bowel disease,
+2636.14 that just put a massive
+portion of the population
+2640.43 in a very different category
+than people that are thinking
+2643.88 about how do I maintain health,
+how do I live a long life,
+2647.84 from starting off in what we consider
+2650.04 a fairly healthy state.
+2651.53 And so things like fasting
+and a lot of other therapies
+2656.94 that have been developed in the field,
+2659.092 I think ketogenic diet may
+be in this category as well.
+2663.73 There can be tremendous benefits
+in terms of their impact
+2668.6 in the context of metabolic syndrome,
+2670.89 and for people that are battling
+2673.313 eating a continual bad diet
+or something like that.
+2677.537 - And adherence.
+2678.75 I think one of the one of the
+reasons for the popularity
+2681.15 of intermittent fasting,
+time-restricted feeding,
+2685.6 and what do they call them now?
+2688.44 Exclusion diets, where you
+entire entirely exclude meat,
+2691.39 or you entirely exclude
+plants or whatever it is,
+2693.44 is that adherence is sometimes
+easier in the all or none.
+2698.185 As neurobiologists, we think
+of it as a go, no-go circuitry.
+2700.97 It's harder to make decisions,
+2704.59 nuanced decisions often,
+about food than it is
+2706.78 to just eliminate entire
+categories of food.
+2709.47 Not eating, for many people-
+- Yeah.
+2711.49 - Is easier than eating smaller portions.
+2713.604 - Yeah, yeah.
+2715.077 Yeah, and-
+- Yeah.
+2716.69 So some of it, I think,
+2717.523 is neurobiological and psychological.
+2719.2 - Absolutely.
+2720.05 And we've had gastroenterology
+fellows in our lab
+2722.64 that come in and we kind of...
+2724.53 I think that to kind of
+slice through the nuance
+2728.1 of all this, there's a very simple recipe
+2730.15 and a really well
+accepted, broad definition
+2733.11 of what a healthy diet is.
+2734.54 kind of the Mediterranean
+diet, plant-based diet is...
+2739.03 There's just a ton of data
+that particularly people
+2741.78 of European ancestry, but
+there's a pretty broad acceptance
+2745.885 that if you eat mostly
+plants, for most people,
+2749.41 that's going to be very
+healthy, to the point where...
+2752.849 A wonderful colleague of
+ours, Christopher Gardner,
+2755.53 who's studied diet his whole life,
+2758.95 trying to establish
+what a healthy diet is.
+2760.93 And people was giving advice,
+I saw him giving advice
+2763.23 to a dietician who is
+trying to get all the rules
+2766.573 of what she should be
+recommending to people
+2770.47 that she deals with that are
+interested in a healthy diet.
+2772.88 And she said, so the number
+one, I'm going to say,
+2774.92 plant-based fiber is
+probably super important,
+2777.877 and that should be very high on the list.
+2780.08 And she goes on to number
+two and he said, stop.
+2783.38 He said, if people do number one well,
+2786.58 you don't need to know any other rules.
+2788.54 I mean, it's basically
+like if you can have
+2790.84 a high fiber, plant-based diet,
+2793.48 for most people, at least,
+2794.829 talking about the bucket of people
+2796.36 that are already in a healthy state,
+2798.2 you don't really need to
+think about other things,
+2799.87 because you can't eat too much meat,
+2801.35 you can't eat too many sweets.
+2802.59 You've already eaten a huge
+amount of plant-based fiber.
+2805.384 Your gut is full, you're
+not going to be hungry.
+2809.46 And it kind of takes care of worrying
+2812.04 about what should I eat or
+what, what shouldn't I eat.
+2814.29 Just eat a ton of whole
+grains, legumes, vegetables,
+2819.993 fruit that's high fiber
+based, not high sugar.
+2822.59 - Does it completely exclude
+meat, and fish and dairy?
+2825.66 - And he was saying people can
+add their own spins on this.
+2829.0 But I think that the main
+rule is just start off with...
+2832.777 And it kind of gets back to,
+2834.18 to Michael Pollan's mantra,
+2837.63 eat food, not too much, mostly plants.
+2840.03 I think if you stick
+with these simple rules,
+2842.95 and don't overthink,
+like, should I have this?
+2844.951 Can I eat eggs? Can I eat...
+2847.11 Just kind of stick to these simple rules,
+2848.76 it makes it very approachable.
+2850.44 But I agree, so these
+gastroenterology fellows
+2852.65 that we've had in our lab say that they...
+2854.57 It's really hard.
+2855.403 We kind of say to them,
+2856.63 why won't you give this dietary advice
+2858.56 that's really well-known.
+2859.75 And they just said, well,
+it's, it's really hard
+2861.71 to get people to change their diet,
+2863.364 unless you're doing either
+a go, no-go sort of thing,
+2867.21 or eliminating something.
+2869.03 So if carrots are giving you
+problems, don't eat carrots.
+2872.0 And that's a very simple,
+easy instruction to follow,
+2875.53 but doesn't really deal
+with the root problem
+2878.94 of why can't you eat carrots,
+2880.89 because you should be able to eat carrots.
+2882.75 Most people can eat carrots.
+2884.16 And so I think that we...
+2890.36 Yeah, when we're thinking
+about things like fasting,
+2895.28 and all these different dietary regimes
+2898.15 and cleanses that people do,
+2900.73 we have to step back for
+a moment and say, okay,
+2902.61 well, what are really the big,
+2905.23 high level rules that we should take home?
+2907.62 And then if you are experiencing problems,
+2909.85 and you want to think about
+how to deal with them,
+2911.59 it's good to go to an
+evidence-based method
+2913.289 where there's actually data to back it up.
+2915.91 The data in the field really
+shows that with like fasting,
+2920.57 particularly if you go to
+animals that hibernate,
+2923.51 or things like that, where
+there's really extended fasts,
+2925.7 you actually have a microbiota come up
+2928.972 that blooms in the absence
+2931.445 of food coming in through diet
+2933.969 that's really good at eating mucus.
+2936.961 So you have bacteria
+that's that specialize
+2941.13 in eating nutrients derived from the host,
+2943.23 because there's no other
+nutrients to live on.
+2945.56 Now, whether this is good
+or bad, we don't know.
+2948.42 But it seems like the
+consumption of mucus in excess
+2955.44 is a problem from the
+standpoint of microbes
+2958.99 getting too close to host tissue
+and inciting inflammation,
+2961.68 which is what we see in animal models
+2963.28 when we deprive of dietary fiber.
+2965.77 We see these mucus
+utilizers become abundant,
+2968.46 and inflammatory markers start to come on.
+2970.737 So fasting short term
+might be fine, probably.
+2975.24 There's definitely benefits
+that are seen metabolically.
+2977.94 In terms of what it means
+for long term health
+2980.51 from the standpoint of the gut microbiota,
+2982.33 I would say we don't have
+the answer to that yet.
+2984.72 In terms of the cleanses and
+the flushes and all this,
+2988.84 personally, I think it's a terrible idea.
+2991.07 I mean, we know that if...
+2993.752 In studies that are being
+done now to reprogram
+2996.62 the gut microbiota to install
+2998.06 a completely new microbial community,
+3000.36 the first step is to wash away
+3002.5 the resident microbial
+community that's there.
+3004.9 So if you're in the process of acquiring
+3007.06 a really good microbiota
+and you know how to do that,
+3009.76 then flushing everything out is great.
+3012.17 Otherwise, what is happening
+is you're kind of leaving
+3016.11 rebuilding of the community
+to chance, like what is it?
+3019.61 And so what microbes
+are going to colonize?
+3023.24 Who's going to take up space
+3024.38 after you do this flush or cleanse?
+3026.61 And I think it's a little bit
+3030.1 like playing Russian Roulette.
+3031.21 You may end up with a
+good microbial community
+3034.07 in there afterwards, you may not.
+3036.07 You certainly want to pay close attention
+3037.71 to what you're eating while you're doing
+3039.9 the reconstitution of the community
+3041.38 after you do something like that.
+3043.09 - Yeah.
+3043.933 Thank you for that.
+3045.18 I know a lot of people are interested
+3046.55 in these kinds of elimination diets.
+3048.47 And intermittent fasting/
+time-restricted feeding
+3052.04 seems to be getting
+some traction, in part,
+3053.7 because at some level we are
+all doing this when we sleep.
+3057.81 Most of us aren't eating
+while we sleep anyway,
+3059.75 and adjusting the numbers
+seems more accessible
+3063.83 for a lot of people.
+3064.663 We have a lot of colleagues at Stanford
+3065.71 who I know happen to of that regimen,
+3068.95 or a time-restricted feeding regimen,
+3070.79 but also who follow the more
+traditional meal spacing
+3075.42 as well, of course.
+3077.694 One of the things that I wonder about
+3080.34 as we talk about primarily
+plant-based with some,
+3083.163 what did you say the Pollan thing was?
+3085.09 It was eat mostly plants
+and then maybe some meat,
+3088.86 but not too much, or not
+3090.1 too much...
+- Yeah, eat food,
+3090.933 mostly plants, not too much.
+- Got it.
+3092.94 - Or sorry, eat food, not
+too much, mostly plants.
+3095.13 - Got it.
+3098.953 I hear this again and again.
+3100.46 I know there are a number of
+people who do seem to do well
+3103.507 on a lower carbohydrate, and
+even some people who report
+3108.24 feeling much better on a really strictly,
+3111.6 almost meat, organ-only diet.
+3113.54 And the only reason I raise is not...
+3115.55 I don't participate in...
+3116.95 I'm one of those omnivores that out there,
+3121.08 I do eat some meat and
+I do eat plants as well.
+3124.56 But the reason I raise
+this is that earlier
+3126.77 you were talking about communities
+3129.07 that may have microbiota
+that are healthier than ours,
+3133.39 or at least different than ours.
+3135.01 And there are communities in the world
+3136.486 that subsist largely on animal products,
+3140.62 or for which unprocessed animal products
+3143.5 are considered the richest-nutrient foods
+3145.95 in those communities.
+3147.13 Protein is very scarce in...
+3149.225 Ancestrally, protein was more scarce,
+3151.94 so eggs and meat and things of that sort.
+3153.73 So could there be a genetic component?
+3155.42 In other words, if we
+fast forward 10 years
+3157.149 and we actually can make sense
+3158.88 of all this human genome stuff,
+3160.31 are we going to find that someone
+who has Scandinavian roots,
+3165.171 or somebody who has South American roots,
+3167.22 or somebody had descended
+from a different tribe,
+3169.74 will do better on one
+particular diet versus another,
+3172.59 and thereby, or I should say,
+and in parallel with that,
+3176.36 that their gut microbiome
+3177.51 will have different signatures that are...
+3179.29 So your microbiome might thrive on plants
+3182.08 and mine might thrive on organ meats.
+3184.23 And as I say this, I'm not a
+big consumer of organ meats.
+3186.518 I'm just laying this
+out for sake of example.
+3189.33 - Yeah.
+3190.5 Yeah, great.
+3191.84 So,
+3194.58 a few notes, the first one
+has to do with carbohydrates
+3198.93 and restriction of carbohydrates,
+3200.34 and some people feeling healthier
+3201.79 when they cut carbohydrates out.
+3203.79 My guess is...
+3205.79 This is my theory to be tested,
+3209.825 that people feel better
+cutting carbohydrates out,
+3213.36 because the diet that we
+eat in the United States
+3217.5 and in industrialized countries,
+3219.124 the carbohydrates are largely crap.
+3222.29 - Processed.
+- They're processed.
+3223.476 - Right.
+- It's like starch,
+3224.85 simple sugar.
+3226.39 It's things that contribute
+to glycemic index.
+3229.13 It's these sugars that we eat.
+3232.21 They make it to our small intestine,
+3233.867 they get chopped up into simple sugars,
+3236.76 absorbed into our bloodstream,
+3238.17 and we have a ton of glucose then
+3239.81 coursing through our
+veins, which we know is bad
+3242.44 and can lead to things like diabetes.
+3245.75 If the carbohydrates that were in our diet
+3248.92 were complex carbohydrates, dietary fiber,
+3252.81 and we like to refer to
+the subset of dietary fiber
+3255.65 that the microbiota can actually access
+3258.09 as microbiota-accessible carbohydrates.
+3261.56 And the reason that we like that term
+3262.96 is it has the word carbohydrate in it.
+3264.84 And it's to point out that
+not all carbs are bad,
+3268.28 it's just, there are bad carbs or carbs,
+3270.434 or carbs that are bad if you consume them
+3272.1 in too high quantity,
+3273.14 things like table sugar
+and simple starches,
+3276.422 but there are good carbs as well.
+3278.5 And these microbiota-accessible
+carbohydrates
+3280.93 are the complex ones that we can't digest,
+3283.0 and fuel our got microbiota,
+3286.2 our gut microbiota can ferment them.
+3290.931 I think we probably
+all would be better off
+3295.61 with less of the carbs that
+we're typically served,
+3299.03 but most of us, and probably
+the vast majority of us
+3303.054 would be better off by
+consuming a lot more carbs
+3306.82 that were complex, that
+we're microbiotic-accessible.
+3309.7 And I'll come back to why that's important
+3311.62 in terms of our biology.
+3312.68 There's some mechanisms
+that are known as to why
+3315.6 those complex carbohydrates
+are so important
+3317.47 for our health, for most of us.
+3320.494 I think this aspect of human
+genetic adaptation to diet
+3323.86 is super interesting.
+3325.45 And then layer on top
+of that got microbiota
+3328.326 adaptation to diet, which
+is another layer of this
+3331.41 that is also fascinating.
+3333.2 It's very clear that over
+very short periods of time,
+3335.85 humans can adapt to
+differences in their diet,
+3338.61 lactase persistence as kind of
+3340.25 the classic example of this.
+3341.83 Just over the past 10,000 years,
+3345.439 certain groups of humans have adapted
+3349.03 to being able to consume
+dairy by taking this enzyme,
+3353.67 lactase, that normally is just expressed
+3355.7 in most of the world's
+population early in life
+3357.831 to be able to metabolize
+lactose in breast milk.
+3362.562 By extending the expression
+of that throughout life,
+3365.87 now you can consume milk
+for your whole life.
+3369.08 And so that is an example
+of specific populations
+3372.5 of human genome,
+genetically adapting to diet
+3376.66 in a very short period of time.
+3377.96 And there are other examples
+of this, and undoubtedly,
+3380.4 this has happened throughout the world
+3382.49 to various aspects of diets.
+3383.78 So certainly it's important to remember
+3386.11 that there will be different diets
+3390.01 that are better for different groups,
+3391.93 based on what genes you harbor and have
+3395.9 in your human genome.
+3397.49 The other aspect on top of that is that,
+3401.57 there are good examples
+of the gut microbiome
+3406.42 adapting to cultural differences in diet.
+3409.11 And the classic example of this
+3410.619 is the degradation of seaweed.
+3414.04 So we know that most
+Americans, if you eat sushi,
+3417.89 and there's nori there and
+you eat some of the seaweed,
+3422.938 it has a dietary fiber
+in it known as porphyrin.
+3426.92 That porphyrin will shoot
+through most of us untransformed.
+3430.2 Inert substance.
+3431.478 It'll do other things like retain water,
+3433.61 and serve as kind of
+something like cellulose,
+3435.69 not be fermented at a high level.
+3438.82 If somebody from Southeast Asia
+3440.32 that's always consumed seaweed,
+3443.2 and is part of a culture
+that consumes seaweed,
+3445.56 eats seaweed, they have a gut microbe
+3447.897 that can now metabolize porphyrin.
+3451.21 And so there are these very
+specific gene transfer events
+3454.57 where the genes for
+breaking down porphyrin
+3457.47 have been imported into the microbiome
+3460.834 of many people in Southeast Asia to...
+3465.39 We can think of it as
+helping digest porphyrin,
+3467.52 but it's really just a
+microbe that's found a niche,
+3470.14 found a way to make a living in the gut
+3472.44 by consuming something that's
+common in the diet there.
+3475.48 So there are these different layers,
+3476.73 there are human genetic adaptations,
+3478.24 and there are microbiome
+adaptations that are cultural,
+3480.776 and based on people's geographic location.
+3483.98 But there's no escaping the fact
+3487.35 that for much of human evolution,
+3489.65 the vast majority of people
+that are on this planet
+3493.79 had ancestors that were
+hunter-gatherers, foraging,
+3498.65 consuming huge quantities
+of plant material,
+3502.12 just because that's what was there.
+3504.37 And so one of the groups that we study,
+3506.24 the Hadza hunter-gatherers in Africa,
+3508.65 and I should take a moment
+just to say that our research,
+3513.974 and research of many people
+in our field and other fields
+3516.82 rely on study of indigenous communities.
+3519.96 And it's really important to
+think of these communities,
+3523.67 as our equals, they're
+modern people on the planet.
+3528.53 They have interesting
+lifestyles that are informative
+3530.9 with regard to certain
+aspects of human biology,
+3534.53 but in many cases, they also are
+3537.66 leading a vulnerable existence.
+3539.92 And so we really take great
+care in our research program,
+3542.64 and it's important for people to realize
+3544.23 that these populations
+take part in our research,
+3547.37 because they're wonderful
+research partners.
+3549.66 And we need to be mindful
+of kind of thinking
+3552.35 about how, yeah, both we talk
+about them and use our data
+3557.032 that has been gained through
+their generous contribution
+3561.08 to our research program.
+3562.72 The Hadza hunter-gatherers,
+it's estimated,
+3564.69 consume on the order 100 to 150 grams
+3567.7 of dietary fiber per day,
+3569.349 and that's in stark contrast
+to the typical American
+3572.91 that consumes about 15 grams.
+3575.52 So somewhere, a seven to tenfold decrease
+3578.299 in the main nutrient that
+feeds are got microbiome
+3581.672 in the American diet.
+3583.73 The Hadza are one example.
+3588.01 There are many different
+foraging populations,
+3590.74 but the vast majority of these populations
+3593.558 consume huge amounts of dietary fiber,
+3596.72 because plants are the
+reliable, consistent source.
+3600.46 If you, as a hunter-gatherer go on a hunt,
+3603.91 usually that hunt is unsuccessful.
+3606.44 I think the data that one out
+of 20 hunts are successful
+3610.97 in landing actually
+big game for the Hadza.
+3613.74 They have birds that they
+shoot and small animals,
+3617.53 but quite often, day after day,
+3619.84 they're relying upon berries,
+tubers, baobab fruit.
+3625.14 They're relying on the
+plants in their environment.
+3627.6 And actually if you go
+to the data and look
+3630.74 at what their fruit food preferences are,
+3633.37 their food preferences are
+actually meat and honey.
+3635.93 So they don't eat a high fiber
+diet because they love fiber.
+3639.38 They eat a high fiber diet,
+3640.53 because that's what's
+available and consistent
+3643.183 for them to survive.
+3645.84 But our brains are wired
+for caloric density.
+3649.01 And so if you took a Hadza
+and put them in a restaurant
+3651.69 in the United States,
+3652.91 they would make the same
+crappy decisions that we make,
+3655.24 because we all want sugar
+and fat and calories.
+3659.51 It's how our brain is wired.
+3661.44 - And protein and fat
+for brain development,
+3663.77 as far as we know, right?
+3664.76 So it sounds like the Hadza,
+3666.84 I hope I'm pronouncing that correctly,
+3668.35 you said would prefer
+to eat meat and honey,
+3672.06 but they happen to consume
+a lot of plant fiber
+3675.57 as a consequence of what's available.
+3678.753 One of the questions I have
+as it relates to all of this,
+3683.54 is it sounds to me like
+there is no question
+3689.02 from the pure vegan all the
+way to the extreme opposite,
+3694.63 which would be pure meat diet,
+3697.055 that avoiding processed
+foods is a good idea.
+3700.15 - Yeah.
+- Or heavily processed foods,
+3702.19 in general and I mean, not
+that the occasional consumption
+3705.42 is necessarily bad.
+3707.9 But whether or not one is thinking
+3710.41 about one macronutrient
+profile or another,
+3712.48 it sounds like consuming processed foods
+3714.82 is just bad for the microbiome.
+3716.73 Can we say that categorically?
+3718.54 For sure, yeah, yeah.
+- Okay.
+3719.412 - Absolutely.
+3720.554 - So you're a low carb person,
+you're a zero carb person,
+3722.71 you're extreme vegan, no meat.
+3724.54 Whether or not you're
+all meat, organ meat.
+3726.56 Sounds to me as if the number one thing,
+3730.15 maybe even, dare I say above
+Chris's point about plants,
+3734.84 although I'm not going to challenge
+Chris Gardner on nutrition,
+3737.29 I would be way outside
+the lane lines to do that.
+3740.21 But is it to avoiding processed foods?
+3742.54 - Yeah.
+- Is paramount.
+3743.96 - Yeah, and I think that's
+completely compatible
+3746.08 with what Christopher was saying.
+3747.02 He was saying, if you
+prioritize getting a huge amount
+3750.11 of whole, plant-based food
+with a lot of fiber first,
+3755.01 you're not going to have room
+3756.05 for eating a lot of processed food.
+3757.281 - [Andrew Huberman] Yeah, yeah.
+3758.114 - So it's kind of the same
+as avoiding processed food.
+3760.13 So I think that those are
+exactly the same rule,
+3762.35 and I think that you're exactly right.
+3764.437 And we can break down...
+3766.194 There's a lot of data of
+why different components
+3768.46 of processed food are so bad for us,
+3770.06 and so bad for our microbiome.
+3771.5 And I can talk about a
+few examples of that.
+3773.73 But the flip side of this
+is this mechanism of...
+3777.84 And again, thinking about the
+spectrum of a plant-based diet
+3781.09 versus a meat-based diet.
+3783.122 There's a lot of data to tell us
+3787.36 that a meat or ketogenic, or high fat diet
+3790.65 may have big benefits in terms
+3793.25 of short term metabolic health.
+3794.64 That's typically how people
+think about that diet.
+3796.871 There's also a lot of heart disease
+3798.77 that's linked with that as well.
+3800.02 There's good literature for that,
+3801.21 which is something for people
+to look at and be aware of.
+3805.08 The plant-based diet, if you're
+eating a bunch of complex
+3809.069 fibers that feed your gut microbiota,
+3811.89 your gut microbiota
+produces these substances
+3814.72 called short-chain fatty
+acids, things like butyrate.
+3817.52 And it's known that these
+short-chain fatty acids
+3820.22 play really essential components,
+3821.647 both in terms of fueling
+colonocytes, enforcing the barrier,
+3825.65 keeping inflammation low,
+regulating the immune system,
+3828.23 regulating metabolism.
+3829.84 And so a lot of people
+think of dietary fiber
+3833.49 as this inert substance
+that passes through,
+3835.55 makes this feel full
+maybe for a little bit,
+3837.41 but we get hungry afterwards right away.
+3839.16 If you're eating a lot of fiber
+3840.44 that's feeding your gut microbiota,
+3841.822 your gut microbiota is just
+producing this vast array
+3845.738 of fermentation end products
+3848.53 that then get absorbed
+into our bloodstream,
+3851.02 and have all of these
+tremendous, cascading effects
+3853.57 that appear to be largely
+beneficial on our biology.
+3857.14 And so to think about that
+paradigm of simple carbs,
+3859.93 versus complex carbs, in
+the case of simple carbs,
+3862.63 you end up with high blood sugar,
+3864.1 something that will spike your insulin,
+3866.78 and have all kinds of
+weird, metabolic effects.
+3869.44 In the case of complex carbohydrates,
+3871.145 you'll end up with very low blood sugar,
+3874.11 because most of those
+have low glycemic index
+3876.138 and a bunch of short-chain fatty acids
+3878.44 that are having regulatory roles.
+3879.9 So just to round out that topic,
+3882.89 I think there is a reason to think that,
+3885.131 maybe not appropriate for
+absolutely everyone out there,
+3888.48 but I think the vast majority of people,
+3891.2 particularly given the statistics
+of what we know people eat
+3894.1 in the United States and in
+industrialized countries,
+3896.92 most people would reap
+tremendous health benefits
+3899.76 from eating more whole,
+plant-based dietary fiber.
+3903.65 Now, processed foods, I
+think, is this other dimension
+3906.38 where you have all of
+these weird chemicals,
+3908.22 artificial sweeteners, weird fats,
+3911.757 a lot of refined, simple nutrients.
+3914.63 The simple nutrients we've talked about,
+3916.13 but we know that for instance,
+artificial sweeteners
+3918.56 can have a massive negative
+impact on the gut microbiome
+3921.27 and can lead us towards
+metabolic syndrome, actually.
+3924.0 There's been beautiful work
+3925.43 out of the Weizmann Institute on this.
+3927.25 And then emulsifiers,
+3928.73 these compounds that are
+put in processed foods
+3930.877 to help them maintain shelf stability
+3934.23 so things don't separate.
+3935.61 And so all the the moisture content
+3939.27 is retained appropriately.
+3941.6 Many of these are known to
+disrupt the mucus layer,
+3945.09 and as soon as you start
+disrupting that barrier,
+3947.3 that can lead you in the
+direction of inflammation
+3949.308 and in animal models,
+3950.98 we know that can lead towards
+metabolic syndrome as well.
+3953.42 So there's components of
+processed food, that are,
+3957.42 when studied in isolation known to have
+3959.25 a direct negative impact on
+gut biology in the microbiota.
+3962.447 - Yeah, the mention of artificial
+sweeteners interesting.
+3965.586 I confess it's a third rail on...
+3969.15 Talking about artificial sweeteners,
+3969.983 there are two camps it
+seems, or at least two camps.
+3973.75 One that say artificial sweeteners
+3975.7 are not detrimental at all.
+3977.24 Another that says
+they're very detrimental,
+3978.71 mainly based on the mouse studies.
+3980.03 And then there are people
+in the middle that are...
+3981.8 I put myself in that category.
+3982.7 I drink the occasional diet soda,
+3985.04 I don't consume them in large volume,
+3986.55 but I'm sort of in the middle there.
+3989.45 And so I just throw that out there,
+3990.93 because I know immediately
+people are jumping on that,
+3993.88 but I will just mention
+there's some recent data
+3996.028 out of Diego Bohorquez's
+lab at Duke University
+3998.78 that the neurons that
+live in the gut mucose
+4000.27 of these neuro pod cells
+can actually distinguish
+4003.16 between artificial and true sweet...
+4006.74 Sugar versus artificial sweeteners.
+4009.401 They send different
+patterns of neural signals
+4012.26 up to the brain, and the brain circuitry
+4014.44 seems strongly impacted.
+4015.81 So I think that as the data emerge,
+4017.65 we're hearing more and more of
+these artificial sweeteners.
+4020.39 Either are problematic
+or at least are signaling
+4023.01 different events in the gut.
+4025.93 I do want to make sure that we distinguish
+4028.532 artificial sweeteners
+4030.12 from non-caloric plant-based sweeteners.
+4032.997 - Yeah.
+- And this is based
+4034.27 on a mistake that I've
+made over and over again
+4036.01 on the podcast where
+I'll just kind of lump
+4038.23 artificial sweeten into one big category,
+4041.145 and then I'll mention stevia.
+4043.19 So what about plant-based sweeteners
+4044.97 that are not artificial,
+4046.59 they weren't manufactured in a laboratory,
+4048.14 like saccharin or sucralose, or aspartame?
+4050.848 Do we know anything about plant-based,
+4053.13 non caloric sweeteners or
+low caloric sweeteners?
+4056.7 - Very little.
+4057.6 A lot of those have a lot
+more bang for the buck.
+4061.21 They're incredibly sweet,
+4062.54 so it takes a really small amount for them
+4064.41 to trigger a huge amount of sweetness.
+4066.33 And so it's, depending upon
+the mechanism of action
+4070.787 by which these sweeteners
+that are not sugar
+4074.022 are impacting our biology.
+4077.4 It may be that those are
+actually less negative
+4082.27 or more healthy than the
+ones that are artificial,
+4085.82 just because it requires
+less of them in the food
+4088.51 for us to perceive that sweet taste.
+4090.32 It may also be that because they're...
+4092.46 I don't think that everything
+is that's natural is better,
+4095.05 necessarily than things
+that are artificial,
+4097.073 but it may be that because of
+kind of evolutionary exposure
+4101.37 to these compounds in our diet,
+4103.092 historically there are, I think,
+4105.23 traditional populations that
+use these, for instance,
+4107.58 to sweeten different foods,
+that our bodies just know
+4113.44 how to deal with those compounds better
+4115.08 than the ones that are synthetic.
+4116.781 But I think the studies
+still need to be done.
+4119.98 - Do you actively avoid
+artificial sweeteners?
+4122.5 Sucralose, aspartame, saccharin?
+4124.78 You personally.
+- Yeah.
+4126.85 So I do, I avoid them, but I'm not...
+4132.04 So I work closely with my
+wife, Erica, as you know.
+4135.97 We were in the lab together
+and we wrote this book,
+4140.477 "The Good Gut," where we
+kind of document our journey
+4143.52 in changing our lifestyle,
+dietary habits, choices we make
+4147.42 based on the research as
+we've gotten to know it
+4149.31 in the gut microbiota
+over the past 15 years.
+4151.84 And I think that one of the
+lessons that we've learned
+4157.97 is that just doing things in moderation
+4161.57 makes it a lot easier,
+and doing things slowly
+4165.25 makes it a lot easier.
+4166.2 So there are very few rules that I have
+4169.63 that are hard and fast.
+4170.73 I'm a pretty flexible eater.
+4172.6 I don't believe that having a diet Coke
+4175.5 will somehow cascade into
+some terrible disease
+4179.31 or something like that.
+4180.86 I try to avoid them, I don't
+really like the flavor of them.
+4183.51 I'm super sensitive to
+the nuances of the flavor,
+4187.11 even with the stevia and mogrosides
+4189.5 from monk fruit and stuff like that.
+4190.815 The off flavors are really
+hard for me to deal with.
+4195.895 But also in this journey
+of changing our diet...
+4198.83 Like when we started off
+in microbiome research,
+4201.54 I was in the habit of in the
+afternoons having a sweet,
+4204.27 a muffin or a cookie,
+or something like that.
+4206.4 And when we started to realize
+that we should be eating
+4209.77 less sweets and eating more dietary fiber,
+4212.201 this was an incredibly
+difficult change for me to make.
+4214.96 I was just wired to kind of crave this-
+4218.31 - Classic scientist.
+4219.92 Scientists love the pastry in
+the afternoon and the coffee.
+4222.505 - Yeah, yeah.
+- And in the old days
+4224.06 it used to be a cigarette too.
+4225.71 - Right, exactly.
+- When I started my training,
+4227.103 a lot of people still smoked
+4229.12 - Yeah, right.
+4229.953 - And it was only during
+my post-doctoral training
+4232.21 that they eliminate smoking on campuses,
+4233.97 and productivity took
+a trough for a while,
+4237.061 until these people developed other tools
+4239.31 to focus their attention.
+- Exactly, exactly.
+4242.37 So there is this kind of need,
+4244.24 and then once you have
+an ingrained behavior,
+4246.08 and maybe things that are addictive,
+4247.44 it becomes incredibly
+difficult to break that habit.
+4250.499 And so I would say, gradually
+over the course of like,
+4255.721 five or more years, we
+have migrated our diet
+4260.85 away from sweet foods to
+things that are less sweet.
+4265.86 And it's been a journey,
+it's been a slow process,
+4269.247 but we've gotten to the point now
+4270.94 where we've just retrained our pallets.
+4272.8 And it's amazing how this happens now,
+4275.0 where I'll have something
+that is something
+4278.27 that I would've used to have like daily.
+4280.77 And it's unpalatable.
+4282.84 I just can't deal with
+the sweetness of it.
+4284.94 And I certainly avoid
+artificial sweeteners,
+4288.97 but I also avoid just
+sweet things in general
+4291.48 that have sugar in them,
+just because they now,
+4294.33 was originally, I was
+trying to be disciplined
+4298.55 and trying to change my diet,
+4299.58 but now they just don't taste good to me.
+4301.31 - Yeah, likewise,
+4302.143 I completely lost my appetite for sugar
+4304.8 at the turn of the last year,
+4306.02 and I don't know how to
+explain it, but the way I...
+4308.874 Even though I don't have
+a mechanistic explanation,
+4311.65 I say I like sweet people, I
+don't like sweet food anymore.
+4314.47 I just don't.
+4315.4 I have not lost my
+appetite for fatty foods.
+4318.34 I love cheese and certain meats for me,
+4322.45 I blame my Argentine lineage is,
+4325.03 is I gravitate towards them.
+4327.25 But in any case, avoiding processed foods,
+4330.53 probably avoiding sugars, emulsifiers,
+4332.95 these kinds of things.
+4333.783 And for people listening or watching,
+4335.85 we're not setting up strict guidelines.
+4337.8 We're just bouncing around the carnival
+4341.67 that is the microbiome and nutrition,
+4344.17 because I think that we
+hear this everywhere,
+4347.45 eat this, don't eat that, or
+this is best for microbiome,
+4349.9 or worse for microbiome.
+4350.76 But I'm hearing fiber again and again,
+4352.64 so we're going to come back to fiber,
+4353.764 but I want to make sure
+that we close the hatch
+4356.75 on this issue of fasting and cleansing.
+4358.774 Based on your answer
+earlier, it sounds to me like
+4361.69 it is not necessary to
+do a cleanse or fast
+4365.16 prior to an attempt to
+repopulate the microbiome.
+4368.66 In other words, if I want to
+make my microbiome healthier,
+4371.27 it sounds like I don't
+have to try and flush
+4373.35 all the current microbiota
+out of there first,
+4376.31 is that correct?
+4377.143 - Yeah, it's a very good question,
+4379.24 and I don't mean to
+suggest that those things
+4380.544 are known to be terrible.
+4383.84 Or I would just say, the
+studies haven't been done.
+4386.461 And to me, wiping out
+this microbial community,
+4390.448 unless it's done with some sort of...
+4393.59 Unless it's done in an informed way,
+4395.3 and we don't really have the information
+4396.78 for how that would be done.
+4398.1 It just seems like playing
+the lottery a little bit.
+4401.74 - Okay.
+- And so I think...
+4403.95 I don't want to say that those are...
+4405.02 It may be that when the study is done,
+4406.87 those are shown to be amazing,
+4408.53 but I just don't think we have
+the data to know that yet.
+4410.69 So it's somewhat of an arbitrary thing.
+4413.08 If somebody out there feels
+way better when they do this,
+4417.0 and are not experiencing problems with it,
+4419.083 then maybe it's the right thing for them.
+4421.02 But I certainly can't say that
+it's something great to do.
+4424.175 I can't imagine a future
+where as the microbiome
+4428.77 gets incorporated into
+this emerging paradigm
+4431.43 of precision health, you go into a clinic,
+4434.19 somebody types your microbiome and says,
+4436.15 oh, there's this huge,
+massive misconfiguration.
+4439.38 You have all these engrafted bacteria
+4441.69 that are residents in your gut microbiome
+4443.583 that are sending out molecules
+4446.12 that are not good for your health.
+4447.73 It would be good if we do
+a mass-reprogramming of it.
+4450.66 The way that we do that
+is we flush your gut,
+4453.68 and we actually give a
+light antibiotic treatment
+4456.11 to try to kill everything that's there.
+4458.08 And then we repopulate
+with this other consortium
+4461.48 of microbes that we've
+studied and know are healthy,
+4464.16 know are compatible
+with your human genome,
+4465.993 and can be reinforced with a diet
+4468.136 that we know is good for you.
+4469.676 We'll install those microbes,
+4471.71 we'll help you along
+in the diet so you know
+4474.084 how to nourish those microbes,
+4476.4 and that will be the way
+that will reconfigure
+4478.47 your gut microbiome.
+4479.41 So I can't imagine a future
+where that sort of flushing,
+4482.89 or cleansing is part of something
+for repopulating the gut.
+4486.7 But right now it seems a
+little half-baked to me.
+4489.89 Yeah.
+- Great.
+4491.97 I'd love to talk about
+fiber and fermented foods,
+4494.96 because you and Chris had a really,
+4498.5 what I think is a really
+interesting and exciting paper
+4501.66 at the end of last year about
+comparing the inflammatome,
+4506.389 so inflammatory markers of people who ate
+4510.19 a certain amount of fiber,
+4511.31 or a certain amount of
+these fermented foods.
+4514.59 This study is amazing for several reasons,
+4516.71 but almost as amazing as how diverse
+4521.36 the interpretation of this
+study was in the media.
+4524.69 If ever there was a study
+that was kind of hijacked
+4528.85 by different priority schemes out there-
+4531.81 - Yeah.
+- It's this study.
+4533.56 So you performed the study with Chris,
+4536.5 and your postdocs, and
+graduate students and staff.
+4539.35 What are the major conclusions
+and what sorts of directives,
+4542.68 if any, emerged from this study?
+4544.57 And I'll just preface
+this again by saying,
+4546.82 if I wasn't clear, some news report said,
+4550.257 "Ah, this means fiber is not important."
+4552.68 - Yeah.
+- And then others said,
+4554.145 this means fermented foods
+and fiber are important.
+4557.49 And others said, fermented
+foods are the thing,
+4560.12 and the only thing.
+4561.42 It was all over the place.
+- Yep.
+4563.414 - And one of the reasons for
+doing this podcast at all
+4566.99 is so that we can go straight
+4568.41 to the people who perform the work.
+4570.728 - Fantastic.
+- And even though
+4571.561 I'm certainly not an expert in microbiome,
+4573.67 to give you the opportunity
+to share with me,
+4575.8 and me to ask the kinds
+of questions that have...
+4577.96 I have zero agenda.
+4579.02 I do like sauerkraut, I do
+drink the occasional kombucha.
+4585.27 I do like low sugar, not so
+sweet forms of fermented foods.
+4589.24 So I would be delighted if
+fermented foods are good for me,
+4591.58 but I have no stake in the
+fermented and food industry.
+4594.55 - Yeah, absolutely.
+- Yeah.
+4595.63 - Yeah, yeah. Great.
+4597.68 Yeah, wonderful, and
+an important note there
+4600.17 is the one you pointed out,
+4601.52 that this is an incredible collaboration
+4603.07 with Christopher Gardner's lab,
+4604.37 and a bunch of people.
+4606.84 Erica Sonnenburg helped lead
+this study, and then tons of,
+4609.9 like you were saying, postdoc staff
+4611.5 and other people at Stanford,
+4613.85 and then wonderful participants
+4615.2 that were part of this study.
+4617.36 So a huge team effort.
+4619.88 Let me tell you, before
+I dive into that study,
+4621.7 let me take a step back,
+because I think the reason
+4623.89 that we did this study, and
+kind of Christopher's group,
+4626.98 and our group has started
+to pursue this line
+4631.27 of looking at dietary interventions
+4633.45 and how they impact our microbiome,
+4634.91 how they impact human biology,
+4637.203 goes back to this kind of
+epiphany that we we had
+4642.07 while studying the gut microbiome.
+4643.59 Because I think when we started
+studying it at Stanford,
+4646.54 we were thinking about it as this
+4648.21 kind of newly appreciated
+aspect of our biology,
+4650.9 almost like finding an organ
+that we didn't know was there,
+4654.913 and starting to think about
+like all the drug targets
+4657.9 that were there.
+4658.733 Can we go in with small molecule drugs,
+4660.37 and think of ways to
+manipulate this community
+4661.912 to ameliorate disease?
+4663.801 And this is largely the
+mindset of Western medicine,
+4667.4 and largely born out of the
+era of infectious disease.
+4670.35 You wait for an infection to
+start a bacterial infection,
+4673.61 you treat with antibiotics,
+4674.85 and that's the way medicine is practiced,
+4676.88 and that's become less
+successful over time,
+4679.82 as we've moved into this
+era of inflammatory,
+4683.373 Western diseases, and with the exception
+4687.53 of the current pandemic
+that's sweeping the world,
+4691.605 largely moved out of the
+era of infectious diseases,
+4695.07 at least infectious bacterial diseases,
+4697.29 that this paradigm of waiting
+for diseases to appear,
+4701.23 and come into the clinic is
+not really very effective
+4705.05 in the context of
+inflammatory, Western diseases,
+4707.84 autoimmune diseases, metabolic syndrome,
+4709.906 heart diseases, and inflammatory disease.
+4712.3 The list goes on and on.
+4713.92 And so we started to
+think a lot about like,
+4717.96 how can we get out in front of this?
+4719.39 How can we think about preventative ways
+4722.28 of dealing with this crisis of metabolic
+4725.35 and inflammatory diseases?
+4726.791 And this tremendous,
+beautiful body of literature
+4730.15 started to come forward in
+the field about 10 years ago
+4733.567 that showed that the gut
+microbiome is absolutely critical
+4737.9 to modulating our immune status.
+4739.77 So if you change the microbiome,
+4741.75 you can fundamentally change
+how the immune system operates.
+4745.47 And we know that the immune system
+4747.27 is at the basis of a lot of these disease,
+4751.24 inflammatory, chronic diseases.
+4753.48 And so it brought up this
+possibility that maybe the fact
+4756.82 that we're not nourishing
+this community well enough,
+4759.76 maybe the fact that it's
+deteriorated over time
+4763.823 due to all of the things that go along
+4765.52 with an industrialized lifestyle,
+antibiotics and so forth.
+4769.76 Maybe we have a microbiome right now
+4772.66 in the industrialized
+world that is setting
+4774.95 our immune system at a set
+point, simmering inflammation
+4778.34 that's driving us towards
+these inflammatory diseases.
+4781.49 And wouldn't it be wonderful
+if we could figure out how to
+4786.73 use diet specifically, but
+just kind of learn the rules
+4790.27 of how to reconfigure both the composition
+4792.99 and function of our gut microbiome,
+4794.84 so that inflammation was
+different in our bodies,
+4798.35 so that each one of us was less likely
+4800.618 to go on and to develop
+an inflammatory disease,
+4803.3 leading to better longevity and health
+4806.429 over the course of our life.
+4808.41 And so we were studying this
+in actually in mouse models,
+4814.42 and realizing that we really needed
+4817.55 to start doing human studies.
+4819.04 We needed to start studying
+microbiome in humans,
+4823.29 and because we were studying diet,
+4825.187 we knew that this was
+something we could go in
+4827.34 and do right away.
+4828.173 We didn't have to apply
+for FDA approval for a drug
+4830.89 before we could do a human study,
+4832.49 we could just start doing
+human dietary interventions,
+4834.866 longitudinally monitoring
+the immune system,
+4838.206 and the microbiome, and starting
+to put the pieces together
+4841.99 of what is it in diet that can change
+4843.79 our microbiome in a healthy way,
+4845.5 help us define what a
+healthy microbiome is,
+4848.26 and monitor the immune
+system in great detail.
+4851.34 And so there were really two
+critical components of this,
+4853.83 in addition to our microbiome expertise.
+4856.11 One was Christopher Gardner's group.
+4858.035 We wanted to do these human studies,
+4860.54 but we're absolutely terrified of humans.
+4863.08 We work with mice. Humans
+are terrifying in many ways.
+4866.75 - But they house themselves,
+you don't have to pay-
+4868.47 - That's true.
+- You don't have to pay
+4869.303 for their housing.
+- That's true.
+4870.9 - For those that can afford
+housing, of course, yeah.
+4873.484 - Yeah, sadly, just for that
+portion of the population.
+4878.19 So Christopher's group were,
+4879.27 they were our masters at
+working with human populations.
+4881.97 And then the other wonderful
+thing that we have at Stanford
+4884.47 is this Human Immune Monitoring Center
+4886.106 run by Mark Davis and Holden Maecker.
+4888.69 They started this beautiful
+center for allowing people
+4892.7 to do immunology in humans.
+4895.37 Critical element, because
+a lot of the mouse studies
+4897.78 don't translate well to humans.
+4899.18 So if you can do the studies in humans,
+4900.634 similar to how we were
+thinking about the microbiome,
+4903.185 you learn something that you
+know is relevant to humans.
+4905.97 And so having that immune
+profiling capability
+4909.05 where we can monitor hundreds to thousands
+4911.797 of different parameters
+in the immune system,
+4914.45 longitudinally in people,
+from a blood draw,
+4917.09 and not just know if CRP
+goes up or if interleukin-6
+4920.55 goes up or down, but to be
+able to see all these facets
+4923.43 of the immune system change in concert,
+4925.32 as we're changing the microbiome with diet
+4927.5 was really a key component of this.
+4929.45 And so our flagship study,
+supported by wonderful donors.
+4933.726 So this actually isn't
+funded by typical foundations
+4937.35 and national institutes of health,
+4938.59 it was funded by philanthropy.
+4941.48 We wanted to understand if we put people
+4944.04 on a high fiber diet,
+4946.04 how would that affect their
+microbiome immune system?
+4948.27 And if we put them on a high food diet,
+4950.77 a diet rich in live microbes
+and all the metabolites
+4953.66 that are present from
+fermentation and foods,
+4956.36 how would that change
+microbiome in immune system?
+4958.54 - Could you give us some examples
+4959.66 of what those diets look like?
+4960.76 And were you changing their basal diet,
+4962.551 or were you just adding things on top
+4964.53 of what they were already eating?
+4966.876 'Cause it's hard to change people's diets.
+4969.39 - It's very hard.
+- And then you have to trust
+4970.56 that they actually do it and
+they're not sneaking, and-
+4974.03 - Totally, yeah.
+4976.979 We started this center for
+human microbiome studies
+4979.5 at Stanford for doing
+a lot of these studies,
+4981.274 and a portion of the studies,
+we do focus on supplements,
+4984.74 probiotics, microbes
+delivered in pill form.
+4987.94 Prebiotics, which are
+purified forms of fiber.
+4991.87 And in those cases, we actually
+can have placebo groups,
+4996.59 because it's more like a drug study,
+4999.34 and we don't change people's diets.
+5002.13 So we can just administer this
+on top of what they're doing.
+5004.89 So in a way, they're
+a lot more controlled,
+5006.77 but it's not food.
+5008.31 When you start doing food studies,
+5009.95 you can't do a placebo group,
+5011.49 'cause people know what they're eating.
+5013.03 And the other problem is that
+5016.297 it's really hard to just change one thing,
+5019.41 because as soon as you
+start adding something,
+5021.71 people usually eliminate something else.
+5023.53 So the idea was to
+basically give these people
+5026.84 simple instructions for in the
+case of the high fiber diet,
+5030.66 just increasing plant-based fiber.
+5033.37 So can you eat more whole
+grains, more legumes,
+5035.78 more vegetables, nuts, get
+the fiber up in the range of,
+5040.15 from 15 to 20 grams per day,
+up to over 40 grams per day.
+5044.38 So can you double or more the amount
+5047.14 of fiber that you eat per day,
+5048.768 knowing that that would
+have a tremendous impact
+5052.3 on a lot of other facets of their diet.
+5055.08 They eat less meat, animal-based protein,
+5060.177 less animal-based fats
+as a product of this.
+5063.113 I will say that getting
+back to Christopher's rule
+5067.58 for a healthy diet, a lot of
+the macro nutrient changes
+5071.91 that we saw in their diet were consistent
+5075.21 with healthy changes in diet.
+5077.99 Less saturated fat, less
+animal-based protein,
+5081.17 more plant-based protein.
+5082.59 So a lot of changes that are known
+5085.55 to be beneficial came in concert
+with just telling people,
+5088.67 eat a high fiber diet, high
+plant-based fiber diet.
+5093.02 The people that were eating
+the high fermented food diet,
+5098.37 they were instructed to basically eat
+5102.151 foods that you could
+buy at a grocery store
+5104.76 that were naturally fermented
+and contain live microbes.
+5107.95 And so this largely
+consisted of yogurt, kefir,
+5113.52 sauerkraut, kimchi, some
+fermented vegetables,
+5118.78 brined, fermented vegetables.
+5120.08 - Pickles.
+- Pickles, things like that.
+5123.78 One of the things that
+I think is a pitfall
+5125.89 in choosing fermented foods is,
+5127.447 you can go down the canned food aisle
+5129.85 and there's this huge section of pickles,
+5132.43 and jars that are canned.
+5134.45 Those are not fermented foods.
+5136.32 Those are are cucumbers that
+they've put in a acidic acid
+5139.15 and vinegar to reconstitute
+that fermented flavor,
+5143.1 but there's no live
+microbes involved in that.
+5145.7 And even sauerkrauts in
+the canned food aisle,
+5147.94 even if they were naturally fermented,
+5149.76 quite often they're not.
+5150.62 Quite often they're
+just brined in vinegar.
+5154.15 But even if they are naturally fermented,
+5156.02 all the microbes are
+killed prior to canning
+5158.83 or during the process of canning.
+5161.394 So what we use for this study
+5162.82 and if you want to have
+live fermented foods
+5164.7 that contain live microbes,
+you need to buy those
+5166.87 out of the refrigerated
+section, essentially.
+5170.78 - And I'm really glad
+you pointed this out,
+5172.938 because you can find sauerkraut
+5175.3 on the non-refrigerated shelf,
+that is indeed non fermented.
+5181.0 A lot of fermented that
+are available in the US
+5184.81 can be high in sugar.
+5186.77 So was there any instruction
+as to getting people
+5190.02 to make sure that they
+were consuming yogurts
+5192.35 that weren't loaded with sugar?
+5194.45 - Yep.
+- Or did you let them just
+5195.97 select for the stuff in the
+cold section that is fermented?
+5200.956 - No, super important point.
+5202.379 We instructed people to
+eat non-sweetened yogurts.
+5207.123 I think a huge pitfall in this
+area is you can have a yogurt
+5211.19 loaded with bacteria, kind of
+the base of what's healthy,
+5214.65 and then a ton of like
+artificial flavoring
+5217.35 and sugar loaded on top of that.
+5219.02 Manufacturers put a ton
+of sugar in after the fact
+5221.92 to kind of mask the sour
+taste fermented foods,
+5224.47 which is hard for some people
+to become accustomed to.
+5227.41 When we were switching
+to more fermented foods,
+5229.91 our daughters were young at that point,
+5231.67 we would take plain yogurt,
+5233.61 which they didn't like just neat,
+5237.08 we would mix in a little
+maple syrup or honey,
+5240.12 just a little bit, and
+gradually we would reduced that
+5242.68 over time to the point where
+they're pallet adjusted,
+5245.64 and now they just really
+like plain yogurt.
+5248.62 But it is, I think, getting
+used to that sour flavor
+5252.201 is difficult, but people
+really should try to stay away
+5255.1 from those fermented foods
+that are loaded with sugar.
+5257.81 And that's what we instructed
+people in this study.
+5260.14 - And beer was not included.
+5261.87 - Right.
+- The number of people
+5263.19 that asked, when I did a
+brief thing on social media
+5266.17 about this study, and
+hopefully I got it right.
+5268.1 I think I did.
+5269.69 But people just ask about beer.
+5271.19 I'm not a drinker, so for me,
+beer has no appeal anyway.
+5276.06 But beer is fermented, correct?
+5280.09 But were they instructed to
+avoid beer or to drink beer?
+5283.16 - Just to go with their
+normal dietary habits,
+5285.32 but that did not count
+as a fermented food.
+5287.85 - And kombucha was, as I recall-
+5289.29 - Kombucha was, and kombucha can have
+5290.78 small amounts of alcohol in it.
+5295.85 Yeah, kombucha actually
+was one of the major things
+5297.813 that people drank during,
+5299.85 or consumed during the
+fermented food phase.
+5302.42 And the deal with beer
+5307.06 is that there may be beneficial properties
+5310.69 of the microbial communities
+in naturally fermented beer,
+5313.16 but most of the beer that we buy, again,
+5314.73 is canned and filtered, and
+there's no live microbes there.
+5318.13 So very different than
+if you siphon it off
+5320.84 of your home brew and drink it, probably,
+5322.86 than if you buy it in a store.
+5324.54 - I will get to the results of
+the study in just one moment.
+5327.37 But I want to say, a
+lot of people shy away
+5329.64 from the high quality fermented foods,
+5331.99 because they can be quite costly.
+5334.01 And I'll just refer people to a resource
+5336.3 in Tim Ferriss's book, "The 4-Hour Chef,"
+5338.74 he actually gives an excellent recipe
+5340.39 for making your own sauerkraut,
+5341.65 which basically involves
+cabbage and water and salt,
+5346.58 but you have to do it properly,
+5348.03 because you can grow some,
+not necessarily lethal,
+5351.67 but some somewhat dangerous bacteria
+5353.96 if you don't scrape off
+the top layer properly,
+5356.07 but he gives beautiful instructions
+5357.48 for how to do this in vats.
+5358.89 We've started doing this
+at home now, actually,
+5361.08 is we got a, just ceramic vat.
+5362.75 And you can make large amounts
+of truly fermented sauerkraut
+5366.66 just from cabbage water and salt,
+5368.93 if you're willing to follow the protocol.
+5370.518 And if you're interested in science,
+5372.07 that protocol looks a
+lot like what you'll do
+5374.02 for most of your graduate career,
+5375.88 except maybe some sequencing too.
+5377.84 So anyway, just to
+refer people to a source
+5379.71 that's very low cost.
+5381.34 - Yeah.
+- Compared to buying
+5382.55 the high quality, fermented foods.
+5383.73 Even kombuchas, for some
+people, it's like $5 a bottle-
+5387.41 - Totally.
+- Only this much.
+5388.63 And if you consume liquids
+the way I consume them,
+5390.71 that's just the the start, so-
+5393.315 - Yeah.
+5394.83 But if you can get your hands on a SCOBY,
+5396.94 kombucha is another one
+that's super simple.
+5399.12 - You can grow your own.
+5399.953 - You can just make your own,
+5401.06 and it's super easy to do.
+5402.51 I make it, I constantly have a batch
+5404.65 of kombucha going at home.
+5407.286 It's a SCOBY, a symbiotic
+community of bacteria and yeast.
+5412.007 You brew tea, you add sugar to
+it, and you put the SCOBY in,
+5415.58 and you wait a week or two,
+depending upon the temperature,
+5418.24 and then you just move the
+SCOBY or over to a new batch,
+5422.87 and you your old, what the
+SCOBY was in is kombucha,
+5425.56 and it's wonderful.
+5426.57 - I love it, I would love it
+if members of this audience
+5428.67 would start to make their
+own kombucha and sauerkraut.
+5431.416 I've been having so much fun.
+5433.25 I don't do it, but it's done in our home.
+5437.32 I don't go anywhere near
+the food production,
+5439.047 and it's for everyone's benefit.
+5442.22 So how much fermented
+food were they consuming?
+5446.34 'Cause you mentioned the number
+5447.52 of grams approximately of fiber,
+5450.649 but was it in servings, ounces?
+5454.2 How many times a day? Early day, late day?
+5456.45 - Right, yeah.
+5457.283 So we had a wonderful dietician
+instructing people for this,
+5462.12 and her name's Dalia Perelman,
+5463.67 and she really was the key and is the key
+5465.47 for many of our studies
+5466.303 for getting people to eat differently.
+5468.19 And the general instructions
+were for people to eat
+5472.09 as much fermented foods as
+possible, more is better.
+5474.81 And the reason is that
+with this initial study,
+5478.08 we really wanted to maximize our chance
+5480.31 of seeing a signal if there was
+5481.94 something biological going on,
+5483.5 with the idea that if
+the dose was excessive
+5487.175 and not easily achievable by
+a lot of people in the end,
+5490.27 we can go back and and say, okay,
+5492.36 this is the point at which we
+lose the biological signal.
+5494.877 But people during the height
+of the intervention phase,
+5498.66 the intervention phase was six weeks,
+5500.81 during the height of that,
+5501.887 were up over six servings, on average,
+5504.78 per day of fermented foods.
+5506.27 So kind of two servings at each meal.
+5508.62 And the ounces or weight or size,
+5512.159 it really depended on what
+the fermented food was.
+5515.36 And we just told them to stick
+5516.67 to what was a recommended
+dose on the package
+5519.82 that they were buying,
+5521.92 For kombucha, it'd be like
+a six to eight ounce glass.
+5524.836 Sauerkraut like a half cup,
+or something like that,
+5527.337 and same with yogurt.
+5528.72 - Great. So what were the results?
+5532.54 - Yeah, so the results
+astounded us in a way,
+5537.17 but then thinking more deeply,
+5539.21 and it'll be evident
+even after I explain it
+5541.846 in the context of this conversation,
+5544.66 likely why we saw the results we saw.
+5547.72 The results were astounding
+because our hypothesis
+5551.36 going into this was
+that the high fiber diet
+5553.94 was going to give the massive signal.
+5555.6 We know that this is the big
+deficiency in the Western diet.
+5560.0 All the mouse studies have
+told us that high fiber
+5562.5 really leads to a much
+healthier microbiota,
+5564.06 it can lead to positive
+changes in the immune system.
+5567.09 And in fact, even when we had a limited...
+5569.18 We had wonderful donor support,
+5570.46 but still a limited amount of money
+5571.77 when we started this study.
+5573.76 My lab was really very
+eager to do the high fiber
+5577.829 part of this really well,
+5580.28 and Christopher kind of
+had to twist our arms
+5582.57 to do the fermented food side of it.
+5584.64 And we thought it was
+kind of quirky and neat,
+5587.59 live microbes should be
+exciting, let's try it.
+5590.89 So we put that in and it turns out
+5592.92 that we were very thankful
+that he twisted our arms,
+5595.54 because it was that
+high fermented food arm
+5598.45 that really gave us the big signal.
+5600.12 Even though our hypothesis
+was that the high fiber
+5602.89 was going to lead to more short-chain
+5604.38 fatty acids produced in the
+gut, more diverse microbiota,
+5608.814 less inflammation in the immune system,
+5611.41 we didn't see that across the cohort.
+5613.51 We actually saw very
+individualized responses
+5617.05 to the dietary fiber,
+5618.51 and I'll come back to
+what those responses were.
+5620.78 The big signal really was
+in the fermented food group.
+5624.2 We saw all the things
+that you would hope to see
+5626.88 in a Western microbiota in western human.
+5629.82 We saw this increase
+in microbiota diversity
+5632.4 over the course of the six weeks
+5633.7 while they were consuming
+the fermented foods.
+5635.665 And we can't always say that
+higher diversity is better
+5641.32 when it comes to our
+microbial communities.
+5643.34 We know there are cases for
+instance, bacterial vaginosis,
+5646.24 where higher diversity is actually
+5647.73 indicative of a disease state,
+5650.33 but we know in the context of the gut,
+5653.63 and for people living in
+the industrialized world,
+5656.43 higher diversity is generally better.
+5659.31 We know that there's a
+spectrum of diversity.
+5661.43 People with higher diversity
+generally are healthier.
+5664.54 If you can push your diversity higher,
+5666.2 you're in better shape.
+5667.34 And so we saw that increase in diversity.
+5669.64 And then the major question is,
+5670.85 what happened to the immune system
+5672.34 as these people were increasing
+5674.29 their gut microbiota diversity
+through the fermented foods?
+5677.866 So we did this massive immune profiling,
+5681.5 and we see a couple dozen immune markers,
+5685.06 inflammatory markers decrease
+over the course of the study.
+5688.97 So we measured these
+at multiple time points
+5691.97 throughout the course of the study,
+5692.95 and there's kind of this
+set stepwise reduction
+5695.8 in things like interleukin-6,
+and interleukin-12,
+5700.18 a variety of famous
+inflammatory mediators.
+5703.79 And then even if you go
+into the immune cells
+5706.28 and you start looking at
+their signaling cascades,
+5708.77 we see that those signaling
+cascades are less activated
+5712.12 at the end of the study compared
+5713.44 to the beginning of the study,
+5714.83 indicating in attenuation of inflammation.
+5717.074 So kind of exactly what
+we would hypothesize
+5720.67 would lead to less propensity
+5722.47 for inflammatory disease over time.
+5724.78 That's a huge extension
+of a very short study and-
+5728.37 - How long was this study again?
+5729.47 - So the complete protocol
+I think was 14 to 17 weeks,
+5733.97 or something like that.
+5735.09 The actual intervention phase
+consisted of a four week ramp
+5738.89 and then a six week maintenance period.
+5741.33 So the intervention itself was 10 weeks,
+5743.23 but there were six weeks
+of really kind of hardcore,
+5745.76 high levels of fiber or fermented foods.
+5748.81 - Yeah, and I'm glad
+you mentioned the ramp,
+5751.23 'cause my experience with
+fermented foods is that you,
+5754.88 it can be beneficial to give the system
+5756.6 an opportunity to act acclimate.
+5757.78 I mean, if you consume a
+giant bowl of sauerkraut,
+5761.1 it's not going to be the worst
+day and night of your life,
+5763.1 but you'll know you did.
+5764.833 - Totally.
+- We'll just leave it at that.
+5766.52 And so you want to kind
+of acclimate to it.
+5768.7 - Absolutely.
+- I'm at the point now where,
+5770.564 some people might think this is gross,
+5772.25 but after I exercise,
+I've been sweating a lot,
+5775.15 I like the saltiness of the...
+5776.66 I actually drink the
+liquid that the sauerkraut
+5780.1 has been stewing in, and I get,
+5782.99 I like to think that I consume
+some fermentation that way,
+5786.78 it's salty, it as kind of a
+post-training replenishment.
+5790.88 But if I had done that six
+months ago, straight off,
+5794.45 I think it would've been
+pretty rough on my system.
+5796.33 I started taking little bits of it
+5797.93 and then adding it each day.
+5799.09 - Totally, and so both
+with the fermented foods
+5800.687 and the fiber, it's well known
+5802.44 that this kind of gradual ramping
+5804.42 is a really important way
+of mitigating bloating,
+5808.1 and other digestive
+discomfort that can happen
+5811.01 when your microbiome reconfigures
+5812.7 and starts fermenting more,
+and changing community members.
+5815.59 So you should take that
+ramp at your own pace.
+5818.65 If something seems to be going wrong,
+5820.22 just kind of level off, stay there.
+5822.09 We did this in a very delicate way
+5823.5 to get people up to the high dose.
+5825.13 The brine, just a tangent
+here for a second,
+5829.919 that was actually one of the products
+5832.015 that we had people use in
+the fermented food phase.
+5836.373 There's actually a
+product called Gut Shots,
+5838.58 which is just bring that they've marketed.
+5841.275 We actually are now
+studying it in the lab.
+5844.43 I just actually, before
+this came from a lab meeting
+5847.29 where a GI fellow in my lab
+is actually putting Gut Shots,
+5851.26 sterilized gut microbe, or the
+fermentation microbes removed
+5858.77 or present into mice
+and looking at changes
+5862.09 in their mucosal immune system.
+5864.32 So we're studying this in detail now,
+5866.1 because it's a rich source of lactate
+5868.516 and a bunch of other
+interesting metabolites.
+5871.11 - I love that my weird behavior
+5872.46 is inadvertently being
+studied at Stanford Medicine.
+5876.51 I want to just mention
+something about the Gut Shots.
+5879.38 Those are sold as a drink.
+5882.12 Those also, just for certain
+listeners in different budgets,
+5884.53 they can be very expensive
+if you really think about...
+5886.74 Some of them are exceedingly expensive.
+5888.76 But what I described before
+with making your own kombuchas,
+5893.17 it's not quite brining, but
+the homemade sour sauerkraut,
+5896.361 that protocol is out there, as I mentioned
+5898.5 in Tim's book, "The 4-Hour Chef."
+5900.87 And you get a lot of
+the brining from that,
+5903.57 an almost endless amount.
+5905.23 A cautionary note, I once
+went into the refrigerator
+5908.48 and saw something similar to
+Gut Shot, it wasn't Gut Shot.
+5911.31 And I drank the whole 12 ounce bottle,
+5913.86 and realized that it was 24 servings.
+5916.19 And that's where I got
+my initial experience
+5919.34 with what it is to not do a ramp up phase.
+5921.34 - Yeah.
+I do not recommend
+5922.47 doing that.
+5923.303 Some of these, it's very potent, it seems,
+5925.37 and you can consume even a
+half an ounce or an ounce.
+5927.842 - Yeah, I mean, very
+potent from the standpoint
+5930.41 of fermentation, but also very salty.
+5932.09 So there's a lot of effects that can....
+5934.24 Yeah.
+- Yeah, don't do what I do,
+5935.824 - Yeah.
+- At least not at the outset.
+5939.421 So that is an experienced warning.
+5942.524 So they did this, as I recall,
+5944.37 there was a swap condition or
+there was a halt condition.
+5946.97 So you did controls, right?
+5948.74 It wasn't just comparing groups.
+5950.1 You had individuals in who
+were initially in one group
+5953.07 or the other moved to a
+different group, correct?
+5957.46 Or to stop and then return.
+5958.68 - Yeah, we actually just did a stop
+5960.62 and followed them during a washout phase.
+5962.267 And the ideal situation for
+dietary interventions like this
+5966.95 are to do crossover studies,
+as you're suggesting.
+5969.672 We've recently completed a ketogenic
+5972.57 versus Mediterranean diet intervention-
+5974.43 - Are those data published yet?
+5975.89 - Not yet, but Christopher's been Tweeting
+5977.4 a lot of these data and
+5978.35 there's a paper in revision right now.
+5979.79 So if you go to Christopher
+Gardner's Twitter feed,
+5983.22 you'll be able to find him reporting
+5985.78 some of the early results of this study.
+5988.147 - Can you give us a snippet
+of, was there a superior...
+5990.61 Just give us a, you don't
+have to tell us which one,
+5992.68 but was there a superior condition
+5995.8 of either Mediterranean versus ketogenic?
+5997.79 - So the metabolic effects of
+these, it's a beautiful study.
+6002.5 I should let his group comment on that.
+6004.42 The microbiota data we actually
+are just generating now.
+6007.29 So the study that his group
+has put together from this
+6010.96 is largely independent
+of the microbiota data.
+6013.737 - Right.
+- And now we're doing
+6014.99 a more in depth analysis,
+and I'll have more to say
+6017.01 about that the future.
+6017.99 - We'll return to that, yeah.
+6019.086 - But it's a super exciting study,
+6020.7 because it is one of these
+where people eat a certain way.
+6023.958 And what's really beautiful about this
+6026.22 is we even got food delivered
+for part of the intervention.
+6029.67 So we had complete control
+6031.47 over what they at least
+had available to eat.
+6034.43 And then the second phase,
+6035.75 they make the food on their own.
+6040.55 And then we cross over
+and do the same thing.
+6043.229 And so that's really like,
+6045.187 if you have a good enough budget,
+6047.08 the right way to do a study like this.
+6048.26 For this, we didn't have the time or money
+6051.72 to do a crossover, but
+we did do a washout phase
+6054.45 where people, we didn't make
+them stop eating, whatever,
+6057.59 if they were enjoying
+it, but we monitored.
+6059.34 And there was some recidivism
+6060.56 where there was a decrease
+in fiber fermented food.
+6063.1 And we could see, for instance,
+6064.81 diversity start to plateau and reverse
+6066.85 in many of these people.
+6068.09 So there does appear to
+be a need for maintenance
+6071.41 of the intervention to maintain
+6073.98 the perceived health benefits
+that we were measuring.
+6076.832 - Great.
+6077.711 We will provide a link to
+the study in the caption,
+6080.23 and thank you for that very
+clear and thorough description,
+6083.389 from one of the investigators
+involved in the study.
+6087.61 It's great to go direct to the source.
+6090.304 Anecdotally, were there movements in mood,
+6094.75 in resistance to colds and infection
+6098.42 during the course of the study?
+6099.508 And this is kind of a prelude
+to where I'm headed next,
+6103.15 which is there is a
+tremendous amount of interest
+6105.28 in the so-called gut-brain axis.
+6106.64 But also I want to make
+sure that we talk about
+6108.872 how these microbes and the
+conditions they're establishing
+6112.26 in the gut are creating positive
+or negative health effects.
+6115.88 I mean, basically how
+signals get out of the gut.
+6118.27 - Totally. Yeah.
+6119.13 - So I certainly notice
+that when I'm eating
+6121.61 more fermented foods,
+or there's probiotics
+6123.67 in drinks I consume and so forth,
+6125.53 that I feel quote, unquote, air quotes,
+6128.01 completely subjective, I feel better.
+6129.82 - Yeah.
+6130.872 - I wish there was an objective
+measure of feeling better.
+6134.77 But I seem to think more
+clearly, sleep better,
+6139.02 mood, et cetera, and I
+know I'm not alone in that.
+6141.18 And any time I've taken harsh
+antibiotics, I feel worse,
+6145.81 but then again, I'm usually taking them
+6147.07 because I'm feeling bad
+about something else, right?
+6149.04 I don't take them just because.
+6150.69 So did people say they were
+feeling better in any way?
+6153.55 And if so, what did you have observe?
+6154.95 And again, we're highlighting
+these as anecdata.
+6157.598 - Yeah, totally.
+6158.68 We, as part of this effort to look at
+6164.28 how dietary interventions
+affect our health and wellbeing,
+6168.74 and so forth, and
+microbiome immune system,
+6171.56 we interact with a lot of
+people who have read our book,
+6175.84 or kind of have become
+microbiome enthusiasts.
+6179.62 And have implemented
+a lot of these changes
+6181.88 in their personal life.
+6182.713 And I hear the same thing
+that you're saying, Andrew,
+6184.87 that tons of people say
+they have more energy.
+6187.66 They think more clearly,
+they sleep better,
+6189.77 their family is nicer to each other,
+6191.85 like the number of crazy things.
+6193.336 And it's really hard to uncouple, like,
+6195.56 is this because these
+people have taken charge now
+6198.57 of what they're eating and
+just feel better in general
+6200.45 for being in control
+of what they're doing,
+6203.23 or is there this cascading set of effects
+6206.69 that are actually impacting our...
+6209.646 Kind of emanating from the gut-brain axis.
+6211.906 And so we actually implemented
+a bunch of questionnaires
+6216.264 and even a cognitive test to
+try to get at some of this.
+6220.54 And I should say, the list
+of this goes on and on.
+6224.04 There are people who claim
+that their complexion improves,
+6226.29 and that their allergies...
+6228.1 And there's probably all
+sorts of ripple effects.
+6230.28 If you can affect your inflammation,
+6232.467 we know that you can
+affect your cognition,
+6234.7 we know that you can affect your skin
+6237.97 and inflammation that's
+occurring on your skin.
+6240.178 So I really think that there is a basis
+6242.81 for a lot of those anecdotes.
+6244.62 It may just be hard to
+see in a short study
+6247.482 and in a small cohort of people
+over a short period of time,
+6253.12 but we didn't really
+see significant things
+6257.4 associated with cognition and
+moods and all of the things
+6261.466 that we were testing for which, yeah,
+6265.35 there could be a variety
+of explanations for that.
+6267.393 We also have a standardized
+stool measure that people use,
+6274.24 and there was less constipation,
+6278.15 better bowel movements over the course
+6280.17 of both of these interventions.
+6281.31 So it did seem like bowel habits improved,
+6284.24 which a lot of times can
+lead to better moods,
+6286.77 but that we weren't able to measure.
+6288.75 - That the classic psychoanalyst
+6290.6 would have a few field day with that.
+6293.26 What sorts of interesting
+things did you observe
+6295.485 in the fiber group?
+6296.56 Because it's clear that that group yielded
+6299.03 some unexpected findings
+in both directions.
+6302.52 Things you expected to see, you didn't see
+6304.236 to the same amplitude as you did
+6306.15 in the fermented food group,
+6307.28 but I'm guessing you also saw
+some very interesting things
+6309.81 in the fiber group.
+6310.91 - Totally, yeah.
+6311.894 So we started looking at
+the data in more detail
+6314.85 when we didn't see the
+cohort-wide response.
+6317.85 And one of the things we
+observed is that in measuring
+6320.87 all these immune parameters,
+6322.04 there appeared to be
+three different groups
+6323.853 of immune responses that we were seeing.
+6327.683 One group that got
+overall less inflammatory,
+6331.26 and then two other groups that
+kind of had a mixed result,
+6334.62 partly more inflammatory,
+partly less inflammatory
+6337.13 in all these markers
+that we were looking at.
+6339.14 And when we started digging
+into like, what aspect
+6343.37 of the biology of those people
+6347.26 dictated or predicted
+which group they fell into,
+6350.94 the really interesting part is the people
+6352.67 with highest diversity gut
+microbiomes to start the study
+6356.26 were the ones that were
+most likely to have
+6359.694 the decreases in inflammation.
+6363.52 And so data seemed to be
+telling us that if you start off
+6369.19 with a diverse microbiota,
+maybe one that's better equipped
+6371.767 to degrade a wide
+variety of dietary fiber,
+6376.67 you're more likely to
+respond positively to it.
+6378.94 If you have a very
+depleted gut microbiome,
+6381.43 you're not as likely to
+be able to respond to it.
+6383.44 And thinking back to that
+experiment that we talked about
+6385.57 before with the multi-generational loss
+6388.05 of fiber-fermenting microbes in mice
+6390.398 that were fed a Western diet,
+6394.31 it may be that many of us
+in the industrialized world
+6398.37 have a microbiome that's so depleted now,
+6400.99 that even if we consume a high fiber diet,
+6403.95 at least for a short period of time,
+6405.6 we don't have the right
+microbes in our gut
+6407.58 to degrade that fiber.
+6408.413 And this has actually been
+observed by other groups,
+6410.75 beautiful study out of
+University of Minnesota,
+6413.07 looking at immigrants,
+coming to the United States.
+6415.485 And within nine months,
+6417.9 but certainly over the course of years,
+6419.95 immigrants that come here lose
+6421.9 a lot of the diversity
+in their gut microbiome,
+6425.297 but a lot of the fiber-degrading capacity
+6428.01 in their gut microbiome too.
+6429.25 So it could be that over time,
+6431.03 this becomes a one way street,
+6432.93 and it's hard for us to recover microbes
+6436.116 that actually can degrade the fiber.
+6438.02 And I think that this probably intersects
+6440.04 with sanitation in our environment,
+6441.547 and the fact that we don't have access
+6443.393 to new microbes that might
+help us degrade the fiber.
+6447.2 That we actually have lost these microbes,
+6450.237 and they're in some ways irrecoverable
+6452.76 without deliberate reintroduction
+6454.45 of fiber-degrading microbes.
+6455.84 - I can recall from childhood,
+6456.96 there were kids that would eat dirt.
+6458.9 - Yeah.
+- And snails and stuff.
+6460.557 That just sounds totally disgusting,
+6462.55 bu kids covered with mud
+maybe not so much anymore.
+6467.246 And certainly during the pandemic,
+6469.25 there's been and a lot more
+use of these hand sanitizers,
+6472.13 that prior to that, people
+seemed pretty spooked about,
+6474.38 but then obviously they prioritized them.
+6479.52 Well, you have children.
+6480.41 Do you encourage them to...
+6482.89 When they were young, did you
+encourage them to interact
+6485.75 with pets and dirt and-
+6487.396 - Absolutely, yeah.
+- Stuff in the environment,
+6489.97 provided that stuff
+wasn't immediately toxic?
+6492.06 - Exactly. So this is really...
+6493.78 It's a continual cost-benefit
+analysis, I think.
+6498.84 I will say that with the pandemic now,
+6502.25 and certainly just with
+infectious diseases in general,
+6505.73 it's really important to
+be aware of the possibility
+6510.66 for compromising your health
+through the spread of germs.
+6513.27 And so that is just, hand
+washing is important,
+6516.05 and we have to be careful
+with the spread of germs.
+6519.773 But I do think that the
+sanitization of our environment
+6526.807 has gone overboard with various things
+6531.31 being impregnated with antibiotics,
+6533.507 shopping carts and things
+like that, and toothbrushes.
+6537.208 It's like antibiotics
+6539.078 and things for killing
+microbes are everywhere.
+6543.96 And when we were raising...
+6547.12 When our daughters were young
+6548.11 and we were making these decisions,
+6550.28 the calculations that we
+would make were really one,
+6555.32 how likely are they to encounter
+a disease-causing microbe?
+6559.05 If we've been out on a
+hike or in our garden,
+6562.062 just kind of working in
+the dirt or whatever,
+6564.86 maybe it's not as important
+to wash your hands
+6566.88 before you have lunch,
+6567.8 even if there's a little
+bit of dirt on them.
+6569.88 If they've been in a public playground
+6571.49 where maybe other kids with germs,
+6574.7 or maybe even chemicals like pesticides
+6577.23 and herbicides that are being used,
+6579.646 maybe it's more important
+than to wash your hands.
+6582.414 Certainly if you've been
+in the grocery store
+6584.66 or on the subway, probably a
+good idea to wash your hands.
+6587.84 So I think you really need to think
+6589.16 about kind of the context of it.
+6592.65 Exposure to microbes from the environment
+6596.21 is likely an important part of
+educating our immune system,
+6600.13 and keeping the proper balance
+6601.39 in our immune system.
+6602.223 And it's just a matter of figuring out
+6603.571 the right way to do that safely.
+6605.62 And it may be the fermented
+food result that we saw
+6608.19 is a way of tapping into
+those same pathways,
+6610.42 kind of an environmental
+exposure to microbes that's safe.
+6613.38 - Interesting.
+6614.72 I'd like to touch on how signals get
+6617.1 from the gut to the rest of the body.
+6619.03 And we probably don't have time to go
+6621.61 into all the systems that benefit
+6623.26 from having a diverse microbiome
+or healthy microbiome.
+6626.35 But we talked about the immune system.
+6629.655 There's active signaling
+and transport from the gut,
+6632.99 all along its length, as far as I know,
+6634.66 into the bloodstream, into
+other organs and tissues.
+6637.08 So for the immune system,
+it seems straightforward.
+6641.72 It could reduce the amount or number
+6643.85 of inflammatory cytokines,
+like IL-6 and so forth,
+6646.56 maybe increase the
+anti-inflammatory cytokines,
+6649.13 like IL-10 and others.
+6651.67 But we know there's a
+gut-brain access of neurons
+6654.13 that literally talk in both directions
+6655.89 between brain and gut.
+6657.2 But let's say I'm eating
+my fermented foods,
+6659.9 I'm doing all the right things,
+6661.19 and my gut is diverse and
+I have all the goodies
+6664.76 at all the right places.
+6666.47 How is it that fact that
+those microbiota are thriving
+6671.86 is conveyed to the rest of the body?
+6674.513 Because they're in
+there doing their thing,
+6676.28 and I don't know that they have a mind,
+6678.01 but they're probably not thinking
+6678.98 of taking care of me, Andrew.
+6680.73 But I feel better, or I
+might get sick less often,
+6685.08 or combat any illness more quickly.
+6687.93 How is that actually happening?
+6690.11 Is it that the microbiomes
+stay restricted to the gut,
+6693.419 but the signaling molecules
+are all downstream,
+6697.47 in a downstream way, are making
+good or bad things happen?
+6700.61 Or is there some sort
+of direct recognition
+6703.44 at the body level, or are
+there cells in the body
+6705.84 that are responding to, ah,
+the gut microbiome is healthy,
+6708.66 and therefore I can make
+more of the good stuff,
+6711.59 and less of the bad stuff, so to speak.
+6713.32 - Yeah, great.
+6715.585 You're right, it's super complex.
+6717.47 There's a huge array of ways
+6719.48 that our body perceives both
+the microbes and the molecules
+6724.57 that they produce in our gut,
+6725.94 and the molecules they
+produce are, of course,
+6727.9 a product of what microbes are there,
+6729.42 and then what they receive
+as kind of metabolic inputs,
+6732.37 what we're eating and what other microbes
+6734.36 are present in the environment,
+providing molecules to them.
+6737.62 So, it's this complex matrix, but we...
+6742.03 Probably the simplest place to start
+6744.03 is just the immune system.
+6745.26 We have an immune system that,
+6748.32 the vast majority of
+immune cells in our body
+6750.49 are located in our gut,
+6751.75 just because there's
+such a dense population
+6755.19 of microbes there that have...
+6757.617 We consider them beneficial microbes,
+6761.44 but they're only beneficial if they're
+6762.84 in the right spot in the gut.
+6764.08 As soon as they mislocalize,
+6765.8 we know that they can become
+opportunistic pathogens.
+6768.76 And so the immune system really
+playing an important role
+6771.86 to keep with them in place
+is essential for this system
+6776.3 not moving into a disease space.
+6778.97 The immune system has a variety of ways
+6781.17 of monitoring what microbes are there.
+6782.733 They're actually specialized
+to structures in the gut
+6785.867 known as peyer's patches that
+actually take up microbes.
+6790.86 They actually allow microbes to transit
+6794.37 into this population of immune cells
+6798.299 in a very controlled way,
+6800.77 so that that set of immune
+cells becomes educated
+6803.73 as to what microbes are just
+6805.41 on the other side of the barrier.
+6806.8 - Wow, kind of like a border patrol.
+6808.9 - Exactly, yeah.
+6809.87 So they bring them in,
+they fingerprint them,
+6813.068 and then have kind of
+this set of responses
+6819.43 ready to go if needed.
+6821.36 - [Andrew Huberman] Amazing.
+6822.39 - There are other cells
+known as dendritic cells,
+6824.97 special type types that
+actually send long arms,
+6828.75 these processes out into
+the lumen of the gut,
+6831.63 and do the same thing, take up microbes,
+6833.96 bring them back in and sample them.
+6835.704 In addition to these
+direct sampling mechanisms,
+6839.15 the cells that line the gut
+have a huge array of receptors,
+6843.05 specialized proteins,
+that perceive patterns,
+6846.76 molecular patterns that the microbes make.
+6850.12 So things like endotoxin
+lipopolysaccharide,
+6853.61 just the cell wall of the bacteria.
+6856.72 We have specialized receptors
+that recognize those.
+6859.58 If those signals become too profound,
+6861.76 or if they're perceived
+in the wrong place,
+6864.67 that can stimulate an
+inflammatory response.
+6866.76 So there's all these ways of
+monitoring the membership,
+6869.88 and where it is and how close it is.
+6872.08 But then there's this
+whole other set of ways
+6875.76 of perceiving metabolic activity,
+6877.93 and what's happening in the gut.
+6879.0 And you mentioned before,
+6881.474 these cell types, that express
+taste receptors in the gut
+6886.21 and have ways of sampling
+dietary components.
+6888.98 They're the same types of,
+or analogous cells in our gut
+6894.745 that are perceiving metabolites
+produced by the microbiota
+6898.62 so that our bodies can perceive
+6900.61 what sort of metabolic
+activity is going on.
+6903.38 And then in addition to that,
+6905.78 there's this tremendously
+important nervous system
+6910.61 that's sending signals back to the brain,
+6913.22 dictating things like motility.
+6915.67 Do I get rid of what's in here?
+Do I move it along quickly?
+6918.49 What actually is happening?
+6920.69 Do I need to interact with immune cells?
+6923.21 So there's this really complex array
+6924.99 of interactions between
+the different cell types.
+6928.47 And then a lot of the
+cells that are in the gut,
+6931.78 perceiving all of these signals,
+6933.33 a lot of the immune cells can
+actually get up and leave.
+6937.13 They can get into the
+blood, cycle through,
+6939.55 and then home to other regions
+of the mucosal surfaces,
+6944.36 so that mucosal surfaces
+are educated broadly
+6948.47 against what's passing through our gut.
+6951.27 So there's a variety of
+ways of cells communicating,
+6955.86 and then a lot of the molecules
+that the microbiota makes
+6960.62 can actually make their way
+into the bloodstream directly.
+6964.1 And so the array of molecules
+is still being defined,
+6968.61 we're trying to figure out
+what all these chemicals are.
+6971.53 We've mentioned the
+short-chain fatty acids,
+6973.29 but those are just the tip of the iceberg.
+6975.37 They are really interesting compounds
+6977.23 like indole derivatives and phenols,
+6982.559 derived from amino acids,
+metabolized by gut microbes,
+6986.48 taken up into the bloodstream.
+6988.2 And then we further metabolize these,
+6990.44 they become kind of
+co-microbe host metabolites,
+6993.93 and then they can go on and bind
+6995.77 to different receptors
+throughout our body,
+6998.11 anywhere our bloodstream has access to,
+7000.36 and start to trigger signaling cascades.
+7003.36 - Is it known whether or
+not any of those molecules
+7005.42 are small enough to cross
+the blood-brain barrier?
+7007.97 Because the hypothesis it
+and the current thinking
+7011.72 is that neurotransmitters
+manufactured in the gut,
+7015.54 and signaling along the gut-brain axis,
+7017.71 literally neurons talking
+back and forth electrically
+7020.58 from brain to gut and gut to brain
+7022.47 is what regulates things like mood,
+7023.777 or at least in animal models.
+7025.37 And there are some emerging human studies,
+7027.38 improvement of symptoms in
+autism spectrum disorders,
+7031.41 maybe even in ADHD.
+7032.82 What I'm basically saying here
+7033.73 is there is some evidence emerging
+7036.48 that improving the gut microbiome
+7038.14 can improve outcomes in psychiatric
+7040.62 and developmental disorders.
+7042.33 But what you're telling me is
+that the microbiota themselves
+7046.15 are manufacturing chemicals
+7047.44 that can make into the bloodstream.
+7048.76 And therefore I'm asking
+if those chemicals
+7050.77 can move from the bloodstream
+into the brain directly.
+7053.39 It may not be a gut-brain
+axis via neurons.
+7057.37 It actually could just be seepage
+7058.75 of serotonin into the brain,
+7060.527 or acetylcholine into the
+brain for that matter.
+7063.7 - Totally, yeah.
+7067.383 The biology of most of these molecules
+7071.13 is not well understood,
+7072.07 but certainly in like
+cerebral spinal fluid
+7074.43 that's been analyzed,
+7076.92 you can perceive these
+microbial metabolites,
+7079.54 so they are there.
+- That's the answer, yeah.
+7081.076 Some of them are getting
+across the barrier.
+7083.4 - But so a really interesting thing is,
+7085.08 I think a lot of these molecules are,
+7088.426 if they're experienced
+at high enough doses,
+7091.38 are toxic or have toxic properties.
+7094.36 We know that a lot of these metabolites,
+7097.63 when they make their way
+into the bloodstream,
+7098.925 eventually are excreted
+through the kidneys in urine.
+7101.76 So actually we can monitor the metabolism
+7103.86 that's going on in your
+gut by actually looking
+7106.26 at the metabolites that
+are present in your urine,
+7108.22 because many of those
+originated in your gut,
+7111.69 from your gut microbes.
+7113.06 But people with kidney disease,
+7115.001 whose kidneys' filtering processes
+7117.59 is not functioning properly,
+7119.24 actually build up high levels
+of many of these metabolites
+7123.95 into the bloodstream,
+7126.05 and that can lead to
+more of these molecules
+7130.43 making it across the blood-brain barrier.
+7132.76 And in fact, some of the
+transporters in the kidney
+7136.06 that are responsible for
+shuttling these molecules
+7138.41 out into urine, are also
+founded the blood-brain barrier
+7141.509 for shuttling the molecules
+back into the bloodstream
+7144.56 if they do get across.
+- Incredible.
+7146.24 - And we know that mental
+fog one of the big symptoms
+7150.37 of kidney disease, potentially
+because a lot of these
+7154.019 metabolites accumulate in blood,
+7156.27 and then make their way
+across the blood-brain barrier
+7159.14 into, yeah, the central nervous system.
+7161.4 - Amazing. I'm glad you
+mentioned mental fog.
+7163.2 A few years back, there were some reports,
+7166.806 some scientific reports and
+as a consequence in the media,
+7170.1 that excessive intake
+of pill-form probiotics
+7173.87 could create mental fog.
+7175.59 I don't know if that ever took hold.
+7177.99 And it raises a general question
+about pill form probiotics.
+7182.06 I took them for a few years,
+7183.42 just thinking that would be
+good for my gut microbiome,
+7185.53 and then I switched to
+the fermented food thing,
+7187.36 largely there's a consequence of the work
+7190.1 that you and Chris published.
+7192.198 But what what's the
+thought about probiotics
+7195.5 for the typical person
+that's not recovering
+7197.28 from a round of antibiotics
+7198.602 or that has been prescribed them?
+7202.064 I've heard that the species of microbiota
+7206.41 that they proliferate
+might not be the species
+7210.04 that we want to proliferate,
+7211.36 but I've also heard that
+maybe that doesn't matter.
+7213.43 So what's your general stance?
+7214.55 They can be quite expensive.
+7216.05 - Yeah.
+- Also,
+7216.883 I know I've been talking
+about expense a lot today,
+7218.41 but I always want to take into account
+7219.6 that people are showing up to the table
+7222.88 with a variety of budgets,
+and probiotics are one
+7225.35 of the more expensive
+supplements out there.
+7227.19 You can quickly get into the
+several hundreds of dollars
+7229.46 per month if you're
+getting the quote, unquote,
+7232.56 best quality ones.
+- Right.
+7234.176 - And if they're actually
+causing brain fog,
+7235.81 then I'm not sure I'd want to use them.
+7237.86 - No, completely.
+7238.707 And there's a ton of snake oil out there.
+7239.916 People know that they...
+7242.01 I think many of these companies are aware
+7245.84 that they can prey off of people's fears
+7247.5 and get a lot of money from
+them with absolutely no data
+7250.16 to back up that their
+probiotic is doing anything.
+7253.63 So I think the first thing
+to say is buyer beware,
+7256.7 because it's a supplement
+market, it's largely unregulated.
+7260.01 And that means that there
+7261.1 are a lot of bad products out
+there, and a lot of products
+7264.56 that even though they're
+not intended to be bad,
+7267.62 just don't have great quality control.
+7269.43 There have been several
+studies that have taken
+7271.73 off the over the counter,
+7273.81 just kind of off the shelf probiotics,
+7275.72 surveyed what's in there
+based on sequencing
+7278.99 and shown what is in there
+7282.56 does not match what's on the label.
+7284.68 - And that's true of many supplements,
+7286.22 and unfortunately supplement companies.
+7287.815 This is something we get
+into on the podcast a lot.
+7289.54 There are reputable brands and
+they go through a lot of work
+7292.782 to get things right, and there are many
+7295.65 that just for whatever reason,
+7297.88 it just doesn't match what's listed.
+7299.49 - Exactly, and so there are
+places that probiotic companies
+7304.81 can send their product to have
+it independently validated.
+7308.28 So you want to look for that sort
+7310.24 of validation on a product.
+7312.104 There also are names that
+are just very well-known,
+7315.48 and their reputations are on the line,
+7322.27 so they probably invest a little
+bit more in quality control
+7325.12 than maybe some of the
+other, lesser-known names.
+7328.56 But there's a huge range
+of data on probiotics.
+7334.26 And I think, the thing that
+we kind of recommend is,
+7339.433 try to find good products and
+then experiment for yourself
+7342.96 and see if you can find
+something that works for you.
+7344.81 I know people who have experienced
+7346.241 constipation and don't
+want to change their diet,
+7351.08 and have found a probiotic
+that helps them with that.
+7353.87 If you can find that right mix, great.
+7356.8 That's wonderful.
+7358.47 I would say that the data right now
+7360.83 is not overwhelmingly positive
+for what probiotics do
+7366.85 to the gut microbiota.
+7368.61 So there have been some
+nice studies looking
+7370.21 at the impact of probiotics on recovery
+7372.99 after antibiotic treatment.
+7375.02 And it appears to slow down the recovery
+7376.88 of the mucosal microbiota.
+7378.77 And some other studies that
+have where the big signal
+7385.32 isn't seen, as you might hope,
+7387.48 with a probiotic that's supposed
+7389.05 to treat a different disease.
+7390.4 There have been
+metaanalysis that do suggest
+7392.89 in certain instances, recovery
+from antibiotics that there,
+7397.69 even though it may cause your microbiome
+7399.72 to recover more slowly,
+7400.83 that it may actually
+prevent diarrheal disease,
+7404.16 recovery from viral diarrheas,
+probiotics may help.
+7407.44 But because there's such
+a huge range of products,
+7410.01 and because each person
+is their own little caper
+7413.07 when it comes to the microbiome,
+7414.321 it's really hard to know
+whether there are great products
+7419.53 for a given indication.
+7421.1 The really good advice that
+I've heard is try to find
+7425.31 a study that supports in...
+7428.76 A really well designed
+study, and this is very hard
+7431.13 for people who aren't
+scientists to evaluate.
+7433.55 But so if you're experiencing
+a medical problem,
+7436.19 or want to consult a doctor,
+that that might be helpful.
+7440.54 But finding a study where
+a specific probiotic
+7443.32 has successfully done whatever
+it is you're looking for,
+7447.09 and then sticking with that probiotic
+7449.131 is really the best recipe
+as a place to start
+7452.47 in this space, I think.
+7453.303 - And what about prebiotics?
+7454.56 Is there are a number of
+reasons why, I can imagine,
+7457.56 that prebiotics would be beneficial?
+7460.27 Which essentially it's, you're
+pushing the fiber system,
+7463.88 which we've talked a lot about today.
+7465.13 - Yeah, yeah, absolutely.
+7469.1 The studies that have
+been done on prebiotics,
+7473.45 it's really kind of a
+mixed bag of results.
+7477.71 There have been studies
+done with purified fibers
+7481.17 where you actually see
+micro biodiversity plummet
+7483.78 over the course of the study,
+7484.83 because you get a very specific bloom
+7487.82 in a small number of
+bacteria that are good
+7489.82 at using that one type of fiber.
+7492.16 And that's at the expense
+of all the other microbes
+7494.33 that are in the gut.
+7495.31 And so it's really hard to
+replicate with purified fiber
+7499.75 what you'd get, for
+instance, at a salad bar,
+7501.76 in terms of the array
+of complex carbohydrates
+7504.455 that you would be exposing
+your microbiota to.
+7506.87 And I think the kind of
+7511.87 broad view of this in the field
+7513.77 is that consuming a
+broad variety of plants,
+7517.555 and all the diverse fiber
+that comes with that
+7521.58 is probably better in fostering diversity
+7523.64 in your microbiota than purified fibers.
+7526.21 Now, there are, again,
+7528.23 a lot of people who benefit
+from purified fibers,
+7530.78 either for GI motility or for
+other aspects of GI health,
+7535.7 problems that they've been experiencing.
+7537.46 Again, I think it's the type of thing
+7538.75 where you have to try to find the thing
+7541.24 that's right for you.
+7542.166 But there also are studies that suggest
+7546.4 that if you layer rapidly
+fermentable fibers
+7550.91 on top of a Western diet,
+you actually can result
+7555.47 in weird metabolism
+happening in your liver,
+7558.71 because you have this incredibly
+rapid fermentation of fiber
+7561.7 along with a lot of fat
+coming into the system.
+7564.75 At least that's the theory.
+7566.76 And in a mouse study that was
+published a few years ago,
+7569.85 they actually see that
+a subset of the mice
+7571.86 develop hepatocellular
+carcinoma when they're fed
+7575.17 a high dose prebiotic-
+- Liver cancer.
+7577.466 - Liver cancer, a on
+top of a Western diet.
+7581.23 So whether that's
+representative of human biology,
+7583.96 we don't know,
+7584.98 but purified fibers are
+definitely very different,
+7588.638 both in terms of the
+diversity of structures,
+7590.97 but also in terms of how rapidly
+7593.58 they're fermented in the gut.
+7594.79 Because if you are eating plants,
+7598.136 the complex structures there
+really slow the microbes down
+7601.69 in terms of fermentation, and
+you end up with a slow rate
+7604.37 of fermentation over the
+length of your colon,
+7606.9 as opposed to this big burst
+of fermentation that can happen
+7610.06 if you eat something
+that is highly soluble
+7612.93 and easily accessed by the microbes.
+7616.04 - Interesting, so I guess,
+7617.26 is it fair to come back to this idea?
+7618.87 Try and avoid processed foods,
+7620.796 the highly palatable foods,
+7623.28 they're all sometimes super
+highly palatable foods.
+7625.45 They're now called,
+7626.51 that are packed with
+hidden sugars, emulsifiers.
+7628.52 So it sounds like some fiber is good,
+7631.808 and despite the outcome of the study,
+7634.01 you identified that if you have
+7635.39 the appropriate microbiota background,
+7638.473 then one will even better to the fiber,
+7641.76 maybe a longer ramp up
+phase for those folks,
+7644.62 and then the fermented foods.
+7646.55 'Cause there's no reason
+why you can't do both.
+7648.08 And as we've talked about before,
+7649.71 a lot of fermented foods have fiber.
+7651.84 So you can kill two birds with one stone.
+7653.77 - Totally.
+7654.603 And it could be that the
+diversity increase that we saw
+7656.74 in the high fermented food
+group could be something
+7659.55 that would aid the high fiber group.
+7661.85 And so now we're planning
+another study coming up
+7663.936 where we're doing high
+fiber, high fermented food,
+7666.84 and then fiber plus fermented food,
+7668.52 just to see if there's a
+synergistic effect there.
+7669.947 - Great, I want to enroll, seriously.
+7673.11 Although I guess I'm biased,
+7674.22 'cause I was sort of know
+where you're trying to..
+7676.096 Well, is it blood draws that you use
+7678.62 to measure the inflammatome?
+7680.21 - Exactly, so we do blood draws-
+7681.29 - [Andrew Huberman] Blood draws don't lie,
+7682.966 so that's good.
+- Yep, yep, right.
+7683.96 - So you've covered a tremendous
+amount of information,
+7686.9 and I'm incredibly grateful.
+7688.15 This was a area of biology,
+7689.89 that despite having learned
+a lot about through papers
+7692.27 and going to talks and
+reading articles in the media
+7696.24 has remained somewhat
+mysterious to me until today.
+7699.11 You've given us a very vivid picture
+7700.76 of how this system works.
+7703.47 Where can people find out more
+7704.78 about the work that you're doing?
+7706.34 We can certainly provide links,
+7707.546 and your wife who co-run your lab,
+7711.59 you have a book on this topic.
+7712.97 So could you tell us about the book,
+7714.07 where we can learn more
+about Sonnennburg Lab
+7715.763 and the work that you're doing?
+7717.47 Maybe people will even try and enroll
+7719.41 in some of these studies.
+7720.34 - Yeah, fantastic, yeah.
+7721.21 It'd be great if we could
+get people to enroll.
+7723.12 We're always looking for
+willing participants.
+7727.08 Yeah, so Erica, my wife and I wrote a book
+7729.8 called "The Good Gut," and
+that really was a response
+7734.61 to how we were changing our lives
+7737.1 in response to being in the field,
+7738.72 being very familiar with the research.
+7740.7 Seeing that a lot of our friends
+7741.84 that weren't studying that got microbiome,
+7743.39 but were very well informed,
+many of them scientists,
+7746.09 were not doing the same
+things we were doing.
+7748.114 And it was very clear that it was just
+7750.35 the lack of information funneling out
+7753.564 of the field to other people.
+7756.414 And so we were wanted to make
+that accessible to people
+7759.61 who are not microbiome scientists.
+7761.61 There's also a really interesting story.
+7763.27 We were at a conference site that just has
+7765.42 scientific conferences all summer long,
+7767.57 week after week, after
+week, different fields.
+7770.03 And so it's people that work there
+7771.67 that are just dealing
+with these new groups
+7773.35 coming in week after week and the week,
+7774.822 we were there for a microbiome conference,
+7778.879 people that work in the dining comments
+7782.62 came up to us and they said,
+7783.453 "What group is this? This is weird."
+7785.35 And we're like, "What's weird?"
+7786.33 And they said, "We can't
+keep the salad bar stocked."
+7788.588 And it was very clear
+that nobody was doing
+7791.43 what we were doing until we'd
+go to a microbiome conference
+7794.01 and then everybody was
+doing the same stuff
+7795.93 that we were doing.
+7796.91 And so anyway, we wrote this book to talk
+7799.46 about our personal journey
+and the science in the field,
+7801.978 and yeah, just to lay
+a foundation for people
+7805.93 if they want to start
+thinking about these changes.
+7807.95 And then in terms of
+connecting with our research,
+7811.72 certainly there's the Center
+for Human Microbiome Studies
+7814.28 at Stanford, which is
+kind of our home base
+7816.67 for doing a lot of these
+dietary and interventions.
+7818.66 We list the studies there,
+7820.072 give more information on what we're doing.
+7822.083 And then we have a lab website too
+7824.25 that people can go to and
+read more about our research.
+7827.39 Yeah, and we're always looking
+7829.57 for participants for our studies.
+7831.13 - Great, well, we will provide links
+7832.74 to all of those sources.
+7833.936 And I just want to say, thank
+you so much for sharing with us
+7837.91 your knowledge for the incredible
+work that you and Erica,
+7841.21 your wife and Chris do,
+and are continuing to do.
+7845.75 I think this is an area that,
+when I started my training,
+7848.86 I heard a little bit about microbiota,
+7851.83 and I always just thought that are people
+7852.85 that work on infectious
+disease and all the bad stuff.
+7855.38 So it's interesting and,
+and really important
+7859.39 that people realize that we're
+carrying all this vital cargo
+7862.32 and we need to take care of the cargo
+7863.9 so it can take care of us.
+7865.195 So thank you so much for your time
+7867.59 and for the work you do, and
+I hope we can do it again.
+7870.01 - Thanks Andrew. This
+was a great conversation.
+7871.895 - Terrific.
+7872.98 Thank you for joining me
+today for my discussion
+7874.81 with Dr. Justin Sonnenburg,
+all about the gut microbiome
+7877.84 and how to optimize your
+gut microbiome for health.
+7880.775 Please check out the
+Sonnenburg Lab webpage,
+7883.52 that's Sonnenburg, spelled
+S-O-N-N-E-N-B-U-R-G-L-A-B
+7889.417 .stanford.edu.
+7890.98 That's sonnenburglab.stanford.edu.
+7894.29 They often recruit for studies
+7896.27 exploring how different
+aspects of nutrition
+7898.5 impact the got microbiome,
+7899.94 much as we discussed
+during today's episode.
+7902.57 Please also check out the
+book that he and his wife,
+7905.01 Dr. Erica Sonnenburg wrote,
+called "The Good Gut."
+7907.61 It's readily available
+on all the usual sites,
+7909.75 such as Amazon and so forth.
+7911.43 If you're learning from and
+are enjoying this podcast,
+7913.68 please subscribe to our YouTube channel.
+7915.38 That's a terrific zero-cost
+way to support us.
+7918.13 In addition, please
+subscribe to the podcast
+7920.41 on Apple and Spotify.
+7922.1 And on Apple, you have the
+opportunity to leave us
+7924.37 up to a five star review.
+7925.93 You can also leave a comment
+on Apple, if you like.
+7928.5 The best place to leave us
+comments and feedback, however,
+7930.87 is on our YouTube channel
+in the comment section.
+7933.309 There you can suggest
+topics that you'd like us
+7935.89 to cover in future episodes,
+7937.29 guests that you'd like us to interview,
+7939.09 and give us feedback
+about any of the material
+7941.03 that you've heard or
+watched on this podcast.
+7943.508 Please also check out the sponsors
+7945.4 mentioned at the beginning
+of today's episode,
+7947.37 that's the best way to
+support this podcast.
+7950.08 We also have a Patreon, it's
+patreon.com/andrewhuberman,
+7954.0 and there you can support the podcast
+7955.76 at any level that you like.
+7957.33 On many episodes of the
+Huberman Lab Podcast,
+7959.16 including today, we discuss supplements.
+7961.169 While supplements are certainly
+not necessary for everybody,
+7964.16 many people derive
+tremendous benefit from them
+7966.44 for things like sleep and focus,
+7968.27 and indeed gut microbiome support.
+7970.739 The one issue with supplements, however,
+7972.81 is that many of the
+supplement companies out there
+7974.939 do not independently
+test their supplements.
+7977.55 So there isn't tremendous
+confidence in all supplements
+7980.815 that they contain the
+amounts of the ingredients
+7983.62 that are listed on the bottle,
+7984.88 and that the quality of the ingredients
+7986.46 is where it should be.
+7987.62 For that reason we've
+partnered with Thorne,
+7989.33 that's Thorne, T-H-O-R-N-E,
+because Thorne supplements
+7992.7 are known to have the very
+highest levels of stringency
+7995.12 with respect to the
+quality of the supplements
+7997.768 and the amounts of the supplements
+listed on their bottles
+8000.803 list what's actually in the
+containers, which is essential.
+8004.516 If you'd like to see the
+Thorne supplements that I take,
+8006.84 you can go to Thorne, T-H-O-R-N-E,
+8008.577 .com/u/huberman, and you can get 20% off
+8013.2 any of the Thorne supplements
+that are listed there.
+8015.45 Also, if you navigate
+deeper into the Thorne site
+8017.72 through that portal,
+thorne.com/u/huberman,
+8020.67 you can also get 20% off
+any of the other supplements
+8023.41 that Thorne makes.
+8025.09 If you're not already
+following Huberman Lab
+8026.78 on Instagram and Twitter, please do so.
+8028.98 There I cover topics about
+science and science-based tools,
+8032.04 some of which overlap with
+the content of this podcast,
+8034.6 much of which is separate and unique
+8036.59 from the content of this podcast.
+8038.4 We also have a newsletter,
+8039.67 it is called The Neural
+Network Newsletter.
+8041.57 Once a month, we put out short summaries
+8043.58 of podcast episodes and key takeaways,
+8046.38 actionable takeaways in particular.
+8048.26 You can sign up for that by
+going to hubermanlab.com.
+8050.531 You can look in the menu,
+8052.28 look for Neural Network Newsletter.
+8053.83 You can download previous
+newsletters to take a look
+8056.14 at what those are like and
+about even before signing up.
+8059.39 If you subscribe,
+8060.223 we don't share your
+information with anybody.
+8062.067 The privacy policy is made
+very clear at hubermanlab.com.
+8065.74 So thank you once again for joining me
+8067.26 for today's discussion
+about the gut microbiome,
+8069.63 and last, but certainly not least,
+8071.458 thank you for your interest in science.
+8073.564 [upbeat music]

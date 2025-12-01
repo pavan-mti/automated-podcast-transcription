@@ -1,0 +1,4139 @@
+0.35 - Welcome to the Huberman Lab Podcast,
+1.92 where we discuss science
+and science based tools
+4.92 for everyday life.
+6.318 [mellow music]
+9.15 I'm Andrew Huberman and I'm
+a Professor of Neurobiology
+11.68 and Ophthalmology at
+Stanford School of Medicine.
+14.122 Today we're talking all about habits.
+16.425 In particular,
+17.381 we're going to discuss the
+biology of habit formation
+20.902 and the biology of how we break habits.
+24.16 I think we can all appreciate
+the value of having habits.
+27.931 Habits organize our behavior
+29.92 into more or less reflexive actions
+31.88 so we don't have to think too much
+33.54 about performing the various
+behaviors that, for instance,
+37.16 allow us to brush our teeth
+38.419 or which side of bed we
+roll out of in the morning.
+41.459 And then of course, habits
+can be more elaborate too.
+44.5 We can be in the habit of exercising
+46.1 at a particular time of day.
+47.55 We can be in the habit
+of eating certain foods.
+49.23 We can be in the habit of
+saying or saying certain things.
+52.032 But of course,
+53.054 there are many habits
+that don't serve us well,
+55.92 or that perhaps even
+undermine our immediate
+58.5 and long term health goals
+and psychological goals.
+61.479 And even some habits
+62.373 that can really undermine
+our overall life goals.
+65.5 So today we're going to talk
+about making, meaning forming,
+68.62 and breaking, meaning
+stopping, various habits.
+71.061 There's a lot of information
+out there about habits.
+74.76 You'll find this in the popular sphere.
+76.27 There are books, there are
+articles, there are workshops,
+78.57 and so forth.
+79.84 However, lesser known is that
+there's a whole neuroscience
+82.85 of habit formation and habit breaking.
+84.84 And there's a whole field
+of psychology devoted
+86.94 to understanding habit
+formation and habit breaking.
+90.17 And within those scientific literatures,
+92.41 I think there are some real gems that,
+94.36 at least to my knowledge,
+95.43 we haven't paid too much attention to
+97.03 in the popular sphere.
+98.55 So today,
+99.383 we're going to talk about the
+biology of habit formation
+101.2 and habit breaking.
+107.88 I'm going to boil these down
+to some very explicit steps
+111.25 that anyone can use.
+113.3 My reasoning for doing
+that is, first of all,
+115.58 it's the end of 2021.
+117.65 Many people are thinking
+about new year's resolutions.
+119.69 They're thinking about leaving
+some things behind from 2021
+123.95 and previous.
+125.17 And acquiring some new behaviors,
+127.274 taking on some new challenges,
+128.93 and trying to bring new
+things to their lives.
+130.71 But regardless of when
+you're listening to this,
+132.494 the programs that I'll outline
+134.79 are grounded in the neuroscience
+136.25 and biology of habit formation.
+138.15 And they map very well
+139.31 to what the psychologists have described,
+141.1 in terms of habit formation and breaking.
+143.12 So today you're going to
+learn a lot of science,
+144.57 you're also going to come
+away with some practical tools
+146.326 and I'm certain that regardless
+of your present state
+148.81 or goals, there'll be
+something of value to you.
+151.5 Before we begin, I'd like to emphasize
+153.09 that this podcast is
+separate from my teaching
+154.85 and research roles at Stanford.
+156.56 It is, however, part
+of my desire and effort
+158.38 to bring zero cost to consumer information
+160.21 about science and science related tools
+162.11 to the general public.
+163.39 In keeping with that theme,
+164.28 I'd like to thank the
+sponsors of today's podcast.
+166.423 Our first sponsor is Athletic Greens.
+168.712 Athletic greens is in all-in-one vitamin,
+170.92 mineral, probiotic drink.
+172.67 I started taking Athletic
+Greens way back in 2012,
+175.17 so I'm delighted that they're
+sponsoring the podcast.
+177.67 The reason I started
+taking Athletic Greens
+179.23 and the reason I still
+take Athletic Greens is
+181.52 that because of the
+ingredients it contains,
+183.58 I know that I'm covering
+all of my foundation needs
+185.84 for vitamins, minerals, and probiotics.
+188.23 There is a wealth of knowledge
+now pointing to the fact
+190.92 that the so-called
+gut-brain axis is important
+193.167 for our brain health,
+for our metabolic health,
+196.28 for our hormone health,
+for our immune system,
+198.52 so the probiotics, vitamins,
+199.83 and minerals really support that system.
+201.75 And many of the other things it contains
+204.02 generally support our health,
+205.77 in terms of neural
+system, meaning the brain,
+207.96 the spinal cord, et cetera.
+209.221 Basically, Athletic Greens
+has all the things I need,
+212.13 nothing I don't, and by
+taking it once or twice a day,
+215.29 I always feel better
+216.25 and I know that I'm covering all my bases.
+218.594 If you'd like to try Athletic Greens,
+220.31 you can go to athleticgreens.com/huberman
+223.22 to claim a special offer.
+224.35 They'll give you five free travel packs
+225.93 that make it very easy
+to mix up Athletic Greens
+227.73 while you're on the road, in the car,
+229.13 or on the plane, et cetera.
+230.46 Plus, a year's supply of vitamin D3, K2.
+233.1 Again, go to athleticgreens.com/huberman
+235.89 to claim this special offer
+of the five free travel packs
+238.37 plus a year's supply of vitamin D3 and K2.
+241.39 Today's podcast is also
+brought to us by InsideTracker.
+244.11 InsideTracker is a
+personalized nutrition platform
+247.09 that analyzes data from your blood and DNA
+249.216 to help you better understand your body
+251.25 and help you reach your health goals.
+252.9 I've long been a believer in
+getting regular blood-work done
+255.628 for the simple reason
+that most of the factors
+258.68 that impact your immediate
+and long-term health
+260.74 can only be analyzed from
+a quality blood test.
+263.15 And nowadays, with the
+advent of modern DNA tests,
+265.55 you can also get insight
+into your particular needs
+268.3 for your genetic type.
+270.566 Now, a major issue with
+a lot of blood tests
+273.29 and DNA tests out there is
+you get the numbers back,
+275.38 you get a lot of information back,
+276.56 but you don't know what to
+do with that information.
+278.226 InsideTracker makes that very easy.
+280.37 They have a personalized platform
+282.087 where you get your numbers
+283.88 and it points to specific
+things that you can do,
+285.77 in terms of behavioral protocols,
+287.35 meaning things you perhaps
+should do more of or less of,
+289.764 nutritional protocols,
+291.67 things that you perhaps should
+ingest more of or less of,
+294.126 and various things that you might consider
+296.41 for more elaborate, directed approaches
+298.65 to adjusting the numbers in
+your blood and DNA profiles.
+301.695 Another feature of InsideTracker,
+302.723 is that it has what's
+called "The Inner Age Test".
+305.52 This test allows you to see
+what your biological age is
+307.8 and compare that to
+your chronological age.
+309.83 Of course,
+310.663 your biological age is the
+one that you can control
+312.82 and that's the one that's really important
+314.29 to your immediate and long-term health.
+316.16 If you'd like to try InsideTracker,
+317.56 you can go to insidetracker.com/huberman
+320.46 to get 25% off any of
+InsideTracker's plans.
+323.53 That's insidetracker.com/huberman
+to get 25% off.
+327.62 Today's episode is also
+brought to us by Helix Sleep.
+330.13 Helix Sleep makes mattresses and pillows
+332.7 that I truly believe
+are the best out there.
+335.696 I've been sleeping on a Helix mattress
+337.95 for about a year now
+339.07 and it's the best sleep I've ever had.
+340.476 One thing that makes Helix
+mattresses really unique
+343.193 is that they are tailored
+to your unique sleep needs.
+346.49 You can go to their
+website, you take a quiz,
+348.24 it only takes about two minutes,
+349.72 and it will match your body
+type and sleep preferences
+352.67 to a particular mattress.
+354.09 So, it will ask you questions such as,
+355.167 "Do you sleep on your side,
+you back, or your stomach?"
+357.987 "Do you tend to run hot
+or cold during the night?"
+359.7 Maybe you don't know.
+360.718 You answer those questions
+and it matches you
+362.95 to the mattress that's right for you.
+364.64 For me, that turned out to be
+the Dusk Mattress, D U S K.
+367.61 I wanted a mattress that
+wasn't too firm, not too soft.
+369.98 Anyway, I matched to the Dusk.
+371.55 I've been sleeping on a Dusk Mattress,
+372.98 as I mentioned before.
+374.45 It's been the best experience for me.
+376.05 My sleep is so improved.
+377.563 So if you're interested
+in upgrading your mattress
+379.61 go to helixsleep.com/huberman,
+381.88 take their two-minute sleep quiz,
+383.16 and they'll match you to a
+customized mattress for you.
+385.47 And you'll get up to $200
+off all mattress orders
+388.33 and two free pillows.
+389.74 Again, go to helixsleep.com/huberman,
+392.28 take their quiz, match to the
+mattress that's right for you,
+394.613 and if you decide to purchase it,
+396.15 you'll get up to $200
+off all mattress orders
+398.97 and two free pillows.
+400.19 They have a ten-year warrantee
+401.62 and if you want to try
+it out, you can do that
+403.66 for 100 nights risk-free.
+405.08 They'll even pick the mattress up for you
+406.34 if you don't love it,
+407.173 but I'm pretty confident that you will.
+409.24 Again, helixsleep.com/huberman
+411.728 is where you'll find the
+Helix mattress for you.
+414.14 Let's talk about habits.
+415.82 And anytime we're talking about habits,
+417.65 that means our nervous
+system learns something.
+420.653 Now, many people think that
+habits are just like reflexes,
+424.196 but pure reflexes are things
+like the eye blink reflex.
+428.27 You know, something comes towards your eye
+429.65 and you don't want it to get
+in your eye, you'll blink.
+431.787 Or if you happen to
+step on a sharp object,
+434.607 or get too close to
+something that's too hot,
+437.17 you'll reflexively move away.
+438.91 Those aren't habits.
+439.85 Those are what we call
+hard-wired reflexes.
+442.442 Habits are things that our
+nervous system learned,
+445.995 but not always consciously.
+447.94 Sometimes we develop habits
+that we're not even aware of
+450.178 until they become a problem
+452.39 or maybe they serve us well.
+454.09 Who knows?
+455.0 But the fact of the matter is
+456.019 that habits are a big part of who we are.
+458.359 What we do habitually makes up
+much of what we do entirely.
+463.43 In fact, it's estimated
+464.263 that up to 70% of our
+waking behavior is made up
+467.796 of habitual behavior.
+470.023 So, you can imagine that
+there's a lot of biology,
+473.308 meaning cells and hormones and
+neural pathways, et cetera,
+476.52 that are going to support
+development of those habits.
+479.74 So if habits are largely, learned,
+481.43 consciously or unconsciously,
+483.532 we have to ask ourselves,
+485.23 what is learning?
+486.26 Well, learning is neuroplasticity.
+488.91 Neuroplasticity is simply the process
+491.41 by which our nervous system changes
+493.28 in response to experience.
+494.861 We have to ask, what changes?
+496.97 Well, what changes are the
+connections between neurons.
+499.87 Neurons are just nerve cells.
+501.26 They communicate with one
+another by electricity
+503.7 and by sending chemical
+signals to one another
+506.1 that inspire the next
+neuron and the next neuron
+508.65 to either electrically active or not.
+510.797 But at the end of the day,
+512.26 neuroplasticity is about
+forming new neural circuits,
+515.46 new pathways by which certain
+habits are likely to occur,
+518.66 and other ones are less likely to occur.
+520.572 So, we've got habits.
+521.862 We have that habits are learned,
+524.11 we have that learning
+involves neuroplasticity,
+526.66 and that neuroplasticity involves changes
+528.65 in the connections between
+neurons, nerve cells.
+531.17 Okay, so that describes
+habits through the lens
+533.81 of neuroscience and biology,
+535.94 but as many of you are well aware,
+537.737 there are popular books about habits
+539.807 and there's a whole psychological
+literature about habits,
+542.208 and those two areas point
+545.61 to some very interesting aspects of habits
+547.55 that I think are worth mentioning.
+549.15 First of all is this notion
+of immediate goal-based habits
+553.62 versus identity-based habits.
+555.927 Immediate goal-based habits
+are going to be habits
+558.72 that are designed to bring
+you a specific outcome
+561.223 as you do them,
+562.85 so each and every time you do them.
+564.6 So for instance,
+565.433 it might be that you want to
+develop a habit of getting,
+568.047 you know, 60 minutes of
+zone II cardio each day,
+572.326 or perhaps 3-4 times per week,
+as we head into the new year.
+576.91 I've talked before on the
+podcast about the fact
+579.24 that the scientific literature
+580.307 and the health literature really points
+581.88 to the incredibly positive effects
+584.22 of getting 150 minutes to
+180 minutes per week minimum
+588.096 of what's called zone II cardio.
+590.29 Zone II cardio is basically
+any cardiovascular exercise
+593.476 that gets you moving,
+and your heart pumping,
+596.23 and breathing,
+597.582 but not so hard that you
+can't hold a conversation,
+599.21 and so that kind of puts
+you at the threshold
+602.072 of just being just able
+to have a conversation
+602.905 that's a little bit strained,
+603.99 but if you were to exercise
+a little bit harder,
+605.99 you know, run a little
+bit faster, et cetera,
+608.13 you wouldn't be able to
+talk while you did it.
+609.987 There's a lot of literature
+that points to that
+612.19 as a healthy practice.
+613.7 So maybe you're somebody that wants
+615.24 to get more of zone II
+cardio, for instance.
+618.047 That would be an
+immediate goal-based habit
+621.476 if your goal is to get that cardio,
+625.13 maybe 4 times a week.
+627.29 Every time you do it you
+check off a little box
+629.25 and you say, "Okay, I did
+it." You met the goal.
+632.54 That is different than
+so-called identity-based habits
+636.1 where there's a larger,
+over-arching theme to the habit,
+639.58 where you're trying to
+become, quote unquote,
+641.777 "a fit person".
+642.8 Or you're somebody who
+wants to be an athlete
+646.19 or something of that sort.
+647.18 It's where you start to attach
+some sort of larger picture
+649.78 about yourself or what it
+means for you to do that habit
+653.33 where there's both the
+immediate goal, right?
+656.32 Complete the exercise,
+complete the session,
+658.99 or whatever it is, check off that box.
+661.258 But that you're linking it
+to some sort of larger goal.
+663.91 Now, why am I making this distinction?
+665.38 I mean, first of all,
+666.32 I'm not the one to first
+make this distinction.
+668.2 Others have made the
+distinction between identity
+670.067 versus immediate
+goal-based habit formation.
+672.541 But the reason I'm
+making the distinction is
+674.35 that pretty soon in our discussion today
+676.007 we are going to talk about dopamine,
+678.47 a molecule that's associated
+with motivation and reward,
+682.27 that we make in our brain,
+684.029 and how different schedules
+of dopamine release
+687.764 predict where we will
+stick to a habit or not.
+691.513 And in particular,
+692.61 whether or not we will be able
+to form that habit quickly
+695.082 or not.
+695.915 Now, this is absolutely
+critical to understand
+699.34 for the following reason.
+700.81 Another thing that you'll hear
+out there in the literature
+702.96 is that it takes 21 days to form a habit.
+705.28 Some people say 18, some people say 21,
+707.64 some people say 30 days,
+some people say 60 days.
+710.094 So which one is it?
+711.31 Does it depend on the habit
+that one is trying to form?
+713.51 Or does it depend on the person
+714.67 that's trying to form the habit?
+716.4 Well, it turns out
+717.233 that there's excellent
+peer-reviewed data on this.
+719.63 There's a study published in 2010,
+721.02 first author Lally, L A L L Y.
+723.436 This study found that,
+724.87 for the same habit to be formed,
+727.441 it can take anywhere from 18 days
+730.74 to as many as 254 days
+for different individuals
+734.62 to form that habit.
+735.62 The reason I bring this up,
+is that I always get asked,
+738.307 "Is it true that it takes
+21 days to form a habit?"
+740.947 "Is it true that your nervous
+system changes in six days"
+743.527 "when you're doing something repeatedly?"
+745.64 And the answer is, as I mentioned before,
+748.01 it's highly variable.
+749.46 What I didn't tell you actually,
+750.73 is what specific habit
+they were looking at
+752.47 in that Lally study.
+754.04 And it's interesting that
+the specific behavior
+756.55 was a health-related behavior.
+758.7 That's pretty relevant
+to our discussion here,
+760.36 on the podcast.
+761.34 Which was taking walks after dinner.
+763.78 There's actually a really nice literature
+766.0 showing that walks after a meal
+768.37 can speed glucose clearance
+from the blood stream,
+771.31 can be beneficial for
+not just weight loss,
+773.41 but cardiovascular health, et cetera.
+775.64 So a walk after dinner seems
+pretty straight-forward, right?
+778.26 Well, in order to form that habit,
+780.141 it took some people 18 days
+and other people 254 days.
+785.1 How did they know when
+they formed the habit?
+786.44 Well, they were doing
+it about 85% of the time
+789.415 and they also reported not having to spend
+792.41 that much mental effort in
+order to get into to the mode
+796.43 of taking a walk after dinner.
+797.95 So, for those of you listening,
+799.03 some of you might be thinking,
+799.937 "I can't believe that it would
+take certain people 254 days"
+802.667 "to get into that habit."
+804.21 As I said, people are highly variable
+806.266 and if you can't form one habit easily,
+809.13 it doesn't mean that you can't
+form other habits easily.
+811.538 The mystery of why certain people
+814.67 can form certain habits
+more easily than others?
+817.36 Probably has something to
+do with how people manage
+820.73 what's called limbic friction.
+822.39 Now, limbic friction is not a
+term that you're going to find
+824.972 in the formal neurobiological literature
+827.72 or even some of the
+psychological literature.
+829.49 It's, frankly, a term that I coined
+831.486 to encompass a number of different pieces
+834.9 of the psychology and
+neuroscience literature.
+837.48 Limbic friction is a short-hand way
+839.73 that I use to describe
+the strain that's required
+843.12 in order to overcome one of
+two states within your body.
+847.0 One state is one of anxiousness,
+848.91 where you're really anxious
+849.93 and therefore you can't
+calm down, you can't relax,
+853.51 and therefore you can't engage
+in some particular activity
+856.0 or thought pattern that you would like.
+857.83 The other state is one in
+which you're feeling too tired
+860.21 or lazy or not motivated.
+862.67 Both of those states, feeling too alert
+865.14 and too calm, if you will,
+866.8 relate to the function
+867.66 of the so-called autonomic nervous system,
+869.69 a set of neurons and hormones
+and chemicals in your brain
+872.75 and body that act as sort of a see-saw.
+874.69 You're either alert or calm.
+876.17 You're either asleep or stressed.
+878.25 Those two states are not
+compatible with one another.
+881.3 You've probably heard of "wired and tired"
+882.99 but that's really once
+you've been very stressed
+885.04 for a long time, to the
+point where you're exhausted.
+887.55 What does the autonomic
+nervous system have to do
+889.22 with any of this?
+890.053 Well, limbic friction is a phrase
+893.095 that can be used to
+describe how much effort,
+895.84 how much activation energy you need
+898.51 in order to engage in
+a particular behavior.
+900.69 So, using this Lally study as an example,
+903.3 some people would eat
+dinner, and then say,
+905.367 "Oh, that's right, I've been
+trying to develop the habit"
+907.367 "of taking a walk after dinner."
+908.977 "So, let's get up and go."
+910.47 Other people will feel like,
+911.303 "I just don't want to do it today."
+912.67 They're going to feel
+too much limbic friction
+914.64 and that limbic friction
+could arrive, again,
+916.75 from one of two sources.
+918.11 It could be because they
+are too tired to do it
+920.55 or it could be because they're too anxious
+922.69 and distracted in order to do it.
+925.0 So, this is a key distinction.
+927.19 A lot of habit formation has to do
+929.08 with being in the right state of mind
+930.96 and being able to control
+your state of body and mind.
+934.42 So as we march forward,
+935.44 what you're going to
+find is that this phrase
+937.325 or this term, limbic friction,
+939.0 is going to be a useful metric
+940.62 or a way for you to touch in with yourself
+942.83 and address whether or not you are likely
+945.04 to be able to form a certain habit easily
+947.14 or whether or not it's going
+to be very challenging.
+949.23 And I'm going to teach you a way
+950.75 to measure your degree of limbic friction.
+953.16 That is, how much activation
+energy it will take
+955.73 in order for you to execute a new habit.
+958.71 And I'm going to teach you
+960.0 how to measure your limbic friction
+961.59 and activation energy for how likely it is
+963.97 that you're going to be
+able to break a habit
+966.34 that you don't want to have.
+967.96 The other key concept for us to address
+970.2 that's really mainly found in the books
+972.24 and articles out there about habits,
+974.22 is this notions of what
+I call linchpin habits.
+976.85 Linchpin habits are certain habits
+978.91 that make a lot of other
+habits easier to execute.
+981.669 Now, the sorts of linchpin habits
+983.88 that I'm referring to are
+always going to be things
+986.22 that you enjoy doing.
+987.91 I'll just give you an
+example from my life.
+989.827 I happen to like exercise.
+991.726 Not all forms of exercise,
+993.306 but I happen to like resistance training
+995.8 and I happen to like running.
+997.26 So I'm personally in the habit
+998.35 of getting cardiovascular
+exercise 3 or 4 times per week.
+1001.48 Maybe 30-60 minutes per session.
+1004.15 And I'm in the habit of
+doing resistance training 3
+1006.91 or 4 times per week,
+1008.38 typically also for about 45
+to 60 minutes per session.
+1011.99 Now, I enjoy those,
+1013.169 and for reasons that I'll
+get into a little bit later,
+1015.81 I enjoy those activities
+typically early in the day
+1018.723 because of the neurochemistry
+1020.186 and the various types
+of hormones, et cetera,
+1023.02 that are associates with
+performing those activities.
+1025.89 But I really place those
+activities under the umbrella
+1029.41 of what I call linchpin habits.
+1032.03 Why? Because those
+particular habits are easy
+1034.76 to execute because I enjoy them.
+1036.54 But they also make a lot of
+other habits easier to execute.
+1040.56 Things like being alert for work,
+1042.696 things like making sure
+1044.55 that I get good sleep the night before,
+1046.28 things like hydration,
+1047.53 things like making sure
+that I eat the foods
+1049.61 that are better for me than
+some of the other foods
+1052.32 that maybe I would more
+reflexively reach to
+1054.67 if I weren't doing that training.
+1056.42 So certain habits act as linchpins,
+1059.21 meaning that they shift
+a lot of other things.
+1061.37 They can control and
+bias the likelihood that,
+1064.174 in this case you or me,
+1066.009 will perform other habits
+that are harder to access,
+1069.023 that we have less of an affinity for.
+1072.14 So again,
+1073.01 there's three concepts that
+we need to include here.
+1075.02 We've got identity-based
+versus goal-based habits.
+1078.04 We've got the concept that
+typically different habits
+1080.92 take different periods of time to adopt,
+1083.07 depending on the person and the habit.
+1084.8 And that there are these,
+what I call linchpin habits.
+1087.449 Certain habits that make other
+habits easier to execute.
+1091.03 And those linchpin habits
+1092.38 always, always, always are
+things that we enjoy doing.
+1096.33 So our goal throughout this
+episode is for you to identify
+1099.05 which habits are easy for you to perform,
+1102.09 which ones are hard for you to perform,
+1104.04 and which habits you want to break.
+1106.02 If you want to grab a pen
+and paper, you can do that.
+1108.1 Or if you want to dictate
+some of that into your phone,
+1110.21 you can.
+1111.32 But right now, actually,
+1112.36 if you just want to think
+about these concepts,
+1114.38 you can always go back later,
+1115.688 I'll be sure to spell
+out a very specific way
+1118.66 that you can chart out a map
+1120.41 towards forming particular habits
+1121.857 and breaking particular habits later on.
+1124.87 What I'd like us to do at this point is
+1127.29 to take that concepts of limbic friction
+1129.445 and for you to ask yourself
+1131.526 what habits you perform on a daily basis,
+1134.478 and these could be things as basic
+1137.46 as brushing your teeth before breakfast,
+1139.84 or brushing your teeth after breakfast.
+1141.27 It could be, for instance,
+that you get exercise
+1143.95 or you get it at a particular time of day,
+1145.51 or even that you take a
+particular route to work, right?
+1148.32 We are very habitual
+1149.268 and we tend to do things
+more or less over and over
+1152.53 in the same way, unless
+we intervene in ourselves.
+1155.15 That's just the way that we are wired.
+1156.703 So now I'd like you to shift
+1158.38 to thinking about a
+particular aspect of habits
+1161.17 and that's habit strength.
+1164.23 Now, you all have different habits.
+1166.25 You probably brush your teeth
+at a particular time of day,
+1168.32 you probably exercise at
+particular times of week,
+1170.396 you probably go to the refrigerator
+in a very habitual way.
+1173.16 We are incredibly habitual organisms.
+1176.35 Unless we intervene in our habits,
+1177.81 they tend to carry out the
+same way that they always have
+1180.2 once they've formed.
+1181.69 So you can do this exercise now,
+1183.17 you don't have to write this
+down if you don't want to,
+1184.83 but you certainly are welcome.
+1186.284 We're going to evaluate
+what's called habit strength.
+1189.3 That's not a concept that I created.
+1190.85 Habit strength is something
+1191.75 that you will find in the
+psychological literature.
+1194.21 Habit strength is measured
+by two main criteria.
+1197.43 The first, is how
+context-dependent a give habit is.
+1201.777 So, context dependence is,
+1203.979 if you go from one
+environment to the next,
+1207.47 do you tend to do the same thing,
+1209.05 in the same way, at the same time of day?
+1211.29 So, for instance,
+1212.123 brushing your teeth firs
+thing in the morning.
+1213.48 Maybe some of you do
+that before breakfast,
+1215.08 maybe some of you do that later,
+1216.35 maybe some of you, like me,
+don't even eat breakfast.
+1218.377 But when I travel, I tend
+to brush my teeth at more
+1222.13 or less the same time of day
+relative to when I wake up
+1225.46 as I do when I'm at home.
+1226.45 So it's context independent.
+1228.31 So it's a very strong habit, right?
+1231.44 There are certain behaviors,
+1233.281 like perhaps what you eat,
+1235.568 or, you know, perhaps how you dress,
+1238.3 that are context independent,
+1240.51 that you might perform
+one way in one context,
+1243.483 and another way in another context.
+1245.8 The other aspect of habit strength is
+1247.61 how much limbic friction is required
+1249.76 to perform that habit on a regular basis.
+1252.04 This is extremely important
+1253.62 because if you are in the
+process of building habits
+1257.34 and consolidating those habits,
+1259.193 then it's probably going to
+take more limbic friction
+1263.65 to execute those habits.
+1265.27 What do I mean by that?
+1266.103 Well, let's say you set out to get,
+1268.726 let's say 45 minutes of zone
+II cardio exercise every day,
+1272.71 5 or maybe even 7 days a week.
+1274.819 Well, if at first you're highly motivated,
+1278.34 limbic friction might be pretty low.
+1280.54 Limbic friction is how much top-down,
+1282.74 meaning from your fore-brain
+to your limbic system,
+1284.94 the part of you brain that
+generates autonomic responses,
+1287.8 how much limbic friction,
+1290.27 meaning conscious over-ride
+of your state is required
+1295.44 in order to engage in
+that particular behavior.
+1297.44 So, if you're feeling particularly tired
+1298.76 and you don't want to get out of bed,
+1300.16 and you don't want to go out
+and do your zone II cardio,
+1302.003 then there's a high
+degree of limbic friction.
+1304.534 It takes, some people
+think of it as motivation,
+1307.34 but motivation is a
+bit of a vague concept,
+1309.33 whereas limbic friction involves
+specific neural circuits
+1311.95 and you can think of it in a
+more or less quantitative way.
+1314.31 You can think of that
+your body is very tired,
+1316.82 so it's going to take more limbic friction
+1318.46 in order to get into action.
+1320.3 Right?
+1321.133 You're going to have to
+overcome more limbic friction,
+1322.42 excuse me.
+1323.253 Whereas if you're very, very alert,
+1324.906 there's less limbic friction
+1326.68 because you're moving toward something
+1328.21 that's action oriented.
+1329.84 However, the inverse is also true.
+1331.628 Let's say that you are
+trying to get into the habit,
+1334.66 or you're in the early
+stages of forming a habit
+1336.91 to meditate regularly.
+1338.245 That's a pretty quiescent
+or calming activity,
+1342.04 so if you're somebody
+who comes home from work
+1343.59 and you're very anxious and
+you have a lot of work to do
+1346.36 and you have to deal
+with a bunch of things,
+1348.03 there's a lot of limbic
+friction to overcome
+1350.29 in order to get into that calm state.
+1352.426 So these two aspects, context dependence,
+1355.86 whether or not you're like to do the thing
+1357.52 regardless of where you are.
+1359.62 Right? On travel, at home, on vacation,
+1362.15 with people around, not
+people around, et cetera.
+1364.52 And how much limbic friction is required
+1366.671 to execute that habit,
+1368.43 will tell you whether or
+not that habit is deeply
+1370.55 or just shallowly embedded
+within your nervous system.
+1374.47 The goal of any habit that we want to form
+1376.71 is to get into what's called automaticity.
+1378.96 Automaticity is fancy language
+1380.85 for the neural circuits can
+perform it automatically,
+1383.58 and that's the ultimate place to be.
+1385.557 All right, if you have all these goals
+1388.344 and things that you want to
+be doing on a regular basis,
+1390.4 you'd love for them to be habitual
+1392.04 because it takes less
+mental and physical effort,
+1394.693 less limbic friction,
+1396.34 in order to execute those.
+1397.87 And so much of what's out there,
+1399.87 again in the popular
+psychology literature,
+1402.36 in books that you'll find
+on the bookstore shelf
+1404.36 and on Amazon, and in the airports,
+1406.15 are about how to get
+1407.45 from that mode of high
+degree of limbic friction
+1409.87 to automaticity.
+1411.17 And they offer a number of different ways,
+1413.07 I think many of which are useful,
+1414.497 trying to get you to organize
+different types of habits
+1417.22 into different bins, like
+value-based, and goal-based,
+1419.99 and trying to persuade you
+1421.43 that structuring habits at
+the particular times of day
+1423.93 or in a particular way are
+going to be beneficial,
+1426.07 and indeed, I think they
+have helped a lot of people.
+1428.48 So what I'd like to do is to
+take the scientific literature
+1431.89 of how the nervous system learns
+1433.61 and engages in plasticity,
+1435.4 and apply that to habit formation,
+1438.04 habit maintenance, and if so desired,
+1440.92 how to break particular habits.
+1443.06 I'd like to give you a particular tool
+1444.85 that's gleaned from the
+research psychology literature.
+1447.45 I should mention that I learned about this
+1450.58 from an excellent review article
+1452.59 that's available online.
+1453.57 It's called Psychology of Habit.
+1455.39 The authors are Wendy
+Wood and Dennis Ruenger,
+1458.09 this is published in Annual
+Review of Psychology.
+1461.25 The Annual Reviews series is
+a very high quality series.
+1465.004 There are annual reviews of neuroscience,
+1467.73 annual reviews of psychology,
+1469.07 annual reviews of nutrition
+science, et cetera.
+1471.27 For those of you
+1472.103 that are interested in
+exploring review articles
+1474.06 that are grounded in hundreds of quality,
+1477.01 peer-reviewed studies,
+1478.49 the Annual Review series
+is really terrific.
+1481.09 Certainly among the best, if not the best.
+1483.32 And they also tend to be quite
+long and quite comprehensive.
+1485.91 So this review, Psychology
+of Habit by Wood
+1486.743 and Ruenger, is excellent.
+1489.728 And here I'm more or less
+paraphrasing from them,
+1493.43 so I want to be clear that
+these are their words, not mine.
+1497.01 They're talking about the various ways
+1499.639 that habits form in the nervous system
+1501.617 and they mention, with
+each repetition of a habit,
+1505.997 small changes occur in the
+cognitive and neural mechanisms
+1509.199 associated with procedural memory.
+1511.68 So I just want to talk for a second
+1512.99 about what procedural memory is.
+1514.578 In the neuroscience of memory,
+1516.67 we distinguish between
+what's called episodic memory
+1519.31 and procedural memory.
+1520.89 Episodic memory is a recall
+of a particular set of events
+1524.93 that happened,
+1525.763 whereas procedural memory
+1527.06 is holding in mind the
+specific sequence of things
+1529.84 that need to happen
+1530.78 in order for a particular
+outcome to occur.
+1532.545 So think of it like a
+recipe or a protocol,
+1535.353 or for the sake of exercise,
+1537.48 it's like sets and reps,
+1538.56 or a particular course that
+you're going to run or cycle,
+1541.57 or the number of laps you're going to swim
+1543.5 and how you're going to perform it.
+1545.642 It's very clear that for anyone
+trying to adopt new habits,
+1549.838 getting into the mindset of
+procedural memory is very useful
+1554.04 for overcoming that barrier
+that we call limbic friction.
+1556.97 How do you do that?
+1557.96 Well, a simple visualization exercise,
+1560.66 or it doesn't even have
+to be done eyes closed.
+1563.377 You know, often times we
+hear visualization exercise,
+1565.64 you think about sitting in a
+lotus position, eyes closed,
+1567.79 you know, trying really
+hard to visualize something.
+1570.04 Doesn't need to be anything like that.
+1572.01 It can simply be, if you are
+deciding to adopt a new habit,
+1576.259 to just think about the very
+specific sequence of steps
+1579.89 that's required to execute that habit.
+1582.492 And I'll use a trivial example,
+1584.654 but this could be applied to anything.
+1586.66 Let's say I want to get into
+the habit of making myself,
+1589.67 or someone else in my household,
+1591.13 a cup of espresso every morning,
+1593.039 I would actually think
+through each of those steps.
+1596.69 Walk into the kitchen, turn
+on the espresso machine,
+1600.25 draw the espresso.
+1601.27 Walking through each of those
+steps, from start to finish,
+1604.12 and it turns out just that
+simple mental exercise done once
+1607.423 can shift people towards
+a much higher likelihood
+1610.69 of performing that habit regularly,
+1613.09 not just the first time,
+1614.47 but as they continue out into the days
+1616.99 and weeks that follow.
+1618.17 So that's remarkable to me
+1619.3 and the literature is really robust.
+1621.33 Just one mental exercise
+of thinking through
+1624.043 what are the sequence of steps required
+1627.07 in order to perform this
+habit from start to finish
+1629.304 can shift the likelihood of
+being able to perform that habit
+1633.39 from unlikely or moderately likely,
+1635.79 to very likely over time.
+1637.47 And that's because it
+pulls from this process
+1640.225 that involves our
+hippocampus and our neocortex
+1642.93 and other areas of our
+brain and nervous system,
+1645.35 that engage in procedural memory.
+1646.91 It shifts the brain towards
+a mindset, if you will.
+1649.824 It's more of a neural circuit
+set, would be more accurate.
+1653.63 But a mindset/neural circuit set
+1656.66 of doing things in a particular sequence,
+1659.0 which allows that limbic
+friction to come down
+1661.79 and increases the likelihood
+1663.23 that we're going to perform that thing.
+1665.506 Simple tool but very powerful too,
+1666.907 according to the psychology literature.
+1668.55 And actually, the cellular
+and molecular mechanisms
+1670.78 that underlie that sort
+of procedural memory,
+1673.73 stepping through phenomenon are known.
+1676.383 In this article I mentioned,
+this beautiful review,
+1679.87 they talk about so
+called Hebbian learning.
+1683.54 Donald Hebb was a psychologist in Canada
+1686.25 and birthed this field
+that has now lasted, gosh,
+1689.88 more than 50 years and
+is still very strong
+1691.91 in neuroscience and psychology
+of Hebbian learning.
+1694.7 Hebbian learning is when
+particular neurons are co-active,
+1698.39 meaning when they fire together,
+1699.68 they tend to strengthen their connections
+1701.54 with one another.
+1702.41 And it has a number of different cellular
+1704.39 and molecular features
+1705.36 that we don't have to go into in detail,
+1706.76 but for those of you that want to know,
+1708.01 I know some of you are hungry
+1709.08 for a little bit more neuroscience,
+1711.466 this involves things like NMDA receptors
+1714.7 and methyl-D-aspartate receptors.
+1717.153 NMDA receptors are
+really important I think
+1719.18 for everyone to understand.
+1720.69 So I'll just tell you a
+little bit about them.
+1722.29 These are receptors that
+are on the neuron's surface
+1725.11 and normally they don't contribute much
+1726.84 to the activity of those neurons.
+1728.47 Those neurons are perfectly
+capable of doing their thing
+1730.72 without activation of this NMDA receptor.
+1733.26 But when a neuron gets
+a very strong input,
+1735.9 a strong stimulus,
+1737.44 that NMDA receptor triggers
+a number of mechanisms
+1740.374 that recruit
+1741.85 to the surface of the
+neuron more other receptors.
+1744.45 In other words, it makes
+that neuron more responsive
+1747.46 to input in the future
+1748.647 such that it doesn't
+require so much input.
+1751.41 In other words, it takes a neuron
+1754.153 that is very unlikely to fire
+1756.221 and makes it more likely to fire.
+1758.44 So this procedural stepping through
+1760.37 of the steps of the recipe
+1761.67 or the series of actions
+steps that are involved
+1764.44 in sitting down to study
+and writing for an hour,
+1767.16 or generating exercise,
+1768.74 whatever is the habit that
+you're trying to learn.
+1770.65 When you're doing that exercise,
+1772.37 it's not as if your nervous system
+1773.73 thinks you're actually
+performing that behavior.
+1775.59 Your nervous system isn't stupid.
+1776.88 It's actually a lot smarter than that.
+1778.53 It knows the difference between
+a thought and an action,
+1781.09 but when you do that,
+1782.17 it sets in motion the same neurons
+1784.37 that are going to be required
+1786.06 for the execution of that habit.
+1787.92 And so when you actually show
+up to perform that habit,
+1790.436 it's as if the dominoes fall more easily.
+1793.6 It's a lower threshold, as we say,
+1796.48 in order to get the habit to perform.
+1798.53 So, Hebbian learning, NMDA receptors,
+1800.87 all that nuts and bolts stuff.
+1803.33 Really the guts of the
+mechanisms of how this works.
+1805.7 But for those of you that just want
+1807.811 to be more habitual about certain things,
+1809.96 be able to perform certain
+things more reflexively,
+1811.95 that you would like in your life,
+1813.22 simply take the time,
+do it once, maybe twice,
+1816.2 and just sit down, close
+your eyes if you like,
+1818.65 and just step through the procedure
+1820.22 of what it's going to take in
+order to perform that habit.
+1822.772 The psychology literature, as I mentioned,
+1825.13 and also the neuroscience literature,
+1826.926 strongly supports the fact
+1828.649 that it is going to make it far easier
+1831.24 for you to adopt and maintain that habit.
+1833.68 And if you are somebody who
+used to perform a habit,
+1836.6 and you don't understand
+why you dropped it,
+1839.06 and you're frustrated with yourself,
+1840.55 and you're trying to figure out
+1841.72 how you can get back into that habit,
+1843.8 well by all means,
+1844.81 lean right back into that habit,
+1846.15 but if you're having trouble doing that,
+1847.487 also just use the
+procedural memory exercise
+1850.265 in order to shift your nervous system
+1852.502 towards a higher likelihood
+1854.777 that you will return to that habit
+1857.14 just the same way I described for trying
+1859.13 to initiate a new habit.
+1860.81 So now I'd like to discuss a second,
+1862.48 and what I think is perhaps
+the most powerful tool
+1865.115 for being able to acquire
+and stick to new habits.
+1870.29 This tool is rooted in what
+we call neural circuits
+1872.71 and I do think it is important
+to understand a little bit
+1875.21 about how those neural circuits work.
+1877.42 For those of you that are saying,
+1878.327 "Just tell me what to do."
+1880.21 I have to say, as I always say,
+1882.31 understanding a little bit or
+a lot of underlying mechanism
+1885.503 will help solidify these concepts for you
+1889.22 and will help ensure that the tools
+1891.22 that I offer are going to make sense
+1893.24 and that they're going
+1894.073 to make sense in differing contexts
+1895.38 and for different types of habits
+1896.88 that you're tying to learn.
+1898.18 So, rather than just tell you what to do,
+1899.87 I'm going to tell you how
+this particular tool works,
+1902.247 and then in doing that,
+1903.77 you should be able to
+apply it to any habit,
+1905.55 under any conditions.
+1906.792 The tool that I'm referring to
+1908.776 is something called task-bracketing
+1911.81 and the neural circuits
+associated with task-bracketing
+1914.92 are basically the neural circuits
+1916.57 that are going to allow you
+to learn any new type of habit
+1920.13 or break any habit that
+you'd like to break.
+1922.568 We have in our brain a
+set of neural circuits
+1925.9 that fall under the umbrella
+term of the basal ganglia.
+1928.73 The basal ganglia are
+involved in action execution,
+1932.04 meaning doing certain things,
+1933.59 and action suppression,
+not doing certain things.
+1938.54 In the experimental realm,
+1940.19 these are referred to as go, meaning do,
+1942.62 or no go, don't do, certain things.
+1945.136 And some of us fall more into the category
+1947.88 of we find it very easy
+to do certain things,
+1949.839 but harder to not do other things.
+1952.97 Some people have a lot
+of no go type circuits
+1956.82 that are very robust,
+1957.87 and they have a lot of
+behavioral constraint,
+1959.746 but they have a harder
+time getting into action.
+1962.01 And some people have a
+perfect balance of both,
+1963.95 but I've never met one of those people.
+1965.826 So again, drawing from,
+more or less paraphrasing
+1969.73 from this beautiful review
+that I described earlier
+1972.94 in Annual Review of Psychology, excuse me,
+1976.52 by Wood and Ruenger,
+1977.821 task-bracketing involves a
+particular set of neural circuits
+1981.92 within the basal ganglia,
+1983.65 so I'm going to describe this
+here, again paraphrasing,
+1987.24 a sensory-motor loop.
+1988.51 Sensory means just input
+coming in about sight, sounds,
+1992.88 taste, et cetera.
+1994.17 And then the motor systems,
+1995.79 the systems of the brain and
+body that generate action,
+1998.48 taking that information
+and generating action.
+2000.788 So it turns out that there's
+an area of our basal ganglia
+2004.45 called the dorsolateral striatum,
+2006.57 we can use the acronym DLS.
+2008.57 Again, dorsolateral striatum.
+2011.24 Dorso means up. Lateral means to the side.
+2013.25 So dorsolateral.
+2014.083 And striatum is a subdivision
+of the basal ganglia.
+2017.76 And it's very important
+2019.383 for the establishment of behaviors
+2022.23 that are associated with a habit,
+2024.24 but not necessarily the habit itself.
+2026.694 And beautiful studies in
+both animals and humans
+2030.22 that record the activity in
+the dorsolateral striatum
+2033.67 find that the dorsolateral
+striatum is associated,
+2037.43 meaning it becomes active at the beginning
+2039.765 of a particular habit,
+2041.748 and at the very end and
+after a particular habit.
+2045.43 Hence the phrase task-bracketing.
+2047.73 It brackets the habit.
+2049.4 Now, other sets of neurons
+are going to be active
+2051.46 during the actual execution of the habit,
+2053.734 but what the literature on
+the dorsolateral striatum
+2057.28 tells us is that we have
+particular circuits in our brain
+2061.62 that are devoted to framing the events
+2064.38 that happened just before
+2066.3 and as we initiate a habit,
+2067.86 and just after and as
+we terminate a habit.
+2070.75 In other words, it acts
+as a sort of marker
+2073.11 for the habit execution,
+2074.32 but not the execution of the habit per se.
+2077.35 This is very important
+2078.61 because task-bracketing
+is what underlies whether
+2082.88 or not a habit will be
+context dependent or not,
+2086.32 whether or not it will be strong
+2088.07 and likely to occur
+2089.43 even if we didn't get good
+night's sleep the night before,
+2091.65 even if we're feeling distracted,
+2093.41 even if we're not feeling like
+doing something emotionally,
+2096.83 or if we are, you know,
+completely overwhelmed
+2099.79 by other events.
+2100.645 If the neural circuits
+are task bracketing,
+2103.481 are deeply embedded in us,
+2105.51 meaning they are very robust
+around a particular habit,
+2108.61 well then it's likely
+that we're going to go out
+2110.23 for that zone II cardio no matter what,
+2112.4 that we're going to brush
+our teeth no matter what.
+2113.997 I'm fact, brushing our teeth
+is a pretty good example
+2116.1 because, for most people,
+2117.65 even if you got a terrible night's sleep,
+2119.003 even If everything in
+your life is going wrong,
+2122.87 chances are, unless you're very depressed,
+2125.46 if you're going to leave to work,
+2126.6 or even if you're not,
+2127.89 that you're going to still
+carry out the behavior
+2130.3 of brushing your teeth in the morning.
+2131.61 I would hope so, actually.
+2133.25 But you are probably less likely
+2135.48 to perform particular habits
+2137.54 that are not what you deem as necessary.
+2141.04 But if you think about it,
+2142.75 brushing your teeth, exercise,
+eating particular foods,
+2145.75 maybe engaging socially
+in particular ways,
+2149.05 you are the one that places
+any kind of value assessment
+2151.41 on which ones are essential,
+2152.78 and which ones are negotiable.
+2154.81 So task-bracketing sets a neural imprint,
+2158.62 a kind of a finger print in your brain,
+2160.17 of this thing has to happen
+at this particular time of day
+2163.33 so much so that it's reflexive.
+2165.61 And as we'll talk about in a moment,
+2167.37 there's a way that you can
+build up task-bracketing
+2170.75 so that regardless of what
+it is you're trying to learn,
+2173.67 there's a much higher probability
+2175.49 that you're going to do that thing.
+2177.26 And when I say learn,
+2178.093 meaning let's say you're
+trying to acquire a habit
+2180.25 that for you is really challenging.
+2181.66 Maybe it's that you're going
+to write for an hour a day
+2184.24 on a book project that
+you've been thinking about
+2186.19 or you're going to work on mathematics,
+2188.25 or you're going to do any sort of thing
+2189.94 that for you there's a
+lot of limbic friction.
+2192.057 While it is important to think
+about the sequence of events
+2195.9 that would be required in order
+to engage in that behavior,
+2198.46 that procedural memory
+visualization exercise
+2201.02 we talked about before, that will help,
+2202.832 there's a way also that you
+can orient your nervous system
+2206.391 towards this task-bracketing process,
+2209.213 so that your nervous system is shifted
+2212.21 or oriented towards the
+execution of a given habit.
+2215.56 So this is sort of like warming
+up your body to exercise.
+2219.16 When the dorsolateral striatum is engaged,
+2221.69 your body and you brain are
+primed to execute a habit
+2224.87 and that you get to consciously insert
+2226.66 which habit you want to perform.
+2228.22 So in order to leverage
+the neural mechanisms
+2230.136 of task-bracketing,
+2231.513 in order to increase the likelihood
+2233.89 that you're going to
+perform a particular habit,
+2236.64 I have to break it to you
+2238.36 that one thing that you've
+probably heard over and over
+2241.72 about habit formation
+2243.03 is not true.
+2244.695 And what I'm referring to is this idea
+2247.27 that if you're very specific
+about exactly when you're going
+2250.58 to perform a particular habit,
+2252.91 that you're more likely
+to perform that habit.
+2255.53 And while that is true in the short term,
+2258.57 it is not true in the long term.
+2260.813 And the reason for that is
+that our nervous system tends
+2264.27 to generate particular kinds of behavior
+2266.72 based not on time, but on our state.
+2270.109 Meaning what level of
+activation is taking place
+2273.42 in our brain and body.
+2274.45 How much focus we happen to have,
+2276.1 how fatigued we are, how energized we are.
+2279.36 So while schedules are important,
+2281.86 it's not the particular time of day per se
+2285.21 that's going to allow
+you to get into a habit,
+2288.03 and form that habit, and
+consolidate that habit.
+2290.66 Rather, it's the state that your brain
+2293.12 and body are in that's
+important to anchor yourself to.
+2296.25 So now I'm going to offer you a tool.
+2298.3 It's actually an entire program
+2299.815 by which you can insert
+particular habits and activities
+2303.65 at particular phases of the day,
+2305.48 not times of day, but phases of the day,
+2307.86 because it turns out that
+particular phases of the day
+2310.6 are associated with particular
+biological underpinnings,
+2313.91 chemicals and neural
+circuits and so forth,
+2316.27 and in doing so it will
+make it far more likely
+2319.04 that you will be able to
+regularly engage in these habits
+2321.797 and activities over a long period of time.
+2324.707 And whether or not that
+will move you from somebody
+2326.79 who ordinarily would take
+200 days to form a habit
+2329.93 to one of those 18 days to habit people
+2332.78 in that earlier study I
+mentioned, I don't know.
+2334.68 But I am certain that will
+have a significant shift
+2337.98 on allowing you to engage in
+particular habits more easily
+2341.4 and to consolidate those
+habits more quickly.
+2343.71 So the program I am about to describe,
+2345.62 I formulated for you based on
+the neuroscience literature,
+2349.15 and the psychology literature of learning,
+2350.8 and this concepts of task-bracketing.
+2353.08 It involves the 24 hour days
+into what I call three phases.
+2357.47 The first is phase one,
+2359.32 which is 0 to 8 hours after
+waking up, approximately.
+2364.02 Okay, you can put a plus
+or minus 30 minutes on this
+2366.84 for yourself.
+2368.22 The second phase is the
+9 to 14, maybe 15 hours
+2372.517 after you wake up.
+2374.199 And the third phase is 16
+to 24 hours after waking up.
+2378.21 So we've taken the 24 hour cycle,
+2379.77 we've carved it up into three phases,
+2381.73 phase one, phase two, and phase three.
+2383.95 Now, everything I'm describing,
+2385.84 or at least the way I'm
+going to describe it,
+2387.79 is based on what I would
+call a typical schedule,
+2390.42 diurnal schedule.
+2391.58 You've heard of nocturnal?
+2392.61 Well, we are diurnal.
+2394.38 Most of us are asleep at night
+and awake during the day.
+2396.89 I do realize that a number
+of people have shift work
+2400.11 or they have newborns or other reasons
+2402.18 why they have to be up in
+the middle of the night
+2403.73 and sleeping during the day.
+2405.113 If that's the case,
+2406.2 please listen to the
+episode we did on jet-lag
+2409.5 and shift work because
+that has a lot of tools
+2411.25 specifically for that population.
+2413.49 But most people go to sleep
+somewhere around 10:00 PM,
+2417.22 plus or minus two hours,
+2418.69 and wake up some time around 7:00 AM,
+2421.43 plus or minus two hours.
+2423.09 So today, I'm going to
+use the to bed at 10:00 PM
+2426.2 and a wake up time of 7:00
+AM as the framework for this,
+2430.38 but you could adopt it easily
+to your particular schedule.
+2433.334 Phase one, which again, is
+0 to 8 hours after waking,
+2437.409 has a particular neurochemical signature.
+2440.66 Regardless of what you do,
+2442.659 the neuromodulators norepinephrine
+2445.016 as well as epinephrine,
+2446.63 so that's noradrenaline and adrenaline,
+2448.71 as well as the neuromodulator dopamine
+2451.08 tend to be elevated during
+that first 0 to 8 hours
+2454.28 after waking.
+2455.91 There are a number of reasons
+for this related to the fact
+2459.376 that also cortisol is higher
+in our brain and bloodstream,
+2461.68 it's a healthy level of
+cortisol upon waking,
+2463.86 body temperature is increased, et cetera.
+2465.88 And there's several things
+2467.08 that perhaps we should all be doing,
+2468.82 I've talked about many of
+these on the podcast before,
+2470.819 that in addition to those chemicals,
+2473.69 further support an
+alert and focused state.
+2477.12 And I'll just list those off.
+2478.47 I've done many podcasts on each of these
+2480.89 if you'd like to access those
+podcasts you can find them
+2483.235 in the menu of podcasts on YouTube,
+2485.99 Apple, Spotify, et cetera.
+2487.51 They involve, for instance,
+2488.83 viewing sunlight or
+bright artificial light
+2492.01 if you can't access sunlight,
+2493.16 within the first 30 minutes of waking.
+2495.67 Physical exercise of some kind
+2497.443 in this phase of the day,
+0 to 8 hours of the day,
+2501.1 ideally pretty early in that phase,
+2503.42 but, you know,
+2504.253 if it has to be at the 7
+to 8 hour transition point
+2507.3 that's fine too.
+2508.44 Cold exposure in the form
+of cold showers or ice baths
+2511.75 or outside with minimal clothing,
+2514.477 appropriate yet minimal clothing.
+2517.514 Caffeine ingestion.
+2519.597 Fasting, for instance,
+not ingesting calories,
+2524.52 also will lend itself to
+increased norepinephrine
+2526.977 and dopamine, et cetera.
+2528.73 If you are going to consume foods,
+2530.19 foods that are rich in
+things like tyrosine,
+2532.41 which is a precursor for dopamine.
+2534.053 You can look up foods
+that are high in tyrosine.
+2537.32 And for those of you that are
+interested in supplementation
+2539.68 and like to use those routes,
+2541.1 things like alpha GPC or
+phenylethylamine, think,
+2544.72 or L-tyrosine,
+2545.76 if that's in keeping with
+what you're able to do.
+2548.47 Of course, consult your doctor
+2550.06 if you're going to rely
+on supplementation.
+2552.27 What's this all about?
+2553.14 Well, the already elevated norepinephrine
+2555.76 and dopamine, the sunlight, exercise,
+2558.68 cold exposure, caffeine,
+tyrosine, et cetera,
+2561.43 all of those place the
+brain and body into a state
+2564.618 in which you are better able,
+2568.32 or I would say, more easily able,
+2570.42 to engage in activities
+2572.41 that have a high degree limbic friction
+2575.66 and where you need to
+override that limbic friction.
+2578.3 Right? We've heard that the
+morning is kind of sacred,
+2580.67 conquer the hardest things
+first thing in the morning,
+2582.62 and that's been discussed in
+the pop psychology literature
+2585.82 and in the habit formation literature
+2588.06 merely from the perspective of
+2590.29 get it out of the way so you can feel good
+2591.9 about having done it.
+2593.49 But what I'm referring
+to is quite different.
+2595.05 What I'm referring to is
+a particular phase of day
+2597.143 that after rising, after
+waking up, that is,
+2600.298 for 0 to 8 hours, right,
+in that first phase,
+2604.13 your whole system is
+action and focus oriented.
+2607.5 And we know that when you're
+action and focus oriented
+2610.34 and because of the neurochemicals
+2612.54 that are naturally released
+in your brain and body
+2615.187 that you will be more likely
+to overcome any limbic friction
+2619.64 that stands in the way of
+performing particular habits.
+2622.74 So, as you list out or think
+about the various habits
+2626.09 that you'd like to adopt in
+your life, take the habits
+2630.01 for which you know
+there's the highest degree
+2632.37 of limbic friction,
+2633.53 they are the hardest for you to engage in,
+2635.6 they require the most activation energy,
+2637.93 and put those in this 0
+to 8 hours after waking.
+2641.616 This will greatly
+facilitate your performance
+2645.34 of those new habits.
+2646.5 I'm certain of that.
+2647.618 And in addition to that,
+2649.57 by doing them in this
+particular phase of the day,
+2652.57 not necessarily the same time,
+2654.02 I mean, if you want to be very habitual,
+2655.45 and you want to do,
+you know, the exercise,
+2657.16 or the sunlight viewing
+always at the same time,
+2659.4 or you want to do,
+2660.61 you want to drink your caffeine
+2662.03 always at the exact
+same time, that's fine,
+2663.59 but by placing them in this broader window
+2666.33 of 0 to 8 hours after waking,
+2668.533 what you're doing is you're
+creating task-bracketing.
+2672.04 You're making it such
+that your nervous system
+2674.23 will predict when you are going to lean in
+2677.14 against limbic friction
+2678.63 in order to perform
+particular types of habits.
+2681.41 And this is very different than saying,
+2683.277 "I'm always going to run" or,
+2684.917 "I'm always going to study from
+10 to 12 AM every morning."
+2689.14 That's great, and if you
+can do that, terrific.
+2691.51 But the literature indicates
+that people who do that,
+2693.73 who are very rigid about
+when they do things tend,
+2695.742 because of context dependence,
+2697.79 to not necessarily stick
+to those habits over time.
+2700.98 Some people do, but
+many, many people don't.
+2704.0 So think about the hardest habits to form
+2706.06 and the habits that you most want to form
+2708.89 that are hardest for you
+to adopt and to maintain
+2711.44 and I highly suggest
+placing those somewhere
+2714.327 within this phase one of
+0 to 8 hours after waking.
+2718.52 Now of course, some of
+the things I listed out,
+2720.75 sunlight viewing, exercise, cold exposure,
+2723.019 caffeine, fasting,
+2724.64 those might be the
+actual habits themselves,
+2726.4 but here I realize, or
+rather I want to acknowledge
+2730.081 that many people, including myself,
+2732.064 are doing some or all
+of these things already
+2734.73 and many people, including myself,
+2736.78 are trying to adopt new habits
+2738.64 that don't fall into the category
+2740.44 of just trying to set your overall state.
+2742.82 Again, norepinephrine, dopamine,
+2744.81 and all these neural systems
+2746.06 will be greatly elevated in
+this 0 to 8 hours after waking.
+2749.7 However, the other things I mentioned,
+2751.51 sunlight exposure,
+exercise, cold exposure,
+2753.92 caffeine, fasting, if that's for you,
+2756.2 or if you're eating during that phase,
+2758.201 eating things that contain some
+2760.1 or elevated levels of tyrosine,
+2761.66 maybe supplementing alpha
+GPC or L-tyrosine, et cetera.
+2765.133 All of those things further
+facilitate the neurochemistry
+2769.431 and therefore the state of mind
+2771.28 that's going to be ideal for
+leaning into limbic friction
+2774.55 and overriding that limbic friction
+2776.16 so that you can regularly
+perform that habit.
+2778.15 What we're really talking about here
+2779.32 is leveraging neural systems
+2781.29 in order to help you make it more likely
+2784.13 that you're going to be able to engage
+2785.74 and maintain a particular habit.
+2787.66 So what I'm referring to as
+phase one of each day is useful
+2791.57 for acquiring certain habits,
+2793.62 but there are other phases of the day,
+2795.42 and those turn out to be useful
+2796.8 for acquiring other types of habits.
+2798.641 Phase two, as I mentioned, is about,
+2801.225 again these aren't specifics,
+2803.533 but about 9 to 14 or
+15 hours after waking.
+2807.442 During this phase of the day,
+2809.94 because of the circadian
+shifts in our biology,
+2813.001 the amount of dopamine and norepinephrine
+2815.29 that's circulating in our brain
+2816.57 and bloodstream tends
+to start to come down
+2819.809 and levels of cortisol
+tend to start to come down.
+2823.6 That's the ideal circumstance.
+2825.02 In fact,
+2826.471 you don't really want elevated
+cortisol late in the day.
+2828.01 That's actually a signature of depression
+2829.73 and anxiety and a number of
+other unfortunate things.
+2833.977 So, 9 to 14 hours after waking dopamine
+2838.23 and norepinephrine and cortisol
+are starting to taper down,
+2840.7 just naturally.
+2841.66 And a different neuromodulator, serotonin,
+2845.28 is starting to rise.
+2846.427 Serotonin is definitely
+going to be highest
+2849.84 in this second half of the day
+2851.95 and tends to lend itself to a
+more relaxed state of being.
+2856.69 Now of course,
+2857.523 I do realize that some people
+are less of morning people
+2860.1 and do find that they really come alive
+2861.57 and awake in the afternoon,
+2862.63 but most people don't
+fall into that category.
+2865.28 Most people feel more
+alert early in the day,
+2867.62 even anxious early in the day,
+2869.19 and then, as the afternoon progresses,
+2870.68 they tend to be a bit more
+sleepy, a bit more relaxed,
+2873.86 a bit more calm.
+2875.68 There's certain things that we all can
+2877.97 and should do during this
+phase two of each day
+2880.902 that lend themselves to a state of mind
+2883.851 and a state of body that
+is going to be beneficial
+2887.524 for the generation and consolidation
+2890.32 of certain types of habits.
+2891.97 What are those things?
+2892.85 First of all, as the day goes on,
+2894.823 you should try if you can
+2896.63 to start tapering the amount
+of light that you're viewing.
+2899.364 Now, this doesn't mean putting yourself
+2900.197 into dim light at 3 o'clock
+4 o'clock in the afternoon.
+2905.775 That's certainly not the case.
+2906.608 Simply that you want to
+start tapering off the amount
+2909.2 of really bright light
+that you're getting,
+2910.8 unless it's sunlight.
+2911.792 Talked about this before on the podcast,
+2914.22 but if you haven't heard,
+2915.82 viewing the sun as it's at
+what we call low solar angle
+2919.06 so it's headed toward the horizon,
+2921.14 you don't necessarily
+have to watch the sunset,
+2922.93 although that can be nice.
+2924.17 But getting some sun light in your eyes
+2925.55 in the second half of the
+day can also be beneficial
+2927.69 for a number of brain systems
+and psychological systems
+2930.598 so you can get some
+some light in your eyes,
+2932.66 you can certainly have
+artificial lights on,
+2935.53 but you want to start dimming those lights
+2938.246 and bringing them actually
+physically lower in the room
+2939.68 because the neurons in your eye
+2941.76 that view the upper visual field
+2944.4 they actually trigger
+this alertness mechanism
+2946.78 in the brain and body.
+2947.613 And in the second half of the day,
+2949.18 even if you're humming
+around and doing work at 3
+2951.71 or 4 or 5 or even 7 PM,
+2953.825 you are probably headed toward
+sleep a few hours later,
+2957.73 so things like limiting
+the total amount of light
+2960.02 if you can,
+2961.08 things like NSDR, non-sleep deep rest,
+2964.21 another thing that I've
+talked about on this podcast.
+2966.21 If you haven't heard about this before,
+2967.43 non-sleep deep rest is an umbrella term
+2969.38 for things like
+meditation, for Yoga Nidra,
+2972.7 a very powerful science supported tool
+2975.31 for teaching you how to relax,
+2977.437 things like self-hypnosis
+2979.25 which might sound a little
+kooky to some of you,
+2980.86 but actually is a clinically based tool
+2982.38 for which there's a lot
+of scientific literature.
+2984.68 If you're interested in that
+2985.61 there's a great free
+resource called Reverie,
+2987.75 R E V E R I E .com.
+2989.842 There's a app for both Apple and Android.
+2993.08 This is an app that was
+developed by colleagues of mine
+2995.32 and researchers at Stanford
+School of Medicine.
+2997.6 You can do these short
+15 self hypnosis script,
+3000.98 as they're called.
+3001.813 They can teach you how to relax yourself,
+3003.83 there's even one for focus,
+for sleep, for chronic pain,
+3006.708 Again, all very strongly supported
+3009.04 by quality peer-reviewed literature.
+3011.26 So things like Reverie, meditation,
+3013.325 things like heat and sauna,
+hot baths, hot showers.
+3017.679 Those are terrific things
+to do in the second half
+3020.89 of the day,
+3021.74 they tend to support this serotonergic,
+3024.11 or high serotonin like state
+3025.99 and lend themselves to
+more calm and relaxation.
+3029.7 For those that are interested
+in supplementation,
+3031.8 there's always ashwagandha,
+3033.51 which reduces cortisol,
+3035.61 again peaks in cortisol
+late in the afternoon
+3038.03 and evening are associated
+with depression,
+3039.8 anxiety, and so forth.
+3040.94 Ashwagandha has a pretty potent
+cortisol inhibiting tool.
+3046.179 I personally don't use it very often
+3048.79 and I caution people about using it
+3050.72 for longer than two-week periods of time
+3052.37 without taking some breaks.
+3053.65 You can look up more about
+ashwagandha on examine.com.
+3056.97 There's a lot of traffic literature
+3058.19 with links to studies there.
+3059.68 But basically this phase two of the day
+3061.81 is one in which you're
+alert, you are present
+3064.26 you are working, you
+are engaging socially,
+3066.18 you're cooking dinner probably,
+3067.47 paying attention to a number of things,
+3069.1 but you should really be trying
+3070.11 to taper off your stress level.
+3071.93 So how do you leverage
+phase two of the day
+3073.82 for habit formation?
+3075.325 Well, given what we know
+3076.51 about the neurochemistry
+of learning and memory,
+3078.67 given what we know about task formation
+3080.8 and its reliance on certain
+forms of neuroplasticity,
+3083.323 the second half of the
+day is a terrific time
+3085.685 to take on habits and things
+that you're already doing
+3090.95 that require very little
+override of limbic friction.
+3094.3 So these might be things that
+categorize in common terms
+3098.77 as kind of mellower activities.
+3100.27 It might be journaling,
+3101.439 it might be that you
+already are performing music
+3106.11 or I should say,
+practicing music regularly,
+3108.371 but there's a particular type of music
+3110.54 that is hard for you
+3111.7 or that you're working on a
+particular piece of music,
+3113.58 or you're trying to learn a language.
+3114.63 Something that's a little bit challenging,
+3116.11 but doesn't require a ton of energy
+3118.91 in order to override that limbic friction.
+3121.09 The second half of the day is
+a much better time to do that.
+3123.61 Less resistance, as we might say.
+3125.999 But of course, resistance
+has a neural substrate
+3128.699 and the reason for doing those things
+3130.65 in the second part of the
+day, the so-called phase two,
+3133.31 as I've called it, part of the day is
+3135.12 because your ability
+3136.39 to override resistance
+is really diminished
+3139.04 in this second phase of the day.
+3140.999 Some of you might say,
+3142.447 "Whoa wait,"
+3143.28 "I like to exercise in the
+second half of the day."
+3145.227 "That's actually when I
+have the most energy."
+3146.897 "That's when I feel warmer"
+3148.467 "I'm not a morning exerciser."
+3149.8 That's absolutely fine,
+3151.77 but what I'm referring
+to is the acquisition
+3153.63 of new behaviors
+3154.736 and placing those consistently
+at the second half of the day
+3158.43 in order to engage these
+task-bracketing mechanisms
+3161.05 that I talked about before.
+3162.583 One of the hallmark features
+3164.67 of those basal ganglia circuits for go
+3166.78 and no-go is that they are associated
+3169.13 with certain neurochemicals,
+dopamine and serotonin,
+3172.2 acetylcholine, and other neurochemicals.
+3174.28 And by placing particular habits
+3176.681 at particular phases of the day,
+3178.71 those neurochemical states
+start to be associated
+3181.22 with the leaning in and
+the process of beginning,
+3184.02 and as I mentioned, ending
+those particular habits.
+3186.85 And in doing so they shift
+the whole nervous system
+3189.73 toward being able to predict
+3190.881 that certain things are going to happen
+3192.81 at particular times a day,
+3194.56 that you're going to be leaning very hard
+3196.68 against limbic friction early
+in the day in phase one,
+3199.15 and that you're going to be doing things
+3200.37 that require less conscious
+override of limbic friction
+3203.59 in phase two.
+3204.423 And in doing so, set up
+task-bracketing system
+3207.294 so that the individual
+habits that you're learning
+3210.66 or that you're trying to learn
+3212.12 have a much greater
+probability of being executed
+3215.01 and consolidated,
+3216.13 meaning that pretty soon that they
+3218.05 will just naturally become reflexive.
+3220.32 And as with phase one, many
+of the things that I mentioned
+3224.01 that support this, what I'm
+calling a serotonergic state
+3227.7 or more relaxed state in phase two,
+3229.616 things like seeing
+sunlight in the afternoon,
+3232.751 but not a lot of bright light
+from artificial sources,
+3236.64 things like NSDR,
+3238.05 things like heat and sauna,
+3240.284 hot baths et cetera, ashwagandha,
+3242.542 again all of those things
+themselves could be habits
+3245.21 that you're trying to adopt, right?
+3246.98 In that case, do those if
+you'd like to explore them.
+3250.11 They are quite beneficial
+for a number of reasons,
+3253.0 not just related to execution
+of particular habits
+3255.51 in phase two of the day,
+3256.87 but also for improving quality of sleep
+3259.32 and consolidating any learning
+3260.98 that you might have
+triggered earlier in the day.
+3262.6 I've talked about that before,
+3263.65 but just briefly, as a relevant aside,
+3266.177 neuroplasticity involves
+triggering the neural plasticity,
+3270.1 setting it in motion,
+3271.46 but the actual rewiring of the brain
+3273.67 and the reconfiguration of neurons
+3275.17 that will allow that
+learning to be reflexive,
+3277.24 that actually occurs
+during states of deep rest,
+3279.43 like an NSDR and like deep sleep.
+3282.389 And I should just mention,
+3283.808 for those of you that can only exercise
+3286.32 or prefer to exercise in
+phase two of the day, right,
+3290.16 9 to 14 hours or 15 hours after waking,
+3292.728 that's absolutely fine.
+3294.599 However, because of
+the importance of sleep
+3297.708 and in particular deep
+sleep throughout the night
+3300.25 for not just neuroplasticity,
+3301.87 but recovery of muscle and other tissues
+3304.346 that are taxed during physical exercise,
+3307.601 if you do train in phase two,
+3310.26 I highly recommend, highly recommend
+3312.197 that you start doing some
+NSDR activity after you train,
+3316.18 within an hour or two,
+3317.3 because that will allow
+you to taper down and relax
+3319.68 so that you can get into
+the next phase we're going
+3321.65 to talk about, which is phase three.
+3323.71 Phase three of the 24-hour schedule runs
+3327.03 from about 16 to 24 hours after waking.
+3331.31 During that period of time,
+3332.925 there are few things
+3334.01 that are going to support
+being in a state of mind,
+3336.595 state of body that are going
+to allow neuroplasticity
+3340.91 to occur, that are going
+to allow the rewiring
+3343.31 that you've triggered during
+the waking part of the day
+3345.88 to actually take place.
+3347.266 Those things are very low to no light,
+3350.655 meaning keeping your environment very dark
+3353.39 or very, very dim.
+3354.586 I don't think it's
+necessary to sleep in a room
+3357.62 that's complete blackness.
+3359.069 I think that's a little bit overkill,
+3361.235 but for most people keeping the room dark
+3363.836 and keeping the room temperature
+low is very beneficial
+3367.92 for getting and staying in deep sleep.
+3370.965 The body has to drop
+by about 1 to 3 degrees
+3374.08 in order to get into
+sleep and stay asleep,
+3376.77 so low light, low temperature environment,
+3379.55 you can always pile on blankets of course
+3381.38 if you don't want to be cold at night,
+3383.2 you want to be warm enough,
+3384.37 but you want your environment to be cold.
+3386.5 Typically people aren't eating
+in the middle of the night,
+3389.217 although one thing that can
+be useful is to make sure
+3392.43 that you're at least well-fed enough
+3394.72 when you head into this third
+phase of every 24-hour day
+3398.1 that you're not awake
+because you're hungry.
+3400.56 A lot of people recommend putting a gap
+3402.65 between your final bite of food
+3404.01 and when you got to sleep at night.
+3405.46 Some people say that
+gap should be 4 hours,
+3407.51 other people say 2 hours,
+3409.35 if you're me, I generally
+have something, I don't know,
+3411.47 within 2 hours or 90
+minutes of going to sleep,
+3414.19 but it's not a big meal,
+but that's just me,
+3415.32 and I fall asleep and stay
+asleep fine with that.
+3417.591 You have to experiment for yourself.
+3419.494 I've talked about supplements
+3421.48 that can support sleep in
+previous episode of the podcast,
+3424.13 things like magnesium threonate,
+3425.86 or magnesium bisglycinate,
+3427.5 things like theonine, apigenin.
+3429.97 If you'd like to read more about those,
+3431.67 we actually have a newsletter
+3432.97 that I'll just quickly refer you to
+3434.46 this is the Huberman Lab
+Neural Network Newsletter,
+3437.63 you can sign up for it by
+going to hubermanlab.com,
+3440.01 it's very easy to find,
+3441.34 but even if you don't sign up,
+3443.38 you can go to the toolkit
+for sleep that's listed there
+3446.41 and that tool kit is not just supplements,
+3448.21 that tool kit is a number
+of different things,
+3449.98 both behavioral and supplement-based
+3452.8 and nutrition-based, et cetera,
+3454.44 that can allow you to get in to sleep
+3457.12 and to stay asleep more readily.
+3458.71 It's totally zero cost,
+3459.82 you can find that again
+at hubermanlab.com.
+3461.88 So things like low light, low temperature,
+3463.535 the supplements I mentioned,
+3464.869 adjusting your eating
+schedule appropriately,
+3467.263 obviously not drinking caffeine
+in the middle of the night
+3470.13 or too close to bed,
+3471.03 that's going to be critical.
+3471.94 In fact, ideally you
+wouldn't ingest any caffeine
+3474.98 in phase two of the day,
+3476.66 so that you could get into
+this deeper state of rest
+3479.003 in which habit formation and
+neural plasticity can occur.
+3484.42 What if you wake up?
+3485.85 The way I've cast phase three is
+3487.69 that you're supposed to
+be in this deep slumber,
+3489.73 you're not supposed to wake up at all,
+3491.42 you're supposed to be in low light
+3492.65 and your brain is rewiring
+3493.84 and those habits are getting
+consolidated, et cetera.
+3496.74 Well, if you're like me,
+3497.803 you probably get up once
+in the middle of the night.
+3499.59 Maybe go use the restroom.
+3500.66 Perfectly normal, perfectly normal,
+3502.39 but a lot of people have
+trouble falling back asleep.
+3504.473 Very important if you get up
+in the middle of the night
+3506.9 to use a minimum of light
+3508.16 in order to navigate your surroundings,
+3509.68 just as much as you need
+in order to safely do so,
+3512.23 because light inhibits hormone melatonin,
+3515.236 can make it very hard
+to fall back to sleep
+3517.19 if you inhibit melatonin.
+3518.87 The effects of light inhibiting melatonin
+3520.186 are actually very potent.
+3521.6 It happens very, very quickly,
+3523.2 so try and keep the lights low.
+3524.63 And you have trouble falling back asleep,
+3527.44 that's when you might
+also want to use something
+3529.58 like a Reverie app,
+3530.713 they have a sleep script there
+3532.36 that can hopefully help
+you get back to sleep.
+3534.49 Or something like NSDR,
+3535.89 you can find NSDR scripts on YouTube.
+3537.93 These are zero cost.
+3539.26 You can look up one
+3540.093 that I particularly like is NSDR Madefor.
+3542.34 It's a company I'm associated with,
+3544.04 but the NSDR is completely zero cost,
+3546.35 and there are other things,
+3547.67 like Yoga Nidra, which you can
+find scripts for elsewhere.
+3550.32 Again, all of these
+habits or these behaviors,
+3553.04 these do's and don'ts around phase three,
+3554.81 themselves might be habits
+3557.37 that you're trying to create for yourself.
+3559.58 But again, phase three is
+really about making sure
+3561.84 that whatever limbic
+friction you've been able
+3564.14 to override in phase one
+3565.68 and trigger some new habit, right?
+3567.35 Forcing yourself to write
+3569.87 or forcing yourself to study
+3571.09 or forcing yourself to exercise
+3572.51 during that high limbic friction state.
+3574.708 And then whatever things
+you've been doing in phase two,
+3577.2 which are habits
+3578.11 that hopefully have moved
+a little bit further
+3579.72 along the continuum of newly-formed
+3582.18 versus all the way to reflexive,
+3583.712 or things that take less limbic
+friction in in order to do.
+3586.376 Phase three is when all
+of that gets really locked
+3589.62 into the nervous system
+3590.5 through those Hebbian mechanisms,
+3592.25 like NMDA receptors, et cetera,
+3594.1 that I talked about before.
+3595.1 Again, neuroplasticity is
+the basis of habit formation
+3598.74 and neuroplasticity and the
+rewiring of neural circuits
+3601.24 happens in these states of deep sleep.
+3602.81 So if you're not obeying this phase three,
+3606.411 if you're not giving phase
+three the material it needs,
+3610.36 and you're and you're not
+avoiding the certain things,
+3612.07 like caffeine and bright light
+and stress during phase 3,
+3616.21 you're simply not going to
+be able to build those habits
+3618.824 that you've been working so
+hard to trigger in phase one
+3621.737 and phase two of the day.
+3624.2 Again, these are things
+3625.57 that I've talked about previous
+episodes of the podcast
+3628.24 and elsewhere, but really
+this is about habit formation.
+3631.718 And the whole reason
+3633.163 for placing particular types of behaviors
+3635.586 at particular phases of the
+day is to set a framework
+3639.562 for that task-bracketing.
+3641.78 Again, task-bracketing
+3643.47 and the circuits of the basal ganglia
+3645.52 indicate that it's not
+just the neural circuits
+3648.19 that are engaged by the task itself,
+3651.34 but the neural circuits
+that are engaged before
+3654.32 and after that task execution.
+3657.6 That's what gets consolidated.
+3659.64 So when you do things that
+particular phases of the day,
+3662.647 under particular conditions
+of neurochemistry,
+3665.93 what you're doing is
+3666.763 you're giving the brain a very
+predictable set of sequences
+3669.6 that during sleep it can start
+to put into your hard drive,
+3673.7 if you will.
+3674.533 It can really program it
+into your nervous system,
+3676.57 so that within a short period of time,
+3678.81 hopefully within 18 or maybe even 6 days
+3682.25 or who knows? Maybe even fewer days,
+3684.19 you'll find that executing
+those behaviors is very,
+3687.25 very straightforward for you
+3688.49 and that you won't have to
+feel so much limbic friction
+3692.01 or override so much limbic friction.
+3694.15 Some of you are probably asking, okay,
+3696.156 if I perform a particular
+habit during phase one,
+3700.273 and then I do other
+habits during phase two,
+3702.96 and I eventually get to the point
+3704.46 where I'm engaging in those habits
+3706.37 in a pretty effortless way,
+3708.874 do I keep them in the
+same phase of the day?
+3711.58 And the good news is, the
+literature says it doesn't matter.
+3714.58 And in fact,
+3715.413 moving that particular habit
+around somewhat randomly
+3718.79 can actually be beneficial to you
+3720.24 because actually moving
+it from one time a day
+3722.59 to the other is that context independence
+3725.24 that we really are seeking.
+3727.113 By being able to do the same
+thing that we want to do
+3731.03 regardless of time of day or circumstances
+3733.91 that's how we know
+3734.86 that we've achieved a
+real habit formation,
+3737.18 that's how we know that
+the habit has been moved
+3739.81 into certain components
+of our neural circuity
+3741.89 that just allow us to do it
+3743.19 what seems like reflexively.
+3744.56 Although earlier I pointed out
+3745.68 that these aren't reflexes
+in the traditional sense.
+3748.477 The reason for that is
+that this brain area,
+3752.034 the hippocampus, that many
+of you know is associated
+3754.96 with learning and memory,
+3755.96 is not actually where memories are stored.
+3758.34 The hippocampus is where
+memories are formed,
+3760.74 it's where procedures, like
+we talked about before,
+3763.21 procedural memory of how you're going
+3764.66 to execute a particular sequence,
+3766.21 where that's maintained.
+3767.74 So like if we use the recipe model,
+3769.61 that's where the recipe is maintained
+3771.55 until you know how to cook that dish
+3773.72 and then the procedural
+memory literally migrates off
+3777.939 into a different set of neural circuits,
+3780.24 which are the neural
+circuits of the neocortex
+3782.5 where we have maps of sensory experience,
+3785.58 maps of all kinds experiences,
+3788.156 including motor maps of
+how to execute things.
+3790.46 So we use one part of the
+brain to learn something,
+3793.0 but then that information,
+3794.48 in the form of the electrical
+activity of neurons,
+3796.93 is passed off to a different brain area.
+3800.09 Now, the neurons themselves don't move
+3801.96 from the hippocampus to the cortex,
+3803.45 that doesn't happen.
+3804.283 What happens is the signals,
+3806.35 the sequence of electrical firing,
+3808.06 much like a script for a movie
+3811.2 or the notes on a sheet of paper
+3813.791 for a particular musical piece
+3816.041 is transferred off to
+a different brain area.
+3818.644 So, that whole process
+3820.97 of really leaning into
+something that's hard,
+3822.767 and then it becoming easier,
+3824.09 and then eventually that
+things becoming more
+3825.79 or less reflexive involves a migration
+3828.1 of the information in the brain.
+3829.743 And once it's migrated out
+3831.651 to a different location in the brain,
+3833.73 at that point it's achieved
+context-independence.
+3837.0 It doesn't have to be
+bracketed by, you know,
+3840.51 your caffeine and your lunch.
+3842.1 It doesn't have to occur immediately
+3845.0 after your afternoon NSDR,
+3846.81 but before your four
+O'clock meeting on Zoom,
+3849.78 or something of that sort.
+3851.1 So all this is to say
+3853.36 that once something has become reflexive,
+3855.358 you should play with it a
+little bit about time of day.
+3858.17 If you want to keep it in
+the same phase of day, great.
+3860.866 But if you one day decide
+3862.736 you're going to exercise in the afternoon,
+3864.457 the next day you decide
+3865.95 you're going to exercise in the morning,
+3866.98 and that's the habit that
+you're concerned with,
+3869.5 that's terrific.
+3870.333 If you're able to do that, that means
+3871.166 that it's truly achieved
+context-independence.
+3872.84 It means that you have
+officially formed that habit.
+3875.4 And as I mentioned earlier,
+3876.909 much earlier at the
+beginning of the episode,
+3879.258 the strength of a habit is dictated by
+3881.88 how much limbic friction, that was one,
+3885.282 and how much context dependence there is.
+3888.65 So when it doesn't take
+much activation energy
+3891.31 to get into the execution of that habit
+3893.47 and you can do it in any context, well,
+3895.89 then you have formed a habit.
+3897.558 We really can't have a discussion
+about learning anything,
+3899.887 habits or otherwise,
+3901.811 unless we talk about
+reward prediction error.
+3904.931 Reward prediction error is associated
+3907.8 with the molecule dopamine,
+3909.28 although I should say there
+are other neurochemicals
+3911.56 in our brain and body
+3912.42 that are also related to
+reward prediction error.
+3915.436 But reward prediction error
+is a very good system,
+3920.197 or I should say, a lens
+through which to think about,
+3922.92 whether or not we should reward ourselves
+3925.26 for performing a given habit.
+3927.68 And this is a much larger discussion
+3929.29 that actually relates
+to things like parenting
+3931.33 and self-regulation.
+3932.72 You know, should we reward
+kids just for effort?
+3935.174 Should we reward
+ourselves just for effort?
+3937.86 What should we reward?
+3938.78 How much should we reward ourselves?
+3940.14 When should we withdraw reward?
+3941.8 Should we use punishment?
+3942.93 These kinds of things.
+3943.763 This is a vast literature.
+3944.776 We don't have time to
+go into all the details,
+3947.15 but the notion of reward
+prediction error is so powerful
+3951.246 that it can predict most
+3953.41 if not all forms of learning,
+including habit formation.
+3956.63 And you can deploy or
+use particular features
+3959.53 of reward prediction error
+3961.09 if you would like to reinforce
+3963.28 or accelerate the formation
+of certain habits.
+3967.22 So, reward prediction
+error, quite simply, is
+3971.124 if you expect a reward
+and the reward comes,
+3975.137 a particular behavior that was associated
+3978.01 with generating that reward is more likely
+3980.35 to occur again.
+3981.51 That's pretty straight forward.
+3983.38 However, the amount of reward,
+3986.68 in the form of this molecule dopamine,
+3989.12 that you will experience is even greater
+3991.96 if a reward arrives
+that's unexpected. Okay.
+3997.36 So let me repeat that again.
+3998.84 If I think that something's
+coming that's going to be great,
+4003.532 let's say I lean into a habit,
+4006.23 I manage to override my limbic friction,
+4008.36 and I'm doing my 45 minutes
+of writing in the morning
+4011.27 with no phone and no internet
+4012.77 and I'm getting toward the end,
+4013.603 and I'm anticipating how
+I'm actually doing this,
+4015.283 this is great, I did it,
+4016.59 I'm feeling really, really good.
+4018.47 I finish, I definitely will
+receive a dopamine reward,
+4023.35 I'll make my own dopamine reward,
+4024.61 that's where it comes from.
+4025.443 Remember, this is all internal.
+4027.069 However, I will also
+receive a dopamine reward
+4030.24 if unexpectedly something
+positive happens.
+4034.66 And typically if something unexpected
+4037.68 but positive happens,
+4039.05 the amount of dopamine reward
+4040.67 that we get is actually much greater
+4042.25 than in any other conditions.
+4044.36 However, it's hard to surprise yourself
+4046.59 about a behavior that you're
+deliberately engaging in.
+4049.16 So that becomes a bit of a tricky one.
+4052.2 Reward prediction error also says
+4054.38 that if we expect a reward
+and the reward doesn't come
+4059.8 that the pattern of dopamine release
+4061.59 will follow a particular contour
+4063.99 and that contour is very important.
+4065.55 Here's how it goes.
+4066.866 Let's say that I'm writing
+4070.14 and I'm about 30 or 45 minutes in,
+4072.72 I'm thinking, "Ah, this is great."
+4074.638 "I'm actually, I managed to do this"
+4076.073 "I'm succeeding in
+executing the behaviors"
+4078.657 "that I need to in order
+to perform this habit."
+4081.657 "I'm overriding limbic friction."
+4083.696 Just that series of thoughts will start
+4086.43 to generate the dopamine release
+within my brain and body.
+4089.72 However, if at the 15
+minute mark the phone rings
+4094.67 and I pick up the phone
+4096.28 or I break my own protocol, I
+break my own self-discipline
+4100.38 and I go on and check social media
+4102.64 or I do something that
+takes me out of that,
+4105.31 what's going to happen is
+4107.32 that my level of dopamine
+is actually going
+4110.267 to drop below the baseline,
+4111.84 meaning below the level of dopamine I had
+4114.06 before I even started the
+habit execution. Okay?
+4118.23 So what this is, is this
+system that predicts whether
+4121.482 or not rewards are going to come.
+4123.886 When we think a reward is going to come,
+4126.57 it starts to actually arrive earlier
+4128.68 in the form of dopamine release.
+4130.04 This is the feeling
+4131.56 that we experience as
+positive anticipation.
+4135.03 You tell a kid,
+4135.863 "Hey, we're going to go
+to the amusement park." Or
+4137.527 "We're going to go get ice cream."
+4139.02 They haven't had the ice cream yet,
+4140.3 they're not at the amusement park,
+4141.61 but they're excited, the
+dopamine release comes earlier.
+4144.58 Okay? They get to the amusement park
+4146.07 or they get the ice cream,
+4147.04 they will also have some dopamine release
+4149.39 associated with that.
+4150.443 But most of it, believe it or not,
+4152.51 came in the form of the anticipation.
+4154.53 And dopamine has some qualities
+4155.93 that make the actual ice cream
+4157.43 and the actual amusement park
+experience more pleasurable
+4160.44 than it would be had that
+dopamine release not happened.
+4164.04 Now of course, the other way
+to do is to surprise a kid.
+4166.1 You tell them,
+4166.933 "Listen, we're going to the
+class that you absolutely hate."
+4170.3 Or "We're going to go see the person"
+4171.767 "that you absolutely despise."
+4173.14 And then you drive them
+to the amusement park
+4174.53 that's the big release of dopamine.
+4177.1 But reward prediction error also says
+4179.38 that if you tell the kid, or yourself,
+4181.677 "Okay, we're headed to
+the amusement park."
+4183.027 "We're going to get some ice cream."
+4184.32 They're really, really excited.
+4185.33 And then you get there and it's closed,
+4187.55 or they're not letting any more people in,
+4189.34 well then the dopamine level
+drops way below what it was
+4192.4 before you told them that
+you were headed there. Okay?
+4194.53 I've given a number of different examples
+4195.83 that hopefully make this clear.
+4197.17 Reward prediction error
+governs virtually all aspects
+4200.805 of effort and all aspects of learning.
+4204.19 Why? Because when dopamine
+is released in the brain
+4206.9 and body, the neural circuits
+of our brain and body change.
+4210.45 There's a state change.
+4212.62 Our over level, excuse me,
+our overall level of energy,
+4216.44 but also the sorts of sensory events
+4218.61 that we're paying attention to changes
+4220.5 when there's a lot of
+dopamine in our system.
+4223.46 Now you can leverage
+this for habit formation.
+4226.79 Think back to task bracketing.
+4228.835 Think back to limbic friction.
+4231.515 If you are considering
+adopting a new habit
+4235.28 or if you are trying to break a habit,
+4237.06 something we haven't
+talked too much about,
+4238.47 but we will in a moment, it's very useful
+4241.97 to think not just about
+the procedural aspects
+4244.98 of what you're going to do,
+4246.33 but also think about
+the events that precede
+4249.63 and follow that particular habit,
+4252.95 and the execution, or at least the effort
+4255.68 to execute that habit.
+4257.385 What you're doing is you're
+casting a kind of a spotlight
+4260.63 around a bin of time, or a set of events,
+4263.85 for which dopamine can be associated.
+4266.03 What does this look like
+in the practical sense?
+4268.12 Well again,
+4268.953 I'll just try and use very
+simple concrete examples,
+4271.09 but this could carry over to anything.
+4272.74 Let's say I were somebody who
+has a hard time getting in
+4276.57 that 30 to 60 minutes
+4278.3 of zone II cardiovascular
+exercise mid-morning.
+4281.65 This is actually an issue for me.
+4282.96 I much prefer to do resistance exercise
+4284.81 than cardiovascular exercise,
+4286.07 although once I do it, I
+always feel much better
+4288.71 that I've done it.
+4291.163 What I should do is positively
+anticipate the onset
+4297.0 and the offset of that session. Right?
+4299.87 So thinking about leaning into the effort,
+4303.137 going out and doing that
+zone II cardio session,
+4306.29 and I should think about
+how I'm going to feel after.
+4308.38 So, not just thinking about
+4309.27 how great I'm going to feel after,
+4311.901 but also thinking about
+how hard it's going to be
+4314.41 at the beginning,
+4315.243 and then trying to reward
+myself subjectively
+4317.73 for the entire experience.
+4319.06 In other words, start
+rewarding task-bracketing
+4321.84 in addition to rewarding the
+execution of the habit itself.
+4326.55 Now some of you might be saying,
+4327.527 "Well, wait this is all self-talk."
+4329.127 "This is just positive self-talk."
+4330.7 But it's not positive self-talk,
+it's not saying, you know,
+4334.277 "I feel so great about doing something"
+4335.817 "that I actually hate."
+4336.65 You can't lie to yourself,
+4337.59 or you're welcome to lie to yourself,
+4339.08 but the neuroscience literature,
+4340.63 the literature of growth mindset,
+4342.12 all the literature basically of mindset
+4344.08 speaks to the fact that
+when you lie to yourself,
+4346.17 you know you're lying,
+4347.26 and you actually set up the
+opposite of a reward system.
+4350.38 So, you have to be brutally
+honest with yourself
+4352.298 that, for instance,
+4353.798 "I don't like initiating
+this cardiovascular exercise"
+4357.137 "but I do like the fact that I've done it"
+4358.737 "after I've done it."
+4359.83 So what you are doing is
+4361.04 you are applying reward prediction error
+4363.172 to the entire sequence of things
+4365.44 that's involved in getting
+into the habit execution,
+4368.695 getting through the habit execution,
+4371.05 and getting out of the habit of execution.
+4373.15 How do you do this?
+4374.19 Well, I take us back
+4375.53 to our procedural memory
+visualization exercises
+4379.14 we talked about earlier.
+4380.33 When I talked about it in that context,
+4382.07 I talked about walking through
+mentally the series of steps
+4385.92 that's required to perform
+a particular habit.
+4387.81 So in the case of the zone
+II cardio thing it would be,
+4390.437 "Okay up and put on my shoes,"
+4391.527 "then I'm going to head out the door,"
+4392.547 "then I'm going to drive up the road."
+4393.89 There is a particular
+canyon near here that,
+4395.57 if I'm going to run,
+4396.47 I happen to like running, or
+I don't hate running enough
+4399.25 that I tend to do it.
+4400.56 Going through that, heading
+back, et cetera, et cetera.
+4403.31 That's great, but even better
+4405.57 would be to broaden the time bin
+4407.496 and start to positively
+anticipate the period headed
+4410.628 into the habit, so even
+before you put on your shoes.
+4415.06 The fact that you are
+successfully placing the habit in,
+4419.16 in this case, phase one of the day
+4422.21 and that afterwards I'm going
+4424.54 to feel a particular set
+of positive benefits,
+4426.93 elevated mood, et cetera.
+4428.38 I like being hungry and quickly
+after I exercise I'm hungry,
+4431.0 so I like being hungry
+because I like eating,
+4432.83 so there's a whole set of things
+4434.3 that link up with one another.
+4435.88 So I'm not just thinking
+about habit execution
+4437.61 as this isolated little set of events,
+4439.69 or this little time bin,
+4441.27 but rather, I'm drawing a
+larger envelope around it
+4444.17 and starting to positively
+associate dopamine reward
+4446.7 with that larger envelope.
+4448.69 And for those of you that are thinking,
+4449.817 "Well, this is just a
+psychological trick."
+4451.61 You know, you're kind of like,
+4453.363 "This is sort of like lying to yourself."
+4454.48 It's not because you're not
+actually contradicting the fact
+4457.99 that some of this is unpleasant.
+4459.8 What you're doing is
+4460.633 you're taking this
+entire series of events,
+4462.36 what I'm calling this
+kind of time envelope,
+4463.97 and you're associating it
+with a particular reward
+4466.59 that comes later,
+4467.423 which for me would be the
+feeling that, you know,
+4470.14 that I've completed this.
+4471.21 Right? Because for me that's
+usually a good feeling.
+4473.26 So reward prediction error is beautiful,
+4475.62 not just because it's a
+sort of math of anticipation
+4479.01 and reward, or a math of anticipation
+4481.18 and disappointment,
+4482.42 it's beautiful because you can stretch out
+4485.43 or make more narrow the time bins
+4487.64 in which reward prediction error works.
+4490.12 Reward prediction error is the way
+4491.69 in which people navigate
+four year degrees.
+4494.27 Right? I mean, you go, sure, final exam
+4496.63 to final exam, et cetera.
+4497.66 But ultimately, there's
+a big payoff at the end
+4499.53 and it's all basically
+for that big payoff.
+4502.052 And of course, I understand
+that it's the journey,
+4504.15 not the destination, but let's face it,
+4505.75 for a lot of us goals
+4507.16 and habits are about achieving
+some sort of destination.
+4510.29 In the case of zone II cardio,
+4511.57 for me it's about trying to
+stay alive for as long as I can,
+4514.674 as long as I can with vitality, that is.
+4517.61 And it's also the fact
+that if I'm doing that,
+4520.14 I get to eat the foods that I like.
+4522.62 I tend to be able to eat more,
+4523.95 which I happen to really enjoy eating,
+4525.35 so much so that I'd like
+it just as an activity.
+4527.65 So basically what you're trying to do
+4529.52 is not restrict your
+thinking to just the habit
+4532.28 that you're trying to form, but rather,
+4534.07 to grab ahold of the timing before
+4536.86 and after that particular habit
+4538.87 and start to positively
+associate reward mechanisms
+4541.55 in your brain with that entire time bin.
+4544.07 This is a very useful
+and very powerful tool
+4546.7 in order to form habits.
+4548.36 And I should say that it's not something
+4550.53 that comes naturally to most people.
+4552.06 In fact, even as I describe it,
+4553.52 you might find it's still
+a little bit abstract,
+4555.57 but what I encourage you to do,
+4557.08 if you are finding it to
+be a little bit vague,
+4559.34 would be to pick the habit
+that you want to form,
+4561.405 write down or think about very concretely
+4564.096 what is the sequence of steps involved
+4566.27 in the execution of that habit,
+4568.03 and then write down or think about
+4570.07 what is the sequence of events
+4571.62 that need to precede that habit,
+4573.52 maybe the immediate 10
+or 15 minutes before,
+4576.11 as well as the immediate
+sequence of events
+4578.229 and/or feelings that will
+occur after that habit,
+4580.838 and then call the whole
+thing a habit execution.
+4584.87 The whole thing a effort to
+engage in that particular habit.
+4589.1 And in doing that, and
+in positively associating
+4592.07 with the idea that you're going
+4593.47 to complete that entire sequence,
+4595.44 you will engage reward prediction error
+4597.52 in the proper way that the dopamine surge
+4599.489 can lend itself towards motivation.
+4601.91 Because ultimately, dopamine
+is not about feeling good,
+4605.5 it's about feeling motivated.
+4606.96 This is something
+4607.793 that I've talked about
+numerous times before,
+4609.41 but dopamine, contrary to popular belief,
+4611.79 is not a reward molecule,
+4613.522 so much as it is a molecule
+of motivation and drive.
+4617.016 And the natural consequence
+4619.12 of doing the exercise I just described,
+4621.27 of writing things out that precede,
+4623.259 are involved in the immediate
+execution of the habit,
+4625.67 and follow the habit,
+4626.902 will allow you to experience
+an increase in energy
+4631.09 and thereby an increase in likelihood
+4633.49 that you're going to engage
+4634.53 in that entire sequence of events.
+4636.48 And the reason for that is
+that dopamine gives us energy,
+4638.607 and the reason for that is
+that the molecule epinephrine,
+4641.577 adrenaline, is actually
+manufactured from dopamine.
+4644.87 Biochemically, it comes from dopamine.
+4647.07 So, dopamine is powerful
+4648.73 and you can access more dopamine
+4650.785 around even habits that
+you haven't yet formed
+4654.044 by taking this broader time envelope
+4656.44 and task-bracketing that
+specific task execution
+4659.68 or habit execution.
+4661.33 Way back at the beginning of the episode,
+4663.02 In promised you that I
+would deliver two programs
+4665.603 that are geared towards habit formation.
+4669.33 And I promised that I would give you ways
+4671.37 in which you could gauge whether
+4672.7 or not certain habits had
+moved from high effort,
+4676.051 what I call high limbic
+friction, to reflexive.
+4679.65 And we talked about a
+number of way to gauge that.
+4682.485 In researching this episode,
+4684.048 I found a tremendous
+number of different systems
+4687.12 for habit formation.
+4688.53 It's really amazing how much is out there.
+4690.46 There, one says 60 days to this,
+4692.24 or 21 days to that, or 18 days to this.
+4694.6 I mean,
+4695.597 it's just rampant in the
+popular psychology literature
+4697.947 and in the self-help literature.
+4701.2 I want to spell out a particular system
+4703.44 that I think could be very useful
+4705.1 to most if not all people
+4707.53 that's rooted in the
+biology of habit formation,
+4711.13 rooted in the psychology
+of habit formation,
+4713.21 and that is entirely
+compatible with that phase one,
+4715.78 phase two, phase three type program
+4717.38 that I talked about earlier,
+4719.0 but encompasses a bit
+of a longer time scale
+4721.802 and really arrives at a kind
+of a system, if you will,
+4725.698 for how to build in habits
+4728.8 and then to test whether
+or not those habits
+4731.1 have really stuck
+4732.45 and whether or not they're
+likely to stick going forward.
+4735.12 And so this, at least for
+the sake of this example,
+4738.46 a 21 day system.
+4739.67 I picked 21 days because
+that seems to be the average
+4742.73 or most typical system for
+engaging neuroplasticity
+4746.427 as it relates to the
+formation of new habits.
+4748.9 This 21 day system, actually,
+4750.33 is one that someone I know very well uses
+4751.864 and has used for a very long time.
+4753.563 They actually, their kids use it as well.
+4756.2 And it has a certain elegance to it
+4757.74 and I think as I describe it that elegance
+4760.65 will begin to reveal itself.
+4762.5 So basically what this
+involves is you set out
+4766.18 to perform 6 new habits per day
+4770.242 across the course of 21 days.
+4772.77 Why 6 and why 21?
+4774.29 Well, we'll talk about that in a moment.
+4776.11 But the idea is, you write down 6 things
+4778.247 that you would like to
+do every day for 21 days.
+4781.336 What phase of the day
+those things fall into?
+4784.3 Well, that will depend on what they are
+4785.81 and how they relate to
+those earlier phase one,
+4787.79 phase two, phase three, but for now,
+4789.57 21 days, 6 things per day. However,
+4791.598 the expectation is that
+you'll only complete 4
+4795.508 to 5 of those each day. Okay?
+4798.53 So built into this is a
+kind of permission to fail,
+4801.57 but it's not failure,
+4802.8 because it turns out that this approach
+4806.5 to forming habits is based
+4808.33 not so much on the specific habits
+4810.77 that you're trying to form,
+4812.25 but the habit of performing habits. Right?
+4815.26 It's the habit of doing a
+certain number of things per day.
+4819.532 So, you set out to perform 6.
+4821.76 Now, another reason for not
+necessarily performing all 6 is
+4824.87 that some activities probably
+4826.57 shouldn't be performed each day.
+4828.45 For instance, in my case,
+if I were to weight train
+4831.64 or even run every day, I'm of the sort,
+4834.13 or my biology is of the sort
+that I don't recover so well.
+4837.55 So I wouldn't want to do
+resistance training every day,
+4840.18 but I might want to do it 4
+days a week, for instance.
+4842.075 So by having 6 things in that list,
+4844.53 you could shuffle out
+that particular activity
+4847.3 on particular days of the week,
+4848.57 and simply do 4 or 5 other activities.
+4851.29 So 21 days, you list out 4 to 5 things.
+4853.26 So it might be zone II
+cardio, resistance training,
+4855.66 sunlight viewing, writing
+could be journaling,
+4859.794 it could be learning a
+language, mathematics.
+4862.57 Again this is going to vary
+4863.61 depending on your particular goal
+4865.077 and the habits that
+you're trying to create.
+4866.937 But no more than six
+4868.685 and the expectation is
+4869.92 that you're not going to
+perform more than 4 to 5.
+4872.17 If you miss a day, meaning you
+don't perform 4 to 5 things,
+4876.56 there is no punishment.
+4879.27 And in fact it's important
+that you don't actually try
+4883.2 and do what, in the literature,
+4884.27 is called a habit slip compensation,
+4886.49 which is just fancy psychological language
+4889.09 for if you screw up and you
+don't get all 4 or 5 in one day,
+4894.17 you don't do 8 the next
+day in order to compensate.
+4897.275 This actually brings me
+back to an example I had
+4901.217 from graduate school.
+4902.383 I remember when I started graduate school
+4903.768 feeling very excited, but
+a little bit overwhelmed
+4905.49 by the amount of things that I had to do
+4906.946 because I had to both do
+research, I was doing coursework,
+4909.83 at the time graduate students stipends,
+4911.68 and still now unfortunately,
+were depressingly low
+4915.32 so it was financially stressful.
+4916.62 There were a number of things happening
+4918.03 and I remember a neurologist,
+this was at UC Berkeley,
+4921.106 he was a really fantastic
+scientist and person,
+4923.56 his name was Bob Knight,
+some of you may know him.
+4925.349 I remember he, I went to
+him and I asked, you know,
+4927.567 "What is the process by which someone"
+4929.317 "actually navigates graduate
+school successfully?"
+4931.65 And he said, "Listen, you
+don't want to do anything"
+4935.927 "or engage in a routine in any way"
+4938.567 "that you can't keep up consistently"
+4940.237 "for at least five and
+ideally 6 days per week."
+4943.23 I thought, "Oh, that's pretty good."
+4944.27 And he said, "Every 4 or 5 years"
+4945.927 "you might have to update that,"
+4946.957 "but you need to decide what
+you can do consistently,"
+4949.137 "what you can do every day
+or at least six days a week,"
+4951.907 "or 5 days a week."
+4953.08 And that was very very useful to me
+4955.11 and it fits well with this
+notion of habit slips,
+4957.89 that if you happen to screw
+up and not be able to engage
+4961.67 in whatever habits you're trying to learn
+4963.79 for whatever reason, that the next day,
+4965.48 you just get right back on on
+the on the horse, so to speak.
+4969.26 However, there's a really
+interesting feature
+4971.77 from the neuroscience literature
+4973.62 and from the psychology that says
+4975.44 that chunking this 21 days into 2 day bins
+4978.94 can be very, very useful.
+4980.9 While it is true that the unit of the day
+4982.91 that our cells use is a
+circadian one, a 24-hour clock,
+4986.837 there does seem to be something powerful
+4989.2 about engaging in particular habits,
+4991.11 in a particular sequence,
+for two days in a row,
+4995.21 and then resetting, so thinking,
+4996.697 "Okay I can do this for a day"
+4998.727 "and if I can do it for a day,"
+4999.627 "I can probably do it for 2 days."
+5000.91 And then resetting. So every
+2 days you're resetting.
+5003.73 So you're kind of chunking 21 days
+5006.21 into a series of 2 day bins,
+in which you are trying
+5008.171 to perform 4 to 5 new habits
+5010.59 and then completing that 21 days.
+5013.345 Now, everything I've described
+about this 21-day program
+5016.14 with 6 things that you're
+trying to do with new habits
+5018.69 and only performing 4 to 5 and
+not compensating, et cetera.
+5022.15 There's nothing neuroscientifically
+unique about it,
+5025.69 except for the fact that
+it's not just 21 days,
+5029.691 broken up into two day chunks.
+5032.39 After 21 days, you stop engaging
+5035.504 in this 21-day deliberate
+4 to 5 things per day,
+5040.05 tight schedule, and you
+simply go into autopilot.
+5044.1 You ask yourself how many
+of those particular habits
+5047.56 that I was deliberately trying to learn
+5049.7 in the previous 21 days are
+automatically incorporated
+5053.76 into my schedule?
+5054.593 How many of them am I naturally doing?
+5056.71 In other words, every
+21 days you don't update
+5059.25 and start adding new habits.
+5061.1 You simply try and maintain the ones
+5062.89 that you built in that first 21 days.
+5065.05 And this I think is extremely important
+5067.2 because in all the habit
+literature that I could find,
+5070.213 sure, there was a lot
+of psychological data
+5073.27 and neuroscience data,
+behavioral science data
+5075.89 around here's how you form a habit,
+5077.44 here's how you break a habit.
+5078.93 There was even some
+kind of test for whether
+5081.61 or not a habit had really
+achieved context independence,
+5085.1 whether or not it was a
+strongly formed habit.
+5087.86 But there wasn't a lot of information,
+5089.75 at least by my search,
+5091.138 of what to do once you've formed a habit,
+5093.622 and how to evaluate whether
+5095.24 or not that habit is likely to
+persist long into the future.
+5099.426 So here's the idea, you
+set out these 6 things
+5104.26 that you would like to learn,
+5105.71 or that you would like
+to acquire in your life,
+5107.68 these habits, you only expect
+5110.212 that you're going to
+perform 4 or 5 each day,
+5111.72 you do that for 21 days.
+5113.33 Again, if you miss a day,
+5114.307 you just hop right back on the next day.
+5116.03 However, you should think
+about the functional units
+5119.0 within this 21 day period as 2 days.
+5121.923 You can try and nail 4 to 5
+of these things for 2 days.
+5125.41 If you happen to get all 6, great,
+5126.96 but that's not necessarily required.
+5129.15 So you can do it for 2
+days then reset 2 days,
+5131.06 then reset 2 days, and
+then in the next 21 days,
+5133.83 you're not trying to
+acquire any new habits,
+5135.81 you're not going to throw in 6 more habits
+5138.01 that you want to learn,
+you're simply going to assess
+5140.222 how well, how deeply, you
+rewired your nervous system
+5143.492 to be able to perform those 6 habits
+5146.223 of the previous 21 days.
+5148.74 And this is extremely useful, I believe,
+5150.73 because it will allow you to asses whether
+5153.257 or not you can indeed make room,
+5155.46 if you even have room, I
+should say, for more habits.
+5159.527 Many people are trying to
+cram so many new behaviors
+5162.35 into their nervous system,
+that they don't stand a chance
+5164.73 of learning all those behaviors.
+5166.15 What you may find,
+5167.09 is that you kept up 2 of
+those things very consistently
+5170.11 throughout the 21 days.
+5171.29 And perhaps there was one of
+them that you did sporadically,
+5174.03 and that there were 3
+others that, frankly,
+5177.31 you didn't manage to execute.
+5178.72 You may also be one of these
+people, one of these mutants,
+5181.905 that sets out to do 6 new
+things per day for 21 days
+5184.444 and performs every single one of them.
+5186.474 Terrific. More power to you. In that case,
+5188.483 for the following 21
+days, let's see whether
+5192.02 or not you can continue to
+perform those very same 6 things
+5194.94 every day for 21 days,
+and then, and only then,
+5197.111 would you want to add more habits in.
+5200.853 So you could repeat this
+21 day process, you know,
+5203.54 21 days of new habit, 21 days
+of testing those new habits
+5206.9 as to whether or not
+they're reflexive or not.
+5208.29 You could do that forever, if you wanted.
+5210.865 But the idea is that this isn't something
+5212.89 that you're doing all year long.
+5214.65 It's that you're perhaps
+starting the new year
+5216.84 or regardless of when
+you're listening to this,
+5218.74 you set out to make that 21
+day really the stimulus period
+5222.32 in which the habits get wired in
+5224.24 and then the following month,
+5225.46 and maybe even the following
+months, or periods of 21 days,
+5229.07 are really the kind of
+thermometer or the test bed
+5232.11 of how well you've embedded
+those particular habits.
+5235.56 And if indeed you want to
+continue to add new habits
+5238.58 or you find that certain
+habits that you weren't able
+5240.53 to embed in your nervous
+system and make reflexive,
+5242.81 you want to then bring
+those in, fantastic.
+5245.1 But it's only once you've
+achieved all those 6 habits
+5247.65 as reflexive, that you would move forward.
+5249.43 And I think this sort of system,
+5251.077 while it could have been replaced
+5253.74 with many other different systems.
+5255.7 Again, there's nothing
+holy about this system.
+5257.89 But this particular system
+has a number of features,
+5260.75 the lack of compensation for missed days,
+5263.37 the fact that it's a fairly
+high intensity program
+5266.08 for 21 days, but then you test yourself,
+5268.52 a kind of competition test
+with yourself, if you will.
+5270.889 Those features and the
+fact that habit slips,
+5274.443 missing of particular habits
+5276.66 and not doing all 6 is kind
+of built into the system,
+5279.01 I think makes it a very reasonable one.
+5281.24 It's very adaptable to the real world.
+5284.0 And I think it's one that,
+provided you obey the phase one,
+5288.44 phase two, phase three type system
+5290.08 that we talked about earlier,
+5290.99 you collapse these two
+programs with one another,
+5293.46 which hopefully will be easy,
+5294.65 based on the descriptions I've
+given. Well, if you do that,
+5297.267 and I think there's a
+very high probability
+5299.73 that the habits that you try and form
+5301.15 will achieve this context dependence
+5302.74 and that it will take
+progressively less limbic friction
+5305.31 to try and perform them.
+5306.48 Thus far, we've almost
+exclusively been discussing
+5308.95 how to form habits.
+5310.65 But what about breaking habits?
+5312.37 Certainly many people out there
+would like to break habits
+5315.44 that they feel don't serve them well.
+5317.662 One of the challenges
+in breaking habits is
+5320.02 that many habits occur very, very quickly
+5323.16 and so there isn't an
+opportunity to intervene
+5324.883 until the habit has already been initiated
+5327.778 and in some cases completed.
+5330.49 Well, there are a couple of tools
+5332.23 that neuroscience and psychology tell us
+5334.86 can be very beneficial.
+5336.61 Some of those things
+are somewhat intuitive
+5339.011 and relate to what I call
+foundation practices.
+5341.846 Meaning things that set the overall tone
+5344.54 in your body and brain, such
+that you would be less likely
+5347.545 to engage in a particular habit
+5349.763 or that would raise
+your level of awareness,
+5352.396 both of your situation and
+to how you feel inside.
+5356.57 So things like stress reduction.
+5358.094 Things like getting good sleep.
+5359.72 Things like quality nutrition.
+5361.21 Things like having positive routines
+5363.33 arranged throughout your day.
+5364.78 All of those, of course, will support you
+5367.033 in trying to break particular habits.
+5369.73 And while that can be very useful,
+5371.35 it's admittedly very generic advice.
+5374.13 It doesn't point to any
+one specific protocol.
+5376.75 In order to identify a specific protocol
+5379.77 that one could apply in
+order to break habits,
+5381.857 we have to look at the mirror image
+5384.043 of the sort of neuroplasticity
+5386.17 that we talked about at the
+beginning of the episode.
+5388.76 At the beginning of the episode,
+5390.04 we talked about a form of neuroplasticity
+5391.72 called long term potentiation,
+5393.51 involving the NMDA receptor.
+5395.606 Just to refresh your memory a little bit,
+5397.354 it says that if a set of neurons
+is very electrically active
+5401.98 it's likely that those
+neurons will communicate
+5404.74 with themselves more easily
+5406.154 because of changes in things
+like NMDA receptor activity,
+5410.32 the recruitment of additional
+receptors, et cetera.
+5412.33 It's essentially a cellular
+and molecular explanation
+5415.38 for how something goes from unlearned,
+5418.53 to learned, to reflexive.
+5420.98 Now, in order to break synapses,
+5423.58 or to break apart neural connections
+5425.62 that are serving a habit that
+you don't want to engage in,
+5428.551 we need to engage the process
+called long term depression.
+5432.53 And long term depression has nothing to do
+5434.905 with a state of mental depression
+or a reduction in mood.
+5439.93 So I really want to be clear that
+5441.51 when I say depression in this context
+5443.89 it has nothing to do with
+psychological depression,
+5445.97 it has nothing to do with mood.
+5447.91 It's simply called long term depression
+5450.18 because just as long
+term potentiation says
+5452.93 if neuron A triggers
+the firing of neuron B,
+5455.85 and it does so very robustly
+over and over and over again,
+5459.03 then neuron A will not
+have to fire as intensely,
+5462.97 or as frequently, in
+order to activate neuron B
+5466.05 in the future because
+they become potentiated.
+5468.52 Right? The threshold for
+co-activation has been reduced.
+5471.7 There's a much higher probability
+5472.99 that they will be activated together
+5474.67 at low levels of intensity.
+5476.574 That's essentially what
+long term potentiation is.
+5479.53 Long term depression says
+that if neuron A is active
+5483.28 and neuron B is not active
+within a particular time window,
+5487.558 then the connection between
+neuron A and B will weaken
+5491.29 over time, even if they started
+off very strongly connected.
+5495.51 Okay? So, I'm going to repeat that
+5496.72 because this is a pretty detailed
+neurobiological mechanism
+5500.726 whereby if neuron A,
+and neuron B is active,
+5505.12 but at a different time
+or outside a particular,
+5507.781 what we call, temporal window,
+5509.52 meaning outside a particular time window,
+5512.04 then through long term depression,
+5514.36 the connection between neuron
+A and neuron B will weaken.
+5518.24 And just as a point of interest,
+5520.716 the NMDA receptor is also
+involved in long term depression,
+5524.36 although there are other
+molecular components involved
+5526.88 as well.
+5527.713 So how do you take two neurons
+5529.651 that underlie a habit out of synchrony?
+5532.25 How do you get them to
+fire asynchronously?
+5534.153 This is pretty interesting
+with respect to the cellular
+5537.29 and molecular biology, but
+at the behavioral level,
+5539.74 it's especially interesting.
+5540.683 They way that one would do this
+is, let's say for instance,
+5543.627 you have a habit of picking up
+your phone mid work session.
+5549.52 Okay? That's a reflexive habit I think
+5551.84 that most people have experienced.
+5553.553 And we often hear the idea that, oh,
+5557.27 the phone is so filled
+with access to dopamine
+5560.0 and incredible things that
+we're just drawn to it.
+5562.62 But if you noticed what's
+happened with phone use over time,
+5565.895 most people, including
+myself sometimes I admit,
+5569.02 find ourselves just looking at our phone,
+5570.82 or find ourselves in a particular app
+5572.7 without actually having engaged
+5574.21 in the conscious set of steps of,
+5575.567 "Oh I'm really curious"
+5576.557 "what's going on in this particular app."
+5578.157 "I'm really curious"
+5579.347 "what's going on in this
+particular website."
+5581.17 And you just kind of "find
+yourself", in air quotes,
+5583.91 for those of you listening,
+I'm making air quotes.
+5585.879 You just sort of find yourself
+doing it because the behavior
+5589.13 of picking up your phone
+is sort of reflexive,
+5590.97 or has become fully reflexive.
+5593.12 You see this a lot at meals
+5594.85 where multiple people are there
+5596.48 and no one's looking at their phone
+5597.87 and then all of a sudden
+someone takes out their phone
+5599.41 and you'll notice
+5600.243 that other people just
+naturally take out their phone.
+5602.08 It's this kind observation induced reflex.
+5606.39 And I would wager that most
+people aren't consciously aware
+5610.52 of the immediate steps involved.
+5613.116 So the literature says
+there are a number of ways
+5616.04 to break these sorts
+of habitual behaviors,
+5618.573 or reflexive behaviors.
+5620.98 Most of those approaches
+involve establishing some sort
+5624.75 of reward for not performing the activity
+5627.748 or some sort of punishment
+for forming the activity.
+5630.94 I've heard of some basic things
+that some people will do,
+5633.1 like they'll even put like a
+rubber band on their wrist,
+5635.0 and every time they complain,
+5636.44 or every time they do some behavior,
+5638.91 like pick up their phone,
+5639.95 they'll give themselves
+a snap on the wrist.
+5641.57 And yeah, the rationale
+there is that you're trying
+5643.86 to create a somatic, a very
+physical representation
+5647.0 of something that makes it very real
+5649.88 and harder to overlook.
+5651.21 Other people will just do a
+tick mark on a piece of paper.
+5653.47 This sort of, "What gets
+measured is what gets managed"
+5656.616 kind of mindset, where if
+every time you do something,
+5659.41 you take away the judgment,
+this is very new age-y,
+5662.73 I realize, but this is
+what you find out there,
+5665.0 if you search the literature.
+5667.06 Even on PubMed, peer-reviewed articles,
+5669.84 that every time you engage in a behavior,
+5671.76 you just measure the fact
+that you did that behavior,
+5674.93 you just mark it down.
+5675.81 At the end of the day, people
+are supposed to look at that
+5677.75 and say, "Oh my goodness!"
+5678.583 "I can't believe that I
+spent, you know, 3 hours."
+5681.922 Or, "I did it 46 times."
+5683.456 And in fact, a lot of
+apps, social media apps,
+5686.117 will start to give you
+warnings now, if you opt in,
+5689.44 that you've been on the app for an hour,
+5691.86 would you like to leave?
+5692.693 Most people just click right
+past it and go back in.
+5694.258 I think very few people
+say, "Oh my goodness!"
+5697.337 "It's been an hour and
+therefor you're right,"
+5699.277 "I absolutely shouldn't
+engage in this any more."
+5701.53 It's just far to easy to just
+blow past those reminders.
+5704.092 Well, the literature on habit formation
+5708.236 and habit reduction, breaking
+habits, has been analyzed.
+5712.54 There's a beautiful meta-analysis,
+5714.992 which involves looking at a number
+5716.76 of different studies all together,
+5719.385 comparing the statistical
+strength of each of those studies,
+5722.19 looking in different conditions
+5723.23 what sorts of habits were
+trying to be made or broken.
+5725.775 The first author on this
+review is Fritz, F R I T Z.
+5731.07 I'll certainly put a link to this.
+5733.3 It's Heather Fritz and it's
+5734.887 "Intervention to modify
+habits: a scoping review."
+5737.38 And it is indeed a very
+broad scale review. It's from
+5739.37 the Journal of Occupation
+Participation and Health.
+5741.5 It's published in 2020.
+It's a really nice article.
+5744.075 A couple of things I
+learned from this article
+5746.03 and then I'll get into the specific tool
+5747.47 for breaking habits.
+5748.75 Perhaps the most interesting
+thing that I took
+5750.49 from this review was the finding
+5752.62 that notifications to
+either engage in habits
+5757.2 or to not engage in habits
+5758.84 actually were not very
+effective over time.
+5761.61 They were effective in
+the immediate period
+5763.97 when people started using
+these notifications,
+5765.99 as were little sticky notes, like,
+5767.797 "Don't go into the refrigerator"
+5769.117 "between the hours of
+whatever and whatever."
+5771.32 Or just visual reminders,
+5773.604 physical reminders or electronic reminders
+5776.35 were effective in the immediate term,
+5778.36 but in the long term,
+did not predict whether
+5780.24 or not people would effectively stick
+5782.5 to habits they were trying to stick to,
+5784.761 or break habits that they
+were trying to break.
+5785.97 So sadly, that doesn't
+seem to work very well.
+5788.98 And perhaps they just need to come up
+5791.1 with more robust reminders.
+5793.24 I don't know, mild electric shock
+5794.56 or something like that
+because what we do know,
+5796.218 only sort of kidding
+about mild electric shock,
+5799.342 but what we do know from both human
+5801.44 and animal studies is that
+things like electric shock,
+5804.81 things like monetary penalties, right?
+5807.61 Having to pay out every time you engage
+5809.34 in a particular behavior.
+5810.5 Those are pretty effective
+ways to break habits.
+5812.776 The problems is when people
+are not being monitored
+5816.043 for habit use, for instance,
+5819.5 you can imagine a situation where you say,
+5821.237 "I'm not going to pick up my phone"
+5822.507 "for the 4 hours in the
+early part of the day"
+5824.917 "so I can get, you know, real
+dedicated focused work done."
+5827.518 Unless someone's monitoring
+them, then people don't tend
+5830.224 to monitor themselves completely enough
+5834.23 that they punish themselves
+completely enough,
+5836.16 that they break the behavior.
+5837.07 In other words, the
+punishment isn't bad enough,
+5839.5 in order to break the habit,
+5840.56 which just speaks to how
+powerful these habits are
+5843.78 once they become reflexive.
+5844.95 They're just very, very hard to override.
+5846.681 So it turns out that the key
+5848.65 to generating long term
+depression in these pathways
+5852.118 is actually to take the period
+5856.25 immediately following
+the bad habit execution,
+5859.64 meaning, let's say you tell yourself
+5860.87 you're not going to pick up your phone,
+5862.713 you're not going to bite your nails,
+5863.924 you're not going to reflexively walk
+5865.341 to the refrigerator at a
+particular time or day,
+5866.29 but you find yourself doing it anyway,
+5868.45 and what actually has to happen
+5870.55 is bringing conscious awareness
+5872.75 to the period immediately afterwards,
+5874.35 which I think most people recognize,
+5875.84 they realize "Ugh I just did
+it again. I just did it again."
+5878.044 And in that moment, capture
+the sequence of events,
+5882.01 not that led to the bad habit execution,
+5884.961 but actually to take advantage of the fact
+5887.684 that the neurons that were responsible
+5889.94 for generating that bad habit
+were active a moment ago,
+5893.454 and to actually engage
+in a replacement behavior
+5897.183 immediately afterward.
+5899.43 Now, this is really interesting
+and I think powerful
+5901.52 because I would have thought
+5902.73 that you have to engage
+in a replacement behavior
+5905.368 that truly replaces the
+bad habit behavior, right?
+5908.895 That you would have to be able
+5910.7 to identify your state of mind
+5913.08 or the sequence of events
+leading into the bad habit,
+5915.78 but rather, the stage
+5917.58 or the period immediately
+after the bad habit execution,
+5920.22 is a unique opportunity to
+insert a different type of,
+5923.97 what we would call adaptive behavior,
+5925.75 but that could be any
+behavior that's not in line
+5928.88 with the bad behavior, so
+let's give it an example.
+5931.82 Let's say you find yourself,
+5933.2 you're trying to do focused
+work, you pick up your phone,
+5935.617 you're disappointed in yourself
+for picking up your phone,
+5938.856 you could of course just put it down,
+5941.33 and re-engage in the work behavior,
+5944.25 but if you were good at that,
+5945.45 then you probably wouldn't have
+done it in the first place.
+5947.55 And so, what turns out
+to be very effective,
+5949.93 is to go engage in some
+other positive habit.
+5952.93 Now, this has two major effects.
+5954.97 The first one is you start
+5956.32 to link in time the
+execution of a bad behavior
+5959.52 to this other good behavior.
+5961.404 And in doing so, you start to
+recruit other neural circuits,
+5965.829 other neurons, that can start
+5968.34 to somewhat dismantle sequence of firing
+5971.58 associated with the bad behavior.
+5973.58 In other words, you start to
+create a kind of a double habit
+5976.88 that starts with a bad habit,
+5978.43 and then ends with a good habit.
+5980.35 And that seems to create
+enough of a temporal mismatch
+5983.492 so that then recognizing
+5986.02 when you're heading toward to bad habit
+5987.89 becomes more apparent to you.
+5990.13 So again, I want to make
+this very, very concrete.
+5992.21 Let's say
+5993.043 that the behavior is reflexively
+picking up one's phone.
+5995.96 You do that, you think, "Ugh,
+goodness, I did it again."
+5998.51 Here's what I'm going to do,
+5999.63 you would set that down
+6000.8 and then you would engage in
+some other positive behavior,
+6004.08 that you've deemed positive.
+6005.26 And here, it's very
+subjective, so it's hard
+6006.95 for me to give an example
+6007.88 that will necessarily
+make sense to everybody,
+6010.163 but perhaps you're working on hydration,
+6012.7 so maybe you go have a glass of water.
+6014.32 Maybe you're trying to do
+breath work or something.
+6018.91 Maybe you're trying to enhance
+your language speaking skills
+6023.19 so you go and you spend 5 minutes
+6024.89 doing a particular type
+of language learning.
+6028.05 You literally exit whatever you were doing
+6030.35 and perform that other new positive habit
+6032.96 in the immediate period right after that,
+6034.73 even for a short period of time.
+6036.52 It's a little bit counterintuitive,
+6038.17 but what this does it
+creates kind of a cognitive
+6040.569 and a temporal mismatch between
+the initial bad behavior,
+6045.04 which before is what we would
+call sort of a closed loop,
+6048.017 and the engineers out there will know
+6049.53 what I'm talking about.
+6051.425 But in a closed loop, so one behavior,
+6053.044 one set of neural
+firings, leads to another,
+6055.059 leads to another,
+6056.08 and then just kind of sets
+the same thing in motion.
+6058.11 It can be kind of a self
+perpetuating system.
+6060.71 By changing the number of
+features that are in that loop,
+6063.74 it disrupts the closed
+nature of that loop,
+6066.7 it creates what we call an open loop,
+6068.49 and in an open loop, you are
+better able to intervene.
+6070.685 So, as I mentioned before, this
+might seem counterintuitive,
+6073.787 you might think,
+6074.727 "Why would I want to reward
+the execution of a bad habit"
+6078.477 "with a good habit."
+6079.787 "I don't want to reward
+myself for the bad habit."
+6082.13 But really what you're
+trying to do is you're trying
+6084.03 to change the nature
+of the neural circuits
+6086.6 that are firing so that
+you can rewrite the script
+6089.41 for that bad habit.
+6091.442 A different way to put it would be,
+6093.845 imagine that the bad habit
+is like a chord on the piano
+6098.67 that you play, or a chord notes,
+6100.28 or a sequence of notes
+that you would play,
+6102.52 and it comes very easily.
+6104.15 You can play it every single time.
+6105.84 But, let's say,
+6106.673 as you're trying to learn
+a new piece of music,
+6107.89 you're just constantly inserting that
+6109.33 at the inappropriate time.
+6110.48 That was, you know, I think
+it was a decent enough analogy
+6112.75 for a bad habit because it
+involves some motor execution.
+6115.64 You just find yourself doing it.
+6117.28 Rather than trying to prevent
+yourself from doing it,
+6119.75 the next time you do
+it, add in a new chord
+6122.79 or sequence that you're trying to learn.
+6125.7 What this does then is it
+changes the whole nature
+6128.3 of the sequence of neurons
+that are firing from bad habit
+6131.71 through to the end of this
+newly applied good habit.
+6135.47 So, this is the way in which
+you start to dismantle or,
+6139.57 when I say dismantle,
+really weaken the likelihood
+6142.73 that if neuron A fires,
+neuron B will fire.
+6145.1 Because, as you're
+starting off in the mode
+6148.11 of very reflexively
+performing a bad habit,
+6150.76 those neurons are firing together
+6152.061 without you consciously being aware of it.
+6154.69 It's almost impossible for
+you to intervene in yourself
+6158.098 without a number of other features,
+6160.317 like severe punishment, severe
+consequence type outcomes.
+6164.284 Rather, tacking on some
+additional sequences,
+6168.02 like if neuron A, neuron B
+fires, and then you're saying,
+6171.397 "Okay well, if neuron B fires,"
+6173.137 "I'm going to start inserting
+neuron C, D, E, F to fire."
+6177.36 Right? That's the, C, D, E,
+F being the positive behavior
+6180.89 that you're going to insert.
+6182.03 And in doing so, you create a
+chain of neuronal activation
+6185.41 that then is very easy to dismantle.
+6187.86 And so, when people have
+applied this kind of approach,
+6190.9 it removes the need to have
+constant conscious awareness
+6195.4 of one's own behavior
+prior to that behavior,
+6198.44 which is very, very difficult to achieve.
+6200.94 Rather, what they find is
+that they are able to engage
+6204.45 in re-mapping of neural circuits
+associated with bad habits
+6207.72 in ways that are very,
+very straightforward.
+6210.59 Right? Because you can always identify
+6212.54 when you've done the
+thing you don't want to do
+6214.17 and then tack on to that
+something additional
+6216.63 that's positive.
+6217.69 Now, the nature of that
+positive thing is important.
+6220.69 You don't want it to be something
+6221.75 that's very hard to execute.
+6223.02 You want it to be
+something that's positive
+6224.61 and fairly easy to execute,
+6226.39 so that you're not struggling all the time
+6228.06 to insert this on top
+of this bad behavior,
+6230.711 whatever that bad behavior
+might happen to be.
+6233.52 But again,
+6234.353 this is rooted in the biology
+of long term depression,
+6236.82 it maps very well to the
+behavioral change literature
+6239.287 that I was able to glean that really shows
+6241.4 that rather than just get reminders,
+6243.24 rather than try and instill punishment,
+6244.9 rather than setting up reward
+for breaking bad habits,
+6247.75 that perhaps the simplest
+way to approach this is
+6250.054 to tack on additional
+behaviors to the bad habits,
+6253.6 make sure those behaviors
+are good behaviors,
+6255.99 or behaviors that are adaptive for you,
+6258.35 and in doing so, you will soon find
+6260.65 that the initiation of the bad habit
+6262.47 takes on a whole new form
+6263.61 or that you're not even
+inspired to do it at all.
+6266.097 And of course, I want to acknowledge
+6267.65 that breaking bad habits is really hard.
+6270.46 We had an episode all about addiction
+6272.612 with Dr. Anna Lembke from
+Stanford Medical School.
+6276.09 She's a colleague of mine
+6277.44 who runs the Dual-Diagnosis
+Addiction Clinic at Stanford.
+6280.48 And in that episode, we
+talked a lot about how addicts
+6283.594 for drugs, alcohol, people have addictions
+6287.41 to certain types of behaviors,
+or avoidance behaviors even,
+6290.52 that in the case of addiction,
+6291.8 there has to be a tremendous
+kind of full-scale campaign
+6295.067 for them to be able to
+intervene in their behavior.
+6297.53 So, for those of you
+6298.363 that are thinking about bad habit breaking
+6299.68 in the context of
+addictive type behaviors,
+6302.677 definitely check out that episode.
+6304.762 Addiction does employ
+some of these principles
+6307.63 around habit making and
+habit breaking, as it were,
+6311.342 but of course, because the consequences
+6314.511 of certain habits in
+addiction can be so severe,
+6317.736 there's other sets of protocols
+6320.01 and there's a kind of a
+psychological backdrop to it
+6322.09 that's very important.
+6323.17 It also relates to the
+biology of dopamine,
+6324.767 and you can find all
+of that in the episode
+6327.0 with Dr. Anna Lembke.
+6328.47 So today we've covered
+a lot about the biology
+6331.31 and the psychology of habit formation
+6333.41 and habit breaking.
+6335.02 We talked about why certain
+habits are so hard to wire in,
+6340.27 why certain habits are
+so hard to break down
+6342.89 and eliminate, and how we can determine
+6345.621 which habits are going to
+be easier for us to access
+6348.905 and which habits are going to be harder
+6350.94 for us to access and break.
+6353.45 We talked a lot about this
+notion of limbic friction
+6355.91 and we talked about context dependence.
+6357.74 And we talked about a
+number of different things
+6360.96 as it relates to neural circuits
+6362.58 and the formation of new
+connections in the brain,
+6365.02 and strengthening and weakening
+of connections in the brain.
+6367.426 We also discussed two programs.
+6369.871 Programs designed specifically for you
+6372.18 on the basis of the
+neurobiology literature
+6375.04 and the literature on the
+psychology of habit formation
+6377.41 and habit breaking.
+6378.51 Just to briefly recap,
+6380.307 one program involves
+dividing the 24 hour day
+6383.672 into three phases, phase
+one, phase two, phase three,
+6387.68 and to try and tackle specific habits
+6389.873 at particular phases of the 24 hour cycle.
+6393.075 The second program
+involved a 21 day process
+6396.976 of engaging approximately
+6 new habits per day,
+6401.72 although the expectation,
+as I mentioned earlier,
+6403.49 is that you're not going
+to perform all 6 of those.
+6406.14 And an assessment in the following 21 days
+6408.66 as to whether or not you have
+indeed formed those new habits
+6411.75 or not.
+6412.72 And there were a number of other features
+6414.4 that I mentioned that were related
+6415.71 to those two general programs.
+6417.15 Phase one, phase two, phase
+three, and the 21 day program,
+6420.22 and how those could be meshed together.
+6422.45 So, I'm guessing some of you
+will probably have questions
+6424.81 about those programs
+and how to apply them,
+6426.91 but hopefully they were clear
+enough for you to get started.
+6429.178 This is a good opportunity
+for me to mention
+6431.82 that the Huberman Lab Podcast
+6433.72 has something called the
+Neural Network Newsletter
+6436.39 that is sent out
+approximately once a month.
+6439.198 For the next newsletter,
+6440.832 I will release a on-paper
+version of these two systems
+6445.626 and how they mesh together
+for habit formation
+6448.06 and habit breaking, and if
+you'd like to access that,
+6451.36 you can go to hubermanlab.com,
+you go to the menu,
+6453.9 you can sign up for the newsletter.
+6455.51 First of all, it's zero cost.
+6457.6 Second of all, we have
+our privacy policy there,
+6460.01 but I can tell you right now,
+6460.843 we don't share your email with any vendors
+6462.97 or with any other sources.
+6464.47 Those emails stay internal to us.
+6466.245 And if you'd like to see
+6468.04 what the sort of flavor
+of those newsletters is,
+6470.83 the previous newsletters, for instance,
+6473.16 one on tools for sleep,
+that I mentioned earlier,
+6475.65 or tools for neuroplasticity,
+in the classroom
+6478.97 and outside the classroom as well,
+6480.61 for teachers and for
+students of various kinds,
+6482.8 those are also posted there
+6484.32 so you can access any of
+the previous newsletters.
+6487.1 My hope is that today you've learned
+6488.61 both the biological mechanisms
+6490.49 and the practical tools
+by which you can start
+6492.72 to establish habits that, for you,
+6495.17 you deem adaptive, healthy,
+6497.11 and that are going to
+support you in your goals.
+6498.93 And that you can start to
+dismantle some of the habits
+6501.87 that you find to be
+unhealthy or maladaptive
+6504.69 for you and for your goals.
+6506.55 If you're learning from
+and/or enjoying this podcast,
+6508.68 please subscribe to our YouTube channel.
+6510.45 That's a terrific way to support us.
+6512.21 In addition,
+6513.043 on YouTube you can leave us
+feedback in the comment section.
+6516.12 You can also leave us
+suggestions for future guests
+6518.529 that you'd like us to host
+on the Huberman Lab Podcast.
+6521.77 And please also subscribe
+to the podcast on Apple
+6524.8 and/or Spotify.
+6526.36 On Apple, you can leave
+us up to a 5 star review.
+6528.55 And now Spotify has a feature
+6529.99 by which you can also
+leave us review feedback.
+6532.64 Please also check out
+the sponsors mentioned
+6534.54 at the beginning of this podcast episode.
+6536.59 That's perhaps the best
+way to support out podcast.
+6539.0 In addition, we have a Patreon.
+6540.152 It's patreon.com/andrewhuberman,
+6543.109 and there you can support the podcast
+6545.21 at any level that you like.
+6546.76 During today's podcast
+6547.95 and in many previous episodes
+of the Huberman Lab Podcast,
+6550.68 I mentioned supplements.
+6551.767 While supplements aren't
+necessary for everybody,
+6554.74 many people derive tremendous
+benefit from supplements.
+6557.042 Supplements for sleep,
+supplements for focus,
+6559.56 supplements for various other things
+6560.96 related to mental and physical
+health and performance.
+6563.47 One key issue any time
+there's a discussion
+6566.03 about supplements, you have to be sure
+6568.39 that the supplements you are taking
+6570.09 are of the very highest quality.
+6571.47 And for that reason, we've
+partnered with Thorne,
+6573.6 because Thorne has the
+very highest stringency,
+6575.75 with respect to the quality of
+the ingredients they include,
+6578.24 and the precision of the
+amounts of the ingredients
+6580.5 that they include in their supplements.
+6582.56 If you'd like to see the
+supplements that I take,
+6584.63 and get 20% off any of those supplements,
+6586.87 you can go to Thorne,
+thorne.com/u/huberman and,
+6591.472 in addition to being able 20%
+off any of those supplements,
+6594.889 if you navigate deeper
+into the Thorne site
+6597.35 through that web portal,
+thorne.com/u/huberman,
+6600.7 you can also get 20% off
+any of the other supplements
+6603.37 that Thorne makes.
+6604.5 If you're not already
+following us on Instagram
+6606.49 and Twitter, please feel free to do so.
+6608.639 There, I teach neuroscience
+and neuroscience related tools
+6611.791 in short format.
+6613.288 Some of that material overlaps
+6615.09 with what you hear on the podcast,
+6616.37 some of it is unique and different
+6617.85 from what's on the podcast.
+6619.31 And once again,
+6620.143 I want to thank you for
+going on this journey
+6622.57 of exploring the neuroscience
+6624.504 and the psychology of habit
+formation and habit breaking.
+6628.14 I hope it supports you in your goals.
+6629.62 And last but certainly not least,
+6631.701 thank you for your interest in science.
+6633.953 [mellow music]

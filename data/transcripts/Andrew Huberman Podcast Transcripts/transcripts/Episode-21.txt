@@ -1,0 +1,5687 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.28 where we discuss science
+4.029 and science-based tools for everyday life.
+9.33 I'm Andrew Huberman,
+10.32 and I'm a professor of
+neurobiology and ophthalmology
+13.38 at Stanford School of Medicine.
+15.24 Today my guest is Dr. Nolan Williams.
+17.58 Dr. Williams is a medical doctor
+19.62 and professor of psychiatry
+and behavioral sciences
+22.29 at Stanford University School of Medicine.
+24.69 His laboratory and clinic
+focus on depression
+27.0 and other mood disorders.
+28.89 They focus specifically on the use
+30.6 of transcranial magnetic stimulation,
+32.91 which is a brain stimulation technique
+35.1 that can either activate or
+quiet specific brain circuits,
+38.67 as well as circuits within the body,
+40.56 in order to treat depression
+and other mood disorders.
+43.95 Other laboratories and clinics use TMS.
+46.59 What sets apart the work of
+Nolan Williams and colleagues is
+49.59 that they combine TMS
+with other treatments,
+52.44 and some of those treatments
+are among the more cutting edge
+54.6 that you've probably
+heard about these days,
+56.22 including ibogaine, psilocybin,
+MDMA, cannabis, DMT,
+62.1 and other drugs that at this
+point in time are experimental
+65.58 in terms of clinical trials,
+67.26 but that at least the
+preliminary data show
+69.48 hold great promise for the
+treatment of depression
+71.79 and other mood disorders.
+73.26 In the course of my
+discussion with Dr. Williams,
+75.45 we covered things such as the history
+77.67 of each of these drugs,
+how they came to be,
+80.13 and their current status in
+terms of their clinical use
+82.71 and legality.
+83.88 We also talk about their safety profiles
+85.8 both in children and in adults,
+88.11 and we talk about what the
+future of psychedelic research
+90.75 and clinical use really looks like.
+93.42 For instance, we discuss
+how a number of laboratories
+96.51 and clinics are modifying psychedelics
+98.76 to remove some of their
+hallucinogenic properties
+101.37 while maintaining some
+of their antidepressant
+103.44 or anti trauma properties.
+105.21 You'll also learn about
+some fascinating research
+107.04 in Dr. Williams' laboratory
+focused on ketamine,
+110.37 which is a drug that is
+increasingly being used
+112.74 to treat depression.
+113.88 And contrary to common belief,
+115.68 the effects of ketamine in
+terms of relieving depression
+118.8 may not actually arise from
+its dissociative effects.
+122.25 One thing that you'll find extraordinary
+123.69 about Dr. Williams is
+that not only does he have
+126.24 vast knowledge of the various
+treatments for depression,
+129.09 but that he and his laboratory
+are really combining
+131.94 these treatments in the most potent way.
+133.59 That is, combining psychedelic treatments
+135.39 with brain-machine interface,
+136.77 or combining brain-machine interface
+138.24 with particular learning protocols.
+140.1 That is, neuroplasticity protocols,
+142.29 which can directly change
+the brain in specific ways.
+145.05 So today you're going to
+learn a tremendous amount
+147.69 about the neural circuitry
+underlying depression,
+149.91 as well as positive moods.
+151.35 You'll also learn about
+all the various drugs
+153.09 that I described,
+154.11 and you're really going to
+learn about the current status
+156.54 and future of the treatment
+of mood disorders.
+159.09 Today, you'll also learn about
+a number of ongoing studies
+161.58 in Dr. Williams' laboratory.
+163.44 I should mention that they
+are recruiting subjects
+165.42 for these studies.
+166.65 If you go to BSL,
+168.0 which stands for Brain
+Stimulation Laboratory,
+169.83 so that's bsl.stanford.edu,
+172.32 you have the opportunity to apply
+174.15 for one of these clinical trials
+175.44 for the treatment of depression
+and other mood disorders.
+178.23 I confess that the conversation
+with Dr. Williams was,
+180.6 for me, one of the more stimulating
+182.67 and informative
+conversations I've ever had
+185.25 about psychedelics,
+186.54 which is simply to say that his breadth
+188.91 and depth of knowledge on
+that topic is incredible,
+192.42 and his breadth and depth of knowledge
+193.95 in terms of the underlying brain science
+195.69 and how it can all be combined
+197.19 with clinical applications
+is also extraordinary.
+200.55 I'm sure that by the
+end of today's episode,
+202.23 you're going to come away
+203.063 with a tremendous amount of
+knowledge about the clinical
+205.41 and non-clinical uses of those substances,
+207.63 and you're going to understand a lot more
+209.7 about how the healthy
+and diseased brain work.
+212.19 I'm pleased to announce
+213.06 that the Huberman Lab
+Podcast has now launched
+214.83 a premium channel.
+216.03 I want to be very clear
+216.99 that the Huberman Lab
+Podcast will continue
+219.0 to be released every Monday
+at zero cost to consumer
+222.42 and there will be no change in
+the format of these podcasts.
+225.72 The premium channel is a response
+227.31 to the many questions we
+get about specific topics,
+230.46 and it will allow me to really drill deep
+232.47 into specific answers
+related to those topics.
+234.78 So once a month,
+235.613 I'm going to host an ask
+me anything, so called AMA,
+238.59 where you can ask me anything
+about specific topics covered
+241.08 on the Huberman Lab Podcast,
+242.19 and I will answer those questions.
+244.02 Those of course will be recorded.
+245.28 There will also be other
+premium content available
+247.77 to premium subscribers,
+249.12 such as transcripts and
+short videos of new tools
+251.73 and unique tools for mental
+health, physical health,
+254.73 and performance.
+255.93 If you want to check
+out the premium channel,
+257.49 you can go to hubermanlab.com/premium.
+260.13 There is a $10 a month
+charge or $100 per year,
+262.62 and I should mention that a
+large portion of the proceeds
+265.14 from the Huberman Lab
+premium channel will go
+267.06 to support scientific research
+269.01 that develops the very sorts of tools
+271.44 that we talk about on
+the Huberman Lab Podcast.
+274.41 The rest of the support
+275.34 for the Huberman Lab Podcast
+premium channel will go
+277.5 to supporting the regular
+Huberman Lab Podcast.
+279.72 Again, that's hubermanlab.com/premium.
+282.21 Before we begin,
+283.043 I'd like to emphasize that
+this podcast is separate
+285.21 from my teaching and
+research roles at Stanford.
+287.49 It is, however, part
+of my desire and effort
+289.62 to bring zero cost to consumer
+information about science
+292.17 and science related tools
+to the general public.
+294.75 In keeping with that theme,
+295.83 I'd like to thank the
+sponsors of today's podcast.
+298.59 Our first sponsor is InsideTracker.
+300.96 InsideTracker is a
+personalized nutrition platform
+303.33 that analyzes data from your blood and DNA
+305.88 to help you better understand your body
+307.41 and help you reach your health goals.
+309.48 I've long been a believer in
+getting regular blood work done
+312.15 for the simple reason
+that many of the factors
+314.49 that impact your immediate
+and long-term health
+316.59 can only be analyzed with
+a quality blood test.
+319.26 One problem with a lot of DNA tests
+321.33 and blood tests, however,
+322.38 is you get data back about
+levels of metabolic factors,
+325.83 levels of hormones, et cetera,
+327.45 but you don't know what to
+do with that information.
+329.34 InsideTracker makes interpreting your data
+331.02 and knowing what to do
+about it exceedingly easy.
+334.23 They have a personalized
+platform where you can go
+336.36 and you can see those levels
+of hormones, metabolic factors,
+338.91 lipids, et cetera,
+339.9 and they point to specific
+nutritional tools,
+342.33 behavioral tools, supplement
+based tools, et cetera,
+345.3 that can help you bring those numbers
+346.59 into the ranges that are optimal for you.
+348.81 If you'd like to try InsideTracker,
+350.16 you can go to InsideTracker.com/Huberman
+353.13 to get 20% off any of
+InsideTracker's plans.
+355.98 Again, that's InsideTracker.com/Huberman
+to get 20% off.
+360.27 Today's episode is also
+brought to us by Eight Sleep.
+362.94 Eight Sleep makes smart mattress covers
+364.59 with cooling, heating, and
+sleep tracking capacity.
+367.65 I started sleeping on an
+Eight Sleep mattress cover
+369.81 a few months ago, and
+it is simply incredible.
+372.63 In fact, I don't even
+like traveling anymore
+374.4 because they don't have
+Eight Sleep mattress covers
+376.86 in hotels and Airbnbs.
+378.66 One of the reasons
+379.493 I love my Eight Sleep mattress
+cover so much is that,
+382.11 as you may have heard before
+on this podcast or elsewhere,
+384.69 in order to fall and stay deeply asleep,
+386.97 you need your body temperature to drop
+388.53 by about one to three degrees.
+390.12 And I tend to run warm at night,
+392.13 which makes it hard to sleep
+393.24 and sometimes wakes me up
+in the middle of the night.
+395.25 When you sleep on an Eight
+Sleep mattress cover,
+396.87 you can program the temperature
+of that mattress cover
+399.51 for specific times in the early, middle,
+401.76 and late part of your night so
+that the mattress stays cool.
+404.82 And as a consequence, you
+sleep very, very deeply.
+407.52 It also tracks your sleep,
+409.2 so it's paying attention to
+how many times you're moving,
+411.54 how deep your sleep is.
+412.5 It gives you a sleep score,
+413.79 all wonderful data to help
+you enhance your sleep.
+415.95 And of course, sleep is the
+foundation of mental health,
+418.38 physical health, and performance,
+419.94 which makes an Eight Sleep a terrific tool
+421.83 for enhancing not just your sleep,
+423.54 but all aspects of your life really.
+425.73 If you're interested in trying
+a Eight Sleep mattress cover,
+427.77 you can go to EightSleep.com/Huberman
+430.29 to check out the Pod 3 cover,
+431.79 and you can save $150 at checkout.
+434.19 Eight Sleep currently ships
+to the USA, to Canada, the UK,
+437.82 and select countries in
+the EU and Australia.
+440.07 Again, that's EightSleep.com/Huberman
+442.5 to save $150 at checkout.
+444.75 Today's episode is also
+brought to us by ROKA.
+447.3 ROKA makes eyeglasses and sunglasses
+449.28 that are the absolute highest quality.
+451.56 The company was founded by
+two all American swimmers
+453.6 from Stanford, and everything
+about ROKA eyeglasses
+456.15 and sunglasses were designed
+with performance in mind.
+459.21 I've spent a lifetime
+working on the visual system,
+461.31 and I can tell you that your
+visual system has to contend
+463.41 with some pretty significant challenges
+465.21 in order to be able to see clearly
+467.13 as you move from one area to the next.
+468.69 For instance,
+469.523 when you go from a shady
+area to a bright area.
+471.69 ROKA understands this and
+have designed their sunglasses
+474.06 and eyeglasses accordingly
+475.38 so you always see with crystal clarity.
+477.54 In addition,
+478.373 because they were initially
+designed for performance,
+480.06 things like running and biking,
+481.71 they're extremely lightweight,
+483.09 but they have a terrific aesthetic.
+484.68 So unlike a lot of
+eyeglasses and sunglasses
+486.78 that were designed for sports
+488.16 and make you look like a cyborg,
+489.54 they have styles that make
+you look like a cyborg
+491.52 if you like those, but
+they also have styles
+493.41 that you'd be perfectly
+comfortable wearing to work
+495.57 or out to dinner, et cetera.
+496.86 They're really terrific glasses.
+497.94 I love mine because I
+can wear them anywhere
+500.64 and I also use them when
+running and going out hiking,
+503.28 et cetera.
+504.18 If you'd like to try ROKA
+eyeglasses or sunglasses,
+506.46 you can go to ROKA, that's ROKA.com,
+509.1 and enter the code Huberman
+510.51 to save 20% off your first order.
+512.46 Again, that's ROKA, ROKA.com,
+514.89 and enter the code Huberman at checkout.
+517.2 On many episodes of the
+Huberman Lab Podcast,
+519.24 we talk about supplements.
+520.77 While supplements aren't
+necessary for everybody,
+522.9 many people derive
+tremendous benefit from them.
+525.42 Things like enhancing sleep
+and the depth of sleep,
+528.06 or for enhancing focus
+and cognitive ability,
+530.79 or for enhancing energy or
+adjusting hormone levels
+534.09 to optimal range for you.
+535.65 The Huberman Lab Podcast is now partnered
+537.39 with Momentous supplements.
+538.62 To find the supplements we discussed
+539.94 on the Huberman Lab Podcast,
+541.14 you can go to livemomentous,
+spelled O-U-S,
+544.11 livemomentous.com/huberman.
+546.696 And I should just mention that the library
+547.74 of those supplements is
+constantly expanding.
+549.93 Again, that's livemomentous.com/huberman.
+553.05 And now for my discussion
+with Dr. Nolan Williams.
+556.14 Thanks for joining today.
+557.64 I'm really excited to
+have this conversation.
+560.13 It's been a long time coming
+561.87 and I have a lot of questions
+about different compounds,
+566.01 psychedelics in particular.
+567.36 - Yeah.
+568.193 - But before we get into that discussion,
+570.503 I want to ask you about
+depression, broadly speaking.
+574.17 Intractable depression.
+576.66 How common depression is or isn't.
+580.2 I heard you say in a
+wonderful talk that you gave,
+583.26 that depression is
+584.76 perhaps the most debilitating
+condition worldwide.
+589.08 And yet,
+589.95 in contrast to other medical
+conditions like cancer,
+594.18 we actually have a fairly
+limited number of tools
+597.3 to approach depression.
+599.46 And yet number of tools
+600.96 and the potency of those tools is growing.
+603.24 So if you could educate us on depression,
+605.19 I would really appreciate it.
+606.36 - Yeah, absolutely.
+607.193 So depression is a condition that,
+610.95 it has a lot of manifestations, you know.
+614.28 So you can have kind of a depression
+616.65 that's primarily loss of interest.
+618.54 You can have folks who feel very anxious
+621.36 and they're kind of overactive.
+622.65 You can have people who don't
+have any anxiety at all,
+625.29 and they're very underactive
+626.46 and they have low
+motivation to do anything.
+629.154 You know, so you have this
+huge range of symptoms
+630.96 that are in that umbrella of depression.
+633.51 And some of our work is to actually work
+635.734 with folks like Conor Liston and Cornell,
+637.95 and try to actually get biotypes
+based off of neuroimaging
+642.33 to see if we can kind of parse
+out the different depression
+645.6 kind of presentations,
+and see that clinically,
+649.2 and also see that in the brain.
+651.24 Depression is the most
+disabling condition worldwide.
+655.44 What's interesting about depression is
+656.97 it's both a risk factor
+for other illnesses,
+660.96 and it makes other medical and
+psychiatric illnesses worse,
+664.38 right?
+665.476 So recently the American Heart
+Association added depression
+669.03 as the fourth major risk factor
+671.43 for coronary artery disease, right?
+673.2 So alongside the risk
+factors that we know,
+676.62 hypertension, high blood
+pressure, hyperlipidemia,
+679.56 high cholesterol, and diabetes,
+you know, high blood sugar,
+684.15 those three have been on
+the list for a long time
+686.85 and depression ended up
+being added to the list
+689.25 as the fourth one.
+690.6 And you know, really interesting, right?
+693.09 So in addition to taking medications
+695.67 to address those other three risk factors,
+697.71 we really have to be thinking
+698.82 about how do you treat
+folks with depression
+702.03 to reduce the risk of having
+a heart attack in the future?
+705.78 And, you know, there's some
+of that's being worked on now,
+708.75 but we don't have a complete solution
+710.52 to thinking about that at this time.
+712.92 And then the other thing
+that's interesting is
+715.17 once you have a heart attack,
+717.515 in the individuals that end
+up having a heart attack,
+720.69 the risk of having depression
+after the heart attack is
+724.23 higher than the normal population, right?
+727.11 And so a lot of what we're
+doing in the lab actually is
+730.77 measuring kind of brain heart connections.
+733.35 And we can actually, with
+transcranial magnetic stimulation,
+736.23 a form of brain stimulation,
+737.58 we can actually decelerate the heart rate
+739.35 and capture that heart rate deceleration
+742.35 over the mood regulatory regions.
+744.06 And so actually a direct
+probe of that connection.
+747.12 So it's interesting.
+748.41 And so, you know, as you
+said a second ago, you know,
+752.16 it's a very disabling condition.
+753.66 Moderate depression's about as disabling
+756.59 as having a heart attack,
+acutely having a heart attack.
+759.48 Severe depression is disabling,
+761.55 is having cancer without
+treatment, you know,
+764.49 and dying from a cancer without treatment.
+767.04 And so, you know, it's
+kind of underappreciated
+771.24 just how disabling
+depression is in that way.
+774.18 And I think important
+775.98 as stigma is consistently
+kind of being reduced
+779.79 over the years for mental illnesses,
+782.82 then the idea that we can start
+really putting more funding
+786.09 and putting more focus at
+the federal level, you know,
+788.58 private foundation level, whatever it is,
+790.68 at a given university
+791.73 to thinking about developing treatments.
+795.42 We've been very interested
+796.95 in a very particular
+clinical set of problems
+800.91 around the most severe and
+the most high acuity settings
+806.46 that folks with depression
+end up being in.
+809.43 And that's in, you
+know, emergency settings
+812.31 where they go into inpatient units.
+814.29 And you know, in the rest of medicine,
+817.2 if it's talking about heart attacks,
+818.82 if I start having chest pain right now
+822.09 and you bring me to a
+primary care doctor's office,
+824.43 they're going to have a
+certain number of tests
+826.14 and treatments, right?
+827.25 But very limited cuz it's
+an outpatient facility.
+830.55 If you bring me to the
+emergency room after that,
+831.997 there are more tests and more treatments.
+834.36 If you put me in the
+ICU or in the cath lab
+837.72 where they do invasive
+procedures to the heart,
+840.84 there are more tests and more treatments.
+842.85 In psychiatry, as we elevate
+the acuity of an individual,
+847.86 you go from being just
+depressed to being depressed
+850.2 and now thinking about ending your life,
+852.12 the number of treatments
+actually go down on average.
+856.5 I mean, in some scenarios, they go up,
+857.94 but on average they go down
+and there are no tests, right?
+861.09 And so we've been very focused
+on that particular problem.
+864.51 Somebody that maybe was doing, you know,
+867.39 fairly okay with a pretty
+moderate depression
+870.06 and then their depression gets worse
+872.01 and then they end up in
+an emergency setting.
+875.04 And the field really
+hasn't developed a way
+878.31 of consistently being
+able to treat that problem
+882.03 and folks end up getting
+882.9 the same standard oral antidepressants
+885.0 that they've been getting outpatient.
+887.64 And I came to this because
+I, you know, dual trained
+891.18 as a neurologist and psychiatrist,
+892.68 went back and forth between
+neurology and psychiatry,
+895.65 saw that in neurology we
+have all of these ways
+898.05 of treating acute brain based problems
+901.08 and really wanted to
+emulate that in psychiatry
+904.05 and find ways to develop
+905.34 and engineer new, you know,
+brain based solutions.
+909.78 - There's a lot to unpack there.
+911.07 One thing that you said is,
+913.47 I'd like to focus on a bit
+more because I think we hear
+916.8 that the brain and the
+heart are connected,
+919.11 but you described, I believe,
+a direct relationship
+923.34 between areas of the brain
+associated with emotion
+926.31 and heart rate.
+928.17 - [Nolan] Yes.
+929.312 - And that makes perfect
+logical sense to me.
+932.07 But I think at the same time,
+935.13 many people out there probably
+think of the relationship
+937.83 between the heart and
+the mind as kind of woo
+941.46 or kind of a soft biology.
+943.44 But here you're talking about
+an actual physical connection.
+946.02 - [Nolan] Yep.
+946.853 - Between, what area of the brain is it?
+949.36 - The first place where the
+stimulation goes is called
+952.95 the dorsolateral prefrontal cortex.
+954.513 It's kind of the sense of control,
+957.06 kind of governor of the brain.
+958.38 And then what we know is
+that when you use a magnet,
+962.61 use kind of what we call Faraday's Law,
+964.53 this idea of using a magnetic pulse
+967.86 to induce an electrical current
+970.59 and electrically conducting substances.
+972.9 So in this case, brain tissue,
+974.7 but not skull or scalp
+or any of that, or hair.
+977.97 You avoid all that, just the brain tissue.
+980.22 Then you have a direct
+depolarization of cortical neurons,
+984.75 you know, the surface
+of the brain's neurons,
+987.39 in this dorsolateral prefrontal.
+989.76 And if you do that in the
+actual scanner, which we can do,
+993.42 you can see that that distributes down
+995.91 into the anterior cingulate and
+the insula and the amygdala.
+999.93 And ultimately the tract
+goes into something called
+1002.96 the nucleus tractus solitarius
+1005.15 and ultimately into the
+vagus nerve into the heart.
+1007.82 So the heart very consistently
+seems to be the end organ
+1012.89 of the dorsolateral prefrontal cortex.
+1016.01 If you measure heart rate in standard ways
+1018.8 that cardiologists measure heart rate
+1020.597 and you stimulate over
+this left dorsolateral,
+1023.42 you get a deceleration of the heart rate
+1025.22 and it's very time locked
+to the stimulation.
+1028.43 So it's a two second train of stimulation.
+1030.83 At one second, you see the deceleration,
+1032.96 it goes down about 10 beats per minute,
+1035.06 and then it'll drift back
+up and there's a break
+1037.07 for eight seconds on the stimulation.
+1038.69 Drifts back up and the
+stimulation goes back in
+1041.39 and then the heart rate goes back down.
+1042.92 And so you see the
+heart rate just do this,
+1045.35 10 beats per minute every train.
+1047.51 And so we know, and if you
+do that over visual cortex,
+1050.81 you don't get that,
+1051.643 or motor cortex, you don't
+get any of those findings.
+1053.78 It's really specific to
+this kind of control region
+1058.07 of the brain.
+1058.903 And so, yeah, it seems to, you know,
+1061.61 it's our work, other folks' work.
+1063.68 Martin Arens in Europe, the Netherlands,
+1066.83 work showing the same connections.
+1068.99 I think it's been replicated
+like four or five times.
+1071.84 - So you mentioned left
+dorsolateral prefrontal cortex.
+1076.22 Anytime I hear about
+lateralization of function,
+1078.29 I get particularly curious
+1081.41 because obviously we have
+two mirror symmetric sides
+1086.36 of the brain.
+1087.32 There are, you know,
+rare exceptions to this,
+1089.63 like the pineal and things of that sort
+1092.12 that there is only one pineal.
+1096.8 What is special
+1097.67 about the left dorsolateral
+prefrontal cortex?
+1100.04 Does this have anything
+to do with handedness,
+1101.78 right hand or left hand?
+1102.98 Because we know right-hand
+and left-handedness has a lot
+1104.9 to do with lateralization
+of function for language,
+1109.04 a topic for another time.
+1110.54 But why do you think
+1112.46 that left dorsolateral prefrontal
+cortex would be connected
+1115.55 to the heart in this way?
+1117.95 - Yeah.
+1118.783 Yeah, I think, so left
+dorsolateral is thought
+1123.56 to be the side that when you excite it,
+1126.35 when you kind of do
+excitatory stimulation,
+1129.8 potentiating sort of stimulation,
+1131.39 that you can reduce depressive symptoms.
+1134.81 And a guy by the name of Mike
+Fox at Harvard demonstrated
+1137.69 that if you have strokes in
+the brain that cause depression
+1142.217 and you put them on the human connectome,
+1144.59 a hundred, you know, thousand patient map,
+1146.96 and you ask the question
+1147.92 what they're all
+functionally connected to?
+1150.2 Left dorsolateral.
+1151.94 If you take lesions that
+cause mania in individuals
+1155.72 and you put those all on
+the human connectome map
+1157.82 and ask what the one common
+area they're all connected to,
+1161.84 it's the right dorsolateral.
+1164.15 And so there seems to be
+a hemispheric, you know,
+1168.92 balancing of mood between
+these two brain regions.
+1171.89 And we know this from an
+experimental standpoint too,
+1174.65 because you can take
+individuals with depression
+1177.2 and you can excite the left
+or you can inhibit the right
+1181.007 and they're both antidepressant.
+1183.5 You can excite the right
+1185.9 and that's anti-manic in some studies.
+1188.69 And so this idea that there
+is this hemispheric balancing
+1192.35 of mood is quite interesting, right?
+1194.63 - It's incredibly interesting.
+1196.55 And just so people know,
+1198.23 if you're curious what the connectome is,
+1201.23 connectome is a term that
+was built out of this notion
+1203.51 of genomes being large collections
+1207.08 of sequencing and mapping of genes.
+1209.0 They're proteomes of proteins,
+1211.13 of connectomes is so-called connectomics,
+1213.98 of connections between neurons.
+1215.42 So the Human Connectome Project is ongoing
+1218.598 and I find that incredible
+1221.21 that within the Connectome Project,
+1222.59 they can identify these regularities
+1224.27 of right versus left
+dorsolateral prefrontal cortex.
+1227.42 Especially since I've looked
+at a fair number of brains
+1232.88 from humans, certainly
+not as many as you have.
+1236.27 And if you look at the
+architecture, the layers,
+1239.84 the cell types, and
+even the neurochemicals
+1242.66 of which cells are expressing,
+say, dopamine or serotonin
+1245.6 or receiving input from areas
+1246.98 that make dopamine or serotonin,
+1248.81 they don't look that different
+on the right and left side.
+1251.42 And yet here we're talking
+about a kind of an accelerator
+1254.84 and a brake, if you will,
+on depression and mania
+1259.16 using what, at least by my eye
+1261.92 and I think other people's
+eye look to be basically
+1264.23 the same set of of bits.
+1266.3 The same parts list, more or less.
+1268.37 So what gives these properties
+1271.73 to the right and left
+dorsolateral prefrontal cortex?
+1274.13 Is it the inputs they receive?
+1276.11 Is this something that we
+learn during development
+1277.85 or do you think that
+we come into the world
+1279.68 with these hemispheric biases?
+1282.26 - Yeah, it's a great question.
+1284.0 And you know, it hasn't been worked out,
+1286.01 which your original question was around,
+1288.38 in a left handed individual,
+which as you know,
+1291.8 25% of those folks end up
+having a right brain dominance
+1295.55 or 1% of right-handed people
+have a right brain dominance
+1298.91 if it's flipped, right?
+1300.14 And unfortunately that
+study still hasn't been done
+1304.07 at the level, 'cause that would
+be probably pretty helpful
+1306.41 for teasing some of this out.
+1308.33 But, you know, it's still
+being sorted out, right?
+1312.59 We know enough to know
+this phenomenon exists
+1316.97 because we can use TMS as a probe
+1320.54 and do these sorts of manipulations.
+1323.24 But to my knowledge,
+1325.61 there hasn't been anybody that's
+gotten so interested in it
+1328.07 that they've been able to get
+a mechanism of why that is.
+1332.36 But, you know, it's
+kind of empirically true
+1336.32 in the sense that you can push
+and pull on those systems,
+1339.17 or in the case of strokes that folks have,
+1342.83 and then you kind of get their
+brains and their brain images
+1345.56 and look at where the strokes landed,
+1348.02 those kind of causal
+bits of information point
+1350.42 to this asymmetry.
+1353.39 - Interesting.
+1354.223 Well, in that case, going
+with what we do know,
+1357.35 that stimulation of
+dorsolateral prefrontal cortex
+1359.87 slows the heart rate down,
+1361.28 transiently, but it slows it down,
+1363.23 and seems to alleviate at least
+some symptoms of depression,
+1366.86 leads me to the question of
+why would that be the case?
+1370.4 Does it tell us anything
+fundamental about depression
+1373.52 that anxiety is inherent to depression?
+1376.55 I think a faster heart rate is, you know,
+1378.8 part and parcel with anxiety.
+1383.93 In my laboratory, we've studied fear a bit
+1387.08 in animals and in humans,
+1388.28 and we often observe bradycardia
+1390.92 where somebody or an animal
+is afraid of something
+1394.25 and rather than the
+heart rate speeding up,
+1395.99 it actually slows down,
+1397.55 something that most people
+don't think about or recognize.
+1401.54 But given that stimulation
+1404.937 of dorsolateral prefrontal
+cortex slows the heart rate down
+1407.15 and can alleviate depressive symptoms
+1409.58 and that there are other
+ways to slow the heart down,
+1411.77 I have two questions.
+1412.94 What do you think this tells us
+1414.44 about the basic architecture of depression
+1417.77 and its physiology at
+the level of the heart?
+1420.53 And does the circuit run in
+the opposite direction too?
+1423.38 If one were to have or find other ways
+1425.48 to slow the heart rate down,
+say with a beta blocker,
+1428.63 does that help alleviate depression?
+1430.55 - Yeah, no, that's a great question.
+1431.69 So I'll answer the second question first.
+1435.41 So we know that in the
+ongoing trials of this,
+1439.43 if you stimulate in the vagus nerve,
+1442.678 in an implanted vagus nerve stimulator,
+1444.5 you can actually, you know, have this,
+1447.527 the afferent parts of the
+vagus project ultimately up
+1452.54 to the DLPFC through the cingulate
+1454.88 through these anterior
+insula, so that same,
+1457.13 that obviously the same tract, right?
+1458.9 And you can stimulate there
+and alleviate depression,
+1462.2 which seems very unusual, right?
+1464.24 You're stimulating a cranial
+nerve down on the neck.
+1467.15 But if you can get up into the brain,
+1469.37 you actually can improve
+depressive symptoms.
+1471.83 And so, you know, more evidence
+1473.99 that this is a kind of a
+whole track and system.
+1477.83 And if you stimulate
+in part of that system,
+1480.62 it appears that you can improve mood.
+1484.1 - And what if I were somebody
+1485.54 who did not have a stimulating
+electrode in my vagus nerve
+1488.72 and I was dealing with minor depression
+1491.45 and I decided I wanted to
+take some other approach
+1494.48 to slow my heart rate down by the vagus?
+1496.52 For instance, exhale emphasized breathing
+1499.64 or deliberately slow cadence
+breathing, things of that sort.
+1504.26 Is there any evidence that
+behavioral interventions
+1506.15 of those kinds can alleviate depression
+1510.41 or some symptoms of depression?
+1513.02 And is there any evidence
+that it does indeed feed back
+1515.36 to the dorsolateral prefrontal cortex
+1517.1 to achieve some of that alleviation?
+1519.14 - Absolutely, yeah.
+1519.973 So there's a number of studies
+implicating the dorsolateral
+1524.45 in, say, you know, meditation,
+1527.66 mindfulness, that sort of thing.
+1529.34 And they're small studies,
+1531.53 but pretty well designed
+studies suggesting
+1534.65 that behavioral interventions
+in mild depression
+1537.74 actually work quite well.
+1539.6 There seems to be a volitional
+threshold for depression
+1543.14 where at some point you start losing,
+1546.02 you go from being
+completely in total volition
+1549.14 to having kind of semi-volition.
+1551.24 You have thoughts
+1552.41 that you really have a
+hard time controlling
+1554.09 and that sort of thing.
+1555.208 And when you go through that threshold,
+1557.15 at some point it gets harder and harder
+1560.27 for those sorts of things
+to kind of kick in and work.
+1563.21 And the extreme form of
+that is catatonia, right?
+1565.43 Where people in a very
+severe form of depression get
+1568.52 kind of stuck motorically, right?
+1570.017 And they obviously can't,
+they have no control
+1574.19 or very limited control.
+1576.26 And so, you know, I
+think there's a threshold
+1579.2 in which these sorts of
+interventions will work.
+1581.87 Exercise seems to really
+be a good treatment
+1584.9 for mild depression and it may work
+1587.48 through the mechanism
+you're describing, right?
+1589.22 As we all know, you know,
+1591.5 athletes hold a lower resting heart rate
+1594.65 than folks that aren't, you
+know, if you were an athlete,
+1597.92 you had a lower resting heart
+rate, you stopped exercising,
+1601.28 and a couple years later
+your resting heart rate
+1602.9 in many cases goes up, right?
+1604.64 And so maybe that's part of the process.
+1608.36 I'm not aware of any
+studies specifically looking
+1612.98 at dorsolateral prefrontal physiology
+1617.3 pre-post exercise, but it
+would be a great study.
+1619.88 I think that would be really
+helpful to understanding this,
+1622.64 especially if you had a
+correlation of changes
+1626.12 in kind of lowering of, say,
+1627.05 heart rate with mood improvements.
+1630.2 There's been a lot of work
+with heart rate variability
+1633.26 and depression and, you know,
+1637.01 studies kind of point towards it.
+1640.43 Not every study is positive for this,
+1644.36 but quite a few studies say basically
+1647.75 that lower heart rate
+variability is associated
+1652.13 with, you know, moderate
+to severe depression.
+1654.86 And that may be part of that mechanism
+1657.02 of that heart brain risk.
+1660.17 - So I'm both intrigued
+and a little bit perplexed
+1662.24 by this relationship between
+heart rate and depression.
+1665.9 On the face of it, I would think
+of depression as depressed.
+1668.87 So lower heart rate might
+make somebody more depressed.
+1671.15 You even mentioned catatonia
+1672.32 or somebody that just
+doesn't seem motivated
+1674.84 or excited to do anything.
+1676.31 I think of mania as elevated
+heart rate and being excited.
+1679.79 On the other hand, I realize that anxiety,
+1682.85 which you know, brings about ideas
+1685.7 as elevated heart rate is
+also built into depression.
+1689.03 Which brings me back to
+what you said earlier,
+1690.77 which is that when we say depression,
+1692.69 are we really talking about
+four or five different?
+1694.82 - Yeah, that's right.
+1696.23 - Disorders, for lack of a better word.
+1699.26 And for what percentage of
+people that have depression
+1703.31 does some approach to
+reducing heart rate work?
+1708.35 Whether or not it's stimulation
+1709.55 of the left dorsolateral prefrontal cortex
+1712.94 by way of transcranial
+magnetic stimulation
+1714.86 or by taking a beta blocker
+or by stimulating the vagus.
+1718.94 Can we throw out a number, a rough number?
+1720.95 Does that help, 30%, 50%?
+1723.41 How long lasting is that relief?
+1725.39 - Yeah, and to be clear,
+1726.848 the deceleration of the heart rate is
+1730.31 in the moment when the
+stimulation is happening,
+1733.01 but it's not something
+1735.05 that's necessarily maintained chronically.
+1737.87 It's more of an indicator that
+you're in the right network
+1741.17 more than it appears
+to be itself, you know,
+1745.07 central to the mechanism.
+1746.12 The heart rate variability piece may be,
+1748.73 and there's some studies
+that link the two,
+1751.07 but the actual deceleration
+seems to be much more
+1753.32 of a marker that you're
+in the right system.
+1756.05 But you know, it very well could be
+1757.4 that the heart rate system
+1759.02 and the mood system just
+sit next to each other
+1761.09 and the stimulation hits both.
+1763.1 If you look at how much of
+the variance in the mood is
+1766.49 explained by the heart rate deceleration,
+1768.47 it's not a huge amount, right?
+1772.22 So it only explains a small percentage.
+1775.58 And so it's unlikely that
+simply reducing the heart rate.
+1781.4 And in fact, you know, for many years,
+1783.26 propranolol and these sorts of drugs
+1785.03 actually were implicating
+causing depression.
+1787.52 And so that's been kind of
+debunked, but it's unlikely
+1792.02 that simply decelerating
+the heart rate's going to
+1793.82 improve depression.
+1795.29 But what it does tell you is
+that if you're in that area
+1798.83 that is the mood regulatory area,
+1800.72 there's some parasympathetic
+cortical kind of process
+1804.23 that's going on that gets in
+and causes this to happen.
+1807.56 And it's, you know, it's
+independent of mood.
+1810.14 You can take a normal healthy
+individual and you can do this
+1814.58 and they're going to
+decelerate their heart rate.
+1817.49 - I'm so glad you mentioned
+1818.45 the parasympathetic nervous system,
+1819.95 which of course is the,
+1821.15 most people think of
+as the rest and digest
+1822.8 or the kind of calming side of
+the autonomic nervous system.
+1825.65 As I'm hearing you say all of this,
+1827.33 and in particular what you just told me,
+1830.15 which is that it's not
+1831.62 as if having a lower
+heart rate protects you
+1834.2 against depression
+1835.033 or a higher heart rate is
+associated with depression,
+1837.47 although at the extremes
+that might be true,
+1839.9 but rather it's something
+about the regulatory network,
+1843.02 the ability to control
+your own nervous system
+1846.08 to some extent.
+1848.03 And when I think about the
+autonomic nervous system,
+1850.1 I like to think about it as a seesaw
+1851.9 of, you know, alertness and calmness,
+1853.52 and when you're asleep
+it's a lot of calmness,
+1855.32 and when you're panicking it's
+a lot of alertness to the...
+1858.14 But that, and I don't think
+this has ever been defined,
+1861.11 and when I teach the medical students
+1863.66 at Stanford neuroanatomy, my wish is
+1865.52 that someday I'll be able
+to explain what the hinge
+1868.46 in that process would be, right?
+1870.02 Not the ends of the seesaw.
+1871.16 We know what the sympathetic
+nervous system is
+1872.87 and it's to wake us up and make us panic
+1875.45 or make us feel nicely alert and calm.
+1878.03 We know what puts someone
+into sleep or a coma
+1881.48 or makes them feel relaxed.
+1883.4 But what shifts from one side
+of the seesaw to the other
+1886.31 and the tightness of
+that hinge seems to be
+1888.62 what you're describing,
+1890.06 that depression is sort
+of a lack of control
+1892.76 over inner state so
+that when I'm stressed,
+1894.8 I can't get myself out of it.
+1895.91 But when I'm feeling completely
+collapsed with exhaustion,
+1898.82 I can't get out of bed and be motivated
+1900.74 to do the very things
+1901.79 that would help me get out of depression,
+1903.29 like a workout or social
+connection or eat a quality meal,
+1906.89 these kinds of things.
+1908.06 So this is perhaps the first time
+1910.46 that I've ever heard
+about a potential circuit
+1914.0 for the hinge, as I'm referring to it.
+1916.01 Does that make any sense at all?
+1917.665 - [Nolan] Yeah, absolutely, absolutely.
+1918.778 - Okay, I just want to make sure
+1919.611 that I'm framing this
+correctly in my mind.
+1921.027 - Yeah, yeah, absolutely.
+1921.86 And in some studies,
+1922.693 if you do the same identical stimulation
+1925.22 on the right dorsolateral,
+you can get an acceleration.
+1929.12 You know, just kind of
+further confirming this idea
+1931.79 of lateralization, right?
+1933.29 That it appears that even the
+prefrontal cortex, you know,
+1937.01 cortical areas seem to be
+lateralized in this way.
+1940.94 And, you know, it's less,
+1944.69 the right finding is more variable
+1946.94 depending upon the study.
+1948.17 The left's very consistent in this way.
+1950.898 So...
+1952.141 - So we've talked about
+transcranial magnetic stimulation
+1954.23 for getting into these networks
+1955.94 and I also just want to take
+a brief tangent and say,
+1958.549 'cause I've heard you say this before,
+1960.29 I think it's so vital what you're saying,
+1962.6 that it's really not
+about stimulation of areas
+1966.08 or any specific brain area
+1968.03 or vagus nerve being important per se.
+1971.33 It's really about a network, a connection,
+1973.46 a series of connections.
+1974.99 I think that's really important
+for people to understand
+1977.15 and is kind of a new
+emerging theme really.
+1980.3 The other thing that to me
+seems extremely important
+1983.63 for us to consider is
+1986.167 what are these lateral
+prefrontal cortices doing?
+1991.46 Are they involved, for
+instance, in sensation,
+1994.07 sensing the heart rate?
+1995.12 Are they involved in
+thinking and planning?
+1997.79 And this gets down to
+a very simple question
+1999.83 that I know a lot of
+people have, which is,
+2001.69 can we talk ourselves out of depression?
+2004.42 If it's mild.
+2005.71 Can we talk ourselves into a manic state
+2009.76 or an excited state,
+2010.81 a positively excited state
+that doesn't qualify as mania?
+2013.69 You know, other areas of the brain,
+2015.22 I think of is responsible for perception
+2017.8 or for motor control.
+2019.69 But here we are in this
+mysterious frontal cortex area,
+2022.54 which people say executive
+function, planning, et cetera.
+2025.42 Are we talking about thoughts?
+2027.58 Are we talking about structured thoughts
+2029.19 or are we talking about
+dreamlike thoughts?
+2031.42 What in the world is going
+on in the prefrontal cortex?
+2035.53 And here I spend my career in neuroscience
+2037.66 and I still can't really
+understand what it's doing
+2041.86 and maybe it's doing 50 things.
+2043.63 - Yeah, no, it's a great question.
+2045.43 So, you know, to...
+2047.62 So one of the studies
+that we've been working on
+2050.44 in addition to the depression
+work is actually trying
+2052.54 to change trait hypnotizability.
+2055.03 So David Spiegel and I
+have been working on this
+2057.52 and you know, he's found and
+published this 10 years ago
+2061.72 that a different part of
+the left dorsolateral is
+2065.83 functionally connected with
+the dorsal anterior cingulate
+2070.33 with a lot of functional
+connectivity in high hypnotizables
+2073.18 and not much in low hypnotizables.
+2075.73 And that's kind of a different sub-region
+2078.79 within this bigger brain region
+2080.47 we call left dorsolateral
+prefrontal cortex
+2083.32 than the part that seems to be important
+2085.27 for regulating mood.
+2087.01 And so the left dorsolateral
+seems to have connections
+2092.2 that are location specific
+2094.54 within the overall kind
+of named brain region
+2098.11 that connect to various
+parts of the cingulate
+2100.57 and seem to regulate it.
+2103.0 Right?
+2104.101 And so if you knock out
+2105.25 the left dorsolateral prefrontal cortex
+2107.44 and you have people do the
+Stroop task, for instance,
+2110.8 which is a task where you
+have, it's a simple task,
+2113.827 you probably know this.
+2115.3 You have people name the color of words.
+2119.14 And so if I look at one of the
+cards that they'll show you,
+2125.05 it'll have the word red in red
+2127.6 and that's very easy and
+that's called a congruent.
+2130.66 And then the incongruent
+is red in the color blue
+2136.03 and you have to name,
+you have to say the word,
+2139.87 you don't name the color.
+2141.94 - So you have to suppress a response.
+2143.77 - Yeah, yeah, exactly.
+2144.603 And so, I'm sorry, you name the color
+2148.24 and you see the word
+written in a different way.
+2150.427 And so basically if you stimulate in a way
+2155.38 that inhibits the left
+dorsolateral prefrontal cortex
+2157.96 or either one,
+2158.89 you can actually knock out
+the ability to do that well
+2162.46 and it'll take longer for
+people on the incongruent cards
+2166.48 to be able to name it.
+2168.73 And so they have a kind of a time delay
+2171.7 that's greater than they had
+before they got stimulated.
+2174.73 So that's a part of the prefrontal cortex
+2177.94 that's different than the
+part of the prefrontal cortex
+2180.13 that's involved in mood regulation.
+2182.41 The nice thing about TMS
+is that you can go through
+2185.47 and you can find these areas
+that are functionally defined
+2189.49 through brain imaging
+and you can perturb them
+2192.01 and answer the question
+you're talking about.
+2193.72 How do I understand this
+part of the prefrontal cortex
+2196.9 and its function, this part?
+2199.06 And so we were able to
+stimulate in an inhibitory way
+2204.1 within the left dorsolateral
+prefrontal cortex
+2207.43 that's involved with this sort
+of cognitive control area.
+2212.11 And we were able to knock that area out
+2215.17 and increase trait hypnotizability,
+2218.32 so people had greater hypnotizability
+2223.09 after they got active stimulation
+versus when they got sham.
+2227.32 And so it suggests that that
+brain circuit is involved
+2231.949 in the process of what therapeutic
+hypnosis ends up being.
+2237.55 But it's a very different region
+2238.96 within the left dorsolateral than, say,
+2240.85 we do when we do these very
+intensive stimulation approaches
+2244.48 to treat severe depression
+2246.4 and we're able to get
+people out of depression.
+2249.16 You know, with the part
+of the dorsolateral
+2250.993 that seems to be lower in the, you know,
+2253.69 kind of more lateral and
+inferior on the DLPFC
+2260.83 and connected with this
+subgenual anterior cingulate,
+2263.25 so the part of the anterior cingulate
+2264.61 that processes emotion.
+2266.89 - I'd like to take a quick break
+2268.3 and acknowledge one of our
+sponsors, Athletic Greens.
+2271.3 Athletic Greens, now called AG1,
+2273.79 is a vitamin mineral probiotic drink
+2276.16 that covers all of your
+foundational nutritional needs.
+2279.04 I've been taking Athletic
+Greens since 2012,
+2281.74 so I'm delighted that they're
+sponsoring the podcast.
+2283.96 The reason I started
+taking Athletic Greens,
+2285.55 and the reason I still
+take Athletic Greens once
+2288.01 or usually twice a day is that
+it gets to me the probiotics
+2291.52 that I need for gut health.
+2293.2 Our gut is very important.
+2294.31 It's populated by gut microbiota
+2296.86 that communicate with the
+brain, the immune system,
+2298.63 and basically all the
+biological systems of our body
+2301.03 to strongly impact our
+immediate and long-term health.
+2304.66 And those probiotics in
+Athletic Greens are optimal
+2307.69 and vital for microbiotic health.
+2310.36 In addition, Athletic
+Greens contains a number
+2312.19 of adaptogens, vitamins,
+and minerals that make sure
+2314.35 that all of my foundational
+nutritional needs are met
+2317.29 and it tastes great.
+2319.15 If you'd like to try Athletic Greens,
+2320.62 you can go to AthleticGreens.com/huberman
+2324.01 and they'll give you
+five free travel packs
+2325.99 that make it really easy
+to mix up Athletic Greens
+2328.3 while you're on the road, in the car,
+2329.59 on the plane, et cetera.
+2330.88 And they'll give you a year
+supply of vitamin D3K2.
+2334.3 Again, that's AthleticGreens.com/huberman
+2336.97 to get the five free travel packs
+2338.35 and the year supply of vitamin D3K2.
+2341.14 Based on what you told
+us about the Stroop task
+2343.3 and the role of the prefrontal
+cortex in the Stroop task,
+2346.57 to me the Stroop task is
+a rule switching game.
+2349.63 You're saying in one moment,
+2350.89 the rule is you read
+whatever the word says
+2354.1 and then you switch and then you say,
+2356.17 the rule now is you tell me
+2358.48 what color the word is written in
+2360.4 and you suppress whatever
+it is the word says, okay?
+2363.25 - [Nolan] That's right.
+2364.083 - Okay, a rule in some
+sense is, like that,
+2367.6 is a transiently adopted belief system.
+2371.26 So I could imagine that in depression,
+2373.21 which has all sorts of backstory to it,
+2377.56 that of course the
+psychiatrist or psychologist
+2379.6 or friend can pull on that thread.
+2381.1 Like for instance,
+2381.933 somebody might believe that they are bad
+2385.36 or that they don't deserve love.
+2386.95 I'm trying to bring this
+into the typical language
+2389.05 that they would talk about.
+2389.883 Or that they will never succeed.
+2392.08 Or that even if they keep succeeding,
+2394.39 it's just going to get harder and harder
+2396.19 and it will never feel good.
+2398.05 These are sort of rules
+like the Stroop task.
+2400.72 At some level.
+2401.553 There are rules that are
+more pervasive over time,
+2403.3 unfortunately.
+2404.53 But I could imagine that
+if the PFC is also contains
+2408.94 some sort of maps or algorithms
+2410.77 related to rules of emotionality
+2412.84 or self representation or
+things that we've heard,
+2415.6 I think there must be data out
+there saying that, you know,
+2418.51 whatever we heard in middle school
+2419.83 when someone made fun of
+us, we can remember that.
+2421.557 'Cause I can remember
+things that people said
+2424.697 about a jacket I wore one day
+2426.88 or something in the fourth grade, crazy,
+2428.89 I didn't even like the jacket.
+2431.32 Now I think it was kind
+of cool, but anyway.
+2433.63 The point being that we
+have an intense memory
+2435.58 for these things to set up a
+sort of rule or a question.
+2438.28 Like maybe I don't really know
+how to dress, for instance.
+2442.39 Maybe that's why I always
+wear the same black shirt.
+2444.82 But in all seriousness,
+2445.99 it seems like the dorsolateral
+prefrontal cortex is
+2448.39 in this amazing position to
+access rules which are beliefs
+2453.61 and beliefs are rules,
+2454.75 and then for moments or
+longer, to switch those rules.
+2458.71 And so for somebody who's depressed
+2461.23 to just simply look
+themselves in the mirror
+2462.76 and say, "You are great,
+you are fantastic,"
+2465.19 it feels like a lie if you
+feel like garbage to say that.
+2468.37 It doesn't fit with the rule.
+2470.14 It's like saying that card is not red,
+2472.9 that card is green, when your
+eyes tell you that it's red.
+2477.127 And it seems like there's
+something about prefrontal cortex
+2481.54 that in principle gives
+flexibility to rules
+2485.11 based on what we know
+about the Stroop task.
+2487.06 So given its connectivity,
+2489.7 can we assume that the
+talk therapy that occurs
+2493.45 in the psychiatrist
+office or with a friend
+2496.21 or through journaling out something,
+2499.03 because we do know that
+reporting things about trauma
+2501.73 or difficult circumstances
+or the rules that we contain
+2504.31 and tend to hide inside of us
+about how we feel miserable
+2507.67 about ourselves or anything really,
+2510.58 that in rescripting that,
+2513.34 that somehow it allows us
+to do a sort of Stroop task
+2517.03 on our beliefs.
+2518.47 Is that a tremendous leap?
+2520.54 I'm just really trying to
+frame this in the context
+2522.43 of what I and most people
+think of as depression.
+2524.95 - [Nolan] Yeah, totally.
+2525.97 - Because the network components
+are vitally important,
+2527.95 but I guess what I'm
+trying to figure out is
+2529.42 like what are the algorithms
+that govern prefrontal cortex?
+2535.03 - Yeah, absolutely.
+2535.863 So in a kind of standard
+2537.58 cognitive behavioral
+therapy session, right,
+2540.666 what the therapist is trying
+to do is identify those beliefs
+2545.32 and you know, kind of
+determine how fixed they are,
+2549.94 you know, if they're
+flexible as you're saying,
+2552.07 and then help folks to find
+another explanation for them
+2557.71 and to kind of reintegrate that
+potential other explanation
+2563.41 into their memory system, right?
+2566.86 Where I think TMS is really
+interesting, actually,
+2569.65 we had a lot of patients who've told me,
+2571.15 like my therapist told me that
+I wasn't trying hard enough
+2574.96 in therapy, and you know,
+and I really am trying hard,
+2579.43 but these are, you know, moderate,
+2581.11 pretty severe depressed patients.
+2583.15 And as soon as we get them
+well with the TMS approaches,
+2586.66 you know, kind of rapid five day approach
+2589.18 and the next week we come in and see them
+2590.95 and they'll say,
+2591.783 "You know what I did all weekend is
+2592.616 I looked at my therapy books
+and now I can understand it."
+2595.6 And so, you know, I
+actually see TMS as a way
+2598.99 of having kind of exogenous
+sorts of cognitive functions
+2604.27 that in milder forms of depression
+2607.03 we can pull off with psychotherapy.
+2609.64 You know, this idea of being able
+2611.11 to kind of turn that prefrontal cortex on
+2614.26 and have it govern these deeper regions.
+2617.32 In depression,
+2618.153 the deeper regions govern
+the prefrontal cortex.
+2621.91 They precede the prefrontal
+cortex timing-wise.
+2625.27 And we've got some data in review now
+2626.98 where we're seeing that
+in depressed individuals
+2630.22 that are responsive to
+our rapid TMS approach,
+2632.443 what we call
+2633.37 Stanford Accelerated Intelligent
+Neuromodulation Therapy,
+2636.76 or SNT, or SAINT, if you look at the brain
+2640.84 before people get this, they
+will have a temporal delay
+2646.36 where the cingulate is
+in front of the DLPFC.
+2652.45 And in people that are
+normal healthy controls,
+2655.42 no depression, the dorsolateral
+prefrontal cortex is
+2658.99 temporally in front of
+the anterior cingulate.
+2663.04 With effective treatment, we
+can flip the timing of things
+2668.11 so the dorsolateral is in front
+of the anterior cingulate,
+2672.16 just like in a normal person.
+2673.96 - So you're not talking
+2674.793 about obviously physically
+moving these structures,
+2676.48 you're talking about in
+time, their activation.
+2678.73 So in one case,
+2679.87 it's like the coach telling
+the player what to do.
+2682.3 And the other is like a player
+telling the coach what to do.
+2685.057 And you restore order to the game.
+2686.86 - You restore order to the game.
+2688.21 And what it looks like is
+depression, to your point,
+2692.08 is a bunch of kind of spontaneous content
+2695.35 that's semi-volitional that's
+being kind of generated
+2698.74 out of this conflict detection system.
+2702.22 The cingulate seems to sense conflict
+2706.48 and kind of feed that information,
+2708.46 gets overactive in depression.
+2710.92 And then in depression, it
+looks like the left dorsolateral
+2715.42 does not sufficiently clamp down on it.
+2719.11 And what therapy appears to
+do is to kind of restore that.
+2723.31 What we see with TMS over that region is
+2726.46 that we just exogenously
+do the same sort of thing.
+2728.98 We restore the governance
+of the left dorsolateral
+2733.24 over the cingulate area,
+2735.22 and that is correlated
+with treatment improvement.
+2738.49 So the degree in which you can re-time,
+2742.42 re-regulate in time the left dorsolateral
+2745.45 over the cingulate,
+2746.71 the more of an antidepressant
+effect you have.
+2750.04 - Can we therefore say in crude terms
+2754.54 that the dorsolateral
+prefrontal cortex really is
+2758.41 the governor of how we
+interpret physiological signals
+2761.5 and spontaneous thoughts?
+2762.88 - It places a lens
+2765.97 that the rest of the
+brain sees things through.
+2769.09 And you can do these experiments
+2771.04 where you can put a normal
+healthy control person
+2775.03 in the scanner and you can make them feel
+2777.64 like they have a loss of control
+2779.62 and then you can see that
+region come offline, right?
+2782.83 So you can experimentally
+manipulate the system,
+2786.01 and so kind of buffing it up,
+2788.5 it's like TMS is almost like
+exercise for the brain, right?
+2792.88 You're kind of exercising this
+region over and over again
+2795.88 with a physiologically relevant signal
+2799.18 and kind of turning that system on.
+2801.37 And what's interesting,
+2803.05 I think really interesting
+for this show is to, you know,
+2806.11 we had a couple of folks, you know,
+2808.33 probably five or six folks that
+have actually told me this,
+2810.25 where if they remit
+early enough in the week,
+2812.23 we have this very dense
+stimulation approach
+2814.45 where we can stimulate
+people really rapidly
+2817.45 over a five day block.
+2819.07 We don't discriminate when they get better
+2820.87 to when they stop.
+2821.89 So if they get better on day one,
+2823.81 we still give them the other four days
+2825.4 because it's in the protocol to do that.
+2826.627 And we can't, we're getting to a point
+2828.58 where we can tell how
+long it's going to take,
+2830.56 but we're not there yet.
+2832.18 And so, you know,
+2833.29 every time somebody gets
+better at day one or two,
+2835.72 at the beginning when we first
+started doing this, we'd say,
+2837.52 you know, we're not sure, you know,
+2839.41 we think this is safe to keep going,
+2840.91 but you know, what do you want to do?
+2842.8 And everybody was like,
+no, I want to keep going.
+2845.44 And so, you know, by Wednesday,
+2847.63 they're like totally zeroed
+out on the depression scales,
+2850.33 you know, even better than
+most people walking around.
+2853.21 Like really no anxiety,
+no depression or anything.
+2856.0 By Thursday, the first
+guy that told me this,
+2859.27 he came in and he said,
+2860.117 "You know, I was driving back to my hotel
+2862.6 and I decided to go to the
+beach and I just sat there
+2864.94 and I was totally present
+in the present moment
+2867.79 for an hour."
+2868.623 And he's like,
+2869.783 "I read about this in
+my mindfulness books,
+2870.79 but I experienced it last night
+2873.4 and I've never experienced
+anything like this before."
+2875.35 And I was like, hmm, that's interesting,
+2877.27 but kind of wasn't sure.
+2878.83 And then I didn't tell
+obviously any more patients
+2882.04 about that, and then about five
+2883.3 over the last couple of years,
+2884.83 when they remit early in the week,
+2886.99 by the end of the week they're
+like going to the beach
+2889.15 and they're like totally
+having what people describe
+2891.79 as a pretty mindful present
+moment sort of experience,
+2895.96 which is really interesting,
+you know, what that is.
+2898.09 I mean, I don't have full on
+scientific data to tell you,
+2901.45 but it's just an
+interesting anecdote, right?
+2905.53 That folks, when you push
+them through this point
+2907.81 of feeling kind of clinically well
+2910.87 that some people end up
+reporting this additional set
+2913.66 of features.
+2915.37 - You mentioned the cingulate
+2916.6 and the anterior cingulate in particular.
+2919.63 Because now I feel like for
+the first time in my career,
+2922.0 I have some sense of
+what prefrontal cortex
+2924.64 might actually be doing
+besides providing a bumper
+2927.94 for the rest of the brain.
+2932.11 The cingulate, it seems, is
+a more primitive structure
+2935.26 in the sense that ideally
+it's under the regulation
+2940.54 of this top down control
+from prefrontal cortex,
+2942.76 but what's mapped in the cingulate?
+2944.62 And for the non neuroscientist
+out there, when I say mapped,
+2947.29 if we were to put someone in a scanner
+2949.42 and focus in on cingulate or
+put an electrode in there,
+2951.94 what makes the neurons in there fire?
+2954.04 What sorts of things in
+the body and in the mind
+2956.92 and out in the world light up,
+for lack of a better phrase,
+2961.12 the cingulate?
+2961.953 What does the cingulate like?
+2963.4 - Yeah, yeah, so that Stroop task,
+2965.53 those incongruent word color associations,
+2968.44 the dorsal part of that.
+2971.8 For obsessive compulsive
+disorder patients,
+2974.26 certain kind of triggers.
+2976.78 You'll see some of the neural
+imaging studies will point
+2979.57 to anterior cingulate.
+2981.52 In the kind of very crude
+psychosurgery world 50 years ago,
+2984.88 the anterior cingulotomy was a way
+2987.01 of treating obsessive
+compulsive disorder, right?
+2989.937 'Cause that area seems to
+be overactive in people
+2992.77 who are experiencing
+obsessive compulsive disorder.
+2995.44 You can kind of walk, the
+cingulate wraps around, you know,
+2999.55 this white matter track like
+bundles, it wraps around that.
+3003.27 And so there's a part that's above that,
+3005.07 around that, and below that,
+3007.29 and depending upon how much
+of the conflict task has
+3013.41 an emotional component,
+3014.88 the more ventral and
+subgenual that activation is.
+3022.89 So the dorsal part of the
+anterior cingulate seems
+3027.06 to be kind of more of a pure cognitive,
+3030.09 maybe obsessive compulsive
+disorder sort of area.
+3034.2 Whereas when you start getting
+into mood sorts of triggers,
+3037.11 like facial expression conflicts
+where you're supposed to,
+3042.207 you know, there's an emotional Stroop task
+3044.22 where you show the word happy
+3045.78 and then you have a face
+of a person that looks mad,
+3049.86 then that's another way
+of having the same sort
+3052.35 of Stroop conflict.
+3053.7 That seems to be more perigenual,
+subgenual areas, right?
+3057.36 So you can kind of,
+3058.56 you can trigger the
+cingulate based off the level
+3061.2 of emotional valence
+from none down to a lot.
+3065.1 And that seems to be how it's distributed.
+3068.73 There are, you know, heart
+rate kind of components to it
+3071.19 and autonomic components in there too.
+3073.32 There's something called akinetic mutism,
+3075.418 you know, I'm a board
+certified neuropsychiatrist,
+3079.17 behavioral neurologist,
+and I've seen, you know,
+3081.87 a lot of these what we call
+zebra cases in neurology
+3084.42 where people have, you know,
+3085.95 these unusual neurological presentations
+3088.41 and one of them is akinetic mutism.
+3090.84 So if you have a glioma sitting
+3093.63 in the inner hemispheric fissure
+3095.73 and kind of having
+pressure on the cingulate,
+3099.63 people can get into an almost
+catatonic looking state
+3102.27 where they kind of get
+stuck and they don't speak.
+3104.61 And so that tells you something
+3106.38 about how the cingulate
+works as well, right?
+3110.07 It's like if it's not functioning,
+3115.41 then people have a hard
+time kind of connecting
+3118.59 with reality.
+3119.423 It seems to need to be constantly online
+3123.54 to be able to interact
+with the exterior world.
+3125.97 - Is it involved in some
+of the dissociative states
+3128.25 that sometimes people
+who are very stressed
+3130.77 or depressed experience?
+3132.39 You said catatonia being an extreme one,
+3135.24 but I know someone for instance,
+3136.89 that when they get really stressed,
+3138.81 and it can even be if
+someone yells at them
+3142.92 or even if someone's angry with them
+3145.59 or they perceive
+someone's angry with them,
+3147.18 there's a developmental backstory
+3148.35 to why they likely feel this way,
+3151.32 they sort of just kind of can't...
+3153.54 This is a high functioning
+individual normally,
+3156.57 and they just sort of can't function.
+3158.67 They can't complete
+simple things like email
+3160.8 or groceries or things for a short while.
+3163.62 It's almost like a catatonia
+3165.84 and they refer to it as
+a dissociative state.
+3170.67 Do you see that in depression?
+3171.87 And I mean, we're speculating here
+3173.52 as to whether or not that
+involves a cingulate,
+3175.14 but what you're saying holds
+a lot of salience for me
+3177.96 in thinking about this example.
+3179.22 - Yeah, yeah.
+3180.053 There's, so you see catatonia
+as an extreme outcome
+3184.05 of depression and sometimes schizophrenia
+3187.05 and other illnesses.
+3189.09 Dissociation is an extreme outcome,
+3191.49 or even in some cases,
+a less extreme outcome
+3193.83 of PTSD and trauma.
+3196.41 And you know,
+3197.547 and it's also a phenomenon
+that happens naturally
+3201.06 in some people that are
+highly hypnotizable.
+3203.387 And so if you ask David Spiegel,
+he'd say that, you know,
+3206.58 some of the work that
+he's been working on is
+3208.35 around posterior cingulate in
+the capacity to disassociate.
+3212.43 But yeah, you know, with our
+stimulation approach to DLPFC,
+3217.92 dorsal anterior cingulate,
+3219.42 one of the subscales
+that moved the most was
+3222.63 the dissociative subscale
+for hypnotizability.
+3226.44 So even in a normal individual, you know,
+3229.59 you see that change
+3231.3 in that kind of experience
+of dissociation.
+3234.6 - I am highly hypnotizable.
+3236.85 David's hypnotized me a number of times.
+3238.696 In fact, we have a clip of that
+3239.57 on our Huberman Live clips channel.
+3241.5 I've always, well, always.
+3244.38 Starting at my early teens,
+I started exploring hypnosis.
+3247.11 I'm extremely hypnotizable.
+3249.3 And self hypnosis or assisted hypnosis.
+3254.068 I don't know that I ever go
+into dissociative states.
+3256.29 I'll try and avoid forcing you
+3258.45 into running a clinical session right now,
+3260.37 but to assess anything like that.
+3262.62 But this brings about something
+really interesting, I think,
+3266.22 which is I'm aware that some
+3268.77 of the more popular emerging
+treatments for depression
+3272.52 include things like ketamine,
+3274.8 which is a dissociative anesthetic.
+3276.96 Is that right?
+- Yep.
+3278.19 - And my assumption is that
+as a dissociative anesthetic,
+3282.48 that it leads to dissociative states
+3284.4 where people can sort of
+third person themselves
+3286.8 and feel somewhat distanced
+from their emotions.
+3291.3 I've also been hearing that
+there are emerging treatments,
+3296.67 psilocybin being one of them,
+but some other treatments,
+3299.46 MDMA, et cetera, that we'll
+parse each of these in detail,
+3302.94 that lead to the exact opposite state
+3305.16 during the effect of the drug,
+3306.75 which is a highly engaged emotionality
+3311.1 and heart rate and sense of self.
+3313.98 And can also lead to relief of depression.
+3316.71 Now, whether or not this, again,
+3318.15 reflects that depression
+is many conditions
+3320.76 as opposed to just one,
+3321.99 or whether or not somehow tickling
+3324.63 or in some cases pushing really
+hard on the opposite ends
+3327.24 of the scale really matter,
+I am absolutely fascinated,
+3330.81 and again, also perplexed by this.
+3333.24 Why would it be that a drug
+that induces dissociative states
+3337.56 and a drug taken separately
+3339.51 that induces hyper-associative
+states would lead to relief
+3343.89 of the same condition?
+3345.482 - Yeah, no, that's a great question.
+3346.92 Yeah, so for ketamine, you know,
+3350.25 the level of dissociation
+appears to be correlated
+3353.37 with the therapeutic effect.
+3355.32 It appears to be necessary
+but not sufficient
+3358.92 to produce an antidepressant effect.
+3360.99 And so folks that don't have
+any psychological change
+3367.08 from the ketamine or don't
+experience any dissociation
+3370.27 typically tend to have less
+potent antidepressant effects
+3375.24 from ketamine.
+3376.29 We did a study a couple of years ago,
+3377.73 it was really interesting.
+3378.563 So we gave folks naltrexone,
+3381.03 which is an opiate antagonist,
+3383.43 mu and kappa opiate receptor antagonist.
+3386.4 And we gave folk, the same individuals,
+3389.82 a pill of that or a pill of placebo,
+3392.37 and they had no idea which
+one they were getting.
+3394.17 - Was this low dose naltrexone?
+3395.73 - [Nolan] 50 milligrams,
+so it's pretty high dose.
+3397.35 - Okay.
+3398.183 - Yeah, and so we gave a typical
+ketamine therapeutic dose,
+3401.34 and then we gave 50 milligrams
+of naltrexone or placebo.
+3405.12 And then in the same individuals,
+3406.95 we gave two infusions, one
+with each of those conditions.
+3411.267 And if they had an antidepressant effect,
+3413.19 we waited until they relapsed
+3414.96 and then we gave 'em the other condition.
+3416.79 And then we looked to see what effect
+3420.45 of blocking the opioid receptor,
+3423.42 what effect would you see
+3424.53 on the antidepressant effect
+of blocking the opioid receptor
+3426.78 with the idea that if
+ketamine works the way
+3429.3 that a lot of researchers
+at the time thought that it,
+3433.05 you know, completely worked in,
+3434.1 which is the glutamate system,
+3435.93 then you would have no
+effect of naltrexone.
+3439.32 'Cause naltrexone just interacts
+with the opioid system.
+3441.84 It doesn't do anything
+with any other systems.
+3444.39 Ketamine has a lot of
+effects over, you know,
+3447.27 it has clear opioid effects in mice
+3450.66 in various ways of looking at that,
+3452.94 and an MDA receptor antagonism
+and glutamate effects.
+3457.65 And so if it's just that
+the glutamate part is
+3461.7 the part driving the
+antidepressant effect,
+3464.04 you shouldn't have any difference
+3466.32 in the antidepressant effect
+between the two conditions.
+3469.23 If, however, the antidepressant
+effect is primarily is
+3473.67 the opioid properties of
+ketamine are necessary
+3478.14 for the antidepressant effect,
+3479.82 then you should have a loss
+of antidepressant effect
+3482.46 during the ketamine plus
+naltrexone condition
+3485.37 that you observed in the
+ketamine plus placebo condition.
+3489.0 And what we saw was that
+there was a dramatic blockade
+3494.55 of the antidepressant effect
+when naltrexone was present.
+3497.83 Yeah, in the people that
+had an antidepressant effect
+3503.31 with ketamine plus placebo alone.
+3506.49 And then some friends of mine
+did a TMS study with pain
+3511.89 and they stimulated
+3513.57 over the left dorsolateral
+prefrontal cortex
+3515.247 and they gave IV naloxone,
+3517.23 which works basically the
+same way as naltrexone,
+3519.66 and they were able to block
+the anti-pain effects of TMS
+3523.89 with a opiate blocker.
+3525.42 So this idea that another kind
+of convergent point, right?
+3529.5 This idea that the opioid
+receptor may have a role
+3533.4 in mood regulation.
+3535.47 What's also interesting
+is if you look at people
+3537.51 that are getting a total knee operation,
+3538.92 very painful operation, right?
+3541.05 You know, total knee replacement
+and you age, sex, you know,
+3545.67 everything match the individuals
+3547.35 that are going through that.
+3548.4 But you have a group of people
+that don't have depression
+3550.827 and a group of people
+that do have depression.
+3553.14 The presence of depression triples
+3554.97 the oral opioid dose by day four, right?
+3559.47 - That's required.
+3560.55 - That's required to cover the pain
+3562.98 but what may be happening is
+3564.21 it's not just treating physical pain,
+3566.4 may be treating emotional
+pain as well, right?
+3568.53 At least transiently,
+3570.36 it seems to have an antidepressant effect.
+3572.85 Chronically, it seems to have
+a very pro-depressant effect.
+3575.55 It can make people treatment resistant.
+3577.8 But, you know, it's an
+interesting phenomenon.
+3580.44 But yeah, the opioid system
+seems to be pretty involved.
+3583.92 But what's interesting there
+with the ketamine trial is
+3587.55 that we didn't see any
+effect on the dissociation.
+3590.97 And so the dissociation
+was the same each time.
+3594.75 So the psychological effect
+of what we call the trip
+3597.84 or the kind of dissociative effect
+3600.12 where people are having a
+psychological phenomenon
+3602.4 from ketamine, that was
+identical both times.
+3606.18 And so it kind of, it
+also challenged this idea
+3610.41 that the psychological experience
+3613.08 of the psychedelic effect
+may be all that's necessary
+3616.83 to produce an effect
+3617.88 and that the pharmacology doesn't matter
+3620.13 as long as you can achieve that state.
+3622.56 And so, you know,
+3623.46 we think we pretty
+clearly debunked that idea
+3626.46 that the underlying pharmacology
+and the state, you know,
+3631.59 seem to be important.
+3633.51 We don't know for sure if you can,
+3635.7 a lot of people are working on this,
+3636.84 if you can take out, you know,
+3638.43 essentially the psychological effect
+3639.99 and still have a drug that
+works to treat the illness
+3644.22 that you're trying to target.
+3645.3 And there was a mouse study out this week
+3648.51 where they had an LSD analog
+3650.49 and they were able to see
+some animal level data
+3654.93 to suggest that could be true.
+3656.88 But until we figure that out in humans,
+3658.53 it's kind of to be determined.
+3660.69 But it is curious, right?
+3662.79 Being able to kind of use
+experimental manipulations
+3666.39 to try to separate, you know,
+some of these phenomenon apart
+3670.59 and really understand what's doing what.
+3673.08 - It's so critical
+3673.98 and it's so critical to
+the other conversation
+3676.95 that we'll surely get to,
+3678.09 which is the progression of psychedelics
+3680.94 from illicit illegal drugs
+to clinically validated,
+3685.68 and presumably at some point,
+3687.12 either decriminalized or legal drugs,
+3689.52 which has not yet happened,
+at least not in the US.
+3693.3 But just to make sure that
+people are getting this
+3697.23 and how crucial this is.
+3698.79 What we're really talking
+about here is the fact that,
+3702.662 you know, if somebody takes a
+multi gram dose of psilocybin
+3706.44 or somebody takes MDMA
+or they take ketamine
+3710.19 and they experience
+relief from their trauma,
+3712.02 their depression, their addiction,
+3713.43 or any number of the other things
+3714.69 that indeed those compounds
+have be shown to be useful for
+3717.03 in certain contexts, clinically
+supported, et cetera.
+3720.9 There's this like
+gravitational pull to the idea
+3723.84 that, oh, it was the hallucinations.
+3726.06 It was the dissociative state.
+3728.04 It was the feeling of connectedness.
+3730.29 And what we're really saying is
+3731.43 that while that certainly could be true,
+3734.31 it may be the case that a major
+source of the positive shift
+3738.24 that occurs after the
+effect of the drug is
+3741.72 some underlying biology,
+3743.1 like shifts in the mu opioid receptor,
+3745.5 a la your experiments with naltrexone,
+3747.81 or a change in the
+underlying neuromodulation
+3750.24 that had anywhere from nothing
+3753.75 to something to do with the real shift.
+3756.69 And I know there's a group up at UC Davis
+3758.97 that published a paper in
+nature about a year ago
+3762.36 also looking at this is a
+chemistry lab essentially,
+3766.44 modifying psychedelics
+3768.09 to remove the hallucinogenic properties,
+3771.21 the mood altering properties,
+3772.44 and actually seeing some
+pretty impressive effects
+3774.54 and shifts in mood after
+the drug wears off.
+3777.72 And I know this gets people
+upset when they hear it.
+3781.59 This gets a lot of people upset really.
+3783.57 Because people think, oh no,
+3785.01 it's the intense experience that matters.
+3787.5 But in fact, that may
+not be the case at all.
+3792.24 In fact, it's so powerful for people
+3794.79 that sometimes I liken it
+in my mind to, you know,
+3797.137 it's like the birth of a new child
+3799.41 and it's such an incredible experience
+3801.36 and then people feel so much connection.
+3802.86 And then they sort of
+connect the experience
+3805.08 of the actual birth to the connection,
+3806.88 when in fact they're,
+that's true it turns out,
+3808.95 but there are a bunch of
+other things happening too.
+3811.71 That's simply the reflection of the fact
+3813.21 that you're holding a child
+3814.23 and the pheromonal effects et cetera.
+3815.79 So anyway, I think it's very important
+3818.82 that these different
+variables be figured out.
+3824.31 Along those lines, I want to make sure
+3826.2 that before we dive a bit deeper
+3828.18 into ketamine and psilocybin,
+3830.61 that we do touch on really important topic
+3833.79 that has been in the press a lot lately,
+3836.13 which is SSRI, selective
+serotonin reuptake inhibitors.
+3839.1 'Cause we can't really have
+a discussion about depression
+3841.14 without talking about SSRIs.
+3842.73 And then I want to circle back
+to ketamine and psilocybin.
+3846.78 It seems that there are now data
+3850.14 that essentially state
+that there's no direct link
+3854.79 between serotonin levels and depression.
+3858.48 Although my understanding is
+3861.12 that the SSRIs are powerfully effective
+3863.88 for certain forms of
+obsessive compulsive disorder
+3866.79 and may also be effective
+for treatment of depression,
+3869.43 but it may again be through
+some effect unrelated
+3872.28 to serotonin itself.
+3873.57 Is that right?
+3874.403 And how should we think about SSRIs?
+3875.88 Are they useful, are they not useful?
+3879.39 What's going on with
+SSRIs in your patients
+3881.85 and in other people as well?
+3884.512 - Yeah, so the experiment
+that I described a bit ago
+3887.867 around the naltrexone and
+ketamine was the first time
+3892.38 I'm aware of where we were
+able to essentially eliminate
+3896.4 an antidepressant's effect
+by using a second drug
+3899.58 as a kind of a blockade.
+3901.77 And it highlights a bigger issue, right?
+3903.93 The issue that we haven't had a good way
+3907.29 of really understanding
+how these drugs work.
+3910.8 And so it's the difference.
+3912.33 I think a lot of the controversy there is
+3914.88 that it's been been difficult, I think,
+3918.15 for folks to see that
+something can on one hand work
+3924.39 and on the other hand, we
+don't know how it works, right?
+3927.99 And so SSRIs clearly work.
+3931.92 You know, many, many meta analyses
+3934.89 kind of proving that out, right?
+3936.99 That in a subpopulation of individuals,
+3939.18 they achieve great benefit
+from depression, you know,
+3943.2 for depression, for obsessive
+compulsive disorder,
+3946.53 for generalized anxiety
+disorder, panic, you know,
+3948.84 all these things,
+3949.673 you can see an improvement
+in those symptoms
+3952.83 with what we call SSRIs
+3954.96 or selective serotonin
+reuptake inhibitors.
+3957.03 The issue there is
+3958.92 that these selective serotonin
+reuptake inhibitors end up
+3963.09 blocking the reuptake of serotonin
+3965.76 and leaving the serotonin, you know,
+3968.53 in this kind of in between,
+between two neurons for a while
+3974.46 and allowing for more
+serotonin to kind of be there.
+3977.46 The issue is that they don't
+work immediately, right?
+3981.96 So they don't work like the
+same day you start taking them.
+3985.41 And that suggests that
+probably it's not exactly
+3989.52 the serotonin being in there
+that's directly driving it,
+3993.06 that it's much more likely
+that it may have some, say,
+3996.59 brain plasticity effects, right?
+3998.82 We know that things like brain
+derived neurotrophic factor
+4003.29 get upregulated with chronic
+oral antidepressant use.
+4007.58 And so that's kind of the idea
+is that these things work,
+4013.22 but what's powerful,
+4014.69 and I think with the
+authors of this paper,
+4017.24 this extremely controversial paper,
+4020.21 were in part trying to say was
+4023.0 that there's not a deficit of serotonin.
+4027.62 You're not born with what people
+call a chemical imbalance.
+4032.06 And psychiatry's known this.
+4033.26 This is not actually new
+information, anybody, you know,
+4035.627 and it's kind of a rehashing
+4038.18 of a bunch of information
+we've known for a while now,
+4040.37 but in the lay press,
+4041.96 it's kind of hit in a
+way that it didn't seem
+4044.36 to grab attention before
+with previous publications.
+4049.28 But this idea that this chemical
+imbalance idea is wrong.
+4054.17 I really think that part's
+important because I think that,
+4059.24 you know, for a while, I think psychiatry,
+4062.81 you know, what I'll call
+psychiatry 1.0, right?
+4066.23 This kind of idea of
+Freud and psychotherapy
+4068.84 and its origins.
+4072.14 It was a lot around, you know, your family
+4074.69 and those experiences and
+psychotherapy kind of going in
+4077.3 and correcting or helping
+you to figure out,
+4080.42 and you know, you being able to see,
+4083.72 or people hear you so that
+you can eventually come
+4086.12 to the conclusion of certain cognitions
+4089.75 that aren't helping you, right?
+4091.28 And there's a huge importance there,
+4093.62 but there's a history where, you know,
+4096.62 things like the schizophrenogenic
+mother and all of that,
+4099.37 you know, that was a concept
+at some point, right?
+4101.27 And so we've transitioned
+from that to, you know,
+4104.78 for a long time the chemical imbalance,
+4106.79 which I'll call psychiatry 2.0.
+4110.06 You know,
+4111.195 this idea that there's
+something chemically missing
+4114.71 and I think that the
+trouble there for a patient
+4120.86 who's not a physician,
+4123.08 who's not someone who's steeped
+in these sorts of ideas,
+4129.77 who's, you know, more of kind of a person,
+4134.69 kind of average American out there, right,
+4136.82 is that it's sending a message
+4139.43 of there's something missing with me,
+4141.95 whether it be my experiences
+I had no control over
+4144.89 when I was a child or
+a chemical in my brain.
+4148.67 What I think is really powerful with TMS,
+4153.2 you know, really powerful with TMS,
+4155.867 and even powerful with
+the psychedelic story is
+4158.48 it's saying something different.
+4160.76 You know, TMS works and
+there's no serotonin coming in
+4164.51 or out of the brain, right?
+4165.92 And we're doing a rapid form of TMS
+4168.17 that works in one to five days.
+4169.88 There's no, it's very unlikely
+4172.13 that there's some long
+term kind of upregulation
+4175.16 of serotonin that's driving that.
+4176.78 So our work actually kind of pushes back
+4179.24 on this serotonin hypothesis
+4181.33 as being kind of the center of depression
+4183.98 because it says, look,
+4184.85 we're not giving anybody any serotonin.
+4187.25 We're simply turning
+these brain regions on
+4189.89 and we're focused on the circuitry.
+4191.99 And that's psychiatry 3.0.
+4193.4 It's not just like neuromodulation.
+4195.182 Neuromodulations are
+really nice, you know,
+4197.03 use case for psychiatry 3.0
+4198.56 'cause it's a way to focally
+4200.72 and directly perturb brain regions
+4203.03 in whatever modality you're using.
+4205.55 But you know, there are a lot of groups
+4207.83 that are actually doing
+neuroimaging before and after,
+4210.08 and they're able to see
+circuit level changes
+4212.6 for something like psilocybin or ketamine
+4215.69 long after the drug is gone, right?
+4218.54 Suggesting in those same
+brain regions converge,
+4222.29 so the subgenual default
+mode network connection
+4224.54 that we see is changing
+4226.19 with our Stanford neuromodulation
+therapy technique.
+4230.093 It's that same set of brain regions
+4232.91 that ketamine and
+psilocybin seem to act on,
+4236.96 act on these connections
+between brain networks
+4240.29 that seem to shift.
+4241.82 And so it refocuses the story
+4244.64 on something that's highly correctable.
+4248.24 And it's basically electrophysiology
+4251.63 and it's basically kind
+of recalibrating a circuit
+4256.4 that is recalibrate-able instead
+of I have something missing
+4260.87 or I have some set of
+experiences early in life
+4264.941 that are going to forever trap me
+4268.1 in these psychiatric diagnoses.
+4270.35 And so it kind of challenges that idea.
+4272.06 And I think that's what's so
+powerful about psychiatry 3.0.
+4276.53 This idea of focusing on the
+circuit because it gets us
+4280.1 into thinking about psychiatry
+and psychiatric illnesses
+4282.89 as something that are recoverable.
+4285.44 People can get better.
+4286.49 People, you know, we've seen
+with our TMS techniques,
+4289.1 we've seen with some of the
+psychedelic work that we've done
+4291.23 where people are actually
+in normal levels of mood
+4295.31 for sustained periods of time or-
+4297.32 - Within five days.
+4298.31 - Within five or less days.
+4299.87 And in the case of the psychedelics,
+4301.88 within a few days, right?
+4303.02 So we can get people out of these states.
+4306.17 They're totally well,
+4307.55 there's no drug in their
+system in that point,
+4309.41 in the case of the psychedelics.
+4310.52 It was never a drug in their
+system, in the case of TMS.
+4314.33 And it just tells us that it's fixable.
+4317.96 It's just like the heart.
+4318.95 It's just like an arrhythmia in the heart.
+4321.5 It's just like, you know,
+these other illnesses,
+4323.78 that it's like a broken leg.
+4325.1 We can go in and do something
+4326.87 and we can get somebody better.
+4328.49 Then I think what's empowering
+4330.77 and what a lot of patients
+have told me is they say,
+4333.729 you know, some people will
+relapse and need more stimulation
+4337.61 or need more psychedelics
+or whatever it is,
+4339.86 but they'll tell me, I've
+relapsed and I'm depressed again,
+4344.36 but I'll never think
+about killing myself again
+4346.73 because I know that if I
+go get stimulated again,
+4351.5 it improves, it gets better.
+4353.489 I will be able to
+reachieve it and I can't.
+4356.48 And I don't fear that
+I'm chronically broken.
+4359.51 I don't fear that the
+chemical imbalance is
+4362.54 still imbalanced.
+4363.56 I don't fear that these
+things that I couldn't control
+4366.17 in my childhood, you know,
+4367.79 are going to be there and
+drive this problem forever.
+4370.61 And I think that's what's
+so powerful about this.
+4373.76 - [Andrew] The sense of control.
+4374.81 - The sense of control, the sense of...
+4376.58 They're not doing the
+stimulation themselves.
+4378.74 They're not administering the drug
+4380.42 in these trials themselves.
+4381.47 And they probably never will.
+4382.49 These will probably be medical treatments.
+4384.53 But they are choosing to do it.
+4386.42 And in that sense, they are in control.
+4388.73 - Yeah, I have a good
+friend, I won't out him
+4391.46 for reasons that'll
+become clear in a moment,
+4393.17 who was quite obese and
+lost a lot of weight
+4398.39 and was really proud of himself.
+4400.13 And then I guess we could
+say he sort of relapsed
+4402.47 in a sense.
+4403.67 Not all the way, but far along.
+4406.43 But his tone around it was very different.
+4408.74 He knew he had accomplished
+what his goal once before.
+4412.37 He was disappointed in himself,
+4413.78 but he knew exactly why he had relapsed.
+4416.75 It was very clear.
+4417.583 He had essentially relapsed
+to the previous set
+4419.78 of eating behaviors and
+lack of exercise behaviors
+4422.69 and has now brought himself back again.
+4425.6 And it just resonates with
+your story that, you know,
+4429.86 once somebody understands they can do it
+4431.63 because they've been there before,
+4432.89 this idea again of considering
+new rules, that there's...
+4437.99 And that brings me to this
+question about psychedelics
+4441.2 and frankly the altered thinking
+and perception that occurs
+4445.149 in high dose psilocybin clinical sessions.
+4451.16 It seems that the disordered thinking,
+4452.84 even though it could be random, right?
+4456.08 Hearing colors and seeing sounds is
+4458.99 always the kind of cliche statement
+4460.76 of the Timothy Leary area.
+4463.85 Also, you know, right there,
+that's a Stroop task of sorts.
+4467.246 It's a synesthesia, it's a
+combining of perceptions,
+4469.79 but it's sort of Stroop task-ish
+4472.28 in that it's a new set of rules
+for the same stuff, right?
+4476.93 And many people do report improvements
+4481.88 in trauma related
+symptomology and depression,
+4485.21 as I understand it from my
+read of the clinical trials,
+4487.76 after taking psilocybin.
+4488.9 Because during those sessions,
+4490.07 something comes to mind spontaneously.
+4493.46 As you and I were talking about
+earlier, they will report,
+4497.06 for instance, a new way
+of seeing the old problem.
+4501.14 And the old problem could be
+the voice that they're no good,
+4503.428 nothing will ever work out,
+4504.95 or could be even more subtle than that.
+4506.99 So that raises two questions.
+4509.66 One is about the basic
+functioning of the human brain,
+4513.44 which is why do you think
+the brain would ever hold on
+4519.17 to rules that don't serve us well?
+4522.65 That's one question.
+4523.88 And then the second question is,
+4527.06 what is it about psilocybin
+and related molecules
+4530.66 in terms of their neurochemistry,
+4532.1 in terms of the ways they
+disrupt thinking and feeling,
+4535.07 et cetera, during the session
+4537.59 that allow this novel rule
+consideration phenomenon?
+4544.01 - Yeah.
+4544.91 So the first question,
+4546.02 I think it's an evolutionary
+neurobiology answer, right?
+4551.39 I think that at the individual
+person level, you know,
+4555.5 it doesn't make a whole lot of sense
+4556.91 that when we're really stressed out,
+4558.11 some of us want to eat more, right?
+4559.88 At the individual person level
+4561.62 'cause it's like,
+4562.453 that's not particularly
+that good for my health
+4564.44 in the long term.
+4566.3 But if you think about it, like, you know,
+4568.82 in some 500 years ago, 1,000 years ago,
+4572.06 if I'm highly stressed out,
+4573.62 it's most likely that I'm
+about to not have food
+4576.26 at some point and I
+should eat a bunch of food
+4578.21 that is high fat, high
+sugar, high carb food
+4580.88 to put on weight for that next phase
+4584.54 where in this stress I may be in battle
+4586.88 and I don't have food
+4587.9 and I have enough fuel on board, right?
+4590.24 And so we end up being a result
+4595.13 of probably a lot of biology
+that's not that useful
+4597.74 in the modern era.
+4599.12 And I think in the brain for,
+say, let's say PTSD, right?
+4603.41 A lot of veterans come back
+4604.7 and they experience these PTSD symptoms
+4606.41 and they're not at all
+useful back home, right?
+4610.85 You know, they hear some loud noise
+4613.01 and all of a sudden they're behind a car
+4614.66 or they're behind a, you
+know, I've heard of folks,
+4617.15 you know, jump and run behind a trashcan
+4619.04 or whatever in the middle of San Francisco
+4621.17 when they hear a loud noise.
+4622.97 But if you put them
+back in the battlefield.
+4627.32 - [Andrew] Highly adaptive.
+4628.153 - That's highly adaptive, right?
+4629.18 And so I think what's
+interesting is that we,
+4637.07 in the absence of using
+substances like psychedelics,
+4642.2 end up having these
+very persistent memories
+4646.55 that are attached to
+negatively balanced emotion,
+4649.1 predominantly, as you were saying earlier,
+4651.77 the jacket in elementary school, you know,
+4654.638 I had various things like
+that for me too, right?
+4656.66 You remember these things.
+4660.169 And we hold onto those things
+4663.35 from I think an evolutionary
+neurobiology standpoint,
+4666.35 but what seems to, for whatever reason,
+4670.1 kind of alleviate that
+are these substances,
+4675.11 some new like MDMA,
+4677.33 some that have been around
+for thousands of years,
+4679.67 like psilocybin, and used as
+a sacrament in traditions,
+4689.51 seem to have a therapeutic effect.
+4692.47 It seems to be pretty long
+lasting for these phenomenon.
+4695.27 And so it's just curious, right?
+4697.61 It's curious that in the absence of that,
+4702.71 these things will keep going on and on,
+4704.72 but in the presence of that exposure,
+4708.35 then all of a sudden you see
+a resolution of the problem.
+4711.59 And we have some work now
+we're treating folks with,
+4713.75 Navy SEALs, and the data's
+still being analyzed.
+4717.65 But the anecdotes that
+we're getting, right,
+4719.96 are folks are coming
+back and they're saying
+4721.829 it's finally gone, right?
+4724.54 These set of PTSD
+symptoms are finally gone.
+4728.36 And so this idea that for whatever reason,
+4731.36 going into what's probably
+a highly plastic state
+4734.06 like we were talking about earlier,
+4735.08 upregulation of brain
+derived neurotrophic factor
+4737.27 in the case of ibogaine, glial
+derived neurotrophic factor,
+4741.29 this highly plastic state and the ability
+4744.2 to kind of re-experience memories.
+4747.77 And then as you know,
+4749.419 we always reconsolidate a
+memory when we bring it back up,
+4753.95 we always reconsolidate it.
+4754.783 But reconsolidating it in that
+state, for whatever reason,
+4759.05 may drive a therapeutic effect.
+4762.71 And, you know, the jury's still out.
+4767.39 I would say that I'm kind of an agnostic
+4772.13 to what tool I'm using kind of guy.
+4775.13 Like my business is to find
+treatments that help people.
+4780.02 And so I'm much more like
+pragmatic about it, you know.
+4783.71 If this sort of thing, which
+has a lot of cultural baggage,
+4789.8 but if this sort of thing
+4790.85 ultimately ends up being therapeutic,
+4792.47 if we can design trials
+that convince me and others
+4795.35 that it is, then we
+should absolutely use it.
+4798.08 You know?
+4798.913 And if it doesn't, then we
+clearly shouldn't use it, right?
+4804.14 And I think that's a big question
+4806.87 the field's going to have to work out.
+4808.07 We have a hard time blinding these trials
+4810.11 because the placebo condition is not easy
+4813.23 to pull off, obviously.
+4815.33 - A placebo for a psilocybin
+journey is hard to imagine.
+4820.419 - We've got, you know, we've
+been thinking about this
+4822.05 and maybe that ketamine study
+4824.51 that I was talking about earlier,
+4825.47 if we could give people
+naltrexone and ketamine,
+4828.26 maybe that's a good sort of
+placebo condition, right?
+4832.747 'Cause we know that we can block any
+4834.8 of the actual antidepressant
+effects of ketamine,
+4836.81 they still have an experience, you know.
+4838.367 And so that's one way of doing it.
+4840.47 But thinking about ways to do that
+4841.817 and really kind of proving this out.
+4843.86 And that's been, yeah,
+4846.32 I think that's been kind of central
+4848.03 to the way I've been thinking about this.
+4850.4 But yeah, I think there's the
+work that's been done so far,
+4853.22 the first psilocybin trial,
+4855.17 the first MDMA trial was published
+4857.81 in "Nature Medicine" recently.
+4859.82 - And what do those generally say?
+4861.17 I mean, that they are effective
+for a number of people
+4864.29 after one session, two sessions?
+4866.72 What's sort of the general contour of?
+4868.37 And let's start with psilocybin and MDMA.
+4871.31 - Yeah, so MDMA appears to,
+in one to a few MDMA sessions,
+4876.95 have an anti PTSD effect
+that seems to be, you know,
+4881.69 outside of the kind of
+standard assumed levels
+4886.07 of PTSD improvement that you
+can observe in individuals
+4889.52 with this level of PTSD, right?
+4891.35 So what we call the effect size,
+4893.15 which is essentially like a effect size,
+4898.64 the measure that allows for you
+4899.96 to compare different
+treatments to each other
+4902.51 for different conditions
+that are, you know, agnostic
+4904.64 to what the actual illness is.
+4906.68 You know, the effect
+size is there, you know,
+4909.89 approach effect size is the
+things that are pretty effective
+4912.77 like antacids for heartburn, right?
+4915.8 And you see that with MDMA treatment.
+4919.07 - So does that mean that
+for people that have trauma,
+4922.77 and again, we're talking
+about in a clinical setting,
+4925.58 they take a one or two doses of MDMA.
+4928.4 I think the standard maps
+dose is 150 to 175 milligrams.
+4932.42 Again, doing this with
+a physician, et cetera,
+4934.28 control clinical trial, legal.
+4937.22 - [Nolan] Yep, exactly.
+4938.18 - They do it once or twice.
+4940.28 And broadly speaking,
+4942.11 what percentage of people
+who had trauma report
+4944.6 feeling significant relief
+from their trauma afterward?
+4948.74 - It's about 2/3 of people had
+4950.3 a clinically significant
+change in their PTSD.
+4955.55 - That's impressive.
+4956.383 - [Nolan] Which is impressive, right?
+4957.38 - And how long lasting was that?
+4958.723 I mean, these trials were
+ended pretty recently, so...
+4961.35 - Yeah, it appears to last for a while.
+4963.14 In the earlier trials where
+they followed people out,
+4965.09 it seemed to last for
+kind of in the years range
+4967.34 for some people.
+4968.173 And so it's, you know,
+it's pretty compelling.
+4972.11 Psilocybin, you know, and
+contrast that with ketamine,
+4975.74 which only on average lasts
+about a week and a half
+4978.23 for a single infusion,
+so it's a much shorter.
+4981.8 - So they have to get
+repeated infusions of ketamine
+4983.84 every 10 days or so?
+4986.57 Forever?
+4987.83 - For some people, or they end up getting
+4989.42 like a bunch of doses
+for a couple of weeks.
+4992.99 And then for some people
+that seems to last a while.
+4997.277 You know, that's where I
+think the psilocybin story
+4999.65 for depression and the
+MDMA story for PTSD seemed
+5003.07 more interesting to me.
+5004.18 - So for psilocybin, what
+is the rough percentages on,
+5008.05 and this would be relief not from trauma,
+5009.64 but from depression, correct?
+5011.47 - Yeah, yeah, exactly.
+5012.76 So it's, you know, in open label studies,
+5014.68 it's closer to like half
+to 2/3 of people end up
+5017.14 getting better depending upon their level
+5018.58 of treatment resistance.
+5019.916 In the blinded trials it was
+more like 1/3 or so of people,
+5023.95 you know, experienced relief.
+5025.9 And this is, you know, this is
+a press release of the data,
+5029.767 you know, and so it
+hasn't, to my knowledge,
+5031.78 it hasn't been published yet.
+5033.1 And so I'm looking forward
+to seeing the full paper
+5035.44 on that one.
+5036.273 But it, you know, separated from placebo
+5039.76 and looks pretty good as well.
+5042.04 It looks like it's, you know,
+5043.57 the first of two trials
+that need to be done
+5045.43 to get this thing approved
+5047.05 for treatment resistant depression.
+5048.52 And so that stuff looks good.
+5052.81 - In terms of MDMA, for
+many years it was reported
+5057.16 in the popular press
+5058.15 and there was a paper published in science
+5059.503 that MDMA was neurotoxic,
+5061.63 that it would kill serotonin neurons.
+5063.73 This was what was always said.
+5065.62 Then I saw another paper
+published in science
+5069.07 that wasn't a retraction
+of the previous paper,
+5071.44 but rather was a second
+paper in the same group
+5073.69 that essentially admitted
+that the first time around,
+5077.02 they had injected these
+monkeys with not MDMA,
+5082.66 but with methamphetamine, which
+is known to be neurotoxic.
+5085.96 So it was kind of a
+public admittance of oops
+5089.44 or like really big screw up, so oops,
+5093.91 but never a retraction
+5095.38 and then never really a
+publicly acknowledged correction
+5099.22 in the popular press.
+5101.32 So it seems that in the
+appropriate dosage range,
+5104.71 and with these one or two sessions,
+5107.8 my assumption, and this
+again is an assumption,
+5111.16 tell me if I'm right or wrong here,
+5112.93 is that MDMA is not neurotoxic
+for serotonergic neurons
+5117.64 at appropriate doses and
+with appropriate sourcing,
+5119.77 et cetera.
+5120.603 - So it was an interesting study that,
+5123.61 I think the guy's name is
+Halpern, last name's Halpern.
+5126.79 - [Andrew] Not Casey Halpern.
+5127.78 - Not, different Halpern.
+5129.19 I think Joshua Halpern,
+5130.39 I'm blanking on his first name, but...
+5132.7 - Casey Halpern was a
+guest on this podcast
+5134.607 and is a former colleague
+of ours at Stanford,
+5136.78 who unfortunately we lost to
+University of Pennsylvania
+5139.63 and maybe someday we'll bring him back.
+5142.24 - Yeah, that's right.
+5143.073 So this individual, you know,
+5145.18 received some NIH funding
+to actually, NIDA, you know,
+5148.12 National Institute for Drug Abuse funding
+5150.07 to explore individuals of
+the Mormon faith in Utah
+5157.96 who partake in only MDMA.
+5162.82 So the way this works is
+5166.27 that MDMA happened kind of after a lot
+5172.15 of the religious documents were developed.
+5175.6 And so MDMA isn't on the
+prohibited drug list.
+5179.56 - The banned substance list.
+5180.924 - [Nolan] The banned substance list.
+5182.167 - I have some good friends who are LDS.
+5183.4 - Yeah, great people.
+5184.837 I do as well, you know,
+5187.09 just a kind of set of facts, you know.
+5188.86 And so these folks only
+use MDMA but they don't,
+5195.22 they're not, you know,
+5196.06 the problem with some people using drugs,
+5197.92 they're poly substance users, right?
+5199.9 So you can't say it's the MDMA
+5202.33 if they've also taken other psychedelics
+5204.13 and they've taken opiates
+and they've taken cocaine,
+5205.96 and you have this picture
+5207.28 where you can't really
+tease out that problem.
+5210.916 But with this, right,
+5212.32 it was just individuals that
+were part of the Mormon faith.
+5215.38 And so they were kind of purist
+5218.26 in the sense they only used MDMA
+5220.03 and he confirmed all of that.
+5221.89 And it was a brilliant study, right?
+5224.62 Because then he was able to go in
+5226.18 and look at their cognitive profiles
+5228.19 versus individuals of the same
+geography, the same faith,
+5232.18 all of that, that
+happened to not take MDMA
+5235.6 and found there were no
+neurocognitive differences.
+5239.47 - So does that mean that
+it was not damaging?
+5242.74 - It was not damaging.
+5243.88 It's hard to know because to
+really do this study well,
+5247.78 you'd have to track these folks down
+5249.4 before they ever took
+MDMA and do a pre-post
+5252.76 and compare to people that didn't.
+5254.68 But, you know, this is
+about as good of a study
+5256.9 as you can do, given the situation,
+5261.07 to be able to check this out.
+5263.98 Additionally, when I
+was back in Charleston
+5265.99 and working in the Medical
+University of South Carolina,
+5268.75 one of my mentors there, Dr. Wagner,
+5273.67 was a neuropsychologist at MUSC
+5276.167 and he was also the neuropsychologist
+5278.29 for the early MDMA trials.
+5280.48 And so he did all the
+neurocognitive batteries
+5283.15 for individuals pre-post
+5285.34 and similarly did not see any changes
+5288.4 in neurocognitive profiles
+in a negative way.
+5291.31 And so, you know,
+5293.14 there's data from experimental
+patients receiving this.
+5295.66 There's data from people
+that are chronic users,
+5298.3 you know, who only take MDMA.
+5301.66 And that combination of data suggests
+5306.49 that there's certainly no apparent risk
+5310.18 in the kind of one to
+two to three dose range.
+5313.39 And it's probably unlikely
+that at least, you know,
+5317.47 modest dose exposure over
+a lifetime doesn't appear
+5321.25 to have a profound neurocognitive
+damaging effect, yeah.
+5326.65 - Interesting.
+5327.49 Yeah, I know that sourcing
+is key and we're here,
+5330.67 we're talking about clinical
+trials where purity is assured.
+5334.3 And you know,
+5335.35 years ago when so-called
+raves were really popular,
+5338.14 maybe they're still
+popular, never been to one,
+5340.24 so wouldn't know if
+they're happening or not.
+5343.09 That's how in the know I am.
+5345.16 But it was clear that, you know,
+5347.68 testing for purity was important
+5349.09 because sometimes the drugs are made
+5354.34 such that there are contaminants
+like methamphetamine,
+5357.55 which we know is highly neurotoxic.
+5360.13 I think that one reason why people think
+5362.56 that MDMA might be neurotoxic
+is the reported drop in energy
+5367.66 or sort of feeling fatigued
+for a few days afterward.
+5370.33 I spoke to a physician colleague of ours
+5372.22 who said that that very
+likely has something to do
+5375.79 with the surge in prolactin
+that arrives subsequent
+5380.11 to the big dopamine surge
+that occurs in MDMA.
+5383.53 And I mention that because I
+know a number of people talk
+5386.77 about serotonin depletion
+after taking MDMA.
+5390.34 He has it in mind that
+while that could be true,
+5392.77 it's likely that anytime
+somebody takes something
+5394.99 or does something where there's
+a huge lift in dopamine,
+5397.99 that there's very likely a
+huge compensatory increase
+5400.78 in prolactin that follows
+5401.89 and prolactin has a
+kind of sedative effect,
+5404.11 numbing effect on mood
+and libido, et cetera,
+5406.93 that eventually also wears off.
+5408.79 Does that make sense
+to you as a physician?
+5410.71 - Yeah, it makes sense.
+5411.543 I mean, you know,
+5412.376 the difference between,
+say, MDMA and psilocybin is
+5415.6 that MDMA is kind of an
+amphetamine of sorts, right?
+5417.85 So it has effects in dopamine
+5420.46 and psilocybin's, you
+know, pretty neutral,
+5424.51 and you know, maybe a little
+bit of dopamine effects,
+5426.76 but kind of much more of a
+serotonergic focused drug.
+5430.42 And so yeah,
+5431.65 I think you're going to see kind
+of a different profile after.
+5434.17 And that makes, I
+haven't heard that story,
+5435.76 but that makes sense to me too.
+5438.25 - Since you mentioned psilocybin,
+let's talk a little bit
+5440.02 about the neurochemistry of psilocybin.
+5441.193 As a serotonergic agent, my
+understanding is it operates
+5445.21 on these, is it the 5HT
+serotonin 2C receptor?
+5450.07 - 2A.
+- 2A, excuse me.
+5451.35 2A and receptors.
+5453.37 And that I've seen a
+bunch of different reports
+5455.62 in terms of what it's
+actually doing to the brain
+5457.42 while people are under
+the effects of the drug.
+5459.61 And this is important
+for us to segment out
+5461.62 because there are the effects that happen
+5463.24 while people are under the influence
+5464.65 and then the more long lasting effects.
+5466.9 But some of the effects I've
+heard about are, for instance,
+5469.48 and tell me again if
+these are right or wrong,
+5473.02 that there is increased
+activation of lateral connection,
+5478.09 sort of broader areas of
+the brain being coactive
+5481.03 than would normally occur.
+5483.04 Maybe that explains some of
+the synesthesias, you know,
+5485.5 seeing sounds and hearing colors
+5487.9 and that as the trivial example,
+5489.55 but rule breaking within the mind.
+5494.29 But then I've also heard that
+perhaps it's lack of gating
+5498.76 of sensory input.
+5499.66 So normally if I'm looking at something,
+5501.25 I'm not thinking about the
+sensation in my right toe
+5503.86 unless it's relevant.
+5506.08 But if I'm thinking about the
+sensation in my right toe,
+5508.0 I'm generally not thinking
+5508.87 about the truck around the corner.
+5509.95 So we have these attentional spotlights,
+5511.78 but that somehow it creates
+a more, it adds spotlights.
+5516.0 - Yeah, degates the thalamus.
+5517.383 - Degates the thalamus, right,
+5518.95 through the particular thalamic structure.
+5521.56 So what is the evidence
+that any of that is true?
+5525.61 And are there other phenomena?
+5527.56 Is there involvement of
+dorsolateral prefrontal cortex
+5529.75 that we are aware of?
+5530.86 And what I'm really headed
+here in a few minutes is,
+5534.67 you know, is there a place
+5536.44 for combining directed
+stimulation of the brain
+5539.59 with psychedelics so that the effects
+5541.63 of serotonin could be
+primarily within the structures
+5546.25 that you know from your work
+to be relevant to depression.
+5549.61 So, but to simplify it first,
+5551.11 what's going on when one takes psilocybin
+5553.3 and why is it interesting
+in light of depression?
+5556.78 - Yeah, definitely.
+5557.613 So David Nutt and Robin
+Carhart-Harris' work
+5562.66 around neuroimaging
+psychedelics are kind of
+5564.883 some of the first folks to do that work.
+5567.58 And to their great surprise,
+5570.13 they thought there was going
+to be an increase in activity
+5572.86 on psychedelics and what they
+found is the opposite, right?
+5575.02 There's kind of an overall decrease
+5577.06 in the level of activity in
+the brain with psychedelics,
+5580.93 but they've also looked at connectivity
+5583.69 and there's this kind of
+small world, you know,
+5586.27 large world connectivity
+that you think about.
+5588.88 And so, you know, small world meaning
+5590.92 there's kind of a much
+more kind of focused
+5593.86 kind of cortical function
+5595.0 or, you know, sub-cortical
+function or whatever it is.
+5597.67 And what you see is a difference
+5600.443 in that level of engagement
+of brain regions,
+5605.02 the connectivity, kind
+of global connectivity,
+5607.24 to your point, kind of increases.
+5609.37 And so, you know, it's
+interesting, you know,
+5612.513 I think to kind of have a
+conversion theory on this.
+5616.09 It's still, you know, to be determined.
+5618.7 There's still a lot of work I
+think that needs to be done.
+5621.43 But it's certainly suggestive
+5624.85 that there's pretty profound
+changes in brain activity
+5629.26 and brain connectivity after.
+5631.39 And what we've found to
+be really interesting is
+5633.823 that the anti-depressant
+effects of psilocybin have
+5638.8 a particular connectivity change
+5642.43 that we also see with our
+TMS approaches, right?
+5645.94 And it's this connectivity
+5647.74 between the subgenual anterior cingulate
+5650.08 and the default mode network.
+5651.94 And so when we do
+5653.14 this effective Stanford
+neuromodulation therapy stimulation,
+5656.8 we see a down regulation, the
+connectivity between them,
+5660.34 negatively balanced mood state
+5662.17 in the case of depressed individuals
+5663.88 and the self-representation of the brain.
+5666.31 And you see that same
+connectivity change occur
+5669.46 post-psilocybin, you know,
+5671.86 suggesting there's a convergent mechanism
+5673.93 and it makes sense, right?
+5674.83 You've kind of got
+5675.79 an overconnected,
+negatively balanced system,
+5679.33 conflict system that's kind of attached
+5683.08 onto the self representation
+and people feel stuck, right?
+5687.22 And then when you do whatever
+you do that's effective,
+5689.89 it unpairs those two systems.
+5693.19 - I want to ask you about this
+phenomenon I've heard about
+5697.24 during psilocybin journeys.
+5698.5 I heard about this from
+Dr. Matthew Johnson,
+5700.87 who's running a lot of the
+clinical trials at Johns Hopkins
+5704.89 and has been a guest on this podcast.
+5707.23 He said that there's something
+seems to be important
+5711.31 about the patient who's depressed
+5713.74 or who's under the influence of psilocybin
+5716.92 or the patient who's
+trying to get over smoking
+5719.23 or an eating disorder
+who's taking psilocybin
+5721.45 and is in the clinic.
+5723.55 That there's something important
+5724.72 to this notion of letting go,
+5727.45 that people will feel as if their thoughts
+5730.6 and their feelings
+5731.433 and maybe even their body
+aren't under their control,
+5733.852 and that the clinicians' job
+under those circumstances is
+5736.78 of course to make sure that
+they're physically safe
+5738.4 so they don't jump out a window or try...
+5740.29 Actually give an example of
+a patient who thought that,
+5742.93 I think it was a she,
+5743.763 could move into the painting in the wall,
+5746.02 and obviously that wasn't
+true in the real world,
+5748.63 although it was true in her mind.
+5749.89 So they prevented her from doing that.
+5751.9 But that letting go,
+5753.19 that somehow untethering
+from the autonomic arousal
+5758.11 that's occurring is important.
+5761.05 Which brings us back to this
+idea or me back to this idea
+5763.81 of like a seesaw where
+you're sort of letting go
+5766.39 of the hinge and just sort of,
+your heart rate's going up,
+5769.57 like just go with it and trust, you know?
+5771.88 Your heart rate's going down,
+just go with it and trust.
+5773.89 You're thinking about
+something very powerful
+5776.95 and depressing related to your childhood,
+5779.23 you're just supposed to
+go there without fear.
+5781.57 You're thinking about what's possible
+5783.19 in terms of what could happen.
+5784.42 So anyway, you get the picture.
+5788.89 Can we think of that
+5789.76 as just the willingness to do
+a million different variations
+5795.13 on the emotional Stroop task?
+5796.93 You know, you'll entertain
+the full array of rules
+5801.19 within your head and consider them.
+5803.35 Or is there something more to it?
+5805.15 You know, and again,
+5806.606 we're in the outer margins
+of understanding here,
+5810.13 but what are your thoughts
+on this notion of letting go
+5813.58 as such a key variable
+for relief from depression
+5817.24 during the psychedelic journey?
+5818.47 - Yeah, so I'll talk a little bit
+5820.12 about something called exposure
+5821.35 and response prevention therapy,
+5822.82 that's a typical kind of gold
+standard treatment for OCD,
+5826.45 and I'll help this a
+little bit conceptually.
+5830.35 And so what that really is,
+it's a letting go therapy.
+5834.25 And so, you know, exposure
+response prevention,
+5838.09 the idea is that you have
+to expose the individual
+5842.29 to something that, you know,
+5844.84 something that triggers an obsession
+5847.0 that they then want to do
+whatever the compulsion is, right?
+5850.477 And so I'll give you, you know,
+5851.68 my first exposure and
+response prevention patient
+5855.1 when I was a resident,
+5856.69 he was very concerned about
+leaving the lights on his car.
+5862.3 And so what we did is we went out
+5866.494 and we turned the lights on in
+his car and locked his door.
+5870.58 So his lights were on,
+5871.81 and he was super worried, this
+is going to kill his battery.
+5874.96 And we went and we spent an
+hour talking about things,
+5877.987 and we went back out to his
+car and his battery was fine,
+5882.04 and his lights were on.
+5883.84 And he cranked the car and we
+did it maybe one other time,
+5888.01 and then all of a sudden
+that was gone, right?
+5890.95 And that's the idea is that, you know,
+5892.78 you're essentially exposing.
+5894.67 And you want to do it at levels
+5896.08 that are, from an anxiety
+standpoint, tolerable,
+5900.1 but exposing the person to something
+5902.08 and then letting them see
+5904.0 that that exposure ends
+up being fine, right?
+5907.57 It ends up not causing the thing
+5909.25 that they end up being worried about.
+5912.76 And so, you know, in some sense,
+5914.95 being in the psychedelic state,
+5916.87 and we are all taught at a level
+5920.44 to retain some level of control.
+5923.29 You know, people have
+more or less of that,
+5926.77 but we're all effectively
+retaining some level of control.
+5930.58 We all wake up in the
+morning and put clothes on
+5932.71 to go into society.
+5933.82 We all try to say, you know,
+5935.89 most people try to say the right things.
+5938.71 They don't try to do things
+5940.0 that are outside of cultural norms
+5942.31 when they're in conversation.
+5943.69 And so we're constantly
+5945.85 at some level controlling
+the situation that we're in.
+5948.82 And so it's, you know, it's not,
+5951.04 it makes a lot of sense
+that in that state,
+5954.19 part of the therapeutic effect
+5956.11 that may be linked to the
+neural circuitry is this idea
+5959.59 of letting go and essentially
+letting the system, you know,
+5964.48 the network configuration
+maybe, whatever it is,
+5968.23 assume a state
+5969.7 that you've essentially been
+fighting the whole time.
+5973.57 The same way that my OCD
+patient was fighting this need
+5979.21 to click the off button on
+the lights of his car 50 times
+5984.79 before he would go and do
+whatever he needed to do.
+5988.33 And in some level, letting go there,
+5990.07 meaning letting us just turn the lights on
+5992.23 and him not do anything,
+5994.18 or letting go meaning in
+the psychedelic state,
+5996.28 you're just letting go
+5997.84 of whatever it is you're holding onto,
+5999.94 negatively balanced
+thoughts about yourself
+6003.21 in the setting of having depression
+6005.88 or, you know, re-experiencing
+a trauma memory
+6011.28 and allowing that to just happen
+6013.17 and seeing it again
+through a different light.
+6017.04 You know, it feels the same
+6018.08 in the sense that that's
+allowing for whatever's going on
+6021.78 with these psychedelic states
+to do whatever they do.
+6024.9 - It's fascinating.
+6026.04 You said it's exposure response therapy is
+6028.457 the traditional name?
+6029.29 - [Nolan] Exposure response
+prevention therapy.
+6031.03 - Prevention therapy.
+6031.863 Done outside of the psychedelic journey.
+6034.56 - It's done outside the
+psychedelic journey.
+6036.39 But that idea of letting go
+is present in both of those.
+6040.74 You know, psychotherapy
+kind of straight up,
+6044.34 totally sober, non psychedelic,
+6046.53 non anything psycho manualized,
+6048.99 that psychotherapy that we
+know works really well for OCD.
+6052.44 And then, you know, in
+that psychedelic state,
+6054.87 and so people have done
+studies with psilocybin,
+6058.59 and now there's some studies
+with MDMA trying to look
+6061.02 at treating OCD, you know,
+6064.44 with this same sort of
+idea of letting go, right?
+6068.13 And how do you have an OCD
+patient kind of let go?
+6071.34 Maybe even letting go of not
+washing their hands anymore,
+6074.49 you know, kind of accepting the idea
+6076.68 they're not going to
+get germs in their hands
+6078.81 or whatever it is, you know?
+6079.727 And so it's kind of part and parcel,
+6081.75 that same sort of thinking.
+6083.79 - When I was in college,
+6084.63 I developed a compulsive superstition.
+6087.0 I'm not afraid to admit this.
+6088.11 I somehow developed a
+knock on wood superstition.
+6092.01 And I was actually kind of ashamed of it
+6095.67 because it rationally made no sense.
+6098.43 I don't consider myself
+a superstitious person,
+6100.59 never was a superstitious kid.
+6102.66 You know, I'd step on the sidewalk cracks,
+6104.619 I'd walk under ladders, you know,
+6106.677 I'd probably even try
+to walk under a ladder,
+6109.71 even though I don't suggest it.
+6112.08 But somehow I picked this thing up
+6113.94 and I used to sneak it at times.
+6117.09 I told my girlfriend at
+the time that I had it
+6118.62 in hopes that that would
+prevent me from doing it.
+6121.56 And it's tricky.
+6122.61 Sometimes it actually comes
+back where I think, gosh,
+6124.56 I didn't say, you know, knock on wood,
+6126.15 I didn't knock on wood, I hope
+that doesn't actually happen.
+6128.675 And it's quote unquote crazy, right?
+6131.4 But crazy in the sense that
+it makes no sense rationally
+6134.43 why the events would be linked.
+6136.29 And yet I think a lot of
+people out there do have
+6138.51 internal superstitions.
+6141.03 Maybe by talking about
+it now, it'll go away.
+6143.82 Clearly I just need to challenge it.
+6145.675 You know, anyway, I mention
+it because I consider myself,
+6149.46 you know, generally rational person,
+6151.08 but it's interesting how these
+motor patterns get activated
+6155.94 and this notion of letting go,
+6157.62 because I don't actually
+know what consequence I fear.
+6161.4 And the fear, as I was
+hearing the example you gave,
+6163.627 you know, the fear of the
+car battery running down,
+6165.57 I was about to say,
+6166.403 "Well, what if the battery
+actually did run out?"
+6168.0 Then the therapy would be undermined.
+6169.77 And yet that could also
+be interesting too,
+6171.84 because it's not that big of a deal.
+6173.1 You jump the car.
+6174.42 But in my case,
+6175.253 I need to think about
+what the ultimate fear is.
+6178.23 - Yeah, and you know, I
+think a lot of people,
+6181.14 so it's interesting if you
+look at, say, the OCD scale
+6184.53 or the depression scale or whatever,
+6186.48 we don't define normal as zero.
+6188.94 We define normal as
+some number range above.
+6194.07 So zero to, in the case
+6196.32 of the Montgomery-Asberg
+Depression Rating Scale,
+6199.56 one of the depression
+scales we use, 10, right?
+6202.41 That's the normal range.
+6203.64 And so people could have some sadness
+6206.25 and still be considered normal.
+6207.72 In the case of the OCD scale,
+it's about the same 10, right?
+6210.33 Where we say it's kind of
+starts to be, you know,
+6213.93 mildly abnormal or something.
+6216.03 And I'd always tell the medical students,
+6218.107 "Look, my friends that
+are surf instructors,
+6220.8 they're more like a zero on the Y bar.
+6222.78 People that are professionals,
+you know, they're non-zero,
+6226.26 but it's still within the normal range."
+6228.81 And especially, you know,
+6229.98 in the case that you're talking about,
+6231.96 it doesn't sound like it got in your way.
+6233.55 It doesn't sound, I mean,
+6234.383 you're obviously highly
+successful tenured professor
+6237.57 at Stanford and do all the
+great things that you do.
+6242.151 And so it's very much kind
+of within the normal range,
+6245.22 and I think totally assumed
+6249.63 that a lot of people have
+these sorts of things.
+6252.15 And as long, I think something
+as a psychiatric diagnosis
+6255.87 when it severely impairs
+your ability to function
+6259.44 and that's when we kind
+of cross that threshold.
+6262.71 But, you know, I think
+that a lot of people,
+6265.65 and it's great that
+you're bringing this up.
+6267.0 I mean, it's very anti-stigmatizing
+6268.74 that you're bringing up, right?
+6269.58 Because I think a lot of
+people hold that stuff in
+6272.28 and they don't want to talk
+about it because they're worried
+6275.31 that somebody else may think something.
+6276.99 But the reality is, as a psychiatrist,
+6279.42 I talk to a lot of patients,
+6281.43 a lot of people that are,
+you know, family members,
+6283.86 you know, folks that are just going
+6286.17 through a death in the
+family, whatever it is.
+6288.849 And what you figure out is like,
+6289.71 everybody's got a little
+something here and there.
+6292.38 Everybody has the knock in
+some way, if that makes sense.
+6295.2 And it's just, and we're all
+just kind of more predisposed
+6299.64 not to talk about it.
+6300.63 But I think it's
+important to talk about it
+6302.79 because I think that when we
+start all talking about it,
+6305.31 then we realize that we're
+all kind of in this together
+6308.22 in a way.
+6309.12 And then some folks that
+have to knock 100 times,
+6314.91 we call that OCD, you know,
+6317.52 and they're worried about germs
+and all these other things.
+6320.37 We call that OCD.
+6321.99 And then in that circumstance, you know,
+6324.45 they need treatment, right?
+6325.68 But it is really on,
+6327.3 just like blood sugar,
+just like blood pressure,
+6329.46 it's on a range, you know,
+6330.99 and it's not just these
+discreet diagnoses.
+6333.09 You have them or you don't.
+6334.8 - It's good to know.
+6336.366 I actually feel some
+relief just hearing this,
+6337.793 because I am slightly...
+6339.87 I wouldn't say ashamed as
+sort of embarrassed by it,
+6341.79 but I offer it as a, you know,
+6346.11 it is what it is, as they say.
+6348.18 And it certainly doesn't
+seem to hinder my life much,
+6352.53 knock on wood.
+6354.089 - [Nolan] [laughs] Nice.
+6354.922 - So if we could talk
+a bit about ibogaine.
+6358.088 I don't know much about ibogaine,
+6360.51 although anytime I hear
+the, you know, A-I-N-E,
+6362.97 you know, lidocaine, ibogaine,
+I think of an anesthetic.
+6367.41 And going to the dentist,
+6368.52 which is an unpleasant
+experience for me, generally.
+6373.53 What is ibogaine?
+6375.81 Does this have anything to
+do with the so-called toad?
+6379.41 You know, people talk about
+smoking frog skin, toad skin.
+6384.18 What is it used for clinically?
+6386.16 Is it legal in the US as a clinical tool?
+6391.08 Who's using it and for what purposes?
+6394.38 If you could educate me on ibogaine,
+6395.73 I truly know nothing about it,
+6397.38 except I think I know how
+to spell it correctly.
+6399.27 - Yeah, that's fair, yeah.
+6400.56 So ibogaine is one of the alkaloids
+6406.38 that you can extract from
+a iboga tree root bark
+6412.14 that's typically growing in
+the country of Gabon, Africa.
+6419.82 So Gabon is one of the
+West African countries,
+6425.13 kind of middle of Africa
+and on the west coast.
+6429.15 And Gabon has a group of folks, you know,
+6437.55 called the Bwiti.
+6439.56 It's a religious kind of sacramental group
+6443.52 that sacramentally uses iboga root bark
+6448.65 as part of the sacrament.
+6452.37 And they've been using iboga
+root bark for a very long time.
+6458.945 And it's, you know, part of the tradition.
+6461.31 There's a whole set of
+kind of ceremony around it.
+6466.14 If you're interested in this,
+6467.19 there's a book called
+"Breaking Open the Head"
+6469.17 by Daniel Pinchbeck that goes through
+6471.84 and talks about this whole process.
+6474.78 But essentially the Gabonese
+have been using this
+6478.11 for a long time and it's a kind
+of an atypical psychedelic.
+6484.216 It's not a psychedelic that
+we normally think about
+6489.48 with psilocybin and LSD
+6490.77 where there are visual
+perceptual changes, right?
+6493.32 So if you take psilocybin or LSD,
+6496.53 what you experience is you experience
+6499.21 these kind of visual
+perceptual differences
+6502.71 in the external world, right?
+6504.117 And on enough LSD or psilocybin,
+6506.52 an individual can actually
+perceive something visually
+6510.18 in the external world that isn't there,
+6512.46 as we talked about earlier.
+6515.01 Ibogaine doesn't do that.
+6516.51 Ibogaine does something different.
+6517.92 It's kind of like, have you
+ever seen "Minority Report,"
+6520.68 you know, the movie with Tom Cruise,
+6521.97 I think 15 or 20 years ago or something?
+6524.67 So it dates us a little bit,
+6525.54 but it was this movie where
+he would be able to go
+6529.65 and see these kind of pre crimes.
+6531.39 And he had this big screen
+where he could look at scenes
+6536.478 from time and like kind of go
+through that scene and see it.
+6540.18 And so what individuals
+taking ibogaine will say is
+6543.78 that open eyes, they don't see anything,
+6546.21 but closed eyes, they'll go back through
+6548.76 and re-experience earlier life memories
+6553.11 and they will be able to experience it
+6555.69 from a place of empathy,
+not only for themselves,
+6561.36 but from others, and
+kind of detached empathy
+6564.81 and being able to see this
+as almost a third party,
+6568.26 even though they were there.
+6570.24 But they're able to see it,
+you know, as a third party.
+6572.64 So Claudia Naranjo, a
+psychiatrist from Argentina,
+6576.09 described this for a lot
+of books that he wrote,
+6578.73 in I think the '80s and '90s around this.
+6581.1 And so, you know, ibogaine's
+been around for a long time.
+6584.88 Howard Lotsof,
+6586.38 American guy that brought
+it over from Africa.
+6589.35 He was a polysubstance user,
+6590.79 used every drug that he
+could get his hands on,
+6594.57 took ibogaine,
+6595.95 and including a lot of other
+psychedelics, by the way,
+6597.78 took ibogaine
+6598.613 and then never did another
+drug again, supposedly
+6600.93 because he had such a
+profound ibogaine experience.
+6604.5 Ibogaine is in no way a
+recreational substance.
+6607.62 It's not a recreational substance
+6609.15 if you want it to be a
+recreational substance,
+6611.13 because you're essentially having this,
+6613.38 what they call life review.
+6614.97 They also call it 10 years
+of psychotherapy in a night.
+6617.61 So these are the terminology
+6619.53 that people talk about the issue.
+6622.061 - How long does it last?
+6622.894 Is it truly one night?
+6624.3 - It's usually, you know, it can go,
+6626.34 depending upon if you
+get re-dosed or anything,
+6627.96 go sometimes, depending upon
+how fast you metabolize it,
+6631.35 sometimes 24, sometimes 36 hours.
+6633.69 Sometimes it can be shorter,
+but it is a long time.
+6637.497 It's a very long time.
+6638.33 So it's definitely the longest
+acting psychedelic substance
+6642.06 I know of.
+6643.29 And so people, you will take this,
+6648.75 and they'll have this
+reevaluation of a given memory.
+6652.65 And then as we were talking about earlier,
+6654.18 reconsolidate that memory again,
+6656.28 and then it seems to
+have, you know, an effect
+6658.68 of that reconsolidation process.
+6660.51 And so, you know, about
+five, four, five years ago,
+6664.71 I was tapped by Robert Malenka,
+6666.81 one of the senior
+neuroscientists we both know
+6670.02 in the university.
+6670.853 And he says, "Well,
+there's an unnamed donor
+6673.68 that's very interested
+in funding a scientific,
+6679.8 kind of open label study
+of these Navy SEALs
+6683.58 that have been going down to Mexico
+6685.35 and taking ibogaine and also 5-MeO-DMT,"
+6689.73 which I'll talk about in
+a second, to treat PTSD.
+6693.6 You know, they claim to
+have traumatic brain injury,
+6696.96 depression, you know, that
+whole constellation of symptoms.
+6700.38 You know, and as it was described to me
+6702.9 by various people that had done this,
+6705.3 by their spouses and
+and whatnot, you know,
+6708.9 John, we'll just say John,
+6710.22 John couldn't screw a light bulb
+6713.94 into a light fixture, right?
+6715.862 They were just so debilitated
+they couldn't do simple tasks,
+6720.66 what we call activities of daily living.
+6723.0 And they were coming back
+6724.05 and having these really
+dramatic improvements
+6726.93 in all aspects of life.
+6730.83 And so, you know,
+6731.94 we have over the last
+couple of years been able
+6735.442 to do this first in human,
+6739.44 kind of full neurobiological clinical
+6742.2 neurocognitive evaluation
+of what ibogaine is doing.
+6746.82 In this case, in special operations,
+6749.43 special forces individuals,
+former Navy SEALs,
+6752.4 former Army Rangers, that
+kind of crew of folks,
+6755.55 and look at the pre-post changes
+6757.23 that their experience to be able
+6759.57 to totally quantitate all of that.
+6761.13 And so we've been able to
+capture all the clinical scales,
+6764.52 you know, depression scales, PTSD scales,
+6766.59 all that standard stuff,
+neurocognitive batteries.
+6768.63 So how does your executive
+function work specifically?
+6771.21 How does your verbal memory, all of that?
+6773.67 And then neuroimaging and EEG.
+6775.86 So this will be the first human
+study of ibogaine for those.
+6779.91 And the reason why is because
+ibogaine is kind of the...
+6783.75 Both seemingly the most potent
+6785.73 and most seemingly, to me at least,
+6790.5 most powerful psychedelic,
+6793.11 but the one that has the most risk too,
+6795.57 because it has a cardiac effect.
+6797.46 It seems to be that you
+can screen people out
+6799.53 that have risk off of
+their electrocardiogram
+6802.26 and reduce the risk quite a bit.
+6804.03 And that's what we all did.
+6805.44 But that's why people haven't
+really studied it as much.
+6809.31 And it isn't as, in addition,
+6812.771 nobody goes to a rave on ibogaine.
+6814.53 There's no recreation at all with this.
+6816.033 - It's not fun.
+6817.74 - It's, people say that it's relieving,
+6820.53 but it's hard work, right?
+6822.6 Because yeah, you're reexamining things.
+6825.84 And you know, and so then
+we see these folks after,
+6830.94 and I'll tell you, you know,
+6832.11 we haven't fully analyzed the data yet,
+6834.06 but I'll tell you that, you know,
+6836.79 from what my folks are telling
+me, it's pretty dramatic.
+6840.06 You know, people come back and
+they're doing a lot better.
+6843.78 They're doing a lot better.
+6844.71 And nobody, I'll knock on wood,
+6847.62 nobody's had any sort
+of cardiac issue at all
+6852.39 in the cohort that we've studied
+6855.54 and they look a lot better and
+they feel a lot better too.
+6860.37 And they describe these experiences
+6862.65 of being able to go back
+through and, you know,
+6866.43 soldiers experienced something
+called moral injury, right?
+6869.01 Where maybe they accidentally
+blew something up
+6872.28 and had a kid in it or
+something like that.
+6874.177 You know, if they're in Afghanistan, Iraq,
+6877.02 maybe, you know, a child died on accident
+6879.15 or maybe a civilian died
+or whatever it was, right?
+6883.317 And they suffer these moral
+injuries as part of the job.
+6886.08 And it's almost one of the
+kind of vocational risks.
+6889.44 They come back and say that
+they've forgiven themselves,
+6893.52 you know, which is huge, right?
+6895.53 And part of that is being
+able to see themselves
+6898.53 in a different light and
+having empathy finally
+6900.93 for themselves and being able
+6902.16 to kind of have that
+experience of forgiving.
+6905.28 And so, very cool.
+6907.68 The study, you know,
+what was happening was
+6911.43 they were taking ibogaine
+6912.36 and then taking something
+called 5-MeO-DMT.
+6914.52 People call it the Toad,
+6915.48 it's the Sonoran River Toad.
+6919.68 I think it's like you
+can find these in Mexico,
+6921.72 find 'em in Arizona.
+6923.94 In the back of the toad produces
+something called 5-MeO-DMT,
+6929.88 which is a flavor of DMT
+6933.03 that produces a particular
+psychedelic effect
+6935.97 also used as a sacrament.
+6938.52 - Is it dimethyltryptamine?
+6940.59 - It is a 5-MeO dimethyltryptamine.
+6944.46 So it's a kind of a dimethyltryptamine
+6946.14 with a kind of addition to it.
+6947.79 The deal there is that it lasts
+longer than traditional DMT.
+6954.805 You know, it's like 20
+minutes to five, three,
+6956.73 or whatever kind of thing.
+6958.56 And so these guys were taking ibogaine
+6962.58 and then they would take
+the 5-MeO-DMT after.
+6965.85 We had to kind of divorce those two things
+6967.986 to be able to do the study
+6968.819 and just understand what
+the ibogaine was doing.
+6970.56 And they'd go back down a month later
+6971.91 and they'll do the 5-MeO-DMT.
+6974.42 - So two completely separate sessions.
+6976.35 - [Nolan] Two completely
+separate sessions.
+6977.88 - And then one quick
+question about ibogaine
+6979.38 before a bit more on 5-MeO-DMT.
+6982.62 Is the ibogaine journey guided,
+6985.11 or the person just closes their eyes
+6986.73 and they just start falling
+6987.96 into the back catalog of memories?
+6990.06 - They have a bunch of
+preparatory sessions,
+6992.49 and then they have a
+bunch of sessions after
+6994.29 that they're able to
+kind of rehash things.
+6997.56 During, there's a sitter that sits there
+6999.45 and kind of sits with
+them and helps them out,
+7003.35 but it's not, it's pretty, the
+phenomenon of the drug seems
+7008.0 to drive a lot of this, right?
+7009.89 And so a lot of it ends up being
+7011.36 what we call supportive psychotherapy.
+7012.8 You're just kind of being there
+7014.33 and, you know, maybe you're
+holding the person's hand,
+7016.25 maybe you're just saying "I'm here,"
+7018.23 or maybe whatever it is,
+7019.37 but you're making sure
+they know you're around.
+7021.53 But there's not really
+an interaction per se.
+7025.19 And then the whole kind
+of goal there is just
+7028.1 to get folks to kind go back through
+7029.75 and reexamine these memories
+7031.88 and ultimately look like
+they reconsolidate them.
+7035.18 And you know, it's very interesting.
+7038.0 I mean, there's this kind
+of, as you said earlier,
+7042.2 Timothy Leary kind of
+sociocultural construct
+7045.53 that ends up being
+overlaid over psychedelics.
+7048.53 And what I think is
+that if you rid yourself
+7053.66 of all of those preconceived notions
+7056.0 of what it is and isn't,
+7057.62 and the counterculture movement,
+7058.91 all that stuff that neither
+of us were ever involved in,
+7060.843 neither of us are ever
+partake in, you know,
+7063.91 as kind of straight scientists
+looking at this, right?
+7066.26 If you can kind of rid yourself
+7067.4 of all those sociocultural constructions
+7069.98 and then reexamine this,
+7072.29 if we just discovered these today,
+7074.75 we would say that these sorts of drugs are
+7078.2 a huge breakthrough in psychiatry
+7079.97 because they allow for us to do a lot
+7082.37 of the sorts of things we've
+been thinking about with SSRIs,
+7085.85 with psychotherapy, but
+kind of combined, right?
+7089.12 Psychotherapy plus drugs
+7092.21 in a substance that kind of allows you
+7094.61 to reexamine these things.
+7096.41 And so it's interesting.
+7098.255 There's a lot to do to try
+to figure out if that's true,
+7102.08 you know?
+7102.913 And I can say that as it stands right now,
+7105.2 we don't know if that
+statement is true, right?
+7108.5 There's a lot more work
+that needs to happen
+7110.45 for that statement to
+be proven to be true.
+7112.1 But the hypothesis is, if it is true,
+7115.88 then it's very likely
+that this will be seen
+7119.51 as a breakthrough because it allows you
+7121.97 to do these sorts of
+things that you can't do
+7124.34 with normal waking consciousness.
+7126.77 But also why we have to
+really think about this.
+7130.04 And, you know, these drugs
+can't be recreational drugs.
+7135.29 They really shouldn't be
+recreational drugs, right?
+7138.59 They're really too powerful to be used
+7141.77 in the context of recreation
+7143.42 because they can put
+you into these states.
+7146.36 And this generation of
+psychedelic researchers are
+7150.11 really clear about that.
+7152.245 You know, I think the '60s
+folks were not clear about that,
+7154.58 and they felt like there
+was this whole kind
+7156.98 of cultural thing that was going on there.
+7159.32 But I think this cohort of
+individuals really understands
+7163.25 that in order to really make this happen,
+7165.65 we have to understand
+7166.79 that if you need a
+prescription for an SSRI,
+7170.42 which doesn't change your
+consciousness a whole lot,
+7173.9 and we're very worried about that,
+7175.73 and the doctor has to evaluate
+you for that every week,
+7178.61 that the idea that some of these
+substances would go outside
+7182.09 of very strict medical supervision is
+7185.57 kind of preposterous actually.
+7187.04 It's kind of a dumb moment, I think,
+7189.77 for all of medicine to say,
+7191.57 look, if we're going to do this right,
+7193.85 we've got to do it such a
+way that's so protected,
+7196.85 that's so safe, that we
+make sure people know
+7200.21 these things are not recreational
+7202.07 and they're really for the pure purposes
+7204.17 of really powerfully changing
+cognition for a while
+7208.52 and letting people have these
+what seem to be, you know,
+7211.73 relatively therapeutic states.
+7214.363 - I think it's great that
+you're doing this study.
+7215.72 And along the lines of the
+sort of the early iterations
+7219.26 of psychedelics and the
+counterculture of the '60s and '70s,
+7222.38 some of which took place,
+7223.58 like "One Flew Over the Cuckoo's Nest"
+7224.9 I think is actually based
+on the Menlo Park VA,
+7228.92 which is in our neighborhood of Stanford.
+7232.94 And things are quite a bit different now.
+7234.74 I know you and I have spent
+some time with the operators
+7238.22 and former operators at an event,
+7240.11 and last Veterans Day, in fact,
+7242.09 the so-called Veteran Solutions group
+7243.86 that's pioneering a lot of
+these psychedelic treatments
+7247.01 for former special operators
+and current special operators.
+7249.38 And what's interesting to me about that is
+7252.17 in contrast to the counterculture movement
+7255.17 of the '60s and '70s, that
+room was filled with people
+7258.65 that are very much of a
+structure, the military.
+7261.44 Right?
+7262.638 So it's no longer considered
+left wing, right wing,
+7265.49 anti-military, pro-military.
+7266.96 Here this isn't just
+about one group of people
+7269.09 who's exploring
+psychedelics as a treatment
+7270.95 for trauma and PTSD and other things.
+7273.977 And of course you also have other domains
+7275.9 of society looking at this.
+7276.95 And in fact, there were, but
+it was really interesting
+7278.9 because there were both far
+left and far right politicians
+7283.82 at that event up on stage together,
+7286.7 talking about, in kind of
+lighter terms, heart medicine,
+7290.3 but also talking about
+neurobiology and talking.
+7292.46 It was just fascinating
+from the perspective
+7295.4 of somebody who's trying
+to learn about this stuff,
+7296.93 that psychedelic therapies no longer sit
+7300.32 within the anti-establishment realm.
+7303.683 It's independent of all that,
+7307.67 certainly when people in
+the military are adopting it
+7309.65 as a potential treatment.
+7311.15 Again, still under exploration,
+7312.68 but also under exploration
+at universities like Stanford
+7315.62 and Johns Hopkins and UCSF
+and University College London
+7319.01 and on and on.
+7320.63 Along the lines of tree
+barks and toad skins,
+7324.11 tell me about ayahuasca.
+7326.48 And as a plant, you know, it's intriguing.
+7329.63 And is it pro-serotonergic
+drug like psilocybin?
+7335.75 And is it useful for the
+same sorts of conditions
+7339.8 that we've talked about thus far?
+7341.9 And if you could perhaps
+tell me a little bit also
+7344.57 about the Brazilian prisoner study.
+7347.0 - Yeah, yeah.
+7347.9 Definitely.
+7348.74 Ayahuasca is another psychedelic.
+7350.54 It's used as a sacrament
+in Brazil and in Peru
+7356.36 and Ecuador, in Columbia.
+7358.16 So a lot of the South American countries.
+7361.432 And what they do is they
+combine two plants together,
+7367.19 where one plant of the
+two plant combination
+7370.97 would effectively do nothing,
+7373.22 but the two plant combination
+together is capable
+7376.67 of producing this very
+profound psychedelic effect.
+7381.62 And what's really kind of
+curious is that there are,
+7387.2 as I understand it,
+7388.434 10 to 20,000 plant species in the Amazon.
+7393.11 And somehow, somebody-
+7395.754 - Someone tried 'em all.
+7396.98 - Combined these two plants together
+7399.44 in certain proportionality
+7401.69 and cooked this for five, 10 hours
+7404.63 to the point where you cook
+out the dimethyltryptamine
+7407.87 out of one of the plants
+7408.95 and cook out the reversible
+monoamine oxidase inhibitor
+7412.88 out of the other plant in such a way
+7415.49 that the reversible monoamine
+oxidase inhibitor prevents
+7420.14 the GI breakdown of the dimethyltryptamine
+7423.41 in such a way that it's then allowed
+7425.27 to cross the blood-brain
+barrier and get into the brain.
+7429.32 And if you didn't add
+7430.76 the reversible monoamine
+oxidase inhibitor plant derived
+7434.57 into this combination,
+7436.49 then it would never cross the brain.
+7438.47 If you put people on a standard,
+7441.71 psychiatry prescribed
+monoamine oxidase inhibitor
+7444.5 that wasn't reversible,
+7447.08 you'd throw them into
+serotonin syndrome, right?
+7449.99 So this kind of like sweet spot
+7453.35 that somehow ayahuasca
+practitioners have found
+7456.82 of being able to get DMT into
+the brain from an oral source
+7461.42 with this combination of a
+monoamine oxidase inhibitor
+7464.84 is curious.
+7467.06 And so that substance has been explored
+7469.79 as an antidepressant agent,
+7471.53 and some studies have looked at that.
+7473.84 It also seems to be very safe.
+7475.91 There's a psychiatrist down at UCLA Harbor
+7480.14 who's done a lot of work with this,
+7481.82 where he's looked at children even
+7484.61 that have been exposed to kind
+of small doses of ayahuasca
+7488.27 as kind of a sacrament
+within Amazonian tribes
+7492.11 and found no neurocognitive effects,
+7493.73 no neurocognitive effects in adults.
+7496.13 And so it appears to be safe.
+7500.12 It's kind of part and brought
+into various religions,
+7505.01 including kind of merged with
+Catholicism in South America,
+7508.46 which is kind of very interesting.
+7510.23 And so, you know, in some
+sects of Catholicism in Brazil,
+7517.28 it's used as a sacrament
+during religious ceremonies.
+7521.75 And so it became interesting
+to Brazilian researchers
+7525.32 as to whether or not they
+could affect recidivism rates
+7528.44 for prisoners in Brazilian prisons, right?
+7531.67 So they gave half of
+the prisoners, you know,
+7535.88 some sort of inert substance
+7537.68 and half of the prisoners
+an ayahuasca session.
+7541.94 And the recidivism rate or
+the return to prison rate
+7545.81 in the ayahuasca exposed individuals was
+7548.06 statistically significantly
+lower than the recidivism rate
+7551.934 in the control group,
+suggesting that, you know,
+7556.07 whatever is going on there
+seems to have an effect
+7559.25 on whatever drives criminal behavior,
+7562.4 whatever criminal behavior
+that happened to be.
+7564.35 And I don't have the details
+7566.06 on the exact nature of the crime.
+7568.7 You know, I am also in no way saying
+7570.65 that we should just be giving psychedelics
+7572.36 to folks in prison and all of that.
+7575.0 I think that that is a
+very edgy thing to do
+7578.75 and probably not something
+that anybody should try,
+7581.33 but it does kind of bring
+up this curious question
+7585.44 of what is it about that
+that would drive people
+7588.5 to change those behaviors
+7591.47 and why do people make
+those behavioral decisions?
+7595.007 And a lot of times
+7596.78 if you look at prisons
+in the United States,
+7599.69 you know, people say this,
+7601.04 what's the biggest mental health facility
+7602.72 in the United States?
+7604.01 It's a prison.
+7605.84 - Yeah, there's a lot to
+unpack there for sure.
+7609.694 You know, the homeless
+issue, the prison issue.
+7615.38 It does lead to something
+that I heard recently,
+7618.2 which is related to all
+this, which is cannabis.
+7622.081 You know, we hear a lot
+nowadays about people will say,
+7624.89 well, it's safer than alcohol.
+7626.12 And we did an episode on alcohol that,
+7628.07 at least by my read of the literature,
+7630.41 indeed alcohol does seem to be quite bad
+7633.41 for our health beyond...
+7634.82 I think it's pretty clear
+that not drinking is better
+7637.55 for your health than drinking at all.
+7639.71 And here, I'm not trying
+to tell people what to do,
+7641.447 but those are what the data say.
+7642.71 And forget the studies on red wine.
+7644.48 You'd have to drink so much red wine
+7645.71 to get enough resveratrol.
+7646.91 It's not even clear resveratrol
+does anything useful anyway,
+7649.85 et cetera, et cetera.
+7651.11 Nonetheless, cannabis is now available
+7653.42 in a lot of very high potency forms.
+7655.79 People are vaping cannabis,
+people are smoking cannabis.
+7660.32 I certainly am not saying
+that cannabis is bad
+7662.57 for people necessarily,
+although I think children,
+7665.6 I would hope
+7666.8 that their brain development
+would be completed first,
+7668.99 you know, get to age 25.
+7670.25 I know that sounds late
+for a lot of people,
+7672.89 but the THC obviously taps
+into some endogenous systems
+7679.423 and the cannabinoid
+systems and is powerful.
+7683.48 And I've seen this report
+that was in Lancet Psychiatry
+7689.36 this last year that said that
+early use of potent cannabis,
+7692.81 meaning age 14 to 20 or so,
+7696.17 can potentially lead to an exacerbation
+7698.69 of psychosis later in life.
+7700.64 And I actually put this
+out on social media
+7702.86 and it sort of exploded.
+7704.691 I didn't expect it to.
+7706.517 And people were saying,
+well, that's not causal.
+7708.29 And obviously it's not causal
+because people say, well,
+7711.41 maybe people with psychotic tendencies
+7713.96 are seeking out cannabis.
+7715.19 Although that's sort of a weak argument
+7716.63 in the sense that there's
+at least a 4X increase
+7722.27 in these psychotic episodes
+for people later in life.
+7725.6 But what are your thoughts about cannabis?
+7726.8 Because I do want to acknowledge
+7727.85 that it does have medical
+benefits for certain things,
+7730.49 pain, chemotherapy.
+7732.65 So by no means trying to knock on cannabis
+7735.14 and its appropriate medicinal use.
+7737.45 But what should we think about cannabis
+7741.14 in terms of this finding
+7742.73 that it can exacerbate a
+psychosis in certain individuals?
+7746.51 - Yeah, so I think, you know,
+7748.551 there's a couple of things, right?
+7750.89 So cannabis is multiple
+cannibinoids, right?
+7754.661 - Right, THC, CBD, CBN,
+sativas, and, you know, indicas,
+7758.6 it gets, yeah, there's
+a lot there to unpack.
+7761.24 - Yeah, there's a lot.
+7762.737 But there are two main kind
+of chemicals you think about
+7767.091 and kind of how things are
+essentially bred, right?
+7770.72 And so, you know,
+there's a lot of cannabis
+7773.75 that's really bred to be
+very high, very potent THC.
+7778.506 And there's cannabis where
+the THC's bred completely out.
+7781.7 So there's stories, you
+know, from Colorado, right?
+7785.99 This strain of cannabis that's THC free,
+7789.98 there's no THC at all, and it's all CBD,
+7793.46 and it's called Charlotte's Web.
+7796.58 And a bunch of kids' parents, one kid,
+7799.94 and then kind of a string
+of parents after that moved
+7802.07 to Colorado when cannabis was legalized,
+7805.46 because CBD is antiepileptic,
+7809.51 so CBD is also antipsychotic.
+7813.59 And so there have been a number of studies
+7815.033 that if you give CBD at high doses,
+7818.39 it's antipsychotic in established
+schizophrenic patients.
+7824.57 The issue is
+7825.403 that we've bred CBD out of
+marijuana selectively over time.
+7829.49 We've gotten very good
+7830.323 at figuring out how to do that, right?
+7832.34 Conversely, THC is pro psychotic
+and pro epileptic, right?
+7840.29 And so when you talk about
+does cannabis cause psychosis
+7843.65 or does cannabis treat psychosis,
+7846.35 it appears to be more related
+7848.24 to the proportions of CBD to THC
+7852.35 than it does to the kind
+of idea of cannabis.
+7855.02 So for me,
+7857.195 and I have no stock in
+this or anything like that,
+7859.88 but there's a company
+called GW Pharmaceuticals,
+7861.92 and I haven't looked into them in a while,
+7863.42 but they have a lot of clinical trials
+7867.41 for something called Dravet Syndrome,
+7869.3 which is a seizure disorder
+where kids seize a whole lot,
+7872.06 Lennox-Gastaut syndrome,
+which is a seizure disorder,
+7875.27 kids are seizing 300 times a day.
+7876.89 Both of these are like
+kids are seizing so much,
+7879.68 they're basically in a seizure
+7880.88 or in the postictal phase constantly.
+7883.97 And they've failed everything.
+7885.74 They've failed barbiturates,
+they've failed bromides,
+7888.71 which we just don't use
+anymore except in these cases
+7892.76 because of the side effects.
+7894.14 And they'll give kids CBD.
+7895.845 And I think CBD is a pretty safe drug
+7897.5 compared to bromide, right?
+7899.15 And so this idea that CBD
+in a kid is actually safe,
+7905.27 it's a cannabinoid, but it's
+CBD and it's safe, right?
+7908.687 And so that to me is totally fine.
+7912.44 Also giving CBD as an adjunctive treatment
+7915.89 for schizophrenia.
+7917.21 There have been some positive trials
+7919.01 and negative trials in that,
+7919.91 but there seems to be no
+negative side effects.
+7921.83 It seems to reduce some of
+the metabolic syndrome issues
+7924.92 in folks with schizophrenia
+who are having side effects
+7928.13 from the primary antipsychotic.
+7930.8 The converse is, there's
+clearly cases where people
+7934.04 that are taking very high
+doses of THC become psychotic,
+7938.93 they get put into the
+psychiatric unit, nothing happens
+7941.96 other than they kind of get
+the THC out of their system,
+7945.77 and then they resolve
+their psychosis, right?
+7948.8 And so that, and you know,
+7952.957 a handful of people who have had seizures
+7954.41 related to high doses of THC and syncope
+7957.11 and all sorts of things.
+7958.43 And so this idea that THC,
+7961.82 high doses of THC can be pro psychotic,
+7965.09 is also not taking a shot at people
+7966.95 that think that cannabis
+overall is a good thing.
+7969.89 It's just, it just is what it is.
+7972.05 And the kind of pure, I
+think if you zoom back
+7974.54 and you say you're a true naturalist,
+7976.91 you're thinking about natural
+medicines in the world,
+7979.43 you should think, well,
+7980.96 probably marijuana was
+balanced THC CBD at some point,
+7984.23 and then we humans messed with it, right?
+7986.87 And that most likely, that was
+probably okay at some level,
+7993.11 and then we pushed it one way or another.
+7996.14 And what I mean by okay
+is in a 45 year old,
+7999.41 it's okay, kind of thing.
+8002.23 Now, what I think is
+going on with the kids,
+8006.37 with the teenagers,
+8007.42 is you've got prefrontal
+maturation, right?
+8009.52 And then you're exposing them
+8011.11 to a whole lot of high THC load.
+8015.34 And while it's unclear
+if it's cause or effect,
+8020.56 it's certainly in the picture.
+8022.12 And if I were a parent,
+8023.65 I wouldn't want my 16 year
+old smoking marijuana.
+8026.8 If I were a parent and my 30
+year old, otherwise healthy,
+8032.29 totally fine, you know, whatever,
+banker, lawyer kid decided
+8038.02 to try marijuana for the first time,
+8039.88 I wouldn't scold them about it, right?
+8041.86 So I think it's this kind
+of a different thing, right?
+8043.87 I would never want my up to 25 year old,
+8047.35 just like you're saying,
+before prefrontal maturation,
+8049.78 I would never want my
+kid to be exposed at all.
+8053.32 But it looks like, except
+in susceptible individuals
+8057.97 that are susceptible to
+drug-induced psychosis,
+8059.92 it looks like, you know,
+it's a relatively safe thing
+8065.02 past prefrontal maturation.
+8067.9 You know, again, I'm not going
+to comment of cause and effect,
+8071.26 but I would say that, you
+know, if you're a parent,
+8076.0 it doesn't make much sense, right?
+8077.686 You never know what's ultimately
+going to hurt your kid.
+8080.71 I mean, we were talking
+about this earlier,
+8082.57 my wife's pregnant now.
+8083.956 She kind of avoids everything, right?
+8086.2 Rightfully so, right?
+8087.43 This idea that we just,
+we want to be careful
+8090.07 when our children's brains are developing.
+8091.78 And I think that's really
+what you were saying
+8093.52 and I think actually important.
+8095.56 The bigger question that you asked,
+8097.63 which is relative risks of
+drugs, is an interesting one.
+8101.23 So David Nutt published in, I
+think it was in "The Lancet,"
+8104.08 I'll have to look it up,
+but I think in "The Lancet,"
+8106.27 an article about relative drug risks
+8109.51 for the person and for society.
+8111.19 And this was like,
+8112.63 he was on the UK's like
+British Drug Policy Group,
+8120.52 where essentially what he showed was
+8122.56 if you look at societal
+risk plus personal risk,
+8126.91 and you combine those two,
+8128.56 you know what drug is the most
+dangerous drug in the world?
+8132.46 - I'm going to guess it's alcohol.
+8133.6 - It's alcohol,
+8134.92 right behind heroin and
+cocaine and da da da da da,
+8138.247 and somewhere in the middle is marijuana.
+8139.27 And right on the tail end,
+8140.705 on the exact other end
+of this, psilocybin.
+8147.1 - Is caffeine, usually
+doesn't make the list.
+8150.09 - It may have been on the list.
+8151.69 If it was, it was probably
+pretty close to psilocybin,
+8154.0 but somewhere in the middle was ketamine,
+8156.04 somewhere in the middle was amphetamine,
+8158.86 somewhere in the, you know,
+8159.94 a little closer to psilocybin,
+I think was MDMA, you know.
+8163.723 But it's this combined
+personal kind of world risk
+8169.27 of these things.
+8170.103 And so alcohol makes it,
+8172.6 because there's a huge
+amount of personal risk
+8175.18 and there's a huge amount
+of societal risk, right?
+8177.64 Drunk drivers kill X amount
+of people in the world.
+8180.85 - Fight, sexual assault, all that.
+8183.372 - All that, yeah.
+8184.387 And then all the cancer
+and all that stuff.
+8187.09 And so it beats out cocaine,
+it beats out heroin,
+8189.79 it beats out all of these things.
+8191.917 And yet, we don't, as a
+culture, for whatever reason,
+8197.44 we don't as a culture see it as a drug.
+8201.43 And that's the part that
+really baffles me, you know?
+8204.64 - I mean, they serve it.
+8205.57 I mean, this is no knock
+on Stanford at all.
+8208.27 Of course, I wouldn't do that.
+8209.576 This is at every institution I've been to,
+8210.97 they serve alcohol at the
+graduate student events.
+8214.556 - [Nolan] That's right.
+8215.526 - You know, they serve alcohol.
+8217.33 They do a happy hour.
+8218.62 I've never been a drinker.
+8219.85 I can take it or leave it.
+8221.296 - [Nolan] Yeah, same.
+8222.129 - And I realize that some people,
+they really enjoy alcohol.
+8224.89 You know, my former partner, I mean,
+8226.9 she just was in that 10% or so of people
+8230.05 who have a glass of wine
+and just feel great.
+8232.51 And the second one, feel great.
+8234.1 I just want to take a nap
+after I have a bit of alcohol,
+8237.04 so it never does much for me.
+8238.09 I always feel poisoned.
+8239.5 I feel lucky in that sense.
+8240.76 But it's unbelievable
+that it is so prevalent
+8245.62 and it's just, it's
+baked into the medical,
+8248.02 even medical institutions,
+8249.49 they'll pop a bottle of champagne
+8250.84 to celebrate the opening of a hospital.
+8252.956 - [Nolan] That's right, that's right.
+8254.065 - You know, that's pretty crazy.
+8255.37 - Yeah, no, you're absolutely right.
+8256.63 You know, I think what's going to happen,
+8259.03 but this is me, you know,
+8260.8 looking at the crystal ball a little bit,
+8262.24 but I think what's going to happen is
+8264.01 what happened with doctors and smoking.
+8265.45 So if you look at the
+'50s and '60s, right?
+8267.327 There are all these pictures
+of doctors smoking cigarettes,
+8270.1 you know, with patients or, you know,
+8272.05 psychiatrists doing psychotherapy
+and smoking a cigarette
+8274.39 with the patient sitting on the couch,
+8275.8 you know, surgeons smoking a
+cigarette in between cases,
+8278.89 there are all these
+pictures of that, right?
+8280.54 And now all of a sudden,
+smoking's totally banned.
+8282.73 I think it's totally banned
+from most of Stanford campus.
+8285.97 My suspicion is, as
+you're suggesting, right?
+8289.15 You know, this is everywhere
+8290.53 and it's all kind of ubiquitous.
+8291.97 At some critical point,
+some tipping point,
+8295.48 everybody's going to realize
+that, just like with smoking,
+8299.29 we've got to rid hospital systems
+8301.9 and universities of alcohol.
+8304.69 And at some point in 50 years,
+8307.87 it's my view that we'll look
+it back at these scenarios
+8311.44 that you're talking about
+and be like, you know what,
+8314.86 we were foolish about this.
+8318.175 I can't believe that
+we gave people alcohol
+8320.956 when they graduated
+from whatever, you know?
+8323.56 And I think we'll have
+a different take on it,
+8325.81 but it's going to take a longer time.
+8327.995 I think people did a really
+good job tying smoking
+8331.35 to lung cancer and it's like
+a very simplistic story.
+8334.96 Smoking, lung cancer, you know?
+8337.9 Now, as you know,
+8339.82 alcohol increases the risk of
+a lot of different cancers.
+8342.76 Not so clear which one.
+8344.5 I mean, there's like, you
+know, the kind of oral,
+8346.24 like the throat, tongue
+cancer, that's one of-
+8348.13 - Breast cancer.
+8348.963 - Yeah, breast cancer, you know?
+8350.08 And so it's kind of just,
+it's a harder story to tell,
+8354.28 you know?
+8355.113 And I think that's why, and everybody,
+8357.4 you know, and then there's this whole,
+8358.51 it's, you know, my mom says this.
+8359.957 It's like I drank my glass of wine
+8362.11 because my doctor told
+me it was heart healthy.
+8365.02 And we were talking
+about this, and I try to,
+8367.0 no, no, no, but Dr. So-and-so
+said it's heart healthy.
+8370.42 And so it ends up being this thing
+8371.89 where like she's drinking
+alcohol because she thinks
+8374.8 that it's good for her heart.
+8377.685 And, you know, and it's hard.
+8379.51 I've had those conversations with her.
+8380.98 It's hard to untie that.
+8382.87 And I think that, yeah,
+8384.52 at some point we're going to
+hit some threshold moment.
+8388.36 And it'll be interesting if
+we really look at the data
+8390.52 and we really look at
+what's safe and not safe
+8392.92 purely from this analysis,
+8395.02 it kind of points to the right direction.
+8398.38 - It's really interesting.
+8399.213 And also say nothing of poor judgment
+8401.44 under the influence of alcohol.
+8402.94 I mean, I would venture
+8404.74 that if we were to remove
+alcohol from university campuses,
+8408.52 watch, the students are
+going to lobby against me
+8410.17 if I say this.
+8411.003 But if you were to remove
+alcohol from campuses,
+8414.16 I mean, just think about
+what I suspect would be
+8417.22 the improvement in good decision making.
+8420.497 And that would occur.
+8423.46 Or, you know, I've got stories
+from graduate school and...
+8427.54 It was very different,
+you know, 10 years ago.
+8430.36 There was a lot more alcohol consumption.
+8432.43 Again, that was never my thing,
+8433.45 but I know people who
+make really bad decisions.
+8437.5 In any case, there's a whole
+landscape there emerging.
+8440.08 I think you got your finger
+right on the pulse of it.
+8442.6 I want to touch on
+something slightly different
+8444.97 than what we've been talking about,
+8445.93 but definitely related to depression.
+8447.67 And this, again,
+8448.503 is one of these intriguing
+but perplexing things,
+8451.0 which is that sleep deprivation
+can improve symptoms
+8455.8 of depression.
+8457.0 And yet I'm personally
+very familiar with the fact
+8460.12 that if I don't sleep well for one night
+8462.43 or don't sleep at all, in fact,
+8464.23 I do have an ability to function
+pretty well the next day.
+8466.69 I'll do this non-sleep deep rest practice
+8468.52 that I blab a lot about on
+the Huberman Lab Podcast,
+8470.75 which for me is tremendously restorative,
+8472.75 but I like a good night's sleep.
+8475.06 I think everybody understands now,
+8478.18 thanks to the great work of Matthew Walker
+8480.07 and others that have really
+gotten out into the world
+8482.02 saying, look, the
+foundation of mental health,
+8484.9 physical health, and high
+performance, if that's your thing,
+8487.9 being a functional human being,
+8489.01 is to try and get enough
+quality deep sleep
+8492.67 at least 80% of the nights
+of your life, if you can.
+8495.614 That's something to focus on.
+8497.32 Just like good nutrition,
+8498.67 just like exercise and
+social connection, et cetera.
+8502.15 So sleep deprivation,
+we know, in particular,
+8505.3 I think rapid eye movement
+components of sleep deprivation
+8508.39 can improve the symptoms of depression.
+8511.06 And yet being sleep deprived
+can also really disregulate
+8515.95 our control of the autonomic system.
+8517.57 I notice on night two or
+night three of poor sleep,
+8519.73 if I'm going through a stressful
+phase and that's happening,
+8522.61 all of a sudden my heart
+rate is chronically elevated,
+8525.43 my thought patterns
+become really disrupted.
+8527.5 I can't then exercise, my
+decision making is thrown off,
+8531.28 my emotionality is more labile.
+8532.72 The hinge, as we were
+referring to it earlier,
+8535.03 feels less in control, under my control.
+8538.21 And maybe I wonder sometimes
+if I enter that state
+8541.39 that you refer to earlier,
+8542.29 where the dorsolateral
+prefrontal cortex is
+8544.51 no longer leading the cingulate,
+8546.01 but the cingulate is now in charge.
+8547.72 The players are in charge of the coach.
+8550.24 Not a good situation.
+8551.74 So I know you've done some
+work on sleep deprivation
+8554.5 and light and effects.
+8557.05 Please tell us about that
+8558.16 and please tell us about
+this triple therapy.
+8560.95 Is that?
+- Yeah, yeah.
+8561.783 So friend of mine, Greg Salem,
+8564.22 another one of the professors at Stanford,
+8567.88 was very interested in sleep.
+8569.17 He did a bunch of training in sleep
+8572.02 before he went to medical school
+8573.28 and got very interested in this
+idea that, as you're saying,
+8577.81 if you sleep deprive somebody one night
+8581.74 in just kind of an isolated single night,
+8584.44 at the end of that sleep deprivation,
+8586.24 they will have an antidepressant effect,
+8588.01 but as soon as they fall
+asleep, they lose it.
+8590.47 So if it's a depressed individual,
+8593.05 you can get them to be
+less depressed acutely.
+8596.2 Soon as they fall asleep, they
+wake up eight hours later,
+8599.05 then they come back into the
+same level of depression.
+8602.44 And so the idea is that you needed
+8604.48 to do some sort of circadian reset.
+8606.58 And that part of what depression is,
+8609.46 is that it's a dysregulated
+circadian system.
+8612.16 And so mentors of mine say,
+8613.96 if you can just get the sleep better,
+8615.82 that's half the battle of
+dealing with depression.
+8617.337 'Cause so many people have
+insomnia around depression
+8621.1 and have a whole host
+of types of insomnia.
+8624.28 Having a hard time falling asleep,
+8625.6 waking up in the middle of the
+night, and waking up earlier,
+8627.7 all symptoms of depression.
+8630.19 And so what this does is it
+sleep deprives the individual
+8635.17 and then there's a certain calculation
+8637.09 of shifting their phase
+8639.46 and simultaneously exposing
+them to bright lights.
+8642.7 So that's the triple, the phase shift,
+8645.1 the sleep deprivation,
+and the bright light,
+8647.26 to try to get their circadian rhythm.
+8650.65 Essentially the theory is reintrained.
+8654.1 And so, you know, in the
+trials that we've done
+8658.03 and other trials prior to
+ours and after, you know,
+8662.572 it looked like there was
+8663.405 a pretty profound antidepressant effect
+8666.34 from this triple therapy
+that seemed to be durable,
+8670.45 meaning durability is this term we use
+8673.45 to say that not only can you
+get kind of point relief,
+8676.3 but that the relief ends
+up, you know, lasting.
+8679.45 What's important to
+know about this is like,
+8681.67 you shouldn't do this at home for sure.
+8684.31 You would need to do
+this with a professional,
+8685.87 'cause it's complicated,
+it's not just one thing.
+8688.57 And sleep deprivation,
+8691.24 while it seems to be
+antidepressant, it's pro anxiety.
+8694.9 So if you take a highly anxious
+person that's not depressed
+8696.97 and you sleep deprive them,
+they get profoundly anxious.
+8699.91 And so that's the other thing
+8701.41 that you have to really realize is
+8702.493 that this is like everything else
+8704.89 that I've talked about today,
+8706.06 all things that you have to
+do under medical supervision,
+8709.57 but curious, right?
+8711.337 And I think, you know, the
+question that always comes up is
+8714.4 why isn't this used more?
+8716.23 And I think the reason is
+8717.76 that there's not really a
+mechanism for, you know,
+8721.48 ultimately in medicine, as sad as it is,
+8723.94 you have to have a code to do a thing.
+8726.07 There has to be a code
+associated with a treatment
+8729.07 and it's hard to figure out
+how to make a code for this.
+8732.04 And so I think that's part of it.
+8733.69 And so if there's a way,
+8736.57 and somebody's got to kind
+of take that baton on that,
+8739.6 but if there's a way to
+make a code for this,
+8742.84 you know, I think you could
+actually turn it into something
+8745.96 that was more widely utilized.
+8748.42 And, you know, probably dream up ways
+8751.36 of how to integrate AI, passive sensing,
+8755.26 all that stuff to really make that work.
+8757.66 But I think that would be the idea,
+8760.3 that would be the trajectory
+I'd see, so, yeah.
+8762.49 - Yeah, having a billable to
+insurance code is fundamental.
+8767.08 And a lot of listeners to this podcast,
+8769.33 I think, have a background
+in engineering science.
+8771.61 And we will put a link to that manuscript
+8774.01 that talks about the triple therapy,
+8775.21 because here we're talking
+8776.29 about one night sleep deprivation,
+8777.67 some timed light exposure to the eyes,
+8780.34 and then shifting in the
+circadian clock being central
+8783.01 to the themes of the
+podcast that come up often.
+8786.49 I think for the typical person,
+8788.38 can we say that trying to get
+a regular light dark cycle
+8792.76 at sleep rhythm would be beneficial
+8794.2 for overall mood regulation?
+8796.03 - Yeah, I think for the
+typical person, you know,
+8800.263 really kind of reregulating your sleep
+8802.72 and trying to get, you
+know, a good night's sleep
+8805.06 in which you fall asleep, stay asleep,
+8807.52 wake up at a set time every
+morning is going to be
+8811.21 pretty crucial.
+8813.37 You know, in mild depression,
+8815.14 I think that one has a
+lot of control over that.
+8817.5 As we were talking about earlier,
+8818.59 I think when you hit some
+threshold in depression
+8820.69 where things become
+kind of semi-volitional
+8822.52 and it's harder to kind of
+will yourself into that.
+8826.12 There are therapies like, you know,
+8829.06 there's a CBT for insomnia, for instance,
+8831.16 where you can do cognitive
+behavioral therapy
+8832.84 to help with insomnia.
+8834.46 Sometimes people, and I'm no sleep expert.
+8837.58 Kind of pass this to Greg
+to fully talk about this,
+8840.074 but some of what goes on
+8843.4 that people with kind of
+milder insomnia experience is
+8847.09 like blue light out of their
+computer and things like that,
+8850.467 so you can use like
+blue light blockers to,
+8853.69 it tricks your brain, as
+you know better than me,
+8856.24 it tricks your brain to think
+that it's still light outside.
+8858.91 And so people will still have insomnia
+8861.55 because their brain still
+thinks that it's light outside.
+8864.52 And then people will, you know,
+8867.217 the kind of strict CBT for sleep.
+8871.42 You know, therapists will
+say there are only two things
+8874.84 that you should do in your bed.
+8876.52 And if you're under a
+certain age and whatnot,
+8879.67 it's really one thing that
+you should do in your bed,
+8881.8 which is to sleep and be
+with your partner, right?
+8885.517 And so those are kind of the two things
+8889.99 that you should do in a bedroom.
+8891.1 And that's really the only things
+8892.45 that you should do in a bedroom
+8893.38 if you're having sleep problems.
+8894.94 You shouldn't watch TV in a bedroom,
+8895.927 you shouldn't eat in a
+bedroom, shouldn't hang out.
+8897.823 - Keep the phone out of the bedroom.
+8899.29 - [Nolan] Keep the phone
+out of the bedroom, yeah.
+8901.09 - Yeah.
+8902.5 We should get Greg Salem on the podcast.
+8904.352 I'll just mention
+8905.29 for people that want to
+regulate their sleep,
+8906.61 we have a sleep toolkit that's available
+8909.67 as a downloadable PDF at hubermanlab.com.
+8911.89 Just go to the menu
+and a lot of the things
+8913.42 in that toolkit are based on work
+8915.55 from Stanford Sleep Laboratories,
+8917.11 including Jamie Zeitz and others' lab,
+8919.75 not aimed at depression specifically.
+8924.28 Listen, Nolan, Dr. Williams,
+8928.18 this has been an amazing voyage
+8930.85 through the circuitry
+of autonomic control.
+8933.67 This landscape of the
+prefrontal cortex is,
+8935.849 I find incredibly fascinating
+and I just want to start off
+8940.69 by saying please do come back again
+8942.383 and teach us more about
+that and your TMS work.
+8946.9 Before we wrap, however,
+8948.79 I do want to give you the opportunity
+8950.47 to talk about the SAINT study.
+8952.25 - [Nolan] Yeah, definitely.
+8953.083 - Is it SAINT or SAINTS plural?
+8954.34 - Yeah, it's SAINT.
+8955.816 So SAINT, or we're calling it SNT now.
+8959.8 SAINT has, you know...
+8961.45 The intent was not to kind
+of connect it to religion,
+8964.965 but we may have accidentally done so.
+8968.35 And so we abbreviated it to SNT
+8971.077 for the subsequent trials,
+which was initially
+8974.5 Stanford Accelerated Intelligent
+Neuromodulation Therapy,
+8977.8 or now what we're calling
+Stanford Neuromodulation Therapy.
+8980.02 But the idea there, which is a cool idea,
+8983.71 is that TMS is a device
+that delivers a treatment,
+8992.14 and the treatment is the protocol.
+8994.387 And the protocol is the
+stimulation parameter set
+8999.22 in a specific brain region
+for a specific condition.
+9003.24 And so what's cool about neuromodulation,
+9005.55 whether it be transcranial
+magnetic stimulation
+9008.22 or transcranial direct current stimulation
+9009.99 or deep brain stimulation,
+9011.13 like what Casey Halpern talked
+about on another podcast,
+9015.21 is this idea that in all of those cases,
+9019.14 the device itself is a
+physical layer conduit
+9023.22 of a stimulation protocol
+that's therapeutic
+9026.88 for a given condition
+in a given brain region.
+9029.4 And so in the case of depression,
+9031.05 which we know the most about for with TMS,
+9033.45 we've been doing TMS
+studies for depression for,
+9036.72 you know, since 1995, right?
+9039.18 And the clearance in 2000, 2008, 2009.
+9043.35 And in that timeframe,
+9046.44 we were able to go from really
+knowing very little at all
+9050.37 about how to do something like this
+9051.9 to getting an FDA clearance.
+9053.817 And the way that it went down was
+9055.59 that there were two groups
+studying different components
+9060.84 at NIH.
+9061.673 The first group was
+studying mood neuroanatomy
+9065.52 on functional imaging.
+9066.81 That was kind of the first generation
+9068.19 of functional imaging
+back then, so PET scans,
+9071.46 which are kind of metabolic
+scans, and then SPECT scans.
+9076.35 And the idea there was looking
+at activity and metabolism
+9079.83 and prefrontal cortex.
+9081.03 And what they found in these
+kind of more crude scans is
+9084.033 that just general
+hypoactivity, hypometabolism.
+9088.38 The other group right upstairs
+9089.76 at the National Institute
+for Neurological Diseases
+9092.31 and Stroke, NINDS, they
+were looking at using TMS,
+9096.81 which had been around for 10 years,
+9098.16 and repetitively
+stimulating in motor cortex.
+9101.85 And what they found was, gosh,
+9103.56 we can get a readout in thumb
+muscle movement amplitude
+9109.2 that's really reproducible across people.
+9111.51 It's like, you know,
+universally reproducible.
+9114.78 And if we do certain
+stimulation approaches,
+9117.48 they are biologically active
+9119.1 to either increase excitability,
+IE the thumb motion,
+9122.73 and a set intensity goes up,
+9125.13 the amount of amplitude goes up,
+9126.81 or inhibitory or depotentiating,
+9128.67 it goes down with other
+biological stimulation approaches.
+9132.755 And then a third outcome,
+which is important,
+9134.52 that it's inert, it doesn't do either.
+9136.14 So you can have stimulation
+approaches that do one,
+9139.2 you know, increase
+activity, decrease activity,
+9141.57 or are inert.
+9144.3 And so what they found was, oh,
+9146.01 we can excite certain brain regions.
+9148.02 Then my mentor, Mark George said,
+9149.94 had this kind of aha moment where he said,
+9152.437 "Wow, there's underactivity
+in prefrontal cortex
+9156.24 in depression, and we can
+increase activity using this thing
+9159.633 that we know we can increase
+activity in motor cortex.
+9162.03 We just need to put it
+9163.2 in the left dorsolateral
+prefrontal cortex."
+9165.84 And then they combined the two
+9168.72 and started stimulating once a day
+9171.18 in this kind of very abbreviated fashion.
+9173.58 And lo and behold,
+9175.41 some of those depression patients
+resolved their depression.
+9178.59 And back then, and still today,
+9180.36 you can go and as a
+psychiatric patient stay
+9182.61 at the National Institute of Mental Health
+9184.68 and go through clinical
+trials to try to get treated.
+9187.32 And there were patients
+who'd been there for months
+9189.57 and they were able to be discharged.
+9191.4 Because their mood was better, yeah.
+9193.14 And so just very crude approach
+9195.57 where they were using ruler
+measurements where DLPFC was,
+9198.687 and they were stimulating with devices
+9200.52 that you needed to physically
+dunk the coil in an ice bath.
+9203.91 And with that, they still were able to,
+9205.98 the kind of genius of
+this, Mark and others,
+9208.034 they would still be able
+9209.575 to create a purely engineered
+stimulation approach.
+9214.98 What's cool about that is
+9216.99 that they kind of found two things, right?
+9220.2 They found this one stimulation protocol
+9222.3 that does have some antidepressant effect.
+9224.46 It's limited, it doesn't treat everybody,
+9226.23 it does have some antidepressant effect.
+9228.18 And this bigger concept that
+a neuromodulation device is
+9232.35 kind of like a pharmaceutical
+company for you, right?
+9236.61 That in a given individual,
+9238.5 a TMS device or whatever
+neuromodulation device is able
+9242.01 to generate, you can create
+a stimulation approach
+9246.24 that is specific to a given condition
+9249.477 and specific to an individual.
+9251.88 And so the physical layer
+is just how you exert that,
+9256.02 similarly to how we make
+pharmaceutical drugs
+9258.75 in a pharmaceutical company.
+9260.28 But the actual therapy
+itself is what you do,
+9262.86 where you do it.
+9264.27 And so what we learned from, you know,
+9266.58 another 20, 30 years of this is
+9269.13 that you can modify the
+stimulation protocol in such a way
+9273.3 where you can create a whole new treatment
+9275.64 and put it through the same TMS device
+9277.92 or, thank god, an evolved version of it
+9280.83 where you don't have
+to dunk it in ice baths
+9282.45 and they can actually really handle
+9284.67 much more aggressive
+stimulation approaches.
+9287.55 And so in 2005,
+9289.83 a group published in "Neuron"
+a paper demonstrating
+9292.62 that if you stimulate with
+the hippocampal rhythms
+9297.57 through a TMS coil,
+9299.46 you can excite the brain
+with memory rhythms
+9303.69 and it'll last an hour.
+9305.82 So you can change cortical excitability
+9307.59 in the thumb twitch for an hour,
+9309.21 sending three minutes of excitatory
+9312.37 or 40 seconds in the case
+of inhibitory stimulation
+9315.15 that mimics hippocampal rhythms.
+9317.16 So much more efficient than
+the original TMS approaches.
+9320.97 And so, you know, after
+that group tried to do it
+9323.91 in this kind of six week schedule,
+9326.04 and after that, you know, and
+while they were doing that,
+9329.13 we decided, gosh, you know,
+9330.93 this problem I talked about
+at the beginning of the show
+9332.67 where you have this problem
+that we don't have a treatment
+9336.99 for people who are
+9337.823 in these high acuity psychiatric
+emergency states, right?
+9342.03 This idea that we are going
+to engineer a treatment
+9344.97 where we can reorganize the
+stimulation approach in time
+9349.11 to be much more efficient
+by utilizing something
+9352.53 called space learning theory.
+9354.0 And so you probably know about
+the space learning theory.
+9356.07 So the idea for the viewers is,
+9359.07 it's a simple psychological thing,
+9360.54 but we've also seen it
+in hippocampal slice
+9362.49 sort of physiology too, where
+if I'm cramming for a test,
+9369.0 what I do is I write out 60 note cards
+9371.58 and I read each one for a minute
+9373.17 until I get to the first
+note card and again,
+9374.667 and that's about an hour later, right?
+9376.89 And we just intuitively do this.
+9379.145 We all, you know, automatically do that.
+9382.62 And we intuit that because we
+know that what doesn't work is
+9386.52 writing out one note card
+9387.78 and looking at it over and over again.
+9389.43 Nobody ever does that, right?
+9390.6 You know, we've all been in
+graduate school, medical school,
+9393.717 and we have these big
+stacks of note cards.
+9396.06 That's space learning theory.
+9397.29 It's this idea that you need
+to see it about every hour
+9399.63 to an hour and a half and
+that optimizes learning.
+9402.42 If you take the same stimulation approach
+9405.81 that I'm talking about,
+9406.643 this data burst stimulation approach,
+9407.82 and you take a hippocampal
+slice of a mouse
+9410.4 and you stimulate, you
+enlarge some dendritic spines
+9415.35 and you prime some.
+9417.03 And then if you stimulate
+right after that,
+9419.37 you don't get any change.
+9420.33 It's called in mass stimulation.
+9421.77 But if you wait about an
+hour to an hour and a half,
+9424.86 you get more dendritic spines
+enlarged and more primed.
+9428.37 Which, by the way, also
+is what ketamine does,
+9430.32 it causes a dendritic spine enlargement.
+9433.83 And so, you know, what we
+found was is that the old way
+9437.4 of doing TMS, this idea of
+just doing it once a day,
+9440.28 every day, five days a week for six weeks,
+9443.04 didn't utilize the space learning theory.
+9444.99 It's like studying for a month or two,
+9448.32 just a little bit once a day.
+9449.76 Like you remember some of that stuff,
+9451.26 but it's like not as potent as that week
+9453.18 where you're kind of cramming, right?
+9455.1 And what we realized is
+9456.21 that if we could reorganize
+the stimulation in time
+9459.47 so that we took the whole six week course,
+9461.28 we actually figured out
+a way to do it in a day.
+9464.61 And then what we also figured out is
+9466.14 that people were underdosing TMS
+9468.24 because if you just keep
+going after six weeks
+9470.478 out to month three, four, five,
+9472.74 more and more people got better.
+9474.0 So we figured out it's not just one day,
+9475.8 we're going to give five
+times the normal dose.
+9477.715 We're going to have 7 1/2
+months' worth in five days
+9480.27 using space learning theory.
+9482.43 - So every hour?
+9483.63 - [Nolan] Every hour for 10 hours.
+9485.16 - For five days.
+9485.993 - For five days.
+9486.826 So it's a 50 hour block.
+9487.86 It's 90 minutes of actual stimulation,
+9490.68 but spread out through the day
+in the same way of learning.
+9493.74 Which is perfect for an inpatient
+psychiatric unit, right?
+9496.11 - [Andrew] Five days is manageable.
+9497.34 - Yeah, you can get stimulation.
+9498.9 Nobody's ever dropped out by the schedule.
+9502.457 You know, folks that want
+to do this, want to do it.
+9505.5 So they'll do their nine minutes,
+9506.46 they'll go get breakfast,
+they'll do their nine minutes,
+9508.44 they'll go see their
+therapist or whatever it is.
+9511.11 And so what we found
+with this reorganization
+9514.68 and time of the stimulation dose,
+9518.01 and then the third component is
+9519.54 we do resting state
+functional connectivity scans
+9522.0 on everybody.
+9522.833 And we have ways now in
+the last five to 10 years
+9525.24 of picking out that specific
+subgenual DLPFC subcircuit
+9530.31 that I was talking about
+earlier, that cingulate DLPFC,
+9532.77 we can pick that out in every single one.
+9534.24 If you want to come to the lab,
+9535.2 we can find your DLPFC subgenual.
+9537.9 It's even more robust than non-
+9539.37 - Maybe we could stimulate
+too, just while we're in there.
+9540.93 - Yeah, if you want to,
+9541.763 we can move around your hypnotizability.
+9544.83 And we can find that spot in each person.
+9549.99 Instead of finding the
+same spot on the skull,
+9551.73 we find the same spot on the
+brain, and we can stimulate.
+9554.28 And we do that every hour on the hour.
+9555.54 And what we've found is that folks will,
+9560.46 within one to five days, you
+know, in more cases than not,
+9564.36 and depending upon if you're
+looking at this open label
+9566.46 or in trials, somewhere
+between 60 and 90% of the time,
+9570.42 they will go into full on remission
+9572.61 in the sense they're totally
+normal from a mood standpoint
+9576.27 at the end of this.
+9578.55 And like I said, with variable durability.
+9581.01 So that's the part we
+have to figure out now
+9582.45 about dosing and how to keep people well.
+9584.28 But for some people, you know,
+9585.3 we've had four years of remission,
+9587.01 you know, year of remission.
+9588.69 And it's really that cramming of the test.
+9591.66 It's really that idea that
+you're laying in that information
+9595.47 to the exact right spot.
+9597.45 And the signal is a simple
+signal, but it's a profound one,
+9600.24 which is turn on, stay
+on, remember to stay on.
+9605.88 You know, that idea that you're
+sending this memory signal
+9609.0 into the brain and you're
+doing it in such a way
+9610.8 that you're telling the system,
+9612.66 you're kind of taking it out
+of your own hippocampus' hand
+9616.407 and you're sending the same signal
+9618.06 the hippocampus normally signals out.
+9620.34 Now you're sending that signal
+into the prefrontal cortex
+9624.15 and kind of utilizing the
+brain's own communication style
+9628.95 to get it to get out of the state.
+9631.38 And what's very cool
+about this is that people,
+9635.43 when they kind of exit out of that,
+9637.86 they end up saying they don't
+have any side effects from it.
+9643.71 And they feel back to normal.
+9646.08 Like some people, you know,
+9647.28 not everybody, but there's
+a subsection of people
+9648.783 that with SSRIs where they'll
+say, I kind of feel numb,
+9652.71 or I have GI side effects,
+or I can't, you know,
+9655.65 I don't have the sexual
+interest that I used to have
+9657.51 and that sort of thing.
+9658.95 You know, not anything against SSRIs,
+9660.96 as I said earlier, life saving, you know,
+9662.7 for a subsection of people,
+these things really work.
+9665.22 But with this, what you see is
+9667.29 that people don't talk
+about any of that stuff.
+9669.93 And I think it's likely
+9671.7 because you're tapping
+into that core circuitry
+9674.85 and you're reversing it and
+you're doing it with a magnet
+9678.09 that, because it's a very
+profound electromagnet,
+9681.36 it's the same field
+strength as an MRI scanner,
+9684.0 it's able to induce a current in the brain
+9686.91 in this focal targeted way
+9689.64 without getting into
+the rest of the brain,
+9691.14 without getting into the
+rest of the body at all.
+9692.91 And just really kind of
+acting only on that circuitry
+9696.06 that's involved.
+9697.5 - Incredible.
+9698.46 Is the SAINT study still ongoing?
+9700.5 And if people are interested
+in potentially being patients
+9705.51 or subjects in the study, can
+we provide them a portal link?
+9709.02 - Absolutely, yeah.
+9709.853 So we have, now the treatment,
+some of my students went over
+9714.38 to a company called Magnus Medical,
+9716.36 and they've been working on this,
+9717.84 they've got an FDA clearance now.
+9719.88 And now folks can get it through trials
+9724.95 over the next couple of years
+9726.39 because it's going to take
+some time for that company
+9728.28 to kind of get up and
+running and get a device
+9733.23 and get the whole thing set up nationally.
+9735.69 But while that's all going on,
+9738.03 there's still about 1,000
+patients that need to be recruited
+9740.94 across a bunch of different
+trials all over the country.
+9743.67 We'll take people from
+anywhere in the country.
+9745.56 We also have partners in
+New York and San Diego
+9748.59 and in soon to be South
+Carolina and other places
+9752.76 where we can actually kind of, you know,
+9754.56 my lab can help to kind of
+let people know where to go,
+9758.22 based off of where they're at in the US,
+9760.38 and get them access to
+being able to be in a trial.
+9762.66 And what we've tried to do is make it
+9764.64 so that even if you get
+the, you know, 50 50 chance,
+9767.82 you're going to get the real deal
+9768.99 or you're going to get the non-real deal.
+9771.51 But what we have figured out is a way
+9773.94 to let everyone have access.
+9776.67 If they got the not real deal version,
+9780.06 the kind of sham version
+or the fake version,
+9782.31 for the first part of the trial,
+9784.29 there are other trials
+where they can have access
+9786.66 to the real version.
+9787.56 So essentially everybody
+eventually gets access
+9791.22 to having the real version.
+9792.9 And so that's been a big thing for me is
+9794.94 I want everybody that comes
+through one of our trials
+9797.85 to be able to have access.
+9799.05 I think it's important.
+9800.779 While the company's
+doing what they're doing
+9803.34 and what the lab's doing,
+9804.39 and kind of nationally what
+other partner labs are doing.
+9808.23 - Well, I can assure you, you're
+going to get some interest.
+9811.23 - [Nolan] Happy to have it, yeah.
+9812.063 - Thank you.
+9812.97 And listen,
+9814.62 thank you so much for taking
+us on this incredible voyage
+9820.14 through the neurocircuitry
+underlying certain aspects
+9823.65 of depression,
+9824.483 the coverage of the different
+types of depression,
+9826.26 the various therapeutic
+compounds, how they work.
+9829.08 We've talked about a lot of things today.
+9831.42 You've shared so much knowledge,
+and even as I say that,
+9834.39 I very much want to have you back
+9836.64 to talk about many other things as well
+9838.65 that we didn't have time to cover,
+9839.85 but also just really want to thank you
+9841.92 for the work that you do.
+9843.6 I know we are colleagues,
+9844.62 but you run an enormous
+laboratory, enormous in my book.
+9848.19 40 people is a big group, very big group.
+9851.61 Plus you're in the clinic,
+9852.9 you also have a life of
+your own outside of work.
+9856.44 And to take the time to sit down with us
+9858.27 and share all this knowledge
+that really is in service
+9860.94 to mental health and human feeling better
+9865.35 and in fact avoiding
+often suicidal depression.
+9868.11 It's just incredible work
+and incredible generosity.
+9870.93 And just thank you so much.
+9872.67 - Oh, thank you, man.
+9873.503 I mean, you know, similarly
+I want to thank you
+9876.24 for what you're doing.
+9877.073 I mean, I think that what you, you know,
+9879.32 I've got a lot of friends,
+9880.32 folks that are not in
+the medical profession,
+9882.24 friends of mine, you know,
+9883.77 one of my buddies who's
+a real estate agent
+9885.6 who works with us, who's a
+big, big fan of your show.
+9888.69 And you know, I told a
+couple people like that
+9890.55 I was coming on and they
+were like super stoked.
+9894.9 They're like, you know,
+we watch every show
+9897.66 and, you know, super
+excited to watch mine.
+9902.01 And they said something very
+important to me that, you know,
+9905.22 you make this complicated neuroscience
+9908.97 and kind of brain-body
+science accessible, you know,
+9913.77 in a way that few have a gift to do.
+9917.28 And I think that that's so important
+9920.49 and this show is doing so much
+9922.32 to help with science literacy.
+9924.72 And yeah, appreciate you, so...
+9927.66 - Well, thank you.
+9928.77 I'm gratified and
+honored by your statement
+9931.62 and I look forward to more.
+9934.35 Thank you.
+9935.183 - Absolutely, thank you.
+9936.016 - Thank you for joining me today
+9936.849 for my discussion with Dr. Nolan Williams.
+9939.09 I hope you found our discussion
+9940.32 about psychedelics and other compounds,
+9942.57 about transcranial magnetic stimulation,
+9945.42 and about the treatments
+for depression in general,
+9948.06 to be as stimulating as I did.
+9950.31 If you'd like to learn more
+about the work being done
+9952.02 in Dr. Williams' laboratory,
+9953.82 you can go to the Brain
+Stimulation Laboratory website,
+9956.34 which is bsl.stanford.edu.
+9959.64 And there you have the
+opportunity to apply
+9961.71 to be in one of the clinical
+trials for depression
+9964.14 or other studies,
+9965.46 as well, if you like, to
+support the work being done
+9968.01 in Dr. Williams' laboratory
+for the treatment of depression
+9970.41 and other psychiatric disorders.
+9972.24 If you're learning from
+9973.073 and or enjoying the Huberman Lab Podcast,
+9975.03 please subscribe to our YouTube channel.
+9976.74 That's a terrific zero
+cost way to support us.
+9979.35 In addition, please subscribe
+to the Huberman Lab Podcast
+9982.2 on Spotify and Apple.
+9983.82 And on both Spotify and Apple,
+9985.29 you also have the opportunity
+9986.76 to leave us up to a five star review.
+9988.83 If you have questions for us
+9989.79 or comments about the
+information we've covered
+9991.89 or suggestions about future guests,
+9993.96 please put those in the
+comment section on YouTube.
+9996.33 We do read all the comments.
+9998.19 Please also check out
+the sponsors mentioned
+9999.75 at the beginning of today's episode.
+10001.37 That's the best way to support
+the Huberman Lab Podcast.
+10004.25 Not so much today,
+10005.083 but in many previous episodes
+of the Huberman Lab Podcast,
+10007.52 we talk about supplements.
+10008.81 While supplements aren't
+necessary for everybody,
+10011.0 many people derive
+tremendous benefit from them
+10013.04 for things like enhancing sleep and focus
+10015.02 and hormone optimization.
+10016.67 The Huberman Lab Podcast has partnered
+10018.14 with Momentous supplements.
+10019.34 If you'd like to see the supplements
+10020.173 that the Huberman Lab
+Podcast has partnered
+10021.89 with Momentous on, you
+can go to livemomentous,
+10024.32 spelled O-U-S, so
+livemomentous.com/huberman.
+10027.8 And there you'll see a
+number of the supplements
+10029.78 that we talk about
+regularly on the podcast.
+10031.73 I should just mention that
+that catalog of supplements is
+10033.8 constantly being updated.
+10035.27 As mentioned at the
+beginning of today's episode,
+10037.1 the Huberman Lab Podcast has
+now launched a premium channel.
+10040.16 That premium channel
+will feature monthly AMAs
+10042.68 or ask me anythings where I
+answer your questions in depth,
+10045.59 as well as other premium resources.
+10047.54 If you'd like to subscribe
+to the premium channel,
+10049.37 you can simply go to
+hubermanlab.com/premium.
+10052.97 I should mention that the proceeds
+10054.41 from the premium channel go
+10055.73 to support the standard
+Huberman Lab Podcast,
+10057.77 which will continue to be
+released every Monday per usual,
+10061.07 as well as supporting
+various research projects
+10063.98 done on humans to create
+the sorts of tools
+10066.35 for mental health, physical
+health, and performance
+10068.18 that you hear about on
+the Huberman Lab Podcast.
+10070.46 Again, it's hubermanlab.com/premium
+to subscribe.
+10073.58 It's $10 a month or $100 per year.
+10076.67 If you haven't already subscribed
+10077.87 to our zero cost newsletter,
+10079.55 we have what is called the
+Neural Network Newsletter.
+10082.16 You can subscribe by
+going to hubermanlab.com,
+10084.59 go to the menu, and click on newsletter.
+10086.42 Those newsletters include
+summaries of podcast episodes,
+10089.18 lists of tools from the
+Huberman Lab Podcast.
+10091.73 And if you'd like
+10092.6 to see previous
+newsletters we've released,
+10094.55 you can also just go to hubermanlab.com,
+10096.23 click on newsletter in the menu,
+10097.58 and you'll see various downloadable PDFs.
+10099.83 If you want to sign up for the newsletter,
+10101.48 we just ask for your email.
+10102.62 We do not share your email with anybody.
+10104.51 And again, it's completely zero cost.
+10106.82 If you're not already
+following me on social media,
+10108.8 it's Huberman Lab, on
+Twitter, on Facebook,
+10111.11 and on Instagram.
+10112.25 And at all three of those places,
+10113.99 I cover topics and subject matter
+10116.48 that are sometimes overlapping
+with the information covered
+10119.12 on the Huberman Lab Podcast,
+10120.32 but that's often distinct from information
+10122.36 on the Huberman Lab Podcast.
+10123.74 Again, it's Huberman Lab on
+all social media channels.
+10126.65 And last but certainly not least,
+10128.72 thank you for your interest in science.
+10130.622 [upbeat music]

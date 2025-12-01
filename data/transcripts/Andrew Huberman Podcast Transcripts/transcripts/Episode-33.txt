@@ -1,0 +1,3782 @@
+0.0 [light rock music]
+0.833 - Welcome to the Huberman Lab Podcast,
+2.28 where we discuss science
+3.477 and science based tools for everyday life.
+9.3 I'm Andrew Huberman,
+10.35 and I'm a professor of neurobiology
+11.94 and ophthalmology at
+Stanford School of Medicine.
+15.03 Today my guest is Dr. Charles Zuker.
+17.61 Dr. Zuker is a professor of biochemistry
+19.77 and molecular biophysics
+and of neuroscience
+22.38 at Columbia University School of Medicine.
+25.2 Dr. Zuker is one of the world's
+26.58 leading experts in perception.
+28.92 That is how the nervous system
+converts physical stimuli
+31.95 in the world into events within
+34.29 the nervous system that we come
+35.76 to understand as our sense of smell,
+38.4 our sense of taste,
+39.51 our sense of vision, our sense of touch,
+41.64 and our sense of hearing.
+43.11 Dr. Zuker's lab
+44.04 is responsible for a tremendous amount
+45.81 of pioneering and groundbreaking work
+48.0 in the area of perception,
+50.1 for a long time his
+laboratory worked on vision,
+52.17 defining the very receptors
+that allow for the conversion
+55.32 of light into signals that the rest
+58.183 of the eye and the brain can understand.
+59.67 In recent years,
+61.171 his laboratory is focused mainly
+on the perception of taste.
+63.57 And indeed his laboratory is
+responsible for discovering
+66.39 many of the taste receptors leading
+68.49 to our perception of
+things like sweetness,
+71.07 sourness, bitterness,
+saltiness, and umami.
+74.46 That is savoriness in food.
+76.71 Dr. Zuker's laboratory is also responsible
+78.69 for doing groundbreaking
+work on the sense of thirst.
+81.66 That is how the nervous
+system determines whether
+84.15 or not we should ingest more fluid
+86.16 or reject fluids that are offered to us.
+88.95 A key feature of the work
+from Dr. Zuker's laboratory
+91.65 is that it bridges the brain and body.
+94.17 As you'll soon learn
+from today's discussion.
+96.33 His laboratory has discovered
+a unique set of sugar sensing
+100.14 neurons that exist not
+just within the brain,
+102.69 but a separate set of neurons.
+103.89 That sense sweetness and
+sugar within the body.
+106.92 And that much of the
+communication between the brain
+109.17 and body leading to our seeking of sugar
+111.84 is below our conscious detection.
+113.88 Dr. Zuker has received a large
+number of prestigious awards
+116.58 and appointments as a consequence
+117.87 of his discoveries in neuroscience.
+119.97 He is a member of the
+National Academy of Sciences,
+122.25 the National Academy of Medicine,
+123.63 and the American Association
+for the Advancement of Science.
+126.33 He is also an investigator
+127.65 with the Howard Hughes Medical Institute.
+129.87 For those of you that are not familiar
+131.34 with the so-called HHMI,
+132.84 the Howard Hughes Medical Institute,
+134.43 Howard Hughes Medical Institute
+135.48 investigators are selected
+137.07 on an extremely competitive basis.
+139.41 And indeed they have to
+come back every five years
+142.11 and prove themselves worthy
+143.97 of being reappointed as
+Howard Hughes investigators,
+147.39 Dr. Zuker has been a Howard
+Hughes investigator since 1989.
+152.01 What all that means for you as a viewer
+153.54 and or listener of today's podcast,
+155.61 is that you are about to
+learn about the nervous system
+158.34 and its ability to create
+perceptions in particular,
+160.95 the perception of taste and sugar sensing
+163.32 from the world's expert
+on perception and taste.
+167.04 I'm certain that by the
+end of today's podcast,
+169.59 you're not just going to
+come away with a deeper
+171.15 understanding of our perceptions
+172.71 and our perception of taste in particular.
+174.9 But indeed you will come
+away with an understanding
+177.33 of how we create internal representations
+180.06 of the entire world
+around us and in doing so,
+183.51 how we come to understand
+our life experience.
+186.24 I'm pleased to announce that
+the Huberman Lab Podcast
+188.1 is now partnered with
+Momentous Supplements.
+190.41 We often talk about supplements
+on the Huberman Lab Podcast
+192.9 and while supplements aren't
+necessary for everybody,
+195.12 many people derive
+tremendous benefit from them.
+197.25 For things like enhancing
+the quality and speed
+200.04 with which you get into sleep
+201.6 or for enhancing focus
+or for hormone support.
+204.6 The reason we partnered
+205.44 with Momentous Supplements
+is several fold.
+207.21 First of all, their supplements are
+208.13 of the absolute highest quality.
+210.0 Second of all, they ship internationally,
+212.25 which is important because many
+213.69 of our podcast listeners
+reside outside the US.
+216.36 Third, many of the supplements
+218.04 that Momentous makes and most all
+219.95 of the supplements that we partnered
+221.37 with them directly on are
+single ingredient formulations.
+224.7 This is important for a number of reasons.
+226.2 First of all, if you're going to create
+227.52 a supplement protocol that's
+customized for your needs,
+230.31 you want to be able to figure
+out which supplement ingredients
+232.68 are most essential and only
+use those and supplements
+235.5 that combine lots of ingredients simply
+236.94 won't allow you to do that.
+238.5 So in trying to put together
+239.82 a supplement protocol for yourself,
+241.56 that's the most biologically effective
+243.36 and cost effective single
+ingredient formulations
+246.03 are going to be the most useful.
+247.41 If you'd like to see the
+supplements that we partner
+249.12 with Momentous on, you can go
+250.68 to livemomentous.com/huberman,
+253.846 and there you'll see
+many of the supplements
+255.42 that we've talked repeatedly about
+256.86 on the Huberman Lab Podcast episodes.
+259.08 I should mention that the
+catalog of supplements
+261.57 that are available at
+livemomentous.com/Huberman
+264.18 is constantly being expanded.
+265.98 So you can check back there,
+267.24 livemomentous.com/huberman to see
+269.91 what's currently available.
+271.08 And from time to time,
+272.28 you'll notice new supplements
+being added to the inventory.
+274.86 Before we begin, I'd like to emphasize
+276.54 that this podcast is separate
+277.86 from my teaching and
+research roles at Stanford.
+280.14 It is however, part of my desire
+281.73 and effort to bring zero cost to consumer
+283.53 information about science
+and science related tools
+285.93 to the general public in
+keeping with that theme,
+288.3 I'd like to thank the
+sponsors of today's podcast.
+291.03 Our first sponsor is Thesis.
+293.01 Thesis makes custom nootropics
+295.26 and for frequent
+listeners of this podcast,
+297.72 you may remember that I'm
+not a big fan of the word
+299.79 nootropics because the word nootropics
+302.13 means smart drugs or smart compound.
+305.1 And the reason I don't like
+that phrase is that the brain
+307.77 has many different circuits
+that it uses in order
+310.11 to perform things like focus
+312.36 or task switching or creativity.
+315.0 So the idea that there's a
+single thing that we would call
+317.64 a smart drug is simply not
+in concert with the biology.
+322.02 Well, Thesis understands this,
+323.55 and as a consequence has
+developed custom nootropic
+326.37 formulations that are
+tailored to your unique needs.
+329.52 So for instance,
+330.63 Thesis will allow you to
+try different blends over
+332.94 the course of a month and determine
+334.53 which blends of specific
+ingredients work best
+336.93 for you to focus or for
+you to gain motivation
+340.05 and energy for workouts or
+341.7 for cognitive work of some sort.
+343.29 I've been using Thesis custom nootropics
+344.91 for well over six months now.
+346.71 And they completely transform
+the way that I do cognitive
+349.26 work and indeed the way
+that I do physical fitness,
+352.68 if you want to try your
+353.64 own personalized nootropic starter kit,
+355.26 you can go online to
+takethesis.com/huberman.
+358.56 There you'll just do a brief
+359.73 three minute quiz and Thesis will
+361.44 send you four different formulas
+to try in your first month.
+364.26 That's takethesis.com/huberman
+366.39 and use the code Huberman at checkout
+367.781 to get 10% off your first box.
+370.17 Today's episode is also
+brought to us by ROKA.
+372.303 ROKA makes eyeglasses and sunglasses
+374.148 that are the absolute highest quality.
+376.44 The company was founded by two
+377.46 all American swimmers from Stanford
+379.02 and everything about ROKA
+eyeglasses and sunglasses
+381.54 were designed with performance
+383.16 in mind and with the biology
+of the visual system in mind,
+386.25 I spent my lifetime working
+on the visual system,
+387.99 and I can tell you that your
+visual system has to contend
+390.18 with a number of very
+important challenges in order
+392.58 to be able to see the
+world around you clearly,
+394.65 things like adjusting for
+background illumination so that
+396.96 when you go from a sunny
+area to a shady area,
+398.88 you can see what's in front
+399.84 of you still with crystal clarity.
+401.76 ROKA takes all of that into account
+403.47 when designing their
+eyeglasses and sunglasses,
+405.9 their eyeglasses and sunglasses
+407.1 also have some unique
+qualities for instance,
+409.44 because they were initially designed
+411.0 for performance with things
+like running and cycling.
+413.73 If you get sweaty, they
+won't fall off your face.
+415.77 Also they're extremely lightweight.
+417.42 In fact, most of the time,
+418.253 I don't even remember
+that I'm wearing them.
+420.09 I wear ROKA eyeglasses at night.
+422.16 So I wear readers and
+I wear sunglasses often
+424.5 during the day, if it's very
+bright or if I'm driving,
+426.96 if you'd like to try ROKA
+eyeglasses and sunglasses,
+429.12 you can go to ROKA
+that's roka.com and enter
+432.03 the code Huberman to save
+20% off your first order.
+435.18 Today's episode is also
+brought to us by Helix Sleep.
+437.67 Helix Sleep makes mattresses and pillows
+439.41 that are uniquely tailored
+to your sleep needs.
+442.08 I've talked repeatedly
+about the fact that sleep
+444.39 is the foundation of mental health,
+445.77 physical health, and performance.
+447.42 So getting adequate deep
+sleep is absolutely essential.
+450.63 Now, one of the key things to getting
+451.77 a great night's sleep is to make sure
+452.94 that the surface that you're sleeping on
+454.65 is the right one for you.
+456.03 Helix understands this,
+457.29 and they've created a sleep quiz.
+459.39 That is you go to their
+website and you fill out
+461.88 a brief quiz that asks questions
+463.56 like you sleep on your side,
+your back, your stomach.
+465.63 Do you tend to run hotter
+cold during the night?
+467.16 Maybe you don't know the answers.
+468.15 In which case you simply
+say you don't know,
+470.4 by taking that quiz,
+471.36 they will match you to a mattress
+473.31 that is ideal for your sleep needs.
+475.62 I took that quiz and I
+matched to the so-called Dusk,
+477.9 D-U-S-K mattress.
+479.19 And I've been sleeping on that
+mattress for some time now,
+481.26 and it's the best sleep
+that I've ever had.
+483.0 So if you're interested in
+upgrading your mattress to one,
+484.92 that's uniquely tailored
+to your sleep needs,
+487.02 you can go to helixsleep.com/huberman,
+488.956 take their two minute sleep quiz,
+490.68 and they'll match you to
+a customized mattress.
+492.39 And you'll get up to $200
+off any mattress order
+495.3 and two free pillows.
+496.68 They have a 10 year warranty
+and you get to try out
+498.63 that mattress for a
+hundred nights, risk free.
+500.76 They'll even pick it up for
+you if you don't love it,
+502.59 but I do believe
+503.423 that you will love it because you'll be
+504.57 sleeping far better than you have before.
+506.52 Again, if you're interested,
+507.72 you can go to helixsleep.com/huberman
+to get up to $200 off
+511.8 and two free pillows.
+513.0 And now for my discussion
+with Dr. Charles Zuker,
+516.18 Charles, thank you so
+much for joining me today.
+518.607 - My pleasure.
+520.11 - I want to ask you
+about many things related
+522.45 to taste and gustatory perception,
+525.72 but maybe to start off
+and because you've worked
+528.27 on a number of different
+topics in neuroscience,
+530.28 not just taste,
+532.56 how do you think about perception,
+534.81 or rather, I should say,
+535.95 how should the world and
+people think about perception,
+540.3 how it's different from
+sensation and what leads
+544.32 to our experience of
+life in terms of vision,
+547.56 hearing, taste, et cetera?
+549.48 - So the brain is an extra ordinary organ
+557.708 that weights maybe 2% of your body mass.
+561.567 Yet it consumes anywhere between 25
+565.387 to 30% of all of your energy and oxygen.
+572.822 And it gets transformed into a mind
+577.17 and this mind changes the human condition.
+580.765 It make, it changes, it
+transforms fear into courage,
+589.02 conformity into creativity,
+sadness into happiness.
+594.81 How the hell does that happen?
+599.04 Now, the challenge that the brain faces
+602.64 is that the world is made of real things.
+605.94 You know, this here is a glass,
+609.0 and this is a cord and
+this is a microphone,
+612.12 but the brain is only made of neurons
+614.88 that only understand electrical signals.
+618.63 So how do you transform
+that reality into nothing
+624.45 that electrical signals that now need
+627.45 to represent the world?
+632.286 And that process
+634.32 is what we can operationally
+define as perception,
+639.42 in the senses, let's say olfactory,
+643.38 other taste, vision we
+can very straightforwardly
+649.293 separate detection from perception,
+652.41 detection is what happens when
+you take a sugar molecule,
+655.53 you put it in your tongue and
+then a set of specific cells
+660.36 now sense that sugar
+molecule that's detection,
+664.95 you haven't perceived anything yet.
+666.99 That is just your cells in your tongue,
+670.271 interacting with this chemical.
+671.88 But now that cell gets
+activated and sends a signal
+674.81 to the brain and now detection
+677.25 gets transformed into perception.
+681.6 And he's trying to
+understand how that happens.
+685.08 That's been the maniacal drive,
+691.89 of my entire career in neuroscience.
+694.861 How does the brain ultimately
+transform detection
+698.7 into perception so that it can
+guide actions and behaviors?
+704.31 Does that make sense?
+705.51 - Absolutely.
+706.56 And is a very clear and
+beautiful description,
+710.31 a sort of high level
+question related to that.
+712.5 And then I think we can get
+713.88 into some of the intermediate steps.
+717.081 I think many people would
+like to know whether
+720.206 or not my perception of the color
+721.68 of your shirt is the
+same as your perception
+724.62 of the color of your shirt.
+726.472 - Excellent question.
+727.675 Am I okay to interrupt you
+729.472 as I'm guessing what you're going?
+731.988 - Interruption is welcome on this podcast.
+734.04 The audience will always penalize me
+736.26 for interrupting you,
+738.078 and will never penalize
+you for interrupting me.
+739.47 - Good, I like the one way penalize.
+744.302 Now, given what I told you before
+748.96 that the brain is trying to represent
+750.84 the world based in nothing
+753.425 but the transformation of
+these signals into electrical
+759.42 languages that now neurons
+had to encode and decode.
+763.8 It follows that your brain
+is different than my brain.
+768.0 And therefore it follows that
+769.89 the way that you are perceiving
+the world must be different
+773.43 than mine, even when receiving
+the same sensory cues.
+778.17 And I'll tell you about an experiment
+779.523 is a simple experiment yet brilliant.
+782.73 That demonstrates why
+we perceive the world,
+786.18 how we perceive the world different.
+790.461 So in the world of vision, as you know,
+794.85 well now we have three classes
+of photo receptor neurons
+799.35 that sense three basic
+colors, red, blue, and green.
+807.42 Blue, green, and red
+809.346 if we go from short to long wavelength
+812.273 and these three are
+sufficient to accommodate
+814.68 the full visible spectra,
+817.53 I'm going to take three light projectors,
+821.432 and I'm going to project
+with one into a wide screen,
+824.55 a red light, and the
+other one green light,
+827.97 I'm going to overlap the two beams.
+830.01 And on the screen, there's be yellow.
+833.22 This is the superposition
+834.84 when you have two beams of red and green,
+838.98 and then I'm going to
+take a third projector
+841.71 and I'm going to put a filter
+843.21 that projects right
+next to that mixed beam,
+846.96 a spectral pure yellow.
+851.28 And I'm going to ask you to
+come to the red and green
+856.451 projectors and play with intensity knobs
+860.28 so that you can match that yellow
+862.62 that you're projecting to the
+spectrally pure next to it.
+867.21 Is this making sense?
+868.35 - Perfect sense.
+869.891 - And I'm going to write down the numbers
+871.32 in those two volume
+873.27 intensity knobs and then I'm going to ask
+878.481 the next person to do the same.
+879.84 And then I'm going to
+ask every person around
+882.48 this area of Battery Park
+in New York to do the same,
+886.89 and guess what, we're going to end up
+889.86 with thousands of different
+number combinations.
+893.19 - Amazing.
+894.3 - So for all of us,
+895.59 is yellow enough that we
+can use a common language,
+901.08 but for every one of us,
+902.82 that yellow is going to be
+ever so slightly differently.
+908.25 And so I think that simple
+psychological experiment
+911.46 beautifully illustrates
+912.69 how we truly perceive
+the world differently.
+916.92 - I love that example.
+918.06 And yet, in that example,
+919.95 we know the basic elements
+from which color is created.
+924.03 If we migrate into a
+slightly different sense,
+927.18 let me pick a hard one, like-
+930.06 - Sound.
+- Sound, olfaction.
+932.593 - Very hard then to do an experiment
+936.001 that will allow us to get that degree
+939.45 of granularity and beautiful causality,
+944.16 where we can show that A
+produces and leads to B.
+949.62 If I give you the smell of a rose,
+951.27 you can describe it to me.
+954.3 If I smell the same rose,
+I can describe it also,
+958.08 but I have no way whether
+959.97 the two of us are experiencing the same,
+963.09 but it's close enough that
+we can both pretty much say
+968.46 that it has the following enough features
+972.653 or other determinants,
+974.79 but no question that your
+experience is different than mine.
+981.806 - The fact that it's good
+enough for us to both survive
+985.38 that your perception of yellow
+986.61 and my perception of yellow at least up
+988.56 until now is good enough
+for us both to survive.
+990.96 - You got it.
+992.1 - Raises a thought
+993.3 about a statement made by a colleague
+996.09 of ours, Marcus Meister at Caltech.
+999.48 It's never been on this podcast,
+1000.8 but in a review that I read
+by Marcus, at one point,
+1005.51 he said that the basic
+function of perception
+1008.36 is to divide our behavioral responses
+1011.0 into the outcomes downstream
+1015.41 of three basic emotional responses.
+1018.95 Yum.
+1020.06 I like it.
+1021.41 Yuck.
+1022.43 I hate it.
+1023.45 Or meh, whatever.
+1026.48 What do you think about,
+1027.41 I'm not looking to establish a debate
+1029.33 between you and Marcus,
+without Marcus here.
+1031.07 - I understand that.
+1032.798 - But what I like about
+that is that it seems like
+1036.23 we know the brain is a very
+economical organ in some sense,
+1040.25 despite its high metabolic
+demands and this variation
+1045.05 in perception from one
+individual to the next, at once,
+1048.38 seems like a problem because
+1050.21 we're all literally
+seeing different things.
+1052.82 And yet we function,
+1054.86 we function well enough for
+most of us to avoid death
+1058.7 and cliffs and eating poisons and so forth
+1062.6 and to enjoy some aspects
+of life one hopes.
+1065.63 So is there a general statement
+that we can about the brain,
+1069.77 not just as a organ to
+generate perception,
+1072.68 not just as an organ to keep us alive,
+1074.96 but also an organ that is trying to batch
+1078.77 our behaviors into general
+categories of outcome?
+1081.62 - I think so, but, and again,
+1083.75 I think the world of Marcus too,
+1086.9 and I think he's right
+that broadly speaking,
+1092.78 you could categorize a
+lot of behaviors falling
+1096.321 into those two categories
+1097.154 and that's 100% likely
+1100.01 to be the case for
+animals in the wild where
+1105.32 the choices are not necessarily binary,
+1111.136 but they're very unique and distinct.
+1114.635 Do I want to eat this?
+1117.38 Do I want to kill that?
+1120.05 Do I want to go there?
+1121.22 Or do I want to go here?
+1124.91 We humans deviated from
+that world long ago.
+1131.54 And learned to experience life
+1137.81 where we do things that
+we should not be doing.
+1140.96 - Some of us more than others.
+1142.34 - Exactly.
+1144.07 You know, in my own world of taste,
+1149.587 the likelihood that an animal
+1151.61 in the wild will enjoy
+eating something bitter
+1158.622 it's inconceivable, yet
+we love tonic water.
+1165.71 We enjoy, we like living on the edge.
+1169.52 We love enjoying experiences
+1174.74 that makes us human.
+1180.83 And that goes beyond that
+simple set of categories,
+1187.307 which is yummy, yukky, ah, who cares.
+1191.93 And so I think it's not a bad palette,
+1194.21 but I think it's overly reductionist
+1199.91 for certainly what we humans do.
+1204.35 - I agree.
+1205.956 And since we're here in New York,
+1206.789 I can say that the many options,
+1210.322 the extensive variety of food,
+1212.45 flora and fauna in New York explains
+1215.9 a lot of the more nuanced
+behaviors that we observe.
+1219.92 Let's talk about taste because although
+1223.55 you've done extensive work
+in the field of vision,
+1225.83 and it's a topic that
+I love you could spend
+1229.31 all day on taste is fascinating.
+1232.46 First of all, I'd like to know
+1233.6 why you migrated from studying
+vision to studying taste.
+1238.19 And perhaps in that description,
+1239.54 you could highlight to us
+why we should think about
+1242.3 and how we should think
+about this sense of taste.
+1246.35 - My goal has been to understand,
+1248.27 as I highlighted before how
+the brain does its magic,
+1252.2 you know what part you
+might wonder, ideally,
+1255.2 I like to help contribute
+to understand all of it.
+1260.24 You know how do you encode
+and decode emotions?
+1264.62 How do you encode and
+decode memories and actions?
+1268.85 How do you make decisions?
+1270.89 How do you transform
+detection into perception?
+1274.64 And the list goes on and on.
+1277.954 But one of the key things
+in science, as you know,
+1284.03 is ensuring that you always
+ask the right question
+1287.33 so that you have a
+possibility of answering it.
+1293.0 Because if the question
+cannot be tractable or reduced
+1296.24 to an experimental path
+that helps you resolve it,
+1300.47 then we end up doing
+some really fun science,
+1303.62 but not necessarily answering
+1305.57 the important problem
+that we want to study.
+1309.77 Make sense?
+1311.048 - From a first person perspective, yes.
+1314.36 The hardest question,
+1316.527 the most important question
+is what are you going
+1319.13 to try and answer.
+1319.963 - You got it.
+1321.47 And so for example
+1322.43 I will have to understand
+the neural basis of empathy.
+1329.21 - [Andrew] There's a big market for that.
+1330.89 - 100%, but I wouldn't even know.
+1333.734 I mean, at the molecular
+level, that's what we do.
+1336.58 How do the circuits in your
+brain create that sense?
+1340.61 I have no clue how to do it.
+1343.43 I can come up with ways to think about it,
+1345.23 but I like to understand what
+1347.96 in your brain makes someone
+a great philanthropist.
+1353.12 What is the neural basis of love?
+1357.11 I wouldn't even know where to begin.
+1360.38 So if I want to begin to study
+1362.09 these questions about brain function,
+1364.97 that can cover so many
+aspects of the brain,
+1368.81 I need to choose a problem
+that affords me that window.
+1373.94 But in a way that I can ask questions
+1375.74 that get me answers and among the senses
+1380.21 that have the capacity
+1384.016 of transforming detection into perception
+1387.216 of being stored as memories
+or creating emotions,
+1391.04 of giving you different
+actions and perceptions
+1395.84 as a function of the internal state.
+1398.36 You know, when you're hungry,
+1399.23 things taste very differently
+that when you're sated,
+1402.71 how, why?
+1405.113 When you taste something,
+1406.1 you now remember this amazing meal
+1408.32 you had with your first
+date, how does that happen?
+1413.18 So if I want to begin to
+explore all of these things
+1416.72 that the brain does,
+1419.12 I felt I have to choose a
+sensory system that affords
+1425.135 some degree of simplicity in the way
+1430.595 that the input output
+relationships are put together.
+1434.99 And in a way that still can
+be used to ask every one
+1438.05 of these problems that the brain
+1440.03 has to ultimately compute,
+encode and decode.
+1444.564 And what's remarkable
+1447.23 about the taste system at the time
+1448.763 that I began working on this
+1452.54 is that nothing was known
+1454.968 about the molecular basis of taste.
+1458.69 You know, we knew that we could taste
+1460.61 what has been usually defined as
+1463.46 the five basic taste
+qualities, sweet, sour,
+1467.99 bitter, salty, and umami,
+1471.74 umami is a Japanese word
+1473.3 that means yummy, delicious.
+1477.037 And that's nearly every animal species,
+1479.84 the taste of amino acids.
+1482.18 And in humans, it's mostly
+associated with the taste of MSG,
+1487.19 monosodium glutamate, one
+amino acid in particular.
+1490.85 - What are just by way of example,
+1492.65 some foods that are rich in
+the umami evoking stimulation?
+1497.6 - Seaweed, tomatoes, cheese,
+eh, and it's a great,
+1503.51 great flavor enhancer.
+1506.48 It enriches our sensory experience.
+1510.05 And so the beautiful thing of the system
+1511.723 is that the lines of
+input are limited to five.
+1517.97 You know, sweet, sour,
+bitter, salt and umami,
+1520.157 and each of them has a
+predetermined meaning,
+1524.63 you are born liking sugar
+and disliking bitter.
+1529.49 You have no choice.
+1531.53 These are hard wire systems,
+1535.01 but of course you can
+learn to dislike sugar
+1539.21 and to like bitters, but in the while,
+1543.83 let's take humans out of the question,
+1546.71 these are a hundred percent predetermined.
+1550.55 You are born with that specific
+valance value for each taste
+1557.45 of sweet, umami and low salt
+are attractive taste qualities.
+1565.34 They evoke appetitive responses,
+I want to consume them.
+1570.32 And bitter and sour are innately,
+1574.88 predetermined to be aversive.
+1578.09 - Could I interrupt you just briefly
+1579.5 and ask a question about that exact point
+1583.405 for something to be appetitive to and some
+1587.591 other taste to be aversive
+and for those to be hardwired,
+1590.57 can we assume that the
+sensation of very bitter
+1595.34 or of activation of bitter receptors
+1597.17 in the mouth activates a neural circuit
+1600.77 that causes closing of the mouth,
+1603.35 retraction of the tongue
+and retraction of the body
+1606.5 and that the taste of something sweet
+1608.24 might actually induce more licking?
+1610.94 - 100%, you got it,
+1613.31 the activation of the
+receptors in the tongue
+1616.85 that recognize sweet versus the ones
+1619.43 that recognize bitter activate
+1622.04 an entire behavioral program.
+1625.31 And that program that we
+can refer as appetitiveness
+1630.35 or aversion it's composed of
+many different subroutines,
+1636.5 in the case of bitter is very
+easy to actually look at,
+1640.82 see them happening in animals.
+1642.98 Because the first thing
+you do is you stop licking.
+1645.71 Then you put unhappy face,
+1648.95 then you squint your eyes
+and then you start gagging.
+1653.84 And that entire thing
+happens by the activation
+1658.411 of a bitter molecule
+1659.779 in a bitter sensing cell in your tongue.
+1661.16 - It's incredible.
+- It's again,
+1663.198 the magic of the brain,
+1665.9 how it it's able to encode
+and decode these extraordinary
+1670.04 actions and behaviors in
+response of nothing but a simple,
+1673.52 very unique sensory stimuli.
+1679.04 Now, let me say that this
+pallet of five basic tastes
+1682.58 accommodates all the dietary
+needs of the organism.
+1686.03 Sweet to ensure that we get
+1687.167 the right amount of energy,
+1692.12 umami, to ensure that we get proteins
+1694.82 and that essential nutrient, salt,
+1698.42 the three appetitive ones to ensure
+1699.77 that we maintain our electrolyte balance,
+1703.85 bitter to prevent the ingestion
+1707.01 of toxic nauseous chemicals,
+nearly all bitter tasting
+1710.175 things out in the wild are bad for you,
+1714.26 and sour, most likely to prevent ingestion
+1717.11 of spoil acid,
+1721.28 fermented foods.
+1723.92 And that's it.
+1724.753 That is the pallet that we deal with.
+1728.27 Now, of course,
+1729.103 there's a difference between
+basic taste and flavor,
+1733.7 flavor is the whole experience.
+1735.86 Flavor is the combination of
+multiple tastes coming together
+1740.42 together with smell, with
+texture, with temperature,
+1745.82 with the look of it
+that gives you what you
+1748.52 and I would call the
+full sensory experience.
+1751.46 But, but we scientists need to reduce
+1754.67 the problem into its basic elements.
+1757.13 So we can begin to break it apart
+1759.92 before we put it back together.
+1761.81 So when we think about the sense of taste,
+1765.17 and we try to figure out how
+these lines of information
+1769.22 go from your tongue to your brain
+1770.93 and how they signal and
+how they could integrate it
+1773.63 and how they trigger all
+these different behaviors.
+1776.6 We look at them as individual qualities,
+1779.51 so we give the animals sweet,
+1781.01 or we give them a bitter.
+1782.884 We give them sour,
+1783.717 we avoid mixes because the first stage of
+1789.595 discovery is to have that
+clarity as to what you're trying
+1794.54 to extract so that you can
+hopefully meaningfully make
+1798.65 a difference by being able to figure out
+1802.19 how easy that A goes to B to C and to D,
+1806.09 does this make sense?
+1806.923 - Yeah, almost like the primary colors
+1808.67 to create the full array
+of the color spectrum.
+1811.4 - Exactly.
+1812.81 - Before I ask you about the first
+1815.03 and second and third stages of
+taste and flavor perception,
+1818.69 is there any idea that
+there may be more than five?
+1823.244 - There is, for example, what about fat?
+1827.15 - I love the taste.
+1828.811 - Oh, I love fat too.
+1830.1 And I love the texture of fat,
+1830.933 especially if it's slightly burnt,
+1832.79 like in South America, when
+I visited Buenos Aries,
+1836.27 I found that at the end of a
+meal, they would take a steak,
+1838.79 the trimming off the edge of
+the steak, burn it slightly,
+1842.72 and then serve it back to me.
+1844.13 And I thought that's disgusting.
+1846.38 And then I tasted it and it's delightful.
+1849.11 - It is.
+1849.943 - There's nothing quite like it.
+1851.69 - This goes back to this notion
+1853.28 before that we like to live on the edge.
+1856.43 And we like to do things
+1858.407 that we should not be doing, Andrew,
+1860.57 but on the other hand,
+look at those muscles.
+1866.54 - I don't suggest anyone eat pure fat.
+1868.85 The listeners of this
+podcast will immediately,
+1870.5 I'm sure there'll be a YouTube video soon
+1872.27 that I like eating pure fat.
+1873.65 I'm not on a ketogenic diet, et cetera,
+1878.16 but fat is tasty as evidenced by
+1881.66 the obesity problem that
+exists in this country.
+1884.487 - We'll talk about that.
+1885.649 You know, in a little bit about
+1886.49 the gut brain axis,
+1887.81 I think it'll be important to cover it
+1890.09 because it's the other
+side of the taste system.
+1894.985 And so missing taste, one is fat,
+1898.64 although like you clearly
+highlighted a lot of fat taste
+1905.15 in quotation marks is really
+1907.49 the feeling of fat rolling on your tongue.
+1913.01 And so there is a compelling argument
+1917.81 that a lot of what we call fat taste,
+1921.77 it's really mechanosensory,
+1925.55 it's somatosensory cells,
+1928.07 cells that are not responding to taste,
+1930.8 but they're responding
+to mechanical stimulation
+1934.31 of fat molecules rolling on the tongue
+1937.07 that gives you that perception of fat.
+1940.43 - I love the idea that there
+is a perception of fat,
+1943.1 regardless of whether or not
+1944.18 there's a dedicated receptor for fat,
+1947.15 mostly because it's evoking sensations
+1950.19 and imagery of the taste
+of slightly burnt fat.
+1954.343 - For example.
+1955.176 And another one you could
+argue is metallic taste.
+1959.27 You know, I know exactly
+what it tastes like.
+1962.3 You know, if you ask me to explain it,
+1964.1 I will have a hard time,
+1966.92 what are the palettes of that color
+1970.137 that can allow me to define it?
+1972.02 It wouldn't be easy,
+1974.317 but I know precisely what it tastes like,
+1978.272 take take a penny, put it in your mouth
+1979.7 and you know what it tastes like.
+1982.323 - Or blood.
+- Or blood.
+1983.156 That's another very good example.
+1986.646 And is there really a receptor
+1988.7 for metallic taste or it's nothing
+1991.25 but this magical combination
+1993.26 of the activation of the existing lines,
+1996.74 think of it as lines of information,
+1998.39 just separate lines,
+like the keys of a piano.
+2001.63 Sweet, sour, bitter, salt, umami,
+2003.46 you play the key and you
+activate a one chord.
+2006.61 And that one chord in the case
+of a piano leads to a note,
+2009.88 you know a tune and in the case
+2012.43 of taste leads to an
+action and a behavior,
+2015.94 but you play many of them together.
+2017.65 And something emerges
+2018.91 that it's different than
+any one of the pieces.
+2025.772 And it's possible that
+metallic, for example,
+2028.3 represents the combination
+of the activity just
+2031.3 in the right ratio makes
+of these other lines.
+2036.61 - Makes sense.
+2037.78 And it actually provides a perfect,
+2040.256 your example of the piano provides
+2041.71 a perfect segue for what
+I'd like to touch on next,
+2044.35 which is if you would
+describe the sequence
+2050.025 of neural events leading to
+a perceptual event of taste.
+2053.26 And I'm certain that somewhere
+in there you'll embed
+2057.37 an answer to the question of whether
+2060.54 or not we indeed have
+different taste receptors
+2062.62 distributed in different
+locations on our tongue.
+2066.19 Or elsewhere in the mouth.
+2067.57 - Yes.
+2068.56 So let's start by the banking
+2073.06 that old tale and myth.
+2076.12 - Who came up with that?
+2078.88 - There are many views,
+2081.135 but the most prevalent is that
+there was an original drawing
+2085.96 describing the sensitivity
+2088.57 of the tongue to different tastes.
+2092.5 So imagine I can take a Q-Tip,
+2095.56 this is a thought experiment,
+2098.574 and I'm going to dip that
+Q-Tip in salt and in quinine
+2103.244 as something bitter and
+glucose as something sweet.
+2106.69 And I'm going to take that Q-tip,
+2110.042 ask you to stick your tongue out
+2111.43 and start moving around
+your tongue and ask you,
+2114.31 what do you feel?
+2117.73 And then I'm going to
+change the concentration
+2120.52 of the amount of salt or the
+amount of bitter and ask,
+2125.23 can I get some sort of
+a map of sensitivity
+2128.978 to the different tastes?
+2132.483 And the argument that
+has emerged is that there
+2134.953 is a good likelihood that the data
+2138.1 was simply mistranslated
+as it was being drawn.
+2144.015 And of course, that led
+to an entire industry.
+2146.65 This is the way you maximize
+your wine experience,
+2151.57 because now we're going to form the vessel
+2155.35 that you're going to drink from
+2156.73 so that it acts maximally on
+the receptors which happen.
+2162.25 Now, there is no tongue map.
+2166.84 All right, we have taste buds distributed
+2169.81 in various parts of the tongue.
+2173.005 So there is a map on the
+distribution of taste bud,
+2177.37 but each taste bud has around
+2178.99 a hundred taste receptor cells.
+2182.32 And those taste receptor
+cells can be of five types,
+2187.87 sweet, sour, bitter, salty, or umami.
+2191.08 And for the most part,
+2195.13 all taste buds have the representation
+2198.22 of all five taste qualities.
+2201.16 Now there's no question
+that there is a slight bias
+2203.68 for some taste, like bitter,
+2206.14 is particularly rich at the
+very back of your tongue.
+2211.06 And there is a teleological
+basis for that,
+2213.34 actually a biological basis for that.
+2216.07 That's the last line of defense
+2217.87 before you swallow something bad.
+2221.68 And so let's make sure that
+the very back of your tongue
+2225.07 has plenty of these bad news receptors
+2229.48 so that if they get activated,
+2231.37 you can trigger a gagging reflex
+2235.15 and get rid of this that
+otherwise may kill you.
+2239.08 - Makes good sense.
+2240.04 - But the notion that all sweet is
+2243.735 in the front and salt is on the side.
+2246.864 It's not real.
+2251.47 Go ahead.
+2252.303 - Oh, I was just going
+to ask, first of all,
+2254.08 thank you for dispelling that myth.
+2256.39 And we will propagate
+2257.62 that information as
+far and wide as we can.
+2260.26 'Cause I think that's the number
+one myth related to taste.
+2263.38 The other one is,
+2264.67 are there taste receptors
+anywhere else in the mouth,
+2267.79 for instance, on the lips?
+2269.907 - The palette, the palette, not the lips.
+2271.505 So it's in the pharynx at the
+very back of the oral cavity,
+2276.46 the tongue and the palette and the palette
+2279.31 is very rich in sweet receptors.
+2282.37 - I'll have to pay attention to this
+2283.51 the next time I eat something sweet.
+2285.67 - When you pull it up, yeah.
+2287.53 Now the important thing is that
+2293.26 after the receptors for
+these five, the detectors,
+2297.88 the molecules that send sweet,
+sour, bitter, salt, umami,
+2302.26 these are receptors,
+proteins found on the surface
+2305.35 of taste receptor cells that
+interact with these chemicals.
+2309.31 And once they interact,
+2310.48 then they trigger the cascade
+of events, biochemical events,
+2314.47 inside cell that now
+sends an electrical signal
+2317.92 that says there is sweet
+here, or there is salt here.
+2323.11 Now having these receptors
+and my laboratory identify
+2326.53 the receptors for all
+five basic taste classes,
+2329.65 sweet, bitter, salt, umami,
+2331.18 and most recently sour.
+2334.15 Now completing the palette.
+2335.59 You can now use these
+receptors to really map
+2338.32 where are they found in the
+tongue in a very rigorous way.
+2342.7 This is no longer about using a Q-Tip
+2345.22 and trying to figure
+out what you're feeling,
+2349.27 but rather what you have in your tongue.
+2354.23 This is not a guess.
+2355.503 This is now a physical map that says
+2359.38 the sweet receptors are found here.
+2362.5 The bitter are found here.
+2363.88 And when you do that,
+you find that in fact,
+2365.98 every taste bud throughout
+your oral cavity
+2370.75 has receptors for all of
+the basic taste classes.
+2375.25 - Amazing.
+2376.48 And as it turns out,
+2378.16 and I'm sure you'll tell us
+important in terms of thinking
+2380.62 about how the brain computes,
+2383.17 encodes and decodes this
+thing we call taste.
+2386.2 I'm going to inject a quick
+question that I'm sure is on
+2388.93 many people's minds before we get back
+2390.97 into the biological circuit,
+2392.86 which is many people, including myself,
+2394.99 are familiar with the
+experience of drinking
+2396.7 a sip of tea or coffee that is too hot,
+2400.39 and burning my tongue is
+the way I would describe it.
+2403.343 - Horrible.
+- Horrible.
+2404.97 And then disrupting my sense of taste
+2406.18 for some period of time afterward.
+2408.82 When I experienced that phenomenon,
+2412.09 that unfortunate phenomenon have
+2415.212 I destroyed taste
+receptors that regenerate,
+2418.06 or have I somehow used temperature
+2420.67 to distort the function of the circuit
+2422.59 so that I no longer taste
+the way I did before?
+2426.13 - Excellent question.
+2427.18 And the answer is both.
+2429.13 It turns out that your taste receptors
+2432.67 only live for around two
+weeks, and this, by the way,
+2437.62 makes sense because here you
+have an organ, the tongue,
+2443.35 that is continuously exposed to everything
+2446.65 you could range from the nicest,
+2448.18 to the most horrible possible things.
+2450.25 - Use your imagination.
+2452.29 - And so you need to make sure
+2456.64 that these cells are always coming back
+2458.77 in a way that can reexperience the world
+2461.86 in the right way and
+there are other organs
+2464.98 that have the same underlying logic.
+2469.0 Your gut, your intestines
+are the same way.
+2471.61 Amazing.
+2472.66 Again, they're receiving
+everything that you ingest.
+2476.59 God forbid what's there, from the spiciest
+2481.058 to the most horrible tastings
+or the most delicious.
+2485.86 And again,
+2486.88 those intestinal cells
+whose role is to ultimately
+2491.2 take all these nutrients and
+bring them into the body.
+2494.98 Also renew in a very, very fast cycle,
+2502.868 olfactory neurons in
+your nose is the example.
+2508.0 So then A, yes,
+2509.83 you're burning a lot of your
+cells and is over for those.
+2514.72 The good news is that
+they're going to come back,
+2517.51 but we know that when you
+burn yourself with tea,
+2520.694 they come back within 20 minutes,
+2523.514 30 minutes, an hour,
+2525.04 and these cells are not
+renewing in that timeframe.
+2529.57 They're not listening to your needs.
+2531.55 They have their own internal clock.
+2535.24 And so you are really affecting,
+2542.02 you're damaging them in a
+way that they can recover.
+2546.7 And then they come back
+2547.81 and you also damage your
+somatosensory cells.
+2550.42 These are the results that
+feel things, not taste things.
+2556.342 And then you wait half an hour or so,
+2559.81 and then my goodness, thank
+God, it's back to normal.
+2564.55 - And most of the time,
+2565.48 I don't even notice the
+transition realizing,
+2568.157 as you tell me, and I'll later,
+2571.36 I'll ask you about the relationship
+between odor and taste.
+2574.75 But as a next step, along this circuit,
+2578.92 let's assume I ingest
+some, let's keep it simple.
+2581.86 A sweet taste.
+2583.27 - Let's make it even simpler.
+2587.74 But at the same time,
+perhaps more informative,
+2591.49 let's compare and
+contrast sweet and bitter
+2595.09 as we follow their lines
+from the tongue to the brain.
+2600.25 So the first thing is that
+2601.353 the two evoke diametrically
+opposed behaviors.
+2605.14 If we have to come up with
+two sensory experience
+2608.35 that represent polar opposites,
+2609.94 it will be sweet and video.
+2611.35 There are not two colors that
+represent polar opposites
+2613.75 because you could say black and white,
+2615.73 they are polar opposites,
+2616.78 one detects only one thing.
+2619.046 The other one detects everything,
+2620.62 but they don't evoke different behaviors.
+2624.97 - Even political parties
+have some overlap.
+2628.66 - Sweet and bitter are
+the two opposite ends
+2631.03 of the sensory spectrum,
+2633.61 now, a taste can be
+defined by two features.
+2640.355 Again, I'm a reductionist,
+2642.61 so I'm reducing it in a way that I think
+2645.4 it's easier to follow the signal.
+2647.71 And the two features are
+its quality and its valance
+2653.05 and valance with a little V
+2656.2 that's what we say in Spanish, with a V,
+2660.7 means the value of that experience, right?
+2667.06 Or in this case of that
+stimuli and you take sweet,
+2672.46 sweet has a quality, an identity,
+2676.63 and that's what you and I will refer
+2678.43 to as the taste of sweet.
+2680.53 We know exactly what it tastes like,
+2684.22 But sweet also has a positive valance,
+2689.53 which makes it incredibly
+attractive and appetitive,
+2693.31 but it's attractive and appetitive,
+2695.41 as I'll tell you in a second independent
+2698.967 of its identity and quality.
+2700.81 In fact, we have been able
+2701.89 to engineer animals where we completely
+2705.25 remove the valance from the stimuli.
+2708.19 So these animals can taste sweet,
+2710.86 can recognize it as sweet,
+2714.28 but it's no longer attractive.
+2716.71 It's just one more chemical stimuli.
+2720.49 And that's because the
+identity and the valence
+2724.39 are encoded in two separate
+parts of the brain.
+2728.65 In the case of bitter,
+2730.99 again, it has on the
+one hand its identity,
+2734.012 its quality, and you know
+exactly what bitter tastes like.
+2738.88 - I can taste it now,
+even as you describe it.
+2741.46 - But it also has a valence and that's
+2743.77 a negative valance because
+it evokes aversive behaviors.
+2750.1 Are we on?
+2750.933 - Absolutely.
+2751.81 And it comes to mind.
+2752.643 I remember telling some kids recently
+2754.12 that we're going to go get ice
+cream and it was interesting.
+2755.95 They looked up and they started smacking
+2758.311 their like, they'll actually.
+2759.61 - The anticipatory response.
+2763.06 Absolutely.
+2764.86 When we talk about the gut
+brain maybe we'll get there.
+2767.92 So then the signals, if we
+follow now, these two lines,
+2770.89 they're really like two separate keys
+2773.14 at the two ends of this keyboard.
+2776.71 And you press one key and
+you activate this cord.
+2781.21 So you activate the sweet cells
+throughout your oral cavity.
+2785.14 And they all converge into
+a group of sweet neurons
+2789.31 in the next station, which
+is still outside the brain,
+2794.65 it's one of the taste ganglia.
+2798.16 These are the neurons
+that innervate your tongue
+2801.503 and the oral cavity.
+2802.6 - Where do they sit approximately?
+2804.13 - Around there.
+- Right here around there.
+2806.11 The lymph nodes, more or less?
+2807.25 - You got it.
+2809.958 And there are two main
+ganglia that innervate
+2814.15 the vast majority of all
+taste buds in the oral cavity.
+2819.28 And then from there that sweet signal
+2822.58 goes onto the brain stem.
+2824.8 The brain stem is the entry
+of the body into the brain.
+2830.08 And there are different
+areas of the brain stem.
+2832.96 And there are different groups
+of neurons in the brain stem.
+2835.78 And there's this unique area in a unique,
+2841.711 a topographically defined
+location in the rostral side
+2848.26 of the brain that receives
+all of the taste input.
+2852.7 - A very dense area of the brain.
+2854.513 - A very rich area of the brain.
+2857.8 Exactly.
+2859.03 And from there,
+2860.508 the sweet signal goes to this other area
+2862.81 higher up on the brain stem.
+2866.95 And then it goes through
+a number of stations where
+2871.21 that sweet signal goes from
+sweet neuron to sweet neuron,
+2875.44 to sweet neuron, to
+eventually get to your cortex.
+2880.3 And once it gets to your taste cortex,
+2883.18 that's where meaning is
+imposed into that signal.
+2888.58 It's then, and only then this is what
+2893.11 the data suggests that now you
+2896.17 can identify this as a sweet stimuli.
+2900.76 - [Andrew] And how quickly
+does that all happen?
+2904.399 - You know, the time scale of
+the nervous system it's fast.
+2909.832 - So within less than a second.
+2912.07 - [Charles] Yeah, absolutely.
+2914.409 - I rarely mistake bitter for sweet.
+2916.48 Maybe with respect to people
+and my own poor judgment,
+2919.48 but not with respect to taste.
+2923.11 - And in fact,
+2924.803 we can demonstrate this
+because we can stick electrodes
+2926.83 at each of these stations, conceptually,
+2930.007 and we can stimulate the tongue,
+2931.96 and then we can record
+the signals pretty much
+2934.57 time log the stimulus delivery.
+2937.42 You deliver the stimuli and
+within a fraction of a second,
+2941.5 you see now the response
+in this following stations,
+2945.73 now it gets to the cortex,
+2948.1 and now in there you impose
+meaning to that taste.
+2952.63 There is an area of your
+brain that represents
+2957.1 the taste of sweet in taste cortex
+2960.49 and a different area that
+represents the taste of bitter.
+2966.1 In a sense, there is a topographic map
+2969.07 of these taste qualities
+inside your brain.
+2973.09 Now we're going to do
+a thought experiment.
+2976.27 Now, if this group of neurons
+2977.95 in your cortex really represents
+2980.89 the sense of sweet and
+this added different group
+2984.34 of neurons in your brain
+represents the taste,
+2989.32 the perception of bitter,
+2992.417 then we should be able to do two things.
+2995.83 First, I should be able
+to go into your brain,
+2998.77 somehow silence those neurons,
+3003.0 find a way to prevent
+them from being activated.
+3009.216 And I can give you all the sweet you want,
+3010.049 and you'll never know
+that you're tasting sweet.
+3014.19 And conversely, I should be
+able to go into your brain,
+3018.3 come up with a way to
+activate those neurons
+3021.75 while I'm giving you absolutely nothing.
+3025.17 And you're going to think
+that you are getting
+3028.02 that full percept and that's
+precisely what we have done.
+3034.08 And that's precisely what you get.
+3036.75 This of course is in the brain of mice.
+3039.24 - But presumably in humans
+it would work similarly.
+3041.67 - Absolutely the same, zero doubt.
+3044.19 I have no questions.
+3045.57 So this attests to two important things,
+3050.1 the first to the predetermined
+nature of the sense of taste,
+3055.56 because it means I can go to these parts
+3057.6 of your brain in the
+absence of any stimuli.
+3061.2 And have you throw the
+full behavioral experience.
+3066.12 In fact, when we activate in your cortex,
+3068.43 these bitter neurons, the
+animal can start gagging,
+3074.16 but it's drinking only water,
+3078.39 but the animal thinks that's
+getting a bitter stimuli.
+3084.112 [audience applauds] This is amazing.
+3085.11 - And so, and the second,
+3087.197 just to finish the line so
+3088.03 that it doesn't sound
+like it teaches two things
+3090.21 and then I only give you one lesson.
+3096.342 It is that it substantiates
+3100.372 this capacity of the brain to segregate,
+3102.542 to separate in this nodes of action,
+3106.17 the representation of these
+3107.88 two diametrically opposed percepts.
+3111.93 Which is sweet, for
+example, versus bitter.
+3114.99 - The reason I say amazing,
+3116.25 and that is also amazing is the following,
+3120.51 you told us earlier, and
+you're absolutely correct,
+3122.79 of course, that the end of the day,
+3125.94 whether or not it's one
+group of neurons over here,
+3127.86 and another group of neurons over there,
+3130.35 which is the way it turns out to be,
+3133.08 electrical activity is the generic,
+3135.66 common language of both sets of neurons.
+3139.638 So that raises the question for me,
+3140.471 of whether or not those
+separate sets of neurons
+3143.19 are connected to areas of the brain
+3144.96 that create this sense
+of valence or whether
+3148.59 or not they're simply
+created connected, excuse me,
+3151.86 to sets of neurons that evoke
+distinct behaviors of moving
+3154.95 towards and inhaling more
+and licking or aversive are
+3157.95 we essentially interpreting our behavior
+3160.44 and our micro responses
+or are micro responses
+3164.1 and our behaviors the
+consequence of the percept?
+3166.38 - Excellent, excellent question.
+3169.736 So first answer is they go into
+3174.895 an area of the brain
+where valence is imposed,
+3180.24 and that area is known as the
+amygdala and the sweet neurons
+3185.34 go to a different area
+than the bitter neurons.
+3188.67 Now I want to do a thought experiment
+3190.56 because I think your audience
+might appreciate this.
+3192.75 Let's say I activate this group of neurons
+3196.59 and the animal increases licking
+3199.95 and I'm activating the sweet neurons.
+3202.08 And so that's expected
+because now it's tasting
+3205.5 this water as if it was sugar.
+3209.407 Now this Moses transforming
+water into wine
+3212.13 in this case we're going
+to, and today's Passover,
+3214.29 so this is an appropriate example,
+3218.7 we're transforming it into sweet.
+3224.614 But how do I know that
+activating them is evoking
+3228.36 a positive feeling inside,
+a goodness, a satisfaction,
+3233.43 or I love it versus I'm
+just increasing licking,
+3238.517 which is the other option,
+3240.3 because all we're seeing is
+that the animal is leaking more.
+3242.79 And we're trying to infer that that means
+3245.67 that he's feeling something
+3246.87 really good versus you know what,
+3248.94 that piano line is going back
+straight into the tongue.
+3251.73 And all it's doing is
+forcing it to move faster.
+3255.75 Well, we can actually separate this
+3258.0 by doing experiments that allows
+3260.22 to fundamentally distinguish them
+3264.03 and imagine the following experiment,
+3266.07 I'm going to take the
+animal and I'm going to
+3267.87 put them inside a box that has two sides.
+3272.73 And the two sides have features
+that make him different.
+3275.52 One has yellow little toys.
+3278.91 The other one has green toys.
+3281.34 One has little black stripes.
+3283.74 The other one has blue stripes.
+3285.33 So the animal can tell the
+two halves, I take the mouse,
+3289.23 put them inside this
+arena, this play arena.
+3293.61 And it will explore and potter
+3295.62 around both sides with equal frequency.
+3300.198 And now what I'm going to do
+3301.615 is I'm going to activate these neurons,
+3303.63 these sweet neurons,
+3306.06 every time the animal
+3307.14 is on the side with the yellow stripes.
+3316.051 And if that is creating a
+positive internal state,
+3321.09 what would the animal now want to do?
+3324.06 It will want to stay on the
+side with the yellow stripes.
+3330.09 There's no licking here.
+3331.808 The animal is not extending its tongue
+3333.33 every time I'm activating this neurons.
+3336.36 This is known as a place preference test.
+3340.53 And it's generally used,
+3342.37 it's just one form of many
+different tests to demonstrate
+3348.69 that the activation of a group
+3352.59 of neurons in the brain is imposing,
+3355.62 for example, a positive
+versus a negative valance.
+3359.79 Whereas if I do the same thing
+3361.56 by activating the bitter neurons,
+3363.42 the animal will actively
+want now to stay away
+3366.75 from the side where these
+neurons are being activated.
+3372.36 - And that's precisely what you see.
+3374.33 - [Charles] And that's
+precisely what we see.
+3376.41 - Many people, including myself,
+3377.88 are familiar with the experience
+3379.29 of going to a restaurant,
+eating a variety of foods.
+3384.167 And then fortunately
+doesn't happen that often,
+3385.26 but then feeling very sick.
+3387.6 I learned coming up in neuroscience
+3389.55 that this is one strong
+example of one trial learning,
+3394.53 that from that point on,
+3397.29 it's not the restaurant
+or the waitress or waiter,
+3401.04 or the date,
+3402.45 but it's my notion of it
+had to have been the shrimp
+3407.22 that leads me to then want to
+avoid shrimp in every context,
+3410.28 maybe even shrimp powder.
+3412.05 - You got it.
+3412.95 - For a very long time.
+3414.39 I can imagine all the evolutionarily
+3416.79 adaptive reasons why this
+such a phenomenon would exist.
+3420.39 Do we have any concept of where
+in this pathway it exists?
+3424.049 - We do, we know actually
+a significant amount
+3427.994 at a general level.
+3431.1 In fact, more than shrimp,
+3432.84 oysters are even a more dramatic example,
+3435.81 one bad oyster is all
+you need to be driven
+3440.13 that way for the next six months.
+3442.993 - I think because the
+texture alone is something
+3444.54 that one learns to overcome.
+3445.71 I actually really enjoy oysters.
+3447.63 I despise mussels, despise
+shrimp, not the animal,
+3452.52 but the taste and yet
+oysters, for some reason,
+3455.28 I've yet to have a bad experience.
+3456.93 - It's like, uni, by the way
+3458.834 texture is hard to get
+over, but once you get over,
+3462.15 it's delicious.
+3463.23 - That's what they tell me.
+3464.82 We were both in San Diego at one point,
+3466.53 and I'll give a plug to Sushi Ota,
+3468.72 is kind of the famous place,
+3471.047 and they have amazing uni
+and I've tried it twice.
+3473.28 And I'm oh for two.
+3476.206 It somehow the texture outweighs
+3477.69 any kind of the deliciousness
+that people report.
+3480.585 - It's a very acquired taste.
+3482.1 It's like beer, I grew up in Chile,
+3485.79 that's where the accent comes
+from in case anyone wonder.
+3489.96 And by the time I came
+here to graduate school,
+3492.36 I was 19, too old to overcome
+my heavy Chilian accent.
+3501.327 So here I am, 40 years, 50 years late,
+3502.59 not quite 40 plus-
+3503.979 - We appreciate it.
+3504.812 - And I still sound like
+I just came off the boat.
+3509.07 So in Chile, you don't drink
+beer when you're young,
+3511.68 you drink wine.
+3512.82 Chili's a huge wine producer.
+3516.03 So when I came to the US,
+3520.144 all of my classmates were
+drinking beer because
+3524.543 they had finished college
+where they were all
+3526.65 you're drinking and graduate school,
+3529.56 you're working 18 hours a day every day,
+3532.89 the way they relax, let's
+go and have some beers.
+3535.98 - And beer is cheaper.
+3537.06 - And beer is cheap,
+3538.77 and we were being clearly
+underpaid may I add.
+3544.53 I couldn't do it.
+3545.67 It's an acquired taste.
+3547.53 It was too late by then.
+3549.57 And here I am 60 plus.
+3552.63 And if you take all the beer
+I've drank in my entire life,
+3556.11 I would say they add to less than
+3559.643 an eight ounce glass of water.
+3561.39 - Impressive.
+3562.223 Well, your health is
+probably better for it.
+3564.0 - I'm not sure.
+3566.01 - Your physical health anyway.
+3567.3 - So it goes back to acquired taste.
+3570.54 This is the connection
+to uni and to oysters.
+3574.912 Now, going back to the one trial learning
+3576.57 this is the great thing about our brains,
+3578.85 certain things we need to repeat
+3580.5 a hundred times to learn
+them, hello operator.
+3584.552 Can I have the phone number
+for sushi Ota, please?
+3587.19 And then she'll give it
+to you over the phone,
+3589.47 at least in the old days.
+3591.27 And then you need to
+repeat it to yourself over
+3594.42 and over and over, over the next minute.
+3596.894 So you can dial sushi Ota,
+3599.07 and five minutes later, it's gone.
+3603.15 That's what we call working memory.
+3606.57 Then there is the short term memory.
+3608.52 We park our car.
+3610.65 And if we're lucky, by the end of the day,
+3612.21 we remember where it is.
+3615.06 And then there is the long term memory.
+3616.74 We remember the birthdays of every one
+3618.66 of our children for the rest of our lives.
+3622.68 Well, there are events that a
+single event is so traumatic
+3628.17 that it activates the circuits in a way
+3630.453 that it's a one trial learning.
+3633.0 And the taste system is literally
+3636.48 at the top of that food chain.
+3639.3 And there is a phenomenon known
+3642.73 as conditioned taste aversion.
+3644.46 You can pair an attractive
+stimuli with a really bad one,
+3653.011 and you can make an animal begin
+3655.35 to vehemently dislike for example, sugar.
+3660.03 And that's because you've
+conditioned the animals
+3663.0 to now be averse to these
+otherwise nice taste
+3668.52 because it's been associated with malaise.
+3671.7 And when you do that,
+3672.72 now you could begin to ask
+why has change in the signal
+3677.46 as it travels from the tongue
+3679.5 to the brain in a normal animal
+3682.65 versus an animal where you
+have now transformed sweet
+3686.16 from being attractive to being immersive.
+3688.92 And this is the way now
+you begin to explore
+3691.56 how the brain changes,
+the nature, the quality,
+3696.48 the meaning of a stimuli
+as a function of its state.
+3703.71 - I have a number of
+questions related to that,
+3708.06 all of which relate to
+this idea of context,
+3712.68 because you mentioned before
+that flavor is distinct
+3714.93 from taste because flavor involves smell,
+3716.79 texture, temperature,
+and some other features,
+3719.305 uni, sea urchin being a good example of,
+3723.63 I can sense the texture.
+3725.34 It actually it's, nah, I won't describe
+3727.44 what it reminds me of,
+for various reasons.
+3732.75 The ability to place context into,
+3735.48 to insert context into a perception,
+3737.55 or rather to insert a perception
+3739.59 into context is so powerful.
+3744.344 And there's an element of
+kind of mystery about it.
+3747.3 But if we start to think
+about some of the more nuance
+3750.81 that we like to live at
+the edge, as you say,
+3755.22 how many different
+tastes on the taste dial
+3759.39 to go back to your analogy
+earlier, the color dial,
+3761.7 do you think that there
+could be for something
+3763.5 as fixed as bitter, so for instance,
+3766.53 I don't think I like bitter taste,
+3769.44 but I like some fermented foods
+that seem to have a little
+3772.65 bit of sour and have a little bit
+3773.97 of that briny flavor.
+3776.7 How much plasticity do
+you think there is there
+3778.62 and in particular across the lifespan,
+3781.05 because I think one of
+the most salient examples
+3783.0 of this is that kids don't seem
+to like certain vegetables,
+3787.56 but they all are hardwired
+to like sweet tastes.
+3791.25 And yet you could also imagine
+that one of the reasons
+3793.8 why they may eventually grow
+to incorporate vegetables is
+3797.79 because of some knowledge
+that vegetables might be-
+3800.01 - Good for you.
+- Better for them.
+3802.823 So is there a change in the
+receptors, the distribution,
+3806.43 the number, the sensitivity, et cetera,
+3808.17 that can explain the transition
+3810.24 from wanting to avoid vegetables,
+3812.19 to being willing to eat vegetables
+3814.924 simply in childhood to early development.
+3817.5 Yes, so I going to take the
+question slightly differently,
+3820.076 but I think it would illustrate the point.
+3821.88 And I want to just
+3824.565 use the difference between
+the olfactory system
+3828.66 and the taste system to make the point,
+3832.41 taste system five basic pallets,
+3834.75 sweet, sour, bitter, salt, umami,
+3836.4 each of them has a predetermined identity.
+3838.71 We know exactly what and valence.
+3841.159 These are attractive.
+3842.73 These are aversive.
+3844.5 In the olfactory system,
+3845.82 it's claimed that we can smell millions
+3847.89 of different odors, yet for the most part,
+3854.07 none of them have an innate
+predetermined meaning,
+3859.222 in olfactory system,
+3861.99 meaning is imposed by
+learning and experience.
+3866.13 - Even the smell of smoke?
+3868.268 - So I'm going to give you,
+3869.101 I'm going to make it differently.
+3870.63 They are a handful of the millions
+3873.93 of odors that were claimed that,
+3876.543 that you could immediately tell me these
+3879.06 are adversive and these are attractive.
+3881.769 - Vomit.
+3883.393 - So vomit, it's not correct
+3886.726 because I can assure you that they're
+3888.78 cultures and societies where
+things which are far less
+3892.68 appealing than vomit do not
+evoke a adverse reaction.
+3896.875 - Really?
+3897.866 - Really, sulfur would
+be maybe a universal.
+3900.12 I'm not talking pheromones.
+3902.571 pheromones are in a different category
+3904.231 that trigger innate responses,
+3906.66 but nearly every other is afforded meaning
+3912.48 by learning and experience.
+3914.28 And that's why you like broccoli.
+3916.56 And I despise broccoli because I remember
+3919.44 my mother forcing me to eat broccoli.
+3923.132 [audience applauds] I'm so sorry.
+3924.073 - Same sensory experience.
+3928.08 This accommodates two important things.
+3931.745 In the case of taste,
+3933.373 you have neurons at every
+station that are for sweet,
+3935.19 for sour, for bitter,
+for salty, and umami,
+3937.65 it's only five classes.
+3938.91 So it's not going to
+take a lot of your brain.
+3941.13 If we can, in fact,
+smell a million others,
+3944.1 and everyone else of others
+had to have predetermined,
+3946.5 meaning there's not
+going to be enough brain
+3949.083 just to accommodate that one sense.
+3953.76 And so evolution in its infinite wisdom,
+3958.44 evolved a system where you put together
+3963.395 a pathway and a cortex, olfactory cortex,
+3966.407 where you have the capacity
+to associate every other
+3973.8 in a specific context that
+now gives it the meaning.
+3979.32 Now let's go back to the
+original question then.
+3983.85 So other than clearly
+plastic, mega plastic,
+3988.2 because it's fundamental
+basis and neural organization,
+3993.72 but taste,
+3994.553 we just told you that
+predetermined, hardwired,
+3997.38 but predetermined, hardwired doesn't mean
+3999.667 that it's not modulated
+by learning or experience.
+4003.38 It only means that you
+are born liking sweet
+4007.64 and disliking bitter.
+4010.67 And we have many examples of plasticity,
+4014.06 beer being one example.
+4016.25 So why do we learn to
+love beer and coffee.
+4020.0 It's because it has an
+associated gain to the system
+4027.35 and that gain to the system,
+that positive valance
+4031.46 that emerges out of that negative signal
+4034.43 is sufficient to create
+that positive association.
+4039.23 And in the case of beer,
+of course, it's alcohol.
+4042.74 The feeling good that we get after
+4045.23 is more than sufficient to say,
+I want to have more of this.
+4050.348 And in the case of coffee, of course,
+4051.35 is caffeine activating a whole
+group of neurotransmitter
+4054.44 systems that give you that
+high associated with coffee.
+4059.39 So yes, this taste system is changeable.
+4062.841 It's malleable, and it's subject subjected
+4065.179 to learning and experience.
+4067.951 But I like the olfactory
+system is restricted
+4071.57 in what you could do with it
+4073.22 because its goal is to allow you
+4077.12 to get nutrients and survive.
+4079.58 The goal of the olfactory
+system is very different.
+4082.64 It's being used, not in our case,
+4084.77 but in every animal species
+4087.603 to identify friend versus foe,
+4091.598 to identify mate,
+4095.258 to identify ecological
+niches they want to be in.
+4098.87 So it plays a very broad
+role that then requires
+4104.39 that it be set up organized
+4106.82 and function in a very
+different type of context.
+4110.6 Taste is about, can we get the
+nutrients we need to survive?
+4115.16 And can we ensure that we are
+attracted to the ones we need?
+4118.79 And we adverse to the ones
+that are going to kill us,
+4122.42 I'm being overly simplistic
+and reductionist.
+4126.031 But I think it illustrates
+the huge difference
+4127.34 between these two chemo sensory systems.
+4130.64 - I don't think you're
+being overly simplicity.
+4133.01 I think it illustrates
+4134.657 the key intractable nature of this system
+4138.017 and the way you've approached it.
+4140.154 And I think it's important
+for people to hear that,
+4141.89 because everybody,
+4142.91 as we are as mystified with
+empathy and love, et cetera.
+4147.44 So in a fairness to that,
+4149.3 I'm going to ask a sort of
+4151.824 a high level question
+or abstract question.
+4155.24 This was based on a conversation I had
+4156.92 with a former girlfriend
+4158.54 where we were talking about
+chemistry between individuals.
+4162.26 Very complicated topic on the one hand.
+4166.22 But on the other hand, quite
+simple in that certain people,
+4171.11 for whatever reason, evoke a
+tremendous sense of arousal,
+4175.01 for lack of a better
+word, between two people,
+4177.86 one would hope,
+4180.83 at least for some period of time.
+4182.96 - I didn't know this was
+that kind of a podcast.
+4185.03 - No, well, the reason I,
+4187.31 but this has to do with taste
+because she said something,
+4189.92 I think in part to
+maybe irritate me a bit,
+4194.18 but we were commenting not
+4196.52 about our own experience of each other,
+4200.234 but of someone that she
+was now very excited
+4202.52 about we're on good terms.
+4205.82 And she said, "What do you think it is,
+4208.82 this thing of chemistry?"
+4210.17 So maybe she was trying to-
+4212.21 - Warn you of what's coming.
+4213.83 - Warn me what's coming.
+4215.15 And she said,
+4216.943 "I have a feeling something
+about it is in smell
+4220.34 and something about it
+is actually in taste,
+4223.37 literally the taste of somebody's breath."
+4225.59 That's the way she described it.
+4227.643 And I thought that it was
+a very interesting example
+4231.05 for a number of reasons,
+but in particular,
+4233.63 because it gets to the
+merging of odor and taste.
+4237.38 But also to the idea that
+of course the context
+4240.95 of a new relationship, I'm
+assuming that, and in fact,
+4243.86 they're both attractive people, et cetera.
+4245.54 There's a whole context there,
+4246.71 but I've had the experience of the odor
+4252.26 of somebody's breath being aversive.
+4253.7 Not because I could
+identify it as aversive.
+4257.3 - Because you just didn't like it.
+4259.064 - But because I just didn't like it.
+4261.2 - But that's because you associated
+4264.59 with added odors that trigger
+4270.65 that negative aversive
+reaction, by the way.
+4276.14 - Absolutely.
+4277.807 There are certain perfumes
+to me that are aversive.
+4278.99 - [Charles] You got it.
+4280.893 - And there are other sense,
+4282.483 I can recall a sense of skin, of foods,
+4285.68 et cetera, that are immensely appetitive.
+4288.29 So I've experienced both
+sides of this equation myself.
+4291.47 And she was describing this
+4292.88 and to me more than tasting wine,
+4295.7 which is the typical example
+4297.2 where people inhale it and
+then they drink it, to me,
+4299.72 this seems like something
+4302.61 that more people might
+be able to relate to,
+4305.123 that certain things and
+people smell delicious.
+4307.52 Even mothers describing the
+smell of their baby's head.
+4309.86 - A mother, or us.
+4310.91 - [Andrew] Of course, men too, yeah.
+4313.38 - I mean our own babies
+when in their necks,
+4315.35 that's the magical place.
+4316.85 - Their neck.
+4318.289 - The back of their neck.
+4319.397 - There you go.
+- Oh my goodness.
+4320.54 I have a grandchild now.
+4321.56 So I know exactly what, Rio,
+that's his name, smells like.
+4325.49 - Okay.
+4326.75 So more beautiful examples.
+4327.583 It's always more fun to think
+4329.024 about the beautiful positively
+appetitive examples.
+4331.58 The smell of the back
+of your grandson's neck.
+4335.54 I mean, you could get
+more specific than that,
+4338.957 but not a lot more specific exactly.
+4340.46 So what is going on in terms
+of the combination of odor
+4344.03 and taste given that these
+two systems are so different?
+4347.63 - Yes, and they come together,
+4352.61 ultimately there is a place
+in the brain where they come
+4356.57 together to integrate the two into
+4360.32 what we would call that
+sensory experience.
+4365.24 And I'll tell you an experiment
+4366.62 that you could do that demonstrates this.
+4370.239 I think it's good for the,
+4372.494 for your audience here to get
+a sense of how we approach
+4375.32 these problems so that we can get
+4377.21 in a meaningful scientific answers.
+4381.659 So we know where the olfactory
+cortex is in the brain.
+4385.13 We know where the taste
+cortex is in the brain.
+4387.08 They're in two different places.
+4389.21 We can go to each of these two, cortexes,
+4393.77 put color traces, we put green in one,
+4397.52 we put red in the other and
+we see where the colors go to.
+4401.96 That's a reflection of where
+4405.263 those neurons are projecting
+into their next targets.
+4409.16 Once they get the signal, where
+do they send the signal to?
+4413.27 And then we reason that if odor
+4416.24 and taste come together
+somewhere in the brain,
+4418.97 we should find an area that now
+4420.59 it's getting red and green color.
+4424.19 And we found such an area.
+4427.61 And next we anticipated,
+4429.89 we hypothesized that
+maybe this is the area
+4433.07 in the brain of the mouse,
+4435.26 corresponding area in the brain of humans,
+4438.907 that integrates odor and taste.
+4443.09 It's known as,
+4444.5 the term normally used is
+multisensory integration.
+4448.97 And if this is true, we could
+do the following experiment.
+4452.96 We can train a mouse
+4457.04 to lick sweet.
+4462.845 And if they guess correctly,
+4463.97 that that is supposed to be sweet.
+4465.86 They should go now to the
+right port, to the right side,
+4471.26 to get a water reward.
+4474.53 If they go to the lift, when it was sweet,
+4478.16 then they're incorrect
+and they get no reward
+4482.18 and they actually get a time out.
+4484.88 Now the mice are thirsty,
+4486.62 so they're very motivated to perform.
+4489.02 And if you repeat this
+task a hundred times,
+4492.44 a hundred trials, incredibly enough,
+4495.11 this animal learned to recognize the sweet
+4498.05 and execute the right action.
+4500.12 And by their action,
+4502.13 we now are being told what
+that animal is tasting.
+4508.01 We can make it more interesting
+4509.33 and we can give him
+sweet and bitter and say,
+4511.19 if it's sweet go to the right
+4513.764 and if it's bitter go to the left.
+4515.36 And after you train him
+this mice with 90% accuracy,
+4518.63 it'll tell you, when you
+randomize now the stimuli,
+4522.2 what was sweet and what was bitter?
+4525.56 We can now do the same experiment,
+4528.32 but now mix taste with odor and say,
+4533.66 if you got odor alone,
+4538.37 go to the right or push
+this lever in mice.
+4543.44 If you get taste alone,
+4545.87 go to this other part or
+push this other lever.
+4549.65 And if you get the two together,
+do this something else.
+4553.58 And if you train the mice,
+4555.02 the mice are able now to
+report back to you when it's
+4558.14 sensing taste alone,
+odor alone, or the mix.
+4565.01 Makes sense?
+- Makes sense.
+4567.22 - Now we can go to the
+brain of this mice and go
+4570.65 to this area that we now uncover,
+4573.05 discover as being the side
+of multisensory integration
+4577.16 between taste and odor, and silence it,
+4582.02 prevent it from being
+activated experimentally.
+4586.375 And if that area really represented
+4589.52 the integration of these two,
+4591.62 the animals should still be able
+4593.09 to recognize the taste alone.
+4595.16 They still should be able to
+recognize the other alone,
+4598.19 but should be incapable
+now to recognize the mix,
+4604.55 and exactly as predicted.
+4606.95 That's exactly what you get.
+4609.335 All right?
+4610.22 - The brain is basically
+4611.72 a series of engineered circuits, complex.
+4615.47 - You got it.
+4616.812 And our task is to figure
+out how can we extract
+4623.18 this amazing architecture
+of these circuits
+4627.033 in a way that we can begin to uncover
+4630.02 the mysteries of the brain.
+4632.96 - And why certain people's
+breath tastes so good
+4636.506 and other people's not so good.
+4638.75 - Exactly.
+4639.583 So I never answered that,
+4640.416 but I told you how we can figure out
+4642.08 where in the brain it's happening.
+4645.86 - As we've been having this discussion,
+4648.185 I thought a few times about similarities
+4652.106 to the visual system or
+differences to the visual system,
+4654.11 the visual system,
+4654.943 there are a couple of
+phenomenon that I wonder
+4659.402 if they also exist in the taste system,
+4661.693 and the visual system
+we know for instance,
+4663.86 that if you look at something long enough
+4664.693 and activate the given
+receptors long enough,
+4667.04 that object will actually disappear.
+4669.35 We offset this with little
+micro eye movements,
+4671.36 et cetera, but the principle
+is a fundamental one.
+4673.73 This habituation or desensitization,
+4675.77 everyone seems to call
+it something different,
+4677.63 but you get the idea of course,
+4680.87 in the taste system,
+4683.21 I'm certainly familiar
+with eating something very,
+4685.25 very sweet for the first
+time in a long time.
+4687.95 And it feel tastes very
+sweet, but a few more licks,
+4690.8 a few more bites,
+4691.67 and now it tastes not as
+sweet, with olfaction,
+4695.09 I'm familiar with the odor
+in a room I don't like,
+4697.52 or I like, and then it disappearing.
+4698.93 So similar phenomena,
+where does that occur?
+4704.949 And can you imagine a sort of a system
+4709.01 by which people could leverage that?
+4711.62 Because I do think that
+most people are interested
+4715.448 in eating, not more sugar, but less sugar.
+4718.638 - I think we have better
+ways to approach that.
+4719.537 And we can transition from
+taste into these other circuits
+4724.55 that makes sugar so extraordinarily
+4730.04 impossible not to consume.
+4733.58 - Impossible, exactly.
+4737.658 - So where does the desensitizing happen.
+4742.01 That's the term that we use, and it's,
+4748.598 I think happening at multiple stations,
+4751.97 it's happening at the receptor level.
+4755.57 I.e. the salt in your tongue
+4758.42 that are sensing the sugar,
+4761.54 as you activate this receptor
+4763.34 and it's triggering activity
+after activity after activity,
+4767.06 eventually you exhaust the receptor again,
+4770.12 I'm using terms which are
+extraordinarily loose.
+4774.92 - But for sake of this discussion.
+4776.867 - For the sake of this
+discussion the receptor
+4780.2 gets to a point where he
+undergoes a set of changes,
+4784.01 chemical changes, where it now
+signals far less efficiently,
+4790.64 or it even gets removed from
+the surface of the cell.
+4795.587 And now what will happen
+is that the same amount
+4798.35 of sugar will trigger
+far less of a response.
+4803.869 And that is a huge side
+of this modulation.
+4809.24 And then the next, I believe
+is the integrated again,
+4812.93 loss of signaling that happens
+by continuous activation
+4817.31 of the circuit at each of these
+different neural stations.
+4820.91 You know, there is from
+the tongue to the ganglia,
+4823.76 from the ganglia to the first station
+4826.078 in the brain stem, a second
+station in the brain stem,
+4829.13 to the thalamus, then to the cortex.
+4832.25 So there are multiple steps
+that this signal is traveling.
+4835.19 Now, you might say why,
+if this is a label line,
+4837.89 why do you need to have so many stations?
+4841.07 And that's because the taste
+system is so important to
+4843.89 ensure that you get what
+you need to survive,
+4848.03 that it has to be subjected
+4849.53 to modulation by the internal state.
+4853.22 And each of these nodes
+provides a new site
+4857.33 to give it plasticity and modulation,
+4860.93 not necessarily to change the
+way that something tastes,
+4865.04 but to ensure that you consume more
+4868.73 or less or differently of what you need.
+4872.9 I'm going to give you one example
+4874.91 of how the internal state changes
+4876.44 the way the taste system works.
+4879.35 Salt is very appetitive
+at low concentrations.
+4885.38 And that's because we need it.
+4888.14 It's our electro lite
+balance requires salt.
+4891.02 Every one of our neurons uses salt
+4893.09 as the most important of the ions
+4895.61 with potassium to ensure
+that you can transfer
+4898.46 these electrical signals
+within and between neurons,
+4904.4 but at high concentrations,
+4906.11 let's say ocean water,
+it's incredibly aversive.
+4910.85 And we all know this because
+we are going to the ocean.
+4913.705 And then when you get it in
+your mouth, it's not that great.
+4917.39 However, if I salt deprive
+you, and we can do this
+4922.04 in experimental models quite readily,
+4927.44 now this incredibly high
+concentration of salt,
+4931.269 one molar sodium chloride becomes
+4933.5 amazingly appetitive and attractive.
+4937.04 What's going on in here.
+4939.17 Your tongue is telling
+you, this is horrible,
+4942.5 but your brain is telling
+you, I don't care.
+4946.4 You need it.
+4949.73 And this is what we call the modulation
+4953.36 of the taste system by the internal state.
+4957.65 - And presumably if one is hungry enough,
+4959.42 even uni will taste good.
+4962.822 Just hit you hit it right on the money.
+4963.904 No, no, this is exactly correct.
+4965.99 Or if you're thirsty and hungry,
+4969.74 you suppress hunger so that you don't
+4973.07 waste water molecules in digesting food.
+4976.888 Why?
+4977.96 Because if you're thirsty
+and you have no water,
+4981.38 you will die within a week or so,
+4984.38 but you can on a hunger strike as long
+4986.57 as you have water for months,
+4990.68 because you're going to eat
+up all your energy reserves.
+4994.58 Water is a different story.
+4996.02 So you could see,
+4996.95 or that there are multiple layers
+5000.22 at which the taste system that guides
+5005.05 our drive and our motivation to consume
+5008.26 the nutrients we need has to be modulated
+5013.03 in response to the internal state.
+5015.79 And of course,
+5017.256 internal state itself has
+5018.089 to be modulated by the external world.
+5021.783 And so that I think is a reason
+why, what could otherwise,
+5025.63 would've been an incredibly simple system
+5027.58 from the tongue to the
+cortex in one just wire.
+5032.53 It's not, because you have to ensure
+5036.084 that each step you give the system
+5039.31 that level of flexibility
+5041.47 or what we call in
+neuroscience, plasticity.
+5045.16 - I think we're headed into the gut.
+5047.26 But I have a question that has just been
+5050.29 on my mind for a bit now,
+5052.87 because I was drinking this water
+5055.0 and it has essentially no taste.
+5058.33 Is there any kind of signal for
+the absence of taste despite
+5062.5 having something in the
+mouth and here is why I ask,
+5066.458 what I'm thinking about is saliva.
+5069.729 And while it's true that if
+I eat a lot of very highly
+5071.62 palatable foods that does change
+5074.32 how I experience more bland foods,
+5077.62 I must confess when I eat a
+lot of these highly processed
+5080.38 foods I don't particularly like them.
+5081.79 I tend to crave healthier foods,
+5083.17 but that's probably for contextual
+reasons about nutrients,
+5086.29 et cetera.
+5088.15 But I could imagine an experiment where-
+5090.61 - You see a taste of no taste.
+5093.137 - Right, is there a taste of no taste,
+5093.97 because in the visual system there is.
+5096.22 You close the eyes and you
+start getting increases in
+5098.68 activity in the visual system,
+as opposed to decreases,
+5101.05 which often surprises people.
+5102.61 But there are reasons for that
+because everything is about
+5105.07 signal to noise, signal to background.
+5107.77 - It's a good question.
+5109.387 I can tell you that most of
+our work is trying to focus on
+5112.03 how the taste system works,
+not how it doesn't work well,
+5117.16 but you know.
+5117.993 - Yeah, I know you're being playful.
+5121.066 And I knew when inviting you here today,
+5121.899 I was setting myself up for,
+5123.43 actually on a different-
+5125.11 - We're trying to learn things.
+5127.066 - Yeah, I know.
+- However-
+5128.108 - All right, listen, I was
+weaned in this system of a,
+5130.69 and I'll say it here for the second.
+5132.61 Actually I recorded a podcast
+recently with a very prominent
+5135.82 podcast with Lex Friedman Podcast.
+5137.59 And I made reference to the so-called
+5140.357 New York neuroscience mafia.
+5141.61 I won't say whether or not we
+are sitting in the presence of
+5144.13 the New York neuroscience
+mafia member, but in any event,
+5148.33 I know the sorts of ribbing
+5150.01 that they provide for those listening,
+5152.35 this is the kind of hazing that happens.
+5154.21 Benevolent hazing in academia.
+5157.06 I'm the target.
+5157.93 - Of course, it's-
+5159.34 - It's a sign of love.
+5160.57 - Exactly.
+- He's going to tell me that.
+5162.19 - And it's always about the
+science in the end, right.
+5166.308 But it's an interesting question.
+5167.41 Look, I am,
+5169.57 I don't know the answer
+5173.815 and I don't even know how
+I would explore it in a way
+5176.823 that it will rigorously teach me, eh, but.
+5186.49 - Let me tell you why I'm asking.
+5187.87 And then I'll offer an experiment
+5189.46 that I'd love to see
+someone here in the lab do.
+5192.941 I'm thinking about saliva.
+5194.29 - No, no, no, but that we know,
+5195.55 that we can figure it out.
+5197.459 - Obviously.
+5198.859 But the question is whether or
+not the saliva in a fed state
+5202.96 is distinct from the
+saliva in an unfed state,
+5206.47 such that it modulates the
+sensitivity, the response.
+5208.396 - It's not the sensitivity,
+5209.585 the experiment has been done.
+5211.124 - [Andrew] It has been done.
+5211.974 And so the answer is no.
+5213.25 - It's not.
+5214.083 And the way you could do the experiment is
+5215.966 because we use artificial saliva.
+5218.771 - There's such a thing?
+5219.604 I know there's artificial tears, but.
+5221.5 - No, no, we,
+5222.43 I don't mean that you go to
+Walgreens that you get, I mean,
+5226.15 we, in my laboratory,
+5227.89 we know the composition of saliva
+5230.681 and so you can make such a thing,
+5234.07 and you can take taste cells in culture
+5237.37 or in a tongue where you wash it out,
+5240.43 and then you can apply artificial saliva.
+5243.34 And what happens is that the system
+5246.232 is being engineered to desensitize,
+5249.07 to become agnostic for
+saliva to become invisible.
+5257.681 And there is no difference
+on the state of the animal.
+5261.2 - Great, well, this is the
+reason to do experiments.
+5262.24 - [Charles] Yeah, absolutely.
+5263.827 - So it doesn't defeat
+any grand hypothesis.
+5264.82 It's just a pure curiosity.
+5268.0 - You know that curiosity kills the cat?
+5269.92 - I do,
+5273.97 but saves the career of a
+scientists every single time.
+5278.114 - That's what drives us, absolutely.
+5279.382 - Every single time.
+5280.383 - It's the story of our lives.
+- Exactly.
+5282.1 So if it's not saliva
+and apparently it is not,
+5286.913 what about internal state
+and what aspects of this,
+5291.97 the internal milieu are relevant
+because there's autonomic,
+5295.15 there's a sleep and awake, there's stress.
+5297.16 One of the questions that
+5299.083 I got from hundreds of people
+when I solicited questions in
+5301.57 advance of this episode was why do
+5303.49 I crave sugar when I'm
+stressed, for instance,
+5306.19 and that could be contextual,
+5307.24 but what are the basic elements-
+5309.04 - Because it makes us
+feel good by the way,
+5310.72 we'll get to that.
+5312.287 That's his answer.
+- Soothing.
+5314.047 - It activates,
+5316.18 what I'm going to generically
+refer to as reward pleasure
+5322.03 centers in a way that it dramatically,
+5325.958 changes our internal state.
+5328.51 This is in why do we
+eat a gallon ice cream
+5330.7 when we're very depressed?
+5333.46 In fact, this is a good segue to go
+5336.55 into this an entire different world
+5340.84 of the body telling your brain
+5345.76 what you need in important
+things like sugar and fat,
+5351.31 but anyways, go ahead, you
+were going to ask something.
+5354.618 - Well, no, I would like to discuss
+5356.806 the most basic elements of
+internal state in particular,
+5360.64 the ones that are below
+our conscious detection.
+5363.19 And this is a,
+5365.23 of course is a segue into
+this incredible landscape,
+5369.22 which is the gut brain axis,
+5371.11 which I think 15 years ago was almost a,
+5375.55 maybe it was posters at a meeting.
+5379.498 And then now I believe you and others,
+5382.754 there are companies, there have companies,
+5384.16 there are active research programs,
+5387.58 and beautiful work.
+5389.47 Maybe you could describe some of that work
+5390.85 that you and others have been involved in.
+5392.8 And a lot of the listeners of
+this podcast will have heard
+5397.24 of the gut brain axis.
+5398.38 And there are a lot of misconceptions
+5400.63 about the gut brain axis.
+5401.62 Many people think that this
+means that we think with our
+5404.26 stomach because of the quote
+unquote, gut feeling aspect,
+5409.702 but I'd love for you to talk
+about the aspects of gut brain
+5412.24 signaling that drive or
+change our perceptions
+5415.12 and behaviors that are
+completely beneath our awareness.
+5418.3 - Yes. Excellent.
+5419.83 So let me begin maybe by stating that,
+5425.77 the brain needs to monitor
+5430.66 the state of every one of our organs,
+5434.59 it has to do it.
+5436.0 This is the only way that the
+brain can ensure that every
+5441.04 one of those organs are working
+together in a way that we
+5445.63 have healthy physiology.
+5449.38 Now,
+5450.67 this monitoring of the brain
+has been known for a long time,
+5455.38 but I think what hadn't been
+fully appreciated that this is
+5458.26 a two-way highway where the
+brain is not only monitoring,
+5464.14 but is now modulating back
+what the body needs to do.
+5471.437 And that includes all the way
+from monitoring the frequency
+5474.55 of heartbeats and the way that
+inspiration and aspirations
+5479.62 in the breeding cycle operate
+to what happens when you
+5483.64 ingest sugar and fat.
+5488.32 Now, let me give you an example again,
+5496.821 of how the brain can take
+5501.07 what we would refer to contextual
+associations and transform
+5506.77 it into incredible changes
+in physiology and metabolism.
+5512.95 Remember Pavlov?
+5515.013 So Pavlov in his classical
+experiments in conditioning,
+5518.35 associative conditioning,
+he would take a bell,
+5522.37 he would ring the bell every time
+5525.595 he was going to feed the dog.
+5528.383 And eventually the dog
+learned to associate
+5530.8 the ringing of the bell with food coming.
+5534.467 Now, the first incredible finding
+5538.33 he made is the fact that the dog now
+5541.9 in the presence of the bell alone
+5544.48 will start to salivate.
+5547.18 And we will call that
+5548.77 neurologically speaking
+an anticipatory response.
+5554.14 Okay, I could understand it.
+5555.64 I get it.
+5556.93 You know, neurons in the brain that form
+5559.0 that association now
+represent food is coming.
+5562.9 And they're sending a signal
+to motor neurons to go into
+5567.7 your salivary glands to squeeze them.
+5570.07 So you release saliva because
+you know food is coming,
+5576.01 but what's even more remarkable
+is that those animals are
+5579.49 also releasing insulin
+in response to a bell.
+5586.24 Okay.
+5589.474 This illustrates one part
+of this two-way highway,
+5593.08 the highway going down,
+5595.78 somehow the brain created these
+associations and there are
+5598.63 neurons in your brain now that
+no food is coming and send a
+5603.22 signal somehow all the way down
+to your pancreas that now it
+5608.062 says release insulin because
+sugar is coming down.
+5613.294 This goes back to the magic of the brain.
+5616.227 It's a never ending source
+of both joy and intrigue.
+5620.35 How the hell do they do this?
+5623.23 I mean, the neurons.
+5625.003 - I share your delight and fascination.
+5627.85 There's not a day or a lecture
+or some talks are better than
+5633.76 others or talk where I don't
+sit back and just think,
+5637.398 it's absolutely amazing.
+5638.964 - How.
+- It's amazing.
+5640.52 - Now over the past, I don't know,
+5642.79 dozen years it and with great force
+5646.222 over the last five years
+5649.78 now, the main highway
+that is communicating
+5652.9 the state of the body with the brain,
+5657.304 it has been uncovered as being
+5659.863 what we now refer to
+as the gut brain axis.
+5663.73 And the highway is a
+specific bundle of nerves
+5669.4 which emerged from the Vagal
+ganglia, the nodus ganglia.
+5673.03 And so it's the vagus
+nerve that is innervating
+5677.71 the majority of the organs in your body.
+5682.12 It's monitoring their function,
+5684.55 sending a signal to the brain.
+5686.89 And now the brain going
+back down and saying,
+5690.4 this is going alright, do this,
+5692.23 or this is not going too well, do that.
+5695.5 - And I should point out as
+you well know, every organ,
+5698.59 spleen, pancreas, lung.
+5701.68 - They all must be monitored.
+5704.92 In fact I now,
+5708.389 I have no doubt that the
+diseases that we have normally
+5711.67 associated with metabolism, physiology,
+5716.193 and even immunity are likely
+to emerge as diseases,
+5723.22 conditions, states of the brain.
+5727.45 I don't think obesity is
+a disease of metabolism.
+5731.56 I believe obesity is a
+disease of brain circuits.
+5735.82 - [Andrew] I do as well.
+5737.23 - And so this view that we have,
+5741.145 been working on for the
+longest time, because,
+5746.08 the molecules that we're
+dealing with are in the body,
+5748.54 not in the head, led us to to view,
+5752.86 of course this issues and
+problems has been one of
+5756.58 metabolism, physiology, and so forth.
+5758.56 They remain to be the carriers
+of the ultimate signal,
+5763.24 but the brain ultimately appears
+to be the conductor of this
+5767.8 orchestra of physiology and metabolism.
+5771.46 All right, now let's go to
+the gut brain and sugar,
+5776.71 maybe.
+5777.7 - Please, please.
+5780.913 No, I mean,
+5782.02 the vagus nerve has in popular
+culture has been kind of
+5788.95 converted into this single
+meaning of calming pathways,
+5794.02 mostly because I actually
+have to tip my hat
+5797.11 to the yogic community was
+5799.21 among the first to talk
+about vagus on and on and on,
+5804.34 there are calming pathways,
+5807.28 so-called parasympathetic
+pathways within the vagus.
+5811.287 But I think that the more
+we learn about the vagus,
+5812.8 the more it seems like an entire
+set of neural connections,
+5817.06 as opposed to one nerve.
+5818.53 I just wanted to just
+mention that because I think
+5820.18 a lot of people have heard
+5821.26 about the vagus turns out experimentally
+5823.36 in the laboratory,
+5824.56 many neuroscientists
+will stimulate the vagus
+5827.05 to create states of alertness
+and arousal when animals,
+5831.22 or even people believe it
+or not are close to dying
+5833.95 or going into coma stimulation
+5835.66 of the vagus is one of the ways
+5836.77 to wake up the brain counter to the idea
+5839.62 that it's just this I way
+of calming oneself down.
+5842.2 - And also of course, I mean,
+5844.06 one has to be cautious they're in that.
+5847.664 So the vagus nerve is made
+5850.75 out of many thousands of fibers,
+5854.71 individual fibers that
+make this gigantic bundle.
+5858.19 And it's likely as we're speaking,
+5860.5 that each of these fibers carries
+5863.837 a slightly different meaning,
+5865.51 not necessarily one by
+one, maybe five is 10,
+5868.84 five is 20, do all right,
+5871.393 but they carry meaning that's associated
+5875.02 with their specific task.
+5878.14 This group of fibers is telling the brain
+5880.81 about the state of your heart.
+5883.78 This group of fiber is telling
+5885.4 the brain about the state of your gut.
+5888.88 This is telling your brain
+about its nutritional state,
+5893.05 this, your pancreas, this your lungs.
+5897.43 And they are again, to make
+the same simple example,
+5903.457 the keys of this piano.
+5906.555 Yes, you're right.
+5908.26 There is a lot of data,
+5913.06 showing that activating the
+entire vagal bundle has very
+5919.39 meaningful effects in a
+wide range of conditions.
+5922.9 In fact, it's being used to
+treat untractable depression.
+5929.02 - A little stimulator.
+5931.54 - Epileptics seizures.
+5935.02 But again, there are thousands
+5937.03 of fibers carrying different functions.
+5939.58 So to some degree this is like
+5946.72 turning the lights on the stadium,
+5952.57 because you need to illuminate
+5955.15 where you lost your keys under your seat.
+5958.72 Yet 10,000 bulbs of a thousand
+Watts each have just come on.
+5966.43 Only one of this is pointing to where,
+5970.577 and so I'm lucky enough that one
+5971.86 of them happened to point to my side.
+5977.844 So here you activate the
+bundle thousands of fibers.
+5979.93 I'm lucky enough that some of
+those happen to do something,
+5985.06 to make a meaningful
+difference in depression,
+5988.9 or to make a meaningful
+difference in epileptics.
+5991.57 But it should not be misconstrued
+5995.86 as arguing that this broad activation
+6000.96 has any type of
+selectivity or specificity,
+6005.04 we're just lucky enough
+that among all the things
+6007.806 that are being done, some
+of those happen to change
+6012.21 the biology of these processes.
+6014.64 Now, the reason this is relevant
+6016.98 because the magic of this gut brain axis
+6021.54 is the fact that you have these thousands
+6023.25 of fibers really doing different
+functions and our goal.
+6029.46 And along with many
+other great scientists,
+6037.26 including Steve Lieder Lee,
+6038.97 that started a lot of
+this molecular dissection
+6044.005 on this vagal gut brain
+communication line at Harvard,
+6050.122 is trying to uncover what
+6052.2 each of those lines doing,
+6054.51 what are each of those
+keys of this piano playing?
+6060.014 - What's the latest there?
+6060.995 Just as a brief update.
+6061.828 I know Steven Lieder Lee,
+6062.76 I think I was there when he got
+6065.19 his Howard Hughes and I did not.
+6066.72 So that was fun.
+6067.8 Always great to get beat
+by excellent people.
+6071.018 - First of all, I'm happy you didn't,
+6071.851 because that way you can
+focus on this amazing podcast.
+6075.84 - Well, thank you.
+6077.158 That's very gracious of you.
+6078.09 It's always feels better if not good
+6081.87 to get beat out by excellent people.
+6083.28 Steven is second to none.
+6086.82 And he is defining, as you said,
+6088.98 the molecular constituents
+6091.26 of different elements of
+these many, many fibers,
+6093.66 is there an update there,
+6094.59 are they finding multiple
+parallel pathways?
+6097.02 - They are, they are, some
+that control heartbeat.
+6100.831 Some that control the respiratory cycle.
+6103.02 Some that might be involved
+in a gastric movement.
+6109.56 You know, this notion that you're full
+6112.41 and you feel full in part
+6115.533 because your gut gets distended
+your stomach, for example.
+6120.0 And then there are little
+sensors that are reading
+6122.13 that and telling the brain you're full.
+6125.876 - So the textbooks will soon change
+6128.55 on the basis of the
+Lieder Lee and other work.
+6132.406 - In essence, I think
+we are learning enough
+6133.86 about these lines, that could
+really help put together
+6142.2 this holistic view of how the brain
+6147.3 it's truly changing body physiology,
+6151.38 metabolism, and immunity,
+6154.23 the part that hasn't been yet developed,
+6158.749 and that it needs a fair amount of work,
+6159.939 but it's an exciting thrilling,
+6163.92 journey of discovery is how
+6165.447 the signal comes back to
+now change that biology.
+6170.819 You know, the example I gave
+you before with Pavlov's dog.
+6174.96 I figure out how the association created
+6178.986 this link between the bell,
+6180.9 but then how does the
+brain tell the pancreas
+6184.11 to release in the right amount of insulin?
+6188.28 So,
+6191.601 let me tell you about the gut brain axis
+6197.588 and our insatiable
+appetite for sugar and fat.
+6203.37 Insatiable for sugar,
+6205.41 unquenchable for fat.
+6210.212 And this is a story about
+the fundamental difference
+6215.812 between liking and wanting.
+6221.07 Liking sugar is the function
+of the taste system.
+6229.53 And it's not really liking sugar,
+6231.6 it's liking sweet,
+6235.68 wanting sugar,
+6239.43 our never ending appetite
+for sugar is the story
+6245.16 of the gut brain axis,
+6249.191 liking versus wanting.
+6251.777 And this work is work
+of my own laboratory.
+6254.4 You know, that began long ago
+6256.56 when we discovered the sweet receptors
+6260.58 and you can now engineer mice
+that lack these receptors.
+6266.58 So in essence,
+6267.63 these animals will be unable
+6269.22 to taste sweet, a life without sweetness.
+6274.95 How horrible.
+6277.2 And if you give a normal mouse,
+a bottle containing sweet,
+6282.51 and we're going to put either
+sugar or an artificial sweetener,
+6286.83 they bottle sweet.
+6288.33 They have slightly different tastes,
+6290.88 but that's simply because
+artificial sweeteners
+6295.32 have some off tastes.
+6297.63 But as far as the sweet
+receptor is concerned,
+6301.398 they both activate the same receptor,
+6303.03 trigger the same signal.
+6305.73 And if you give an animal,
+6306.75 an option of a bottle containing sugar
+6308.91 or a sweetener versus water,
+6311.97 this animal will drink 10 to one
+6314.61 from the bottle containing sweet.
+6317.04 That's the taste system,
+animal goes samples, each one,
+6320.58 licks a couple of licks and then says,
+6322.89 that's the one I want
+because it's appetitive.
+6324.86 And because I love it.
+6328.005 - So it prefers sugar
+to artificial sweetener?
+6329.97 - No, no, no, no, no, no.
+6332.219 In this experiment, this experiment,
+6333.93 I'm going to put only sweet in one bottle
+6336.78 and it could be either sugar
+or artificial sweetener.
+6339.39 It doesn't matter which one.
+6341.31 We're going to do the next experiment
+6343.05 where we separate those two,
+6344.37 for now is sweet versus water.
+6349.13 And sweet means sweet, not sugar.
+6351.21 Sweet means anything that tastes sweet.
+6355.921 And sugar is one example and
+Splenda is another example.
+6360.071 - Aspartame, monk fruit,
+Stevia, doesn't matter.
+6363.81 - I mean, there's some
+that only humans can taste.
+6367.615 Mice cannot taste because their receptors
+6369.96 between humans and mice are different,
+6372.6 but we have put the
+human receptor into mice.
+6376.98 We engineer mice and we completely
+6379.44 humanize this mouse's taste world.
+6386.735 But for the purpose of this conversation,
+6389.52 we're only comparing sweet
+versus water, an option.
+6393.0 My goodness,
+6394.731 they will lick to know and
+from the sweet side 10 to one,
+6399.18 at least versus the water, makes sense?
+6402.57 All right, now we're
+going to take the mice
+6404.79 and we're going to genetically engineer it
+6407.61 to remove the sweet receptors.
+6410.76 So this mice no longer
+have in their oral cavity,
+6413.73 any sensors that can detect sweetness,
+6416.79 be that sugar molecule be
+an artificial sweetener,
+6420.27 be anything else that tastes sweet.
+6424.205 And if you give this mice an option
+6425.4 between sweet versus water,
+6428.28 sugar versus water, artificial
+sweetener versus water,
+6431.88 it will drink equally well from both
+6434.959 because he cannot tell them apart
+6436.355 because it doesn't have
+the receptors for sweet.
+6437.34 So that sweet bottle
+tastes just like water.
+6441.72 Makes sense?
+- Makes sense.
+6443.01 - Very good.
+6445.731 Now we're going to do the experiment
+6447.623 with sugar from now on
+let's focus on sugar.
+6449.16 So I'm going to give a mouse
+out sugar versus water.
+6454.17 Normal mouse will drink from the sugar,
+6456.51 sugar, sugar, sugar, very
+little from the water,
+6461.04 knock out the sweet
+receptors, eliminate them.
+6465.133 Mouse can no longer tell them apart.
+6466.14 And they will drink from both.
+6469.23 But if I keep the mouse in that
+case for the next 48 hours,
+6475.56 something extraordinary happens
+when I come 48 hours later.
+6479.97 And I see what the mouse is
+licking or drinking from,
+6483.78 that mouse is drinking almost exclusively
+6486.9 from the sugar bottle.
+6489.27 How could this be?
+6491.1 It cannot not taste it.
+6493.41 It doesn't have sweet
+receptors during those 48 hours
+6498.87 the mouse learn that there is something
+6502.17 in that bottle that makes me feel good.
+6507.18 And that is the bottle I want to consume.
+6512.009 Now does the mouse identify that bottle?
+6514.26 It does so by using
+other sensory features,
+6518.07 the smell of the bottle,
+6520.53 the texture of the solution inside, sugar,
+6523.98 the high concentrations is kind of goopy,
+6527.52 the side in which the
+bottle is in the cage.
+6531.102 It doesn't matter what,
+6533.49 but the mouse realize there is something
+6536.13 there that makes me feel good.
+6538.92 And that's what I want.
+6541.738 And that is the fundamental
+basis of our unquenchable
+6547.71 desire and our craving for sugar
+6551.16 and is mediated by the gut brain axis.
+6555.42 The first clue is that it
+takes a long time to develop,
+6559.98 immediately suggesting
+a post-ingestive effect.
+6566.43 So we reason if this is true
+and it's the gut brain axis
+6570.0 that's driving sugar preference.
+6574.95 Then there should be a group
+of neurons in the brain
+6577.44 that are responding to
+post-ingestive sugar,
+6583.17 and low and behold,
+6584.866 we identify a group of
+neurons in the brain
+6586.773 that does this and these neurons receive
+6588.66 their input directly from
+6591.72 the gut brain axis.
+6594.24 - From other neurons.
+6595.86 - You got it.
+6598.83 And so what's happening is that
+sugar is recognized normally
+6603.9 by the tongue, activates
+an appetitive response.
+6609.138 Now you ingest it and now it
+activates a selective group
+6612.33 of cells in your intestines
+6615.51 that now send a signal to the brain
+6618.39 via the vagal ganglia that says,
+6623.4 I got what I need.
+6625.44 The tongue doesn't know
+that you got what you need.
+6628.23 It only knows that you tasted it.
+6631.38 This knows that it got to the point
+6633.93 that it's going to be
+used, which is the gut.
+6637.68 And now it sends the
+signal to now reinforce
+6641.82 the consumption of this thing,
+6644.28 because this is the one that I needed.
+6646.86 Sugar, source of energy.
+6649.931 - And are these neurons in the gut?
+6652.513 - So these are not neurons in the gut.
+6654.055 So these are gut cells that
+recognize the sugar molecule.
+6657.12 - [Andrew] I see.
+6658.859 - Send the signal and
+that signal is received
+6660.3 by the vagal neuron directly.
+6662.01 - Got it.
+6662.88 - And it sends a signal
+through the gut brain axis
+6667.677 to the cell bodies of these
+neurons in the vagal ganglia,
+6671.367 and from there to the brain stem
+6674.79 to now trigger the preference for sugar.
+6678.66 - Two questions.
+6679.53 One, you mentioned that these cells
+6682.29 that detect sugar within
+6683.67 the gut are actually within the intestine.
+6685.68 You didn't say stomach.
+6687.45 Which surprised me.
+6688.283 I always think gut as
+stomach, but of course-
+6690.69 - They're intestines,
+6692.745 because that's where all
+the absorption happens.
+6693.578 - [Andrew] Got it.
+6695.117 - So you want the signal, you see,
+6695.95 you want the brain to know that
+you had successful ingestion
+6699.66 and breakdown of whatever you consume into
+6703.17 the building blocks of life,
+6706.53 and glucose, amino acids, fat.
+6710.01 And so you want to make sure
+that once they are in the form
+6713.94 that intestines can now absorb them,
+6717.3 is where you get the signal
+back saying this what I want.
+6721.65 Now let me just take it one step further.
+6726.03 And this now sugar molecules
+activates this unique gut brain
+6731.31 circuit that now drives the development
+6735.373 of our preference for sugar.
+6738.789 Now, a key element of this circuit
+6743.73 is that the sensors in
+the gut that recognize
+6747.42 the sugar do not recognize
+artificial sweeteners at all.
+6753.42 - Because their nutrient value
+6755.16 is uncoupled from the taste?
+6759.0 - Generically speaking one can make that,
+6760.429 but it's because it's a very
+different type of receptor.
+6764.7 Turns out that it's not
+6765.72 the tongue receptors
+being used in the gut.
+6769.02 It's a completely different
+molecule that only recognizes
+6772.53 the glucose molecule, not
+artificial sweeteners.
+6776.46 This has a profound impact
+6781.764 on the effect of ultimately
+artificial sweeteners
+6786.137 in curbing our appetite, our craving,
+6789.99 our insatiable desire for sugar,
+6793.56 since they don't activate
+the gut brain axis,
+6798.12 they'll never satisfy the craving
+for sugar like sugar does.
+6805.37 And the reason I believe
+that artificial sweeteners
+6807.78 have failed in the market
+to curb our appetite.
+6813.96 Our need, our desire for sugar is
+6817.89 because they beautifully
+work on the tongue.
+6822.18 They liking to recognize
+sweet versus non-sweet,
+6828.51 but they fail to activate the key sensors
+6833.55 in the gut that now inform the brain
+6837.848 you got sugar, no need to crave anymore.
+6842.76 - So the issue of wanting,
+6847.26 can we relate that to a particular
+6849.18 set of neurochemicals upstream,
+6851.4 so the pathway is, so glucose
+is activating the cells
+6855.03 in the gut that through the vagus
+6856.47 that's communicated through the presumably
+6858.93 the nodus ganglia and
+up into the brain stem.
+6861.12 - Very good, and from
+there, where does it go?
+6863.16 - Yeah, where does it go,
+6864.776 and what is the substrate of wanting?
+6866.76 Of course I think molecules
+like dopamine craving,
+6870.66 there's a book even called the
+molecule of more, et cetera.
+6874.44 Dopamine is a very diabolical
+molecule, as you know,
+6877.77 because it evokes both
+a sense of pleasure-ish,
+6881.55 but also a sense of
+desiring more, of craving.
+6886.165 So if I understand you correctly,
+artificial sweeteners are,
+6889.14 and I agree are failing as a means
+6891.42 to satisfy sugar craving at
+the level of nutrient sensing.
+6897.66 And yet if we trigger this
+6900.66 true sugar evoked
+wanting pathway too much,
+6906.15 and we've all experienced this,
+6907.38 then we eat sugar and we find ourselves
+6909.6 wanting more and more sugar.
+6910.95 Now that could also be
+insulin dysregulation,
+6913.83 but can we uncouple those?
+6916.05 - I mean, look,
+6919.92 if we have a mega problem
+6924.39 with over consumption of sugar and fat,
+6929.43 we're facing a unique time
+in our evolution where
+6934.98 diseases of malnutrition
+are due to over-nutrition.
+6939.96 I mean, how nuts is that?
+6943.936 Historically, diseases of malnutrition
+6945.96 have always been linked to undernutrition.
+6951.96 And so we need to come up with strategies
+6954.69 that can meaningfully change
+6960.63 the activation of these
+circuits that control
+6966.18 our wanting certainly in
+the populations at risk,
+6974.644 and this gut brain circuit that ultimately
+6980.76 it's the lines of communication
+that are informing
+6984.12 the brain, the presence
+of intestinal sugar,
+6988.285 in this example,
+6989.64 it's a very important target
+in the way we think about,
+6994.41 is there a way that we can
+6995.55 meaningfully modulate these circuits?
+6998.813 So I make your brain think
+7001.46 that you got satisfied with sugar,
+7005.27 even though I'm not giving you sugar.
+7007.55 - So that immediately raises
+the question are the receptors
+7010.85 for glucose in these gut cells susceptible
+7014.57 to other things that are healthier for us.
+7017.81 - That's very good.
+7019.49 Excellent idea.
+7021.29 And I think an important
+goal will be to come up
+7026.06 with a strategy and identify
+7029.48 those very means that allow us to
+7032.57 modulate the circuits in a way
+7034.97 that certainly for all of those,
+7038.96 where this is a big issue,
+it can really have a,
+7044.33 you know, dramatic impact
+in improving human health.
+7048.5 - I could be wrong about this.
+7049.64 And I'm happy to be wrong.
+7051.691 I'm often wrong.
+7052.94 And told I'm wrong, that we
+have cells within our gut
+7058.04 that don't just sense sugar,
+glucose to be specific,
+7063.364 but also cells within our gut
+7064.58 that sense amino acids and fatty acids.
+7068.27 I could imagine a scenario
+where one could train themselves
+7072.05 to feel immense amounts of
+satiety from the consumption
+7077.12 of foods that are rich in essential
+7079.46 fatty acids, amino acids,
+7081.5 perhaps less caloric
+7083.51 or less insulin dysregulating than sugar.
+7088.31 I'll use myself as an example.
+7089.57 I've always enjoyed sweets,
+7092.059 but in the last few years,
+7093.298 for some reason I've
+started to lose my appetite
+7094.82 for them probably because I
+just don't eat them anymore.
+7098.15 At first that took some restriction.
+7100.13 Now I just don't even think about it.
+7102.11 - And you're not reinforcing the circuits.
+7104.96 And so you're in essence
+are removing yourself from,
+7108.86 but you tend to be the exception.
+7112.37 You know, we have a huge,
+7116.877 a incredible large number
+of people that are being
+7119.69 continuously exposed to
+highly processed foods.
+7123.77 - And hidden, so called hidden sugars.
+7126.2 - They don't even have to be hidden.
+7128.39 You know, it's right there.
+7129.68 - Hiding in plain sight.
+7131.63 I agree so much is made of
+hidden sugars that we often
+7135.71 overlook that there are
+also the overt sugars.
+7139.37 - I mean, we can have a long discussion
+7142.902 on the importance of
+coming up with strategies
+7148.225 that could meaningfully
+change public health
+7150.11 when it comes to nutrition.
+7153.62 But I want to just go
+back to the notion of
+7156.86 this brain centers that
+are ultimately the ones
+7162.02 that are being activated by
+these essential nutrients.
+7165.56 So sugar, fat, amino acids are
+building blocks of our diets.
+7173.36 And this is across all animal species.
+7176.6 So it's not unreasonable
+7178.19 then to assume that
+dedicated brain circuits
+7182.69 would've evolved to
+ensure their recognition,
+7189.14 their ingestion and the reinforcement
+7194.15 that that is what I need.
+7198.77 And indeed animals
+evolve these two systems.
+7207.02 One is the taste system that allows you
+7210.59 to recognize them and trigger
+7212.9 this predetermined, hardwired,
+immediate responses.
+7217.85 Oh my goodness.
+7218.683 This tastes so good.
+7220.192 It's so sweet.
+7221.025 I personally have a sweet tooth,
+7223.58 and you know, oh my God,
+this is so delicious.
+7225.95 It's fatty or umami,
+recognizing the amino acids.
+7229.82 So that's the liking pathway,
+7233.165 but in the wisdom of evolution,
+7239.45 that's good,
+7240.283 but doesn't quite do it.
+7241.97 You want to make sure that
+these things get to the place
+7244.04 where they're needed and they're
+not needed in your tongue.
+7249.5 They're needed in your intestines
+7251.51 where they're going to be absorbed
+7253.73 as the nutrients that will support life.
+7258.05 And the brain wants to know this,
+7263.15 and it wants to know it
+in a way that it can now
+7265.97 form the association between
+7269.72 that I just tasted is what got
+7274.64 where it needs to be.
+7276.98 And it makes me feel good.
+7280.16 And so now next time
+that I have to choose,
+7283.82 what should I eat?
+7286.67 That association now guides me to,
+7290.45 that's the one I want.
+7292.28 I want that fruit, not that fruit.
+7296.12 I want those leaves,
+7297.56 not those leaves, because these
+are the ones that activate
+7301.73 the right circuits that ensure that
+7304.083 the right nutrients got to the right place
+7305.51 and told the brain, this
+is what I want and need.
+7312.59 Are we on?
+- We're on.
+7314.78 One thing that intrigues
+me and puzzles me,
+7317.66 is that this effect took a
+couple of days, at least in mice.
+7323.448 And the sensation, ah, sorry,
+7324.41 the perception of taste is immediate.
+7327.423 and yet this is a slow system.
+7330.863 And so in a beautiful way, but
+in a kind of mysterious way,
+7333.83 the brain is able to couple
+the taste of a sweet drink
+7337.49 with the experience of
+nutrient extraction in the gut,
+7341.36 under a context where
+the mouse and the human
+7345.613 is presumably ingesting other
+things, smelling other mice,
+7347.69 smelling other people.
+7349.07 That's incredible.
+7350.57 - But you have to think
+of it not as humans,
+7353.33 remember we inherited the
+circuits of our ancestors
+7360.11 and they through evolutionary
+from their ancestors.
+7364.91 And we haven't had that many
+7367.16 years to have fundamentally
+changed in many
+7371.39 of these hardwired circuits.
+7373.962 So forget as humans,
+7375.56 let's look at animals in the wild.
+7378.92 Which is easier now to
+comprehend the logic.
+7383.24 You know, why should this take
+7385.58 a long time of continued reinforcement
+7389.21 given that I can taste it in a second?
+7394.25 You want to make sure that this
+source of sugar, for example,
+7397.49 in the wild is the best.
+7400.22 Is the richest.
+7401.69 It's the one where I get the most energy
+7404.33 for the least amount of extraction,
+7409.401 the least amount of work.
+7412.1 I want to identify rich sources of sugar.
+7417.618 And if the system simply
+responds immediately
+7420.92 to the first sugar that gets to your gut,
+7423.5 you're going to form the association
+7426.68 with those sources of food,
+7429.17 which are not the ones that
+you should be eating from.
+7433.524 - Don't fall in love with the
+first person you encounter.
+7436.029 - Oh my goodness, exactly.
+7439.234 And so evolutionarily by
+having the taste system,
+7442.82 giving you the immediate recognition,
+7445.19 but then by forcing this gut brain axis
+7448.294 to reinforce it only when sustained
+7453.71 repeated exposure has informed the brain.
+7459.555 This is the one you don't want
+to form the association before.
+7463.91 And so when we remove it from the context
+7467.03 of we just go to the supermarket,
+7471.95 we're not hunting there in
+the wild where I need to form.
+7476.12 And so what's is that
+highly processed foods are
+7483.68 hijacking, co-opting
+these circuits in a way
+7490.802 that it would've never happened in nature.
+7492.986 And then we not only find
+these things appetitive
+7496.01 and palatable, but in addition,
+7497.42 we are continuously reinforcing,
+7500.78 the wanting in a way that,
+oh my God, this is so great.
+7504.29 What do I feel like eating?
+7505.31 Let me have more of this.
+7508.038 - You've just forever changed the way
+7509.985 that I think about
+supermarkets and restaurants.
+7512.51 There are understanding
+this fast signaling
+7516.5 and this slower signaling
+7518.361 and the utility of having
+both makes me realize
+7523.018 that supermarkets and restaurants are
+7523.851 about the most unnatural
+thing for our system ever,
+7528.8 almost the equivalent of living
+7531.02 in small villages with
+very few suitable mates
+7534.05 versus online dating, for instance.
+7536.15 - I'm not going to make
+a judgment call there
+7539.283 because they do serve
+an important purpose.
+7541.066 - I like restaurants too.
+7542.12 - And so do supermarkets, thank God.
+7545.39 I think they're not the culprits.
+7547.85 I think the culprits of course
+7552.895 are our reliance
+7557.266 on foods that are not necessarily healthy.
+7561.151 Now, going back to the supermarket,
+7564.38 don't fall in love with the
+first, they need to work.
+7567.914 You know, you take
+7573.883 a tangerine,
+7577.942 and you take an extract of tangerine
+7582.8 that you used to cook that
+spiked, let's say with sugar
+7588.439 and you equalize in both
+7592.479 where they both provide the
+same amount of calories.
+7595.55 If you eat them both,
+7598.28 they're going to have
+a very different effect
+7601.85 in your gut brain axis on your system.
+7605.57 Once you make the extract and
+you process it and you add
+7609.785 processed sugar to use
+it now to cook, to add,
+7612.95 to make it really sweet tangerine thing.
+7616.539 Now you're providing now fully ready
+7619.13 to use broken down source of sugar,
+7624.53 in the tangerine that sugar's
+mixed in the complexity
+7631.451 of a whole set of other
+chemical components,
+7636.44 fiber, long chains of sugar molecules
+7640.22 that need a huge amount
+of work by your stomach,
+7645.802 your gut system, to break it down.
+7649.07 So you are using a huge amount of energy
+7653.21 to extract energy and the balance
+7659.0 it's very different that when
+7663.351 I take this process highly
+extracted tangerine,
+7667.548 by the way I use tangerines
+because I had a tangerine
+7668.96 just before I came here.
+7670.16 - Delicious, they are delicious.
+7674.46 - And so this goes back to
+the issue of supermarkets.
+7678.26 And to some degree, given a choice,
+7683.54 you don't want to eat
+highly processed foods
+7686.536 because everything's already
+been broken down for you.
+7689.578 And so your system has no work.
+7692.78 And so you are,
+7694.574 co-opting hijacking the circuits in a way
+7696.14 that they're being activated
+7697.61 at a time scale that
+normally wouldn't happen.
+7702.982 - Well, this is why I often feel that,
+7706.14 and I think a lot of data
+are now starting to support
+7708.505 the idea that while indeed the
+laws of thermodynamics apply
+7711.41 calories ingested versus calories burned
+7713.66 is a very real thing, right?
+7718.724 That the appetite for certain foods
+7723.29 and the wanting and the liking
+7726.11 are phenomena of the nervous system,
+7729.23 brain and gut as you've
+beautifully described.
+7731.84 And that changes over time,
+7734.75 depending on how we are
+receiving these nutrients.
+7737.48 - Absolutely.
+7739.508 Look,
+7741.65 we have a lot of work to do.
+7745.7 I'm talking as society.
+7747.62 I'm not talking about you and I.
+7749.99 - We also have a lot of work to do.
+7753.122 - Now.
+7755.12 I think understanding
+7755.953 the circuits is giving us important
+7759.32 insights in how ultimately,
+7761.93 and hopefully we can improve human health
+7766.25 and make a meaningful difference.
+7770.78 Now, it's very easy to try to connect
+7775.1 the dots A to B, B to C, C to D.
+7779.177 And I think there's a lot
+more complexity to it,
+7783.878 but I do think that the
+lessons that are emerging
+7786.38 out of understanding how
+these circuits operate,
+7790.73 can ultimately inform how
+we deal with our diets
+7798.77 in a way that we avoid
+7800.75 what we're facing now as a society.
+7803.87 I mean it's nuts that
+over-nutrition happens
+7809.24 to be such a prevalent problem.
+7812.802 And I also think the training
+of people who are thinking
+7814.73 about metabolic science and
+metabolic disease is largely
+7818.09 divorced from the training
+7819.23 of the neuroscientist and vice versa.
+7821.39 No one field is to blame,
+7822.71 but I fully agree that
+7825.384 the brain is the key over,
+or the nervous system
+7829.222 to be more accurate is one of
+the key overlooked features.
+7832.43 - Is the arbiter,
+7834.56 ultimately is the arbiter
+of many of these pathways.
+7838.28 - As a final question.
+7839.33 And one which is simply
+to entertain my curiosity
+7842.96 and the curiosity of the listeners.
+7846.05 What is your absolute favorite food?
+7849.26 - Oh, my goodness.
+7852.59 - Taste, I should say.
+7855.14 Taste to distinguish between taste
+7858.267 and the nutritive value or lack thereof.
+7860.977 - Look, we, unlike every animal
+7863.037 and every animal species
+eat for the enjoyment of it,
+7870.47 it doesn't happen in the wild,
+7873.02 most animals eat when they need to eat.
+7876.74 Doesn't mean they don't enjoy it,
+7880.261 but it's a completely different story.
+7885.914 I have too many favorite foods
+because I enjoy the sensory
+7889.4 experience rather than the food itself
+7893.69 to me is the whole thing, is
+from the presentation, look,
+7896.841 there've been these experiments
+done in psycho physics,
+7899.3 I'm going to take a salad,
+made out of 11 components
+7904.61 and I'm going to mix
+them all up in potpourri
+7909.304 greens and other things here.
+7910.55 And in the other one,
+7912.355 I'm going to present it in
+a beautiful arrangement.
+7914.26 And I'm going to put them behind
+7915.52 a glass cabinet and
+I'm going to sell them.
+7917.846 And I'm going to sell one
+for $2 and one for $8,
+7921.5 precisely the same ingredient.
+7923.3 Exactly the same amount of each.
+7926.39 Ultimately you're going to mix them,
+7928.27 they're all going to be the same,
+7930.62 and people will pay the
+$8 because you know what,
+7935.78 it evokes a different person.
+7939.5 It gives you the feel
+that, oh my goodness,
+7942.65 I'm going to enjoy that salad.
+7946.07 So going back to,
+7947.33 what is my favorite food,
+7949.46 to me eating is really
+7955.848 a sensory journey.
+7959.116 I don't mean the every
+day, let me have some
+7960.869 chicken wings, because
+I'm hungry it, but eh,
+7967.49 every piece I think has an important
+7973.82 evoking sensory role.
+7979.61 And so in terms of categories
+7983.18 of food I grew up in Chile.
+7986.21 So meat has always been,
+but I eat it so seldom now.
+7993.79 - Is that right?
+7995.75 - Yeah, because I know that it's
+7997.169 not necessarily the healthiest thing,
+7998.15 red meat I'm talking about.
+8001.45 And so I grew up eating it every day.
+8004.96 I'm talking seven days a
+week, Chile, Argentina,
+8008.23 that's the mainstay of our diet.
+8013.21 Now maybe I have red meat.
+8016.337 I don't know, once every four weeks.
+8020.77 - And you enjoy it?
+8021.64 - Oh, I love it.
+8022.75 Part of it is because I
+haven't had it in four weeks.
+8026.17 But you know, I love sushi,
+8030.785 but I love the art of
+sushi, the whole thing,
+8034.99 the way it's presented, it
+changes the way you taste it.
+8041.32 I love ethnic food in particular.
+8046.21 - You're in the right place.
+8048.103 - You got it, that was the main reason
+8049.33 I wanted to come to New York.
+8050.5 No, I'm just kidding.
+8052.834 - There's also that
+Columbia University that's-
+8055.26 - And I came here because
+I wanted to be with
+8057.79 people that are thinking about the brain,
+8060.16 the same way that I like to think,
+8061.78 which can we solve this big
+problem, this big question.
+8067.001 - And certainly you're
+making amazing strides
+8068.86 in that direction.
+8069.79 And I love your answer because
+it really brings together
+8073.48 the many features of the circuitries
+8075.31 and the phenomena we've
+been talking about today,
+8076.99 which is that while it begins
+with sensation and perception,
+8080.32 ultimately it's the context.
+8081.91 And that context is highly
+individual to person,
+8084.7 place and time, and
+many, many other things
+8088.72 on behalf of myself.
+8090.76 And certainly on behalf
+of all the listeners,
+8092.8 I want to thank you, first of all,
+8094.57 for the incredible work
+8096.703 that you've been doing now for decades,
+8097.891 in vision, in taste and
+in this bigger issue
+8100.06 of how we perceive and experience life,
+8103.06 it's truly pioneering and incredible work.
+8105.637 And I feel quite lucky to
+have been on the sidelines,
+8109.45 seeing this over the years
+and hearing the talks
+8111.28 and reading the countless
+beautiful papers,
+8114.31 but also for your time today
+8115.96 to come down here and talk to us
+8118.901 about what drives you and
+the discoveries you've made.
+8121.15 Thank you ever so much.
+8122.77 - It was great fun.
+8124.45 Thank you for having me.
+8125.98 - We'll do it again.
+- We shall.
+8128.83 - Thank you for joining me today
+8129.91 for my discussion about
+perception and in particular,
+8132.7 the perception of taste
+with Dr. Charles Zuker.
+8135.85 If you're learning from, and
+or enjoying this podcast,
+8138.37 please subscribe to our YouTube channel.
+8140.08 That's a terrific zero
+cost way to support us.
+8142.51 In addition, please subscribe
+8143.95 to the podcast on Spotify and Apple
+8146.47 and on Spotify and Apple,
+8148.24 you can leave us up to a five star review.
+8150.52 If you have feedback for us in terms
+8152.35 of comments related to
+topics we've covered,
+8154.66 or questions or topics or
+guests that you'd like us
+8157.3 to cover on future episodes
+of the Huberman Lab Podcast,
+8160.09 please put those in the
+comment section on YouTube.
+8163.278 We do read all the comments.
+8164.17 On today's episode of
+the Huberman Lab Podcast,
+8166.48 we didn't talk about supplements,
+8168.802 but on many previous episodes
+of the Huberman Lab Podcast,
+8170.71 we talk about supplements
+that are useful for sleep,
+8172.78 for focus, for hormone support
+8174.25 and other aspects of mental health,
+8175.84 physical health, and performance.
+8177.64 If you're interested in
+some of those supplements,
+8179.2 you can go to
+livemomentous.com/huberman to see
+8182.11 the catalog of supplements that
+we've helped them formulate.
+8184.87 And that map directly onto
+specific protocols described
+8188.02 on the Huberman Lab Podcast.
+8189.19 Again, that's livemomentous.com/huberman.
+8191.631 If you're not already
+following us on social media,
+8194.47 we are Huberman Lab on Twitter
+8196.42 and Huberman Lab on Instagram.
+8198.37 And at both Twitter and Instagram,
+8200.95 I cover science and science related tools.
+8203.17 Some of which overlap with the content
+8204.73 of the Huberman Lab Podcast,
+8205.99 but much of which is distinct
+8207.01 from the information contained
+in the Huberman Lab Podcast.
+8209.83 We also have a newsletter in
+which we spell out protocols
+8212.8 and some summaries from
+previous podcast episodes.
+8215.59 If you'd like to check those out,
+8216.67 you can go to hubermanlab.com,
+8218.5 go to the menu and you'll find
+8220.03 the Neural Network Newsletter.
+8221.53 You can sign up for that newsletter simply
+8223.03 by providing an email,
+it's completely zero cost.
+8226.09 We have a very strict privacy policy.
+8227.62 We do not share your email with anybody.
+8229.39 Again, that's hubermanlab.com,
+8231.04 go to the menu and look for
+the Neural Network Newsletter.
+8233.59 And if you'd like examples
+of previous newsletters,
+8235.72 you'll also find those at hubermanlab.com.
+8238.12 Once again, thank you
+for joining me today,
+8239.62 my discussion with Dr. Charles Zuker
+8241.75 about the biology of
+perception and the biology
+8243.85 of the perception of taste in particular,
+8245.95 I hope you found that discussion
+8248.146 to be as enriching as I did.
+8249.34 And last, but certainly not least,
+8251.41 thank you for your interest in science.
+8253.427 [light rock music]

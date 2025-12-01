@@ -1,0 +1,3466 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.28 where we discuss science
+3.71 and science-based tools for everyday life.
+6.044 [upbeat rock music]
+9.43 I'm Andrew Huberman,
+10.37 and I'm a professor of
+neurobiology and ophthalmology
+12.87 at Stanford School of Medicine.
+15.0 Today, we are talking all
+about food and the brain.
+18.17 We are going to talk about
+19.12 foods that are good for your
+brain in terms of focus,
+22.76 in terms of brain health generally,
+24.6 and the longevity of your brain,
+26.54 your ability to maintain cognition
+28.81 and clear thinking over time.
+31.05 We are also going to talk about why
+33.33 and how you prefer
+certain foods to others.
+36.35 And I'm going to talk about
+the three major signals
+38.86 that combine to drive your food choices.
+42.84 I'll give you a little
+hint of what those are.
+45.19 One of those signals comes from your gut
+47.61 and is completely subconscious.
+49.91 This is not the gut microbiome, per se.
+52.54 These are neurons in your gut
+53.96 that are sending signals to your brain
+55.49 that you are unaware of
+57.2 about the nutrient contents of
+the foods that you're eating.
+60.52 The second signal is
+62.55 how metabolically
+accessible a given food is,
+65.83 meaning how readily that food
+67.99 can be converted into
+energy that your brain,
+70.63 not your body,
+71.463 but that your brain can use.
+73.89 And the third signal is perhaps
+the most interesting one.
+77.23 It's the signal of belief.
+78.94 It's the signal of what you perceive
+81.15 and believe the food that
+you're eating to contain,
+84.85 and what you think it can
+do for you health-wise
+87.55 and energy-wise.
+88.98 And that might sound a
+little wishy-washy or vague,
+91.22 but we're going to
+provide mechanistic data
+94.11 to support the fact that
+you can change what you eat
+97.87 so much so that you can drive your brain
+101.79 and your body to crave
+foods that are good for you,
+104.91 or at least better for you
+106.76 than the foods you might
+currently be eating.
+108.92 This is an incredibly powerful
+mechanism that we all have.
+112.61 It's one that I think is
+very underappreciated.
+115.2 And today, I'm going to review the data
+116.91 from both animal models,
+118.05 and fortunately, more
+recently, human studies,
+120.98 that really do underscore the fact
+123.0 that you can control your
+desire for particular foods.
+127.4 Before we dive into today's topic,
+129.6 I just want to briefly touch on
+131.62 some key takeaways from
+a previous episode,
+134.62 which is the episode on
+time restricted feeding,
+137.56 also called intermittent fasting.
+140.21 The key elements of
+time restricted feeding
+143.48 that will benefit your health the most,
+145.97 in terms of weight loss or maintenance,
+148.35 fat loss, organ health,
+quality sleep, and cognition,
+153.22 are that the feeding window begin
+155.28 at least one hour after waking.
+158.22 You could push that feeding
+window out to begin later,
+160.8 but at least one hour after waking.
+163.437 And that it end at least two,
+166.35 and ideally, three hours
+before going to sleep.
+170.57 Some people can end that feeding window
+172.98 much further away from
+the beginning of sleep,
+176.32 meaning they're finishing
+their last bite of food,
+178.89 for instance, at 6:00 PM,
+180.12 and they're not going
+to sleep until midnight.
+181.86 But many people struggle
+to get quality sleep
+184.68 if that feeding window is set too early
+187.7 relative to when they go to sleep.
+189.2 So begin the feeding window at
+least one hour after waking.
+193.447 End the feeding window
+194.67 at least two hours before going to sleep.
+197.2 And a key feature based on
+the scientific research,
+201.23 is that the feeding window itself
+203.5 fall more or less at the same
+period of each 24 hour day
+207.81 from day to day.
+209.14 Meaning, if you are going to
+eat over an eight hour period,
+212.6 that's your feeding window,
+214.27 you wouldn't want to
+start that feeding window
+216.88 at 10:00 AM one day and end it at 6:00 PM,
+219.2 and then the next day, start
+at noon and end it at 8:00 PM,
+222.048 and the next day, start it at 2:00 PM
+224.426 and end it at 10:00 PM, and so forth.
+226.94 As much as is reasonably possible,
+229.78 if you want to extract the maximum
+231.42 benefit from time restricted feeding,
+233.4 the idea is to keep
+that feeding window at,
+236.69 more or less, the same
+phase, as it's called,
+239.38 of each 24 hour day.
+241.27 If it slides around a little
+bit for social reasons
+243.62 or whatever reasons,
+244.92 it doesn't seem to be a big deal,
+246.57 but you don't want it sliding around
+248.64 by many hours from day to day,
+250.83 because of the way that
+that feeding window
+252.83 impacts other genes called clock genes
+255.08 that regulate a bunch of
+other processes in the body.
+258.39 Before we begin,
+259.4 I'd like to emphasize that this podcast
+261.2 is separate from my teaching
+and research roles at Stanford.
+264.28 It is, however, part of my desire
+265.97 and effort to bring zero
+cost to consumer information
+268.65 about science and science related tools
+270.87 to the general public.
+272.36 In keeping with that theme,
+273.79 I'd like to thank the
+sponsors of today's podcast.
+276.82 Our first sponsor is ROKA.
+279.03 ROKA makes eyeglasses
+and sunglasses that are
+281.28 of the absolute highest quality.
+283.95 I've spent a career working
+on the visual system,
+286.5 and one of the key problems
+288.1 that ROKA sunglasses has solved is,
+291.2 if you've ever worn sunglasses,
+292.47 and you've gone from a
+very bright region to, say,
+294.79 a region with shadows,
+296.03 oftentimes, you have to
+take the sunglasses off.
+298.38 They've designed their
+sunglasses in a way,
+300.14 that no matter whether
+you're standing in the shade
+302.89 or in bright sunlight,
+304.03 you always see things with
+absolute crystal clarity,
+307.1 which is wonderful.
+308.22 Their eyeglasses as well are designed
+310.34 so that you can move from
+311.173 one region of brightness to another
+312.84 without noticing it at all.
+314.55 The other thing that's really terrific
+315.94 about ROKA eyeglasses and sunglasses,
+317.82 is that they are very lightweight.
+319.27 Most of the time,
+320.103 you don't even remember
+that they're on your face.
+321.74 And you can wear them
+322.91 whether or not you're
+exercising or working,
+325.54 because they won't slip
+off, even if you get sweaty.
+329.52 The other thing that's really wonderful,
+330.88 is that the aesthetic is terrific.
+332.67 Unlike a lot of so-called
+performance glasses out there
+335.59 that make people look like cyborgs,
+337.34 or frankly, just look rather strange,
+339.53 ROKA eyeglasses and sunglasses
+have a terrific aesthetic.
+342.41 You could wear them to dinner,
+to work, running, exercising,
+345.95 and they'll work for all those situations.
+348.18 If you'd like to try ROKA,
+349.47 you can go to ROKA.com.
+351.26 That's R-O-K-A.com and
+enter the code: Huberman
+354.82 to save 20% on your first order.
+357.59 Today's episode is also brought
+to us by Athletic Greens.
+360.71 Athletic Greens is a vitamin
+mineral probiotic drink
+363.75 that's designed to cover your
+foundational supplementation
+367.17 and health needs.
+368.53 I've been using Athletic
+Greens since 2012,
+370.95 so I'm delighted that they're
+sponsoring the podcast.
+373.58 The reason I started
+using Athletic Greens,
+375.36 and the reason I still drink
+376.42 Athletic Greens once or twice per day,
+378.64 is because it covers all of my
+vitamin mineral basic needs,
+382.24 and because of the probiotics.
+384.38 There's now ample data supporting the fact
+386.32 that probiotics support
+a healthy gut microbiome,
+390.11 and that the gut microbiome is important
+392.31 for keeping inflammation
+low, which is good,
+395.66 as well as for supporting
+the immune system,
+397.63 and for supporting brain health
+399.36 through the so-called gut brain access.
+401.76 If you'd like to try Athletic Greens,
+403.27 you can go to Athleticgreens.com/Huberman.
+406.21 And if you do that, you
+can claim a special offer.
+408.65 They'll give you five free travel packs.
+410.33 So these packs make it really
+easy to mix up Athletic Greens
+412.77 when you're on the road,
+in the car, et cetera.
+415.05 And they'll give you a year
+supply of vitamin D3/K2.
+418.8 There's now a lot of
+data pointing to the fact
+421.039 that vitamin D3 and K2 are
+important for hormonal health,
+425.23 for cardiovascular function.
+426.91 And so if you go to
+Athleticgreens.com/Huberman,
+429.88 you'll get the Athletic Greens,
+the five free travel packs,
+432.07 and a year supply of vitamin D3/K2.
+435.23 Today's episode is also
+brought to us by Headspace.
+438.49 Headspace is a meditation app
+440.13 backed by 25 peer-reviewed
+published studies.
+443.79 I think by now, most people have heard
+446.08 of the benefits of meditation.
+448.04 Reduce stress, improves sleep,
+better cognition, et cetera.
+452.05 I've been meditating for a long time,
+454.04 but I have to admit,
+455.97 it's been sort of an on and off thing.
+457.45 There are periods of
+time over the last 10,
+459.91 or gosh, even 20 or 30 years,
+461.97 that I've meditated consistently,
+463.58 and then I'll stop meditating.
+465.26 One of the terrific things about Headspace
+466.98 is that it has meditations
+of different duration
+469.19 and different type.
+470.32 And so I found, that as soon
+as I started using Headspace,
+473.06 that I was meditating
+far more consistently.
+475.99 One of the great things about meditation
+477.78 is that it works the first time,
+479.88 and it works every time.
+481.14 And the more consistently I do it,
+483.57 the more positive
+benefits I seem to derive.
+486.38 If you'd like to try Headspace,
+487.61 you can go to headspace.com/specialoffer.
+490.79 And if you do that,
+491.88 you'll get a free one month trial
+493.64 with all of Headspace's
+full library of meditations.
+496.91 This is the best deal offered
+by Headspace right now.
+499.33 So if you're interested,
+500.57 go to headspace.com/specialoffer.
+503.58 I'd like to point you toward
+504.55 what I think is a very valuable
+zero cost resource online.
+508.57 Recently, I took part in an
+event called Rethink Education
+512.61 that was put on by Logitech.
+514.37 And there, I gave a 20 minute lecture
+516.82 where I describe the classic
+519.26 and modern neuroplasticity literature
+522.12 in both animal models and humans.
+524.15 The neuro-plasticity
+literature is, of course,
+526.01 the literature that describes
+527.26 how to rewire the brain in order to learn.
+530.64 During that 20 minute talk,
+531.88 I describe that literature,
+532.93 but I also spell out what I call
+535.04 the neuroplasticity super protocol,
+537.19 which is nine-plus steps of things
+539.96 that teachers can apply in the classroom
+542.26 to teach any sort of information,
+543.93 music, math, sports, anything,
+546.89 and that students of any kind in any age
+549.27 can use to enhance the
+speed and depth of learning.
+552.27 You can find that talk on YouTube
+554.67 by following the link in
+the caption to this episode,
+557.65 or by simply going to YouTube
+559.17 and entering the search
+terms: Logitech Huberman.
+562.22 Some of the most frequent questions I get
+563.85 are about food and the brain.
+566.36 Everybody seems to want to
+know what they should eat
+568.69 and what they shouldn't eat
+570.2 in order to have peak brain function,
+572.13 to be able to focus, and
+memorize things, and so forth,
+575.62 and in order to maintain
+brain health over time,
+578.42 because nobody wants to lose their memory
+580.65 or have troubles with cognition.
+583.21 Fortunately, there are a lot of data now
+585.37 from really good quality
+peer-reviewed studies
+588.54 that indicate certain
+things that we can do,
+590.86 including certain foods
+that we should eat,
+593.29 and perhaps, even some
+foods that we should avoid,
+595.7 in order to enhance our brain function.
+598.4 And, of course, when I say, brain,
+599.75 what I really mean is
+nervous system function,
+601.73 because how we are able to move,
+604.27 and remember things, et cetera,
+605.94 doesn't just depend on the neurons,
+607.53 the nerve cells that are in our head,
+608.82 it also depends on our spinal cord,
+611.04 and the neurons that connect
+to all the organs of our body.
+613.91 So in general,
+615.94 there are two categories of things
+617.4 that are going to improve brain health
+619.72 from the perspective of nutrition.
+622.03 The first category is the general category
+625.3 of things that we eat and avoid,
+627.12 and things that we do and avoid doing,
+629.4 that will modulate brain
+health and function.
+632.21 What do I mean by modulate?
+633.64 Well, getting quality
+sleep on a regular basis.
+638.21 Making sure that you're
+socially connected.
+640.58 Making sure that you're not depressed.
+642.71 All these things are vitally important
+644.4 to our overall health ,
+645.61 and, of course, they will
+impact brain function,
+647.78 but they do it, more or
+less, indirectly, okay?
+650.44 There are a few things
+that happen in sleep
+652.04 which directly benefit brain function,
+654.58 and repair, et cetera.
+656.13 But today, I really want to concentrate,
+657.88 not on the things that
+modulate our overall health,
+660.88 but rather, the things that
+mediate brain health directly,
+664.57 and in particular, how certain
+foods enhance brain function.
+668.72 And we are going to talk about
+670.35 how we can change our
+relationship to food.
+672.75 Literally, how we can start
+to prefer certain foods
+675.81 that are better for us than others.
+678.38 So just briefly, I want to touch
+on the modulatory components,
+682.11 because they are vital.
+684.09 First of all,
+685.4 getting quality sleep on a regular basis
+688.04 and ample sleep on a regular basis
+690.48 is the foundation of all mental
+health and physical health.
+694.77 There's no question about that.
+696.36 We've have done several episodes,
+698.09 including the Mastering
+Your Sleep episode,
+700.37 which is episode two of
+the Huberman Lab Podcast.
+702.61 And we've done a lot of other episodes
+704.67 that are all about sleep,
+705.96 and how to get better at sleeping.
+707.83 So I just want to make crystal clear,
+710.46 that unless you're sleeping
+well on a regular basis,
+713.51 your brain will suffer.
+714.61 You won't be able to focus
+very well, learn very well,
+716.77 and indeed, there are data linking
+719.36 poor quality sleep to dementia,
+721.96 or at least exacerbating
+pre-existing dementias,
+724.85 and things of that sort.
+725.7 So get your sleep in order.
+727.3 The other, of course, is
+cardiovascular health and exercise.
+730.91 The general prescription that's
+out there in the literature,
+733.86 and I think is well supported,
+735.44 is to get somewhere
+between 150 and 180 minutes
+739.13 of cardiovascular exercise per week.
+741.25 If you choose to also use
+resistance exercise, that's great.
+744.58 But the 150 to 180
+minutes minimum per week
+748.75 of cardiovascular exercise
+750.37 is crucial for heart health,
+752.84 and heart health directly
+relates to brain health,
+755.47 because the brain consumes
+a lot of oxygen, glucose,
+758.68 and other factors that are
+delivered via the blood.
+761.57 So if your arteries are clogged up,
+763.61 and you've got poor
+vascular supply to the brain
+766.43 in any region of the brain,
+767.7 your brain will suffer.
+769.3 So get cardiovascular health in order.
+772.38 Now, with those two
+modulatory elements set forth,
+776.68 so that we're all aware that they're there
+778.1 and they are vitally important,
+779.53 now, I'd like to turn to the
+elements that have been shown
+782.21 to be vitally important
+for directly controlling,
+784.99 for mediating neuron function.
+787.31 Neurons, of course, are
+nerve cells in the brain,
+789.64 and there are other cell
+types, too, of course,
+792.0 that will impact brain function.
+794.01 The most prominent of which
+are the so-called glia.
+797.42 Glia means glue.
+798.68 But even though, for a long time,
+800.79 people thought that these cells
+801.69 were just kind of holding
+things together passively,
+803.59 the glia play a very active role
+806.31 in the metabolism neurons
+in brain function,
+809.06 and probably, also, in cognition,
+811.14 in thinking, and so forth.
+813.41 So what are the things that
+directly impact brain health,
+817.05 and what are the foods that we can eat
+818.87 that will support brain health?
+820.73 Generally, when we think
+about neuron function
+822.487 and brain function,
+824.23 we default to a discussion about fuel.
+826.97 The fact that neurons use
+glucose, which is blood sugar,
+830.95 and that they require a lot of it.
+832.77 In some cases, they'll use ketones,
+834.59 which we will talk about
+a little bit later,
+836.25 especially in people that are
+following a low carbohydrate
+838.48 or ketogenic diet.
+840.47 But before we can even consider the fuels
+842.98 that neurons use in order to function,
+845.32 we have to talk about
+846.62 the elements that actually
+allow those neurons to be there
+849.68 and to stay healthy,
+851.02 what actually makes up those neurons.
+852.8 And that brings us to, what I would argue,
+854.71 is the most important food
+element for brain function,
+859.41 and that is fat.
+861.23 And that may come as a surprise,
+862.9 but unless one considers the
+water content of the brain,
+866.14 which is very high,
+868.4 a lot of our brain,
+869.58 and a lot of the integrity
+of the nerve cells,
+871.82 the so-called neurons in our brain,
+873.88 and the other types of
+cells comes from fat.
+876.95 And that's because nerve cells
+and other cells in the brain
+879.87 have a external layer.
+882.99 It's what's sometimes called
+a double-layered membrane.
+886.61 It's essentially two thin layers
+888.32 that serve as a boundary
+between those cells,
+889.967 and that boundary is important,
+891.71 because how things pass
+across that boundary
+894.25 actually regulates the
+electrical activity of neurons,
+897.6 which is the way that neurons
+fire, and communicate,
+899.9 and keep you thinking, and acting,
+901.15 and doing all the good things
+902.09 that those neurons allow us to do.
+904.27 And those membranes are made up of fats,
+906.83 but they're not made up of the fats
+908.09 that are around our belly,
+910.29 around the other organs of our body.
+912.0 They're not made up of storage fat.
+913.64 They are made up of structural fat.
+916.4 And maintaining the so-called integrity
+918.38 of that structural fat,
+919.87 meaning the health of those neurons,
+922.02 is going to come, in large part,
+923.9 from the foods that we eat.
+925.85 Now, this needs to be underscored.
+927.99 What I'm saying is, that
+the foods that we eat
+930.06 actually provide the structural
+basis, the building blocks,
+933.1 of the very neurons that
+allow us to think over time.
+936.69 And as I mentioned earlier,
+938.47 the fat that makes up those
+neurons and other nerve cells
+940.92 is different than the other
+types of fat in the body.
+944.21 So what type of fat is it,
+945.44 and what should we eat
+946.77 in order to support that
+fat and those neurons?
+950.55 And the answer is
+951.57 the so-called essential fatty
+acids and phospholipids.
+954.82 Now, those are, more or
+less, the same thing,
+956.44 but I just want to make
+a very large literature
+958.88 very crystal clear.
+961.05 Essential fatty acids can include
+962.98 the so-called EPA variety or DHA variety.
+966.42 You hear about omega-3s and omega-6s.
+969.08 Most people are getting enough
+omega-6s from their diet.
+972.51 Not everybody, but most people
+are getting enough omega-6s.
+975.28 However, most people
+are not getting enough
+978.41 omega-3s in their diet to
+support healthy brain function
+981.38 in the short and long-term.
+983.05 I've talked before about the benefits of
+985.41 elevating the levels of
+omega-3s in one's diet
+988.27 for sake of offsetting depression
+and for enhancing mood.
+991.87 And indeed, there's a
+wealth of literature now
+994.37 pointing to the fact that
+ingesting at least one, or two,
+998.01 or even three grams per day of
+1000.532 EPA form of essential fatty acid
+1003.7 can have effects, positive effects,
+1006.1 on mood and wellbeing
+that are at least on par
+1008.32 with some of the major
+antidepressant treatments out there,
+1010.59 but without similar side effects
+1012.67 to those antidepressant treatments.
+1014.21 And that for people that are
+already taking antidepressants,
+1017.92 that supplementing with one, to two,
+1020.35 to three grams of EPA
+essential fatty acids
+1023.76 can actually allow a lower dose of
+1026.32 antidepressant treatment to be used,
+1028.03 and still be effective.
+1029.38 So that's depression.
+1030.97 But just in terms of maintaining
+normal cognitive function
+1033.86 in people that aren't depressed,
+1035.08 the EPAs and omega-3s seem to
+play a very important role.
+1039.29 Of course, you can supplement EPAs
+1041.75 through various fish oils,
+1043.24 and it could be liquid fish
+oil, or a capsule fish oil.
+1046.3 Some people, if they're not
+interested in eating fish
+1049.1 for whatever reason,
+1050.11 they're allergic, or for ethical reasons,
+1051.95 they can take krill oil.
+1053.26 And if they don't want to use krill oil,
+1054.8 they can use algae and other forms of EPA.
+1057.73 However, I think it's clear,
+1060.3 that one can get a lot of
+EPA from the proper foods.
+1063.87 And it turns out, that those
+foods, not surprisingly,
+1066.82 don't just contain high levels of EPA,
+1069.38 but they also contain other things
+1071.16 that are beneficial for brain health.
+1073.02 So what are foods that
+are high in omega-3s
+1075.89 that we should all probably be consuming,
+1078.03 at least on a daily basis?
+1081.02 The number one is fish.
+1083.38 So things like mackerel,
+and salmon, and herring,
+1086.35 and oysters, and sardines, and anchovies.
+1089.33 And perhaps, the heavyweight champion
+1091.35 of EPAs per unit volume is caviar.
+1094.28 Now, I don't know about you,
+1095.67 but I'm not eating a lot of fish.
+1097.46 I'm not eating a lot of caviar.
+1099.58 I don't think...
+1100.413 I can't remember the
+last time I had a caviar,
+1102.15 unless it was sprinkled
+on a little bit of sushi.
+1104.61 I'm not a big fish eater personally.
+1107.56 I will from time to time.
+1108.94 But that's one reason why
+1110.41 one might want to supplement
+with EPAs from another source.
+1114.69 But also, EPAs are found
+in chia seeds, in walnuts,
+1119.63 in soybeans, and other plant-based foods.
+1122.01 You can look these up online,
+1123.55 and you'll immediately see
+1124.94 that there are a lot of sources of EPAs.
+1127.57 And many of the foods that I listed off
+1129.79 might be appetizing to you,
+1131.07 some of them might be unappetizing to you,
+1132.78 or some of them you might
+be sort of neutral about.
+1135.23 But it's very clear,
+1136.17 that eating foods that
+are rich in omega-3s,
+1138.68 and/or supplementing with omega-3s,
+1140.36 to get above that 1.5 grams,
+1142.92 and ideally, up to two,
+or even three grams,
+1145.5 per day of EPA can be very
+beneficial for cognitive function
+1150.28 in the short and long-term.
+1152.57 Later in the episode,
+1153.65 I'm going talk about
+1154.57 how to actually change your relationship
+1157.04 to particular foods,
+1157.93 so that foods that you
+don't particularly like,
+1159.76 you can actually start to like more,
+1161.86 and that might be
+important for those of you
+1163.61 that are thinking, mackerel, sardines.
+1165.607 I'm making this face,
+1167.03 'cause, frankly, those are not
+foods that I naturally like.
+1170.35 But again, I want to emphasize,
+1171.78 that you don't have to consume fish
+1173.76 and animal products in order
+to get sufficient EPAs.
+1175.89 You can get them from plants.
+1177.17 But I do believe,
+1178.65 based on the quality
+peer-reviewed research,
+1181.29 that everybody should be striving
+to get a minimum threshold
+1184.64 of at least a gram and
+a half of EPAs per day
+1186.8 one way or the other.
+1188.4 The great thing about omega-3s
+1189.93 is that they are also
+thought to be beneficial
+1191.95 for things like cardiovascular health.
+1193.71 And although there's
+some controversy there
+1196.03 as to whether or not two
+grams, or three grams,
+1198.87 or six grams is ideal for
+cardiovascular health,
+1201.01 I think the bulk of
+evidence points to the fact
+1203.31 that getting sufficient
+omega-3s in the diet
+1205.26 is going to support cardiovascular health.
+1207.83 Certainly not the only
+thing people should be doing
+1209.58 to support their cardiovascular health.
+1211.54 Aerobic exercise, and so
+forth, being important also.
+1214.68 But it does seem to support
+cardio vascular health,
+1217.447 and in doing so, supporting brain health.
+1220.17 However, what I'm emphasizing is,
+1223.4 ingestion of omega-3s to support
+1226.16 the very cells within the brain
+1227.8 that make up our cognition,
+1229.04 that allow for cognition,
+and for movement, and memory,
+1231.71 and all the other marvelous
+things that the brain does.
+1235.04 The other compound that has been shown
+1236.72 to be directly supportive
+of neuronal function
+1239.54 is phosphatidylserine,
+1241.51 which is abundant in meats and in fish.
+1244.95 So here we are again
+1245.8 back to fish being an important source
+1247.83 of brain supporting food.
+1250.24 Phosphatidylserine is
+something that, nowadays,
+1253.23 people are supplementing.
+1254.45 It's a lipid-like compound that,
+1256.98 at least in three studies,
+1259.34 have been shown to improve cognition.
+1261.06 These weren't huge effects,
+1262.31 but they were statistically
+significant effects.
+1264.73 And as well in more than three,
+1267.77 at least five studies,
+1269.43 to reduce cognitive decline.
+1271.89 And this is interesting.
+1272.82 In every case,
+1273.653 it was 300 milligrams
+supplemented phosphatidylserine,
+1277.53 but one, again,
+1278.363 doesn't need to supplement
+phosphatidylserine.
+1281.16 Phosphatidylserine can be
+derived, as I mentioned,
+1283.75 from meats and fish,
+1284.96 and to some extent, from
+cabbage of all things.
+1287.07 So I don't know how much
+cabbage people are ingesting.
+1289.47 But later, when we talk about gut health,
+1291.1 and the relationship between
+gut health and brain health,
+1294.43 I'll mention fermented foods.
+1296.1 And, of course, one of the most
+1298.37 readily available
+fermented foods out there
+1300.17 that at least many people
+find appetizing is sauerkraut,
+1303.79 which is, of course, made from cabbage.
+1305.21 It's fermented cabbage.
+1306.47 So for those of you that
+do consume meat and fish,
+1309.73 provided you're getting enough fish,
+1310.93 you're probably getting
+enough phosphatidylserine.
+1312.9 For those of you that are interested in
+1314.16 supplementing phosphatidylserine
+to get these effects
+1317.18 that were reported in
+these various manuscripts,
+1320.62 which, by the way, I've
+read, and looked solid.
+1323.09 I mean, I don't think we've seen
+1324.59 the landmark study showing
+1326.22 that supplementing with phosphatidylserine
+1328.04 at 300 milligrams per day
+1329.61 is going to create a huge offsetting
+1332.69 of a massive cognitive decline,
+1334.26 or a massive increase in brain function.
+1336.52 These seem to be modest effects,
+1338.64 but the effects do appear to be real.
+1341.03 For those of you that are interested
+1342.03 in supplementing with phosphatidylserine,
+1343.94 it's a relatively
+inexpensive supplement that,
+1346.51 again, is lipid-like.
+1347.69 So it's mimicking some of the same things
+1349.44 that you would get from food,
+1350.38 but in a higher concentration.
+1352.6 Now, after EPA, fatty acids,
+and phosphatidylserine,
+1358.09 I would say, third on the list
+1359.8 of things that come from food
+1361.74 that can readily support brain
+function would be choline,
+1365.38 and that's because of the
+relationship to choline
+1367.69 in the biosynthesis pathway
+for a acetylcholine.
+1371.18 Acetylcholine is a neuromodulator,
+1373.36 not a neurotransmitter,
+1374.44 but a neuromodulator in the brain.
+1376.743 A neuromodulator is a
+chemical that modulates
+1380.26 the function of many brain circuits,
+1382.52 and also, circuits within the body.
+1384.72 I'll mention what those are in a moment.
+1386.43 But acetylcholine, as a neuromodulator,
+1389.67 tends to enhance the activity,
+1391.93 the electrical activity
+and chemical activity,
+1393.98 of certain sets of neurons,
+1395.74 and downplay the activity
+of other neurons.
+1398.75 So it's sort of a conductor of sorts
+1400.72 leading to enhanced function
+1402.89 and activity in certain
+brain areas and circuits,
+1405.19 and not in others.
+1407.64 For instance, the brain
+areas that are involved
+1409.97 in focus and alertness.
+1411.57 We have multiple clusters
+of neurons in our brain
+1413.98 that make acetylcholine.
+1415.89 Two of the most prominent and well-known
+1417.65 are the so-called nucleus basalis,
+1419.05 which is a cluster of neurons
+1420.51 deep in the basal forebrain
+1422.13 that highlight particular
+areas of our brain.
+1424.9 Highlight meaning when acetylcholine
+1427.19 is released from those neurons
+1428.89 at their nerve endings in
+particular areas of the brain,
+1431.01 those particular areas of the brain
+1432.72 can undergo enhanced levels of activity
+1434.76 relative to surrounding area.
+1436.3 So it's kind of a
+electrical highlighter pen,
+1438.62 if you will, by analogy.
+1441.72 That is the basis of much
+of what we call focus,
+1445.39 or our ability to concentrate
+1447.22 on a particular batch of information
+1449.35 that's coming in through our
+eyes, our ears, our nose,
+1451.32 or even things that we're
+just thinking in our head.
+1453.55 So having ample choline for
+production of acetylcholine
+1457.64 allows for focus through, of
+course, many intervening steps.
+1461.23 There are also regions of the brain
+1463.02 in the so-called back of
+the brain, the hindbrain,
+1465.27 that release acetylcholine
+1467.08 that are involved in
+general states of alertness.
+1470.24 And not surprisingly then,
+1472.51 many of the treatments
+for Alzheimer's disease,
+1474.97 which is an inability
+1476.71 or challenges with remembering
+things and focusing,
+1480.21 are drugs that impact the
+acetylcholine pathway,
+1484.18 and are aimed at enhancing
+the amount of acetylcholine
+1487.57 that's available to neurons.
+1489.53 And it can do that through a
+number of different mechanisms.
+1491.78 You can do that by enhancing
+1492.93 the amount of acetylcholine
+that's created,
+1494.87 or you can do that by taking a drug
+1497.62 that can reduce the amount of enzyme
+1499.88 that gobbles up the acetylcholine,
+1501.25 and in doing so, leading
+to more net acetylcholine.
+1504.32 But outside of the scenario
+1506.4 where somebody has cognitive
+decline due to Alzheimer's,
+1509.4 all of us are able to focus
+to some degree, or not,
+1513.04 or are able to be alert
+to some degree, or not,
+1515.82 based on the amount of
+acetylcholine that we have.
+1519.01 Now, other processes,
+of course, are involved.
+1521.07 But what this means,
+1522.08 is that making sure that we have enough
+1524.47 of the substrates to create
+acetylcholine is vital
+1527.95 if we want to be able to focus,
+1529.5 and that's why dietary
+choline is so vital.
+1531.77 And the primary source for
+dietary choline would be eggs,
+1535.28 and in particular, egg yolks.
+1537.03 And this, again, has a very
+interesting relationship
+1539.73 to our evolution as well.
+1542.33 We're always referred
+to as hunter gatherers,
+1544.59 but when one hears hunters,
+1545.97 we often think about
+meat and animal sources.
+1548.56 And indeed, as a species,
+1550.1 we hunted many, many
+other species of animals
+1553.29 to consume them, and still do.
+1555.26 But we also fished.
+1556.69 We talked about that earlier.
+1557.8 And consumed a lot of fish,
+1559.147 and we consumed a lot of eggs.
+1561.08 Eggs are an incredibly rich source
+1563.83 of nutrients for the brain,
+1566.84 and that's because the egg, actually,
+1569.8 if you think about it,
+1570.633 contains all the nutrients
+that are required
+1572.71 in order for an organism to grow.
+1575.23 You know, a bird that's in a egg shell,
+1578.1 it's got the yolk there,
+1578.98 and it's using that yolk for a reason.
+1580.98 It's using that yolk as a source of fuel.
+1583.78 It's using that yolk
+1584.62 as a source of, literally, building blocks
+1586.83 in order to create its nervous system.
+1588.47 Many years ago, I worked on chick embryos,
+1591.55 and it was these amazing experiments.
+1592.96 You could actually take an egg,
+1594.92 and you could create a
+little window in the top,
+1597.42 and these were fertilized eggs,
+1598.74 and you'd see, over time,
+you could peer in there,
+1600.95 literally look in with a microscope,
+1602.42 or even with the naked eye,
+1603.6 and you would see this little chick embryo
+1605.89 sitting on top of that
+yolk growing, and growing,
+1607.71 and growing, and growing,
+1608.55 and the yolk getting smaller, and smaller.
+1610.3 It's really, yeah, incredible.
+1612.08 They're using that as a source
+1613.47 for all the building blocks of the body,
+1615.3 but in particular, the nervous system.
+1617.52 So eggs are a rich source of choline.
+1619.47 Some people will supplement with choline.
+1622.81 However, food sources seem to
+be the best source of choline.
+1626.84 And as with the EPAs and the omega-3s,
+1629.44 there are plenty of foods
+that are non-animal-based
+1632.43 that contain choline.
+1634.39 So if you're somebody
+who doesn't eat eggs,
+1636.56 or doesn't want to eat eggs,
+1637.83 things like potatoes, nuts, and seeds,
+1639.83 and grains, and fruit,
+1640.97 they don't have as much choline as eggs,
+1642.94 but they do contain choline.
+1644.49 So you can look up the values of choline
+1646.27 that are present in those various foods,
+1649.31 and make sure that you're
+reaching the threshold
+1651.881 amount of choline for you.
+1652.714 In general, most people
+should probably strive
+1654.62 to get somewhere between 500 milligrams
+1656.73 and a gram of choline per day.
+1658.65 So 1,000 milligrams.
+1659.95 And some people rely on supplementation
+1661.953 in order to hit those levels,
+1663.88 because they're not
+eating a lot of egg yolks,
+1665.57 or they're not eating
+a lot of other foods.
+1667.98 Certain fish contain
+choline, for instance,
+1670.52 and the other foods I
+listed off a few minutes ago
+1672.93 from plant-based sources.
+1675.0 So some people will supplement with
+1678.1 50 to 100 milligrams,
+1679.75 or whatever amount is necessary
+1681.24 to get them up to that one gram,
+1682.85 or even a two gram, dose per day.
+1684.72 So we have three things
+1686.05 that we know can support nerve cells.
+1689.607 EPA, in particular, omega-3 fatty acids,
+1693.29 phosphatidylserine, and choline,
+1696.28 those three things I would list off
+1697.92 as the top three things
+1699.72 for enhancing neuron function,
+1702.74 and the integrity of neurons
+in the short and long-term.
+1705.34 And this, again, is setting aside
+1707.62 the vitally important factors
+of hydration and electrolytes.
+1711.09 I've said it before on other podcasts,
+1712.52 but if you're not ingesting enough water,
+1714.75 and you're not getting enough sodium,
+1716.25 and magnesium, and potassium,
+1718.2 then, obviously, your neurons can't run,
+1720.11 because a lot of the brain is water.
+1722.65 You need to maintain proper hydration.
+1724.24 And sodium, potassium, and
+magnesium are important
+1727.05 in order for nerve cells to function.
+1728.4 In fact, they are actually
+the components, the ions,
+1732.15 that pass across those lipid membranes,
+1734.42 those little fatty membranes
+1735.95 that we were talking about earlier,
+1737.07 that allow the neurons to
+generate electrical activity
+1740.0 and communicate with one another.
+1741.56 So definitely, you want to hydrate enough.
+1743.86 We will do an entire other episode
+1745.4 all about hydration and electrolytes.
+1747.1 But omega-3s, the EPAs,
+phosphatidylserine, and choline,
+1753.32 it's obvious are going to
+improve brain function.
+1757.13 How much they will improve brain function
+1758.64 probably depends on
+1759.473 how well your brain
+was working previously.
+1760.9 In fact, many of the studies
+1762.44 that have looked at the
+effectiveness of these compounds
+1764.52 have looked in people that
+are suffering from mild
+1766.47 or even severe cognitive decline.
+1768.72 And while the outcomes
+of those studies vary,
+1771.96 given the interest in
+maintaining brain function,
+1774.13 given the fact that we
+don't make new neurons
+1776.24 throughout our entire life,
+1777.78 and given that everybody has to eat,
+1780.31 these are quality healthy foods
+1782.13 that we should all be ingesting anyways.
+1784.84 And it's clear that they
+can support brain function
+1787.5 to some degree or another.
+1788.92 Many people will ask what I do
+in light of this information.
+1793.13 And while I can only talk
+about what works for me,
+1796.21 I choose to ingest fish
+oil mainly in liquid form,
+1800.11 because that turns out
+to be the easiest way
+1802.397 and the most economically affordable way
+1805.34 to do it for most people.
+1807.47 So there are various forms
+of liquid fish oil out there.
+1809.79 Some of them include some lemon flavoring,
+1811.39 so it doesn't taste like fish oil,
+1812.72 because frankly, fish oil, to me,
+1814.52 is sort of noxious tasting.
+1816.11 And I'll take a tablespoon
+of that, or two, per day.
+1819.98 If I'm traveling, I'll
+use the capsule form
+1822.81 in order to hit that threshold.
+1824.41 For me, about two, sometimes even three,
+1827.24 grams per day of EPA.
+1829.56 So not just two or three
+grams per day of fish oil,
+1832.44 but two or three grams per day of EPA.
+1834.69 Now, if I'm eating fish,
+1837.11 which as I mentioned
+earlier, is not often,
+1839.03 then I might reduce the amount
+of fish oil that I take.
+1841.09 But that's my major source of fish oil.
+1844.63 Currently, I do not supplement
+with phosphatidylserine.
+1847.48 A number of people that I know and trust,
+1849.29 and indeed, several colleagues of mine,
+1851.129 do take phosphatidylserine.
+1853.15 I don't have any good explanation
+1854.44 for why I don't take it yet,
+1855.58 but I have not tried
+supplementing with it yet.
+1858.52 Maybe if some of you have,
+1859.63 you can place your experience
+in the comment section.
+1863.79 It would be of interest.
+1864.64 And then in terms of choline,
+1866.72 in order to get choline in my diet,
+1868.66 I do pay attention to
+1870.04 the various foods that contain choline,
+1872.14 and I try and get those foods
+on a semi-regular basis.
+1875.75 I do supplement with
+something called alpha-GPC,
+1878.53 which is, essentially, in
+the acetylcholine pathway,
+1882.01 or biosynthesis pathway.
+1883.84 I don't take it very often,
+1885.28 but I will take 300 milligrams
+1887.35 of alpha-GPC from time to time.
+1889.41 From time to time,
+1890.243 I mean anywhere from two
+to three times per week.
+1893.3 I'll generally do it early in the day,
+1894.74 'cause it, for me,
+1895.573 can have a little bit
+of a stimulant effect.
+1897.59 Although, it's not nearly
+as stimulating, say,
+1900.08 as a double espresso, or triple espresso.
+1902.62 But that's one way in which I
+enhance my choline function.
+1906.09 And some people choose to
+get it from supplementation,
+1908.47 because it's straightforward.
+1910.18 There are a lot of supplements out there
+1911.013 that contain alpha-GPC.
+1912.84 Some people are taking dosages
+1914.28 as high as 900 milligrams per day.
+1915.95 That sounds very high to me.
+1917.27 The studies of offsetting
+cognitive decline using alpha-GPC
+1921.25 did use quite high dosages of 600 to 900,
+1925.36 or even 1200, milligrams per day.
+1927.86 So it has been used at those
+much higher concentrations.
+1930.91 But because, fortunately,
+1933.17 at least, not yet, or not to my awareness,
+1935.25 I'm not suffering from
+any cognitive decline,
+1937.47 I will supplement with 300
+milligrams every now and again.
+1940.81 Next on my list of compounds
+1942.51 that have been shown in
+peer-reviewed research
+1944.55 to improve neuronal and
+brain function is creatine.
+1948.52 Creatine can be derived from meat sources.
+1950.88 It can also be supplemented.
+1954.0 Some of you are probably
+familiar with creatine
+1956.03 or have heard about creatine
+1957.23 from the context of the
+health and fitness world,
+1959.88 where creatine is used to
+bring more water into muscles,
+1964.24 which can enhance the
+strength of those muscles,
+1966.57 as well as bring water into other tissues.
+1969.72 It doesn't just draw
+more water into muscle,
+1971.43 it can draw more water
+into the body generally.
+1975.69 Creatine has also been shown to have
+1977.37 an important role in brain function.
+1979.34 And once again, this is
+something that came up
+1981.1 during the discussion about
+depression a few episodes back.
+1985.2 Creatine can actually be used
+as a fuel source in the brain.
+1988.76 And there's some evidence
+1990.85 that it can enhance the function
+1992.13 of certain frontal cortical
+circuits that feed down onto,
+1996.78 or rather, connect to, areas of the brain
+1998.633 that are involved in mood
+regulation and motivation.
+2001.2 And that's where creatine
+plays a role in depression,
+2005.37 or rather, where creatine supplementation
+2008.47 seems to be able to assist in
+some forms of mild depression.
+2012.18 That's an emerging literature.
+2013.41 It's still not well-established.
+2015.33 However, there is now ample evidence
+2018.35 that creatine supplementation
+can enhance brain function
+2021.35 in certain contexts.
+2022.77 And if you're interested in
+2024.19 learning more about
+what those contexts are,
+2026.59 there's an excellent
+review that just came out.
+2028.6 The first author is
+Roschel, R-O-S-C-H-E-L.
+2032.48 We will provide a link to this study,
+2034.66 rather, this review,
+excuse me, in the caption.
+2038.24 This was published just
+very recently in 2021.
+2041.89 And one thing to make clear,
+2043.53 is that creatine supplementation
+2045.44 has been shown to be especially useful
+2047.99 for people that are not consuming any meat
+2050.48 or other sources of foods
+that are rich in creatine.
+2053.44 What is the threshold level
+of creatine to supplement
+2055.97 in order to get the cognitive benefit?
+2058.04 It appears to be at
+least five grams per day.
+2061.17 Now, the most typical form of creatine
+2062.59 is so-called creatine monohydrate.
+2064.29 There are other forms of creatine as well,
+2066.37 some of which are thought to not draw
+2067.69 as much water into non-muscle tissues,
+2070.53 and for some people,
+that's attractive to them.
+2072.93 They don't want water sitting
+below their skin, et cetera.
+2075.62 I should emphasize,
+2076.453 that the responses to creatine
+in that sense can differ.
+2079.68 Some people get a little
+bit of water retention.
+2081.7 Some people experience more.
+2083.4 There's some evidence
+that creatine can impact
+2085.91 some of the hormonal pathways,
+2087.09 that it might enhance levels of
+2088.34 so-called dihydrotestosterone, DHT,
+2090.92 and therefore, because DHT
+is involved in hair loss,
+2093.55 there are these theories that
+creatine can cause hair loss.
+2096.58 And indeed, for people that are
+2097.61 very DHT sensitive, it might.
+2101.38 There's going to be a lot of
+variation person to person
+2104.58 in terms of how much creatine impacts DHT,
+2107.25 and how many DHT receptors
+they have on their scalp,
+2109.64 and therefore, whether or not
+they experience hair loss.
+2111.61 I'm just giving you all this information,
+2113.1 so that you're aware of the various things
+2115.07 that creatine can do.
+2116.53 But nonetheless, I think it's interesting
+2118.47 that creatine supplementation
+of five grams per day,
+2121.15 that's creatine monohydrate,
+2122.68 has been shown to improve cognition
+2124.07 in people that aren't getting
+creatine from animal sources.
+2127.24 And there's some evidence
+detailed within the review
+2131.1 that I just described,
+2132.56 that creatine supplementation
+can also enhance cognition
+2135.99 in people that are also
+eating animal products.
+2140.06 So I personally take
+creatine five grams per day,
+2142.93 and have for a very long time.
+2144.59 I can't say that I've
+noticed a tremendous benefit,
+2147.53 because I've actually
+never really come off it,
+2149.667 and so I've never done
+the control experiment.
+2151.66 I take it more as kind of a
+baseline insurance policy.
+2154.53 For me, I'm probably losing,
+2157.12 I'm certainly losing some of my hair.
+2158.56 Whether or not that's
+due to creatine or not,
+2161.21 I've never done the analysis.
+2163.2 But what I can say is that,
+2165.21 I generally consume these things
+2166.85 like EPAs, creatine, alpha-GPC
+2171.29 to set a general context
+of support for my neurons,
+2176.34 for my brain.
+2177.33 And, of course, I also pay attention
+2179.04 to the foods that contain
+these various compounds.
+2181.28 So I don't actively eat additional meat
+2183.7 just to obtain creatine.
+2186.01 I eat a fairly limited amount of meat.
+2187.58 I don't restrict it,
+2188.76 and I do eat meat,
+2190.0 but I don't actively seek
+out creatine in my diet.
+2193.41 Rather, I use supplementation
+2194.69 in order to hit that five
+grams per day threshold.
+2197.4 Next on the list of foods
+2199.38 that are beneficial for brain health
+2200.87 is one that you've probably
+seen pictures of online,
+2203.45 because there seems to be a practice
+2205.11 of putting pictures of blueberries
+2207.49 and other dark berries next
+to any title that says,
+2210.627 "Foods that benefit your brain".
+2213.68 There are a lot of foods out there
+2215.09 that have been purported
+to improve brain function.
+2218.98 The interesting thing about
+blueberries and other berries,
+2222.28 blackberries, dark currants,
+2224.65 any of these thin-skinned berries
+2227.11 that are purpleish in color,
+2229.63 is that they contain what
+are called anthocyanins.
+2232.86 Anthocyanins actually
+have some really nice data
+2235.61 to support the fact that
+they improve brain function.
+2239.05 Now, whether or not it is
+direct effects on neurons,
+2243.01 or whether or not it is
+by lowering inflammation,
+2246.85 or some other modulatory
+effect, isn't quite clear.
+2250.0 But I think by now, there's
+enough data to support the fact
+2253.91 that eating a cup or two of
+blueberries pretty often,
+2256.95 every day, or maybe you have blackberries,
+2259.51 or maybe it's black currants,
+2260.97 that these anthocyanins are good for us,
+2263.77 that they are enhancing
+our overall wellbeing
+2266.89 at a number of different levels.
+2267.99 And just to give you a couple examples
+2269.56 of where there are actually
+peer-reviewed studies
+2271.88 to support those statements,
+2273.94 the anthocyanins of which blueberries
+2277.23 and other dark berries are rich in
+2280.35 have been shown to reduce
+the amount of DNA damage,
+2284.45 has been shown to reduce significantly,
+2287.61 although, albeit, slightly,
+excuse me, cognitive decline.
+2291.7 And that particular study was
+2293.19 supplementation of a blueberry extract.
+2296.43 I'll talk about the
+difference between extract
+2297.757 and actual blueberries in a moment.
+2299.4 But supplementation of blueberry extract
+2302.35 in offsetting cognitive
+decline in elderly people.
+2306.22 So what constitutes elderly
+2309.15 is always a little bit of
+a debate and a discussion.
+2312.53 But in this case, what they did,
+2314.21 is they supplemented with
+somewhere between 428,
+2319.51 I don't know why they selected 428,
+2321.11 and 598 milligrams of
+anthocyanins daily for 12 weeks
+2325.57 was associated with improvements
+2326.87 on verbal learning and memory.
+2329.34 And they had some other beneficial changes
+2331.83 that were within the bodily organs,
+2333.6 and blood glucose
+regulation, and so forth.
+2335.95 Positive changes.
+2337.21 But that's one study.
+2338.95 In this case, elderly meant 65 or older.
+2342.12 That study, and a number
+of studies like it,
+2344.87 looking at things like
+mildly enhanced memory,
+2348.59 reduced insulin levels,
+reduced oxidation of LDL,
+2353.4 these sorts of things,
+2354.69 have basically created a situation where
+2357.87 anytime you Google
+2359.46 or look up foods that
+enhance brain function,
+2363.31 you're going to see a
+picture of a blueberry
+2365.04 or some other berry,
+2365.873 because of these anthocyanins.
+2368.06 I personally don't
+supplement anthocyanins.
+2371.2 I do like blueberries.
+2372.24 I eat blueberries when they're in season.
+2374.75 I love them.
+2375.583 I'm what you would call a
+drive-by blueberry eater.
+2377.52 Like if there are blueberries
+in a bowl on a table,
+2380.49 and I'm walking by,
+2381.33 I just have to scoop them up,
+2382.74 like some sort of bear, or other animal,
+2384.8 and pop them in my mouth.
+2385.76 So blueberries don't last long around me.
+2388.21 One of the issues with berries,
+2389.57 like blueberries, and
+blackberries, and so forth,
+2391.27 is that quality sources of
+them can be pretty expensive.
+2393.91 And then, of course, when
+they're not in season,
+2395.81 they're hard to get,
+2396.643 and so that's why some people
+will supplement with them.
+2399.1 So that range of about 400 to
+about 600 milligrams per day
+2404.84 seems to be the minimum threshold
+2407.29 for getting a cognitive effect
+in these elderly patients.
+2412.38 In that case, they were patients.
+2414.04 A good review about the anthocyanins
+2416.0 potentially contributing to
+offsetting cognitive decline
+2419.94 in things like Alzheimer's,
+2421.5 and also enhancing brain function
+2423.98 in people that don't have Alzheimer's,
+2426.3 is a review by Afzal, A-F-Z-A-L,
+2429.37 that was published in 2019.
+2431.22 We will also provide a link
+to that study in the caption.
+2435.08 When one looks across the
+total batch of studies
+2438.29 that are out there on this,
+2440.03 it appears, that if one
+is going to supplement
+2443.2 with blueberry extract to get the
+2445.34 anthocyanin effect on cognition,
+2449.03 dosages of somewhere between
+5 1/2 or about 11 grams
+2453.4 seem optimal with the higher end,
+2455.53 closer to 10 or 11 grams
+being more beneficial.
+2459.43 The blueberry eaters out there like me,
+2462.41 who prefer to get their anthocyanins
+2463.97 from the actual berries,
+2465.33 it appears that somewhere
+between 60 to 120 grams
+2468.45 of fresh blueberries each day
+2470.53 is the way that you can
+get sufficient anthocyanins
+2473.21 to at least shift your system,
+2475.77 or bias your brain towards these
+enhanced cognitive effects.
+2478.93 So we've got EPA fatty acids,
+2480.87 we've got phosphatidylserine,
+2482.43 we've got choline,
+2483.82 we've got creatine, and
+we have the anthocyanins.
+2488.13 And the last item that I'd
+like to place in this list
+2491.61 of food-derived things
+2493.62 that can enhance brain
+function is glutamine.
+2497.56 Glutamine is a very
+interesting amino acid.
+2499.71 I've talked about
+glutamine on here before.
+2501.98 There's some evidence,
+although, somewhat scant,
+2505.11 there's some evidence that glutamine
+2508.05 can enhance immune system function.
+2509.87 So people will supplement with glutamine,
+2511.53 or people can get glutamine from foods.
+2513.87 Foods that contain a lot of glutamine
+2515.24 are things like cottage cheese.
+2516.69 There are also other sources of glutamine.
+2519.11 Glutamine is rich in protein rich foods,
+2521.73 things like beef, chicken,
+fish, dairy products, eggs.
+2524.27 But also, for you non-animal food
+2528.45 consuming people out there,
+2530.71 vegetables, including
+beans, cabbage, once again,
+2533.73 spinach, parsley, things of that sort.
+2537.09 So those foods contain glutamine.
+2539.52 For people that supplement with glutamine,
+2541.42 generally, they will take
+anywhere from a gram,
+2543.73 as much as 10 grams, per day.
+2546.15 Why would they want to do that?
+2547.14 Well, there's also some
+evidence starting to emerge
+2550.41 that glutamine can help
+offset sugar cravings,
+2553.43 and I've talked about this
+on the podcast before.
+2555.6 We're going to talk more about
+2557.28 the basis for this a little bit later.
+2559.3 But in brief, we all
+have neurons in our gut
+2563.65 that sense the amino acid
+content, the fat content,
+2566.79 and the sugar content of
+the foods that we eat,
+2568.66 and signal in a subconscious
+way to our brain
+2571.41 whether or not the
+foods that we are eating
+2573.8 contain certain levels
+of certain amino acids.
+2577.68 And so we actually have
+glutamine-sensing neurons in our gut
+2582.26 that actually have their little processes,
+2583.95 their little axons and
+dendrites, as we call them,
+2586.84 in the mucosal lining of the gut.
+2588.26 They're not just sensing glutamine,
+2589.62 but when they do sense glutamine,
+2591.13 they respond, and they
+send signals to the brain
+2593.813 that are signals of
+satiation, of satisfaction.
+2597.5 And in doing so, can offset
+some of the sugar cravings
+2600.16 that many people suffer from.
+2602.11 Now, here, we're talking about glutamine
+2603.52 for sake of enhancing cognitive function.
+2606.01 And this is interesting,
+2607.13 because it's been shown that
+glutamine supplementation
+2610.43 can offset some of the
+negative effects on cognition
+2614.52 caused by altitude and oxygen
+deprivation of other sorts.
+2621.04 Yeah, okay, well, that's kind of a strange
+2622.71 and unique situation.
+2623.89 If you're going up to altitude,
+2625.75 should you supplement with glutamine
+2627.33 in order to be able to think more clearly?
+2628.99 Well, it appears that there's
+good rationale for doing that.
+2632.27 But the reason I bring this up,
+2634.4 assuming that most people, including me,
+2636.06 are not going up to high
+altitudes very often,
+2639.79 is that it's been
+well-established that apnea,
+2643.86 failure to breathe properly during sleep,
+2646.23 can contribute to age-related,
+2648.34 and even non-age-related,
+cognitive decline.
+2650.9 There are a lot of reasons for apneas,
+2653.92 ranging from obesity to
+obstruction of the airways,
+2658.61 for other reasons.
+2660.97 There are tremendous number
+of underlying causes of apnea,
+2663.727 and it's something to be taken seriously.
+2665.48 I mean, heart attacks, all
+sorts of metabolic issues,
+2668.41 are caused by apnea.
+2670.37 Apnea is a serious issue that
+disrupts the depth of sleep,
+2673.7 and it's a serious
+health issue in general.
+2676.3 In any event,
+2677.33 apnea is associated with cognitive decline
+2680.04 and cognitive dysfunction,
+even in young people,
+2682.92 and it does appear that
+glutamine supplementation
+2686.12 can offset some of the cognitive deficits
+2689.23 that are associated with reduced
+oxygenation of the brain.
+2692.57 If you'd like to learn more about
+2693.91 how apnea can negatively impact cognition,
+2697.8 there's an excellent paper
+2698.95 that was published on this in 2018.
+2700.8 The first author is Sharma, S-H-A-R-M-A.
+2704.33 It should be easy to find.
+2705.4 The title of the paper is
+2706.233 "Obstructive Sleep Apnea
+Severity Affects Amyloid Burden
+2710.11 In Cognitively Normal Elderly".
+2712.18 This was a longitudinal study.
+2713.81 Amyloid burden is a
+correlate of Alzheimer's
+2717.56 and other forms of neurodegeneration
+2719.73 and cognitive decline
+associated with memory deficits.
+2722.47 So obstructive sleep apnea
+[clears throat], excuse me,
+2725.71 is a very serious issue
+2728.18 for which glutamine appears to be able to
+2730.88 offset some of the
+negative symptomatology.
+2733.92 So how is it that glutamine,
+2735.72 either from food or
+through supplementation,
+2738.46 can offset some of these
+2740.22 so-called hypoxic effects
+caused by sleep apnea?
+2742.89 Hypoxia being a lack
+of oxygen for the brain
+2745.69 that relate to cognitive decline.
+2747.54 It appears to have this positive impact
+2751.09 by way of reducing inflammation.
+2753.58 So if you want to look
+more deeply into the
+2757.35 various biological pathways
+2758.95 and the supplementation regimes for this,
+2761.44 the paper that I think is
+really spectacular is a paper,
+2764.7 last author is Quaresma, Q-U-A-R-E-S-M-A.
+2770.06 That's Q-U-A-R-E-S-M-A.
+2772.64 It's a review.
+2773.517 "The Possible Importance of
+2774.65 Glutamine Supplementation to Mood
+2776.44 and Cognition in Hypoxia
+from High Altitude".
+2779.55 And even though paper is about
+2781.1 high altitude-induced hypoxia,
+2783.24 it does seem to have direct relevance
+2785.28 to the sorts of apnea that
+are related to Alzheimer's
+2789.17 and other forms of cognitive decline.
+2790.95 Now, I've been taking
+glutamine as a supplement,
+2793.35 gosh, since I was in college,
+2794.67 mostly because I felt, either
+by superstition or by reality,
+2798.66 that it protected me from
+various flus and colds,
+2803.38 and things of that sort,
+2804.38 because of the purported
+immune-enhancing effects.
+2808.57 Again, those immune-enhancing effects
+2810.19 have some data to support them, not a ton.
+2813.22 However, I got into the
+habit of taking glutamine,
+2815.34 and now that I've learned that glutamine
+2817.62 seems to also have some
+2818.99 cognitive-enhancing effects, possibly,
+2821.31 it's a supplement that I continue to take.
+2823.44 I take very small amounts of it,
+2825.0 but I do take it on a regular basis.
+2827.67 So that, more or less, completes
+the list of things that,
+2831.13 at least by my read of the literature,
+2833.97 are things that are
+supported by at least three,
+2836.74 and in some cases, as many
+as hundreds of studies,
+2839.81 in various populations,
+2841.33 that have been explored
+in mouse studies often,
+2844.51 but also in a number of human studies.
+2847.25 I want to emphasize again,
+2848.35 that all of the things I listed out,
+2850.17 whether or not it's EPAs,
+2851.62 whether or not it's phosphatidylserine,
+2853.3 whether or not it's choline,
+2854.27 whether or not it's the various compounds
+2857.6 that are in berries, et cetera,
+2858.94 all of those can be extracted from food.
+2861.13 There is not any law that says
+2863.24 that you have to get them
+from supplementation.
+2865.04 Supplementation can help you get
+2866.53 to the very high levels of those things,
+2868.56 if you want to work on the higher end,
+2870.38 if that's right for you.
+2871.35 Obviously, check with your
+doctor before taking anything
+2873.58 or removing anything from your
+diet or supplement regime.
+2876.35 But in general, you can get
+these things from foods.
+2880.773 It's just so happens, that
+for some of these compounds,
+2884.7 the foods that they're
+contained in, like fish,
+2886.31 are not foods that I particularly enjoy,
+2889.04 and so I rely on [clears
+throat], excuse me,
+2891.22 I rely on supplements in order to get
+2893.72 sufficient levels for me.
+2895.19 But again, you can get
+these levels from food.
+2897.63 And the reason I made this list,
+2900.55 the reason that I emphasize these things
+2903.27 in this particular order,
+2905.08 is that they support the
+structure of neurons.
+2910.0 They support the structure of
+the other cells of the brain
+2912.83 that make up our cognition
+2913.977 and that are important for our focus,
+2916.15 and our ability to remember
+things, and so forth.
+2918.92 And they are less so in the category
+2921.01 of so-called modulatory effects.
+2924.33 They will also have
+modulatory effects on sleep,
+2927.33 on inflammation,
+2928.163 or reducing inflammation
+throughout the body,
+2929.97 on cardiovascular function,
+2931.69 all of which I believe
+are positive affects.
+2935.42 At least what the literature tells us,
+2937.13 is that none of these compounds
+2938.58 are harming other systems of the body,
+2940.51 provided they are taken
+at reasonable levels.
+2944.12 But everything in this
+list is directed towards
+2948.25 answering the question, what can I eat,
+2950.29 what can I ingest by way of
+food, and/or food supplement,
+2954.04 that can support brain
+function in the short-term
+2956.8 and in the long-term?
+2957.75 So I hope you find that
+list beneficial for you.
+2959.63 If not for use, at
+least for consideration.
+2962.96 So now, having talked
+about some of the foods
+2965.46 and micronutrients that are
+beneficial to our immediate
+2968.13 and long-term brain health,
+2970.52 I'd like to shift gears somewhat,
+2972.06 and talk about why it is
+2973.88 that we like the foods that we like.
+2976.42 We've all heard before
+2977.48 that we are hardwired to pursue sugar,
+2981.56 and to like fatty foods,
+2982.777 and that calorie-rich
+foods are attractive to us
+2985.13 for all sorts of reasons,
+2986.14 you know, surviving famines,
+and things of that sort.
+2988.68 And while that is true,
+2991.11 the actual mechanisms that underlie
+2993.03 food seeking and food preference
+2995.35 are far more interesting than that.
+2997.29 There are basically three channels
+2999.38 in our body and nervous system
+3001.84 by which we decide what foods to pursue,
+3004.52 how much to eat, and
+whether or not we will find
+3007.02 a particular food attractive,
+3009.76 whether or not we will
+want to consume more of it,
+3012.19 whether or not we want to avoid it,
+3014.39 or whether or not it's just sort of so-so,
+3016.51 what I refer to as the
+yum, yuck, or meh analysis.
+3021.61 And indeed, that's what
+our nervous system is doing
+3024.53 with respect to food.
+3025.51 It's trying to figure out whether or not,
+3027.73 yum, I want more of this,
+3029.89 yuck, I want to avoid this,
+3031.9 or meh, it's so-so.
+3033.87 Now, while that may seem like
+3035.21 a overly simplified
+version of food seeking
+3038.26 and food preference,
+3039.67 it's actually not that far from the truth.
+3042.1 It actually correctly captures
+3044.82 much of the biology of food preference.
+3048.28 So let's talk about what
+these three channels
+3050.22 for food preference are.
+3052.08 The first one is an obvious one.
+3054.13 It's taste on the mouth.
+3056.19 It is the sensation that we
+have of the foods that we eat
+3059.43 while we're chewing them,
+3060.91 and those sensations,
+3062.38 which are literally just
+somatosensory, touch sensations,
+3065.35 you know, the palatability of food
+3068.75 as it relates to the consistency
+of food, that's important.
+3073.32 And as you've all heard before,
+3075.07 we have sensors on our tongue
+3076.6 and elsewhere in our mouth
+3078.34 that detect the various
+chemicals contained within food,
+3081.41 and lead to the senses of taste,
+3084.6 which we call bitter, sweet,
+umami, salty, and sour.
+3088.24 Now, most of us are familiar
+with the sense of bitterness
+3090.94 that comes from something
+like a raw radish,
+3093.81 sweet, which comes, obviously,
+3095.38 from sugars of different kinds,
+3096.73 fructose, glucose, et cetera,
+3098.94 salty, salty,
+3101.21 and sour, think lemon or
+lemon juice, for instance.
+3106.07 And then I mentioned umami.
+3108.04 The umami receptor is a
+receptor that responds
+3111.55 to the savory taste of things.
+3113.74 So that's what you might find in a really
+3116.2 wonderfully rich tomato sauce.
+3118.51 For those of you that
+eat meat, and like meat,
+3121.5 a really well cooked ,not
+necessarily well done,
+3124.95 but properly cooked, I should say, steak,
+3128.58 if that's your thing.
+3129.84 And umami is present in
+both plant and animal foods,
+3133.55 and gives us that sensation of savoriness.
+3136.36 It almost has a kind of little
+bit of a briny taste to it,
+3139.82 or braised taste to it.
+3141.45 And indeed, brazing of meats
+and brazing of vegetables
+3145.16 is done specifically to
+activate that umami receptor.
+3149.62 So we have those five basic tastes.
+3151.69 Those are chemical sensors
+on the tongue that,
+3154.97 what we call, transduce those chemicals.
+3157.48 Those chemicals, literally, in
+food bind to those receptors,
+3160.86 and it is transduced,
+3163.9 meaning the binding of those
+chemicals to the receptors
+3166.89 is converted into an electrical signal
+3169.0 that travels in from the tongue
+3170.8 along what's called the gustatory nerve.
+3172.98 The gustatory nerve then synapses,
+3175.07 meaning it makes
+connections in our brainstem
+3178.36 in the so-called nucleus
+of the solitary tract.
+3180.97 There are other nuclei back there.
+3182.62 Nuclei just aggregates of neurons.
+3184.61 And then it sends information up to
+3186.28 the so-called insular
+cortex, to the insula.
+3188.61 I want to highlight the
+insula this episode,
+3191.68 because we are going
+to return to the insula
+3194.72 again and again in this
+episode, and later.
+3197.5 The insular cortex is
+a incredible structure
+3201.53 that we all have
+3202.72 that mainly is concerned
+with so-called interoception,
+3206.52 or our perception of what's
+going on inside our body.
+3209.84 So it could be the amount
+of pressure in our gut
+3211.5 because of how much food we've eaten.
+3213.24 It could be the acidity of our gut,
+3216.46 if we're having a little bit
+of indigestion, for instance.
+3218.86 It can also be the case,
+3221.52 that neurons within the
+insula are paying attention
+3223.61 to how stressed you are,
+or how alert you are,
+3225.7 or how tired you are.
+3226.8 So it's really an inward
+focusing structure.
+3229.96 It focuses on how we feel internally.
+3232.04 And not surprisingly,
+3233.25 the taste system sends information
+up to the insular cortex
+3238.21 to give us a sense, literally,
+of what we've ingested,
+3242.71 whether or not what we're
+tasting tastes good or not.
+3246.08 We will return to insular
+cortex in a few moments.
+3249.13 A very important thing to understand,
+3251.29 is that the neurons in
+the areas of the cortex,
+3254.05 your cortex and mine, that
+respond to particular tastes
+3257.94 are providing an internal representation
+3261.98 of an external sense.
+3264.88 What do I mean by that?
+3265.85 I don't want to be at all abstract.
+3267.81 We take these foods,
+3268.81 we break them down in our
+mouth by chewing them,
+3272.73 or sucking on them,
+3273.563 whatever it is the food happens to be,
+3275.95 those chemicals bind to those receptors,
+3277.65 and electrical signals
+are sent into the brain,
+3280.01 but they are just electrical signals,
+3281.67 just like notes being played
+on the keys of a piano.
+3285.04 There's no unique signature
+for salty or sweet.
+3288.09 It is the relative activation
+of one set of neurons
+3293.16 that was activated by sweet,
+3294.93 or another set of neurons
+that was activated by umami.
+3297.57 It's that relative activation
+3299.51 traveling into the brain in,
+essentially, the same form,
+3304.09 the same electrical signals.
+3305.55 This is really incredible, right?
+3306.61 Electrical signals are
+sent into the brain,
+3307.99 and you say, aha, that's
+sweet and I want more of it,
+3311.0 or that's bitter, or I want less of it,
+3312.55 or that's umami flavored,
+3313.79 and I really, really like that,
+3315.41 really like savory foods, as I happen to.
+3319.21 That should immediately
+strike you as incredible,
+3322.0 because it means that your representation
+3324.04 of what you want more of or
+less of is electrical in nature.
+3327.31 And to really tamp this issue down,
+3331.09 studies that were done by
+Charles Zuker, Z-U-K-E-R...
+3336.03 He's a absolutely
+phenomenal neuroscientist
+3340.21 at Columbia University in New York.
+3343.13 Studies done by the Zuker
+Lab have shown that,
+3347.04 first of all, they could identify
+the neurons in the cortex
+3351.44 deep in the brain that
+respond to a sweet taste
+3354.42 or to a bitter taste.
+3355.4 It turns out, they are non-overlapping
+3356.9 populations of neurons.
+3358.51 And then using some molecular tricks,
+3361.07 they were able to either silence
+3363.66 or activate the neurons
+that, for instance,
+3366.3 respond to sweet.
+3369.45 When they do this,
+3370.283 they see incredible
+consequences on perception
+3374.35 that, indeed, occur in your brain,
+3376.95 and my brain as well, all the time
+3378.73 without these kind of manipulations.
+3380.22 Here's the experiment.
+3382.27 They have a subject drink
+water that contains sugar,
+3387.49 or drink water that
+contains a salty substance,
+3389.67 or drink water that contains
+3390.92 a bitter substance, for instance.
+3392.67 Okay, I'm sort of paraphrasing
+a large amount of work.
+3396.09 They identify the neurons
+that respond to sweet tastes.
+3401.54 They see, as many researchers have seen,
+3404.78 that subjects prefer sweet
+taste to other tastes,
+3407.95 and certainly, sweet tastes to bitter,
+3409.52 or sweet tastes to
+nothing, so to plain water.
+3413.33 And then they go in,
+3414.86 and they are able to
+selectively silence the neurons
+3417.69 that represent sweet.
+3421.36 And when they do that,
+3422.29 they eliminate the preference
+for that sweet taste.
+3427.26 Now, that might seem obvious,
+3428.61 the neurons respond to sweet,
+3429.68 and you silence those neurons,
+3431.7 they no longer seek out sweet.
+3434.64 But that should strike
+you, also, as incredible,
+3437.78 because they're not actually changing
+3439.3 what's happening on the tongue
+3440.53 or in the deeper layers of the brain.
+3443.3 Conversely, they can have
+subjects drink bitter water
+3447.64 or plain water while activating,
+3450.78 selectively activating, the
+neurons that respond to sweet.
+3454.19 And what they find,
+3455.4 is that then subjects will
+actively prefer bitter
+3460.7 or plain water to actual
+preferences, such as sweet.
+3466.41 So what this means is that,
+3468.21 your perception of what
+you like is a central,
+3471.45 meaning deep within the brain, phenomenon.
+3474.52 It's not about how things
+taste on your mouth.
+3477.53 Now, of course, under normal conditions,
+3479.24 where there aren't these
+3480.073 experimental manipulations being done,
+3482.36 those things are positively correlated.
+3484.49 Sweet tastes trigger the activation
+3486.34 of sweet neurons, for instance.
+3488.18 Neurons in the mouth
+that respond to umami,
+3490.8 trigger the activation
+of neurons in the brain
+3492.92 that respond to umami, and so forth.
+3495.77 So they're correlated in a way
+3497.51 that makes you seek out
+the things that you like,
+3500.02 and avoid the things that you don't like.
+3502.26 But as we'll see in a few minutes,
+3504.76 turns out, that that is
+not a direct relationship
+3508.1 that is hardwired.
+3509.52 You can actually uncouple
+3511.54 the preference for a particular taste
+3513.87 with the reward systems in the brain
+3516.43 in a way that, for instance,
+3518.4 would allow you to eat,
+3520.94 or I should use myself as an example,
+3522.39 'cause I don't particularly like fish.
+3523.83 I've had a few meals that include a fish
+3526.24 that were pretty good,
+3527.51 but none of them were memorable
+3529.23 in the kind of positive way,
+3530.3 that like some other events
+in my life were memorable.
+3534.327 But by way of these circuitries,
+3535.85 and the way they link up with one another,
+3537.3 it's actually possible to
+rewire one's sense of taste
+3541.38 and preference for particular foods.
+3543.23 If this is seeming at all vague to you,
+3544.83 just hang in with me a little bit longer,
+3547.25 because I will provide you
+with the information, tools,
+3549.24 and resources with which
+to navigate this process.
+3553.13 But the most important
+thing to understand is that,
+3556.82 like with our hearing,
+3559.01 like with vision,
+3561.47 like with smell,
+3563.92 taste is an internal representation
+3567.69 that has particular goals for you.
+3571.83 Your sense of what tastes good
+3573.17 is related to particular things
+3574.87 that are occurring in your brain and body,
+3576.55 and that are likely to give your brain
+3578.74 and body the things that it needs.
+3581.53 It is not simply a matter of
+3583.23 what you, quote/unquote, "like",
+3584.56 or what tastes good, or
+what doesn't taste good.
+3587.19 Let me give you a
+relatively simple example
+3590.15 of how your body and your brain are acting
+3593.26 in a coordinated way
+3594.85 to make you prefer certain foods,
+3595.754 and indeed, to pursue certain foods more.
+3600.38 As I just mentioned, you
+have neurons on your tongue
+3602.54 that respond to different tastes.
+3604.29 But, of course, your digestive
+tract isn't just your tongue,
+3606.93 it's also your throat.
+3607.93 It goes all the way down to your stomach,
+3609.91 and, of course, your intestines.
+3612.14 It's a long tube of digestion.
+3614.74 All along that tube there are neurons.
+3617.69 Some of the neurons are responding to
+3620.2 the mechanical size of
+3623.4 whatever portion of the
+digestive tract it happens to be.
+3625.69 So for instance, how distended,
+or empty, or full, rather,
+3628.75 it doesn't have to be distended,
+3630.634 it depends on how much you ate,
+3631.61 but how full or empty
+your gut happens to be,
+3634.86 whether or not something you
+just ate is temperature hot,
+3638.42 you know, is hot in the
+sense of hot to the touch,
+3641.12 or whether or not it's spicy hot,
+3642.98 whether or not it's soothing,
+3644.25 whether or not it's
+kind of hard to swallow,
+3646.69 this kind of thing.
+3647.6 So you have neurons all along your gut
+3649.57 that are responding to the mechanics
+3651.51 related to food and digestion,
+3653.05 and that are related to the
+chemistry of food and digestion.
+3657.02 There's a population of neurons,
+3659.61 nerve cells in your gut,
+3661.43 that are exquisitely
+tuned to the chemistry
+3664.21 of whatever it is in your gut.
+3666.21 And these are neurons
+called neuropod cells.
+3669.6 They were discovered many, many years ago,
+3672.51 but really defined with
+3674.6 and classified with modern tools
+3677.71 by Diego Bohorquez.
+3679.17 I hope I'm pronouncing
+your name correctly.
+3680.87 Diego, we've spoken many times,
+3682.51 but I can't ever seem to quite capture
+3684.16 the proper pronunciation just right.
+3686.28 But Diego Bohorquez at Duke University,
+3690.66 who discovered that these cells
+3693.78 reside within the gut,
+3695.47 and place little processes,
+3697.05 they're little axons and dendrites,
+3699.63 within the mucosal lining of the gut.
+3703.1 And there, they are paying attention to,
+3705.84 meaning they respond to,
+3708.6 amino acids, sugars, and fatty acids.
+3712.8 So as your food is digested,
+3715.03 as food lands within your gut,
+3717.22 neurons there are sensing what
+types of foods are available,
+3720.98 and what types of things
+are making their way
+3724.501 through the gut environment.
+3726.05 Now, those neurons aren't
+actually taking those foods
+3728.277 and doing much with them.
+3729.43 What they're doing, is they're essentially
+3732.69 surveying what qualities
+of food are there.
+3736.67 And these particular neurons
+3738.26 that Diego and his group discovered,
+3741.01 send electrical signals up into the brain
+3744.68 through a little passage that
+we call the nodose ganglion.
+3747.68 The nodose ganglion is
+a cluster of neurons
+3750.28 that then send up their
+own process into the brain,
+3753.71 and trigger the release of dopamine,
+3755.35 which is a molecule that
+inspires motivation, reward,
+3760.2 and more seeking for whatever
+it is led to their activation.
+3765.1 These are super interesting neurons,
+3766.87 because what they're essentially doing,
+3768.98 is they are providing
+a subconscious signal
+3773.35 about the quality of the
+food that you're eating,
+3775.7 what it contains,
+3776.95 and then triggering the release
+3778.55 of a molecule within your brain, dopamine,
+3781.42 that leads you to go
+seek more of those foods.
+3785.15 Now, this has profound
+impact on a number of things.
+3789.94 First of all,
+3791.52 there's the consideration
+of so-called hidden sugars.
+3794.37 Dr. Robert Lustig, who's a
+pediatric endocrinologist
+3797.46 at University of
+California, San Francisco,
+3799.78 has been among the most
+prominent researchers
+3803.22 to talk about the fact
+3804.23 that there are these so-called
+hidden sugars in foods.
+3806.46 Now, these are not just sugars,
+3807.82 that they sneak in just to be sneaky,
+3810.43 these are sugars that
+are literally snuck in
+3812.89 in a way that you can't taste them.
+3815.52 That's why they're called hidden sugars.
+3817.17 It's not that they just
+put them in there for fun.
+3819.2 These are sugars that are
+placed into processed foods
+3822.78 that are designed to trigger activation
+3825.01 of these mechanisms
+3826.89 to lead you to want to
+eat more of these foods,
+3830.11 but not because they necessarily
+taste sweet or delicious,
+3834.3 but because they are activating
+3836.29 these subconscious mechanisms
+3837.58 that are driving you to
+pursue more of these foods.
+3840.1 It sounds like a very diabolical strategy,
+3842.0 and indeed, it is somewhat
+of a diabolical strategy.
+3845.82 However, these neurons are also involved
+3848.47 in signaling to your
+brain when, for instance,
+3850.63 you are eating a food that is
+rich in omega-3 fatty acids,
+3855.51 the fatty acids that we
+were talking about earlier.
+3857.86 So why is it that you don't crave salmon?
+3859.87 Why is it that I don't sit around
+3861.3 daydreaming about mackerel?
+3863.03 Well, because there's also the influence
+3864.87 of the actual taste on the mouth.
+3866.63 Under normal conditions,
+3867.66 it's a combination of the taste
+of the thing on the mouth,
+3870.45 plus the subconscious
+signaling from the gut.
+3873.09 And while this isn't a
+discussion about gut microbiome,
+3877.31 I should just mention,
+that it's very clear
+3880.17 that having a healthy gut microbiome
+3883.57 allows these neurons to function in a way
+3886.32 that serves our seeking of
+healthy foods in positive ways.
+3890.89 And without getting into a
+lot of detail about this,
+3893.55 the best way to ensure
+a healthy gut microbiome
+3896.1 that I am aware of
+3897.88 is not necessarily
+3899.59 to take supplemental
+prebiotics or probiotics.
+3903.28 There are actually some reasons why
+3904.39 you might not want to do that.
+3906.24 But rather, to ingest two to four servings
+3908.51 of fermented foods that
+are low in sugar each day.
+3912.29 There is a recent study published in Cell
+3914.1 showing that the ingestion
+of fermented foods,
+3916.72 two to four servings each day,
+3920.45 can enhance the quality of
+the mucosal lining of the gut
+3924.92 that allows certain gut
+microbiota to flourish,
+3928.42 and the gut microbiota
+that are not good for us
+3931.14 to not flourish,
+3931.973 'cause that's the environment
+that they settle down into.
+3933.9 This is work that was carried out
+3935.45 by my colleagues, Justin Sonnenburg,
+3938.33 which is in the laboratory
+upstairs from me,
+3940.97 as well as Chris Gardner,
+and others at Stanford.
+3944.77 They are certainly not the only
+researchers exploring this.
+3946.94 But it does appear,
+3948.07 that two to four servings of
+3951.04 fermented foods each day,
+3952.28 so these would be things
+like natto, sauerkraut,
+3955.25 low sugar fermented foods, is
+great for the gut microbiome.
+3959.41 And separate studies, not their study,
+3961.48 but separate studies have shown
+3962.61 that the correct gut microbiome conditions
+3965.61 allow these neurons
+that signal to the brain
+3967.85 to signal the right, at the right times,
+3970.35 and in the right ways to
+promote healthy food seeking.
+3973.71 Many people opt to supplement
+with capsule form probiotics.
+3978.5 There are some data that suggests
+3981.01 that maybe those don't
+contain the correct prebiotics
+3984.38 and probiotics for setting the correct
+3986.99 gut microbiota conditions.
+3988.93 That's a little bit of
+a controversial issue.
+3991.7 Nonetheless, getting
+probiotics from fermented foods
+3996.32 is probably the simplest and
+most straightforward way.
+3998.48 It's also the way that we
+evolved to do that over many,
+4001.69 at least hundreds, and
+probably, thousands,
+4003.29 or even tens or hundreds
+of thousands of years,
+4005.17 people have been
+ingesting fermented foods,
+4007.36 not just for their tastes,
+4008.23 but for their health benefits as well.
+4010.55 So now I've mentioned two
+of the three mechanisms
+4013.47 by which we prefer certain foods.
+4015.94 One is from the actual taste
+that we're familiar with,
+4018.757 the taste on our tongue, and in our mouth,
+4020.82 in the sensations that make
+us go mmm, or ugh, or eh,
+4025.3 the yum, yuk, meh responses,
+as I referred to them earlier.
+4028.38 And then there's this
+subconscious signaling
+4030.38 coming from the gut
+4031.213 that's really based on the
+nutrient content of the foods.
+4035.78 There's a third pathway,
+4037.55 which is the learned association
+of a particular taste
+4041.57 with the particular quality
+or value that a food has.
+4045.96 And this is where things
+get really interesting,
+4049.04 and where there's
+actually a leverage point
+4051.19 for you to rewire
+4053.2 what it is that you find tasty,
+4055.546 and that you want to seek more of.
+4057.68 The work I'd like to talk about next
+4059.06 has been carried out in mouse models,
+4061.5 and has been carried out in
+parallel experiments in humans.
+4066.32 This is largely, not exclusively,
+4068.39 but largely the work of Ivan
+de Araujo and Dana Small.
+4075.13 Ivan de Araujo is at Mount
+Sinai School of Medicine.
+4078.74 And Dana Small is at Yale.
+4080.93 And they, and others in their field,
+4082.81 have done incredible experiments
+4084.89 exploring how taste and food value,
+4088.32 the nutritional value of food,
+4090.36 and the impact of that food
+on metabolism in the brain
+4095.16 drives our food choices,
+4097.02 and allows us to change our
+food choices for the better.
+4100.27 Their groups have done
+some really amazing studies
+4103.19 involving ingestion of
+a particular substance
+4106.84 that either contains sugar,
+4109.94 and thereby, can elevate
+glucose, blood sugar, or not.
+4113.92 And varying, meaning
+changing the taste associated
+4118.46 with that ingestion of sugar.
+4121.17 So let me just give you a simple example
+4123.3 where they have subjects,
+4125.82 these could be mice or
+these could be humans,
+4127.46 'cause they've done both sets of studies,
+4130.33 drink sweet water as an alternative
+4134.79 or a choice to non-sweetened
+water, or bitter water,
+4138.4 or some other flavor.
+4139.64 And what they find, is that
+mice and humans will prefer
+4143.04 to consume the sweet beverage.
+4145.1 Now, it's not always sweet water.
+4146.53 Mice like sweet water,
+4147.54 but humans will prefer,
+for instance, a milkshake,
+4151.34 a fatty sweet drink.
+4155.4 They'll consume more of that,
+4156.74 and not surprisingly,
+4158.14 dopamine levels in the brain
+increase in response to that.
+4163.47 So the taste and the nutrient content
+4166.67 of what it is that they're
+ingesting are aligned.
+4169.67 They are matched.
+4172.1 They've also done experiments
+where they have no taste,
+4176.35 but subjects are being infused with sugar
+4179.26 directly into the gut.
+4181.23 And not surprisingly,
+4183.08 based on everything I've
+told you up until now,
+4186.14 subjects will pursue more of that thing
+4188.98 relative to some other taste,
+4191.65 either neutral or negative taste,
+4194.33 because that sugar in the gut
+4196.49 is triggering the activation
+4197.68 of the neurons I mentioned earlier,
+4198.93 which is signaling to the brain
+4200.1 to pursue more of that thing.
+4201.97 So this tells us something important.
+4203.51 It tells us that we are driven,
+4206.11 meaning we have mechanisms in our brain
+4208.22 that make us motivated to pursue
+4210.16 more of what brings both
+a taste of sweetness,
+4213.4 but also that brings actual changes
+4215.71 in blood glucose levels up, okay?
+4218.76 So we are motivated to eat sweet things
+4220.61 not just because they taste good,
+4222.08 but because they change
+our blood sugar level.
+4224.87 They increase our blood sugar level.
+4226.97 This is important,
+4227.91 because it needn't be the case.
+4229.49 It could have been that we were just wired
+4231.45 to pursue things that taste good.
+4234.34 But what this tells us,
+4235.22 is that we are actually
+wired to pursue things
+4238.3 that increase our blood glucose,
+4241.47 so much so that when the small lab...
+4246.72 It's not a small lab.
+4247.553 It's actually a big lab.
+4248.386 But when Dana Small's lab,
+and/or Ivan de Araujo's lab,
+4252.51 have done experiments
+4254.67 where they use a compound
+called 2-deoxyglucose,
+4258.32 this is a compound that
+4260.32 can prevent glucose from
+being metabolized by neurons.
+4263.99 So blood glucose is going up,
+4265.27 but neurons can't use it.
+4267.0 What they find, is that the reinforcing
+4269.08 or the rewarding properties of a food
+4271.53 or taste are eliminated.
+4274.35 Put simply, it is not
+sufficient for a food
+4277.67 to taste good consciously.
+4280.37 It is not sufficient for a
+food to increase blood sugar.
+4284.73 You need blood sugar to go up,
+4287.35 and that blood sugar glucose
+4289.72 has to be utilized by the neurons,
+4292.89 even if it's not associated
+with a good taste.
+4296.4 And to make it even simpler,
+4298.08 if this isn't sinking in,
+4299.9 this should make it very clear.
+4301.61 What your brain,
+4303.16 meaning, what you are seeking
+when you eat, is not taste,
+4307.36 is not dopamine,
+4309.2 is not even a rise in blood glucose.
+4311.65 What you're seeking, even
+though you don't realize it,
+4314.24 because it's subconscious,
+4316.11 is you are seeking things
+that allow your neurons
+4318.74 to be metabolically active.
+4320.92 And this is fundamentally important
+4323.66 for understanding why you eat,
+4326.07 why you eat particular foods,
+4328.99 and how you can change your
+relationship to those foods.
+4331.89 Now, earlier, I referred to circuits
+4334.07 that are wired for a particular outcome.
+4336.87 And in biology, and in
+particular, neuroscience,
+4339.14 we refer to things that
+are either hard-wired,
+4342.04 meaning immutable, and
+unchangeable, or soft-wired.
+4346.49 A good example of soft-wiring would be
+4348.32 the areas of your brain that
+are responsible for speech
+4351.2 and language are always, more or less,
+4355.95 in the same place in your brain
+and everyone else's brain.
+4359.5 However, they are not
+hard-wired to speak French,
+4363.45 or to speak English, or to speak Chinese,
+4365.25 or to speak German,
+4366.8 because depending on where you were born,
+4368.63 and the parents that you're born to,
+4370.64 you need to be able to speak one
+4372.002 or maybe even more languages.
+4374.83 The taste system,
+4376.04 and this general system of
+seeking particular foods,
+4379.32 similarly is hard-wired to obtain
+4382.84 certain types of nutrients.
+4384.21 It tends to like sweet things.
+4385.73 Most children naturally like sweet things,
+4387.55 some more than others.
+4388.89 But naturally, most people
+from childhood onward
+4392.5 don't particularly crave
+very bitter substances.
+4395.14 Maybe mildly bitter, but not very bitter.
+4397.38 So there's some hard-wiring of preference,
+4399.67 but there's also some
+soft-wiring in the system
+4402.3 that allows it to change.
+4405.18 The groups I mentioned earlier
+4406.22 have done some really
+beautiful experiments
+4408.22 looking at how artificial sweeteners
+4411.12 interact with the actual
+sweet sensing system.
+4414.48 And this gets right down
+to a number of issues.
+4417.11 First of all, it gets to the issue of
+4419.06 how we can rewire our taste system
+4421.707 in ways that serve us
+for better or for worse.
+4424.94 Second of all, it gets
+right down to the issue
+4427.52 of whether or not artificial sweeteners
+4429.62 are good for us or bad for us.
+4431.51 And indeed, as of just this last year,
+4434.72 we know an answer to that question,
+4438.0 and turns out, it depends.
+4440.06 And I will tell you in a few minutes
+4442.5 when it is okay to ingest
+artificial sweeteners,
+4446.16 and when it is very detrimental
+4448.0 to ingest artificial
+sweeteners of any kind.
+4451.33 Regardless, I'm not going
+to name off brand names,
+4453.13 but there are different forms of these
+4454.44 artificial sweeteners nowadays.
+4456.99 And there are various forms
+4458.6 of non-caloric plant-based sweeteners
+4461.24 for which the same information
+4462.67 that I'm about to tell you applies.
+4464.96 Okay.
+4466.03 So the experiments that were done
+4467.9 beautifully illustrate that
+you seek out particular foods
+4471.37 because of the way they taste,
+4473.3 because of their impact
+on blood glucose levels,
+4476.38 but also on their impact
+on the dopamine system,
+4480.61 even if your blood glucose
+levels don't change.
+4483.24 So here's the experiment.
+4485.053 One group of subjects
+is given a sweet taste
+4487.87 of a substance that also raises
+4489.46 blood glucose levels, blood sugar,
+4491.33 and dopamine goes up, not surprisingly.
+4494.78 The second condition,
+4496.0 separate subjects consume
+an artificial sweetener
+4499.29 or a non-caloric sweetener.
+4501.23 It is not preferred much
+over other substances,
+4504.61 but it is sweet, so
+it's preferred somewhat.
+4507.6 And it does not cause an
+increase in blood glucose levels,
+4511.7 and not surprisingly,
+dopamine levels don't go up.
+4515.4 So initially, we don't tend to like
+4517.39 artificial sweeteners that much.
+4518.71 That's the simple way of putting it.
+4520.09 However, if subjects continue
+4522.82 to ingest artificial sweeteners,
+4525.57 even though there's no increase
+in blood glucose level,
+4527.69 and therefore, no increase
+in brain metabolism,
+4531.4 dopamine levels eventually start to rise.
+4534.25 And when those dopamine levels
+eventually start to rise,
+4537.56 you've essentially conditioned
+4538.78 or reinforced that artificial
+or non-caloric sweetener,
+4543.87 and then subjects start
+to consume more of it,
+4545.88 and they actually get a
+dopamine increase from it.
+4549.58 So that's interesting.
+4550.413 It says that, consuming more
+of these artificial sweeteners,
+4552.82 or consuming them for a
+longer period of time,
+4555.15 can start to tap into the dopamine system,
+4557.02 and lead us to seek out
+4558.15 or consume more of these
+artificial sweeteners.
+4559.91 Many people are probably
+familiar with this,
+4562.05 because we tend to,
+4564.68 or I should say, people report,
+4566.1 that when they ingest these
+artificial sweeteners,
+4568.12 at first, they don't taste very good,
+4569.31 but then, over time, they
+seem kind of tolerable,
+4571.44 and then maybe even pleasureful,
+4572.397 and then some people feel, quote/unquote,
+4574.037 "addicted" to various diet
+sodas, and things of that sort.
+4578.01 Now, there's another condition
+that's been explored,
+4581.93 and that's the really
+interesting condition,
+4583.86 and it's the condition where
+an artificial sweetener
+4586.74 is paired with a substance
+that can increase blood sugar,
+4591.27 but not because it tastes sugary,
+4593.75 like a normal sweet substance.
+4595.0 So now, there's an artificial sweetener
+4597.81 that's coupled with an actual
+increase in blood glucose.
+4602.12 The natural world scenario
+where this would happen
+4605.18 would be drinking a diet soda
+which contains no calories,
+4608.55 and therefore, would not
+increase blood glucose,
+4610.26 but is sweet, with a food
+that increases blood glucose.
+4615.48 And when that happens,
+4617.37 what you're essentially doing,
+4618.33 is tapping into the dopamine system.
+4620.06 This non-caloric sweet
+taste is paired with it,
+4624.03 and there's an increase
+in neuron metabolism.
+4627.58 So you have all of the
+components for reinforcement.
+4630.49 And as a consequence,
+4632.43 you get in a sort of
+Pavlovian conditioning way,
+4635.268 a situation where, later,
+4637.81 when you ingest that artificial sweetener,
+4640.64 you actually get not only
+the increase in dopamine,
+4643.79 but you get alterations
+in blood sugar management.
+4647.29 Now, blood sugar cannot go up
+4649.48 if you don't ingest something
+that makes blood sugar go up.
+4652.63 So it's not as if you
+ingest artificial sweetener
+4655.19 with some food that
+contains calories or sugar,
+4658.42 and then later, you remove the food,
+4660.43 and you just drink the soda,
+4661.82 and your blood glucose goes up.
+4664.33 Rather, it's a much worse situation.
+4670.07 I'll make this in the
+natural world context.
+4671.8 If you ingest an artificial sweetener,
+4673.44 say, drink diet soda while consuming foods
+4676.93 that increase blood glucose,
+4679.65 then later, even if you
+just drink the diet soda,
+4684.15 it's been shown that you
+secrete much more insulin,
+4688.1 the hormone that regulates blood glucose,
+4690.97 in response to that diet soda.
+4693.14 Studies have been done
+in both adult humans
+4696.11 and in human children.
+4697.66 In general, when we say children,
+4698.94 we mean human children,
+4699.773 but just to be very clear
+what we're talking about.
+4702.46 Exploring consuming diet
+soda with or without food,
+4705.7 then later, consuming just the diet soda.
+4708.82 And what they found was,
+4709.96 having previously consumed
+diet soda with food,
+4713.02 and then later, only
+consuming the diet soda,
+4716.53 of course, there isn't an
+increase in blood glucose,
+4718.92 because they're not
+bringing in any calories
+4720.62 when they just drink the diet soda,
+4722.48 but there is a significant
+increase in insulin release,
+4726.98 and that is serious in a terrible way,
+4730.38 because increased release of insulin,
+4732.33 and so-called insulin sensitivity,
+4734.29 is the basis for type 2 diabetes.
+4736.81 So much so, that in the
+study with the children,
+4740.32 consuming non-caloric
+beverages in this way,
+4745.17 first with food, and then on their own,
+4747.08 led to increases in insulin
+that made them pre-diabetic,
+4750.17 and they actually had to halt the study.
+4752.32 So I want to zoom out from this,
+4754.427 and just really illustrate
+the major findings,
+4756.82 and then talk about
+how this can be applied
+4758.93 in the positive sense.
+4759.78 I also want to mention what this means
+4761.38 in terms of your consumption
+4762.97 of artificial sweeteners of any kind.
+4765.49 So first of all,
+4766.43 the direct takeaway about
+artificial sweeteners.
+4769.92 Artificial sweeteners are not bad for you.
+4772.62 I'm not going to say that.
+4774.28 What I am going to say,
+4775.36 is that whether or not
+you ingest them alone,
+4777.38 or you ingest them in
+combination with food,
+4780.76 or as part of foods that
+raise blood glucose,
+4784.21 is vitally important for
+your insulin management.
+4787.02 And the simple extractor
+tool from this is,
+4790.8 if you are going to consume
+artificial sweeteners,
+4793.204 it's very likely best to consume those
+4796.51 away from any food that
+raises blood glucose levels.
+4800.66 So if you're going to enjoy
+diet soda, be my guest,
+4804.22 but do it not while consuming food,
+4807.18 in particular, foods
+that raise blood glucose.
+4809.46 Because what these studies show,
+4811.21 and I will provide references for these,
+4813.12 is that they can vastly disrupt
+4816.8 blood sugar management by way of
+4818.56 the insulin glucose system, okay?
+4820.69 And actually, I'll just
+give you the reference now.
+4822.83 This is a paper from Dana Small's lab.
+4825.46 The first author is
+Dalenburg, D-A-L-E-N-B-U-R-G.
+4830.13 And the title of the paper is
+4831.547 "Short-term Consumption of Sucralose With,
+4833.447 nut Not Without Carbohydrate,
+4834.94 Impairs Neural and Metabolic Sensitivity
+4837.38 to Sugar in Humans".
+4839.74 This is a paper published
+in "Cell Metabolism"
+4841.59 in March of 2020.
+4842.81 I think it's a very important paper.
+4845.0 And similar findings have
+been addressed in mice,
+4848.45 and in other studies.
+4849.283 And now, because of this paper,
+4850.58 there's now a bunch of other
+groups working on this issue.
+4854.97 There's some evidence previously
+published in "Nature",
+4858.61 an excellent top-tier journal.
+4860.86 Sort of among the Superbowl
+of top three journals,
+4863.74 being "Nature", "Science", and "Cell".
+4865.06 A paper published in
+"Nature" a few years back
+4867.87 showing that particular
+artificial sweeteners
+4871.0 can disrupt the gut microbiome,
+4872.76 and have deleterious health effects.
+4875.69 That result, I think, stands,
+4877.19 although, there are some results
+4878.45 that may not agree with that,
+4881.03 depending on whether or not
+the artificial sweetener
+4882.84 is saccharin, or sucralose,
+or aspartame, or stevia.
+4886.06 That's the gut microbiome.
+4887.66 But what we are talking about here
+4889.91 is independent of the form of artificial
+4892.32 or non-caloric sweetener,
+4893.33 because it has everything to do with
+4894.56 whether or not there is a match
+4895.83 or a mismatch between the perceived taste,
+4899.33 and the effect of the thing
+that you are consuming
+4902.71 on blood sugar and metabolism.
+4905.29 So the first takeaway from this is,
+4908.96 if you're going to consume
+artificial sweeteners,
+4911.8 it's really important that you do that
+4913.53 not in conjunction with foods
+that increase blood glucose.
+4917.7 Second of all, it points to the fact,
+4920.18 that the foods that we prefer,
+4922.98 and the activation of the dopamine system,
+4926.89 both through the gut,
+4928.7 and at the level of conscious taste,
+4931.35 in other words, what we
+like, is very plastic.
+4935.03 It's mutable, and we can change it.
+4937.49 How can we change it?
+4938.66 Well, earlier, I mentioned
+a structure in the brain
+4942.34 called the insula,
+4943.49 this incredible structure that's
+involved in interoception,
+4946.29 and interoception of all kinds.
+4948.15 In fact, just as an aside,
+4950.33 a year or so ago,
+4951.95 my lab published a paper showing that
+4954.35 activity within certain
+compartments of the insula
+4959.57 of humans is responding to
+4962.42 a heightened state of anxiety in the body.
+4964.2 It can respond to changes
+in our respiration,
+4966.64 changes in our heart rate.
+4967.75 So this is...
+4968.583 Again, it's a readout
+of our internal state,
+4971.2 not just of taste,
+4972.1 but of many, many different
+aspects of the mechanics
+4975.6 and chemistry of our internal
+milieu within our body.
+4980.33 All of the work that I
+was describing previously
+4983.84 has also been addressed
+at the neural level.
+4986.35 And using a broad brush
+to explain these results,
+4989.7 what we can say is,
+4992.15 when there is dopamine increase,
+4996.19 one sees activation of the
+so-called nucleus accumbens,
+4999.06 which is part of the so-called
+mesolimbic reward pathway.
+5002.41 If you'd like to learn more about
+5003.243 the mesolimbic reward pathway,
+and dopamine in general
+5007.44 in humans and in animal studies,
+5008.97 and all the various incredible
+5012.98 and challenging things that
+dopamine can do for us,
+5015.98 there's a episode all about
+dopamine that you can look up.
+5018.99 It's easy to find at Hubermanlab.com.
+5021.75 The increases in dopamine
+associated with sweet taste
+5025.74 and/or blood glucose
+elevating foods and drinks,
+5030.9 cause activation of the nucleus accumbens.
+5032.76 That's not surprising.
+5034.57 Also in the circuit
+5035.92 is activation of the
+so-called arcuate nuclei
+5038.93 within the hypothalamus.
+5039.9 These are areas of the hypothalamus
+5041.56 that respond to hormones from the body,
+5043.47 and respond to hormones and
+neuropeptides in the brain,
+5046.96 as well as neural signals in the brain,
+5049.22 to drive us to eat
+more, or to stop eating.
+5052.39 So it's hypothalamus, nucleus accumbens.
+5054.87 These are sort of the...
+5056.08 Hypothalamus and the arcuate
+being the motivating to eat,
+5060.48 or motivating to stop eating.
+5062.78 Both sets of neurons are contained there.
+5065.38 There are other areas like the
+lateral hypothalamus as well.
+5067.51 But hypothalamus is
+sort of the accelerator
+5069.21 and the break on eating.
+5070.33 And then the nucleus accumbens
+5072.32 and dopamine release can be thought of
+5074.28 as kind of a nitro boost, if
+you will, like the kids say.
+5078.59 Do the kids say that anymore?
+5079.47 Anyway, a nitro boost to
+increase what we call the gain
+5083.93 or the volume of how much you
+want more of something, okay?
+5087.84 When dopamine is present,
+5089.01 it's this kind of generic signal
+5090.88 to go seek out more of
+whatever caused that release.
+5094.43 And then there's the insula.
+5095.94 This very thoughtful, rational...
+5098.22 Not really.
+5099.053 It's not thinking.
+5099.886 It's a brain area.
+5100.719 You're thinking, but it's part
+of the areas of your brain
+5103.303 that are interpreting what's
+going on in your body.
+5105.4 Whether or not you feel good or not good.
+5106.93 Whether or not you feel
+anxious, excited, or fearful.
+5111.72 It's integrating all that information.
+5114.33 And fed into this entire circuit as well
+5118.37 are the inputs from
+your prefrontal cortex,
+5120.56 which is your thinking, rational,
+5123.08 neuronal structure, if you will,
+5125.81 informing you, for instance,
+5127.72 ah, well, I don't really
+like salmon very much,
+5131.61 or I'm not so crazy about kale,
+5134.12 but it has omega-3s,
+5136.98 or it's rich in these
+polyphenols that are good for me.
+5141.55 And if one decides that they
+are going to eat these things,
+5146.22 not just because they are good for them,
+5148.35 but believe it or not,
+5150.11 if one takes the perception
+5152.88 or adopts the perception that
+they are both good for you,
+5156.1 and that in being good for you,
+5159.59 they are good for your brain metabolism,
+5161.45 and that you desire to be healthy,
+5165.2 as crazy as it sounds,
+5166.93 those subjective signals
+of what you tell yourself
+5169.92 about the foods that you're eating
+5171.72 can actually impact how
+those foods will taste,
+5176.15 maybe not immediately, but eventually,
+5177.294 and can impact the way in which your body
+5180.5 utilizes those foods.
+5182.35 Now, that might seem like
+a absolute pipe dream.
+5185.56 If I just imagine that I like mackerel,
+5187.67 mackerel will start to taste good.
+5189.13 I'm not saying that.
+5190.03 I didn't say that you
+could override yuck signals
+5194.2 with this mechanism.
+5196.32 I didn't say that you could take a food
+5198.61 that would be absolutely noxious to you,
+5201.46 or make you want to
+vomit, and override that.
+5203.36 However, foods that are
+somewhat neutral to you
+5207.75 can take on a different value
+5211.45 based on the activation
+of the dopamine system.
+5214.4 And now, knowing what you know,
+5216.41 there are a couple ways that
+you could imagine doing that.
+5218.93 First of all, you could,
+in this so-called gedanken,
+5222.94 or thought experiment,
+5223.96 you could, for instance,
+swap out sucralose,
+5227.55 because sucralose is just a taste, right?
+5229.62 It's an artificial sweet taste.
+5231.5 You could swap that out,
+5233.17 and insert kale,
+5235.41 but eat the kale with something
+that raises blood glucose
+5239.81 to some degree or another.
+5241.01 Now, I'm not encouraging
+anyone to run out there
+5243.17 and spike their blood
+glucose glucose like crazy.
+5245.71 And in fact, blood glucose
+isn't really the goal.
+5249.1 If you recall, the goal is to get neurons
+5251.96 to be metabolically active
+with that blood glucose, okay?
+5255.22 That's what's actually rewarded
+5256.62 at a sub-sub-conscious level,
+5258.35 meaning at a deep subconscious level.
+5261.02 But consuming these foods with other foods
+5264.18 that increase blood glucose,
+5265.28 and thereby, brain metabolism,
+5267.42 or I suppose, if you're ketogenic,
+5269.75 here in the ketosis,
+5272.77 I don't know what the range of foods
+5273.93 that are allowed on ketosis are,
+5275.22 so I don't want to misspeak here,
+5276.42 and say, cracker, which
+would probably be a sin
+5279.6 in the context of ketosis,
+5280.94 and no knock against ketosis.
+5282.47 I'm offering this, in part,
+5284.47 because I think that there are
+a number of people that have
+5287.05 and can positively benefit
+from a ketogenic diet.
+5290.31 But for instance,
+5291.143 if there's a food that you
+want to consume more of,
+5294.25 but that you find somewhat
+meh, or mildly yuh, yuck,
+5298.31 even pairing it with ketones,
+5301.95 if indeed, you are using ketones
+for your brain metabolism,
+5305.9 'cause that's what happens
+on the ketogenic diet,
+5308.02 over time, that food will be reinforced
+5311.32 by the dopamine pathway.
+5312.3 We know this from these studies
+5313.83 where sucralose was the
+substance paired with
+5316.8 the glucose elevating.
+5318.98 In other words, metabolically
+elevating the food substance,
+5323.01 or liquid substance.
+5324.84 So how does one go about doing this?
+5327.01 Well, first of all, I want to emphasize,
+5330.25 that this experiment
+actually has been done
+5332.87 in a slightly different context.
+5336.15 Studies by my colleague, Alia Crum,
+5338.82 in the Psychology Department at Stanford
+5341.27 have explored the bodily response,
+5344.66 in terms of insulin release,
+5346.2 and the release of other food
+and eating-related hormones,
+5350.78 as well as overall feelings
+of satisfaction, et cetera,
+5355.02 in groups of people
+that drink a milkshake,
+5359.68 and are either told that
+it's a low calorie shake
+5362.33 that contains various nutrients
+that are good for them,
+5365.57 or a higher calorie shake
+5367.55 that has a lot of nutrients, et cetera.
+5371.03 And what they found,
+5372.66 was that the different groups,
+5373.84 and here, again, I'm being very general
+5375.65 with my description of these studies,
+5377.39 but what they found, is that
+the physiological response,
+5381.02 the insulin response, the
+blood glucose response,
+5383.4 and the subjective measures
+5385.61 of whether or not people
+enjoyed something or not,
+5388.14 were heavily influenced
+by what they were told
+5390.61 were in these milkshakes.
+5392.06 So blood glucose would go up.
+5393.46 Insulin would go up
+5394.293 when people were told it
+was a high calorie shake
+5396.24 with lots of nutrients.
+5397.27 Less so when people
+ingested a shake that was,
+5400.75 you know, that they were
+told had less nutrients,
+5404.09 and so forth.
+5405.35 When in reality, it was
+the identical shake.
+5409.69 This is incredible.
+5410.523 This is a belief effect.
+5411.85 This is not placebo, right?
+5413.56 A placebo effect is different.
+5415.14 Placebo effect is in comparison.
+5416.9 It's where the control condition actually
+5419.46 influences outcomes to a same,
+5422.43 or to some degree, just like
+the experimental condition.
+5426.54 This is not a placebo effect.
+5427.73 This is a belief effect,
+5429.48 where the belief and the
+subjective thoughts about
+5433.21 what a given food will do
+5435.27 has a direct impact on
+a physiological measure,
+5438.35 like blood sugar and blood glucose.
+5440.2 Okay, so let's zoom out
+from this for a second,
+5443.21 and think about how we
+can incorporate this
+5445.78 into adopting consumption of healthy foods
+5450.13 that serve our brain health in
+the immediate and long-term.
+5453.68 And if you're wondering what those are,
+5454.91 I listed them out at the
+beginning of the episode,
+5456.82 and their justification
+for being on that list.
+5460.3 What this means is,
+5461.91 obviously, you want to
+consume foods that you like,
+5464.81 but because brain health
+is very important,
+5467.72 and many of the foods
+that promote brain health,
+5471.82 perhaps, are not the most palatable to you
+5474.0 or desirable to you,
+5476.1 the key would be to ingest the foods
+5479.38 that you want to ingest more of
+5481.43 simply because they're good for you,
+5483.37 and not because they taste good to you,
+5486.44 alongside foods that increase
+5488.94 whatever fuel system you
+happen to be relying on.
+5491.43 I think that's the most nutritionally
+5493.5 politically correct way to say it.
+5494.91 So if you're keto,
+5495.743 that would mean ketones, okay?
+5497.69 If you're not ketogenic,
+5499.24 and I think most people
+probably are not in ketosis,
+5501.6 or trying to maintain ketosis,
+5503.37 but for instance,
+5504.203 people that are on a
+purely plant-based diet,
+5506.06 that would be one set of foods.
+5507.16 For people that are omnivores,
+5508.72 a different set of foods.
+5509.553 And for people that are carnivores,
+5510.84 yet another set of foods.
+5513.24 If you want to eat more
+of a particular food
+5515.09 because it's good for you,
+5516.02 pair it with something in the same meal.
+5518.55 You don't have to hide it physically,
+5520.47 or in the flavor sense.
+5522.4 You don't have to hide it
+within that other food,
+5524.25 but pair it with that other food
+5526.34 that provides you a shift
+in brain metabolism,
+5529.9 because that's really what
+your brain and you are seeking,
+5533.07 even though you don't realize it.
+5534.84 How long will this take?
+5536.21 Well, according to the
+data in humans on sucralose
+5539.99 and the conditioning for
+sucralose to have these effects,
+5543.95 which, in many cases,
+were detrimental, right?
+5546.8 Because they were increasing insulin.
+5548.41 But in this case, you're trying to
+5550.74 hijack this conditioning
+of food preference
+5553.66 for healthy purposes,
+5555.94 not with sucralose,
+5556.86 but by ingesting things
+that are good for you,
+5559.2 then the data really point to the fact
+5561.98 that even within a short period
+of time of about seven days,
+5564.95 but certainly within 14 days,
+5567.12 that food will take on
+a subjective experience
+5570.65 of tasting at least better
+to you, if not good to you.
+5574.92 Now, I believe this has
+important implications
+5577.49 for much of the controversy
+5579.46 and food wars that we see out there.
+5582.09 Food wars being, of course,
+5584.23 these groups that ardently
+subscribe to the idea
+5589.0 that their diet and the
+things that they are eating
+5592.33 are the foods that are good for us,
+5593.727 and that are the most pleasureful,
+5595.67 and the things that
+everyone should be eating.
+5598.55 We see this with every community
+within the nutrition realm.
+5603.15 Now, of course, there are
+studies that point to the fact
+5606.0 that certain foods and food
+components are healthier,
+5608.97 probably for us and for the planet,
+5611.12 but you really see it on
+both ends of the spectrum.
+5612.98 You've got people who are
+on a pure carnivore diet
+5614.93 who are arguing with a
+lot of biomedical evidence
+5617.73 that that's what's best
+for us and beneficial.
+5620.43 And then you've got
+people that are arguing
+5622.13 the same general sets of arguments,
+5624.1 but for a purely plant-based diet.
+5625.64 And then I think most people
+5626.61 fall into the omnivore category.
+5630.39 What's very clear, however,
+5631.92 is that what we consume on a regular basis
+5635.5 and what leads to increases
+in brain metabolism
+5639.62 leads to increases in dopamine,
+5641.53 and thereby our motivation to eat them.
+5644.44 So what this really says,
+5646.73 is that what we tend to do regularly
+5648.6 becomes reinforcing in and of itself.
+5651.26 And I think, in large part,
+5652.7 can explain the fact that,
+5654.17 yes, indeed, for certain people,
+5656.01 a given diet not only feels good,
+5658.7 but they heavily subscribe to the nutrient
+5661.42 and kind of health beneficial
+effects of that diet.
+5664.74 And they often will
+provide evidence for that,
+5667.27 whether or not you ask them for it or not.
+5669.7 But that's true of every subcategory
+5672.05 within the nutrition realm.
+5675.32 Again, this is not to take away
+5676.77 from some of the beautiful data
+5678.48 emphasizing that certain foods,
+5680.41 and micronutrients, et cetera,
+5682.51 are better for us, or worse
+for us, and for the planet.
+5685.58 That's not a debate I want
+to get into right now.
+5687.683 What this emphasizes,
+5689.22 is that foods impact our
+brain and its health,
+5693.53 but they also impact
+how our brain functions
+5697.9 and responds to food,
+5699.75 and that is largely a learned response.
+5702.63 We can't completely
+override, for instance,
+5705.5 that certain foods evoke a
+strong, [grunts] yuck component.
+5709.5 Certain foods are truly putrid to us.
+5711.68 I should just say, certain
+things are putrid to us,
+5713.57 and we should not consume them, right?
+5716.72 At the far end of the spectrum,
+5717.89 it's hard-wired for us to avoid those,
+5719.9 because they can be dangerous for us.
+5721.97 They can make us very, very sick.
+5724.15 But it's also true,
+5725.64 that if we continue to eat foods
+5727.79 that are progressively sweeter and sweeter
+5729.55 and highly palatable,
+5731.0 it shifts our dopamine system,
+5732.78 because it activates our dopamine system
+5734.97 to make us believe that those foods
+5736.85 are the only foods that can
+trigger this reward system,
+5739.96 and make us feel good,
+and that they taste good.
+5742.19 But after consuming foods
+that perhaps are less sweet
+5746.07 or even less savory,
+5747.95 that are not what we would call highly,
+5749.91 or I would say, nowadays,
+it's super palatable foods,
+5752.32 we can adjust our sense literally
+5756.22 of what we perceive as an
+attractive and rewarding food,
+5759.82 and indeed, the dopamine system
+5761.62 will reward those foods accordingly.
+5764.32 I can't emphasize enough
+5765.55 how much this learning
+of associated food reward
+5770.04 is important for not just understanding
+5772.79 why we like the foods that we eat,
+5774.57 and how to eat more of foods
+that are healthy for us,
+5777.44 and enjoy them,
+5779.07 but it also speaks to the fact
+that our brain, as a whole,
+5784.07 is a perceptual device
+trying to make guesses
+5786.82 or estimations about
+5788.13 what certain foods are going to do for us.
+5790.45 So put simply,
+5791.99 we don't just like sweet
+foods because they taste good,
+5794.04 we like them because they predict
+5795.33 a certain kind of metabolic response.
+5798.42 This is important also,
+5799.53 because Dana Small, and Ivan de Araujo,
+5804.14 and others have been exploring
+5805.56 whether or not people, for instance,
+5807.48 that have type 2 diabetes,
+5809.83 or that suffer from any number
+5811.09 of different metabolic disorders,
+5812.36 whether or not somehow
+5813.25 these food reward systems
+are permanently disrupted,
+5816.63 and through a beautiful set of experiments
+5818.52 that have been done by mainly
+by Dana Small's group at Yale,
+5821.61 but also by the de
+Araujo group and others,
+5825.81 exploring how the reward
+pathways are altered
+5830.3 in various metabolic disorders, et cetera,
+5832.79 people suffering from type 2 diabetes.
+5836.11 We don't have time to go
+into all those data now,
+5838.07 but the takeaway is,
+5839.4 that food preference,
+5841.3 and the ability to reshape these circuits
+5843.77 is not disrupted in these people
+5846.15 to the point where it can't be rewired,
+5848.24 and that's very encouraging,
+5849.37 because what it means is that,
+5850.71 for people that are suffering
+from these syndromes,
+5853.35 through some simple
+alterations in dietary choice,
+5857.81 provided those are carried out over time
+5859.89 and in the correct way,
+5861.58 by pairing with the foods
+that will appropriately
+5864.78 shift metabolism of the brain,
+5866.49 one can actually rewire what they consider
+5868.78 not just palatable,
+5869.82 but attractive as foods.
+5871.5 If you want to learn
+more about food reward
+5875.6 and food reinforcement,
+5876.83 'cause it turns out, those
+are slightly different things,
+5879.15 there's a wonderful review
+written by Ivan de Araujo.
+5882.96 They have a middle author,
+Mark Schachter, and Dana Small.
+5886.07 It's called "Rethinking Food Reward",
+5887.87 and it was published in the
+"Annual Reviews of Psychology".
+5890.83 You can find it very easily online.
+5892.25 It was published in 2019.
+5894.07 And it's a beautiful, deep dive,
+5896.28 although, quite accessible to most people,
+5898.49 about how different foods,
+5900.72 and the way that we perceive them
+5902.57 impacts our brain and body,
+5904.03 and why we like the things we like,
+5905.79 and how to reshape what we like.
+5908.07 So once again, we've done a
+fairly extensive deep dive
+5911.14 into food and your brain,
+5913.69 focusing first on how particular foods
+5916.83 and compounds within foods
+5918.8 that are available also
+through supplementation
+5921.28 can impact immediate and
+long-term brain health.
+5923.272 Came up with a relatively short list
+5926.8 of what I would call super foods,
+5928.82 only because there are
+ample data to support
+5932.37 their role in enhancing short
+and long-term cognition,
+5935.29 and neuronal health, and so on.
+5937.33 And we also talked about food preference,
+5940.33 and why particular tastes,
+5942.32 and particular events within the gut,
+5944.3 and particular events
+within the brain combine
+5947.7 to lead us to pursue particular foods,
+5950.95 and to avoid other foods,
+5952.71 and how you can leverage those pathways
+5955.37 in order to pursue more of the foods
+5957.18 that are going to be
+good for you, and good,
+5959.41 not just for your brain,
+5960.42 but for your overall body health,
+5962.15 and to enjoy them along the way.
+5964.01 If you're learning from, and
+are enjoying this podcast,
+5966.73 please subscribe to our YouTube channel.
+5968.45 That's a terrific zero
+cost way to support us.
+5970.75 In addition, please leave us suggestions
+5973.05 for future topics and guests
+you would like us to host
+5975.85 in the comment section on YouTube.
+5978.06 As well, please subscribe to
+5979.74 the Huberman Lab Podcast
+on Apple and/or Spotify.
+5982.48 And on Apple, you can leave
+us up to a five star review.
+5986.03 If you're not already
+following us on Instagram,
+5988.41 we are Huberman Lab at Instagram,
+5990.65 and there, I do neuroscience tutorials
+5993.17 that sometimes have
+overlapped with the podcast,
+5995.24 but often, are original
+content altogether.
+5998.09 We are also Huberman Lab on Twitter.
+6000.97 Another terrific way to support us
+6002.52 is by checking out our sponsors
+6004.03 that we mentioned at the
+beginning of the episode.
+6005.98 we also have a Patreon.
+6007.23 It's patreon.com/andrewhuberman.
+6009.94 And there, you can support the podcast
+6011.72 at any level that you like.
+6013.97 During today's podcast, and on
+many other previous episodes,
+6016.98 we talked about various supplements.
+6018.84 One of the major issues with supplements
+6021.01 is that supplement
+companies don't always have
+6023.32 the highest quality standards,
+6024.8 and/or the amounts of the supplements
+6027.31 that they list on the bottle
+6028.42 aren't what actually are
+contained in the capsules,
+6030.78 and pills, and powders
+of those supplements.
+6033.1 For that reason, we partner
+with Thorne, T-H-O-R-N-E,
+6035.88 because Thorne has the
+highest levels of stringency
+6038.92 with respect to the quality
+of the supplements they use,
+6042.05 and the quantity of the
+supplements they use.
+6044.4 They partnered with all
+the major sports teams,
+6046.2 and with the Mayo Clinic,
+6047.24 and we have tremendous confidence
+6048.67 in the quality of their supplements.
+6049.99 If you'd like to see the
+supplements that I take,
+6052.17 you can go to Thorne,
+thorne.com/u/huberman.
+6058.26 There, you can get 20% off
+any of those supplements.
+6060.87 And if you navigate into the main site
+6063.34 through that portal of
+thorne.com/u/huberman,
+6066.46 you can also get 20% off any
+6068.1 of the supplements that Thorne makes.
+6070.25 And last, but not least,
+6072.45 thank you for your interest in science.
+6074.149 [upbeat instrumental music]

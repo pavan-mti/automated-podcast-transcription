@@ -1,0 +1,7 @@
+librosa
+pydub
+numpy
+pandas
+streamlit
+plotly
+soundfile

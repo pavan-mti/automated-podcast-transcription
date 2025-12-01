@@ -1,0 +1,4390 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+1.91 where we discuss science
+and science-based tools
+4.93 for everyday life.
+9.25 I'm Andrew Huberman,
+10.27 and I'm a Professor of
+Neurobiology and Ophthalmology
+12.66 at Stanford School of Medicine.
+14.67 Today, my guest is Dr. Jack Feldman.
+17.27 Dr. Jack Feldman
+18.28 is a distinguished
+Professor of Neurobiology
+20.54 at the University of
+California, Los Angeles.
+23.32 He is known for his pioneering work
+25.4 on the neuroscience of breathing.
+27.85 We are all familiar with breathing
+29.44 and how essential breathing is to life.
+31.94 We require oxygen, and
+it is only by breathing
+34.5 that we can bring oxygen to all the cells
+36.81 of our brain and body.
+38.44 However, as the work from Dr. Feldman
+40.6 and colleagues tells us,
+42.47 breathing is also fundamental
+to organ health and function
+45.8 at an enormous number of other levels.
+48.2 In fact, how we breathe,
+including how often we breathe,
+51.7 the depth of our breathing and the ratio
+54.16 of inhales to exhales actually
+predicts how focused we are,
+58.6 how easily we get into sleep,
+60.67 how easily we can exit from sleep.
+62.96 Dr. Feldman gets credit for the discovery
+65.18 of the two major brain
+centers that control
+67.64 the different patterns of breathing.
+69.37 Today, you'll learn
+about those brain centers
+71.13 and the patterns of
+breathing they control,
+72.87 and how those different
+patterns of breathing influence
+75.77 all aspects of your
+mental and physical life.
+78.76 What's especially wonderful
+about Dr. Feldman and his work
+81.93 is that it not only points
+to the critical role
+84.027 of respiration in disease,
+86.6 in health and in daily life,
+but he's also a practitioner.
+89.99 He understands how to
+leverage particular aspects
+92.67 of the breathing process
+in order to bias the brain
+96.15 to be in particular states
+that can benefit us all.
+99.37 Whether or not you are a person
+100.51 who already practices breathwork,
+102.15 or whether or not you're somebody
+103.19 who simply breathes to stay alive,
+105.19 by the end of today's discussion
+107.08 you're going to understand
+a tremendous amount
+109.44 about how the breathing system works
+111.38 and how you can leverage
+that breathing system
+113.62 toward particular goals in your life.
+115.67 Dr. Feldman shares with us
+117.06 his own particular breathing
+protocols that he uses,
+120.22 and he suggests different
+avenues for exploring respiration
+123.83 in ways that can allow you, for instance,
+125.76 to be more focused for work,
+127.4 to disengage from work
+and high stress endeavors
+130.09 to calm down quickly.
+131.42 And indeed, he explains
+not only how to do that,
+133.82 but all the underlying science
+in ways that will allow
+136.21 you to customize your own
+protocols for your needs.
+139.66 All the guests that we bring
+on The Huberman Lab Podcast
+142.07 are considered at the
+very top of their fields.
+144.85 Today's guest, Dr. Feldman,
+146.79 is not only at the top of his
+field, he founded the field.
+150.41 Prior to his coming into neuroscience
+152.1 from the field of physics,
+153.45 there really wasn't much information
+154.93 about how the brain controls breathing.
+156.51 There was a little bit of information,
+158.14 but we can really credit Dr. Feldman
+159.92 and his laboratory for identifying
+161.55 the particular brain areas
+163.13 that control different
+patterns of breathing
+164.97 and how that information can
+be leveraged towards health,
+168.24 high performance and
+for combating disease.
+171.1 So, today's conversation you're going
+172.73 to learn a tremendous amount
+174.45 from the top researcher in this field.
+176.63 It's a really wonderful
+and special opportunity
+178.46 to be able to his knowledge with you,
+180.63 and I know that you're not
+only going to enjoy it,
+182.83 but you are going to
+learn a tremendous amount.
+185.23 Before we begin, I'd like to
+emphasize that this podcast
+187.65 is separate from my teaching
+and research roles at Stanford.
+190.36 It is however, part of
+my desire and effort
+192.23 to bring zero cost to consumer information
+193.97 about science and science related tools
+195.98 to the general public.
+197.23 In keeping with that theme,
+198.21 I'd like to thank the
+sponsors of today's podcast.
+201.01 Our first sponsor is Thesis.
+203.28 Thesis as a company that makes nootropics.
+205.89 Now, I've talked before on
+the podcast and elsewhere
+208.22 about the fact that I don't
+really like the term nootropics,
+210.51 which means smart drugs,
+212.24 because smart means many different things
+214.39 in many different contexts.
+215.7 You've got creativity, you've got focus,
+217.53 you've got task switching.
+219.11 So, the idea that there will
+be one pill or one formula
+221.74 that could make us smarter and better
+223.51 at all those things at once,
+just doesn't stand up to logic.
+226.6 In fact, different chemicals
+228.11 and different brain systems underlie
+230.01 our ability to be creative
+or our ability to task switch
+233.14 or to be focused.
+234.61 And that's the basis of Thesis.
+236.5 Thesis as a company that
+makes targeted nootropics
+238.88 for specific outcomes.
+239.92 In other words, specific
+nootropics to get your brain
+242.84 into states that are ideal
+244.51 for what you're trying to accomplish.
+246.77 Thesis uses very high quality ingredients,
+248.83 many of which I've talked
+about before on the podcast,
+250.95 such as DHA, Gingko biloba,
+and phosphatidylserine.
+254.4 I talked about those in the ADHD podcast.
+257.01 Those are some of the ingredients
+257.96 in their so-called Logic formula.
+259.84 There's a lot of research
+showing that Gingko biloba
+261.7 can be very helpful for
+increasing levels of focus,
+264.44 and even for people with ADHD.
+266.56 However, I can't take it.
+267.97 When I take it, I get really bad headaches
+269.89 and I know some people who do
+271.28 and some people who don't get headaches
+273.08 when they take Gingko biloba.
+274.36 This is a great example
+of why nootropics need
+276.27 to be personalized to the individual.
+278.49 Thesis gives you the ability
+279.62 to try different blends
+over the course of a month
+281.69 and discover which
+nootropic formulas work best
+284.1 for your unique brain
+chemistry and genetics,
+286.72 and which ones are best for
+particular circumstances.
+289.75 So, they have a formulation for instance,
+291.7 which is Motivation.
+293.26 They have another formulation,
+which has Clarity.
+295.35 They've got another
+formulation, which is Logic.
+296.937 And each of these is
+formulated specifically to you
+300.84 and formulated to a specific
+end point or goal state of mind
+304.77 for your particular work.
+306.38 So as a consequence, the
+formulations that you arrive at
+308.92 will have a very high probability
+310.84 of giving you the results that you want.
+313.03 In addition to that detailed
+level of personalization,
+316.04 Thesis takes a step further
+by offering free consultations
+319.18 with a brain coach to help
+you optimize your experience,
+321.65 and dial in your favorite
+and best formulas.
+325.2 I've been using Thesis for
+close to six months now,
+327.31 and I can confidently say
+328.143 that their nootropics have been
+a total game changer for me.
+331.09 My favorite of the formulations
+is their Motivation formula
+334.7 that they've tailored to me.
+336.19 When I use that formula,
+337.35 I have very clear state of
+mind, I have even energy,
+339.85 and I use that early in the
+day until the early afternoon
+342.402 to get the bulk of my
+most important work done.
+345.49 To get your own personalized
+nootropic starter kit,
+347.87 you can go online to
+takethesis.com/huberman,
+352.05 take a three minute quiz and Thesis
+353.61 will send you four different formulas
+355.11 to try in your first month.
+356.67 That's takethesis.com/huberman
+and use the code Huberman
+359.441 at checkout to get 10%
+off your first order.
+363.64 Today's episode is also brought
+364.91 to us by Athletic Greens.
+366.46 Athletic Greens
+367.293 is an all-in-one vitamin
+mineral probiotic drink.
+370.18 I've been using Athletic
+Greens since 2012,
+372.58 and so I'm delighted that
+they're sponsoring the podcast.
+375.1 The reason I started
+taking Athletic Greens,
+376.78 and the reason I still
+take Athletic Greens
+378.66 is that it covers all of my vitamin,
+380.27 mineral and probiotic foundational needs.
+382.95 There's now a wealth of data showing
+384.76 that not only do we need
+vitamins and minerals,
+386.79 but we also need to have
+a healthy gut microbiome.
+389.5 The gut microbiome is a
+set of nerve connections
+392.19 that link the microbiota,
+393.61 literally microbacteria
+that live in our guts
+395.81 and that are healthy for
+us with our brain function.
+398.45 And our brain is also talking to our gut
+401.08 in a bi-directional way.
+402.21 And that conversation
+is vital for metabolism,
+405.7 for the endocrine system,
+407.07 meaning the hormonal system
+408.21 and for overall mood and cognition.
+410.7 There's just so much data
+now pointing to the fact
+412.59 that we need a healthy gut microbiome
+414.7 and a healthy brain gut
+axis as it's called.
+418.43 By taking Athletic Greens
+once or twice a day,
+420.53 I can get the vitamins and minerals
+421.522 and the probiotics needed
+423.12 for all those systems
+to function optimally.
+425.22 And again, it tastes
+great, it's great for me.
+427.64 In fact, if people ask me,
+428.847 "What's the one supplement
+that I should take,"
+430.73 and they can only take one supplement,
+432.2 I recommend Athletic Greens for
+all the reasons I mentioned.
+435.24 If you'd like to try Athletic Greens,
+436.53 you can go to athleticgreens.com/huberman
+439.15 to claim a special offer.
+440.25 They're giving you five free travel packs,
+442.27 which are these little
+travel packs to make it easy
+443.87 to mix up Athletic Greens
+while you're on the road
+445.73 or in the car or on the plane, et cetera,
+447.53 and a year supply of Vitamin D3+K2.
+450.52 There is also a wealth of evidence showing
+451.99 that Vitamin D3 is vital
+to our overall health,
+454.79 and K2 is important for
+cardiovascular health
+457.32 and other systems as well.
+458.78 Most of us are not getting
+enough vitamin D3 or K2,
+461.41 even if we're getting some sunshine.
+463.4 So again, if you go to
+athleticgreens.com/huberman,
+465.65 you get the five free travel packs,
+467.18 a year supply of Vitamin D3+K2.
+469.98 Athleticgreens.com/huberman
+is where you go
+472.21 to claim that special offer.
+473.92 Today's episode is also
+brought to us by Headspace.
+476.72 Headspace is a meditation
+app that's supported
+478.81 by 25 published studies and benefits
+481.16 from over 600,000 five-star reviews.
+484.33 I've long been a believer in meditating.
+486.84 There is so much data
+now pointing to the fact
+488.93 that regular meditation leads
+to reduced stress levels,
+492.16 heightened levels of focus,
+better task switching,
+494.9 and cognitive ability.
+496.62 It just goes on and on.
+497.71 I mean, there are literally thousands
+498.87 of peer reviewed studies now
+in quality journals pointing
+501.83 to the benefits of having a
+regular meditation practice.
+505.19 The problem with meditation
+506.32 is many people, including myself,
+508.1 have struggled with
+sticking to that practice.
+510.62 With Headspace, it makes
+it very easy to start
+512.669 and continue a meditation protocol.
+515.42 The reason for that is
+they have meditations
+517.18 that are of different
+lengths and different styles
+518.96 so you don't get bored of meditation.
+520.8 And even if you just have five minutes,
+522.54 there are five minute meditations.
+523.89 If you've got 20 minutes,
+524.92 which would be even better,
+525.753 there are 20 minute meditations.
+528.02 Ever since I started using Headspace,
+529.61 I've been consistent about my meditation.
+531.39 I do meditation anywhere from
+five to seven times a week
+535.3 in my best weeks, and
+sometimes that's drops to three
+537.69 and then I find with Headspace,
+538.605 I can quickly get back to
+doing meditation every day
+541.03 because of the huge variety
+542.68 of great meditations that they have.
+544.58 If you want to try Headspace,
+545.7 you can go to headspace.com/specialoffer.
+548.47 And if you do that,
+549.303 you can get a free one month trial
+550.72 with Headspace's full
+library of meditations
+552.83 for every situation.
+554.12 That's the best deal offered
+by Headspace right now.
+556.01 So again, if you're interested,
+557.52 go to headspace.com/specialoffer.
+560.32 One quick mention before we dive
+561.57 into the conversation with Dr. Feldman.
+563.72 During today's episode,
+564.87 we discuss a lot of breathwork practices
+566.87 and by the end of the episode,
+568.08 all those will be accessible to you.
+570.05 However, I'm aware that there are a number
+571.56 of people out there that
+want to go even further
+573.438 into the science and
+practical tools of breathwork.
+576.43 And for that reason, I want
+to mention a resource to you.
+579.24 There is a cost associated
+with this resource,
+581.08 but it's a terrific platform
+581.937 for learning about breathwork practices
+583.547 and for building a number
+of different routines
+586.27 that you can do, or that you could teach.
+588.19 It's called Our Breathwork Collective.
+590.81 I'm not associated with
+the Breathwork Collective,
+593.03 but Dr. Feldman is an advisor to the group
+595.41 and they offer daily live
+guided breathing sessions
+598.18 and an on-demand library
+599.225 that you can practice any time
+free workshops on breathwork.
+602.72 And these are really developed
+by experts in the field,
+604.92 including Dr. Feldman.
+606.58 So, as I mentioned, I'm not
+on their advisory board,
+608.76 but I do know them and their work
+610.27 and it is of the utmost quality.
+612.02 So anyone wanting to
+learn or teach breathwork
+614.09 could really benefit from
+this course, I believe.
+616.15 If you'd like to learn more,
+617.03 you can click on the
+link in the show notes
+618.86 or visit ourbreathcollective.com/huberman,
+621.82 and use the code Huberman at checkout.
+623.78 And if you do that,
+624.82 they're offering you
+$10 off the first month.
+626.88 Again, it's
+ourbreathcollective.com/huberman
+629.7 to access the Our Breath Collective.
+631.97 And now for my conversation
+with Dr. Jack Feldman.
+635.89 Thanks for joining me today.
+637.12 - It's a pleasure to be here, Andrew.
+638.85 - Yeah, it's been a long time coming.
+640.41 You're my go-to source for
+all things respiration.
+643.88 I mean, I breathe on my own,
+645.08 but when I want to
+understand how I breathe
+647.61 and how the brain and breathing interact,
+651.21 you're the person I call.
+652.67 - Well, I'll do my best.
+653.63 As you know, there's a lot
+that we don't understand,
+655.75 which still keeps me employed and engaged,
+658.11 but we do know a lot.
+660.82 - Why don't we start off by just talking
+662.49 about what's involved
+in generating breath.
+666.35 And if you would, could
+you comment on some
+670.03 of the mechanisms for rhythmic breathing
+673.14 versus non rhythmic breathing?
+676.99 - Okay, so on the mechanical side,
+678.97 which is obvious to everyone,
+680.6 we want to have air flow in, inhale,
+684.91 and we need to have air flow out
+686.76 and the reason we need to do this
+689.0 is because for body
+metabolism, we need oxygen.
+693.38 And when oxygen is utilized through
+696.165 the aerobic metabolic process,
+we produce carbon dioxide.
+701.14 And so, we have to get
+rid of the carbon dioxide
+703.33 that we produce in particular
+705.42 because the carbon dioxide affects
+706.985 the acid base balance
+of the blood, the pH,
+710.47 and all living cells are very sensitive
+713.982 to what the pH value is,
+715.64 so your body is very interested
+in regulating that pH.
+719.12 So we have to have enough oxygen
+for our normal metabolism,
+723.53 and we have to get rid of
+the CO2 that we produce.
+726.43 So, how do we generate this air flow?
+729.17 Well, the air comes into the lungs.
+731.25 We have to expand the lungs
+and as the lungs expand,
+734.84 basically, it's like a balloon
+that you would pull apart.
+737.94 The pressure inside that balloon drops
+740.263 and the air will flow into the balloon.
+742.22 So we expand, put pressure on
+the lungs to pull it apart,
+747.74 that lowers the pressure in
+the air sacks called alveoli
+751.82 and air will flow in because
+pressure outside the body
+755.19 is higher than pressure inside the body
+757.13 when you're doing this
+expansion, when you're inhaling.
+761.47 What produces that?
+762.69 Well, the principle
+muscle is the diaphragm,
+765.82 which is sitting inside the
+body just below the lung,
+769.3 and when you want to inhale,
+771.55 you basically contract the
+diaphragm and it pulls it down.
+775.09 And as it pulls it down,
+776.72 it's inserting pressure
+forces on the lung,
+779.63 the lung wants to expand.
+781.34 At the same time, the rib cage
+is going to rotate up and out,
+786.17 and therefore expanding the
+cavity, the thoracic cavity.
+791.14 At the end of inspiration,
+793.6 under normal conditions
+when you're aggressed,
+796.12 you just relax and it's
+like pulling on a spring.
+799.23 You pull down a spring
+and you let go and relax.
+801.61 So, you inhale and you exhale.
+805.84 Inhale, relax, and exhale.
+807.84 - So, the exhale is passive?
+809.82 - At rest it's passive.
+811.21 We'll get into what happens
+when you need to increase
+814.497 the amount of air you're bringing in
+817.73 because your ventilation,
+819.36 your metabolism goes up
+like during exercise.
+823.217 Now the muscles themselves,
+825.33 skeletal muscles don't do anything unless
+829.177 the nervous system tells
+them to do something.
+832.503 And when the nervous system tells
+833.717 them to do something, they contract.
+836.95 So, there are specialized
+neurons in the spinal cord,
+840.7 and then above the spinal cord,
+842.2 the region called the brainstem,
+844.0 which go to respiratory muscles,
+847.16 in particular for
+inspiration in the diaphragm
+849.65 and the external intercostal
+muscles in the rib cage.
+853.98 And they contract.
+855.47 So, these respiratory muscles
+these inspiratory muscles
+861.43 become active and they become
+active for a period of time,
+865.7 then they become silent and
+when they become silent,
+869.37 the muscles then relax back to
+their original resting level.
+874.72 Where does that activity in these neurons
+877.55 that innovate the muscle,
+which are called motor neurons,
+879.87 where does that originate?
+881.85 Well, this was a question
+that's been bandied around
+885.78 for thousands of years,
+887.83 and when I was a beginning
+assistant professor,
+892.74 it was fairly high priority for me
+895.55 to try and figure that out,
+896.73 because I wanted to understand
+898.85 where this rhythm of
+breathing was coming from
+901.95 and you couldn't know
+where it was coming from
+904.3 until you knew where it was coming from.
+907.07 And I didn't phrase that properly.
+908.68 You couldn't understand
+how it was being done
+910.91 until you know where to look.
+912.8 So, we did a lot of experiments,
+914.51 which I can go into
+detail and finally found,
+917.7 there was a region in the brainstem,
+920.03 that's once again this region
+sort of above the spinal cord,
+924.0 which was critical for
+generating this rhythm.
+927.3 It's called the pre-Botzinger complex.
+929.33 And we can talk about how that was named.
+932.32 This small site, which contains in humans,
+935.94 a few thousand neurons,
+937.66 it's located on either
+side and works in tandem
+942.17 and every breath begins with neurons
+947.11 in this region beginning to be active,
+950.56 and those neurons then connect ultimately
+953.53 to these motor neurons
+going to the diaphragm
+956.55 and to the external
+intercostals causing them
+959.31 to be active and causing
+this inspiratory effort.
+963.89 When the neurons in the
+pre-Botzinger complex finish
+967.49 their burst of activity,
+969.69 then inspiration stops and then you begin
+974.21 to exhale because of this passive recoil
+978.36 of the lung and rib cage.
+980.33 - Could I just briefly
+interrupt you to ask
+982.74 a few quick questions
+- Of course.
+984.097 - before we move forward in
+this very informative answer.
+989.73 The two questions are,
+993.08 is there anything known
+about the activation
+996.64 of the diaphragm and
+the intercostal muscles
+999.41 between the ribs as it relates
+1001.53 to nose versus mouth breathing,
+1004.25 or are they activated
+in the equivalent way,
+1008.74 regardless of whether or not someone
+1010.01 is breathing through their nose or mouth?
+1012.805 - I don't think we fully
+have the answer to that.
+1015.91 Clearly there are differences
+1017.18 between nasal and mouth breathing.
+1020.125 At rest the tendency is
+to do nasal breathing
+1024.81 because the air flows that are necessary
+1028.152 for normal breathing as easily managed
+1031.735 by passing through the nasal cavities.
+1034.7 However, when your
+ventilation needs to increase
+1037.46 like during exercise, you
+need to move more air,
+1040.4 you do that through your
+mouth because the airways
+1042.917 are much larger then,
+1044.8 and therefore you can move much more air,
+1046.94 but at the level of the
+intercostals and the diaphragm,
+1050.66 their contraction is not,
+1053.438 is almost agnostic to whether or not
+1057.85 the nose and mouth are open.
+1059.41 - Okay, so if I understand correctly,
+1062.16 there's no reason to suspect
+that there are particular,
+1065.46 perhaps even non
+overlapping sets of neurons
+1067.356 in pre-Botzinger area of the brainstem
+1070.62 that triggered nasal versus mouth inhales?
+1075.4 - No, I would say that it's not
+1079.204 that the pre-Botzinger
+complex is not concerned
+1081.96 and cannot influence that,
+1083.78 but it does not appear as
+if there's any modulation
+1089.42 of whether or not it's where
+the air is coming from,
+1091.79 whether it's coming through
+1092.64 your nasal passages or through your mouth.
+1094.82 - Great. Thank you.
+1095.86 And then the other question I have
+1096.91 is that these intercostal muscles
+1098.34 between the ribs then
+move the ribs up and out
+1101.0 if I understand correctly,
+and the diaphragm,
+1103.424 are those skeletal or
+as the Brits would say,
+1106.72 skeletal muscles or smooth muscles?
+1110.23 What type of muscle are
+we talking about here?
+1113.33 - As I said earlier, these are skeletal,
+1115.73 I didn't say there was skeletal muscles,
+1117.16 but they're muscles that need neural input
+1120.1 in order to move.
+1121.32 You talked about smooth muscles.
+1123.71 They are specialized muscles like we have
+1125.69 in the gut and in the heart,
+1127.78 and these are muscles that are capable
+1129.448 of actually contracting
+and relaxing on their own.
+1134.42 So, the heart beats,
+1135.97 it doesn't need neural
+input in order to beat.
+1139.15 The neural inputs modulate the strength
+1141.92 of it and the frequency,
+but they beat on their own.
+1145.08 The skeletal muscles involved
+1148.04 in breathing need neural input.
+1151.47 Now, there are smooth muscles
+1153.02 that have an influence on breathing,
+1154.317 and these are muscles that
+are lining the airways.
+1158.56 And so, the airways have smooth muscle
+1162.26 and when they become activated,
+1164.67 the smooth muscle can contract or relax,
+1168.4 and when they contract inappropriately
+1171.01 is when you have problems
+breathing like in asthma.
+1174.79 Asthma is a condition
+1175.93 where you get inappropriate constriction
+1178.4 of the smooth muscles of the airways.
+1180.88 - So, there's no reason
+to think that in asthma
+1182.355 that the pre-Botzinger or
+these other neuronal centers
+1185.5 in the brain that activate breathing,
+1188.053 that they are involved or
+causal for things like asthma?
+1192.5 - As of now, I would say the
+preponderance of evidence
+1195.27 is that it's not involved,
+1197.01 but we've not really
+fully investigated that.
+1199.72 - Thank you.
+1200.553 Sorry to break your flow,
+1202.16 but I was terribly
+interested in knowing answers
+1205.394 to those questions and you
+provided them, so thank you.
+1208.438 - Now, remind me again, where I was in my-
+1211.77 - We were just landing in pre-Botzinger
+1214.27 and we will return to the naming
+1216.266 of pre-Botzinger because it's a wonderful
+1218.67 and important story really,
+1220.243 that I think people should be aware of.
+1222.56 But maybe you could march
+us through the brain centers
+1227.18 that you've discovered
+and others have worked
+1230.43 on as well that control breathing,
+1232.84 pre-Botzinger as well
+1234.26 as related structures.
+- Okay.
+1235.71 So, when we discovered the pre-Botzinger,
+1239.48 we thought that it was the primary source
+1242.94 of all rhythmic respiratory movements,
+1245.77 both inspiration and expiration.
+1248.03 Their notion of a single
+source is like day or night.
+1253.88 It's like they're all coming,
+1254.873 they all have the same origin
+1256.97 that the Earth rotates
+and day follows night
+1259.67 and we thought that the
+pre-Botzinger complex
+1261.91 would be inhalation, exhalation.
+1265.371 And then in a series of experiments
+1268.476 we did in the early part of 2000,
+1272.63 we discovered that there
+seemed to be another region
+1277.22 which was dominant in
+producing expiratory movements,
+1281.47 that is the exhalation.
+1284.28 We had made a fundamental mistake
+1288.57 with the discovery of the pre-Botzinger,
+1292.66 not taking into account
+1294.16 that at rest expiratory muscle activity
+1297.517 or exhalation is passive.
+1300.86 So, if that's the case,
+1303.1 a group of neurons that might
+generate active expiration,
+1307.77 that is to contract
+the expiratory muscles,
+1310.08 like the abdominal muscles
+1311.24 or the internal intercostals
+are just silent.
+1314.86 We just thought it wasn't,
+1315.957 the air was coming from one place,
+1318.52 but we got evidence that in fact,
+1320.87 it may have been coming
+from another place.
+1323.2 And following up on these experiments,
+1324.92 we discovered that there
+was a second oscillator
+1328.44 and that oscillator is involved
+1331.77 in generating what we
+call active expiration.
+1334.92 That is this act of-
+- If I go [exhales].
+1337.8 - Yeah [exhales], or when
+you begin to exercise,
+1341.15 you have to go [panting], and
+actually move that air out.
+1345.27 This group of cells,
+which is silent at rest
+1348.9 suddenly becomes active
+to drive those muscles,
+1352.17 and it appears that it's an
+independent oscillator when-
+1355.993 - Maybe you could just clarify
+1357.27 for people what an oscillator is.
+1358.83 - Okay, an oscillator is
+something that goes in a cycle.
+1363.58 So, you can have a pendulum
+1365.08 as an oscillator going back and forth.
+1367.22 The Earth is an oscillator
+because it goes around
+1369.7 and it's day and night.
+1370.76 - Some people's moods are oscillating.
+1372.68 - Oscillating.
+1373.513 And it depends how regular they are.
+1376.27 You can have oscillators
+that are highly regular
+1378.14 or that are in a watch,
+1380.21 or you can have those that
+are sporadic or episodic.
+1384.26 Breathing is one of those oscillators
+1387.16 that for life has to be
+working continuously 24/7.
+1391.77 It starts late in the third trimester
+1394.37 because it has to be
+working when you're born,
+1396.88 and basically works throughout
+life and if it stops,
+1400.82 if there's no intervention
+beyond a few minutes,
+1403.53 it will likely be fatal.
+1405.84 - What is this second oscillator called?
+1408.51 - Well, we found that in a
+region around the facial nucleus,
+1415.39 so we initially,
+1417.87 when this region was initially identified,
+1421.185 we thought it was involved
+in sensing carbon dioxide.
+1425.44 It was what we call a
+central chemo receptor.
+1428.02 That is, we want to keep
+carbon dioxide levels,
+1430.59 particularly in the brain
+at a relatively stable level
+1433.97 'cause the brain is
+extraordinarily sensitive
+1436.26 to changes in pH.
+1438.22 If there's a big shift in carbon dioxide
+1441.52 there'll be a big shift in brain pH,
+1443.46 and that'll throw your brain,
+1445.5 if I can use the technical
+term, out of whack.
+1448.86 And so, you want to regulate that
+1450.43 and the way to regulate
+something in the brain
+1453.78 is you have a sensor in the brain.
+1455.83 And others basically identified
+1458.877 that the ventral surface of the brainstem,
+1461.23 that is the part of the
+brainstem that's on this side,
+1466.1 was critical for that
+and then we identified
+1468.95 a structure that was near
+the trapezoid nucleus.
+1475.24 It was not named in any of
+these noranatomical atlases,
+1479.3 so we just picked the name out of the hat
+1481.53 and we called it the
+retro trapezoid nucleus.
+1484.57 - I should clarify for people.
+1486.41 When Jack is saying trapezoid,
+1488.37 it doesn't mean the trapezoid muscles.
+1489.453 Trapezoid refers to the
+shape of this nucleus,
+1492.97 this cluster of neurons.
+1495.905 Parafacial makes me think
+that this general area
+1498.78 is involved in something
+related to mouth or face.
+1502.66 Is it an area rich with
+neurons controlling other parts
+1507.61 of the face, eye blinks,
+1508.99 nose twitches, lip curls, lip smacks?
+1512.95 - If you go back in an evolutionary sense
+1515.38 and a lot of things that
+are hard to figure out
+1518.81 begin to make sense when you look
+1520.65 at the evolution of the nervous system.
+1523.28 When control of facial muscles,
+1527.53 going back to more primitive creatures
+1529.36 because they had to take things
+in their mouth for eating,
+1533.36 so we call that the
+face sort of developed,
+1536.74 the eyes were there, the mouth is there,
+1538.99 these nuclei, the modem that
+contained the motor neurons,
+1543.92 a lot of the control
+systems for them developed
+1546.87 in the immediate vicinity.
+1549.1 So, if you think about the face,
+1550.9 there's a lot of sudden
+nuclei around there
+1554.09 that had various roles
+1555.51 at various different times in evolution.
+1557.84 And at one point in evolution,
+1560.51 the facial muscles were
+probably very important
+1563.35 in moving fluid in and out of the mouth
+1566.47 and moving air in and out of the mouth,
+1568.96 and so part of these
+many different sub nuclei
+1573.61 now seems to be in mammals to be involved
+1576.81 in the control of expiratory muscles.
+1579.25 But we have to remember that mammals
+1582.84 are very special when
+it comes to breathing,
+1585.24 because we're the only
+class of vertebrates
+1588.54 that have a diaphragm.
+1590.49 If you look at amphibians and reptiles,
+1593.52 they don't have a diaphragm.
+1595.33 And the way they breathe is
+not by actively inspiring
+1599.49 and passively expiring.
+1601.55 They breathe by actively
+expiring and passively inspiring
+1606.22 because they don't have a
+powerful inspiratory muscle.
+1610.62 And somewhere along the line,
+the diaphragm developed,
+1615.92 and there are lots of theories
+about how it developed.
+1618.403 I don't think it's particularly clear.
+1619.8 There was something that
+you can find in alligators
+1624.047 and lizards that could
+have turned into a muscle
+1626.87 that was the diaphragm.
+1629.023 The amazing thing about the diaphragm
+1632.33 is that it's mechanically
+extremely efficient.
+1636.01 And what do I mean by that?
+1637.71 Well, if you look at how oxygen gets
+1640.95 from outside the body
+into the bloodstream,
+1644.79 the critical passage is across
+the membrane in the lung.
+1650.087 It's called the alveolar
+capillary membrane.
+1653.08 The alveolus is part of the lung
+1656.46 and the blood runs through capillaries,
+1659.01 which are the smallest tubes
+in the circulatory system.
+1662.64 And at that point,
+1663.5 oxygen can go from the air
+filled alveolus into the blood.
+1670.34 - Which is amazing.
+1671.91 I find that amazing,
+1672.95 even though it's just purely mechanical,
+1674.69 the idea we had these
+little sacks in our lungs,
+1676.38 we inhale and the air
+goes in and literally
+1678.59 the oxygen can pass into the bloodstream-
+1681.16 - Passes into the bloodstream.
+1682.51 But the rate of which
+it passes will depend
+1685.96 on the characteristics of the membrane,
+1688.666 what the distance is between the alveolus
+1692.067 and the blood vessel, the capillary.
+1694.74 But the key element is the surface area.
+1699.04 The bigger the surface area,
+1700.85 the more oxygen that can pass through,
+1703.35 it's entirely a passive process.
+1705.29 There's no magic about
+making oxygen go in.
+1708.74 Now, how do you get a pack,
+1711.07 a large surface area in a small chest?
+1715.0 Well, you start out with one
+tube, which is the trachea,
+1717.95 the trachea expands.
+1719.88 Now you have two tubes.
+1721.89 Then you have four tubes
+and it keeps branching.
+1725.38 At some point, at the
+end of those branches,
+1728.61 you put a little sphere,
+which is an alveolus,
+1732.1 and that determines what the
+surface area is going to be.
+1736.43 Now, you then have a mechanical problem.
+1739.67 You have the surface area,
+1741.37 you have to be able to pull it apart.
+1743.59 So, imagine you have a little
+square of elastic membrane,
+1748.29 it doesn't take a lot of
+force to pull it apart,
+1751.06 but now if you increase it by 50 times,
+1754.66 you need a lot more
+force to pull it apart.
+1757.06 So, amphibians who were breathing,
+1759.91 not by compressing the lungs
+1761.82 and then just passively expanding it
+1765.03 weren't able to generate a lot of force,
+1767.32 so they have relatively few branches.
+1769.6 So, if you look at the surface area
+1771.63 that they pack in their lungs
+relative to their body size,
+1776.71 it's not very impressive.
+1778.62 Whereas when you get to mammals,
+1781.35 the amount of branching that you have
+1784.55 is you have four to 500,000,000 alveoli.
+1788.359 - If we were to take
+those four to 5,000,000-
+1791.65 - 100,000,000, four to 500,000,000.
+1794.633 - 100,000,000, excuse me,
+and lay those out flat,
+1798.21 what sort of surface area
+are we talking about?
+1799.94 - About 70 square meters,
+1802.03 which is about a third the
+size of a tennis court.
+1805.12 - Wow.
+1805.953 - So you have a membrane inside of you
+1807.163 a third the size of a tennis court
+1809.42 that you actually have
+to expand every breath.
+1812.67 And you do that without
+exerting much of a,
+1815.54 you don't feel it,
+1816.8 and that's because you
+have this amazing muscle,
+1819.02 the diaphragm, which
+because of its positioning
+1822.02 just by moving two thirds of an inch down
+1826.35 is able to expand that membrane enough
+1829.46 to move air into the lungs.
+1831.447 Now, the at rest,
+- Wow.
+1835.55 - the volume of air in your lungs
+1837.4 is about two and a half liters.
+1840.3 Do we need to convert that to quartz?
+1842.38 - No.
+1843.213 - Right, so about two and a half liters.
+1845.32 When you take a breath,
+1847.09 you're taking another 500
+milliliters or half a liter.
+1850.77 That's the size maybe of my fist.
+1853.82 So, you're increasing the volume by 20%,
+1858.14 but you're doing that by pulling
+1860.09 on this 70 square meter membrane.
+1862.92 But that's enough to
+bring enough fresh air
+1865.53 into the lung to mix in with
+the air that's already there,
+1869.6 that the oxygen levels in your bloodstream
+1873.72 goes from a partial pressure of oxygen,
+1877.604 which is 40 millimeters of mercury
+1881.11 to 100 millimeters of mercury.
+1883.12 So, that's a huge increase in oxygen
+1885.61 and that's enough to
+sustain normal metabolism.
+1888.94 So, we have this amazing
+mechanical advantage
+1895.87 by having a diaphragm.
+1897.63 - Do you think that our brains are larger
+1900.58 than that of other mammals in part,
+1902.93 because of the amount of oxygen
+1904.23 that we have been able
+to bring into our system?
+1906.85 - I would say a key step in the ability
+1910.55 to develop a large brain
+that has a continuous demand
+1914.74 for oxygen is the diaphragm.
+1917.57 Without a diaphragm, you're an amphibian,
+1922.919 and there's another solution
+to increasing oxygen uptake
+1927.22 which is the way birds breathe,
+1929.82 but birds have other limitations
+1931.666 and they still can't get
+brains as big as mammals have.
+1936.55 So, the brain utilizes
+maybe 20% of all the oxygen
+1944.21 that we intake and it
+needs to continuously.
+1947.311 The brain doesn't want to be neglected.
+1949.97 So, this puts certain
+demands on breathing system.
+1952.83 In other words, you can't
+shut it down for awhile,
+1955.47 which poses other issues.
+1958.06 You're born, and you have to mature.
+1960.56 You have the small body,
+you have a small lung,
+1963.24 you have a very pliant rib cage,
+1966.13 and now you have to develop into an adult,
+1968.23 which has a stiffer rib cage.
+1970.15 And so, there are changes happening
+1971.81 in your brain and your body,
+1974.01 where the neural control of breathing
+1976.41 has to change on the fly.
+1978.7 It's not like for things like vision
+1982.51 where you have the opportunity to sleep
+1984.83 and while you're sleeping,
+1985.9 the brain is capable of doing things
+1987.55 that are not easy to
+doing during wakefulness,
+1989.65 like the construction crew
+comes in during sleep.
+1994.056 The change in breathing has been described
+1996.0 as trying to build an
+airplane while it's flying.
+2000.61 - Basically what Jack is saying
+2001.77 is that respiration
+science is more complex
+2005.71 and hardworking than vision science,
+2007.27 which is a direct jab at me that some
+2009.467 of you might've missed, but
+I definitely did not miss,
+2012.12 and I appreciate that you
+always take the opportunity
+2015.04 like a good New Yorker to give me a good,
+2017.88 healthy intellectual jab.
+2020.68 A question related to
+diaphragmatic breathing
+2025.16 versus non diaphragmatic breathing
+2026.65 because the way you describe it,
+2028.04 the diaphragm is always involved
+2029.79 but over the years whether it be
+2033.81 for yoga class or a breathwork thing,
+2036.63 or you hear online that we should
+2038.64 be breathing with our diaphragm,
+2040.33 that rather than lifting our rib cage
+2042.32 when we breathe [inhales] and our chest,
+2044.47 that it is "healthier" in air quotes
+2046.64 or better somehow to have the
+belly expand when we inhale.
+2050.832 I'm not aware of any particular studies
+2053.24 that have really examined
+2054.14 the direct health
+benefits of diaphragmatic
+2057.04 versus non diaphragmatic breathing,
+2059.16 but if you don't mind
+commenting on anything
+2062.52 you're aware of as it relates
+2064.72 to diaphragmatic versus non
+diaphragmatic breathing,
+2067.42 whether or not people tend
+2068.4 to be diaphragmatic breathers
+by default, et cetera,
+2071.25 that would be, I think
+interesting to a number of people.
+2074.09 - Well, I think by default,
+2075.22 we are obligate diaphragm breathers.
+2077.35 There may be pathologies
+where the diaphragm
+2081.78 is compromised and you
+have to use other muscles,
+2085.37 and that's a challenge.
+2089.256 Certainly at rest other
+muscles can take over,
+2097.67 but if you need to
+increase your ventilation,
+2100.17 the diaphragm is very important.
+2103.19 It would be hard to increase
+your ventilation otherwise.
+2105.38 - Do you pay attention to whether or not
+2106.96 you are breathing in a manner
+2108.49 where your belly goes out
+a little bit as you inhale,
+2112.89 because I can do it both ways, right?
+2114.16 I can inhale [inhales], bring my belly in,
+2116.47 or I can inhale [inhales], push
+my diaphragm and belly out.
+2121.29 Not the diaphragm out,
+2122.26 but and that's interesting, right?
+2124.1 Because it's a completely
+different muscle set
+2125.89 for each version.
+2128.3 - Well, in the context of
+things like breath practice,
+2134.02 I'm a bit agnostic about the effects
+2137.57 of some of the different
+patterns are breathing.
+2141.5 Clearly, some are going to work
+through different mechanisms,
+2144.83 and we can talk about that,
+2146.68 but at a certain level for example,
+2148.55 whether it's primarily diaphragm
+2150.77 where you move your abdomen or
+not, I am agnostic about it.
+2155.576 I think that the changes
+that breathing induces
+2160.38 in emotion and cognition,
+2162.59 I have different ideas
+about what the influence is
+2166.96 and I don't see that primarily as how,
+2171.26 which particular muscles you're choosing,
+2174.16 but that just could be my own prejudice.
+2177.15 - Okay.
+2177.983 We will return to that as a
+general theme in a little bit.
+2182.75 I want to ask you about sighing.
+2185.83 One of the many great gifts
+that you've given us over
+2191.3 the years is an
+understanding of these things
+2195.5 that we call physiological sighs.
+2197.89 Could you tell us about
+physiological sighs?
+2200.64 What's known about them,
+2202.41 what your particular interest in them is
+2205.86 and what they're good for?
+2208.89 - A very interesting
+and important question.
+2212.3 So, everyone has a
+sense of what a sigh is.
+2218.28 We certainly, when we're emotional,
+2220.647 in some ways we're stressed,
+we're particularly happy,
+2224.151 [inhales] we'll take a little sigh.
+2228.39 It turns out that we're
+sighing all the time.
+2232.64 And when I would ask people
+2236.2 who are not particularly knowledgeable
+2238.02 that have read my papers
+or James Nestor's book
+2240.83 or listened to your podcast,
+2243.442 they're usually off by
+two orders of magnitude
+2246.83 about how frequently we
+sigh on the low side.
+2250.42 In other words, they say
+once an hour, 10 times a day.
+2255.85 We sigh about every five minutes,
+2258.7 and I would encourage
+anyone who finds that
+2262.68 to be a unbelievable fact,
+2266.39 is to lie down in a quiet room
+and just breathe normally,
+2270.41 just relax, just let go,
+2273.1 and just pay attention to your breathing
+2275.84 and you'll find that
+every couple of minutes,
+2278.06 you're [inhales] taking a deep
+breath and you can't stop it.
+2283.66 It just happens.
+2285.69 Now, why?
+2287.04 Well, we have to go
+back to the lung again.
+2289.49 The lung has these 500,000,000 alveoli,
+2292.68 and they're very tiny.
+2294.4 They're 200 microns across.
+2299.0 So, they're really, really tiny.
+2301.2 And you can think of them as fluid filled.
+2304.09 They're fluid lined.
+2305.017 And the reason their fluid lined
+2306.59 has to do with the esoterica
+of the mechanics of that.
+2312.32 It makes it a little easier to stretch
+2314.15 them with this fluid line,
+which is called surfactant.
+2317.67 And surfactant is important
+during development,
+2319.85 it is a determining factor in the,
+2323.01 when premature infants are born.
+2325.92 If they have not do not
+have lung surfactant
+2328.71 it makes it much more
+challenging to take care of them
+2332.05 than after they have lung surfactant,
+2333.6 which is sometime, if
+I remember correctly,
+2335.9 in the late second, early third
+trimester, which it appears.
+2339.87 In any case it's fluid line.
+2341.84 Now, think of a balloon
+that you would blow up,
+2346.13 but now before you blow it up,
+fill the balloon with water,
+2350.07 squeeze all the water out and now,
+2353.044 when you squeeze all the water out
+2355.29 you notice the sides of the
+balloon stick to each other.
+2358.34 Why is that?
+2359.44 Well, that's because water
+2360.68 has what's called surface tension.
+2363.31 And when you have two
+surfaces of water together,
+2366.98 they actually tend to stick to each other.
+2369.47 Now, when you try and
+blow that balloon up,
+2371.94 you know that it,
+2373.33 or you'll notice if you've
+ever done it before,
+2375.66 that the balloon is a
+little harder to inflate
+2379.03 than if we're dry on the inside.
+2380.94 Why is that?
+2381.773 Because you have to overcome
+that surface tension.
+2385.79 Well, your alveoli have
+a tendency to collapse.
+2391.14 There's 500,000,000 in them.
+2393.12 They're not collapsing
+at a very high rate,
+2395.55 but it's a slow rate that's not trivial.
+2398.906 And when an alveolus
+collapses it no longer
+2402.29 can receive oxygen or
+take carbon dioxide out.
+2406.46 It's sort of taken out of the equation.
+2408.73 Now, if you have 500,000,000
+in them and you lose 10,
+2411.85 no big deal, but if they keep collapsing,
+2415.51 you can lose a significant part
+2417.02 of the surface area of your lung.
+2420.18 Now, a normal breath is not
+enough to pop them open,
+2424.27 but if you take [inhales] a deep breath
+2427.45 it pops them open.
+- Through nose or your mouth?
+2429.147 - Doesn't matter.
+- Okay.
+2429.98 - Doesn't matter.
+- Or-
+2431.12 - It just increased that lung volume
+2433.39 'cause you're just pulling on the lungs,
+2436.37 they'll pop open every
+about every five minutes.
+2440.84 And so, we're doing it every five minutes
+2443.59 in order to maintain
+the health of our lung.
+2446.71 In the early days of
+mechanical ventilation,
+2449.63 which was used to treat polio victims
+2452.79 who had weakness of their
+respiratory muscles,
+2455.677 they'd be put in these big steel tubes
+2460.08 and the way that would work
+is that the pressure outside
+2463.31 the body would drop.
+2465.14 That would put a expansion
+pressure on the lungs, excuse me,
+2469.59 on the rib cage.
+2470.423 The rib cage would expand and
+then the lung would expand.
+2473.94 And then the pressure
+would go back to normal
+2476.06 and the lung and rib cage
+would go back to normal.
+2479.391 This was great for getting ventilation,
+2484.23 but there was a relatively
+high mortality rate.
+2488.04 It was a bit of a mystery.
+2489.79 And one solution was to
+just give bigger breaths.
+2493.61 They'd give bigger breaths and
+the mortality rate dropped,
+2495.86 and it wasn't until I
+think it was the '50s
+2499.65 where they realized that they didn't
+2501.01 have to increase every breath to be big.
+2504.91 What they needed to do
+2505.83 was every so often they
+to have one big breath.
+2509.19 So, you have a couple of
+minutes of normal breaths,
+2511.14 and then one big breath just mimicking
+2513.61 the physiological sighs,
+2515.46 and then the mortality
+rate dropped significantly.
+2518.09 And if you see someone on a
+ventilator in the hospital,
+2523.82 if you watch every couple
+of minutes that you see
+2526.27 the membrane move up and down,
+2527.91 every couple of minutes
+there'll be a super breath
+2530.29 and that pops it open.
+2532.64 So, there are these mechanisms
+2534.4 for these physiological sighs.
+2537.85 So, just like with the
+collapse of the lungs,
+2540.63 where you need a big
+pressure to pop it open,
+2545.38 it's the same thing with the alveola.
+2547.017 You need a bigger pressure
+2548.75 and a normal breath is not enough.
+2550.97 So, you have to take a big inhale.
+2552.588 [Jack inhales]
+2553.546 [Jack exhales]
+2554.48 And what nature has done
+2555.42 is instead of requiring
+us to remember to do it,
+2559.16 it does it automatically.
+2561.01 And it does it about every five minutes.
+2563.44 And one of the questions we asked
+2566.78 is how is this happening?
+2568.97 Why every five minutes?
+2570.33 What's doing it?
+2572.45 And we got into it through a back door.
+2577.971 Typical of the way a lot
+of science gets done.
+2580.67 This is serendipitous event
+where you run across a paper
+2585.241 and something clicks and
+you just, you follow it up.
+2590.63 Sometimes you go down blind ends,
+2592.45 but this turned out to
+be incredibly productive.
+2596.64 One of the guys in my lab was
+reading a paper about stress,
+2600.7 and during stress lots of
+things happen in the body,
+2603.976 one of which is that the hypothalamus,
+2606.52 which is very reactive to
+body state releases peptides,
+2611.43 which are specialized molecules,
+2613.16 which then circulate
+throughout the brain and body,
+2616.06 that particular effects usually
+2618.44 to help deal better with the stress.
+2620.93 And one class of the
+peptides that are released
+2623.5 are called Bombesin related peptides.
+2627.63 And he also realize because
+he was a breathing guy,
+2631.583 that when you're stressed you sigh more.
+2634.63 So we said, "All right,
+maybe they're related."
+2639.02 Bombesin is relatively cheap to buy.
+2642.49 We said, Let's buy some Bombesin
+2643.677 and throw it in the brainstem,
+let's see what happens."
+2647.67 And one of the nice things
+about some experiments
+2653.25 that we try to design is to fail quickly.
+2656.55 So here we had the idea,
+2657.63 we throw Bombesin in and
+the Bombesin did nothin',
+2661.636 nothing lost, maybe $50
+to buy the Bombesin.
+2665.2 But if it did something it
+might be of some interest.
+2667.47 So, one afternoon we did the
+experiment and he comes to me,
+2672.01 he says, I won't quote
+exactly what he said,
+2674.91 because that might need to be censored,
+2677.28 but he said, "Look at this."
+2679.79 And it was in a rat.
+2682.46 Rats sigh about every two minutes.
+2685.2 They're smaller than we are
+2686.4 and they need to sigh more often.
+2688.64 Their sigh rate went from 20
+to 30 per hour to 500 per hour
+2695.87 when you put Bombesin into
+the pre-Botzinger complex.
+2698.81 - [Andrew] Amazing.
+2699.92 - And the way he did
+that is he took a very,
+2702.63 very fine glass needle
+and anesthetized a rat,
+2708.43 and inserted that needle directly
+2710.54 into the pre-Botzinger complex.
+2712.45 So, it wasn't an internalized
+delivery of the peptide.
+2715.04 It was localized in the pre-Botzinger,
+2716.63 and the sigh rate went through the roof.
+2720.04 - And I would add that that
+was an important experiment
+2722.856 to deliver the Bombesin
+directly to that site
+2726.06 because one could have
+concluded that the injection
+2729.17 of the Bombesin increased sighing
+2730.47 because it increased stress
+2732.7 rather than directly increased sighing.
+2735.01 - Amongst hundreds of other
+possible interpretations.
+2737.82 So, the precision here is very important,
+2740.067 and that goes back to what I
+said at the very beginning,
+2743.18 knowing where this is happening allows
+2745.43 you to do the proper investigations.
+2747.24 If we didn't know where
+the inspiratory rhythm
+2749.48 was originating,
+2750.71 we've never could have
+done this experiment.
+2753.17 And so, then we did another experiment.
+2755.87 We said, "Okay, what
+happens if we take the cells
+2761.07 in the pre-Botzinger that are
+responding to the peptides?
+2764.86 So, neurons will respond to a peptide
+2768.07 because they have specialized
+receptors for that peptide.
+2771.74 And not every neuron
+expresses those receptors.
+2775.27 In the pre-Botzinger complex,
+2777.3 it's probably a few
+hundred out of thousands.
+2780.55 So, we used the technique
+we had used before,
+2785.42 and this is a technique developed
+2787.73 by Doug Laffey down in San Diego,
+2790.55 where you could take a peptide
+2795.14 and conjugate it with a
+molecule called saporin.
+2799.456 Saporin is a plant derived molecule,
+2801.67 which is a cousin to ricin.
+2804.23 And many of your listeners
+may have heard of ricin and-
+2807.89 - It's a ribosomal toxin.
+2809.347 - It's very nasty.
+2811.848 A single stab with an
+umbrella will kill you,
+2816.55 which is something that
+supposedly happened
+2819.31 to a Bulgarian diplomat
+by a Russian operative
+2822.38 on a bridge in London.
+2824.02 He got stabbed and the way ricin works
+2826.71 is it goes inside a cell,
+crosses the cell membrane,
+2829.76 goes inside the cell, kills the cell,
+2832.8 then it goes to the next
+cell and then the next cell,
+2835.32 and then the next cell.
+2836.734 It's extremely dangerous.
+2841.61 In fact, it's virtually impossible
+2843.07 to work on in a lab in the United States.
+2845.22 They won't let you touch it.
+- Ricin?
+2846.6 - Ricin 'cause-
+2847.44 - We've worked with saporin many times.
+2850.647 - Saporin is safe because it
+doesn't cross cell membranes.
+2855.08 So, you got an injection of saporin,
+2857.09 it won't do anything because
+it stays outside of cells.
+2859.84 - Please, nobody do that,
+2861.26 even though it doesn't
+cross cell membranes,
+2864.08 please, nobody inject saporin
+2865.89 whether or not you are a
+operative or otherwise.
+2869.17 - Thank you, Andrew,
+for protecting me there.
+2872.61 So, but what Doug Laffey figured out
+2875.91 is that when a ligand binds the receptor,
+2880.65 that's when a molecule
+binds to its receptor,
+2884.24 in many cases that receptor ligand complex
+2889.06 gets pulled inside the cell.
+2890.85 So, it goes from the membrane
+of the cell inside the cell.
+2893.62 - Sort of like you can't
+go to the dance alone,
+2894.776 but if you're coupled
+up, you get in the door.
+2897.33 - That's right.
+2898.2 So, what he figured out is he
+put saporin to the peptide,
+2903.11 the peptide binds to its
+receptor, it gets internalized
+2906.46 and then when it's inside the cell,
+2909.01 saporin does the same
+thing that ricin does.
+2911.79 It kills the cell,
+2913.07 but then it can't go into the next cell.
+2914.95 So, the only cells that get killed,
+2917.472 or the more polite term ablated,
+2920.36 are cells that express that receptor.
+2923.98 So, if you have a big
+conglomeration of cells,
+2926.82 you have a few thousand and only 50
+2928.76 of them which express that receptor,
+2931.97 then you inject the saporin conjugated
+2934.03 to the ligand for the peptide,
+and only those 50 cells die.
+2939.09 So, we took Bombesin
+conjugated the saporin,
+2943.72 inject in the pre-Botzinger
+complex of rats,
+2947.77 and it took about a couple of days
+2950.91 for the saporin to actually ablate cells.
+2954.88 And what happened is that
+2957.25 the mice started sighing
+less and less, excuse me,
+2960.05 the rats started sighing less
+and less and less and less,
+2964.57 and essentially stopped signing.
+2966.68 - So, your student or postdoc, was it?
+2971.61 Murdered these cells,
+and as a consequence,
+2974.72 the sighing goes away.
+- Right.
+2976.548 - What was the consequence
+of eliminating sighing
+2979.7 on the internal state or
+the behavior of the rats?
+2984.98 Did they, in other words,
+2986.87 if one can't sigh, generate
+physiological sighs,
+2991.52 what is the consequence on state of mind?
+2994.564 You would imagine that carbon dioxide
+2997.07 would build up more readily
+2998.27 or to higher levels in the bloodstream
+3001.67 and that the animals
+would be more stressed.
+3004.31 That's a kind of logical
+extension of the way we set it up.
+3007.323 - It was less benign than that.
+3011.1 When the animals got to the point
+3012.77 where they weren't sighing then,
+3016.26 and we did not determine this,
+3019.28 but the presumption was
+that their lung function
+3021.76 significantly deteriorated,
+3023.89 and their whole health
+deteriorated significantly
+3029.27 and we had to sacrifice them.
+3031.51 So, I can't tell you whether
+they were stressed or not,
+3035.45 but their breathing got to
+be significantly deteriorated
+3042.35 that we sacrificed them at that point.
+3044.44 Now, we don't know whether
+that is specifically related
+3048.15 to the fact they didn't sigh
+3050.22 or that there was secondary damage due
+3052.92 to the fact that some cells die,
+3054.33 so we never determined that.
+3056.06 Now, after we did this study,
+3060.67 to be candid, it wasn't a high priority
+3063.53 for us to get this out
+the door and publish it.
+3066.76 So, it stayed on the shelf.
+3069.31 And then I got a phone call
+from a graduate student
+3073.4 at Stanford, Kevin Yackle,
+3076.08 who starts askin' me
+3077.62 all these interesting
+questions about breathing,
+3082.36 and I'm happy to answer them
+3083.53 but at some point it concerned
+me because he was working
+3087.77 for a renowned biochemist who worked
+3089.979 on lung in drosophila, fruit flies,
+3095.37 Mark Krasnow.
+3096.27 - Yeah, got my next door colleague.
+3097.98 - Right.
+- Yeah.
+3098.813 - And I said, "Why are
+you asking me this?"
+3101.83 And he said, "I was an
+undergraduate at UCLA
+3104.63 and you gave a lecture
+in my undergraduate class
+3107.27 and I was curious about
+breathing ever since."
+3109.6 So, that's one of those
+things which as a professor,
+3112.06 you love to hear that actually
+3113.46 it's something you really
+affected the life of a student.
+3116.7 - When you birthed the competitor,
+3118.01 but you had only yourself to blame.
+3119.61 - No, I don't look at
+that as a competitor.
+3122.26 I think that there's enough
+interesting things to go on.
+3126.35 I know some of our
+neuroscience colleagues say,
+3128.367 "You can work in my lab, but
+then when you leave my lab,
+3131.17 you've got to work on
+something different."
+3132.55 - No one I ever trained
+would've said that.
+3134.3 It's open field.
+3135.133 You want to work on
+something, you hop in the mix.
+3137.15 - And, but there are people like that,
+3139.879 neuroscientists like that.
+3141.4 I never felt that-
+3142.233 - I hear that they're breathing apparati
+3143.66 are disrupted and that
+causes a brain dysfunction
+3145.639 that leads to the behavior
+you just described.
+3148.32 It's actually not true,
+3149.492 but in terms of the-
+- So-
+3151.62 - So, before we talk
+about the beautiful story
+3157.595 with Yackle and Krasnow and Feldman Lab,
+3163.14 I want to just make
+sure that I understand.
+3166.23 So, if physiological sighs don't happen,
+3170.43 basically breathing overall suffers?
+3174.32 - Well, that would go
+back to the observations
+3176.259 in polio victims and these iron lungs
+3179.3 where the principal deficit
+was there was no hyperinflation
+3184.51 of the lungs and many of
+them deteriorated and died.
+3188.628 - And just to stay on this one more moment
+3190.66 before we moved to what
+you were about to describe,
+3195.56 we hear often that people
+will overdose on drugs
+3199.1 of various kinds because
+they stopped breathing.
+3202.21 So, barbiturates, alcohol
+combined with barbiturates
+3205.12 is a common cause of death for drug users
+3208.241 and contra-indications of drugs,
+and these kinds of things.
+3212.32 You hear all the time
+about celebrities dying
+3214.24 because they combined
+alcohol with barbiturates.
+3217.53 Is there any evidence that the sighs
+3219.2 that occurred during
+sleep or during states
+3221.32 of deep, deep relaxation and sedation
+3228.17 that sighs recover the brain?
+3232.34 Because you can imagine that
+if the sighs don't happen
+3235.53 as a consequence of some drug
+impacting these brain centers,
+3238.91 that that could be one cause
+3240.3 of basically asphyxiation and death.
+3243.38 - If you look at the progression
+of any mammal to death,
+3252.33 you find that their breathing slows down,
+3254.792 a death due to natural causes,
+their breathing slows down,
+3260.852 it will stop, and then they'll gasp.
+3264.01 So, we have the phrase
+dying gasp [inhales].
+3267.41 Super large breaths.
+3271.0 They're often described as an
+attempt to auto resuscitate,
+3275.47 that as you take that super deep breath
+3277.64 and that maybe it can
+kickstart the engine again.
+3280.93 We do not know the degree
+to such things as gasp
+3285.08 are really sighs that
+are particularly large.
+3288.71 And so, if you suppress
+the ability to gasp
+3292.98 in an individual who is
+subject to an overdose,
+3297.24 then whereas they might been able
+3300.01 to re-arouse their breathing,
+3303.16 if that's prevented, they
+don't get re-aroused.
+3305.85 So, that is certainly a possibility,
+3310.66 but this has not been investigated.
+3313.56 I mean, one of the things
+that I'm interested in
+3317.44 is in individuals who have diseases,
+3324.08 which will affect pre-Botzinger complex.
+3327.73 And there's data in Parkinson's disease
+3332.45 and multiple system atrophy,
+3334.12 which is another form of neurodegeneration
+3337.67 where there's loss of
+neurons in pre-Botzinger.
+3341.83 And the question is, and
+it also may happen in ALS,
+3347.63 sometimes referred to
+as Lou Gehrig's disease,
+3350.22 amyotrophic lateral sclerosis.
+3353.52 These individuals often die during sleep.
+3359.81 We have an idea that we have not been able
+3363.6 to get anyone to test is that
+patients with Parkinson's,
+3370.52 patients with MLS typically breathe
+3374.01 normally during wakefulness.
+3376.51 The disturbances that they have
+3378.76 in breathing is during sleep.
+3379.99 So, Parkinson's patients at
+the end stages of the disease
+3384.42 often have significant disturbances
+in their sleep pattern,
+3388.06 but not during wakefulness.
+3390.07 And we think that what could be happening
+3392.92 is that the proximate cause
+of death is not heart failure,
+3397.32 is that they become apneic.
+3399.06 They stop breathing and don't resuscitate.
+3402.42 And that resuscitation
+may or may not be due
+3406.85 to an explicit suppression of sighs,
+3409.78 but to an overall suppression
+3411.48 of the whole apparatus of
+the pre-Botzinger complex.
+3414.84 - Got it. Thank you.
+3417.84 So, Yackle calls you up.
+3419.43 - So, he calls me up and
+he's, great kid, super smart,
+3425.06 and he tells me about these
+experiments that he's doing
+3430.06 where he's looking in a database to try
+3434.33 and find out what molecules are enriched
+3437.11 in regions of the brain that
+are critical for breathing.
+3440.5 So, we and others have mapped out
+3442.73 these regions in the brainstem,
+3445.24 and he was looking at
+one of these databases
+3447.61 to see what's enriched.
+3449.5 And I said, "That's great.
+3452.17 Will you be willing to sort
+of share our work together?"
+3454.59 He says, "No, my advisor
+doesn't want me to do that."
+3458.47 So I said, "Okay," but
+Kevin's a great kid,
+3463.38 and I enjoy talking to
+him and he's a smart guy,
+3468.21 and what I found in academia is that
+3475.768 the smartest people only
+want to hire people smarter
+3479.77 than them and have the preference
+3482.06 to interact with people smarter than them.
+3484.44 The faculty who are not
+at the highest level
+3488.72 and at every institution,
+there's a distribution.
+3492.78 One's above the mean,
+and those below the mean,
+3494.72 those whom below the mean
+are very threatened by that.
+3498.7 And I saw Kevin as like a shining light,
+3504.0 and I didn't care whether he
+was going to out-compete me
+3506.76 because whatever he did was
+going to help me in the field,
+3509.86 so I did whatever I can to
+help him, to work with Kevin.
+3514.06 So, at one point I got invited
+3516.86 to give grand rounds in
+neurology at Stanford.
+3520.17 It turns out an undergraduate
+student who had worked with me
+3523.26 was now head of the training program
+3525.16 for neurologists at
+Stanford and he invited me.
+3529.05 And at the end of my visit,
+3532.04 I go to Mark Krasnow's
+office, and Kevin is there,
+3536.44 and a post-doc punctually
+3538.28 who was also working
+on a project was there.
+3541.98 And towards the end of the conversation,
+3548.85 Mark says to me,
+3553.107 "We found this one molecule
+3554.76 which is highly concentrated
+3556.88 in an important region for breathing."
+3560.2 I said, "Oh, that's great.
+3561.043 What is it?"
+3562.77 And he says, "I can't tell you
+3564.36 because we want to work on it."
+3567.47 So, I'm of course I'm disappointed,
+3570.24 but I realized that the ethic
+3573.886 in some areas of science or the custom
+3576.48 in some areas of science
+3578.14 is that until you get a publication,
+3580.15 you'll be relatively restricted
+3582.11 in sharing the information.
+- Mark and I
+3583.298 are going to have a chat
+3584.131 when I come back.
+- Okay, all right.
+3584.964 - Yeah.
+3585.797 - Well, he may remember
+the story differently,
+3587.33 but I said okay, and as
+I'm walking out the door,
+3592.6 I remember these experiments I described
+3594.292 to you about Bombesin,
+3595.86 and that was the only unusual
+molecule we're working.
+3599.24 So, the reason I'm rushing out the door
+3601.5 is I have a flight to catch.
+3603.32 So, I stick my head in and I said,
+3606.807 "Is this molecule related to Bombesin?"
+3609.7 And then I run off, I don't
+even wait for them to reply.
+3612.18 I can be up for it.
+3614.37 Mark calls me and he says, "Bombesin?
+3617.98 The peptide we found
+is related to Bombesin.
+3620.22 What does it do?"
+3622.17 And I said, "I'm not telling."
+3624.521 [Andrew laughs]
+3626.116 - Oh my.
+3627.132 I'm so glad I wasn't involved
+in this collaboration.
+3629.79 - No, no, but that was sort
+of a tease 'cause I said,
+3633.637 "Well, let's work together on this."
+3635.92 And then we worked together on this.
+3637.194 - It was a prisoner's
+dilemma at that point, yeah.
+3641.42 So, Kevin Yackle is spectacular,
+has his own lab at UCF,
+3646.78 and the work that I'm
+familiar with from Kevin
+3650.1 is worth mentioning now, or
+I'll ask you to mention it,
+3654.5 which is this reciprocal
+relationship between brain state,
+3658.6 or we could even say
+emotional state and breathing.
+3661.08 And I'd love to get your thoughts
+on how breathing interacts
+3665.0 with other things in the brain.
+3667.89 You've beautifully described
+3669.02 how breathing controls
+the lungs, the diaphragm,
+3670.593 and the interactions between oxygen
+3672.169 and carbon dioxide and so forth.
+3674.69 But as we know, when we get
+stressed, our breathing changes.
+3679.66 When we're happy and relaxed,
+our breathing changes.
+3682.85 But also if we change our breathing,
+3685.79 we, in some sense can
+adjust our internal state.
+3689.07 What is the relationship between
+brain state and breathing?
+3693.28 And if you would,
+3694.38 because I know you have a particular love
+3697.81 of one particular aspect of this,
+3701.48 what is the relationship
+between brain rhythms,
+3704.73 oscillations if you will, and breathing?
+3707.53 - This is a topic which has
+really intrigued me over
+3711.16 the past decade.
+3712.64 I would say before that I was in my silo,
+3715.76 just interested about how the rhythm
+3717.46 of breathing is generated,
+3719.09 and didn't really pay much
+attention to this other stuff.
+3723.61 For some reason I got interested in it,
+3725.55 and I think it was triggered by an article
+3728.17 in "The New York Times" about mindfulness.
+3731.15 Now, believe it or not,
+3732.69 although I had lived in California
+3734.13 for 20 years at that time, I
+never heard of mindfulness.
+3737.54 It's staggering how isolated
+you can be from the real world.
+3741.05 And I Googled it and there
+3742.68 was a mindfulness institute at UCLA,
+3745.86 and they were giving
+courses in meditation.
+3749.38 So I said, "Oh, this is great
+3750.81 because I can now see whether or not
+3754.58 the breathing part of
+meditation has anything
+3757.57 to do with the purported
+effects of meditation."
+3760.34 So I signed up for the course,
+3762.11 and as I joked to you
+before, I had two goals.
+3766.14 One was to see whether or not
+a breathing had an effect,
+3769.64 and the other was to levitate
+3771.71 because I grew up with
+all these Kung Fu things
+3774.054 and all the monks could levitate
+3775.96 when they meditated, so why not?
+3779.785 We have a motto in the lab,
+3781.43 you can't do anything interesting
+3782.75 if you're afraid of failing,
+3784.42 and if I fail to levitate,
+well, at least I tried.
+3788.03 And I should tell you now,
+I still haven't done it yet,
+3790.1 but I haven't given up yet.
+- Yet.
+3791.513 - Yet. I haven't given up.
+3794.15 So, I took this course in mindfulness
+3797.21 and it became apparent to me
+3801.02 that the breathing part
+was actually critical.
+3804.18 It wasn't simply a distraction or a focus.
+3807.296 They could have had you
+move your index finger
+3812.07 to the same effect.
+3813.05 Really we believed that the
+breathing part was involved.
+3816.59 Now, I'm not an unbiased
+observer so the question is,
+3821.6 how can I demonstrate that?
+3824.59 I didn't feel competent to
+do experiments in humans,
+3828.67 and I didn't feel I could design
+3830.03 the right experiments in humans,
+3831.28 but I felt maybe I can
+study this in rodents.
+3835.35 So we got this idea that we're going
+3837.99 to teach rodents to meditate
+and that's laughable,
+3844.67 but we said, but if we can,
+3848.37 then we can actually
+study how this happens.
+3852.22 So, believe it or not,
+3854.87 I was able to get a
+sort of a startup grant,
+3858.29 an R21 from NCCIH,
+3861.27 that's the National
+Complementary Medicine Institute.
+3865.98 - A wonderful institute I should mention.
+3867.82 Our government puts major
+tax dollars toward studies
+3873.53 of things like meditation,
+3874.83 breathwork, supplements,
+herbs, acupuncture.
+3877.792 This is I think not well-known,
+3881.19 and it's an incredible thing
+that our government does that,
+3886.03 and I think it deserves a nod
+and more funding [chuckles].
+3889.51 - I totally agree with you.
+3890.99 I think that it's the kind
+of thing that many of us,
+3894.24 including many scientists thinks
+3896.57 is to woo woo and unsubstantiated,
+3899.8 but we're learning more and more.
+3901.872 We used to laugh at neuroimmunology,
+3903.97 that the nervous system
+didn't have anything
+3905.49 to do with the immune
+system and pain itself
+3909.034 can influence your immune system.
+3911.42 I mean, there are all these things
+3912.75 that we're learning
+that we use to dismiss,
+3915.36 and I think there's real
+nuggets to be learned here.
+3919.92 So, they went out on a limb
+3922.827 and they funded this particular project.
+3925.76 And now I'm going to leap
+ahead because for three years
+3929.2 we threw stuff up against
+the wall that didn't work.
+3932.54 And recently we had a major breakthrough.
+3937.96 We found a protocol by which
+3940.12 we can get mice to breathe slowly,
+3945.18 awake mice to breathe slowly.
+3947.63 I won't tell you.
+3948.52 - Normally they don't breathe slowly.
+3949.9 - No, no.
+3950.733 In other words, whatever
+their normal breath is,
+3952.18 we could slow it down by a factor of 10
+3955.25 and they're fine doing that.
+3956.7 So, we could do that for,
+3959.27 we did that 30 minutes a
+day for four weeks, okay?
+3964.42 Like a breath practice.
+3965.76 - Do they levitate?
+3967.71 - We haven't measured that yet [laughs].
+3970.93 I would say a priority,
+3972.49 we haven't seen them floating
+to the top of that cage,
+3974.497 but we haven't weighed them.
+3975.83 Maybe they weigh less.
+3977.54 Maybe levitation is graded.
+3981.72 And so, maybe if you weigh less
+3983.31 it's sort of partial levitation.
+3985.28 In any case,
+3989.56 we then tested them.
+3990.85 And we had control animals, mice,
+3994.59 where we did everything the same,
+3997.15 except the manipulation we made
+3999.64 did not slow down their breathing.
+4002.02 So, but they went through everything else.
+4005.23 We then put them through a
+standard for air conditioning,
+4007.43 which we did with my
+colleague, Michael Fanselow,
+4009.94 who's one of the real gurus of fear.
+4013.72 And we measured a standard
+test is to put mice
+4020.13 in a condition where they're concerned
+4023.044 they'll receive a shock and their response
+4026.11 is that they freeze,
+4027.86 and the measure of how fearful they are
+4030.48 is how long they freeze.
+4033.13 This is well validated and
+it's way above my pay grade
+4036.93 to describe the validity of
+the test, but it's very valid.
+4042.605 The control mice had a freezing time,
+4046.85 which was just the same as
+ordinary mice would have.
+4050.68 The ones that went
+4051.513 through our protocol
+froze much, much less.
+4056.4 According to Michael,
+4059.1 the degree to which they
+showed less freezing
+4063.0 was as much as if there
+4064.61 was a major manipulation in the amygdala,
+4067.35 which is a part of the brain
+4068.65 that's important in fear processing.
+4071.06 It's a staggering change.
+4073.56 The problem we have now is
+the grant ran out of money,
+4077.0 the postdoc working on it left,
+4079.19 and now we have to try and
+piece together everything,
+4083.35 but the data is spectacular.
+4086.07 - Well, I think it's,
+4087.25 I'll just pause you for a moment there
+4088.55 because I think that the,
+4089.8 you're talking about a rodent study,
+4091.22 but I think the benefits
+of doing rodent study
+4093.543 is that you can get deep into mechanism
+4096.291 and for people that might think,
+4100.47 well, we've known that
+meditation has these benefits,
+4102.79 why do you need to get
+mechanistic science?
+4104.379 I think that one thing that's important
+4107.21 for people to remember
+is that first of all,
+4110.12 as many people as one might think
+4112.64 are meditating out there
+or doing breathwork,
+4115.333 a far, far, far, far greater number
+4117.36 of people are not, right?
+4118.95 I mean, the majority of
+people don't take any time
+4121.797 to do dedicated breathwork nor meditate.
+4125.842 So, whatever can incentivize
+people would be wonderful.
+4130.67 But the other thing is that
+it's never really been clear
+4133.39 to me just how much meditation
+4135.62 is required for a real effect,
+meaning a practical effect.
+4139.75 People say 30 minutes a
+day, 20 minutes a day,
+4141.87 once a week, twice a week,
+same thing with breathwork.
+4144.445 Finding minimum or effective thresholds
+4147.66 for changing neural circuitry
+4149.87 is what I think is the holy
+grail of all these practices.
+4153.78 And that's only going to be determined
+4155.19 by the sorts of mechanistic
+studies that you described.
+4157.42 So, this is wonderful.
+4158.53 I do hope the work gets
+completed and we can talk
+4161.45 about ways that we can ensure
+that that happens, but-
+4164.85 - But let me add one thing to
+what you're saying, Andrew.
+4168.36 One of the issues, I
+think for a lot of people
+4171.75 is that there's a placebo effect.
+4174.44 That is in humans, they
+can respond to something
+4178.17 even though the mechanism has nothing
+4179.715 to do with what the intervention is.
+4183.48 And so, it's easy to say
+that the meditative response
+4187.56 has a big component,
+which is a placebo effect.
+4191.66 My mice don't believe
+in the placebo effect.
+4194.45 And so, if we could show there's
+a bonafide effect in mice,
+4198.27 it is convincing in ways that no matter
+4201.22 how many human experiments you did,
+4203.26 the control for the placebo effect
+4204.75 is extremely difficult in humans.
+4206.91 In mice, it's a non-issue.
+4209.61 So, I think that that in of itself
+4212.09 would be an enormous message to send.
+4214.53 - Excellent, and indeed, a better point.
+4218.65 I think a 30 minute a day
+meditation in these mice,
+4224.74 if I understand correctly, the meditation,
+4227.1 we don't know what they're
+thinking about, but-
+4228.16 - Well, it's breath practice really.
+4229.23 - Right, so it's breath practice.
+4230.407 So, because presumably
+they're not thinking
+4232.84 about their third eye center,
+4233.97 lotus position,
+levitation, whatever it is.
+4236.3 They're not instructed as to what to do,
+4238.19 and if they were, they
+probably wouldn't do it anyway.
+4240.5 So, 30 minutes a day in which breathing
+4243.12 is deliberately slowed
+or is slowed relative
+4246.41 to their normal patterns of breathing.
+4248.15 Got it.
+4250.52 What was the frequency of
+sighing during that 30 minutes?
+4254.38 Unclear?
+- We don't know yet.
+4255.3 - Oh.
+- Well, no, we have the data.
+4256.62 We just, we're analyzing that data.
+4258.48 - To be determined, or to
+be announced at some point.
+4261.363 So, the fear centers
+are altered in some way
+4266.32 that creates a shorter fear
+response to a foot shock.
+4270.93 - [Jack] Right.
+4272.53 - What are some other examples
+4273.75 that you are aware of from
+work in your laboratory
+4276.1 or work in other
+laboratories for that matter
+4278.14 about interactions between breathing
+4279.839 and brain state or emotional state?
+4282.46 - So, this goes back to
+our prior conversation.
+4285.43 I sort of went off on a tangent.
+4290.487 I think we need to think
+separately of the effect
+4294.37 of volitional changes
+of breathing on emotion
+4300.4 versus the effect of
+brain state on breathing.
+4308.16 So, the effect of brain state on breathing
+4309.75 like when you're stressed is a affect,
+4314.44 presumably originating in higher centers
+4317.043 if I can use that term
+affecting breathing.
+4321.76 It's the reciprocal is that
+when you change breathing,
+4325.72 it affects your emotional state.
+4327.75 I think of those two things as different
+4330.867 and they're ultimately tied together.
+4333.13 So, there's a landmark
+paper published in the '50s
+4336.57 where they stimulated
+in the amygdala of cats,
+4340.52 and depending on where they stimulated,
+4342.49 they got profound changes in breathing.
+4345.36 There's like every pattern of breathing
+4346.91 could possibly imagine,
+4348.04 they found the site in the amygdala,
+4349.54 which could produce that.
+4351.33 So, there's clearly a powerful
+descending effect coming
+4354.81 from the amygdala which is a major site
+4358.13 for processing emotion,
+fear, stress and whatnot
+4361.15 that can affect breathing.
+4363.18 And clearly we have volitional
+control over breathing.
+4365.81 So, we have profound effects there.
+4368.7 Now, I should say about
+emotional control of breathing,
+4371.1 I need to segue into talking
+about locked-in syndrome.
+4376.22 Locked-in syndrome is a devastating lesion
+4380.24 that happens in a part of the brainstem
+4382.98 where signals that controlled
+muscles are transmitted.
+4389.15 So the fibers coming
+from your motor cortex
+4393.53 go down to this part of the brainstem,
+4396.57 which is called the ventral pons.
+4399.25 And if there's a stroke there,
+it can damage these pathways.
+4405.2 What happens in individuals
+who have locked-in syndrome
+4408.1 is they lose all volitional movement
+4410.86 except lateral movement of the eyes
+4413.38 and maybe the ability to blink.
+4415.45 The reason they're able to
+still blink and move their eyes
+4419.71 is that those control centers
+are rostal, closer to,
+4425.82 are not interrupted.
+4427.6 In other words, the
+interruption is below that.
+4431.679 They continue to breathe
+because the centers
+4434.64 for breathing don't require
+that volitional command.
+4438.39 In any case, they're below
+that, so they're fine.
+4441.38 So, these people continue to breathe.
+4443.49 Normal intelligence, but they can't move.
+4448.78 There's a great book called
+4450.067 "The Diving Bell and the Butterfly"
+4451.54 about a young man who this happens to,
+4457.087 and he describes his life
+4459.96 and it's a real testament
+4461.34 to the human condition that he does this.
+4465.21 It's a remarkable book, it's a short book.
+4467.45 - Did he write the book by blinking?
+4468.79 Did they translate it?
+4469.69 - He did it by blinking to his caretaker.
+4473.62 It's pretty amazing.
+4474.453 And there was a movie
+which I've never seen
+4477.18 with Javier Bardem as the protagonist,
+4480.398 but the book I highly recommend
+this to anyone to read.
+4485.8 So, I had colleagues
+studying an individual
+4487.063 that had locked-in syndrome and they,
+4491.06 this patient breathed very robotically,
+4494.74 totally consistent, very regular.
+4497.61 They gave the patient a low
+oxygen mixture to breathe.
+4501.36 Ventilation went up, a
+CO2 mixture to breathe,
+4504.88 ventilation went up.
+4505.713 So, all the regulatory apparatus
+for breathing was there.
+4509.55 They asked the patient
+4510.383 to hold his breath or to breathe
+faster [blows raspberry].
+4513.34 Nothing happened.
+4515.01 Just the patient recognized the command,
+4518.04 but couldn't change it.
+4519.06 Then all of a sudden,
+4519.893 the patient's breathing
+changed considerably,
+4522.77 and they said to their
+patient, "What happened?"
+4524.23 They said, "You told
+a joke and I laughed."
+4528.0 And they went back and
+whenever they told a joke
+4530.835 that the patient found funny,
+4533.26 the patient's breathing pattern changed.
+4535.58 And you know your breathing
+pattern when you laugh
+4539.03 is [inhales] you inhale,
+you go ha, ha, ha, ha.
+4542.32 But it's also very distinctive.
+4543.98 We have some neuroscience
+colleagues who will go un-named,
+4547.26 who, if you heard them
+laugh 50 yards away,
+4550.36 you know exactly who they are.
+4551.74 - Yeah, well, I'll name him.
+4553.174 Eric Kandel,
+- For one.
+4555.34 - has an inspiratory laugh.
+4556.86 He's famous for a [inhaling],
+4558.63 as opposed to a ha, ha.
+4560.01 - Exactly, exactly.
+- Yeah.
+4561.71 So, it's very stereotyped,
+but it's maintained
+4566.733 and these people lose
+volitional control of breathing.
+4570.18 So, there's an emotive component
+controlling your breathing,
+4573.71 which has nothing to do
+4575.11 with your volitional control,
+4577.77 and it goes down to a different pathway
+4579.74 because it's not disrupted
+by this locked-in syndrome.
+4583.82 If you look at motor control of the face,
+4587.4 we have the volitional
+control of the face,
+4589.18 but we also have emotional
+control of the face,
+4592.77 which most of us can't control.
+4596.19 So, when we look at another person,
+4598.008 we're able to read a lot about
+4601.57 what their emotional state is,
+4603.85 and that's a lot about
+how primates communicate,
+4606.5 humans communicate and you have people
+4609.14 who are good deceivers.
+4611.26 Probably used car salesman, poker players.
+4615.62 Now poker players have tells,
+4618.44 but many of them now wear dark glasses
+4621.32 because a lot of the tells
+you blink or whatnot.
+4623.659 - Pupil sizes and stuff.
+- Pupil size.
+4624.56 Pupil size is a tell, which
+is an autonomic function,
+4629.7 not a skeletal muscle function,
+4633.5 but we have all these skeletal muscles,
+4635.58 which we're controlling,
+which give us away.
+4639.276 I've tried to get my imaging friends
+4643.26 to image some of the great actors
+4645.11 that we have in Los Angeles.
+4647.68 - You mean brain imagers.
+4648.63 - Brain imagers, I'm sorry.
+- Yeah. No, that's all right.
+4650.44 - I mean, yeah, no, brain imagers.
+4652.34 Because I think when I ask you to smile,
+4659.83 I could tell that you're not happy
+4661.245 that you're smiling because
+I asked you to smile.
+4663.76 I think that you're-
+- I thought you were
+4664.593 about to crack a joke,
+4665.54 but we're old friends, so, yeah.
+4668.05 - No, I'm not...
+4671.025 When you see a picture like
+at a birthday or whatnot,
+4674.75 and say cheese, you could tell
+4677.33 that at least half of the people
+4678.437 are not happy to saying cheese,
+4681.19 whereas a great actor when they're able
+4685.073 to dissemble and the fact that they're sad
+4687.324 or they're happy, you believe
+that they're not faking it.
+4690.67 It's like, that's great acting.
+4693.02 And I don't think everyone could do that.
+4695.323 I think that the individuals
+who are able to do that
+4698.12 have some connection to the parts
+4701.53 of their motive control system
+4703.032 that the rest of us don't have.
+4705.03 Maybe they develop it through
+training and maybe not,
+4707.92 but I think that this can be imaged
+4709.49 so I would like to get
+one of these great actors
+4713.01 in a imager and have them go through that
+4716.177 and then get a normal person,
+4718.29 and see whether or not
+they can emulate that
+4720.147 and I think you're going
+to find big differences
+4722.76 in the way they control
+this emotive thing.
+4724.88 So, this emotive control
+of the facial muscles,
+4728.37 I think is in large part,
+4730.06 similar to the emotive
+control of breathing.
+4732.46 So, there's that emotive control,
+4734.84 and there's that volitional
+control and they're different.
+4738.252 They're different.
+4740.25 Now, you asked me about the Yackle stuff.
+4743.78 The Yackle paper had to do with ascending,
+4747.71 that the effect of breathing on emotion.
+4750.47 What Kevin found was that
+there was a population
+4754.5 of neurons in the pre-Botzinger complex
+4758.42 that we're always looking at the things
+4761.29 that are projecting
+ultimately on motor neurons.
+4763.49 He found the population of cells
+4765.07 that projected to locus coeruleus.
+4767.98 Locus coeruleus, excuse me,
+4769.72 is one of those places in the brain
+4772.29 that seems to go everywhere.
+4774.68 - It's like a sprinkler system.
+4775.67 - Exactly, exactly.
+4777.58 And influence mood, and you've
+had podcasts about this.
+4781.81 I mean, there's a lot of stuff
+going on with the amygdala,
+4784.22 so, excuse me, the locus coeruleus.
+4786.6 So you get into the locus coeruleus,
+4788.95 you can now spray information
+4790.55 out throughout the entire brain.
+4792.12 He found specific cells that projected
+4795.797 from pre-Botzinger to locus coeruleus,
+4800.65 and that these cells are
+inspiratory modulated.
+4804.97 Now, it's been known for
+a long time since the '60s
+4809.92 that if you look in the
+locus coeruleus of cats
+4813.65 when they're awake,
+4814.88 you find many neurons that
+have respiratory modulation.
+4818.79 No one paid much attention.
+4820.344 Why bother?
+4822.53 Not why bother paying attention,
+4823.96 but why would the brain
+bother to have these inputs?
+4826.88 So, what Kevin did with Lindsey Schwarz
+4830.92 in Liqun Luo's lab,
+4834.5 is they killed, ablated,
+4836.82 those cells going to locus coeruleus
+4839.67 from pre-Botzinger and
+the animals became calmer,
+4844.95 and their EEG levels changed in ways
+4847.68 that are indicative
+that they became calmer.
+4849.89 - And as I recall, they
+didn't just become calmer,
+4851.83 but they weren't really
+capable of high arousal states.
+4855.53 They were kind of flat.
+4858.129 - I don't think we really
+pursued that in the paper.
+4862.625 And so, we'd have to ask
+John Huguenard about that,
+4867.77 but I-
+- He's on the other side
+4869.56 of my lab so we'll ask him.
+4871.28 But nonetheless,
+4875.93 that beautifully illustrates
+4877.86 how there is a bi-directional
+control, right?
+4881.34 Of emotion-
+- Well, that's ascending.
+4883.37 - Well, no, the two stories
+of the locked-in syndrome,
+4889.06 plus the Yackle paper shows
+4891.06 that emotional states influence breathing
+4893.307 and breathing influences emotional states,
+4896.64 which, but you mentioned inspiration,
+4898.95 which I always call inhalation,
+but people will follow.
+4901.7 No, that's fine.
+4902.533 Those are interchangeable.
+4904.09 People can follow that.
+4906.202 There's some interesting
+papers from Noam Sobel's group
+4908.71 and from a number of other groups
+4909.9 that as we inhale or right
+after we inhale [inhales],
+4913.44 the brain is actually
+more alert and capable
+4915.59 of storing information
+than during exhales,
+4918.5 which I find incredible
+but it also makes sense.
+4921.65 I'm able to see things far
+better when my eyes are open
+4923.946 than when my eyelids are
+closed, for that matter.
+4928.5 - Maybe, right?
+4929.463 I mean, I don't doubt,
+Noam's work is great.
+4935.214 Let me backtrack a bit
+because I want people
+4938.94 to understand that when we're talking
+4940.92 about breathing affecting
+emotional cognitive state,
+4944.44 it's not simply coming from pre-Botzinger.
+4948.885 There are at least, well,
+there are several other sites
+4953.1 and let me sort of describe,
+4954.24 I need to sort of go through that.
+4955.94 One is olfaction.
+4958.01 So, when you're breathing,
+normal breathing,
+4961.53 you're inhaling and exhaling.
+4964.02 This is creating signals
+coming from the nasal mucosa
+4968.2 that is going back into
+the olfactory bulb.
+4971.76 That's respiratory modulating.
+4974.04 And the olfactory bulb
+has a profound influence
+4977.63 and projections through
+many parts of the brain.
+4980.91 So, there's a signal arising
+from this rhythmic moving
+4985.11 of air in and out of the nose
+4987.36 that's going into the brain
+that has contained in it
+4990.153 a respiratory modulation.
+4992.39 So, that signal is there.
+4994.04 The brain doesn't have to be using it,
+4995.72 but when it's the discriminating
+owner and whatnot,
+4998.74 that's riding on a oscillation,
+5001.05 which is respiratory related.
+5004.08 Another potential source
+is the vagus nerve.
+5007.25 The vagus nerve is a major nerve,
+5009.64 which is containing efferents
+from all of the viscera.
+5014.32 - Efferents just being-
+- A signal.
+5015.626 - Signals to.
+- Yes.
+5017.53 Signals from the viscera.
+5019.14 It also has signals coming
+from the brainstem down,
+5022.36 which are called efferents,
+5023.92 but it's getting major signals
+from the lung, from the gut.
+5028.25 And this is going up into the brain stem.
+5031.75 So, it's there.
+5034.679 There are very powerful
+receptors in the lung
+5038.05 that are responding to the lung volume.
+5041.28 The lungs stretch.
+5042.332 - So, bareovers?
+5043.727 Oh, sorry.
+5044.737 We have a number of,
+- They're pressure receptors.
+5046.68 - Like the PA0 receptors of
+this year's Nobel Prize, yeah.
+5050.57 - Yeah.
+5051.403 So, they're responding to the expansion
+5054.49 and relaxation in the lung.
+5056.99 And so, if you record
+from the vagus nerve,
+5059.1 you'll see that there's a huge
+respiratory modulation due
+5063.07 to the mechanical changes in the lung.
+5065.08 Now, why that is of interest is that
+5068.61 for some forms of refractory depression,
+5073.85 electrical stimulation of the vagus nerve
+5076.7 can provide tremendous relief.
+5079.68 Why this is the case still
+remains to be determined,
+5082.64 but it's clear that
+signals in the vagus nerve,
+5086.16 at least artificial
+signals in the vagus nerve
+5088.86 can have a positive effect
+on reducing depression.
+5092.74 So, it's not a leap to think
+5095.01 that under normal circumstances,
+5097.25 that that rhythm coming
+in from the vagus nerve
+5100.46 is playing a role in normal processing.
+5104.82 Okay, let me continue.
+5107.09 Carbon dioxide and oxygen levels.
+5109.34 Now, under normal circumstances,
+5111.63 your oxygen levels are fine.
+5114.64 And unless you go to altitude,
+5116.85 they don't really change very much,
+5119.17 but your CO2 levels can change quite a bit
+5122.31 with even a relatively small change
+5123.99 in your overall breathing.
+5125.98 That's going to change your pH level.
+5129.251 I have a colleague, Alicia Maurette,
+5132.43 who has working with patients
+5135.01 who are anxious and many
+of them hyperventilate.
+5140.82 And as a result of that hyperventilation,
+5143.61 their carbon dioxide levels are low.
+5146.66 And she has developed
+a therapeutic treatment
+5152.32 where she trains these people
+5154.68 to breathe slower and to restore
+5157.674 their CO2 levels back to normal,
+5161.22 and she gets relief in their anxiety.
+5165.37 So, CO2 levels, which are not
+going to affect brain function
+5169.84 on a breath by breath level,
+5173.02 although it does fluctuate
+breath by breath,
+5174.85 but it's sort of this continuous
+background can change,
+5179.07 and if it's changed chronically,
+5181.17 we know that highly elevated levels of CO2
+5184.8 can produce panic attacks.
+5187.804 And we don't know the degree
+to that gets exacerbated
+5193.0 by people who have a panic attack,
+5196.44 the agree to which
+their ambient CO2 levels
+5199.07 are affecting their degree of discomfort.
+5202.91 - What about people who
+are, tend to be too calm,
+5206.46 meaning that they're feeling sleepy,
+5208.178 they're under breathing as
+opposed to over-breathing?
+5213.04 Is there any knowledge of what the status
+5215.79 of CO2 is in their system?
+5217.47 - I don't know which doesn't
+mean there's no knowledge,
+5219.688 but I'm unaware but
+that's blissfully unaware.
+5224.69 I've not looked at that
+literature, so I don't know.
+5227.63 - And I have a feeling, I mean,
+most people, or excuse me,
+5230.47 most of the scientific
+literature around breathing
+5232.92 in humans that I'm aware of relates
+5234.36 to these stressed states because they're
+5235.78 a little bit easier to study in the lab,
+5237.35 whereas people feeling under-stimulated
+5239.88 or exhausted all the time,
+5241.15 it's a complicated thing to measure.
+5243.45 I mean, you can do it, but it's not as-
+5245.23 - Well, CO2's easy to measure.
+5247.05 - But in terms of sort of the
+measures for feeling fatigue,
+5252.05 they're somewhat indirect,
+5253.53 whereas stress we can get a pulse rates
+5255.95 in HRV and things of that sort.
+5257.19 - Well, I'd imagine that these devices
+5259.708 that we're all wearing will
+soon be able to measure,
+5262.63 well, now they can measure oxygen levels,
+5264.6 oxygen saturation.
+- Just amazing.
+5266.86 - Yeah, but oxygen will pretty much stay
+5271.85 above 90% unless there's some pathology
+5276.12 or you go to altitude.
+5276.953 But CO2 levels vary
+quite a bit and in fact,
+5282.22 because they vary, your
+body is so sensitive,
+5285.44 the control of breathing,
+5286.753 like how much you breathe per minute
+5289.18 is determined in a very sensitive way
+5292.03 by the CO2 level.
+5294.12 So, even a small change in your CO2
+5297.24 will have a significant
+effect on your ventilation.
+5300.42 So, this is another thing
+5302.28 that not only changes the ventilation,
+5303.97 but affects your brain state.
+5306.55 Now, another thing that
+could affect breathing,
+5309.767 or how breathing practice can affect
+5311.55 your emotional state is
+simply descending command
+5316.4 because breathing practice
+involves volitional control
+5319.38 of your breathing,
+5321.5 and therefore there's a signal
+5323.06 that's originating somewhere
+in your motor cortex.
+5326.21 That is not, of course,
+5327.76 that's going to go down to pre-Botzinger,
+5330.14 but it's also going to send off
+collaterals to other places.
+5333.68 Those collaterals could
+obviously influence
+5335.336 your emotional state.
+5337.91 So, we have quite a few
+different potential sources.
+5341.73 None of them that are exclusive.
+5344.99 There's an interesting paper,
+5346.6 which shows that if you
+block nasal breathing,
+5351.777 you still don't see breathing
+5353.88 related oscillations in the brain.
+5356.12 And this is where I think the mechanism
+5360.67 is occurring is that these breathing
+5363.207 related oscillations in the brain,
+5366.29 they are playing a role
+in signal processing.
+5368.84 And maybe, should I talk a
+little bit about the role
+5371.57 that oscillations may be
+playing in signal processing?
+5374.21 - Definitely, but before you do,
+5375.86 I just want to ask you
+a intermediate question.
+5379.94 We've talked a lot about inhalation,
+5381.164 inspiration and exhalation.
+5384.57 What about breath holds?
+5386.79 In apnea, for instance, people
+are holding their breath,
+5390.15 whether or not it's
+conscious or unconscious,
+5393.83 they're holding their breath.
+5395.1 What's known about breath holds in terms
+5398.11 of how it might interact with
+brain state or oxygen CO2,
+5401.92 and I'm particularly
+interested in how breath holds
+5404.59 with lungs empty versus breath holds
+5406.38 with lungs full might differ
+5408.52 in terms of their impact on the brain.
+5410.28 I'm not aware of any
+studies on this looking
+5413.465 at a mechanistic level,
+5414.96 but I find it really interesting
+5416.51 and even if there are no studies,
+5418.43 I'd love if you care to speculate.
+5420.72 - Well, one of the breath practices
+5422.19 that intrigued me is where
+you basically hyperventilate
+5426.01 for a minute and then hold your breath
+5428.48 for as long as you can.
+5429.52 - Tummo style,
+- Yeah, brief shots of air.
+5430.4 - Wim Hof style or,
+5431.79 we call it in the laboratory,
+5433.75 because frankly before
+Tummo, and before Wim,
+5439.472 it was referred to as
+cyclic hyperventilation.
+5443.03 So, it was basically [panting], right?
+5445.47 Followed by a breath
+hold and that breath hold
+5447.0 could be done with lungs
+full or lungs empty.
+5448.858 - Right, yeah.
+5449.691 So, I had a long talk with some colleagues
+5452.98 about what they might think
+inline mechanisms are,
+5457.52 particularly for the breath hold.
+5459.76 And I certainly envisioned that there's
+5465.035 a component with respect to the presence
+5467.139 or absence of that
+rhythmicity in your cortex,
+5471.06 which is having effect.
+5472.61 But the other thing with
+the hyperventilation,
+5475.41 hypoventilation or the apnea
+5478.73 is your CO2 levels are
+going from low to high.
+5483.41 - Anytime you're holding your breath.
+5484.81 - Anytime you hold your breath, okay?
+5486.947 And those are going to
+have a profound influence.
+5489.6 Now, I have to talk about episodic hypoxia
+5495.87 because there's a lot of work going on
+5498.07 particularly with Gordon Mitchell
+5499.41 at the University of Florida
+5500.35 is doing some extraordinary
+work on episodic hypoxia.
+5504.81 So, in the '80s,
+5506.23 David Millhorn did some
+really intriguing work.
+5511.69 If I ask you to hold
+your breath, excuse me.
+5515.69 If I gave you a low oxygen
+mixture for a couple of minutes,
+5521.053 your breathing level would
+go up 'cause you want to
+5524.031 have more oxygen.
+- You're starving for air.
+5526.12 - [Andrew and Jack] Yeah.
+5526.953 - No, you're starving for oxygen.
+5527.786 - All right.
+- Okay?
+5530.99 And for a couple of minutes, you'd go up.
+5533.62 You can reach some steady state level.
+5536.32 Not so hypoxic that you
+can't reach an equilibrium.
+5539.71 And then I give you room air again,
+5542.06 the ventilation quickly
+relaxes back down to normal.
+5546.57 If on the other hand, I gave
+you three minutes of hypoxia,
+5551.01 five minutes of normoxia,
+three minutes of hypoxia,
+5554.76 five minutes of normoxia,
+three minutes of hypoxia,
+5557.14 five minutes in normoxia-
+5558.054 - Normoxia being normal air.
+- Normal air.
+5561.51 Your ventilation goes up, down,
+5563.26 up, down, up, down, up, down.
+5565.18 After the last episode,
+5567.1 your breathing comes down and
+doesn't continue to come down,
+5570.84 but rises again and
+stays up for hours, okay?
+5576.41 This is well validated now.
+5578.75 This was originally done in animals,
+5580.21 but in humans all the time,
+5581.67 it seems to have profound benefit
+5584.58 on motor function and cognitive function.
+5588.24 - In what direction?
+5589.35 - Positive, positive.
+5591.66 I've often toyed with the
+idea of getting an 8% oxygen,
+5595.95 don't do this, listeners,
+5597.41 getting an 8% oxygen tank by my desk
+5601.2 when I'm writing a grant and
+doing like in "Blue Velvet"
+5604.41 and going through the episodic hypoxia
+5608.22 to improve my cognitive functioning,
+5610.4 'cause certainly could use improvement
+5611.463 when I'm writing grants.
+5612.84 - But you could do this
+without the low oxygen.
+5615.93 I mean, you could do this
+through breathwork, presumably?
+5618.09 - It's hard to lower your oxygen enough.
+5621.56 Okay?
+5623.11 In the experimental studies,
+5624.61 they typically use 8% oxygen.
+5627.14 It's hard to hold your breath long enough.
+5630.24 And there is another difference here,
+5633.24 that is what's happening
+to your CO2 levels.
+5636.38 When you hold your breath,
+5638.24 your oxygen levels are dropping,
+5639.38 your CO2 levels are going up.
+5641.67 When you're doing episodic hypoxia,
+5647.61 your CO2 levels are going
+to stay pretty normal
+5651.107 because you're still breathing,
+5652.053 it's just the oxygen levels are gone.
+5653.83 - So, unlike normal conditions,
+which you described before,
+5656.59 where oxygen is relatively
+constant and CO2
+5660.004 is fluctuating depending
+on emotional state
+5662.56 and activity and things of that sort,
+5664.42 in episodic hypoxia, CO2
+is relatively constant,
+5669.04 but you're varying the oxygen level coming
+5670.96 into the system quite a bit.
+5672.33 - I would say it's relatively,
+5673.62 I would say CO2 is relatively constant,
+5676.761 but it's not going to go in a direction
+5680.38 which is going to be
+significantly far from normal.
+5683.77 Whereas when you're holding your breath,
+5685.8 you're going to become both hypoxic
+5687.137 and hypercapnic at the same time.
+5689.57 - We should explain to people what hypoxic
+5690.613 and hypercapnic are because we
+5692.279 haven't done it.
+- Okay, hypoxic is just
+5693.27 the technical term for
+low levels of oxygen,
+5695.96 hyper, or you could
+hypoxic, low, hyper is high.
+5700.13 So, hyperoxia or hypocapnia,
+low CO2 or hypercapnia,
+5705.12 your highest levels of CO2.
+5709.18 So, when you're, in episodic
+hypoxia, if anything,
+5714.91 you're going to become
+hypocapnic, not hypercapnic.
+5718.42 And that could play an influence in this.
+5720.87 One example that I remember,
+5723.164 and Gordon will have to forgive
+me if I'm misquoting this,
+5727.18 is they had a patient who had a stroke
+5732.53 and had weakness and ankle flection.
+5736.23 That is, excuse me, ankle
+extension, to extend the ankle.
+5741.57 And so, they had the patient
+5743.86 in a seat where they can
+measure ankle extension,
+5746.93 and then they measured it
+5749.32 and then they exposed the patient
+5750.86 to episodic hypoxia and
+they measured again,
+5754.33 the strength of the ankle
+extension went way up.
+5759.11 And so, Gordon is looking at this,
+5761.08 they're looking at this
+now for spinal cord rehab.
+5764.27 - And I imagine for all sorts
+of neuromuscular performance,
+5768.052 it could be beneficial.
+5769.558 - Gordon is looking into
+athletic performance.
+5772.84 We have a project which
+we haven't been able
+5774.91 to push to the next level to do golf.
+5778.73 So, I find-
+- Why golf?
+5780.56 'Cause you love golf?
+5781.86 - Well, it's because it's
+motor performance coordination.
+5786.11 So, it's not simply
+running as fast as you can.
+5789.1 It's coordination, it's concentration,
+5791.08 it's a whole variety of things.
+5793.05 And so, the idea would be
+to get a group of golfers
+5796.49 and give them the placebo control,
+5799.44 so they don't know whether
+they're breathing a gas mixture,
+5801.86 which is just normal air
+or a hypoxic gas mixture,
+5805.6 although they may be able to figure
+5806.84 it out based on their response.
+5809.81 Do it under controlled
+circumstances that do it into a net,
+5813.36 measure their length of their drives,
+5815.54 their dispersion and whatnot,
+5817.05 and see what happens.
+5818.62 Look, if we could find that
+this works for golfers,
+5823.16 forget about cognitive function.
+5825.46 We could sell this for
+unbelievable amounts of money.
+5829.46 - That sounds like a terrible idea.
+5830.903 [Jack laughs]
+5833.24 - By the way, I'm not serious
+about selling it, but-
+5835.733 - I know you're joking.
+5836.617 I mean, maybe people should know
+5838.3 that you are joking about that.
+5839.31 No, I think that anything
+that can improve cognitive
+5842.4 and neuromuscular performance
+is going to be of interest
+5844.34 for a wide range of both pathologic states
+5848.04 like injury, TBI, et cetera.
+5850.26 I mean, one of the most frequent questions
+5852.7 I get is about recovery from concussion
+5855.471 or traumatic brain injury.
+5857.21 A lot of people think
+sports, they think football,
+5859.24 they think rugby, they think hockey.
+5861.07 But if you look at the statistics
+on traumatic brain injury,
+5864.57 most of it is construction workers,
+5866.85 car crashes, bicycle accidents.
+5868.85 I mean it, the sports
+part of it is a tiny,
+5871.74 tiny minuscule fraction
+of the total amount
+5874.65 of traumatic brain injury out there.
+5877.56 I think these protocols
+tested in the context of golf
+5879.619 would be very interesting
+because of the constraints
+5882.33 of the measures as you mentioned,
+5883.73 and it could be exported
+to a number of things.
+5885.89 I want to just try and
+imagine whether or not
+5888.98 there is any kind of breathing
+pattern or breathwork,
+5894.36 just to be direct about it,
+5895.8 that even partially
+mimics what you described
+5899.52 in terms of episodic hypoxia.
+5901.54 I've done a lot of Tummo,
+5902.73 Wim Hof cyclic hyperventilation
+type breathing before.
+5905.13 My lab studies this in humans,
+5906.68 and what we find is that
+5909.04 if people do cyclic hyperventilation,
+5910.86 so for about a minute, then exhale,
+5912.88 hold their breath for 15 to 60 seconds,
+5915.28 depending on what they can do,
+5916.28 and just keep repeating
+that for about five minutes,
+5919.0 it seems to me that it
+at least partially mimics
+5922.4 the state that you're talking about
+5923.63 because afterwards people
+report heightened levels
+5926.69 of alertness, lower levels
+of kind of triggering due
+5933.047 to stressful events.
+5934.55 They feel comfortable at a higher level
+5936.05 of autonomic arousal, cognitive focus,
+5937.681 a number of improvements
+that are pretty impressive
+5940.533 that any practitioner of Wim Hof or Tummo
+5942.69 will be familiar with.
+5945.13 Is that pattern of breathing even,
+5949.2 can we say that it maps
+to what you're describing
+5951.217 in some general sense?
+5954.43 - Well, the expert in this
+would be Gordon Mitchell.
+5957.5 I would say it moves in that direction,
+5960.365 but it's not as extreme
+because I don't think
+5962.917 you can get down to the levels
+5964.56 of hypoxia that they do clinically.
+5968.909 I know that our pals at Our
+Breath Collective actually
+5972.42 just bought a machine because you buy
+5974.46 a machine that does this.
+5975.81 - [Andrew] I see.
+5976.643 - And they bought it and they're going to
+5977.476 do their own self testing
+to see whether or not
+5979.68 this has any effect on
+anything that they can measure.
+5983.01 Of course, you have to be concerned
+5984.8 about self-experimentation,
+5986.34 but I applaud their
+curiosity and going after it.
+5991.0 - Hyperbaric chambers.
+5992.67 I hear a lot nowadays
+about hyperbaric chambers.
+5995.07 People are buying 'em and using 'em,
+5996.55 and what are your thoughts
+on hyperbaric chambers
+5999.009 as it relates to any of the-
+6000.48 - Hyper or hypo?
+6001.7 - Hyperbaric chambers.
+6003.23 - Oh, so you're not
+talkin' about altitude?
+6004.42 - [Andrew] No.
+6005.53 - I don't really have much to say.
+6008.38 I mean, your oxygen levels would
+probably go up a little bit
+6012.38 and that could have a beneficial effect,
+6014.34 but that's way outside my area of comfort.
+6018.687 - 2022 I think is going to
+be the year of two things
+6021.45 I keep hearing a lot about,
+6022.46 which is the deliberate
+use of high salt intake
+6025.521 for performance increasing
+blood volume, et cetera,
+6029.12 and hyperbaric chambers
+seem to be catching on much
+6031.65 in the same way that ice baths were
+6033.189 and saunas seemed to be
+right now but anyway,
+6036.29 a prediction we can
+return to at some point.
+6039.51 I want to ask you about
+some of the studies
+6043.563 that I've seen out there exploring
+6046.58 how deliberately
+restricting one's breathing
+6050.24 to nasal breathing can do
+things like improve memory.
+6053.32 There's a couple of papers
+in "Journal of Neuroscience,"
+6055.28 which is a respectable
+journal in our field,
+6057.549 one looking at olfactory memory.
+6059.54 So, that kind of made
+sense because you can smell
+6061.829 things better through
+your nose than your mouth,
+6063.755 unless you're some sort of elk
+or something where they can,
+6068.045 presumably they have some sense
+6069.92 of smell in their mouth as well.
+6071.61 But humans generally
+smell with their nose.
+6073.88 That wasn't terribly surprising,
+6075.31 but there was a companion
+study that showed
+6077.51 that the hippocampus, an area
+involved in encoding memories
+6081.16 in one form or another was
+more active if you will
+6085.5 and memory and recall was better
+6088.65 when people learned information
+while nasal breathing,
+6091.07 as opposed to mouth breathing.
+6092.33 Does that make sense from
+any mechanistic perspective?
+6096.52 - Well, given that there's
+a major pathway going
+6100.108 from the olfactory system into the brain
+6104.48 and you cut that and not one
+6107.68 from any receptors in the mouth,
+6110.85 the degree of respiratory modulation
+6113.09 you're going to see
+throughout the forebrain
+6116.54 is going to be less with mouth breathing
+6119.78 than nose breathing.
+6121.38 So, it's certainly plausible.
+6133.092 I think there are a lot of experiments
+6136.586 that need to be done to distinguish
+6139.17 between the two that
+is the nasal component
+6143.49 and the non nasal component
+6145.18 of these breathing related signals.
+6147.2 But there's a tendency
+sometimes when you have
+6150.88 a strong effect to be exclusive,
+6153.63 and I think what's going
+on here is that there
+6156.44 are many inputs that can have an effect.
+6159.53 Now, whether they're parceled,
+6160.91 that some effect this part of behavior
+6163.007 and some effect that
+part of behavior remains
+6165.43 to be investigated.
+6167.77 There's certainly a strong
+olfactory component.
+6170.76 My interest is trying to
+follow the central component
+6175.25 'cause we know that there's
+6176.49 a strong central component in this.
+6178.43 In fact, there's a
+strong central projection
+6180.65 to the olfactory bulb.
+6182.78 So, regardless of whether or
+not there's any air flowing
+6185.38 in and out of the nose,
+6186.75 there's a respiratory input
+into the olfactory bulb,
+6189.76 which combines with the
+respiratory modulated signals
+6193.08 coming from the sensory receptors.
+6195.33 - Interesting.
+6196.32 And as long as we are poking
+around, forgive the pun,
+6200.275 the nose, what about one nostril
+versus the other nostril?
+6206.58 I know it sounds a
+little crazy to imagine,
+6208.74 but there have been
+theories in yoga traditions
+6211.383 and others that breathing
+through one nostril
+6215.75 somehow activates certain brain centers,
+6217.54 maybe hemispherically one side
+of the brain versus the other
+6219.618 or that right nostril and
+left nostril breathing
+6222.53 might differ in terms of the levels
+6225.569 of alertness or calmness they produce.
+6228.13 I'm not aware of any
+mechanistic data on that,
+6230.28 but if there's anything worthwhile
+6232.294 about right nostril versus
+left nostril breathing
+6236.1 that you're aware of, I'd love to know.
+6237.57 - Well, it certainly plausible.
+6240.57 I don't know of any data demonstrating it,
+6242.85 except the anecdotal reports of the,
+6246.8 as you know the brain
+is highly lateralized
+6249.87 and we have speech on one side
+6252.365 and a dominant hand that's on one side.
+6256.54 And so, the notion that if you
+have this huge signal coming
+6260.321 from the olfactory system and it,
+6263.58 to some degree is lateralized,
+6265.03 is not perfectly symmetrical.
+6266.64 That is one side is not
+going evenly to both sides,
+6271.03 then you can imagine that once
+6272.51 the signal gets distributed
+in a way that's not uniform,
+6279.39 that the effectiveness or the response
+6281.521 is going to be particular to the cortex
+6284.66 in which either the signal still remains
+6288.74 or the signal is removed from.
+6290.63 - I see.
+6292.42 What are some of the other
+features of our brain and body,
+6296.89 be it blinking, or eye movements,
+6299.78 or ability to encode sounds,
+6303.84 or any features of the
+way that we function
+6308.42 and move and perceive things
+6310.23 that are coordinated with
+breathing in some interesting way?
+6315.12 - Thank you for that question.
+6318.83 Almost everything.
+6320.8 So, we have, for example,
+on the autonomic side,
+6324.39 we have respiratory sinus arrhythmia.
+6326.9 That is during expiration
+the heart slows down.
+6330.974 Your pupils oscillate with
+the respiratory cycle.
+6335.17 I don't know what the
+functional basis for that is,
+6337.69 but they do oscillate with
+the respiratory cycle.
+6340.08 - When we inhale our pupils constrict,
+6341.99 presumably 'cause you there's an increase
+6343.288 in heart rate and sympathetic tone,
+6345.41 I would think of constriction
+6346.87 and I'm guessing as you
+relax the pupil will get,
+6349.39 and you exhale the pupil will get bigger-
+6350.423 - I think you're right,
+6351.256 but I always get the valance of that-
+6354.11 - Yeah, well, it's counterintuitive
+6355.9 because people wouldn't think
+that when the pupils get,
+6359.96 I mean, it depends.
+6360.793 I mean, well, you can get
+very alert and aroused
+6363.5 in that for stress or for good reasons,
+6366.102 and the peoples get wider,
+6368.22 but your visual field narrows
+and then the opposite is true.
+6370.81 Anyway, I guess the
+idea is that the pupils
+6372.621 are changing size and
+therefore the aperture
+6375.52 of your visual window is changing
+6376.8 in coordination with breathing.
+6379.03 - Okay.
+6379.863 Your fear response changes
+with the respiratory cycle.
+6384.603 - Can you tell us more about that?
+6386.59 - Well, there's a paper by Solano,
+6389.35 which I think showed rather clearly
+6391.28 that if you show individuals fearful faces
+6398.94 that their measured response
+of fearfulness changes
+6405.13 between inspiration and expiration.
+6408.117 I don't know why, but it does.
+6411.504 Your reaction time changes.
+6416.33 So you talk about blinking.
+6418.16 The reaction time changes
+6419.43 between inspiration and expiration.
+6421.847 If I ask you to punch something that time
+6426.07 will change between
+inspiration and expiration.
+6428.63 In fact, I don't know the degree
+6430.54 to which martial artists exploit that.
+6432.727 You watch the breathing
+pattern and your opponent
+6435.674 will actually move slower
+6438.26 during one cycle compared to the other.
+6441.03 - Meaning as they're, in which direction?
+6444.0 If they're exhaling,
+they can punch faster?
+6446.28 - I have to say, I don't
+keep a table of which
+6449.67 is which direction things move in
+6451.453 'cause I'm out of the
+martial arts field now.
+6454.68 - My vague understanding
+is that exhales on strikes
+6459.91 is the more typical way to do that,
+6464.12 and so as people strike, they exhale.
+6468.12 In many-
+- As you exhale,
+6470.93 but there are other components to striking
+6473.403 because you want to stiffen your rib cage,
+6476.57 you want to make a Valsalva maneuver.
+6478.77 So that's both an
+inspiration and expiration.
+6482.43 It's at the same time.
+6483.64 So, I don't know enough about,
+6487.9 when you say during expiration,
+6489.93 I would assume that when
+you make your strike,
+6491.98 you're actually sort of
+wanting to stiffen here,
+6494.33 which is a Valsalva like maneuver.
+6496.41 - And oftentimes they'll clench
+6497.55 their fist at the last moment.
+6498.966 Anyway, there's a whole
+set of motor things
+6502.06 that we can talk to some fighters.
+6504.56 We know people who know fighters,
+so what we can ask them.
+6507.67 Interesting.
+6508.503 What are some other things that
+are modulated by breathing?
+6513.71 - I think anything anyone looks at seems
+6517.64 to have a breathing component
+6519.263 because it's all over your brain,
+6523.99 and it's hard to imagine
+it not being effective.
+6527.11 Now, whether it's incidental
+or just background
+6532.413 and doesn't really have
+6533.69 any behavioral advantage is possible.
+6539.0 In other cases, it might
+have a behavioral advantage.
+6541.05 I mean, the big, this eye-opening thing
+6545.23 for me probably a decade ago,
+6548.35 was digging into literature
+6550.079 and seeing how much of cortical activity
+6555.95 and subcortical activity
+6557.5 had a respiratory
+modulator component to it.
+6560.55 And I think a lot of my colleagues
+who were studying cortex
+6564.78 are oblivious to this, and they find,
+6569.859 I heard a talk the other day
+6572.13 from a person who will go un-named,
+6573.78 who found a lot of things correlated
+6576.72 with a particular movement.
+6580.59 And I think it all, when
+I looked, I said, gee,
+6583.41 that's the list of things that
+are respiratory modulated.
+6586.26 And rather than it being correlated
+6588.4 to the movement they we're looking at,
+6590.54 I think the movement they were looking at
+6592.96 was modulated by breathing,
+as was everything else.
+6596.09 So, there wasn't that the movement itself
+6598.3 was driving that correlation.
+6599.92 It was that they were all
+correlated to something else,
+6602.48 which is the breathing movement
+6604.14 and whether or not that
+is behaviorally relevant,
+6607.404 or behaviorally something you
+can exploit, I don't know.
+6611.62 - I suspect you're right,
+6612.996 that breathing is if not the
+foundational driver of many,
+6618.755 if not all of these things
+6620.16 that it's at least one of
+the foundational drivers.
+6622.48 - It's in the background,
+it's in the brain,
+6624.56 and oscillations play an
+important part in brain function.
+6631.73 And they vary in frequency
+from maybe 100 hertz down to,
+6638.39 well, we can get to circadian
+and sort of monthly cycles,
+6642.78 but breathing occupies
+6644.9 a rather unusual place
+in all that because...
+6649.22 So, let me talk about what people think
+6651.207 the oscillation's is doing,
+particularly faster ones.
+6654.55 They're important in coordinating
+signals across neurons.
+6659.945 Just like in a computer, a computer steps.
+6663.5 So, a computer knows when
+information is coming
+6666.29 from another part of a computer
+6668.2 so that it was originated
+at a particular time.
+6671.93 And so, that the screen
+by step-by-step thing
+6674.53 is important in computer control.
+6676.02 Now, the brain is not a digital device,
+6678.037 and it's an analog device,
+6680.01 but when I have a signal that's
+coming in my ear and my eye,
+6684.88 which is Andrew Huberman speaking
+6686.447 and I'm looking at his
+face, I see that as a whole,
+6690.4 but the signal is coming into
+different parts of my brain.
+6693.05 How do I unify that?
+6694.8 Well, my neurons are
+very sensitive to changes
+6698.205 in signals arriving by
+fractions of a millisecond.
+6702.0 So, I know we're sure that those signals
+6703.87 coming in represent the same signal.
+6707.28 Well, if I have throughout my brain
+6709.15 and isolation and the signals
+ride on that oscillation,
+6713.99 let's say the peak of the oscillation,
+6715.92 I can then have a much better handle
+6718.48 on the road of timing and say,
+6720.367 "Those two signals came
+in at the same time.
+6723.06 They may relate to the
+same object and ah ha,
+6725.41 I see you as one unified
+thing spouting talking."
+6730.49 And so, these oscillations come
+6733.083 in many different frequency ranges
+6736.54 and are important in memory formation
+6738.81 and all sorts of things.
+6741.02 I don't think people pay
+much attention to breathing
+6742.738 because it's relatively slow to the range
+6747.106 when you think about milliseconds,
+6750.51 but we have important
+things that are thought
+6753.937 to be important in cognitive function,
+6756.52 which are a few cycles per second
+6759.45 to 20, 30, 40, 50 cycles per second.
+6762.51 Breathing in humans is
+maybe .2 cycles per second,
+6766.66 every five seconds.
+6767.7 Although in rodents they're
+up to four per second,
+6771.12 which is pretty fast.
+6773.16 So, but breathing has one
+thing which is special,
+6777.87 that is you can readily change it.
+6780.47 So, the degree to which the brain is using
+6783.09 that slow signal for anything,
+6786.36 if that becomes part of its
+normal signal processing,
+6791.24 you now change it.
+6793.79 That signal processing has to change.
+6797.02 And as that signal processing changes,
+6800.4 acutely there's a change.
+6803.35 So, you asked about breath practice,
+6806.44 how long do you have to do it?
+6808.13 Well, a single breath
+will change your state.
+6811.7 You're nervous, you take a deep breath
+6816.13 and it seems to help relax,
+6818.51 so-
+- Or a sigh.
+6821.25 - Call it what you will,
+call it what you will.
+6826.03 It seems to work.
+6827.37 Now, it doesn't have a permanent change,
+6830.27 but when I'm getting up to bat
+6831.99 or getting up to the first tee or getting
+6833.57 to give a big talk or
+coming to do a podcast,
+6836.2 I get a little bit anxious, a deep breath,
+6839.87 or a few deep breaths are
+tremendously effective
+6842.96 in calming one down.
+6845.14 And so, you can get a
+transient disruption,
+6850.64 but on the other hand, let's
+take something like depression.
+6858.69 I think it's, you can envision depression
+6861.8 as activities sort of
+going around in a circuit.
+6865.64 And because it's continuous
+in the nervous system,
+6869.33 as signals keep repeating,
+6872.04 they tend to get stronger
+and they can get so strong,
+6875.87 you can't break them.
+6877.5 So, you can imagine the depression
+6879.62 being something going on and on and on,
+6882.66 and you can't break it.
+6884.06 And so, we have trouble
+6885.77 when we get for certain
+levels of depression,
+6887.9 I mean, all of us get
+depressed at some point,
+6890.31 but if it's not continuous,
+it's not long lasting,
+6893.64 we're able to break it.
+6895.35 But if it's long lasting and
+very deep, we can't break it.
+6898.45 So, the question is how do we break it?
+6900.81 Well, there are extreme
+measures to break it.
+6903.3 We could do electroconvulsive shock.
+6906.42 We shock the whole brain.
+6908.09 That's disrupting activity
+in the whole brain.
+6910.41 And when this circuit starts
+to get back together again,
+6914.57 it's been disruptive.
+6915.71 And we know that the brain,
+6917.59 when signals get disrupted a little bit,
+6920.52 we can weaken the
+connections and weakening
+6923.16 the connections of this then
+6924.063 in this circuit involved in depression,
+6926.69 we may get some relief and
+electroconvulsive shock
+6929.431 does work for relieving
+many kinds of depression.
+6933.41 That's pretty heroic.
+6935.62 Focal deep brain stimulation
+does the same thing,
+6939.93 but more localized or
+transcranial stimulation.
+6943.69 You're disrupting a network.
+6945.49 And while it's getting back together,
+6947.61 it may weaken some of the connections.
+6950.99 If breathing is playing
+some role in this circuit,
+6956.32 and now, instead of doing
+like a one second shock,
+6960.8 I do 30 minutes of disruption
+by doing slow breathing
+6964.54 or other breathing practice,
+6967.997 those circuits begin to
+break down a little bit,
+6972.16 and I get some relief.
+6973.26 And if I continue to do
+it before the circuit
+6976.7 can then build back up again,
+6978.67 I gradually can wear that circuit down.
+6980.75 I sort of liken this,
+6982.74 I tell people it's like
+walking around on a dirt path.
+6985.76 You build a rut, the rut gets so deep
+6988.41 you can't get out of it.
+6989.48 And what breathing is
+doing is sort of filling
+6991.34 in the right rut bit by bit
+6992.94 to the point that you can
+climb out of that rut.
+6995.75 And that is because the breathing signal
+7000.38 is playing some role in
+the way the circuit works,
+7005.17 and then when you disrupt that,
+7007.06 the circuit gets a
+little thrown off kilter,
+7009.72 and as you know when
+circuits get thrown off,
+7014.42 the nervous system tries to
+adjust in some way or another,
+7017.63 and it turns out at least for breathing
+7021.1 for some evolutionary reason,
+or just by happenstance,
+7024.49 it seems to improve
+our emotional function,
+7026.793 and our cognitive function.
+7028.54 And we're very fortunate
+that that's the case.
+7033.09 - It's a terrific segue into
+what I want to ask you next,
+7037.05 and this is part of a set of questions
+7040.44 I want to make sure we
+touch on before we wrap up,
+7043.98 which is what do you do
+with all this knowledge
+7047.86 in terms of a breathing practice?
+7050.7 You mentioned that one breath can shift
+7052.33 your brain state and that
+itself can be powerful.
+7055.02 I think that's absolutely true.
+7057.26 You've also talked about 30
+minute breathwork practices,
+7060.13 which is 30 minutes of breathwork,
+7061.6 is a pretty serious commitment
+I think, but it's doable.
+7067.35 Certainly a zero cost,
+7068.55 except for the time in most cases.
+7072.5 What do you see out there in
+the landscape of breathwork
+7075.5 that's being done that you
+like, and why do you like it?
+7081.38 What do you think you,
+7083.028 or what would you like to see more of
+7085.43 in terms of exploration of
+breathwork and what do you do?
+7091.16 - Well, I'm a relatively
+new convert to breathwork.
+7096.503 Through my own investigation of it,
+7099.225 I became convinced that it's real,
+7102.33 and I'm basically a beginner
+in terms of my own practice.
+7108.42 And I like to keep things simple,
+7112.03 and I think I've discussed this before.
+7115.03 I liken it to someone who's a couch potato
+7117.58 who was told they got
+to begin to exercise.
+7119.8 You don't go out and run a marathon.
+7122.1 So, couch potato, you say,
+7124.24 okay, get up and walk for
+five minutes and 10 minutes.
+7127.02 And then, okay, now you're
+walking for a longer period.
+7129.91 You'll begin to run, and
+then you reach a point,
+7133.76 you say, well, gee, I'm
+interested in this sport.
+7137.04 And there may be particular
+kinds of practices
+7138.775 that you can use that could be helpful
+7141.363 in optimizing performance of that sport.
+7144.88 I'm not there yet.
+7146.42 I find I get tremendous benefit
+7149.16 by relatively short periods
+7151.73 between five and maybe 20 minutes
+7155.9 of doing box breathing.
+7158.25 It's very simple to do.
+7160.31 I have a simple app, which
+helps me keep the timing.
+7164.89 - Do you recall which app it is?
+7166.01 Is it the Apnea Trainer?
+7167.57 Is that the one?
+7168.403 - Well, I was using Calm for a long time,
+7170.183 but I let my subscription lapse
+7172.296 and I have another one whose
+name I don't remember but it's,
+7177.64 so it's very simple and it works for me.
+7180.92 I'm now trying this Tummo,
+because I'm just curious
+7185.3 and exploring it because it may be acting
+7187.587 for a different way and I want to see
+7189.057 if I respond differently.
+7194.427 So, I don't have a
+particular point of view.
+7197.3 Now, I have friends and colleagues
+7199.4 who are into particular
+styles like Wim Hof.
+7203.64 And I think what he's doing is great
+7205.801 and getting people who are interested.
+7208.75 I think the notion is that I would like
+7211.8 to see more people exploring
+this and to some degree,
+7216.52 as you point out, 30 minutes a day,
+7219.05 some of the breath patterns
+that some of these stars
+7224.46 like Wim Hof are a little
+intimidating to newbies.
+7229.1 And so, I would like to
+see something very simple,
+7231.6 that what I tell my friends is, look,
+7233.29 just try it five or 10 minutes.
+7234.71 See if you feel better,
+do it for a few days.
+7237.17 If you don't like it, stop
+it, it doesn't cost anything.
+7240.12 And invariably, they
+find that it's helpful.
+7243.9 I will often interrupt my day
+7251.42 to take five or 10 minutes.
+7252.8 Like, if I find that I'm lagging...
+7256.446 I think there's some pretty good data
+7259.05 that your performance
+after lunch declines.
+7263.61 And so, very often what
+I'll do after lunch,
+7266.29 which I didn't do today
+is take five or 10 minutes
+7268.477 and just sort of breath practice.
+7270.276 - And lately, what does that
+breath practice look like?
+7273.44 - It's just box breathing
+for five to 10 minutes.
+7275.497 - And the duration of
+your inhales and holds
+7277.86 and exhales and holds is set by the app?
+7279.75 Is that right?
+7280.583 - Well, I do five seconds.
+7282.97 - So, five seconds
+inhale, five second hold,
+7285.74 five second, exhale, five second hold.
+7287.58 - Yeah, and sometimes I'll do doubles.
+7290.04 I'll do 10 seconds just
+because I get bored.
+7295.423 It's just, I feel like doing
+it and it's very helpful.
+7302.48 I mean...
+7304.44 Now, that's not the only thing I do
+7305.876 with respect to trying to
+maintain my sanity and my health.
+7309.66 - No, I can imagine there'd
+be a number of things,
+7311.57 although, because you seem
+very sane and very healthy,
+7315.36 I in fact, know that you
+are both of those things.
+7317.927 - Right, you suspect that I am.
+7319.313 - I suspect that there's data.
+7323.64 Awhile back we had a conversation,
+a casual conversation,
+7327.14 but you said something that
+really stuck in my mind,
+7329.0 which is that it might be
+7331.37 that the specific pattern of breathwork
+7334.763 that one does is not as important
+7338.39 as experiencing transitions
+between states based
+7342.47 on deliberate breathwork or
+something to that extent,
+7345.69 which I interpreted to mean that if I were
+7348.83 to do box breathing with five second in,
+7350.94 five seconds hold, five second exhale,
+7352.96 five second hold for a couple of days,
+7355.2 or maybe even a couple of
+minutes and then switch
+7356.94 to 10 seconds or then switch to Tummo,
+7359.66 that there's something powerful perhaps
+7362.03 in the transitions and
+realizing the relationship
+7366.11 between different patterns of breathing
+7367.46 in those transitions,
+7368.32 much in the same way that you can get
+7370.042 into one of these cars
+at an amusement park
+7373.65 that just goes at a constant
+rate and then stops.
+7376.13 Very different than
+learning how to shift gears.
+7379.6 I used to drive a manual.
+7380.5 I still can so I'm thinking
+about a manual transmission,
+7382.65 but even with an automatic transmission,
+7384.29 you start to get a sense
+of how the vehicle behaves
+7387.25 under different conditions.
+7388.85 And I thought that was a beautiful seed
+7391.31 for a potential breathwork practice
+7393.03 that at least to my awareness,
+7394.37 nobody has really formalized,
+7396.06 which is that you
+introduce some variability
+7397.984 within the practice that's somewhat random
+7400.81 in order to be able to
+sense the relationship
+7403.16 between different speeds
+and depths of inhales,
+7405.36 exhales and holds and so forth.
+7407.07 And essentially, it's like
+driving around the track,
+7409.06 but with obstacles at different rates
+7411.93 and breaking and restarting
+and things of that sort,
+7413.98 that's how you learn how to drive.
+7415.83 What do you think about that
+and if you like it enough,
+7419.79 can we call it the Feldman protocol?
+7421.6 - Oh, please [laughs].
+7425.25 I was asked in this BBC interview once why
+7428.45 didn't I name it the Feldman complex,
+7430.283 instead of pre-Botzinger complex?
+7431.92 - You said I already
+have a Feldman complex.
+7434.09 - Well, it sounds like
+a psychiatric disorder,
+7437.532 but I think the primary effect
+is this disruptive effect,
+7444.61 which I described,
+7446.82 but the particular responses
+may clearly vary depending
+7452.64 on what that disruption is.
+7455.8 I don't know of any particular data,
+7458.58 which are as in well
+controlled experiments,
+7460.99 which can actually work
+through the different types
+7464.202 of breathing patterns or
+simply with a box pattern,
+7467.51 just varying the durations.
+7469.83 I mean, pranayama is sort of similar,
+7472.13 but the amount of time you spend
+7474.16 going around the box is different.
+7476.81 So, I don't really have
+much to say about this.
+7478.81 I mean, this is why we need
+better controlled experiments
+7483.61 in humans and I think
+this is where being able
+7487.43 to study in rodents where you can have
+7490.22 a wide range of perturbations
+7495.593 while you're doing more invasive studies
+7498.41 to really get down as to
+which regions are affected,
+7501.67 how was the signal processing disrupted,
+7504.68 which is still a hypothesis,
+7506.06 but how it's disrupted could tell us a lot
+7508.65 about maybe there's a resonant point
+7512.31 at which there's an optimal effect
+7514.32 when you take a particular
+breathing practice.
+7517.2 And then when we talked about the fact
+7520.664 that different breathing practices
+7523.06 could be affecting the outcomes
+7525.41 through different pathways.
+7527.49 You have the olfactory pathway,
+you have a central pathway,
+7531.7 you have a vagal pathway, you
+have a descending pathway,
+7535.45 how different practices may change
+7541.433 the summation of those things
+7543.04 because I think all those
+things are probably involved,
+7546.43 and we're just beginning
+to scratch the surface.
+7549.42 And I just hope that we can
+get serious neuroscientists
+7555.37 and psychologists to do
+the right experiments
+7559.39 to get at this because I think
+7560.72 there's a lot of value
+to human health here.
+7565.15 - I do too, and it's one
+of the reasons my lab
+7567.15 has shifted to these
+sorts of things in humans.
+7569.13 I'm delighted that you're continuing
+7570.871 to do the hardcore
+mechanistic work in mice
+7573.609 and probably do work in
+humans already as well,
+7577.442 if you're not already.
+7578.87 And there are other
+groups, Epel Lab at UCF,
+7580.69 and a number of, I'm starting
+to see some papers out there
+7583.258 about respiration in humans a little bit,
+7585.56 some more brain imaging.
+7588.67 I can't help but ask about
+a somewhat unrelated topic,
+7592.96 but it is important in
+light of this conversation
+7596.175 because you're here,
+7597.79 and one of the things that I really enjoy
+7600.55 about conversations with you as it relates
+7603.45 to health and neuroscience
+and so forth is that,
+7608.77 you're one of the few colleagues I have
+7611.16 who openly admits to
+exploring supplementation.
+7616.19 I'm a long time supplement fan.
+7622.44 I think there's power in compounds,
+7624.8 both prescription, non-prescription,
+natural, synthesized.
+7629.37 I don't use these haphazardly,
+7631.53 but I think there's
+certainly power in them.
+7633.71 And one of the places
+where you and I converge
+7635.88 is in terms of our interest
+in the nervous system
+7638.28 and supplementation is
+vis-a-vis magnesium.
+7642.91 Now, I've talked endlessly on the podcast
+7646.98 and elsewhere about
+magnesium for sake of sleep,
+7649.94 and improving transit transitions
+7651.56 to sleep and so forth.
+7653.18 But you have a somewhat
+different interest in magnesium
+7657.71 as it relates to cognitive function
+7659.52 and durability of cognitive function.
+7661.92 Would you mind just sharing
+with us a little bit
+7663.48 about what that interest
+is, where it stems from,
+7666.31 and because it's The Huberman Podcast,
+7669.73 and we often talk about supplementation,
+7671.549 what you do with that information.
+7674.76 - So, I need to disclose
+7675.804 that I am a scientific advisor
+7678.55 to a company called Neurocentria,
+7680.31 which my graduate student,
+Guosong Liu is CEO.
+7686.12 So that said, I can give
+you some background.
+7689.16 Guosong, although when he was
+in my lab worked on breathing,
+7692.156 had a deep interest in
+learning and memory.
+7695.72 And when he left my lab,
+7696.87 he went to work for it
+7697.99 with a renowned learning memory
+guy at Stanford, Dick Chen.
+7703.06 And when he finished there,
+7706.3 he was hired by Susumu Tonegawa at MIT.
+7709.4 - Who also knows a thing
+or two about memory.
+7711.22 I'm teasing.
+7712.053 Susumu Tonegawa has a Nobel for
+his work on immunoglobulins,
+7715.53 but then is a world-class
+memory researcher.
+7718.58 - Yeah, and more.
+7722.35 - He's many things.
+7723.565 - And Guosong had very
+curious, very bright guy,
+7728.59 and he was interested in how signals
+7732.029 between neurons get strengthened,
+7734.6 which is called long-term
+potentiation or LTP.
+7738.12 And one of the questions that arose
+7741.74 was if I have inputs to
+a neuron and I get LTP,
+7748.74 is the LTP bigger if the signal is bigger
+7753.81 or the noise is less?
+7756.09 So, we can imagine that when
+we're listening to something,
+7759.26 if it's louder, we can hear it better.
+7761.2 Or if this less noise,
+we can hear it better.
+7763.48 And he wanted to investigate this.
+7766.32 So I did this in tissue
+culture of hippocampal neurons,
+7771.36 and what he found was that if he lowered
+7775.466 the background activity
+in all of the neurons,
+7780.22 that the LTP he elicited got stronger,
+7784.6 and the way he did that was increasing
+7787.56 the level of magnesium
+in the bathing solution.
+7790.66 This gets into some
+esoteric electrophysiology,
+7794.97 but basically there's a background level
+7797.85 of noise in all neurons,
+7801.08 and that part of it is
+regulated by the degree
+7804.92 of magnesium in the extracellular bath.
+7807.75 - And you mean electrical noise.
+7810.57 - Electrical noise, I'm
+sorry, electrical noise.
+7812.925 And if you, in what's called
+the physiological range,
+7818.45 which is between 0.8 and 1.2 millimolar,
+7822.7 which don't worry about the number.
+7824.28 - I can't believe you
+remember the millimolar
+7825.43 of the magnesium.
+7826.37 - Well, I'm always frightened that I get,
+7828.85 I say micro or femto or something,
+7831.06 I go off by several orders of magnitude,
+7833.51 but so in that physiological range,
+7837.83 there's a big difference
+in the amount of noise
+7840.8 in a neuron between
+0.8 and 1.2 millimolar.
+7844.53 So, he played around with the magnesium,
+7847.2 and he found out that when
+the magnesium was elevated,
+7850.72 it was more LTP.
+7852.69 All right, that's an
+observation in a tissue culture.
+7855.09 - Right, and I should just mention
+7856.17 that more LTP essentially translates
+7858.57 to more neuro-plasticity,
+7860.22 more rewiring of connections in essence.
+7863.62 - So, he tested this
+in mice and basically,
+7870.03 he offered them a,
+7874.25 he had control mice,
+7875.24 which got a normal diet and one that had,
+7876.97 one enriched in magnesium,
+7878.8 and the ones that lived
+enriched with magnesium
+7882.28 had higher cognitive
+function, lived longer,
+7885.458 everything you'd want in some magic pill,
+7889.13 those mice did that.
+7891.15 Excuse me, rats.
+7894.98 The problem was that you
+couldn't imagine taking this
+7898.98 into humans because most magnesium salts
+7903.7 don't passively get from the
+gut into the bloodstream,
+7907.79 into the brain.
+7909.04 They pass via what's called a transporter.
+7912.71 Transporter is something in a membrane
+7914.91 that grabs a magnesium molecule or atom,
+7920.5 and pulls it into the other side.
+7923.0 So if you're imagining you
+have magnesium in your gut,
+7926.15 you have transporters
+that pull the magnesium
+7928.05 in the gut into the bloodstream.
+7930.3 Well, if you take a normal
+magnesium supplement
+7933.826 that you can buy at the pharmacy,
+7936.64 it doesn't cross the gut very easily.
+7939.4 And if you would take enough
+7940.67 of it to get it in your bloodstream,
+7943.73 you start getting diarrhea.
+7946.1 So it's not a good way to go.
+7949.31 - Well, it is a good way to go.
+7951.514 I couldn't help myself.
+7952.662 - [laughs] Well said.
+7956.37 So, he worked with this
+brilliant chemist, Fay Mow,
+7961.33 and Fay looked at a whole
+range of magnesium compounds
+7967.9 and he found that magnesium threonate
+7971.24 was much more effective in
+crossing the gut blood barrier.
+7977.86 Now, they didn't realize at the time,
+7979.73 but threonate is a
+metabolite of vitamin C,
+7983.56 and there's lots of
+threonate in your body.
+7985.78 So magnesium threonate
+would appear to be safe
+7989.37 and maybe part of the role
+7992.351 or now they believe it's part of the role
+7995.53 of the threonate is that it supercharges
+7998.433 the transporter to get the magnesium in.
+8001.04 And remember, you need
+a transporter at the gut
+8005.29 into the brain and into cells.
+8008.55 So, they gave magnesium
+threonate to mice who had,
+8014.63 no, let me backtrack a bit.
+8018.36 They did a study in humans.
+8020.3 They hired a company to do a
+test that was a hands-off test.
+8026.2 It's one of these
+companies that gets hired
+8027.81 by the big pharma to
+do their test for them,
+8030.76 and they got patients who were diagnosed
+8035.68 as mild cognitive decline.
+8037.64 These are people who
+had cognitive disorder,
+8040.23 which was age inappropriate.
+8042.54 And the metric that they
+use for a determining
+8046.333 how far off they were
+is Spearman's G factor,
+8051.72 which is a generalized
+measure of intelligence
+8056.68 that most psychologists except,
+8060.85 and the biological age
+of the subjects was,
+8066.6 I think 51 and the
+cognitive age was 61 based
+8071.277 on the Spearman's G's test.
+8072.85 Oh, I should say the
+Spearman G factor starts
+8076.094 at a particular level in the population
+8080.07 at age 20 and declines about 1% a year.
+8084.44 So, sorry to say, we're
+not 20 year olds anymore,
+8089.548 but when you get a number from that,
+8092.47 you can put on the curve and see whether
+8094.66 it's about your age or not.
+8096.12 These people were about
+10 years older according
+8098.457 to that metric and long story
+short after three months
+8106.14 this is a placebo controlled
+double blind study.
+8109.63 The people who were in the
+placebo arm improved two years,
+8116.07 which is common for human
+studies 'cause a placebo effect.
+8120.392 The people who got the compound
+8123.63 improved eight years on average,
+8127.08 and some improved more than eight years.
+8129.0 They didn't do any further
+diagnosis as to what caused
+8131.597 the molecule to decline but it was pretty,
+8134.14 it was extraordinarily impressive.
+8136.15 - So, it moved their cognition closer
+8137.462 to their biological age?
+- Biological age.
+8139.743 Biological age.
+8141.282 - Do you recall what the
+doses of magnesium threonate-
+8143.853 - It's in the paper and it's basically
+8146.074 what they have in the compound,
+8147.994 which is sold commercially.
+8149.822 So, the compound which
+is sold commercially
+8153.24 is handled by a nutraceutical wholesaler
+8158.51 who sells it to the retailers
+8160.36 and they make whatever
+formulation they want.
+8164.67 But it's a dosage which is,
+8169.76 my understanding is rarely tolerable.
+8172.56 I take half a dose.
+8175.45 The reason I take half a dose
+8176.413 is that I had my blood magnesium measured,
+8180.88 and it was low normal for my age.
+8185.84 I took half a dose, it became high normal,
+8188.65 and I felt comfortable
+staying in the normal range,
+8193.42 but a lot of people are taking
+8195.224 the full dose and at my age,
+I'm not looking to get smarter,
+8203.548 I'm looking to decline more slowly.
+8206.35 And it's hard for me to tell you whether
+8208.829 or not it's effective or not.
+8210.67 - Well, you remembered the
+millimolar of the magnesium
+8213.517 and the solution and on
+the high and low end,
+8215.93 so I would say it's not
+a well controlled study
+8218.816 and it's an N of one, but
+it seems to be working.
+8224.04 - When I've recommended it to my friends,
+8226.81 academics who are not by nature skeptical,
+8230.51 if not cynical, and I
+insist that they try it,
+8234.43 they usually don't report a major change
+8237.84 in their cognitive function,
+8239.19 although sometimes they do report,
+8240.807 "Well, I feel a little
+bit more alert than my,
+8243.947 my physical movements are better,"
+8246.02 but many of them report they sleep better.
+8248.819 - And that makes sense.
+8250.81 I think there's good
+evidence that threonate
+8253.45 can accelerate the transition
+8255.431 into sleep and maybe even access
+8257.325 to deeper modes of sleep for some people.
+8261.901 For many people actually,
+8263.72 a small percentage of
+people who take threonate
+8266.33 including one of our podcast staff here
+8271.27 have stomach issues with it.
+8272.59 They can't tolerate it.
+8273.423 So, I would say just anecdotally,
+8275.01 about 5% of people don't
+tolerate threonate well.
+8277.7 Stop taking it and then they're fine.
+8279.38 It caused them diarrhea
+or something of that sort,
+8282.11 but most people tolerate it well
+8283.097 and most people report that it
+vastly improves their sleep.
+8286.54 And again, that's anecdotally.
+8287.69 There are a few studies and
+there are more on the way,
+8290.72 but that's very interesting because I,
+8293.05 until you and I had the
+discussion about threonate,
+8295.41 I wasn't aware of the
+cognitive enhancing effects,
+8300.25 but the story makes sense from
+a mechanistic perspective.
+8302.85 And it brings it around to a bigger
+8305.82 and more important statement,
+8307.11 which is that I so appreciate
+your attention to mechanism.
+8312.89 I guess this stems from
+your early training
+8315.19 as a physicist and the
+desire to get numbers
+8316.993 and to really parse
+things at a fine level.
+8322.09 So, we've covered a lot today.
+8323.56 I know there's much more
+that we could cover.
+8325.32 I'm going to insist on a
+part two at some point,
+8328.6 but I really want to speak on behalf
+8331.35 of a huge number of
+people and just thank you,
+8333.56 not just for your time and
+energy and attention to detail
+8336.88 and accuracy and clarity
+around this topic today,
+8339.49 but also what I should
+have said at the beginning,
+8342.53 which is that you really are a pioneer
+8345.4 in this field of studying respiration
+8347.66 and the mechanisms underlying respiration
+8349.973 with modern tools for
+now for many decades,
+8353.598 and the field of neuroscience was one
+8356.678 that was perfectly
+content to address issues
+8360.41 like memory and vision and
+sensation perception, et cetera.
+8364.86 But the respiratory system
+was largely overlooked
+8367.97 for a long time and you've just
+been steadily clipping away
+8371.68 and clipping away and
+much cause of the events
+8374.09 of related to COVID and
+a number of other things,
+8379.66 and this huge interest in breathwork
+8381.077 and brain states and wellness,
+8383.49 the field of respiration
+8384.649 and interest in respiration
+has just exploded.
+8389.45 So, I really want to
+extend a sincere thanks.
+8392.11 It means a lot to me,
+8394.0 and I know to the audience of this podcast
+8396.19 as someone with your depth
+and rigor in this area
+8399.12 is both a scientist and a practitioner,
+8401.52 and that you would share this with us.
+8402.93 So, thank you.
+8403.85 - Well, I want to thank you.
+8405.47 This is actually a great
+opportunity for me.
+8407.315 I've been isolated in
+my silo for a long time,
+8411.61 and it's been a wonderful
+experience to communicate
+8415.147 to people outside the silo
+who have an interest in this.
+8417.86 And I think that there's a
+lot that remains to be done,
+8421.59 and I enjoy speaking to people
+who have interest in this.
+8424.93 I find the interest to
+be quite mind-boggling
+8428.017 and it's quite wonderful
+that people are willing to,
+8432.773 and listen to things that can
+be quite esoteric at times,
+8438.35 but it gets down to deep
+things about who we are
+8441.58 and how we are going to live our lives.
+8443.22 So, I appreciate the opportunity
+and I would be delighted
+8447.03 to come back at any time.
+8448.97 - Wonderful.
+8449.803 We will absolutely do it.
+8450.76 Thanks again, Jack.
+8451.86 - Bye now.
+8453.35 - Thank you for joining
+me for my conversation
+8454.772 with Dr. Jack Feldman.
+8456.78 I hope you found it as entertaining
+8458.57 and as informative as I did.
+8460.91 If you're learning from
+and/or enjoying this podcast,
+8463.5 please subscribe to us on YouTube.
+8465.28 That's a terrific zero
+cost way to support us.
+8467.79 In addition, please
+subscribe to the podcast
+8469.91 on Spotify and Apple,
+8471.69 and on Apple you can leave us a review
+8474.02 and you can leave us up
+to a five-star rating.
+8476.71 Please also check out
+the sponsors mentioned
+8478.216 at the beginning of the podcast.
+8480.17 That's the best way to
+support this podcast.
+8482.56 We also have a Patreon.
+8483.69 It's patreon.com/andrewhuberman.
+8486.28 And there you can support
+The Huberman Lab Podcast
+8488.72 at any level that you like.
+8490.63 In addition, if you're
+not already following us
+8492.67 on Instagram and Twitter,
+8494.41 I teach neuroscience on
+Instagram and Twitter.
+8496.81 Some of that information
+covers information covered
+8499.28 on the podcast,
+8500.2 some of that information
+is unique information,
+8502.53 and that includes science
+and science-based tools
+8505.31 that you can apply in everyday life.
+8507.06 During today's podcast,
+8508.41 and on many previous podcast episodes,
+8510.69 we talk about supplements.
+8511.98 While supplements aren't
+necessary for everybody,
+8514.34 many people derive
+tremendous benefit from them.
+8516.95 One of the key issues with supplements
+8518.48 if you're going to take
+them is that they be
+8520.56 of the utmost quality.
+8521.87 For that reason, The Huberman Lab Podcast
+8523.55 has partnered with Thorne, T-H-O-R-N-E.
+8526.65 Thorne Supplements are of
+the very highest quality,
+8529.09 both with respect to the quality
+8531.03 of the ingredients themselves,
+8532.37 and the precision of the
+amounts of the ingredients.
+8534.7 Why do I say that?
+8535.533 Well, many supplement companies
+out there list amounts
+8537.759 of particular substances on the bottle,
+8540.57 and when they've been tested,
+8541.65 they do not match up to what's
+actually in those products.
+8545.06 Thorne has the highest
+levels of stringency
+8547.05 for quality and the particular amounts
+8550.07 that are in each product.
+8551.97 They partnered with the Mayo Clinic
+8553.5 and all the major sports teams,
+8554.57 so there's tremendous
+trust in Thorne products.
+8556.78 That's why we partnered with them.
+8558.15 If you're interested in seeing
+the supplements that I take,
+8560.13 you can go to thorne.com/
+the letter U /huberman.
+8563.99 You can see the supplements
+that I take from Thorne.
+8566.19 If you purchase any of
+those supplements there,
+8568.15 you can get 20% off and
+if you navigate further
+8570.71 into the Thorne site to see the huge array
+8573.01 of other products that they make,
+8574.35 if you go in through
+thorne.com/u/huberman,
+8577.31 you'll also get 20% off any
+8578.95 of the products that Thorne makes.
+8580.67 I also want to just mention one more time,
+8583.09 the program that I
+mentioned at the beginning
+8584.64 of the episode, which is
+Our Breath Collective,
+8586.84 the Our Breath Collective
+8588.32 has an advisory board that includes people
+8590.14 like Dr. Jack Feldman,
+8591.49 where you can learn detailed
+breathwork protocols.
+8594.21 If you're interested in
+doing or teaching breathwork,
+8596.218 I highly recommend checking it out.
+8598.18 You can find it at
+ourbreathcollective.com/huberman,
+8601.54 and that will give you
+$10 off your first month.
+8604.4 So, I want to thank you
+once again for joining me
+8605.671 for my conversation with Dr. Jack Feldman,
+8608.19 and last but certainly not least,
+8610.26 thank you for your interest in science.
+8611.835 [upbeat music]

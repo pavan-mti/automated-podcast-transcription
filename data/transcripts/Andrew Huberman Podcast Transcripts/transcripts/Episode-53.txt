@@ -1,0 +1,3974 @@
+0.15 [upbeat music]
+- Welcome to
+0.983 the Huberman Lab Podcast
+1.92 where we discuss science
+and science-based tools
+4.93 for everyday life.
+9.13 I'm Andrew Huberman,
+10.09 and I'm a professor of
+neurobiology and ophthalmology
+12.64 at Stanford School of Medicine.
+14.56 Today, we are going to
+discuss the gut and the brain,
+17.89 and we are going to discuss how your gut
+20.08 influences your brain and your
+brain influences your gut.
+24.2 As many of you probably know,
+25.9 there is a phenomenon
+called your gut feeling,
+28.69 which tends to be something
+that you seem to know
+31.49 without really knowing how you know it.
+33.96 That's one version of the gut feeling.
+35.95 The other is that you sense
+something in your actual gut,
+39.85 in your body, and that somehow drives you
+43.7 to think or feel or act
+in a particular way,
+46.55 maybe to move towards something
+48.16 or to move away from something.
+50.32 Now, today, we aren't
+going to focus so much
+52.23 on the psychology of gut feelings
+54.9 but on the biology of gut feelings
+57.33 and how the gut and brain interact.
+59.14 Because indeed your gut is
+communicating to your brain
+61.63 both directly by way of
+neurons, nerve cells,
+65.13 and indirectly by changing
+the chemistry of your body,
+68.38 which permeates up to your brain
+70.02 and impacts various
+aspects of brain function.
+72.98 But it works in the other direction, too.
+74.86 Your brain is influencing your entire gut.
+78.04 And when I say entire gut, I
+don't just mean your stomach,
+80.34 I mean, your entire digestive tract.
+82.47 Your brain is impacting things
+83.78 like how quickly your food is digesting,
+86.32 the chemistry of your gut,
+88.06 if you happen to be
+stressed or not stressed.
+90.41 Whether or not you are under
+a particular social challenge
+93.68 or whether or not you're
+particularly happy
+95.31 will in fact adjust the
+chemistry of your gut
+98.07 and the chemistry of your gut in turn
+100.33 will change the way that your brain works.
+102.78 I'll put all that together for you
+104.27 in the context of what we
+call the gut microbiome.
+107.23 The gut microbiome are the
+trillions of little bacteria
+110.87 that live all the way
+along your digestive tract
+114.1 and that strongly impact the
+way that your entire body works
+117.84 at the level of metabolism,
+119.17 immune system, and brain function.
+121.76 And of course, we will discuss to tools,
+123.73 things that you can do
+in order to maintain
+126.45 or improve your gut health.
+128.49 Because as you'll also soon see,
+130.7 gut health is immensely important
+133.11 for all aspects of our wellbeing
+135.61 at the level of our brain,
+136.94 at the level of our body,
+138.55 And there are simple, actionable
+things that we can all do
+141.27 in order to optimize our gut health
+143.78 in ways that optimize
+144.97 our overall nervous system functioning.
+146.98 So we will be sure to review those today.
+149.83 This episode also serves
+as a bit of a primer
+152.37 for our guest episode
+that's coming up next week
+155.02 with Dr. Justin Sonnenburg
+from Stanford University.
+158.34 Dr. Sonnenburg is a world
+expert in the gut microbiome
+162.46 and so we will dive really
+deep into the gut microbiome
+165.84 in all its complexity.
+167.53 We'll make it all very simple for you.
+169.02 We will also talk about
+actionable tools in that episode.
+171.78 This episode is a standalone episode,
+173.78 so you'll get a lot of
+information and tools,
+175.86 but if you have the opportunity
+to see this episode first,
+178.37 I think it will serve as a nice
+primer for the conversation
+181.44 with Dr. Sonnenburg.
+182.89 Before we begin,
+183.8 I'd like to emphasize that this podcast
+185.48 is separate from my teaching
+and research roles at Stanford.
+188.25 It is however, part of
+my desire and effort
+190.3 to bring zero cost to consumer information
+192.2 about science and science-related tools
+194.36 to the general public.
+195.78 In keeping with that theme,
+196.88 I'd like to thank the
+sponsors of today's podcast.
+199.77 Our first sponsor is Athletic Greens.
+202.0 Athletic Greens is an all-in-one
+203.61 vitamin mineral probiotic drink.
+206.08 I've been using Athletic Greens,
+207.52 which is now called AG1, since 2012
+210.86 so I'm delighted that they're
+sponsoring the podcast.
+213.5 The reason I started
+taking Athletic Greens
+215.3 and the reason I still
+take Athletic Greens
+216.86 once or twice a day
+218.13 is that it covers
+218.963 all of my foundational
+vitamin and mineral needs
+221.3 and also because it contains
+223.33 high quality probiotics and prebiotics,
+226.0 which is a topic that we're
+going to talk a lot about today.
+228.72 With Athletic Greens, I can
+be sure that I'm getting
+230.9 all the vitamins and minerals that I need.
+232.93 So if I'm missing anything in my diet,
+235.03 I can compensate for that
+with the Athletic Greens.
+237.55 Plus it has the probiotics and prebiotics
+240.36 that can also compensate
+for any deficiencies
+242.55 that I might have in creating
+the right environment
+245.5 for my gut microbiome.
+247.08 If you'd like to try Athletic Greens,
+248.44 you can go to athleticgreens.com/huberman
+251.38 to claim a special offer.
+252.73 They'll give you five free travel packs,
+254.27 which make it very easy
+to mix up Athletic Greens
+256.75 while you're in the car or on a plane
+258.23 or otherwise on the move,
+259.32 and they'll give year's
+supply of vitamin D3 K2.
+262.73 While not everyone needs
+additional vitamin D3,
+265.26 many people do even if they're
+getting sufficient sunlight.
+268.23 So you get the year's
+supply of vitamin D3,
+269.88 and it also has K2 in there.
+271.1 K2 has been shown to be important
+273.13 for various aspects of calcium regulation,
+275.3 cardiovascular health, and so on.
+277.06 Again, go to athleticgreens.com/huberman
+279.74 to claim this special offer.
+281.24 Today's episode is also
+brought to us by LMNT.
+284.25 LMNT is an electrolyte drink
+that contains no sugar.
+287.23 It does however contain sodium,
+magnesium, and potassium.
+291.23 I've talked about sodium
+on the podcast before.
+294.05 I think sodium can indeed be
+problematic for some people
+297.78 with hypertension or pre-hypertension,
+299.95 but for many people,
+sodium is a great thing.
+303.05 It can increase blood volume
+304.19 in ways that can be helpful to them.
+305.74 It can improve nerve cell function in ways
+307.96 that can be helpful to them,
+309.18 and for me, anytime I'm
+exercising and sweating a lot,
+312.62 I want to replace my electrolytes
+314.03 and that means replacing sodium
+315.51 for adequate neuron function,
+muscle function, and so on.
+319.023 LMNT is formulated to help anyone
+320.75 with their electrolyte needs
+322.09 and is perfectly suited for people
+323.63 who are following a
+ketogenic, low carbohydrate,
+326.23 or paleo diet.
+327.88 LMNT contains a science-backed
+electrolyte ratio
+330.36 of 1000 milligrams of sodium,
+332.7 200 milligrams of potassium,
+334.17 and 60 milligrams of magnesium.
+336.47 If you'd like to try LMNT,
+337.417 you can go to drinklmnt.com/huberman
+340.72 to claim a free LMNT sample pack.
+342.66 You only pay the cost of shipping.
+344.32 Again, that's drinklmnt.com/huberman
+347.32 to claim a free sample pack.
+349.0 Today's podcast is also
+brought to us by InsideTracker.
+351.62 InsideTracker is a
+personalized nutrition platform
+354.34 that analyzes data from your blood and DNA
+356.95 to help you better understand your body
+358.55 and help you reach your health goals.
+360.58 I've long been a believer in
+getting regular blood work done
+363.51 for the simple reason that
+many of the things that impact
+366.16 your immediate and long-term
+health can only be assessed
+368.96 with a quality blood test.
+370.33 And nowadays with the
+advent of modern DNA tests,
+373.2 you can also get insights
+into, for instance,
+375.46 what your biological age
+is and how that compares
+378.41 to your chronological age.
+380.25 Now, one of the major problems
+with a lot of blood tests
+382.61 and DNA tests out there is
+that you get numbers back,
+385.32 they'll tell you if those
+numbers are in range
+386.85 and out of range
+387.84 but they don't tell you
+anything about what to do
+389.36 with that information.
+390.673 With InsideTracker, they
+make everything very simple
+393.33 in terms of directing you
+towards particular protocols.
+395.82 So these could be nutrition protocols,
+397.77 supplementation protocols, or
+lifestyle behavioral protocols
+401.29 to help you bring those numbers
+402.76 into the ranges that are best for you.
+405.28 If you'd like to try InsideTracker,
+406.69 you can visit insidetracker.com/huberman
+409.27 to get 20% off any of
+InsideTracker's plans.
+412.11 That's insidetracker.com/huberman
+to get 20% off.
+416.01 Okay, let's talk about
+the gut and the brain
+418.4 and how your gut and your brain
+419.77 communicate in both directions.
+422.16 Because as I mentioned before,
+423.64 your gut is communicating all the time
+426.23 with your brain and your brain
+is communicating all the time
+429.49 with your gut.
+430.4 And so the two are in this
+ongoing dance with one another,
+434.08 that ordinarily is below
+your conscious detection
+437.23 although you're probably
+familiar with the experience
+439.37 of every once in a while
+getting a stomach ache
+441.74 or of eating something that
+doesn't agree with you,
+443.8 or conversely eating something
+445.47 that you find particularly delicious
+447.87 and that sensation or
+that experience rather
+450.83 being a whole body experience.
+452.8 Your mind is excited about
+what you're eating or just ate,
+455.77 your gut is excited about what
+you're eating or just ate,
+459.2 and it seems to be a kind
+of unified perception
+462.07 of both brain and body.
+464.13 Today, we're going to talk
+about how that comes about
+466.31 in the negative sense.
+467.69 Like, you know, when you meet
+someone you really dislike
+470.55 or when you have a stomach ache,
+471.44 and in the positive sense,
+472.91 when you interact with somebody
+473.85 that you really, really like
+474.98 and you'd like to spend more
+time with them, for instance,
+477.18 or when you eat something
+478.47 that you really, really like
+479.93 and you'd like to spend
+more time with that food,
+481.85 so to speak.
+483.1 Now, the gut and the brain
+represent what we call
+486.15 a biological circuit,
+488.23 meaning they include different stations.
+490.91 So station A communicates with station B,
+493.64 which communicates with
+station C, and so on.
+496.22 And as I mentioned earlier,
+it is bidirectional.
+497.92 It's a two-way street
+between gut and brain.
+501.29 I want to make the important
+point at the outset
+504.04 that when I say the word gut,
+505.97 when I refer to the gut,
+507.45 I am not just referring to the stomach.
+510.52 Most of us think that the
+gut equates to the stomach
+513.76 because we think of having
+a gut or not having a gut
+517.0 or having a gut feeling of some sort.
+519.79 But in the context of gut-brain signaling
+523.25 and the related microbiome,
+525.81 the gut includes the
+entire digestive tract.
+529.54 That's right, from start to finish
+531.3 the entire digestive tract
+533.08 so much so that today
+we're going to talk about,
+535.77 for instance, the presence
+of neurons, nerve cells,
+538.84 that reside in your gut
+540.45 that communicate to specific
+locations in the brain
+543.67 and cause the release of
+specific neurochemicals,
+546.25 such as the neurochemical
+dopamine or serotonin,
+549.52 that can motivate you to seek
+more of a particular food
+552.81 or type of interaction or behavior,
+555.01 or to avoid particular foods,
+interactions, and behaviors.
+558.56 And some of those neurons,
+many of those neurons, in fact,
+561.62 reside in your intestines,
+not in your stomach.
+564.71 They can be in the small
+intestine or the large intestine.
+567.58 In fact, you actually have
+taste receptors and neurons
+571.16 located all along your digestive tract.
+573.82 You have neurons that are located
+575.26 all along your digestive tract
+576.81 and they are communicating to your brain
+579.45 to impact what you think, what
+you feel, and what you do.
+582.83 Okay, so for the gut-brain axis,
+584.34 we need to deal with the brain part
+585.94 and then we need to
+deal with the gut part.
+588.08 Let's just quickly talk
+about the brain part
+589.87 because there the word brain
+is also a bit of a misnomer
+593.61 in that when we say the gut-brain axis,
+595.94 it does include the brain
+597.22 but includes a lot of
+other things as well.
+600.31 So as many of you probably know by now,
+602.7 if you're listeners of this podcast,
+604.16 and if you don't, that's fine,
+606.08 your nervous system includes your brain
+609.14 and your spinal cord
+610.39 and those together constitute
+611.69 what's called the central nervous system.
+614.28 Your neural retinas,
+615.64 which are lining the back of your eyes
+618.49 and are the light sensing
+portion of your eyes
+622.39 are also part of your
+central nervous system.
+625.72 So actually your eyes
+are part of your brain.
+627.323 They're the only parts of your brain
+628.97 that are outside the cranial vault.
+631.01 So your retinas, your brain proper,
+634.08 and your spinal cord make up
+the central nervous system.
+636.62 The other parts of your
+nervous system constitute
+638.44 what's called the
+peripheral nervous system,
+640.99 which are the components
+of your nervous system
+642.69 that reside outside the
+retinas, brain, and spinal cord.
+646.65 Now, this is very important
+647.76 because today we're going to talk a lot
+649.38 about how the gut
+communicates with the brain.
+652.14 And it does that by way
+653.73 of peripheral nervous system components,
+657.02 meaning nerve cells that reside in the gut
+659.5 and elsewhere in the body
+that communicate to the brain
+663.26 and cross into the central nervous system
+665.96 to influence what you think
+and what you feel, okay?
+668.81 So that's the nervous
+system part of what we call
+671.32 the gut-brain axis,
+673.4 brain, again, just being a shorthand
+674.87 for including all the
+elements I just described.
+677.85 Gut, as you now know,
+679.07 includes all the elements
+of the digestive tract.
+681.56 Let's talk about the
+architecture or the structure
+684.85 of the gut of your digestive system.
+687.56 Now, not surprisingly
+your digestive system,
+690.44 aka your gut, begins at your
+mouth and ends at your anus.
+694.15 And all along its length,
+695.78 there are a series of sphincters
+698.0 that cut off certain chambers
+of the digestive tract
+701.34 from the other chambers.
+703.5 Now, also along this tube that
+we call the digestive tract,
+707.95 there's great variation
+in the degree of acidity,
+711.23 or pH as it's sometimes called.
+714.29 That variation in acidity
+turns out to give rise
+718.0 to different little microenvironments
+720.6 in which particular
+microbiota, microbacteria,
+724.32 can thrive or fail to thrive.
+727.66 And so the way I'd like you to think
+729.01 about the digestive tract,
+730.33 this gut component of the gut-brain axis,
+733.42 is that it's not just one component.
+735.66 It's not just your stomach
+with a particular acidity
+738.47 and a bunch of microorganisms
+740.36 that work particularly well
+742.44 to make you feel good
+743.59 and make your digestive
+pathways work well.
+747.11 It's a series of chambers,
+little microenvironments,
+750.38 in which particular microbiota thrive
+753.32 and other microbiota do not.
+755.82 And certain behaviors that you undertake
+758.64 and certain experiences that you have
+760.65 will adjust those
+microenvironments in ways
+763.63 that make particular
+microbiota, certain bacteria,
+766.64 more likely to thrive and
+others less likely to thrive.
+770.05 We'll talk about how that was
+set up for you early in life.
+773.23 Actually from the moment
+that you came into the world,
+775.37 that microbiome was being established.
+777.73 It was actually strongly impacted
+780.72 depending on whether or not
+you were born by C-section
+782.88 or by vaginal birth.
+785.0 And it was strongly
+impacted by who handled you
+787.95 when you came into the world,
+788.9 literally the hands that were on you.
+790.83 How much skin contact you had,
+792.6 whether or not you were
+a preemie baby or not,
+794.89 whether or not you had pets at home,
+796.21 whether or not you were
+allowed to play in the dirt,
+797.86 whether or not you were
+allowed to eat snails
+799.28 or whether or not you were kept
+800.51 in a very antiseptic environment.
+802.42 All of those experiences
+803.81 shaped these little microenvironments
+806.22 and shaped what constitutes best or worst
+809.03 for those microenvironments, okay?
+810.91 So you have this long tube that
+we call the digestive tract
+814.28 and it's very, very long.
+816.4 In fact, if we were to splay it out,
+818.63 we were to take all the curves and turns
+820.88 out of the intestine, we would
+find that it is very long.
+823.94 It's approximately nine meters long.
+826.94 Now, the structure of that digestive tract
+828.71 turns out to be very important
+830.3 in terms of gut-brain signaling.
+833.61 Once again, it's a tube
+and the hollow of that tube
+836.11 is called the lumen, L-U-M-E-N.
+839.22 But the walls of the tube
+are not necessarily smooth,
+842.47 at least not for significant portions
+844.48 of the digestive tract.
+846.14 For much of the digestive tract,
+849.04 there are bumps and
+grooves that look very much
+851.83 like the folds in the brain,
+853.15 but these bumps and grooves
+are made up of other tissues.
+856.01 They're made up of what's
+called a mucosal lining,
+857.98 so there's a lot of mucus there.
+860.12 And if we were to look really closely,
+862.4 what we'd find is that there are
+863.6 little hairy-like cellular processes
+867.17 that we call microvilli
+869.07 that are able to push things
+along the digestive tract.
+874.31 The microbiota reside
+everywhere along the lumen
+878.15 of the digestive tract,
+880.35 starting at the mouth and
+all the way to the other end.
+883.04 And they reside within those microvilli
+885.87 and they reside within the lumen.
+888.13 And if we were to look really closely
+891.14 at the bumps and grooves
+along the digestive tract,
+894.33 what we would find is that
+there are little niches,
+897.0 little areas in which particular things
+899.91 can grow and reside best.
+902.44 Now, that might sound kind of gross,
+903.68 but it actually is a good thing,
+905.37 especially what's growing
+and residing there
+908.08 are microbacterial organisms
+that are good for your gut
+912.53 and that signal good things to your brain.
+914.3 And we will talk about what
+that signaling looks like
+916.44 and how that's done and
+accomplished in just a few moments.
+919.25 But I want you to get a clear
+mental picture of your gut,
+922.32 something that we don't often see.
+923.99 And often when we think about the gut,
+925.58 again, we just think about
+the hollow of the stomach,
+927.81 food going in there, and getting digested,
+929.82 but it's far more complex
+931.15 and actually far more
+interesting than that.
+933.17 Now, I've been referring
+to the gut microbiome
+935.38 and to the microbiota and these bacteria.
+938.32 Let me define those terms a
+little bit more specifically
+940.82 just to avoid any confusion.
+943.97 The microbiota are the actual bacteria.
+946.94 The microbiome is used
+to refer to the bacteria
+950.17 but also all the genes as bacteria make,
+952.83 because it turns out that
+they make some important genes
+954.71 that actually impact all of us.
+958.46 You have loads and loads
+960.24 of these little
+microbiota, these bacteria.
+963.41 In fact, right now you
+are carrying with you
+966.06 about two to three kilograms,
+968.22 so that's more than six pounds,
+970.34 of these microbiota, these bacteria.
+973.1 And if we were to look at
+them under a microscope,
+974.9 what we would see
+975.733 is these are relatively
+simple little organisms.
+978.51 Some remain stationary
+so they might plop down
+981.47 into the mucosal lining
+982.94 or they might hang out on
+a particular microvilli
+985.45 or they might be in one
+of those little niches,
+988.17 and others can move about,
+990.15 but they basically fill the entire lumen.
+993.01 They surround and kind of coat the surface
+996.04 of the microvilli and they're tucked up
+998.57 into any of those little niches
+that are available to them
+1002.21 to tuck into.
+1004.3 If you were to take the head of a pin
+1006.85 and look at it under the microscope,
+1009.21 you could fit many, many hundreds,
+1010.95 if not thousands or more of
+these little microbacteria.
+1015.51 And the reason I say many,
+many thousands or more,
+1018.45 I'm giving a kind of broad range there,
+1020.29 is that they do vary in size
+1022.13 and, again, they vary as to
+whether or not they can move
+1023.87 or they don't move.
+1025.62 Now, they're constantly
+turning over in your gut,
+1028.07 meaning they're being born so to speak
+1030.52 and they're dying off.
+1032.67 And some will stay there
+1034.41 for very long periods
+of time within your gut
+1036.33 and others will get excreted.
+1038.13 About 60% of your stool,
+1040.95 as unpleasant as that
+might be to think about,
+1043.52 is made up of live and dead microbacteria.
+1047.73 So you're constantly making
+1049.22 and excreting these microbacteria.
+1052.25 And which microbacteria you make
+1055.34 and how many stay inside
+your gut and how many leave,
+1059.7 meaning how many are excreted,
+1062.23 depends a lot on the chemistry of your gut
+1065.33 and depends very strongly
+on the foods that you eat
+1068.76 and the foods that you do not eat.
+1070.94 Now, just because what we
+eat strongly influences
+1073.48 our microbiome, meaning our microbacteria,
+1076.97 does not mean that there
+are not other influences
+1080.51 on what constitutes our microbiome.
+1083.93 Our microbiome is also
+made up by microbacteria
+1087.48 that access our digestive
+tract through our mouth,
+1090.02 through breathing, through kissing,
+1093.83 and through skin contact.
+1096.12 In fact, one of the major
+determinants of our microbiome
+1099.7 is who we interact with
+1101.67 and the environment
+that we happen to be in.
+1104.06 And that actually includes whether or not
+1105.57 we interact with animals.
+1107.85 In a little bit, I'll talk about some data
+1110.2 as to whether or not you grew
+up in a home that had animals,
+1113.35 whether or not you grew up in the home,
+1114.52 whether or not there was
+a lot of social contact,
+1116.41 meaning skin contact,
+1118.07 or whether or not you grew up
+1119.42 in a more animal sparse,
+contact sparse environment
+1123.61 and how that shapes your microbiome.
+1125.81 But the simple point is that what you eat
+1128.37 influences your microbiome,
+but also what you do,
+1131.1 what you think, and what you feel,
+1132.4 and many of the low microbacteria
+1135.14 that get into your digestive tract
+1137.44 do so by way of social interactions.
+1139.96 In fact, if you ask a neurobiologist
+1142.55 what the role of the microbiome is,
+1144.66 they'll tell you almost certainly
+1146.99 that it's there to impact brain function.
+1150.26 But if you have friends
+that are microbiologists,
+1154.46 such as I do, they'll tell you,
+1157.66 well, maybe the brain and
+nervous system are there
+1159.76 to support the microbiome.
+1161.04 It's the other way around.
+1162.6 You have all these little microorganisms
+1164.11 that are taking residence in our body.
+1166.8 They don't really know what
+they're doing as far as we know.
+1169.48 We don't know that they have
+consciousness or they don't.
+1171.45 We can't rule that out, but
+it seems pretty unlikely.
+1173.84 Nonetheless, they are taking advantage
+1176.36 of the different environments
+1178.26 all along your digestive tract.
+1179.8 They are taking advantage
+1181.62 of the sorts of social interactions,
+1183.83 for instance, the people you talk to
+1184.957 and that breathe on you,
+1186.26 the people that you shake hands with,
+1188.01 the people that you kiss or don't kiss,
+1190.14 the people that you happen to be
+1191.15 romantically involved with or not,
+1192.89 your dog, your cat, your lizard, your rat,
+1194.93 whatever pet you happen to own
+is impacting your microbiome.
+1199.12 There's absolutely no question about that.
+1201.1 So hopefully now you have
+some sense of the architecture
+1203.52 of the digestive pathway
+1205.36 and you have some sense of the trillions
+1208.26 of little microbacteria that are living
+1210.49 all along the different components
+1212.27 of that digestive pathway.
+1214.35 But what we haven't talked about yet,
+1215.95 and what I'd like to talk about now,
+1217.63 is what those little
+microbiota are actually doing
+1221.28 in your digestive tract.
+1223.15 In addition to just living there
+1224.34 for their own intents and purposes,
+1226.35 they are contributing, for
+instance, to your digestion.
+1229.51 Many of the genes that
+those microbiota make
+1232.86 are genes that are
+involved in fermentation
+1235.33 and genes that are involved in digestion
+1237.6 of particular types of nutrients.
+1240.05 And in a little bit, we will talk
+1241.68 about how what you eat can
+actually change the enzymes
+1246.16 that those microbiome components make,
+1249.15 enzymes largely being things
+1250.76 that are responsible for digestion.
+1252.75 They catalyze other
+sorts of cellular events
+1254.83 but in the context of
+the digestive pathway,
+1256.91 we're talking about enzymes
+that help digest your food.
+1259.33 So those microbiota are indeed
+helping you in many ways.
+1262.8 And if you lack certain microbiota
+1264.46 that can help you digest,
+1266.14 it stands to reason that
+you would have challenges
+1267.93 digesting certain types of foods.
+1269.98 The other amazing thing
+that these microbiota do
+1273.54 is they change the way
+that your brain functions
+1276.73 by way of metabolizing or facilitating
+1280.05 the metabolism of particular
+neurotransmitters.
+1283.23 So one of the ways that having
+certain microbiota present
+1285.9 in your gut can improve your
+mood or degrade your mood,
+1289.82 for instance, is by way
+of certain microbiota
+1294.56 being converted into or
+facilitating the conversion
+1298.17 of chemicals, such as GABA.
+1301.02 GABA is what we call an
+inhibitory neurotransmitter.
+1304.55 It's involved in suppressing the action
+1307.53 of other neurons.
+1308.9 And that might sound like a bad thing,
+1310.81 but all types of sedatives, for instance,
+1314.11 alcohol, and a lot of neurons
+that naturally make GABA
+1317.89 can help quiet certain
+circuits in the brain,
+1319.78 for instance, circuits
+responsible for anxiety.
+1323.28 In people who have epilepsy,
+1325.28 the GABAergic neurons, as they're called,
+1327.81 can all often be disrupted
+in their signaling,
+1330.56 meaning they're not
+cranking out as much GABA
+1332.62 and therefore the excitatory neurons,
+1335.17 which typically release other
+molecules like glutamate
+1337.92 can engage in what's
+called runaway excitation
+1340.98 and that can give rise to seizures.
+1343.02 So the simple message here
+is that the microbiota
+1346.46 by way of making neurochemicals
+1348.87 can influence the way
+that your brain functions.
+1351.35 So you want to support those microbiota
+1353.04 and we will give you tools
+to support those microbiota.
+1356.83 But the takeaway at this point
+1359.31 is that those microbiota
+are making things locally
+1361.99 to help digest food.
+1363.47 Other microbiota are helping to make
+1366.08 certain neurotransmitters like GABA,
+1368.04 and we'll also talk about
+dopamine and serotonin.
+1370.59 And so the very specific
+microbiota that reside in your gut
+1374.86 have a profound influence
+1376.29 on many, many biological functions,
+1378.71 especially immune system function,
+1381.1 brain function, and digestion.
+1383.69 So that should give you
+a fairly complete picture
+1385.9 of your gut microbiome.
+1388.3 Now I'd like to talk
+about how your microbiome
+1390.72 and your brain communicate,
+1392.46 or more accurately, how your microbiome
+1394.33 and the rest of your
+nervous system communicate.
+1396.92 Neurons, which simply means nerve cells,
+1399.65 are the cells that do
+most of the heavy lifting
+1402.37 in your nervous system.
+1403.32 There are of course other
+cell types that are important.
+1405.41 Glial cell, for instance, very,
+very important cell types.
+1408.38 You have endothelial cells,
+1409.74 which are responsible for blood flow,
+1411.47 pericytes and other types of cells,
+1413.75 but the neurons are really
+doing most of the heavy lifting
+1416.68 for most of the things we think about
+1418.44 in terms of nervous system function.
+1421.41 You have neurons in your gut
+1424.21 and that should not surprise you.
+1427.15 Neurons reside in your brain,
+your spinal cord, your eyes,
+1429.94 in fact, all over your body,
+1431.76 and you've got them on your
+heart and in your heart,
+1434.07 and you've got them in your lungs,
+1436.36 and you've got them in your spleen,
+1438.26 and they connect to all
+the different organs
+1440.66 and tissues of your body.
+1442.82 So that's not surprising that
+you have neurons in your gut.
+1445.53 What is surprising, however,
+1447.24 is the presence of
+particular types of neurons
+1449.97 that reside near or in the mucosal lining
+1453.92 just next to that lumen of the gut
+1456.78 and that are paying attention,
+1458.91 and I'll explain what I
+mean by paying attention,
+1460.83 to the components of the
+gut, both the nutrients
+1464.095 and the microbiota,
+1466.74 and thereby can send signals
+1469.84 up to the brain by way of a long wire
+1473.47 that we call an axon, and can communicate
+1477.9 what the chemistry and what
+the nutritional quality
+1482.16 and what the other aspects of
+the environment are at the gut
+1484.94 at a given location up to the brain
+1487.67 in ways that can influence
+the brain to, for instance,
+1489.95 seek out more of a particular food.
+1492.64 Let me give you a sort of
+action-based picture of this.
+1495.5 Let's say like most people,
+you enjoy sweet foods.
+1499.26 I don't particularly enjoy sweet foods
+1500.88 but there are a few that I like.
+1501.95 I'm a sucker for a really
+good dark chocolate
+1505.5 or really good ice cream
+1507.36 or I got this thing for donuts
+1509.33 that seems to just not quit
+1510.86 although I don't tend to
+indulge it very often,
+1513.36 I do like them.
+1515.22 If I eat that particular food,
+1517.01 obviously digestion starts in the mouth.
+1519.47 There are enzymes there,
+it gets chewed up,
+1521.07 the food goes down into the gut.
+1523.55 These neurons are activated,
+1527.29 meaning that causes the neurons
+to be electrically active
+1530.83 when particular components,
+1532.48 certain nutrients in
+those foods are present.
+1535.39 And for the cell types,
+1537.3 or I should say the neuron
+types that matter here,
+1540.58 the nutrients that really
+trigger their activation
+1543.47 are sugar, fatty acids,
+1546.06 and amino acids.
+1548.42 Now, these particular neurons
+1550.33 have the name enteroendocrine cells
+1553.21 but more recently they've been
+defined as neuropod cells.
+1557.46 Neuropod cells were discovered
+1558.63 by Diego Bohorquez's
+lab at Duke University.
+1562.28 This is a phenomenal set of discoveries
+1563.89 made mostly in the last 10 years.
+1566.37 These neuropod cells, as I mentioned,
+1568.76 are activated by sugar,
+fatty acids, or amino acids,
+1572.57 but have a particularly
+strong activation to sugars.
+1577.43 They do seem to be part of
+the sweet sensing system.
+1580.43 And even though I'm focusing
+on this particular example,
+1582.97 they represent a really nice example
+1585.72 of how a particular set
+of neuro cells in our gut
+1589.41 is collecting information
+about what is there
+1591.9 at a particular location in the gut,
+1593.46 and sending that
+information up to our brain.
+1596.05 Now, they do that by
+way of a nerve pathway
+1599.26 called the vagus nerve.
+1600.95 The vagus nerve is part of
+the peripheral nervous system.
+1603.24 And the vagus nerve is a
+little bit complex to describe
+1606.42 if you're just listening to this.
+1608.27 If you are watching this,
+1609.49 I'll try and use my hands as a diagram
+1611.61 but really the best thing to do
+1613.34 if you want really want
+to learn neuroanatomy
+1615.65 is to just imagine it in
+your mind as best you can
+1618.08 and if you can track down
+a picture of it, terrific,
+1619.89 but here's how it works.
+1621.84 Neurons have a cell body
+that we call a soma,
+1624.13 that's where all the DNA are contained.
+1627.45 That's where a lot of
+the operating machinery
+1629.77 of the cells are contained
+1631.33 and a lot of the
+instructions for that cell
+1633.34 of what to be and how to
+operate are contained.
+1636.36 The cell bodies of these
+neurons or the relevant neurons
+1640.1 are actually up near the neck.
+1642.09 So you can think of them
+as a clump of grapes,
+1645.33 'cause cell bodies tend
+to be round or oval-ish.
+1648.37 And then they send a
+process that we call an axon
+1652.84 in one direction out to the gut
+1656.46 and they'll send another
+process up into the brain.
+1660.54 And that little cluster near the neck
+1662.58 that's relevant here is called
+1663.907 the nodose ganglion, N-O-D-O-S-E.
+1667.38 The nodose ganglion is a
+little cluster of neurons
+1670.18 on either side of the neck.
+1671.89 It has a process that goes out to the gut
+1673.267 and a process that goes up into the brain.
+1675.387 And again, these are just one component
+1677.84 of the so-called vagus nerve.
+1680.75 The vagus nerve has many, many branches,
+1682.78 not just to the gut.
+1683.85 There are also branches to the liver,
+1686.42 branches to the lungs,
+1687.47 branches to the heart,
+branches to the larynx,
+1690.47 and even to the spleen,
+1691.99 and other areas of the
+body that are important.
+1694.9 But right now we're just
+concentrating on the neurons
+1696.74 that are in the gut that
+signal up to the brain.
+1699.24 And what the Bohorquez lab has shown
+1702.59 is that these neuropod
+cells are part of network.
+1705.76 They're sensing several
+different nutrients,
+1708.32 but in particular, when they sense sugar,
+1710.33 they send signals in the
+form of electrical firing
+1714.2 up to the brain in ways
+that trigger activation
+1717.13 of other brain stations that
+cause you to seek out more
+1720.94 of that particular food.
+1723.18 Now, this brings us to
+some classic experiments
+1725.62 that at least to me are incredible.
+1728.44 And these are highly reproducible findings
+1730.77 showing, for instance,
+1732.2 that even if you bypass taste
+1734.94 by infusing sweet liquid
+1737.96 or putting sweet foods into the gut,
+1741.74 and people can never taste
+them with their mouth,
+1744.51 people will seek out more
+of that particular food.
+1747.81 And if you give them the option
+1749.32 to have a sweet food
+infused into their gut
+1753.92 or a bitter food infused into their gut
+1756.87 or a sweet versus sour,
+1759.17 or a more sweet versus less sweet food,
+1761.8 people have a selective
+preference for sweet foods
+1765.21 even if they can't taste them.
+1767.33 Now, this is important to understand
+1768.91 in the context of gut-brain signaling
+1770.45 because we always think
+that we like sweet foods
+1773.08 because of the way they taste.
+1774.8 And indeed that's still true,
+1777.15 but much of what we consider
+the great taste of a sweet food
+1781.49 also has to do with a gut sensation
+1783.77 that is below our conscious detection.
+1786.38 How do we know that?
+1787.52 Well, the Bohorquez lab
+has performed experiments
+1791.04 using modern methods and
+they're classic experiments
+1793.33 showing that animals and humans
+1795.34 will actively seek out more
+of a particular sweet food
+1798.96 even if it bypasses this taste system.
+1801.79 And the reverse is also true.
+1804.06 There have been experiments
+done in animals and in humans
+1807.28 that have allowed animals or humans
+1809.55 to select and eat sweet foods,
+1811.78 and indeed that's what they do
+if they're given the option.
+1816.0 And yet to somehow eliminate
+the activation of these neurons
+1820.73 within the gut that can sense sweet foods.
+1823.7 Now, there are a couple different ways
+1824.75 that those experiments ave been done.
+1826.24 In classic experiments
+that date back to the '80s,
+1829.47 this was done by what's called
+subdiaphragmatic vagotomy.
+1832.52 So this means cutting off
+the branch of the vagus
+1834.69 that enervates the gut below the diaphragm
+1837.2 so that the other organs
+can still function
+1838.96 because the vagus is very important,
+1840.65 but basically cutting off
+the sweet sensing in the gut,
+1843.46 still giving people the
+opportunity to taste sweet foods
+1845.75 with their mouth,
+1846.583 and they don't actively seek out
+1848.49 quite as much of the sweet food
+1850.53 when they don't have this
+gut sensing mechanism
+1852.83 that we now know to be dependent
+on these neuropod cells.
+1857.06 More recent experiments
+involve selective silencing
+1859.6 of these neuropod cells.
+1861.17 And there have been a lot
+of different derivations
+1862.95 of this sort of thing,
+1863.94 but the takeaway from it
+is that our experience of
+1867.04 and our desire for particular foods
+1869.07 has everything to do with
+how those foods taste.
+1871.5 It also has to do, as you probably know,
+1873.84 with their texture and the
+sensation of those foods
+1877.67 in our mouth, and even indeed
+how they go down our throat
+1880.69 sometimes can be very
+pleasing or very unpleasant.
+1884.41 And it also has to do with
+this subconscious processing
+1888.22 of taste that occurs in the gut itself.
+1891.92 And again, when I say gut, I
+don't just mean in the stomach.
+1894.12 There are actually
+neurons, neuropod cells,
+1897.31 further down your digestive tract
+1899.07 which are signaling to your brain
+1900.91 about the presence of sweet foods,
+1902.44 as well as foods such
+as amino acid rich foods
+1906.11 or foods that are rich in
+particular types of fatty acids
+1909.43 signaling up to your brain
+1911.74 and causing you to seek
+out more of those foods
+1914.85 or to consume more of those foods.
+1917.2 Now, you're probably
+asking, what is the signal?
+1919.33 How does it actually make
+me want more of those foods
+1921.93 without me realizing it?
+1923.33 Well, it does that by
+adjusting the release
+1925.39 of particular neuromodulators.
+1927.84 For those of you that are not
+familiar with neuromodulators,
+1930.23 these are similar to neurotransmitters,
+1931.79 but they tend to act more broadly.
+1933.8 They tend to impact many
+more neurons all at once
+1936.27 and they go by names
+like dopamine, serotonin,
+1939.03 acetylcholine, epinephrine, and so forth.
+1941.67 Sometimes people refer to
+those as neurotransmitters.
+1944.18 Technically they are neuromodulators.
+1945.89 I'll refer to them almost
+always as neuromodulators.
+1948.87 The neuropod cells signal by way
+1951.53 of a particular branch of the vagus
+1953.92 through that nodose ganglion
+that we talked about before
+1956.99 and through a number of different stations
+1959.77 in the brain stem,
+1960.88 eventually cause the release
+of the neuromodulator dopamine.
+1966.02 Dopamine is often associated
+1968.04 with a sense of pleasure and reward
+1969.81 but it is more appropriately
+thought of as a neuromodulator
+1973.25 that impacts motivation,
+craving, and pursuit.
+1975.85 It tends to put us into modes of action,
+1977.87 not necessarily running
+and moving through space,
+1980.62 although it can do that too,
+but in the context of feeding,
+1983.39 it tends to make us look around more,
+1987.02 chew more, reach for things more,
+1989.14 and seek out more of whatever it is
+1990.75 that's giving us that sensation
+1993.07 of delight or satisfaction.
+1995.75 And again, that sense of
+delight and satisfaction,
+1998.64 you might experience only consciously
+2001.0 as the way that something
+tastes on your mouth
+2003.31 but it actually is caused again
+2005.24 by both the sensations in your mouth
+2007.85 but also by the activation
+of these neuropod cells.
+2011.12 So this is an incredible
+system of gut-brain signaling,
+2014.15 and it is but one system
+of gut-brain signaling.
+2016.74 It turns out it's the system
+that we know the most about
+2019.78 at this point in time.
+2021.17 There are other components
+of gut-brain signaling
+2023.19 that we'll talk about in
+a moment, for instance,
+2024.84 the serotonin system.
+2026.9 But in terms of examples
+of gut-brain signaling
+2029.47 for which we know a lot
+of the individual elements
+2031.85 and how they work,
+2032.87 I think this neuropod, neuron
+sensing of sweet foods,
+2037.33 fatty acids, and amino acids in the gut
+2039.47 and communicating that up to the brain
+2042.36 by way of the vagus and causing us
+2044.11 to seek out more of the foods
+2045.43 that deliver those nutrients
+is an incredible pathway
+2048.89 that really delineates
+the beauty and the power
+2051.38 of this gut-brain axis.
+2053.29 Let me talk about timescales.
+2054.57 Here I'm talking about a
+particular type of neuron
+2057.28 that is signaling up to the
+brain using electrical signals
+2060.94 to cause us to want to seek out
+2063.08 a particular category of foods.
+2066.8 That's happening relatively fast
+2068.8 compared to the hormone
+pathways of the gut
+2071.11 which also involve neurons.
+2072.64 So your gut is also
+communicating to your brain
+2075.13 by way of neurons, nerve cells.
+2078.61 But some of those nerve
+cells also release hormones.
+2081.96 And those hormones go by names like CCK,
+2084.33 glucagon-like peptide 1, PYY, et cetera.
+2089.1 A good example of a hormone pathway,
+2091.73 or what's sometimes called
+a hormone peptide pathway,
+2094.46 that is similar to the pathway
+I've talked about before
+2098.21 but a little bit slower
+is the ghrelin pathway.
+2101.77 Ghrelin, G-H-R-E-L-I-N,
+2104.87 increases with fasting.
+2107.66 So the longer it's been
+since you've eaten,
+2110.14 or if you're just eating very little food
+2112.24 compared to your caloric needs,
+2114.06 ghrelin levels are going to
+go up in your bloodstream
+2116.4 and they go up because of processes
+2118.77 that include processes within the gut
+2121.18 and include the nervous system.
+2122.94 So it's a slow pathway driving you
+2124.87 to seek out food generally.
+2127.09 As far as we know, the
+ghrelin system is not partial
+2130.12 to seeking out of sweet foods
+or fatty foods or so on.
+2135.59 Ghrelin increases the longer it's been
+2138.55 since you've eaten sufficient calories
+2140.61 and it stimulates a feeling of
+you wanting to seek out food.
+2144.17 Well, how does it do that?
+2146.03 It does that again by
+impacting neural circuits
+2148.32 within the brain, neural
+circuits that include
+2150.72 what we call the brain
+stem autonomic center.
+2152.85 So it tends to make you feel alert
+2154.91 and quite, we say, high
+levels of autonomic arousal.
+2158.52 If you haven't eaten in a while,
+2159.97 you might think that you just
+get really exhausted, right?
+2162.2 Because we all hear that food is energy
+2163.9 and caloric energy is
+what we need to burn,
+2165.99 but you actually have a lot
+of energy stored in your body
+2168.4 that you would be able to use
+2170.66 if you really needed energy.
+2172.85 But typically if we
+haven't eaten in a while,
+2174.38 we start to get agitated
+2175.88 and we get agitated by way way of release
+2177.79 of the neuromodulator epinephrine,
+2180.05 which causes us to look
+around more, move around more,
+2182.95 and seek out food.
+2185.13 That all occurs in brain
+stem autonomic centers
+2187.54 and in the hypothalamus.
+2188.58 We did an entire episode
+on feeding behavior
+2190.96 and metabolism as well
+2192.67 and you can find those
+episodes at hubermanlab.com
+2194.79 so I don't want to go into a lot of detail
+2196.47 about hypothalamic and
+brains stem centers.
+2198.71 But there's a particular area of the brain
+2200.8 called the nucleus of the solitary tract,
+2203.27 the NST as it's called,
+that's very strongly impacted
+2206.74 by these circulating hormones
+2208.28 and tends to drive us
+toward feeding behavior.
+2210.73 So the important point here
+is that we have a fast system
+2213.96 that is paying attention
+to the nutrients in our gut
+2216.09 or the absence of nutrients in our gut,
+2217.71 and stimulating us to seek out food
+2219.6 or to stop eating certain foods,
+2221.35 and we have a slower
+hormone-related system
+2224.71 that also originates in the
+gut and impacts the brain.
+2227.54 But all of those converge on
+neural circuits for feeding.
+2232.36 The neural circuits for feeding
+2233.52 include things like the arcuate
+nucleus of the hypothalamus,
+2235.87 they include a bunch of
+other neurochemicals,
+2238.05 but the point is that
+you've got a fast route
+2240.44 and a slow route to drive
+you to eat more or eat less,
+2244.8 right, to seek out food and
+consume it or to stop eating,
+2248.79 to essentially kickstart
+the satiety mechanisms
+2252.49 as they're called,
+2253.74 and those are operating in parallel.
+2255.83 It's not like one happens first
+2257.2 then stops then the other.
+2258.07 They're always operating in parallel.
+2259.67 And I bring this up because
+there's a bigger theme here
+2262.06 which we see over and
+over again in biology,
+2264.28 which is the concept of parallel pathways.
+2266.17 You've always got multiple
+accelerators and multiple brakes
+2269.21 on a system.
+2270.043 It's very, very rare to
+have just one accelerator
+2272.2 and one brake on the system.
+2273.61 And this will become important later
+2274.93 when we talk about tools for
+optimizing your gut microbiome
+2278.3 for healthy eating and for
+health healthy digestion
+2280.61 and for healthy brain function.
+2282.07 I want to take a moment and talk
+2283.21 about glucagon-like peptide 1,
+2285.88 which is also called GLP-1.
+2289.895 GLP-1 is made by neurons in the gut
+2293.8 and by neurons in the brain.
+2295.693 This is a fairly recent discovery
+2298.73 but it's an important one.
+2300.3 GLP-1 tends to inhibit feeding
+2304.21 and tends to reduce appetite.
+2307.63 There are a number of drugs
+released on the market now,
+2311.84 one for instance goes
+by the name semaglutide,
+2314.81 which is essentially an GLP-1 agonist.
+2318.28 It causes the release of more GLP-1.
+2320.42 It's being used to treat type II diabetes,
+2322.6 which is insulin resistant diabetes.
+2324.42 This is different than type I diabetes
+2326.36 where people don't actually make insulin.
+2328.79 It's also being used as
+a drug to reduce obesity.
+2334.02 And it seems pretty effective
+2335.61 at least in certain populations.
+2337.94 There are certain foods and
+substances that increase GLP-1.
+2341.22 I've talked about a few
+of these on the podcast.
+2343.32 One that I'm a particular fan
+of for entirely other reasons
+2346.04 is yerba mate tea can
+stimulate the release of GLP-1.
+2350.62 In South America, it's often used
+2352.01 as an appetite suppressant,
+2353.28 probably in large part
+2354.41 because of its effect on GLP-1 release,
+2357.84 but probably also because
+it does contain caffeine,
+2360.4 which is a bit of a stimulant,
+2361.53 which also can be involved in lipolysis,
+2363.32 which is the utilization of fat stores
+2364.97 for energy and so forth.
+2367.4 A brief mention about yerba mate.
+2369.95 There are some reports
+out there that yerba mate
+2372.69 can increase certain types of cancers.
+2375.28 The data that I've seen on this
+2377.87 is that it tends to
+relate to whether or not
+2379.76 those are smoked versions
+of the yerba mate tea,
+2382.5 the amount of consumption,
+2384.37 and the debate is still out.
+2385.72 So I invite you to look at those papers.
+2387.37 You can search for those online.
+2390.81 Nonetheless, yerba mate is one
+source of GLP-1 stimulation.
+2395.2 Semaglutide is another source.
+2396.75 It also can be stimulated
+by various foods, nuts,
+2399.12 avocados, eggs, and so forth.
+2401.92 Certain high fiber complex grains
+2404.3 will also stimulate GLP-1.
+2406.74 I raise this as not necessarily a route
+2409.94 that you want to take in
+order to reduce food intake.
+2412.71 I don't even know that that's your goal.
+2414.56 But that GLP-1 is another one
+2418.62 of these gut-to-brain signaling mechanisms
+2420.69 that adjusts appetite
+that is dependent on diet,
+2424.55 depends on what you eat or drink,
+2426.78 and that the GLP-1 pathway
+2428.8 does seem particularly sensitive
+2430.65 to the constituents of diet.
+2432.68 There's at least one quality study
+2434.45 I was able to find showing
+2435.45 that the ketogenic diet for instance,
+2437.51 which almost always involves ingestion
+2440.4 of very low levels of carbohydrate
+2442.27 can increase GLP-1.
+2444.14 Although, as I mentioned before,
+2445.26 there are other foods that fall
+2446.49 outside the range of what
+we would consider ketogenic
+2449.37 that can also stimulate GLP-1,
+2450.92 and as I mentioned,
+2451.753 there are prescription
+drugs, like semaglutide,
+2454.01 there are other ones as well now,
+2455.28 that stimulate GLP-1.
+2457.51 So how does GLP-1 reduce appetite?
+2459.5 It does that, in part, by
+changing the activity of neurons
+2462.81 in the hypothalamus,
+2463.643 this cluster of neurons just
+above the roof of our mouth,
+2466.92 that themselves make GLP-1
+2469.74 and that cause the
+activation of motor circuits
+2472.92 for reaching, chewing, all the things
+2475.563 that we associate with feeding behavior.
+2478.07 So I use GLP-1 as an example of a pathway
+2480.39 that you might choose to tap into
+2482.04 by ingestion of yerba mate
+2483.5 or by ingestion of the foods I mentioned,
+2485.23 or if it's something that
+interests you, ketogenic diet.
+2488.09 But I also mention it simply
+2490.11 because it's another beautiful example
+2492.66 of how a hormone pathway
+can impact the activity
+2495.45 of brain circuits that
+are directly involved
+2497.6 in a particular behavior.
+2499.4 So yet another example of how
+gut is communicating to brain
+2503.58 in order to change what we think we want
+2506.45 or to change what our
+actual behaviors are.
+2509.1 So the next time you find
+yourself reaching for food,
+2511.43 or you find yourself wanting
+a particular sweet thing
+2515.44 or fatty thing or something that contains
+2518.15 a lot of amino acids,
+2519.55 a protein rich food,
+2521.67 keep in mind that that's not just
+2523.23 about the taste of the food,
+2524.62 and it's not even necessarily
+about the nutrients
+2526.69 that you need or don't need.
+2528.41 It could be,
+2529.243 but it's also about this
+subconscious signaling
+2531.5 that's coming from your body all the time,
+2533.4 waves of hormones, waves
+of nerve cell signals,
+2537.53 electrical signals that
+are changing the way
+2539.67 that your brain works.
+2541.47 And this raises for me
+2543.17 a memory of the episode that I
+did with Dr. Robert Sapolsky,
+2547.84 who's a world expert
+colleague of mine at Stanford,
+2550.54 who is expert on things
+like hormones and behavior.
+2554.23 But we got into the topic of free will,
+2556.37 which is a bit of a barbed wire topic
+2558.53 as many of you know.
+2559.363 It gets into the realm
+of philosophy, et cetera.
+2561.147 And we were kind of batting back and forth
+2563.34 the idea, I was saying, "Well,
+I think there's free will,
+2566.95 and can't there certainly be free will
+2568.78 or certainly the idea that we
+can avoid certain choices?"
+2573.02 And Robert was saying, "No."
+2575.94 In fact, he said, "Nah,"
+he doesn't believe
+2578.76 that we have any free will.
+2579.85 He thinks that events in
+our brain are determined
+2583.04 by biological events that are
+below our conscious detection
+2586.81 and that occur seconds to milliseconds
+2589.08 before we make decisions or assessments
+2591.28 and, therefore, we just
+can't control what we do,
+2594.54 what we think, and what we feel.
+2596.37 And at the time I sort of didn't buy it.
+2599.08 I thought, I don't know.
+2600.51 I just, I guess I really
+wanted to believe in free will.
+2603.28 And to some extent I still do
+2605.04 but as we talk about how
+these neurons in our gut
+2607.377 and these hormones in our
+gut are influencing our brain
+2610.65 and the decisions that we are making,
+2612.34 at the level of circuits,
+like the hypothalamus
+2614.69 and the nucleus of the solitary tract,
+2616.56 these are areas of the brain
+way below our frontal cortex
+2619.67 and our conscious perception.
+2622.05 Think these are examples that really fall
+2623.78 in favor of what Dr. Sapolsky was arguing,
+2626.95 which is that events that
+are happening within our body
+2629.65 are actually changing
+the way our brain works.
+2631.2 So we might think that
+we want the cupcake.
+2633.26 We might think that we
+don't need to eat something
+2636.83 or do need to eat something
+2638.17 and that is entirely on the
+basis of prior knowledge
+2641.7 and decision-making that
+we're making with our head,
+2644.05 but in fact,
+2644.94 it's very clear to me based on the work
+2647.07 from the Bohorquez lab,
+2648.45 classic work over the years
+dating back to the '80s,
+2651.0 and indeed back to the '50s
+2652.21 that we'll talk about in a moment,
+2653.72 that our body is shaping the decisions
+2656.43 that our brain is making and
+we're not aware of it at all.
+2659.63 Now, the good news is that
+whether or not you believe
+2661.9 in free will or not, the simple knowledge
+2664.12 that this whole process is happening
+2666.34 can perhaps be a benefit to you.
+2667.93 You can perhaps leverage
+it to get some insight
+2671.11 and understanding and perhaps even a wedge
+2672.84 into your own behavior.
+2673.7 You might think, ah, I think
+I want that particular food,
+2677.18 or I think I want to avoid
+that particular food,
+2679.54 but actually that's not a decision
+2681.95 that I'm making on a
+purely rational basis.
+2684.2 Has a lot to do with what
+my gut is telling my brain.
+2687.03 So we've largely been talking
+about chemical communication
+2690.16 between the gut and the brain.
+2691.77 Chemical because even
+though these neuropod cells
+2695.63 are communicating with the brain
+2697.04 by way of electrical activity,
+2699.08 what we call action potentials,
+2700.66 and in neural language
+we call those spikes,
+2703.4 spikes of action potentials,
+2706.58 spikes of action potentials,
+2709.4 meaning those neural signals,
+2710.63 cause the release of chemicals
+in the brain like dopamine.
+2715.45 So it's chemical transmission.
+2718.55 Similarly, hormones, even
+though they act more slowly,
+2721.41 hormones like neuropeptide
+Y like CCK, like ghrelin,
+2726.0 they are signaling chemically.
+2728.07 They're moving through the body,
+2730.14 they're going in there
+affecting the chemical output
+2732.99 of different cells,
+2734.17 and they're changing the
+chemistry of those cells
+2735.937 and the chemistry of the cells
+that those cells talk to.
+2738.65 So that gives us one particular
+category of signaling
+2741.62 from gut to brain, which
+is chemical signaling.
+2744.94 But of course there are
+other forms of signals
+2747.56 and those fall under the
+category of mechanical signaling.
+2751.55 You're probably familiar with this.
+2752.87 If you've ever eaten a very large meal
+2754.84 or consumed a lot of fluid,
+2756.74 you experience that as
+distension of the gut
+2759.25 and that doesn't just have to
+be distension of the stomach,
+2762.36 but distension of your intestines as well.
+2766.1 That distension is registered by neurons
+2768.29 that reside in your gut,
+2769.91 the signals go up to your brain,
+2771.25 and communicate with areas of the brain
+2772.82 that are responsible for suppressing
+2774.92 further consumption of food and/or fluid,
+2777.74 and, under certain circumstances,
+2780.2 can also be associated with the activation
+2782.94 of neural circuits that cause vomiting
+2784.82 or the desire to vomit.
+2786.07 So if ever you've eaten too
+much or you've eaten something
+2788.87 that doesn't agree with you,
+2790.29 that information is communicated
+2792.54 by way of mechanosensors
+2793.97 that sense the mechanics of your gut,
+2796.21 possibly also the chemistry of your gut,
+2797.91 but mostly the mechanics of your gut,
+2800.01 signal up to the brain,
+2801.52 and activate brain
+centers that are involved
+2803.63 in stopping the eating behavior,
+2806.68 and activation of an
+area of the brain stem
+2810.49 that is affectionately referred to
+2812.34 as the vomit center among neuroanatomists.
+2815.09 This is a area that more appropriately
+2817.83 is called the chemoreceptor
+trigger zone, the CTZ,
+2820.84 or area postrema
+2822.07 and neurons in this area
+actually will trigger
+2824.84 the vomiting reflex.
+2826.82 So the way that the gut
+and the brain communicate
+2830.13 is both chemical and mechanical,
+2832.0 and it can be both for sake
+2833.45 of increasing certain types of behavior.
+2836.97 Today, we're talking mainly
+about feeding behavior
+2838.8 up until now anyway
+2840.47 but also ceasing to
+eat, closing your mouth,
+2844.01 moving away from food,
+turning away from food,
+2846.86 all behaviors that we're familiar with
+2848.31 anytime we feel kind of sick
+2849.61 on the basis of activation
+of this mechanosensor
+2853.5 for gastric distress.
+2855.54 So we've got chemical signaling
+and mechanical signaling.
+2858.39 And I also want to emphasize that we have
+2860.49 direct and indirect signaling
+from the gut to the brain.
+2864.07 Direct signaling is the kind of signaling
+2866.28 of the sort I've been talking
+about mainly up until now,
+2868.76 which is neurons in the gut
+2871.4 communicating with
+neurons in the brain stem
+2873.19 that communicate with
+neurons in the hypothalamus.
+2875.41 And, of course, those are
+also going to interact
+2877.38 with neurons of the prefrontal cortex
+2879.5 which is the area of a brain
+involved in decision making
+2881.61 the, you know, I think it was
+the shrimp that made me sick.
+2885.26 I'm going to, I just don't
+want any more of that.
+2887.35 Or I'm never going back
+to that restaurant again
+2890.17 because after I ate there
+about an hour later,
+2893.0 I started feeling really not well.
+2894.61 I felt, you know, kind of feverish,
+2895.99 but my gut didn't feel well,
+2897.09 my digestion was really off.
+2899.14 All of that kind of information
+2900.31 is handled in the prefrontal
+cortex at a conscious level,
+2903.76 but the immediate decision to stop eating
+2906.03 or to eat more of something
+to move towards something
+2908.3 or away from it, that's
+made by neural circuits
+2910.43 that reside at the, we would say,
+2912.73 the subconscious level
+2914.19 but what we really mean is below
+the level of the neocortex.
+2916.86 Below the cortex means
+essentially below our level
+2919.73 of conscious awareness.
+2921.03 So we talked about two types
+of information within the gut
+2923.7 that are communicated to the brain,
+2925.35 chemical information, meaning information
+2927.34 about the nutrients
+that happen to be there,
+2929.13 and mechanical information,
+2929.963 distention of the gut or lack
+of distention and so forth.
+2933.44 And we talked about how
+these neuropod cells
+2935.59 can signal the release
+of dopamine and circuits
+2937.46 within the brain to cause you
+to seek out more of something.
+2940.61 Now, in a very logically consistent way,
+2944.7 dopamine is also involved in
+the whole business of vomiting.
+2948.83 You might think, well, that
+doesn't make any sense.
+2950.39 I thought dopamine was
+always a good thing.
+2952.14 It's involved in moderation
+and reward, et cetera.
+2954.81 But it turns out the area postrema,
+2956.58 this vomit center in the brain stem,
+2959.49 is chockablock full of dopamine receptors.
+2962.13 And if dopamine levels go too high,
+2964.73 it can actually trigger vomiting.
+2966.41 And this we see in the
+context of various drugs
+2969.52 that are used to treat
+things like Parkinson's.
+2971.62 Parkinson's is a deficiency in dopamine
+2974.053 or a lack of dopamine neurons typically
+2976.17 that causes a resting tremor,
+2977.49 difficulty in movement,
+2978.64 because dopamine's also associated
+2980.0 with a lot of the neural
+circuits for movement.
+2983.19 Many drugs that are used
+to treat Parkinson's
+2986.01 like L-DOPA increase
+levels of dopamine so much,
+2989.92 or at least activate dopamine receptors
+2992.88 to such a great degree in
+certain areas of the brain
+2995.95 that they can cause activation of things
+2998.41 like the trigger to vomit.
+3001.75 Now, this should also make
+sense in the natural context
+3004.24 of if you gorge yourself with food,
+3005.82 gorge yourself with food,
+gorge yourself with food,
+3008.14 the neurons in your gut
+that respond to that
+3011.22 are simply detecting the
+presence of nutrients
+3013.54 but they don't really
+make decisions themselves.
+3016.38 They don't know to stop eating.
+3018.14 Your brain knows to stop
+eating or to eject that food.
+3021.25 And so it's a wonderful
+thing that those neurons
+3023.61 are communicating with areas of the brain
+3025.61 not just that stimulate
+consuming more food
+3027.93 but that are communicating
+with areas of the brain,
+3031.12 for instance, area postrema,
+3032.78 that when dopamine levels get too high,
+3035.97 cause us to either stop eating that food
+3038.86 or in the case of vomiting
+to eject that food.
+3041.95 So I raise this not to give you
+3044.39 a kind of a disgusting counterexample
+3046.77 to what we call appetitive behaviors,
+3049.04 the things that we like to do more of,
+3051.12 but simply to give you a
+sense of just how strongly
+3054.49 even these reflexes that we think of
+3056.38 as feeling sick and vomiting
+3058.27 or the desire to seek out more food
+3060.26 are really being controlled
+by a kind of push-pull system,
+3063.23 by parallel pathways that
+are arriving from our gut
+3065.47 and the same neurochemicals,
+in this case dopamine,
+3068.19 are being used to create
+two opposite type behaviors,
+3072.19 one behavior to consume more,
+3073.75 one behavior to get rid of everything
+3075.24 you've already consumed.
+3076.51 So our brain is actually sensitive
+3078.64 to the amount of signaling
+coming from our gut
+3081.44 not just the path by
+which that signal arrives.
+3085.04 Our brain is very
+carefully paying attention
+3088.87 to whether or not the levels of dopamine
+3090.45 that are being triggered
+are within a normal range
+3092.91 for typical eating behavior
+3094.26 or whether or not we've gorged ourselves
+3095.74 to the point where enough already.
+3097.67 Now, of course, mechanical signals
+3100.06 will also play into area postrema
+3103.75 and into the vomiting reflex.
+3105.02 If we have a very distended gut,
+3106.44 we feel lousy.
+3107.3 It just, it actually can hurt very badly,
+3109.53 and we will have the desire to vomit,
+3111.53 or we will just simply vomit.
+3114.96 Mechanical and chemical signals
+3116.59 are always arriving in parallel.
+3118.38 They never work in unison.
+3120.98 And so now we have chemical
+signals, mechanical signals,
+3124.7 and now I'd like to talk about
+direct and indirect signals
+3127.61 because almost everything
+I've talked about up until now
+3130.64 are direct signals, a neural
+pathway that converges
+3133.01 in the brain to create
+a particular feeling,
+3134.7 thought, or behavior,
+3135.95 but there are also indirect pathways.
+3138.32 And that's what takes us
+back to the gut microbiome
+3141.27 and to these little microbiota.
+3142.91 And to just give you the takeaway
+message at the front here
+3146.23 and then I'll give you
+a little more detail
+3148.41 as to how it comes about,
+3150.8 you have neurotransmitters in your brain
+3153.87 and in your spinal cord and in your eyes
+3155.58 and in your peripheral nervous system.
+3157.27 They cause the activation
+or the suppression
+3159.85 of nerve activity,
+3161.13 meaning they either electrically
+activate other nerve cells
+3164.1 or they cause other nerve cells
+3165.29 to be less electrically active.
+3166.96 And they do that by way
+of neurotransmitters.
+3170.15 But as it turns out,
+3171.56 the gut microbiota are capable
+3173.95 of influencing metabolic events
+3175.78 and in some cases are capable
+3177.4 of synthesizing
+neurotransmitters themselves.
+3180.23 So what that means is
+that these little bugs,
+3182.54 these little microbiota
+that are cargo in your gut,
+3185.16 the six pounds of cargo,
+3186.79 they actually can make neurochemicals
+3188.58 that can pass into the bloodstream
+3190.55 and into your brain and actually impact
+3192.48 the other cells of your
+body and brain indirectly,
+3195.57 so without involving these
+very intricate nerve pathways
+3198.13 that we've been talking about.
+3199.74 In other words, the foods you eat,
+3203.49 the environment of your gut microbiome,
+3205.8 can actually create
+the chemical substrates
+3207.95 that allow your brain to
+feel one way or the other,
+3210.36 to feel great or to feel lousy,
+3212.2 to seek out more of a
+particular type of behavior
+3214.95 or to avoid that behavior.
+3216.36 And that would constitute
+indirect signaling.
+3218.8 So I've been talking a lot
+about the structure and function
+3221.36 of the gut-to-brain pathway,
+3223.03 focusing mainly on feeding behaviors
+3225.88 and in some cases avoiding
+feeding or even ejecting food
+3229.14 from the digestive tract,
+3231.07 I'd like to drill a little bit deeper
+3232.79 into this indirect signaling pathway
+3235.16 from the gut to the brain
+3236.36 because it bridges us
+nicely from neuronal signals
+3240.08 in the gut to the brain,
+3241.5 hormonal signals from
+the gut to the brain,
+3244.07 to what also includes the microbiome,
+3246.57 which is what we started talking about
+3248.07 at the beginning of the episode.
+3250.77 As I mentioned a couple of minutes ago,
+3254.27 certain gut microbiota
+can actually synthesize
+3257.01 certain neurotransmitters
+that can go impact the brain.
+3259.71 And we actually have some
+knowledge about which microbiota
+3262.92 can synthesize particular
+neurotransmitters.
+3265.24 For instance, the neuromodulator dopamine
+3268.24 can be synthesized
+3269.36 by or from bacillus and serratia.
+3274.09 Now, these are just names of microbiota.
+3276.3 I don't expect that any of you
+3277.75 would necessarily recognize them.
+3279.11 These aren't the sorts of
+things that you necessarily
+3280.59 would run out and buy
+to get more dopamine.
+3283.19 But the point is that
+particular gut microbiota
+3287.24 can create dopamine in our gut
+3289.79 that can get into our bloodstream
+3291.35 and can generally change our
+baseline levels of dopamine
+3295.15 within the brain and
+other areas of the body.
+3298.21 I mentioned baseline levels of dopamine
+3300.04 because as I talked about on
+an episode all about dopamine
+3303.53 but I'll just repeat the basics here now,
+3307.17 we have baseline levels
+3308.56 of transmitters or neuromodulators
+3310.99 that act as sort of the level of the tide,
+3313.63 the overall level,
+3314.94 and then we can have peaks of dopamine
+3316.88 that are created by behaviors
+3318.44 or by ingestion of particular
+foods or drugs, et cetera.
+3321.71 So bacillus and serratia tend to increase
+3325.42 our baseline levels of dopamine.
+3328.15 So if it turns out that we are creating
+3330.9 the right gut microbiome environment
+3333.81 that these particular gut
+microbiota can thrive in,
+3338.01 well, then our baseline levels
+of dopamine will be elevated
+3341.4 and in general, that leads
+to enhancement of mood.
+3344.9 Similarly, there are other gut microbiota,
+3348.63 for instance, candida,
+streptococus, various enterococcus,
+3353.29 these always have these kind of strange
+3354.98 and not so attractive
+names, at least to me
+3357.09 as a neurobiologist.
+3358.44 Nonetheless, those particular microbiota
+3361.86 support the production of
+or can even be metabolized
+3365.6 into serotonin, which is a neuromodulator
+3368.85 associated with mood,
+with social interactions,
+3372.02 with a huge number of different types
+3374.0 of events and behaviors.
+3375.81 Again, these gut microbiota when present
+3380.24 and allowed to thrive in our gut
+3382.03 will increase our overall
+levels of serotonin
+3385.67 and riding on top of
+that level of serotonin
+3389.02 will be the serotonin
+that's specifically released
+3391.73 in response to certain behaviors.
+3393.67 And I really want to drive home this point
+3395.98 of baselines and peaks.
+3397.73 The baseline level of serotonin
+might set our overall mood,
+3400.79 whether or not we wake
+up feeling pretty good
+3402.947 or really lousy if our serotonin levels
+3405.79 happen to be very, very low,
+3407.42 whether or not we tend to
+be in a kind of a calm space
+3410.13 or whether or not we tend
+to be somewhat irritable.
+3412.53 But then of course individual
+events as we go about our day,
+3416.08 maybe a compliment that we get
+3417.49 or maybe somebody says
+something irritating to us,
+3419.9 whatever it may be will also
+influence levels of serotonin,
+3422.92 but those serotonin events
+are going to be related
+3425.83 to events at particular
+neural circuits in the brain.
+3428.92 And this is an important topic
+3430.54 because I think that a lot of
+people hear quite accurately,
+3434.13 oh, 90 to 95% of our serotonin
+is manufactured in the gut.
+3438.4 And indeed that's true.
+3439.32 It's manufactured from
+the sorts of microbiota
+3441.81 that I just described.
+3443.74 And there are many, many experiments now,
+3445.18 mostly in animal models,
+3446.32 but also some in humans that
+show that if the gut microbiome
+3450.36 is deficient in some way to
+these particular bacteria,
+3454.92 that serotonin levels drop
+and people's mood suffers,
+3457.46 maybe even their immune system functions,
+3459.52 maybe even it exacerbates
+certain psychiatric illnesses.
+3463.88 However, a lot of people take that to mean
+3465.66 that the serotonin of the
+brain all comes from the gut
+3470.13 or mostly comes from the gut.
+3471.6 That's not the case.
+3472.433 It's still the case that you
+have neurons in the brain
+3474.87 that are responsible
+for releasing serotonin
+3477.26 directly in response to certain
+things like social touch
+3480.2 or through other types of
+positive social experiences.
+3484.16 So we've got gut microbiota
+3487.55 that can literally be turned into dopamine
+3490.12 and raise our baseline levels of dopamine.
+3491.84 We've got gut microbiota
+3493.01 that can literally raise our
+baseline levels of serotonin.
+3496.41 And indeed there are other gut
+microbiota like lactobacillus
+3499.77 or bifidobacterium, excuse me,
+3503.98 hard complex names to pronounce,
+3506.14 bifidobacterium that can give rise
+3509.07 to increases in GABA levels,
+3510.92 this inhibitory neurotransmitter
+3512.41 that can act as a little
+bit of a mild sedative,
+3514.78 can reduce irritability, et cetera,
+3517.28 but that's just the baseline,
+3518.96 the kind of tide of those neuromodulators.
+3521.32 Again, I want to emphasize
+that we still have
+3522.543 neurocircuits within the brain and body
+3524.7 that are specifically
+releasing in a very potent way
+3527.9 dopamine, serotonin, and GABA.
+3530.12 So the two things act in concert.
+3532.31 Even though the gut and
+the brain are acting
+3534.67 both in parallel and directly
+influencing one another,
+3539.13 it is a powerful synergistic effect.
+3541.86 And there are now hundreds of studies,
+3544.27 maybe even thousands by this point,
+3546.86 mostly performed in animal models,
+3549.56 typically mice, but also
+some studies in humans
+3552.29 that show that creating
+the correct environment
+3555.59 for these gut microbiota to thrive
+3557.35 really does enhance mood and wellbeing.
+3560.6 And that when our gut
+microbiome is not healthy,
+3565.24 that it really can deplete our
+mood and sense of wellbeing.
+3568.83 Now, there are two major phases
+3571.54 to creating a healthy gut microbiome.
+3573.95 One you can control and the other one
+3576.15 is less under your control.
+3578.66 I get into this in a lot of detail
+3580.89 in the episode with Dr. Sonnenburg,
+3582.78 which is coming out
+immediately after this one,
+3586.56 the following Monday, that is.
+3588.54 But for now I want to just
+capture a few of the main points
+3592.47 about the early establishment
+of the gut microbiome.
+3596.72 It turns out that the environment
+3599.76 that we are exposed to,
+3601.11 the things that come into
+contact with our skin
+3602.85 and digestive tract and
+any other mucosal lining,
+3605.48 even the urethra, the nasal passages,
+3608.42 any opening to the outside world
+3611.02 that brings in certain, excuse me,
+3613.64 certain microbiota in the
+first three years of life
+3617.85 is going to have a profound impact
+3620.16 on the overall menu of microbiota
+3622.96 that we will be able to
+carry within our body.
+3627.33 And it really does seem
+that getting exposure to
+3630.36 and building a diverse microbiome
+3632.35 in those first three years is critical.
+3634.93 There's a lot of speculation and some data
+3637.61 as to cesarean delivered babies
+3640.55 having less diverse microbiomes
+3643.14 compared to vaginally delivered babies.
+3644.8 There have been attempts,
+3645.99 although not conclusive attempts,
+3648.02 to link that to the presence
+of autism spectrum disorders,
+3651.64 which at least by some statistics
+3653.62 seem to be of higher probability
+in cesarean deliveries
+3657.82 although there are other
+studies that refute that,
+3660.45 and I want to make that clear.
+3663.11 However, it's clear that
+babies do not get much,
+3666.27 if any, exposure to
+microbiota inside of the womb,
+3670.47 maybe a little bit, but not much.
+3671.92 But that is during the birth process
+3673.69 and in the days and
+weeks immediately after
+3677.3 they arrive in the world
+that their gut microbiome
+3679.97 is established, that those gut microbiota
+3682.58 take residence within the gut.
+3684.41 So it will depend on whether
+or not they were breastfed
+3686.5 or bottle fed.
+3687.4 It'll depend on whether
+or not they were exposed
+3689.46 to a household pet or not,
+3690.82 whether or not they were
+held by multiple caregivers
+3693.4 or just by one,
+3694.3 whether or not they were a preemie baby
+3696.22 and were contained in a
+particularly restrictive environment
+3699.73 in order to encourage
+their further development
+3701.57 before they could be brought home or not.
+3703.73 I don't want to give the picture
+that if you were isolated
+3706.75 or you were delivered by C-section,
+3708.79 that you're somehow doomed
+to have a poor microbiome.
+3710.83 That's simply not the case.
+3712.56 However, it is the case
+that the more diversity
+3715.57 of microbiota that one
+can create early in life
+3720.09 is really helpful for long-term outcomes
+3723.41 in terms of brain-to-gut signaling,
+3726.46 gut-to-brain signaling,
+3727.87 and for sake of the immune system.
+3731.83 There are some decent studies showing
+3734.18 that if children are exposed
+3736.33 to a lot of antibiotic
+treatment early in life,
+3739.6 that can be very
+detrimental to establishment
+3741.97 of a healthy gut microbiome.
+3743.8 And fortunately that reestablishing
+a healthy gut microbiome
+3747.32 can help rescue some of those deficits.
+3749.71 So doctors nowadays are much more cautious
+3752.57 about the prescription of
+antibiotic drugs to children
+3756.2 in their early years, not
+just up to three years,
+3758.26 but extending out to five
+and seven and 10 years.
+3761.02 And even in adults, they're
+very, very careful about that,
+3764.62 or they ought to be.
+3766.16 One reason is the
+existence, or I would say,
+3769.36 the proliferation of
+antibiotic-resistant bacteria
+3772.99 that are becoming more common
+in hospitals and elsewhere
+3775.8 and that can cause serious problems.
+3777.54 But in addition to that,
+3778.47 because of this understanding
+that the gut microbiome
+3780.98 is influencing and actually
+creating neurotransmitters
+3784.03 that can impact mood and mental health,
+3786.01 impact immune health, and so on.
+3788.18 As I mentioned earlier, there are hundreds
+3789.79 if not thousands of studies
+emphasizing the key role
+3792.93 of the microbiome on brain health,
+3795.53 psychiatric health, et cetera.
+3798.08 I want to just highlight
+a few of those studies
+3800.61 and in particular, some recent
+studies that come from labs
+3803.92 that have been working
+on this sort of thing
+3805.09 for a very long time.
+3806.65 One of the more exciting
+studies comes from the work
+3808.9 of Mauro Costa-Mattioli's lab,
+3811.12 which is at Baylor College of Medicine.
+3813.24 Mauro's lab has been
+working on mouse models
+3816.2 of autism spectrum
+disorder for a long time,
+3819.19 and looking at social behavior
+3821.32 using a mouse model for a long time.
+3823.55 And they've been able to identify
+3826.26 particular types of microbiota
+3829.05 that when they take resonance in the gut
+3832.46 can help offset some of
+the symptoms of autism,
+3836.52 at least the symptoms of autism
+3837.87 that exist in these mouse models, okay?
+3839.52 So again, this is not human work.
+3841.44 This is work being done on mouse models
+3843.05 for the simple reason that you can do
+3844.9 these kinds of manipulations,
+3846.07 where basically they took mice
+3847.92 that were in germ free-environments
+3849.33 or non-germ-free environments,
+3851.61 or they exposed mice to
+particular microbiota
+3854.01 and not other microbiota
+3855.44 and they discovered that
+a particular microbiota
+3858.73 called L. reuteri,
+3859.97 it's L. R-E-U-T-E-R-I.
+3864.09 Treatment with L. reuteri
+corrects the social deficits
+3868.41 present in these autism models
+3870.2 and it does so by way of
+activating our old friend
+3873.02 the vagus nerve,
+3874.34 but not simply because the vagus nerve
+3876.62 triggers the release of dopamine,
+3878.28 but it turns out that this
+particular gut microbiota
+3881.14 L. reuteri can correct the social deficits
+3883.67 in this autism spectrum disorder model.
+3885.99 It does that by way of
+a vagal nerve pathway
+3888.27 that stimulates both dopamine
+release and oxytocin release.
+3891.02 And they establish this
+really mechanistically
+3893.0 by showing, for instance,
+3893.833 if you get rid of the oxytocin receptor,
+3895.92 you don't see this rescue.
+3897.52 Now, those are mouse models
+3898.66 so we have to take those with
+the appropriate grain of salt,
+3901.75 but they're really exciting.
+3902.81 And they come to us in
+parallel with other studies
+3906.88 that are being done,
+3907.8 taking the microbiomes of people
+3911.16 who have one condition
+or lack of condition,
+3913.81 and putting it into people
+who have one condition
+3916.51 or another condition.
+3917.44 Let me explain what I mean by that.
+3920.32 The early discovery of the gut microbiome
+3922.37 and its potential to impact health
+3925.27 was not in the context of
+the gut-to-brain pathway
+3928.51 but rather it was in
+the context of colitis.
+3930.83 This dates back to studies in the '50s,
+3933.36 whereby people with very
+severe intractable colitis
+3936.95 for which no other
+treatment was going to work
+3939.15 received fecal transplants.
+3940.87 So yes, that's exactly as it sounds.
+3942.75 Taking the stool of healthy
+people who do not have colitis,
+3946.17 transplanting those stools
+into the lower digestive tract
+3949.61 of people who do have colitis,
+3951.37 and they saw significant improvement,
+3953.93 if not rescue of the colitis.
+3955.98 That was one of the first indications
+3957.45 that something within
+stool, of all things,
+3960.85 could actually rescue another
+individual from disease,
+3964.75 which sounds kind of wild and crazy,
+3967.08 and may even sound
+disgusting to some of you,
+3969.41 but as I mentioned at the
+beginning of the episode,
+3972.96 almost 60% of stool is
+live or dead bacteria,
+3977.74 microbiota, and it really
+opened up this entire field
+3981.78 of exploring how different microbiota
+3983.818 might have therapeutic effects.
+3986.39 And indeed, that has
+been shown to be the case
+3988.93 also in fecal transplants for
+certain psychiatric illnesses.
+3992.94 These are still ongoing studies.
+3995.31 They vary in quality.
+3997.59 These are hard studies to
+do for all sorts of reasons,
+4000.42 getting the appropriate
+patient populations,
+4002.17 getting agreement, et cetera,
+4004.55 making sure that everything's
+handled properly.
+4006.84 But what this involves
+is fecal transplants
+4009.39 from individuals that lack
+4011.443 a particular psychiatric condition
+4013.21 or metabolic condition into people
+4015.62 who have a particular metabolic condition
+4018.01 and there has been tremendous
+success in some cases.
+4020.71 One of the more powerful
+and salient examples
+4023.64 is for obesity.
+4024.98 There's some people for
+which even if they ingest
+4026.93 very low numbers of calories,
+4029.46 even if they go on a liquid protein diet,
+4031.48 simply can't lose weight.
+4033.72 These are somewhat rare disorders
+4034.96 but these are people that would
+4036.16 either get gastric bypass surgery.
+4038.36 Some people are now getting
+these fecal transplants
+4040.42 from people that have
+4043.126 healthy weight and they
+take the stool from them,
+4048.53 they put it into lower digestive tract,
+4050.42 and they can see substantial
+improvement in weight loss
+4054.4 in people that were
+otherwise unable to do that.
+4056.5 In some cases, actually
+they can start eating
+4059.02 relatively normal levels of
+food and still lose weight.
+4061.29 So pretty remarkable
+4062.29 and that tells us there's
+something in these microbiota
+4064.5 that's really powerful.
+4065.9 Now, how those effects
+are generated isn't clear.
+4069.15 One idea is that it's
+impacting the metabolome,
+4073.2 components of the metabolism,
+4074.62 almost certainly that's
+going to be the case.
+4076.61 Another idea is that it's
+impacting neurotransmitters
+4079.41 which change behavior and
+food choices within the brain.
+4082.49 Although, as I mentioned,
+some of these people
+4083.8 are already eating very
+little food to begin with
+4086.75 so that's a little bit harder
+of an argument to create.
+4090.74 There are also some
+somewhat famous examples now
+4093.21 of how fecal transplants can
+lead to negative outcomes.
+4097.67 But those negative
+outcomes further underscore
+4099.44 the power of the microbiome
+in impacting bodily health.
+4104.53 One key example of this, for instance,
+4106.75 is transfer of fecal
+matter into another person
+4111.09 in order to treat something like colitis
+4113.26 and it effectively does that,
+4115.87 but if the donor of the
+stool, of the fecal matter
+4120.67 happened to be obese or have
+some other metabolic syndrome,
+4123.73 it's been observed that the recipient
+4125.47 can also develop that metabolic syndrome
+4127.94 simply by way of receiving
+4130.37 that donor's particular microbiota.
+4133.32 So these microbiota can
+create positive outcomes
+4135.86 or they can create negative outcomes.
+4137.99 Now, most of us of course,
+are not interested in
+4140.33 or pursuing fecal transplants.
+4141.76 Most people are interested
+in just creating
+4143.59 a healthy gut microbiome environment
+4145.75 for sake of immune system
+and brain function.
+4147.6 And we will talk about how to
+do that in just a few minutes.
+4150.76 But I just want to further underscore
+4153.47 the power of the microbiota
+in shaping brain chemistry
+4157.98 and in shaping things like mood
+4160.17 or other aspects of mental health
+4161.54 that typically we don't
+associate with our gut.
+4164.47 There are several studies
+published in recent years,
+4166.78 one that I'll just highlight now,
+4168.24 first author is Tonya Nguyen, N-G-U-Y-E-N.
+4172.5 The title of the paper is
+4173.567 "Association of Loneliness and Wisdom
+4176.23 with Gut Microbial
+Diversity and Composition,
+4178.87 an Exploratory Study".
+4180.35 It's an interesting study.
+4181.57 Looked at 184 community
+dwelling adults, excuse me,
+4186.0 ranging from 28 to 97 years old.
+4189.22 They explored whether or not
+4192.16 having enhanced microbial diversity
+4194.63 somehow related to these variables
+4196.81 that they refer to as
+loneliness and wisdom.
+4198.64 They used a number of different
+tests to evaluate those.
+4202.18 Those are common tests in
+the psychology literature,
+4204.64 not so much in the biology literature,
+4206.42 but nonetheless, there are
+ways of measuring things
+4208.95 like loneliness and wisdom,
+4212.14 wisdom in this case, being
+the opposite of loneliness,
+4216.55 at least in the context of this study.
+4218.08 And what they found was the
+more microbial diversity,
+4220.7 the more diverse one's microbiome was,
+4222.97 the lower incidence of loneliness.
+4225.87 And they did this by taking fecal samples,
+4228.14 profiling them for RNA.
+4229.53 So essentially doing gene
+sequencing of the stool
+4231.67 of these individuals,
+4232.8 getting ratings of how lonely
+or not lonely they felt,
+4235.76 and correlating those.
+4237.06 And that's just but one study.
+4238.76 I point it out because
+it's particularly recent
+4241.22 and it looked like it was
+particularly well done.
+4243.65 There is another study that
+I'll just refer you to.
+4245.61 This was a study published in
+2020 in "Scientific Reports".
+4249.27 The title of the study
+is "Emotional Wellbeing
+4251.12 and Gut Microbiome
+Profiles by Enterotype".
+4254.27 What I particularly like about this study
+4255.77 is that they were able
+to correlate the presence
+4257.8 of certain microbiota with
+feelings of subjective wellbeing
+4262.65 and lack of or presence
+of depressive symptoms.
+4266.59 They did high-throughput gene sequencing
+4268.81 of the microbiomes of individuals.
+4270.56 So that meant measuring the microbiota,
+4273.48 figuring out which
+microbiota were present,
+4275.67 how diverse their
+microbiome was in general.
+4278.09 Gut microbiome diversity is a good thing.
+4280.81 And then to correlate
+that with what's called
+4283.06 the PANAS score.
+4286.27 PANAS stands for positive
+affect negative affect schedule.
+4289.92 This is a test that my
+lab has used extensively,
+4291.93 that other labs to use to
+evaluate mood and wellbeing.
+4294.87 And they defined what were
+called three enterotypes,
+4298.65 three different categories of people
+4300.13 that ate very different diets
+4302.17 that tended to fall into
+categories of having more
+4304.85 or fewer emotional
+symptoms that were negative
+4308.88 or more fewer emotional
+symptoms that were positive
+4312.09 and whether or not they tend
+to be more depressed, anxious,
+4315.3 or have more stress-related
+behaviors, et cetera.
+4317.8 And what they were able
+to derive from this study
+4321.01 was some strong indications
+about what types of things
+4324.17 we should ingest in our diet,
+4325.97 maybe even certain things
+that we should avoid,
+4327.74 but certainly the types of
+things that we should ingest,
+4330.13 that can enhance mood and wellbeing
+4332.45 and can tend to shift people away
+4334.67 from more depressive-like anxiety
+4336.86 and stress-related symptoms.
+4338.28 Before we get into what the
+particular food items were
+4340.96 that lend themselves to
+a healthy microbiome,
+4343.78 I want to raise a bigger and
+perhaps more important issue,
+4345.77 which is what is a healthy microbiome.
+4349.82 I think if you asked any
+number of world experts,
+4352.11 and I certainly ask
+this of Dr. Sonnenburg,
+4353.89 what is a healthy microbiome,
+4355.49 they're all going to tell you
+4356.43 it's a microbiome that
+has a lot of diversity,
+4358.98 that includes a lot of
+different types of bacteria.
+4361.857 And that makes sense
+4363.14 because it logically
+would include the bacteria
+4366.49 that produce GABA and
+dopamine and serotonin,
+4368.88 and that support the immune system,
+4370.47 and do a number of different things.
+4371.93 But is it simply the case that
+adding microbiota diversity
+4376.41 is always a good thing?
+4378.48 Well, that doesn't seem to be the case.
+4382.23 Probiotics and prebiotics,
+4384.05 both of which can enhance
+microbiotal diversity,
+4387.01 can improve mood, digestion,
+immune system, and so on.
+4390.69 That's been established but
+it's mainly been established
+4392.99 in the context of
+post-antibiotic treatment
+4395.91 or people that are recovering from illness
+4397.74 or people that have been very stressed
+4400.94 or have been dealing with
+all sorts of challenges,
+4404.05 mental or physical,
+4405.32 and they are an attempt to
+replenish the gut microbiome.
+4408.95 However, it's also clear
+4412.31 that excessive microbiota
+4415.47 brought about by excessive
+intake of probiotics
+4418.72 can lead to things like brain fog.
+4420.28 There's actually some good
+studies that point to the fact
+4422.85 that certain metabolites
+of the microbiome,
+4426.42 certain chemicals produced in the gut
+4428.32 and in the body can actually
+lead to brain fog states.
+4431.89 This is thought to come about
+through the lactate pathways
+4435.03 of the gut that can then impact the brain.
+4438.0 If you want to look more into this issue
+4440.13 of whether or not probiotics
+taken in excess perhaps
+4444.36 can lead to brain fog,
+4446.55 I'd encourage you to look
+at a particular paper.
+4448.37 This is a paper published
+4449.33 in "Clinical and Translational
+Gastroenterology".
+4452.82 And the title of the paper
+4453.653 is "Brain Fogginess, Gas, and Bloating,
+4455.61 a Link Between SIBO Probiotics
+and Metabolic Acidosis".
+4459.61 It was published in 2018.
+4460.81 We can provide a link to this study.
+4462.46 And there are several other
+studies in the references
+4465.59 that point to the fact that in some cases,
+4469.93 excessive intake of probiotics
+and excessive proliferation
+4472.87 of gut microbiota can
+actually be problematic.
+4476.12 I mention this not to confuse you
+4477.77 but because it is confusing out there.
+4481.13 We all would think that just increasing
+4482.92 microbiotal diversity
+is always a good thing
+4485.79 but there are thresholds
+4487.98 beyond which excessive
+microbiotal diversity
+4490.81 might be problematic.
+4492.05 I think everyone agrees that having
+4494.12 too few microbial species
+living in us is not a good idea.
+4499.48 Now, none of that answers the questions
+4501.08 that I think everyone
+really wants answers to,
+4503.97 which are, what should we do,
+4506.45 what should we not do to
+improve our gut microbiome?
+4509.31 I mean, clearly we can't time travel back
+4511.81 to when we were zero to three years old
+4514.01 and get a dog if we didn't have a dog,
+4516.78 get breastfed if we weren't breastfed,
+4518.92 be delivered vaginally as
+opposed to by C-section
+4521.61 if we didn't have that opportunity.
+4523.3 We just can't time travel and do that.
+4525.32 All of us, however, should
+be seeking to improve
+4527.85 the conditions of our gut microbiome
+4529.39 because of the critical
+ways in which it impacts
+4532.01 the rest of our brain and bodily health.
+4534.71 So what should we do,
+what shouldn't we do?
+4536.52 Clearly we know that stress
+can negatively impact
+4539.06 the gut microbiome.
+4541.11 However, some forms of
+stress that can quote unquote
+4544.04 negatively impact the microbiome
+4545.69 include fasting, long periods of fasts,
+4548.09 which makes sense because a
+lot of microbiota need food
+4551.63 in order to thrive.
+4552.9 In fact, many if not all
+of them do at some point.
+4557.55 There are other questions
+4558.44 such as should we eat particular foods
+4561.01 and how often should we eat those foods?
+4562.99 We've all been told that
+fiber is incredibly important
+4565.96 because of the presence
+of prebiotic fiber,
+4568.73 which can essentially feed the microbiome,
+4571.68 but is fiber really necessary
+4575.05 and how necessary is it to
+encourage a healthy microbiome?
+4577.98 Clearly, there are a number of people
+4579.4 following relatively low fiber diets,
+4581.65 such as ketogenic diets,
+4582.93 and those can have, in some cases,
+4585.31 anti-inflammatory
+effects and can sometimes
+4588.38 also improve certain microbiota species.
+4591.09 So it can all be rather confusing.
+4592.47 And for that matter, I
+asked our resident expert,
+4595.89 Dr. Justin Sonnenburg at Stanford,
+4598.85 all of these questions.
+4599.82 And he answers them very systematically
+4601.88 in the episode that
+comes out after this one.
+4605.03 But I don't want to
+withhold anything from you
+4606.66 so I'll just give a
+very top contour version
+4609.32 of those answers and then
+you'll get more in-depth answers
+4612.55 during that episode.
+4614.17 I asked about fasting.
+4615.44 And the reason I asked about
+fasting is that years ago,
+4617.86 I was at a meeting as part
+4619.31 of the Pew Biomedical Scholars Meeting
+4622.15 and one of the other
+Pew Biomedical Scholars
+4625.6 was an expert in gut microbiome
+4627.21 and I said, "Hey, are probiotics
+good for the microbiome?
+4631.58 And if so, which ones should I take?"
+4634.23 And his answer was very interesting.
+4635.51 He said, "You know, in
+certain cases they can be,
+4638.5 especially if you're
+traveling or you're stressed,
+4641.31 but it turns out that
+the particular bacteria
+4644.84 that they put in most probiotics
+4646.75 don't actually replenish the
+microbiota that you need most."
+4650.78 And I thought, "Oh, well,
+why don't they make ones
+4652.98 that replenish the microbiota
+that you need most?"
+4655.67 And his answer was, "Well,
+they don't replenish those
+4659.28 but they replenish other ones
+4661.47 that then in turn
+encourage the development
+4664.39 of the microbiota that you do want
+4666.16 once you start eating
+the appropriate foods.
+4667.96 So they change the environment
+4669.32 which makes the environment better,
+4670.52 which indirectly supports
+the proliferation
+4673.34 of quote unquote good microbiota."
+4675.62 Okay, so that was a
+somewhat convoluted answer
+4677.52 but I did appreciate his answer.
+4679.02 Then I asked him about fasting.
+4680.73 I said, "Well, a lot of
+people are getting interested
+4682.86 in intermittent fasting now.
+4684.79 People are spending a significant portion
+4686.94 of each 24-hour cycle avoiding food
+4688.93 for sake of time restrictive feeding.
+4690.37 What does that do to the gut microbiome?
+4691.83 Does it make it healthier or
+does it make it unhealthier?"
+4694.51 Well, my colleague from
+Yale and Dr. Sonnenburg
+4697.95 both confirmed that
+during periods of fasting,
+4700.46 especially prolonged periods of fasting,
+4702.44 we actually start to digest away
+4703.98 much of our digestive tract.
+4706.07 Now, the whole thing
+doesn't start to disappear
+4708.04 but there's thinning of the mucosal lining
+4709.91 or the least disruption
+of the mucosal lining.
+4711.86 A lot of the microbiota
+species can start to die off.
+4715.37 And so it was surprising to
+me, but nonetheless interesting
+4718.97 that fasting may actually
+cause a disruption
+4722.11 to certain healthy elements
+of the gut microbiome.
+4726.15 But again, there's a caveat.
+4727.44 The caveat is that when people
+eat after a period of fast,
+4732.1 there may be a compensatory proliferation,
+4735.12 meaning an increase in
+healthy gut microbiota.
+4738.28 So you start to get the picture
+4739.45 that fasting is neither good nor bad.
+4742.1 You start to get the picture
+that particular diets,
+4744.83 meaning certain restriction diets
+4747.73 or macronutrient-rich diets
+may not be good or bad
+4750.7 for the microbiome.
+4751.78 And yet there are some
+answers that arrive to us
+4755.53 from Dr. Sonnenburg, but from
+other experts in the field,
+4758.46 that there are certain foods
+4760.97 and certain things that we can ingest
+4762.61 which definitely enhance the microbiome
+4765.5 and make it healthier than it would be
+4767.65 were we to not ingest those foods.
+4770.12 So next I'd like to
+talk about what I think
+4772.27 is a really pioneering and
+important study in this area.
+4775.2 This is a study that was carried
+out by the Sonnenburg lab
+4778.7 in collaboration with Chris
+Gardner's lab, also at Stanford,
+4782.32 where they compared two general
+types of diets in humans,
+4787.15 diets that were fiber rich,
+4789.24 which has been proposed
+time and time again
+4791.49 to enhance microbiota diversity
+4794.34 and to enhance gut-brain signaling even
+4796.5 and to enhance the immune system perhaps,
+4799.27 and diets that were enriched
+4801.24 in so-called low-sugar fermented foods.
+4804.06 Before I dive into that study
+and what the conclusions were
+4806.87 because they are very interesting
+4808.01 and very actionable for all of us,
+4810.12 I do want to touch on probiotics
+4812.36 because I want to avoid confusion.
+4815.91 It is not the case that
+ingestion of probiotics
+4818.51 will always lead to brain fog.
+4820.2 I want to make that clear.
+4821.97 It is the case that
+ingestion of probiotics,
+4824.76 even if those probiotics
+don't directly contain
+4828.36 the microbiota species that
+one is trying to proliferate,
+4831.63 can be useful for improving
+microbiotal diversity.
+4835.89 In general, it seems that maintaining
+4838.94 a healthy gut microbiome
+4840.7 involves ingesting certain types of foods,
+4842.987 and we'll talk about those in a moment,
+4845.56 but perhaps also augmenting
+the microbiota system
+4850.09 through prebiotics or
+probiotics at a fairly low level
+4853.71 on a consistent basis.
+4854.86 So these are not high dose probiotics
+4856.55 except under conditions of dysbiosis
+4860.32 where, for instance, if somebody has done
+4862.06 a round of antibiotics
+and they need to replenish
+4865.54 their gut microbiome,
+4867.09 there are foods and there are pill form
+4869.41 and powder form prebiotics and probiotics
+4871.98 that can be very useful.
+4874.19 Or in cases where people
+have been very stressed
+4877.05 or are undergoing excessive travel
+4879.56 or have shifted their diet radically,
+4882.58 maybe that's due to travel,
+4883.64 maybe that's due to illness,
+4884.59 maybe that's due to stress.
+4886.06 But when there are a number
+of different converging events
+4888.63 that are stressing or depleting
+microbiotal diversity,
+4893.63 that's when at least I
+believe it can be useful
+4896.29 to support the gut microbiome
+4897.96 through the ingestion of quality
+probiotics or prebiotics.
+4902.01 So it would be under conditions
+where people are stressed
+4905.39 or their system is generally stressed
+4907.78 for environmental or
+illness-related reasons
+4910.73 that it might be useful to
+lean towards higher doses
+4914.08 of prebiotics or probiotics
+than one might normally use
+4917.82 but that under normal conditions,
+4919.73 that one would focus on quality nutrients
+4923.24 through diet and focus on
+ingestion of probiotics
+4928.49 at a fairly low to moderate level,
+4931.3 and/or prebiotics at a
+fairly low to moderate level.
+4935.05 That just seems like the logical approach
+4936.77 based on the experts that I've spoken to.
+4939.0 But certainly if your doctor prescribes
+4942.18 or suggests that you take
+high levels of probiotics
+4944.61 for any reason,
+4945.64 you should definitely pay
+attention to your physician,
+4947.22 and you should obviously pay
+attention to your physician
+4949.25 in any a case.
+4950.24 You should never add or remove anything
+4952.41 from your nutritional plan
+or supplementation plan
+4955.01 without consulting a physician.
+4957.15 So what should we do in
+order to maximize the health
+4959.55 of our gut-brain axis as it's called?
+4962.16 How should we support the
+diversity of the good microbiota
+4965.93 that help us create all
+these neurotransmitters
+4967.86 that we want, improve our
+immune system function,
+4972.06 and so on and so forth?
+4973.91 Well, some of that is going
+to be through the basics.
+4977.74 When I say the basics,
+4978.62 I mean the foundational
+things that really set us up
+4981.36 for overall health.
+4982.27 So this is going to be getting deep sleep
+4985.28 of sufficient duration 80
+plus percent of the time.
+4989.64 I mean, if you could get a
+hundred percent of the time,
+4990.95 that'd be great but very
+few people accomplish that.
+4992.98 It's going to be proper hydration.
+4994.25 It's going to be proper
+social interactions.
+4996.15 It's going to be proper nutrition.
+4997.73 And we'll talk more about
+nutrition in a moment.
+4999.26 It's going to be limiting
+5000.67 excessive, prolonged stressors or stress.
+5004.24 And indeed we've done episodes about,
+5006.28 just about all of those things
+5007.61 but certainly about stress
+5009.03 we have an episode of
+the Huberman Lab Podcast
+5011.01 that you can find at hubermanlab.com
+5012.56 all about mastering stress,
+5013.85 how to avoid long periods
+of intense stress,
+5017.21 what to do to offset those.
+5020.17 Given that stress can
+disrupt the microbiome,
+5023.45 whether or not you're fasting or not,
+5025.97 those tools ought to be useful.
+5028.49 Now, in what I consider
+to be a landmark study
+5031.36 exploring the relationship
+between the gut microbiome,
+5034.23 food intake, and overall
+health is this paper
+5038.06 from Justin Sonnenburg's
+lab and Chris Gardner's lab,
+5041.59 both of which are at Stanford.
+5043.65 And the paper entitled "Gut
+Microbiome-Targeted Diets
+5046.53 Modulate Human Immune Status"
+5048.12 was published in the journal "Cell",
+5049.57 which is among the three top
+journals perhaps in the world,
+5052.807 "Nature", "Science", and "Cell"
+5053.87 really being the apex
+journals for overall science,
+5058.7 and especially for biomedical sciences.
+5061.16 Now, this is a very interesting study.
+5063.45 It was done on humans.
+There were two major groups.
+5066.0 One group of humans was
+instructed to increase
+5069.1 the amount of fiber in their diet
+5070.86 and in fact ate a high fiber diet.
+5073.41 The other group was instructed to eat
+5075.63 a high fermented food diet.
+5078.69 Now, both groups started
+off not having eaten
+5082.57 a lot of fiber or a lot of fermented foods
+5085.13 and were told to increase
+the amount of either fiber
+5087.83 or fermented foods that
+they were ingesting
+5089.75 over a four-week ramp up period
+5091.63 and that was to avoid any
+major gastric distress.
+5094.69 It turns out that if you're
+not already accustomed
+5096.75 to eating a lot of fiber,
+5097.79 increasing your amount
+of fiber dramatically
+5100.19 can cause some gastric distress
+5102.05 but if you ease into it
+over time, as we'll see,
+5104.68 there's a mechanism behind this,
+5105.91 which was unveiled in this study,
+5108.07 but if you ease into it over time,
+5109.66 then the system can tolerate it.
+5111.6 Likewise high fermented foods
+5114.34 can be readily tolerated
+5116.18 if there's a ramp up phase of ingesting
+5118.68 maybe one serving a day,
+5119.81 then maybe two servings,
+and ramping up in this case
+5123.22 as high as six servings per day.
+5126.63 However, after this ramp up period,
+5129.97 the group assigned to
+the high fiber condition
+5132.09 maintained high fiber intake for six weeks
+5134.94 and the high fermented
+food group maintained
+5137.33 high fermented food intake for six weeks
+5140.41 after which they went off
+5142.82 either the high fiber or
+the high fermented food diet
+5145.62 and there was a four-week follow up period
+5147.71 during which they gradually
+returned to baseline.
+5150.47 Throughout the study their
+gut microbiome was evaluated
+5153.65 for the diversity of gut microbiota.
+5156.24 And there were also a number of measures
+5158.17 of immune system function,
+5159.84 in particular measures of
+the so-called inflammatome.
+5163.23 The immune system has a lot of
+different molecules involved.
+5165.55 I did a whole episode
+about the immune system
+5167.23 if you're interested in learning
+5168.26 what some of those molecules are,
+5169.87 various cytokines and signaling molecules
+5172.0 that reflect either
+high inflammation states
+5174.83 or reduced inflammation
+states in the brain and body.
+5177.42 You're welcome to check that episode.
+5179.13 It's also at hubermanlab.com.
+5181.66 Regardless, in this study,
+5184.04 they explored the sorts of immune markers
+5187.44 that were expressed in
+either of the two groups
+5189.63 and compared those.
+5190.9 The basic takeaway of this paper
+5192.83 was that contrary to what they predicted,
+5197.23 the high fiber diet did not lead
+5199.16 to increased microbiota diversity,
+5201.47 at least not in all cases.
+5203.05 And that was somewhat surprising.
+5205.55 You know, the idea is that prebiotic fiber
+5208.18 and a lot of the material
+in fruits and vegetables
+5210.76 and grains and so forth
+5212.96 are supposed to support
+microbiotal diversity
+5216.42 and the proliferation
+of existing microbiota.
+5219.38 And that is not what they observed,
+5221.68 although I want to be
+very clear in pointing out
+5223.64 that the results do
+not indicate that fiber
+5226.84 is not useful for health overall,
+5230.09 but it does point to the fact
+that increasing fiber intake
+5233.07 did not increase microbiota diversity,
+5235.15 which in general, as I mentioned before,
+5237.6 is associated with improvements
+in microbiota function,
+5241.97 health, and overall wellbeing.
+5244.93 Now, the high fermented
+food diet condition
+5247.0 was very interesting.
+5248.49 It resulted in increased
+microbiome diversity
+5251.57 and decrease inflammatory
+signals and activity.
+5255.07 So there was a twofer.
+5256.59 Basically by ingesting
+high fermented foods
+5260.108 in fair abundance, right?
+5261.62 You know, four to six
+servings or more per day
+5263.65 is a lot of fermented food intake.
+5266.14 We'll talk about what
+some of those foods were.
+5268.16 But the outcome was very positive.
+5270.39 There was a clear increase
+in microbiome diversity
+5273.58 and decreased inflammatory signals.
+5276.07 So things like interleukin-6,
+5278.8 a number of other
+interleukins and cytokines
+5280.75 that are associated with
+increased inflammation
+5283.55 in the brain and body were
+reduced significantly.
+5286.45 Now, let's talk a little
+bit about this notion
+5288.92 of number of servings, et cetera.
+5290.95 One somewhat minor point of the study,
+5294.01 but I think is useful in terms
+5295.18 of taking an actionable stance with this
+5298.03 is that the number of
+servings of fermented foods
+5301.28 was not as strong a
+predictor of improvements
+5305.44 in the inflammatome,
+meaning reduced inflammation
+5308.33 and improvements in microbiota diversity,
+5311.0 as was the duration of
+time that the individuals
+5314.79 were ingesting fermented foods.
+5316.63 In other words, the longer that one
+5318.02 is consistently ingesting
+fermented foods on a daily basis,
+5321.25 the better the outcomes in
+terms of the gut microbiome
+5324.19 and for reducing inflammation.
+5326.36 So I think that's an important point.
+5328.37 And I make that point,
+5329.7 especially because for a lot of people,
+5332.05 even if you do this ramp up phase,
+5333.38 six servings per day of fermented foods
+5335.68 can seem like quite a lot.
+5337.38 So what are these fermented foods?
+5339.95 I think many of us are
+familiar with certain cheeses
+5343.48 and being fermented and
+beer being fermented
+5345.82 and kombucha is fermented.
+5347.61 In this study, they focus specifically
+5349.32 on low-sugar fermented foods.
+5351.59 So this would be plain yogurt,
+5354.68 in some cases, kimchi or sauerkraut.
+5357.89 An important consideration, however,
+5359.57 is that it needs to contain
+5361.4 what are called live active cultures,
+5363.17 which means there actually
+have to be microbiota
+5366.5 that are alive inside the sauerkraut.
+5368.51 One way you know whether
+or not that's happening
+5370.28 is if you purchase sauerkraut
+or pickles or kimchi
+5374.49 from a jar or a container
+5375.97 that's on the non-refrigerated shelf
+5378.98 or the non-refrigerated
+section of your grocery store,
+5381.6 it is not going to contain
+5383.43 live active cultures of microbiota.
+5386.49 And likewise, if you consume yogurt
+5389.47 that has a lot of sugar or
+other components added to it,
+5393.13 it's not going to have
+the same positive effect
+5395.41 on the microbiome,
+5396.49 at least that's the prediction
+5397.98 given some of the relationship
+5399.19 between the sorts of
+microbiota that live in sugar
+5402.02 versus plain type yogurts.
+5404.21 They gave people the option of consuming
+5406.03 any number of different
+low-sugar fermented food.
+5408.81 So that again that could
+be sauerkraut, kimchi,
+5410.97 things like kefir, natto.
+5413.95 In Japan, they consume natto
+which is a fermented food.
+5417.81 Beer was not one of the fermented foods
+5420.383 that was included in
+the fermented food list.
+5422.88 And when we say six servings per day,
+5425.15 that is indeed six, six ounce servings,
+5429.1 or six, four to six ounce servings.
+5431.62 It was not six servings of
+what's listed on the package.
+5434.86 So again, that turns
+out to be a fair amount
+5437.59 of fermented foods.
+5438.423 How should you gauge
+5439.256 whether or not you're
+getting enough of this?
+5440.18 Well, if you decide to
+take on this protocol
+5443.41 of ingesting more fermented foods,
+5444.91 which at least by my read of this study
+5447.19 and some of the follow up
+work that's being done,
+5449.22 sounds like a terrific idea
+5450.93 if you want to improve your gut microbiome
+5452.82 for all the great reasons
+that one would want to,
+5455.58 brain-body health, reduced
+inflammation, and on and on,
+5459.54 well then you definitely want to focus
+5461.74 on fermented foods that
+you enjoy consuming.
+5464.46 So for you if that's kefir,
+5466.22 or for you that's plain yogurt,
+5467.83 or for you that's sauerkraut,
+5469.23 which happens to be my personal favorite,
+5472.11 then you want to make sure
+that it's going to be something
+5474.7 that you are going to enjoy
+ingesting quite a lot of
+5477.81 and that you're going to
+be okay with ingesting
+5480.42 probably throughout the day.
+5481.9 Now, people follow different
+meal schedules, of course,
+5484.01 but this does require not just eating
+5486.13 all the fermented foods just
+before bedtime or at one meal.
+5490.02 I suppose you could do that,
+5491.57 but in general, it's going
+to work best in terms
+5493.67 of limiting gastric distress
+5495.36 by spreading it out throughout the day.
+5497.53 I also want to mention brine.
+5499.06 Brine is the liquid that
+surrounds sauerkraut.
+5503.65 It's that very salty fluid.
+5506.87 And that contains a lot
+of active live cultures.
+5509.75 And they did include or they
+allowed people to include
+5513.41 brine in this study.
+5515.8 And in discussions with Dr. Sonnenburg,
+5517.91 which we'll go into in
+more detail on the episode
+5521.02 that comes out next week,
+5522.21 we talk a lot about the particular value
+5524.19 that brine might hold
+5525.4 in terms of bringing
+about microbiota diversity
+5528.57 because of the richness of
+live cultures that it contains.
+5532.06 I do want to focus for a moment
+on the high fiber condition
+5534.54 because there were some
+interesting observations
+5536.21 about the people that were
+placed into that condition.
+5538.81 First of all, increasing
+the amount of fiber
+5543.17 definitely increased the number of enzymes
+5546.99 that can be used to digest fiber.
+5549.84 This is in keeping with this
+idea of this ramp up phase
+5552.88 where accumulation of more fiber intake
+5555.12 can over time lead to
+less gastric distress
+5557.68 but also to more utilization of fiber
+5559.59 which overall should be a good thing.
+5561.33 So while they didn't observe an increase
+5563.83 in immune system function
+5565.56 or an increase in microbiota diversity,
+5567.72 there was an increase in
+these fiber digesting enzymes.
+5571.61 They also observed what they called
+5573.09 personalized immune responses.
+5575.2 There were some subgroups
+within the high fiber group
+5578.03 that had interesting changes in terms
+5580.76 of their reactions to, or I
+should say their inflammatome,
+5585.12 meaning the inflammatory
+markers they expressed,
+5586.9 as well as their microbiota diversity.
+5589.71 So there were essentially three groups.
+5591.1 One group actually showed an increase
+5592.97 in inflammatory markers.
+5594.62 So that was quite surprising
+5595.87 and probably not wonderful for the message
+5599.62 that fiber is always good for us
+5601.2 but that was a small cohort
+within the fiber intake group.
+5605.84 Another group and still another group,
+5608.71 both showed reductions in
+baseline microbiota diversity
+5611.92 although to varying degrees.
+5614.32 So I don't want to paint the
+picture that fiber is bad
+5616.71 but fiber certainly did not
+have the positive effects
+5619.12 on microbiota diversity
+5620.83 that the high fermented food diet did.
+5623.22 So my read of this study,
+5624.38 and I think the stance
+that many others have taken
+5627.0 as a consequence of these data,
+5629.58 is that we should be increasing
+our fermented food intake,
+5632.6 that that's simply a good
+thing to do in order to support
+5635.55 our gut microbiome and to
+reduce inflammatory signals
+5638.7 in our brain and body.
+5640.6 And there are a number of
+different ways to do that.
+5642.53 I mentioned some of the particular foods.
+5644.27 However, anytime you're talking
+5645.38 about ingesting fermented foods,
+5647.46 especially the high quality ones
+5649.38 that come from the refrigerated section
+5650.96 of the grocery store,
+5653.56 and that have low sugar
+content, et cetera,
+5656.47 we do have to be considerate of cost
+5658.4 because certain things like
+kombuchas, for instance,
+5660.44 can be quite costly.
+5662.55 I should also mention some kombuchas
+5663.84 actually contain alcohol, some do not,
+5666.73 or contain very little amounts of alcohol.
+5670.1 One way to avoid the high
+cost of fermented foods
+5672.84 while still being able to accumulate
+5674.6 a lot of fermented food intake
+5675.95 is to simply make those
+fermented foods yourself.
+5678.24 And this is something that
+we've started exploring
+5680.55 and experimenting with in our home.
+5682.85 One simple way to do this
+5683.85 is to just make your own sauerkraut.
+5685.63 It involves very few ingredients.
+5687.02 It basically involves
+cabbage, water, and salt,
+5690.03 but there's a specific process
+that you need to follow
+5692.15 in order to create these large
+volumes of sauerkraut at home
+5696.23 using that low cost method.
+5698.38 The best resource that I know of
+5700.61 in order to follow a great recipe
+5703.12 to make homemade sauerkraut
+would be the recipe
+5706.16 for homemade sauerkraut that's contained
+5707.78 in Tim Ferriss's book, "The 4-Hour Chef".
+5709.85 There's an excellent protocol there.
+5711.58 It involves chopping up the
+cabbage, putting into a bowl,
+5713.9 mashing it up with your hands,
+5716.53 which can be fun,
+5718.0 putting water in there,
+some salt, covering it,
+5719.97 and then keeping it in a
+particular environment,
+5722.01 and then routinely scraping off
+5723.85 some of the material from the surface.
+5725.53 You have to do that in order to make sure
+5727.81 that you're not getting
+microbes and things
+5731.78 growing in it that are bad for you.
+5733.17 So you definitely want
+to pay careful attention
+5734.82 to the protocol, but that's
+a very, very low cost way
+5737.63 of generating lots and
+lots of fermented foods
+5740.05 so you don't go broke trying
+to improve your microbiome.
+5743.13 The other thing that you can do
+5744.09 if you're really obsessed with kombucha
+5746.53 or something like that, to
+avoid the high cost of kombucha
+5748.84 is there are ways that
+you can get the scoby,
+5751.07 which basically allows you to make
+5752.3 your own kombucha at home.
+5753.38 I've never tried this,
+but when I was a post doc,
+5755.85 there was an undergraduate in the lab,
+5757.24 I think, well, I won't out him,
+5759.77 but he's now gone on to medical school
+5762.31 and I think he's passed his residency
+5764.5 and is a practicing doctor,
+5766.36 but nonetheless, he was always
+making kombucha at home.
+5768.8 He told me it was exceedingly
+easy, but then again,
+5770.9 he had a number of other
+skills and attributes
+5772.66 that made me think that he could do
+5774.56 pretty much anything with ease,
+5775.89 whereas I tend to struggle
+with even basic cooking.
+5778.47 So maybe if you're feeling
+a little more adventurous,
+5780.79 you could explore making
+your own kombucha.
+5783.36 But there are a number of
+different protocols and recipes
+5785.34 out there for making your own
+low-sugar fermented foods.
+5788.4 So you needn't run out
+and buy fresh sauerkraut
+5791.46 all the time.
+5792.293 I should also mention for those
+of you that are interested
+5794.53 in getting your fermented
+intake from pickles,
+5798.7 jarred pickles rarely
+if ever contain ferment.
+5802.7 Mostly they're just
+soaked in vinegar, water,
+5805.22 and with some spices,
+5806.1 but there are some that contain ferment.
+5808.18 You actually have to look
+for that on the container.
+5810.73 And I don't know, maybe someone out there
+5811.93 knows how to make natto and
+knows how to make kimchi well
+5814.7 and things of that sort.
+5816.22 It certainly is the case based
+on the data from the study
+5819.15 that ingesting more servings
+of fermented food per day
+5822.24 ought to be beneficial
+for our gut microbiome.
+5824.29 And since this is an episode
+not just about gut microbiome
+5826.73 but gut-brain health,
+5828.52 I should mention that
+one form of signaling
+5831.02 between the gut microbiome and the brain
+5832.73 which we did not discuss
+5834.05 and I'll just touch on briefly
+5836.02 is that when the inflammatome
+or the genes and markers
+5841.03 of inflammation are
+kept in a healthy range,
+5845.26 there's an active signaling
+of that immune system status
+5848.77 to the brain.
+5849.603 There's an intermediate
+cell type that communicates
+5852.62 immune status to the brain.
+5854.34 And that cell type is the microglial cell.
+5856.29 It's a type of glia as the name suggests.
+5858.73 When there's a lot of
+inflammation in the body,
+5861.54 these microglia actually get activated
+5863.81 and can start eating away
+at various components
+5867.23 of the brain and nervous system.
+5868.47 And I don't mean massive eating away.
+5869.79 They're not going to
+digest the whole brain
+5871.28 but these microglia are sort
+of the resident macrophages
+5875.26 of the brain.
+5876.093 Macrophages are in the periphery
+and they gobble up debris
+5878.73 and things of that sort.
+5879.84 The microglia on a regular
+basis are eating up debris
+5883.42 that accumulates across waking cycles
+5885.88 and in response to
+micro-damage to the brain
+5888.2 that occurs on a daily basis.
+5889.48 So they have a lot of
+important basic everyday
+5891.85 what we call housekeeping functions.
+5893.76 But when there's a lot of
+inflammation in the body,
+5895.96 when there's a massive immune response,
+5898.73 the microglia can be hyperactivated
+5900.85 and that's thought to lead to any number
+5902.47 of different cognitive defects
+or challenges thinking,
+5905.73 or maybe even some forms of
+neurodegeneration over time,
+5909.22 although that last point
+is more of a hypothesis
+5911.48 than a well tamped down
+fact at this point.
+5914.1 There's still a lot of
+investigation to be done in humans.
+5916.73 The animal data, however,
+are very, very strong
+5919.6 that when the immune system is activated
+5921.53 or chronically activated or hyperactivated
+5924.17 that neural tissue, meaning brain tissue
+5925.86 and other central nervous
+system tissue can suffer.
+5928.02 So there are a lot of reasons to want
+5930.22 to not just improve microbiome diversity,
+5933.23 but to also improve immune system function
+5936.2 and to limit the number
+of inflammatory markers
+5938.84 that are present in the body
+5940.16 because of the way those
+inflammatory markers
+5942.36 can signal deleterious
+events in the brain.
+5945.38 And while eating fermented foods
+5947.89 and making your own fermented foods
+5949.88 and buying high quality fermented foods
+5951.91 might seem like an inconvenience,
+5953.79 I would say that from the perspective
+5956.26 of cost-benefit or effort-benefit,
+5958.8 it's actually quite a good situation
+5961.08 where if you can just ramp up
+the number of fermented foods
+5964.23 or servings of fermented foods
+that you're eating per day
+5966.41 over a period of a few weeks
+5967.73 so that you're tolerating that well,
+5970.25 that ought to have a very positive effect
+5972.27 on your microbiome diversity
+5974.23 and indeed on gut-brain function.
+5976.76 And I'll be the last to suggest
+5978.15 that people completely forego on fiber.
+5980.54 I think there's some debate out there
+5981.89 as to how much fiber we
+need and whether or not
+5984.95 certain forms of fiber
+are better than others.
+5987.29 I'm not going to get into that debate.
+5988.66 It's barbed wire enough without
+me injecting my own views
+5991.69 into that debate.
+5992.8 But I think there's ample
+evidence to support the fact
+5995.1 that for most people ingesting
+a fair amount of fiber
+5998.7 is going to be a good idea.
+6000.41 I would just say that
+6001.243 make sure that you're also
+ingesting a fair amount
+6002.94 of fermented foods.
+6004.2 And along the lines of fiber,
+6006.14 in an accompanying article
+published in "Cell",
+6008.71 which was sort of a what we
+call a news and views piece
+6011.71 about the Sonnenburg and Gardner paper,
+6015.35 they make a quite good point,
+6016.92 which is that the increase in fiber intake
+6019.65 that led to the increase in
+carbohydrate active enzymes,
+6023.15 these CAZymes as they're called,
+6025.57 these are enzymes that help digest fiber,
+6028.3 quote, "indicating an enhanced
+capacity for the microbiome
+6031.86 to degrade complex carbohydrates
+present in fibrous foods".
+6035.43 So in other words, eating
+more fiber and fibrous foods
+6040.92 allowed for an increase in these enzymes
+6042.56 that allow you to eat
+still more fibrous foods
+6044.88 or to better digest fibrous
+foods that are coming in
+6047.68 through other sources.
+6048.8 So there is at least one
+utility for increasing fiber
+6052.61 even though it's separate from
+the gut microbiotal diversity
+6055.59 and reducing inflammation.
+6057.43 And I'd be remiss if I didn't
+touch on some of the data
+6059.87 and controversy about
+artificial sweeteners
+6062.49 and the gut microbiome.
+6064.47 I want to be very clear that
+what I'm about to tell you
+6066.83 has only been established
+in animal models,
+6069.3 in a mouse model, at
+least to my knowledge.
+6071.82 What the studies have shown,
+and there were several,
+6074.59 but one published in the journal "Nature"
+6076.12 a few years back is the one
+6077.1 that got the most amount of attention
+6078.73 is that animals that consume large amounts
+6080.77 of artificial sweeteners.
+6082.25 in particular things like
+saccharin or sucralose
+6085.06 show disruptions in their gut microbiome.
+6087.67 I'm not aware of any studies in humans
+6089.41 that show the equivalent effect.
+6090.73 And I'm not aware of any
+studies in humans that show
+6093.33 the equivalent effect for things
+6095.62 like plant-based, low-calorie sweeteners,
+6097.84 things like Stevia, monk
+fruit, and things of that sort.
+6101.09 And at least by my exploration,
+6103.42 I couldn't find any data specifically
+6105.09 related to the sweetener aspartame.
+6107.79 So right now it's somewhat controversial
+6110.38 and actually this is kind of
+a third rail topic out there.
+6112.88 When one group will come out saying
+6114.82 that artificial sweeteners are bad
+6116.1 because they disrupt the gut microbiome,
+6118.11 the response generally from
+a number of people as well,
+6121.4 that's only been shown in animal models.
+6122.9 And indeed that's true.
+6124.31 So right now I don't think
+that there's a strong case
+6126.84 one way or the other.
+6128.13 I think that people should
+basically ask themselves
+6130.26 whether or not they like
+artificial sweeteners or not,
+6133.13 whether or not they're
+willing to risk it or not,
+6135.57 and obviously that's an individual choice.
+6138.11 I also want to point out a recent study
+6140.68 from Diego Bohorquez's lab,
+6143.02 which actually shows, however,
+that neurons in the gut,
+6146.88 those neuropod cells, are
+actually capable of distinguishing
+6150.73 between real sugars and
+artificial sweeteners.
+6153.83 This is a really interesting body of work.
+6156.27 It was published just now, just recently,
+6158.88 I should say, February 2022.
+6160.64 The title of the paper is
+6161.757 "The Preference for Sugar
+over Sweetener Depends
+6164.15 on a Gut Sensor Cell".
+6165.66 And to make a long story short,
+6167.2 what they showed was there's
+a category of neuropod cells
+6170.36 that recognize sugar in the
+gut and signal that information
+6175.07 about the presence of sugar
+in the gut to the brain
+6178.07 via the pathways we talked about before,
+6179.86 the nodose ganglia, the vagus, dopamine,
+6181.66 et cetera, et cetera.
+6183.61 Interestingly, the very
+same category of neurons
+6186.81 can respond to artificial sweeteners
+6190.27 and signal that information to the brain,
+6192.14 but the pattern of signaling
+6194.76 and indeed the signature pattern
+6197.67 that is conveyed to the brain
+and received by the brain
+6200.68 is actually quite a bit different
+6202.76 when these same neurons are responding
+6205.83 to artificial sweeteners
+versus actual sugar.
+6209.73 And this is very interesting
+because what it means
+6211.277 is first of all that neurons
+6214.5 have incredible specificity
+6216.18 in terms of what they are
+signaling from the gut
+6218.3 to the brain.
+6219.48 And it also means that there
+may be a particular signal
+6222.9 that the brain receives that says
+6224.53 I'm receiving some intake of food or drink
+6228.48 that tastes sweet but doesn't
+actually offer much nutrients
+6232.84 in the direction of sweetness,
+6234.01 meaning that it doesn't have
+calories despite being sweet.
+6236.74 Now, again, this is all
+subconscious processing.
+6239.09 And like with the previous studies
+6240.9 we were just discussing
+about artificial sweeteners
+6243.48 generally and the gut
+microbiome generally,
+6245.64 it's unclear how this relates to humans
+6248.97 at this point in time.
+6250.22 But given the similarity
+of cellular processes
+6252.69 and molecular processes at the
+level of gut-brain in mice,
+6255.89 I think it stands to reason
+that these neuropod cells
+6258.43 very likely are capable of
+signaling sweet presence
+6261.91 of real sweetener versus
+artificial sweetener
+6263.74 in humans as well,
+6264.96 although that still remains
+to be determined empirically.
+6267.66 So I'd like to just briefly
+recap what I've covered today.
+6270.68 I started off by talking about
+the structure and function
+6273.38 of the gut-brain axis.
+6275.11 I described the basic
+structure and function
+6277.58 of the digestive pathway,
+6279.55 and how that digestive pathway
+harbors microbiotal species,
+6282.86 meaning many, many little
+bacteria that can signal
+6286.92 all sorts of things to the
+rest of the brain and body.
+6289.9 And indeed, we talked about
+the various ways they do that.
+6292.5 We talked about direct pathways,
+6294.5 literally nerve networks
+that extend from the gut
+6297.43 up to the brain and from
+the brain back to the gut.
+6300.43 And we talked about indirect pathways,
+6302.92 how some of the gut microbiota
+can actually synthesize
+6306.11 neurotransmitters that get
+out into the bloodstream,
+6308.53 can impact the body,
+6309.65 can impact the immune system,
+6311.47 and can get into the brain
+and act as neurotransmitters
+6314.81 in the brain just as
+would neurotransmitters
+6317.47 that originate from within the brain.
+6320.921 We also talked about what constitutes
+6322.74 a healthy versus unhealthy microbiome.
+6325.4 And it's very clear that
+having a diverse microbiome
+6328.44 is healthier than having
+a non-diverse microbiome.
+6332.84 But as I pointed out,
+6334.66 there's still a lot of
+questions as to exactly
+6336.67 what microbiota species
+you want to enhance
+6338.9 and which ones you want
+to suppress in the gut
+6341.33 in order to achieve the best
+gut-brain axis function.
+6345.35 We talked about how things
+like fasting might impact
+6347.75 the microbiome and how
+some of that might be
+6349.81 a little bit counterintuitive
+6351.21 based on some of the other
+positive effects of fasting,
+6353.981 or if we're not just discussing fasting,
+6356.21 some other types of
+somewhat restrictive diets
+6358.87 either restrictive in time or restrictive
+6360.75 in terms of macronutrient intake,
+6362.95 how those may or may
+not improve the health
+6365.57 of gut microbiome.
+6366.63 And the basic takeaway was
+that because we don't know
+6369.58 exactly how specific diets
+impact the gut microbiome,
+6373.07 and we don't know how fasting
+6375.09 either promotes or
+degrades the microbiome,
+6377.86 we really can't say whether
+or not they are improving
+6380.5 or degrading the microbiome at this time.
+6382.96 However, it is clear that stress,
+6385.91 in particular chronic stress,
+6387.14 can disrupt the gut microbiome.
+6388.83 It's also clear, of course,
+6389.81 that antibiotics can
+disrupt the gut microbiome.
+6392.47 And that brings us to the topic
+6393.78 of prebiotics and probiotics.
+6395.82 And I emphasized the fact
+that for most people,
+6398.42 ingesting high quality non-processed foods
+6402.03 that includes some prebiotic fiber
+6404.72 but also that includes some probiotics
+6407.39 will probably be healthy
+6408.62 but not excessive levels of probiotics.
+6410.9 High levels of supplemented probiotics
+6412.86 of the sort that would
+come in a probiotic pill
+6414.57 or even prescription probiotics
+6416.54 would probably lend
+themselves best to when people
+6418.92 were under severe chronic stress
+6421.06 or had just come off a serious round
+6423.3 or an ongoing or repeated
+rounds of antibiotics.
+6426.78 That does not mean that
+ingesting probiotics
+6429.43 in any form or any kind is not good.
+6431.55 It just means that the
+very high dose probiotics,
+6434.99 again, typically found
+in prescription form
+6436.98 or capsule pill form
+probably are best reserved
+6440.15 to cases where of course
+your doctor prescribes them.
+6442.86 You should always follow
+your doctor's advice.
+6444.76 But in cases where
+perhaps you are jetlagged,
+6447.3 you're traveling
+excessively for any reason,
+6449.8 or working excessively,
+6450.83 you're not getting enough sleep,
+6452.28 or your diet is radically
+changed from normal.
+6455.24 And we talked about how
+increasing the amount of fiber
+6458.26 in your diet might be
+useful for increasing
+6461.56 fiber digesting enzymes
+and the assimilation
+6464.03 of fibrous foods
+6465.28 but that it's really the
+ingestion of fermented foods
+6468.03 and, in fact, getting anywhere from four
+6470.07 or even up to six servings
+a day of fermented foods
+6472.45 can be immensely beneficial for reducing
+6475.1 inflammatory markers in the body
+6476.71 and for improving microbiota diversity
+6479.87 all along the gut and
+thereby improving signaling
+6483.75 and outcomes along the gut-brain axis.
+6487.66 So we went all the way
+from structure to function
+6491.06 to the four kinds of signaling,
+6492.53 mechanical, chemical, indirect, direct,
+6494.78 probiotics, fiber, and fermented foods.
+6497.73 And I tossed in a little
+bit at the end there also
+6500.32 about ways that you can make
+your own fermented foods
+6503.45 at home in order to try and
+offset some of the costs.
+6505.72 Also, it's just kind of fun to do.
+6507.35 And some of those
+actually taste quite good.
+6509.59 I've actually found that
+the fermented sauerkraut
+6512.59 that we're making at home actually rivals
+6514.97 the sauerkraut that you can buy
+6516.2 out of the refrigerated
+section at the grocery store.
+6519.32 And I am by no means
+a skilled cook or chef
+6523.0 and basically have no
+culinary skill whatsoever.
+6525.62 So if I can do it, you can do it.
+6527.16 I hope you found this information useful
+6529.08 and perhaps also actionable.
+6531.8 One of my motivations
+for doing this episode
+6534.41 was, again, as a primer for the episode
+6536.87 with Dr. Justin Sonnenburg
+6538.53 where we go really deep
+into the gut microbiome,
+6540.8 less so into the gut-brain axis,
+6542.61 but really deep into the gut microbiome,
+6544.51 what it is, what it
+does, what it doesn't do,
+6546.61 and some of the emerging
+findings from his lab
+6548.59 that are yet to be published.
+6550.27 And I also was excited to do this episode
+6552.47 because I think many of us have heard
+6554.44 about the gut microbiome.
+6555.67 We hear about these bacteria
+that live in our gut.
+6557.9 We hear about the gut-brain axis
+6559.61 or that 90% or more of
+the serotonin that we make
+6562.77 is made in our gut.
+6563.81 We hear about the gut as a
+second brain and so forth.
+6566.49 But I think for many people,
+6568.89 they don't really have a clear picture
+6570.71 of what the gut microbiome is
+6572.43 and the pathways and mechanisms
+by which it can signal
+6575.58 to the brain and to the
+other parts of the body.
+6577.92 So I hope that today's
+information at least improved
+6580.61 the clarity around that topic
+6582.64 and leaves you with a more vivid picture
+6584.64 of this incredible system
+that is our gut-brain axis.
+6588.21 If you're enjoying and/or
+learning from this podcast,
+6590.68 please subscribe to our YouTube channel.
+6592.46 That's a terrific,
+zero-cost way to support us.
+6595.21 In addition, please
+subscribe to the podcast
+6597.34 on Spotify and Apple.
+6599.19 And on Apple, you can leave
+us up to a five star review.
+6602.7 On YouTube, we have a comment section,
+6604.78 please, of course, give
+us feedback in comments
+6606.56 but please also make suggestions
+about topics and guests
+6609.86 that you would like us to include
+6610.97 on the Huberman Lab Podcast.
+6612.2 We do read those comments.
+6614.26 In addition, please check
+out the sponsors mentioned
+6616.29 at the beginning of today's podcast.
+6618.12 That's perhaps the best way
+to support this podcast.
+6621.02 And we have a Patreon.
+6622.15 It's patreon.com/andrewhuberman.
+6624.54 And there you can support
+the podcast at any level
+6627.07 that you like.
+6628.45 On many previous episodes
+of the Huberman Lab Podcast,
+6630.81 we talk about supplements.
+6632.13 While supplements aren't
+necessary for everybody,
+6634.33 many people derive
+tremendous benefit from them.
+6636.75 One of the key issues
+with supplements, however,
+6638.79 is that the quality of
+supplements can vary tremendously
+6641.95 and oftentimes that
+relates to the precision,
+6645.15 or I should say the lack of precision,
+6646.69 with which companies put
+different amounts of supplements
+6650.28 in the capsules and tablets
+that are listed on the bottle.
+6653.09 For that reason, we partner
+with Thorne, T-H-O-R-N-E,
+6655.93 because Thorne supplements
+6657.4 have the highest degree of stringency
+6659.2 in terms of the quality of ingredients
+6660.93 and the specificity of the
+amounts of the ingredients.
+6663.49 That is, what is listed on the bottle
+6665.25 is actually what is
+contained in the capsules
+6667.27 and tablets and powders.
+6668.41 If you'd like to see the
+Thorne supplements that I take,
+6670.45 you can go to Thorne,
+6671.48 that's thorne.com/u/huberman
+6676.03 and there you can see the
+Thorne supplements that I take.
+6678.41 You can get 20% off any
+of those supplements.
+6680.62 And if you navigate deeper
+into the Thorne site,
+6682.96 you can get 20% off any
+of the other supplements
+6685.59 that Thorne makes.
+6686.55 That's thorne.com/u/huberman.
+6690.24 And if you're not already following us
+6691.72 on Instagram and Twitter, it's
+Huberman Lab on Instagram.
+6694.36 It's also Huberman Lab on Twitter,
+6696.29 and there I cover science
+and science-related tools,
+6699.0 some of which overlap with the material
+6700.82 covered on the podcast
+6701.87 and some of which is
+distinct from the material
+6703.97 covered on the podcast.
+6705.21 Please also subscribe to our
+"Neural Network Newsletter".
+6708.09 The "Neural Network Newsletter"
+6709.29 is a completely zero-cost newsletter
+6711.53 that comes out once a month.
+6712.99 You can sign up by going
+to hubermanlab.com.
+6715.34 We don't share your email with anybody
+6716.97 and our privacy policy
+is there and very clear.
+6720.47 The newsletter includes
+actionable protocols and summaries
+6722.94 from the podcast as well as
+new information entirely.
+6726.19 And last but certainly
+6727.25 not least, thank you
+[upbeat music]
+6728.56 for your interest in science.

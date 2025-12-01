@@ -1,0 +1,3898 @@
+0.38 - Welcome to the Huberman Lab Podcast
+2.41 where we discuss science
+3.427 and science-based tools for everyday life.
+7.059 [instrumental music]
+9.43 - I'm Andrew Huberman, and I'm
+a professor of neurobiology
+12.47 and ophthalmology at
+Stanford School of Medicine.
+15.88 This podcast is separate from my teaching
+17.68 and research roles at Stanford.
+19.48 It is however, part of
+my desire and effort
+21.57 to bring zero cost to consumer
+information about science
+24.57 and science related tools
+to the general public.
+27.71 In keeping with that theme,
+28.92 I'd like to thank the
+sponsors of today's podcast.
+32.1 Our first sponsor is
+Belcampo Meat Company.
+35.78 Belcampo Meat Company
+is a regenerative farm
+38.02 in Northern California that
+raises organic grass fed
+41.18 and grass-finished certified humane meats.
+44.54 I eat meat about once a day.
+46.39 I'm neither pure carnivore,
+nor am I a vegetarian.
+49.79 Obviously I eat meat.
+51.09 The way I eat is I tend
+to fast until about noon
+55.05 and then I have my first meal
+56.42 which generally consists
+of a piece of beef.
+59.06 It's either ground beef or a steak.
+61.61 I like ribeyes, I like flat
+irons, these kinds of things
+64.44 and a small salad,
+sometimes a large salad.
+66.98 And then throughout the
+day, I generally am low carb
+69.78 until the evening when
+I eat pasta and rice
+72.19 and things of that sort.
+73.05 Eating that way is what
+optimizes my levels of alertness
+76.87 and optimizes my sleep.
+78.71 I've talked about this on
+previous podcast episodes,
+81.66 Now, because I eat meat
+essentially every day,
+84.28 the source of that meat is
+extremely important to me.
+86.53 I want it to be healthy for me
+87.93 and I want the animals that it comes from
+90.5 to be healthy and to
+have lived a good life.
+94.02 Conventionally raised animals
+are confined to feedlots
+96.53 and they eat a diet of
+inflammatory grains,
+98.87 which is terrible for them
+and it's terrible for us
+101.1 when we eat those meats.
+102.64 Belcampo's animals graze on open pastures
+104.96 and seasonal grasses,
+which results in meat
+107.09 that is higher in
+nutrients and healthy fats.
+109.2 They actually have very
+high levels of Omega threes
+111.98 which I've also talked
+about on this podcast,
+113.81 are important for mental
+and physical health
+115.82 for a variety of reasons.
+117.71 The way Belcampo raises its animals
+119.39 is also good for the environment.
+121.95 They practice regenerative agriculture,
+123.79 which means it's climate
+positive and carbon negative
+126.96 which translates to good for
+us and good for the planet.
+130.86 You can order Belcampo
+sustainably raised meats
+133.11 to be delivered straight to your door
+134.38 using my code Huberman by
+going to belcampo.com/huberman
+139.01 and you'll get 20% off
+your first time order.
+142.24 That's belcampo.com/huberman for 20% off.
+147.1 Today's podcast is also
+brought to us by InsideTracker.
+150.78 InsideTracker is a
+personalized nutrition platform
+153.29 that analyzes data from your blood and DNA
+155.89 to help you better understand your body
+157.62 and reach your health goals.
+159.72 I've long been a believer
+in getting blood work done
+162.65 for the simple reason that many,
+164.6 if not most of the factors that impact
+166.93 our immediate and longterm health
+168.75 can only be assessed from a blood test.
+171.13 And now with the advent
+of modern DNA tests,
+173.93 we can get additional information
+175.48 about our current health status
+and our health trajectory.
+178.77 One of major problems with
+blood tests and DNA tests
+181.6 available for most sources is
+that you get the numbers back
+184.94 and you can easily see
+whether or not those numbers
+186.94 are within the standard
+range or outside the range.
+189.55 But it's very hard to know what
+to do with that information.
+192.33 Also what the various factors are
+194.73 that are being measured
+is often very cryptic.
+197.24 With InsideTracker,
+they clarify everything.
+200.16 They make it very clear and simple
+202.2 as to what each of those
+factors relates to,
+205.13 so they give you some
+understanding of what those are
+207.56 and they give you ideas and suggestions
+210.7 about things that you can
+do with your lifestyle,
+213.33 changes to your diet, changes
+to your supplementation,
+216.36 changes to your sleep
+schedule or exercise patterns
+219.8 that can serve to optimize the levels
+222.31 of those various factors and your DNA.
+225.51 In addition, they have something
+called the inner age test
+228.44 which compares your chronological age
+231.07 which you already know
+with your biological age
+233.6 which gives you a sense of your lifespan
+235.7 or predicted lifespan.
+237.15 So that's crucially
+important, and you can imagine
+239.65 why many people, including me
+would want that information.
+242.83 If you'd like to try InsideTracker
+244.44 you can visit insidetracker.com/huberman
+247.64 and you'll get 25% off any
+of InsideTracker's plans.
+250.95 Use the code Huberman at checkout,
+252.96 that's insidetracker.com/huberman
+to get 25% off
+256.89 any of InsideTracker's plans
+and use the code Huberman
+260.15 at checkout.
+261.44 Today's episode is also brought
+to us by Athletic Greens.
+264.56 Athletic Greens is an
+all-in-one vitamin mineral
+267.4 probiotic drink.
+269.1 I've been using Athletic Greens
+for well over a decade now.
+272.41 I started using Athletic
+Greens and I still use
+274.76 Athletic Greens because
+I find it rather dizzying
+277.48 to know which vitamins
+and minerals to take.
+279.96 And with Athletic Greens,
+I cover all my bases
+283.02 of vitamins and minerals.
+284.37 In addition, it has
+probiotics and we now know
+287.55 from an enormous number of
+quality peer reviewed studies
+290.45 that the gut microbiome
+is critically important
+292.8 for our immune system function,
+for the gut brain access
+296.24 and for our mental functions
+297.97 and probiotics are one way
+to support the gut brain axis
+301.62 and the gut health generally.
+303.84 With Athletic Greens, I
+basically just add water,
+306.75 put in a little bit of lemon juice
+308.11 'cause that's the way I like it.
+309.44 Mix it up, it tastes delicious.
+310.76 I'll do that once or twice a day.
+312.54 It's compatible with
+fasting at least for me,
+314.66 it doesn't take me out of a fasting mode
+316.41 which I do early in the day.
+317.8 So most often I'll have my
+Athletic Greens early in the day.
+320.76 And then sometimes I'll
+also have another one
+323.15 late in the evening, or
+sometimes even before bed.
+325.63 I'm able to sleep after
+drinking it without a problem.
+328.79 If you'd like to try Athletic Greens
+330.71 you can go to athleticgreens.com/huberman.
+333.62 And if you do that, you
+can claim a special offer.
+336.31 They'll give you five free travel packs,
+338.23 which are these little
+packs that make it very easy
+340.71 to mix up Athletic Greens
+while you're on the road
+342.75 or in the car or on a plane.
+345.185 It makes all of that very simple.
+346.15 And in addition, they will
+give you a year supply
+348.31 of vitamin D3 K2.
+350.18 There are also a lot of
+data supporting the fact
+352.493 that vitamin D3 is critical
+354.84 for a variety of health metrics.
+357.44 We all know that we can get vitamin D3
+359.7 from the sun, but many people including me
+362.35 were not getting enough sunlight or D3
+364.59 even if I was getting a lot of sunlight.
+366.07 I know that 'cause I had my
+blood levels measured of D3.
+369.17 So I use vitamin D3 every day
+371.18 in addition to the other things I take,
+373.02 including Athletic Greens.
+374.2 If you go to athleticgreens.com/huberman,
+377.15 you'll get the Athletic Greens,
+the five free travel packs
+379.63 and a year supply of
+the vitamin D3 and K2,
+383.34 That's athleticgreens.com/huberman
+385.55 to claim the special offer.
+387.74 This month on the Huberman Lab Podcast,
+389.67 we're talking all about
+physical performance.
+392.56 So that means athletic
+performance, recreational exercise,
+396.4 weightlifting, running, swimming, yoga,
+400.17 skills and skill learning.
+402.37 Today, we're going to talk about and focus
+404.59 on skill learning.
+406.23 We are going to focus on how
+to learn skills more quickly
+409.73 in particular motor skills.
+411.63 This will also translate to things
+413.77 like musical skills and
+playing instruments,
+416.56 but we're mainly going to
+focus on physical movements
+420.13 of the body that extend beyond the hands
+423.37 like just playing the piano or the fingers
+425.36 like playing the guitar.
+426.84 But everything we're going to talk about
+428.55 will also serve the formation
+and the consolidation
+433.28 and the performance of
+other types of skills.
+435.78 So if you're interested
+in how to perform better,
+439.22 whether or not it's dance or yoga
+441.18 or even something that's
+just very repetitive
+443.15 like running or swimming, this
+podcast episode is for you.
+447.9 We're going to go deep into
+the science of skill learning.
+451.51 And we are going to talk
+about very specific protocols
+454.14 that the science points
+to and has verified,
+457.29 allow you to learn more
+quickly to embed that learning
+461.12 so that you remember it and
+to be able to build up skills
+464.29 more quickly than you would otherwise.
+467.25 We are also going to touch on a few things
+469.14 that I get asked about a
+lot, but fortunately recently
+472.71 I've had the time to go
+deep into the literature,
+474.85 extract the data for you and
+that's mental visualization.
+478.77 How does visualizing a
+particular skill or practice
+482.79 serve the learning and
+or the consolidation
+485.82 of that practice.
+486.98 It turns out there are some
+absolutely striking protocols
+490.41 that one can use, striking
+meaning they allow you
+493.0 to learn faster and they
+allow you to remember
+496.18 how to do things more quickly and better
+499.36 than if you were not doing
+this mental rehearsal.
+501.37 But the pattern of mental rehearsal
+503.61 and when you do that mental rehearsal
+505.68 turns out to be vitally important.
+507.94 So I'm excited for today's episode.
+510.2 We're going to share a lot
+of information with you
+512.94 and they're going to be a
+lot of very simple takeaways.
+516.26 So let's get started.
+518.11 Before we get into the
+topic of skill learning
+520.57 and tools for accelerating skill learning,
+523.06 I want to briefly revisit
+the topic of temperature
+525.64 which was covered in the last episode
+528.263 and just highlight a
+few things and clear up
+529.67 some misunderstandings.
+531.21 So last episode talked
+about these incredible data
+534.29 from my colleague, Craig
+Heller's lab at Stanford.
+537.35 He's in the department of biology,
+539.0 showing that cooling the
+palms in particular ways
+542.07 and at particular times can allow athletes
+545.13 or just recreational
+exercisers to do more pull-ups,
+549.2 dips, bench presses per
+unit time, to run further,
+552.7 to cycle further and to
+feel better doing it.
+555.96 There really are incredible
+data that are anchored
+558.36 in the biology of the vascular
+system, the blood supply
+562.36 and how it's involved in cooling us.
+565.05 Many of you, dozens of you in fact said,
+569.257 "Wait a second, you gave us
+a protocol in this episode
+573.557 "which says that we should
+cool our palms periodically
+576.837 "throughout exercise in order
+to be able to do more work.
+581.056 "But on the episode, before
+that on growth hormone
+584.277 "and thyroid hormone, you
+said that heating up the body
+588.347 "is good for release of growth hormone."
+591.13 And I just want to clarify
+that both things are true.
+594.84 These are two separate protocols.
+597.47 You should always warm
+up before you exercise.
+599.65 That warmup will not increase
+your body temperature
+602.12 or the muscle temperature to the point
+604.87 where it's going to
+diminish your work capacity,
+607.56 that it's going to harm your performance.
+610.3 The cooling of the palms,
+which is really just a route
+613.33 to cool your core in an efficient way,
+615.54 the most efficient way, in fact
+617.63 is about improving performance.
+619.6 Heating up the body with exercise
+622.87 and focusing on heat
+increases or using sauna
+626.68 for heat increases is geared
+toward growth hormone release,
+630.17 which is a separate matter.
+631.74 So you can do both of these protocols
+633.78 but you would want to do
+them at separate times.
+636.44 So just to make this very concrete
+638.31 before I move on to today's topic.
+641.09 If you're interested in doing more work,
+643.88 being able to do more sets
+and reps per unit time
+646.37 and feel better doing it or to run further
+648.95 or to cycle further, then
+cooling the palms periodically
+653.23 as I described in the previous episode
+655.37 is going to be the way to go.
+656.8 If you're interested in
+getting growth hormone release,
+659.46 well then hot sauna.
+661.28 And I offered some other tools
+if you don't have a sauna
+663.93 in the episode on growth
+hormone and thyroid hormone
+666.74 is going to be the way to go.
+668.49 So those are separate protocols.
+670.01 You can include them
+in your fitness regime
+672.61 and your training regime,
+but you do want to do them
+674.96 at separate times.
+676.64 And as a last point about this,
+678.89 I also mentioned that
+caffeine can either help
+682.03 or hinder performance
+depending on whether or not
+684.11 you're caffeine adapted
+because of the ways
+686.45 that caffeine impacts body temperature
+688.89 and all sorts of things like
+vasodilation and constriction.
+691.6 It's very simple.
+693.0 If you enjoy caffeine before your workouts
+694.81 and you're accustomed to
+caffeine, meaning you drink it
+697.36 three or five times or more a week.
+699.81 100 to 300 milligrams this
+is a typical daily dose
+703.05 of caffeine.
+704.657 Some of you are ingesting more, some less.
+705.62 If you do that regularly,
+707.08 well, then it's going to be
+just fine to ingest caffeine
+709.86 before you train.
+710.693 It's not going to impact
+your body temperature
+713.026 and your vasodilation or constriction
+714.91 in ways that will hinder you.
+715.93 However, if you're not
+a regular caffeine user
+718.57 and you're thinking, "Oh, I'm
+going to drink a cup of coffee
+720.847 "and get this huge
+performance enhancing effect."
+723.44 Well, that's not going to happen.
+725.24 Chances are it's going
+to lead to increases
+727.84 in body temperature and changes
+in the way that blood flow
+731.46 is happening in your
+body, and in particular
+733.29 on these palmer surfaces and in your face
+736.61 that is going to likely
+diminish performance.
+739.92 So if you enjoy caffeine
+and you're accustomed to it,
+743.03 so-called caffeine adapted,
+enjoy it before your training.
+745.84 If you regularly, excuse
+me, if you do not regularly
+749.53 use caffeine, then you probably
+do not want to view caffeine
+752.7 as a performance enhancing tool.
+755.34 And while we're on the topic of tools
+756.97 and because this is a month
+on athletic performance
+759.76 and exercise and physical skill learning,
+765.04 I want to offer an additional tool
+766.77 that I've certainly found
+useful, which is how to relieve
+771.06 the so-called side stitch or side cramp
+773.59 when running or swimming.
+776.35 This actually relates to respiration
+779.52 and to the nervous system
+and it is not a cramp.
+783.96 If you've ever been out
+running and you felt like
+785.53 you had a pain on your side,
+787.53 that pain could be any number of things,
+788.93 but what feels like cramping of your side
+791.45 is actually due to what's
+called collateralization
+795.493 of the phrenic nerve which
+is a lot harder to say
+797.93 than a side cramp or a side stitch.
+801.02 But here's the situation.
+803.12 You have a set of nerves, which
+is called the phrenic nerve
+807.2 P-H-R-E-N-I-C.
+810.0 The phrenic nerve, which
+extends down from your brainstem
+813.94 essentially, this region to your diaphragm
+817.02 to control your breathing.
+818.7 It has a collateral,
+meaning it has a branch
+821.33 just like the branch on a tree
+that innovates your liver.
+825.89 And if you are not
+breathing deeply enough,
+829.96 what can happen is you can
+get what's called sometimes
+833.23 a referenced pain.
+835.02 Reference pain is probably
+going to be familiar
+836.94 to any of you have ever read
+838.59 about how to recognize heart attack.
+840.46 People have heart attacks
+will sometimes have pain
+842.62 on one side of their body, the left arm,
+844.87 sometimes people that have
+pain in a part of their back
+847.28 or suddenly also get
+pain in their shoulder
+849.23 or part of their face.
+850.063 This has to do with the fact
+that many of our nerves branch,
+853.53 meaning they're collateralized
+854.96 to different organs and areas of the body.
+857.73 And the way those nerves
+are woven together,
+862.12 it's often the case that
+if we disrupt the pattern
+864.63 of firing of electrical activity
+866.15 in one of those nerve branches
+867.48 that the other ones are affected too.
+869.54 The side stitch, the pain
+in your side as often
+872.97 because of the contractions
+of the diaphragm
+876.15 because of the way you're
+breathing while you're exercising,
+878.73 running, or swimming or biking.
+880.37 And as a consequence, you
+feel pain in your side
+883.48 but that's not a cramp.
+885.49 The way to relieve it is very simple.
+887.81 You do the physiological
+side that I've talked about
+890.51 in previous episodes of
+the podcast and elsewhere
+894.08 which has a double
+inhale through the nose,
+896.07 very deep and then a long exhale.
+899.05 And you might want to repeat
+that two or three times.
+901.47 Typically that will
+relieve the side stitch
+904.93 because of the way that it
+changes the firing patterns
+907.75 of the phrenic nerve.
+909.43 So the side stitch is
+annoying, it's painful,
+912.12 sometimes we think we're dehydrated
+913.8 and you might be dehydrated.
+914.99 But oftentimes it's just
+that we're breathing
+917.31 in a way that causes some
+referenced pain of the liver.
+921.48 We call it a side stitch or a side cramp,
+924.24 and you can relieve it very easily
+925.73 through the double inhale, long exhale.
+930.24 That pattern done two or three times,
+932.75 often you can continue
+to engage in the exercise
+935.61 while you do the double inhale exhale,
+937.75 and it will just relieve itself that way.
+940.02 So give it a try if you
+experience the side stitch.
+942.82 Some people I know are also
+doing the double inhale,
+945.67 long exhale during long
+continuous bouts of exercise.
+949.89 I actually do this when I run.
+951.73 We have decent data
+although these are still
+953.91 unpublished data that that can engage
+956.07 a kind of regular cadence
+of heart rate variability.
+958.86 So there are a number of reasons
+why this physiological side
+961.26 can be useful, but it
+certainly can be useful
+963.57 for relieving the side stitch
+or so-called side cramp.
+967.71 Let's talk about the
+acquisition of new skills.
+971.49 These could be skills such as
+a golf swing or a tennis swing
+976.65 or you're shooting free throws
+or you're learning to dance
+981.52 or you're learning an instrument.
+983.76 I'm mainly going to focus
+on athletic performance.
+987.54 There are basically two types of skills.
+991.57 Open loop and closed loop.
+994.84 Open loop skills are
+skills where you perform
+998.29 some sort of motor
+action and then you wait
+1000.61 and you get immediate feedback
+1002.55 as to whether or not it
+was done correctly or not.
+1004.98 A good example will be
+throwing darts at a dartboard.
+1008.02 So if you throw the dart, you get feedback
+1010.76 about whether or not you hit the bullseye,
+1012.29 you're off the dart board,
+or you're some other location
+1015.42 on the dart board, that's open loop.
+1018.68 Closed loop would be something
+that's more continuous.
+1021.16 So let's say you're a
+runner and you're starting
+1023.71 to do some speed work and some sprints.
+1026.3 And you're running and
+you can kind of feel
+1028.49 whether or not you're running correctly,
+1029.67 or maybe even have a coach
+and they're correcting
+1033.14 your stride or you're trying
+to do some sort of skill,
+1037.968 like a hopscotch skill,
+which maybe you're doing
+1041.24 the ladder work where you're stepping
+1042.7 between designated spaces on the ground.
+1046.03 That's closed loop because as you go,
+1048.38 you can adjust your behavior
+and you can adjust the distance
+1052.64 of your steps, or you
+can adjust your speed
+1055.43 or you can adjust your
+posture and you are able
+1058.64 to essentially do more
+practice per unit time
+1063.29 but you're getting feedback
+on a moment to moment basis.
+1067.112 So you have open loop and closed loop.
+1068.16 And just to make this very clear,
+1070.44 open loop would be
+practicing your tennis serve.
+1072.91 So let's say that you set a target
+1075.01 on the other side of the net.
+1076.52 You throw the ball up
+and you hit the ball,
+1079.96 it goes over that's open-loop.
+1082.793 You'll know whether or
+not you were in the court,
+1083.77 you were on the location you wanted to hit
+1085.64 or close to it or not, that's open loop.
+1088.26 Closed loop would be if
+you're in a regular can.
+1092.582 So maybe you're learning a swim stroke,
+1094.959 or maybe you're trying to
+learn a particular rhythm
+1096.7 on the drum.
+1098.173 So maybe you're trying to
+learn a particular beat.
+1099.08 I'm not very musical, so I'm
+not going to embarrass myself
+1101.35 by giving an example of
+this, although later I will,
+1105.78 where you're trying to get
+a particular rhythm down.
+1108.58 And if you're not getting it,
+you can adjust in real time
+1112.04 and try and catch up or slow
+down or speed up, et cetera.
+1115.0 So hopefully you'll understand
+open loop and closed loop.
+1118.56 You should always know before
+you try and learn a skill,
+1120.99 whether or not it's
+open loop or closed loop
+1123.78 and I'll return to why
+that's important shortly.
+1126.47 But if you want to learn something,
+1127.99 ask is it open loop or closed loop.
+1130.94 There are essentially three
+components of any skill
+1134.54 that involves motor movement.
+1136.51 And those are sensory
+perception, actually perceiving
+1140.66 what you are doing and
+what's happening around you.
+1144.18 So what you see, what you hear,
+1146.44 sometimes you're paying
+attention to what you're doing
+1148.48 specifically like the
+trajectory of your arm
+1150.96 or how you're moving your feet.
+1152.33 If you're learning to dance,
+sometimes you're more focused
+1154.7 on something that's
+happening outside of you,
+1156.6 like you're listening
+for something in music
+1158.84 or you're paying attention
+1159.75 to the way your partner
+is moving, et cetera.
+1162.22 So there's sensory input.
+1164.28 Then there are the actual movements.
+1166.5 So they're the movements
+of your limbs and body.
+1169.36 And then there's something
+called proprioception
+1171.95 and proprioception is often discussed
+1175.42 as kind of a sixth sense of
+knowing where your limbs are
+1180.11 in relation to your body.
+1182.14 So proprioception is vitally important.
+1185.15 If I reached down and pick
+up this pen and pick it up,
+1187.21 I'm not thinking about
+where the pen in my hand is
+1190.02 relative to my body, but
+proprioceptively, I'm aware of it
+1195.02 at kind of a six sense
+deeper subconscious level.
+1198.15 I can also make myself
+aware of where my limbs are.
+1202.28 And typically when we learn,
+we are placing more focus
+1207.13 on proprioception than we do ordinarily.
+1210.0 So if I get up from this
+chair and I happen to walk
+1212.5 out of the room, I don't
+think about where my feet
+1214.87 are landing relative to one another.
+1216.86 But if my leg had fallen asleep
+1219.43 because I had been leaning on
+one of the nerves of my leg
+1223.09 or something like that, and my
+leg feels all tingly or numb.
+1227.68 I and you, if this were to happen to you,
+1230.35 would immediately notice a shift in gait.
+1231.98 It would feel strange,
+I'd have to pay attention
+1233.6 to how I'm stepping.
+1234.46 And the reason is I'm not getting
+1236.416 any proprioceptive feedback.
+1238.18 Now, skill learning has a
+lot of other dimensions too,
+1241.8 but those are the main ones
+that we're going to focus on.
+1244.42 So just to remind you,
+you need to know open loop
+1246.76 or closed loop and you need
+to know whether or not,
+1249.23 excuse me, you need to know
+that there's sensory perception
+1252.52 what you're paying attention to,
+1255.33 movements themselves and proprioception.
+1258.51 And there's one other important
+thing that you need to know
+1262.42 which is that movement
+of any kind is generated
+1265.66 from one, two or three sources
+within your nervous system,
+1269.73 within your brain and body.
+1271.91 These are central pattern generators
+1275.52 which are sometimes called
+CSPGs, excuse me, CPGSs,
+1280.722 CSPGs are something entirely
+different in biology.
+1284.28 CPGSs, this just goes to
+show that I have a module.
+1287.99 CSPGs are chondroid and
+sulfate proteoglycans.
+1290.23 They have nothing to do with this topic.
+1291.88 CPGSs are central pattern
+generators or CPGs,
+1296.84 they're sometimes called.
+1298.37 These CPGs are in your
+spinal cord, mine and yours,
+1303.4 different ones and they
+generate repetitive movements.
+1307.0 So if you're walking, if you're
+running, if you're cycling,
+1311.07 if you're breathing,
+which presumably you are
+1313.34 and you're doing that in a
+regular rhythmic cadence,
+1316.7 central pattern generators
+are controlling that movement.
+1319.81 After you learn how to
+walk, run, swim, cycle,
+1323.54 do anything really, much
+of the work is handed off
+1327.23 to the central pattern generators.
+1329.65 And there were experiments that were done
+1332.54 in the 60s, 70s and 80s
+that actually looked
+1335.7 at decerebrate animals and
+even decerebrate humans.
+1340.86 These are humans and animals
+that lack a cerebral cortex.
+1344.65 They lack much of the brain
+and yet they can engage
+1348.31 in what's called a fictive movement.
+1350.66 So it sounds like a kind
+of barbaric experiment.
+1352.73 I'm glad I wasn't the
+one to have to do them
+1355.117 but this is the stuff of
+neuroscience textbooks
+1356.62 that cats or dogs or mice that
+have their neocortex removed
+1362.39 put them on a treadmill,
+they'll walk just fine.
+1364.57 And they will adjust their
+speed of walking just fine
+1367.82 even though they basically
+lack all their thinking
+1370.25 and decision-making brain.
+1371.597 And it turns out humans that have,
+1373.96 unfortunately, massive
+strokes to their cortex
+1376.75 and lack any neocortex but preserve
+1380.17 the central pattern generators
+will also walk just fine,
+1384.57 even though they lack any of
+the other stuff in the brain.
+1387.89 So these CPGs or CPGSs are amazing,
+1392.29 and they control a lot of
+our already learned behavior.
+1396.0 When you're really good at something,
+1397.93 CPGs are controlling a
+lot of that behavior.
+1402.798 And that's true also for a golf swing.
+1404.76 Even if it's not really repetitive,
+1406.7 somebody who's really good
+at golf it's going to,
+1408.83 I guess you call it a T.
+1410.55 You put the ball on the T.
+1411.57 I show with my knowledge of golf.
+1412.75 I've only done mini golf, frankly,
+1416.618 but someday maybe I'll learn how to golf,
+1417.75 but you set the golf ball down and swing,
+1419.49 set the golf ball down, swing.
+1421.92 Central pattern generators
+are going to handle
+1423.78 a lot of that.
+1424.87 If I were to go to the golf course.
+1427.58 Stanford has a beautiful golf course.
+1429.0 If I were to go out there
+and put a ball on the T,
+1430.88 my central pattern generators
+would not be involved
+1432.9 in that at all.
+1434.28 The moment I bring the club back to swing,
+1438.46 it's going to engage other things.
+1440.86 And the other things
+that's going to engage
+1442.67 because I don't know
+that behavior now or then
+1446.17 is upper motor neurons.
+1448.53 We have motor neurons in our cortex,
+1451.56 in our neocortex that
+control deliberate action.
+1455.27 And those are the ones
+that you're engaging
+1457.52 when you are learning.
+1459.2 Those are the ones that
+you have to pay attention
+1463.41 in order to engage.
+1465.12 And that's what's happening, for instance,
+1466.35 if I decide I'm going to
+reach down and pick up my pen,
+1469.194 which I rarely think about,
+but now I'm thinking about it
+1471.181 and I'm going to do this
+in a very deliberate way.
+1472.014 I'm going to grab with
+these two fingers and lift.
+1473.72 My upper motor neurons are now involved.
+1476.907 So upper motor neurons are very important
+1479.34 because a little bit later in the episode
+1481.49 when we talk about how
+to use visualization
+1484.4 in order to accelerate skill learning,
+1487.05 it's going to leverage
+these upper motor neurons
+1490.51 in very particular ways.
+1492.1 So we have CPGs for rhythmic movement,
+1493.77 upper motor neurons for
+deliberate unlearned movements
+1496.85 or movements that we are
+in the process of learning.
+1499.73 And then we have what are
+called lower motor neurons.
+1502.49 Lower motor neurons are
+the ones in our spinal cord
+1505.0 that send little wires out to our muscles
+1506.84 which actually caused the
+firing of those muscle fibers.
+1510.92 So the way to think
+about this as you've got
+1512.91 upper motor neurons which talk to CPGs
+1515.43 and the lower motor neurons.
+1516.64 So it's really simple.
+1518.08 And now, you know most
+everything there is to know
+1521.34 about the neural pathways
+controlling movement,
+1524.33 at least for sake of this discussion.
+1527.259 So anytime we learn
+something, we have to decide
+1529.94 what to place our sensory perception on,
+1532.94 meaning what are we going to focus on.
+1535.36 That's critical if
+you're listening to this
+1537.03 and you're the type of person
+who likes taking notes,
+1539.45 this should be the
+second question you ask.
+1541.68 Remember the first question
+is, is it open loop
+1543.81 or closed loop?
+1545.04 The second question should be,
+1547.79 what should I focus my attention
+on, auditory attention,
+1551.15 visual attention or proprioception.
+1554.25 Should I focus on where my
+limbs are relative to my body
+1557.38 or should I focus on the outcome?
+1559.82 This is a critical distinction.
+1561.64 You can decide to learn
+how to do a golf swing
+1564.01 or learn how to shoot free throws
+1565.69 or learn how to dance tango
+1567.901 and decide that you are going to focus
+1569.16 on the movements of your partner
+1572.81 or the positions of your feet.
+1574.38 You maybe are going to look at them,
+1576.15 maybe you're going to sense them.
+1577.94 You're going to actually
+feel where they are,
+1580.98 or maybe you're going
+to sense the position
+1583.23 and posture of your body,
+which is more proprioception.
+1586.17 So you have to allocate your attention.
+1588.22 And I'm going to tell you how
+to allocate your attention
+1590.49 best in order to learn faster.
+1592.5 So these are the sorts of
+decisions that you have to make.
+1595.76 Fortunately for you,
+you don't have to think
+1597.64 about whether or not you're going to use
+1598.73 your upper motor neurons
+and your lower motor neurons
+1602.09 or not, because if you don't
+know how to do something,
+1604.734 you're automatically going to engage
+1605.567 your upper motor neurons.
+1606.41 And if you do, then
+you're not going to use
+1610.44 your upper motor neurons.
+1611.31 You're mainly going to rely
+on central pattern generators.
+1613.84 You are always using
+your lower motor neurons
+1616.98 to move muscle.
+1618.13 So we can really simplify things now.
+1619.79 I've given you a lot of
+information but we can simplify it.
+1622.27 Basically open loop or closed
+loop, that's one question
+1625.4 and what am I going to focus on?
+1627.16 And then your neurology
+will take care of the rest.
+1629.84 So now I want to talk about
+realistic expectations.
+1634.71 Somewhere in Hollywood presumably,
+1638.49 it got embedded in somebody's mind
+1640.91 that instant skill
+acquisition was possible,
+1644.44 that you could take a particular pill
+1646.49 or you could touch a particular object
+1649.14 or you could have a wand wave over you
+1651.85 and you would suddenly have a skill.
+1654.66 And so that is the result
+of Hollywood at all.
+1660.54 It doesn't exist, at least not in reality.
+1663.69 And I love movies, but
+it simply doesn't exist.
+1667.04 Then the self-help literature
+created another rule
+1671.66 called the 10,000 hours rule.
+1674.31 And frankly, that doesn't
+really match the literature,
+1677.93 at least the scientific literature either.
+1681.12 I like it because it implies
+that learning takes time,
+1684.89 which is more accurate
+than the Hollywood at all
+1688.63 instant skill acquisition rule,
+1692.0 which isn't really a rule, it's a myth.
+1694.71 But the 10,000 hours rule
+overlook something crucial,
+1698.52 which is that it's not about hours,
+1702.62 it's about repetitions.
+1704.41 Now, of course there's a
+relationship between time
+1707.86 and repetitions, but there
+are some beautiful experiments
+1711.86 that point to the fact
+that by simple adjustment
+1717.21 of what you are focused
+on as you attempt to learn
+1720.8 a new skill, you can adjust
+the number of repetitions
+1724.59 that you do, you adjust
+your motivation for learning
+1727.84 and you can vastly accelerate learning.
+1731.64 Some of you may recognize
+this by its internet name,
+1735.27 which is not a scientific term,
+1736.95 which is the super Mario effect.
+1739.22 There's actually a quite
+good video on YouTube
+1742.06 describing the super Mario effect.
+1743.75 I think it was a YouTuber
+who has I think a background
+1746.96 in science and he did an
+interesting experiment.
+1751.07 And I'll talk about his experiment first
+1753.77 and then I will talk
+about the neurobiology
+1756.75 that supports the result that he got.
+1760.22 The super Mario effect relates to the game
+1763.1 super Mario brothers, but
+you'll see why at the end.
+1766.17 But basically what they did
+was they had 50,000 subjects,
+1770.81 which is a enormous number
+of subjects learn a program,
+1776.37 essentially taking words
+from a computer program
+1779.24 or the commands for a computer program
+1781.74 that were kind of clustered
+in a column on the right.
+1785.01 So these are the sorts of
+things that computer programmers
+1787.64 will be familiar with
+but other people won't.
+1790.78 And those commands are essentially,
+1793.12 they essentially translate
+to things like go forward.
+1796.43 And then if it's a right
+hand turn in the maze,
+1798.54 then go right and continue
+until you hit a choice point,
+1802.42 et cetera.
+1803.725 So it's a bunch of instructions,
+but the job of the subjects
+1805.94 in these experiments were to
+organize those instructions
+1808.38 in a particular way that
+would allow a little cursor
+1811.27 to move through the main successfully.
+1813.74 So basically the goal was,
+or at least what the subjects
+1816.44 were told is that anyone can
+learn to computer program.
+1820.12 And if somebody can just
+organize the instructions
+1823.86 in the right way, then they can program
+1826.21 this little cursor to move
+through amaze, very simple.
+1830.48 And yet, if you don't have any background
+1832.79 in computer programming,
+or even if you do,
+1834.8 it takes some skill.
+1836.09 You have to know what commands to give
+1837.74 in what particular order.
+1838.75 And they made that very easy.
+1839.81 You could just assemble them in a list
+1841.7 over onto the right.
+1844.06 So people started doing this.
+1845.72 Now there were two groups and
+some one half of the subjects,
+1851.68 if they got it wrong, meaning
+they entered a command
+1856.15 and the cursor would move
+and it was the wrong command
+1860.96 for this little cursor
+to move through the maze,
+1864.03 they saw a signal jump up
+on their screen that said,
+1869.55 that did not work, please try again.
+1872.64 That's it, if they put
+in the wrong command
+1874.68 or is in the wrong sequence,
+it'll say that did not work
+1876.56 please try again.
+1877.994 And then the subjects would
+reorganize the instructions
+1880.41 and then the little cursor would continue.
+1881.82 And if they got it wrong again,
+1883.6 it would say that does not
+work, please try again.
+1886.24 The other half of the subjects,
+if they got something wrong
+1890.2 were told you just lost five
+points, please continue.
+1896.07 So, that's the only
+difference in the feedback
+1898.43 that they got.
+1899.93 Now I have to confess,
+I would have predicted
+1903.77 based on my knowledge
+of dopamine circuitry
+1907.02 and reward contingency
+and epinephrin and stress
+1912.17 and motivated learning.
+1913.41 And this other thing that we've been told
+1915.75 in many many books on behavioral economics
+1918.86 and in the self-help literature,
+1920.14 which is that people will work much harder
+1922.78 to prevent losing something than they will
+1926.24 to gain something, that
+you hear all the time.
+1929.39 And it turns out that that's
+not at all what happened.
+1933.11 If they looked at the
+success rate of the subjects,
+1937.73 what they found was that
+the subjects that were told
+1940.93 that did not work, please try
+again, had a 68% success rate.
+1946.98 68% of them went on to
+successfully program this cursor
+1950.33 moving through the maze.
+1952.0 Whereas the ones that were
+told you lost five points
+1955.54 had a 52% success rate, which
+is a significant difference.
+1960.5 But the source of the success
+or the lack of success
+1965.14 is really interesting.
+1967.07 The subjects that were
+told that did not work,
+1969.76 please try again, tried many,
+many more times per unit time.
+1975.8 In other words, they made
+more attempts at programming
+1978.57 this thing to allow this cursor
+to move through the maze.
+1981.35 Whereas the people that were
+told you lost five points
+1984.0 gave up earlier or gave up entirely.
+1987.19 Okay, so let's just step back from this
+1989.43 because to me, this was very surprising.
+1992.17 It violates a lot of things that I'd heard
+1994.24 in the kind of popular culture
+or the self-help literature
+1998.08 that people will work much
+harder to avoid losing something
+2000.9 than they will to gain something.
+2002.59 And it didn't really fit
+with what I understood
+2005.43 about reward contingencies and dopamine,
+2009.0 but it did fit well with
+another set of experiments
+2011.55 that I'm very familiar with
+2012.81 from the neuroscience literature.
+2014.67 And I'll give you the punchline first.
+2016.36 And then we're going to
+take what these data mean
+2018.45 and we're going to talk
+about a learning protocol
+2021.39 that you can use that will
+allow you to learn skills faster
+2025.11 by willingly participating
+in more repetitions
+2029.49 of the skill learning,
+meaning you will want
+2031.56 to do more repetitions even
+if you're getting it wrong
+2035.37 some or most of the time.
+2037.79 So the experiment that
+I want to tell you about
+2040.35 is called the tube test.
+2041.85 And this is generally done in mice,
+2043.98 although it's sometimes been done in rats
+2045.56 and it has a lot of
+parallels to some things
+2047.51 that you've probably
+seen and experienced even
+2052.23 in human life, in regular
+life, maybe even in your life.
+2056.24 So here's the experiment.
+2058.01 You take two rats, you put
+them in a tube or two mice,
+2060.82 you put them in a tube.
+2062.16 And mice and rats, they don't
+like to share the same tube.
+2065.82 So what they'll do is they'll
+start pushing each other
+2068.55 back and forth, back and forth.
+2070.57 Sooner or later, one of the rats or mice
+2072.73 pushes the other one out.
+2074.83 The one that got pushed out is the loser,
+2076.38 the one that gets the tube is the winner.
+2080.03 Now you take the winner, you
+give it a new competitor.
+2084.14 And what you find is that the mouse or rat
+2088.05 that won previously has a much higher
+2091.56 than chance probability of
+winning the second time.
+2095.75 In other words, winning
+before leads to winning again.
+2100.61 And the reverse is also true.
+2101.93 If you take the loser
+and you put that loser in
+2104.86 with another mouse,
+fresh mouse, new mouse,
+2108.99 the loser typically will lose
+at much greater probability
+2112.43 than chance.
+2113.263 And this is not related to
+differences in strength or size
+2116.57 or testosterone or any other things
+2118.67 that might leap to mind
+as explanations for this
+2121.13 because those were all controlled for.
+2123.51 Now that results have been
+known about for decades.
+2127.65 But three years ago, there
+was a paper published
+2130.55 in the Journal Science,
+phenomenal journal.
+2132.53 It's one of the three apex journals,
+2135.09 that examined the brain area
+that's involved in this.
+2137.55 Turns out a particular
+area of the frontal cortex
+2140.45 for those of you that want to know.
+2141.78 And they did a simple experiment
+where the experimenters
+2145.12 increased or decreased the
+activity of this brain area
+2148.56 in the prefrontal cortex,
+2149.58 little sub region of
+the prefrontal cortex.
+2151.13 And what they found is if they
+stimulated this brain area,
+2155.25 a mouse or rat, regardless
+of whether or not
+2158.11 it had been a winner or loser before,
+2160.13 became a winner every single time.
+2163.43 And they showed that if
+they blocked the activity
+2166.76 of this brain area,
+regardless of whether or not
+2169.75 the mouse or rat had
+been a winner or loser,
+2171.78 it became a loser every single time.
+2174.721 And this translated to other scenarios,
+2176.66 other competitive scenarios
+where they'd put a bunch of mice
+2180.5 or rats in a kind of cool chamber,
+2183.49 they'd have a little
+heat lamp in the corner
+2185.1 and mice like heat.
+2187.067 And there was only enough
+space for one mouse
+2188.38 to be under the heat.
+2190.34 And the one that had won in the tube test
+2192.37 or that had the brain area stimulated
+2193.96 always got the nice warm spot.
+2197.36 So what is this magic brain
+area, what is it doing?
+2200.44 Well, the reason I'm
+bringing this up today
+2202.4 and the reason I'm
+bringing it up on the heels
+2204.4 of the super Mario effect
+is that stimulation
+2207.35 of this brain area had a very simple
+2211.31 and very important effect,
+2212.95 which was, it led to more
+forward steps, more repetitions,
+2217.37 more effort, but not in terms
+of sheer might and will,
+2221.53 not digging deeper, just more
+repetitions per unit time.
+2226.518 And the losers had fewer
+repetitions per unit time.
+2229.81 So the super Mario effect,
+this online experiment
+2233.41 and the tube test, which has been done
+2235.24 by various labs and
+repeated again and again
+2237.86 point to a simple but very important rule,
+2241.23 which is neither the 10,000 hours rule
+2243.59 nor the magic wand Hollywood
+version of learning.
+2246.9 But rather the
+neuro-biological explanation
+2249.51 for learning a skill
+is you want to perform
+2253.31 as many repetitions per unit
+time, as you possibly can.
+2258.8 At least when you're first
+trying to learn a skill.
+2261.81 I want to repeat that, you want
+to perform as many repetitions
+2265.12 as you possibly can at least
+when you're first trying
+2268.38 to learn a skill.
+2270.56 Now that might sound like
+a duh, it just more reps,
+2273.68 but it's not so obvious.
+2276.09 There's no reason why more repetitions
+2278.4 should necessarily lead to faster learning
+2281.98 because you could also say,
+well, more repetitions,
+2283.94 you can make more errors
+2285.15 and those errors would
+lead to poor performance
+2287.63 like misstepping a number of times.
+2289.92 And in these cases, there's
+very little feedback.
+2293.63 It's not like every time
+the rat pushes forward
+2297.78 or moves back that it is sensing,
+2300.01 oh I'm winning, I'm losing,
+I'm winning, I'm losing
+2301.83 on a micro level.
+2303.478 It probably does that as it
+starts to push the other one out
+2304.9 the rat or mouse probably
+thinks, "I'm winning."
+2306.73 And as it's backing up, it
+probably thinks, "I'm losing."
+2309.54 As you play the game,
+the super Mario game,
+2312.86 you are told, nope, that didn't work.
+2315.08 Nope, that didn't work, please try again.
+2318.89 But the important thing
+is that the winners
+2322.54 are always generating more
+repetitions per unit time.
+2326.49 It's just a repeat of
+performance, repeat of performance
+2329.78 even if there are errors.
+2331.17 And that points to
+something vitally important,
+2334.08 which is reps are important
+but making error reps
+2340.03 is also important.
+2341.31 In fact, it might be the
+most important factor.
+2344.782 So let's talk about errors and
+why those solve the problem
+2348.06 of what to focus on.
+2349.94 Because as I said earlier, if
+you want to learn something,
+2352.78 you need to know if it's
+open loop or closed loop
+2355.33 and you need to know what to focus on,
+2357.4 where to place your perception.
+2359.05 And that seems like a tough task
+2361.13 but errors will tell you
+exactly what to focus on.
+2364.58 So let's talk about errors and
+why you can leverage errors
+2367.65 to accelerate skill learning.
+2369.63 Okay, so we've established that performing
+2371.64 the maximum number of
+repetitions per training session
+2375.66 is going to be advantageous.
+2377.68 And that might seem obvious
+but there's a shadowy side
+2382.06 to that, which is, well why
+would I want to just repeat
+2385.65 the same thing over and over
+again if I'm getting it wrong,
+2388.505 90% of the time.
+2390.085 And the reason is that
+the errors actually cue
+2392.09 your nervous system to two things;
+2395.18 one to error correction and
+the other is it opens the door
+2400.82 or the window for neuroplasticity.
+2402.94 Neuroplasticity is the brain
+and nervous system's ability
+2406.28 to change in response to experience,
+2408.63 essentially to custom modify itself
+2411.48 in order to perform anything better.
+2413.94 We did an entire month on neuroplasticity
+2416.49 and I talked a little bit about errors
+2417.68 and why they're important.
+2419.1 Now we're going to make this very concrete
+2421.4 and operationalize it,
+make it very actionable.
+2424.64 There was a paper that
+was published in 2021
+2427.92 from Norman at all.
+2429.62 This is a very important paper.
+2432.05 It was published in the Journal Neuron
+2433.55 which is a cell press
+journal, excellent journal.
+2436.56 The title of the paper
+gives it away essentially,
+2439.42 which is post error
+recruitment of frontal sensory
+2442.54 cortical projections promotes attention.
+2445.54 Now, what that says is that
+when you make an error,
+2451.53 it causes an activation of the brain areas
+2454.66 that anchor your attention.
+2456.74 Remember we need perception, attention,
+2459.97 which they're essentially the same thing.
+2461.27 We need proprioception
+and we need the upper
+2463.41 and lower motor neurons to
+communicate in the proper ways.
+2466.77 And this vital question is
+what to pay attention to.
+2469.84 Errors tell your nervous system
+2472.09 that something needs to change.
+2473.99 So if you are performing a task or a skill
+2477.02 like you're learning how to
+dance and you're stepping
+2479.544 on the other person's
+toes or you're fumbling
+2480.75 or you're not getting it right,
+2482.29 those errors are opening the
+possibility for plasticity.
+2485.38 If you walk away at that point,
+2487.301 you've made the exact wrong choice.
+2490.82 Unless the errors are somehow
+hazardous to your health
+2493.34 or somebody else's wellbeing,
+you want to continue
+2496.8 to engage at a high repetition rate.
+2499.28 That's really where the
+learning is possible.
+2501.73 Without errors, the brain
+is not in a position
+2505.75 to change itself.
+2507.22 Errors actually cue the
+frontal cortex networks,
+2511.23 what we call top-down processing
+and the neuromodulators,
+2514.48 things like dopamine and
+acetylcholine and epinephrin
+2517.19 that will allow for plasticity.
+2520.01 So while the super Mario experiment,
+2521.82 the maze experiment was only
+focused on generating errors,
+2525.16 telling people that wasn't
+right, please try again
+2527.06 or that wasn't right,
+you lost five points.
+2529.82 The key distinction is
+that the errors themselves
+2533.78 cued people to the fact that they needed
+2535.44 to change something.
+2537.18 So if you're trying to learn a new skill
+2540.09 and you're screwing up and
+you're making mistakes,
+2542.48 the more mistakes you
+make, the more plastic
+2544.94 your brain becomes such
+that when you get it right,
+2548.84 that correct pattern will be
+rewarded and consolidated.
+2553.52 And you can trust that it will
+2555.39 because the performance
+of something correctly
+2557.86 is associated with the release
+2559.71 of this neuromodulator dopamine.
+2561.61 Dopamine is involved in
+craving and motivation.
+2564.63 It's involved in a lot of things,
+2565.82 but it's also involved in learning.
+2569.13 We will do an entire episode
+on dopamine and learning
+2572.01 but because some of you
+are probably wondering,
+2574.88 this does not mean that just
+increasing your dopamine levels
+2577.55 before learning will
+allow you to learn faster.
+2579.83 In fact, increasing your
+dopamine levels before learning
+2583.66 using pharmacology will actually reduce
+2586.41 what's called the signal to noise.
+2587.93 It will make these increases in dopamine
+2590.4 that pop up in your brain that
+suddenly make you realize,
+2593.127 "Oh, I got that one right."
+2594.75 It will make those smaller relative
+2597.22 to the background levels of dopamine.
+2600.44 You want a big spike in
+dopamine when you perform
+2603.5 a motor pattern correctly and
+you want to make lots of errors,
+2607.11 many, many repetitions of errors
+2609.63 in order to get to that
+correct performance.
+2612.2 Now, if you're like most
+people you're going to do this
+2614.83 in a way that's somewhat random.
+2617.78 Meaning let's say it's a tennis serve.
+2619.45 I can't play tennis,
+2620.63 I think I've probably played tennis twice.
+2622.88 So if I throw the ball
+up in the air and hit it,
+2624.55 I'm going to get it wrong
+and probably hit the net,
+2626.59 then it hit the net.
+2627.423 Then I'll probably go too long
+2628.76 then I'll probably go over the fence.
+2630.16 At some point, I like to
+think I'll get it correct.
+2633.79 The dopamine signal for that
+is going to be quite big
+2637.4 and I'll think, "Okay,
+what did I do there?
+2639.497 "I actually don't know, I
+wasn't paying attention.
+2641.267 "What I was paying attention
+to is whether or not
+2643.61 "the ball went to the correct location
+2645.413 "on the opposite side of the net."
+2646.246 Remember it's an open loop move,
+2647.61 so I don't actually know
+what I did correctly.
+2649.85 But your nervous system
+will take care of that
+2652.24 provided I in this case
+complete more and more
+2656.1 and more repetitions.
+2657.16 Now, if I were to just elevate
+my basil level of dopamine
+2660.06 by taking, I don't know,
+1500 milligrams L tyrasine
+2663.739 or something, that would
+be bad because the increase
+2665.93 in dopamine would actually be much lower.
+2669.72 We would say the delta is smaller.
+2671.37 The signal to noise is smaller
+2673.28 if my overall levels of
+dopamine are very, very high.
+2675.83 So I'm actually going to learn less well.
+2677.84 So for skill learning,
+motor skill learning,
+2680.47 increasing your dopamine levels
+prior is not a good idea.
+2684.13 It might help with motivation
+to get to the learning
+2686.61 but it's not going to improve
+the plasticity process itself
+2689.59 and it's likely to hinder it.
+2692.05 And so that's very important.
+2693.65 So these errors cue the brain
+that something was wrong
+2699.39 and they open up the
+possibility for plasticity.
+2701.97 It's what sometimes
+called the framing effect,
+2703.85 it frames what's important.
+2706.435 And so I think this is a
+shift that we've heard about,
+2709.01 growth mindset which is the
+incredible discovery and theory
+2713.5 and practice of my colleague,
+Carol Dweck at Stanford.
+2715.84 This is distinct from that.
+2717.8 This isn't about motivation to learn,
+2720.09 this is about how you actually learn.
+2721.59 So the key is designate a
+particular block of time
+2724.78 that you are going to perform repetitions.
+2727.73 So maybe that's 30 minutes,
+maybe that's an hour.
+2730.19 Work for time and then try and perform
+2732.72 the maximum number of repetitions
+that you can do safely
+2736.18 for you and others per unit time.
+2739.06 That's going to be the best
+way to approach learning
+2742.429 for most sessions.
+2744.06 I will talk about other
+things that one can do,
+2746.47 but making errors is key.
+2748.24 And this isn't a motivational speech.
+2749.74 I'm not saying, "Oh, go make errors,
+2752.167 "errors are good for you.
+2753.051 "You have to fail in order to win."
+2753.884 No, you have to fail in order
+to open up the possibility
+2757.54 of plasticity, but you
+have to fail many times
+2760.39 within the same session.
+2762.21 And those failures will cue your attention
+2765.09 to the appropriate sensory events.
+2766.92 Now, sometimes we're working with a coach.
+2769.12 And so this is a shout
+out to all the coaches,
+2771.74 thank you for doing what you do.
+2773.81 However, there needs to be at least
+2777.64 what the scientific literature say.
+2779.66 There needs to be a period
+of each training session
+2781.97 whereby the athlete or
+the person of any kind
+2785.44 can simply pay attention to their errors
+2787.8 without their attention
+being cued to something else.
+2791.05 A really well-trained coach will say,
+2792.497 "Oh, your elbows swinging too high,
+2794.547 "or you're not gripping the racket
+2796.407 "in the appropriate way," et cetera.
+2798.36 They can see things that
+the practitioner can't see.
+2800.91 And of course that's
+the vitally important.
+2803.04 But the practitioner also needs to use
+2806.92 this error recognition signal,
+2809.97 they need to basically focus on something
+2812.777 and the errors are going to
+tell them what to focus on.
+2816.2 So put simply there needs
+to be a period of time
+2819.45 in which it's just
+repetition after repetition,
+2821.42 after repetition.
+2822.253 I think many people including coaches
+2824.49 are afraid that bad
+habits will get ingrained.
+2827.45 And while indeed that's possible,
+2830.11 it's very important
+that these errors occur
+2832.51 in order to cue the attentional systems
+2834.75 and to open the door for plasticity.
+2836.96 So if I'm told, "Look, I'm
+standing a little wide,
+2839.787 "I need to tighten up
+my stance a little bit."
+2842.23 Great, but then I need to
+generate many repetitions
+2844.72 from that tighten stance.
+2846.36 So if I'm constantly being
+cued from the outside
+2848.5 about what I'm incorrectly,
+2850.3 that's not going to be as efficient.
+2852.48 So for some people,
+these learning sessions
+2854.96 might be 10 minutes, for some
+people, it might be an hour.
+2857.4 Whatever you can allocate
+because your lifestyles
+2860.21 will vary in your whether or not
+2862.858 you're a professional
+athlete, et cetera will vary.
+2863.95 You want to get the maximum
+number of repetitions in
+2866.3 and you want to make errors.
+2867.59 That's allowing for plasticity.
+2869.83 So science points to the fact
+2871.49 that there's a particular
+sequencing of learning sessions
+2875.54 that will allow you to learn faster
+2877.4 and to retain the skill learning
+2879.78 and involves doing exactly
+as I just described,
+2883.03 which is getting as many
+repetitions as you can
+2886.11 in the learning session,
+paying attention to the errors
+2890.34 that you make.
+2892.08 And then the rewards
+that will be generated,
+2894.67 again, these are neurochemical rewards
+2896.62 from the successful
+performance of a movement
+2898.93 or the approximate successful performance.
+2902.39 So maybe you get the golf
+swing better but not perfect,
+2905.97 but that's still going to be rewarded
+2908.34 with this neurochemical mechanism.
+2910.66 And then after the session,
+2912.73 you need to do something very specific
+2915.93 which is nothing.
+2918.87 That's right.
+2920.94 There are beautiful
+data describing neurons
+2925.13 in our hippocampus, this
+area of our brain involved
+2928.95 in the consolidation of new memories.
+2932.44 Those data points to
+the fact that in sleep,
+2935.99 there's a replay of
+the sequence of neurons
+2939.22 that were involved in certain
+behaviors the previous day
+2942.0 and sometimes the
+previous day before that.
+2945.26 However, there are also data that show
+2948.55 that after a skill learning session,
+2951.1 any kind of motor movement
+provided you're not bringing in
+2956.5 a lot more additional new sensory stimuli,
+2961.78 there's a replay of the motor sequence
+2964.46 that you performed correctly
+and there's an elimination
+2969.71 of the motor sequences that
+you performed incorrectly
+2973.42 and they are run backward in time.
+2977.74 So to be very clear about
+this, if I were to learn
+2980.55 a new skill or navigate a new city
+2982.9 or let's just stay with the motor skill,
+2984.98 let's say the free-throw or a
+golf swing or a tennis serve,
+2989.17 dance move, novice.
+2991.48 So I'm still going to
+make a lot of errors,
+2992.99 don't get it perfectly,
+2994.08 but maybe I get a little bit better
+2996.21 or I perform it correctly
+three times out of 1000.
+3000.435 And it sounds like something I might do
+3002.13 and there I'm probably
+being generous to myself.
+3004.93 After I finished the training session,
+3007.84 if I do nothing, I'm not focused
+3010.71 on some additional learning.
+3011.94 I'm not bringing a lot of
+sensory information in.
+3015.61 If I just sit there and close my eyes
+3017.55 for five to 10 minutes, even one minute,
+3021.51 the brain starts to
+replay the motor sequence
+3025.31 corresponding to the
+correct pattern movement,
+3028.16 but it plays that sequence backward.
+3030.91 Now why it plays it
+backward, we don't know.
+3034.33 If I were to wait until
+sleep or regardless
+3037.32 of when I sleep later that night,
+3041.31 the sequence will be replayed forwards
+3045.251 in the proper sequence.
+3047.32 Immediately afterward
+it's played a backward
+3049.47 for reasons that are still unclear.
+3051.66 But the replay of that sequence backwards
+3054.67 appears to be important
+for the consolidation
+3057.72 of the skill learning.
+3059.92 Now, this is important because many people
+3062.47 are finishing their jujitsu class
+3065.09 or they're finishing their yoga class
+3066.64 or they're finishing their dance class
+3068.13 or they're finishing some skill learning
+3070.08 and then they're immediately
+devoting their attention
+3072.28 to something else.
+3074.65 You hear a lot about visualization
+3076.12 and we are going to talk
+about visualization.
+3078.67 But in the kind of obsession with the idea
+3081.26 that we can learn things,
+just sitting there
+3082.98 with our eyes closed without
+having to perform a movement,
+3085.8 we've overlooked something
+perhaps even more important
+3089.51 or at least equally important,
+3090.84 which is after skill
+learning, after putting effort
+3094.28 into something, sitting
+quietly with the eyes closed
+3098.54 for one to five to 10
+minutes allows the brain
+3102.73 to replay the sequence in a
+way that appears important
+3106.49 for the more rapid consolidation
+of the motor sequence
+3110.89 of the pattern and to
+accelerated learning.
+3113.62 If you'd like to learn more about this,
+3115.87 this is not work that I was involved in,
+3117.58 I want to be very clear.
+3119.0 There's an excellent paper
+that covers this and much more
+3122.04 for those of you that really
+want to dive deep on this
+3124.522 and we will dive deeper in a moment.
+3125.83 This is a review that was
+published in the Journal Neuron,
+3128.87 excellent journal.
+3131.05 Many of the papers that I'm referring to
+3132.9 were covered in this
+review which is titled,
+3135.85 Neuroplasticity Subserving
+Motor Skill Learning by Dayan
+3141.405 D-A-Y-A-N, I hope I'm not
+butchering the pronunciation
+3144.08 and Cohen, by Leonard Cohen,
+3145.93 but not the Leonard Cohen
+most of us are familiar with,
+3150.0 the musician, Leonard Cohen.
+3152.49 Dayan and Cohen, neuroplasticity
+3154.94 subserving motor skill learning.
+3157.17 And this was published in
+2011, but there've been
+3162.79 a number of updates and the
+literature that I've described
+3166.61 in other portions of today's episode
+3168.82 come from the more recent literature
+3170.59 such as the more recent 2021 paper.
+3173.09 So you have this basic learning session
+3175.78 and then a period of time afterwards
+3177.19 in which the brain can
+rehearse what it just did.
+3179.54 We hear so much about mental rehearsal
+3181.39 and we always think about mental rehearsal
+3182.96 as the thing you do before you
+train or instead of training.
+3186.76 But this is rehearsal
+that's done afterward
+3188.99 where the brain is just automatically
+3190.91 scripting through the sequence.
+3192.29 And for some reason,
+that's still not clear
+3195.27 as to why this would be
+the case it runs backward.
+3198.83 Then in sleep, it runs forwards
+and certainly absolutely,
+3203.81 sleep and quality sleep of
+the appropriate duration,
+3206.6 et cetera is going to be important
+3208.824 for learning of all kinds,
+including skill learning.
+3209.93 We did an entire four episodes on sleep
+3213.01 and how to get better at sleeping.
+3214.06 Those are the episodes
+back in January episodes,
+3216.53 essentially one, two, three, and four
+3219.79 and maybe even episode
+five, I don't recall.
+3222.35 But you can go there to find out
+3224.39 all about how to get better at sleeping.
+3226.88 Now there are other
+training sessions involved.
+3230.17 I'm not going to learn
+the perfect golf swing
+3231.81 or the tennis serve or how
+to dance in one session
+3236.4 and I doubt you will either.
+3238.35 So the question is when to come back
+3240.58 and what to do when you come
+back to the training set.
+3243.16 Now, first of all, this
+principle of errors
+3247.37 queuing attention and
+opening the opportunity
+3250.85 for plasticity, that's
+never going to change.
+3254.44 That's going to be true for
+somebody who is hyper skilled
+3257.27 who's even has mastery or even
+virtuosity in a given skill.
+3263.84 Remember, when you're
+unskilled at something,
+3266.36 uncertainty is very high.
+3267.61 As you become more
+skilled, certainty goes up.
+3270.68 Then eventually you
+achieve levels of mastery
+3272.81 where certainty is very
+very high about your ability
+3275.5 to perform, yours certainty
+en that of other people.
+3279.675 And then there's this fourth
+category of virtuosity
+3282.8 where somebody, maybe
+you invites uncertainty
+3286.1 back into the practice because
+only with that uncertainty,
+3289.26 can you express your
+full range of abilities
+3292.74 which you aren't even aware of
+3294.06 until uncertainty comes into the picture.
+3297.774 I happened to have the great privilege
+3301.14 of being friends with Laird
+Hamilton, the big wave surfer
+3304.52 who's phenomenal.
+3305.43 I don't surf, I certainly
+don't surf with Laird,
+3308.28 but he, and another guy that
+he starts with Luca Patua,
+3313.26 these guys, they're virtuosos at surfing.
+3316.28 They don't just want the
+wave that they can master,
+3319.32 they want uncertainty.
+3320.56 They're at the point in their practice
+3322.21 where when uncertainty
+shows up like a wave
+3325.48 that's either so big or is
+moving in a particular way
+3331.07 that it brings an element
+of uncertainty for them
+3333.99 about what they're going to
+do that they recognize that
+3336.7 as the opportunity to perform better
+3338.34 than they would otherwise.
+3340.363 So they're actually trying
+to eliminate uncertainty.
+3342.41 At the beginning of learning any skill
+3344.884 and as we approach from
+uncertain to skilled to mastery,
+3347.46 we want to reduce uncertainty.
+3349.44 And that's really what the
+nervous system is doing,
+3351.02 it's trying to eliminate
+errors and hone in
+3353.07 on the correct trajectories.
+3356.81 If you perform a lot of repetitions
+3359.72 and then you use a
+period immediately after,
+3362.77 we don't really have a name for this,
+3364.0 maybe someone will come up with it
+3365.2 and put it in the comment section
+3366.43 if you're on YouTube, if you're
+watching this on YouTube,
+3369.52 a name for this post
+learning kind of idle time
+3372.44 for the brain.
+3373.273 The brain is an idol at
+all, it's actually scripting
+3375.29 all these things in reverse
+that allow for deeper learning
+3378.35 and more quick learning.
+3381.5 But if we fill that with other things,
+3385.44 if we are focused on our
+phones or we're focused
+3386.91 on learning something else,
+3387.93 we're focusing on our performance,
+3390.62 that's not going to serve us well,
+3392.27 it's at least it's not going to
+serve the skill learning well.
+3394.11 So please, if you're interested
+in more rapid skill learning
+3396.49 try introducing these sessions,
+they can be quite powerful.
+3399.7 And then on subsequent sessions,
+3401.33 presumably after a night's sleep
+3403.23 or maybe you're doing two sessions a day,
+3404.71 although two sessions a
+day is going to be a lot
+3406.56 for most people, unless
+you're a professional
+3408.35 or a high-level athlete,
+the subsequent sessions
+3414.35 are where you get to express the gains
+3417.47 of the previous session,
+where you get to perform well,
+3421.97 presumably more often
+even if it's just subtle.
+3424.11 Sometimes there'll be a
+decrease in performance,
+3426.1 but most often you're
+going to perform better
+3428.82 on subsequent and subsequent
+training sessions.
+3432.36 And there is the opportunity
+to devote attention
+3436.38 in very specific ways, not
+just let the errors inform you
+3442.14 where to place your attention,
+but rather to direct
+3446.41 your perception to particular
+elements of the movement
+3450.16 in order to accelerate learning further.
+3453.03 So to be very clear,
+'cause I know many of you
+3456.01 are interested in concrete protocols.
+3458.81 It's not just that you
+would only let errors
+3461.25 cue your attention on the first session.
+3463.29 You might do that for one
+session or five sessions,
+3466.0 is going to depend.
+3467.07 But once you're familiar with something
+3468.577 and you're performing it
+well every once in a while,
+3471.08 you're accomplishing it
+better every once in a while,
+3474.75 then you can start to cue your attention
+3476.47 in very deliberate ways.
+3478.46 And the question therefore becomes
+3480.17 what to cue your attention to.
+3482.53 And the good news is it doesn't matter.
+3487.55 There is a beautiful set of
+experiments that have been done
+3490.52 looking at sequences of keys
+being played on a piano.
+3495.49 This is work that was published
+just a couple of years ago.
+3498.15 There are actually several papers now
+3500.05 that are focused on this.
+3502.09 One of them was published in 2018.
+3504.37 This is from Claudia Lappe
+and colleagues, L-A-P-P-E.
+3509.39 She's done some really nice
+work, which talks about
+3511.94 the influence of pitch feedback
+3513.95 on learning of motor
+timing and sequencing.
+3516.13 And this was done with piano
+3517.68 but it carries over to
+athletic performance as well.
+3520.18 So I'm going to describe the study to you,
+3522.34 but before I describe it,
+what is so interesting
+3526.56 about this study that I
+want you to know about
+3529.26 is that it turns out it
+doesn't matter so much
+3533.78 what you pay attention to
+during the learning sequence
+3537.07 provided it's something
+related to the motor behavior
+3539.92 that you're performing.
+3541.76 That seems incredible.
+3543.31 I'm not good at a tennis serve.
+3546.44 So if I've done let's say
+a thousand repetitions
+3549.0 of the tennis serve.
+3549.89 Maybe I got it right three to 10 times.
+3552.11 Now I'm being even more
+generous with myself.
+3553.75 And I do this post-training session
+3556.11 where I let my brain idle
+and I get some good sleep
+3558.63 and I come back and now I
+start generating errors again,
+3562.02 presumably or hopefully fewer errors,
+3564.78 but I decide I'm going to cue my attention
+3566.57 to something very specific,
+like maybe how tightly
+3569.78 I'm holding the racket
+or maybe it's my stance,
+3572.3 or maybe it's whether or not
+I rotate my right shoulder in
+3576.17 as I hit the ball across.
+3578.787 And I'm making this up,
+again I don't play tennis.
+3580.26 Turns out that it as long
+as it's the same thing
+3583.38 throughout the session,
+learning is accelerated.
+3586.3 And I'll explain why this
+make sense in a moment.
+3590.66 But just to be really clear,
+you can and one should
+3596.34 use your powers of attention
+to direct your attention
+3598.67 to particular aspects of a motor movement
+3600.4 once you're familiar with the
+general theme of the movement.
+3603.48 But what you pay attention
+to exactly is not important.
+3606.58 What's important is that you pay attention
+3609.1 to one specific thing.
+3611.07 So what Claudia Lappe
+and colleagues showed
+3613.07 was that if people are trying
+to learn a sequence of keys
+3617.11 on the piano, there are
+multiple forms of feedback.
+3621.51 There are error signals if for instance,
+3624.15 they hear a piece of music
+and then they're told
+3625.94 to press the keys in a particular sequence
+3628.459 and the noise that comes
+out, the sound that comes out
+3632.06 of the piano does not sound
+like the song they just heard.
+3635.79 So instead of, and here, forgive me
+3637.83 because I'm neither
+musical, nor can I sing.
+3640.98 But instead of dah, dah
+dah, dah, they hear that,
+3645.55 dah, dah dah, dah
+3647.22 and then instead when they play.
+3649.821 If it were me, it sounds something like,
+3651.329 dah, dah dah [indistinct],
+it wouldn't sound right.
+3654.15 It wouldn't sound right, because
+I likely got the sequence
+3656.32 wrong, or I was pressing
+too hard on the keys
+3658.21 or too lightly on the keys, et cetera.
+3662.39 What they showed was if
+they just instruct people
+3666.67 about the correct sequence
+to press on the keys,
+3670.06 it actually doesn't matter
+what sound comes back,
+3672.52 provided it's the correct
+sound or it's the same sound.
+3677.63 All right, so here's the experiment.
+3679.32 They had people press on these keys
+3681.06 and it was a typical
+piano and it generated
+3683.7 the particular sequence of
+sounds that would be generated
+3686.05 by pressing the keys on the piano.
+3688.7 Or they modified the keyboard
+in this case or piano
+3693.09 such that when people pressed on the keys,
+3695.86 a random tone different tones were played
+3698.92 each time they pressed on the keys.
+3700.52 So it sounded crazy,
+it sounded like noise,
+3703.06 but the motor sequence was the same.
+3706.19 Or they had a single tone
+that was played every time
+3711.04 they pressed a key and the
+job or the task of the subject
+3714.42 was just oppressed the keys
+in the proper sequence.
+3718.31 So instead of dunt,
+dunt, dunt, dunt, dunt,
+3720.868 it it was just dunt,
+dunt, dunt, dunt, dunt.
+3723.41 Instead of dah, dah, dah, dah, dah, dah,
+3725.04 it's dah, dah, dah, dah, dah.
+3726.77 It's even hard for me to
+say it in even a tone,
+3730.12 but you get the idea.
+3731.01 So a singular tone, just
+think a doorbell being rung
+3733.96 with each press of the key
+will be really annoying.
+3738.21 But it turns out that the
+rate to motor learning
+3742.75 was the same, whether or not
+they were getting feedback
+3747.1 that was accurate to the keys of the piano
+3749.28 or whether or not it was a constant tone.
+3752.04 Performance was terrible
+and the rates of learning
+3755.674 were terrible if they were
+getting random tones back.
+3758.18 So what this means is that
+learning to play the piano
+3760.71 at least at these early stages
+3762.52 is really just about
+generating the motor commands.
+3766.27 It's not about paying
+attention to the sound
+3769.39 that's coming out of the piano.
+3772.095 And this makes sense because
+when we are beginners,
+3774.34 we are trying to focus our
+attention on the things
+3777.11 that we can control.
+3778.73 And if you think about this,
+if you conceptualize this,
+3783.71 pressing the keys on the
+piano and paying attention
+3786.46 to the sounds that are
+coming out are two things.
+3788.94 So what this means is
+that as you get deeper
+3792.26 and deeper into a practice,
+3794.46 focusing purely on the motor
+execution can be beneficial.
+3799.02 Now, this is going to be harder to do
+3801.0 with open loop type things
+where you're getting feedback.
+3804.77 I guess a good example of open loop
+3806.35 would be the attempt at a back flip.
+3808.26 If you get it wrong, you
+will immediately know,
+3810.36 if you get it right,
+you'll immediately know.
+3812.21 Please don't go out and
+try and do a back flip
+3813.86 on the solid ground,
+or even on a trampoline
+3815.89 if you don't know what you're doing
+3817.33 because very likely you'll get it wrong
+3819.21 and you'll get injured.
+3821.33 But if it's something that is closed loop
+3824.18 where you can repeat again and
+again, and again and again,
+3826.96 that is advantageous
+because you can perform
+3829.37 many many repetitions and
+you can start to focus
+3832.98 or learn to focus your attention
+3834.51 just on the pattern of movement.
+3837.08 In other words, you can
+learn to play the piano
+3839.65 just as fast or maybe even faster
+3842.48 by just focusing on the
+sequence that you are moving
+3845.01 your digits, your fingers
+and not the feedback.
+3847.78 Now, I'm sure there are
+music teachers out there
+3849.67 and piano teachers that are screaming,
+3851.017 "No you're going to ruin the practice
+3853.067 "that all of us have embedded in our minds
+3855.737 "and in our students."
+3857.01 And I agree, at some
+point you need to start
+3860.81 including feedback about whether or not
+3863.13 things sound correct.
+3864.31 But one of the beauties of skill learning
+3866.63 is that you can choose to parameterize it,
+3869.08 meaning you can choose to just
+focus on the motor sequence
+3871.95 or just focus on the
+sounds that are coming back
+3874.47 and then integrate those.
+3876.54 And so we hear a lot about chunking,
+3878.84 about breaking things down
+into their component parts.
+3881.5 But one of the biggest
+challenges for skill learning
+3883.62 is knowing where to place your attention.
+3885.8 So to dial out again,
+we're building a protocol
+3889.234 across this episode, early sessions,
+3890.85 maybe it's the first one,
+maybe it's the first 10,
+3892.93 maybe it's the first 100.
+3894.54 It depends on how many
+repetitions you're packing in.
+3897.25 But during those initial sessions,
+3899.03 the key is to make many errors
+to let the reward process
+3902.73 govern the plasticity, let the
+errors open the plasticity.
+3906.92 And then after the learning sessions,
+3908.95 to let the brain go idle
+3910.96 at least for a short period of time
+3912.27 and of course, to maximize sleep.
+3913.82 As you start incorporating more sessions,
+3916.91 you start to gain some skill level,
+3919.82 learning to harness and
+focus your attention
+3922.05 on particular features of the movement
+3925.37 independent of the
+rewards and the feedback.
+3928.9 So the reward is no longer in
+the tone coming from the piano
+3932.46 or whether or not you
+struck the target correctly
+3934.38 but simply the motor
+movement focusing your,
+3938.15 for instance in a dart throw,
+on the action of your arm.
+3941.38 That is embedding the
+plasticity in the motor pattern
+3944.75 most deeply, that's what's been shown
+3946.64 by the scientific literature.
+3948.06 I'm sure there are coaches
+and teachers out there
+3949.97 that will entirely disagree
+with me and that's great.
+3952.85 Please let me know what you prefer,
+3955.02 let me know where you think this is wrong
+3957.73 and it rarely happens, but
+let me know where you think
+3960.31 this might be right as well.
+3961.87 So we're breaking the
+learning process down
+3963.73 into its component parts.
+3965.4 As we get more and more skilled,
+3967.09 meaning as we make fewer and fewer errors
+3969.57 per a given session per unit
+time, that's when attention
+3974.66 can start to migrate from one feature
+3978.51 such as the motor sequence
+to another feature
+3980.62 which is perhaps one's
+stance and another sequence,
+3985.75 component of the sequence,
+which would be the result
+3988.08 that's one getting on
+a trial to trial basis.
+3992.01 So changing it up each time.
+3993.03 So maybe I served the tennis ball
+3995.27 and I'm focusing on where the ball lands
+3997.62 and then I'm focusing on the speed,
+3999.16 then I'm focusing on my grip,
+then I'm focusing on my stance
+4001.63 from trial to trial.
+4003.93 But until we've mastered
+the core motor movements
+4007.14 which has done session to session,
+4009.35 that at least according to the literature
+4011.31 that I have access to here,
+seems to be suboptimal.
+4015.25 So hopefully this is
+starting to make sense,
+4017.59 which is that these connections
+between upper motor neurons,
+4021.41 lower motor neurons and
+central pattern generators,
+4024.24 you can't attack them all at once.
+4026.08 You can't try and change them all at once.
+4028.094 And so what we're doing is
+we're breaking things down
+4029.21 into their component parts.
+4031.32 Some of you may be wondering
+about speed of movement.
+4035.84 There are some data, meaning
+some decent papers out there
+4039.64 showing that ultra slow movements,
+4042.06 performing a movement
+essentially in slow motion
+4046.05 can be beneficial for enhancing
+the rate of skill learning.
+4051.39 However, at least from my
+read of the literature,
+4055.03 it appears that ultra slow
+movements should be performed
+4058.09 after some degree of proficiency
+has already been gained
+4062.56 in that particular movement.
+4064.29 Now that's not the way I
+would have thought about it.
+4066.08 I would have thought, well,
+if you're learning how to do
+4068.48 a proper kick or a paunch in martial arts
+4070.73 or something that ultra
+slow movements at first
+4073.18 are going to be the way
+that one can best learn
+4077.88 how to perform a movement
+4079.04 and then you just gradually
+increase the speed.
+4081.06 It turns out that's not the case
+4083.51 and I probably should have known that.
+4085.41 And you should probably know
+that because it turns out
+4088.56 that when you do ultra slow movements,
+4090.44 two things aren't available to you.
+4092.41 One is the proprioceptive
+feedback is not accurate
+4096.07 because of fast movements
+of limbs are very different
+4098.88 than slow movements of limbs.
+4100.81 So you don't get the opportunity
+4101.92 to build in the proprioceptive feedback.
+4104.46 But the other reason why it doesn't work
+4107.16 is that it's too accurate,
+you don't generate errors.
+4111.47 And so the data that I was able to find
+4114.13 show that very slow
+movements can be beneficial
+4118.0 if one is already
+proficient in a practice,
+4120.83 but very slow movements at the beginning
+4123.13 don't allow you to learn more quickly
+4125.4 because you never generate errors
+4127.06 and therefore the brain doesn't,
+it's not open for change.
+4130.78 The window for plasticity has
+never swung open, so to speak.
+4134.67 So it brings us back to this theme
+4136.97 that errors allow for plasticity,
+4139.15 correct performance of movements
+4140.84 or semi correct performance of
+movements, cues the synapses
+4145.15 in the brain areas and spinal
+circuits that need to change.
+4148.57 And then those changes occur in the period
+4150.58 immediately after skill
+learning and in sleep.
+4153.86 So super slow movements can be beneficial
+4156.66 once you already have some proficiencies.
+4158.57 So this might be standing
+in your living room
+4161.13 and just in ultra slow motion,
+4163.28 performing your tennis serve, learning to,
+4165.33 or thinking about how
+you're adjusting your elbow
+4167.42 and your arm and the trajectory
+exactly how you were taught
+4169.96 by your tennis coach.
+4171.34 But trying to learn it
+that way from the outset
+4174.3 does not appear to be the
+best way to learn a skill.
+4177.98 When should you start to
+introduce slow learning?
+4180.25 Well, obviously talk to
+your coaches about this,
+4182.68 but if you're doing this recreationally
+4184.57 or you don't have a coach,
+I realize many of you don't.
+4186.89 I don't have a coach
+for anything that I do.
+4190.2 I'm going to have just navigating it
+4192.35 by using the scientific literature.
+4194.66 It appears that once you're
+hitting success rates
+4196.85 of about 25 or 30%, that's
+where the super slow movements
+4200.83 can start to be beneficial.
+4202.61 But if you're still
+performing things at a rate
+4205.75 of five or 10% correct
+and the rest are errors,
+4209.2 then the super slow movements
+4210.44 are probably not going
+to benefit you that much.
+4213.21 Also super slow movements
+are not really applicable
+4216.27 to a lot of things.
+4218.06 For instance, you could
+imagine throwing a dart
+4221.17 super slow motion, but if you actually try
+4223.27 and throw an actual dart,
+4224.64 the dart's just going to
+fall to the floor, obviously.
+4227.23 So there are a number of
+things like baseball bat swing
+4230.3 which you can practice
+in super slow motion.
+4232.85 But if you try and do that
+with an actual baseball
+4234.91 or softball or something like that,
+4237.466 that's not going to give
+you any kind of feedback
+4238.55 about how effective it was.
+4239.97 So super slow movements
+or a decelerated movement
+4245.75 has its place but once you're
+already performing things
+4249.23 reasonably well like maybe
+25 to 30% success rate.
+4253.02 And I've tried this, I actually,
+I struggle with basketball
+4256.64 for whatever reason and
+my free throw is terrible.
+4259.18 So I practiced free throws
+in super slow motion
+4262.31 and I nailed them every time,
+4264.25 the problem is there's no ball.
+4266.31 Some of you already have a
+fair degree of proficiency,
+4269.32 of skill in a given practice
+or sport or instrument.
+4275.01 And if you're in this sort
+of advanced intermediate
+4278.15 or advanced levels of
+proficiency for something,
+4282.68 there is a practice that you
+can find interesting data for
+4287.05 in the literature, which
+involves metronoming.
+4290.7 So this you'll realize relates
+to generating repetitions
+4296.19 and it relates to the tone experiment
+4299.18 where it doesn't really
+matter what your attention
+4301.97 is cued to as long as you are performing
+4303.96 many many reps of the motor sequence.
+4306.85 You can use a metronome and
+obviously musicians do this,
+4309.96 but athletes can do this too.
+4312.34 You can use a metronome to set the cadence
+4314.87 of your repetitions.
+4316.79 Now for swimmers, there's
+actually a device.
+4321.066 I was able to find online,
+4321.899 I forgot what the brand name was
+4322.75 and that's not what this is
+about, but that actually goes
+4325.62 in the swim cap that can cue you
+4328.11 to when you need to
+perform another stroke.
+4330.18 And for runners, there are
+other metronome type devices
+4334.18 that through headphones or
+through a tone in the room
+4336.93 if you're running
+indoors or on a treadmill
+4339.0 we'll cue you to when you basically
+4341.62 you need to lift your heels.
+4342.453 And if you do that, what athletes find
+4344.14 is they can perform more repetitions,
+4346.36 they can generate more output,
+you can increase speed.
+4349.61 A number of really interesting
+things are being done
+4351.27 with auditory metronoming.
+4353.457 And then I'm involved in
+a little bit of work now
+4354.76 that hopefully I'll be
+able to report back to you
+4356.9 about using stroboscopic metronoming.
+4359.33 So actually changing the speed
+of the visual environment.
+4362.05 These are fun experiments,
+basically changing
+4364.64 one's perception of how fast
+they're moving through space
+4367.13 by playing with the visual system,
+4369.01 something for a future discussion.
+4370.74 But you can start to
+use auditory metronoming
+4373.67 for generating more
+movements per unit time
+4377.57 and generating more errors
+and therefore more successes
+4380.83 and more neuroplasticity.
+4382.67 There are a number of
+different apps out there.
+4384.89 I found several free
+apps where you can set in
+4387.09 a metronome pace, or
+it might be tick, tick,
+4388.92 tick, tick, tick, tick.
+4390.33 That's a little fast for most things,
+4391.81 but you can imagine if this were darts
+4394.32 or this were golf swings
+that it might be tick,
+4397.41 tick, tick, tick or something
+more like tick, tick.
+4400.96 And every time the
+metronome goes, you swing.
+4403.33 Every time the metronome
+goes, you throw a dart.
+4405.66 Actually there's some wild
+experiments out there.
+4407.22 You know there's a world
+championship of cup stacking.
+4409.91 There's a young lady who I
+saw could take all these cups
+4413.14 spread out on a table and
+basically just stack them
+4415.33 into the perfect pyramid in
+the least amount of times
+4417.527 and all the kids go wild.
+4418.55 This is something I'd
+never thought to pursue
+4421.01 and frankly never will pursue
+4423.32 unless my life depends
+on it for some reason,
+4424.96 but it's really impressive.
+4426.3 And if you look at the sequence
+4428.12 'cause these have been recorded,
+4429.29 you can look this up on YouTube.
+4431.61 What you'll find is that
+these expert cup stackers,
+4434.63 it's just all about error elimination.
+4436.91 But they're two metronomic
+and auditory cues
+4440.07 can actually cue them to
+pick up the cups faster
+4442.68 than they would ordinarily
+and to learn to do that.
+4445.48 You can do this for anything.
+4446.53 I think cup stacking
+is probably not a skill
+4448.96 most of you are interested in doing,
+4450.11 but for any skill, if you
+figure out at what rate
+4455.13 you are performing
+repetitions per unit time
+4457.59 and you want to increase that slightly,
+4459.28 you set a metronome
+which is slightly faster
+4462.43 than your current rate and
+you just start generating
+4464.52 more repetitions.
+4465.37 Now what's interesting
+about this and is cool
+4467.95 is it relates back to the experiment
+4470.73 from Lappe and colleagues,
+which is your attention
+4474.98 is now harnessed to the
+tone, to the metronome,
+4479.44 not necessarily to what you're doing
+4481.0 in terms of the motor movement.
+4483.198 And so really you need
+a bit of proficiency.
+4484.96 Again, this is for people
+who are in intermediate
+4487.15 or advanced intermediate or advanced.
+4489.12 But what you're essentially
+doing is you're creating
+4491.54 an outside pressure, a
+contingency so that you generate,
+4495.31 again, more errors.
+4496.72 So it's all about the errors that you get.
+4498.75 Now, these aren't errors
+where all the cups tumble
+4500.69 or you have to stop or you can't keep up,
+4502.7 you have to set the pace just a little bit
+4504.49 beyond what you currently can do.
+4506.97 And when you do that,
+you're essentially forcing
+4509.03 the nervous system to make
+errors and correct the errors
+4511.18 inside of the session.
+4512.76 I find this really interesting
+because what it means
+4514.93 is, again you've got sensory perception,
+4517.17 what you're paying attention to,
+4518.1 proprioception where your
+limbs are and the motor neurons
+4520.84 in your upper lower motor neurons
+4522.94 and central pattern generators.
+4524.88 And you can't pay attention to,
+4526.267 "Well, they're my upper motor neurons,
+4527.777 "they're my lower motor neurons."
+4528.81 Forget that, you're not going to do that.
+4531.321 You can't pay attention to
+your proprioception too much.
+4533.89 That would be the super slow motion
+4535.55 would be the proprioception.
+4537.53 But you have to harness
+your attention to something.
+4541.35 And if you harness your attention
+4542.5 to this outside
+contingency, this metronome
+4544.68 that's firing off and saying,
+now go, now go, now go.
+4548.61 Not only can you increase the
+number of repetitions, errors
+4551.52 and successes, but for some
+reason and we don't know why,
+4555.85 the regular cadence of
+the tone of the metronome
+4560.456 and the fact that you are
+anchoring your movements
+4562.72 to some external force,
+to some external pressure
+4566.19 or cue seems to accelerate the plasticity
+4570.42 and the changes and the
+acquisition of skills
+4572.96 beyond what it would be if
+you just did the same number
+4575.16 of repetitions without
+that outside pressure.
+4577.74 We don't know exactly
+what the mechanism is.
+4579.42 Presumably it's neurochemical,
+like there's something
+4582.23 about keeping up with
+a timer or with a pace
+4585.41 that presumably and I'm speculating here,
+4588.16 causes the release of
+particular chemicals.
+4590.48 But I think it's really cool.
+4591.95 Metronomes, they're totally inexpensive,
+4594.22 at least the ones that
+you use outside of water
+4596.46 are very inexpensive.
+4597.49 You can find these free apps,
+4599.22 you can use a musical metronome.
+4600.84 So metronomes are a powerful tool as well
+4603.93 in particular for speed work.
+4605.63 So for sprinting or swimming or running
+4607.97 where the goal is to generate more strokes
+4612.1 or more efficient strokes
+or more steps, et cetera.
+4615.86 The rate of the metronome obviously
+4617.45 is going to be very important.
+4619.3 Sometimes you're trying
+to lengthen your stride,
+4620.95 sometimes you're trying
+to take fewer strokes
+4622.93 but glide further in
+the pool for instance.
+4625.48 But the value of occasionally
+4628.73 just the number of repetitions,
+the number of strokes
+4631.69 or steps, et cetera per unit time is also
+4634.34 that you're training the
+central pattern generators
+4636.27 to operate at that higher speed.
+4639.55 One of the sports has
+kind of interesting to me
+4641.28 is speed walking.
+4642.4 It's not one I engage in or
+ever planned to engage in,
+4645.61 but if you've ever tried
+to really speed walk,
+4647.99 it's actually difficult
+to walk very very fast
+4650.16 without breaking into a run.
+4651.75 All animals have these
+kinds of crossover points
+4654.2 where you go.
+4656.77 I think with horses it's
+like it was that they trot,
+4659.68 then they gallop on, or
+what's the next thing.
+4662.0 Clearly, I don't know
+anything about horses
+4665.24 except that they're beautiful
+and I liked them very much.
+4667.75 But they break into a
+different kind of stride.
+4671.01 And that's because you shift over
+4672.29 to different central pattern generators.
+4675.09 So when you're walking or a
+horse is moving very slowly
+4677.95 and then it breaks into a jog
+4680.452 and then into a full sprint
+or gallop for the horse,
+4683.79 you're actually engaging different
+4684.97 central pattern generators.
+4687.26 And those central pattern generators
+4688.11 always have a range of
+speeds that they're happiest
+4690.94 to function at.
+4692.05 So with the metronoming
+for speed purposes,
+4696.163 what you do is you can
+basically bring the activity
+4699.05 of those central pattern generators
+4700.35 into their upper range and
+maybe even extend their range.
+4704.828 And there's a fascinating biology
+4705.72 of how central pattern
+generators work together.
+4708.934 There's coupling of central
+pattern generators, et cetera
+4710.82 in order to achieve maximum
+speeds and et cetera.
+4714.333 It's a topic for a kind
+of an advanced session.
+4715.77 Costa loves this topic, he just barked.
+4719.418 And he loves it so much, he barked again.
+4720.57 In any event, the metronome
+is a powerful tool,
+4723.06 again for more advanced practitioners
+4725.2 or for advanced
+intermediate practitioners.
+4727.35 But it's interesting
+because it brings back
+4731.56 the point that what we
+put our attention to
+4734.27 while we're still learning is important
+4737.17 to the extent that it's on one thing
+4739.46 at least for the moment or trial to trial,
+4742.11 but that what we focus our
+attention on can be external,
+4748.383 it can be internal and
+ultimately the skill learning
+4750.42 is where all that is brought together.
+4752.64 So let's talk about where
+skill learning occurs
+4755.12 in the nervous system.
+4756.896 And then I'm going to give you a really,
+4759.31 what I think is a really cool tool
+4762.52 that can increase flexibility
+and range of motion
+4766.17 based on this particular brain area.
+4767.86 It's a tool that I used and
+when I first heard about,
+4770.11 I did not believe would work.
+4772.14 This is not a hack, this
+is actually anchored deeply
+4774.38 in the biology of a particular
+brain region that we all have
+4779.278 whose meaning is mini brain.
+4780.89 And that mini brain that we all have
+4783.43 is called your cerebellum.
+4785.32 The cerebellum is called the mini brain
+4787.1 because it's in the back of your brain.
+4789.209 It looks like a little mini version
+4790.042 of the rest of your brain.
+4790.94 It's an absolutely incredible structure
+4793.52 that's involved in movement.
+4794.96 It also has a lot of non-movement
+associated functions.
+4799.92 In brief, the cerebellum
+gets input from your senses,
+4807.685 particularly, your eyes and pays attention
+4809.6 to where your eyes are in
+space, what you're looking at.
+4812.45 It basically takes information
+about three aspects
+4816.28 of your eyes and eye
+movements which are occurring
+4821.24 when your head goes like
+this, which is called pitch.
+4825.06 So this is pitch.
+4827.33 For those of you that are
+listening I'm just nodding
+4829.0 up and down then there's yaw,
+4831.63 which is like shaking your
+head, no, from side to side.
+4834.43 And then there's roll,
+which is that like sometimes
+4837.46 if you see a primate, like
+a Marmoset or something,
+4841.426 they will roll their head
+when they look at you.
+4842.73 Actually, the reason they
+do that is it helps generate
+4845.07 depth perception, it's a kind
+of form of motion parallax
+4847.77 if you're curious why they do that.
+4849.12 It's not to look cute, they do
+it because when they do that,
+4852.49 even if you're stationary
+and they're stationary,
+4854.54 they get better depth perception
+4856.27 as to how far away from them you are.
+4859.9 So you've got pitch, yaw and roll.
+4863.18 And as you move your head
+and as you move your body
+4866.55 and you move through space,
+the image on your retina moves,
+4870.42 pitch, yaw on roll in some combination,
+4872.2 that information is
+relayed to your cerebellum.
+4875.48 So it's rich with visual information.
+4877.82 There's also a map of your body surface
+4879.81 and your movements and
+timing in the cerebellum.
+4882.68 So it's an incredible
+structure that brings together
+4884.69 timing of movements,
+which limbs are moving
+4888.035 and has proprioceptive information.
+4890.7 It really is a mini brain,
+4892.61 it's just the coolest
+little structure back there.
+4894.82 And in humans, it's
+actually not that little,
+4896.44 it's just an incredible structure.
+4898.75 Now, all this information
+is integrated there,
+4901.87 but what most people don't tell
+us is that a lot of learning
+4906.84 of motor sequences of skill
+learning that involves timing
+4909.71 occurs in the cerebellum.
+4912.21 Now, you can't really use that information
+4915.16 except to know that after you
+learn something pretty well,
+4917.63 it's handed off or kind of
+handled by your cerebellum,
+4920.82 but there is something that
+you can do with your cerebellum
+4922.71 to increase range of
+motion and flexibility.
+4925.72 Much of our flexibility, believe it or not
+4928.85 is not because our tendons
+are particular length
+4932.5 or a elasticity, although
+that plays some role,
+4936.53 it's not because our muscles are short.
+4938.6 I don't know what that would even mean.
+4940.03 Some people have longer muscle bellies
+4942.15 or shorter muscle bellies,
+but your muscles always
+4945.33 essentially span the
+entire length of the bone
+4949.14 or limb or close to it,
+along with your tendons.
+4952.52 But has to do with the
+neural innervation of muscle
+4956.93 and the fact that when
+muscles are elongated,
+4959.24 there's a point at which
+they won't stretch out
+4961.96 any longer and the nerves
+fire, and they shut down
+4965.68 that you actually have inhibitory pathways
+4968.26 that prevent you from
+contracting the muscles
+4971.16 or from extending them, from
+stretching them out any more.
+4975.0 So you can do this right now.
+4977.53 If you're driving, don't do
+it because unless you have
+4980.573 a self-driving car, you'll
+need to take your hands
+4982.251 off the steering.
+4983.084 But because of the way that
+vision and your muscles
+4990.11 are represented in your cerebellum,
+4993.73 it turns out that your
+range of visual motion
+4997.43 and your range of vision,
+literally how wide a field of view
+5002.39 you take impacts how far
+you can extend your limbs.
+5007.47 So we'll talk about this in a second
+5011.12 exactly how to do this and explore this.
+5013.61 But as you move through
+space, as you walk forward
+5017.94 or you walk backward,
+or you tilt your head
+5019.83 or you learn a skill, or you
+just operate in the normal ways
+5022.78 throughout your day,
+driving, biking, et cetera,
+5025.29 your eyes are generating
+spontaneous movements
+5027.36 to offset visual slip.
+5029.56 In other words, you don't
+see the world as blurry
+5031.72 even though you're
+moving because your eyes
+5033.85 are generating low
+compensatory eye movements
+5035.84 to offset your motion.
+5037.14 So if I spin, we could do this experiment.
+5039.4 There's a fun experiment
+we do with medical students
+5042.27 where you spin them around in
+a chair with their eyes closed
+5045.66 and then you stop and you
+have them open their eyes
+5048.43 and their eyes are going
+like this, is nystagmus.
+5051.42 I don't suggest you do this experiment.
+5053.75 When we were kids, we did
+a different experiment
+5056.09 which was to take a stick
+and to look at the top
+5058.78 of the stick and to
+spin around on the lawn
+5061.4 looking at the top of the
+stick then put it down
+5063.03 on the ground and try and jump over it.
+5064.37 And you ended up like jumping to the side,
+5065.73 you miss the thing entirely.
+5067.46 The reason those two "experiments"
+which I hope you don't do
+5073.847 or for somebody else to do.
+5074.7 The reason they work is because
+normally your eye movements
+5078.43 and your balance and your limb
+movements are coordinated.
+5081.03 But when you spin around
+looking up at the stick,
+5083.63 what you're doing is
+you're fixating your eyes
+5085.35 on one location while you're moving.
+5087.48 And then when you stop
+those two mechanisms
+5089.91 are completely uncoupled
+and it's like being thrown
+5093.18 into outer space.
+5095.732 I've never been to outer space,
+5096.565 but probably something like
+that, low gravity, zero gravity.
+5100.21 If you spin around in your
+chair with your eyes closed,
+5102.86 you're not giving the visual
+input that you're spinning.
+5105.09 And then you open the eyes
+and then the eyes only have
+5109.22 what we call the vestibular,
+your eyes jolting
+5111.808 back and forth, back and forth.
+5112.897 Again, these aren't
+experiments you need to do
+5113.99 'cause I just told you the result.
+5116.06 However, if you want to
+extend your range of motion,
+5119.98 you can do that by...
+5123.51 These things always look
+goofy, but at this point
+5124.51 I'm just kind of used
+to doing these things.
+5126.63 If I want to extend my range of movement,
+5128.45 first, I want to measure
+my range of motion.
+5131.98 If you're listening what I'm
+doing is I'm stretching out
+5133.69 my arms like a T on either side
+5137.55 and I'm trying to push
+them as far back as I can,
+5140.35 which for me feels like it's
+in line with my shoulders
+5143.07 and I can't get much further.
+5144.04 I'm not really super flexible
+5145.81 nor am I particularly
+inflexible at least physically.
+5151.78 So what I would then do is stop.
+5154.39 I would move my eyes to the far periphery.
+5157.44 So I'm moving my eyes
+all the way to the left
+5159.54 while keeping my head and body stationary.
+5162.13 I'm trying to look over my
+left shoulder as far as I can
+5165.81 then off to the right.
+5167.92 It's a little awkward to
+do this, then up then down
+5171.45 but I'm mostly going to just focus on left
+5174.64 and then right.
+5176.84 Now what that's doing
+is it's sending a signal
+5179.53 to my cerebellum that my field
+of view is way over to there
+5182.96 and way over to there.
+5184.45 Remember your visual
+attention has an aperture.
+5186.76 It can be narrow, or it can be broad.
+5188.84 And I've talked about some of the benefits
+5190.1 of taking a broad visual aperture
+5191.68 in order to relax the nervous system.
+5193.44 This is just moving my eyes, not my head,
+5195.7 like I just did for a
+second, from side to side.
+5197.88 Now I can retest.
+5199.32 And actually you get about
+a five to 15 degree increase
+5203.21 in your range of motion.
+5204.66 Now I'm doing this for you.
+5206.466 You can say, "Well, he
+gamed it 'cause he knew
+5207.717 "the result that he was hoping for."
+5209.57 But you can try this.
+5211.16 And you can do this for legs too.
+5213.71 You can do this for any limb essentially.
+5215.45 And that's it's purely cerebellar.
+5218.196 And it's because the proprioceptive visual
+5221.3 and limb movement feedback converge
+5225.681 in the ways that we
+control our muscle spindles
+5228.39 and the way we control the
+muscle fibers and the tendons
+5230.75 and essentially you can
+get bigger range of motion.
+5233.604 So actually we'll warm up before exercise
+5235.17 or before skill learning by
+both doing movements for my body
+5238.26 but also moving my eyes from side to side
+5240.29 in order to generate
+larger range of motion
+5242.45 if range of motion is something
+that I'm interested in.
+5244.85 So that's a fun one that you
+can play with a little bit
+5248.28 and it's purely cerebellar.
+5249.82 Some other time we'll get back
+into a cerebellar function.
+5253.11 There's all sorts of just incredible stuff
+5255.51 that you can do with cerebellum.
+5257.25 I talked in an earlier
+episode on neuro-plasticity
+5259.93 about how you can disrupt
+your vestibular world.
+5264.18 In other words, by getting
+into modes of acceleration,
+5269.37 moving through space where
+you're tilted in certain ways,
+5273.283 it can open up the windows for plasticity
+5274.98 and yet other ways.
+5276.33 So you can check that out, it's
+one of the earlier episodes
+5279.15 on neuroplasticity
+everything's timestamped.
+5281.6 But meanwhile, if you want to
+expand your range of motion
+5284.36 before doing skill learning or
+afterward, this is a fun one.
+5287.52 It's also kind of neat because
+I have this kind of aversion
+5291.06 to stretching work.
+5292.24 It never seems like something I want to do
+5294.21 and so I always put it off.
+5295.74 So if I start with the
+visual practice of expanding
+5299.65 my field of view to off to
+one side or the other side
+5302.2 or up or down, then what
+I find is I'm naturally
+5304.68 more flexible.
+5305.513 I'm not naturally more flexible.
+5306.76 What's happened is I've
+expanded my range of motion.
+5309.57 Let's talk about visualization
+and mental rehearsal.
+5314.09 I've been asked about this a lot,
+5315.68 and I think it relates
+back to that kind of matrix
+5319.18 Hollywood idea that we can
+just be embedded with a skill.
+5323.13 Although in this case, in fairness,
+5325.28 visualization involves some work.
+5327.7 And I've talked about
+this on an earlier episode
+5330.31 that some people find it very hard
+5333.04 to mentally visualize things.
+5336.13 And some people find it very easy.
+5337.79 There was great work that
+was done in the 1960s
+5340.66 by Roger Shepherd at
+Stanford and by others,
+5344.96 looking at people's ability to rotate
+5347.93 three-dimensional objects in their mind.
+5350.31 And some people really good at this
+5352.176 and some people are less good at this.
+5353.009 And one can get better
+at it by repeating it.
+5356.34 But the question we're
+going to deal with today
+5358.13 is does it help, does it
+let you learn things faster?
+5363.304 And indeed the answer
+appears to be yes, it can.
+5366.78 However, despite what you've
+heard, it is not as good.
+5371.44 It is not a total replacement
+5373.84 for physical performance itself.
+5377.68 So I'm going to be really
+concrete about this.
+5379.91 I hear all the time that just imagining
+5383.61 contracting a muscle can
+lead to the same gains
+5386.49 as actually contracting that muscle.
+5388.5 Just imagining a skill can
+lead to the same increases
+5391.89 in performance as actually
+executing that skill.
+5395.37 And that's simply not the case.
+5397.78 However, it can supplement
+or support physical training
+5402.36 and skill learning in ways
+that are quite powerful.
+5405.39 One of the more
+interesting studies on this
+5407.43 was from Rang Ganason at all,
+5410.99 forgive me for the pronunciation.
+5414.33 This was a slightly older paper, 2004,
+5417.18 but nonetheless was one that I thought
+5419.31 had particularly impressive results
+5421.27 and included all the
+appropriate controls, et cetera.
+5425.44 And what they did is they
+looked at 30 subjects.
+5428.03 They divide them into different groups.
+5430.46 They had one group perform
+essentially finger flection.
+5434.48 So it actually sort of the
+imagine if you're just listening
+5436.83 to this, the come here a finger movement.
+5440.83 They also had elbow flection,
+so bicep curl type movement.
+5445.02 And they either had subjects
+do a actual physical movement
+5449.96 against resistance, or to
+imagine moving their finger
+5453.69 or their wrist towards the shoulder,
+5456.01 meaning at the bending at the elbow
+5458.01 towards actual resistance.
+5460.68 Just to make a long story short,
+5462.33 what they found was that
+there were increases
+5467.0 in this finger, adduction
+strength, abduction,
+5469.87 excuse me, strength of about
+35% and the elbow flection
+5474.55 strength by about 13.5%,
+which are pretty impressive
+5480.61 considering that was just done mentally.
+5483.081 So they had people imagine
+moving against a weight,
+5486.653 a very heavyweight or had
+imagined people moving their wrist
+5490.49 towards their shoulder
+against a very heavyweight.
+5493.52 But again, they weren't doing it,
+5494.78 they were just imagining it.
+5497.388 Other experiments looked at the brain
+5499.49 and what was happening in
+the brain during this time.
+5502.02 So we'll talk about that in a moment.
+5504.11 But essentially what they
+found were improvements
+5507.88 in strength of anywhere from 13.5 to 35%.
+5513.13 However, the actual
+physical training group,
+5516.53 the groups that actually moved their wrist
+5519.08 or moved their finger against
+an actual physical weight
+5522.56 had improvements of about 53%.
+5525.34 So this repeats over and over
+throughout the literature
+5529.01 mental rehearsal can cause
+increases in strength.
+5533.15 It can create increases in
+skill acquisition and learning,
+5538.37 but they are never as great if done alone
+5542.43 as compared to the
+actual physical execution
+5546.93 of those movements or
+the physical movement
+5548.71 of those weights, which
+shouldn't come as so surprising.
+5552.16 However, if we step back and we say,
+5554.127 "Well, what is the source
+of this improvement?"
+5557.68 You might not care what the source is
+5559.786 because I could tell
+you it's one brain area
+5561.535 or another brain area.
+5562.627 What difference would it make?
+5563.484 But again, if you can understand
+mechanism a little bit,
+5565.46 you're in a position to create newer
+5567.96 and even better protocols.
+5569.96 What mental rehearsal appears
+to do is engage the activity
+5574.3 of those upper motor
+neurons that we talked about
+5576.47 way back at the beginning of the episode.
+5578.81 Remember you have upper motor neurons
+5580.26 that control deliberate action,
+5581.89 you've got lower motor
+neurons that actually
+5583.72 connect to the muscles
+and move those muscles
+5585.44 and you have central pattern generators.
+5587.34 Mental rehearsal, closing
+one's eyes typically
+5590.2 and thinking about a
+particular sequence of movement
+5593.25 and visualizing it in one's "mind's eye"
+5598.3 creates activation of
+the upper motor neurons
+5601.38 that's very similar if not the
+same as the actual movement.
+5605.75 And that makes sense because
+the upper motor neurons
+5608.05 are all about the command for movement.
+5610.31 They are not the ones that
+actually execute the movement.
+5614.15 Remember, upper motor neurons are the ones
+5615.99 that generate the command for movement,
+5617.61 not the actual movement.
+5618.99 The ones that generate the actual movement
+5620.63 are the lower motor neurons
+5621.84 and the central pattern generators.
+5623.96 So visualization is a powerful tool.
+5626.57 How can you use visualization?
+5628.68 Well, in this study, they
+had people perform this
+5632.7 five days a week.
+5635.556 I believe that it was 15.
+5637.48 Yes, it was 15 minutes
+per day, five days a week
+5640.84 for 12 weeks.
+5641.7 So that's a lot of mental rehearsal.
+5644.2 It's not a ton of time each
+day, 15 minutes per day.
+5646.59 But sitting down, closing your eyes
+5648.3 and imagining going through
+a particular skill practice
+5653.14 or moving a weight.
+5655.63 Maybe it's playing keys on
+a piano if that's your thing
+5659.36 or strings on a guitar,
+for 15 minutes a day,
+5662.61 five days per week for
+12 weeks is considerable.
+5665.61 I think most people, given the fact
+5667.973 that the actual practice,
+the physical practice
+5670.77 is going to lead to larger improvements,
+5674.36 greater improvements then
+would the mental training
+5677.35 would opt for the actual
+physical training.
+5680.03 But of course, if you're on a plane
+5681.84 and you don't have access to your guitar
+5683.51 and you're certainly not
+going to be sprinting
+5684.76 up and down the aisle
+or you are very serious
+5688.25 about your craft and you want
+to accelerate performance
+5692.327 of your craft or strength increases
+5693.993 or something of that sort,
+then augmenting or adding in
+5697.07 the visualization training
+very likely will compound
+5700.75 the effects of the
+actual physical training.
+5703.35 There are not a lot of studies
+looking at how visualization
+5706.48 on top of pure physical training
+5710.33 can increase the rates of learning
+5713.58 and consolidation of learning, et cetera.
+5716.21 It's actually a hard study to
+do because hard to control for
+5718.9 because what would you do in its place.
+5720.81 You would probably add
+actual physical training
+5723.51 and then that's always going
+to lead to greater effects.
+5726.56 So the point is if you want
+to use visualization training,
+5730.31 great, but forget the idea
+that visualization training
+5734.59 is as good as the actual behavior.
+5737.76 You hear this all the time.
+5738.75 People say, do you know that
+if you imagine an experience
+5741.29 to your brain and to your body,
+5742.77 it's exactly the same as
+the actual experience.
+5745.09 Absolutely not.
+5746.11 This is not the way the
+nervous system works.
+5747.7 I'm sorry, I don't mean
+to burst anybody's bubble,
+5749.76 but your bubble is made of myths.
+5752.44 And the fact of the
+matter is that the brain,
+5756.42 when it executes a movement is generating
+5759.46 proprioceptive feedback.
+5761.882 And that proprioceptive
+feedback is critically involved
+5764.46 in generating our sense of the experience
+5766.79 and in things like learning.
+5768.67 So I don't say this because
+I don't like the idea
+5772.81 that visualization couldn't work.
+5774.26 In fact visualization does work,
+5777.648 but it doesn't work as well,
+5778.481 it doesn't create the same millu,
+5780.6 the same chemical millu,
+the same environment
+5783.36 as actual, physically
+engaging in the behavior,
+5787.35 the skill the resistance
+training, et cetera.
+5790.58 And I'd be willing to
+wager that the same is true
+5792.52 for experiences of all kinds.
+5796.013 PTSD is this incredibly
+unfortunate circumstance
+5800.05 in which there's a replay
+often of the traumatic event
+5803.67 that feels very real.
+5805.51 But that's not to say
+that the replay itself
+5807.64 is the same as the actual event.
+5810.03 And of course, PTSD needs to be dealt with
+5814.142 with the utmost level of
+seriousness, it should be treated.
+5817.04 In fact, my lab works on
+these sorts of things,
+5819.2 but my point about visualization
+and imagining something
+5823.6 not being the same as
+the actual experience
+5826.39 is grounded in this
+idea of proprioception.
+5829.0 And the fact that feedback
+to the cerebellum,
+5831.07 the cerebellum, talking to
+other areas of the brain
+5832.83 are critically involved in communicating
+5834.97 to the rest of our nervous system.
+5836.41 That not just that we believe
+something is happening
+5838.87 but something is actually happening.
+5840.53 And in the case of muscle loads,
+5842.31 muscles actually feeling tension,
+5845.01 the actual feeling of
+tension in the muscle.
+5848.5 The contracting of the
+muscle under that tension
+5850.94 is part of the important
+adaptation process.
+5854.41 In a future episode, we'll
+talk about hypertrophy
+5856.5 and how that works at the
+level of upper motor neurons,
+5858.65 lower motor neurons and muscle itself.
+5861.03 But for now just know that
+visualization can work.
+5864.1 It doesn't work as well
+as real physical training
+5866.1 and practice, but these effects of 35%
+5870.42 or 13.5% increases are
+pretty considerable.
+5874.02 They're just not as great
+as the 53% increases
+5876.97 that come from actual physical training.
+5878.94 For those of you that are interested
+5880.5 in some of this skill
+learning that more relates
+5883.937 to musical training, but also
+how cadence and metronomes
+5887.43 and tones, et cetera, can
+support physical learning.
+5891.6 If you're interested in that,
+if are you a fussy and autos,
+5894.71 there is a wonderful
+review, also published
+5897.41 in the Journal Neuron
+again, excellent journal
+5900.32 by Herholz and Zatorre,
+that's H-E-R-H-O-L-Z
+5905.44 and Zatorre, Z-A-T-O-R-R-E.
+5909.91 That really describes in
+detail how musical training
+5915.43 can impact all sorts of different things
+5917.66 and how cadence training,
+whether or not with tones
+5921.62 or auditory feedback
+and things of that sort
+5924.52 carries over to not just
+instrumental music training
+5928.73 but also physical skill
+learning of various kinds.
+5931.46 So if you want to do the deep dive,
+5932.81 that would be the place you
+can find it easily online.
+5935.05 It's available as a complete article
+5937.01 free of charge, et cetera.
+5938.78 Many of you are probably
+asking what can I take
+5941.65 in order to accelerate skill learning?
+5943.89 Well, the conditions are going to vary,
+5946.22 but motivation is key.
+5947.8 You have to show up to
+the training session
+5949.53 motivated enough to focus your attention
+5953.42 and to perform a lot of repetitions
+5955.47 in the training sequence.
+5957.23 That's just a prerequisite.
+5959.37 There's no pill that's
+going to allow you to do
+5960.76 fewer repetitions and
+extract more learning
+5963.33 out of fewer repetitions.
+5964.48 It's actually more a question
+of what are the conditions
+5967.38 that you can create for yourself
+such that you can generate
+5970.87 more repetitions per unit time.
+5972.62 I think that's the right
+way to think about it.
+5975.154 What are the conditions
+that you can create
+5976.41 for yourself in your mind and in your body
+5978.19 that are going to allow you to focus?
+5980.6 And I've talked about focus and plasticity
+5982.9 and motivation in previous episodes.
+5984.61 Please see those episodes if
+you have questions about that.
+5987.38 I've detailed a lot of tools
+in the underlying science.
+5990.24 So for some people, it might
+be drinking a cup of coffee
+5992.96 and getting hydrated before
+the training session.
+5994.91 For some of you, it
+might be avoiding coffee
+5996.81 because it makes you too jittery
+5997.9 and your attention jumps
+all over the place.
+5999.62 It's going to vary tremendously.
+6002.18 There is no magic pill
+that's going to allow you
+6004.42 to get more out of less, that's
+just not going to happen.
+6007.72 It's simply not going to happen.
+6009.15 You're not going to get more learning
+6010.58 out of fewer repetitions or less time.
+6012.98 However, there are a few compounds
+6015.89 I think are worth mentioning
+because of their ability
+6020.36 to improve the actual
+physical performance,
+6022.64 the actual execution of
+certain types of movements.
+6025.64 And some of these have also been shown
+6027.68 to improve cognitive function,
+6029.66 especially in older population.
+6031.49 So I'd be remiss if I didn't
+at least mention them.
+6034.07 I'm only going to mention
+one today in fact.
+6037.459 The one that's particularly interesting
+6038.31 and for which there really
+are a lot of data is alpha GPC
+6042.43 and I'm going to attempt to pronounce
+6045.84 what alpha GPC actually is.
+6047.43 It's alpha glycerylphosphorylcholine.
+6050.84 Alpha GPC, alpha
+glycerylphosphorylcholine.
+6053.97 See, if I keep doing it
+over and over repetitions,
+6055.87 alpha glycerylphosphorylcholine.
+6058.128 There I made an error.
+6058.961 Okay, so the point is that alpha GPC,
+6062.47 which is at least in the United States
+6064.1 is sold over the counter
+typically is taken in dosages
+6068.77 of about 300 to 600 milligrams.
+6071.66 That's a single dose or
+have been shown to do
+6074.42 a number of things that for
+some of you might be beneficial.
+6078.04 One is to enhance power output.
+6079.85 So if you're engaging in
+something like Shotput throwing
+6082.49 or resistance training or sprinting
+6085.47 or something where you have
+to generate a lot of power,
+6088.1 maybe you're doing rock
+climbing, but you're working
+6090.7 on a particular aspect
+of your rock climbing
+6092.55 that involves generating a
+lot of force, a lot of power.
+6096.19 Well then in theory, alpha GPC
+could be beneficial to you.
+6100.7 For the cognitive effects,
+the dosages are much higher
+6104.29 up to 1200 milligrams daily
+divided into three doses
+6107.99 of 400 milligrams is what the studies
+6109.73 that I was able to find show or used.
+6112.19 The effects on cognitive decline
+are described as notable.
+6116.56 Notable, meaning several
+studies showed a significant
+6119.58 but modest effect on in
+offsetting cognitive decline,
+6124.425 in particular in older populations
+6126.58 and some populations,
+even with some reported
+6129.61 neuro degeneration.
+6131.32 Power output was notable.
+6133.73 How notable, what does that mean, notable?
+6137.09 A study noted a 14%
+increase in power output.
+6141.88 That's pretty substantial, 14%.
+6145.315 And if you think about it,
+but it wasn't like a doubling
+6146.81 or something of that sort.
+6148.02 Believe it or not, the
+symptoms of Alzheimer's
+6149.89 have been shown at least
+among the nutraceuticals
+6153.64 of which alpha GPC is to
+significantly improve cognition
+6157.21 in people with Alzheimer's.
+6158.06 Now this episode, isn't
+about cognitive decline
+6160.02 and longevity, we will talk about that,
+6161.99 but this is a so-called
+another effect of alpha GPC.
+6167.64 Fat oxidation is increased by alpha GPC,
+6171.08 growth hormone release
+is promoted by alpha GPC
+6175.99 although to a small degree.
+6177.09 So as you can see, things
+like alpha GPC in particular
+6181.9 when they are combined
+with low levels of caffeine
+6184.6 can have these effects of
+improving power output,
+6187.24 can improve growth hormone release,
+6189.3 can improve fat oxidation.
+6190.77 All these things in theory
+can support skill learning.
+6194.89 But what they're really
+doing is they're adjusting
+6197.08 the foundation upon which
+you are going to execute
+6199.81 these many, many repetitions.
+6202.06 The same thing would be
+said for caffeine itself.
+6204.64 If that's something that motivates you
+6206.22 and gets you out of a chair to actually do
+6207.72 the physical training,
+then that's something
+6210.04 that can perhaps improve or enhance
+6213.03 the rate of skill learning
+6214.27 and how well you retain those skills.
+6216.83 Now on a previous episode I talked about,
+6220.017 and this was the episode on
+epinephrin on adrenaline.
+6223.91 I talked about how for mental,
+for cognitive learning,
+6227.6 it makes sense to spike epinephrin,
+6230.88 to bump epinephrin levels
+up adrenaline levels up
+6235.19 after cognitive learning.
+6237.06 For physical learning, it
+appears to be the opposite
+6239.93 that if caffeine is in your practice
+6242.69 or if you decide to try alpha GPC
+6245.24 that you would want to do
+that before the training,
+6247.45 take it before the training use it.
+6250.42 Its effect should extend
+into the training,
+6251.64 presumably throughout, and then afterward
+6254.29 if you're thinking about
+following some of the protocols
+6256.32 that we discussed today,
+that you would use
+6258.95 some sort of idle time
+where the brain can replay
+6261.69 these motor sequences in reverse.
+6263.59 And then of course, you want to do things
+6265.401 that optimize your sleep.
+6266.4 A lot of the questions I
+get are about how different
+6269.49 protocols and things that I described
+6271.15 start to collide with one another.
+6272.74 So let's say for instance,
+you go to bed at 10:30
+6275.41 and you're going to do your
+skill training at 9:30,
+6279.81 well, taking a lot of caffeine
+then is not going to be
+6282.61 a good idea 'cause it's going
+to compromise your sleep.
+6284.7 So I'm not here to design
+the perfect schedule for you
+6288.27 because everyone's situation's vary.
+6290.45 So the things to optimize
+are repetitions, failures,
+6295.67 more repetitions, more failures
+at the offset of training.
+6300.35 Having some idle time that
+can be straight into sleep
+6302.95 or it could be simply letting
+the brain just go idle
+6306.42 for five to 10 minutes, mean
+not focusing on anything,
+6309.38 not scrolling, social media, not emailing,
+6311.87 not ideally not even talking
+to somebody just lying down
+6314.53 or sitting quietly with your eyes closed
+6316.3 letting those motor sequences replay.
+6318.82 Then we talked about how one can come back
+6321.9 for additional training sessions,
+6323.76 use things like metronoming
+where you're queuing
+6326.13 your attention to some
+external cue, some stimulus,
+6330.07 in this case, an auditory
+stimulus most likely
+6332.42 and trying to generate more
+repetitions per unit time.
+6334.76 So again, it's repetitions
+and errors, that's key.
+6338.65 And then we also talked about some things
+6340.12 that you can do involving
+cerebellar neurophysiology
+6342.8 to extend range of motion if
+that's what's limiting for you
+6345.97 or to use visualization
+to augment the practice
+6349.88 or let's say your particular
+skill involves nice weather
+6353.74 and it's raining or snowing outside
+6355.33 and you can't get outside or thunderstorm,
+6357.27 then that's where visualization training
+6359.19 might be a good replacement
+under those conditions.
+6362.02 Or in most cases is going
+to be the kind of thing
+6364.51 that you're going to want to do
+6365.44 in addition to the actual physical skill
+6368.13 or strength training session done,
+6370.89 at least in the study that we described
+6372.42 for 15 minutes a day, five days a week
+6376.24 over a period of 10 to 12 weeks or so.
+6379.25 So hopefully that makes it clear.
+6380.83 Today we've covered a lot of mechanism.
+6383.37 We talked so much about the
+different motor pathway,
+6386.27 central pattern generator.
+6387.5 So you now are armed
+with a lot of information
+6391.58 about how you generate movement.
+6393.4 And I like to think that you're also armed
+6395.76 with a lot of information
+about how to design protocols
+6398.93 that are optimized for
+you or if you're a coach,
+6403.966 for your trainees in order to optimize
+6406.17 their learning of skills various kinds.
+6409.43 Today we focused almost
+entirely on motor skills,
+6413.09 things like musical
+skills or physical skills.
+6415.74 These have some overlap,
+they're partially overlapping
+6418.88 with neuroplasticity, for
+learning things like languages
+6422.08 or math or engineering or
+neuroscience for that matter.
+6426.61 Before we depart, I just want to make sure
+6429.53 that I return to a concept,
+which is the ultradian cycle.
+6433.36 Ultradian cycles are
+these 90 minute cycles
+6435.51 that we go through throughout
+sleep and wakefulness
+6437.24 that are optimal for
+learning and attention.
+6439.95 In the waking state, they
+are the stages of sleep
+6446.006 in which we have either
+predominantly slowey sleep
+6446.839 or rem sleep.
+6447.94 Some of you who have been
+following this podcast
+6449.8 for a while might be asking,
+well should a physical practice
+6452.95 be 90 minutes.
+6455.33 That's going to depend because
+with physical practices,
+6458.16 oftentimes for instance,
+with strength training,
+6460.37 that might be too long.
+6461.51 You're not going to be able to
+generate enough force output
+6464.02 for it to be worthwhile.
+6465.47 For golfing, I don't know.
+6466.67 I've never played golf with
+all my friends that play golf,
+6468.53 they disappear onto the
+golf course for many hours.
+6470.64 So I know there's a lot
+of walking and driving
+6473.71 and other stuff, I even hear that somebody
+6475.77 carries your stuff around for
+you sometimes, not always.
+6480.13 But it's going to differ.
+6482.75 A four hour golf game,
+you're probably not swinging
+6485.32 the golf club for four hours,
+so it's going to depend.
+6487.6 I would say that the ultradian
+cycle is not necessarily
+6492.02 a good constraint for skill
+learning in most cases.
+6495.51 And I should say that for
+those of you that are short
+6497.95 on time or have limited amounts of time,
+6500.35 10 minutes of maximum repetitions,
+6502.19 maximum focus skill learning work is going
+6504.52 to be very beneficial.
+6506.8 Whereas two hours of kind of haphazard
+6509.85 not really focused work or
+where you're not generating
+6513.56 very many repetitions 'cause you're doing
+6515.34 few repetitions then you're
+texting on your phone
+6517.39 or pay attention to something else,
+6518.55 that's not going to be beneficial.
+6520.18 It's really about the density of training
+6522.35 inside of a session.
+6523.23 So I think you should let the...
+6525.3 Work toward maximal or
+near maximum density
+6527.96 of repetitions and failures
+provided they're failures
+6531.01 you can perform safely in order
+to accelerate skill learning
+6534.59 and don't let some
+arbitrary or in this case,
+6537.52 the ultradian constraint prevent you
+6540.04 from engaging in that practice.
+6541.37 In other words, get the work
+in, get as much work done
+6543.53 as you can per unit time.
+6545.22 And based on the science,
+based on things that I've seen,
+6548.24 based on things that I'm now involved in
+6550.3 with various communities, you
+will see the skill improve
+6554.42 vastly at various stages.
+6556.61 Sometimes it's a little bit stutter start,
+6558.17 it's not always a linear improvement
+6560.81 but you will see incredible
+improvement in skill.
+6563.6 If you're enjoying this podcast
+6565.05 and you're finding the
+information interesting
+6567.08 and or of use to you,
+please subscribe on YouTube.
+6570.6 That really helps us.
+6572.01 As well, please subscribe
+and download the episodes
+6574.42 on Apple and Spotify.
+6577.05 On Apple, you also have
+the opportunity to leave us
+6579.52 up to a five star review if
+you think we deserve that.
+6582.82 And on YouTube, please
+hit the thumbs up button
+6585.74 if you liked the episode
+and please give us feedback.
+6589.17 Place your feedback in
+the comment section.
+6591.7 That's a place to tell us how we're doing
+6593.97 but also to ask us questions.
+6596.25 We read all the comments.
+6597.86 It takes us some time
+to work through them,
+6599.9 but we read all of them
+and we use your comments
+6602.19 and your feedback to sculpt the content
+6604.95 and the direction of future episodes.
+6607.46 As well, please check out our sponsors.
+6609.6 The sponsors that we
+mentioned at the beginning
+6611.27 of each podcast episode
+are really important
+6613.72 in order to support our production team.
+6615.86 And as well, we have a Patreon.
+6617.98 It's patreon.com/andrewhuberman.
+6620.77 There, you can support us
+at any level that you like.
+6623.62 In previous episodes and in this episode,
+6625.69 I mentioned some supplements.
+6627.33 Supplements certainly have
+their place for various things.
+6631.28 They aren't necessary, but
+many people, including myself
+6633.81 derive benefit from supplements
+6635.65 for things like improving sleep
+and immune system function
+6638.7 and learning and so forth.
+6640.57 If you're interested in seeing
+the supplements that I take,
+6642.77 you can go to thorne.com/u,
+6646.14 that's the letter U slash Huberman
+6648.5 and you can see the
+supplements that I take.
+6650.74 If you want to try any
+of those supplements,
+6653.102 you can get 20% off simply by
+accessing the Thorne webpage
+6656.7 through that portal, as well as 20% off
+6659.09 any of the other supplements
+that Thorne makes.
+6661.56 The reason we've partnered with Thorne
+6663.06 is because Thorne has the very
+highest levels of stringency
+6665.92 in terms of the quality of the supplements
+6668.58 and the accuracy about the
+amounts of each supplement
+6671.69 that are in the bottle.
+6672.523 One of the major problems
+in the supplement industry
+6675.0 is that when supplements get tested,
+6677.07 often it's the case that the
+amount of a given ingredient
+6681.12 is far lower or far greater
+than what's reported
+6684.66 on the bottle.
+6685.493 That's not the case for Thorne.
+6686.84 Thorne has very high levels of stringency,
+6689.79 they partnered with the Mayo Clinic
+6691.32 and all the major sports teams
+6692.77 and that's why we partnered
+with them as well.
+6694.75 So if you want to check those out again,
+6696.23 it's Thorne, T-H-O-R-N-E
+slash the letter U/Huberman
+6701.22 to get 20% off any of the
+supplements that Thorne makes.
+6705.15 And last but not least,
+I want to thank you
+6707.06 for your time and attention.
+6708.64 I very much appreciate your
+interest in neuroscience
+6711.24 and in physiology and in
+tools that are informed
+6714.18 by neuroscience and physiology.
+6716.2 Today, we talked all about skill learning.
+6718.85 I hope that you'll
+consider the information,
+6721.0 you might even decide to
+try some of these tools.
+6722.81 If you do, please let us
+know your results with them.
+6725.43 Give us feedback in the comments
+6727.12 and as always, thank you for
+your interest in science.
+6730.313 [instrumental music]

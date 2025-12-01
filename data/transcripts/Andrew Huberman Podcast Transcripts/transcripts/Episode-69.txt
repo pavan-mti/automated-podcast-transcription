@@ -1,0 +1,3289 @@
+0.36 - Welcome to the Huberman Lab Podcast
+1.92 where we discuss science,
+3.69 and science-based tools for everyday life.
+9.42 I'm Andrew Huberman,
+10.38 and I'm a Professor of Neurobiology
+12.01 and Ophthalmology at
+Stanford School of Medicine.
+15.23 Today, I have the pleasure of
+introducing Dr. Duncan French
+18.18 as my guest on the Huberman Lab Podcast.
+21.15 Dr. French is the Vice
+President of Performance
+23.6 at the UFC Performance Institute,
+25.76 and he has over 20 years of experience
+27.95 working with elite, professional,
+and Olympic athletes.
+31.3 Prior to joining the UFC,
+32.64 French was the Director
+of Performance Science
+34.74 at the University of Notre Dame,
+36.7 and he has many, many
+quality peer-reviewed studies
+39.9 to his name, exploring, for instance,
+41.92 how the particular order of exercise,
+44.27 whether or not one
+performs endurance exercise
+46.49 prior to resistance
+training or vice versa,
+49.37 how that impacts performance
+of various movements
+52.47 and endurance training protocols,
+54.35 as well as the impact on hormones,
+56.23 such as testosterone, estrogen,
+58.39 and some of the stress
+hormones such as cortisol.
+61.0 He's also done fascinating work
+62.73 exploring how neurotransmitters,
+65.01 things like dopamine and epinephrin,
+66.96 also called adrenaline,
+can impact hormones,
+69.32 and how hormones can impact
+neurotransmitter release.
+73.1 What's particularly unique
+about Dr. French's work
+75.75 is that he's figured out
+specific training protocols
+79.1 that can maximize, for
+instance, testosterone output
+82.29 or reduce stress hormone output
+84.86 in order to maximize
+the effects of training
+87.74 in the short-term and in the longterm.
+90.69 So, today, you're going to
+learn a lot of protocols.
+93.02 Whether or not you're
+into resistance training
+94.63 or endurance training, you
+will learn, for instance,
+96.9 how to regulate the
+duration of your training
+100.19 and the type of training that you do
+102.38 in order to get the maximum benefit
+104.13 from that training over time.
+106.22 So whether or not you are somebody
+107.65 who just exercises
+recreationally for your health,
+110.82 whether or not you're an
+amateur or professional athlete,
+113.67 or whether or not you're just
+trying to maximize your health
+116.2 through the use of endurance
+and/or resistance training,
+119.53 today's discussion will have
+a wealth of takeaways for you.
+122.89 There are only a handful of people
+124.15 working at the intersection
+of elite performance,
+127.5 mechanistic science, and
+that can do so in a way
+130.81 that leads to direct,
+immediately applicable protocols
+134.29 that anybody can benefit from.
+136.06 Dr. French also provides some
+incredibly important insights
+139.51 about the direction
+that sport and exercise
+142.05 are taking in the world today,
+143.75 and their applications towards
+performance and health.
+147.2 Before we begin, I'd like to
+emphasize that this podcast
+150.1 is separate from my teaching
+and research roles at Stanford.
+152.95 It is, however, part
+of my desire and effort
+155.1 to bring zero cost to consumer
+information about science
+158.05 and science-related tools
+to the general public.
+160.89 In keeping with that theme,
+162.02 I'd like to thank the
+sponsors of today's podcast.
+164.89 Our first sponsor is ROKA.
+166.96 ROKA makes eyeglasses and sunglasses
+168.94 that are of the absolute highest quality.
+170.727 I have spent my career
+working on the visual system,
+173.63 and I can tell you that everything
+174.89 about the way that ROKA eyeglasses
+176.55 and sunglasses were designed
+was with performance in mind.
+180.29 First of all, they're
+extremely lightweight
+182.06 so you actually forget
+that you're wearing them
+183.58 most of the time.
+184.53 Second of all, even if you get sweaty,
+187.01 if you're running or
+biking or it's a hot day
+188.92 or you're running around and just happen
+189.85 to be perspiring quite a lot,
+191.19 they don't slip off your
+face, which is terrific.
+193.21 They also have a great aesthetic
+194.47 and they have a lot of
+different styles to choose from.
+196.96 The clarity of the lenses is superb.
+199.08 I don't think there's
+a match for the clarity
+201.43 of ROKA glasses out there.
+202.63 And if there is, I'm not aware of it.
+204.74 They are absolutely crystal clear.
+206.7 And that's true in any environment,
+208.16 whether or not you're
+working in a dim environment
+209.83 or a bright environment,
+the clarity is unmatched.
+213.17 If you'd like to try ROKA
+eyeglasses or sunglasses,
+215.89 you can go to roka.com.
+217.51 That's R-O-K-A.com and
+enter the code "Huberman"
+221.41 to save 20% off your first order.
+224.19 Today's episode is also
+brought to us by Helix Sleep.
+227.44 Helix Sleep makes mattresses and pillows
+229.4 that are uniquely tailored
+to your sleep needs.
+232.11 All of us have unique sleep needs,
+233.67 and we should be sleeping on a
+mattress that's ideal for us.
+237.06 If you go to the Helix site,
+238.42 they have a quick two minute quiz,
+240.15 ask you a number of questions
+about whether or not
+241.74 you sleep on your side,
+your back, your stomach.
+243.5 Do you tend to run hot or cold, et cetera?
+245.63 Maybe you don't have the
+answers to those questions,
+247.15 which is fine.
+248.1 They'll match you to the mattress
+249.42 that's ideal for your sleep needs.
+251.76 I took that quiz and about 10 months ago
+253.49 I started sleeping on
+the Dusk Helix mattress.
+256.11 That's D-U-S-K.
+257.42 That's the mattress that's ideal for me,
+259.05 and I'm sleeping better
+than I ever have before.
+261.64 So if you're interested in
+upgrading your mattress,
+263.41 go to helixsleep.com/Huberman,
+266.18 take their two minute sleep quiz,
+267.63 and they'll match you
+to a customized mattress
+269.48 and you'll get up to $200
+off all mattress orders
+272.58 and two free pillows.
+273.83 That's helixsleep.com/Huberman.
+276.63 Today's episode is also
+brought to us by Headspace.
+279.37 Headspace is a meditation app
+280.88 that's backed by 25 published studies.
+283.59 By now I think most
+people have heard about
+285.65 or experienced the benefits of meditation;
+288.33 improved focus, better
+sleep, reduced stress,
+291.2 more creativity and insight.
+292.85 There are just so many studies out there
+294.09 that support those claims.
+295.81 The challenge, however,
+296.68 is sticking to a meditation practice.
+298.68 And over the years, I
+confess there have been times
+301.15 when I've meditated regularly
+and then I stopped meditating,
+303.79 even though it always
+provides benefits for me
+305.7 the first time I do it
+and every time I do it.
+308.29 With the Headspace app,
+309.74 it makes it very easy
+to meditate consistently
+312.0 because they have different
+types of meditations
+314.24 to select from, and they
+come in different durations.
+317.04 So sometimes I only have three
+or four minutes to meditate.
+319.32 They have those sorts of meditations.
+321.27 They also have longer meditations
+of 20 minutes or more.
+324.27 If you want to try Headspace,
+325.41 you can go to headspace.com/specialoffer.
+328.55 And if you do that, you'll
+get a free one month trial
+331.15 with Headspace's full
+library of meditations
+333.51 that you can use in any situation.
+335.81 This is the best deal offered
+by Headspace right now.
+338.04 So, again, if you're interested,
+339.17 go to headspace.com/specialoffer.
+342.44 And now, my conversation
+with Dr. Duncan French.
+345.95 Duncan French, great to see you again.
+348.31 - Likewise, likewise, thank you.
+349.633 I don't often have many
+Stanford professors
+352.25 in the Performance Institute,
+so I'm really excited.
+354.717 - Oh, well, this place is amazing,
+356.27 and you have a huge role
+in making it what it is.
+360.79 The reason I'm so excited
+to talk with you is that
+364.04 you're one of these rare beasts
+that you have been involved
+368.2 in human performance
+and athletic performance
+371.21 at the collegiate level.
+373.86 You are obviously very
+involved in MMA now,
+376.577 in the UFC Performance Institute.
+378.85 And you also had the fortunate experience,
+381.88 I like to think, of doing a PhD in...
+385.06 What exactly was the PhD in?
+386.85 - It was exercise physiology.
+- Exercise physiology.
+388.74 So, you're familiar also
+with designing studies,
+391.48 control groups, all the sorts
+of things that in my opinion,
+395.05 anyway, are kind of lacking
+from the internet social media
+399.42 version of exercise science,
+401.72 which is that people throw
+out all sorts of ideas
+403.7 about how people should be training,
+404.99 what they should be doing and eating
+406.56 and not eating and doing.
+408.23 And certainly, science
+doesn't have all the answers,
+410.67 but I just think it's
+so rare to find somebody
+412.78 that's at the convergence of
+all those different fields.
+416.95 And so, I have a lot of
+questions for you today
+418.92 that I'm sure the audience are going to be
+420.72 really interested in.
+- Well, listen,
+422.28 I mean, I appreciate that.
+423.48 It's very humbling, and yeah,
+424.92 I've worked hard to get to where I am,
+427.31 but I've always tried to be authentic.
+428.96 And I think authenticity comes
+alongside academic rigor,
+434.27 and objectivity, and insight
+and knowledge base, right?
+438.08 At the end of the day, it's
+about having confidence,
+440.87 having expertise and being
+able to deliver that expertise
+443.611 to, in my world, to athletes.
+446.49 And I think, and that's what
+I've always tried to do.
+448.77 I've tried to have many strings to my bow
+452.026 so that I can talk with
+many different hats on.
+454.18 You know, one day I'm talking to a coach,
+456.0 the next day I'm talking to an athlete,
+457.2 the next day I'm talking to a CEO,
+458.82 the next day I'm talking
+to an academic professor.
+461.95 And so, I think being able
+to wear those different hats
+465.58 is certainly a skillset
+that I've tried to build
+468.47 throughout my career.
+469.303 And like you said, I've
+been blessed to work with,
+471.86 I think it was 36 different
+professional or Olympic sports
+475.06 last time I counted.
+- Amazing.
+476.957 - So, yeah, it's been a wild ride.
+478.93 It's been great.
+479.763 - Which of those sports
+was the most unusual?
+482.67 - I've worked with crown green bowling.
+485.62 - Wait, what?
+- Which I don't know,
+486.453 as an American guy, I don't know-
+487.932 - I've never heard of it.
+- How well you'd know that,
+488.987 but basically imagine a 20
+foot by 20 foot square of turf
+495.78 with a small raise in the
+middle, i.e. the crown.
+498.72 So, it slopes to the edges.
+- Okay.
+501.62 - And then, you throw out a
+white jack, a smaller ball,
+505.43 and then you roll out larger balls
+507.99 to try and get closest to the jack.
+510.048 It's a very European thing, let's say.
+512.517 - Interesting.
+- But yeah, sports performance
+514.6 in crown green bowling, and there you go.
+516.122 - All right.
+[Duncan laughing]
+517.54 Wow, and then to mixed
+martial arts, fighters-
+520.452 - Absolutely, there you go.
+- And everything in between.
+523.137 So, along those lines,
+524.55 can you give us a little
+bit about your background?
+526.63 Where'd you start out?
+527.52 Where are you from originally?
+529.07 - Yeah, I'm from the northeast of England.
+531.33 So I'm from a town called
+Harrogate, which is in Yorkshire,
+534.21 which is a northern kind of area
+536.14 of the UK-
+- Nice sunny weather
+537.37 all year long?
+538.78 - Yeah, you can imagine.
+540.3 Yeah, with the two weeks of
+summer that we get, you know?
+542.797 [Duncan laughs]
+543.71 But yeah, I mean, I did
+my undergraduate studies
+546.14 there in sports science.
+547.544 I did teacher training to be
+549.08 a physical education teacher after that.
+551.45 Like most people I then
+worked as a high school
+554.17 physical education teacher.
+555.71 You know, great experience
+working with kids,
+557.86 developing athletic qualities.
+561.18 But something in the
+back of my mind always,
+563.58 I wanted more, I wanted
+to be at the higher end
+566.96 of elite sport.
+568.22 I was a failed athlete like many people.
+570.57 I represented my country in
+different sports and things,
+573.15 but I never made it professionally.
+576.11 So, that little seed was sown
+and as much as I then started
+580.98 to reach out to different
+areas to do a PhD,
+584.81 whether it was in the UK or also,
+586.92 chance my arm, took a punt,
+587.753 see if I could get over to the states.
+589.62 I mean, all my buddies
+were going on gap years
+592.18 after they finish university or whatever,
+594.28 and going to Bali and
+hanging out or whatever,
+597.02 traveling through Thailand.
+598.08 And I figured, well, I've
+always loved the states
+600.8 and can I go and kill
+two birds with one stone
+602.66 and do something academic,
+continue my studies,
+605.29 but also do it in a different environment
+606.88 and get some life experience.
+608.67 And many, many rejections,
+611.14 as I'm sure you kind of aware
+from different professors,
+614.44 whether it was Roger
+Noecker or William Kramer-
+617.14 - So you wrote to these folks?
+618.26 - I just cold called and send
+out information and saying,
+621.627 "Yeah, so have you got any opportunities?"
+624.64 Pushed back from them all,
+but dogged and kept asking,
+628.24 and yeah, Dr. William Kramer,
+630.33 who was at Ball State University
+in Indiana at the time,
+633.92 a muscle neuroendocrinologist
+and researcher
+636.96 in muscle physiology
+using resistance training,
+640.68 he basically said, listen,
+I can guarantee your funding
+642.75 for the first year of your
+studies, but not the next three.
+645.02 - Sounds like a typical academic response.
+646.498 - Yeah.
+- I can take care of you,
+648.067 but not that well necessarily.
+- Right.
+650.32 - Right, yeah.
+- Yeah, so, I spoke
+651.61 to my parents and said,
+"Hey, can we take a punt?"
+654.49 And they were great in supporting me.
+656.34 And yeah, long story short,
+657.67 came out to begin my PhD at Ball State.
+660.99 After a year, Dr. Kramer
+transferred to UConn,
+663.96 Connecticut, in Storrs,
+in the Northeast there.
+666.47 And I transferred with him and yeah,
+669.35 four great years with my
+PhD and getting my PhD
+672.525 with a really prolific
+research group that looked at
+676.96 neuroendocrinology, hormonal work,
+679.99 but using a resistance training
+681.61 primarily as an exercise
+stressor as a major mechanism,
+685.31 and then looking at all
+the different physiologies
+687.15 off the back of resistance training.
+688.77 - Yeah, you guys were
+enormously productive.
+690.73 I found dozens of papers
+on how weight training
+695.22 impacts hormones and your
+name is on all of 'em.
+700.24 And it's remarkable.
+701.89 I have a question about this.
+703.23 I'll just inject a question
+704.38 about weight training and hormones.
+706.62 You hear this all the
+time that doing these big,
+708.45 heavy compound movements
+or resistance training
+710.82 increases androgens, things
+like testosterone, DHT,
+714.15 DHEA, and so forth.
+716.45 Does anyone know how
+that actually happens?
+718.78 Like what is it about
+engaging motor neurons
+724.0 under heavy loads sends a
+signal to the endocrine system,
+727.657 "Hey, release testosterone."
+729.68 I've never actually been able
+to find that in a textbook.
+732.94 - [Duncan] Yeah, well, I mean-
+734.047 - And how can I do more of that?
+735.387 [both laughing]
+736.22 - Yeah, as much as I know, and again,
+738.47 I'm digging out into the
+annals of Duncan French's
+740.57 kind of brain now, but yeah.
+742.37 I mean, I think it's a
+stress response, right?
+744.0 It's mechanical stress
+and it's metabolic stress.
+746.17 And these are the downstream
+regulation of testosterone
+749.7 release at the gonads comes
+from many different areas.
+755.23 My work primarily looked at catecholamines
+758.95 and sympathetic arousal.
+761.1 - So things like epinephrin, adrenaline?
+762.66 - Correct, yeah, epinephrin,
+adrenaline, and noradrenaline,
+767.28 how they were signaling;
+769.1 the signaling cascade using the HPA axis,
+772.19 releasing cortisol,
+and then looking at how
+776.1 that also influenced the
+adrenal medulla to release
+780.38 androgens and then signaling
+that at the gonads.
+783.01 - That raises an interesting question.
+784.44 So, in presumably weight
+training in women,
+787.98 people who don't have testes
+also it increases testosterone.
+791.733 - Yes, yeah.
+- And is that purely
+793.1 through the adrenals?
+794.04 When women lift weights,
+795.08 their adrenal glands release testosterone?
+796.77 - Absolutely.
+797.603 I mean, that is the only area
+799.14 of testosterone release for females.
+801.44 And yes, it's the same downstream cascade.
+803.59 Obviously the extent to which it happens
+805.37 is significantly less in females,
+807.31 but there's good data out there that shows
+810.58 females can increase their
+anabolic environment,
+813.34 their internal anabolic milieu
+815.52 using resistance training as a stressor.
+817.49 And then they get the
+consequent muscle tissue growth,
+820.89 whether it's tendon,
+ligament, adaptations,
+823.41 the beneficial consequences
+of resistance training,
+826.36 which is driven by anabolic stimuli.
+828.86 - Yeah, I have two questions about that.
+830.39 The first one is something
+that you mentioned,
+831.83 which is that the androgens,
+the testosterone comes from
+835.63 the adrenals under
+resistance loads in women.
+838.41 Is the same true in men?
+840.09 I mean, we hear that the
+testes produce testosterone
+842.38 when we weight train for
+men that have testes,
+846.37 but do we know whether
+or not it's the adrenals
+850.59 or the testes in men that
+are increasing testosterone
+853.17 more or both-
+- Yeah I think that-
+854.02 - A little bit from each?
+856.16 - The field is divided presently
+in as much as understanding
+859.99 the acute adrenergic response
+in terms of anabolic response
+867.27 to exercise in an acute phase
+and the exposure to a stimulus
+872.05 that is stress driven,
+which might be partly
+874.34 from the adrenal glands,
+partly from the gonads,
+876.67 versus a longitudinal exposure
+to anabolic environments,
+881.53 which is primarily driven
+by obviously the gonads
+884.91 and the endocrine
+environment from testosterone
+887.54 release at the gonads.
+888.8 So, the field is split in terms
+of how exercise is promoting
+893.22 hypertrophy, muscle tissue growth.
+895.75 And whether that is very
+much an adrenal stimuli,
+900.28 or if that's significant
+enough in these acute responses
+902.96 versus the longitudinal
+exposure to just elevated
+905.96 basal levels of anabolic
+testosterone habitual level.
+910.73 - So, it sounds like with most
+things, it's probably both.
+913.5 It's probably the adrenals-
+914.502 - Absolutely, yeah.
+- And the gonads.
+915.66 And then you mentioned that testosterone
+917.85 can have enhancing
+effects or growth effects
+920.98 on tendon and ligament also.
+922.74 You don't often hear about that.
+924.19 People always think, testosterone, muscle.
+926.86 But testosterone has a lot
+of effects on other tissues
+930.03 that are important for
+performance it sounds like?
+932.84 - Yeah.
+- Yeah what's the story there?
+934.09 - Yeah, absolutely, I think
+the testosterone hormone is...
+939.02 I mean, listen, there's androgen receptors
+940.64 on neural tissue on neural axons.
+942.86 - Pretty much everywhere.
+943.74 Yeah.
+- Exactly, so,
+945.25 the binding capacity of
+testosterone and influence
+947.75 in different tissues within the body,
+949.68 I touched on muscle tissue,
+but the ligaments, the tendons,
+954.34 even bone to some extent,
+956.22 testosterone has potential
+to influence that
+959.7 in terms of removing osteopenic
+961.33 kind of characteristics, et cetera.
+962.97 So, yeah, it's a magic hormone let's say,
+968.37 and with many end impacts
+in terms of adaptation.
+972.61 - I definitely want to get
+back to your trajectory,
+975.21 but as long as we're on the
+interactions between androgens,
+979.04 testosterone and its derivatives
+and different tissues,
+982.69 from the work that you
+did as a PhD student
+985.06 and throughout your career,
+987.49 could you say that there
+are some general principles
+990.75 of training that favor
+testosterone production,
+993.54 in terms of that somebody who's not
+995.92 an elite athlete could use?
+997.62 Somebody who's already adapted
+to weight training somewhat,
+999.98 like they know the difference between
+1002.24 a dumbbell and a barbell,
+1003.26 and they know the various movements,
+1004.82 they're not going to damage themselves.
+1006.05 But once they're doing that, I mean,
+1007.96 I've heard shorter sessions are better
+1009.89 than longer sessions, but
+in rep loads, weight...
+1012.15 Now, there's a lot of parameter space.
+1014.07 But if you were going to throw
+out some of the parameters
+1017.83 that you think are most
+important to pay attention to
+1020.43 for the typical person who's
+trying to use weight training
+1023.27 to build or maintain muscle.
+- Yeah.
+1025.97 - Lose body fat, so body
+recomposition and/or stay strong
+1030.32 and healthy for sport of a different kind.
+1032.61 - Yeah, so the work that we obviously,
+1034.53 I was exposed to back in my PhD,
+1037.51 it was a double-edged sword.
+1038.86 And as much as testosterone
+is really stimulated
+1041.14 by an intensity factor
+and also a volume factor.
+1044.43 Now, growth hormone is
+a little bit different.
+1046.12 That's largely driven by
+an intensity factor alone.
+1048.63 - Oh, really?
+- Correct.
+1049.463 - I always thought the growth
+hormone was driven my volume,
+1051.6 which just goes to show you.
+1052.55 - Maybe I've got that wrong.
+- No, no, no, no.
+1053.73 I think you're probably right
+which just goes to show you
+1055.25 that most of what's out
+there on the internet-
+1057.533 - Right, right.
+- Is completely...
+1059.118 Not only is it wrong,
+it's usually backwards.
+1061.39 So, no trust-
+- I trust my instinct.
+1063.28 - No, trust your instinct
+because I think people
+1065.63 just make this stuff up.
+- Right.
+1067.98 - Because it's very hard to measure
+1069.39 growth hormone and testosterone.
+1071.928 And I can't imagine most of
+the stuff that I see out there
+1075.08 they're taking drips and
+measuring free versus bound
+1078.96 and all this kind of stuff,
+1079.793 but that's what you do in laboratories.
+1081.21 - Right, yeah.
+- Yeah.
+1082.043 - You look at total composition
+and you look at how much
+1084.16 of that is free circulating-
+- Yeah.
+1085.39 - In the system, how much is bound,
+1086.98 and therefore biologically
+active bound to receptor,
+1089.98 creating an adaptation.
+- Right.
+1092.0 - But yeah, coming back
+to testosterone in terms
+1094.06 of the training strategies,
+1095.67 it's largely driven by both an intensity
+1098.03 and a volume factor.
+1099.23 So if you look at many of
+the exercise interventions
+1102.65 that we use to try and investigate
+1104.28 and interrogate testosterone,
+1106.601 it was usually a six by 10 protocol.
+1110.57 So, you're touching at about-
+- Six by 10 meaning?
+1113.08 - Yeah, six sets of 10 repetitions,
+1115.47 which is quite a large...
+1117.39 60 repetitions is quite a large volume
+1119.51 for a single exercise.
+1121.46 And that was usually
+pitched at about 80% intense
+1123.98 of one repetition max intensity.
+1125.97 - Okay, so 80% of the one
+rep max, six sets of 10 reps,
+1129.97 separated by rest of like-
+1131.64 - Two minutes.
+- Two minutes,
+1132.61 which is actually pretty fast.
+1134.12 - Yeah.
+- At least to me.
+1135.09 Anytime you see these
+two to three minutes,
+1136.69 when you're actually watching the clock,
+1138.5 those two minute rest
+periods go by pretty fast.
+1140.56 - By the third, fourth set
+you're dying for more, yeah.
+1143.19 - Yeah.
+- And I think we formulated
+1145.86 that kind of exercise
+protocol to really target
+1150.05 the release of testosterone
+and try and drive up
+1152.22 these anabolic environments to study
+1153.91 the endocrine consequences.
+1157.41 But I think that's the type of protocol
+1160.29 that is most advantageous for
+driving anabolic environment.
+1164.48 - And that was it for the workout?
+1165.91 That was it?
+- Yeah, I mean,
+1167.13 we would do that in a back squat.
+1168.2 So, a multi-joint, challenging exercise,
+1172.23 multi-muscle, multi-joint,
+1174.02 80% load of your one repetition max.
+1176.81 And then, six by 10.
+1178.07 We did play around with your
+classic German Volume Type,
+1181.09 10 by 10 kind of protocols,
+1184.71 but they were just
+unsustainable at that 80%.
+1187.345 The key to what we also did was
+we always adjusted the loads
+1192.04 to make sure that it was 10
+repetitions that were sustained.
+1195.71 So if the load was too high
+and an athlete or participant
+1200.19 had to drop the weights
+on the sixth repetition,
+1203.33 we would unload the bar and make sure
+1204.83 they completed the 10 repetitions.
+1206.06 - I see.
+- Bringing me back
+1207.29 to the point of it's an
+intensity and a volume derivative
+1210.92 that is going to be most advantageous
+for testosterone release.
+1213.94 - That's really interesting.
+1214.9 And one thing that you mentioned there
+1216.16 is especially interesting to me,
+1217.73 which is you said when
+you go from six sets
+1220.29 of 10 repetitions to 10
+sets of 10 repetitions,
+1224.63 it's not as beneficial and
+might even be counterproductive.
+1227.56 But to me, the difference
+between six and 10 sets
+1230.13 is only four sets.
+1231.01 It doesn't even sound that much.
+1232.31 So that sort of hints at the
+possibility that the thresholds
+1235.27 for going from a workout
+that increases testosterone
+1238.92 to a workout that diminishes testosterone
+1241.31 is actually a pretty narrow margin.
+1243.06 - Yeah and I think it comes back
+1244.54 to that intensity factor then.
+1246.24 What we saw were that 10
+by 10 protocol really sees
+1249.78 pretty significant drop-offs in the load.
+1252.64 And again, we're trying to
+stimulate with intensity,
+1255.38 with mechanical strain through intensity,
+1257.96 as well as metabolic
+strain through volume.
+1260.21 And I think that's the paradigm
+that you've got to look at
+1262.81 is that the mechanical
+load has to come from
+1266.54 the actual weight on the bar,
+1268.21 and the volume is the metabolic stimulus.
+1271.27 How much are we driving lactate?
+1272.69 How much you were driving glycogenolysis
+1274.962 in terms of that type of energy system for
+1279.22 executing a 10 by 10 protocol?
+1281.52 And what we often saw was
+just a significant reduction
+1284.1 in the intensity capabilities
+of an athlete to sustain that.
+1287.4 So we shortened the volume to try
+1290.35 and maintain the intensity.
+1292.09 - Interesting.
+1292.94 And you could imagine just
+taking very long rest,
+1296.29 keeping the session, being a big,
+1297.73 lazy bear in training.
+- Right.
+1299.45 - I sometimes do this.
+1300.283 I tell myself I'm going
+to work out for 45 minutes
+1302.19 and then two hours later, I'm done,
+1303.71 but not because I was huffing
+and puffing the whole time,
+1306.31 but because I was training really slowly.
+1308.97 - Right.
+- Is there any evidence
+1309.88 that training slowly can offset
+some of the negative effects
+1313.33 of doing a lot of volume?
+1314.61 - Well, it's an old adage of...
+1316.98 Two responses to your question.
+1318.44 I mean, the first one, I
+would say there's a difference
+1320.52 between 10 sets of six and six sets of 10.
+1323.77 And I think that comes back
+to the volume conversation.
+1326.91 Six sets of 10 is driving
+up metabolic stimulus.
+1331.21 If you're doing 10 sets of six,
+1333.01 you can probably take it
+to a higher intensity,
+1334.61 but you're not going to get
+the same metabolic load.
+1336.86 You're not going to get the same
+internal metabolic environment
+1340.02 that drives the lactate release,
+1341.43 that they will then signal
+further anabolic testosterone
+1344.92 release because of the
+lactate in your body.
+1348.74 That's a key consideration.
+1350.64 The rest is often the
+consideration that's overlooked
+1355.28 out there in general population,
+1356.75 and in many sporting environments.
+1358.18 That the rest is as important
+a program and variable
+1361.66 as the load and the intensity of the load,
+1364.48 the volume, et cetera.
+1365.92 And yes, if you extend the volume,
+1369.75 if you extend the duration
+of your rest periods,
+1372.82 what you're ultimately
+doing is influencing
+1374.99 that metabolic stimulus again.
+1376.6 You're allowing the flushing of the body,
+1378.31 the removal of waste products,
+1380.19 lactate to be removed from the body,
+1383.53 and then the metabolic
+environment is reduced.
+1387.168 - So, if I understand correctly,
+1389.3 you want to create a metabolic stress.
+1391.369 - Absolutely.
+- So, the way that I've
+1393.46 been training, slow and lazy,
+1395.44 is not necessarily the best way to go?
+1397.86 I could, in theory, do a
+45 or 60 minute session
+1401.73 where I pack in more work per unit time.
+1404.87 I'm not going to be able to
+quote unquote perform as well.
+1407.48 I won't be able to lift as much.
+1409.396 - Yep.
+- I might have to unweight
+1410.8 the bar between sets or
+maybe even during sets
+1413.07 if I have someone who could do that,
+1414.91 but it sounds like that's the way to go.
+1417.83 So, the old adage of high
+intensity, short duration
+1421.03 is probably the way to go.
+- Correct.
+1422.66 And in layman's terms,
+if the same objective,
+1426.92 the same training goal is
+just muscle tissue growth,
+1429.45 and we're not talking
+about maximal strength
+1431.53 or any of those type of parameters,
+1432.88 we're just talking about growing muscle.
+1434.82 If there's an athlete A
+and they do six sets of 10
+1437.81 with two minutes rest,
+1438.97 and there's athlete B
+that does six sets of 10
+1440.76 with three minute rest,
+1442.34 athlete A will likely see
+the highest muscle gains.
+1444.92 - Hm.
+- Muscle hypertrophy gains
+1446.79 because of the metabolic
+stimulus that they're driving
+1449.1 with the shorter rest periods.
+1450.46 - Interesting.
+1451.3 And for all the years that I've spent
+1454.06 exploring exercise
+science and trying to get
+1456.47 this information from the
+internet and various places
+1458.89 that this is the first time it's ever been
+1461.18 told to me clearly.
+1462.17 So, basically I need to put my ego aside
+1464.92 and I need to not focus so
+much on getting as many reps
+1469.0 with a given weight and
+keep the rest restricted
+1472.76 to about two minutes.
+- Yeah.
+1474.39 - Get the work in, and then
+I'll derive the benefits.
+1477.56 - I mean, you've absolutely
+nailed it to be honest.
+1479.29 And again, if you think about human nature
+1481.14 and how we approach, we're
+inherently lazy, right?
+1483.49 As humans, we want to take that rest.
+1487.5 We want to take the time out
+to recover and feel refreshed,
+1490.87 but we're trying to create
+a training stimulus.
+1493.61 We're trying to create
+a very specific stimulus
+1495.58 internal to the body,
+1496.87 and that is often driven by
+the metabolic environment
+1499.82 at that moment in time.
+1500.94 Now, if we allow the metabolic
+environment to change
+1503.66 by extending the rest periods,
+1505.79 we're not going to see as
+beneficial gains at the end of it.
+1508.64 - Very interesting.
+- So, it is very much
+1510.89 a motivational and ego
+thing rather than saying,
+1515.247 "Okay, I'm going to push
+my loads as high as I can,
+1518.05 and really challenge maximal strength,
+1519.82 do fewer repetitions, take
+longer periods of time."
+1522.37 It's a completely different
+approach to training.
+1524.62 It's a different end goal.
+- Interesting.
+1526.33 And you mentioned lactate,
+so it seems still a bit
+1529.6 controversial as to what
+actually triggers hypertrophy.
+1532.16 You hear about lactate buildup or people,
+1534.91 the common language is the muscle
+1536.37 gets torn and then repairs,
+1537.92 but I don't know, does
+the muscle actually tear?
+1540.1 - I mean microtrauma.
+- Okay, microtrauma.
+1541.93 - Yeah, disruption within
+the muscle tissue for sure.
+1545.14 - Interesting.
+1545.973 And we're talking now about
+non-drug assisted people-
+1548.77 - Correct, yeah.
+- Whose, let's just say,
+1551.47 let's define our terms here.
+1553.28 That whose testosterone
+levels are within the range
+1556.6 of somewhere between 300 and
+1,500 or whatever, 1,200,
+1560.85 because it does seem that
+athletes who take high levels
+1565.01 of exogenous androgens can do more work
+1567.96 and just get protein synthesis
+from just doing work.
+1570.77 - Yeah.
+1571.603 - I've seen these guys in the gym, right?
+1573.309 The telltale signs are
+not that hard to spot
+1575.6 where they're just doing a ton of volume,
+1578.05 not necessarily moving that much weight,
+1579.68 they're just bringing
+blood into the tissue.
+1582.03 And then they're loading up on,
+1584.54 they're eating a ton of protein,
+1585.65 presumably 'cause they're
+basically in puberty part 15.
+1588.63 - Right.
+- Right, they're on their
+1589.58 15th round of puberty
+where during puberty,
+1592.69 you are a protein synthesis machine.
+1595.56 I mean, to me, that's
+pretty clear about puberty.
+1599.21 Interesting.
+1600.043 So, and then, in terms of,
+1602.85 because I know the audience
+likes to try protocols,
+1605.9 so you described a protocol very nicely.
+1610.06 What about day-to-day recovery?
+1611.53 I mean, the workout that you described
+1613.28 is intense, but short,
+1614.42 how many days a week can
+the typical person do that
+1617.47 and sustain progress?
+1619.28 - Yeah, I mean, I think that
+comes back to your training age
+1621.5 and your training history.
+1622.36 Obviously there's a
+resilience and a robustness
+1624.86 with an incremental training age.
+1626.75 So, that's not a protocol
+that I would advise
+1629.367 anyone to go out and start tomorrow.
+1632.17 - They'll be mopping
+them off the gym floor.
+1633.553 - Right, but at the same time,
+it's also relative, right?
+1636.28 So 80% of your maximum at a
+young training age is still 80%
+1641.37 versus I've been training
+10 years, it's still 80%.
+1644.3 But yes, the mechanical load
+is going to be significant,
+1647.083 it's just more tonnage, right?
+1649.81 But yeah, I think a protocol like that,
+1651.76 we would look at two times a week,
+1653.99 something that's pretty intensive
+like that, because again,
+1656.7 it comes back to the point you make
+1658.04 is that you really need to
+be, for want of a better term,
+1661.31 suffering a little bit
+through that type of protocol,
+1664.03 both in terms of the
+challenge of the load,
+1666.69 but also being able to
+tolerate the metabolic stress
+1670.0 that you're exposed to.
+1672.524 It's a bit of a sicko feeling
+because of the lactate
+1675.73 that you're driving up.
+1676.58 So, I wouldn't promote an athlete doing
+1679.39 that type of modality
+multiple, multiple times unless
+1683.46 you are from the realms of bodybuilding.
+1685.43 And then, you really,
+that's the sole purpose
+1687.66 of what you're trying to achieve.
+1688.87 Most athletes in most sports
+have diverse requirements
+1694.15 in terms of outcomes that
+they're trying to achieve.
+1696.06 They're not just targeting muscle growth.
+1698.64 Muscle growth is a conduit
+to increased strength,
+1702.2 increased power, increased
+speed, obviously.
+1704.98 So, yes, trying to get a
+bigger cross-sectional area
+1707.44 of a muscle means that
+we can produce more force
+1709.5 into the ground or wherever it may be,
+1711.54 if we're a locomotive athlete.
+1713.21 But usually, sports, men and women,
+1715.45 are not just purely seeking muscle growth.
+1718.41 They look for different
+facets of muscle endurance
+1721.961 or maximal muscle power, muscle strength.
+1725.1 So, then you've got to be very creative
+1726.82 in how you build the workout.
+1728.27 If it's a bodybuilder,
+absolutely they're chasing
+1730.52 muscle growth and they're going to do so
+1732.11 with these types of protocols,
+1733.53 which sees high intensities
+and high volumes of workload
+1737.67 on a pretty regular basis.
+1739.57 If it's just somebody, a
+weekend warrior that wants
+1743.29 to keep in shape and
+look good, I would say,
+1746.02 two times a week for a really
+challenging workout like that,
+1748.7 and then flex the other types
+of workouts within the week
+1751.83 to have more of a volume emphasis,
+1753.9 where you reduce the intensity
+1755.27 and you might just look
+at larger rep ranges
+1757.86 from 12 to 15 to 20.
+1759.75 Another workout where you're
+looking at reducing the volume,
+1762.91 but increasing the intensity
+and really trying to drive
+1765.79 different stimulus to give you
+more end points of success.
+1770.62 - Mm hm, great.
+1771.5 No, that's really informative.
+1774.14 Along the lines of
+androgens and intensity.
+1778.37 When I think intensity, I
+think epinephrin, adrenaline.
+1781.37 And since you have a background
+1783.43 in catacholamines and testosterone,
+1785.95 last time I was here at the
+UFC Performance Institute,
+1788.61 we had a brief conversation,
+1789.84 and I want to make sure
+I got the details right.
+1792.15 That in the short term, and a
+big increase in stress hormone
+1796.65 can lead to an increase in testosterone,
+1799.0 like a parachute jump.
+- Correct.
+1801.41 - But so, stress can promote
+the release of testosterone?
+1806.72 - Yeah.
+- That was news to me.
+1808.21 - Right.
+1809.043 - We always hear about stress
+suppressing testosterone,
+1811.31 stress suppressing the immune system,
+1812.75 all these terrible things.
+1813.79 But in the short term,
+you're saying it can actually
+1816.73 increase the release of testosterone.
+1819.76 So, I have that right?
+- Correct, yeah, yeah.
+1821.4 - Okay, and so then
+the second question is,
+1824.72 does my cognitive
+interpretation of the stressor
+1829.3 make a difference?
+1830.16 In other words, if I
+voluntarily jump out of a plane
+1833.23 with a parachute, does it
+have a different effect
+1836.23 on my testosterone than if
+you shove me out of the plane
+1839.3 against my will?
+1840.133 Well, presumably with a parachute too.
+1841.54 - Right, I mean, so this
+was what all my PhD work
+1845.62 was looking at was the
+exposure to a stressor,
+1853.75 and the pre-arousal of
+how your body essentially
+1856.5 prepares for that stressor,
+1857.59 and then how it manages it throughout
+1859.23 the exposure to the stress.
+1860.51 And it was actually motivated
+from parachute jumpers.
+1863.7 There was an older study looking
+1865.8 at parachute jumpers into combat.
+1868.73 And then, they were studying the cortisol,
+1871.63 the stress response, and
+the epinephrin response
+1873.77 of these parachute jumpers.
+1874.9 So, it got us thinking about, hold on,
+1876.953 there's certain workouts
+that you do that are just,
+1879.03 they're daunting, you know?
+1880.56 It's like, okay, it's squat
+Saturday or whatever it may be.
+1884.36 Oh my gosh, this is going to destroy me.
+1887.51 - Or I have to talk to this
+person I don't want to talk to
+1889.857 or you know, right?
+- Exactly, yeah.
+1891.466 - I mean, something, or
+a PhD dissertation exam-
+1893.884 - Exactly or speaking-
+- Or something, yeah.
+1895.03 - Giving public speaking
+or whatever it may be.
+1896.75 Now, we used an exercise,
+1899.31 we used a resistance training
+protocol that these athletes
+1902.67 knew was going to be
+very, very challenging.
+1906.1 There's going to have
+some anxiety to doing it,
+1908.163 they knew there were going
+to be some physical distress
+1910.53 from doing it.
+1912.0 And therefore, their mindset
+of how they were going to
+1915.05 approach that was already set.
+1916.76 So what we saw 15 minutes
+prior to the start
+1920.45 of an exposure to the
+workout, the epinephrin,
+1924.24 the noradrenaline, the
+adrenaline was already starting
+1926.46 to prepare the body sympathetically
+to go into what it knew
+1930.34 was going to be a very,
+very challenging workout.
+1933.06 So, that brings you back
+to exercise preparation,
+1936.57 competition for certain preparation...
+1939.02 Preparation for certain
+competition, excuse me.
+1942.1 Pre-workout routines, the use of music,
+1946.23 all these different things
+that we know can now
+1949.93 anecdotally in the gym we put into place,
+1952.467 but the data that I
+presented showed that...
+1955.27 It was a first of its kind to
+show that this link between
+1959.23 epinephrine and norepinephrine
+release and arousal,
+1962.34 and then consequent performance.
+1964.14 So, force output throughout the workout
+1966.93 was intimately linked.
+1967.94 - So, what was the takeaway there?
+1970.31 Is it beneficial for people
+to get a little stressed
+1973.65 about the upcoming impending event?
+1975.84 Whether or not it's a lift in the gym
+1977.88 or whether or not it's talking
+to somebody that you might be
+1981.33 intimidated to talk to, or an exam?
+1984.81 Is the stress good for
+performance or is it harmful?
+1987.83 - Yeah, and I think
+that's a great question.
+1989.86 And I think I can only
+talk to physical exertion,
+1993.29 which is what we were exploring.
+1995.51 And I don't want to tread on
+the toes of the psychologists
+1998.7 with flow state and these types
+of things, because clearly-
+2001.25 - I think you're in the
+position of scientific strength
+2004.07 on this one.
+- Right.
+2004.903 - I think you have the leverage.
+2006.04 - All right.
+- I mean, I have a lot
+2007.38 of friends in that community
+as I'll just say as a buffer
+2010.36 to the answer you're about to give,
+2012.41 that there's very little
+science around flow,
+2016.97 and there's very little neuroscience
+2018.42 related to most
+psychological states anyway.
+2020.5 So I think we've got a lot
+of degrees of freedom here.
+2022.54 - All right, I can breathe easy.
+2023.6 - Yeah, yeah.
+- Thank you for that.
+2026.17 - Anything you like, credit Duncan,
+2027.95 anything you dislike, send
+the mean comments to me.
+2032.18 - Yeah, I think from my data, certainly,
+2034.48 the greater the arousal, the
+higher the performance was
+2037.736 from a physical exertion perspective.
+2040.11 And I think that was the
+intriguing part of some
+2042.24 of my findings were there's definitely
+2044.24 an individual biokinetics to some of these
+2047.16 hormonal kind of releases.
+2048.88 And as much as those
+guys that had the highest
+2053.29 androgenic response in
+terms of epinephrin release,
+2055.41 norepinephrine release
+also sustained force output
+2060.29 for a longer period of the
+workout than those that didn't.
+2063.59 So, the individuals that
+had a lower stimulus
+2068.01 of the sympathetic arousal, let's say,
+2070.42 certainly didn't perform as
+well throughout the workout.
+2072.85 Now, the intriguing thing
+then becomes is okay,
+2075.86 and I think this really segues
+into what we're doing here
+2080.16 with combat athletes, with
+mixed martial artists.
+2083.57 There's a philosophy, there's
+a paradigm now for myself
+2085.91 in terms of the exposure, repeat exposure.
+2088.04 You know, the more you do
+that challenging workout,
+2090.76 do you get the same
+psychological stimulus?
+2093.98 Do you still get the same stress response?
+2096.58 And the assumption is unlikely.
+2098.84 You accommodate, you become
+accustomed to the stress
+2101.71 or your body will therefore adapt.
+2103.2 And that's the classic
+overload principle, right?
+2105.91 You then need to take the
+stressor down a different route.
+2108.25 But I think when you look at the athletes
+2111.96 that we work with here,
+2113.91 it's a fist fight at the end of the day.
+2116.07 There's nothing more stressful than that.
+2117.65 But I think just the exposure
+to the rigors of training,
+2120.97 to understand the bad
+positions, the bad situations,
+2124.73 to know that they can get
+out of certain situations,
+2127.12 out of certain submission
+holds or whatever it may be,
+2131.04 I think that really ties
+in with some of my PhD work
+2134.18 in terms of what these guys do to approach
+2136.67 what is a really
+challenging sporting arena
+2139.16 in mixed martial arts.
+2139.993 - Yeah, it's definitely the
+extreme of what's possible
+2143.5 in terms of asking does stress
+favor or hinder performance?
+2148.05 Because yeah, like you
+said, at the end of the day,
+2149.96 it's someone trying to hurt you as much
+2152.93 as they possibly can within
+2154.18 the bounds of the rules.
+- Right.
+2155.367 - And you're trying to do the same.
+2156.59 So, I find your thesis work fascinating.
+2160.32 Were you never to be at the
+UFC Performance Institute,
+2164.55 luckily they made the right
+choice and brought you here,
+2167.72 but were you have never to come here,
+2169.52 I was still fascinated by
+this because over and over
+2173.3 we hear that stress is bad,
+stress is bad, stress is bad,
+2176.54 but everything I read from
+the scientific literature
+2178.88 is that stress and
+epinephrin in particular
+2182.82 is coupled to the testosterone
+response to performance
+2185.8 and to adaptation, provided
+it doesn't go on too long.
+2189.95 So, unless I'm saying
+something that violates that.
+2192.992 - Absolutely, I agree.
+- I mean, that's your work.
+2194.45 So it's a really important
+and beautiful work.
+2197.41 And I refer to it often,
+so I'm just glad that-
+2200.855 - Thank you.
+- We could bolt that down,
+2202.71 because I think the
+people need to know this,
+2205.36 that that discomfort is beneficial.
+2208.42 Now, there's another side to
+this that I want to ask about,
+2211.93 which is the use of cold, in particular,
+2216.63 things like ice baths, cold showers,
+2218.56 or any other type of cold
+temperature exposure.
+2225.51 In theory, that's stress
+also, it's epinephrin.
+2228.61 And so, how should one think about
+2231.68 the use of cold for recovery?
+2234.36 So, if colds causes stress,
+2238.76 then how is cold used for recovery?
+2241.85 That's what I don't understand.
+2243.2 And maybe you just want to
+share your thoughts on that.
+2245.97 - Yeah, no, and I think
+it's a great question,
+2248.817 and I think the jury is
+still out there, certainly,
+2252.25 knowing some of the conversations
+that we've been having.
+2254.45 But I think, when we talk about stress,
+2256.27 it's your classic fight,
+flight or freeze approach.
+2260.22 And throwing your body into
+a cold tub, an ice bath,
+2264.43 or whatever it may be
+certainly is going to have
+2267.56 a physiological stress response.
+2269.41 Now, people are using that
+for different end goals.
+2273.07 And again, I think that's
+where the narrative
+2274.86 has to be explained.
+2276.85 If you are using the stress specifically
+2279.3 to manage the mindset,
+2282.05 to use it as a specific stress stimulus,
+2284.86 that's the same as me
+doing six by 10 at 80%.
+2288.13 You're just trying to find
+something to disrupt the system,
+2291.25 to do something that's very,
+for want of a better term,
+2294.67 painful, discomfort, whatever.
+2297.66 You're just finding a
+stressor and then being able
+2299.79 to manage the mindset.
+2301.41 But if you're using cold,
+2303.52 specifically from a physiological
+perspective to promote
+2309.47 redistribution of vascularity,
+2311.51 of blood flow to different
+vascular areas of muscle
+2315.18 that you feel have gone through a workout,
+2316.85 that are damaged or whatever it may be,
+2318.67 I think we've got to understand
+2320.79 what that stress mechanism is.
+2323.66 And the data, the literature
+is certainly still out there
+2326.98 with respect to
+cryotherapy and cold baths,
+2330.04 and some of these cold exposures
+in terms of what they do
+2335.37 at the level of the muscle tissue.
+2337.33 If that's the target,
+2338.87 if you're trying to promote
+a flushing mechanism,
+2342.1 or you're trying to promote redistribution
+2344.12 of the blood flow,
+2345.46 what you've got to understand
+is that cold is going to
+2347.43 clamp down every part
+of the vascular system.
+2350.592 And we've really got to
+understand how the muscle
+2353.44 would be redistributed
+to areas of interest.
+2357.26 So, I think the stress
+response is a real thing
+2362.15 with respect to cold exposure.
+2365.35 But I think the narrative around
+2367.3 what are you using the
+cold for has to precede
+2370.01 the conversation because yes,
+it's like putting your hand
+2374.1 over a hot coal.
+2375.56 That's a stress the same way as jumping
+2378.07 in a cold bath is.
+2380.042 - Yeah, I think most
+people don't realize that.
+2381.39 You're going to get the
+epinephrin release from holding
+2383.18 your hand too close to flame.
+- Absolutely.
+2385.4 - And you're going to get it
+from getting in the ice bath.
+2387.09 - Your body doesn't know
+the difference, right?
+2388.83 Your body does not know the difference.
+2390.47 It has a primordial kind
+of physiological response
+2396.49 that it's created over
+millions and millions of years.
+2398.84 And I think that that
+physiology is not changing.
+2403.02 And it's fixed in a
+particular way right now,
+2406.5 that it doesn't understand
+the difference between whether
+2408.59 it's six by 10 doing a
+challenging workout over here,
+2411.18 whether it's putting my
+hands on the hot coal,
+2413.03 whether there's a lion stood
+in front of me or whatever,
+2414.94 that epinephrin response
+from the level of the brain
+2418.25 down to the whole signaling
+cascade is the same.
+2421.37 - Mm hm, and cold, I've
+heard can actually prevent
+2424.88 some of the beneficial
+effects of training.
+2428.0 That it can actually get in the way
+2430.44 of muscle growth, et cetera.
+2433.05 - Yeah, there's some pretty
+robust data out there now
+2435.78 showing that it definitely
+has an influence
+2437.83 on performance variables like strength
+2439.54 and power in particular,
+2441.38 but absolutely in terms
+of muscle hypertrophy.
+2443.62 And there's a big kind
+of theme in the world
+2447.04 of athletic performance right now,
+2448.39 in terms of periodization of cold exposure
+2452.71 as a recovery modality.
+- Interesting.
+2454.69 - When do you use cold?
+2456.59 Should you be using cold
+for recovery in periods
+2460.39 of high training load when
+you're actually pursuing,
+2462.57 it might be general preparatory work,
+2465.244 or are actually trying
+to pursue muscle growth?
+2466.95 Well, that's usually where
+you get the most sore.
+2469.64 It's usually where you
+feel the most fatigued,
+2472.82 but it's probably not the
+most beneficial approach
+2475.01 to use an ice bath in that scenario,
+2477.33 because you're dampening,
+you're dulling the mTOR pathway
+2481.02 and the hypertrophic signaling pathway.
+2485.07 Whereas in a competition
+phase where actually
+2488.23 quality of exercise and
+quality of execution of skill
+2491.44 and technical work has to be maintained,
+2494.63 you want to throw the kitchen
+sink of recovery capabilities
+2498.26 and recovery interventions
+in that scenario
+2500.07 because the muscle building
+activity should be in the bank.
+2504.47 That should have been done in
+the general preparatory work.
+2507.46 And now you're focusing
+on technical execution.
+2510.7 So, you're absolutely right.
+2512.43 - No, it's interesting.
+2513.263 So, if I understand correctly,
+2515.844 if I want to maximize
+muscle growth or power
+2519.89 or improvements and adaptations,
+2523.01 then the inflammation response,
+2524.62 the delayed onset muscle soreness,
+2526.17 all the stuff that's
+uncomfortable and that we hear
+2528.81 is so terrible is actually
+the stimulus for adaptation.
+2531.95 And so, using cold in that situation
+2534.53 might short circuit my progress.
+2536.73 But if I'm, I don't know
+that I'll ever do this,
+2539.68 but if I were to do an
+iron man or something,
+2542.22 or run a marathon, under those conditions,
+2544.56 I'm basically coming to
+the race, so to speak,
+2548.0 with all the power and
+strength I'm going to have.
+2550.7 And so, there, reducing
+inflammation is good
+2552.68 because it's going to allow me to perform
+2554.29 more work, essentially.
+- Absolutely, yeah.
+2556.97 You have to be strategic
+about when you use
+2559.33 some of these interventions.
+2560.86 And the time when you
+preparing for a competition
+2564.28 is not the appropriate time...
+2565.97 Excuse me, is the appropriate
+time when you want
+2567.75 to drive recovery and make sure
+that your body is optimized.
+2571.64 When you're far away
+from a competition date
+2576.22 or out of season or whatever it may be,
+2578.75 and you're really trying to just tear up
+2580.97 the body a little bit, to
+allow its natural healing
+2585.32 and adaptation processes to take place,
+2587.55 well, you don't want to negate that.
+2589.41 You want the body to optimize
+its internal recovery
+2591.433 and that's how muscle growth
+is going to happen, so.
+2594.08 - So interesting.
+2595.01 - There's a time kind of
+consideration that you need to make
+2598.01 with these interventions, for sure.
+2599.43 - At the UFC Performance Center,
+2601.26 are the fighters periodizing
+their cold exposure?
+2604.1 Or are they just doing cold at will?
+2608.13 - Well, it's not just the UFC.
+2609.65 And again, I talk about
+my personal experiences
+2612.58 with different sports.
+2613.42 I think just education
+around where science is at
+2617.107 and our understanding of concepts
+2619.74 like the use of cold exposure
+for recovery, ice bath.
+2623.14 Everyone wants to jump in an ice bath.
+2624.85 But I think as we've
+stepped back and scientists
+2627.9 have started to figure out
+and look at some of the data,
+2632.34 we're now more intuitive about, well,
+2634.83 actually that might not be the best
+2636.26 or the most optimal approach.
+2637.55 And I think that's any given sport.
+2639.7 So, yes, certainly here at the UFC,
+2641.74 we're trying to educate
+our athletes around
+2645.09 appropriate timing.
+2646.15 And it's the same with nutrition,
+2647.273 it's the same with an
+ice bath intervention,
+2649.67 it's the same with lifting weights,
+2651.3 it's the same with going for a run
+2652.57 or working out on the bike.
+2654.26 There's tactics to when you do things
+2657.46 and when you don't do things.
+2658.37 And I think stress and cold exposure,
+2662.41 we have to have a consideration
+around that as well,
+2664.51 but it's not just MMA
+fighters, that's any athlete.
+2667.88 And I think it's the best professionals,
+2672.2 the most successful professionals
+do that really well.
+2675.96 They listen, number one,
+they educate themselves,
+2678.73 and then they build structure.
+2680.34 And I think at the most elite level,
+2682.81 we always talk about it here at the UFC,
+2684.73 but at the most elite level,
+2686.26 you're not necessarily training
+harder than anybody else.
+2689.16 Everybody in the UFC trains hard,
+2691.79 like everyone is training super
+hard, but the best athletes,
+2695.69 the true elite levels are
+the ones that can do it
+2698.18 again and again and again on a daily basis
+2700.57 and sustain a technical
+output for skill development,
+2703.71 therefore their skills can improve,
+2705.19 or physical development,
+2706.21 their physical attributes can improve.
+2708.29 So that ability to reproduce
+on a day-to-day basis
+2711.54 falls into a recovery conversation.
+2714.61 Now, when is the right
+time to use something
+2716.53 like an ice bath and when isn't,
+2717.83 is part of the high-performance
+conversation, for sure.
+2721.67 - So really they're scientists;
+2723.11 they're building structure,
+they're figuring out variables.
+2725.48 - Yeah.
+- But it sounds like
+2726.7 the ability to do more
+quality work over time
+2730.42 is one of the key variables.
+2731.64 - I mean, it's fundamental.
+2733.04 I mean, garbage in, garbage out.
+2735.3 Quality in, quality out.
+2737.12 But in our sport, I talk
+about mixed martial arts,
+2741.23 it's truly a decathlon of combat.
+2743.39 So there's so many different attributes,
+2745.07 whether it's the grappling,
+whether it's the wrestling,
+2746.94 whether it's the transition work,
+2748.21 whether it's a standup striking.
+2749.77 So, the different facets
+of a training program
+2752.81 in this sport are significantly large
+2756.12 compared to something like
+a wide receiver in football.
+2760.17 And that's no disrespect
+for wide receivers,
+2761.81 but they run routes.
+2762.953 They're going to run a
+route, a passing tree,
+2766.21 and that's all they need to do.
+2767.36 These guys have to be on the ground.
+2768.8 They've got to be great on the ground.
+2769.66 They've got to be great standing up.
+2770.75 They've got to be great with
+the back against the fence.
+2773.03 So there's so many different
+kind of facets to our sport.
+2776.0 So managing the distribution
+of all the training components
+2779.86 is one of the biggest
+challenges of mixed martial arts
+2782.47 and the best guys get that right.
+2784.81 They allow their body to
+optimize the training.
+2788.56 And remember, why are we doing training?
+2790.33 We're doing training for technical
+and tactical improvement.
+2794.83 Now, if your body is
+fatigued or you just can't
+2798.23 expose yourself to more
+tactical development
+2801.0 or technical development,
+2802.63 then you're essentially
+doing yourself a disservice.
+2805.68 You're going to be behind the
+curve with respect to those guys
+2808.45 that can reproduce that
+day-in and day-out.
+2810.76 - On the topic of skill
+development, regardless of sport,
+2815.21 we hear all the time and it
+certainly is intuitive to me
+2820.15 that the person who can focus the best
+2822.94 will progress the fastest.
+2825.3 But it's kind of interesting,
+2826.133 sometimes I talk to athletes and they seem
+2831.292 a little bit laid back about
+their training sometimes,
+2834.25 and yet they obviously
+know how to flip the switch
+2836.85 and they can really dial in the intensity.
+2839.53 Do you think that there
+are optimal protocols
+2841.61 for skill learning in terms
+of physical skill learning?
+2844.7 Like, could it ever be parametrized
+2846.42 like the six sets of 10 reps?
+2850.123 And this gets to the
+heart of neuroplasticity,
+2851.71 which is still, it's not a black box,
+2854.23 but it's kind of a black box
+2856.16 with portions of it
+illuminated, I like to say.
+2859.53 But what are your thoughts
+on skill development?
+2862.02 For somebody that wants
+to get better at sport,
+2864.71 do you recommend a particularly long
+2868.51 or short training session?
+2870.4 Does intensity matter or is it just reps?
+2873.8 - Yeah, I think, no, it's
+not a volume driven exercise.
+2878.31 It's a quality driven exercise.
+2880.15 And listen, my expertise
+is not in motor learning
+2882.75 and motor skill acquisition.
+2884.8 I tend to default to
+Dr. Gabriele Wulf here
+2887.71 at UNLV for that.
+2890.42 She's one of the leading
+proponents in this area.
+2892.46 But if you look at true skill development,
+2897.14 it is about rehearsal
+of accurate movement,
+2901.41 accurate movement mechanics.
+2904.0 And as soon as that becomes impacted
+2906.87 by fatigue or inaccurate movement,
+2909.41 you're now losing the motor learning,
+2912.58 you're losing the accuracy of the skill.
+2914.91 People can call it muscle memory
+2916.19 or whatever they want, right?
+2917.16 But essentially you're
+grooving neural axons
+2920.41 to create movement patterns
+and they're situational
+2923.46 throughout sport, right?
+2925.03 Whether it's a Cruyff turn in soccer
+2926.66 or a jump shot in basketball,
+or a forehand down the line,
+2929.7 you can carve out that particular posture
+2932.84 and position and skill,
+and you can isolate it,
+2935.44 and you can drill it
+again and again and again.
+2937.52 Now, as soon as fatigue is
+influencing that repetition,
+2942.136 it's time to stop.
+2943.93 And the best coaches understand that.
+2945.77 They understand that it's
+quality over quantity
+2948.37 when it comes to skill acquisition.
+2950.29 So to answer your question
+in a roundabout way,
+2952.65 I would say, yes, it's shorter sessions
+2955.89 that are very high quality.
+2957.82 And I think the best
+athletes in my experience
+2960.82 are the ones that
+consciously and cognitively
+2964.56 are aware of it at every
+moment of the training session.
+2968.189 They should leave the training session
+2970.03 not necessarily just physically fatigued,
+2971.91 but mentally fatigued because
+they're completely engaged
+2974.44 in the learning process.
+2977.625 The problem then becomes okay,
+2979.25 if we just do lots of 30 minutes sessions,
+2982.47 we've got to do a lot of
+30 minutes sessions to get
+2985.28 the volume exposure of the repetition
+2987.76 and the rehearsal of this skill
+again and again and again.
+2990.65 So, it's a bit of a paradox.
+2991.68 It's a bit of a double-edged sword,
+2993.58 but a three hour session
+versus a 90 minute session,
+2998.02 we'll take the 90 minute session any day
+2999.91 when it comes to skill acquisition,
+3001.44 because that's going to be
+driven by quality over quantity.
+3004.43 - Yeah, training and skill learning
+3006.47 is incredibly mentally fatiguing.
+3009.73 I've often wondered why
+when one works out hard,
+3013.06 whether or not it's with
+run or with the weights,
+3015.66 why it's hard to think later in the day.
+3017.95 - Right.
+- Yeah, there really does
+3019.7 seem to be something to it.
+3021.49 And I've wondered is it depletion
+of adrenaline, dopamine?
+3026.49 I sometimes think it might be dopamine,
+3028.49 and here I'm totally speculating.
+3029.453 I don't have any data to support this,
+3031.34 but if you hit a really
+hard workout or run
+3034.31 early in the day, oftentimes
+the brain just doesn't
+3037.99 want to do hard mental work.
+3039.9 Which gives me great
+admiration for these athletes
+3042.02 that are drilling their mind and body
+3043.533 all day, every day, with breaks.
+3046.99 But so what are your thoughts?
+3048.539 What leads to the mental fatigue
+after physical performance?
+3053.25 - Well, again, I don't want to talk out,
+3055.08 I'm talking to the man here, you know?
+3056.87 - Well, we're just two scientists-
+3057.91 - Yeah, yeah.
+- Speculating on this point.
+3059.86 Up until now, you've
+been giving us concrete
+3063.48 peer-reviewed study based
+feedback on my questions.
+3066.35 But if we were to speculate,
+3067.886 I mean, I think this
+is a common occurrence.
+3069.08 People think if I get that
+really good workout in
+3071.07 in the morning, I feel better all day.
+3072.8 - Right.
+- That's true,
+3073.633 unless that workout is really
+intense or really long.
+3077.45 - Yeah.
+- And then you just,
+3079.12 the mind just somehow won't
+latch on to mental work
+3083.94 quite as well.
+3085.12 - I mean, just philosophically
+and I think coming back
+3090.2 to this kind of stress consideration,
+3092.2 like public speaking or taking an exam.
+3094.41 I mean, if you have an amazing
+coach who is setting up
+3098.25 training in a particular
+way, it's challenging,
+3100.64 there's a strain related to it,
+3101.947 and I'm not talking physical strain,
+3103.47 I'm talking figuring things
+out, figuring out the skill.
+3107.45 And I think that can be stressful.
+3109.18 Like the learning
+process can be stressful.
+3111.41 So, we've touched on stress.
+3113.82 I also think if they
+hit the right technique,
+3118.5 that reward center in the brain,
+3120.06 that dopamine shot is
+going to fly up there.
+3123.03 And there's only so many
+times that we can get that
+3125.53 before that becomes dampened.
+3127.39 And I think there's an
+energetic piece to it.
+3129.53 There's the fueling of the brain.
+3131.64 There's the carbohydrate fuel
+in exercise that actually
+3135.72 the strategy around how
+you fuel for learning
+3139.59 and fuel for physical training
+is actually pretty similar.
+3143.35 - Glucose.
+- Yeah, it's glucose,
+3145.37 it's sugar at the end of the day, right?
+3146.83 So, are you fueling accordingly
+3150.34 around your training sessions,
+be that very physical,
+3152.94 because everyone thinks,
+3153.773 okay, I'm going to jump on a treadmill
+3155.78 and I'm going to bang out
+15 sprints at max effort,
+3160.1 and I'm going to be dropping
+off and laying on the floor
+3162.75 at the end of it.
+3163.583 I need to refuel.
+3164.69 Well, what about the
+refueling of the brain
+3167.18 in a very demanding
+exercise or drilling session
+3171.4 where you're looking at technique,
+3172.75 that you're trying to figure out,
+3174.04 that's very challenging
+for your mind to figure out
+3176.36 the complexity of it,
+3177.83 that still needs to be fueled
+or refueled afterwards.
+3180.94 And I think that's obviously
+might be an area where athletes
+3184.35 do themselves a disservice
+by not appropriately fueling
+3187.42 from what might be considered to be
+3188.8 a lower intensity session,
+but the cognitive challenge
+3193.76 has been significantly high.
+3195.33 - So, they're skill work or drill work,
+3197.47 and it's taxing the brain.
+- Correct, yeah.
+3199.81 - And they're thinking, oh,
+I wasn't pushing hard lifts
+3203.24 or doing sprints, and so I can just go off
+3205.523 into the rest of my day, but
+then their mind is drifting.
+3209.27 - Yeah, I mean, I speculate.
+3210.95 - Yeah, that sounds very reasonable.
+3213.0 I mean, I know that here and presumably
+3215.17 with the other athletes
+you've worked with,
+3216.71 nutrition is a huge aspect of that.
+3220.39 And I think the general
+public can learn a lot
+3222.35 from athletic nutrition
+because at the end of the day,
+3225.65 the general public is trying
+to attend to their kids,
+3228.01 attend to their work, whether
+or not they're lawyers
+3229.76 or whatever, they need to focus.
+3233.3 Nutrition is a barbed wire topic.
+3235.3 - Oh yeah [chuckling].
+3236.16 - But since we're free
+to do what we would do
+3240.13 if we were just sitting
+in each other's offices,
+3241.76 which is to just speculate a bit,
+3244.66 for the typical person,
+3246.94 do you think these low
+carbohydrate diets...
+3250.3 A typical person who
+exercises, runs, swims, yoga,
+3253.12 lifts weights, maybe not all those things,
+3254.81 but some collection of those,
+3256.84 pushes themselves to do those
+things and to do them well,
+3259.76 but isn't necessarily a
+highly competitive athlete.
+3262.62 Do you think that nutrition
+that doesn't include
+3266.75 a lot of glucose, doesn't
+include a lot of carbohydrates,
+3270.06 is a problem or is it okay?
+3273.37 What do you recommend for athletes?
+3275.47 What do you recommend for typical people?
+3277.2 - Yeah, again, disclaimer,
+I'm not a dietician, but I-
+3281.26 - That's okay, the dieticians don't know
+3282.59 what to recommend to athletes either.
+3284.33 And I say that from
+having spent a lot of time
+3286.81 with the literature now,
+it's a complete mess.
+3289.169 - Right, yeah.
+3290.23 - It's like, I thought
+we didn't understand
+3291.595 anything about the brain,
+3292.428 the nutrition science stuff
+is all over the place.
+3294.77 - Right.
+- So I think we have, again-
+3296.65 - We have some freedom.
+- Large degrees of freedom.
+3298.74 - Right, right, right.
+3299.903 I mean, I think it comes
+down to metabolic efficiency.
+3304.38 So we would never advocate a high...
+3307.88 I never say never, okay?
+3309.08 But we rarely advocate a
+high performance athlete
+3311.893 in a high intensity
+intermittent sport, like MMA,
+3318.09 being totally ketogenic or-
+3319.957 - You do not recommend that?
+3321.21 - No, because at the end of the day,
+3322.52 some of those high intensity
+efforts usually require
+3327.24 carbohydrate fueling for
+the energy that's produced
+3333.43 at those high intensities.
+3334.5 So, we try to navigate around that.
+3336.88 Now, listen, there are fighters
+in the UFC and elsewhere,
+3339.61 Matt Brown is a great example,
+3341.57 who promotes the ketogenic
+approach and it works for him.
+3345.41 But we look at the science and the nature
+3348.52 of the characteristics of our sport,
+3349.497 and we don't necessarily promote that.
+3351.09 - Can I interrupt you real quick?
+3352.33 What about ketones for people
+3354.63 that are ingesting carbohydrates?
+3356.65 This is an interesting area
+because people always hear
+3358.7 ketones and they think,
+oh, I have to be ketogenic
+3360.71 to benefit from taking ketones.
+3362.86 - Right.
+- But there are a number
+3363.693 of athletes and recreational
+athletes now as well,
+3367.39 taking liquid or powder-based ketones,
+3371.37 even though they do eat rice and oatmeal
+3373.91 and bread and other things.
+3375.81 So are there any known
+benefits of ketones,
+3379.21 even if one is not in a state of ketosis?
+3381.94 - So, the use of ketones
+that I'm primarily aware of
+3389.2 in our sport, is after the event.
+3391.35 In terms of the brain health with athletes
+3393.7 that are potentially taking
+trauma to the brain, et cetera,
+3396.52 and looking to maintain the fueling
+3399.13 and the energy supply to the brain.
+3400.95 But yes, it's probably a
+little bit out of my remit.
+3403.16 So I don't want to talk
+on that because I'm not
+3405.93 fully familiar with that.
+3406.97 - Well, I've heard that
+ketones after head injury
+3409.86 can provide a buffering component.
+3411.65 - Correct.
+- It's not going to reverse
+3412.71 brain damage, but it
+might be able to offset
+3414.86 some of the micro-damage.
+3416.04 - Right, so that's how we use it,
+3418.39 just to sustain the
+energy supply to the brain
+3422.02 that might be compromised
+through brain trauma.
+3424.6 So that's why we use ketones.
+3427.55 To come back to your original question.
+3428.9 If it's a general population then yes,
+3431.41 I think there's a place
+to argue that actually
+3433.99 being on a ketogenic diet at times,
+3435.91 and maybe it's a cycling
+exercise, maybe not...
+3438.693 I don't mean cycling a
+bike, I mean cycling ketosis
+3443.07 is beneficial because I
+think it's going to lead
+3445.19 to better metabolic management
+and metabolic efficiency,
+3449.01 at those lower intensities
+where we should be fueling
+3451.76 our metabolism with lipids and fats.
+3455.77 Clearly the Western diet
+and the modern day diet
+3459.3 is heavily driven by processed
+foods and carbohydrates
+3462.87 that people become
+predisposed to utilization
+3465.81 of that fuel source
+above lipid use, fat use,
+3470.8 at intensities that are very low.
+3472.69 So, some of our data with the
+fighters shows that as well.
+3476.41 But I think the challenge for
+us is that we're working with
+3479.5 a clientele that require high
+intensity bouts of effort.
+3483.31 So, fueling appropriately
+is very important for that.
+3487.02 Now, we use tactics here where
+we essentially have athletes
+3491.84 on what you would say,
+kind of is a largely
+3494.5 a ketogenic diet, but then
+we will fuel carbohydrates
+3498.56 around training sessions.
+3500.42 So, we'll do very timed
+exposure to carbohydrates.
+3503.61 So it's not-
+- Post-training?
+3504.95 - Post-training, immediately pre, during,
+3507.86 and then immediately post.
+3509.22 And then the rest of their diets,
+3510.78 breakfast, lunch, and dinner,
+3512.02 are what would look like
+ketogenic type approaches.
+3515.79 So we're trying to be very
+tactical in the exposure
+3518.25 to maximize the intensity for the training
+3521.85 and then return to a
+metabolically efficient diet,
+3524.91 which is heavily reduced in carbohydrate
+3527.81 because we've fueled the
+sessions that need it.
+3530.87 - I'm smiling because
+once again, this place,
+3534.61 the UFC Performance Center is
+doing things scientifically,
+3537.9 which to me, the idea, and
+I'm pleased to hear that,
+3541.94 because to me this idea
+that the ketogenic diet
+3544.54 is the best and only diet or carbohydrates
+3547.39 and low protein diets are the best diet.
+3549.57 It's just, it's ludicrous.
+- Right.
+3551.13 - Then you mentioned metabolic efficiency.
+3553.36 I think some people might
+be familiar with that term,
+3556.06 some perhaps not,
+3558.26 but the way I understand
+metabolic efficiency is that
+3561.89 you teach the body to
+use fats by maybe doing
+3566.167 long bouts of cardio, maybe
+lowering carbohydrates a bit.
+3570.22 So teaching the body to
+tap into its fat stores
+3572.56 for certain periods of training.
+3574.44 And then you also teach the
+body to utilize carbohydrates
+3577.66 by supplying carbohydrates
+immediately after training
+3580.25 and before training.
+3581.083 You teach the body to use ketones,
+3583.15 and then you use them
+at the appropriate time,
+3584.87 as opposed to just deciding
+that one of these fuel sources
+3587.3 is good and all the others
+are bad or dispensable.
+3590.05 Do I have that correct?
+- You've nailed it.
+3591.69 I mean, from Bob Seebohar,
+formerly of USA Triathlon,
+3597.421 is the guy that kind of came up with
+3599.418 the concept of metabolic efficiency,
+3602.7 but yes, you're absolutely right.
+3604.19 I mean, at low intensities of exercise
+3607.29 or just day-to-day living,
+we shouldn't be tapping into
+3610.24 our carbohydrate fuel sources extensively.
+3614.01 That's for higher intensity work
+3616.48 or the fight or flight needs of stress.
+3621.15 If athletes or any individual
+has a high carbohydrate diet,
+3627.24 they're going to start to
+become predisposed to utilizing
+3630.45 that fuel source preferentially.
+3632.62 Now, at low intensity,
+that can be problematic,
+3634.87 certainly for an athlete,
+3635.94 because if they preferentially
+use carbohydrate
+3639.5 at lower intensities,
+when the exercise demand
+3642.88 goes to a higher intensity,
+3644.13 they've already exhausted
+their fuel stores.
+3646.46 They can't draw upon fat
+because the oxidation
+3649.05 of that fat is just too slow.
+3651.08 So they're essentially now become fatigued
+3653.63 because they've already utilized
+their carbohydrate stores.
+3656.73 So what we try to do yes,
+through diet manipulation
+3659.44 and a little bit of exercise
+manipulation is as you say,
+3662.3 teach the body or train
+the body to preferentially
+3664.76 use a specific fuel source;
+3666.5 fat, obviously at lower intensities,
+3668.27 and carbohydrate at high intensities.
+3669.85 And we will look at
+specifically the crossover point
+3672.37 between the two, tell us a lot in terms of
+3674.53 how an athlete is ultimately,
+3677.23 how their metabolism is working.
+3678.95 - Well, again, I'm smiling
+because I love this
+3681.37 because it's grounded in
+something real and scientific,
+3685.13 which is that we have these
+different fuel sources.
+3687.01 The body can adapt to use any
+number of them or one of them.
+3690.29 I think most people are looking for that
+3692.28 one pattern of eating, that
+one pattern of exercising
+3695.49 that's going to be best
+for them or sustain them.
+3698.19 And they often look back
+to the time when they felt
+3701.92 so much better switching
+from one thing to the next,
+3704.1 but the adaptation process
+itself is also key, right?
+3707.41 Teaching the body.
+3709.74 So if we were to just riff on this
+3712.94 just a little bit further, if somebody,
+3715.91 I'll use myself as an example,
+3717.15 since I can only speculate
+what other people's
+3720.82 current nutrition protocols are,
+3722.86 but if somebody is eating
+in a particular way
+3725.59 and they want to try this kind
+of periodization of nutrition,
+3729.65 could one say, okay, for a
+few weeks I'm going to do more
+3732.56 high intensity interval
+training and weight training,
+3734.62 and I'm going to eat a
+bit more carbohydrate
+3736.21 'cause I'm depleting more glycogen.
+3737.81 Then if I switch to a phase
+of my training where I'm doing
+3741.26 some longer runs, maybe I'm training less,
+3744.32 maybe I'm just working at
+my desk a little bit more,
+3746.443 then I might switch to a
+lower carbohydrate diet.
+3749.12 Do I have that right?
+3749.953 And then if I'm going to enter
+a competition of some sort,
+3752.94 certainly not UFC-
+- Right.
+3754.73 - Or MMA of any kind to be clear,
+3757.92 not because it isn't a wonderful sport,
+3759.67 but because that wouldn't be
+good for my other profession.
+3762.83 But if I were going to do that,
+3765.1 then I would think about
+stacking carbohydrates,
+3767.74 ketones, and fats.
+3770.39 Do I have that more or less right?
+3771.876 - Yeah, you've said it eloquently.
+3773.63 At the end of the day, you're
+consciously understanding
+3777.07 what the exposure to physical exertion is,
+3781.95 and you're flexing your day
+accordingly and I think that-
+3783.7 - So, it's need-based eating.
+3785.47 - Exactly, for want of a better term,
+3787.51 you can call it whatever fancy terminology
+3789.69 there is out there, but yes,
+it's needs-based eating,
+3793.68 but you're very conscious and cognizant
+3795.76 of what is my current exercise status.
+3798.423 If I'm taking some time off,
+3800.79 then don't gorge on the carbohydrates.
+3802.96 We probably need to be cut,
+3804.03 it's going to be lower intensity work,
+3805.7 or even just habitual
+day-to-day walking around,
+3808.45 doing your groceries.
+3809.77 That doesn't require massive
+amounts of glycogen storage
+3813.41 and carbohydrate fueling.
+3816.53 So, you can potentially go
+more ketogenic in nature,
+3820.73 oxidizing lipids for that fuel.
+3823.49 If you are in a high period
+of high intensity training,
+3827.03 then you have to consciously
+flex your diet to support that.
+3830.0 That's not normal, you've made a change,
+3832.65 you've elevated the demand.
+3834.08 So, the fueling requirements
+for the regenerative,
+3836.64 not only fueling the exercise,
+3838.06 but the regenerative
+requirements of your body
+3840.14 after that type of work is going to be
+3842.1 really important as well.
+3843.08 So, yes, take on more carbohydrates.
+3845.01 So, I think it's consciously
+interpreting the nature
+3848.52 of your diet against where
+you are at any moment in time.
+3851.75 - Yeah, I like that.
+3852.71 I think the listeners of my podcast
+3855.03 generally are experimenters.
+- Right.
+3857.51 - They are scientists of themselves,
+3859.01 which makes me happy obviously.
+3861.68 And I like to think that
+they're paying attention
+3864.04 to the changes they're making
+3865.6 and how they're affecting themselves.
+3867.71 And they seem more open to trying things,
+3871.08 provided they can do it safely,
+3874.086 and seeing what works for them.
+3875.46 And I'm certainly going to
+try some of the change up.
+3878.08 I also am really a creature of habit.
+3880.15 And I think that talking to you today,
+3881.88 I realize I'm probably
+doing a number of things
+3883.52 truly wrong in my training,
+3885.26 but also that I don't
+tend to vary my nutrition
+3888.3 with my training quite
+as much as I should.
+3890.12 I'm just locked into a protocol.
+3893.69 We covered a number of things related
+3895.95 to your PhD thesis work,
+but I cut you off early on
+3899.76 related to your trajectory.
+3901.72 After you finished your thesis.
+3903.56 - Yeah.
+- I know you were
+3905.23 at Notre Dame for a while.
+3906.52 Was that your first spot
+after your PhD thesis?
+3909.82 - No, no, I basically finished my PhD
+3913.43 and I dropped into the
+British Olympic system
+3915.68 for about 14 years.
+- Oh my, okay.
+3919.73 - I've done three full Olympic
+cycles with different sports,
+3923.89 largely as strength and conditioning coach
+3926.52 as a practitioner.
+3927.88 I was always working in
+universities and academia alongside,
+3931.73 in terms of continuing
+to publish and write
+3935.24 and do research and teach as well.
+3937.17 'Cause I enjoy teaching.
+- That explains the huge
+3938.41 volume of publications.
+- Yeah [chuckling].
+3940.204 - I don't think people
+realize all the work
+3941.73 that goes into getting a quality
+peer-reviewed publication.
+3944.83 It's not, what do they call
+it now on Instagram, anecdata?
+3948.34 Where people would do something once.
+3950.05 - Right.
+- They have this experience
+3951.29 and then they put it in
+the world that it's a-
+3952.65 - Yeah.
+- Anecdata are,
+3955.31 I don't even know that
+we should call it data.
+3958.25 So, 14 years in working with
+the British Olympic team.
+3961.64 - Yeah, so whether it was GB boxing,
+3964.84 primarily with the Beijing cycle,
+3968.77 but also lightweight
+rowers and gymnastics.
+3971.42 And for the London Olympic games,
+3973.5 that cycle I was the lead
+strength and conditioning
+3976.07 and physical performance
+coach for British basketball.
+3978.36 So, GB basketball.
+3980.45 I had about three years in
+the English Premier League
+3984.03 with Newcastle United and the soccer team,
+3986.62 and then for the Rio Olympic cycle,
+3988.05 I was with Great Britain Tae Kwon Do.
+3989.82 So, again, another combat sport.
+3992.58 After I'd finished there,
+3994.09 I kind of moved to the
+University of Notre Dame,
+3997.13 where I went into more
+of a managerial position
+4000.92 working across all the
+different technical services;
+4003.7 medical, nutrition,
+strength and conditioning,
+4006.16 sports psychology and sports
+science, whatever it may be,
+4010.17 as the Director of Performance Sciences
+4014.01 for Notre Dame athletics.
+4015.55 And then, after about 16 months there,
+4017.347 the UFC came knocking
+and they recruited me
+4020.38 out of Notre Dame.
+4021.213 So, it's been a great ride,
+4023.24 and I've got lots of
+athletes have taught me
+4027.21 a lot along the way, lots of coaches.
+4029.4 Every day is a school day,
+4030.56 I still try and keep that mentality.
+4032.96 And in this world we call
+it white belt mentality.
+4038.17 I'm a PhD, I've got 25 years of experience
+4041.05 in high performance
+sport, but I still learn
+4044.45 every single day from these
+people out on the mats
+4046.56 and in the ring and it's
+impressive to see what they do.
+4048.83 - Yeah, it certainly is.
+4049.78 I got introduced to MMA
+just a few years ago.
+4052.84 I think the first time I came
+out here was one of the first
+4055.25 times I'd heard of MMA
+'cause I was kind of
+4057.07 in my laboratory, nose down.
+4059.23 And it's a really interesting
+sport because it incorporates
+4061.58 so many different types
+of movement as you said-
+4063.827 - Right.
+- It's not just
+4065.63 stand up boxing, it's not just kicking,
+4067.81 it's ground game, everything,
+4069.37 and I'm still learning about it.
+4072.06 But as you mentioned, going
+in with that beginner's mind,
+4075.06 the white belt mentality,
+4079.44 what has been the most
+surprising thing for you
+4083.26 in terms of being exposed
+to MMA in particular,
+4085.92 as opposed to other sports?
+4086.99 Like what's unique about MMA fighters,
+4089.07 besides that they have this
+huge variety of tactical skills
+4094.33 that they have to learn and perfect?
+4097.81 - Yeah, that's a great question.
+4099.76 I would say two things.
+4100.702 I'm going to answer two questions.
+4101.62 One actually reiterates
+what you've already said.
+4103.5 Like the degrees of freedom
+in mixed martial arts
+4106.6 are exponential, like no other sport.
+4110.06 We've got 11 different weight classes.
+4112.02 We have men's classes.
+4113.14 We have women's classes.
+4114.11 We have kickboxers,
+wrestlers, jujitsu fighters,
+4118.17 judoka, karate fighters.
+4120.5 The stylistic backgrounds are infinite.
+4124.37 We're a weight classification sport.
+4126.13 There's a whole issue
+relating to making weight
+4128.44 and then rebounding to
+fight about 24 to 30 hours.
+4131.84 Like just the variability in this sport,
+4134.9 the considerations that you
+have to make are unprecedented
+4139.55 compared to any other sport
+that I've worked with.
+4142.26 And a lot of them go against
+and are the antithesis
+4146.36 of what you would expect
+for high performance.
+4149.16 In terms of we don't
+always have a very clearly
+4153.41 defined competition schedule.
+4155.34 Once these guys fight,
+they don't necessarily know
+4157.63 when their next fight is going to be.
+4158.84 - What's the closest spacing of a fight?
+4160.92 - I mean, listen, I think
+the record is around,
+4164.84 it's just over a month, I believe.
+4167.11 - Oh, my goodness.
+4168.4 - So, you know, that's a quick turnaround,
+4170.14 but most of these guys are fighting
+4172.31 three or four times a year,
+4173.65 three times a year is pretty normal.
+4176.38 The bigger fighters,
+maybe two times a year.
+4179.08 But invariably, the guys
+don't know when that next date
+4182.19 is going to be.
+4183.023 So we're in this gray area
+of, okay, what do we do?
+4185.64 Like, are we taking some time off?
+4187.42 Are we just going to do
+some general prep work?
+4189.26 Are we going to try and keep the
+knife sharpened in case I get-
+4193.41 - I didn't realize this.
+4194.25 In that way it's a lot
+like special operations.
+4196.93 - Absolutely, you don't know when the call
+4198.533 is going to happen.
+- They have to be ready
+4199.94 at all times.
+4200.773 There isn't this, like, let's
+get ready for the season.
+4202.83 - Right, yeah.
+4203.67 Like when I was with the
+British Olympic Association,
+4206.42 I knew it was the British
+Open, the Spanish Open,
+4209.19 the French Open, the
+European Championships,
+4211.16 the Israeli Open, the American Open,
+4212.88 the Canadian Open, the Olympic games.
+4215.08 - It's a circuit in your brain.
+4216.1 - Right, yeah.
+- I can tell, yeah.
+4216.933 - You just plan like you know
+4218.83 where all the targets are going to be.
+4220.05 Here, it's a moving
+target because you might
+4222.48 be just hanging out doing
+some general prep work,
+4224.44 and then you might get
+a short notice fight.
+4226.24 They give you a quick call
+4227.09 and it's in six weeks or five weeks.
+4228.73 And okay, I've got to ramp
+everything up really quickly.
+4231.54 So, that's a real challenge
+in terms of just managing
+4235.5 all these different components
+4237.43 of a mixed martial arts alone.
+4241.12 To come back to your question,
+4242.18 the other thing which is truly fascinating
+4244.8 about these individuals is
+just their mental resilience.
+4249.28 And again, we've touched
+on it in the talk,
+4251.08 but the ability to do what
+they do on a daily basis,
+4254.65 to look at all the different skillsets
+4257.89 that they have to try and engage in
+4259.63 and bring into their training.
+4261.76 To do that and embrace the grind,
+4264.51 embrace the process of just learning,
+4267.37 the physical side of our
+sport is unprecedented.
+4270.55 But the mental side, we
+have a funny saying here.
+4273.24 We always say it's 90% mental
+4276.41 apart from the 60% that's physical.
+4278.54 So, it's just more and more and more.
+4281.54 And these guys' ability to
+just do that on a daily basis
+4286.426 is very impressive.
+4288.5 Like their resilience,
+their internal drive
+4290.95 and their resilience is
+really impressive to see.
+4294.07 - Yeah, all the fighters I've met here
+4295.51 have been really terrific.
+4296.61 It's interesting every
+time I meet a fighter,
+4300.487 I shouldn't be surprised when they're
+4301.64 often very soft-spoken.
+- Right.
+4302.743 - [Andrew] They're
+always extremely polite.
+4304.62 - Yeah, yeah.
+- You know?
+4305.5 And fighting is such a...
+4307.37 It comes from a very primitive
+portion of the brain, right?
+4310.78 But a large portion of
+the brain, nonetheless.
+4312.47 - But I think that's another
+skill is that switch.
+4315.03 And again, that's the
+recoverability piece, right?
+4317.5 Like you cannot be Taipei
+4319.36 or you cannot be like super
+charged 24 hours a day
+4323.4 because you're going to
+just fry your system, right?
+4325.09 And I think that's something
+else where we're really trying
+4327.64 to manage this whole process,
+4329.0 be it through nutritional interventions,
+4331.23 be it through education around sleep,
+4332.97 be it through training program management,
+4336.62 be it through psychological interventions.
+4339.89 You could look at fighters and
+say like, these guys are go,
+4342.5 like they're red alert and
+they'll run through a brick wall,
+4345.02 but actually again, their
+ability to turn it on and off
+4348.24 means that they can do what they do.
+4350.42 They can bring it down and be very normal,
+4353.24 very polite, very accommodating.
+4357.2 - Maybe even better than most people
+4358.65 because one of the reasons I'm obsessed
+4360.63 with human performance,
+and high-performance,
+4362.81 and people like fighters,
+and elite military,
+4366.229 or even bodybuilders for that
+matters that they experiment.
+4370.82 - Yeah.
+- They find the outer
+4372.61 limits of what's possible.
+4373.74 But one of the things
+that they have discovered,
+4376.4 as you're describing, is
+this ability to toggle
+4378.67 between high alert states and calm states.
+4381.09 Most typical people can't do this.
+4383.71 They see something that
+upsets them on the internet
+4385.79 or something on the news
+or some external event
+4388.47 pressures down on them
+and they're stressed
+4390.14 for many, many days and weeks,
+4391.41 and sometimes it goes pathological, right?
+4393.787 And I don't say this as a criticism,
+4395.64 it's just that most human
+beings, within our species,
+4399.47 most members of our species never learn
+4401.46 to either flip the switch
+or to just voluntarily
+4404.78 toggle between states.
+4406.48 I think athletes learn how
+to do that extremely well.
+4409.74 And it sounds like MMA
+fighters do that even better
+4413.07 than perhaps many other athletes.
+4415.24 - I mean, yeah, there's the odd one or two
+4417.29 that would struggle with,
+4418.123 but I think in terms of
+that chronic exposure,
+4421.08 we see that coming from challenges around
+4424.96 cyclical weight cutting,
+and metabolic disruption,
+4427.44 and metabolic injury,
+4428.35 not necessarily from
+the psychological drive.
+4432.6 They do understand that
+this is a job for them.
+4435.81 And the time on the mats,
+4437.34 most of them can turn it off a little bit
+4439.55 and downgrade things when
+they're off the mats.
+4442.194 It's impressive to see, because again,
+4444.53 like, as a layman, just
+looking at the fight game,
+4448.11 you think it's going to be crazy chaotic,
+4450.65 100 miles an hour every hour of every day,
+4453.22 but that's clearly not the case.
+4456.49 They manage their energy and
+their efforts pretty well.
+4459.81 - So it's a little bit like science.
+4461.49 Although maybe scientists
+could take a lesson from-
+4463.39 - Yeah, that evidence-based practice
+4465.51 or practice-based evidence, right?
+4466.594 - Oh, I like that.
+[Duncan chuckling]
+4467.427 That's good.
+4468.83 A couple more questions,
+I can't help myself.
+4471.12 I know we talked about temperature earlier
+4473.12 when we discussed cold,
+but I can't help myself,
+4476.06 I have to ask you about heat.
+4477.89 Because earlier we were
+having a conversation
+4480.29 about heat adaptation,
+about how long does it take
+4483.53 for the human body or
+athlete or typical person
+4487.41 that's maybe exploring
+sauna or things of that sort
+4490.45 to learn to be a better sweater?
+4492.95 It sounds like something
+none of us would want to do.
+4495.06 We all want to stay
+cool, calm and collected.
+4496.82 But one of the reasons to deliberately
+4498.52 expose oneself to heat is for things
+4501.64 like growth hormone release, et cetera.
+4503.77 We can talk about this,
+but a couple of questions.
+4506.49 One, is heat exposure
+stress in the same way
+4509.22 that the ice bath or
+cold exposure is stress?
+4513.44 The second one is, is there any difference
+4515.23 there that's important?
+4516.71 And the other one is
+how does one get better
+4519.57 at heat adaptation or at
+least what are you doing
+4521.22 with the fighters to get them
+better at dealing with heat?
+4524.05 How long does that take?
+4524.883 So the first question,
+4525.98 just 'cause I threw
+three questions at you,
+4527.974 [Duncan chuckling]
+4530.61 is heat stress like cold is stress?
+4533.41 - Yeah, I think it is.
+4534.243 And I think heat shock
+proteins for example,
+4536.49 are driven by that stressful exposure
+4539.3 to a change in environment.
+4541.58 So, I think we do graded response in terms
+4546.23 of heat acclimation strategies, but yes,
+4550.2 we've touched on it earlier
+in the conversation.
+4552.07 For me, heat is still a stressor.
+4554.29 And if it's managed incorrectly,
+4557.02 you can have detrimental responses
+4559.61 rather than beneficial responses.
+4561.19 - So barring like hyperthermia and death,
+4563.28 like I mean, obviously you
+heat up the brain too much,
+4565.16 people will have seizures and
+die, but you lose neurons.
+4569.04 But what's the right
+way to acclimate heat?
+4572.49 Taking into account
+that people should check
+4575.02 with their doctor, et cetera.
+4576.16 We do all these disclaimers,
+but let's just say,
+4579.9 I want to get better at dealing with heat,
+4581.7 or I want to extract
+more benefit from heat.
+4584.34 I mean, how many minutes a day are people
+4586.01 typically exposing themselves to heat?
+4587.8 How often and over what periods of time?
+4590.33 - Yeah, so, we normally start with
+4592.29 about 15 minutes of exposure.
+4594.04 Now, if someone's really
+lacking acclimation to heat,
+4597.43 you can do that in three,
+five minute efforts.
+4600.12 Do you know what I mean?
+4600.953 And actually take-
+- This is a hot sauna?
+4602.25 - [Duncan] Yeah, hot sauna,
+take time to step out-
+4604.05 - 200 degrees or something like it?
+4605.35 - Correct, yeah.
+- Fahrenheit, yeah.
+4606.84 - 200 Fahrenheit, yes.
+4608.51 And we try to work up to 30 to 40 minutes
+4611.34 to 45 minutes in the sauna continuous.
+4613.98 Now, we have to understand,
+4616.58 what's the advantage of heat
+acclimation for our athletes?
+4620.03 Ultimately their ability to
+sweat and to lose body fluids
+4625.21 is going to be advantageous
+to their weight cut process.
+4628.67 So, their ability to make weight.
+4630.21 It is a technique that
+some of these guys adopt.
+4632.72 So, if you don't have high sweat rates,
+4636.25 it means you're going to
+have to sit in the sauna
+4638.17 for longer and longer and longer
+4639.69 to get the same delta in sweat release.
+4643.55 So the more acclimated you are,
+4644.867 the more your body is
+thermogenically adapted,
+4648.43 the more sweat glands you
+have, there's more pores,
+4651.55 you can sweat more and
+therefore you'll lose
+4653.69 that fluid quicker, and you
+spend less time in the sauna.
+4656.28 So, that's why we do it,
+to try and promote...
+4661.16 To limit the exposure.
+4662.36 And it comes back to your first
+question, is it a stressor?
+4664.92 It absolutely it's a stressor
+if you've got to spend
+4668.17 two hours over a four hour period,
+4671.24 two hours of it sat in a sauna.
+4672.67 - Yeah, where the phone-
+- Because you just don't
+4673.855 sweat enough.
+- Doesn't work, so you can't.
+4675.381 No, I'm just kidding.
+- Right.
+4676.214 - People, divorce them from their phone
+4677.72 and that's a stressor in itself.
+4679.09 - Right, I mean, yes, I think there's a...
+4682.68 What we do is like anything,
+we build up in temperature,
+4686.13 but we build up in volume of exposure.
+4688.31 So, we start with 15 minutes
+and then we just try to add on
+4691.56 and add on across a time.
+4693.05 And now, for us, we kind of
+found about 14 sauna exposures
+4697.84 starts to really then
+drive the adaptations
+4699.823 that we're looking for.
+4700.88 So it's not a quick fix.
+4702.89 A heat acclimation strategy
+has to happen long before
+4706.48 fight week or long before the fights.
+4708.42 This is a process that has
+to begin eight to 10 weeks
+4712.26 before the fight so that we can actually
+4713.71 get that adaptation and that
+tolerance to the stressor,
+4717.14 to the exposure of heat.
+4718.253 - This is interesting, until today,
+4720.41 when we were talking about
+this earlier, and again now,
+4722.5 I didn't realize that,
+4724.77 but it makes perfect
+sense now that I hear it,
+4726.94 that heat adaptation is possible,
+4730.01 that you basically can train the body
+4731.51 to become better at cooling itself,
+4733.53 which is what sweating is.
+- Yeah.
+4734.743 - I mean, I should have known that before,
+4736.79 but you don't see that in
+the textbooks and so, yeah.
+4739.63 - I mean, listen, it's the same
+4743.35 as the ketogenic conversation.
+4744.99 You're training your body to
+be more metabolic efficient,
+4747.83 you're training your body
+to tolerate heat more,
+4750.389 you're training your body...
+4751.45 Like the body as an organism,
+as an organic system,
+4755.92 it's hugely adaptable,
+it's hugely plastic.
+4758.72 But I think the skill is
+understanding the whens,
+4761.9 the whys and the whereofs in
+terms of changing the overload,
+4766.15 changing the stimulus to
+drive specific adaptation.
+4769.41 And philosophically that's
+how we go about our work here.
+4772.49 We talk about adaptation-led programming.
+4775.66 Now, adaptation-led programming fits into
+4778.67 every single category,
+not just lifting weights
+4780.93 or running track.
+4781.95 It fits into nutrition.
+4783.32 It fits into sitting in the sauna.
+4785.25 It fits into being in a cold bath or not.
+4787.17 It fits into so many
+different things because
+4789.49 we're driven by scientific insights.
+4791.98 And that's how we really want
+to go about our business.
+4794.49 - I love it, I love this concept
+4795.73 of adaptation-led
+programming and doing that,
+4798.08 not just in the context of
+throwing another plate on the bar
+4801.47 or something like that,
+4802.303 but in every aspect of one's
+training and performance.
+4806.716 And I think there's a lot
+here that's applicable
+4808.33 to the recreational athlete, too.
+4810.24 - Yeah.
+- Would you say that,
+4812.56 what comes to mind is 12 weeks.
+4814.38 It feels like 12 weeks is a
+nice block of time for someone
+4817.26 to try something in terms
+of to try something new,
+4820.376 see how they adapt, adapt,
+4822.35 and then maybe switch to something new.
+4824.16 I realized that it's very
+hard to throw a kind of pan
+4828.06 timeframe around something,
+but in terms of if someone
+4831.32 wanted to experiment with heat adaptation
+4833.46 or experiment with cold adaptation
+4835.19 or change up their
+training regimen or diet,
+4837.99 and look at metabolic efficiency,
+4840.45 do you think 12 weeks
+is a good period of time
+4843.71 to really give something a thorough go?
+4845.5 And gain an understanding of how well
+4848.41 or how poorly something works for oneself?
+4850.35 Or would you say eight is enough?
+4851.84 Or three?
+4852.98 - I mean, that's the how
+long is a piece of string
+4855.07 kind of response, right?
+- Yeah.
+4856.73 - I mean, yes, if we're just
+talking arbitrary numbers-
+4859.71 - Recreational experimenter.
+- Yeah, like three months
+4861.97 exposure, 12 week training strategy,
+4865.08 12 week intervention is
+more than adequate to say
+4869.192 for 99% of things that
+change within the body,
+4872.09 that physiologically adapt
+to a training stimulus
+4874.78 or an overload stimulus,
+4875.68 you're going to start to see
+either regression or progression,
+4880.1 beneficial or detrimental
+effects within three months.
+4882.84 Absolutely, I would say so.
+4884.37 Now, listen, I say that in as
+much as we do training blocks
+4887.65 here that are three weeks long.
+4889.01 - Right, well, that's
+because of this constraint
+4891.16 that sometimes people suddenly have to,
+4892.96 they get the call to fight.
+4894.22 - Correct, yeah.
+4895.053 So it's like super condensed.
+4897.02 And in that scenario,
+4899.85 we're always conscious of is
+their body or this individual,
+4905.55 do they have the ability to
+tolerate that super overload,
+4908.7 that super condensed exposure?
+4910.59 Now, we might be doing that purposefully.
+4912.07 We might be trying to do
+an overreaching strategy
+4914.21 where we're really trying
+to damage or flex something.
+4917.43 And I don't mean like negatively damage,
+4919.2 but like we're trying to damage tissue
+4920.47 to really get an adaptive
+response versus a more drawn out
+4924.8 12 week strategy, which is more coherent,
+4927.68 more planned out, more
+structured in nature.
+4930.72 But yeah, for all your listeners,
+4932.58 I would say 12 weeks
+to engage in a process
+4936.501 of trying to change and adapt your body
+4939.78 or expose yourself to something
+is more than sufficient
+4942.2 to see if it's going to be
+the right approach for you.
+4945.0 And I think, the
+individual interpretation,
+4949.96 it always has to be considered.
+4951.57 And I think that's where
+it comes back to be
+4954.1 a thinking man's athlete or
+be a thinking man's trainer,
+4957.83 like someone that's
+going through exercise,
+4960.66 you have to consciously
+understand where your body's at
+4964.78 any moment in time, you know?
+4965.81 You've got to be real with yourself.
+4967.32 You create a journal, create
+a log of your training,
+4969.62 create a log of your feelings,
+your subjective feedback
+4971.91 of how you felt, your mood, your sleep.
+4974.433 - Do your athletes do that?
+- Yeah, yeah.
+4976.789 We try to promote that because again,
+4978.7 that's part of this process, you know?
+4982.543 It might be 12 weeks for you,
+4983.51 but I might get the same
+responses in eight weeks.
+4986.14 And I think that's another
+critical theme here is that
+4991.96 we could put 15 guys on the mat
+4995.32 and give them the same workout,
+4997.55 and there's going to be
+15 different responses
+5000.42 to that same workout
+because the human organism
+5003.54 is so complex.
+5004.88 And in nature, it's going
+to adapt differently.
+5008.08 Some people will tolerate it.
+5009.43 Some people are going
+to be challenged by it.
+5011.15 Some people have got a metabolic makeup
+5013.04 that's going to promote it.
+5014.04 Some people are metabolically
+challenged by it.
+5016.531 There's just so many different things
+5018.85 that we have to consider.
+5019.81 And that's what we try to do here.
+5021.82 It's the cross we bear is
+that we try to understand
+5024.37 on an individual level how to
+optimize athletic performance.
+5027.753 - I think it's terrific,
+5028.99 and the athletes here are
+so fortunate to have this.
+5031.67 And most people out there,
+5034.2 I've certainly been
+trying to encourage people
+5036.16 to learn some science and some mechanism
+5037.94 and become scientists
+of their own pursuits,
+5040.08 whether or not skill learning
+5041.22 or athletic pursuit, et cetera.
+5044.38 As sort of a final question,
+5047.44 what are some things about
+the UFC or something about
+5049.387 the UFC that perhaps people don't know
+5051.75 in terms of its overall mission
+5053.47 or what you guys are trying to do here?
+5054.94 I mean, I think, I've become a fan of MMA
+5057.62 and I am more and more as time moves on.
+5060.84 Some people might be into MMA,
+5062.18 some people not into watching MMA,
+5064.54 but what are some things
+that the UFC is interested in
+5067.37 and doing that most people
+might not know about,
+5070.807 and certainly I might not know about?
+5073.09 - Yeah, I mean, I think,
+we try to be cutting edge.
+5079.43 We try to be super progressive.
+5081.51 We think we've got an
+amazing platform here,
+5083.96 particularly at the Performance Institute
+5085.58 to do some really cool things that can
+5086.99 inform many different people.
+5088.67 And that doesn't just mean
+the 600 or so athletes
+5091.93 that are on our global roster.
+5094.02 What we're trying to do is,
+is influence global community
+5098.19 around optimizing human performance.
+5100.93 So, any moment in time,
+5102.64 we're engaging in different technologies
+5104.63 with different vendors,
+different partners,
+5106.73 exploring opportunities
+to learn more, share data,
+5110.74 understand what's the best mechanisms
+5112.62 for interpreting your body,
+5114.397 interpreting how your body's
+responding to training,
+5117.06 interpreting your nutrition
+or whatever it may be.
+5120.6 We're in a really privileged
+position to do that.
+5123.96 But we've also, hence
+you being here today,
+5126.81 we're also trying to venture
+into some really cool areas
+5130.49 of science and research
+that's got applicability,
+5133.83 that you can take from
+high performance athletes
+5135.91 and apply to yourself, to Joe
+Blow walking down the street,
+5140.12 out there that is really interesting.
+5142.82 And that's everything
+from whether it's CBD
+5146.12 and psychedelics, through
+to different technologies
+5149.51 for thermal monitoring and
+Bluetooth heart rate monitoring
+5153.11 or whatever it may be,
+5154.33 through to data management, et cetera,
+5156.86 and anything in between.
+5158.24 We've got some great partners
+on the nutrition side,
+5161.07 on the psychology side, on the data side.
+5163.54 And I think we always try
+to just push the envelope
+5167.33 a little bit more.
+5168.163 I think we keep our core
+mission with our athletes,
+5170.71 but I think a lot of what
+we do, hence your podcast,
+5175.22 an amazing platform, you
+do such a great job of it,
+5177.61 that we can all learn
+and take from the elite
+5181.76 and interpret how it might help us,
+5183.45 and just in the general population.
+5185.23 So, I think that's our north
+star is to provide our athletes
+5189.61 the best integrated service of care,
+5193.6 but we also want to influence
+just the global community
+5196.68 and put the UFC at the forefront of that.
+5198.781 - That's great, well, you
+guys are certainly doing it,
+5200.147 and we can't let the cat
+out of the bag just yet.
+5203.58 But the things that we're gearing up
+5205.35 to do with my laboratory-
+- Yeah, I'm excited.
+5206.797 - And the work together,
+hopefully we'll be able
+5209.58 to talk about that and share
+that in the year to come,
+5212.7 but we're very excited about that.
+5215.17 And, Duncan, look, I have
+this filter that I use
+5220.41 when I talk to people,
+academics or otherwise,
+5223.15 which is some people,
+they open their mouth,
+5224.73 and it doesn't make much difference,
+5226.76 but when you speak, I learn so much.
+5230.17 I'm going to take the protocols
+that I've heard about today,
+5233.15 I'm going to think about how I'm training
+5234.487 and how I could train
+differently and better,
+5236.19 how I'm eating, how I could
+eat differently and better
+5239.96 for sake of performance
+and just in general.
+5244.89 Thank you so much for your
+time, your scientific expertise,
+5247.74 the stuff you're doing in the
+practical realm, it's immense.
+5250.63 So, hopefully we can do it again.
+5253.32 - Yes, thank you.
+5254.3 This has been a blast.
+5255.133 I appreciate it and yeah,
+keep doing what you're doing
+5257.2 'cause I know there's a
+lot of people out there
+5258.67 that love the platform.
+5259.59 So, thanks for the invite.
+5260.99 It's been awesome.
+- Oh, thank you.
+5262.36 Thanks so much.
+5264.02 Thank you for joining
+me for my conversation
+5266.1 with Dr. Duncan French.
+5267.84 I hope you found it as insightful
+and informative as I did.
+5271.72 If you're enjoying this podcast
+and/or learning from it,
+5274.19 please subscribe to our YouTube channel.
+5276.24 Please also leave us a
+comment or a suggestion
+5278.62 of a future topic or future guests
+5280.32 that you'd like us to have
+on the Huberman Lab Podcast.
+5283.7 In addition, please
+subscribe to our podcast
+5286.01 on Apple and Spotify.
+5287.85 And on Apple, you can leave
+us up to a five-star review.
+5291.34 Please also check out the
+sponsors that we mentioned
+5293.54 at the beginning of this episode.
+5294.96 That's a terrific way
+to support this podcast.
+5297.5 We also have a Patreon.
+5298.77 It's patreon.com/andrewhuberman.
+5301.95 And there you can support the podcast
+5303.81 at any level that you like.
+5305.54 Many previous episodes of
+the Huberman Lab Podcast
+5308.36 we discuss supplements;
+supplements for sleep,
+5310.75 supplements for focus and for
+other health benefits as well.
+5314.36 While supplements may
+not be for everybody,
+5316.16 if you're going to use supplements,
+5317.45 you want to make sure
+that those supplements
+5318.9 are of the very highest quality.
+5320.81 For that reason, we've partnered
+with Thorne, T-H-O-R-N-E,
+5324.45 because Thorne supplements are
+of the very highest quality
+5327.91 and the amounts of ingredients
+listed on the label
+5331.15 of Thorne supplements precisely matches
+5333.17 what is actually contained
+in those capsules,
+5335.55 bottles and pills and
+powders and so forth.
+5337.65 This is extremely important.
+5338.79 A lot of analysis of supplements
+and supplement companies
+5341.53 have shown that what's listed
+on the bottle is often not
+5345.02 what's actually contained in the bottle.
+5347.53 Thorne's stringency is unmatched.
+5349.4 They've partnered with all
+the major sports teams,
+5351.86 with the Mayo Clinic.
+5353.23 And so, there's a lot of
+trust in Thorne supplements
+5355.38 for all the right reasons.
+5356.72 If you'd like to try Thorne supplements,
+5358.53 you can see the supplements that I take,
+5360.28 you can go to Thorne,
+thorne.com/u/huberman.
+5365.76 There, you can see the
+supplements that I take.
+5368.04 You can get 20% off any
+of those supplements.
+5370.28 And if you navigate into the Thorne site
+5372.25 through that portal, you can get 20% off
+5375.01 any of the supplements that Thorne makes.
+5377.28 I'd also like to mention
+that if you're not already
+5379.3 following us on Instagram @hubermanlab,
+5382.16 you might want to do so.
+5383.14 There I do brief science
+tutorials and offer science-based
+5387.15 protocols for all sorts of
+things that are often separate
+5390.17 from the protocols and information
+5391.75 covered on the Huberman Lab Podcast.
+5393.81 We're also on Twitter as hubermanlab.
+5396.6 And last and certainly not least,
+5399.02 thank you for your interest in science.
+5400.626 [light music]

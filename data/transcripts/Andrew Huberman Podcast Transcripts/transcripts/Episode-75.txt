@@ -1,0 +1,4745 @@
+0.053 - Welcome to the Huberman Lab Podcast,
+2.3 where we discuss science
+and science-based tools
+4.93 for everyday life.
+6.131 [energetic music]
+9.53 I'm Andrew Huberman,
+10.5 and I'm a professor of
+neurobiology and ophthalmology
+13.35 at Stanford School of Medicine.
+15.42 Today, we are going to
+talk all about dopamine
+17.63 and what drives you to do
+the things that you do.
+21.19 We're going to talk about
+motivation and desire and craving,
+25.53 but also how dopamine
+relates to satisfaction
+29.21 and our feelings of wellbeing.
+31.11 And of course, any
+discussion about dopamine
+33.63 has to include a discussion
+about the potential
+36.36 for dopamine induced addiction.
+39.48 Indeed, dopamine lies at
+the heart of addiction
+42.03 to all things.
+43.66 But today we are mainly going to focus on,
+46.0 how what we do and how we do it,
+49.37 and how we conceptualize those things
+52.21 leads to changes in this amazing molecule
+55.25 in our brain and bodies
+that we call dopamine.
+58.2 I'm going to teach you what
+dopamine is and what it is not.
+61.66 There are a lot of myths
+about the molecule dopamine.
+64.07 We often hear about
+so-called dopamine hits.
+66.58 Today, we are going to
+dispel many common myths
+68.87 about dopamine,
+70.03 and we are going to talk about
+how dopamine actually works.
+73.21 We're going to discuss
+the biology of dopamine,
+75.82 the psychology.
+76.86 We will discuss some neural circuits
+78.72 and a really exciting
+aspect of dopamine biology
+81.64 or so-called dopamine schedules.
+83.91 In other words, we are going to discuss
+85.33 how things like food, drugs,
+caffeine, pornography,
+88.97 even some plant-based compounds can change
+91.84 our baseline levels of
+dopamine and in doing so,
+94.91 they change how much dopamine
+we are capable of experiencing
+98.72 from what could be very satisfying events,
+102.07 or events that make us feel not so good
+104.22 because of things that
+we did or took prior.
+107.1 So I promise you it's going
+to be a vast discussion,
+110.86 but I will structure it for you,
+112.38 and you'll come away
+with a deep understanding
+114.63 of really what drives you.
+116.13 You will also come away
+with a lot of tools,
+118.58 how to leverage dopamine so
+that you can sustain energy,
+122.33 drive and motivation for the things
+123.8 that are important to you
+over long periods of time.
+126.72 Before we dive into the
+meat of today's discussion,
+129.75 I'd like to share with
+you a fascinating result
+133.23 that really underscores what dopamine
+135.16 is capable of in our brains and bodies,
+137.16 and underscores the fact
+that just through behaviors,
+140.97 no drugs, nothing of that sort,
+142.9 just through behaviors,
+144.07 we can achieve terrifically
+high increases in dopamine
+148.0 that are very long and
+sustained in ways that serve us.
+152.25 This is a result that was published
+153.44 in the European Journal of Physiology.
+155.54 I'll go into it in more detail later,
+157.18 but essentially what it involved
+is having human subjects
+160.75 get into water of different temperatures.
+163.92 So it was warm water,
+165.49 moderately cool water
+and cold, cold water.
+169.24 Had them stay in that
+water for up to an hour,
+172.16 and they measured by way of blood draw
+175.04 things like cortisol,
+norepinephrine and dopamine.
+180.09 What was fascinating is
+that cold water exposure
+183.57 led to very rapid
+increases in norepinephrine
+187.27 and epinephrine,
+188.41 which is also just called adrenaline.
+190.72 It also led to increases in dopamine.
+193.5 And these increases in
+dopamine were very significant.
+196.89 They kicked in around 10 or
+15 minutes after submersion
+200.27 into the cold water.
+201.47 And I should mention the
+head wasn't below water
+203.14 is just up to the neck.
+204.9 And the dopamine release continued to rise
+209.52 and rise and rise,
+210.51 and eventually reached
+250% above baseline.
+213.83 Now, what was interesting
+is after subjects got out
+216.93 of this cold water,
+218.4 that dopamine increase was sustained.
+220.94 And I know nowadays many
+people are interested
+223.02 in using cold water therapy as
+a way to increase metabolism
+227.05 and fat loss,
+228.28 but also to improve sense of well-being,
+231.44 improve cognition,
+improve clarity of mind.
+234.66 There's something really
+special about this very alert,
+237.88 but calm state of mind
+239.34 that seems to be the one that's optimal
+241.5 for pretty much everything except sleep,
+244.01 but for all aspects of work
+and for social engagement
+247.65 and for sport that highly alert,
+250.02 but calm state of mind
+really is the sweet spot
+253.37 that I believe most of
+us would like to achieve.
+255.57 And this cold water
+exposure done correctly
+258.49 really can help people
+achieve that state of mind
+261.44 through these increases in dopamine
+263.33 that lasts a very long time.
+265.15 So I will later detail the
+specifics of that study,
+268.47 what it entailed in terms of how long,
+271.03 the variations, the different
+subjects experienced,
+273.73 as well as how to limit the
+amount of stress hormone,
+276.33 cortisol, that's released as a consequence
+278.81 of the cold water.
+280.23 And we will also talk about
+compounds, supplements
+282.62 that people can take in order to increase
+284.83 their levels of dopamine
+should they choose.
+287.53 Before we begin, I'd like to emphasize
+289.15 that this podcast is
+separate from my teaching
+291.06 and research roles at Stanford.
+292.86 It is however, part of
+my desire and effort
+295.1 to bring zero cost to consumer
+information about science
+297.89 and science related tools
+to the general public.
+300.62 In keeping with that theme,
+301.76 I'd like to thank the
+sponsors of today's podcast.
+304.7 Our first sponsor is Roka.
+306.85 Roka makes sunglasses and eyeglasses
+308.73 that are of the absolute highest quality.
+311.29 I've spent a lifetime
+working on the visual system.
+313.437 And I can tell you that the visual system
+314.88 has to go through a lot of work
+316.09 in order to main clarity of what you see
+318.79 when there are shadows,
+320.2 when you go into different
+types of indoor lighting,
+322.04 and so on.
+322.873 And a lot of glasses don't work well
+324.5 because you put them on,
+326.17 and then you're in bright
+light and you can see fine,
+328.37 but then you move into a shadow
+329.47 and then you have to take them
+off and they don't adjust,
+331.48 or they don't adjust quickly enough.
+333.23 With Roka their eyeglasses
+and sunglasses are designed
+336.16 with the visual system biology in mind.
+338.8 So you always see things
+with perfect clarity.
+340.72 The glasses are also terrific
+342.03 because they're very lightweight,
+343.36 and they won't slip off your
+face if you're exercising,
+345.72 if you're running or biking.
+346.76 In fact, they were
+designed for the purpose
+348.44 of being able to be worn
+while you're engaging
+350.87 in those sorts of activities
+or simply working at your desk.
+353.86 I happen to wear readers at night
+355.84 or when I drive or when I work,
+357.8 and I love their sunglasses
+cause I can wear them anywhere.
+360.73 And also the aesthetics of
+their sunglasses and eyeglasses
+363.63 are terrific.
+364.463 Unlike a lot of other performance glasses
+366.2 that frankly make people
+look like cyborgs.
+368.61 The aesthetics on Roka's
+are really terrific.
+370.43 You could wear them
+anywhere you'd like to go.
+372.62 If you'd like to try Roka glasses,
+374.13 you can go to www.roka.com.
+375.75 That's R-O-K-A.com and
+enter the code Huberman
+379.15 to save 20% off your first order.
+381.01 That's Roka, www.R-O-K-A.com.
+383.13 Enter the code Huberman at checkout.
+385.5 Today's podcast is also
+brought to us by InsideTracker.
+389.197 InsideTracker is a
+personalized nutrition platform
+391.39 that analyzes data from your blood and DNA
+393.78 to help you better understand your body
+395.8 and help you reach your health goals.
+397.75 I'm a big believer in getting
+regular blood work done.
+400.8 And now with the advent
+of modern DNA tests,
+403.06 you can also analyze your DNA to see
+405.38 what you ought to be
+doing for your immediate
+407.84 and long-term health.
+409.35 We hear a lot these
+days about optimization,
+411.2 optimizing hormones,
+optimizing your metabolism,
+413.4 optimizing this, optimizing that,
+414.84 but unless you know the
+measurements of metabolic factors,
+417.89 hormones and other things that
+are in your blood and DNA,
+421.4 you don't know what to optimize.
+423.15 With InsideTracker it makes
+all of that very easy.
+425.94 They can come to your house to
+take the blood and DNA test,
+428.17 or you can go to a nearby clinic.
+430.26 They send you the information
+and you take those results.
+433.1 And unlike a lot of laboratories
+doing blood work out there
+436.36 and DNA tests,
+437.48 they have a simple platform, a dashboard
+439.61 that walks you through your results
+441.56 and helps you identify
+what sorts of nutritional
+444.01 or behavioral or other types of practices
+446.33 you might want to
+incorporate into your life
+448.04 in order to positively
+impact your immediate
+450.59 and long-term health.
+451.93 It's a very easy system to use,
+453.62 and you will gain a ton of information
+455.21 simply by doing that test.
+456.37 Whether or not you end up making changes
+457.77 to what you're doing or not.
+459.54 If you'd like to try InsideTracker,
+461.36 you can go to
+www.insidetracker.com/huberman
+464.38 to get 25% off any of
+InsideTracker's plans.
+467.36 Just use the code Huberman at checkout.
+470.04 Today's episode is also
+brought to us by Headspace.
+472.8 Headspace is a meditation app
+backed by 25 published studies
+476.26 and has over 600,005 star reviews.
+479.53 I've been meditating for a long time,
+481.13 but I confess sometimes I meditate
+483.73 and sometimes I'm very
+inconsistent about my meditation.
+487.03 Ideally, I would meditate
+every day for 20 or 30 minutes,
+490.55 but what I found over the years is that,
+492.63 I'll start a meditation practice
+494.14 and then as life gets
+more stressful or busier,
+497.64 which is exactly when I
+need to meditate more,
+499.7 I tend to meditate less often.
+502.02 Switching over to Headspace
+as a meditation app
+504.14 really helped me stay consistent
+505.72 with my meditation practice.
+507.3 And that's because they have
+a huge range of meditations
+510.35 to select from.
+511.183 Some are short, some are longer.
+513.22 And in general, I try and
+get 20 minutes of meditation
+516.2 in every day,
+517.033 but some days it's just five minutes
+518.32 and they have some terrific
+just five minute meditations.
+520.94 The science says that even
+a five minute meditation
+523.58 can be beneficial for
+different aspects of our brain
+526.45 and body.
+527.8 If you want to try Headspace,
+528.87 you can go to
+www.headspace.com/specialoffer.
+532.02 And if you do that,
+532.87 you'll get one month as a free trial
+534.64 with full library of meditations
+537.22 that you can use in any situation.
+540.03 This is the best deal offered
+by Headspace right now.
+542.18 So if you're interested,
+543.31 go to www.headspace.com/specialoffer
+545.6 to get one free one month
+trial with Headspace's
+548.78 full library of meditations.
+550.83 I'd like to announce that there's an event
+552.41 that some of you may find very useful.
+554.74 This is an event put on by Logitech
+556.73 that I will be speaking at.
+558.41 It's called Rethink Education,
+560.7 the Biology of Learning
+Reimagining Learning
+563.4 through Neuroscience.
+564.36 And at this event, I will be speaking,
+566.21 there will be other speakers as well,
+567.82 and I will be talking
+about neuroplasticity
+570.13 and its applications for
+teaching and for learning.
+573.17 I will describe what I call
+the plasticity super protocol
+576.04 that incorporates all of what
+we know about rapid learning,
+579.86 efficient learning and the
+best ways to teach and learn.
+582.89 It's geared towards
+educators of all kinds.
+585.2 It is zero cost.
+586.66 So please feel free to sign up.
+588.5 The event is September 30th,
+2021 at 3:00 p.m Eastern.
+594.07 You can find the registration
+link in the caption
+596.84 for this episode.
+598.3 So let's talk about dopamine.
+600.03 Most people have heard of dopamine,
+601.6 and we hear all the time
+now about dopamine hits.
+604.31 But actually there's no such
+thing as a dopamine hit.
+608.3 And actually the way that
+your body uses dopamine
+612.26 is to have a baseline level of dopamine.
+615.58 Meaning an amount of
+dopamine that's circulating
+617.93 in your brain and body all the time.
+620.37 And that turns out to be
+important for how you feel
+622.94 generally, whether or not
+you're in a good mood,
+624.96 motivated, et cetera.
+626.79 And you also can experience
+peaks in dopamine
+629.89 above baseline.
+631.54 Now, this has a very specific name
+633.32 in the neurobiology literature,
+634.973 so-called tonic and phasic
+release of dopamine.
+639.4 And I'll explain what that
+means in a couple of minutes.
+641.46 But if you remember nothing
+else from this episode,
+644.42 please remember this,
+646.08 that when you experience
+something or you crave something
+650.42 really desirable, really exciting
+to you, very pleasurable.
+655.34 What happens afterwards
+is your baseline level
+658.43 of dopamine drops.
+660.54 Okay?
+661.373 So these peaks in dopamine,
+663.36 they influence how much dopamine
+665.15 will generally be circulating afterward.
+667.42 And you might think, oh, a big
+peak in dopamine after that,
+670.23 I'm going to feel even better
+671.36 because I just had this great event.
+673.43 Not the case.
+674.36 What actually happens is
+that your baseline level
+677.01 of dopamine drops.
+678.26 And I will explain the
+precise mechanism for that.
+681.21 Okay?
+682.043 In the neuroscience literature,
+683.4 we refer to this as tonic and
+phasic release of dopamine.
+689.2 Tonic being the low level baseline
+692.29 that's always there circulating,
+694.95 released into your brain all the time.
+697.25 And then phasic these peaks
+that ride above that baseline.
+701.47 And those two things interact.
+703.2 And this is really important.
+705.0 I'm going to teach you the
+underlying neurobiology,
+706.53 but even if you have no
+background in biology,
+708.45 I promise to make it all clear.
+709.7 I'll explain the terms and what they mean.
+712.06 And I'm excited to teach
+you about dopamine,
+714.32 because dopamine has everything
+to do with how you feel
+717.16 right now as you're listening to this,
+718.88 it has everything to do
+with how you will feel
+721.34 an hour from now,
+722.64 has everything to do with
+your level of motivation
+724.92 and your level of desire,
+726.35 and your willingness
+to push through effort.
+728.9 If ever you've interacted with somebody
+730.93 who just doesn't seem to have
+any drive they've given up,
+734.68 or if you've interacted with somebody
+736.16 who seems to have
+endless drive and energy,
+738.92 what you are looking at there
+in those two circumstances
+742.05 is without question a difference
+745.28 in the level of dopamine
+circulating in their system.
+748.97 There will be other factors too,
+750.87 but the level of dopamine
+is the primary determinant
+754.86 of how motivated we
+are, how excited we are,
+757.94 how outward facing we are
+and how willing we are,
+760.64 to lean into life and pursue things.
+763.19 Dopamine is what we call a neuromodulator.
+765.71 Neuromodulators are different
+than neurotransmitters.
+768.09 Neurotransmitters are
+involved in the dialogue
+770.64 between neurons nerve cells.
+772.72 And neurotransmitters tend to
+mediate local communication.
+775.91 Just imagine two people talking
+to one another at a concert,
+779.27 that communication
+between them is analogous
+781.86 to the communication carried
+out by neurotransmitters,
+785.17 whereas neuromodulators
+influence the communication
+788.59 of many neurons.
+789.64 Imagine a bunch of people dancing
+791.27 where it's a coordinated
+dance involving 10 or 20
+793.75 or hundreds of people.
+795.54 Neuromodulators are
+coordinating that dance.
+798.47 In the nervous system
+what this means is that,
+800.43 dopamine release changes the probability
+803.28 that certain neural
+circuits will be active
+806.32 and that other neural
+circuits will be inactive.
+809.61 Okay?
+810.443 So it modulates a bunch
+of things all at once,
+813.08 and that's why it's so
+powerful at shifting
+815.0 not just our levels of energy,
+816.29 but also our mindset,
+817.99 also our feelings of
+whether or not we can,
+821.76 or cannot accomplish something.
+824.4 So how does dopamine
+work and what does it do?
+826.75 Well, first of all, it is not
+just responsible for pleasure,
+830.13 it is responsible for
+motivation and drive.
+832.55 Primarily, at the psychological level,
+834.56 also for craving.
+835.96 Those three things are sort of the same.
+837.61 Motivation, drive and craving.
+839.24 It also controls time perception,
+841.2 and we will get deep into how dopamine
+843.97 can modulate time perception,
+845.57 and how important it is
+that everybody be able
+849.21 to access increases in dopamine
+at different timescales.
+853.54 This turns out to be important
+to not end up addicted
+856.1 to substances,
+856.933 but it also turns out to be
+very important to sustain effort
+860.28 and be a happy person
+over long periods of time.
+862.44 Which I think most everybody wants.
+864.74 It certainly is adaptive in
+life to be able to do that.
+867.93 Dopamine is also vitally
+important for movement.
+871.3 I'll explain the neural circuits
+for dopamine and mindset,
+875.02 and dopamine in movement in a moment,
+877.57 but in diseases like Parkinson's
+or Lewy bodies dementia,
+883.4 which is similar to
+Parkinson's in many ways.
+885.453 There's a depletion or
+death of dopamine neurons
+888.27 at a particular location in the brain
+890.2 which leads to shaky movements,
+893.26 challenges and speaking,
+894.46 challenges in particular
+in initiating movement.
+897.62 And because dopamine is depleted elsewhere
+900.63 to people with Parkinson's and Lew's bod,
+904.01 excuse me, Lewy body dementia
+also experience drops
+907.34 in motivation and affect, meaning mood.
+910.18 They tend to get depressed and so on.
+912.82 When those people are properly treated,
+915.42 they can, not always,
+917.34 but they can recover some
+fluidity of movement,
+920.39 some ability to initiate movement.
+922.16 And almost without question,
+924.01 those people feel better psychologically,
+926.86 not just because they can move,
+928.07 but also because dopamine
+impacts mood and motivation.
+931.68 So what are the underlying
+neural circuits?
+935.43 For those of you that are
+not interested in biology
+938.06 and specific nomenclature,
+939.13 you can tune out now if you want,
+940.9 but it's actually pretty straightforward.
+942.64 You have two main neural
+circuits in the brain
+945.63 that dopamine uses in order
+to exert all its effects.
+950.76 The first one is a pathway
+that goes from this area
+954.61 in the what's called
+the ventral tegmentum.
+957.095 That's a fancy, but
+ventral just means bottom,
+959.01 and tegmentum actually means floor.
+961.09 So it's at the bottom of the brain,
+962.88 and it's the ventral part of the floor.
+964.58 So it's really low in
+the back of the brain,
+966.36 the ventral tegmentum.
+967.82 And it goes from the ventral tegmentum
+971.57 to what's called the ventral striatum
+974.15 and the prefrontal cortex.
+975.4 Now, that's a lot of language,
+976.55 but basically what we call this is the,
+978.76 mesocorticolimbic pathway.
+980.31 This is the pathway by which
+dopamine influences motivation,
+985.28 drive and craving.
+987.26 It involves structures that
+some of you may have heard
+989.15 of before.
+989.983 Things like nucleus accumbens
+and the prefrontal cortex.
+992.94 This is the pathway that
+really gets disrupted
+995.65 in addictions where in
+particular drugs that influence
+1000.21 the release of dopamine like
+cocaine and methamphetamine.
+1002.65 We'll talk about those drugs today.
+1004.1 They tap into this pathway.
+1005.61 But if you are pursuing a partner,
+1009.52 a boyfriend or girlfriend,
+1010.46 if you're pursuing a degree in school,
+1012.43 if you're pursuing a
+finish line in a race,
+1014.83 you are tapping into this so-called
+1016.3 mesecorticolimbic pathway.
+1018.38 This is the classic reward
+pathway in all mammals.
+1023.5 The other pathway emerges
+from an area in the brain
+1026.87 called the substantia nigra.
+1028.72 So-called because the cells
+in that area are dark,
+1033.61 and the substantia nigra
+connects to an area of the brain
+1037.09 called the dorsal striatum.
+1038.45 This is not surprisingly called
+the nigrostriatal pathway.
+1042.53 For those of you who have
+never done any neuroanatomy,
+1044.53 I'm going to teach you a
+little trick right now.
+1046.37 Everything in neuroanatomy,
+1047.76 the first part of a word tells
+you where the neurons are.
+1052.46 And then the second part tells you
+1053.61 where they are connecting to.
+1054.79 So when I say nigropstriatal pathway,
+1057.33 it means that the neurons
+are in substantial nigra
+1059.4 and they connect to the
+striatum, nigrostriatal pathway.
+1062.56 So while it's a lot of language
+there, some logic there.
+1065.52 Okay?
+1066.353 So we've got these two pathways.
+1067.7 One, mainly for movement, right?
+1069.9 This is the substantia
+nigra to dorsal striatum.
+1073.06 And we've got this other pathway,
+1075.67 the so-called mesocorticolimbic pathway,
+1077.33 that's for reward,
+reinforcement and motivation.
+1080.983 I want you to remember that
+there are two pathways.
+1083.77 If you don't remember the
+two pathways in detail,
+1085.98 that's fine.
+1086.813 But please remember that
+there are two pathways,
+1088.78 because that turns out
+to be important later.
+1090.64 Now, the other thing to
+understand about dopamine is that,
+1093.72 the way that dopamine is
+released in the brain and body
+1097.92 can differ.
+1099.51 Meaning it can be very local,
+1102.33 or it can be more broad.
+1104.7 Now, most of you have
+probably heard of synapses.
+1107.51 Synapses are the little
+spaces between neurons,
+1110.65 and basically neurons
+nerve cells communicate
+1112.76 with one another by making
+each other electrically active,
+1116.35 or by making each other
+less electrically active.
+1119.84 So here's how this works.
+1120.673 You can imagine one nerve
+cell and another nerve cell
+1123.14 with a little gap between them,
+1124.24 a little synapse.
+1125.68 And the way that one nerve cell causes
+1128.16 the next nerve cell to fire.
+1129.9 What we call fire really means
+to become electrically active
+1132.64 is that it vomits out
+these little packets,
+1135.52 what we call vesicles.
+1136.47 They're little bubbles
+filled with a chemical,
+1138.93 when that chemical enters the synapse,
+1141.51 it some of it docks or
+parks on the other side,
+1144.99 in the other neuron.
+1146.35 And by virtue of
+electrical changes in the,
+1150.17 what we call the postsynaptic neuron,
+1152.42 that chemical will make that
+neuron more electrically active
+1155.61 or less electrically active.
+1157.58 Dopamine can do that like
+any other neurotransmitter
+1160.99 or neuromodulator.
+1162.49 So it can have one neuron
+influence another neuron.
+1165.99 But dopamine can also engage
+1168.28 in what's called a volume metric release.
+1170.49 Volumetric release is like a
+giant vomit that gets out to 50
+1175.16 or a hundred or even thousands of cells.
+1177.85 So there's local release what
+we call synaptic release,
+1180.51 and then there's volumetric release.
+1182.01 So volumetric release is like
+dumping all this dopamine out
+1184.99 into the system.
+1186.31 So dopamine is incredible
+because it can change the way
+1190.22 that our neural circuits
+work at a local scale
+1192.9 and at a very broad scale.
+1194.82 And for those of you that
+are only interested in tools,
+1197.33 like how do I get more dopamine?
+1199.15 Let me tell you this
+part is really important
+1201.78 because if you were to
+take a drug or supplement
+1205.65 that increases your level of dopamine,
+1207.63 you are influencing both the
+local release of dopamine
+1211.73 and volumetric release.
+1213.89 This relates back to
+the baseline of dopamine
+1216.19 and the big peak above baseline.
+1218.95 And that turns out to be important.
+1220.52 And I'll just allude
+to why it's important.
+1223.24 Many drugs and indeed many supplements
+1226.74 that increase dopamine will
+actually make it harder
+1231.11 for you to sustain dopamine release
+1233.11 over long periods of time.
+1234.83 And to achieve those peaks
+that most of us are craving
+1238.0 when we are in pursuit of things.
+1239.71 Why?
+1240.67 Because if you get both
+volume metric release,
+1243.56 the dumping out of dopamine everywhere,
+1245.39 and you're getting local release,
+1247.26 what it means is that the
+difference between the peak
+1249.367 and baseline is likely to be smaller.
+1252.87 And this is very important,
+1255.12 how satisfying or exciting or pleasureful
+1258.75 a given experience is,
+1260.75 doesn't just depend on
+the height of that peak,
+1263.92 it depends on the height
+of that peak relative
+1266.92 to the baseline.
+1268.11 So if you increase the baseline
+and you increase the peak,
+1272.41 you're not going to achieve
+more and more pleasure
+1274.83 from things.
+1275.8 I'll talk about how to
+leverage this information
+1278.89 in a little bit,
+1280.17 but just increasing your dopamine.
+1282.84 Yes, it will make you
+excited for all things.
+1285.26 It will make you feel very motivated,
+1287.0 but it will also make that
+motivation very short-lived.
+1291.27 So there's a better way
+to increase your dopamine.
+1294.75 There's a better way to optimize
+1296.3 this peak to baseline ratio.
+1298.3 For now what we've talked about
+is two main neural circuits,
+1301.18 one for movement,
+1302.05 and one for motivation
+and craving with dopamine.
+1305.08 And we've talked about two
+main modes of communication
+1307.91 between neurons with dopamine.
+1310.5 One is this local synaptic release.
+1313.84 One is more volume metric release.
+1316.54 And in the back of your mind,
+1317.63 you can relate this back to,
+1318.88 again, this baseline versus
+peaks above baseline.
+1322.27 So that's a description
+of what we would call
+1324.02 the spatial effects or the
+spatial aspects of dopamine.
+1328.96 I said this connects to that,
+1330.28 that connects to this.
+1331.15 You can get local or more
+broad volumetric release.
+1333.96 What about the duration of release
+1336.17 or the duration of action for dopamine?
+1339.07 Well, dopamine is unique
+among chemicals in the brain,
+1343.33 because dopamine unlike a
+lot of chemicals in the brain
+1346.66 works through what are called
+G protein-coupled receptors.
+1349.52 And for those of you that
+are about to pass out
+1351.15 from the amount of detail,
+1352.04 just hang in there with me.
+1353.01 It's really not complicated.
+1355.02 There are two ways that
+neurons can communicate
+1358.28 or mainly two ways.
+1359.53 There are third and fourth,
+1360.7 but mostly neurons
+communicate by two modes.
+1365.65 One, are what we call
+fast electrical synapses
+1369.02 ionotropic conduction.
+1370.95 All right?
+1371.783 You don't need to know what that means,
+1372.616 but basically one neuron
+activates another neuron
+1376.35 and little holes open up in that neuron,
+1378.92 and ions rush in.
+1380.74 Sodium is the main ion salt
+1383.85 by which one neuron influences
+the electrical activity
+1386.74 of another neuron because
+sodium ions contain a charge.
+1390.02 Okay?
+1391.041 There are other things like
+chloride and potassium.
+1392.49 If you're interested in looking this up,
+1393.72 just look up ionic conductances
+in the action potential,
+1397.22 or I could do a post on it some time
+1398.73 and we could go into detail.
+1400.57 But just understand that when neurons
+1402.03 want to influence each other,
+1403.44 they can do it by way of this
+fast ionotropic conduction.
+1406.56 This is a really quick way for one neuron
+1409.63 to influence the next.
+1411.95 Dopamine doesn't communicate that way.
+1414.27 Dopamine is slower.
+1415.81 It works through what are
+called G protein-coupled
+1417.63 receptors.
+1418.56 So what happens is dopamine is released
+1420.62 in these little vesicles
+that I've mentioned before,
+1422.6 get vomited out into the synapse.
+1425.08 Some of that dopamine will bind
+1427.34 to the so-called postsynaptic neuron,
+1429.45 it'll bind to the next neuron,
+1430.83 and then it sets off a cascade.
+1433.34 It's kind of like a bucket
+brigade of one thing,
+1435.3 getting handed off to the next,
+1436.59 to the next, to the next.
+1438.07 It's G protein-coupled receptors.
+1440.46 And anytime you hear about these GPCRs
+1442.17 or G protein-coupled receptors,
+1444.41 pay attention because
+they're really interesting.
+1446.66 They're slow,
+1447.92 but they also can have
+multiple cascades of effects.
+1451.16 They can impact even gene
+expression at some level.
+1454.37 They can change what a
+cell actually becomes.
+1457.27 They can change how well
+or how poorly that cell
+1460.61 will respond to the same
+signal in the future.
+1464.0 So dopamine works through
+the slower process.
+1466.79 These G protein-coupled receptors.
+1468.46 And so its effects tend to
+take a while in order to occur.
+1474.3 This aspect of dopamine
+transmission is important
+1477.83 because it now underscores two things.
+1479.48 One, there's two pathways
+for dopamine to communicate.
+1482.56 One for movement,
+1483.393 one for motivation and craving.
+1484.69 There's two spatial scales
+at which dopamine can operate
+1489.06 synaptically or volumetrically.
+1491.25 And dopamine can have slow effects,
+1495.04 really slow effects,
+1496.27 or even very long lasting effects.
+1498.32 And it even can control gene expression.
+1500.89 It can actually change
+the way that cells behave.
+1503.51 One thing that's not often
+discussed about dopamine,
+1505.56 but is extremely important to know
+1507.94 is that dopamine doesn't work on its own.
+1511.07 Neurons that release dopamine
+co-release glutamate.
+1515.91 Glutamate is a neurotransmitter
+1518.6 and it's a neurotransmitter
+that is excitatory,
+1521.23 meaning it stimulates neurons
+to be electrically active.
+1524.81 So now even if you don't
+know any cell biology,
+1528.387 you should start to gain a picture
+1529.96 that dopamine is responsible for movement,
+1532.6 motivation and drive.
+1534.074 It does that through two pathways,
+1535.77 but also the dopamine
+stimulates action in general,
+1539.72 because it releases this
+excitatory neurotransmitter.
+1542.02 It tends to make certain
+neurons that are nearby
+1545.93 or even that are far away,
+1547.08 because of volumetric release,
+1548.3 it tends to make those more active.
+1550.12 So dopamine is really stimulating.
+1552.29 And indeed we say that
+dopaminergic transmission
+1556.37 or dopamine tends to
+stimulate sympathetic arousal.
+1560.65 Sympathetic doesn't have
+anything to do with sympathy.
+1562.73 It's just simply means that it tends
+1565.33 to increase our levels of alertness.
+1567.33 It tends to bring an animal or a human
+1569.73 into a state of more alertness, readiness
+1573.06 and desire to pursue
+things outside the confines
+1576.34 of its skin.
+1577.43 So if I were to just put
+a really simple message
+1581.08 around dopamine it would be,
+1582.85 there's a molecule in your brain and body
+1584.93 that when released tends to
+make you look outside yourself,
+1590.16 pursue things outside yourself,
+1592.54 and to crave things outside yourself.
+1596.65 The pleasure that arrives
+from achieving things
+1599.1 also involves dopamine,
+1600.5 but is mainly the consequences
+of other molecules.
+1603.86 But if ever you felt
+lethargic and like just lazy
+1606.66 and you had no motivation or drive,
+1608.31 that's a low dopamine state.
+1610.53 If ever you felt really
+excited, motivated,
+1612.98 even if you're a little
+scared to do something.
+1615.71 Maybe you did your first skydive,
+1617.09 or you're about to do your first skydive,
+1619.04 or you're about to do some public speaking
+1620.013 and you really don't want to screw it up,
+1622.86 you are in a high dopamine state.
+1625.65 Dopamine is a universal
+currency in all mammals,
+1628.93 but especially in humans
+for moving us toward goals
+1633.7 and how much dopamine is in
+our system at any one time
+1637.67 compared to how much
+dopamine was in our system
+1640.57 a few minutes ago,
+1642.3 and how much we remember
+enjoying a particular experience
+1645.9 of the past.
+1647.79 That dictates your
+so-called quality of life
+1650.78 and your desire to pursue things.
+1653.29 This is really important.
+1654.123 Dopamine is a currency,
+1656.31 and it's the way that you track pleasure.
+1658.66 It's the way that you track success.
+1660.39 It's the way that you track
+1662.03 whether or not you are
+doing well or doing poorly.
+1664.95 And that is subjective,
+1667.04 but if your dopamine is too low,
+1670.37 you will not feel motivated.
+1672.04 If your dopamine is really high,
+1674.21 you will feel motivated.
+1675.41 And if your dopamine is
+somewhere in the middle,
+1677.81 how you feel depends on whether or not
+1679.72 you had higher dopamine a few
+minutes ago or lower dopamine.
+1684.29 This is important,
+1685.8 your experience of life and
+your level of motivation
+1688.83 and drive depends on how much
+dopamine you have relative
+1694.57 to your recent experience.
+1697.13 This is again, something
+that's just not accounted
+1700.33 for in the simple
+language of dopamine hits.
+1703.41 Okay?
+1704.243 A simple way to envision dopamine hits
+1706.91 is every time you do something you like,
+1708.38 you to piece of chocolate,
+1709.25 dopamine hit.
+1710.083 You look at your Instagram,
+1710.99 dopamine hit.
+1711.823 You see someone you like,
+1712.656 dopamine hit.
+1714.34 All these things
+described as dopamine hits
+1717.57 neglect the fact that if
+you scroll social media
+1720.68 and you see something you really like,
+1722.93 dopamine hit.
+1723.77 Sure there's an increase in dopamine,
+1725.84 but then you get to
+something else and you go,
+1728.43 hmm, not that interesting.
+1729.72 However, had you arrived
+at that second thing first,
+1733.56 you might think that it
+was really interesting.
+1736.82 If you had arrived to
+that second Instagram post
+1739.58 three days later or four days later,
+1741.6 you might find it extremely interesting.
+1743.99 Again, how much dopamine you
+experience from something
+1747.29 depends on your baseline level of dopamine
+1749.35 when you arrive there,
+1750.84 and your previous dopamine peaks.
+1754.18 Okay?
+1755.013 That's super important to understand,
+1756.65 and it's completely neglected
+by the general language
+1759.23 of dopamine hits.
+1760.23 This is why when you
+repeatedly engage in something
+1763.73 that you enjoy,
+1765.34 your threshold for enjoyment
+goes up and up and up.
+1769.09 So I want to talk about that process.
+1770.99 And I want to explain
+how that process works,
+1772.563 because if you understand that process,
+1774.88 and you understand some of
+these schedules and kinetics
+1777.79 as we call them around dopamine,
+1778.623 you will be in a terrific position
+1780.86 to use any dopamine enhancing
+tools that you decide to use.
+1784.58 You'll be in an excellent
+position to modulate
+1786.98 and control your own dopamine release
+1788.8 for optimal motivation and drive.
+1791.0 I realized that was a lot of information
+1793.39 about the biology of dopamine,
+1795.03 sort of like trying to make you drink
+1796.51 from the fire hose of dopamine biology.
+1799.32 However, I realized that some people
+1800.6 probably want even more information
+1802.66 about the biology of
+dopamine transmission.
+1805.75 If you're interested in that,
+1807.29 I'll post a link to a
+absolutely stellar review
+1809.89 that was published in
+Nature Reviews Neuroscience
+1812.4 called spatial and temporal
+scales of dopamine transmission.
+1815.51 It is quite detailed,
+1816.65 but they have beautiful diagrams
+1818.27 and can walk you through all the things
+1820.31 that I just described and
+get into even more detail.
+1822.73 We'll put a link to that
+in the caption on YouTube.
+1826.28 Right now, I want to share
+with you two anecdotes,
+1829.4 one from my own life,
+1830.67 and one from some fairly recent history
+1834.26 that illustrate some of the
+core biology of dopamine
+1838.17 and how profoundly it
+can shape our experience.
+1841.6 The first one is a really
+tragic situation that occurred.
+1847.2 This was in the 80s,
+1849.34 there was a outbreak of what
+looked like Parkinsonian
+1854.24 symptoms in a young population.
+1856.33 So many of you heard
+of Parkinson's disease.
+1858.24 Parkinson's disease is a disease
+in which people initially
+1862.01 start to quake, can't
+generate smooth movements,
+1865.12 they'll have issues with speech,
+1866.35 sometimes cognition as well.
+1868.59 There are examples like Michael J. Fox,
+1870.98 which are kind of early onset.
+1872.97 Parkinson's typically it hits people
+1875.3 a little bit later in life.
+1876.71 There's a genetic component.
+1879.66 But there is this question,
+1882.1 and there's always been this question
+1883.2 whether or not certain lifestyle factors
+1885.28 can also create Parkinson's?
+1887.62 And some years ago there was a situation
+1891.786 where street laboratories,
+1895.32 illicit laboratories were
+trying to make a drug
+1898.39 called MPPP, which is an
+opioid light compound.
+1901.8 It's a bit like heroin,
+1904.17 and heroin addicts seeking
+heroin went out and bought
+1908.104 what they thought was MPPP.
+1911.68 Unfortunately, it was not MPPP.
+1916.16 I mean, it would have been
+tragic if it was anyway
+1918.04 because they were drug addicts,
+1919.23 but what they ended up taking
+turned out to be a lot worse.
+1922.32 What they ended up taking was MPTP,
+1925.75 and MPTP can arise in
+the synthesis of MPPP.
+1930.79 So someone in a lab someplace,
+1932.73 this was mainly in the
+Central Valley in California,
+1934.7 but elsewhere as well.
+1936.88 Somebody created MPTP,
+1940.19 and what ended up happening
+was a large number
+1943.86 of young people who were opioid addicts
+1946.83 became completely boxed in paralyzed.
+1950.27 Couldn't speak, couldn't blink,
+1952.78 couldn't do anything.
+1954.27 Couldn't function, couldn't move.
+1955.83 So both aspects of dopamine
+transmission were disrupted.
+1960.97 They had no motivation and drive.
+1963.33 They couldn't generate
+any movement of any kind.
+1965.76 They were literally locked in frozen.
+1968.76 And sadly, this is irreversible.
+1971.57 It's irreversible,
+1972.77 because what MPTP does is it
+kills the dopaminergic neurons
+1978.21 of the substantia nigra
+that nigrostriatal pathway
+1980.94 that's involved in generating movement.
+1982.83 And it kills the dopaminergic neurons
+1985.23 of the so-called
+mesocorticolimbic pathway.
+1988.01 I was in college when this
+whole MPTP thing happened.
+1991.02 And I remember hearing this story.
+1993.14 At the time, I had no understanding
+1995.41 of what it is to have very
+high levels of dopamine
+1998.44 or extremely depleted levels of dopamine.
+2000.71 There was no reason why I
+should have that understanding.
+2002.59 I mean, of course I had
+experienced different pleasures
+2004.74 of different kinds and
+I've had lows in my life,
+2007.69 but nothing to the extreme
+that I'm about to discuss.
+2013.81 I got Giardia.
+2015.6 And Giardia is a stomach bug
+that if any of you ever had it,
+2019.79 it is terrible.
+2020.79 It's terrible diarrhea.
+2022.01 You end up very dehydrated very quickly.
+2023.97 You drop a ton of weight and
+it is extremely unpleasant.
+2028.99 I ended up going to the emergency room,
+2031.7 and in the emergency room,
+2033.83 I begged them for something
+to stop up my guts.
+2036.13 And they gave it to me.
+2037.38 They put a saline line into rehydrate me
+2039.53 and they injected something
+into the saline bag.
+2042.7 And within minutes I felt more sadness,
+2048.74 more overwhelming sense of depression,
+2053.36 basically, lower than I'd
+ever felt in my entire life.
+2056.63 It was absolutely profound.
+2059.2 I was crying endlessly without
+knowing why I was crying.
+2063.72 I was miserable.
+2064.8 And I asked them, what did you inject?
+2066.78 And they said, "We injected Thorazine."
+2069.06 Thorazine is an antipsychotic drug.
+2071.57 It's actually used to
+block dopamine receptors.
+2074.16 It's what's given to people
+who have schizophrenia.
+2077.42 Often is given to people
+who have schizophrenia,
+2079.48 because schizophrenia
+involves among other things
+2082.89 elevated levels of dopamine.
+2085.51 It was horrible.
+2087.9 The experience of it was miserable,
+2090.66 unlike anything I'd ever experienced.
+2093.19 And so I actually said to them,
+2095.827 "What did you give me?"
+2096.66 They said, "Thorazine."
+2097.84 And I said, "You have to give me l-DOPA.
+2100.657 "You have to give me something
+to get my dopamine levels
+2103.357 "back up again."
+2104.19 And they did.
+2105.023 They gave me an injection
+of l-DOPA into the bag,
+2107.36 went straight to my bloodstream.
+2108.55 And within minutes I felt fine again.
+2112.26 It was incredible.
+2113.093 And it really opened up
+my mind and my experience
+2116.3 to what it is to have
+absolutely plummeted levels
+2119.89 of dopamine.
+2120.723 And there's nothing more
+miserable than that I'll tell you.
+2123.16 And these poor souls who
+had this MPTP experience,
+2127.87 unfortunately, they couldn't
+recover those cells.
+2129.85 People who have severe Parkinson's
+2132.03 are struggling with this as well,
+2133.4 because in Parkinson's
+and in Lewy body dementia,
+2135.54 the dopaminergic neurons often die.
+2137.83 It's not just a problem with those neurons
+2139.44 releasing enough dopamine.
+2140.98 Later, we're going to
+talk about some approaches
+2143.25 to maintaining dopaminergic neuron health
+2146.08 and things that we can all do for that.
+2147.83 But I will tell you these dopamine neurons
+2150.01 that we all have are very
+precious for movement
+2152.56 and mood and motivation.
+2154.28 Having experienced what it is
+to have very, very low levels
+2158.2 of dopamine or in this case
+to have my dopamine receptors
+2160.79 blocked from Thorazine was
+eye-opening to say the least,
+2166.82 and has given me tremendous
+sensitivity to the fact
+2169.67 that dopamine is perhaps one
+of the most powerful molecules
+2173.94 that any of us has inside of us.
+2176.48 And the one that we ought to
+all think very carefully about
+2179.32 how we leverage,
+2180.153 because while most
+experiences and most things
+2184.41 that we do, and take and eat and cetera,
+2187.29 won't create enormous highs
+and enormous lows in dopamine.
+2191.75 Even subtle fluctuations
+in dopamine really shape
+2194.41 our perception of life
+and what we're capable of,
+2196.88 and how we feel.
+2198.12 And so we want to guard those
+and we want to understand them.
+2200.62 So let's lean into that
+understanding about dopamine.
+2202.7 And then let's talk about some tools
+2204.05 that we can all use to leverage dopamine
+2206.51 in order to keep that
+baseline in the appropriate,
+2209.61 healthy place,
+2210.56 and still be able to access
+those peaks in dopamine.
+2213.84 Because those, after all are
+some of what makes life rich
+2217.21 and worth living.
+2218.42 So let's talk about the
+baseline of dopamine
+2220.66 that we all have and the peaks in dopamine
+2223.67 that we all can achieve
+through different activities
+2227.08 and things that we ingest.
+2230.77 All of us have different
+baseline levels of dopamine.
+2233.78 Some of this is sure to be genetic.
+2237.04 Some people just simply ride
+at a level a little bit higher.
+2241.27 They're a little bit more excited,
+2242.54 they're a little bit more motivated,
+2244.66 or maybe they're a lot more
+excited or a lot more motivated.
+2248.9 Some people are a little mellower,
+2250.4 some people are a little less excitable.
+2252.5 And some of that has to do with the fact
+2254.53 that dopamine doesn't act alone.
+2256.89 Dopamine has close cousins or
+friends in the nervous system.
+2261.33 And I'll just name off a
+few of those close cousins
+2263.34 and friends.
+2265.86 Epinephrin also called adrenaline
+2268.66 is the main chemical driver of energy.
+2272.04 We can't do anything, anything at all,
+2275.13 unless we have some level of epinephrin
+2277.02 in our brain and body.
+2278.65 It's released from the adrenal glands
+2280.07 which right on top our kidneys.
+2281.22 It's released from an
+area of the brainstem
+2283.47 called locus coeruleus.
+2285.46 And its release tends to
+wake up neural circuits
+2288.293 in the brain and wake up various aspects
+2291.91 of our body's physiology
+and give us a readiness.
+2295.81 So it should come as no surprise
+2296.97 that dopamine and
+epinephrin aka adrenaline
+2300.88 hang out together.
+2302.33 In fact, epinephrin and adrenaline
+are actually manufactured
+2306.29 from dopamine.
+2308.36 There's a biochemical
+pathway involving dopamine
+2310.57 which is a beautiful pathway.
+2312.23 If ever you want to look it up,
+2313.74 you can just look up
+biochemistry of dopamine.
+2316.16 But what you'll find is that,
+2318.27 l-DOPA is converted into dopamine.
+2323.22 Dopamine is converted
+to two noradrenaline.
+2327.397 Norepinephrin, it's also called.
+2329.53 And noredrenaline,
+norepinephrin is converted
+2332.87 into adrenaline.
+2334.5 So not only are dopamine and
+epinephrin aka adrenaline
+2338.85 close cousins,
+2340.06 they are actually family members.
+2342.29 Okay?
+2343.123 They're closely related.
+2344.11 I'm not going to get too
+deep into epinephrin today.
+2346.3 I'm not going to talk too
+much about those pathways,
+2348.42 but anytime I'm talking about
+dopaminergic transmission
+2351.06 or that you have a peak in dopamine,
+2353.08 inevitably, that means
+that you have a peak
+2355.14 and release of epinephrin as well.
+2357.7 What dopamine does is
+dopamine really colors
+2361.6 the subjective experience of an activity
+2364.38 to make it more pleasureful,
+2366.37 to make it something
+that you want more of.
+2368.73 Epinephrin is more about energy.
+2370.85 Epinephrin alone can be
+fear, paralysis, trauma.
+2375.81 Not physical paralysis,
+but mental paralysis,
+2378.28 you know, frozen in fear or
+being traumatized or scared.
+2383.06 But the addition of dopamine
+to that chemical cocktail,
+2386.03 if dopamine is released in the brain,
+2388.41 well, then that epinephrin
+becomes one of excitement.
+2393.1 Okay?
+2393.933 I'm using a broad brush here,
+2394.9 but essentially what you
+need to know is that,
+2396.93 dopamine and epinephrin aka
+adrenaline are family members.
+2400.86 And they tend to work
+together like a little gang
+2403.2 to make you seek out certain things.
+2406.07 So what sorts of activities?
+2408.15 What sorts of things increase dopamine?
+2411.24 And how much do they increase dopamine?
+2414.02 Well, let's take a look
+at some typical things
+2417.74 that people do out there
+or ingest out there
+2421.37 that are known to increase dopamine.
+2423.89 So let's recall that you have
+a baseline level of dopamine
+2426.61 and that everybody does.
+2428.22 And even within a family,
+2429.4 you might have family members
+who are very excitable,
+2431.95 happy and motivated,
+2433.18 and others who are less
+excitable, happy and motivated.
+2436.14 But your level of dopamine has everything
+2440.39 to do with those genetics,
+2441.84 but also with what you've
+experienced in the previous days
+2444.68 and the previous months and so on.
+2448.22 When you do or ingest certain things,
+2450.47 your levels of dopamine
+will rise above baseline
+2453.53 transiently.
+2455.73 And depending on what you do or ingest,
+2458.04 it will rise either more or less,
+2460.82 and it will be very brief
+or a last a long time.
+2463.73 So let's take a look at
+some of the typical things
+2465.57 that people take and do and eat.
+2468.87 Some are good for us,
+2469.73 some are not good for us.
+2472.36 And let's ask how much dopamine
+is increased above baseline?
+2475.76 Now, of course, these are averages,
+2476.97 but these are averages
+that have been measured
+2479.15 in so-called micro dialysis
+studies in animals.
+2481.9 So actually extracting
+from particular brain areas
+2484.05 how much dopamine is released?
+2485.46 Or from measuring the serum,
+2487.38 the circulating levels
+of dopamine in humans.
+2492.1 Chocolate.
+2494.01 They didn't look at milk
+versus dark chocolate.
+2495.86 But chocolate will increase
+your baseline level of dopamine
+2499.233 1.5 times.
+2501.73 Okay?
+2502.563 So it's a pretty substantial
+increase in dopamine.
+2504.45 It's transient.
+2505.73 It goes away after a few
+minutes or even a few seconds.
+2510.35 I'll explain what determines
+the duration in a minute.
+2513.32 But 1.5 times for chocolate.
+2516.65 Sex.
+2517.99 Both the pursuit of sex and the act of sex
+2522.35 increases dopamine two times.
+2526.35 So it's a doubling above baseline.
+2529.02 Now, of course, there's
+going to be variation there,
+2531.33 but that's the average
+increase in baseline dopamine
+2536.26 caused by sex.
+2538.61 Later, I will talk about
+how the different aspects
+2542.33 of the so-called arousal art,
+2543.98 the different aspects of sex,
+2545.31 believe it or not have a
+differential impact on dopamine.
+2548.94 But for now as a general
+theme or activity,
+2553.1 sex doubles the amount
+of dopamine circulating
+2556.52 in your blood.
+2559.11 Nicotine.
+2560.52 In particular, nicotine that is smoked
+2563.39 like cigarettes and so forth,
+2565.98 increases dopamine two and
+a half times above baseline.
+2569.95 So there's a peak that
+goes up above baseline
+2573.29 two and a half times higher.
+2577.23 It is very short-lived.
+2579.2 Anyone who's ever been a chain smoker
+2581.52 or observed a chain smoker understands
+2583.49 that the increase in
+dopamine from nicotine
+2586.63 is very short-lived.
+2589.89 Cocaine will increase
+the level of dopamine
+2592.32 in the bloodstream two and
+a half times above baseline.
+2596.67 And amphetamine another
+drug that increases dopamine
+2601.36 will increase the amount of
+dopamine in the bloodstream
+2605.03 10 times above baseline.
+2607.46 A tremendous increase in dopamine.
+2610.25 Exercise.
+2611.81 Now, exercise will have a different impact
+2614.49 on the levels of dopamine,
+2615.7 depending on how much
+somebody subjectively enjoys
+2618.89 that exercise.
+2620.62 So if you're somebody who loves running,
+2623.35 chances are it's going to
+increase your levels of dopamine
+2627.77 two times above your baseline,
+2629.99 not unlike sex.
+2633.18 People who dislike exercise will achieve
+2635.88 less dopamine increase or
+no increase in dopamine
+2639.8 from exercise.
+2641.04 And if you like other
+forms of exercise like yoga
+2643.16 or weightlifting or
+swimming or what have you.
+2645.96 Again, it's going to vary by
+your subjective experience
+2648.35 of whether or not you enjoy that activity.
+2651.41 This is important.
+2652.75 And it brings us back to something
+2654.15 that we talked about earlier.
+2655.32 Remember that mesocorticolimbic pathway?
+2659.34 Well, the cortical part is important.
+2661.61 The cortical part actually
+has a very specific part,
+2665.26 which is your prefrontal cortex.
+2667.01 The area of your forebrain
+that's involved in thinking
+2670.11 and planning and involved in assigning
+2674.07 a rational explanation to something,
+2676.61 and involved in assigning
+a subjective experience
+2679.83 to something, right?
+2681.15 So for instance, the pen
+that I'm holding right now,
+2683.29 it's one of these Pilot V5s.
+2684.62 I love these Pilot V5s.
+2685.73 They don't sponsor the podcast.
+2686.66 I just happen to like them.
+2687.53 I liked the way that they write,
+2688.87 how they feel.
+2690.96 If I spent enough time thinking about it,
+2692.51 or talking about it,
+2693.343 I could probably get a dopamine increase
+2694.73 just talking about this Pilot V5.
+2696.27 And that's not because
+I have the propensity
+2698.88 to release dopamine easily,
+2700.3 it's that as we start
+to engage with something
+2702.83 more and more and what we say about it,
+2705.07 and what we encourage
+ourselves to think about it,
+2708.03 has a profound impact on its rewarding
+2711.12 or non rewarding properties.
+2713.33 Now, it's not simply the case
+that you can lie to yourself,
+2715.81 and you can tell yourself I love something
+2717.3 and when you don't really love it,
+2718.63 and it will increase dopamine.
+2720.92 But what's been found over and over again,
+2722.79 is that if people journal about something
+2724.61 or they practice some form of
+appreciation for something,
+2727.81 or they think of some aspect
+of something that they enjoy,
+2731.58 the amount of dopamine that
+that behavior will evoke
+2735.61 tends to go up.
+2737.19 So for people that hate exercise,
+2738.71 you can think about
+some aspect of exercise
+2741.61 that you really enjoy.
+2742.69 However, I will caution you
+against saying to yourself,
+2748.01 I hate exercise or I hate
+studying or I hate this person,
+2752.73 but I love the reward I
+give myself afterward.
+2755.96 Later, we're going to talk about
+how rewards given afterward
+2759.32 actually make the situation worse.
+2761.69 They won't make you like
+exercise more or study more,
+2764.64 they actually will undermine
+the dopamine release
+2767.12 that would otherwise
+occur for that activity.
+2769.49 So certain things chemicals
+have a universal effect.
+2773.61 They make everybody's dopamine go up.
+2776.09 So some people like chocolate,
+2777.57 some people don't of course,
+2779.42 but in general, it make has causes
+2781.41 this increase in dopamine.
+2782.91 But sex, nicotine, cocaine, amphetamine,
+2785.406 those things cause increases in dopamine
+2788.07 and everybody that takes them.
+2790.98 Things like exercise, studying, hard work,
+2793.43 working through a
+challenge in a relationship
+2795.35 or working through
+something hard of any kind
+2798.16 that is going to be subjective
+2800.32 as to how much dopamine will be released.
+2802.78 And we will return to
+that subjective component
+2805.37 in a little bit.
+2806.84 But now you have a sense
+of how much dopamine
+2810.94 can be evoked by different activities
+2813.11 and by different substances.
+2815.02 One that you might be
+wondering about is caffeine.
+2817.46 I'm certainly drinking my caffeine today,
+2819.36 and I do enjoy caffeine
+in limited quantities.
+2823.54 I drink yerba mate and I
+drink coffee and I love it.
+2828.46 Does it increase dopamine?
+2830.14 Well, a little bit.
+2831.86 Caffeine will increase
+dopamine to some extent,
+2834.42 but it is pretty modest
+compared to the other things
+2837.63 that I described.
+2838.84 Chocolate, sex, nicotine,
+cocaine, amphetamine and so on.
+2842.58 However, there's a
+really interesting paper
+2845.43 published in 2015.
+2846.91 This is Volkow et al.
+2847.87 You can look up it's very easy to find.
+2850.61 That showed that regular
+ingestion of caffeine,
+2853.64 whether or not it's from
+coffee or otherwise,
+2856.15 increases up regulation of
+certain dopamine receptors.
+2860.98 So caffeine actually makes
+you able to experience
+2866.19 more of dopamines effects.
+2867.96 Because as I mentioned before,
+2869.1 dopamine is vomited out into the synapse
+2871.31 or it's released volumetrically,
+2872.6 but then it has to bind someplace
+2874.0 and trigger those G
+protein-coupled receptors.
+2876.88 And caffeine increases the number,
+2879.75 the density of those G
+protein-coupled receptors.
+2883.44 Now, sitting back and thinking about that,
+2886.06 you might think, oh yeah, you know,
+2887.44 sometimes I'll notice people,
+2889.35 at least in the old days
+that used to be a cigarette
+2891.94 and a cup of coffee.
+2893.15 Or when people drink alcohol,
+2894.7 oftentimes they'll smoke.
+2896.31 And it's well-known
+that different compounds
+2899.02 like alcohol and nicotine
+or caffeine and nicotine
+2903.07 or certain behaviors and
+certain drugs can synergize
+2906.7 to give bigger dopamine increases.
+2908.8 And this is not terribly uncommon.
+2910.63 There are a lot of people nowadays
+2912.19 who for instance take
+pre-workout energy drinks.
+2914.79 They'll drink,
+2915.76 I won't name names,
+2916.593 but they'll drink a canned energy drink
+2918.69 or they'll drink a pre-workout
+2920.53 and they'll try and get
+that big stimulation
+2922.94 that stimulant effect for the dopamine,
+2924.71 the norepinephrin, that
+family of molecules
+2927.06 that works together to make you motivated.
+2928.81 And then they'll also exercise
+to try and get even more
+2931.76 of a dopaminergic experience
+out of that workout.
+2934.98 Sometimes it's also to perform
+better as well, of course,
+2939.13 but as we'll talk about in a few minutes,
+2941.88 that aspect or that approach rather
+2944.18 of trying to just get your dopamine
+2945.6 as high as you possibly can,
+2947.08 in order to get the
+most out of experience,
+2949.58 turns out to not be the best approach.
+2951.87 And what you'll find as we
+talk about dopamine schedules
+2956.03 is that layering together multiple things,
+2959.69 substances and activities
+2961.75 that lead to big increases in dopamine,
+2964.07 actually can create pretty severe issues
+2967.02 with motivation and energy
+right after those experiences
+2970.5 and even a couple of days later.
+2972.21 So I'm not saying that
+people shouldn't take
+2974.0 the occasional pre-workout
+if that's your thing,
+2975.83 or drink a cup of coffee
+or two before working out
+2978.63 now and again.
+2979.463 Some people really enjoy that.
+2980.72 I certainly do that every once in a while,
+2982.77 but if you do it too often,
+2984.29 what you'll find is that your
+capacity to release dopamine
+2988.4 and your level of motivation
+and drive and energy overall
+2991.52 will take a serious hit.
+2993.41 Now, I've been alluding
+to this dopamine peaks
+2995.8 versus dopamine baseline things
+2997.58 since the beginning of the episode.
+2998.89 I talked about tonic and
+phasic release and so forth.
+3002.0 But now let's really drill
+into what this means,
+3004.34 and how to leverage it
+for our own purposes.
+3008.01 In order to do that, let's
+take a step back and ask,
+3010.24 why would we have a
+dopamine system like this?
+3012.827 Why would we have a
+dopamine system at all?
+3015.15 Well, we have to remember
+what our species primary
+3019.66 interest is?
+3020.94 Our species like all
+species has a main interest,
+3025.03 and that's to make more of itself.
+3026.78 And it's just about sex and reproduction.
+3028.62 It's about forging for resources.
+3031.35 Resources can be food,
+3032.6 it can be water can be salt,
+3034.21 it can be shelter,
+3036.14 it can be social connection.
+3039.09 Dopamine is the universal
+currency of forging and seeking,
+3044.26 right?
+3045.216 We call sometimes talk about
+motivation and craving,
+3046.82 but what we mean in the
+evolutionary adaptive context,
+3049.63 what we mean is forging and seeking.
+3051.2 Seeking water, seeking
+food, seeking mates.
+3054.82 Seeking things that make us feel good
+3056.35 and avoiding things that
+don't make us feel good.
+3058.31 But in particular seeking things
+3059.76 that will provide sustenance
+and pleasure in the short-term
+3063.8 and will extend the
+species in the long-term.
+3067.39 Once we understand that
+dopamine is a driver for us
+3070.46 to seek things,
+3072.28 it makes perfect sense as to why
+3074.29 it would have a baseline
+level and it would have peaks.
+3077.44 And that the baseline and
+peaks would be related
+3079.92 in some sort of direct way.
+3081.96 Here's what I mean by that.
+3083.85 Let's say that you were not alive now,
+3086.13 but you were alive 10,000 years ago.
+3088.95 And you woke up and you
+looked and you realized
+3091.68 you had minimal water and
+you had minimal food left.
+3096.17 Maybe you have a child,
+3097.18 maybe you have a partner,
+3098.59 maybe you're in an entire village,
+3099.98 but you realize that you need things.
+3102.66 Okay?
+3105.1 You need to be able to generate the energy
+3107.29 to go seek those things.
+3109.07 And chances are there were
+dangers in seeking those things.
+3112.14 Yes, it could be saber-tooth tigers
+3113.91 and things of that sort,
+3115.19 but there are other dangers too.
+3116.88 There's the danger of a cut to your skin
+3118.49 that could lead to infection.
+3119.53 There's the danger of storms,
+3120.81 there's the danger of cold,
+3121.94 there's the danger of leaving
+your loved ones behind.
+3124.72 So you go out and forage, right?
+3127.51 You could be hunting,
+you could be gathering,
+3128.97 or you could be doing both.
+3130.95 The going out and foraging process
+3133.517 was we are certain driven by dopamine.
+3137.05 I mean, there's no fossil
+record of the brain,
+3138.77 but the circuits have existed.
+3140.04 We know for tens of thousands,
+3141.79 if not hundreds of thousands of years.
+3143.86 And they are present in every
+animal, not just mammals,
+3147.04 but even in little worms like C. elegans,
+3148.88 it's the same process.
+3149.97 It's mediated by dopamine.
+3152.31 So dopamine drives you to
+go out and look for things.
+3155.13 And then let's say you
+find a couple berries,
+3157.54 and these ones are rotten,
+3158.42 these ones are good.
+3159.54 Maybe you hunt an animal and kill it,
+3161.7 or you find an animal
+that was recently killed
+3163.71 and you decide to take the meat.
+3166.32 You are going to achieve,
+3168.01 or I should say, experience
+some sort of dopamine release.
+3171.6 You found the reward.
+3172.86 That's great.
+3174.02 But then it needs to
+return to some lower level.
+3177.52 Why?
+3178.353 Well, because if you just stayed there,
+3180.43 you would never continue
+to forage for more.
+3183.6 It doesn't just increase your
+baseline and then stay there.
+3186.77 It goes back down.
+3188.27 And what's very important to understand
+3189.9 is that it doesn't just go back down
+3191.5 to the level it was before,
+3193.56 it goes down to a level below
+3196.13 what it was before you went
+out seeking that thing.
+3199.06 Now, this is counter-intuitive.
+3200.99 We often think,
+3201.823 Oh, okay, I'm going to
+pursue the win, right?
+3204.37 Let's move this to modern day.
+3207.33 I'm going to run this marathon,
+3208.54 I'm going to train for this marathon.
+3209.73 Then you run the marathon and you finish,
+3212.24 you cross the finish line,
+3213.3 you feel great.
+3214.48 And you would think, okay, now
+I'm set for the entire year,
+3217.23 I'm going to feel so much better,
+3218.24 I'm going to feel this
+accomplishment in my body,
+3220.17 it's going to be so great.
+3221.5 That's not what happens.
+3222.93 You might feel some of those things,
+3224.36 but your level of dopamine
+has actually dropped
+3226.83 below baseline.
+3228.48 Now, eventually it will ratchet back up.
+3231.36 But two things are really important.
+3232.74 First of all, the extent to
+which it drops below baseline
+3235.84 is proportional to how high the peak was.
+3239.05 So if you cross the
+finish line pretty happy,
+3242.75 it won't drop that much
+below baseline afterward.
+3246.03 If you cross the finish line ecstatic,
+3248.98 well, a day or two later,
+3250.16 you're going to feel quite a bit lower
+3252.4 than you would otherwise.
+3253.41 You might not be depressed,
+3254.51 because it depends on where
+that baseline was to begin with.
+3257.22 But the so-called postpartum depression
+3259.1 that people experience after giving birth
+3262.73 or after some big win a graduation
+3265.67 or any kind of celebration
+that postpartum drop
+3269.81 in mood and affect and
+motivation is the drop
+3273.21 in baseline dopamine.
+3275.09 This is very important to understand,
+3276.44 because this happens on
+very rapid timescales
+3278.78 and it can last quite a long time.
+3281.53 It also explains the
+behavior that most of us
+3285.36 are familiar with,
+3286.193 of engaging in something
+that we really enjoy.
+3288.27 Going to a restaurant
+that we absolutely love,
+3291.1 or engaging in some way with some person
+3293.18 that we really, really enjoy.
+3295.26 But if we continue to
+engage in that behavior
+3297.34 over and over again,
+3299.37 it kind of loses its edge.
+3301.23 It starts to kind of
+feel less exciting to us.
+3306.28 Some of us experienced that
+drop in excitement more quickly
+3310.94 and more severely than others,
+3312.9 but everyone experiences
+that to some extent.
+3316.39 And this has direct roots
+in these evolutionarily
+3320.32 conserved circuits.
+3322.22 Some of you may be hearing this and think,
+3323.417 no, no, no, no that's
+not how it works for me.
+3325.53 I'm just riding higher
+and higher all the time.
+3327.58 I love my kids,
+3328.55 I love my job,
+3329.46 I love school,
+3330.293 I love wins,
+3331.14 I don't want losses.
+3333.06 I agree.
+3335.35 We all feel good when
+we are achieving things,
+3337.51 but oftentimes we are feeling good
+3340.15 because we are layering in
+different aspects of life,
+3343.9 consuming things and doing things
+3344.983 that increase our dopamine.
+3346.5 We're getting those peaks,
+3348.3 but afterward the drop in baseline occurs,
+3352.74 and it always takes a
+little while to get back
+3355.86 to our stable baseline.
+3358.19 We really all have a sort
+of dopamine set point.
+3361.54 And if we continue to
+indulge in the same behaviors
+3364.82 or even different behaviors
+that increase our dopamine
+3367.46 in these big peaks over
+and over and over again,
+3370.04 we won't experience the same level of joy
+3372.6 from those behaviors or
+from anything at all.
+3376.38 Now, that has a name.
+3377.3 It's called addiction.
+3378.62 But even for people who aren't addicted,
+3382.02 even for people don't an attachment
+3384.02 to any specific substance or behavior,
+3386.4 this drop in bay below baseline
+after any peak in dopamine
+3390.21 is substantial.
+3391.8 And it governs whether or not
+we are going to feel motivated
+3394.36 to continue to pursue other things.
+3397.01 Fortunately, there's a
+way to work with this,
+3399.93 such that we can
+constantly stay motivated,
+3402.15 but also keep that baseline of dopamine
+3404.25 at an appropriate, healthy level.
+3406.43 A previous guest on the
+Huberman Lab Podcast
+3408.74 was Dr. Anna Lembke.
+3409.92 She's head of the Addiction
+Dual Diagnosis Clinic
+3412.7 at Stanford.
+3413.65 Has this amazing book,
+3414.597 "Dopamine Nation: Finding Balance
+in the Age of Indulgence".
+3418.05 If you haven't read the book,
+3419.1 I highly encourage you to check it out.
+3421.22 It's fantastic.
+3422.053 The other terrific book about dopamine
+3424.01 is the "Molecule of More",
+3425.55 which is a similar in some regard,
+3428.04 but isn't so much about addiction,
+3429.48 it's more about other types of behaviors.
+3431.88 Both books really focus on
+these dopamine schedules
+3435.55 and the relationship between these peaks
+3436.937 and baselines of dopamine.
+3440.41 In Dr. Lembke's book,
+3441.52 and when she was on the
+Huberman Lab Podcast
+3443.37 and other podcasts,
+3444.203 she's talked about this
+pleasure pain balance
+3446.07 that when we seek something
+that we really like,
+3448.82 or we indulge in it,
+3449.653 like eating a little piece of chocolate,
+3451.21 if we really liked chocolate,
+3452.16 there's some pleasure.
+3453.57 But then there's a little bit of pain
+3457.12 that exceeds the amount of pleasure,
+3458.74 and it's subtle,
+3460.27 and we experience it as
+wanting more of that thing.
+3463.74 Okay?
+3464.759 So there's a pleasure pain balance,
+3465.81 and I'm telling you that
+the pleasure and the pain
+3468.67 are governed by dopamine to some extent.
+3470.7 Well, how could that be?
+3471.88 Right?
+3472.713 I said before, when you
+engage in an activity
+3474.93 or when you ingest something
+that increases dopamine,
+3476.957 the dopamine levels go up,
+3478.88 you know, to substantial degree
+3480.35 with all the things I listed off.
+3484.17 Where's the pain coming from?
+3486.1 Well, the pain is coming
+from the lack of dopamine
+3489.12 that follows.
+3490.97 And you now know what that
+lack of dopamine reflects.
+3496.01 How do you know?
+3497.11 Well, earlier we were
+talking about how dopamine
+3499.71 is released between neurons.
+3502.05 And I mentioned two ways.
+3503.14 One, is into the synapse
+where it can activate
+3505.67 the postsynaptic neuron.
+3506.76 And the other was what I
+called volumetric release
+3508.81 where it is distributed more broadly.
+3511.04 It's released out over a bunch of neurons.
+3515.27 In both cases it's
+released from these things
+3517.99 we call synaptic vesicles,
+3519.21 literally little bubbles,
+tiny, tiny little bubbles
+3522.21 that contain dopamine.
+3523.3 Prrr! They get vomited out into the area
+3525.82 or into the synapse.
+3527.6 Well, those vesicles get depleted.
+3532.12 For the synaptic physiologists out there,
+3534.44 we call this the readily
+releasable pool of dopamine.
+3538.93 We can only deploy dopamine
+that is ready to be deployed.
+3543.13 That's packaged in those little
+vesicles and ready to go.
+3545.47 It's like when you order a
+product and they say out of stock
+3548.55 until two months from now.
+3550.57 Well, it's not ready to be released.
+3552.35 Same thing with dopamine.
+3553.25 There's a pool of
+dopamine that synthesized,
+3556.48 and you can only release the dopamine
+3560.05 that's been synthesized.
+3560.97 It's the readily releasable pool.
+3563.75 The pleasure pain balance
+doesn't only hinge
+3567.03 on the readily releasable
+pool of dopamine,
+3569.43 but a big part of the
+pleasure pain balance
+3573.2 hinges on how much dopamine is there?
+3576.68 And how much is ready and
+capable of being released
+3579.42 into the system?
+3581.22 So now we've given some meat to this thing
+3585.01 that we call the pleasure pain balance,
+3587.27 and now it should make perfect sense
+3589.72 why if you take something or do something
+3592.66 that leads to huge increases in dopamine,
+3595.81 afterward your baseline should drop
+3598.26 because there isn't a
+lot of dopamine around
+3601.01 to keep your baseline going.
+3604.32 Fortunately, most people do not experience
+3607.29 or pursue enormous increases in dopamine
+3610.16 leading to the severe drops in baseline.
+3614.07 Many people do, however,
+3615.56 and that's what we call addiction.
+3617.93 When somebody pursues
+a drug or an activity
+3620.44 that leads to huge increases in dopamine.
+3622.84 And now you understand that afterward
+3624.35 the baseline of dopamine drops
+3626.476 because of depletion of dopamine,
+3628.393 that readily releasable pool.
+3630.56 The dopamine is literally
+not around to be released,
+3633.097 and so people feel pretty lousy
+3635.67 and many people make the mistake
+of then going and pursuing
+3639.39 the dopamine evoking the
+dopamine releasing activity
+3642.74 or substance again thinking mistakenly
+3646.35 that it's going to
+bring up their baseline.
+3648.13 It's going to give them that peak again.
+3650.37 Not only does it not give them a peak,
+3652.06 their baseline gets lower and lower
+3654.23 because they're depleting
+dopamine more and more and more.
+3657.31 And we've seen this over and over again
+3659.52 when people get addicted to something
+3661.69 then they're not achieving
+much pleasure at all.
+3665.778 You can even see this with video games.
+3668.28 People will play a video game,
+3669.86 they love it,
+3670.97 it's super exciting to them,
+3672.64 and then they'll keep playing
+and playing and playing,
+3675.24 and either one of two things
+happens typically both.
+3679.58 First of all,
+3680.79 I always say addiction is
+a progressive narrowing
+3683.75 of the things that bring you pleasure.
+3685.16 So oftentimes what will
+happen is the person
+3687.15 only has excitement and can
+achieve dopamine release
+3691.65 to the same extent doing that behavior
+3693.73 and not other behaviors.
+3695.19 And so they start losing
+interest in school,
+3697.6 they start losing
+interest in relationships.
+3699.94 they start losing interest
+in fitness and wellbeing
+3702.35 and depletes their life.
+3704.614 And eventually what typically happens is,
+3707.99 they will stop getting dopamine release
+3710.26 from that activity as well,
+3712.26 and then they drop into a
+pretty serious depression
+3715.16 and this can get very severe and people
+3717.03 have committed suicide from
+these sorts of patterns
+3720.26 of activity.
+3721.73 But what about the more typical scenario?
+3724.25 What about the scenario of somebody
+3726.69 who is really good at
+working during the week,
+3730.13 they exercise during the week,
+3731.84 they drink on the weekends?
+3733.7 Well, that person is
+only consuming alcohol
+3736.25 maybe one or two nights a week,
+3738.03 but oftentimes that same
+person will be spiking
+3742.54 their dopamine with food
+during the middle of the week.
+3745.4 Now, we all have to eat
+and it's nice to eat foods
+3747.55 that we enjoy.
+3748.383 I certainly do that.
+3749.49 I love food in fact.
+3751.41 But let's say they're eating foods
+3754.34 that really evoke a
+lot of dopamine release
+3756.21 in the middle of the week,
+3757.18 they're drinking one or
+two days on the weekend,
+3759.8 they are one of these
+work, hard play hard type.
+3762.57 So they're swimming a
+couple miles in the ocean
+3765.37 in the middle of the week as well.
+3767.759 They're going out dancing
+once on the weekend.
+3769.96 Sounds like a pretty balanced
+life as I describe it.
+3773.39 Well, here's the problem.
+3776.11 The problem is that
+dopamine is not just evoked
+3780.35 by one of these activities,
+3781.56 dopamine is evoked by
+all of these activities.
+3784.33 And dopamine is one currency
+of craving motivation
+3788.93 and desire and pleasure.
+3791.28 There's only one currency.
+3793.5 So even though if you
+look at the activities,
+3796.78 you'd say, well, it's just on the weekends
+3798.52 so this thing is only a
+couple of times a week.
+3800.883 If you looked at dopamine
+simply as a function,
+3803.9 as a chemical function
+of peaks and baseline,
+3806.97 it might make sense why this person
+3808.52 after several years of
+work hard, play hard
+3811.5 would say, yeah, you know I'm
+feeling kind of burnt out.
+3814.07 I'm just not feeling like
+I have the same energy
+3815.89 that I did a few years ago.
+3817.38 And of course there
+are age-related reasons
+3819.31 why people can experience drops in energy,
+3822.45 but oftentimes what's happening
+3825.25 is not some sort of depletion
+and cellar metabolism
+3828.14 that's related to aging.
+3829.12 What's happening is they're
+spiking their dopamine
+3831.46 through so many different
+activities throughout the week,
+3834.81 that their baseline is
+progressively dropping.
+3837.26 And in this case it can be very subtle.
+3839.57 It can be very, very subtle.
+3840.93 And that's actually a very
+sinister function of dopamine
+3846.36 we could say.
+3847.193 Which is that it can often
+drop in imperceptible ways,
+3850.78 but then at once it reaches
+a threshold of low dopamine,
+3855.37 we just feel like,
+3856.31 hmm, we can't really get
+pleasure from anything anymore.
+3858.64 What used to work doesn't work anymore.
+3860.49 So it starts to look a lot
+like the more severe addictions
+3863.12 or the more acute addictions
+to things like cocaine
+3866.03 and amphetamine which lead
+to these big increases,
+3868.42 these big spikes in dopamine,
+3869.65 and then these very severe
+drops in the baseline.
+3873.41 Now, of course, we all
+should engage in activities
+3877.03 that we enjoy.
+3878.29 I certainly do,
+3879.13 everybody should.
+3879.963 A huge part of life is
+pursuing activities and things
+3882.763 that we enjoy.
+3884.72 The key thing is to
+understand this relationship
+3887.26 between the peaks and the baseline,
+3888.67 and to understand how they
+influence one another.
+3890.97 Because once you do that,
+3892.34 you can start to make really
+good choices in the short run
+3895.36 and in the long run to
+maintain your level of dopamine
+3898.66 baseline.
+3899.89 Maybe even raise that
+level of dopamine baseline
+3902.9 and still get those peaks and
+still achieve those feelings
+3906.29 of elevated motivation,
+elevated desire and craving.
+3910.04 Because again, those peaks
+and having a sufficiently
+3915.03 healthy high level of dopamine baseline
+3917.74 are what drove the
+evolution of our species,
+3919.468 and they're really what drive
+the evolution of anyone's life
+3921.9 progression too.
+3922.8 So they're a good thing.
+3923.633 Dopamine is a good thing.
+3925.43 Just very briefly, because
+it was also covered
+3927.55 in the interview episode
+I did with Anna Lembke
+3931.01 about addiction.
+3932.5 Some of you might be asking,
+3934.19 what should I do if I experience a drop
+3936.66 in my baseline level of dopamine
+3938.85 because of engagement with
+some activity or some substance
+3942.88 that led to big peaks?
+3945.24 Just to put some color
+and example on this,
+3948.13 a few episodes ago I talked about a friend
+3950.98 who I've known a long time.
+3952.4 So it actually the child of a friend
+3953.94 who has basically become
+addicted to video games,
+3957.56 he decided actually after
+seeing that episode with Anna
+3960.24 to do a 30-day complete fast from phone,
+3964.43 from video games and from
+social media of all kinds.
+3967.5 He's now at day 29 has
+really accomplished this,
+3971.06 not incidentally, his
+levels of concentration,
+3973.43 his overall mood are up.
+3974.57 He's doing far far better.
+3976.92 What he did is hard.
+3978.13 In particular first 14
+days is really hard,
+3980.64 but the way that you
+replenish the releasable pool
+3983.96 of dopamine is to not
+engage in these dopaminergic
+3987.64 seeking behaviors.
+3989.12 Because remember typically
+people arrive at a place
+3991.88 where they want to stop
+engaging in these behaviors
+3994.12 or ingesting substances when
+that dopamine is depleted,
+3997.17 when they're not getting the same lift.
+3998.7 In his case, he was feeling depressed.
+4000.27 He thought he had ADHD.
+4001.58 They were starting to treat it as ADHD.
+4004.46 And certainly there are people
+out there who have ADHD,
+4007.2 but what he found was that
+his levels of concentration
+4009.36 are back.
+4010.193 He does not need to be treated for ADHD.
+4012.377 And actually the psychiatrist
+wondered if he did prior
+4015.14 to this video game, social media fast.
+4018.07 He's feeling good.
+4018.92 He's exercising again.
+4020.53 I'm not making this up.
+4021.61 This is really a very specific,
+4024.9 but very relevant example
+of how the dopamine system
+4028.47 can replenish itself.
+4030.69 Of course, if there's a clinical
+need for ADHD treatment,
+4033.22 by all means pursue that.
+4034.74 But I think a lot of
+ADHD does go misdiagnosed
+4039.34 because of this depletion in dopamine
+4041.41 that occurs because of
+overindulgence in other activities
+4044.02 in the drop in baseline.
+4045.7 So for anyone that's experienced
+a real drop in baseline
+4048.74 who has addictive tendencies,
+4051.21 whether or not their
+behaviors or substances,
+4052.87 that is always going
+to be the path forward.
+4057.03 Is going to be either cold turkey
+4058.92 or through some sort of
+tapering to limit interactions
+4062.81 with the, what would otherwise
+be the dopamine evoking
+4065.83 behavior or substance.
+4067.44 So let's talk about the optimal
+way to engage in activities
+4071.96 or to consume things that evoke dopamine.
+4075.72 And by no means am I
+encouraging people to take drugs
+4077.94 of abuse.
+4078.773 I would not do that,
+4079.606 I am not doing that.
+4080.57 But some of the things on these lists
+4083.23 of dopamine evoking activities
+are things like chocolate,
+4087.2 coffee, even if it's indirect.
+4090.94 Sex and reproduction,
+4091.98 provided it's healthy
+consensual context appropriate,
+4095.13 age appropriate, species
+appropriate of course,
+4097.51 is central to our evolution
+and progression as a species.
+4101.86 So certain things like
+cocaine, amphetamine,
+4104.8 I will put in the classification of bad.
+4106.9 I'm willing to do that.
+4107.76 And other things are part of life,
+4109.73 food, exercise if that
+evokes your dopamine.
+4112.61 How are we supposed to engage
+with these dopamine evoking
+4115.65 activities in ways that are
+healthy and beneficial for us?
+4118.56 How do we achieve these peaks,
+4120.28 which are so central to our
+wellbeing and experience of life
+4123.06 without dropping our baseline?
+4125.07 And the key lies in intermittent
+release of dopamine.
+4130.29 The real key is to not
+expect or chase high levels
+4136.03 of dopamine release every time we engage
+4138.8 in these activities.
+4141.87 Intermittent reward schedules
+are the central schedule
+4145.21 by which casinos keep you gambling.
+4148.83 The central schedule by
+which elusive partners
+4152.38 or potential partners keep
+you texting and pursuing
+4156.25 on either side of the relationship.
+4158.83 Intermittent schedules are
+the way that the internet
+4162.08 and social media and all
+highly engaging activities
+4167.08 keep you motivated and pursuing.
+4171.42 And we can take this back
+to our evolutionary adaptive
+4175.38 scenario where you are out
+there looking for water,
+4178.41 looking for food,
+4180.04 not every trail, not every
+pursuit, not every hunch
+4184.33 about where the animals will be?
+4186.7 Where the food will be?
+4187.84 Where the berries will be?
+4189.82 Not every single one of those played out.
+4194.17 There's something called
+dopamine reward prediction error.
+4196.6 When we expect something to happen,
+4198.92 we are highly motivated to pursue it.
+4201.93 If it happens great, we get the reward.
+4204.75 The reward comes in various chemical forms
+4206.68 including dopamine,
+4207.897 and we are more likely to
+engage in that behavior again.
+4211.06 This is the basis of casino gambling.
+4213.61 This is how they keep you going back
+4214.87 again and again and again,
+4215.98 even though on average
+the house really does win.
+4220.74 You can transplant that
+example to any number
+4223.27 of different pleasureful activities.
+4224.7 If you're not a gambler and
+that doesn't appeal to you,
+4227.17 I have to imagine there's
+something that appeals to you,
+4229.38 something that you do
+repeatedly because you enjoy it.
+4231.97 And almost inevitably it's
+because there's an intermittent
+4235.45 schedule.
+4237.18 There's a intermittent
+schedule by which dopamine
+4240.04 sometimes arrives,
+4241.25 sometimes a little bit, sometimes a lot,
+4243.37 sometimes a medium amount.
+4244.96 Okay?
+4245.92 That intermittent reinforcement schedule
+4248.25 is actually the best schedule
+to export to other activities.
+4253.64 How do you do that?
+4254.97 Well, first of all, if you
+are engaged in activities
+4259.51 school, sport, relationship, et cetera,
+4261.8 where you experience a win,
+4264.15 you should be very careful
+about allowing yourself
+4266.87 to experience huge peaks in dopamine,
+4269.14 unless you're willing to
+suffer the crash that follows
+4273.41 and waiting a period of
+time for it to come back up.
+4277.09 What would this look like
+in the practical sense?
+4279.01 Well, let's say you are somebody
+4280.24 who really does enjoy exercise,
+4282.4 or let's say you're somebody
+who kind of likes exercise,
+4284.68 but forces yourself to do it,
+4286.31 but you make it pleasureful
+by giving yourself
+4288.56 your favorite cup of coffee first,
+4290.5 or maybe taking a pre-workout drink
+4292.55 or taking an energy drink
+4294.16 or listening to your favorite music.
+4295.69 And then you're in the gym
+4296.61 and you're listening to your music.
+4297.48 That all sounds great, right?
+4299.12 Well, it is great except
+that by layering together
+4302.3 all these things to try and
+achieve that dopamine release,
+4304.84 and by getting a big peak in dopamine,
+4306.82 you're actually increasing the
+number of conditions required
+4310.95 to achieve pleasure from
+that activity again.
+4313.59 And so there is a form
+of this where sometimes
+4316.73 you do all the things that you love
+4318.24 to get the optimal workout.
+4319.38 You listen to your favorite music,
+4320.9 you got your favorite time of day,
+4322.64 you have your pre-workout drink,
+4323.86 if that's your thing.
+4324.693 You do all the things that
+give you that best experience
+4328.31 of the workout for you.
+4330.955 But there's also a version
+of this where sometimes
+4333.73 you don't do the dopamine
+enhancing activities.
+4337.22 You don't ingest anything
+to increase your dopamine.
+4339.89 You just do the exercise.
+4342.83 You don't do the exercise
+and expect dopamine to arrive
+4347.42 through some what we call
+exogenous source as well.
+4350.277 You might think, well, that sounds lame.
+4351.9 I want to continue to enjoy exercising.
+4355.03 Ah, well, that's exactly the point.
+4357.87 If you want to maintain
+motivation for school, exercise,
+4360.63 relationships or pursuits
+of any duration in kind,
+4364.16 the key thing is to make sure
+that the peak in dopamine,
+4367.77 if it's very high,
+doesn't occur too often.
+4371.3 And if something does occur very often
+4374.42 that you vary how much
+dopamine you experience
+4377.91 with each engagement in that activity.
+4380.3 Now, some activities naturally
+have this intermittent
+4383.37 property woven into them, right?
+4385.29 We sometimes have classes that we like
+4387.717 and other classes we don't like.
+4389.41 We don't always get straight A's,
+4391.41 sometimes we don't get
+rewarded with the outcome
+4393.86 that we would like.
+4394.76 We don't always have the
+perfect relationship outcome,
+4398.03 but understand that your
+ability to experience motivation
+4401.47 and pleasure for what comes next
+4403.55 is dictated by how much
+motivation and pleasure
+4406.0 and dopamine you experienced prior.
+4409.69 The reason I can't give
+a very specific protocol
+4412.45 like delete dopamine or lower
+dopamine every third time,
+4416.07 is that that wouldn't be intermittent.
+4418.24 The whole basis of
+intermittent reinforcement
+4420.74 is that you don't really
+have a specific schedule
+4424.5 of when dopamine is going to be high,
+4426.64 and when dopamine is going to be low
+4428.05 and when dopamine is going to be medium.
+4429.88 That's a predictable schedule,
+4431.36 not a random intermittent schedule.
+4433.95 So do like the casinos do
+certainly works for them
+4437.2 and for activities that you
+would like to continue to engage
+4440.64 in over time,
+4441.84 whatever those happen to be.
+4444.01 Start paying attention
+to the amount of dopamine
+4447.15 and excitement and pleasure
+that you achieve with those,
+4449.37 and start modulating
+that somewhat at random.
+4452.01 That might be removing
+some of the dopamine
+4455.09 releasing chemicals that
+you might take prior.
+4458.13 Maybe you remove them every time,
+4461.06 but then every once in a
+while you introduce them,.
+4463.59 Maybe it involves sometimes
+doing things socially
+4467.49 that you enjoy doing socially,
+4468.62 sometimes doing the same thing, but alone.
+4471.92 There are a lot of
+different ways to do this.
+4474.23 There are a lot of different
+ways to approach this,
+4476.27 but now knowing what you know
+about peaks and baselines
+4479.61 in dopamine and
+understanding how important
+4482.38 it is not just to achieve peaks,
+4483.98 but to maintain that
+baseline at a healthy level,
+4486.41 it should be straightforward
+for you to implement
+4488.52 these intermittent schedules.
+4490.94 For those of you that are
+begging for more specificity,
+4494.36 we can give you a tool.
+4495.76 One would be, you can flip
+a coin before engaging
+4499.3 in any of these types of activities
+4500.78 and decide whether or not
+you are going to allow
+4503.797 other dopamine supportive elements
+4507.6 to go for instance, into the gym with you.
+4509.56 Are you going to listen to music or not?
+4511.03 If you enjoy listening to music,
+4512.63 well then flip a coin,
+4513.65 and if it comes up heads,
+4514.72 bring the music in,
+4515.553 if it comes up tails, don't.
+4517.12 Okay?
+4517.953 It sounds like you're
+undercutting your own progress,
+4519.98 but actually you are
+serving your own progress
+4523.08 both short-term and
+long-term by doing that.
+4525.78 Now, the smartphone is
+a very interesting tool
+4528.622 for dopamine in light of all this.
+4532.02 It's extremely common
+nowadays to see people texting
+4535.2 and doing selfies and
+communicating in various ways,
+4539.24 listening to podcasts, listening to music,
+4541.7 doing all sorts of
+things while they engage
+4543.65 in other activities or going to dinner
+4545.3 and texting other people or making plans,
+4547.87 sharing information.
+4548.83 That's all wonderful,
+4549.69 it gives depth and
+richness and color to life,
+4552.6 but it isn't just about
+our distracted nature
+4556.94 when we're engaging with the phone,
+4559.48 it's also a way of layering in dopamine.
+4562.35 And it's no surprise
+that levels of depression
+4566.7 and lack of motivation are
+really on the increase.
+4571.21 Everything that we've
+talked about until now
+4574.42 sets up an explanation or interpretation
+4577.59 of why interacting with digital technology
+4581.25 can potentially lead to disruptions
+4583.46 or lowering in baseline
+levels of dopamine.
+4588.89 I can use a personal example for this.
+4590.65 I happen to really enjoy working out,
+4592.25 I've always really enjoyed it.
+4593.95 But in recent years I noticed that,
+4597.44 if I was bringing my phone to my workouts,
+4599.82 then not only was I a
+little bit more distracted
+4602.02 and not focusing on what I was doing
+4603.62 as much as I could have or should have,
+4605.84 but also I started to lose
+interest in what I was doing.
+4609.43 It wasn't as pleasureful,
+4610.87 I would feel like it
+just didn't have the same
+4613.1 kind of oomph.
+4613.933 And I was beginning to
+question my motivation.
+4616.89 As I started learning more
+about this relationship
+4619.68 between the peaks and the
+bass lines in dopamine.
+4622.05 What I realized was that some time ago
+4624.42 I probably experienced
+a incredible increase
+4627.6 in the amount of dopamine
+during one of my workouts,
+4629.94 because I enjoy working out
+and I enjoy listening to music.
+4633.81 I also enjoy listening to podcasts,
+4635.32 I also enjoy communicating with people.
+4637.4 Those are all wonderful pursuits,
+4638.73 but I had layered in too
+many of them too many times.
+4642.41 And then it essentially
+wasn't working for me anymore.
+4645.96 Much in the same way a drug
+wouldn't work for somebody
+4648.17 who takes it repeatedly because
+their baseline of dopamine
+4650.49 is dropping.
+4651.56 So at least for this calendar year,
+4653.89 I've made a rule for myself,
+4655.43 which is I don't allow my
+phone into my workouts at all.
+4660.44 No music, at least not from the phone.
+4662.61 It can be in the room.
+4664.64 I might listen to a podcast in the room,
+4666.96 but I don't listen to anything
+4669.1 or engage in anything on my phone.
+4670.56 No texting whatsoever.
+4671.49 And most of the time I just
+don't even bring it with me
+4673.49 for that period of time.
+4674.52 It's only a short period of time.
+4676.38 I'm not training that often.
+4679.87 This is something that I
+think has been misinterpreted
+4683.98 as people can't be alone now.
+4686.43 People talk about, oh, you know,
+4687.92 they can't walk across the
+street or they can't go anywhere,
+4692.0 ride the bus,
+4693.36 can't be on the plane
+without being in contact.
+4695.76 They can't handle just their thoughts.
+4697.41 I don't think that's
+really what's going on.
+4699.16 I think what's happened
+is that we achieved
+4702.4 the great dopamine increase
+4703.82 that comes from this incredible thing
+4705.56 which I personally enjoy being
+able to communicate by phone,
+4709.16 by text and exchange
+pictures and send links
+4711.41 and these kinds of things, social media.
+4713.54 But then what happens is
+it doesn't have that same
+4716.72 fulfilling aspect to it.
+4718.66 And it tends to remove the excitement
+4721.29 and the pleasure of the very activities
+4723.0 that we are engaged in.
+4724.69 So I know this is a hard
+one for many people,
+4726.9 but I do invite you to
+try removing multiple
+4731.13 sources of dopamine release
+4732.87 or what used to be multiple
+sources of dopamine release
+4736.14 from activities that you
+want to continue to enjoy,
+4738.98 or that you want to enjoy more.
+4740.85 And now you understand
+the biological mechanisms
+4743.04 that would underlie a statement like that.
+4745.437 It takes a little bit of working with,
+4747.85 I know it can be challenging
+in the first week
+4750.37 or so of not engaging with the phone
+4752.76 during any kind of workout.
+4754.2 That actually was really tough,
+4756.06 but now I'm back to a place
+where I enjoy it that much more.
+4759.0 I also feel as if I conquered something
+4760.59 in terms of the circuitry
+related to dopamine.
+4763.33 I now understand why something
+4765.79 that I enjoyed so much had
+become less pleasureful for me.
+4769.45 And there's a deep, deep satisfaction
+4771.61 that comes from understanding,
+4772.59 okay, there wasn't anything wrong with me
+4774.67 or what I was doing or anything at all.
+4778.47 It was just there was something
+wrong with the approach
+4780.76 I was taking,
+4781.593 which was layering in all
+these sources of dopamine
+4783.68 and dropping my baseline.
+4785.27 For this very same reason,
+4786.64 I caution people against
+using stimulants every time
+4790.98 they study or every time they work out
+4794.95 or every time that they do anything
+4797.41 that they would like to continue to enjoy
+4799.09 and be motivated at.
+4800.94 There's one exception which is caffeine,
+4802.7 because as I mentioned before,
+4804.8 if you like caffeine,
+4806.71 that actually could be a good thing
+4807.76 for your dopamine system,
+4808.69 because it does upregulate
+these D2, D3 receptors.
+4811.79 So it actually makes whatever dopamine
+4813.88 is released by that activity,
+4816.2 more accessible or more
+functional within the biochemistry
+4819.9 and the pathways of your brain and body.
+4823.52 However, a number of energy drinks
+4825.94 and particular pre-workouts contain things
+4828.45 that are precursors to dopamine,
+4830.45 and on their own, even if you
+didn't engage in the activity
+4833.83 would cause the release of
+dopamine to a substantial degree.
+4836.75 They do cause the release of dopamine
+4838.49 to a substantial degree.
+4840.11 And over time that will
+deplete your dopamine.
+4844.12 So energy drinks, pre-workout drinks,
+4848.34 drugs of various kinds
+that people take to study
+4851.32 and pay attention.
+4852.153 We talked about some of
+these for the ADHD episode,
+4854.09 things like Adderall, Ritalin,
+armodafinil or modafinil
+4858.33 taken repeatedly over time will reduce
+4861.646 the level of satisfaction and joy
+4863.67 that you get from the activities
+4865.19 you engage in while under the
+influence of those compounds.
+4870.07 I'm not trying to demonize those compounds
+4871.87 for their clinical use.
+4873.05 What I'm saying is taking stimulants
+4874.93 and then engaging in activities
+4876.66 that you would like to
+continue to feel pleasureful
+4879.25 is undercutting the process.
+4880.96 And inevitably might not happen tomorrow,
+4883.71 might not happen in a month,
+4884.94 but inevitably you will have
+challenges with motivation
+4887.97 and drive related to those activities.
+4890.51 Now, some people can
+keep it right in check.
+4892.26 They can just do the one
+can have the energy drink
+4894.76 or they only do their pre-workout
+before really hard days,
+4898.41 for instance.
+4899.96 More power to you.
+4902.41 I actually do that sometimes, frankly.
+4904.77 But people who are trying
+to get into that peak
+4907.45 super motivated, driven, driven state,
+4909.68 really focused every time
+they engage in an activity,
+4912.91 you are absolutely
+undercutting the process
+4915.32 and you are undermining your
+ability to stay motivated
+4917.8 and focused.
+4918.93 So just as we talked about
+intermittent reward schedules
+4923.0 a moment ago,
+4925.21 intermittent spiking of
+dopamine if you do it at all
+4929.0 is definitely the way to go,
+4930.31 and chronically trying
+to spike your dopamine
+4933.03 in order to enhance your
+motivation, focus and drive
+4935.95 will absolutely undermine your
+motivation focus and drive
+4939.43 in the long run.
+4940.5 Ingestion of caffeine is
+somewhat of an exception
+4944.8 among the other examples of things
+4946.54 I've mentioned to avoid before
+4949.01 what would otherwise be
+dopamine increasing activities.
+4952.29 Because again, caffeine
+can increase the density
+4957.58 and the efficacy of
+these dopamine receptors.
+4961.715 It turns out that the source
+of caffeine could also matter
+4965.18 while coffee or tea or
+other forms of caffeine
+4968.91 will have this effect of
+increasing dopamine receptors.
+4972.7 Yerba mate something
+I've talked about before
+4975.4 on this podcast has some
+interesting properties.
+4978.21 First of all, it contains caffeine.
+4979.94 It's also high in antioxidants.
+4982.04 It also contains something called GLP-1
+4984.69 which is favorable for
+management of blood sugar levels.
+4990.23 Yerba mate turns out has also been shown
+4993.03 to be neuroprotective specifically
+for dopaminergic neurons.
+4997.98 Now, I should mention this
+is just a couple of studies,
+5000.15 so we don't want to conclude
+too much from these studies
+5003.06 more needs to be done.
+5004.5 But they showed that in a model of damage
+5007.83 to dopamine neurons,
+ingestion of yerba mate,
+5011.331 and some of the compounds
+within yerba mate
+5013.33 can actually serve to
+preserve the survival
+5015.82 of dopamine neurons in both
+the movement related pathway
+5018.927 and the motivation pathway.
+5021.29 So perhaps you need that incentive
+5024.15 in order to ingest your yerba mate,
+5026.2 perhaps you don't need any incentive.
+5028.26 In my case, I don't need any incentive.
+5029.77 I already enjoy yerba mate as my principle
+5032.17 source of caffeine,
+5033.26 although I do drink coffee as well.
+5035.14 But if one were going to consume caffeine,
+5037.9 you might consider consuming that caffeine
+5040.17 in the form of yerba mate
+both for sake of upregulating
+5042.87 dopamine receptors and getting
+more of a dopamine increase.
+5047.84 And of course, for the
+similar properties of caffeine
+5050.43 if that's what you're seeking.
+5052.55 And in addition to that,
+5054.02 because your yerba mate does appear
+5056.19 to have some sort of neuroprotective
+5058.56 and a particular dopamine
+neuron protective properties.
+5062.13 Now, that doesn't mean that
+caffeine is always beneficial.
+5064.58 And actually there's one
+instance related to dopamine
+5067.58 where caffeine can be
+particularly dangerous.
+5070.76 And this relates to
+MDMA so-called ecstasy.
+5073.37 MDMA is under investigation
+in various clinical trials
+5077.49 for its potential to treat
+trauma and depression.
+5081.94 It's also of course, a drug
+that's used recreationally.
+5084.79 It's still illegal at
+least in the United States.
+5090.03 Whether or not MDMA is neurotoxic
+5092.64 has been very controversial.
+5093.86 Early on it was thought
+that it is neurotoxic
+5096.28 that it can destroy serotonergic neurons.
+5099.98 There were other papers that came out
+5101.72 which argued that's not the case.
+5104.57 And that's in particular
+because one of the early papers
+5107.7 published in science magazine claiming
+5110.49 that MDMA was neurotoxic.
+5113.42 That paper was retracted.
+5114.74 It turns out that that
+study had mistakenly
+5117.45 used methamphetamine instead,
+5119.53 and methamphetamine is
+known to be neurotoxic.
+5123.46 I think most of the data point to the idea
+5125.47 that MDMA might not be neurotoxic,
+5128.03 but in any case, caffeine
+has been shown to increase
+5132.31 the toxicity of MDMA receptors.
+5134.63 And you might say, "Well,
+how could that be?"
+5136.47 Well, now you understand
+why that could be.
+5139.09 Caffeine increases the
+density and efficacy
+5142.5 of these dopamine receptors,
+D2 and D3 receptors.
+5145.32 MDMA is a potent drug for
+increasing concentrations
+5150.46 of dopamine as well as serotonin
+and other neuromodulators.
+5153.85 And it appears that caffeine
+ingestion by upregulating
+5157.2 these receptors,
+5158.27 can lead to more toxicity of MDMA.
+5162.45 So caffeine can be a beneficial
+substance in one context,
+5166.77 and actually can be a detrimental
+5168.85 if not dangerous substance
+in another context.
+5171.97 Two substances that
+greatly increase dopamine,
+5174.71 namely amphetamine and cocaine
+can cause long-term problems
+5180.01 with the dopaminergic pathways.
+5182.58 And this is largely based on a study
+5184.85 that was published some years ago, 2003,
+5187.88 but still holds a lot of merit.
+5189.85 This is a paper published in proceeds
+5191.85 in the National Academy of Sciences,
+5193.28 a very high tier stringent journal.
+5196.97 First author is Kolb, K-O-L-B.
+5198.94 And the title of the paper
+pretty much tells the story.
+5202.43 Amphetamine or cocaine limits the ability
+5205.16 of later experience to
+promote structural plasticity
+5207.89 in the neocortex and nucleus accumbens.
+5209.43 Neocortex is the outer shell
+of the brain more or less.
+5214.12 And the nucleus accumbens is part of that,
+5216.22 mesolimbic dopamine pathway
+for motivation drive
+5219.95 and reinforcement.
+5221.44 Neuroplasticity of course, is
+the brain's ability to change
+5224.22 in response to experience.
+5225.25 And neuroplasticity is the
+basis of learning and memory
+5229.64 and essentially remodeling
+of our neural circuitry
+5233.43 in positive ways of all kinds.
+5235.45 And this study was really
+one of the first to show
+5238.83 that ingesting amphetamine and cocaine
+5241.77 because of the high peak in dopamine
+5245.42 that it creates and
+the low dopamine state,
+5248.03 the baseline drop that
+it creates afterwards,
+5251.77 limits plasticity and learning subsequent
+5254.25 to taking amphetamine and cocaine.
+5256.37 It was at least in this study shown
+5258.88 to be a long lasting effect.
+5260.41 I doubt it's a permanent effect,
+5261.89 but this should serve as
+a serious cautionary note
+5265.3 that amphetamine and cocaine
+not only can cause a drop
+5268.63 in baseline dopamine,
+5269.68 but can actually put
+the brain into a state
+5271.98 in which it cannot learn and
+modify itself to get better
+5275.33 at least for some period of time.
+5277.33 In a previous episode on ADHD,
+5280.26 I talked about the widespread use of drugs
+5282.79 like Adderall, Ritalin,
+modafinil and armodafinil,
+5285.41 all of which lead to very
+large increases in dopamine,
+5287.89 and for people with ADHD can
+really improve their symptoms.
+5292.72 But of course there's a
+lot of non-prescription,
+5295.34 non-clinical use of
+those compounds as well.
+5298.02 And it stands to reason that
+the use of those substances
+5301.26 to increase dopamine
+could very well provide
+5305.02 the same sort of blockade
+of neuroplasticity
+5307.17 that cocaine and amphetamine do.
+5308.66 Because when you look at the
+amount of dopamine increase
+5312.0 that's triggered by those compounds,
+5313.7 it's really comparable.
+5315.36 So again, a cautionary note
+against spiking one's dopamine
+5319.62 too much on a regular basis,
+5321.56 unless there's a valid
+clinical need for doing that.
+5325.55 So we've been focusing a
+lot for the last few minutes
+5328.19 on the kind of darker side of dopamine
+5330.9 and how getting big peaks in
+dopamine can be detrimental,
+5334.57 but I want to acknowledge the truth,
+5336.5 which is that dopamine feels great.
+5339.1 Being in pursuit and
+motivated and craving things
+5341.87 feels wonderful.
+5343.35 And I don't want to demonize dopamine.
+5345.44 What I'm trying to do
+today is to illustrate
+5347.47 how dopamine works in your brain
+5349.31 so that you can continue to engage
+5352.15 in dopamine evoking activities.
+5355.79 And certainly there is a
+place for ingesting things
+5358.172 that can increase dopamine
+provided that they are safe
+5361.09 for us in the short and long-term.
+5365.32 There are activities that
+we can do that will give us
+5368.93 healthy, sustained increases in dopamine,
+5371.64 both the peaks when they
+happen and to maintain
+5375.47 or even increase our
+baseline levels of dopamine.
+5377.75 So how do we do that?
+5379.14 What are some of these activities?
+5381.03 Well, in recent years,
+5383.24 there's been a trend toward more people
+5385.66 doing so-called cold exposure.
+5387.67 In part, this was popularized by Wim Hof,
+5391.16 the so-called 'Iceman'
+getting into cold showers,
+5394.01 taking ice baths, exposing
+oneself to cold water
+5397.4 of various kinds can in fact
+increase our levels of dopamine
+5401.64 as well as the neuromodulator
+norepinephrine.
+5405.55 This is not a new phenomenon.
+5408.5 In the 1920s, a guy by the
+name of Vincent Priessnitz
+5412.09 was one of the first people
+to popularize and formalize
+5415.66 cold water therapies.
+5417.36 He was an advocate of cold water exposure
+5420.245 in order to boost the immune system
+5422.91 and increase feelings of wellbeing.
+5424.6 And actually this practice dates back long
+5426.54 before Vincent's popularized it.
+5430.12 And Wim Hof is the more
+recent iteration of this.
+5433.37 First of all, some of
+the safety parameters.
+5435.26 Let's establish those first.
+5436.64 Getting to very, very cold water.
+5438.22 You know, 30 degree Fahrenheit
+5439.86 or even low 40 degree Fahrenheit
+5442.15 can put somebody into a
+state of cold water shock.
+5444.68 I mean, people can die doing that.
+5446.5 So obviously you want to
+approach this with some caution,
+5449.6 but for most people getting
+into 60 degree water
+5452.97 or 50 degree water,
+5454.14 or if you're acclimated
+and comfortable with it,
+5457.122 you know, 40 degree
+water or 45 degree water
+5459.734 can have tremendously beneficial results
+5463.34 on your neuromodulator
+systems, including dopamine.
+5467.65 What temperature of water you can tolerate
+5469.74 will depend on how cold
+water adapted you are,
+5472.91 and how familiar you
+are with the experience
+5475.55 of getting into cold water.
+5477.04 And when I say comfortable with,
+5478.7 I should mention, there is never a case
+5481.13 in which getting into
+cold water does not evoke
+5485.542 a release of epinephrin.
+5487.65 So the quickening of the breath,
+the widening of the eyes,
+5490.304 the feeling as if you
+can't catch your breath
+5492.92 and even some physical pain
+at the level of the skin
+5495.46 that happens almost every time,
+5497.29 or every time that you
+get into cold water,
+5499.39 even if your cold water adapted.
+5501.18 What almost everybody knows
+and understands is that,
+5504.5 that wall, as I like to
+refer to it is coming.
+5507.04 That's always the first experience
+5508.81 of getting into cold water.
+5510.12 There's no real way around that.
+5512.47 Now, this study that I mentioned earlier,
+5515.38 human physiological responses
+to immersion into water
+5518.33 of different temperatures,
+5519.24 really interesting study
+that was done and published
+5522.26 in the university of, excuse me,
+5524.01 the European Journal
+of Applied Physiology.
+5526.24 I can provide a link to that
+study in the show caption.
+5529.73 It's a really interesting study.
+5531.02 They looked at people
+getting exposed to water
+5534.5 that was warm, moderately
+cold or very cold.
+5536.82 It was 32 degrees Celsius,
+20 degrees Celsius,
+5539.06 or 14 degrees Celsius.
+5541.15 You can just put those
+online and do the conversion,
+5543.43 or you can do the conversion
+to Fahrenheit if you like.
+5545.78 But in any case, what they
+looked at were the concentrations
+5549.87 of things like epinephrin
+and dopamine and so on.
+5554.17 And what they found
+was really interesting.
+5556.41 First of all, upon
+getting into cold water,
+5562.2 the changes in adrenaline
+and noradrenaline,
+5566.0 epinephrin and norepinephrine
+were immediate and fast,
+5569.77 and these were huge increases.
+5572.06 So that's the getting into the cold water
+5573.87 that everybody experiences
+5575.21 these huge increases in adrenaline.
+5577.32 But then what was
+interesting is they observed
+5579.188 that dopamine levels started
+to rise somewhat slowly
+5583.21 and then continued to
+rise and reach levels
+5586.49 as high as 2.5 times above baseline.
+5590.79 That's a remarkably high increase.
+5592.79 Remember if we go back to our
+examples of chocolate, sex,
+5597.78 a doubling above baseline,
+5599.21 nicotine two and a half times
+above baseline, cocaine.
+5603.04 The increase in dopamine
+from a cold water exposure
+5607.09 of this kind was comparable
+to what one sees from cocaine,
+5611.12 except, except in this case,
+5613.95 it wasn't a rise and crash.
+5616.64 It was actually a
+sustained rise in dopamine
+5620.05 that took a very long
+time up to three hours
+5622.54 to come back down to baseline.
+5624.32 Which is really remarkable,
+5626.12 and I think this explains
+some of the positive,
+5629.72 mental and physical effects
+that people report subjectively
+5632.969 after doing cold water exposure.
+5635.37 One question that many of
+you are probably asking
+5637.35 is just how cold should the water be?
+5639.99 Well, you could mimic what
+was done in this study
+5641.71 and do 14 degrees Celsius.
+5643.25 But for some people that
+won't be cold enough,
+5645.3 for some people that will be too cold.
+5647.62 They did look at the
+release of stress hormones
+5650.1 like cortisol in addition
+to the release of things
+5652.2 like epinephrin and adrenaline.
+5653.66 And it's interesting that
+they noted that in all cases,
+5657.32 but especially at that
+coldest temperature,
+5659.21 there was an increase in cortisol,
+5660.67 but that it was transient,
+5662.2 That eventually people's cortisol,
+5663.947 the stress hormone subsided a bit.
+5666.82 There are basically two
+different approaches
+5668.78 to remaining in the cold
+when it's uncomfortable.
+5671.72 One is to try and relax yourself.
+5674.23 Two, try and practice slow breathing,
+5676.83 to try and dilate your gaze.
+5678.27 I've talked about this
+before in previous podcasts,
+5680.14 you go into panoramic
+vision to essentially try
+5681.81 and calm yourself so that
+it's not as stressful
+5685.38 in the cold.
+5686.69 Other people however, take the
+approach of trying to ramp up
+5691.12 their level of internal autonomic arousal,
+5693.81 meaning to get really energized
+5695.75 and kind of lean into
+the friction of the cold.
+5698.34 And they find that easier.
+5699.77 Other people distract themselves,
+5701.23 they recite the alphabet,
+5702.33 or they do something, anything to try
+5705.16 and distract themselves
+from the discomfort.
+5708.1 To be totally honest,
+5709.11 it does not matter for
+sake of dopamine release.
+5712.07 Because the dopamine release is triggered
+5714.11 and then continues even after
+you get out of the cold water.
+5717.94 Now, in this study, it was
+long exposure to cold water.
+5722.44 It was an hour.
+5723.516 That's a long period of time.
+5725.61 And I do warn you against
+getting into cold water
+5728.897 that's so cold that it will
+make your temperature drop
+5732.21 and make you hyperthermic for an hour.
+5733.83 That actually could be
+dangerous for a lot of people.
+5735.54 You might have a hard time reheating,
+5737.0 and hypothermia is not a good thing.
+5739.57 They had people monitoring
+subjects in these studies
+5743.01 and paying attention to
+their core body temperature.
+5745.28 They were able to reheat them afterwards.
+5747.87 It's well-established now
+that getting into cold water,
+5751.25 whether or not it's a shower,
+5752.24 an ice bath circulating cold
+water, a stream, et cetera,
+5756.5 that can evoke the norepinephrine
+release immediately,
+5759.41 and the long arc of that dopamine release.
+5761.62 Why would that be good?
+5762.72 Up until now, I've basically
+said getting increases
+5765.63 in dopamine are detrimental
+to your baseline.
+5769.37 Well, this does appear to
+raise the baseline of dopamine
+5772.44 for substantial periods of time.
+5773.98 And most people report feeling
+a heightened level of calm
+5778.92 and focus after getting out of cold water.
+5782.1 So cold water exposure turns out
+5783.53 to be a very potent stimulus for shifting
+5786.25 the entire milieu,
+5787.36 the entire environment
+of our brain and body
+5790.56 and allowing many people
+to feel much, much better
+5794.709 for a substantial period of time
+5796.8 after getting out of the ice
+bath or cold water of any kind
+5800.6 than they did before.
+5802.18 Now, you might ask how often to do this?
+5804.37 Some people do this every day.
+5806.02 It can be very stimulating.
+5807.3 So typically doing it early in the day,
+5810.01 it's going to be better.
+5810.843 I don't necessarily recommend
+doing it right before sleep,
+5813.73 but some people do it in the afternoon.
+5815.63 And some people will indeed
+do that seven days a week,
+5818.53 other people three days a week,
+5819.68 other people every once in a while.
+5821.25 What I can say is once you
+become cold water adapted,
+5825.33 once it no longer has the
+same impact of novelty
+5829.15 and feeling a bit like a,
+5830.95 I don't want to say a
+shock to your system,
+5832.28 'cause you don't want to
+go into cold water shock,
+5833.79 but once it is comfortable for you,
+5837.99 then it will no longer evoke this release.
+5840.28 There really does seem to
+be something in the pathway
+5842.38 from cold water exposure through
+the norepinephrine pathway
+5845.5 and into the mesolimbic brainstem
+5847.29 that causes this release in dopamine.
+5849.4 But nonetheless, it's
+a basically zero cost.
+5852.6 I mean, you need access
+to water of some sort,
+5854.42 cold water shower, et cetera,
+5855.62 but basically zero cost way
+of triggering a long lasting
+5859.01 increase in dopamine
+without ingesting anything,
+5861.05 no pharmacology whatsoever.
+5862.81 Please again, approach it with
+a safety and caution in mind,
+5866.03 but it is a very potent stimulus.
+5867.95 Again, 250% of a rise in baseline,
+5871.383 two and a half times
+rise in baseline rivals
+5873.93 that of cocaine which
+is really remarkable.
+5876.8 Now, I'd like to talk
+about the positive aspects
+5878.98 of rewards for our behavior,
+5880.46 and the negative aspects of
+rewards for our behavior.
+5883.05 And from that, I will suggest a protocol
+5886.09 by which you can achieve
+a better relationship
+5889.24 to your activities and
+to your dopamine system.
+5892.09 In fact, it will help tune
+up your dopamine system
+5894.53 for discipline, hard work and motivation.
+5900.39 Hard work is hard.
+5902.6 Generally, most people
+don't like working hard.
+5906.05 Some people do,
+5907.06 but most people work hard in
+order to achieve some end goal.
+5912.76 End goals are terrific
+and rewards are terrific
+5914.95 whether or not they are
+monetary social or any kind.
+5919.91 However, because of the
+way that dopamine relates
+5923.87 to our perception of time,
+5926.468 working hard at something
+for sake of a reward
+5930.55 that comes afterward,
+5932.35 can make the hard work
+much more challenging
+5935.74 and make us much less likely
+to lean into hard work
+5938.88 in the future.
+5939.87 Let me give you a couple
+examples by way of data
+5942.49 and experiments.
+5943.87 There's a classic experiment
+done actually at Stanford
+5947.67 many years ago in which
+children in nursery school
+5952.02 and kindergarten drew pictures,
+5954.87 and they drew pictures
+cause they like to draw.
+5957.73 The researchers took
+kids that liked to draw
+5960.69 and they started giving
+them a reward for drawing.
+5963.58 The reward generally was a gold star
+5965.61 or some thing that a young
+child would find rewarding.
+5970.23 Then they stopped giving
+them the gold star.
+5973.52 And what they found is the children
+5975.7 had a much lower tendency
+to draw on their own.
+5981.15 No reward.
+5982.15 Now, remember this was an activity
+5984.33 that prior to receiving a reward,
+5986.49 the children intrinsically
+enjoyed and selected to do.
+5990.503 No one was telling them to draw.
+5992.529 What this relates to
+is so-called intrinsic
+5994.56 versus extrinsic reinforcement.
+5997.29 When we receive rewards,
+5998.84 even if we give ourselves
+rewards for something,
+6002.01 we tend to associate less
+pleasure with the actual activity
+6005.52 itself that evoked the reward.
+6007.99 Now, that might seem counterintuitive,
+6009.47 but that's just way that the way
+6010.7 that these dopaminergic circuits work.
+6013.29 And now understanding these
+peaks in baselines in dopamine
+6016.67 which I won't review again,
+6018.67 this should make sense.
+6020.34 If you get a peak in
+dopamine from a reward,
+6024.31 it's going to lower your baseline
+6025.78 and the cognitive interpretation
+6029.09 is that you didn't really do the activity
+6031.57 because you enjoyed the activity.
+6032.81 You did it for the reward.
+6034.45 Now, this doesn't mean all
+rewards of all kinds are bad,
+6037.36 but it's also important to understand
+6039.79 that dopamine controls
+our perception of time.
+6042.82 When and how much dopamine we experience
+6046.24 is the way that we carve up
+6048.2 what we call our experience of time.
+6050.58 When we engage in an activity,
+6052.17 let's say school or hard work of any kind
+6055.03 or exercise because of the reward
+6058.24 we are going to give ourselves
+a receive at the end,
+6060.31 the trophy, the sundae, the
+meal, whatever it happens to be.
+6066.9 We actually are extending the time bin
+6070.54 over which we are analyzing
+or perceiving that experience.
+6076.04 And because the reward comes at the end,
+6079.4 we start to dissociate the neural circuits
+6082.86 for dopamine reward that would
+have normally been active
+6086.39 during the activity.
+6088.62 And because it all arrives
+at the end over time,
+6092.92 we have the experience
+of less and less pleasure
+6095.84 from that particular activity
+while we're doing it.
+6099.22 Now, this is the antithesis
+of growth mindset.
+6103.16 My colleague at Stanford, Carol
+Dweck, as many of you know,
+6105.83 has come up with this
+incredible theory and principle,
+6109.08 and actually goes beyond
+theory and principle
+6110.97 called "Growth Mindset",
+6112.02 which is this striving to be
+better to be in this mindset
+6115.17 of I'm not there yet,
+6116.79 but striving itself is the end goal.
+6120.93 And that of course delivers
+you to tremendous performance.
+6123.36 It's been observed over
+and over and over again,
+6125.19 that people that have growth mindset,
+6126.61 kids that have growth mindset
+end up performing very well
+6129.47 because they're focused
+on the effort itself.
+6131.69 And all of us can
+cultivate growth mindset.
+6135.57 The neural mechanism of
+cultivating growth mindset
+6138.2 involves learning to access
+the rewards from effort
+6142.65 and doing.
+6143.81 And that's hard to do
+because you have to engage
+6147.91 this prefrontal component
+of the mesolimbic circuit.
+6150.39 You have to tell yourself,
+okay, this effort is great,
+6153.7 this effort is pleasureful.
+6155.22 Even though you might
+actually be in a state
+6156.8 of physical pain from the exercise,
+6158.46 or I can recall this from college,
+6160.14 just feeling like I wanted
+to get up from my desk,
+6162.28 but forcing myself to study,
+6163.69 forcing myself and forcing myself.
+6165.18 What you find over time is
+that you can start to associate
+6168.45 a dopamine release.
+6169.41 You can evoke dopamine
+release from the friction
+6173.07 and the challenge that
+you happen to be in.
+6175.85 You completely eliminate
+the ability to generate
+6179.61 those circuits and the
+rewarding process of being able
+6182.85 to reward friction while in effort,
+6186.08 if you are focused only on the
+goal that comes at the end.
+6189.58 Because of the way that
+dopamine marks time.
+6192.54 So if you say, oh, I'm going
+to do this very hard thing,
+6195.46 and I'm going to push and
+push and push and push
+6197.38 for that end goal that comes later.
+6200.31 Not only do you enjoy the process
+of what you're doing less,
+6205.02 you actually make it more painful
+6207.09 while you're engaging in it.
+6208.56 You make yourself less efficient at it,
+6210.32 because if you were able to
+access dopamine while in effort,
+6213.54 dopamine has all these
+incredible properties
+6215.39 of increasing the amount
+of energy in our body,
+6217.98 and in our mind, our ability to focus
+6219.91 by way of dopamines
+conversion into epinephrin.
+6223.25 But also you're undermining
+your ability to lean back
+6227.29 into that activity the next time.
+6228.58 The next time you need
+twice as much coffee
+6231.52 and three times as much loud music,
+6233.72 and four times as much energy drink
+6235.75 and the social connection
+just to get out the door
+6238.4 in order to do the run or to study.
+6240.77 So what's more beneficial
+in fact can serve
+6244.83 as a tremendous amplifier on all endeavors
+6247.68 that you engage in.
+6249.4 Especially hard endeavors is to A,
+6252.76 not start layering in
+other sources of dopamine
+6255.69 in order to get to the starting line,
+6257.53 not layering in other sources of dopamine
+6259.99 in order to be able to continue,
+6261.25 but rather to subjectively start to attach
+6264.64 the feeling of friction and effort
+6267.55 to an internally generated reward system.
+6270.36 And this is not meant to be vague,
+6272.41 this is a system that exists in your mind,
+6275.16 that exists in the minds of humans
+6277.04 for hundreds of thousands of years,
+6278.94 by which you're not
+just pursuing the things
+6281.78 that are innately pleasureful,
+6283.77 food, sex, warmth, water
+when you're thirsty.
+6287.9 But the beauty of this
+mesolimbic reward pathway
+6291.22 that I talked about earlier is that,
+6293.24 it includes the forebrain.
+6294.42 So you can tell yourself the
+effort part is the good part.
+6299.27 I know it's painful,
+6300.11 I know this doesn't feel good,
+6301.3 but I'm focused on this.
+6302.43 I'm going to start to access the reward.
+6304.99 You will find the rewards,
+6307.041 meaning the dopamine
+release inside of effort
+6310.09 if you repeat this over and over again.
+6311.788 And what's beautiful about it is that,
+6314.04 it starts to become reflexive
+for all types of effort.
+6317.47 When we focus only on the trophy,
+6319.32 only on the grade,
+6320.32 only on the win as the reward,
+6323.0 you undermine that entire process.
+6325.55 So how do you do this?
+6327.44 You do this in those moments
+of the most intense friction.
+6331.47 You tell yourself this is very painful
+6334.67 and because it's painful,
+6336.95 it will evoke an increase
+in dopamine release later,
+6340.63 meaning it will increase
+my baseline in dopamine,
+6343.95 but you also have to tell yourself
+6346.58 that in that moment you
+are doing it by choice
+6350.49 and you're doing it because you love it.
+6353.68 And I know that sounds
+like lying to yourself,
+6356.12 and in some ways it is lying to yourself,
+6358.43 but it's lying to yourself
+in the context of a truth
+6361.31 which is that you want it to feel better.
+6365.07 You want it to feel even pleasureful.
+6367.82 Now, this is very far and away different
+6370.85 from thinking about the
+reward that comes at the end,
+6374.33 the hot fudge sundae for after
+you cross the finish line
+6377.04 and you can replace hot fudge sundae
+6378.37 with whatever reward happens
+to be appealing to you.
+6382.03 We revere people who are capable of doing
+6384.01 what I'm describing.
+6385.84 David Goggins comes to mind
+is a really good example.
+6388.09 Many of you are probably
+familiar with David Goggins,
+6390.22 former Navy SEAL who essentially
+6392.67 has made a post-military
+career out of explaining
+6398.21 and sharing his process
+of turning the effort
+6400.95 into the reward.
+6402.67 There are many other examples
+of this too, of course.
+6406.85 Throughout evolutionary history,
+6408.77 there's no question that we revered people
+6410.63 who were willing to go out
+and forage and hunt and gather
+6413.97 and caretake in ways that other members
+6417.94 of our species probably found exhausting
+6420.29 and probably would have preferred
+to just put their feet up
+6422.77 or soaked them in a cool stream
+6424.06 rather than continue to forage.
+6426.1 The ability to access
+this pleasure from effort
+6430.89 aspect of our dopaminergic circuitry
+6433.36 is without question the most
+powerful aspect of dopamine
+6437.407 and our biology of dopamine.
+6439.57 And the beautiful thing is
+it's accessible to all of us.
+6443.07 But just to highlight the
+things that can interfere with,
+6445.99 and prevent you from
+getting dopamine release
+6449.94 from effort itself,
+6452.17 don't spike dopamine prior
+to engaging in effort.
+6455.559 And don't spike dopamine
+after engaging in effort,
+6459.47 learn to spike your
+dopamine from effort itself.
+6463.02 One straightforward example
+of learning to attach dopamine
+6467.51 to effort and strain
+as opposed to a process
+6471.87 or a reward that naturally
+evokes dopamine release
+6475.29 is so-called intermittent fasting.
+6477.15 I know this is very popular nowadays.
+6479.54 Some people like to do
+intermittent fasting,
+6481.19 some people don't.
+6482.35 Some people have a 12 hour
+feeding window every 24 hours,
+6485.2 some people do long fasts
+of two to three days even.
+6488.3 I personally don't
+monitor a feeding window
+6491.6 with a lot of precision.
+6492.69 I tend to skip one meal a day,
+6494.08 either breakfast or lunch,
+6495.4 and then I eat the other
+two meals of the day
+6496.89 depending on which meal I skipped.
+6498.16 So it's either breakfast, lunch
+6499.78 and maybe a little
+something in the evening,
+6502.32 or I'll skip breakfast and do
+lunch and dinner and so on.
+6505.73 Many people are now
+eating this way in part,
+6508.8 because many people find
+it easier to not eat at all
+6512.95 than to eat a smaller
+portion of some food.
+6516.02 And that has everything to
+do with the dopamine reward
+6519.38 evoking properties of food.
+6522.05 When we ingest food or when
+we are about to ingest food,
+6525.98 our dopamine levels go up.
+6527.21 And typically when we ingest food,
+6529.35 if it evokes some dopamine release,
+6531.04 then we tend to want even more food.
+6532.73 Remember dopamine's main
+role is one of motivation
+6536.01 and seeking.
+6536.843 And what dopamine always wants
+more of is more dopamine.
+6541.08 More activity or thing that
+evokes more dopamine release.
+6545.22 Well, let's just look at fasting
+6547.98 from the perspective of dopamine schedules
+6550.427 and dopamine release
+and peaks and baselines.
+6554.8 Typically, when we eat
+we get dopamine release,
+6558.85 especially when we eat
+after being very hungry.
+6561.55 If you've ever gone camping,
+6562.61 or you're very, very hungry,
+6564.22 the food tastes that much better.
+6566.11 And that's actually because of the way
+6568.11 that deprivation states increase the way
+6572.84 that dopaminergic circuits work.
+6575.11 Our perception of dopamine is heightened
+6578.58 when the receptors for dopamine
+6580.36 have not seen much dopamine lately,
+6582.47 they haven't bound much dopamine.
+6583.89 So when you fast, fast, fast, fast, fast,
+6585.8 and then you finally eat,
+6587.91 it evokes more dopamine release.
+6589.69 So this is the big reward
+that comes at the end.
+6592.9 Even bigger because you deprived yourself.
+6596.25 This is true for all rewarding
+behaviors and activities
+6599.04 by the way.
+6600.25 The longer you restrict
+yourself from that activity,
+6603.0 the greater the dopamine
+experience when the dopamine
+6606.02 is finally released,
+6606.853 because of an upregulation of
+the receptors for dopamine.
+6610.85 but I just spent five
+minutes or more telling you
+6613.47 that you should avoid too
+much reward at the end,
+6616.47 and you should actually
+focus on the dopamine
+6619.83 that you can consciously evoke
+from the deprivation strain
+6624.19 and effort.
+6625.023 And in fact, this is what
+happens for many people
+6628.11 that start doing fasting
+and take a liking to it.
+6631.19 Many people say that their state of mind
+6634.01 when they fast is clearer,
+6635.95 that they actually start to
+enjoy the period of fasting.
+6639.11 In fact, some people start
+pushing out their eating window
+6641.87 or skipping entire days
+of eating more and more
+6644.25 in order to get deeper
+into that state of mind
+6647.605 where surely it's not just dopamine,
+6650.53 but dopamine is released.
+6651.95 They will track their clock.
+6653.39 Oh, I've been fasting 12
+hours, 16 hours, et cetera.
+6656.04 They are starting to
+attach dopamine release
+6658.47 or create dopamine release
+from the deprivation,
+6661.48 not from the food reward itself.
+6663.46 And this I think makes it
+an interesting practice.
+6666.27 And one that certainly has
+been practiced by for centuries
+6670.26 in different cultures
+and different religions
+6672.25 of deliberately restricting food,
+6674.29 not just to increase
+the rewarding properties
+6676.56 of food itself,
+6678.02 but also to increase
+the rewarding properties
+6680.55 of deprivation.
+6682.09 And I should emphasize that a
+lot of the subjective aspects
+6685.08 of the knowledge of
+the benefits of fasting
+6687.51 serve as reinforcing dopamine
+amplifying aspects to fasting,
+6693.16 meaning if somebody does
+intermittent fasting
+6696.61 and they are deep into their fast
+6698.38 and they're telling themselves,
+6699.28 oh, my blood lipid profiles
+are probably improving.
+6701.92 And my glucose management
+is probably improving.
+6704.5 My insulin sensitivity is going up,
+6706.31 and I'm going to live longer.
+6707.21 All these things that have
+some basis from animal studies
+6711.01 and some basis or not from human studies,
+6713.77 it's all kind of still
+an emerging literature,
+6715.81 but it does seem to be
+pointing in that direction
+6717.65 that fasting can encourage
+things like autophagy,
+6721.507 the engulfment of dead cells
+and things of that sort.
+6724.56 Well, as people tell
+themselves these things,
+6727.8 they are enhancing the
+rewarding properties
+6730.98 of the behavior of fasting.
+6732.88 And so this is a salient example
+6735.0 of where knowledge of
+knowledge can actually help us
+6738.86 change these deep primitive
+circuits related to dopamine.
+6743.06 And this illustrates how the forebrain,
+6745.49 which carries knowledge
+and carries interpretation
+6748.29 and rational thought can be
+used to shape the very circuits
+6752.72 that are involved in generating reward
+6755.3 for what would otherwise
+just be kind of primitive
+6757.44 behaviors, hardwired behaviors.
+6759.11 And that's the beauty of
+these dopamine circuits.
+6761.38 That's the beauty of dopamine.
+6762.57 It's not just attached to the
+more primitive of food, sex,
+6767.28 heat, et cetera.
+6769.52 It's also attached to the things
+6771.53 that we decide are good for
+us and are important for us.
+6774.71 So telling yourself
+that exercise or fasting
+6777.38 or studying or listening better
+6780.21 or any kind of behavior is good for you
+6781.82 will actually reinforce the extent
+6784.68 to which it is good for
+you at a chemical level.
+6788.05 And a somewhat eerie example
+of what I just mentioned
+6791.69 was a study that was published last year
+6793.79 in the journal Neuron, Cell Press journal,
+6795.48 excellent journal.
+6796.78 That showed that hearing something
+6800.22 that reinforces one's prior beliefs
+6802.96 actually can evoke dopamine release.
+6805.43 So the dopamine pathway is so vulnerable
+6808.49 to subjective interpretation
+6810.69 that it actually makes it such
+that when we see something
+6813.62 or hear something that validates a belief
+6815.74 that we already have,
+6816.88 that itself can increase dopamine release.
+6820.6 Along the lines of how
+dopamine and dopamine schedules
+6824.18 and our perception of
+things can shape the way
+6826.66 that we experience things
+as pleasureful or not.
+6829.701 There are beautiful studies
+mainly looking at sugar appetite
+6833.37 and our sense of pleasure
+from sweet things,
+6835.9 but also for savory foods, et cetera.
+6838.69 And essentially the results that come out
+6840.32 of this are the following.
+6841.58 If you ingest something that you like,
+6843.85 it tastes good to you,
+6845.12 but then you ingest
+something that's even sweeter
+6847.93 or even more savory.
+6849.67 And then you go back to the
+food that you ate previously.
+6853.57 Well, you don't like it as much,
+6855.61 and that might seem like a duh, obviously.
+6858.35 But that shift in
+perception can be blocked
+6862.6 by blocking the shift in dopamine.
+6865.18 And so this really speaks
+to these peaks and valleys
+6868.19 in dopamine that I mentioned before
+6869.53 and how your experience of
+anything is going to depend
+6873.08 on your prior experience of other things
+6875.92 that evoke dopamine.
+6876.88 Big dopamine release
+makes it more challenging
+6879.87 to experience more big dopamine release.
+6883.02 So dopamine is one of those things
+6884.313 that you don't want too high
+or too low for too long.
+6887.86 It's all about staying
+in that dynamic range
+6890.14 and that's going to be
+different for everybody.
+6892.51 So for the very savory foods
+that are now everywhere,
+6897.95 those highly savory foods
+6899.583 or I think they call them
+highly palatable foods
+6902.19 are making more bland foods, whole foods,
+6906.04 meaning foods that aren't processed.
+6907.44 It's making those tastes less
+good at least for a while.
+6910.18 And all it takes is a short
+period of time, even just days,
+6913.53 two days or so of not consuming
+any highly palatable foods
+6917.95 and suddenly broccoli with
+just a little bit of seasoning
+6922.45 tastes delicious to you.
+6923.85 All right?
+6924.683 So again, this just speaks
+to the fact that dopamine
+6927.22 is this universal currency.
+6929.17 It establishes value based on,
+6931.6 not just what you're
+experiencing in the moment,
+6933.23 but what you experienced in
+the days and minutes before.
+6936.63 Now, that you understand
+how your previous level
+6939.62 of dopamine relates to your
+current level of dopamine,
+6942.71 and how your current level
+of dopamine will influence
+6946.1 your future level of dopamine,
+6948.51 it should become obvious
+why things like pornography,
+6952.59 not just the accessibility of pornography,
+6954.7 but the intensity of
+pornography can negatively shape
+6959.67 real world romantic and
+sexual interactions.
+6962.72 This is a serious concern.
+6964.05 The discussion is happening now.
+6966.21 The underlying neurobiological mechanisms
+6968.3 you now understand.
+6969.84 And this isn't to pass judgment on whether
+6971.89 or not people like or
+don't like pornography,
+6974.78 that's an ethical discussion,
+6975.94 and it's a moral discussion
+that has to be decided
+6978.05 for each individual by
+virtue of age, et cetera.
+6982.53 But again, any activity that evokes
+6986.17 a lot of dopamine release
+will make it harder
+6989.86 to achieve the same level and
+certainly the greater level
+6993.75 of dopamine through a
+subsequent interaction.
+6996.89 So yes, indeed many people
+are addicted to pornography
+7000.44 and yes, indeed many people
+who regularly indulge
+7004.53 in pornography experienced challenges
+7006.84 in real-world romantic interactions.
+7009.14 You now understand the mechanisms behind
+7010.91 what I'm telling you.
+7012.3 Now, there are circumstances
+in which increasing levels
+7015.08 of dopamine is desirable and advantageous
+7017.87 and clinically helpful.
+7019.41 Good example of this would
+be the drug Welbutrin
+7021.77 also called bupropion
+which increases dopamine
+7024.61 and norepinephrine.
+7026.16 Wellbutrin bupropion was developed
+7027.84 as an alternative treatment for depression
+7030.22 because some people who
+take the so-called SSRI,
+7032.88 selective serotonin reuptake inhibitors
+7035.61 which as the name suggests
+increased serotonin
+7037.86 suffer from serotonin
+related side effects.
+7041.38 Things like decreased
+appetite, decreased libido,
+7044.78 or sometimes increased
+appetite or other side effects
+7048.85 that they don't want.
+7050.4 And Wellbutrin seems to avoid
+the sexual side effects.
+7054.24 It can blunt at appetite
+and these sorts of things
+7058.5 because of the increase in
+norepinephrine and dopamine
+7061.88 increases levels of
+motivation and craving,
+7064.53 but also can create a
+state of elevated alertness
+7069.16 that can sometimes get in
+the way of healthy eating
+7072.16 and things of that sort.
+7072.993 So one has to work with their
+clinician as psychiatrist.
+7076.68 It is a prescription drug in order
+7078.28 to find the dosage of Welbutrin
+that's correct for them.
+7081.86 In addition, things
+like Welbutrin bupropion
+7084.44 can increase anxiety because
+of the way that dopamine
+7086.977 and norepinephrine are stimulating
+7089.08 and tend to place people
+into heightened levels
+7090.96 of alertness.
+7091.793 Nonetheless, many people
+have gained terrific relief
+7094.68 from depression from Wellbutrin bupropion,
+7097.378 and many of those same
+people had serious trouble
+7099.81 with some of the SSRI.
+7101.09 So it does seem to be a very useful drug
+7103.21 in certain contexts,
+7104.043 both for depression and for
+the treatment of smoking
+7106.85 for people desiring to quit smoking.
+7109.18 And of course there are
+a lot of people out there
+7111.25 who are seeking to increase
+their baseline levels
+7113.55 of dopamine without
+taking any prescription
+7116.81 pharmaceutical compounds.
+7118.7 And nowadays there exist a
+lot of supplements to do that.
+7122.44 The two most common ones that are directly
+7124.79 within the dopamine
+pathway are Macuna Pruriens
+7128.45 which is actually a velvety
+bean whose contents are l-DOPA.
+7134.37 Believe it or not, the
+content of this being
+7136.32 is the precursor to dopamine.
+7138.63 So Macuna Pruriens is
+sold over the counter
+7141.52 at least in the United States.
+7143.21 And it literally is the
+precursor to dopamine.
+7147.11 Meaning if you take it,
+7148.21 you will experience very
+large increases in dopamine.
+7151.19 Those increases are transient
+and very, very intense.
+7154.11 And in fact, if you look at
+the constellation of effects
+7157.81 of Macuna Pruriens,
+7159.63 what you find is that
+they're pretty striking
+7161.51 and they look a lot like
+if not identical to l-DOPA.
+7165.68 The most obvious of
+those is in the context
+7168.4 of Parkinson's disease.
+7169.69 There are at least five
+studies that have shown
+7171.78 that Macuna Pruriens
+can reduce the symptoms
+7175.19 of Parkinson's disease,
+7176.25 much in the same way
+that l-DOPA can reduce
+7179.22 the symptoms of Parkinson's disease.
+7181.32 And that shouldn't come as any surprise
+7182.96 given what I just told you
+that is essentially l-DOPA.
+7186.85 It also can reduce a particular
+hormone called prolactin.
+7190.28 Dopamine and prolactin
+tend to be in somewhat
+7192.86 push pull fashion.
+7193.91 When dopamine is up,
+7194.77 prolactin is down and vice versa.
+7197.29 Prolactin is involved in
+milk letdown in women.
+7199.63 It's involved in setting
+the refractory period
+7202.33 for sex after ejaculation in males.
+7206.04 The reason mating can
+occur and then not occur
+7208.59 after a ejaculation is because
+of an increase in prolactin.
+7211.12 Macuna Pruriens is often
+used a blunt prolactin,
+7214.95 and they're actually a
+couple of studies showing
+7217.06 that it can indeed do that.
+7219.017 Macuna Pruriens has a
+number of other effects
+7221.8 that lie in the sex and
+reproduction pathway
+7224.93 that are worth noting.
+7227.04 Sperm concentration, sperm quality
+7229.69 is actually greatly
+increased by Macuna Pruriens.
+7232.56 These are kind of curious
+effects until you understand
+7234.672 a little bit more about
+the biology of dopamine
+7236.45 which I'll mention in a moment,
+7237.94 but there are several studies,
+7240.34 four in fact that describe
+how Macuna Pruriens
+7245.39 can increase sperm count, sperm quality,
+7248.19 and sperm motility.
+7249.68 So for those of you seeking
+to conceive children,
+7251.97 Macuna Pruriens might
+be an interesting choice
+7254.98 if you're interested in exploring
+7256.51 non-prescription compounds.
+7258.14 However, I should mention that any time
+7261.93 you consume a substance
+that increases dopamine
+7266.08 by mimicking dopamine or
+acting as a direct precursor
+7269.52 to dopamine,
+7270.65 there's almost inevitably
+a crash or a reduction
+7275.08 in the baseline in dopamine
+that we referred to previously.
+7278.69 So many people who take Macuna Pruriens
+7280.81 feel really elevated, really
+motivated, really alert,
+7284.89 all the sorts of things
+that one would expect
+7286.66 from a dopaminergic drug
+which Macuna Pruriens is.
+7290.44 And then they feel a low
+or a reduction in drive
+7294.537 and excitement and enthusiasm
+after the drug wears off.
+7298.19 Just like they would with other dopamine
+7300.74 increasing compound.
+7302.0 For that reason, many people have turned
+7305.37 to the use of L-tyrosine.
+7307.39 L-tyrosine is an amino
+acid precursor to l-DOPA.
+7310.8 So it lies further up the
+dopamine synthesis pathway.
+7314.2 And nowadays it's very
+common because all L-tyrosine
+7317.57 is sold over the counter
+in the United States
+7320.09 that people will take L-tyrosine as a way
+7322.89 to get more energized alert and focused.
+7326.31 Indeed, there are data that
+L-tyrosine will accomplish that.
+7330.5 L-tyrosine is typically
+taken in capsule form
+7333.2 or powder form anywhere from 500 to 750
+7336.537 to a 1000 milligrams.
+7338.54 It is a potent stimulus
+for increasing dopamine.
+7341.88 And the timescale for increasing dopamine
+7343.73 is about 30 to 45 minutes after ingestion.
+7346.53 Dopamine levels start to peak.
+7348.38 The classic study that really nailed down
+7351.31 the fact that tyrosine has this effect
+7354.04 was published way back in 1983,
+7356.77 Journal of Clinical
+Endocrinology and Metabolism
+7359.56 that directly compared
+L-tyrosine supplementation
+7362.95 with tryptophan ingestion on
+plasma dopamine and serotonin.
+7368.44 Tryptophan being a precursor to serotonin.
+7371.36 And indeed what they found is
+that ingestion of L-tyrosine
+7375.03 can increase the amount of
+dopamine circulating in the blood
+7378.83 and in the brain too, of course.
+7382.117 The L-tyrosine ingestion induced dopamine
+7384.19 increases within 45 minutes
+and they were short-lasting
+7387.67 after about 30 minutes
+the effect had dissipated,
+7390.99 meaning the levels of dopamine
+had dropped down to baseline.
+7393.97 And even though they didn't look at levels
+7396.1 of baseline dopamine past that time point,
+7399.19 the expectation based
+on everything we know
+7401.64 about dopamine biology is
+that it would then drop
+7404.19 below baseline due to the depletion
+7407.28 of the readily reservable
+pool of dopamine vesicles
+7409.93 that we talked about way
+back at the beginning
+7411.71 of this episode.
+7413.36 The nice thing about this study
+is it does show specificity
+7415.8 of effect because ingestion of tryptophan
+7418.32 did not increase dopamine
+instead it increased serotonin.
+7422.35 So there's really
+specificity of these pathways
+7424.3 that rule out any placebo type effects.
+7428.21 I'm not suggesting that anybody, everybody
+7431.16 increase their dopamine
+levels by way of tyrosine
+7433.617 or Macuna Pruriens.
+7435.617 For those of you that
+are seeking to increase
+7437.5 your dopamine levels
+without prescription drugs,
+7439.82 those are the most direct route to that.
+7441.95 Of course, if you have a pre-existing
+7444.14 dopaminergic condition,
+7445.48 so schizophrenia or psychosis of any kind,
+7448.68 bipolar, anxiety,
+7451.61 things like Macuna Pruriens and L-tyrosine
+7454.12 will not be good for you.
+7455.91 And if you don't, you should
+just understand and expect
+7459.99 that it's going to lead to
+an increase in dopamine.
+7463.38 You'll certainly feel an elevated state
+7465.19 for some of you that might be agitating,
+7467.86 for some of you that might
+be really pleasureful,
+7469.63 and then you will feel a crash afterwards.
+7471.92 How deep is that crash will
+really depend on your biology
+7475.16 and where your dopamine baseline began.
+7478.35 So I personally am not
+a fan of using things
+7481.07 like Macuna Pruriens at all for myself
+7483.66 for the reasons I mentioned earlier,
+7485.72 just too intense and too much of a crash.
+7488.33 I do use L-tyrosine from time to time
+7490.73 for enhancing focus and motivation,
+7492.5 but I want to emphasize from time to time.
+7495.23 So I might use it once a week,
+occasionally twice a week,
+7498.52 but I've never been one to
+take L-tyrosine regularly
+7501.37 in order to focus or train or
+do any kind of mental work.
+7504.93 I just don't want to rely
+on any exogenous substance
+7508.97 in order to get my dopamine
+circuits activated.
+7512.36 And I don't want to experience
+the drop in dopamine
+7515.16 that inevitably occurs some
+period of time afterwards.
+7518.47 I should also mention
+things that can reduce
+7521.378 your levels of baseline dopamine.
+7523.98 One that is rarely discussed is melatonin.
+7527.64 I have talked before on this
+podcast about melatonin,
+7530.51 why I am not a fan of using melatonin
+7533.25 in order to enhance sleep.
+7535.14 It can help one get to sleep,
+7536.46 but not stay asleep.
+7537.69 Dr. Matt Walker sleep expert
+7539.33 from University of California, Berkeley.
+7541.43 I think I don't want to
+put words in his mouth,
+7543.89 but in our discussion about
+melatonin on this podcast
+7548.65 when Matt was a guest in his
+book and on other podcasts,
+7551.43 Matt has generally stated
+that the use of melatonin
+7554.69 except for treatment of jet lag
+7556.62 is generally not a good idea.
+7558.29 And I agree.
+7559.77 I think that melatonin is
+not often thought about
+7563.21 as impacting the dopamine pathway,
+7564.84 but there's at least one
+study published in 2001
+7568.72 first author is Nishiyama
+just as it sounds.
+7572.55 It's spelled just as it sounds.
+7574.51 Acute effects of melatonin administration
+7576.47 on cardiovascular autonomic
+regulation in healthy men.
+7579.05 So the study wasn't
+specifically about dopamine,
+7581.84 but they looked at norepinephrine
+and dopamine levels,
+7584.2 and they found a statistically
+significant decrease
+7588.75 in dopamine 60 minutes after
+melatonin administration.
+7592.73 I've talked before about
+how viewing bright lights
+7596.09 between the hours of
+10:00 p.m and 4:00 a.m
+7598.21 has been shown in studies
+by Dr. Samer Hattar,
+7600.54 David Bersin, excellent
+circadian scientists
+7604.31 to reduce levels of
+dopamine for several days
+7607.03 after that light exposure.
+7608.32 So dim the lights at night,
+7610.46 if you can avoid exogenous melatonin,
+7613.72 meaning if you don't
+have to take melatonin
+7616.29 and you can find a better alternative
+7618.12 that would be a good idea
+7618.98 if you want to maintain
+healthy levels of dopamine.
+7621.73 Now, there is one compound
+that you are all familiar with,
+7624.51 and you've probably actually
+taken without realizing it,
+7627.58 that increases dopamine.
+7628.81 And that's something called
+PEA for phenethylamine,
+7633.02 technically beta phenethylamine.
+7636.11 And PEA is found in various foods.
+7639.21 Chocolate just happens to
+be one in enriched in PEA
+7643.05 and can increase synaptic
+levels of dopamine.
+7646.75 I personally take PEA from time to time
+7649.65 as a focus and work aid
+in order to do intense
+7654.44 bouts of work.
+7655.43 Again, I don't do that too often.
+7656.89 This might be once a week
+or once every two weeks.
+7659.33 I might use it for training,
+7660.42 but typically I don't,
+7661.72 it's usually for mental work.
+7663.08 And I will take 500 milligrams of PEA
+7666.21 and I'll take 300 milligrams of Alpha-GPC.
+7669.26 That's something that I personally do.
+7670.84 That's what's right for me,
+7671.88 it's within my margins
+of safety for my health.
+7674.37 Again, you have to check
+with your doctor and decide
+7676.52 what's right for you.
+7677.96 It leads to a sharp but very
+transient increase in dopamine
+7682.54 that lasts about 30 to 45 minutes.
+7685.53 And at least in my system
+I've found to be much more
+7689.41 regulated and kind of even
+than something like L-tyrosine
+7693.31 and certainly much more regulated and even
+7695.64 and lower dopamine release than something
+7698.01 like Macuna Pruriens.
+7700.24 One of the lesser talked about
+compounds that's out there,
+7702.87 but that's gaining popularity
+for increasing dopamine
+7706.56 and as a so-called nootropic is something
+7708.76 called huperzine A.
+7710.26 Huperzine A is a compound
+sold over the counter
+7713.82 at least in the United States
+7715.21 that can increase
+acetylcholine transmission,
+7718.13 a different neuromodulator entirely.
+7720.41 But what's interesting is
+that huperzine A somehow
+7723.7 by way of interactions
+between the cholinergic system
+7726.68 and the dopaminergic system
+leads to increases in dopamine
+7731.06 in the medial prefrontal
+cortex and hippocampus.
+7733.69 Hippocampus, of course,
+being an area of the brain
+7735.65 associated with learning and memory.
+7737.2 And prefrontal cortex being associated
+7739.01 with the mesolimbic pathway,
+decision-making focus,
+7741.48 et cetera.
+7742.313 And so I think the reason
+why we're seeing an increase
+7744.63 in popularity of companies
+including huperzine A
+7747.847 and nootropic compounds is
+both for the cholinergic
+7751.22 stimulating properties,
+7752.17 but also for stimulating dopamine release.
+7755.56 I personally have never tried huperzine A.
+7757.55 You can go to www.examine.com
+or put huperzine A
+7760.65 into PubMed if you'd like to search around
+7762.71 and see some of the science behind it.
+7764.4 Again, I'm not recommending
+anyone take these things.
+7766.34 In fact, I recommend against
+anyone just diving in,
+7768.51 and starting to consume things
+without gaining knowledge
+7771.21 about how they function,
+7772.49 whether or not they're right for you.
+7773.97 But nonetheless, I think
+in the years to come,
+7776.11 we are going to see a
+lot more of L-tyrosine,
+7779.35 PEA phenethylamine and
+huperzine as a way of tapping
+7783.33 into the dopaminergic
+and cholinergic circuits
+7786.01 certainly along with things like Alpha-GPC
+7788.39 as non-prescription, short-lived
+7790.9 somewhat milder alternatives to things
+7794.25 that really spike dopamine,
+7796.38 things like Adderall, Ritalin,
+modafinil, armodafinil
+7799.51 and similar.
+7800.65 And I can't help but share
+with you one more result.
+7802.94 It's not related to pharmacology.
+7804.95 It's related to behaviors
+and social interactions.
+7808.58 And that's the very interesting
+7810.27 and I would say important finding
+7812.36 that was made a few years ago
+by my colleague, Rob Malenka,
+7815.403 who's in our department
+of psychiatry at Stanford,
+7817.56 showing that oxytocin
+and social connection
+7820.85 is actually directly stimulating
+the dopamine pathway.
+7824.8 I think for many years,
+7826.41 all of us including me
+would hear and thought
+7830.32 that oxytocin was in
+the serotonergic pathway
+7833.81 that it was about pair bonding,
+7835.34 and it was about some
+of these neuromodulators
+7837.43 that were more associated
+with things related
+7840.12 to feeling good with what we
+have in the present moment.
+7843.53 That's typically what we
+think of when we think
+7845.02 of the opioid system or
+the serotonergic system.
+7848.11 The dopamine system is really
+about seeking and reward,
+7850.96 but in a paper published in
+2017 in the journal Science,
+7853.84 excellent journal.
+7856.27 The papers titled gaining of
+social reward by oxytocin,
+7860.07 excuse me, in the ventral tegmental area.
+7862.61 You now know what the
+ventral tegmental area,
+7864.17 it's that area of the mesolimbic pathway.
+7866.32 What this paper
+essentially showed is that,
+7868.58 oxytocin social connection
+and pair bonding itself
+7873.16 triggers dopamine release.
+7875.03 And as everyone read this
+result, we all realized,
+7878.44 ah, this makes total sense
+that for the evolution
+7881.92 of our species,
+7882.753 indeed for any species
+where social connections
+7885.18 are important,
+7886.68 it's also important to go
+seek social connections.
+7889.27 And so, while it's fun to
+think about pharmacology
+7891.61 and underlying neurocircuitry
+and cold water baths
+7894.94 and all these different things
+related to dopamine schedules
+7898.53 and reward mechanisms and
+attaching reward to effort
+7901.35 and all the various things
+that we've talked about today
+7903.39 in terms of science and
+tools and protocols,
+7906.73 I'd be remiss if I didn't include
+description of this result
+7909.75 and just emphasize that
+social connections,
+7913.78 close social connections in particular
+7915.9 that evoke oxytocin release.
+7917.38 So those are romantic type,
+7919.21 those are parent-child type,
+7921.25 those are friendship related,
+7922.77 and those can even be just
+friends at a distance related,
+7926.41 right?
+7927.362 It doesn't actually require skin contact
+7928.77 to get oxytocin release,
+7931.37 but oxytocin release is
+central to stimulating
+7934.11 the dopamine pathways.
+7935.95 So the take home message
+there is quite simple,
+7939.61 engage in pursue quality,
+healthy social interactions.
+7944.11 I know I've covered a
+lot of material today.
+7946.33 I've really tried hard to focus on things
+7948.15 that lie directly within
+the dopamine pathway
+7951.3 and circuitries,
+7952.72 as well as things that directly stimulate
+7954.7 those pathways and circuitries.
+7957.0 What I haven't talked
+about are all the things
+7959.6 that indirectly serve
+the dopamine pathways.
+7962.92 And out there on the internet
+7964.37 and indeed in the scientific literature,
+7966.4 you will find for instance,
+7967.67 that things like Maca root
+can increase dopamine.
+7970.25 Things like the gut microbiome
+can influence dopamine.
+7973.55 And indeed they can,
+7974.95 but they do that through
+indirect mechanisms.
+7977.07 By creating a environment,
+7979.04 a milieu in which dopamine
+and dopamine circuits
+7982.2 can flourish.
+7983.47 Maca is a good example of that.
+7984.84 It will reduce cortisol and
+through some indirect pathways
+7988.2 related to cortisol can increase dopamine.
+7990.89 But it's not a direct
+increase in dopamine.
+7993.1 And so as a consequence,
+it's rather subtle
+7995.21 compared to the various
+compounds and behaviors
+7997.43 that I talked about today.
+7998.78 Indeed cold water exposure
+leads to huge increases
+8003.27 in dopamine as we talked about before,
+8005.6 and very sustained ones at that.
+8008.52 I realize in giving you a lot
+of information about science
+8011.75 and mechanism all the way
+from psychological biological
+8014.7 to circuitry and synaptic transmission,
+8016.54 volumetric transmission and so forth,
+8018.827 that it might seem overwhelming.
+8020.77 The most important thing is to understand,
+8022.59 or that these dopamine pathways
+8023.84 really are under your control.
+8025.93 And the locus of control
+resides in the fact
+8029.07 that your previous levels of dopamine
+8031.33 are influencing your levels
+of dopamine right now.
+8034.1 And your current levels of dopamine
+8035.6 and where you take them next,
+8037.01 will influence your dopamine
+levels in the next days
+8039.32 and weeks to come.
+8040.35 So I hope both with the mechanisms
+that you now have in hand
+8044.03 plus some of the tools to tap
+into the dopaminergic system,
+8046.76 both behavioral,
+pharmacologic prescription,
+8049.17 and non-prescription, et cetera,
+8050.8 that you'll feel that
+you have more control
+8052.22 over your dopamine system.
+8053.49 And certainly that you
+have a better understanding
+8055.53 of your dopamine system
+so that you can modulate
+8058.43 and adjust your levels
+of dopamine in the ways
+8060.34 that serve you best.
+8062.11 If you're learning from and
+or enjoying this podcast,
+8065.89 please subscribe to our YouTube channel.
+8067.63 That's a terrific way to support us.
+8069.51 In addition, please leave
+us a comment or a suggestion
+8072.54 for a guest you'd like us to interview
+8074.93 or a topic you'd like us to cover.
+8076.84 In addition, please subscribe
+to us on Apple and Spotify.
+8080.99 And on Apple, you have the opportunity
+8082.56 to leave us up to a five-star review
+8084.55 and to leave us a comment there as well.
+8087.13 Please also check out
+the sponsors mentioned
+8089.0 at the beginning of today's podcast.
+8090.91 That's a terrific way to support us.
+8092.97 In addition, if you'd like
+to support the Huberman Lab
+8095.12 and research at Stanford on
+stress, stress mitigation
+8098.35 and human performance,
+8099.51 you can do that by going to,
+8100.81 www.hubermanlab.stanford.edu/giving.
+8104.86 And there you can make a
+tax deductible donation
+8107.46 to the research in my laboratory.
+8109.71 In addition, we have a Patreon.
+8111.53 It's www.patreon.com/andrewhuberman.
+8114.55 And there you can support
+the podcast at any level
+8117.1 that you like.
+8118.35 Today and on previous podcast episodes
+8120.5 we talked a bit about supplements.
+8122.4 Supplements certainly aren't necessary,
+8124.35 but many people find them beneficial
+8125.98 for things like adjusting
+their levels of dopamine
+8127.97 or for other purposes.
+8129.95 If you're going to use supplements,
+8131.13 it's very important that
+the supplements you use
+8133.32 be of very high quality,
+8134.69 and that the quantity of ingredients
+8136.76 that are on the label match
+8138.32 what's actually in those bottles.
+8139.61 For that reason, we've
+partnered with Thorne.
+8141.3 T-H-O-R-N-E because Thorne
+has the highest levels
+8144.41 of stringency with respect to quality
+8146.61 and how much of each supplement
+they put in the products
+8150.45 that they sell.
+8151.283 If you'd like to see the
+supplements that I take,
+8152.87 you can go to Thorne,
+8153.703 www.T-H-O-R-N-E.com/u/huberman.
+8158.03 And there, you can see what I take.
+8159.3 You can get 20% off any
+of those supplements.
+8162.04 And if you navigate into the Thorne site
+8164.08 through that portal,
+8165.314 then you can get 20% off
+any of the supplements
+8168.07 that Thorne makes.
+8169.1 If you're not already
+following us on Instagram
+8171.21 at Huberman Lab, please do so.
+8172.77 There I teach neuroscience
+tools and information.
+8176.01 Oftentimes, it's tools and information
+8177.62 that I don't cover on the podcast.
+8179.7 We're also on Twitter,
+also at Huberman Lab.
+8182.31 And last but certainly not least,
+8184.54 thank you for your interest in science.
+8186.26 [energetic music]

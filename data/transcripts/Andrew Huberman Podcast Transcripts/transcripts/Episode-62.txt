@@ -1,0 +1,4551 @@
+0.0 - Welcome to the Huberman Lab Podcast,
+1.97 where we discuss science
+and science-based tools
+4.572 for everyday life.
+9.44 I'm Andrew Huberman,
+10.63 and I'm a professor of
+neurobiology and ophthalmology
+13.05 at Stanford School of Medicine.
+15.0 Today, my guest is Dr. David Sinclair,
+17.38 professor of genetics at
+Harvard Medical School
+19.98 and co-director of the
+Paul F. Glenn Center
+22.74 for the Biology of Aging.
+24.67 Dr. Sinclair's work is
+focused on why we age
+27.83 and how to slow or reverse
+the effects of aging
+30.54 by focusing on the cellular
+and molecular pathways
+33.78 that exist in all cells of
+the body and that progress
+36.721 those cells over time from
+young cells to old cells.
+40.547 By elucidating the biology of
+cellular maturation and aging,
+44.925 Dr. Sinclair's group has
+figured out intervention points
+48.1 by which any of us indeed, all of us,
+50.81 can slow or reverse the effects of aging.
+53.28 What is unique about his work
+54.274 is that it focuses on
+behavioral interventions,
+57.13 nutritional interventions,
+as well as supplementation
+60.74 and prescription drug
+interventions that can help us all
+64.35 age more slowly and reverse
+the effects of aging
+67.36 in all tissues of the body.
+69.29 Dr. Sinclair holds a unique
+and revolutionary view
+71.9 of the aging process, which is that aging
+74.58 is not the normal and natural consequence
+76.629 that we all will suffer.
+78.63 But rather that aging is a disease
+80.81 that can be slowed or halted.
+82.85 Dr. Sinclair continually publishes
+84.73 original research articles
+in the most prestigious
+87.73 and competitive scientific journals.
+89.97 In addition to that, he's
+published a popular book
+92.77 that was a New York Times bestseller.
+94.66 The title of that book, is 'Lifespan:
+96.207 Why We Age And Why We Don't Have To.'
+98.74 He is also very active
+in public facing efforts
+101.47 to educate people on the biology of aging
+103.63 and slowing the aging process.
+105.79 Dr. Sinclair, and I
+share a mutual interest
+107.562 and excitement in public
+education about science.
+111.144 And so I'm thrilled to share
+with you that we've partnered.
+114.51 And Dr. David Sinclair
+is going to be launching
+116.8 the lifespan podcast,
+118.06 which is all about the
+biology of aging and tools
+120.32 to intervene in the aging process.
+122.56 That podcast will launch
+Wednesday, January 5th.
+125.78 You can find it at the
+link in the show notes
+128.62 to this episode today as well.
+130.646 You can subscribe to that
+podcast on YouTube, Apple,
+133.93 or Spotify, or anywhere
+that you get your podcasts.
+136.33 Again, the lifespan podcast
+featuring Dr. David Sinclair,
+139.17 Claire begins Wednesday,
+January 5th, 2022,
+142.7 be sure to check it out.
+143.62 You're going to learn a
+tremendous amount of information,
+146.09 and you're going to learn
+both the mechanistic science
+148.434 behind aging, the
+mechanistic science behind
+151.33 reversing the aging
+process and practical tools
+154.1 that you can apply in your everyday life.
+156.8 In today's episode, Dr. Sinclair
+158.346 and I talk about the biology of aging
+160.8 and tools to intervene in that process.
+162.53 And so you might view today's episode
+164.57 as a primer for the lifespan podcast,
+167.55 because we delve deep
+into the behavioral tools,
+170.1 nutritional aspects,
+supplementation aspects
+172.809 of the biology of aging.
+174.52 We also talk about David's
+important discoveries
+176.95 of the sirtuins, particular components
+179.99 that influence what is
+called the epigenome.
+182.24 And if you don't know
+what the epigenome is,
+183.622 you will soon learn in today's episode.
+185.92 Coming away from today's episode,
+187.36 you will have in-depth knowledge
+about the biology of aging
+190.27 at the cellular, molecular,
+192.1 and what we call the circuit level,
+193.36 meaning how the different
+organs and tissues of the bodies
+195.83 age independently, and how they influence
+197.79 the aging of each other.
+199.58 Today's episode gets into discussion
+201.54 about many aspects of aging
+203.28 and tools to combat aging
+205.04 that have not been discussed
+on any other podcasts
+207.78 or in the book lifespan.
+209.81 Before we begin, I'd like to
+emphasize that this podcast
+212.346 is separate from my teaching
+and research roles at Stanford.
+215.45 It is however part of my desire and effort
+217.45 to bring zero cost to consumer
+information about science
+219.94 and science related tools
+to the general public.
+222.51 In keeping with that theme,
+I'd like to thank the sponsors
+224.81 of today's podcast.
+226.27 Our first sponsor is ROKA.
+228.03 ROKA makes eyeglasses and sunglasses
+230.43 that are the absolute highest quality.
+232.58 I've spent a lifetime
+working on the visual system.
+234.787 And I can tell you that the visual system
+236.24 has to contend with a number
+of different challenges,
+238.63 such as when you move
+from a bright area outside
+241.29 to an area where there are shadows,
+243.18 you have to adjust a number of
+things in your visual system
+245.033 so that you can still see things clearly.
+247.24 One problem with a lot of
+eyeglasses and sunglasses
+249.9 is they don't take that
+biological feature into account.
+253.076 And you have to take off your
+glasses and put them back on,
+255.9 depending on how bright or
+dim a given environment is.
+259.11 With ROKA eyeglasses and sunglasses,
+261.1 you always see things
+with the utmost clarity.
+263.84 In addition, they're very lightweight
+265.43 and they won't slip off your face.
+266.94 In fact, they were designed to be worn
+268.53 while biking or running
+and the various activities,
+270.85 but they also have a terrific aesthetic,
+272.26 so you could wear them to dinner or work.
+273.95 I wear readers at night and when I drive
+275.568 and I wear the sunglasses
+for most of the day.
+278.24 If you'd like to try ROKA
+sunglasses or eyeglasses,
+280.325 you can go to roka.com, that's roka.com
+283.86 and enter the code Huberman,
+285.37 to save 20% off your first order.
+287.25 Again, that's ROKA, roka.com
+and enter the code Huberman
+291.29 at checkout.
+292.34 Today's episode is also
+brought to us by InsideTracker.
+295.1 InsideTracker is a
+personalized nutrition platform
+297.783 that analyzes data from your blood and DNA
+300.81 to help you better understand your body
+302.34 and help you reach your health goals.
+304.42 I've long been a believer in
+getting regular blood work done
+307.29 for the simple reason
+that many of the factors
+309.065 that impact your immediate
+and long-term health
+311.5 can only be assessed from
+a quality blood test.
+314.16 And now with the advent
+of modern DNA tests,
+316.88 you can also get a clear picture
+318.52 of what your biological age is
+320.35 and compare that to
+your chronological age.
+322.49 And obviously your biological
+age is the important one
+325.82 because it predicts how long you will live
+328.07 and it's the one that you can control.
+330.84 The great thing about InsideTracker
+332.25 is that compared to a
+lot of other DNA tests
+334.34 and blood tests out there
+is that with InsideTracker,
+337.18 you don't just get your numbers back
+338.7 at the levels of various
+hormones, metabolic factors,
+340.608 blood lipids, et cetera,
+342.26 but it also offers clear
+directives to lifestyle factors,
+345.84 nutritional factors and
+supplementation that you can use
+349.19 in order to get the
+numbers into the ranges
+350.8 that are best for you and for your health.
+353.7 If you'd like to try InsideTracker,
+355.11 you can go to insidetracker.com/huberman
+to get 25% off
+358.763 any of InsideTracker's plans.
+360.74 Just use the code Huberman at checkout.
+362.75 Again, that's insidetracker.com/huberman
+to get 25% off
+366.75 any of InsideTracker's plans.
+368.75 Today's episode is also
+brought to us by Magic Spoon.
+371.51 Magic Spoon is a zero sugar, grain-free,
+373.98 keto friendly cereal.
+375.63 Now I don't follow a
+strictly ketogenic diet.
+378.4 What works best for me is to eat according
+380.64 to my desire to be alert
+at certain times of day
+383.93 and to be sleepy at other times of day.
+386.295 So for me, that means
+fasting until about 11:00 AM
+389.7 or 12 noon most days.
+391.09 And then my lunch is typically
+a low carb, ketoish lunch,
+394.61 maybe a small piece of grass-fed meat,
+396.36 some salad, something of that sort.
+398.62 And then in the afternoon,
+I might have a snack
+400.92 that's also ketoish.
+402.92 And then at night is when
+I eat my carbohydrates,
+405.16 which for me helps me with
+the transition to sleep
+407.31 and allows me to get great deep sleep.
+409.01 That's what works for me.
+410.41 What that means is in the
+afternoon I'm craving a snack.
+413.83 And the snack for me is Magic Spoon.
+416.09 What I do lately is I put
+in some Bulgarian yogurt.
+418.142 Sometimes I just eat it straight.
+420.47 Each serving of Magic Spoon
+has zero grams of sugar,
+423.14 13 to 14 grams of protein
+424.81 and only four grams of
+carbohydrates in each serving.
+427.65 So it really matches that
+low carb ketoish approach.
+431.146 There's only 140 calories per serving,
+433.158 and they have a variety of flavors.
+435.17 Coco, fruity, peanut butter or frosted.
+437.6 I particularly like frosted
+'cause it tastes like donuts.
+439.95 I try not to eat donuts,
+but I do love the frost.
+442.71 And as I mentioned before,
+443.7 I lately mix it with yogurt
+polo cinnamon on there.
+445.85 I'm getting hungry just talking about it.
+447.26 Now, if you want to try Magic Spoon,
+449.27 you can go to magicspoon.com/huberman
+451.79 to grab a variety pack.
+452.89 Use the promo code Huberman at checkout,
+454.82 to get $5 off your order.
+456.52 Again, that's magicspoon.com/huberman
+459.11 and use the code Huberman to get $5 off.
+462.23 And now my conversation
+with Dr. David Sinclair.
+465.46 Thank you for coming.
+466.45 - Thanks for having me here.
+467.52 It's good to see you.
+468.64 - This is mate by the way, that
+we're toasting at 11:00 AM.
+474.13 Unlike other podcasts, we,
+well, I don't drink alcohol,
+476.79 so I'm boring that way.
+480.6 But truly, thanks for being here,
+482.1 I have a ton of questions for you.
+483.87 We go way back in some sense,
+486.66 but that doesn't mean that I don't have
+489.42 many, many questions about
+aging, longevity, lifespan,
+494.61 actionable protocols to increase
+496.77 how long we live, et cetera.
+498.317 And I just want to start off
+with a very simple question.
+502.07 I'm not even sure there's an answer to,
+504.12 but what is the difference
+between longevity,
+507.93 anti-aging and aging as a disease?
+510.51 Because I associate
+you with the statement,
+513.54 aging is a disease.
+515.61 - Right?
+516.53 Well, so longevity is
+the more academic way
+519.57 we describe what we research.
+521.38 Anti-aging is kind of the same thing,
+523.65 but it's got a bad rap
+because it's been used
+525.69 by a whole bunch of people that don't know
+527.05 what they're talking about.
+528.33 So I really don't like
+that term anti-aging,
+530.72 but aging is a disease and longevity
+532.53 are perfectly valid ways
+to talk about this subject.
+536.65 So let's talk about aging as a disease.
+538.91 When I started my research,
+540.83 disease here at Harvard Medical School,
+544.02 it was considered,
+545.31 if there's something
+that's wrong with you.
+549.08 and it's a rare thing,
+549.913 it has to be less than
+50% of the population,
+552.8 that's definitely a disease,
+554.24 and then people work their whole lives
+556.06 to try and cure that condition.
+558.37 And so I looked up,
+559.203 what's the definition of aging
+560.24 and it says, well, it's
+a deterioration in health
+562.66 and sickness and you can die
+from it, typically you do.
+565.994 Something that sounds
+pretty much like a disease,
+568.77 but the caveat is that if
+more than half the population
+572.35 gets this condition, aging,
+it's put in a different bucket.
+576.46 Which is first of all, that's outrageous,
+578.03 'cause it's just a
+totally arbitrary cutoff.
+580.81 But think about this,
+581.643 that we're ignoring the major
+'cause of all these diseases.
+585.43 Aging is 80 to 90% the cause
+of heart disease, Alzheimer's.
+589.22 If we didn't get old and
+our bodies stayed youthful,
+592.1 we would not get those diseases.
+593.4 And actually what we're
+showing in my lab is,
+595.03 if you turn the clock back, in tissues,
+597.6 those diseases go away.
+599.17 So aging is the problem
+and instead through,
+602.23 most of the last 200 years,
+604.15 we've been sticking band-aids on diseases
+606.15 that have already
+occurred because of aging
+608.61 and then it's too late.
+610.34 So there are a couple of things.
+611.23 One is we want to slow aging down
+612.55 so we don't get those diseases
+and when they do occur,
+615.56 don't just take a bandaid on,
+616.9 reverse the age of the body
+618.06 and then the diseases will go away.
+620.36 - That clarifies a lot for me, thank you.
+622.931 Can we point to one specific
+general phenomenon in the body
+628.26 that underlies aging?
+630.07 - Yeah, well, that's contentious
+631.9 because scientists like to
+come up with new hypothesis.
+635.76 It's how they build their careers.
+637.25 But fortunately during the two thousands,
+639.445 we settled on eight or
+nine major causes of aging.
+643.5 We call them hallmarks
+644.49 'cause causes was a little bit too strong,
+647.24 but these eight or nine causes,
+649.48 at least for the first time
+allowed us to come around
+652.51 and talk together.
+653.343 And we put them on a pizza
+655.74 so everyone got an equal
+weighting, equal slices.
+659.48 But before that, by the way,
+660.56 we were trying to kill
+each other in the field,
+662.315 that was horrible.
+663.76 - Interesting that you guys work on aging
+665.35 and you're trying to kill each other.
+666.32 - Yeah, isn't it?
+667.153 Well kill each other's careers.
+668.92 Well I like to think
+I was fairly generous,
+670.66 but I was one of the kids
+671.98 and the old guard really
+didn't like the new guard.
+674.07 We just came along in the 1990s
+675.75 and said, free radicals don't do much.
+679.27 They're actually genes
+called longevity genes.
+681.56 And that caused a whole ruckus.
+682.83 And there was this competition
+for what never happened,
+687.288 which was a Nobel prize for this.
+689.72 And it just led to a lot of competition.
+691.201 I would go to meetings and
+people would shout at each other
+695.07 and backstab, it was horrible.
+697.44 But then unfortunately
+in the two thousands,
+698.66 we rallied around this new map of aging
+701.88 with these causes of hallmarks.
+704.52 But I think that there's
+one slice of the pizza
+706.87 that is way larger than the others.
+708.89 And we can get to that,
+709.9 but that's the information in the cell
+712.15 that we call the epigenome.
+714.366 - Well tell us a little bit
+more about the epigenome,
+716.786 frame it for us if you will,
+and then we'll get into ways
+721.193 that one can adjust the
+epigenome in positive ways.
+725.53 - Yeah, so in science, what I like to do,
+728.0 a reductionist is to boil it down
+730.17 and I actually ended up boiling,
+732.21 aging down to an equation,
+733.681 which is the loss of
+information due to entropy.
+737.83 It's a hard thing to overcome,
+second law of thermodynamics.
+740.15 That's fair, but this
+equation really represents
+744.04 the fact that I think aging
+is a loss of information
+747.49 in the same way that
+when you xerox something,
+751.74 a thousand times you'll
+lose that information
+753.54 or you try to copy a cassette tape.
+755.41 Or even if you send information
+across the internet,
+757.33 some of it will get lost.
+759.37 That's what I think is aging.
+761.08 And there were two types
+of information in the body.
+763.49 There is the genetic
+information, which is digital.
+766.46 ATCG the chemical letters of DNA,
+769.25 but there's this other part of
+the information in the body.
+771.72 that's just as important,
+it's essential, in fact,
+774.84 and that's the systems
+that control which genes
+778.31 are switched on and off
+in what cell at what time
+781.53 in response to what we eat, et cetera.
+783.447 And it turns out that 80% of
+our future longevity and health
+787.38 is controlled by the second part,
+788.86 the epigenetic information,
+the control systems.
+791.87 I liken the DNA to the
+music that's on a DVD
+795.77 or a compact disc for the younger people.
+797.21 We used to use these things.
+798.043 - I recall.
+798.9 - Yeah, and then the epigenome
+is the reader that says,
+801.16 okay, in this cell we need
+to play that set of songs
+805.7 and in this other cell,
+806.533 we have to play a different set of songs.
+807.975 But over time, aging is the
+equivalent of scratching,
+811.08 the CD and the DVD so that you,
+813.3 you're not playing the
+right songs and cells
+815.221 when they don't hear the right songs,
+817.248 they get messed up and
+they don't function well.
+820.18 And that is what I'm saying
+is the main driver of aging.
+823.37 And these other hallmarks
+are largely manifestations
+826.29 of that process.
+827.6 - Can we go a little deeper
+828.81 into what that these scratches are.
+831.844 Is it the way that the DNA
+are packed into a cell?
+837.05 Is it the way that they're spaced?
+840.88 What are the scratches
+that you're referring to?
+844.74 - So DNA is six foot long.
+846.21 So if you join your chromosomes together,
+847.85 you get a six foot post-sale.
+849.92 So there's enough to go to
+the moon and back eight times
+851.371 in your body.
+852.78 And it has to be wrapped
+up to exist inside us,
+856.17 but it's not just wrapped up willy-nilly.
+858.3 It's not just a bundle of string,
+860.39 it's wrapped up very carefully in ways
+862.18 that dictates which genes
+are switched on and off.
+864.926 And when we're developing in the embryo,
+867.446 the cell marks the DNA
+with chemicals that says,
+870.84 okay, this gene is for a nerve cell.
+872.799 Your cell will stay a nerve cell
+875.43 for the next a hundred
+years, if you're lucky.
+877.311 Don't turn into a skin
+cell that would be bad.
+880.81 And those chemicals,
+882.7 there are many different
+types of chemicals,
+883.97 but one's called methylation.
+885.55 Those little menthols will
+mark which songs get played
+888.9 for the rest of your life.
+890.4 And there are other that change daily.
+892.79 But in total, what we're
+saying is that the body
+895.32 controls the genome through
+the ability to mark the DNA
+899.81 and then compact some parts
+of it, silence those genes,
+904.5 don't read those genes and
+open others, keep others open
+908.45 that should stay open.
+909.85 And that pattern of genes
+that are silent and open,
+913.66 silent, open, is what
+dictates the cells type
+917.03 the cells function.
+918.37 And then the scratches are
+the disruption of that.
+921.19 So genes that were once
+silent and you could say,
+924.96 it's a gene that is involved in skin.
+928.57 It's starting to come on in
+the brain, shouldn't be there,
+930.71 but we see this happen and vice versa,
+933.0 the gene might get shut
+off over time during aging.
+935.198 Cells over time, lose these structures,
+938.49 lose their identity,
+939.53 they forget what they're supposed to do
+941.75 and we get diseases.
+943.32 We call that aging and
+we can measure that.
+946.14 In fact, we can measure it in such a way
+947.82 that we can predict when
+somebody is going to die
+950.02 based on the changes in those chemicals.
+953.034 - Are these changes, the
+same sorts of changes
+955.434 that underlie the outward
+body surface manifestations
+960.146 of aging, that most of
+us are familiar with,
+962.36 graying of the hair,
+wrinkling of the skin,
+964.44 drooping of the face.
+969.08 Walking around New York lately,
+970.59 it's amazing to me,
+there are certain people
+972.288 that seem to walk looking
+down at the sidewalk
+975.53 because their spine is
+essentially in a C shape, right?
+979.78 A hallmark, if you will, of aging,
+982.24 that most of us are familiar with.
+983.8 Are the same sorts of DNA
+scratches associated with that?
+986.9 Or are we talking about people
+987.733 that are potentially
+are going to look older,
+990.24 but simply live longer?
+992.2 - Well, it's actually, you
+are as old as you look,
+995.0 if you want to generalize.
+996.409 So let's start with centenarian families.
+999.31 These are families that
+tend to live over a hundred.
+1000.88 When they're 70, they
+still look 50 or less.
+1005.05 So it is a good indicator.
+1007.56 It's not perfect
+1008.393 because you can like me
+growing up in Australia
+1010.8 and accelerate the aging of your skin.
+1014.18 But in general, how you look,
+1015.57 and no one's ever died from gray hair,
+1017.5 but overall you can get a sense
+1019.4 just from the ability of
+skin to hold itself up,
+1022.57 how thin it is, the number of wrinkles.
+1026.14 A great paper just came out that said
+1027.385 that an AI System looking at the face
+1030.11 could very accurately
+predict someone's age.
+1032.29 - Very interesting.
+1033.73 So I started off in
+developmental neurobiology.
+1036.97 So one of the things
+that I learned early on
+1039.167 that I still believe wholeheartedly
+1042.67 is that development doesn't
+stop at age 12 or 15 or even 25
+1048.926 that your entire life is
+one long developmental arc.
+1055.11 So in thinking about different portions
+1057.25 of that developmental arc,
+the early portion of infancy,
+1061.67 and especially puberty, seem
+like especially rapid stages
+1065.96 of aging.
+1067.11 And I know we normally
+look at babies and children
+1069.8 and kids in puberty, and we
+think, oh, they're so vital,
+1072.0 they're so young.
+1073.89 And yet the way you describe
+these changes in the epigenome
+1078.18 and the way you have
+framed aging as a disease
+1081.13 leads me to ask are periods
+of immense vitality,
+1087.75 the same periods when we're aging faster.
+1091.4 - Yes, yes.
+1092.733 And this is something
+I've never talked about,
+1095.12 at least not publicly.
+1095.953 So this is a really good question.
+1098.13 So those chemicals we can measure,
+1100.34 it's also known as the Horvath's clock.
+1101.75 It's the biological clock,
+1102.95 it's separate from your chronological age.
+1105.36 So actually what I didn't mention
+1106.44 is that when the AI looked
+at the faces of those people,
+1109.64 they could predict their
+biological age, their internal age.
+1113.52 So your skin represents the
+age of your organs as well.
+1116.86 And the people that look after themselves,
+1118.59 we can talk about how to do that later.
+1120.028 But there are some people
+that are 10, 20 years younger
+1122.601 than other people biologically
+1126.11 and it turns out if you
+measure that clock from birth
+1128.51 or even before birth,
+if you look at animals,
+1130.37 there's a massive increase
+in age, based on that clock,
+1134.5 early in life.
+1136.01 So you're right, so that's
+a really important point,
+1138.51 that you have accelerated aging
+1140.49 during the first few years of life,
+1142.13 and then it goes linear
+towards the rest of your life.
+1145.55 But there's another interesting
+thing that you brought up,
+1147.03 which is that we're finding that the genes
+1148.78 that get messed up, that get scratched
+1151.08 that are leading to aging
+1152.672 are those early developmental genes.
+1155.55 They come on late in life
+and just mess up the system
+1159.04 and they seem to be
+particularly susceptible
+1160.88 to those scratches.
+1162.53 So what's causing the scratches?
+1164.29 Well, we know of a couple
+of things in my lab,
+1165.95 we figured out.
+1166.91 One is broken chromosomes, DNA damage,
+1169.728 particularly cuts to the DNA breaks.
+1171.998 So if you have an x-ray or a cosmic ray,
+1175.37 or even if you go out in the sun
+1176.75 and you'll get your broken chromosomes
+1178.87 that accelerates the unwinding
+of those beautiful DNA loops
+1183.61 that I mentioned.
+1186.45 We can actually do this to a mouse.
+1187.9 We can accelerate that process
+and we get an old mouse,
+1191.24 50% older, and it has
+this bent spine kyphosis.
+1194.72 it has gray hair, it's organs are old.
+1196.88 So we now can control aging,
+the forwards direction.
+1199.7 The other thing that accelerates aging
+1201.271 is massive cell damage or stress.
+1205.22 So we pinched nerves and we
+saw that their aging process
+1209.15 was accelerated as well.
+1210.78 - Incredible, this is more
+of an anecdotal phenomenon.
+1215.13 It is an anecdotal phenomenon,
+1216.81 but at this experience
+of in junior high school,
+1220.45 going home for a summer and you come back
+1222.71 and then high school in the US
+1224.59 usually starts eighth or ninth grade,
+1226.12 or grade eight or grade
+nine for you Canadians.
+1229.81 And then some of the kids,
+1232.62 like they grew beards over the summer,
+1234.63 or they completely matured
+quickly over the summer.
+1237.83 Do you think there's any reason to believe
+1239.58 that rates of entry
+into and through puberty
+1244.07 can predict overall rates of aging?
+1247.3 In other words, if a kid
+is a slow burner, right?
+1252.892 They basically acquire
+the traits of puberty
+1257.07 slowly over many years.
+1259.04 Can we make some course prediction
+1261.447 that they are going to live a long time
+1263.78 versus a kid that goes home for the summer
+1265.77 and comes back a completely
+different organism
+1268.42 or appearing to be a
+completely different organism.
+1270.83 Like they basically age
+very quickly in the summer.
+1272.75 Does that mean they're
+aging very quickly overall?
+1274.94 - Well, yeah, I don't
+want to scare anybody.
+1276.81 - Sure.
+1277.88 - That there are studies that show
+1280.87 that the slower you take to
+develop it also is predictive
+1284.76 of having a longer, healthier life.
+1287.57 And it may have something
+to do with growth hormone.
+1290.13 We know that growth hormone is pro-aging.
+1293.445 Anyone who's taking growth
+hormone, pay attention.
+1297.31 - Just look at someone
+who's taking growth hormone.
+1298.979 - Yeah.
+1299.88 - They often will acquire these
+characteristics of vitality,
+1302.99 like improved a smoothness of skin,
+1304.81 but their whole body shape changes often.
+1307.13 - Yeah, I mean you'll feel better
+1308.708 for a short amount of time.
+1310.28 You'll build up muscle, you feel great,
+1312.14 but it's like burning
+your candle at both ends.
+1314.94 Ultimately, if you want to live longer,
+1316.82 you want less of that.
+1318.235 And the animals that have been generated
+1320.66 and mutants that have low growth hormone,
+1323.0 or sometimes these are dwarfs,
+they live the longest by far.
+1327.69 A guy in my lab, Michael Bankowski,
+1330.07 he had the longest lived mouse,
+1331.89 a mouse typically lives
+about two and a bit years.
+1334.38 He had a mouse that lived five years
+1336.45 and he gave it chloric
+restriction, so fasting,
+1339.02 combined with one of
+these dwarf mutations,
+1340.573 low growth hormone, I
+think he called it Yoda.
+1345.336 You look at who lives the longest,
+1347.63 it's the really small people.
+1350.52 This is a bit anecdotal,
+1351.5 but it sounds like it might be true,
+1354.41 is that the people who
+played the munchkins
+1356.18 in the Wizard of Oz, many
+of them went on to live
+1358.6 into their nineties and beyond.
+1359.97 - Really?
+1360.803 - Yeah.
+1361.636 - Huh, amazing.
+1362.469 - And are there are some
+Lauren dwarfs as well?
+1365.01 There are dwarf mutations in South America
+1369.21 and they seem to be protected
+1370.42 against many of the diseases of aging.
+1372.26 You barely ever see heart disease
+1373.74 or cancer in these families.
+1375.4 - So I having owned a
+very large dog breed,
+1378.62 a bulldog Mastiff who lived
+a long life for a bulldog,
+1382.35 11 years, but there are
+many dogs that will live
+1385.285 12, 16 years that are smaller dogs.
+1388.9 Can we say that there's
+a direct relationship
+1390.89 between body size and
+longevity or duration of life?
+1396.27 - Well, there is, but that
+doesn't mean that you're a slave
+1399.25 to your early epigenome
+nor have to your genome.
+1403.26 The good news is that
+the epigenome can change.
+1406.25 Those loops and structures can be modified
+1409.17 by how you live your life.
+1410.87 And so if you're born tall and I wasn't,
+1413.63 and I wished at the time I did grow,
+1417.414 but no matter what size you are,
+1418.88 you can have a bigger impact on your life
+1421.01 than anything your genes give you.
+1422.93 80% is epigenetic not genetic.
+1425.97 - So let's talk about some of
+the things that people can do.
+1428.26 And I've kind of batch
+these into categories
+1431.44 rather than just diving right
+into actionable protocols.
+1436.246 So the first one relates to
+food, blood sugar, insulin.
+1443.02 This is something I hear a lot about,
+1444.166 that fasting is good for us,
+1446.836 but rarely do I hear why it's good for us.
+1451.04 One of the reasons I'm
+excited to talk to you today
+1452.9 is because I want to drill
+into the details of this
+1455.214 because I think
+understanding the mechanism
+1457.62 will allow people to make better choices
+1459.567 and not simply to just
+decide whether or not
+1462.64 they're going to fast or not fast,
+1464.11 or how long they're going to fast,
+1465.64 I think should be dictated
+by someone understanding
+1466.987 of the mechanism.
+1468.205 So why is it that having
+elevated blood sugar,
+1472.95 glucose and insulin ages us more quickly
+1476.159 and or why is it that having
+periods of time each day
+1480.84 or perhaps longer can extend our lifespan?
+1485.23 - Well, let's start with what
+I think was a big mistake
+1488.39 was the idea that people
+should never be hungry.
+1492.18 We live in a world now
+1493.013 where there's at least three meals a day,
+1495.49 and then we've got companies
+selling bars and snacks
+1498.92 in between.
+1499.9 So the feeling of hunger,
+1500.963 some people never experienced
+hunger in their whole lives.
+1503.92 It's really, really bad for them.
+1507.37 It was based, I believe
+on the 20th century view
+1510.74 that you don't want to
+stress out the pancreas
+1513.04 and you try to keep insulin
+levels pretty steady
+1516.58 and not have this fluctuation.
+1519.43 What we actually found,
+my colleagues and I,
+1522.919 across this field of longevity
+1525.326 is that when you look
+at first of all animals,
+1527.828 whether it's a dog or a mouse or a monkey,
+1531.47 the ones that live the
+longest by far 30% longer
+1535.77 and stay healthy are the ones
+that don't eat all the time
+1540.12 actually was first discovered back
+1541.099 in the early 20th century,
+but people ignored it.
+1544.45 And then it was rediscovered in the 1930s,
+1546.95 Claude McKay did Clark restriction.
+1548.849 He put cellulose in the food of rats,
+1551.95 so they couldn't get as many
+calories even though they ate.
+1554.58 And those rats lived 30% longer,
+1557.1 but then it went away
+and then it came back
+1559.287 in the 2000's in a big way,
+1561.68 when a couple of things happened,
+1562.66 one is that my lab and others showed
+1565.53 that there were longevity
+genes in the body
+1568.83 that come on and protect
+us from aging and disease.
+1571.96 The group of genes that I
+work on are called sirtuins
+1573.47 there's seven of them.
+1575.43 And we show it in 2005 in a science paper,
+1578.62 that if you have low levels of insulin
+1582.33 and another molecule called
+insulin like growth factor,
+1585.78 those low levels turn
+on the longevity genes.
+1588.8 One of them that's really
+important is called SIRT1.
+1591.753 But by having high levels
+of insulin all day,
+1595.35 being fed, means your longevity
+genes are not switched on.
+1599.24 So you're falling apart, your
+epigenome, your information,
+1602.51 that keeps your cells
+functioning over time,
+1604.13 just degrades quick.
+1604.963 Your clock is ticking
+faster by always being fed.
+1609.41 Okay.
+1610.71 The other thing that I
+think might be happening
+1613.26 by always having food around
+1615.87 is that it's not allowing the
+cell to have periods of rest
+1620.31 and re-establish the epigenome.
+1623.31 And so it also is accelerating
+in that direction.
+1627.65 There's plenty of other reasons as well,
+1629.09 that are not as profound,
+1630.07 such as having low levels
+of glucose in your body
+1634.27 will trigger your major
+muscles in your brain
+1637.03 to become more sensitive to insulin
+1639.67 and suck the glucose
+out of your bloodstream,
+1641.65 which is very good.
+1642.74 You don't want to have glucose
+flowing around too much,
+1645.55 and that will ward off type two diabetes.
+1647.9 - So hunger of course is
+associated with low blood glucose
+1651.749 and low insulin.
+1654.12 Do you think there's anything
+1655.2 about the subjective
+experience of hunger itself
+1658.1 that could be beneficial for longevity?
+1660.3 - Yeah, I do,
+1663.604 though you get used to
+the feeling of not eating,
+1666.77 so I'm kind of screwed that way.
+1669.23 - It's like cold water,
+you eventually adapt.
+1671.51 - You get used to it, unfortunately,
+1673.557 but there are some studies
+that are being done
+1675.87 at the National Institutes of Health
+1677.5 that are able to simulate
+the effect of hunger,
+1680.81 but still provide the calories.
+1682.47 And it's looking like
+there's a small component
+1684.76 that's due to hunger, but most of it,
+1686.88 actually, is because
+you've got these periods
+1689.3 of not being fed and then the body
+1690.88 turns on these defensive genes.
+1693.18 There's a really interesting experiment
+1695.42 that was published maybe
+a couple of years ago
+1697.28 by Rafael de Cabo down at the NIH.
+1699.701 What he did was he took over 10,000 mice
+1702.12 and gave them different combinations
+1703.678 of fat, carbohydrate, protein.
+1706.78 And he was trying to figure out
+1707.9 what was the best combination.
+1709.681 And then you also cleverly had a group.
+1712.068 Well, two groups, one
+that was fed all the time
+1715.1 or ate as much as they wanted
+1716.907 and the other group was only
+given food for an hour a day.
+1720.53 And it turns out they ate
+1721.39 roughly the same amount of calories,
+1723.11 'cause of course in an hour
+they're stuffing their faces.
+1726.867 It turns out it didn't matter
+what diet he gave them,
+1729.83 it was only the group that
+ate within that window
+1731.65 that lived longer and dramatically longer.
+1733.533 So my conclusion is,
+1735.668 and mice are very similar
+to us, metabolically,
+1738.07 I think that tells us that
+it's not as important,
+1740.5 what you eat, it's when
+you eat during the day.
+1742.9 - What is the protocol
+1744.3 that people can extrapolate from that?
+1748.04 Or maybe I should just ask you,
+1749.13 what is your protocol for when to eat
+1752.37 and when to avoid food?
+1754.13 Do you fast, do you ever
+fast, longer than 24 hours?
+1758.65 What do you do?
+1759.53 And what do you think is
+a good jumping off place
+1761.287 if people want to explore
+this as a protocol?
+1763.98 - Well, if there's one thing I could say,
+1767.0 I would say definitely
+try to skip a meal a day,
+1769.74 that's the best thing.
+1770.77 - Does it matter which meal
+1772.08 or they're essentially equivalent?
+1773.16 - Well, as long as it's at the end
+1775.07 or the beginning of the day,
+1776.22 because then you add
+that to the sleep period
+1778.7 where you're hopefully not eating.
+1780.32 - I think that that's an excellent point.
+1781.73 I realized it's a simple one,
+1783.08 but I think it's an excellent one
+1784.07 'cause I think one of
+the things that people
+1785.86 struggle with the most
+is knowing when and how
+1788.97 to initiate this so-called
+intermittent and fasting.
+1791.84 And the middle of the day
+obviously is not tacked
+1793.82 to the sleep cycle in the same way.
+1795.55 So it's much harder as
+well for many people.
+1799.095 - Yeah, well, I'll tell you what I do.
+1801.64 I skip breakfast, I have a
+tiny bit of yogurt or olive oil
+1804.99 because the supplements I have
+need to be dissolved in it.
+1807.66 And then I go throughout the whole day,
+1809.74 as I'm doing right now, here
+with this glass of water here,
+1813.87 I'm just keeping myself
+filled with liquids.
+1815.93 And so I don't feel hungry,
+1819.04 be aware that the first
+two to three weeks,
+1820.616 when you try that you will feel hungry
+1822.86 and you also have a habit of wanting
+1824.083 just to chew on something
+1826.01 that there's a lot of
+physical parts to it,
+1827.86 but try to make it through
+the first three weeks
+1830.21 and do without breakfast
+or do without dinner
+1833.23 and you'll get through it.
+1834.9 And I did that most for
+most of my life, actually,
+1838.32 mainly because I wasn't
+hungry in the morning.
+1840.72 Some people are very hungry in the morning
+1842.45 and they may want to consider
+skipping dinner instead,
+1845.23 but I will go throughout the whole day.
+1847.11 I don't get the crashes
+of the high glucose
+1849.777 and the low glucose that anyone who goes,
+1852.65 oh man, it's three O'clock,
+I'm going to need a sleep.
+1855.21 If you do what I do,
+1856.43 you will not experience that anymore
+1858.165 because what my body does
+1859.74 is it regulates blood
+sugar levels naturally.
+1862.93 My liver is putting out
+glucose when it needs to,
+1865.13 and it's very steady
+and gives me pure focus
+1867.72 throughout the day.
+1868.576 And I don't have to even
+have to think about lunch,
+1870.1 I'm just powering through.
+1871.78 At dinner, I mean, I love
+food as much as anybody.
+1874.64 So I will eat a regular,
+pretty healthy meal.
+1879.04 I'll try to eat mostly
+vegetables, I can eat some fish,
+1881.78 some shrimp, I rarely will eat a steak.
+1886.02 In fact, my microbiome is
+so adapted to my diet now,
+1889.53 if I eat a steak, it will
+not get digested very well.
+1892.15 I'll feel terrible.
+1893.84 - If I don't eat a steak, I feel terrible.
+1895.797 [David laughs]
+1896.63 - Argentine lineage, but
+we can talk about that
+1899.37 some other time.
+1900.203 - Well, everybody's different,
+that's the other thing.
+1901.99 What works for me may
+not be perfect for you
+1903.92 and we do have to measure
+things to know what's working.
+1907.75 I rarely eat dessert, I
+gave up dessert and sugar
+1911.58 when I turned 40 and occasionally
+1914.48 I'll steal a bit of dessert
+1915.63 'cause it doesn't hurt
+if you steal it, right.?
+1917.89 But other than that I avoid sugar,
+1920.49 which includes simple carbohydrates,
+bread, I try to avoid,
+1925.04 I've actually noticed,
+this is just a side note.
+1927.461 I used to get buildup
+of plaque pretty easily
+1930.29 and every time I went to the dentist,
+1931.123 they'd have to scrape it off.
+1932.27 And I even bought tools to scrape it off.
+1933.65 'cause it was driving me nuts.
+1935.81 I don't get pluck anymore
+1937.05 and I think it's because of my diet.
+1938.631 I don't have those sugars in my mouth
+1940.4 that the bacteria feed on
+1941.41 and then form the biofilm on the teeth.
+1943.703 Much better breath, by the way.
+1947.12 - That's a benefit.
+1948.44 Should you ever fast longer than this.
+1951.59 It sounds if you go to bed,
+1954.563 well, you used to tend to stay up late.
+1956.31 I know because I get texts from you
+1957.76 at like two in the morning my time,
+1961.19 which means you're out very
+late and up early as well.
+1963.9 But assuming that people go to sleep
+1966.04 sometime around 1130 or
+12, plus or minus an hour
+1969.982 and wake up sometime around 7:00 AM
+1972.24 plus or minus 90 minutes,
+you're eating more or less on.
+1977.262 It sounds something like
+a 20 hours of fasting,
+1980.605 four hours of eating
+or 16 hours of fasting
+1983.047 and eight hours of food intake, et cetera.
+1986.02 But do you ever do longer fast,
+1987.92 like 48 hours or 72
+hours a week long, fast?
+1991.46 - Occasionally I do.
+1993.54 So my typical day I would only
+eat within a two hour window.
+1996.39 Just usually I'm either eating out or.
+1998.457 - 'Cause you're 22 too.
+2000.24 - Yeah, but I love well.
+2002.582 - And if you exercise,
+do you feel like you,
+2004.707 then you just power through
+and maintain that fasted state?
+2007.89 - Absolutely, I can exercise
+2008.854 and now I've already so used to it.
+2010.69 I don't feel like I need food
+after exercising, I used to.
+2015.57 But have I gone longer?
+2016.403 Yes, but not very often.
+2018.03 I find it quite difficult
+to go more than 24 hours.
+2022.42 But when I do it, maybe it's once a month,
+2023.96 I'll go for two days after
+two and actually even better,
+2028.13 if you go for three days without eating,
+2030.02 it kicks in even greater
+longevity benefits.
+2035.09 So there's a system called
+the autophagy system,
+2037.83 which digests old and
+misfolded proteins in the body.
+2041.189 And there's a natural cleansing
+2042.93 that happens when you're hungry.
+2044.92 Macroautophagy its name is
+but a good friend of mine,
+2047.681 Ana Maria Cuervo at Albert
+Einstein College of Medicine
+2051.2 discovered a deep cleanse
+2052.71 called the chaperone mediated autophagy,
+2054.93 which kicks in day two, day three,
+2058.21 which really gets rid
+of the deep proteins.
+2061.287 And what excites me is you
+just put out a big paper
+2064.53 that said, if you trigger
+this process in an old mouse,
+2068.91 it lives 35% longer.
+2071.133 - [Andrew] Wow.
+2071.966 - Yeah, so it's a big deal.
+2072.97 If I could go longer, I would.
+2074.6 But I just find that with my lifestyle
+2076.45 and I'm going always
+day, 110% I need to eat
+2081.27 at least once a day unfortunately.
+2082.98 - One more practical question
+then a mechanistic question
+2085.014 related to this, the practical question
+2087.22 is when you are fasting,
+regardless of how long,
+2090.52 I know you're ingesting fluids like water
+2092.54 and presumably some caffeine
+I heard you had several
+2095.8 or more espresso today,
+which is impressive,
+2101.59 but are you also ingesting electrolytes?
+2104.84 Like I know some people get lightheaded,
+2106.57 they start to feel shaky when they fast.
+2108.85 And that the addition
+of sodium to their water
+2111.53 or potassium magnesium is something
+2113.807 that's becoming a little more invoke now.
+2116.11 Is that something that you do
+2117.18 or that you see a need for people to do?
+2119.45 - Well, it makes sense, but I
+haven't had a need to do it.
+2123.261 So I don't, I drink tea
+during the day and coffee
+2126.383 when I'm first awake and
+I don't get the shakes.
+2129.136 So I don't fix what's not broken.
+2133.18 And I do add things to my protocol
+2134.935 that I think will improve
+me and avoid those things
+2138.33 of course that wont.
+2140.65 But yeah, because I
+don't have a need for it,
+2142.403 I don't try it.
+2143.236 But it does make sense,
+2144.11 especially if you've had a
+big night the night before,
+2146.742 you'd probably want to
+supplement with that.
+2149.11 But I think there's fair
+amount of good stuff
+2152.07 in tea and coffee as it is.
+2154.46 - Okay, so then the
+mechanistic question is,
+2158.41 you've told us that there's ample evidence
+2160.93 that keeping your blood sugar
+low for a period of time
+2163.81 is 24 hours, can help
+trigger some of these pro
+2168.22 longevity anti-aging mechanisms.
+2171.4 And that extending them
+out two or three days
+2173.95 can trigger yet additional
+mechanisms of gobbling up
+2178.74 of dead cells and things of that sort.
+2182.21 How is it that blood glucose
+triggers these mechanisms?
+2185.83 Because we've said, okay, remove glucose
+2187.38 and things get better.
+2189.16 You've talked before maybe
+we could talk more now
+2192.22 about some of the underlying
+cellar and genetic mechanisms,
+2194.82 things like this are sirtuins,
+2195.861 but how our glucose in the sirtuins
+2197.696 actually tethered to one
+another mechanistically.
+2201.22 - There's a really good question,
+2202.664 that proves you're a scientist
+or a world-leading one.
+2207.4 So what we've now know is
+that these longevity pathways,
+2211.57 we call them these longevity
+genes, talk to each other.
+2214.3 And we used to say,
+2215.133 oh, my longevity genes is
+more important than yours.
+2216.91 It was ridiculous.
+2218.22 'Cause they're all talking to each other,
+2219.11 you pull one lever and
+the other one moves.
+2221.59 And the way to think of it is
+that there are systems set up
+2223.57 to detect what you're eating.
+2225.49 So the sirtuins will mainly
+respond to sugar and insulin.
+2230.95 And then there's this
+other system called mTOR,
+2233.97 which is sensing how much
+protein or amino acids
+2237.07 are coming into your body.
+2238.51 And they talk to each other,
+2239.52 we can pull one and affect
+the other and vice versa.
+2242.55 But together when you're fasting,
+2244.55 you'll get the sirtuin
+activation, which is good for you.
+2248.84 And you'll also through
+lack of amino acids,
+2251.68 particularly three of them,
+leucine, lysine and valine.
+2254.854 The body will down-regulate
+mTOR and it's that up sirtuin,
+2258.273 down MTOR that is hugely beneficial
+2261.47 and turns on all of the body's defenses,
+2264.36 the pro chewing up the old proteins,
+2266.55 improving insulin sensitivity,
+giving us more energy,
+2269.21 repairing cells, all of that.
+2271.58 And so these two pathways, I think,
+2272.937 are the most important for longevity.
+2275.24 - So interesting, you mentioned leucine,
+2277.451 within the resistance training
+slash body building slash
+2281.756 fitness community.
+2282.94 Leucine gets a lot of attention
+2284.49 because there are long-standing debates
+2286.57 about how much protein one needs per day
+2288.83 and how much you want and
+can assimilate at each meal.
+2290.75 It makes for many YouTube videos
+and not much else, frankly.
+2295.295 However, it's clear that
+because of leucine's effects
+2298.621 on the mTOR pathway, that
+there are many people,
+2302.59 not just people in these
+particular fitness communities
+2305.01 that are actively trying
+to ingest more leucine
+2307.872 on a regular basis in order
+to maximize their wellness
+2312.7 and fitness and in some
+cases muscle growth
+2314.95 but also just wellness.
+2316.78 But what I interpret your
+last statement to mean
+2319.456 is that leucine, because
+it triggers seller growth
+2323.01 is actually pro aging in
+some sense, is that right?
+2327.457 - Well, it could be that's
+what the evidence suggests.
+2330.151 And again it goes back to the debate.
+2332.3 Should you supplement with
+growth hormone or testosterone?
+2336.126 All of these activities will
+give you immediate benefits.
+2340.15 You'll bulk up more.
+2342.12 You'll feel better immediately,
+2344.38 but based on the research,
+2346.2 it's at the expense of long-term health.
+2348.58 So my view of longevity,
+2351.22 the way I treat my body is
+I don't burn both candles.
+2355.19 I have one end of the candle lit,
+2357.21 I'm very careful I don't blow on it,
+2359.86 but I also do enough exercise
+2361.47 that I'm building up my
+muscle, but I'm not huge.
+2364.47 Anyone who's seen me,
+2366.18 knows that I'm not a
+professional bodybuilder,
+2369.32 but I tried to actually, here's the key.
+2371.69 And I haven't said this
+publicly, that I can remember.
+2374.088 I pulse things so that
+I get periods of fasting
+2377.67 and then I eat, then I take a supplement,
+2381.45 then I fast, then I exercise
+2384.04 and I'm taking the supplements
+2385.65 and eating in the right timing
+2388.41 to allow me to build up muscle sometimes
+2390.95 because you can't just expect
+to take something constantly
+2395.35 and do something
+constantly for it to work.
+2397.57 And that's why it's
+taken me about 15 years
+2399.67 to develop my protocol.
+2400.94 And there's a lot of subtlety to it.
+2402.9 - Yeah, it sounds like a
+very rational protocol.
+2404.625 Does the name Ori Hofmekler
+mean anything to you?
+2407.8 - No.
+2408.633 - Okay, just briefly, I
+discovered Ori Hofmekler
+2412.35 about 15 years ago, he was
+a in Israeli special forces.
+2416.84 He's now got to be close to 70.
+2419.13 Forgive me Ori, if that
+number is inflated.
+2423.44 He wrote a book called 'The Warrior Diet',
+2426.14 which got very little
+attention at the time.
+2428.36 But what he said was when he
+was in Israeli special forces,
+2431.89 they rarely ate more than once per day.
+2434.34 And sometimes once every
+second or third day.
+2436.73 And this is a guy who maintains
+2438.49 incredible physical stature,
+he's very lean, very strong
+2443.72 and very vital at, I
+wouldn't say an advanced age,
+2448.08 but he's getting up there
+2449.11 and he just seems to be
+getting better and better.
+2451.55 Ori Hofmekler was the person
+who essentially founded,
+2455.06 if you will, although
+our ancestors founded,
+2457.69 to be completely fair,
+2459.4 the so-called intermittent fasting diet.
+2463.47 He called it the warrior diet
+2464.78 and this book didn't get much attention.
+2465.81 But one of the things that you just said
+2468.76 really reminded me of Ori.
+2470.43 I sat down with him, I
+actually went to his home
+2472.2 and sat down with him and he
+said, fasting is wonderful
+2475.3 but these pulses where
+you nourish the body
+2478.18 or even slightly over nourish the body
+2480.93 provided they aren't too frequent,
+2483.21 have a tremendous effect on vitality.
+2485.97 And so I want to use
+that as kind of a segue
+2487.832 to address this issue of
+vitality versus longevity,
+2493.18 because here you're telling me
+2495.48 and certainly the evidence supports
+2497.201 that growth hormone will make
+you feel better and younger
+2500.246 taking testosterone or estrogen,
+we should probably say.
+2503.15 There are women who take
+hormone therapies later in life
+2507.09 who take estrogen,
+2507.97 they experience a strong
+increase in vitality
+2510.6 if it's done correctly, but
+there is an effect of aging,
+2515.47 the body more rapidly,
+2516.53 it's sort of a second puberty if you will,
+2519.42 but this idea of restriction
+and then pulsing,
+2522.67 not necessarily feast and famine,
+2524.73 but certainly famine and
+feast in lowercase letters,
+2528.73 there really seems to
+be something about that.
+2531.0 So at a cellular level,
+2533.816 we'd kind of go back to
+mTOR and the sirtuins.
+2536.95 How do you think that the
+cells might be reacting
+2540.51 to this kind of lowercased
+feast and upper case famine
+2547.09 type protocol?
+2548.14 - Right, well, the pulsing, I
+think is what you want to do
+2553.98 is to get the cells to
+be perceiving adversity.
+2559.038 Okay, 'cause our modern
+life we're sitting around,
+2560.827 we're eating too much,
+we're not exercising.
+2565.7 Our cells respond.
+2567.09 They go, hey, everything's
+cool, no problem.
+2569.49 And they become relaxed and their own turn
+2571.53 on their defenses and we age rapidly.
+2573.24 We can see it in the clock.
+2574.68 People who exercise and eat less,
+2576.79 have a slower ticking clock, it's a fact.
+2580.168 But my protocol is
+different than most people's
+2583.181 because I am pulsing it.
+2585.139 Now, first of all, let's get to,
+2587.31 why did I even think
+that might be possible?
+2589.23 'Cause I didn't read the warrior diet.
+2591.475 What I found in my research was that
+2595.7 if we gave resveratrol on
+this red wine molecule,
+2598.26 that became well known in the 2000's.
+2602.15 If we gave it to mice,
+their whole lifespan,
+2605.15 they were protected
+against a high-fat diet,
+2607.4 which we call the Western diet.
+2608.56 They had lean organs.
+2610.175 They live slightly longer, but not a lot.
+2613.87 And if we gave them a high-fat
+diet without resveratrol,
+2617.91 they actually lived a lot shorter.
+2620.52 So it resveratrol protected
+them against the high-fat diet.
+2623.45 We gave it to them on a normal diet,
+2624.283 they just ate it when they wanted,
+2626.5 and there wasn't much effect.
+2628.103 This is what's not known though
+2629.91 it's in a supplemental data of the paper
+2631.467 that nobody ever reads.
+2633.591 The mice that were given
+resveratrol every second day
+2637.07 on a normal diet live dramatically longer
+2639.973 than any other group.
+2641.67 - [Andrew] Interesting.
+2642.54 - So people out there, my
+critics say, resveratrol
+2645.75 didn't extend the lifespan
+of mice on a normal diet.
+2648.39 Therefore it's not aging,
+2650.58 it's just protecting
+against a high-fat diet.
+2652.73 Well, look at the
+supplemental data, please.
+2655.22 If you give it to the
+mice every other day,
+2657.88 we had mice living over three years.
+2659.97 - Wow, that's a long time,
+I have got many, many mice
+2662.94 in my owner ownership
+at my lab at Stanford
+2666.689 and that's a very long life for a mouse.
+2669.51 - It was, by far.
+2670.58 And so it was a long life span extension.
+2673.95 And what that told me is that probably,
+2677.01 you don't want to be taking
+a supplement every day.
+2680.35 You can take it either every other day
+2682.2 or give your body a rest.
+2683.72 And I do the same with my meals,
+2685.5 I rest during the day and then
+I give a nutritious dinner
+2688.83 to my body and then give it
+a rest, same with exercise.
+2691.99 And then I try to time it
+because there are times
+2694.14 when I'm taking the drug
+Metformin, which mimics low energy.
+2699.27 For those of you who don't know,
+2700.26 Metformin is a drug given
+to type two diabetics
+2701.954 to bring down their blood sugar levels.
+2704.041 But it's been found that
+looking at tens of thousands
+2706.139 of veterans and all those,
+2708.46 that those two type two diabetics
+2710.12 live longer than people
+2710.953 that don't even get type two diabetes.
+2712.43 So it's a longevity drug,
+2714.95 right now you have to get it
+from your doctor in the US,
+2717.67 in most of the countries
+you can just get it
+2719.97 over the counter and you protected.
+2723.07 It looks like, based on
+epidemiological data, cancer,
+2728.11 heart disease for LT.
+2731.03 What else?
+2731.863 Dementia.
+2733.49 So I take Metformin.
+2734.63 - In addition,
+2735.463 you take Metformin end
+fast fasting each day.
+2737.99 So when do you take it
+relative to the fasting?
+2739.99 - Yeah, I always take
+Metformin in the morning,
+2744.32 along with the resveratrol,
+because for a number of reasons,
+2748.44 but mainly because my body responds better
+2752.81 and I've been measuring
+my body for 12, 13 years.
+2756.45 But here's the thing, if I'm
+going to exercise that day,
+2759.292 I will skip the Metformin.
+2762.06 And a lot of people who do pay attention
+2764.46 to this kind of thing,
+2766.21 think that they should
+stop taking Metformin
+2768.03 'cause they're never going to get muscle,
+2769.53 or it's going to affect their
+ability to build up muscle.
+2773.23 But that's not true, what
+Metformin does to you,
+2776.7 it actually just reduces
+your ability to have stamina
+2780.76 because it's inhibiting your
+body's ability to make energy.
+2784.326 And so what happens is
+when you're on Metformin,
+2786.75 you do fewer reps.
+2788.265 But guess what?
+2789.47 Those muscles that you
+do build up on Metformin,
+2792.49 have the same strength and
+have much lower inflammation
+2795.12 and other markers of aging.
+2797.311 You just won't have that
+extra 5% size of muscles.
+2801.93 So if you want large muscles,
+2803.26 don't take Metformin and you'll be fine
+2805.97 during your exercise.
+2808.24 But for me, I'm not trying to get giant.
+2810.77 I want strong muscles
+and I want to live longer
+2812.9 and healthier.
+2813.95 So I just try to time it
+so that I get the most reps
+2819.13 out of my exercise regime,
+2822.443 but sometimes in scientific literature,
+2824.89 it's worth bringing this up.
+2826.351 If there's a 5% difference in a graph,
+2829.24 then either the press release
+or some reporter will say,
+2833.43 oh my goodness, big difference,
+2835.05 5% contact Metformin during exercise.
+2837.89 That's the headline.
+2839.06 And then you go in and
+it's barely significant.
+2841.57 And the graph is distorted
+because they've changed
+2843.67 the axes to make it look bigger.
+2846.01 And now it's become a myth
+2848.21 that Metformin greatly inhibits
+our ability to exercise,
+2850.766 which is not true, but in
+an abundance of caution,
+2853.824 I skipped my Metformin on
+days I'm going exercise.
+2856.991 And not only that,
+2858.37 I'm one of the 20% of people
+2859.62 that has a stomach sensitivity to it.
+2862.65 So if I'm not feeling great that day,
+2863.953 I don't take it either.
+2865.58 - You mentioned Metformin is available
+2867.24 only by prescription from a
+doctor, at least in the US.
+2870.126 Berberine is a substance
+that comes from Tree Barco.
+2873.44 I also learned about
+many years ago from Ori.
+2877.24 He said, if ever, I'm going to overeat
+2879.35 like a Thanksgiving meal or something,
+2880.74 I take berberine, those were his words.
+2883.85 And I tried it and what's
+remarkable about berberine
+2886.3 is that you can eat
+enormous quantities of food
+2889.59 and not feel as if you've eaten
+enormous quantities of food.
+2892.42 I'm not necessarily
+recommending people do this.
+2894.396 But what I noticed was
+if I took berberine,
+2898.8 which my understanding is
+it works very similarly
+2901.24 to Metformin where some
+of the AMPK pathway
+2903.407 and the mTOR pathway, et cetera,
+2905.804 that if I didn't ingest food
+in particular carbohydrates,
+2909.92 I would feel a little dizzy
+and kind of get a headache,
+2912.11 like almost hypoglycemic.
+2915.34 What are your thoughts on berberine
+2916.6 as an alternative to Metformin?
+2918.88 And are there any cautionary notes?
+2921.38 Obviously people should
+talk to their doctor
+2922.81 before adding or subtracting
+anything from their life,
+2925.26 including breath order,
+anything that comes up,
+2929.41 but with all of that set aside,
+2932.07 what are your thoughts about berberine
+2933.398 and timing of low blood sugar
+and these sorts of things?
+2937.8 - Right, well, before I
+had access to Metformin,
+2940.5 I was taking berberine.
+2941.49 It's often known as the
+poor man's Metformin.
+2945.29 - He just called me poor.
+2946.87 - Women can take it too.
+2948.169 So the thing with berberine
+and we started it in my lab,
+2951.49 it is effective at boosting
+energetics in the body,
+2955.11 just like AMPK and Metformin does.
+2959.42 And we've actually given
+it to rats and mice
+2961.83 and seen that they are very healthy,
+2963.14 especially on a high-fat diet.
+2965.055 So I think it's likely to be good.
+2967.72 There are some human studies that exist,
+2969.7 clinical trials showing
+2970.67 that it increases insulin sensitivity.
+2971.87 You have to take high doses.
+2973.003 - Which is a good thing, right?
+2974.73 I think when people hear
+insulin sensitivity,
+2976.78 sometimes people think,
+oh, well that's bad, right?
+2979.19 No, but you want your cells
+to be insulin sensitive.
+2981.25 You don't want a lot of
+blood sugar floating around
+2983.51 that can't be sequestered into cells.
+2985.53 - Exactly, so this is
+anti type two diabetes.
+2989.22 And so that this berberine
+does have wonderful effects
+2992.591 on the metabolism of animals
+and in some clinical trials
+2995.858 on dozens of people that's being tested.
+2998.5 Now, there's one cautionary
+tale, which just came up,
+3002.2 Caenorhabditis lab
+published that berberine
+3004.52 reduced the lifespan of worms,
+3007.037 but I'm not sure worms
+trump human clinical trials
+3009.817 at this point.
+3012.09 - Not in my opinion,
+3012.923 no disrespect to my C. elegans colleagues
+3015.044 or rather my colleagues that work on C.
+3017.13 - Yeah, well, what I like to do
+3018.98 is to give all the information,
+3020.24 people can decide what they want,
+3022.01 but I would say based on the worm data,
+3023.859 I wouldn't panic just yet.
+3025.617 And I think berberine has been shown
+3027.26 to be really safe in humans.
+3029.49 - You mentioned resveratrol,
+3030.581 think now would be a great time
+to talk a little bit about,
+3033.031 protocols for resveratrol,
+great seed extract, et cetera.
+3037.088 Let's start with the obvious
+one that I know you get a lot,
+3040.26 but for the record, can't
+I just drink red wine
+3045.09 and get enough resveratrol, David.
+3048.02 - You can try, you need to
+drink about 200 glasses a day.
+3052.246 - I'm sure it's been tried.
+3054.09 - There are some, and I drink
+a glass of red wine a day
+3058.06 if I get the chance,
+but any more than that,
+3061.4 it's a lot of calories and
+your liver will get fatty
+3063.38 and it's all bad.
+3064.213 So, I mean, realistically,
+3065.65 you can only get the thousand milligrams
+3068.22 that I take a day from a
+supplement that's pure.
+3073.28 Now there are a lot of
+people selling resveratrol.
+3074.246 If it's not light gray or
+white in color, throw it away.
+3079.11 The brown stuff has gone
+bad or is contaminated.
+3082.99 And the contaminated stuff
+beware it'll cause diarrhea.
+3086.35 But regular resveratrol
+should not do that.
+3088.71 - So a thousand milligrams
+per day is what you do.
+3091.153 - Yeah and I had for about 15 years now.
+3094.84 And you ingest that with
+some fatty substance,
+3098.42 like olive oil or yogurt, is that right?
+3100.79 - Yeah, you have to, and other supplements
+3102.88 of course it's in curcumin.
+3104.637 These are crunchy things,
+3105.993 that is not going to get through your gut.
+3107.773 And I'm not just making this up.
+3109.37 I always base my statements
+on human studies.
+3113.09 So we've done a lot of
+studies on resveratrol
+3115.44 as have others since,
+and we know that from,
+3118.57 we found out early, I was
+one of the first people
+3119.718 to take a high dose for resveratrol.
+3122.213 And when we included it with food,
+3124.72 the levels in my blood went up five fold.
+3127.3 And so you want to have
+something in there.
+3129.17 If you just drink it with water,
+3130.15 it's not going to get through.
+3131.358 And unfortunately, some people
+have done clinical trials
+3133.522 without even thinking that they might need
+3135.76 to dissolve it in something.
+3137.86 - So are you taking this
+all at once in the morning
+3140.29 and chasing it with some olive oil
+3141.481 or are you dissolving it in yogurt?
+3144.67 What's the specific protocol?
+3146.63 - Yeah, I've been improving perfecting
+3150.183 what I do for about 10 years
+3153.17 I would take some Greek yogurt,
+3155.01 a couple of spoonfuls, put
+the resveratrol on there,
+3157.84 mix it around, make sure it's dissolved
+3159.293 and put that in my mouth and swallow that,
+3161.8 these days, what I like to do,
+3162.99 because I've realized that olive oil
+3165.74 and particularly oleic acid,
+one of the mono unsaturated,
+3169.15 fatty acids is also an activator
+of the sirtuin defenses.
+3174.1 So I'm trying to ingest
+more of oleic acid.
+3177.19 So I switched to olive oil.
+3178.86 What I do is I put a couple
+of teaspoons of olive oil
+3180.733 in a glass mix around the resveratrol,
+3184.05 and maybe some Coresatin
+a similar molecule.
+3187.15 Make sure it's dissolved.
+3188.95 I put a little bit of vinegar
+3191.38 and if I have a basil
+leaf, I'll put that in.
+3194.27 And it's like drinking
+some salad dressing.
+3196.46 And it's very-
+3197.33 - Delicious, that raises a
+question that I want to ask
+3202.83 before we get to NMN
+and NR and vitamin B3,
+3208.32 which is by doing that,
+3211.09 do you think that it breaks your fast?
+3213.32 And I want to just frame this
+question of breaking the fast
+3216.171 in a more general scientific theme.
+3218.419 And I'd love your thoughts on this.
+3221.08 One of the questions I
+get asked all the time
+3222.645 is does ingesting blank break the fast,
+3226.19 does eating this or drinking this, coffee?
+3229.34 If I walk in the room and
+someone else is eating a cracker,
+3231.63 does it break my fast?
+3233.43 People get pretty extreme with this,
+3235.21 my sense and please tell me if I'm wrong,
+3237.767 but my sense is that it
+depends on the context
+3240.63 of what you did the night before,
+3242.21 whether or not you're
+diabetic, lots of things.
+3244.81 So for instance, if I eat an
+enormous meal at midnight,
+3247.97 go to sleep, wake up at 6:00 AM.
+3251.3 I could imagine that black coffee
+3253.87 or coffee with a little bit
+of cream might quote unquote,
+3256.77 break my fast, but the body
+3257.9 doesn't have a breaking the fast switch.
+3260.18 The body only speaks in the
+language of glucose, AMPK,
+3263.14 mTOR, et cetera.
+3264.85 So do you worry that
+ingesting these calories
+3268.6 is going to quote unquote break your fast?
+3270.3 And more generally,
+3271.75 how do you think about the
+issue of whether or not
+3273.81 you're fasting enough to
+get these positive effects?
+3276.64 Because not everybody can manage
+on just water or just tea,
+3281.72 or we should say not
+everybody is willing to manage
+3284.66 on just water or just tea for
+a certain part of the day.
+3287.49 - Well, my first answer is not scientific,
+3289.37 it's philosophical.
+3290.81 If you don't enjoy life, what's the point.
+3293.07 And so I'd like a cup of
+coffee in the morning,
+3295.94 a little bit of milk, spoonful of yogurt,
+3298.393 it's not going to kill me.
+3300.94 Olive oil doesn't have protein
+or carbs in it, not many.
+3304.29 And so I'm probably not affecting
+3305.83 those longevity pathways
+negatively, but without that,
+3311.34 first of all, I wouldn't
+enjoy my life as much.
+3312.413 Second, well, the olive
+oil isn't is not as great
+3314.74 as the yogurt, but I'm trying to optimize
+3318.08 and there's no perfect
+solution to what we're doing.
+3321.68 And we're still learning.
+3322.75 We don't know what's optimal for me,
+3324.86 let alone everybody else.
+3326.57 But I'm with you,
+3327.48 I don't believe that taking a couple
+3329.55 of spoonfuls of something,
+3330.406 unless it's high fructose corn
+syrup is going to hurt you
+3334.41 because I've now got the rest of the day
+3336.13 till about eight, 9:00 PM
+of not eating anything.
+3339.47 And that I forgive myself for that.
+3342.68 And that there's a really good point here.
+3344.59 You and I were discussing this earlier.
+3347.69 The point about doing this is
+that you try to do your best.
+3352.83 If you go from regular living
+to donate the whole day,
+3357.26 you're going to fail.
+3358.19 It's like quitting smoking, cold turkey.
+3360.31 It's easy to chew gum
+and stick the patch on
+3362.203 because your body has to get
+used to all sorts of habits.
+3365.16 And it's social, it's physical,
+putting stuff in your mouth,
+3367.77 chewing, not just the
+low blood sugar levels
+3370.68 and your brain will fight it.
+3372.15 Your limbic system is going to go,
+3373.41 hey, do it, do it, do it.
+3375.46 And you're going to have to fight it
+3377.66 but once you get through
+it, you'll be better,
+3379.93 but you do it in stages.
+3382.11 Do breakfast first, then do small lunch
+3385.3 and then eventually cut lunch out.
+3386.98 Don't go cold turkey
+because everyone knows.
+3389.63 It's a fact that if you
+try to do a strict diet
+3392.91 right out of the gates,
+they'll almost always fail.
+3395.942 - Now, I think that captures the essence
+3399.102 of the fasting rationally
+and irrational approach
+3403.31 to supplementation very well,
+3405.889 along the lines of supplementation.
+3407.86 What about NMN, NR and B3, niacin?
+3414.98 How does one, I want to know what you do.
+3417.43 I also want to know what I should do,
+3419.68 and I think most people want
+to know what they should do.
+3423.04 These are molecules that
+impact the sirtuin pathway
+3425.83 impact the pathways that control aging
+3428.92 or rates of aging in the epigenome.
+3431.147 How do they do that?
+3432.597 And how does one incorporate that
+3434.58 into a supplementation protocol?
+3436.99 Should they choose to do that?
+3438.2 All right.
+3439.28 - Well, disclaimer is I
+don't recommend anything,
+3441.109 but I talk about what I do.
+3444.03 So a bit of scientific background,
+3445.2 these are two in genes that we discovered
+3446.83 first in yeast cells when I was at MIT
+3449.22 and then in animals as I
+moved to Harvard in the 2000's
+3454.01 one of my first post-docs,
+3454.963 actually literally my
+first postdoc Haim Cohen,
+3457.77 published a great paper
+just a couple of months ago
+3460.719 and found that turning
+on the sirtuin six gene,
+3464.98 middle of the seven, number
+six gene is very potent.
+3467.75 It extended the lifespan
+dramatically of mice
+3470.08 that he engineered both males
+and females, which is great.
+3473.21 So what you want to do
+is so naturally boost
+3476.51 the activity of these sirtuins.
+3478.6 They are genes, but
+they also make proteins.
+3480.61 That's what genes
+typically make or encode.
+3483.49 And then those proteins
+take care of the body
+3484.99 in many different ways as we've discussed.
+3487.43 So how do you turn on these
+genes and make the proteins
+3489.682 they make even more active?
+3491.6 You want to rev up that system.
+3492.63 So exercise will do
+it, fasting will do it.
+3496.6 What about supplementation?
+3497.459 Well, the first activator of
+the sirtuins that we discovered
+3501.47 that acts on the enzyme
+to make it do a better job
+3503.502 of cleaning up the body
+and protecting resveratrol
+3507.53 We looked at thousands
+of different molecules,
+3510.33 eventually tens of thousands.
+3511.566 And the one that was the best
+was resveratrol in the dish.
+3515.84 And then we gave it to
+little organisms, worms,
+3518.36 and then flies and
+mice, eventually humans.
+3521.4 And we saw that it activated that enzyme.
+3524.05 So resveratrol is one way to activate it.
+3526.217 And you can think of it as the
+accelerator pedal on a car.
+3529.35 It revs it up, but there's
+something else that the sirtuins
+3532.545 need to work and that's NAD
+and is a really small molecule,
+3537.423 little chemical in the
+body that we need for life.
+3540.63 It's used by the body
+for chemical reactions,
+3543.31 for a hundred different
+reactions in the body.
+3544.58 And without it, you're dead
+within seconds, you need NAD.
+3549.21 The problem that we've
+seen is that NAD levels
+3551.8 decline as you become
+obese, as you get older,
+3557.0 if you don't ever get hungry and the body
+3559.93 not only doesn't make enough of it,
+3562.74 it's chewing it up as well.
+3563.97 There's an enzyme called
+CD38 that Eric Verdin
+3567.78 over at UCSF showed choose up.
+3570.713 Now he's now at the Buck
+Institute in California,
+3573.42 choose up NAD as you get older.
+3575.53 So it's a double whammy.
+3576.39 You don't make as much and chew it up,
+3578.133 which is really bad because
+what we've shown in my lab
+3580.57 and so have others is that NAD levels
+3582.58 are really important for keeping
+those sirtuins and defenses
+3585.307 at a useful level.
+3587.26 And you can give a lot of resveratrol
+3588.444 but if you don't have the fuel,
+3591.17 you're basically accelerating a car
+3592.265 that doesn't have enough gas.
+3594.2 So you want to do both.
+3595.15 And that's what I do.
+3595.983 I take a precursor to NAD called
+NMN and the body uses that
+3600.54 to make the NAD molecule in one step.
+3605.17 And so I know from measuring
+dozens of human beings,
+3609.37 that if you take NMN for
+the time period that I do,
+3613.52 I've been taking it for years.
+3614.45 But if you take it for about two weeks,
+3616.36 you'll double on average,
+3618.21 double your NAD levels in the blood.
+3620.73 Okay, that's not public information.
+3622.17 That's from clinical trials
+that are not yet published
+3624.83 over the last two years.
+3626.71 There are other ways
+to increase NAD levels
+3629.19 in someone like me, who's
+getting older, I'm 52 now.
+3633.38 You can take NR, which
+is used to make an amend,
+3636.83 which is used to make
+NAD, and both NMN and NR
+3641.02 are sold by companies in the US.
+3645.233 NR is laxter phosphate,
+3649.47 the phosphate is a small
+chemical the body needs.
+3652.07 You've probably heard
+of the atom, phosphorus.
+3656.5 Let's go back one step.
+3658.04 How do you make NR?
+3659.58 NR gets made from vitamin B3, often.
+3662.75 You can also find it in
+milk and other foods,
+3665.8 but sometimes people ask me,
+3666.9 why don't you just take vitamin B3?
+3668.59 And won't that just force
+the body to make NAD?
+3672.11 And the answer is no, it
+doesn't work very well.
+3674.89 We know this just by doing the experiment,
+3677.9 but the reason I think is is that NAD,
+3681.107 I said, it's a small molecule,
+3682.7 but relative to vitamin B3, it's big.
+3685.6 It's got those phosphates
+on there, it's got a sugar,
+3690.04 it's got the vitamin B attached.
+3693.47 So you've got all these
+components that come together
+3695.71 to make this very complicated
+little molecule called NAD.
+3700.428 When you give NMN, it
+contains all three components
+3703.58 that the body needs to make NAD.
+3705.64 If you give NR or just vitamin B3,
+3708.38 which is an even smaller molecule,
+3710.13 the body has to find
+these other components
+3711.88 from somewhere else.
+3713.19 So where do you get phosphate,
+3715.18 well, the body needs it for
+DNA, it needs it for bones.
+3718.56 So high doses of something
+3720.93 that requires additional phosphate
+3723.56 makes me a little concerned.
+3725.5 And we have compared to
+NMN and NR head-to-head
+3727.86 in mouse studies, for instance in NMN,
+3730.87 we've shown in a cell
+paper a few years ago,
+3733.56 makes mice run further, old
+mice can run 50% further
+3736.32 'cause they had better
+blood flow, better energy.
+3738.18 NR are at the same dose, did not do that.
+3740.06 In fact, it had no effect.
+3741.35 - I see, dosage wise, if
+I were elect to take NMN
+3746.42 in supplement form to
+increase my NAD levels
+3749.97 and presumably slow my aging,
+3753.82 how much NMN should I take?
+3755.28 What's the protocol that you do?
+3759.15 And are the various
+forms that are out there,
+3762.16 are some better or some worse?
+3765.72 - Well, I'm always happy
+to tell you what I do
+3767.61 and what my father does,
+my 82-year-old father,
+3770.32 we take a gram of NMN every day.
+3773.02 - So it's a gram resveratrol
+and a gram of NMN.
+3776.06 - Right.
+3776.893 - Okay a thousand milligrams.
+3778.09 - Now another important point,
+3782.06 which is, I'm not the
+same as everybody else.
+3784.92 I have a different
+microbiome, age, sex, right?
+3788.42 And so I've been measuring myself
+3790.46 and so I know if something's,
+3792.54 or I think I know if
+something's making me better
+3794.3 or worse based on measuring
+45 different things.
+3797.94 So I just want people to be aware
+3800.62 that what I do may not perfectly
+or work at all for others,
+3805.11 but I have studied, as I said,
+3806.88 dozens of people who take NMN, at a gram,
+3811.25 sometimes two grams.
+3812.32 And I know by looking at all those people
+3814.9 that without any exceptions,
+that if you do what I do,
+3817.83 your NAD levels go up by
+about two fold or more.
+3822.07 And so I do that every day,
+the thousand milligrams.
+3824.52 Now people sell it.
+3825.87 Now I never get into brands and all that.
+3828.27 First of all, I don't have
+the time to measure products.
+3831.95 I don't know, though I should say,
+3834.28 I do want to say I'm working on a solution
+3837.07 for people to know what works
+3839.34 and what's real and what
+isn't, but I'm not there yet.
+3842.36 And in the meantime, I would say,
+3844.37 if you do want to buy this,
+let's say you want to buy NMN,
+3848.15 look for a company that
+is well-established
+3850.8 that has high levels of quality control.
+3853.95 Look for three letters, GMP,
+3856.3 which is good manufacturing practices.
+3859.15 And so that means they make
+it under a certain level
+3861.23 of quality control.
+3862.31 You're not going to find
+iron filings in there
+3865.54 and it probably has the stuff
+in it that they say it does.
+3870.11 But so that's all I can say right now.
+3872.64 I'm working on something that's
+going to be much more helpful,
+3875.01 but overall, make sure it's
+white, crystalline NMN,
+3879.62 and that to me, it tastes
+like burnt popcorn.
+3882.52 - You crack open the capsules,
+3883.81 and you'll take a little sample
+3884.96 to make sure it tastes like burnt popcorn.
+3886.82 - Well, when I'm making
+my capsules, I'll taste it
+3890.34 and I do a lot of quality
+control on the stuff that I take.
+3893.6 - Do you take that gram all at once
+3895.16 with the resveratrol
+3896.12 or do you take it spread
+throughout the day?
+3898.62 - It's all in the
+morning for those things.
+3901.58 So if I take Metformin, it's NMN
+3904.86 and the resveratrol altogether.
+3906.54 And there's a good reason for that.
+3908.4 It's all scientific, I try to be.
+3911.43 The levels of NAD go up in the morning
+3913.83 in our bodies naturally.
+3914.81 Our bodies actually have a
+cycle of NAD, it's not steady.
+3917.27 - It's Arcadian?
+3918.103 - It's Acadian.
+3918.936 In fact, NAD controls your clock.
+3922.28 This was shown by Shin Imai and colleagues
+3924.24 in this nice science
+paper about a decade ago,
+3927.11 that if you disrupt the NAD cycle,
+3928.91 which is controlled by the
+sirtuin gene that we worked on,
+3933.05 that is what's telling your
+body, oh, it's time to eat,
+3935.89 it's time to go to sleep.
+3937.37 And if you take these, the NMN
+late at night, for example,
+3941.31 you can disrupt your circadian rhythms.
+3943.36 - Interesting.
+3944.193 - Conversely, when I travel
+and I want to reset my clock
+3947.22 to the time zone, I will take
+a boost of NMN in the morning
+3952.56 and I feel great.
+3953.9 - Does this protocol for you,
+3957.152 does it produce any immediate effects
+3960.18 of increased energy, et cetera?
+3961.97 You mentioned that one would,
+if it's right for them,
+3966.03 would have to take it
+for at least two weeks
+3968.22 to start to see the NAD levels increase.
+3970.15 At that point, when NAD levels increase,
+3973.62 could one possibly expect an increase
+3976.06 in overall energy, focus, et cetera?
+3980.6 I realize we're not making promises here,
+3982.03 but I'm just wondering whether
+or not the only measure
+3984.06 of whether or not this protocol is working
+3985.9 is whether or not you die at
+age blank or blank plus 20.
+3990.97 And of course, once you're dead,
+3993.979 you can't really know if
+you would've lived longer
+3996.56 if you'd done something
+differently and vice versa.
+3998.6 - Sure, well, there was a
+study again by Shin Imai
+4001.23 my good friend at Washington
+University in St. Louis
+4003.93 that showed that improves,
+4006.67 remember this insulin sensitivity,
+which is a good thing.
+4010.46 But you can't know your
+insulin sensitivity
+4012.17 unless you're measuring glucose,
+4013.87 have a glucose monitor on your arm.
+4015.23 - Do you have one on right now?
+4016.36 - No, no, I used to, I learned a lot.
+4018.97 - Yeah, last time I
+saw you had this thing,
+4021.116 it looks like a small leach,
+4022.94 not a large leach and it was
+measuring your blood glucose.
+4026.23 - They're very informative
+because you learn
+4028.05 what your body reacts to
+and grapes were really bad.
+4031.4 Rhonda Patrick agrees with
+that, but the issue was,
+4037.83 was what, where were we, Andrew?
+4039.66 - The issue is whether
+or not you can expect
+4041.26 any immediate effects on
+energy, vitality, focus,
+4045.45 just even subject.
+4046.53 - So what do you feel, is the question.
+4048.07 And anecdotally,
+4049.68 'cause I've been taking
+this for a long time,
+4051.04 if I don't take it, I
+start to feel 50 years old,
+4053.15 it's horrible.
+4054.03 I can't think straight.
+4055.134 It may be placebo, but who knows?
+4058.9 But what we're doing now are
+very careful clinical trials.
+4061.51 We've done the safety for two years,
+4063.36 and we're now treating elderly patients
+4065.73 at Harvard Medical School with
+some wonderful colleagues.
+4069.12 And those people are actually going
+4070.9 to be an currently in MRIs.
+4073.77 So you can measure the
+energetics and the NAD levels
+4077.64 in their legs as they
+exercise in real time.
+4080.84 And that will tell us if
+what we see in the mice
+4083.45 is increased endurance actually works.
+4085.83 In the meantime, it's fun
+to talk about anecdotes.
+4087.89 I have a number of athlete friends,
+4090.5 some of which have increased their load,
+4094.07 their time in marathons, for example.
+4095.293 There's a good friend
+of ours in our circle
+4098.88 that is winning marathons at age 50 now.
+4101.947 And he attributes that to
+the protocol that he's on.
+4104.72 - Interesting, I haven't
+started taking NMN,
+4106.88 but I'm planning to do that
+when my next birthday arrives,
+4110.09 which is in a couple months.
+4111.4 But I do experiments on my
+sister and have for years,
+4114.29 I have a sister who's three
+years older than I am,
+4117.3 who is very enthusiastic
+about these protocols.
+4120.16 And I'll tell you that
+after reading your book,
+4123.08 I started purchasing
+for her and giving her
+4125.58 an NMN supplement and she
+claims and I believe her.
+4130.14 She has a quite sensitive system
+4131.64 and she's very tuned into it.
+4132.95 She feels far and away
+better when she takes it,
+4136.41 as opposed to when she doesn't
+4137.71 and I've done the control
+experiment of removing her supply,
+4141.24 and then giving it back to
+her in this kind of thing.
+4143.39 So that's my other laboratory.
+4146.99 This is what younger brothers
+do to their older sisters.
+4150.14 I have a question about something
+4151.4 that if it has no relevance,
+4152.65 we can just treat it as a speed
+bump and then move right on.
+4156.14 And the artificial sweeteners,
+4157.99 these things that we
+should say non-glucose,
+4161.9 increasing sweetener.
+4163.04 So you've got Stevia,
+which is a plant basically.
+4166.12 And then you've got
+sucralose and aspartame
+4169.16 and all these things.
+4170.09 There is some evidence that
+I know we're both aware of,
+4173.35 they've been publishing
+quite reputable journals,
+4175.44 showing that they can
+disrupt the gut microbiome
+4178.71 in certain cases in particular saccharin,
+4180.62 the one that basically
+nobody uses anymore.
+4183.74 And it's questionable as
+to whether or not Stevia
+4185.54 has the same negative effects, et cetera.
+4187.07 That's not what this is about,
+4188.21 but in terms of the sensation of,
+4191.91 or the perception of sweet taste,
+4194.75 is that itself a possible detriment
+4197.72 to these pro-longevity,
+forgive me for using the term,
+4201.04 the pathways.
+4204.32 If I were to drink a
+diet coke during a fast,
+4207.25 am I somehow disrupting this?
+4208.65 And I'm asking this question,
+4209.54 because I get asked this question a lot.
+4211.69 - Well, there may be small effects.
+4213.85 I don't think they're
+worth worrying about.
+4216.54 Joe Rogan laughed at me 'cause
+I was drinking a diet coke
+4219.17 during the first
+interview I did with them.
+4221.75 I will drink diet coke, I've
+read the scientific literature.
+4225.03 And again, it's this 5% thing
+4226.543 that I think is blowing out of proportion.
+4229.29 If I was to put a number
+on it, I would say,
+4231.78 if eating a high sugary meal
+4236.24 or drinking a sugar-filled soda,
+4239.97 what is that, 30 grams of sugar?
+4242.27 Let's say that's a 10
+out of 10 bad for you.
+4245.92 A diet coke might be a one.
+4249.07 And if I'm, which am I going to do?
+4250.93 I could have a 10 or a one
+or go without in my life.
+4254.16 I'll do the one on occasion.
+4256.15 I try to avoid them because I
+don't like the ones as much.
+4260.68 But you can't say that sucralose
+4262.36 is equivalent to drinking a sugary soda.
+4265.27 There's just no comparison.
+4267.37 And I think suc, what is it?
+4268.94 Stevia, I do use Stevia whenever I can,
+4271.3 because it's a naturally sourced product.
+4275.06 And I haven't seen any good evidence yet
+4276.93 that it's bad for you.
+4278.69 But I think a lot of this is overblown,
+4280.94 and a lot of it's the media trying
+4283.16 to give equal weight to stories
+as you know as a scientist.
+4287.22 It can be frustrating
+when something's a 10
+4289.764 and something's a one,
+and they're equated.
+4293.38 - How do I say this respectfully?
+4294.62 I think if science
+journalists were required
+4297.69 to post their credentials
+alongside their name, [chuckles]
+4302.53 then people would take the articles into,
+4304.55 with additional grain of salt, right?
+4306.77 I mean, in other words,
+4307.603 that I think that the science media
+4309.18 is mainly generated
+around two specific goals.
+4312.41 One is to make people very, very afraid
+4315.29 or get people very, very excited,
+4316.9 and oftentimes the get people excited part
+4319.29 is sponsored content,
+4320.45 and I think that's overlooked in any case.
+4323.34 Thank you for that.
+4324.19 I want to talk about iron and iron load.
+4327.66 We were talking earlier about ferritin.
+4329.94 And of course, women menstruate.
+4333.32 And so their iron needs
+are greater than people,
+4337.35 men that don't menstruate
+4339.11 or women that don't menstruate.
+4341.981 I don't think we can get right down
+4343.02 into how much iron somebody needs
+4344.89 because it'll vary person to person.
+4346.47 But I was surprised to learn that iron
+4349.66 is actually going to accelerate
+4352.31 the aging process in various contexts.
+4356.03 - Well, this is a new
+finding out of Spain.
+4359.91 Manuel Serrano's lab has
+found that excess iron
+4364.03 will increase the number of
+senescent cells in the body.
+4368.172 And senescent cells are these zombie cells
+4369.88 that accumulate as you get
+older and they sit there
+4372.3 and they cause inflammation mainly
+4374.45 and also can cause cancer.
+4376.35 And it's found that if
+you get rid of these cells
+4378.66 or never accumulate
+them, you stay younger.
+4382.13 In animals, and there's some
+really interesting studies
+4385.41 out of Mayo Clinic in humans as well.
+4388.53 So iron is a pro-senescent metal.
+4393.72 And so what I think
+4394.96 is that if you're taking
+excess iron as a supplement,
+4397.95 you're probably accelerating
+your aging process.
+4401.12 The other thing that I
+found really interesting
+4402.86 is I've looked at hundreds of thousands
+4404.45 of people's metabolism and
+their blood biomarkers.
+4409.24 I was one of the first people
+4410.77 in InsideTracker as a board member,
+4413.31 and I'm still their scientific lead guy.
+4417.55 So I can look anonymously
+4419.13 at hundreds of thousands
+of people's blood work.
+4421.36 And we also know how fit
+they are, how old they are.
+4425.83 Some of them are marathon runners,
+4427.04 some of them are CrossFit.
+4429.87 And there's a signature of health
+4432.09 that actually is different
+than your average person.
+4435.0 Now, I'm not going to
+say bad things about MDs
+4437.837 'cause a lot of my best friends are MDs
+4440.127 and I work with them at
+Harvard Medical School.
+4443.4 The issue though, is
+that with MD training,
+4448.19 there's a scale of what's normal,
+4449.95 and if you're out of that normal range,
+4452.02 something must be wrong,
+4453.01 that's the paradigm that they work under.
+4455.27 But first of all, everybody's different,
+4456.987 and you want to know their baseline
+4458.31 and track people over years to
+know what's normal for them.
+4461.929 And what I find for example,
+4463.11 is people who are really
+healthy and live the way I do
+4466.497 and have a diet that's fairly
+vegetarian, but not strict,
+4472.48 still have slightly low hemoglobin levels,
+4475.28 slightly low iron, slightly low ferritin,
+4478.12 but we have super amounts
+of energy, we're not anemic.
+4481.2 And we're getting along great in life.
+4483.73 But a doctor who just
+looks at that might say,
+4486.31 oh, we need to give you more iron.
+4488.42 All right, so what I'm
+getting at is an example of,
+4491.17 we need to personalize medicine
+4493.38 and look at people over the long run
+4495.62 to know what works for them
+and what's healthy for them,
+4500.17 and not just work towards
+the average human,
+4502.08 but work towards what's optimal for human.
+4504.75 - I love that answer.
+4506.39 You mentioned tracking
+and tracking over time.
+4508.5 And this is a really interesting area
+4510.88 that I know you have been
+focused on for a long time.
+4514.01 I've been getting blood worked
+on about every six months
+4516.646 frankly, since I was in college.
+4518.41 I just got, I like data
+4519.589 and I got interested in
+supplementation and exercise
+4523.03 'cause it made me feel better,
+4524.29 but I also want to know what
+was going on under the hood.
+4527.06 So you get numbers back, you
+get this hormone, that hormone,
+4530.38 this blood glucose measure, et cetera.
+4533.85 How do you make sense of the data?
+4535.85 I mean, what InsideTracker is doing aside,
+4538.29 how do you personally
+make sense of the data
+4540.36 in ways that might differ from the way
+4542.69 that a standard MD might
+look at one of these charts?
+4545.17 Because the standard practice is to say,
+4546.96 is it red, yellow, or green, right?
+4549.35 Is it basically too high or too low?
+4552.25 Is it somewhere close to
+the margins or are you okay?
+4556.037 Are you in these ranges?
+4557.93 Are there any things
+that you pay attention to
+4560.31 that you think are
+particularly interesting
+4562.83 for people to just take note of?
+4564.32 I mean, we're not asking you
+4565.153 to go against anybody's physician.
+4568.73 But what sorts of things
+should people start
+4571.93 to educate themselves about
+4573.11 in terms of what these
+molecules are on their charts
+4575.57 if they choose to get them,
+and what do you look at?
+4577.76 - Yeah, well, there's a lot there.
+4580.7 The first is that you
+should be tracking things,
+4583.89 because one measurement isn't enough.
+4585.43 These things vary and over time.
+4587.06 And if you can have a
+decade or more of data,
+4589.5 it's super important, informative,
+4591.92 as you know, well know, as you know.
+4596.0 So the physician, interestingly,
+4598.14 my physician, let's
+take him as an example.
+4601.66 So he sees me, he says,
+"How are you feeling?"
+4605.947 "I'm feeling great."
+4607.067 "Okay, see you next
+year," that's craziness.
+4609.26 Anyway, so I say, okay, stop.
+4611.0 Let's talk a little bit about.
+4612.84 - Let me educate you, that's
+what David tells his physician.
+4615.67 I imagine that the
+12-year-old David Sinclair
+4618.18 says to a physician,
+4619.013 "Listen, let's have a
+different discussion."
+4621.07 Is that how it works?
+- It is.
+4622.557 He finds me pretty annoying
+as does my dentist.
+4626.15 But so I say, so hang
+on, I've got this data.
+4629.76 I've got the InsideTracker data.
+4631.11 So I pull that up on the screen,
+4633.06 and I'm showing him the
+changes in my cholesterol
+4636.95 and my CRP, which is
+inflammatory marker as you know.
+4640.96 And we're going through it,
+4641.793 and you can see things change over time,
+4643.34 and I've corrected them
+4644.67 as they go slightly out of
+the optimal range for me,
+4647.75 which is different than
+what he would do, of course.
+4650.02 But what was funny is that he says,
+4651.83 this is great, I love this data.
+4654.26 But I'm not allowed to get
+this because of course,
+4657.28 the insurance companies won't pay for it.
+4659.89 So again, you can pay out of pocket.
+4661.9 It's not super expensive.
+4663.15 I would say, if you save a
+bit of money on a coffee,
+4668.35 you can afford this kind of stuff.
+4670.32 But the main point is that
+doctors do like this data.
+4673.57 It's just that they're
+unable to spend the money
+4675.84 on every one of their patients to get it.
+4678.08 - Is there a code word
+4679.63 that someone can use with their physician
+4681.06 that will trigger a
+comprehensive blood test?
+4683.55 I keep trying to figure
+out what's the code
+4686.03 that one needs to ask
+or tell their doctor,
+4688.66 I'm feeling blank so that
+they get a full blood panel.
+4691.761 - Well.
+4692.73 - Do you have to be hemorrhaging
+from the gut or something?
+4696.09 - Well, I usually use the WTH method,
+4698.66 which is what the hell?
+4699.92 And then he says, "Okay, we'll do it."
+4702.256 - 'Cause I think a lot of
+people out there are thinking,
+4704.14 look, I'd love to have blood
+work repeatedly over time,
+4706.83 but that's hard to get
+for financial reasons,
+4709.4 but also a lot of people
+just don't know how
+4710.7 to approach the conversation.
+4712.82 And this is one of the things
+4713.653 that I hope that we can educate people on,
+4716.05 that they deserve to know what's
+going on inside their body,
+4719.42 and that it makes a
+doctor's visit worthwhile,
+4722.07 and that you don't have to
+feign illness in order to do it.
+4726.07 - Right, yeah, and a lot of people do.
+4727.91 So I would say, if you
+can't afford these tests,
+4729.98 there are increasing number of companies
+4732.05 that offer these tests,
+InsideTracker is one of them.
+4735.96 And you just do it a couple
+of times a year at a minimum.
+4739.74 And then you can share
+that with your doctor.
+4741.84 If you can't afford that, then
+I would say to your doctor,
+4745.1 here are the main ones
+that Andrew and David do.
+4748.99 - Yep, and we must.
+4750.46 And there's an email
+4751.38 that is something like 555,
+4753.27 or a phone number, rather, it's 555-5555.
+4756.65 I think if they have any complaints,
+4757.93 they can just call that number.
+4759.97 David will pick up on the
+east coast business hours
+4762.88 and I'll pick up outside of those hours.
+4764.83 - But there was the
+main ones, I would say.
+4766.87 Your blood sugar levels,
+you want to do your HbA1c,
+4769.24 which is your average glucose
+levels over the month.
+4772.27 There's CRP, which I
+mentioned for inflammation.
+4774.95 - Yeah, let's talk about
+C-reactive protein for a second.
+4777.01 'Cause I think it's been shown
+4779.25 to be an early marker
+of macular degeneration
+4782.13 of heart disease, of a
+variety of different things.
+4785.36 CRP is something
+4786.193 that we don't hear enough about, I think.
+4788.98 Maybe, what do you know
+about CRP that I don't,
+4791.69 I'm guessing a lot, but.
+4793.31 - Oh, it was originally picked up
+4794.85 as something that was
+associated with heart disease
+4796.96 in the Framingham study, I believe.
+4799.42 It is the best marker for
+cardiovascular inflammation
+4803.53 and is also, we use it as
+a predictor of longevity,
+4807.29 and its levels go up with mortality.
+4812.17 And so this is an association,
+4813.61 but there's enough data that I would say,
+4815.81 if you have high levels of CRP,
+4817.6 you need to get your levels down quickly.
+4820.45 And the levels usually go up with age
+4822.973 and with levels of inflammation.
+4824.57 So the ways to get it down
+would be to switch the diet,
+4828.04 eat less, try to eat more vegetables.
+4830.28 You'll find it will come down,
+4831.267 and there are also drugs that can do it.
+4833.73 Anti-inflammatories can do it as well.
+4837.25 But CRP is, it's actually, hCRP,
+4840.03 there's a high sensitive
+hCRP, your doctor will know.
+4843.3 Get one of those readings.
+4844.27 'Cause if you've got
+normal blood sugar levels,
+4847.23 your doctor, or fasting
+blood sugar levels,
+4850.3 your doctor might say you're fine.
+4852.02 But a lot of people
+have normal blood sugar,
+4854.03 but have high CRP, which is
+just as bad for you longterm,
+4858.51 and can predict a future heart attack.
+4861.07 - On the lines of heart attack.
+4862.37 I want your thoughts on cholesterol
+4865.12 and serum cholesterol
+and dietary cholesterol.
+4867.65 I cannot, for the life of me,
+4869.92 get my arms around this literature.
+4872.09 And even if I ignore all
+the essentially nonsense
+4876.07 that's out there in various
+social media groups,
+4879.25 as saying cholesterol is the
+worst thing in the world,
+4882.75 or cholesterol is not,
+4884.587 or dietary cholesterol has nothing to do
+4887.04 with serum cholesterol and
+nothing to do with longevity.
+4889.84 I can't seem to sort
+through the very basic data
+4894.93 that essentially ask,
+4898.34 is having high levels of LDL
+going to kill me earlier?
+4903.11 Should I be striving to always
+reduce LDL and increase HDL?
+4907.23 Is that a reasonable goal?
+4908.68 And if so,
+4910.47 is dietary cholesterol the
+primary determinant of that?
+4913.55 And just as a final point about this,
+4916.68 I am aware of quite good data
+that shows that anorexics,
+4919.83 people that essentially eat no food,
+4921.56 unless you force them to,
+can often have very high LDL.
+4926.93 So their dietary cholesterol
+is essentially zero,
+4930.38 and so they're manufacturing
+a lot of their own.
+4932.29 So realize this isn't your
+primary area of expertise,
+4935.89 but you're a smart guy
+4937.441 and you think about this
+kind of stuff a lot.
+4939.77 What do you think is going on
+4940.92 with the cholesterol literature?
+4942.14 And will we ever get to the bottom of this
+4944.67 as a scientific and medical community?
+4946.46 Because to me, it is rather perplexing.
+4950.15 - It is, but you can get
+through the politics.
+4954.65 I know a fair bit about cholesterol
+4955.98 'cause it's in my family history.
+4959.1 And I was headed for an early death,
+4961.62 my grandmother had a stroke 30,
+4963.44 that's how bad I am in
+terms of my genetics.
+4966.86 So I went on a statin, and I
+know there's a lot of people
+4969.29 who say that statins long-term are bad.
+4972.12 It's associated with Alzheimer's disease.
+4977.487 I've been taking a statins since I was 29.
+4979.823 And that's 'cause I forced my same doctor
+4982.75 to give me the statin,
+4984.459 the conversation was something like this.
+4986.09 You're too young to be on a statin.
+4988.36 And I said, what?
+4989.193 You want me to have a heart attack
+4990.17 before you give me
+something, give it to me now.
+4992.03 So 29, I'd been on a satin,
+4993.777 and my cholesterol was
+way up in beyond 300,
+4996.78 which is a massive mess up.
+4998.14 Basically my blood was creamy to look at.
+5000.6 So I've now got my cholesterol down
+5002.18 to low, low levels to what would it be.
+5005.983 You can check on my InsideTracker,
+5008.13 but so my ratio of HDL to LDL,
+5010.46 which you want to be less
+than five, is now two,
+5013.09 and the LDL is below a
+hundred, so it's all good.
+5016.29 And I've measured my
+cardiovascular health with an MRI.
+5019.31 I've got a movie of my heart beating.
+5021.35 I've still got a heart of a
+20-year old, so that's working,
+5025.4 I'm willing to forgo the risk
+5026.81 that the statin is causing problems later
+5028.69 because of my family history.
+5030.46 But other people, I would say,
+5033.68 be aware that statins
+aren't perfect drugs.
+5037.05 There were some interesting new ones.
+5038.43 There's one called the PCSK9 inhibitor,
+5040.82 which is, I think fortnightly,
+every two weeks injection,
+5044.39 that blocks the release
+of LDL from the liver.
+5049.16 And then that seems to be
+great for lowering cholesterol,
+5053.27 but also has other benefits
+that might be prolongevity.
+5057.36 And there were some people
+5058.64 that I was just talking to
+on the cutting edge of this,
+5061.91 and their doctors are
+trying them on this drug
+5063.95 instead of the statin.
+5065.82 So you could talk to your doctor about.
+5068.29 - Do you avoid dietary
+cholesterol for that reason also?
+5072.8 Red meat, butter.
+5074.1 I mean, I have been to love butter.
+5075.33 I love red meat.
+5076.651 I realized there's some people who don't.
+5079.88 My cholesterol is a little bit high,
+5080.96 but I'm working to bring that down a bit,
+5083.49 although not by altering
+my food intake yet.
+5088.04 But what do you think is the relationship
+5089.39 between dietary cholesterol
+and serum cholesterol,
+5091.78 and what's going on with the liver?
+5093.53 Why are anorexics?
+5094.983 Why is there a certain cholesterol so high
+5097.55 when they're eating nothing?
+5098.76 - Well, there've been in a
+number of papers over the years
+5100.69 that have been ignored.
+5102.06 And our friend, Peter Attia,
+5104.05 brought to my attention recently,
+5106.29 a new study that I think definitively said
+5109.18 that dietary cholesterol
+has almost zero impact
+5112.5 on blood cholesterol levels.
+5113.86 - Good.
+5114.693 - Yeah, so I'm annoyed
+'cause I'd been avoiding eggs
+5118.69 and butter for most of my
+life and I didn't have to.
+5122.19 So I have eggs-
+5124.14 - Plenty of time, or
+at least in your case.
+5125.865 - Yeah, yeah.
+5126.96 So that's the thing.
+5128.319 You can eat these foods
+that were ones banned
+5131.72 because it's very difficult
+5132.825 to take cholesterol up
+into the body from the gut.
+5136.18 And most of it's being
+synthesized in the body.
+5139.33 - Well, I'm just pausing
+there for a second
+5141.19 because I think that it's
+what we've been told.
+5145.94 Six meals a day, eat a
+lot of grains and fruits
+5149.89 and this kind of thing, avoid cholesterol.
+5155.32 I mean, basically everything we learned
+5157.38 in the '80s and '90s and early 2000s
+5160.32 is getting flipped on its head now.
+5162.98 But, and I think this
+is a very strong caveat
+5167.9 that's important to mention, amino acids.
+5172.6 In particular, the amino acids
+5174.03 that come from animal products, right?
+5177.22 Seem to have some pro aging
+effect on them, right?
+5181.28 At least the way that I've
+heard you describe your diet.
+5184.617 And I'm somebody who
+enjoys meat, I like it.
+5187.87 But so I'm by no means, a vegan at all.
+5191.2 But I've heard you say
+you eat mostly plants,
+5196.03 but a little bit of fish
+5197.78 or chicken or something
+of that sort of eggs or.
+5200.69 But is that specifically
+5202.24 to avoid excessive amino acid intake?
+5205.21 Or is it something specific about plants
+5207.0 that excites you with
+respect to? [chuckles]
+5210.14 I mean, vegetables are
+delicious too, but what is it?
+5212.69 Is it something great about plants
+5213.94 or is it something bad
+about when I think of meat,
+5216.48 I guess the biologist in me
+thinks amino acids, right?
+5219.44 I don't think top sirloin,
+I think amino acids.
+5221.537 And I think top sirloin as I'm eating it,
+5223.34 but really what they are, are amino acids,
+5225.81 including leucine.
+5227.26 - Yeah, well, there are two
+good things about plants,
+5230.39 and neither of them is taste for me.
+5233.84 I would eat steak all the time if I could.
+5235.7 I did when I was a kid, I'm an Australian.
+5238.52 But plants have two benefits.
+5239.78 One is that they're highly nutritious,
+5242.83 and they'll give you a lot of the vitamins
+5246.55 and nutrients that I need.
+5248.1 I don't take multivitamin,
+5249.34 I don't want to have the
+excess iron in my body.
+5252.22 So there's that high density nutrition.
+5254.21 So those dark leaves, if
+it's a spinach salad, great.
+5259.41 The second is that there
+5260.76 is what's called xenohormetic
+molecules in plants.
+5264.41 That term, xenohormesis is a term
+5267.01 that I came up with
+with my friend, Conrad.
+5270.22 How it's, which means
+stressed plants make molecules
+5274.71 that benefit your health.
+5276.26 I'll break it down.
+5277.16 Xeno means between species,
+and hormesis is the term,
+5280.41 whatever doesn't kill
+you makes you stronger
+5282.39 and live longer.
+5283.94 And the idea is that when
+plants are stressed out,
+5287.66 think of a great vine that's dried out
+5289.64 and then starting to harvest the grapes,
+5291.23 which is typically how it's done.
+5293.2 They are full with resveratrol,
+5294.55 because resveratrol is
+a plant defense molecule
+5297.96 that I think is made
+5299.28 to activate those
+sirtuin genes in a plant.
+5301.52 So plants have sirtuins just like we do.
+5304.25 But by purifying or at least concentrating
+5307.05 in a light-proof bottle and
+keeping it out of the air,
+5310.95 we stabilize the xenohormetic molecule,
+5313.65 or it's a cocktail, not just
+one, there's others in wine.
+5316.94 We then ingest those and get the benefits
+5319.73 of activating our own defenses,
+5321.24 because our food was getting stressed out.
+5323.59 And by stressed, I don't mean
+psychologically stressed.
+5325.62 I mean, biologically stressed.
+5326.92 And so I try to eat plants
+5329.57 that have gone through a bit of stress.
+5331.82 They might be brightly colored,
+they've had too much sun
+5334.02 or got nibbled on by a caterpillar.
+5337.35 So you go to places where it's
+organic or it's fresh, local,
+5340.42 and those are the plants
+that aren't perfect,
+5341.9 and they probably have high concentrations
+5343.24 of these molecules.
+5344.073 And in addition, I also
+buy the supplements
+5346.69 to make sure I'm getting
+enough of those as well.
+5348.7 - Which supplements mimic that?
+5350.17 - So resveratrol will,
+5351.11 there's another one called quercetin,
+5352.9 or quercetin, some people call it,
+5354.443 what you find in trace
+amounts in apples and onions.
+5358.53 And we also showed back in 2003
+5360.76 that it activates sirtuins as well.
+5363.27 But others have, 20 years later,
+5365.44 found that it kills senescent cells
+5368.64 or helps kill senescent cells.
+5370.73 So it's a double whammy
+with that molecule.
+5373.56 - And are you actively
+picking out the peaches
+5375.61 that look like they were
+nibbled on by a caterpillar?
+5378.75 - No, but I don't worry if
+they've been banged up a bit.
+5383.37 - What's the story with antioxidants?
+5385.31 Are they of any value whatsoever,
+5387.0 because the way that you
+describe them at the beginning,
+5390.34 and what I've heard recently
+5391.92 is that they are not all
+the rage for anti-aging.
+5397.45 What are they doing that's useful?
+5398.86 Should we be seeking
+out antioxidants anyway
+5402.22 for other seller health purposes?
+5404.63 - Well, yeah, antioxidants
+are not going to hurt you
+5406.73 unless you take mega doses.
+5408.41 We do need some oxidants
+for our immune system.
+5412.15 And there's even, what's
+called mitohormesis,
+5414.22 which is your mitochondria power packs,
+5416.28 need to have a little bit
+of these free radicals
+5418.59 to be able to function.
+5420.83 So you don't want to overdose
+on these antioxidants,
+5423.54 vitamin C, vitamin E, don't overdo it.
+5426.84 - You don't take a multivitamin, correct?
+5428.55 - Right.
+5429.83 - I think I'm going to stop
+after this conversation
+5431.91 'cause I've always just taken one
+5433.14 for the kind of insurance purpose,
+5434.7 which is a stupid purpose.
+5437.4 Not actual insurance, but just thinking,
+5439.11 oh cap top off on my ACBD.
+5442.9 - Right, and I'll pee out what
+I don't need, right, sure.
+5445.17 - But that never bothered me.
+5446.69 The whole expensive pee thing never got.
+5448.49 That argument never got
+made because of that.
+5451.66 A good vitamin is not that expensive.
+5454.89 I just figured better safe than sorry,
+5456.44 but it may be that it's detrimental.
+5458.87 - Well, it can in the case of iron
+5460.78 as we discussed and the antioxidants.
+5462.73 So when I came into the aging
+field in the early 1990s,
+5467.67 it was all about antioxidants.
+5469.16 And we thought that enzymes
+by the name of catalyze
+5472.1 and superoxide dismutase, well,
+5473.93 they're going to be the key to longevity.
+5476.56 It turns out that it's
+largely been a failure
+5478.97 that giving animals and
+humans antioxidants,
+5483.84 haven't had the longevity
+benefits that we dreamed of.
+5487.613 And the main reason is that
+there's a lot more going on
+5491.47 than just free radical damage.
+5493.96 The epigenome gets disrupted,
+5495.76 we've got these proteins misfolding.
+5498.959 And so the problem really has
+been that we didn't realize
+5502.11 that you need to turn on
+5504.31 the body's natural defenses against that
+5506.51 plus a whole host of other
+things to get the true benefits.
+5510.15 But I'm not going to say
+it's a problem taking it,
+5511.861 an antioxidant drink,
+5513.96 pomegranate juice for one
+is full of good stuff,
+5516.05 including xenohormetic molecules.
+5518.6 But resveratrol is a good case in point,
+5520.93 which is when I worked on resveratrol
+5523.4 as a longevity molecule,
+5525.1 first we showed it in yeast
+and worms and flies and mice.
+5529.32 Before that, it was
+thought that resveratrol
+5531.68 was good for your heart in red
+wine when you drink red wine,
+5534.77 because it's an antioxidant.
+5536.78 So then we showed that
+it extended the lifespan
+5538.92 of yeast cells through this
+genetic pathway, the sirtuins.
+5545.0 And we then tested whether resveratrol,
+5548.45 if we change one atom
+5549.77 to make it not an antioxidant, guess what?
+5552.25 It still worked fine.
+5553.67 So it wasn't its anti-oxidant activity
+5555.54 that was extending lifespan.
+5556.59 It was its ability to turn on
+5557.82 the yeast's defenses against aging.
+5560.19 Conversely, when we gave
+the yeast antioxidants,
+5562.78 they lived shorter.
+5564.55 So yeah, that was the
+beginning of my transformation
+5566.91 into thinking turn on the body's defenses,
+5569.07 don't give it the antioxidants.
+5570.83 - This is an opportunity
+for me to say something
+5572.897 that I've been wanting
+to say for a long time,
+5575.68 which is that, what's so
+wonderful about science
+5578.69 is that because the goal is mechanism,
+5581.56 you can really start to understand
+5582.97 as you just described, what
+actually mediates a process
+5587.89 is very different than
+what modulates a process.
+5590.06 I mean, if a fire alarm goes
+off in the building right now,
+5592.21 it's going to modulate our attention.
+5594.01 That doesn't mean that it
+controls our attention,
+5596.48 it's not mechanistically relevant.
+5598.38 And so I think this
+thing about antioxidants
+5600.21 is one of these cases,
+5601.94 it sounds like where it's
+in the right ballpark,
+5604.87 but until one really unveils
+the mechanism as you have,
+5607.76 you can be, one can or in a field,
+5611.45 can be badly wrong for a
+very long period of time.
+5615.51 It sounds like the sirtuins
+5617.25 and really getting down to
+the guts of the machinery
+5619.96 of what causes cells to age
+is really what it's about.
+5623.44 Zooming way out, what
+are the behavioral tools
+5628.03 that one can start to think about
+5629.39 in terms of ways to modulate these?
+5632.46 Basically the way that DNA
+5633.86 is being expressed and functioning.
+5636.51 I've heard you talk before
+5638.08 about hormesis of other
+sorts, cold exposure.
+5641.99 We talked about fasting.
+5643.49 We talked about exercise in broad terms,
+5645.61 but what about any evidence, if it exists,
+5650.8 as to whether or not aerobic training
+5653.7 versus weight training,
+these sorts of things.
+5656.1 In other words, what
+are the sorts of things
+5657.66 that people can do to improve
+their sirtuin pathway?
+5661.35 And I realized that there are caveats.
+5663.29 We can't go directly from
+a behavior dissertations,
+5665.05 but in the general theme,
+5667.35 what can people do, what do you do?
+5669.38 - Right, well, we know
+that that aerobic exercise
+5672.11 in mice and rats raises their NAD levels
+5674.95 and their levels of sirt,
+one of the genes goes up
+5678.74 two actually, number one and number three.
+5681.2 What we don't know yet
+is what type of exercise
+5684.98 is optimal to get them to change.
+5687.6 We will learn, we're doing work.
+5689.23 Now it's revealed that we're doing work
+5690.89 with the military in the US,
+5692.59 to try and understand that kind of thing.
+5695.04 And I'll always tell you and the public,
+5697.19 when I don't know something
+I'm not going to extrapolate.
+5701.27 But what do I do?
+5702.103 I base my exercise on the
+scientific literature,
+5705.12 which has shown that
+maintaining muscle mass
+5708.8 is very important for a number of reasons.
+5710.91 The two main ones are,
+5712.76 you want to maintain your hormone levels.
+5714.28 I'm an older male,
+5715.96 losing my testosterone
+and muscle mass over time.
+5718.89 And by exercising, I will
+maintain that and have,
+5722.894 in fact, I probably haven't
+had a body like this
+5726.09 since I was 20.
+5726.923 So that's one of the benefits
+of having this lifestyle.
+5730.33 - Sorry to interrupt you.
+5731.163 You do know we did an episode on hormones
+5733.59 and there are data in humans
+5735.13 that show that there are some
+males in their '80s and '90s
+5739.663 where their testosterone is equivalent
+5741.89 to the average of 25 and 30-year-olds.
+5744.62 I can get you that information,
+5745.88 is really impressive studies.
+5749.41 Unfortunately, they didn't
+include a lot of information
+5750.96 about the lifestyle factors, et cetera.
+5752.87 But this idea that testosterone
+goes down with age,
+5756.81 it might be the trend,
+5759.68 but it's not necessarily a prerequisite.
+5763.91 - Right, I believe in naturally increasing
+5766.62 and maintaining these hormone levels
+5768.08 and I've been measuring
+them for a long time.
+5770.76 And I could see for me,
+my testosterone levels
+5773.35 were steadily, levels were going down.
+5775.19 - And then you got tenure
+and they went back up again.
+5776.923 [both chuckle]
+5778.244 - No, I actually became complacent.
+5782.13 And it was the worst.
+5783.49 Actually my age changed in the
+wrong direction after that,
+5786.7 'cause I was relaxed.
+5788.26 - Interesting.
+5789.093 - And not worried about the future.
+5791.79 But then I got serious.
+5792.67 And I actually, according to
+the InsideTracker algorithm,
+5794.532 got my age down from 58 to
+31 in a matter of months.
+5800.35 So that was a big drop.
+5801.86 And I've been getting steadily younger
+5803.48 over the last 10 years,
+5804.69 according to that
+measurement, the blood test.
+5806.56 - What about estrogen?
+5807.45 Because women are different in the sense
+5809.86 that they do the number of eggs that they,
+5813.07 and the ovaries change over time, right?
+5816.07 Do you think that they can
+maintain estrogen levels
+5818.902 in over longer periods of time
+5821.65 using some of these same protocols?
+5823.35 - Well, yeah, I get into trouble
+from a certain university
+5826.64 when I talk about this too much.
+5828.95 - About estrogen?
+5830.27 - Just about fertility and long story.
+5836.683 I don't want to get too
+much into the anecdotes,
+5838.444 but I'll tell you the science,
+5839.78 which is that if you take a
+mouse and put it on fasting
+5845.94 or caloric restriction
+for up until the point
+5849.92 where it should be in fertile,
+5851.81 so that's about at a year of age,
+5853.48 a mouse gets infertile, female mouse.
+5855.21 - Due to fasting or
+due to simply to aging?
+5858.057 - Due to aging, due to aging.
+5859.97 The fasting, it's not extreme fast,
+5862.84 it's just less calories.
+5864.75 Then you put them back on a regular food,
+5867.36 and they become fertile again
+5869.23 for many, many months afterwards.
+5871.55 So the effect on slowing down aging
+5875.15 is also on the reproductive system.
+5877.05 - Interesting.
+5878.1 - And so that, I wouldn't
+say to any woman,
+5880.28 I wouldn't think that they
+should become super skinny
+5882.69 to try and preserve fertility,
+that's not what I'm saying.
+5885.54 But these pathways that we work on these,
+5887.12 sirtuins are known to delay
+infertility in female animals.
+5892.17 Case in point, I'm one of the lead authors
+5894.67 on a paper where we used NMN.
+5896.71 Remember, this is the gas, the fuel,
+5898.77 the petrol for the sirtuins.
+5901.39 We gave old mice.
+5903.5 One group of mice was 16 months old.
+5907.58 Remember they became infertile
+at 12, gave them NMN.
+5912.234 And I think it was only six weeks later,
+5914.687 they had offspring.
+5917.74 They became fertile again,
+5919.04 which goes against biology,
+the textbook biology,
+5922.35 which is that female
+mammals run out of eggs.
+5925.69 Turns out that's not true.
+5927.72 You can rejuvenate the
+female reproductive system,
+5930.81 and even get them to
+come out of mouseopause
+5933.62 as we call it.
+5934.98 So that's a whole new
+paradigm in biology as well.
+5937.59 - That's super interesting.
+5938.82 Sorry to interrupt you,
+5939.66 but I'm reminded by a set of studies
+5942.34 that were done by your former colleagues
+5944.127 'cause they're no longer there,
+5945.42 David Hubel and Torsten Wiesel,
+5946.85 my scientific great grandparents.
+5948.24 Won the Nobel prize for discovering,
+5950.2 what are called critical periods,
+5952.04 this phase of early development
+5953.41 when the brain is extremely plastic.
+5956.12 And a big part of their work
+5957.84 was to show that after a certain point,
+5959.54 the critical period shuts down,
+5960.92 essentially the brain can't
+change or not nearly as much.
+5964.76 And then people came
+along later and showed
+5966.23 that you could open up these
+critical periods again,
+5968.33 but very briefly,
+5969.82 and it takes a very specific
+stimulus, essentially,
+5974.22 high degrees of focus, et cetera.
+5976.4 However, there's a well-known
+phenomenon in this literature
+5980.38 where if you take an
+animal and to some degree,
+5984.43 this has been shown in humans as well,
+5986.94 and you let them pass
+through the critical period,
+5989.9 but then you essentially
+sensory deprive them.
+5992.81 You take away experience,
+you close both eyes.
+5996.27 You essentially reopen
+the critical period.
+5999.03 So it seems like I couldn't
+help but mention this,
+6001.27 that there's this parallel
+6002.53 between what we're talking
+about here with fertility
+6004.44 and neuroplasticity, where yes,
+6006.33 there is a timer where
+certain things are available
+6009.21 to the organism early in life,
+6011.01 and then they tend to taper off.
+6012.56 It's not an open and
+shut, but they taper off.
+6014.71 But then a deprivation
+can actually reactivate
+6018.18 the availability of that process.
+6021.25 Forgive me, I just couldn't
+help him mention it,
+6022.86 but to me,
+6024.29 so both of those things
+are associated with youth,
+6026.49 fertility and neuroplasticity.
+6028.31 And so I think that
+it'd be so interesting.
+6030.67 I'd love to collaborate with you on this
+6032.11 to explore how neuroplasticity
+might actually be regulated
+6035.07 by these things like the sirtuins.
+6037.52 - Right, and the sirtuins
+do control memory
+6040.81 in neurons as well.
+6041.97 So what I think is really interesting
+6044.28 is that what we're learning from work
+6046.81 that you and your colleagues have done
+6048.21 and in my lab as well,
+6049.79 is that the body has
+remarkable powers of healing
+6052.87 and recovering from illness and injury.
+6056.86 And what we once thought
+was a one-way street
+6058.92 and you just can't repair,
+6061.15 or you can't get over these diseases,
+6063.32 you can reset the system,
+6064.62 and the body can really get rejuvenated
+6066.54 in ways that in the future will wonder,
+6068.253 why didn't we work on this earlier?
+6071.43 The future of humanity
+6072.7 is more like us walking
+around like Deadpool.
+6075.13 We'll probably be cleaner,
+6076.57 and we won't smell as badly,
+6078.11 but Deadpool, if you don't know,
+6080.405 can get injured and just recover.
+6082.51 It's very hard to injure this guy,
+6085.186 and we're going to be the same.
+6086.75 There are many species
+you cut off the limb,
+6088.87 the limb grows back.
+6089.73 - Salamanders or.
+6090.8 - Yeah.
+6091.633 We are now learning how
+to tap into that system.
+6094.01 And in part, what we're doing
+6095.39 is reversing the age of those cells,
+6098.18 and telling them how to read
+the genes correctly again,
+6101.21 reversing the age of that epigenome.
+6103.71 And when you do that, the cells,
+6105.53 the brain, for instance, the skin.
+6108.32 We did the optic nerve.
+6110.32 - Let's talk about those
+results for a second.
+6111.83 Then I want to make sure that we return
+6113.15 to some of these behavioral protocols.
+6114.76 You have this amazing paper
+at the end of last year,
+6116.85 cover article, full article in nature,
+6120.16 showing that essentially a small menu
+6123.28 of transcription factors,
+6125.49 which control gene expression, et cetera,
+6128.93 could essentially reverse
+the age of neurons in the eye
+6131.85 and rescue those cells against damage.
+6135.99 Essentially allow blind mice to see again,
+6138.81 and offset degeneration
+of these retinal cells,
+6141.61 incredible paper, and
+such a boom to the field.
+6147.01 Where does that stand now in
+terms of human clinical trials?
+6150.13 I mean, how do, what are you envisioning
+6152.71 in terms of the trajectory of those data
+6155.28 from mice into human someday?
+6158.69 - Right, well, to get to
+the point immediately,
+6163.51 we're going to be testing
+the treatment on monkeys,
+6168.598 just for safety reasons.
+6170.85 And then the first patient
+should be done sometime in 2022,
+6175.21 early 2023, and we're going
+to try to recover blindness.
+6178.59 - This involves making an injection
+6180.36 of a virus into the eye, right?
+6182.73 Right now, there's no
+way that I am aware of
+6185.32 to manipulate these transcription factors
+6186.643 through a pill or some other?
+6188.587 - And that's why, we working on in my lab
+6190.5 at Harvard right now.
+6191.78 So it will be-
+6192.613 - It will base moderation of-
+6194.423 - Well you pop a pill in the whole body
+6195.55 gets rejuvenated by 20 years.
+6196.98 That's what we're aiming for.
+6198.46 Now we do it with gene therapy
+in the eye and other places.
+6202.77 So in the IES, it's single injection,
+6205.76 the genes go into the retina
+and we can turn it on,
+6209.16 with a drug called doxycycline.
+6211.24 And we do that in the mice
+for four to eight weeks,
+6214.67 then the eye gets younger.
+6216.17 We can measure that' cause
+you can measure the clock.
+6218.95 And then the vision
+comes back in those mice.
+6221.82 And I don't see any reason,
+why it shouldn't work in people
+6224.9 because it's the same structures
+and mechanisms that are
+6228.41 on in the human as well.
+6229.9 Now these-
+6230.968 - And it's one injection.
+6231.801 - It's one.
+6232.634 - I should mention injections into the eye
+6233.63 obviously nobody should do this
+6235.1 outside of a ophthalmology clinic.
+6238.319 And there definitely by
+an ophthalmologist but,
+6242.13 the injections into the eye
+are painless if done correctly
+6244.66 by the right person.
+6245.5 It sounds dreadful, but it's actually,
+6247.42 I've seen it done hundreds of times.
+6249.31 I've done it, thousands of times
+6251.42 and it's not to myself,
+but to other creatures.
+6254.76 And there's a way of doing this
+6255.87 as completely painless to the person-
+6257.911 - Oh you don't feel it.
+6258.744 It's a tiny, tiny needle too.
+6260.29 But the great thing about this is that
+6261.67 it's a one-time treatment.
+6262.87 Those genes go into the back
+of the eye and stay there,
+6266.18 forever.
+6267.49 And you can just turn
+them on whenever you want.
+6269.88 So what we found is you can
+turn them on in the mice,
+6272.42 they get their vision back,
+6274.054 and then you turn it off again.
+6275.48 And so far, many months out,
+6277.53 the benefit has remained,
+6279.56 but if it does decline,
+6281.32 we'll just turn it back
+on and reset the system,
+6283.65 rinse and repeat.
+6285.17 So one day what's exciting is that
+6286.6 we could potentially do
+this across the entire body
+6290.42 and just take this antibiotic,
+6292.7 every five years and go
+back time and time again.
+6296.6 - And thinking about the body
+6297.62 and what's going on under
+the head I'm amazed,
+6300.53 still that there isn't a
+simple, affordable technology
+6303.96 that would allow me to just
+look into my body and see
+6306.07 whether or not there are
+any tumors growing anywhere.
+6307.82 I mean, it's not that hard
+to look into the body.
+6310.82 I mean that the technology exists.
+6312.51 why hasn't anybody created an at home
+6314.61 or pseudo at home solution,
+like a clinic where you can go
+6317.9 and pay 50 bucks or a hundred bucks
+6319.78 and see if you have any
+tumors growing anymore.
+6321.37 - Yeah, it's still expensive.
+6322.96 You can get your doctor
+to try to get you in,
+6326.39 there's some companies
+that offer blood tests
+6328.42 that look at circulating DNA,
+6330.29 that'll measure it.
+6331.62 We're getting there.
+6332.453 It's still probably five to 10 years away
+6334.05 from being really cheap.
+6336.63 You can do things like a
+colon cancer test at home.
+6340.49 I think it's a hundred
+and something dollars.
+6342.814 You ship off your shit,
+excuse my language,
+6346.21 and they measure it.
+6347.963 And they tell you if
+you've got colon cancer,
+6350.44 with high probability,
+6352.01 I did that during the pandemic
+6354.05 because I didn't want
+to get a colonoscopy.
+6355.65 - Mhmh, is it more accurate or
+as accurate as a colonoscopy?
+6358.93 - I believe it's close
+to being as accurate.
+6361.05 The downside is that during a colonoscopy,
+6363.28 they can pinch off the polyps
+that are looking dangerous,
+6366.6 whereas this obviously isn't that,
+6368.78 but it's certainly easier to do.
+6370.5 And my father who's
+Australian tells me that
+6373.69 it's free for Australians.
+6374.86 They get this test routinely.
+6377.05 - Mhmh, interesting.
+6379.97 I want to return to the topic
+that I took us away from.
+6382.7 So I apologize, which
+is behavioral protocols.
+6385.81 Do you regularly do the cold shower thing?
+6388.35 Ice baths, cold water swims,
+are you into that whole biz?
+6392.061 [David chuckles]
+6394.35 - Well, you do know that
+I've done it at least once
+6397.06 'cause we did it together.
+6398.1 - That's right.
+6399.206 Not the same bath, just to be very clear,
+6400.8 same sauna, different ice baths,
+6402.408 [David chuckles]
+6403.241 the idea of Sinclair
+6404.11 and Huberman taking an
+ice bath together it's a,
+6406.37 it might warm some people's hearts,
+6408.08 but just to be very clear, different,
+6410.49 same ice bath, different, different times.
+6413.77 - Yeah, thank you for clarifying.
+6415.53 - [Andrew] Yeah.
+6416.41 I don't do them regularly.
+6419.471 I do try to sleep cool.
+6422.49 I sleep better anyway.
+6424.27 I try to dress without
+a lot of warm clothes.
+6427.3 I'm here in a T-shirt and
+it's middle of summer,
+6429.307 but in winter, I'll try
+to wear a T-shirt too.
+6432.332 - So you're challenging your
+system to thermoregulate?
+6434.95 - Right, right.
+6436.02 I've got this,
+6437.05 hypothesis with Ray Cronise.
+6438.96 We published what's called The
+Metabolic Winter Hypothesis,
+6441.53 which is, few tens of
+thousands of years ago,
+6444.8 we were either hungry or cold or both
+6447.12 and we really experience that now.
+6448.8 And so, we try to give
+ourselves the metabolic winter
+6452.7 and part of the problem I
+think with the obesity epidemic
+6455.83 is that we're never cold and cold,
+6457.58 when you're cold you have to burn energy.
+6459.0 It may be only slightly,
+but over the whole night,
+6461.91 if you're a little bit cool,
+6462.93 you'll actually expend more energy.
+6464.33 So I try to do that,
+6465.8 but I'm not a big fan of cold showers.
+6468.4 The sauna, I don't have access
+to my gym as much as I did.
+6471.29 So, but I do want to get back into it.
+6473.32 I used to do it regularly with my son
+6475.84 and I posted on Instagram once
+6477.56 that he could stay in there for 15 minutes
+6479.19 and I could only stay in for about three.
+6482.06 Anyway, long story short,
+6483.24 I try to compensate with
+changes in my diet and exercise
+6486.03 until I get back into it.
+6487.47 - You reminded me of something
+that I meant to ask earlier
+6490.4 that obesity reduces NAD
+levels and accelerates aging.
+6495.37 How?
+6496.24 I mean, okay.
+6497.073 So again, this is the,
+6498.88 the scientist in the us,
+6501.22 so someone's carrying a lot
+of excess adipose tissues,
+6504.37 subcutaneous and,
+6506.12 visceral fat.
+6508.44 But why should that reduce NAD in any ways
+6511.89 that are independent of
+effects on glucose and insulin?
+6514.81 If it, you know,
+6515.643 is there's something direct
+about white adipose tissue.
+6518.25 And the reason I ask this,
+6520.38 is not simply to dig into mechanism alone,
+6523.21 but I think there are
+really interesting data now
+6525.13 that fat actually gets neural innervation.
+6527.49 I mean,
+6528.5 it's not just a,
+6529.849 it's not just stored fuel.
+6531.79 It's stored fuel,
+6532.82 that's acting as an
+endocrine organ, essentially.
+6535.79 So,
+6537.43 why would being fat
+make people age faster?
+6541.41 - Yeah, that's a question that,
+6543.76 is so obvious, but so few people ask it,
+6546.25 that's what makes you a good scientist.
+6548.39 And so that we don't know,
+6549.83 but I'll give you my best
+answer, which is that,
+6553.39 obesity comes along with
+a lot of problems that,
+6557.18 include a lot of senescent cells in fat,
+6560.1 if you stain old fat for
+senescent cells, it lights up.
+6563.84 - Mhmh.
+6564.673 And when you kill off those cells,
+6566.55 at least in mice, and maybe in humans,
+6568.47 it looks like the fat is
+less toxic to the body.
+6572.16 'Cause those senescent cells
+in their fat are secreting
+6574.61 these inflammatory molecules
+6576.02 that will accelerate aging as we now know.
+6580.229 We talk about the sirtuins in NAD.
+6583.63 So if we,
+6584.463 if we just look philosophically,
+6586.18 at why this would be the sirtuins only,
+6589.26 like to come on or get
+activated when the body needs,
+6593.31 is on the right adversity.
+6595.14 And if a cell is surrounded by
+fat or contains a lot of fat,
+6599.79 it's going to think times a good,
+6601.11 it doesn't need to switch on.
+6602.23 So that's the evolutionary argument.
+6605.14 Mechanistically, we don't know,
+6606.647 but it could have something to do with
+6609.04 the response to glucose,
+6610.42 which then responds to the sirtuin gene,
+6613.29 but that hasn't been worked out very well.
+6615.287 - And is there any evidence that leptin,
+6616.91 this hormone from fat can actually,
+6619.25 interact with the sirtuin pathway?
+6622.22 - I don't recall seeing that-
+6623.67 - Maybe I could do a
+sabbatical in your lab
+6625.27 and that'd be a fun one.
+6626.93 - Definitely-
+6627.77 - Because leptin during
+development is what triggers,
+6629.85 the permission for the hypothalamus
+to enter puberty, right?
+6633.86 - Yeah.
+6634.693 - This is why kids that eat
+a lot when they're young
+6636.67 and get overweight will also start to go
+6639.16 and undergo puberty more quickly,
+6640.39 although they have
+reproductive issues later.
+6644.21 - Well yeah.
+6645.043 We should study the
+hypothalamus together 'cause,
+6647.29 the hypothalamus is,
+6648.39 can control the aging of the body.
+6650.21 - The most interesting part of the brain.
+6652.074 [Andrew chuckles]
+6652.907 - For sure.
+6653.74 - Yeah, absolutely.
+6654.573 - If you turn on the SIRT1 gene,
+6655.56 the SIRT2 that we work
+on, in the hypothalamus
+6657.92 that actually, will extend lifespan.
+6659.83 Also, it's been shown by Dongsheng Cai
+6662.35 at Albert Einstein College of Medicine,
+6664.08 that if you, inhibit
+inflammation in the hypothalamus,
+6667.03 in a mouse, it will increase
+6669.563 or maintain the expression
+of what's called GnRH,
+6673.38 which is the hormone that,
+6675.54 he found actually controls
+longevity in the mouse in part.
+6678.55 And so keeping inflammation
+down in the hypothalamus,
+6681.26 is sufficient to extend
+the life span of animals.
+6683.85 And I reviewed that paper for nature
+6685.89 all about seven years ago.
+6687.76 And that was the first demonstration
+6689.25 that the hypothalamus is one
+of the leading regulators
+6692.35 of the body's age.
+6693.55 - I find this fascinating GnRH,
+6696.09 for those of you that don't
+know actually comes from neurons
+6698.47 in the hypothalamus that then,
+6700.01 literally reached down into the pituitary
+6702.27 and trigger the release of
+all the things that control
+6704.75 fertility, luteinizing hormone,
+6706.7 follicle-stimulating hormone, et cetera.
+6708.69 It's such a powerful set of neurons,
+6710.22 and it's never really been clear,
+6711.98 what at a behavioral level
+triggers the release of GnRH.
+6715.78 There's all the stories about pheromones
+6717.56 and timers and puberty, et cetera,
+6719.36 but environmental conditions
+and dietary conditions
+6722.45 and behaviors that can
+control GnRH release, I think,
+6726.49 is an incredible area for exploration.
+6730.17 I'd love to do that sabbatical by the way.
+6732.52 I have a couple, well
+seemingly random questions,
+6736.25 but I can't help, but ask
+because one thing I like to do
+6738.56 is forage the internet for
+practices that at least more than
+6742.6 a few people are doing,
+6743.68 and then wonder whether or
+not there's any basis for it.
+6747.79 You mentioned methylation
+as a detrimental process,
+6751.6 the way it disrupts the
+epigenome and the CD reader,
+6755.09 so to speak.
+6756.58 There are people out there who
+are ingesting methylene blue.
+6760.35 And when I was a kid,
+6761.58 I used methylene blue
+to clean my fish tank.
+6764.62 And I love fish tanks.
+6765.87 I know you're into aquaria also,
+6768.58 a different podcast episode,
+we'll talk about aquaria,
+6770.98 but why in the world, would
+people ingest methylene blue?
+6776.09 Meaning is their logic correct?
+6778.36 And or is that a dangerous practice?
+6781.76 I'm not sure I'd want to
+ingest methylene blue,
+6784.2 sounds not like a bad thing to do.
+6786.47 - It stains your body if you've
+seen, yeah methylene blue-
+6789.74 - Yeah, there was someone
+in my lab as a postdoc
+6793.44 was using it to study a
+completely different process
+6796.42 related to the blood-brain barrier
+6797.61 and used to inject into animals
+and they would turn blue,
+6800.5 but then again, people
+ingest colloid silver.
+6803.0 You know they'll put
+in there, there's this,
+6804.45 please people don't do this
+6805.87 or if you do, just don't tell me,
+6808.51 'cause I won't like it.
+6809.95 They, people put it in their eyes
+6812.27 and some people actually stain their skin.
+6814.55 They actually become kind of
+a silver purple brown color
+6818.33 if they do it excessively.
+6819.67 I mean, there's a lot of
+crazy stuff out there.
+6822.08 But what do you think they're thinking
+6824.41 with this methylene blue thing
+6825.63 or should we just get them
+to a good psychiatrist?
+6830.18 - I don't know, for sure.
+6831.78 I think methylene blue was found
+6833.06 to extend the lifespan
+of some lower organism
+6835.3 and that's where it came from.
+6836.8 My recollection-
+6837.83 - With the emphasis on lower organisms.
+6839.83 - Yes smaller organisms.
+6842.42 I think doesn't, do you
+remember Andrew does it,
+6844.833 interrupt or interfere
+with mitochondrial activity
+6848.123 and that's-
+6849.011 - Maybe that's why the are doing it.
+6849.844 - Yeah.
+- [Andrew] Okay.
+6850.92 - We need to look this up and post it.
+6852.66 - [Andrew] Okay.
+6853.493 - We'll get to the bottom
+of this, but those methods,
+6855.37 let's talk about those.
+6856.528 - [Andrew] Yeah.
+6857.4 - Those methods have to
+be placed on the right,
+6859.87 part of the genome.
+6861.26 They get attached to the right
+genes in the wrong genes.
+6863.34 And if you have a lot of methylation,
+6866.07 it's going to mess up the epigenome.
+6868.67 Smoking will do that, lack of
+exercise, all that good stuff.
+6872.32 So you, what you actually want
+to do is you want to measure it
+6874.81 and make sure what you're
+doing with your body,
+6877.62 is working.
+6878.453 How do you know that if you do this
+6879.87 or that is actually helping.
+6881.96 And so you can test your age.
+6883.63 I could take, a swab from your mouth
+6885.81 and tell you how old you are biologically.
+6888.16 And then we could work on
+trying to bring that down
+6890.38 and actually there were anecdotes now,
+6893.44 that people are reversing
+their age by a decade or more
+6897.14 just by doing some of the
+things that we've talked about
+6900.34 and some other cutting edge stuff
+6902.24 that I'm going to write about.
+6905.5 But yet, but you have to measure stuff.
+6907.33 That's, I didn't want to
+forget to bring that up.
+6910.62 I'm measuring stuff all the time.
+6911.97 I have blood tests like you,
+6914.1 I've got this monitor that
+stuck to my chest right now
+6916.51 that's measuring myself
+a thousand times a second
+6918.97 and I measure my biological age.
+6920.69 - What's it measuring a
+thousand times a second?
+6922.87 A huge list of things.
+6924.05 - Yeah, yeah.
+6924.883 So this, this little device is stuck here
+6926.497 and it's for two weeks
+that you just recharge it
+6929.51 or send it back and get a new one.
+6930.81 It's got a body temperature movement,
+6933.36 heart rate variability.
+6934.62 It's an FDA approved
+device, it's not a toy.
+6937.18 It's not one of these recreational things.
+6940.53 It also listens to my voice,
+6942.49 eventually will me if
+I need a psychiatrist
+6944.78 or if I'm depressed,
+6947.42 it will tell me how I sleep, obviously.
+6949.68 But when you put all that data together
+6951.07 and it's individualized and anonymized,
+6954.38 it can now tell my doctor in real time,
+6956.95 if I've got a cold that
+needs an antibiotic,
+6959.37 or it's just a virus.
+6961.14 If I am suffering from COVID-19
+6966.56 or even if I'm going to have
+a heart attack next week.
+6969.83 And so these little devices
+are going to be with us
+6972.26 all the time, instead of going
+to your doctor once a year,
+6974.91 which is ludicrous.
+6977.52 - I have to ask you about x-rays.
+6979.9 'Cause every time I go through
+the scanner at the airport,
+6982.3 I think, "Sinclair would never do this."
+6984.87 And the argument I heard
+you give about this before
+6987.9 was a really excellent one, which is that
+6990.89 it's a low level amount of radiation,
+6993.85 going through at the airport,
+6995.21 but the argument is always,
+6996.333 well, it's just as much as on the plane
+6998.74 and your argument, your
+counter-argument I should say was,
+7002.137 "Well then why would I
+want to do both, right?
+7004.39 Why would?"
+7005.223 So when you go to the airport,
+7007.23 assuming you're not running late
+7008.59 and you have to go
+through the standard line,
+7010.63 what do you say to them?
+7012.3 And do you say, "I'm David Sinclair."
+7014.2 And then they shuttle
+you to your own line.
+7016.89 What do you say?
+7017.723 You do say, "I don't like this thing."
+7019.44 Do you have to give them a reason?
+7021.63 - No, you don't.
+7022.463 You can say, "I don't want this."
+7024.66 And they'll get annoyed
+'cause it's hard for them
+7027.36 to pat you down,
+7028.3 but you get a pat down and you you're done
+7029.79 as long as you're not
+in a hurry, it's fine.
+7032.52 If you want to pay for
+the TSA Pre in America
+7034.9 or the way to get around those
+scanners, you can do that.
+7037.35 So I travel a lot, so
+it's worth it anyway,
+7040.12 but I just go through the metal detector,
+7041.633 I don't get scanned.
+7042.92 - And the metal detector
+doesn't have the same,
+7045.47 same problem.
+7046.49 And what about x-rays at the dentist?
+7048.45 Yeah.
+7049.283 - Well, you know one x-ray
+is not going to kill you.
+7051.23 Two's not going to kill you, but I-
+7052.65 - Three will kill you.
+7053.74 No, I'm just kidding.
+7054.823 [Andrew chuckles]
+7055.656 - I try to limit it
+because it's cumulative.
+7057.567 - Right.
+7058.4 - And I went for six years
+without having a dental x-ray
+7063.14 and then my last visit, I just gave up.
+7065.12 I was tired of arguing with my dentist.
+7067.45 So they gave me one,
+7068.31 but they've got led coats on
+7070.13 and they put lead all over your body.
+7072.41 That's telling you something right there.
+7075.69 And funnily enough, my
+teeth hadn't changed.
+7078.49 Now you can balance that by saying,
+7080.217 "Well, one x-ray, two x-ray,
+7081.96 three x-rays is worth
+it if I have cavities."
+7084.68 And that's true,
+7085.513 you want to know what's in there,
+7087.41 but doing it regularly, for me,
+7090.68 I don't think it was worth it because it,
+7091.99 my teeth are in perfect
+health and I've always been,
+7094.283 I don't have any cavities,
+didn't have braces,
+7097.07 they're fine.
+7097.903 So stop scanning me.
+7098.9 I mean, I know you have
+to pay for the machine,
+7100.64 but you know, do I have a choice?
+7102.48 Yes, so stop pressuring me.
+7104.82 - You know, who shared your
+sentiments about x-rays
+7106.98 and the dentist in general?
+7108.64 My apologies to the dentists out there,
+7110.76 was the great physicist, Richard Feynman.
+7113.84 This is a story about him that's
+not especially well-known,
+7116.53 but he had very serious
+concerns, health concerns,
+7121.01 about x-rays because he
+understood the physics
+7124.23 and he understood enough biology that,
+7126.41 he was actually quite vocal about his,
+7129.18 dislike of dental
+technology and its dangers.
+7132.75 And he talked about some of that.
+7134.54 People can find that on
+the internet, if they like.
+7138.63 Speaking of people who,
+7141.2 are like Feynman,
+7142.71 who've been engaged in public
+discourse about science.
+7146.19 One of the things that I
+appreciate about you, in fact,
+7148.27 the way that you and I,
+7150.07 initially came to know one
+another is through your
+7153.33 public health education efforts.
+7155.88 So, obviously we're doing this podcast,
+7159.34 you've done the Joe Rogan Podcast,
+7160.91 Lex Fridman's Podcast, excuse me Lex,
+7163.67 I'm still adjusting that.
+7164.7 Lex Fridman's Podcast
+and many other podcasts,
+7168.9 you've written an amazing book.
+7171.79 What are you thinking these days
+7173.17 in terms of what the
+world needs in terms of,
+7178.21 education from scientists,
+education from MDs,
+7181.16 education in general as it
+relates to these things because,
+7185.92 I think if nothing else
+2020 revealed to us that
+7189.73 there's a gap,
+7190.69 there's a gap in understanding.
+7192.51 And that the scientists too are guilty of,
+7195.07 not knowing what to do
+with all the information
+7197.99 that's out there on pub med or elsewhere.
+7199.91 I'm just, you know,
+7201.44 what are you thinking for
+yourself and in general,
+7204.13 I'd like to just know,
+7204.963 what do you think the world needs there?
+7206.39 Maybe we can recruit some
+more public educators.
+7209.68 - Yeah.
+7210.87 Well, we've gone from a
+time, when you and I were,
+7214.48 in college and young
+professors where the only way,
+7217.77 to get our voice out to
+the public was either
+7220.46 through a newspaper or a
+very short radio interview,
+7224.76 which for me was extremely
+frustrating 'cause particularly
+7228.37 the newspapers and my topic,
+7231.06 every time was twisted into something that
+7233.43 was not just embarrassing,
+but Harvard university
+7235.56 used to bring me into the back office and-
+7237.52 - Frankenstein.
+7238.592 - "How did you say such a thing?
+7240.55 We're all going to live to a 250."
+7241.54 I didn't say that.
+7242.95 So, we're now also in a world where
+7245.78 we're overwhelmed with information,
+7247.66 and most of it is wrong
+7249.8 and anyone can pretend to be an expert.
+7253.18 So we've gone from early
+days to now the future,
+7256.76 and we're experiencing it right now
+7258.79 thanks to guys like you, people like you,
+7261.32 is that the experts, some experts,
+7263.57 a small number who are
+brilliant and good communicators
+7267.57 are talking directly to the public.
+7269.42 This has never been able to be possible,
+7272.36 until this time, right now.
+7275.51 So another five years from
+now, and certainly by 10 years,
+7279.55 I would hope that there are
+trusted sources of information
+7283.21 of people who can not just
+communicate, the ideas directly,
+7288.33 but are able to talk about
+things that are going on that
+7291.91 aren't even published yet to say,
+7293.677 "Here's what's really going on.
+7295.71 And this is what the future looks like."
+7298.0 But this is somebody, like yourself
+7299.6 who spent their whole life
+studying a particular topic
+7302.98 and knows what they're talking about.
+7305.35 And this,
+7306.183 this is also something
+that I think most people
+7308.26 don't know that we
+scientists, if we tell a lie,
+7312.14 we burst into flames,
+7313.3 we absolutely cannot tell
+something, that's untrue.
+7316.487 And to the best of our
+knowledge, we say it as it is,
+7317.424 because if we don't, we're beaten up,
+7319.984 and we, or we kicked
+out of the university.
+7322.259 So the people who survive to our age,
+7326.78 and I'm a little older than you.
+7327.81 So I've survived a bit longer.
+7329.42 - But a lot younger inside.
+7331.216 [Andrew chuckles]
+7332.139 - Nah, but we have to measure you with-
+7332.972 - Yeah we need,
+7333.805 I probably need a little
+help, hopefully not too much.
+7335.94 - We'll measure that,
+7336.81 and we'll work on your
+eating, but this is really,
+7340.61 really important is that,
+7342.05 finally people like your are
+allowed by our universities
+7345.42 to talk to the public.
+7346.96 I used to do it,
+7348.53 with a real threat to my survival.
+7350.7 People would look at me,
+7351.533 "Oh, he's a salesman, he's
+promoting this and that."
+7353.75 It was seen as a real
+negative, but finally,
+7355.91 I think we're in a world where,
+7357.32 it's not negative anymore.
+7358.63 And the pandemic showed that
+we needed voices of reason,
+7362.38 voices of fact, that you could trust.
+7365.49 And you can see the
+popularity of your podcast,
+7368.55 shows that the public,
+7370.45 they're desperate for
+facts that they can trust,
+7372.95 'cause they don't know
+what to believe anymore.
+7375.372 - Well,
+7376.97 I'm being completely honest
+when I say this, that,
+7379.95 you know, I followed your lead.
+7381.29 I saw you on the Joe Rogan
+Podcast and my jaw dropped.
+7384.76 I was like, "This is amazing, like this."
+7387.3 Because,
+7388.133 you get out other good
+scientists on before but,
+7390.21 you're tenure Professor Harvard Genetics,
+7393.07 Department of Genetics.
+7394.7 And for those of you don't know,
+7397.77 there's the Harvard and of
+course, Harvard Medical School
+7400.44 and they're both excellent, of course,
+7403.63 but these are the top,
+top tiers of academia.
+7406.4 And I certainly understand
+what it takes to get there
+7408.53 and survive there and to thrive there,
+7410.72 it's like a game of pinball.
+7412.37 You never win.
+7413.203 You just, you just get to,
+7414.54 if you're doing really well,
+you get to keep playing.
+7416.63 And that's the truth in academia.
+7418.6 And if you're not, you
+stop playing basically.
+7422.1 But when I saw you,
+explain what you were doing
+7425.07 in a way that was accessible to people
+7427.04 and also talking about,
+7428.63 possible protocols that they
+might explore for themselves
+7431.31 to see if those were, right for them.
+7433.87 I was just, I was just
+dazzled and excited,
+7437.09 and I made every effort to
+get in contact with you.
+7439.44 And, the rest is history,
+7442.29 but, I think what's really
+exciting to me these days is
+7445.8 because of 2020 and with
+everything that's happened
+7448.37 and it continues to happen.
+7449.87 There's a thirst for knowledge.
+7452.27 There's also this direct
+to the public route
+7455.42 that you mentioned.
+7456.68 And, I think there's also an openness,
+7460.9 I'd love your thoughts on this,
+7461.76 but it seems to me that
+there's an openness in,
+7464.54 from the general public,
+7466.19 about health practices,
+7468.84 that there are actually things
+that people can do to control
+7471.27 their stress level, to control,
+7473.83 their sleep, to control their cholesterol
+7476.5 if that's what they to
+do, maybe they don't
+7479.26 and to even control their lifespan,
+7481.84 which I think is remarkable.
+7483.82 And, I know I speak on
+behalf of so many people,
+7487.07 when I just,
+7487.903 I want to say, thank you.
+7488.736 You've, truly changed
+the course of my life.
+7491.34 I would not be sitting here doing this
+7493.27 were it not for your example.
+7495.35 And I always say Sinclair,
+many people have written books,
+7498.76 many academics have
+written books, as you have,
+7501.21 but in terms of doing podcasts
+7502.74 and really getting out there
+with your message in a way that
+7505.01 I have to assume raised
+your cortisol level
+7507.14 and heart rate just a little bit,
+7509.78 but you did it nonetheless.
+7512.9 You are truly first man in and that,
+7515.3 that deserves a nod.
+7517.28 And, I have a great debt of
+gratitude to you for that.
+7519.88 So thank you so much.
+7520.95 - Oh thanks, Andrew.
+7521.91 You're a,
+7522.743 you've become a good friend
+7523.576 and I'm super proud of what
+you've done and what you,
+7526.06 I know what you will do.
+7527.31 - So in addition to your book
+7529.09 and your presence on social
+media, Instagram, and Twitter,
+7532.78 and appearances on podcasts,
+7534.67 recently I've noticed
+that you've opened up,
+7537.32 a survey email/website
+that people can, access,
+7542.25 excuse me,
+7543.42 to get some information
+about their own health
+7545.7 and rates of aging.
+7546.83 Tell us about that and
+what's being measured.
+7549.48 And what is this test that
+you've been working on,
+7553.16 secretly and now soon, not so secretly.
+7556.54 - Yeah, well that,
+7558.12 what I want,
+7559.1 is a credit score for
+the body to make it easy
+7561.11 for people to follow their health.
+7563.68 And there is a number,
+7564.776 there's a,
+7565.609 there's a biological age
+that you can measure.
+7566.96 Unfortunately,
+7567.793 the test is many hundreds
+of dollars right now,
+7570.04 but in my lab, we've been
+able to bring that down a lot.
+7573.77 And so I want to democratize this test
+7575.47 so that everybody has access to a score
+7577.61 for their health that can predict their,
+7579.37 not just their future
+health and time of death,
+7583.32 but to change it.
+7584.79 And I'm building a system
+that will point people
+7587.7 in the right direction
+7588.62 and give them discounts for certain things
+7590.64 that will improve, not
+just their health now,
+7593.59 but 10, 20, 30 years into the future.
+7595.72 And we can measure that,
+7596.96 and very cheaply, keep
+measuring it to know
+7599.07 that you're on the right track,
+7600.42 'cause if you don't measure something,
+7601.5 you can't optimize it.
+7602.96 And so this is the biological age test,
+7604.64 we've developed it, it's
+a simple mouth swab.
+7607.66 We're rolling it out.
+7609.0 We're building the system right now.
+7611.04 And there was a sign up sheet
+7612.09 'cause a lot of people
+want to get in line,
+7614.33 go to doctorsinclair.com,
+7616.05 you can get on that
+7617.53 and you'll be one of the
+first people in the world
+7619.31 to get this test and see what we're doing.
+7621.32 - Oh, fantastic.
+7623.23 Will people be celebrating their,
+7626.22 biological age birthdays?
+7628.04 In other words, if I'm
+minus, like if I can imagine,
+7630.69 so I'm 45 right now, soon to be 46.
+7632.64 But if I,
+7633.473 if I were to be so lucky as
+to get my biological age to 35
+7638.26 within 12 months, maybe
+you can help me do that.
+7640.39 Do I get to celebrate,
+7641.685 a negative birthday?
+7643.96 - Absolutely.
+7644.793 And my plan is that those
+people who take their age back
+7648.12 a year or more, we think we can
+go back 20 years eventually,
+7651.89 they'll get a birthday card from me
+7653.27 and it's a negative birthday card.
+7654.923 [Andrew chuckles]
+7655.82 - I love it.
+7656.653 And probably very little,
+7658.37 actual birthday cake being ingested but,
+7660.82 who cares 'cause you're
+living that much longer.
+7662.93 - That's full of stevia,* that'll be fine.
+7664.691 [Both chuckle]
+7665.524 And thank you for talking to us today.
+7667.56 I realized I took us down deep
+into the guts of mechanism
+7672.53 and as well, talking
+about global protocols,
+7675.95 everything from what one can
+do and take if they choose,
+7679.26 that's right for them to,
+7681.5 how to think about this
+whole process that,
+7683.41 that we talk about when
+we talk about lifespan
+7687.021 as always an incredibly illuminating.
+7690.04 Thank you, David.
+7691.12 - Thanks Andrew.
+7692.61 - Thank you for joining
+me for my conversation
+7694.56 with Dr David Sinclair.
+7696.35 If you're enjoying and or
+learning from this podcast,
+7698.96 please subscribe to our YouTube channel.
+7701.02 In addition, please subscribe
+on Apple and or Spotify.
+7704.42 And on YouTube, you can leave us comments
+7706.48 and you can leave us suggestions,
+7707.85 for future podcast guests that
+you would like us to feature.
+7711.06 In addition on Apple, you can leave us
+7712.56 up to a five star review and
+you can leave us a comment.
+7715.56 Please also check out
+the sponsors mentioned
+7717.36 at the beginning of this episode,
+7718.5 that's the best way to
+support this podcast.
+7721.16 Also, I teach science
+7722.63 and science related tools on Instagram.
+7724.61 It's hubermanlab on Instagram.
+7726.18 I also have a Twitter
+which has also hubermanlab.
+7728.77 So be sure to check those out.
+7730.12 A lot of the material,
+7731.15 covers things similar to the podcast,
+7732.96 but oftentimes I'll
+cover a unique material,
+7734.88 not featured at all on the podcast.
+7736.84 So that's hubermanlab on
+Instagram and on Twitter.
+7740.07 In addition, we have a Patreon,
+7741.68 it's patreon.com/andrewhuberman.
+7744.32 And there you can support the podcast
+7746.46 at any level that you like.
+7748.06 Today, and in many other
+previous episodes of
+7750.015 the Huberman Lab Podcast,
+7751.63 we discuss supplements.
+7752.96 While supplements aren't
+necessary or right for everybody,
+7756.16 many people derive tremendous
+benefit from supplements.
+7758.92 For that reason, we partnered with Thorne,
+7760.6 T-H-O-R-N-E,
+7762.15 because Thorne Supplements
+7763.38 are the absolute highest quality
+7765.08 and the absolute highest precision,
+7767.18 meaning what you see listed on the bottle
+7769.03 is what's actually in the bottle,
+7770.37 which is not the case
+7771.79 for many supplement companies out there.
+7773.61 Thorne is one of the
+partners of the Mayo Clinic
+7776.15 and all the major sports teams.
+7777.45 And so they really are very
+trusted, very highest quality.
+7780.73 If you want to see the supplements
+that I personally take,
+7782.97 you can go to thorne.com/u/huberman,
+7786.85 and there you'll see the
+supplements that I take,
+7788.5 you can get 20% off any
+of those supplements.
+7790.97 And if you navigate deeper
+into the Thorne site,
+7793.11 through that portal,
+7794.12 you'll also get 20% off any
+of the other supplements
+7796.51 that Thorne makes.
+7797.343 So again, it's Thorne,
+7798.23 thorne.com/u/huberman
+7802.43 to get 20% off any of the
+supplements that Thorne makes.
+7805.65 Also take note that the
+lifespan podcast featuring
+7808.24 Dr David Sinclair as a host,
+7810.13 launches Wednesday, January 5th,
+7811.95 you can find the first episode here
+7813.58 on the Huberman Lab Podcast channel.
+7815.45 They also have their
+own independent channel.
+7817.81 You can find the link to that
+channel in the show notes.
+7819.9 So please go there, subscribe on YouTube,
+7821.67 also on Apple and Spotify.
+7823.56 I've seen these episodes,
+they are phenomenal,
+7825.79 and you're going to learn
+a tremendous amount,
+7827.95 about aging and how to
+slow and reverse aging
+7830.6 from the world expert
+himself, Dr David Sinclair.
+7833.89 And last, but certainly not least,
+7835.99 thank you for your interest in science.
+7837.173 [upbeat music]

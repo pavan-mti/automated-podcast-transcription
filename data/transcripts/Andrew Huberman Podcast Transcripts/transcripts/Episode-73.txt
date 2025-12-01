@@ -1,0 +1,5210 @@
+0.0 [offbeat uplifting music]
+0.833 - Welcome to the Huberman Lab Podcast,
+1.92 where we discuss science
+3.207 and science-based tools for everyday life.
+9.36 I'm Andrew Huberman,
+10.35 and I'm a Professor of
+Neurobiology and Ophthalmology
+12.799 at Stanford School of Medicine.
+14.791 Today, we're talking all about fasting.
+17.552 And anytime we're talking about fasting,
+20.27 we are also talking about eating,
+22.07 because we all need to
+eat sooner or later.
+24.74 We're going to talk about how fasting
+26.038 and when we eat influences
+29.216 a large range of aspects
+31.343 of our health and wellbeing,
+both physical and mental.
+35.59 So, well, nowadays,
+36.76 most people are familiar with
+the term intermittent fasting,
+40.323 also sometimes called
+time-restricted feeding.
+43.651 I think most people
+don't really understand
+46.082 how that process works.
+47.768 It's sort of obvious that
+intermittent fasting,
+50.45 aka time-restricted feeding,
+52.398 involves eating at certain
+periods of each 24-hour cycle,
+56.35 or maybe even not eating for
+entire days, in some cases.
+59.812 But, if you think about it,
+everybody sleeps eventually.
+63.345 And therefore, because people
+don't eat during their sleep,
+67.581 almost everybody is employing some form
+70.64 of intermittent fasting or
+time-restricted feeding.
+73.93 What we're going to talk about today
+75.42 is how particular schedules
+of time restricted feeding
+79.384 can impact our health in different ways.
+82.34 And when I say different ways, I mean,
+84.16 we're going to talk about
+how intermittent fasting,
+86.828 aka time-restricted feeding,
+impacts weight loss,
+90.588 fat loss in particular,
+92.317 muscle maintenance, and
+loss and gain, organ health,
+96.63 such as gut health and
+liver health, the genome,
+100.2 the epigenome, inflammation,
+sickness, recovery,
+105.26 and healing from sickness,
+exercise, cognition,
+108.87 mood, and lifespan.
+110.91 So we're going to cover a
+tremendous amount of information.
+113.42 I promise to make it
+all directly accessible,
+116.39 regardless of whether or not you have
+117.74 a background in biology and
+metabolic science or not.
+122.026 I'm also going to talk
+about a lot of tools.
+124.71 In fact, I'm going to discuss
+126.36 a number of tools during today's episode
+128.451 that actually make it such
+130.179 that you don't have to
+follow any feeding schedule,
+133.988 or fasting schedule, same thing
+136.55 if you think about it,
+137.89 in any absolutely strict regimented way,
+142.056 meaning if you were to only
+eat during an eight hour period
+146.38 of each day, most of the time,
+147.86 but then occasionally eat
+across a 12 hour period
+150.21 of the day,
+151.249 in theory, that could
+actually have pretty serious
+154.7 detrimental health effects.
+156.26 And yet, there are things that you can do
+157.705 to attenuate those negative effects.
+160.31 In fact,
+161.143 there are things that
+you can do and or take
+162.815 that can make it as if
+you did not eat at all.
+166.235 And so we'll discuss what those tools are.
+168.324 And in many cases, for sake
+of health, weight loss,
+171.66 and performance,
+172.52 making the body think that
+it did not eat at all can
+175.595 actually be quite beneficial.
+177.469 So today, we're going to cover mechanism
+179.163 and we're going to cover tools.
+181.05 Before we do that,
+182.14 I want to highlight a particular
+result that was published
+184.82 recently, because it
+serves as a useful backbone
+187.083 as we wade into the
+conversation about fasting.
+190.442 This is a study that was published
+192.93 in the journal Cell Metabolism:
+A Cell Press Journal,
+195.88 excellent journal.
+197.16 And the title of the paper
+is "Fasting Blood Glucose
+200.9 as a Predictor of Mortality:
+Lost in Translation".
+204.477 And I'll explain what
+the "Lost in Translation"
+206.74 part means in a moment.
+207.736 But the basic takeaway of this study,
+209.827 and I should mention that
+210.9 the first author of the
+study is Palliyaguru,
+213.763 PALLIYAGURU, guru,
+218.734 Palliyaguru, et al.
+222.77 The basic finding of the
+study is that in humans,
+225.96 higher blood glucose is
+associated with mortality.
+231.402 And in fact, if you look at blood glucose,
+234.3 resting blood glucose across the lifespan,
+236.61 what you find is as people age,
+238.087 resting blood glucose goes up.
+240.85 Now, this is very interesting,
+242.11 because for a long time it was thought
+244.33 that metabolism actually
+goes down as we age.
+246.95 And to some extent, that's true,
+248.423 but the reductions in metabolism
+250.64 are not nearly as robust
+as we once thought
+253.0 that they were across the lifespan.
+255.08 However, unless there's something done
+257.604 to mitigate the increase
+in blood glucose associated
+260.73 with the aging,
+261.87 almost everybody experiences a gradual,
+264.309 but regular increase in
+resting blood glucose
+268.28 that predicts mortality.
+270.37 Now, the title, as I mentioned,
+271.73 is "Fasting Blood Glucose
+as a Predictor of Mortality:
+274.72 Lost in Translation".
+275.767 And the reason that they
+included "Lost in Translation"
+278.63 in the title is that what I just told you,
+280.768 that increases in resting blood
+283.18 glucose predict mortality, or
+are correlated with mortality,
+286.3 is true for human beings
+287.858 and for non-human primates, monkeys.
+290.607 But the opposite is true in mice.
+293.163 And so I thought it was important
+294.97 to use this study as an example
+297.122 of where it studies in mice often,
+299.647 but not always, translate to humans
+302.249 and to non-human primates.
+304.23 So today, I'm going to be careful
+305.5 to distinguish when a study
+307.15 was performed in mice versus in humans,
+309.01 because it seems that at
+least when discussing feeding,
+313.424 blood glucose and other aspects of diet
+315.606 as they relate to health and wellbeing,
+317.659 whether or not a study
+was performed in rodents
+320.34 or in humans can be very important.
+323.96 In this case,
+324.8 the results were directly
+180 degrees opposite
+327.335 to one another.
+329.11 In other words, in mice,
+330.27 resting blood glucose went down,
+332.148 and was associated with mortality.
+334.6 So lower blood glucose
+associated with mortality.
+336.63 Whereas in humans,
+337.463 higher resting blood glucose
+was associated with mortality.
+340.25 And obviously,
+341.12 what we're mostly interested in is health
+343.389 and wellbeing of ourselves, of humans.
+346.2 I'm sure there are some people
+out there that are intensely
+348.69 concerned about the health
+and wellbeing of mice,
+350.62 which you could imagine
+352.156 a few rare contexts
+where that's important,
+354.61 but obviously most of us are
+interested in human health.
+357.22 So I'll be sure to emphasize
+when studies were performed
+360.13 in humans versus in mice.
+362.21 Before we begin,
+363.22 I'd like to emphasize that this podcast
+364.592 is separate from my teaching
+and research roles at Stanford.
+367.355 It is, however,
+368.68 part of my desire and
+effort to bring zero cost
+370.94 to consumer information
+371.93 about science and science-related tools
+374.03 to the general public.
+375.66 In keeping with that theme,
+376.7 I'd like to thank the
+sponsors of today's podcast.
+379.52 Our first sponsor is ROKA.
+380.893 ROKA makes eyeglasses and sunglasses
+383.237 that are the absolute highest quality.
+385.687 I've spent a lifetime
+working on the visual system
+388.58 and how we see, and ROKA,
+391.206 which is a company developed
+392.85 by two all-American swimmers
+394.05 from Stanford has developed eyeglasses
+396.08 and sunglasses that take into
+account the science of vision,
+398.955 and they've produced an
+absolutely terrific product.
+401.698 That product involves glasses
+403.284 that, first of all, are very lightweight.
+406.257 Second of all, can be worn
+when performing any activity.
+409.811 They really are performance
+eyeglasses and sunglasses.
+412.83 So whether or not you're sweating
+413.92 or running around,
+414.88 whether or not you're working,
+whether or not you're hiking,
+417.49 cycling, et cetera,
+418.51 you can wear them for
+essentially any activity.
+420.4 The nice thing is they also
+have a great aesthetic.
+422.75 So unlike a lot of other performance
+423.999 sunglasses and eyeglasses out there
+425.927 that can make people
+427.3 look more or less like
+cyborgs, ROKA eyeglasses
+429.81 and sunglasses look great,
+431.24 whether or not you're wearing
+them to dinner or at work,
+433.05 or whether or not you're headed out
+434.01 for a run or a cycle or
+something of that sort.
+436.602 As I mentioned before,
+they're extremely lightweight.
+438.76 They don't slip off.
+439.671 And that's true,
+441.34 regardless of what activity
+you're engaging in.
+442.968 If you'd like to try ROKA
+glasses, you can go to ROKA.com,
+445.889 that's ROKA.com and
+enter the code HUBERMAN
+449.158 to save 20% off your first order.
+451.888 Today's podcast is also brought
+453.64 to us by InsideTracker.
+454.941 InsideTracker is a
+personalized nutrition platform
+457.93 that analyzes data from your blood
+459.5 and DNA to help you better
+460.89 understand your body and help
+you meet your health goals.
+463.78 I've long been a believer
+464.91 in getting regular blood work done,
+466.65 for the simple reason
+that many of the processes
+468.98 that are occurring in your body
+470.07 that impact your immediate and
+471.93 long-term health can only be assessed
+473.796 from a quality blood test.
+475.49 And nowadays, with the
+advent of modern DNA tests,
+477.654 you can also assess your genome
+479.284 and how that's impacting your immediate
+481.34 and long-term health.
+482.286 The problem with a lot
+of blood and DNA tests
+484.9 is you get information back,
+485.963 but you don't know what to
+do with that information.
+488.27 And InsideTracker has solved that problem.
+490.56 They have a very easy to use dashboard
+491.953 so that when you get your results back,
+493.703 it will tell you, for instance,
+495.81 if your levels of a
+particular metabolic factor
+497.754 or hormone are too high or too low,
+499.79 what you can do, what you can take,
+501.91 how you can change your nutrition
+503.11 in order to adjust those levels
+504.59 and get them where you want them to be.
+506.21 This is tremendously useful
+508.05 and takes all the guesswork out
+509.33 of what to do with biomarker information.
+512.37 If you'd like to try InsideTracker,
+513.464 you can go to insidetracker.com/huberman
+516.79 to get 25% off any
+518.014 of InsideTracker's plans,
+519.6 just use the code HUBERMAN at checkout.
+521.98 Today's episode is brought
+to us by Helix Sleep.
+524.067 Helix Sleep makes mattresses
+526.15 and pillows that are tailored
+527.52 to your unique sleep needs,
+529.1 and in doing so, provide
+the best sleep possible.
+531.782 I started sleeping on a Helix mattress
+533.658 about a year or so ago,
+534.988 and it is the best sleep
+that I've ever had.
+537.381 If you go to the Helix site,
+538.804 you take a brief two minute quiz,
+540.963 and that quiz asks you questions such as,
+543.227 do you tend to sleep on your stomach,
+545.14 your side, or your back?
+546.21 Do you tend to run hot
+or cold during the night?
+548.14 Maybe you don't know,
+549.07 and they match you to
+a particular mattress
+550.92 that's ideal for your sleep needs.
+552.41 In my case, I matched to
+the so-called Dusk mattress.
+554.838 I've been sleeping on a Dusk
+mattress, and as I mentioned,
+557.75 it's absolutely terrific.
+559.176 Best sleep I've ever had.
+560.688 It's really key to get a mattress
+that's best suited to you.
+564.409 If you're interested in
+upgrading your mattress,
+566.5 you can go to HelixSleep.com,
+take that two minute quiz,
+569.37 and they'll match you to a
+customized mattress for you.
+571.467 And you'll get up to $200 off
+any of your mattress orders,
+575.69 and you'll get two free pillows.
+576.972 If you're interested in Helix Sleep,
+578.64 you can go to HelixSleep.com/huberman,
+580.716 and you get up to $200 off your mattress,
+582.862 and two free pillows.
+584.53 I'd like to point you
+toward a valuable resource
+586.529 that's also zero cost and
+is available now online.
+591.065 This is an event that was recorded.
+593.784 The event was held by Logitech,
+595.978 and I was fortunate enough
+to partake in this event.
+598.466 And the entire event
+was centered around how
+600.695 to be a more effective learner
+602.433 and teacher using the modern
+principles of neuroplasticity.
+606.777 So at the link in the
+caption for this episode,
+610.325 you can go to what was called
+the Rethink Education Event.
+614.41 And there, I gave a seminar
+of about 20 or 30 minutes
+617.645 describing the modern
+neuroscience of neuroplasticity,
+621.98 the nervous system's ability
+623.18 to change in response to experience.
+624.988 I focused mainly on human studies
+627.29 and how different structures
+and different things,
+631.627 and tools that one can
+633.0 implement in the classroom and outside
+634.73 of the classroom can lead to
+faster and more pervasive,
+638.65 longer lasting learning of
+motor skills, music skills,
+641.93 mathematical skills,
+language skills, et cetera,
+644.556 all based on quality
+peer reviewed research.
+646.963 So if you'd like to check that out,
+648.908 you can head to that link.
+650.31 You'll also see an example of
+some of those tools in action,
+653.149 in a music classroom of a
+phenomenal music teacher,
+657.039 Ben Edie, who's a teacher out in Pasadena,
+660.625 who has applied these tools,
+662.26 at least to my knowledge,
+for the first time ever.
+664.222 Of course, all the tools
+665.681 that are there are listed out
+666.83 in what I call a
+plasticity super protocol,
+669.895 and all those tools can be applied
+672.77 to learning and teaching in
+any format that you like.
+675.79 So check it out.
+676.73 It's in the caption to
+this week's episode,
+678.451 and it will remain there,
+680.49 it's up on YouTube and
+I hope you enjoy it.
+682.482 Okay, so let's talk
+about feeding, fasting,
+685.222 health and performance.
+687.434 And I want to just establish
+a few foundational terms
+691.362 so that we're all on the same page.
+693.721 First of all,
+694.8 rather than talk about fasting
+or time restricted feeding,
+697.756 I'm largely going to talk
+about time restricted feeding,
+701.08 but please understand that
+time restricted feeding
+703.342 is just one side of the coin
+705.626 that is a two-sided coin
+708.12 that includes fasting on the one hand,
+709.96 not eating, and time restricted
+feeding on the other hand,
+713.14 I may occasionally say fasting,
+715.18 but because fasting and
+eating establish different
+718.278 biological conditions in the body,
+720.96 time-restricted feeding
+722.06 is the term that I will use to describe
+724.606 the overall plan of
+restricting one's eating window
+728.789 as it's called to a particular
+phase of each 24 hour day,
+733.85 or in some cases two particular
+days within the week.
+738.36 Because as you'll soon learn,
+739.573 there are aspects of
+time restricted feeding,
+741.947 aka fasting, that involve
+eating every other day,
+745.817 or eating one way for five days
+748.88 and then fasting for
+two days, and so forth.
+751.21 So I'll be very precise about
+what I mean and why I mean it.
+754.396 But for the time being,
+756.45 I'm going to refer to
+time restricted feeding
+759.54 as a way to put an umbrella
+over this conversation.
+763.433 Second of all,
+764.437 I am going to emphasize a
+lot of biological mechanism.
+767.848 If you've listened to this podcast before,
+769.703 you know that I always begin
+with biological mechanism.
+773.59 I do describe tools of how to
+implement those mechanisms,
+776.936 but I wholeheartedly believe
+that knowing mechanisms
+781.05 and understanding how these processes work
+783.138 gives you tremendous
+785.3 flexibility and understanding,
+787.172 and control over the processes
+789.671 of your mental and physical health.
+791.53 Whereas if I were to just list off a menu
+793.862 of things to do and not
+to do, those will work,
+797.952 but those will not give you the kind
+800.9 of understanding that would allow you
+802.96 to navigate through life, through travel,
+805.59 through dinners out, through
+different exercise schedules,
+808.935 whether or not you're one age
+or another age, male, female,
+812.21 et cetera, I'm giving you mechanisms
+814.402 so that you can gain more
+control over the systems
+817.078 in your brain and body.
+818.775 Everything's timestamped,
+820.39 so if you want to jump to the to do's,
+822.03 you can certainly do that,
+823.27 but I encourage you to hang in
+there for the mechanism bit.
+826.74 I will make it all very clear
+827.844 because if you understand mechanism,
+829.718 you are in a true place
+of power and control
+831.985 over your biology.
+833.332 If ever there was a topic
+that is controversial,
+836.73 especially on the internet,
+838.05 it is that of diet and nutrition.
+840.76 So I'm wading into this
+with a smile and in eager
+843.769 anticipation of all the but but but this
+847.43 and but but but that, and wait,
+848.742 but this showed that.
+850.376 Here's the deal,
+851.96 we need to precisely define
+854.3 what it is that we're talking about
+855.79 when we talk about nutrition.
+857.45 I'm going to give you an example
+859.32 of a study that was
+published a few years ago,
+861.76 2018, by a colleague of mine at Stanford,
+864.58 Chris Gardner, he's a terrific professor
+868.94 of nutrition and has done a lot
+870.826 of important studies on
+how nutrition impacts
+873.843 different aspects of health.
+875.863 This is a large-scale study.
+878.02 It was published in JAMA,
+879.66 the Journal of the American
+Medical Association,
+881.65 one of the very top tier
+journals in the area of medicine,
+885.69 and certainly for a paper on nutrition
+887.68 to show up there meant that it had
+889.17 to meet an exceedingly high standard.
+891.821 This paper, where Chris
+is the first author,
+896.26 it's Gardner et al, 2018 JAMA,
+898.872 looked at weight loss
+in people following one
+903.643 particular diet versus
+another particular diet.
+906.703 And this was a 12 month weight loss study.
+909.55 So it was focused
+specifically on weight loss,
+911.777 although they looked at some
+other parameters as well.
+914.61 And the basic conclusion of the study was
+916.329 that there was no significant difference
+919.45 in weight change between
+people following a healthy,
+922.41 low fat diet versus a healthy,
+924.042 low carbohydrate diet with significantly
+926.011 more dietary fats in them.
+928.459 This caused a lot of ripples
+931.217 in the world of nutrition
+and nutritional science,
+935.06 and certainly in the general population,
+936.957 because anyone that understands diet
+940.11 and nutrition would
+immediately say, but wait,
+942.97 there are all sorts of
+different implications of eating
+945.268 one type of diet, say low
+carbohydrate, higher fats,
+948.637 versus a higher
+carbohydrate, lower fat diet.
+951.545 And indeed there are.
+953.148 This study was focused specifically
+955.202 on fat loss and on weight loss.
+958.607 So as we discuss time restricted feeding,
+963.4 we need to be very precise
+964.254 about what are the effects
+of time restricted feeding,
+967.69 and of eating in particular ways
+969.82 at particular times, we are
+going to emphasize again,
+973.18 whether or not the study was
+done in mice or in humans,
+975.94 in athletes, in men, in women, or both,
+978.5 but the study from Gardner and colleagues
+980.357 is a beautiful study,
+981.715 and really emphasizes that
+983.337 if one's main goal is
+simply to lose weight,
+986.863 then it really does not
+matter what one eats provided
+991.601 that the number of calories burned
+994.653 is higher than the number
+of calories ingested.
+998.18 However, anyone out there who understands
+1001.93 a little bit of biology,
+1003.655 or a lot of biology will agree
+1006.0 that there are many factors
+1007.272 that impact that calories
+burned part of the equation.
+1010.687 Some of those are obvious.
+1012.4 So for instance,
+1013.337 amount of exercise, type of
+exercise, basal metabolic rate,
+1017.91 how much energy one
+burns just sitting there.
+1020.039 I've talked before on this podcast
+1021.398 about NEIT, Non Exercise
+Induced Thermogenesis,
+1024.8 where if people bounce around
+a lot and fidget a lot,
+1026.969 they can burn anywhere from
+800 to 2,000 calories per day.
+1031.06 So their quote-unquote
+basal metabolic rate
+1033.142 is actually much higher simply
+1034.68 because they're fidgeters,
+1035.62 whereas people who tend
+to be more stationary
+1037.36 have a lower basal
+metabolic rate, on average.
+1039.85 There's a great science to support this.
+1042.249 Metabolic factors and hormones
+1045.03 are also very important.
+1046.75 Hormones, such as thyroid hormone
+1048.746 and insulin and growth hormone,
+1051.37 and the sex story to hormones,
+testosterone and estrogen,
+1053.577 those levels will also
+profoundly influence
+1056.197 the calories out, the
+calories burned component
+1059.341 of the calories in, calories out equation.
+1062.161 So if out there on the internet
+1065.45 or in listening to a particular podcast
+1067.199 or speaker, somebody says,
+1068.817 this is the ideal diet,
+1070.527 or calories in, calories out does not
+1073.31 matter, or calories in calories out
+1074.85 is the only thing that matters.
+1076.054 I think it's very important to understand
+1078.13 that there are some foundational truths,
+1080.01 such as calories in, calories out,
+1081.99 but that of course,
+1083.286 hormone factors and the context in which
+1086.75 a given diet regimen is taking place
+1089.226 are exceedingly important.
+1091.21 A good example of this would be puberty
+1094.16 at that time in life,
+1096.18 sex steroid hormones
+are changing profoundly
+1098.22 in the body as our growth
+hormone and other hormones.
+1101.26 And much of caloric intake
+1103.33 is directed towards protein synthesis,
+1105.679 towards the production of muscle and bone
+1107.9 and other tissues of the body.
+1109.23 And that's because of changes in hormones
+1111.14 that we call puberty.
+1112.53 So, there's no way that we can drill
+1115.2 into every aspect of a given feeding plan
+1118.7 or feeding schedule that would allow us
+1122.44 to tap into every aspect of the list
+1124.36 that I read out before weight loss,
+1126.72 fat loss, muscle organ, genome, epigenome,
+1128.7 inflammation, exercise,
+cognition, mood, and lifespan.
+1130.802 But today, we're going to be very precise
+1133.11 about how time restricted feeding,
+1135.378 it's very clear from both animal studies
+1138.5 and human studies
+1139.382 can have a very powerful
+and positive impact
+1143.433 on everything from weight loss
+1145.66 and fat loss to various health parameters.
+1149.189 This is a beautiful literature
+1151.04 that's emerged mostly in
+the last 10 or 15 years.
+1154.428 And as we march into this literature,
+1156.71 what you'll see is that there actually
+1158.166 is a perfect diet for you on a given day.
+1162.602 And that perfect diet for you on
+1164.684 a given day is contextual,
+1167.85 meaning it depends on
+what you did yesterday
+1170.017 and what you're going to do tomorrow.
+1172.96 So there is a perfect diet for you.
+1174.556 And today, I'm going to arm you
+1175.9 with the mechanisms and understanding
+1178.17 that will allow you to define what
+1179.62 that perfect diet is
+1181.02 and will allow you to eat on a schedule
+1183.728 and to eat the things that are going
+1186.26 to best serve your goals.
+1187.641 So let's talk about eating
+and what happens when you eat,
+1191.4 and let's talk about
+fasting, or not eating,
+1194.38 and what happens when you fast.
+1196.059 I did an entire episode on eating
+1198.596 and metabolism, and
+hormones and other factors
+1201.62 that impact appetite.
+1203.198 We don't have time to go
+into all those details now,
+1205.67 although you're welcome to
+listen to that episode as well,
+1209.071 but we can briefly describe
+the overall conditions
+1213.044 that are set in the body when we eat
+1215.369 and when we don't eat.
+1217.825 The key word here is conditions.
+1220.498 If I can emphasize anything
+today, it's that what you eat
+1224.434 and when you eat it set
+conditions in your body,
+1228.935 and those conditions can
+be very good for you,
+1231.76 or very bad for you,
+depending on when you eat.
+1235.195 In fact, when you eat is as
+important as what you eat.
+1241.349 I'll repeat that, when you eat
+1243.25 is as important as what you eat,
+1244.83 at least as it relates
+to health parameters,
+1247.1 in particular, liver
+health and mental health.
+1250.38 Some simple rules about eating.
+1251.92 First of all, when you eat,
+typically your blood glucose,
+1256.55 your blood sugar, will go up.
+1258.464 Also, insulin levels will go up.
+1261.31 Insulin is a hormone that's involved
+1263.01 in mobilizing glucose
+from the bloodstream.
+1265.954 How much your glucose and insulin go up
+1269.67 depends on what you eat
+and how much you eat.
+1272.06 In general, simple sugars,
+including fructose from fruit,
+1277.89 but also sucrose and glucose,
+1279.49 and simple sugars will raise your insulin
+1282.45 and blood glucose more
+than complex carbohydrates.
+1286.32 Things like grains, and breads,
+and pastas, and so forth,
+1288.66 and grains, and breads, and
+pastas, and so forth will raise
+1291.62 your blood glucose more
+than fibrous carbohydrates,
+1294.026 like lettuce, and broccoli,
+and things of that sort.
+1297.643 Protein has a somewhat moderate
+1300.63 or modest impact on insulin and glucose,
+1303.2 and fat has the lowest impact
+1305.031 on raising your blood
+glucose and blood insulin.
+1308.369 So what you eat will
+impact how steep a rise
+1312.64 in blood glucose and insulin takes place.
+1315.48 And there are a number of factors
+1317.3 that are related to your individual health
+1319.24 that will also dictate how steep
+1320.54 and how high that rise in
+glucose and insulin will be.
+1324.57 For the time being, I'm leaving
+1325.437 out people who have type one diabetes.
+1328.38 These are people that don't
+manufacture their own insulin,
+1331.02 and type two diabetes is
+essentially insulin insensitivity,
+1336.91 lack of sensitivity to insulin,
+1338.56 which leads to high blood glucose.
+1340.88 But, when you eat,
+1342.171 blood glucose goes up
+and when you don't eat,
+1344.81 blood glucose and insulin go down.
+1347.085 The longer it's been since your last meal,
+1349.87 the lower, typically,
+1350.773 your blood glucose and insulin will be.
+1353.66 And the higher, things like
+GLP1, glucagon-like peptide 1,
+1360.053 glucagon being a hormone
+that's also secreted
+1363.78 when you are in a fasted state
+or a low blood glucose state.
+1369.3 It's involved in mobilizing
+various energy sources
+1373.21 from the body, including fat
+through what we call lipolysis,
+1376.562 also using carbohydrates,
+1378.56 and potentially even using
+muscle as a source of energy.
+1381.28 So, that's kind of a fire hose
+1385.25 of information about what happens
+1387.17 when you eat and don't eat,
+1388.13 but just think of it this way, blood sugar
+1390.26 and insulin go up when you eat,
+1391.628 they go down when you don't eat,
+1393.35 and other hormones go
+up when you don't eat.
+1396.21 So there are hormones associated
+with the fasted state,
+1399.059 and there are hormones associated
+1400.608 with the eating and
+having just eaten state.
+1404.656 Now, the most important thing
+1407.09 to understand is that,
+like everything in biology,
+1411.192 this is a process that takes time.
+1414.36 So insulin and glucose go up when we eat,
+1417.237 and it takes some period of time
+1418.82 for them to go down,
+1420.02 even if we stop eating,
+1421.431 they will remain up for
+some period of time,
+1424.15 and then go back down, it takes time.
+1426.833 This is very important,
+1428.65 because if you look at
+the scientific literature
+1431.14 on fasting, on time-restricted feeding,
+1434.554 it's absolutely clear
+that the health benefits,
+1438.096 not just the weight loss benefits,
+1440.43 but that the health benefits
+1441.94 from time-restricted feeding,
+1443.13 occur because certain conditions
+1445.62 are met in the brain and body
+for a certain amount of time.
+1450.4 And that gives us an anchor
+1452.062 from which to view what eating
+1455.08 is in terms of how it sets
+conditions in the body over time.
+1459.64 And if that sounds overly
+analytic, I promise you,
+1462.94 this is the simplest
+1464.11 and best way to think
+about any eating schedule
+1466.92 or any eating plan.
+1468.53 So I think it's fair to say
+that in the field of nutrition,
+1471.172 there are a few landmark
+studies that serve
+1474.013 as really strong anchors for
+building our understanding
+1477.65 of what to eat and what not to eat
+1479.717 and when to eat, depending on our goals.
+1482.35 The Gardner study that I mentioned earlier
+1484.36 is one such study,
+1486.1 in that it says if your
+goal is weight loss,
+1489.114 it really does not matter
+what foods you consume,
+1493.49 provided that you consume a
+sub-maintenance, caloric diet.
+1497.92 However, I want to emphasize again,
+1499.665 that sets aside issues of adherence,
+1504.23 meaning how easy or hard it
+is to adhere to a given diet.
+1507.68 Some people find it much easier
+1509.16 to follow a high fat,
+low carbohydrate diet.
+1511.24 Some people fall follow
+1512.184 a different diet because it's much easier
+1514.21 for them to follow.
+1515.6 And some people are concerned
+1516.93 with mental performance
+and athletic performance.
+1519.01 So that study doesn't
+say there's a best diet,
+1521.693 what it says is that what you consume
+1523.866 is less important than the
+amount of food that you consume,
+1528.64 at least for sake of weight loss,
+1531.0 not necessarily for sake of health.
+1533.67 Now, the study that I'm going
+1535.56 to refer to next is what I would consider
+1538.21 the second major pillar
+of nutritional studies.
+1541.05 This is a truly landmark study
+1542.46 that was carried out by Satchin Panda,
+1545.878 who is a professor at the Salk Institute
+1548.7 of Biological Studies in San Diego,
+1549.943 an absolutely phenomenal institution,
+1552.91 and an absolutely phenomenal researcher.
+1554.969 I've known Satchin for a number of years,
+1556.97 and I want to emphasize
+that the current literature
+1560.168 on intermittent fasting
+1562.19 and time restricted feeding can largely
+1563.707 be attributed to Satchin
+1566.196 and the work that he's done.
+1568.21 There are others involved too, of course.
+1570.585 And of course, time-restricted feeding
+1572.76 and fasting has a rich history
+that goes back many hundreds,
+1575.787 if not thousands of years
+in different cultures
+1577.821 and religions,
+1579.35 but the science of time-restricted
+feeding can really mainly
+1582.69 be attributed to the incredible
+work that Satchin has done.
+1585.306 And I'm grateful to consider
+him a friend and a colleague,
+1589.6 and we consulted at length in
+anticipation of this episode.
+1592.55 I also hope to have him on
+as a guest in the future.
+1595.2 The landmark paper that
+came from Satchin's lab
+1597.81 was published in 2012.
+1599.163 This was a paper in
+mice that set the basis
+1602.027 for studies in humans that came later.
+1605.01 And the title of this paper
+is time-restricted feeding
+1608.01 without reducing caloric intake,
+1610.42 prevents metabolic diseases
+in mice fed a high fat diet.
+1614.062 So the title tells us a lot.
+1616.52 It says that what's varied in this study
+1619.35 is not what these mice ate,
+it was when they ate it.
+1622.723 And there were essentially four conditions
+1625.9 in this study and the results
+are absolutely remarkable.
+1629.093 So I'm going to walk you
+through the major results.
+1631.824 What they did is they gave mice access
+1635.221 to different types of food.
+1636.955 There were four groups,
+1638.87 one group of mice had access
+to just a normal mouse diet.
+1643.49 It would not be a diet that
+you'd be very interested in.
+1645.284 I confess I've actually tasted mouse chow.
+1647.334 If you work with mice at
+all, you just have to do it.
+1649.69 At least once it doesn't taste very good,
+1651.51 it tastes like a very bland
+Graham cracker cookie.
+1653.66 And I confessed that. I only
+had the tiniest little bit,
+1655.28 but mice like that stuff.
+1656.541 And if you allow them to eat that stuff,
+1659.4 what's called ad libitum
+whenever they want,
+1661.58 you just keep it in their
+food. 24 hours a day,
+1664.02 they will eat sometimes,
+1665.24 and then they won't eat it at
+other times, or in this case,
+1668.87 they also had a condition where
+they gave them mouse chow in
+1671.67 a time restricted way,
+1672.88 just for a certain
+number of hours each day,
+1675.831 but about eight hours, or they
+gave them a high-fat diet.
+1681.41 That was a separate group,
+1682.32 got a high-fat diet at
+any time they wanted.
+1684.85 So this was kind of the
+carnival for mice because mice
+1686.734 really like high fat,
+highly palatable foods.
+1689.69 And so they got a lot of
+goodies and high-fat in their
+1691.949 food.
+1692.95 And then there was a fourth
+group that had access to the
+1695.53 high fat diet as much
+as they wanted to eat,
+1697.95 but only during a restricted
+time period of each 24 hour
+1701.87 cycle, now mice are nocturnal.
+1703.57 Humans are what we call diurnal, actually,
+1705.423 we're not really diurnal
+we're crepuscular,
+1708.37 which means that we're most
+active in the morning and in the
+1710.87 evening, not so much in the
+afternoon, but nonetheless,
+1714.322 everything I'm going to tell
+you is true also for humans.
+1719.21 And we know this now from human studies,
+1720.624 one of the most important
+things to take away from this
+1722.783 study was that mice that ate
+a highly palatable high-fat
+1726.688 diet, a great tasting diet,
+1728.64 but only during a restricted
+feeding window of each 24 hour
+1731.11 cycle maintained or lost
+weight over time, whereas mice
+1736.95 that ingested the same diet,
+same amount of calories,
+1741.116 but had access to those
+calories around the clock,
+1744.644 gained weight, became
+obese and quite sick.
+1748.67 And as an additional second point,
+1750.312 the mice that restricted
+their feeding window to a
+1754.15 particular portion of eight
+hours of every 24 hour cycle
+1757.686 actually showed some
+improvement in important health
+1762.19 markers.
+1763.42 And what was even more incredible
+is that mice that only ate
+1767.64 during a particular feeding window,
+1769.264 also experienced some reversal
+of some prior negative health
+1774.54 effects.
+1775.6 So this study really lit up the
+world and got people excited
+1778.61 about time-restricted eating again.
+1781.557 They use an eight hour feeding window.
+1785.959 The story around that eight
+hour feeding window is kind of
+1788.71 interesting though.
+1790.703 Not many people know this
+because it wasn't included in the
+1792.62 paper, and there was no reason
+to include it in the paper,
+1796.322 not to out anybody,
+1798.02 but it turns out that the
+reason they used an eight hour
+1800.71 feeding window and not a nine
+hour or a 10 hour feeding
+1803.81 window,
+1804.643 is because studies of this sort
+are actually quite demanding
+1808.98 to perform and require the
+constant presence of the graduate
+1812.95 student,
+1813.783 or post-doc there to ensure
+that the food is in the cages at
+1816.541 particular times and not in
+the cages at other times.
+1820.29 And mice are really good at hiding food.
+1822.13 They'll even hide food in their jowls.
+1824.51 And so there's a lot of work
+that has to be done to prepare
+1827.93 for that eight hour feeding window.
+1829.65 And to make sure after that
+eight hour feeding window,
+1831.962 there's all the food has been
+removed from the cage and from
+1835.33 the jowls of the mice and so forth.
+1837.12 And it turns out that the
+significant other of the graduate
+1840.54 student and or postdoc,
+1842.45 I won't reveal who they were running.
+1844.17 This study forbid their significant other,
+1847.88 the scientist from being in
+the lab for periods of time,
+1852.1 that were much longer than
+the 10 or 12 hours that were
+1854.55 required in order to ensure
+this eight hour feeding window.
+1857.772 So when we hear the eight
+hour feeding windows are holy,
+1861.16 they are not holy and later,
+1862.547 we are going to talk about
+how eating for a time that's
+1866.73 restricted to eight hours
+versus 10 hours versus 12 hours.
+1869.524 For instance,
+1870.554 how that impacts various
+parameters like health parameters
+1873.204 and weight loss, et cetera.
+1875.34 But the eight hour feeding
+window was actually created
+1877.465 because of a real world
+constraint on the research and the
+1880.48 relationship with the researcher
+performing the research,
+1882.507 not because there's anything
+holy about an eight hour
+1885.217 feeding window, now
+1886.67 an important point about
+when the feeding window falls
+1889.532 within the 24 hour cycle,
+1891.328 it is very important that the
+feeding window fall during the
+1895.322 more active phase of
+one's day, so for humans,
+1899.369 that's typically in the early
+part of the day or the later
+1903.55 part of the day,
+1904.383 but not at night, put very simply,
+1906.403 there are a lot of data now
+1908.151 pointing to the fact that eating
+during the nocturnal phase
+1912.587 of the 24 hour cycle is very
+detrimental to one's health.
+1917.555 In fact,
+1918.685 when we eat can either enhance
+our health or can diminish
+1922.92 our health.
+1924.234 When we see light can enhance
+our feelings of wellbeing or
+1928.135 can diminish our feelings of wellbeing.
+1930.59 I've talked many times before about this,
+1932.2 on the human lab podcast,
+that during the daytime,
+1934.021 you want to get as much sunlight
+and other types of bright
+1937.37 light in your eyes as safely possible.
+1938.716 And then you want to avoid light
+in the middle of the night.
+1942.029 It has detrimental dopamine
+lowering effects can cause
+1944.946 depression, cortisol increases, et cetera.
+1947.88 So when you view light is as
+important as the light that you
+1950.576 view.
+1952.11 And when you eat is as important
+as what you eat, in this
+1956.325 study, they saw something
+really interesting,
+1960.107 which was that not only did
+restricting food to a particular
+1964.5 phase of the 24 hour cycle benefit,
+1966.174 things like lean body mass
+and fat loss and a number of
+1971.59 health parameters that we'll
+talk about in a moment,
+1973.88 but it also anchored all the
+gene systems of the body and
+1977.127 provided a more regular stable
+so-called circadian rhythm or
+1981.89 24 hour rhythm, you may be
+surprised to learn that 80%,
+1985.671 80% of the genes in your
+body and brain are on a 24
+1992.006 hour schedule.
+1993.87 That is they change their levels
+going from high to low and
+1996.809 back to high again,
+across the 24 hour cycle.
+1999.94 And when those genes are high
+at the appropriate times and
+2002.9 low at the appropriate times,
+2004.25 meaning their expression is
+high and low at the appropriate
+2007.22 times.
+2008.12 And therefore the proper RNAs
+and proteins are made because
+2011.56 DNA codes for RNA, RNA is
+translated into proteins.
+2016.66 When that happens, your health benefits,
+2019.42 when those genes are not
+expressed at the right times when
+2022.756 they're higher or low at the
+wrong times of each 24 hour
+2026.24 cycle, that's when you get
+negative health effects.
+2028.818 This study showed that when
+mice restrict their eating to an
+2032.61 eight hour period within the
+most active phase of their 24
+2036.75 hour cycle,
+2038.002 many of the genes that are
+associated with these so-called
+2041.1 circadian clocks, these genes
+have names like PER, BMAL,
+2044.255 CRY1, et cetera,
+2046.67 those so-called clock genes
+underwent a very regular
+2050.493 entrainment, a locking in to
+the proper 24 hour schedule.
+2055.27 And while this was in mice,
+2056.264 we now know that this
+also occurs in humans,
+2059.17 I've said before on this
+podcast, and I'll say it again,
+2061.878 that light,
+2063.02 and when we view light is the
+primary way in which these
+2065.85 genes and the clock systems
+of our body get organized or
+2069.09 entrained, meaning matched to
+the outside light dark cycle.
+2072.32 So viewing light early in
+the day and in the afternoon,
+2074.78 and as much as possible all day, great,
+2076.58 ideally that sunlight, avoiding
+light in the middle of the
+2079.41 night is also great.
+2081.357 It's great because it causes
+the increases in particular
+2086.18 genes and the decreases in
+particular genes in every cell
+2088.62 throughout your body at
+the appropriate times,
+2090.394 the second most powerful
+timekeeper or zeitgeber, as it's
+2094.71 called, is food, and when
+you eat, and in this study,
+2100.221 the results they saw
+underscore this point,
+2103.21 what they saw is that the peaks
+in these clock genes became
+2106.239 very regular.
+2107.83 And the dips in these clock
+genes became very regular.
+2110.61 And that led to a whole
+host of really important,
+2113.867 positive health effects.
+2116.099 Conversely, when mice ate,
+2118.387 whenever they wanted
+across the 24 hour cycle,
+2120.669 these clock genes became
+really out of whack and the
+2123.929 negative health consequences
+were the downstream result of
+2128.367 these changes in these clock genes.
+2131.787 This is now also been shown
+to be true for humans.
+2135.14 So if you want to be healthy,
+you want your organ health,
+2138.13 your metabolic health to
+be in trained properly.
+2141.846 One of the most important
+things you can do is to,
+2143.47 if you lied at the appropriate
+times of each 24 hour
+2146.05 schedule and to not view
+light at other times of that
+2148.38 schedule and to eat at the
+appropriate time of each 24 hour
+2152.04 day.
+2153.76 Now, again,
+2154.593 there are rare instances that
+we will discuss when skipping
+2157.079 entire days or entire 24
+hour cycles of eating can be
+2160.595 beneficial.
+2161.99 But for now we're talking
+about schedules of time
+2164.83 restricted
+2165.663 feeding involve a window of
+feeding that falls during
+2168.55 your more active phase,
+so during the daytime,
+2170.79 putting aside people that work
+shift work during the daytime
+2173.923 is when you want to eat.
+2175.503 And this eight hour feeding
+window provided a very strong
+2179.593 reinforcing signal that combines
+with light to ensure that
+2184.25 these genes are expressed
+at the appropriate times.
+2186.555 The short takeaway from this
+is you probably want to think
+2189.883 about and perhaps even engage
+in time, restricted feeding.
+2194.29 So, as I mentioned earlier,
+2195.35 when mice can eat around the
+clock, bad things happen.
+2198.42 And one of the bad things
+that happens is that the liver
+2201.27 suffers, the liver is involved
+in all sorts of things,
+2205.3 production of important hormones
+and other factors related
+2207.283 to metabolism.
+2209.01 And when mice can eat around the clock,
+2211.442 their livers got very sick,
+fatty deposits in the liver.
+2214.553 Other factors in the liver
+essentially taken down the
+2218.05 pathway of liver disease,
+the time restricted feeding,
+2221.341 essentially reversed that or
+led in many cases to an even
+2224.815 healthier liver conditions,
+and that's based on this study,
+2227.262 but also additional
+studies also now in humans.
+2230.531 So restricting your feeding
+to a particular window,
+2234.24 every 24 hour cycle has clearly
+been shown now in mice and
+2237.71 in humans to enhance liver
+health, which is wonderful.
+2242.234 How does it do this, well, it
+happens because food intake,
+2247.58 as I mentioned earlier,
+2248.52 sets certain conditions in the
+body that lasts for a period
+2251.66 of time.
+2252.8 Anytime we eat,
+2253.93 whether or not we are a
+mouse or a human, there's
+2255.671 a period of time that's required
+for so-called digestion,
+2259.86 but also gastric emptying and
+other processes related to
+2263.052 breaking down that food and utilizing it.
+2265.7 And that is an active
+process. It requires energy.
+2268.759 And that process of breaking
+down food involves certain
+2274.69 cellular functions that if
+they're ongoing throughout the 24
+2279.02 hour cycle or even extended
+too far across the 24 hour
+2282.743 cycle, meaning you're eating
+across a 14 or a 16 hour,
+2286.329 an 18 hour window, that
+causes serious problems.
+2290.18 And this is now been established
+because of the fact that it
+2293.773 increases the expression of
+different proteins and genes in
+2298.1 the body, as such as
+TNF alpha, IL-6, IL-1.
+2301.07 what are all those things?
+2302.3 They are pro-inflammatory markers.
+2304.54 So the reason that the liver
+gets sick when you're eating
+2306.836 too often is because inflammatory
+markers are increased.
+2310.67 These inflammatory markers
+are not inherently bad,
+2314.17 they're there for a reason,
+2315.171 but they are there in
+order to respond to certain
+2318.47 challenges, immune challenges,
+2320.208 or the ingestion of food
+and the breakdown of food.
+2322.93 But then in an ideal circumstance,
+2325.93 they are reduced in the period
+in which there's no food
+2329.418 present in the digestive
+tract or in which there's very
+2332.11 little food present in
+the digestive tract.
+2334.43 So by eating around the clock,
+2335.595 you're making yourself sicker
+by eating at restricted
+2339.07 periods of time, each 24 hours a day,
+2341.09 you're actually making
+yourself healthier and you're
+2343.87 activating certain processes
+that can positively impact both
+2348.174 weight, either maintenance
+or loss of weight.
+2351.75 We'll talk about weight gain
+a little later and positively
+2354.59 impacting things like liver health.
+2356.06 Also the expression of different
+things related to brown
+2358.755 fat, the fat that
+increases your metabolism.
+2361.81 We will return to this also
+a little bit later and blood
+2364.843 glucose regulation, so the
+takeaway from this study,
+2369.126 in fact, there are many
+takeaways from the study.
+2371.15 It's so wonderful is that liver health,
+2374.844 bile acid metabolism, energy
+expenditure inflammation,
+2379.566 liver metabolites, many,
+2383.0 many aspects of our health
+are impacted by when we eat,
+2386.66 not just what we eat, as we move forward,
+2389.23 and we talk about intermittent
+fasting for eight hour
+2391.779 windows, six hour windows,
+2393.49 12 hour windows for all sorts
+of different intents and
+2396.69 purposes.
+2397.72 I want to start to establish
+a foundational protocol that
+2401.153 all of us,
+2402.56 any of us can use in order
+to maximize your particular
+2405.463 goals.
+2407.061 There are some absolutes
+within this realm of
+2410.48 time-restricted feeding.
+2412.475 Here are a couple of absolutes
+that you would want to
+2415.07 consider, first of all,
+2418.29 it pays off in the metabolic
+sense and in the health sense
+2422.017 and in the weight maintenance
+or loss sense to not ingest
+2427.081 any food in the first hour
+after waking and potentially for
+2432.44 longer, so I want to repeat that.
+2433.93 One of the key pillars of
+intermittent fasting is that for
+2436.717 the first hour
+2438.17 after you wake up and potentially
+for longer to not ingest
+2441.13 any food, okay,
+2443.503 the second major pillar that's
+well supported by research is
+2447.12 that for the two and ideally
+three hours prior to bedtime,
+2452.385 you also don't ingest any food
+or liquid calories for that
+2457.24 matter.
+2458.073 And we will talk about what
+it means to break a fast and
+2460.357 whether or not certain liquids,
+2462.41 even coffee and tea can
+break a fast, et cetera,
+2464.73 in a few moments, but
+just as a foundation,
+2468.128 it's very clear from the research
+in humans that not eating
+2471.429 any food or ingesting any
+calories liquid or otherwise for
+2475.259 the first 60 minutes
+after waking up each day.
+2478.859 And for the two to three
+hours prior to your bedtime,
+2483.87 that's ideal for the
+parameters that we've discussed
+2487.22 earlier,
+2488.053 all the different things like
+weight and liver health and
+2490.26 metabolic health and so forth.
+2491.962 The two most common questions
+about intermittent fasting are
+2494.693 when is the ideal time
+for the eating window?
+2498.08 Is it early in the day,
+2498.913 the middle of the day or later in the day?
+2501.16 And how long should that eating window be?
+2503.94 Should it be eight hours?
+2504.866 We already heard why the
+eight hour window was first
+2507.76 established.
+2508.75 It was because of these lab
+conditions and the conditions of
+2511.09 the particular relationship
+of the graduate student
+2513.25 involved,
+2514.083 or should it be seven hours
+or six hours or 12 hours.
+2516.33 It turns out that there's some
+general frameworks that we
+2520.22 can follow in order to
+answer these questions.
+2522.377 As we move into this
+portion of the discussion,
+2524.516 I want to highlight a very
+important reference that just
+2527.759 came out,
+2529.35 literally came out last week
+in the journal endocrinology
+2532.93 reviews.
+2534.06 And the title of this review
+is time-restricted eating for
+2537.12 the prevention and management
+of metabolic diseases.
+2539.762 Although the data in this
+paper go well beyond metabolic
+2544.61 diseases, this is a paper
+from Satchin Panda's lab.
+2547.89 It's a very lengthy review
+with an enormous table
+2551.57 that's beautifully organized
+that scripts out all the
+2555.52 studies done in humans.
+2557.126 Well over a hundred
+studies looking at time,
+2560.26 restricted feeding in
+athletes, men, women, children,
+2562.818 diabetes, no diabetes, et cetera,
+2565.067 with detailed references and
+description of the outcomes.
+2568.302 I've spent a lot of time with this review,
+2570.46 even though it just came out
+recently and is a absolute
+2572.895 goldmine resource.
+2574.547 It is also the major resource
+for everything I'm about to
+2577.49 tell you if you would like
+to delve deeper into the
+2579.176 material.
+2580.182 So let's deal with this first
+question of when is the ideal
+2584.29 feeding window, and here again,
+2586.23 we're thinking about a schedule
+of eating that involves
+2589.56 eating at least once every 24 hours,
+2591.777 not two day or three day
+or every other day fast.
+2595.534 So it turns out that the
+answer to the question,
+2598.64 when is it best to eat is
+actually best answered by thinking
+2602.197 about the other side of the coin,
+2604.3 which is when is it best to fast?
+2606.797 So, because we are fasting during sleep,
+2609.973 it's very clear that it's best
+to extend the sleep-related
+2614.73 fast either into the morning
+or to start it in the evening.
+2620.485 Now this might seem kind of obvious,
+2622.58 but it's actually not so obvious.
+2624.494 You could place that feeding
+window early in the day,
+2628.5 middle of the day or late in the day.
+2630.09 Let's think about what happens
+when we sleep, when we sleep,
+2633.651 our body undergoes a number
+of different processes in the
+2637.37 brain and body in order to
+recover the cells and tissues.
+2641.049 Many of you have probably
+heard of autophagic,
+2643.17 which is essentially a cleaning
+up a gobbling up of dead
+2646.25 cells and cells that are injured or sick.
+2649.54 And this is a natural process that occurs,
+2651.143 and it occurs mainly during sleep.
+2653.51 Although not only during sleep,
+2656.779 fasting of any kind does tend
+2659.388 to enhance autophagy.
+2661.42 It is not the only way to
+create autophagic conditions.
+2665.83 Autophagic conditions can be
+created simply by following a
+2669.38 sub caloric diet.
+2670.71 And there are other things
+that one can do in order to
+2672.919 trigger autophagy, but fasting
+does trigger autophagy.
+2676.84 So when we're asleep,
+2678.29 the bad cells are getting
+gobbled up and eaten.
+2680.399 And the good cells also are
+undergoing certain repair
+2684.59 mechanisms mainly related to,
+2686.46 or at least governed by those
+circadian genes that we talked
+2689.33 about earlier, those clock genes.
+2690.818 So you're already fasting when
+you're asleep and how deep
+2695.769 you are into that fast depends
+on how long it was since your
+2698.516 last meal.
+2700.382 So if you fast early in the day,
+2703.622 and you've been asleep
+for 5, 6, 7, 8 hours,
+2708.42 I would hope somewhere between
+six and eight hours for most
+2710.73 people is going to be beneficial.
+2712.181 When you wake up,
+2714.217 I mentioned earlier that you
+don't want to eat for at least
+2717.27 the first 60 minutes after waking,
+2719.24 but were you to extend
+that fasting to say,
+2721.724 9:00 AM 10:00 AM,
+2723.98 11:00 AM or even 12 noon or
+later you are taking advantage
+2728.128 of the deep, fast that
+you were in during sleep.
+2731.95 And certainly toward
+the end of sleep, now,
+2733.72 why do I say deep, fast?
+2734.96 Well,
+2736.619 because when we eat the clearance
+of that food from our gut
+2740.157 and the processes in our cells
+and organs that are related
+2744.38 to digestion,
+2746.34 and the utilization of that
+food takes about five to six
+2750.53 hours, so if you eat a meal
+and that meal lasts 10 minutes,
+2755.72 20 minutes or 30 minutes, or even an hour,
+2757.629 and then you stop eating,
+you've stopped eating,
+2760.54 but you are not fasting at that point.
+2763.24 You can say you're fasting
+because you're no longer putting
+2765.22 food into your digestive tract,
+2766.862 but you're not in a fasted state.
+2769.51 You are not under conditions
+of fasting, later,
+2772.77 I'll talk about things that
+you can do to accelerate the
+2774.68 transition into fasting.
+2775.864 So one thing is certain, that
+you want your eating window to
+2779.809 be tacked or attached to your
+sleep based fasting in a way
+2785.745 that makes it easier for you
+to get into the fasted state
+2789.462 for a period of time.
+2791.33 So we can view that point
+from the perspective of best,
+2796.138 better and worst, okay?
+2798.944 So if you are like most
+people and you sleep at night,
+2802.059 you're waking up somewhere
+around 6:30, 7:00 AM,
+2804.268 or maybe even 8:00 AM.
+2805.95 Let's say you were to push
+your fasting window out,
+2808.405 such that you started eating at noon,
+2812.87 and then you stopped eating at 6:00 PM.
+2816.716 Well,
+2817.98 then you're not eating from
+6:00 PM until let's say your
+2821.82 bedtime is 10:00 PM, but
+from 6:00 PM to 10:00 PM,
+2824.63 your body is not yet in a fasted
+state because you just ate.
+2827.792 However,
+2829.872 you're starting to taper into
+a fastest state before sleep
+2832.873 and then all through sleep.
+2835.04 And until the next
+morning and late morning,
+2836.878 you are actually in a fasted state, now,
+2840.3 most people find it very hard
+to only eat in the middle of
+2842.243 the day, so while that's best,
+2845.081 it's ideal for sake of the fasting
+2847.7 related improvements in health,
+2849.484 it is not ideal.
+2851.06 And it's not very applicable
+to most work and family and
+2855.44 social situations.
+2856.481 Most people eat breakfast with others and,
+2859.68 or eat dinner with others.
+2861.147 Some people eat lunch with
+others, but in general,
+2864.337 it's hard to restrict your
+feeding window to just the
+2866.586 absolute middle of the day,
+2868.38 but from a purely health perspective,
+2870.53 in a very objective way, that
+would be the ideal situation.
+2873.463 Let's imagine a different
+pattern of eating where the
+2876.84 feeding window starts in the
+afternoon starts around two or
+2880.84 even 3:00 PM.
+2882.12 Some people don't have much
+trouble or they can train
+2884.2 themselves to get their
+feeding window out to two or
+2887.138 3:00 PM, and then they won't
+eat until 10 or 11:00 PM.
+2891.32 Right, if you do the math,
+2892.29 you realize that that feeding
+window is still pretty short.
+2894.72 It still constitutes what we
+would call intermittent fasting
+2897.6 or time restricted feeding.
+2898.708 But assuming that they go
+to bed around 11:00 PM or
+2902.22 midnight,
+2903.73 they are not actually fasted
+in sleep because for the first
+2907.759 six hours or so of sleep, maybe five,
+2910.96 but probably more like six hours of sleep,
+2912.44 they're still digesting the
+food that they consumed a late
+2914.724 in the night.
+2916.163 It does appear beneficial
+to grab a hold of that
+2921.681 sleep-related fast,
+2924.02 meaning you don't want your
+feeding window to be too close
+2928.26 to bedtime.
+2929.093 And that's why we came up
+with this kind of foundational
+2931.48 pillar that I discussed
+with such an earlier,
+2933.91 which is at least no eating for
+the first hour after waking,
+2936.666 but also no eating within two
+to three hours prior to bed.
+2941.71 And because we all need to
+sleep and sleep is seemingly
+2943.616 important for our health of all kinds.
+2946.627 You want to prioritize sleep,
+2948.78 but because we also have to eat,
+2950.133 then you start to think about
+this and maybe it's not so
+2953.34 good to push that feeding
+window too late in the day,
+2956.29 because when you go to sleep,
+2957.81 you're not actually capitalizing
+on the sleep related
+2959.994 fasting.
+2961.26 Now it's not just the case
+that it's easiest to fast while
+2964.31 in sleep, although that's true
+because when we're asleep,
+2966.58 typically we're not hungry or
+looking for food or foraging
+2969.49 for food or wanting food
+or trying to resist food.
+2971.367 We're just sleeping.
+2973.305 There is something special
+about the fasting that occurs
+2976.73 during sleep,
+2977.83 because it's associated with
+a number of processes that
+2980.453 relate to the so-called lymphatic system,
+2983.45 the movement of lymph like
+fluids and other fluids through
+2986.94 the brain, and kind of sweeping
+out a garbage disposal,
+2990.11 if you will,
+2990.943 a clearing out of the metabolic
+debris and some of the
+2993.67 autophagy that's associated
+with bad processes in the brain.
+2998.059 So we could do a whole episode on this,
+3000.34 but essentially during
+sleep, and in particular,
+3002.41 during fasted states of sleep,
+3004.471 we are undergoing a number
+of automatic seller processes
+3009.048 that clear out debris from
+our brain enhance cognition,
+3013.31 or at least offset dementia.
+3014.72 This is now well-established
+as well as a number of the same
+3017.43 processes occurring in
+the organs of our body.
+3019.9 So what we're starting to
+see here is that there are a
+3022.63 number of constraints on
+when you can eat, now,
+3024.842 I would be remiss if I
+didn't acknowledge the social
+3028.04 constraints and the real
+life constraints, some of us,
+3030.198 because we want to eat with
+our family and because our
+3034.07 family or our significant
+others eat around eight or
+3036.59 9:00 PM, and that's the
+only time we're together,
+3038.36 You have to eat late in the day.
+3040.61 And that certainly not a sin.
+3041.93 I'm not saying that's good or bad, here
+3043.407 we're trying to establish
+if you recall, best, better,
+3046.95 and worst.
+3048.08 So from both a practical and
+a health perspective and a
+3052.34 purely objective view of how
+intermittent fasting works and
+3055.507 can benefit us, starting to eat each day,
+3060.45 somewhere around 10:00 AM or around noon,
+3064.515 and then allowing a feeding
+window that goes until six or
+3068.982 maybe 8:00 PM.
+3071.034 That seems to me,
+3073.156 at least based on the data
+and what I understand about
+3075.662 typical cultures,
+3077.12 where people eat in the
+daytime and in the evening,
+3081.093 that seems to me like the kind
+of schedule that will allow
+3084.96 you to get the most out
+of intermittent fasting,
+3087.326 time-restricted feeding,
+3089.432 but does not set you up to be
+really out of sync with the
+3093.32 social rhythms in most cultures.
+3095.813 If you think about it from the
+perspective of say a noon to
+3099.67 eight feeding window,
+3101.59 what you'll find is that
+you're able to eat lunch with
+3104.66 others.
+3105.77 If you like, or by yourself,
+3107.03 you will be able to eat
+dinner at a reasonable hour,
+3109.726 at least in most countries,
+in most cultures,
+3111.911 eating dinner somewhere
+between 6:30 and 7:00 PM is
+3116.788 typical.
+3119.15 When you say a feeding
+window, that goes until eight.
+3121.37 That doesn't mean sitting
+down to dinner at eight.
+3123.97 That means your last bite of
+food or ingestion of any liquid
+3126.77 calories was at 8:00 PM.
+3129.099 Assuming that you go to bed
+somewhere between 10:00 PM and
+3132.62 1:00 AM that allows this tapering off,
+3134.95 or this transition from
+feeding to a fasted state,
+3138.44 and still allows you to capitalize
+on the special period of
+3142.09 fasting that is sleep-related fasting.
+3144.92 And again,
+3145.753 I want to emphasize that the
+fasting that occurs during
+3147.39 sleep is vital and eating too
+close to sleep will disrupt
+3150.227 that fasting related sleep.
+3153.215 Now,
+3154.048 there are a number of caveats
+and details related to this,
+3156.541 and there's an important caveat
+in detail related to people
+3160.699 that are specifically
+interested in increasing or
+3164.747 maintaining muscle mass.
+3166.298 So first let's talk about food
+volume and food type and how
+3171.217 that relates to whether or not
+you quickly or slowly enter a
+3176.551 fasted state.
+3178.23 Because clearly when we
+talk about a feeding window,
+3181.056 that feeding window could
+include any number of different
+3183.81 foods, it could involve
+cake and ice cream, pizza,
+3186.02 hamburgers, plants, fruit, whatever it is,
+3189.242 or it could involve just fats
+or just proteins, et cetera.
+3193.197 There are at least three
+factors that are going to govern
+3196.529 how quickly you transition
+from ingesting food to a fasted
+3201.064 state, remember,
+3202.383 as you ingest your last
+bite or sip of calories,
+3206.396 that's not when the fast begins.
+3208.49 That might be when the fastening
+begins on your watch or on
+3211.133 one of these apps that
+I'll refer to later,
+3213.25 which can help you track your
+fasting and eating windows.
+3215.375 But that's not when it actually
+begins because your body is
+3218.472 still seeing food.
+3220.22 You're actually carrying
+around food inside of you,
+3223.15 even though you're not
+putting into your mouth,
+3224.813 you're still eating in some sense.
+3228.0 So it should be somewhat obvious
+that very large meals are
+3230.979 going to take longer to
+digest than very small meals.
+3233.78 So that will impact how slowly
+or quickly you migrate from a
+3237.929 fed state to a fasted state.
+3241.082 There's no way I can spell out
+what exact volume of food you
+3244.779 should ingest based on the
+size of your stomach and et
+3247.68 cetera, but you're all familiar
+with being extremely full,
+3251.55 very full, comfortably
+full, somewhat full,
+3255.15 or not feeling full and feeling hungry.
+3257.636 So learning to gauge
+food volume is important.
+3260.922 Also foods that include some
+fats or a lot of fats will tend
+3266.24 to slow gastric emptying time.
+3268.019 And depending on the kind of fats,
+3271.01 it could mean that a given
+meal is digested within three
+3274.37 hours versus five hours.
+3275.417 And more fats might be a large
+meal with a lot of fats has
+3278.57 been, can take five or six hours.
+3279.96 A smaller meal with less fat
+is going to be digested more
+3282.3 quickly consuming calories in
+liquid form is going to mean
+3285.426 that gastric emptying time
+is going to be faster.
+3287.868 And then of course,
+3289.3 there's the glucose and
+the insulin aspect to it,
+3292.01 which is that foods that lead
+to big steep rises in glucose
+3295.051 like pure sugars.
+3296.919 Then your glucose will drop, however,
+3299.55 if they're combined with fats,
+3300.86 then it tends to be a more
+gradual rise in glucose and it's
+3303.16 more sustained, et cetera.
+3304.58 Fibrous foods will also create
+a more long lasting sustained
+3307.714 release in glucose.
+3311.027 The important thing here is
+to establish a feeding window
+3314.23 that you can comfortably manage, okay?
+3317.33 Meaning that on average,
+3318.83 you can obey a six hour
+feeding window or an eight hour
+3322.6 feeding window or a 10
+hour feeding window.
+3324.83 And then to place that feeding
+window in a social and life
+3329.15 context that you can manage
+on a regular basis, now,
+3332.68 there are two key points that
+have been gleaned from the
+3335.33 scientific data about this
+feeding window and when to place
+3338.286 it.
+3339.37 And this is based on a
+really important experiment
+3342.16 that Satchin and his
+colleagues have been doing.
+3344.13 There's a website that they
+have zero-cost website called My
+3347.28 Circadian Clock, you can go
+to this website free of cost.
+3350.461 There are a number of
+important resources there,
+3352.7 but what they've done is
+they've examined the feeding
+3355.68 behavior of thousands of people.
+3358.382 People will take a picture of
+the food they're about to eat,
+3360.685 and it enters into their
+account, maybe your account,
+3363.86 if you create one on My
+Circadian Clock, and they do this
+3366.47 over many days or weeks,
+3368.74 what's great about this is it establishes
+3371.459 what's essentially called a
+fetal gram a time in which
+3375.35 people ate.
+3376.56 And a number of important
+findings have emerged from these
+3379.413 fetal grams, across large
+populations of people,
+3382.646 different time zones with
+different schedules, et cetera.
+3385.51 First of all,
+3386.949 almost everybody underestimates
+their feeding window.
+3391.08 Meaning people who think that
+they are on an eight hour
+3394.219 feeding window or six hour
+feeding window, when their data
+3399.112 are analyzed,
+3401.05 it almost is always the case
+that they're actually on a
+3403.24 feeding window
+3404.073 that's one or even two hours
+longer than they think you
+3406.217 think, well,
+3407.27 how could that possibly be if
+people are taking their first
+3409.38 bite at noon and they're taking
+their last bite at 8:00 PM?
+3413.073 Well,
+3414.27 that must mean that they are
+on that feeding window of eight
+3417.49 hours.
+3418.4 And it turns out that people cheat,
+3421.64 but they don't cheat in
+any kind of obvious way.
+3423.48 They might have, you know, a
+glass of wine after dinner,
+3425.989 or they'll have a cup of tea
+and a little bite of a cookie.
+3428.7 And so when people are
+honest and they are honest,
+3430.81 in most cases for this experiment,
+3433.442 what you find is that most
+people's eating window is
+3436.16 actually quite a bit longer.
+3438.203 So in discussing this with
+such in and reviewing the
+3439.33 literature,
+3440.61 it's clear that if you'd like
+to be on a 10 hour feeding
+3444.97 window,
+3446.01 that you should probably
+select an eight hour feeding
+3448.42 window,
+3449.253 because there's always a
+little bit of a taper on either
+3452.87 side of that eating window.
+3454.22 Very few people are extremely
+strict about these eating
+3456.986 windows.
+3457.819 It's just hard to do in the
+context of life events and
+3459.444 social gatherings and,
+and family and so forth.
+3462.758 Okay, so as we build forward,
+3464.71 your ideal fasting slash
+time-restricted feeding schedule,
+3469.86 we now have several different
+rules that we can list out
+3472.441 first,
+3473.66 at least no food for the first
+hour after waking up at least
+3477.345 one hour, two, no food intake
+3482.36 for two and ideally three hours
+3484.55 prior to your bedtime.
+3486.724 Three, if you want to select
+an eight hour feeding window,
+3492.475 then you should probably
+focus on a six or seven hour
+3495.75 feeding window because in reality,
+3497.135 your feeding window is
+going to be longer reality,
+3499.893 meaning real life constraints.
+3502.447 And if you'd like to be on
+a 10 hour feeding window,
+3505.212 you should probably select an
+eight or a nine hour feeding
+3508.14 window,
+3508.973 because the way it plays out
+is that people almost always
+3511.09 eat outside of their
+eating window, somewhat.
+3514.64 The other nice thing about
+selecting a slightly shorter
+3516.849 eating window than is comfortable
+for you is that it takes
+3520.77 into account that as you take
+your last bite or your last
+3525.4 sip of calories, there's
+this time or taper before,
+3529.315 which you are actually in a fasted state.
+3531.675 And because you're eating
+different things on different
+3534.16 days, presumably some foods
+leave your gut more quickly.
+3537.139 Some things spike your insulin
+and your glucose more than
+3539.539 others.
+3540.546 Sometimes you eat more
+fat, sometimes less fat.
+3544.022 This allows you to fall well
+within the margins of the
+3547.607 benefits of time-restricted
+feeding that had been
+3550.6 demonstrated in humans,
+3551.93 which generally involve an
+eight hour window or so.
+3555.654 So I think this eight hour
+window or six hour window is a
+3559.414 good thing to shoot for
+most people, some people,
+3562.418 and we will discuss the exceptions,
+3564.54 but some people truly
+are exceptions to this.
+3566.466 They just require more food.
+3568.965 And along those lines,
+3570.69 I just now briefly want to touch
+on some of the studies that
+3572.91 have looked at using a very
+short feeding window of about
+3575.51 four hours, nowadays,
+3577.34 a number of people are doing
+the so-called one meal per day,
+3580.02 or are restricting their feeding
+window to just four hours
+3583.7 or six hours.
+3584.533 And that turns out to be an
+interesting strategy and the
+3587.706 data around it actually are
+a little bit surprising.
+3591.37 One surprising thing to leap
+out of this massive literature
+3594.348 review on time
+3596.48 restricted feeding in humans
+is that relatively short
+3600.71 feeding windows of say four to
+six hours do produce a number
+3604.41 of positive health effects.
+3605.793 Things like increased insulin sensitivity,
+3607.975 which we know is good, remember type two
+3610.21 diabetes is a reduction in
+insulin sensitivity improvements
+3613.32 in beta cell function and
+the pancreas decreased blood
+3617.118 pressure,
+3618.13 decreased oxidative stress
+decreases in things like evening
+3622.928 appetite.
+3624.14 So positive health effects
+and psychological facts in
+3627.39 general.
+3628.6 However, they either produce
+no change in body weight,
+3632.657 or they tend to produce even
+increases in body weight, now,
+3637.87 of course there's variation
+between individuals and between
+3641.1 studies, but this is somewhat surprising.
+3643.284 So the eight hour feeding window
+seems to be very beneficial
+3646.086 across almost all the
+parameters that we've discussed,
+3649.672 inflammation, weight,
+loss, fat loss, et cetera,
+3652.171 and adherence.
+3654.34 I should mention people's ability
+to stick to the diet seems
+3656.598 quite good on this eight
+hour feeding windows,
+3659.555 but when people try and undergo
+very short feeding windows
+3662.51 of four to six hours,
+3664.109 it seems that they are overeating
+in that four to six hours,
+3667.73 at least overeating with respect
+to their metabolic needs.
+3671.793 Now,
+3674.215 the contrast to this is the
+so-called a one meal per day
+3677.227 schedule, very few studies
+on one meal per day,
+3680.375 one meal per day, unless
+it's a very, very long meal,
+3683.15 a sort of feast typically would
+not last four to six hours
+3686.273 because it sort of depends
+on how you define a meal.
+3688.547 But when you look at the
+very few, I should emphasize,
+3691.89 again, very few studies
+on one meal per day.
+3693.602 People typically maintain or
+lose weight on the one meal per
+3697.35 day schedule.
+3698.59 So what we can say is that
+the seven to nine hour feeding
+3701.361 window produces all of the
+major health benefits of
+3705.083 time-restricted feeding
+as well as being pretty
+3708.649 straightforward for most people
+to adhere to on a regular
+3711.544 basis and on a regular basis,
+3713.94 turns out to be very important.
+3715.17 I'll get back to that point in a moment.
+3716.64 Whereas the four to six hour
+eating window doesn't seem to
+3719.52 serve people as well as say
+a seven or eight hour eating
+3722.38 window,
+3723.213 simply because people are
+overeating during that eating
+3725.46 window and the one meal per day,
+3727.202 while perhaps ideal for
+certain people's schedules may
+3731.14 actually cause people to under-eat.
+3733.41 And in some cases that
+might be what people want.
+3735.042 They actually want to under-eat.
+3736.552 But when we start thinking
+about in work and in sport,
+3742.31 and when we start considering
+hormone health and hormone
+3746.05 production, fertility,
+3747.354 that's when we can really start
+to look at the seven to nine
+3752.012 hour feeding window versus
+the four to six hour feeding
+3755.05 window versus the one meal per
+day type feeding window with
+3758.238 some different objectivity,
+3760.65 we can start to look at it
+through a different lens because
+3762.69 it turns out that when you
+place the feeding window and how
+3766.869 long that feeding window is
+actually will impact a number of
+3770.633 other things in particular hormones,
+3772.449 that can be very important for
+a number of things related to
+3776.61 sex and reproduction can be
+related to performance at work
+3780.48 performance in athleticism.
+3783.76 And there are excellent studies on this.
+3785.384 So let's explore those now.
+3787.17 So let's talk about some
+conditions where having the feeding
+3790.81 window early in the day would
+actually be very beneficial.
+3793.735 There was a study that was
+published recently in Cell
+3796.93 Reports, again, Cell Press Journal,
+3798.77 excellent journal peer
+reviewed, very stringent,
+3802.023 from Aoyama, et al,
+3803.859 so this is AOYAMA, et al.
+3808.08 This was published just recently
+in July, 2021 that looked
+3812.253 at the distribution of protein
+intake in different meals
+3818.229 delivered either early in
+the day or later in the day.
+3822.11 And I'm summarizing here quite a lot,
+3823.65 but I should mention that this
+study was performed in both
+3826.459 mice and humans, same paper,
+3828.85 mice and humans and involved
+hypertrophy training,
+3833.13 essentially increasing the
+weight bearing of given limbs to
+3838.08 try and induce hypertrophy,
+3839.162 which is the growth of muscle tissue.
+3842.701 It does appear that muscle
+tissue is better able to undergo
+3848.73 hypertrophy by virtue of the
+fact that there's better or
+3853.504 enhanced protein synthesis
+early in the day,
+3856.5 because of the expression of
+one of these particular clock
+3859.36 genes called BMAL, BMAL,
+3862.509 BMAL regulates a number of
+different protein synthesis
+3866.122 pathways within muscle cells,
+3868.226 such that eating protein early in the day,
+3872.33 supports muscle tissue
+maintenance and or growth.
+3875.663 And in this study,
+3877.49 they also looked at the effects
+of supplementing so-called
+3879.6 BCAs branch chain amino acids,
+3881.9 which is popular in bodybuilding
+circles and in strength
+3885.176 training circles and BCAs
+are essential components of a
+3890.38 number of different foods,
+but can also be supplemented.
+3893.091 The takeaway of this study
+is pretty straight forward.
+3896.13 However,
+3897.25 the takeaway is if your main
+interest is maintaining and,
+3900.25 or building muscle,
+3901.365 then it can be beneficial to
+ingest protein early in the
+3905.23 day, you would still want to obey this,
+3907.898 what we're calling a kind
+of foundational rule of no,
+3912.47 not eating any food for the
+first hour post waking or at
+3915.96 least the first hour post.
+3917.258 And the cutoff for when you
+would want to eat protein would
+3920.71 be sometime before 10:00 AM.
+3922.764 And there I'm averaging
+across a number of different
+3925.048 situations, but in general,
+3928.124 this BMAL expression is such
+that let's say you wake up at
+3931.433 7:00 AM.
+3932.5 Your main interest is in
+hypertrophy or maintenance of
+3936.11 muscle.
+3936.943 Then you would want to ingest
+some protein sometime before
+3939.21 10:00 AM.
+3940.043 But obviously if you're
+interested in getting the health
+3942.79 effects of intermittent fasting,
+3944.43 that you wouldn't ingest any
+food for at least the first 60
+3948.22 minutes upon waking.
+3949.36 Now it's not as if at 10:01
+AM a gate slam shut and you
+3954.22 can't generate hypertrophy,
+of course that's not the case.
+3957.381 However,
+3958.34 it's very interesting that
+it doesn't matter when the
+3960.62 resistance training,
+3961.68 the load bearing exercise
+occurs in the 24 hour cycle.
+3965.342 So whether or not in other words,
+3967.7 people are training early in
+the day or they're training
+3969.9 late in the day.
+3971.299 It still appears that ingesting
+protein early in the day
+3974.29 favors hypertrophy or that one is better,
+3978.157 or I should say more easily
+able to access hypertrophy by
+3982.19 way of these clock,
+3984.17 regulated protein synthesis
+mechanisms by ingesting protein
+3986.686 early in the day, in no way, shape or form
+3990.27 does this study say that
+ingesting protein later in the day
+3993.24 is somehow bad for you?
+3994.4 It just emphasizes the positive
+effects of ingesting protein
+3997.223 early in the day for sake
+of muscle maintenance and or
+4001.79 hypertrophy.
+4002.98 So if you're somebody who is
+mainly concerned with muscle
+4005.15 maintenance and hypertrophy,
+4006.407 then it may make sense to move
+that feeding window earlier
+4010.385 in the day.
+4011.485 And certainly there are people
+out there who are interested
+4014.53 in muscle maintenance and hypertrophy,
+4015.602 who aren't doing
+intermittent fasting at all,
+4017.747 and that's also perfectly fine,
+4019.27 but this just so happens to be
+an episode about intermittent
+4021.276 fasting and time restricted feeding.
+4023.857 There are of course,
+4025.53 modes of eating where one eats
+small meals spread throughout
+4028.037 the day or weights meals differently.
+4030.91 Such that meals early in the
+day are larger than later in
+4033.47 the day or vice versa.
+4034.303 There are a near infinite
+number of ways to organize this.
+4037.208 But if you are somebody who
+is interested in deriving,
+4040.525 the many clearly established
+health effects of
+4043.507 time-restricted feeding,
+4045.2 and you are somebody who would
+like to maintain or build
+4047.903 muscle,
+4050.184 then ingesting proteins in the
+early part of the day would
+4054.669 be important to you at least
+on the basis of these results.
+4058.88 And therefore that eight
+hour window that we've
+4062.18 established as more or less
+ideal shifted to the later part
+4066.07 of the day might not be
+as beneficial for you.
+4068.101 Now I can just personally say that for me.
+4070.945 When I wake up in the morning,
+4072.8 it's very easy for me to
+not eat until noon or one or
+4076.307 2:00 PM.
+4077.59 Eating early in the day is
+actually somewhat of a challenge.
+4080.158 I discuss this point with Satchin,
+4082.445 because we were talking about
+how is it that one can move
+4086.43 their feeding window or place
+themselves onto a different
+4089.4 schedule of intermittent fasting.
+4090.749 And it's very clear that one
+needs to provide a transition
+4094.303 period in order for that to happen,
+4096.74 you should allow yourself a
+transition period of anywhere
+4099.26 from one week to 10 days in
+which you shift your feeding
+4103.37 window by about an hour each day or so.
+4106.107 And then once you establish
+a feeding window that feels
+4109.81 comfortable for you and that
+you think you can maintain over
+4112.37 time,
+4113.21 that you simply maintain that
+feeding schedule for at least
+4116.349 30 days, but ideally you
+would do that indefinitely.
+4119.879 Now this turns out to be
+important based on data that
+4122.306 they've gleaned from
+this My Circadian Clock
+4126.33 massive experiment that
+they've been doing,
+4127.81 where people are entering the
+times that they're feeding
+4129.72 and, and eating.
+4131.292 Excuse me, anytime we talk about mice,
+4132.983 I always think about feeding
+4134.14 because I come from a background
+4135.82 in my lab, works on both
+laboratory mice and on humans.
+4138.072 And anytime I think about
+humans, I think about eating,
+4140.28 but of course they are the same thing.
+4142.977 The interesting thing to emerge
+from that very large data
+4146.25 set in humans is that when
+people log their feeding times,
+4150.394 as I mentioned before,
+4151.73 oftentimes they think they're
+eating in an eight hour
+4154.3 window,
+4155.133 but they are actually eating
+in a much broader window.
+4157.804 However,
+4158.826 even for people that are very
+good about restricting their
+4161.559 feeding to a four, six
+or eight hour window,
+4165.15 if they're very strict about
+the start and stop times,
+4167.047 and when they ingest calories,
+4169.062 one of the findings that's
+really been important to note is
+4172.247 that almost every individual
+has a lot of drift in when that
+4177.883 eating window resides
+in their 24 hour period.
+4181.22 In particular on the weekends,
+4182.674 people are either extending or
+shifting their feeding window
+4187.426 in a way that makes it seem
+that they've traveled to another
+4191.06 time zone and are eating
+according to another time zone.
+4194.017 And this is extremely important.
+4196.8 As I mentioned earlier,
+4198.617 based on the 2012 study
+from Satchin's lab,
+4202.385 where eating at a particular
+phase of each 24 hour cycle can
+4206.788 help enhance the expression
+of these clock genes.
+4211.048 If you are eating within a
+very strict or semi strict
+4216.44 feeding window,
+4217.273 but that feeding window is
+migrating around from day to day
+4219.763 or five days a week.
+4221.28 You're really organized
+about when that falls,
+4223.98 let's say for sake of
+example, from noon to 8:00 PM,
+4227.19 noon to 8:00 PM, Monday
+Noonday PM, Tuesday, Wednesday,
+4230.13 noon to 8:00 PM, Thursday and so forth.
+4232.52 But then on the Saturday,
+4234.05 it's becoming 11:00 AM and
+you're ending it early,
+4238.94 or perhaps your starting
+early in the day on Sunday,
+4242.634 you're having brunch that
+starts at nine 30 or 10,
+4245.71 and then it's extending
+out still just eight hours.
+4248.27 But it shifting around that
+can cause disruptions in the
+4251.745 circadian clock mechanisms
+that cause disruptions in the
+4255.234 downstream effects of eating
+that are taking at least two to
+4261.44 three days to recover from.
+4262.989 So obviously we don't want to
+be overly neurotic about this
+4266.54 stuff, but because this is an
+episode about the science of
+4268.511 intermittent fasting and
+time restricted feeding, as
+4270.87 important as how long
+your feeding window is,
+4275.855 is where that feeding window
+resides in each 24 hour cycle.
+4280.574 And perhaps even more important
+than that is that it be
+4283.9 fairly regular where that
+feeding window resides.
+4287.1 Because even if you have a
+very short feeding window,
+4289.1 if it's drifting around from day to day,
+4291.21 that actually offsets a
+number of the positive health
+4294.305 effects of intermittent fasting.
+4296.361 So to really just underscore
+the way that these different
+4298.842 pieces of the biological
+puzzle fit together,
+4301.943 if you are very strict or semi
+strict about your eight hour
+4306.04 feeding window,
+4306.873 but on the weekends that
+eight hour feeding window is
+4308.77 falling later than it normally
+would during the middle of
+4311.88 the week.
+4312.755 It is as if you are going to bed later,
+4315.82 even if you're going to
+bed at the same time,
+4317.231 at least from the perspective
+of metabolic health,
+4320.11 because of the way that eating
+impacts these clock genes and
+4323.05 impacts, or I should say subtracts,
+4325.567 the sleep-related fasting that
+you would normally experience
+4330.135 if you were to finish eating
+that a couple hours before
+4333.65 bedtime, so again,
+4334.847 we don't want to create any
+overly obsessive or neurotic
+4338.075 focus on this, I think that most,
+4340.75 all people could benefit from
+a time-restricted feeding
+4343.86 schedule,
+4344.693 but they should really think
+hard about what they can stick
+4346.5 to on a regular basis and
+understand that they tend to
+4349.143 underestimate the feeding window,
+4351.68 that they actually are partaking in,
+4353.829 and that they should place that
+feeding window in a portion
+4358.35 of the 24 hour cycle that
+they can be consistent on most
+4360.936 days, and I want to emphasize most again,
+4364.185 because we are not laboratory mice.
+4366.62 We don't have a graduate student
+coming in for eight hours a
+4368.84 day because that's what their
+significant other will allow
+4370.76 them to do.
+4371.593 And then removing the food
+from our jowls and from our
+4373.34 cages, we have access to food
+pretty much, 24 hours a day,
+4377.558 along those lines, however,
+4379.461 there are things that we can
+all do that will allow us to
+4383.562 offset some of the drift if you will,
+4387.789 that we experience or that we
+induce in terms of when our
+4390.446 feeding window occurs or that
+the feeding window might push
+4394.396 out a little later and then
+therefore start a little later,
+4397.57 the next day, there are things
+that we can do in there,
+4400.514 things that we can take.
+4401.725 And so I'd like to discuss those briefly.
+4402.63 So throughout this episode,
+4404.38 I've more or less been alluding
+to the fact that when you
+4407.631 eat, there's some period of
+time afterwards in which you're
+4410.854 actually still eating,
+4412.78 at least from the
+perspective of metabolism,
+4414.406 because glucose is up,
+4415.85 insulin is up and you're
+undergoing different metabolic and
+4420.17 digestive processes that don't
+really speak to you being in
+4424.26 a fasted state, right?
+4425.559 It's not just about when you
+take your last bite or your
+4428.79 last sip.
+4429.919 However,
+4431.034 there are things that we can
+do to accelerate the transition
+4434.075 from a fed state to a fasted state.
+4440.4 And so I'd like to discuss what those are.
+4442.22 And I want to emphasize that
+the term fed state is probably
+4445.862 a better way to think about
+it than eating or not eating
+4449.352 because we think of eating
+the verb, we're eating,
+4452.21 we're eating, okay, we're
+done eating I'm fasting now,
+4453.783 but you're not actually fasting
+you because you are fed.
+4457.692 So we should really think about
+fed and unfed states because
+4461.5 from a seller processes
+perspective and from a health
+4464.27 perspective,
+4465.103 that's actually what your body
+and your system are paying
+4467.185 attention to.
+4468.8 And by now with everything
+that we've laid out,
+4471.34 I think that should be
+intuitive to understand.
+4473.861 So there's a fun and exciting
+concept related to this,
+4476.91 which is glucose clearing.
+4478.649 You may have heard the old adage
+that if you take a 20 or 30
+4483.04 minute walk after dinner,
+4484.337 that it accelerates the rate
+at which you digest that food.
+4487.81 And indeed it does, clearing
+out of glucose from your system
+4491.73 can be accomplished through
+a number of different means,
+4494.86 but light movement or
+exercise does increase gastric
+4499.1 emptying time, so for instance,
+4500.841 if you were to eat a meal
+that ended at 8:00 PM,
+4505.74 and then plop to the couch, watch TV,
+4509.06 or get on your computer or go to sleep,
+4512.066 it would be five or six hours
+until you have transitioned
+4516.104 from a fed state to a fasted state.
+4519.038 However,
+4519.871 you can accelerate that
+considerably by taking a 20 or 30
+4524.05 minute just light walk, it
+doesn't have to be speed walking.
+4527.3 It certainly doesn't have to be jogging,
+4528.49 but just walking outside or moving around.
+4530.878 So glucose clearing is an
+important aspect of the transition
+4536.127 from the fed state to the fasted state.
+4538.377 And just a light walk can
+allow you to do that, now,
+4541.5 if you can't get outside,
+4542.67 some people will go
+through the gymnastics,
+4546.23 literally of doing things like
+air squats and pushups and
+4548.94 things like that, and indeed,
+4550.43 those will increase the expression
+of things like glut four
+4552.999 and things that mobilize glucose
+into muscles and things of
+4556.86 that sort, but, you know,
+under most conditions,
+4559.44 most people aren't doing
+push-ups after dinner,
+4561.26 or certainly who've had a big meal,
+4563.15 just taking a light
+walk can be beneficial.
+4565.356 In addition, you could consider
+doing intense exercise.
+4570.581 Now you wouldn't necessarily
+want to do that immediately
+4573.208 after eating.
+4574.19 So let's take a look at what
+high-intensity training of any
+4576.926 kind does to blood glucose,
+because in this case,
+4580.56 it turns out that when you
+do high intensity training
+4583.04 actually has opposite
+effects on blood glucose,
+4586.128 depending on whether or not
+you do it early or later in the
+4588.94 day.
+4589.89 So a fairly recent study looked
+at so-called hit training,
+4593.07 high intensity interval training,
+4594.408 which of course can take
+many different forms.
+4597.05 It can take the form of
+circuit training with weights.
+4599.62 It can take the form of, you know,
+4600.815 burpees and pushups and sprints
+and all sorts of different
+4604.0 things.
+4605.015 But high intensity interval
+training is typically training
+4607.04 that gets people's heart
+rates up, you know,
+4608.822 well above 70% of maximum and
+then brief periods of rest and
+4613.557 then repeating and how long
+the high intensity interval
+4616.44 training of course will also vary.
+4617.567 There's there are a very brief, you know,
+4620.67 six or 12 or 15 minute workouts.
+4623.01 Some people can carry on
+with high intensity interval
+4625.58 training for up to 45
+or maybe even 60 minutes
+4628.46 in extreme cases.
+4629.41 But when you look at the
+studies that have explored high
+4633.47 intensity interval training and
+its effect on blood glucose,
+4636.216 there are a couple of studies
+that leap out, for instance,
+4639.07 one that emphasized that blood
+glucose levels will actually
+4641.485 increase if high intensity
+interval training is performed
+4644.291 early in the day and will
+decrease if high intensity
+4647.294 interval training is
+performed later in the day.
+4650.623 Now the purpose for this
+exploration was not to explore
+4656.8 clearance of blood glucose for
+sake of intermittent fasting.
+4659.83 It was mainly focused on athletic
+performance and whether or
+4662.42 not that was better early in
+the day or later in the day,
+4664.4 et cetera.
+4665.61 But we can extract some
+information from these studies that
+4669.771 are beneficial for sake of
+understanding glucose clearing.
+4673.227 If you have ingested food
+throughout the afternoon and
+4678.13 evening and late in the day,
+4679.16 and you're thinking about going
+to sleep and you'd like to
+4681.84 enter sleep in a way that
+is less fed and more fasted,
+4685.144 then engaging in high-intensity
+interval training in the
+4688.73 afternoon will lower or
+evening I should say,
+4691.82 will lower blood glucose.
+4693.726 And in that way will help you
+accelerate your transition
+4696.67 into the fastest state provided
+you don't ingest something
+4699.31 after the high intensity
+interval training.
+4701.58 Now is the increase in blood
+glucose that occurs from high
+4704.942 intensity interval
+training early in the day,
+4707.63 is that detrimental, not necessarily.
+4709.59 So that oftentimes is
+associated with the shuttling of
+4712.135 nutrients to the muscles.
+4714.21 They've just done a lot of hard work.
+4716.0 So it's not that high intensity
+interval training should not
+4718.599 be done early in the day,
+in fact, for many people,
+4721.36 including myself training
+early in the day,
+4723.448 just for the way that my
+psychology and biology works is
+4726.26 always better for me than
+training later in the day.
+4729.08 And the other important
+thing to mention is that high
+4731.366 intensity interval training
+done late in the day can be
+4734.246 beneficial from the perspective
+of glucose clearing,
+4737.811 lowering blood glucose,
+4739.7 and helping transition from
+the fed to the fasted state in
+4742.683 preparation for sleep.
+4744.31 However,
+4745.4 if you're ingesting caffeine
+or anything to engage in that
+4748.464 high intensity interval training
+in a way that prevents you
+4751.5 from getting to sleep well,
+4752.512 then it's going to be detrimental overall.
+4754.496 So the reason I mentioned
+this is of course,
+4757.567 because it's nice to know that
+light walks after dinner or
+4761.05 any other meal for that matter
+or high intensity interval
+4763.347 training provided it's done
+in the second half of the day
+4765.83 can lower blood glucose and
+speed the transition from fed to
+4768.847 fasted states.
+4770.942 But I also mentioned it because
+what we are really trying to
+4774.253 achieve when we partake in
+intermittent fasting so-called
+4778.021 time-restricted feeding is what
+we're really trying to do is
+4781.544 access unfed states or fasted states.
+4785.471 It's not really about when
+you eat and what you do.
+4788.52 It's about extending the
+duration of the fasting period
+4791.787 as long as you can,
+4793.402 in a way that's still compatible
+with your eating, right,
+4796.615 not the other way around.
+4798.436 And this gets back to this
+key feature of our biology,
+4802.1 which is that what we eat
+when we eat, when we exercise,
+4806.0 when we view light,
+4806.92 it's about setting a context
+or a set of conditions in your
+4809.137 brain and body.
+4810.807 So it's not so much about the
+activities that you undergo.
+4813.614 It's about the activities you
+undergo and their relationship
+4817.64 to one another over
+time, and so in this way,
+4821.46 it really beautifully highlights
+the way that your biology
+4824.25 is interacting all the
+time light is setting.
+4826.41 When you're going to be awakened,
+4828.433 when you're going to be asleep,
+4829.639 when you eat is going to be
+determining when you're going to
+4831.443 be awakened, when you're
+going to be asleep.
+4833.04 And when you eat is also going
+to be determining when you
+4835.253 are able to clear out debris
+from your brain and body and
+4839.261 repair the various cells
+and mechanisms of your body,
+4842.76 when you're able to reduce
+those inflammatory cytokines
+4845.334 throughout your body.
+4846.97 And this is really the beauty
+of time research and feeding,
+4849.72 which is, it's not really
+about restricting your feeding.
+4852.041 It's about accessing the beauty
+of the fasted state, now,
+4856.19 there are other ways to clear
+out blood glucose that involve
+4860.108 supplements or prescription drugs.
+4862.35 These are so-called glucose
+disposal agents, glucose,
+4866.88 disposal agents, such as Metformin,
+4869.45 which is a prescription drug or berberine,
+4872.51 which is an over the counter
+substance will lead to very
+4875.585 dramatic reductions in blood glucose.
+4878.45 And so they shift you from
+a fed to a fasted state.
+4880.613 And I know many people who
+take berberine before eating
+4885.125 meals that include a large
+number of carbohydrates,
+4888.96 for instance, as a way
+to clear out glucose.
+4891.731 Now I've tried berberine before.
+4893.349 And what I can tell you is
+that if you take berberine,
+4896.212 which by the way is very
+much like Metformin,
+4898.53 its effects are almost
+identical to Metformin in fact,
+4900.601 but it's much less expensive
+and it's over the counter.
+4903.85 If you take berberine
+and you have not ingested
+4905.663 carbohydrates, many
+people, including myself,
+4909.115 experience a splitting headache,
+4912.19 you become hypoglycemic because
+it is a glucose clearing
+4915.184 agent.
+4916.27 So if you're going to experiment
+with things like Metformin
+4918.93 and or berberine or similar,
+4921.14 you want to be very cautious
+that you're not clearing out
+4923.967 blood glucose, that's already low.
+4925.787 And the dose response for this
+varies tremendously from one
+4929.836 individual to the next.
+4931.63 And there's a strong circadian component.
+4934.06 So if some people react very
+well to berberine early in the
+4936.572 day, but find that later in the day,
+4939.1 it provides extreme headaches
+for some people it's the
+4942.073 opposite.
+4943.71 So I caution you in exploring
+things like berberine and
+4946.739 Metformin that you should
+expect to experience a number of
+4950.27 physical and psychological
+effects that may work for you
+4953.534 might be great for you,
+4955.07 but might also not be
+great for you, nowadays,
+4957.373 there are a number of
+commercially available,
+4959.241 continuous glucose monitors, I've tried
+4962.11 one of these, it involves putting
+what's essentially a patch
+4965.76 with a little needle
+that goes into your skin,
+4967.07 which is continuing
+continually, excuse me,
+4969.31 monitoring your blood glucose.
+4970.567 And you can look at it
+at an app on your phone,
+4972.68 and you can learn a lot that
+way about how different foods
+4975.07 impact the increases in
+decrease in blood glucose.
+4978.145 If you're doing experiments
+with berberine or Metformin,
+4980.657 you can see how those
+impact your blood glucose.
+4983.566 You can see how exercise
+hit training or otherwise
+4986.645 impacts blood glucose, excuse me again,
+4989.759 it's very hard to assess blood
+glucose without a continuous
+4993.9 blood glucose monitor, and
+if you're not using one,
+4996.84 you're mainly going to be relying
+on subjective things like,
+4999.6 oh, I feel like I have low
+blood sugar, or I feel shaky.
+5002.37 Like I have high blood sugar
+or shaky cause you have low
+5005.11 blood sugar.
+5006.498 So I have to say that glucose
+clearing agents that involve a
+5009.976 walk or exercise moderate or
+intense are going to be a lot
+5015.54 easier to titrate and adjust
+the levels of then things that
+5019.36 you're going to take, where
+you have to adjust the dosage.
+5021.56 And then once you ingest a certain dosage,
+5023.219 you're along for the ride,
+5024.85 at least until the effects of
+that particular compound wear
+5026.918 off, it doesn't mean those
+things don't have utility.
+5029.49 It doesn't mean people aren't
+using them because many people
+5031.73 are, but they are potentially
+a very sharp blade
+5037.17 that is a double sided blade.
+5038.93 So I encourage you to
+approach those with caution.
+5041.07 If you decide to at all,
+5043.1 it's worth thinking about what
+the low blood glucose state
+5046.56 is and why it's beneficial as
+well as why it might produce
+5050.176 headaches.
+5051.14 And in some cases can also
+adjust the effects of other
+5053.76 hormones in the fasted state,
+5054.908 a number of different proteins
+that are expressed in cells
+5058.814 undergo changes in their expression.
+5061.86 We talked about this
+earlier, when we are fasted,
+5064.371 we tend to reduce the activity
+of a particular protein
+5067.793 called MTOR mammalian target of rapamycin.
+5071.09 MTOR is very active in cells
+while they are growing.
+5075.46 So throughout development,
+5076.594 it's also very active in
+cancers of various kinds.
+5080.855 MTOR needs to be what's
+called phosphorylated.
+5085.322 If you don't know what that
+means, don't worry about it.
+5086.155 But phosphorylation is a manner
+in which certain proteins
+5089.66 are altered so that they can
+actually be functional within
+5092.33 cells,
+5093.55 MTOR is associated with cell
+growth of all kinds healthy
+5095.88 and unhealthy.
+5097.731 When MTOR is phosphorylated,
+there's a marker called PS6
+5101.347 so phospho MTOR expressed as PM6.
+5104.581 If this is all escaping
+you, don't worry about it.
+5107.68 Phospho MTOR and PS6
+are reduced by fasting.
+5111.79 Now, this makes sense.
+5113.46 If you think about it,
+5114.293 because eating and growth are
+associated with each other,
+5116.845 fasting is not necessarily anti-growth,
+5121.597 but it is not pro
+growth, and when we fast,
+5124.362 we see increases in cells
+of things like AMPK,
+5127.42 the sirtuins, things like transcription
+5130.74 factors like FOX-O,
+5132.21 ATF and ketones or ketone bodies.
+5134.75 You may have heard of the ketogenic diet.
+5136.32 What's the point of all
+this biochemistry, it's not,
+5138.347 you just blitz you with a
+bunch of cellular biology and
+5141.188 biochemistry.
+5142.7 It's to say that we have cell
+growth pathways involving MTOR
+5145.29 and PSX,
+5147.61 and we have cell repair and
+cell shrinkage processes that
+5152.391 are associated with AMPK,
+the so-called sirtuins,
+5155.349 which Dr. Davidson Claire
+5157.88 from Harvard and others are famous for
+5159.42 discovering and understanding
+things like AMPK,
+5164.14 these two different divergent
+pathways of cell growth and
+5167.28 cell breakdown and repair
+and by breakdown, I mean,
+5171.13 actual clearance autophagy, and repair.
+5174.506 Those can be triggered by
+being in either the fed or the
+5177.93 fasted state.
+5179.01 So one way I'd like you to
+think about the fed state,
+5181.71 not just eating,
+5182.543 but having recently eaten
+or the fasted state,
+5184.937 meaning high blood glucose and,
+5187.756 or you've recently eat eaten,
+5190.239 or are currently eating
+or drinking calories,
+5192.667 is that when you eat or when
+you don't eat, when you're fed,
+5196.35 when you're fasted,
+5197.183 you are either promoting
+cellular growth of all kinds or
+5200.37 you're promoting cellular repair
+and clearance of all kinds.
+5204.48 And so, again,
+5205.313 this is about setting conditions
+in the brain and body.
+5208.34 It's not so much about
+when you eat food A or B,
+5212.095 it leads to increases in MTOR,
+anytime you eat any food,
+5216.339 doesn't matter if it's plant-based,
+5218.25 animal-based fat, protein,
+carbohydrate, doesn't matter.
+5221.89 You are biasing your system
+towards a biochemical state of
+5224.567 cell growth.
+5225.87 And any time you haven't eaten
+for a while or blood glucose
+5229.27 is low,
+5230.11 you're biasing your system
+toward a state of cellar repair.
+5233.94 And this is why people who
+do not suffer from any blood
+5237.853 glucose regulation issues
+take things like berberine as
+5241.391 glucose, disposal agents,
+or take Metformin.
+5243.96 I'm not necessarily
+suggesting that you do that,
+5246.069 but it's because those
+things mimic fasting.
+5249.21 They create situations in the
+body that promote things like
+5251.951 AMPKs, and sirtuins,
+5253.67 and others to push your
+body and your system
+5256.21 down a route of repair,
+5257.299 even though you might have
+just eaten a meal an hour ago,
+5260.075 along the lines of the health
+benefits of intermittent
+5263.46 fasting, there are nice data
+showing improvements in the gut
+5266.962 microbiome and in particular,
+5270.316 in the treatment of irritable
+bowel syndrome and other forms
+5273.86 of colitis in time, restricted feeding,
+5277.67 meaning time-restricted feeding
+seems to be able to assist
+5280.501 people with those conditions,
+5282.227 following the general parameters
+that I discussed before
+5285.45 eight hours and so forth.
+5287.04 Why and how, well, by way
+of intermittent fasting,
+5291.72 impacting the expression of
+these various clock genes,
+5293.775 and because the clock genes
+impact the mucosal lining the
+5296.75 mucus lining of the gut,
+5298.749 it appears that intermittent
+fasting can reduce the amount
+5303.684 of so-called lactobacillus
+that's present in the gut.
+5307.582 And lactose bacillus is when
+in high levels is correlated
+5311.464 with a number of different
+metabolic disorders.
+5314.33 At the same time,
+5315.18 time-restricted feeding seems
+to enhance the proliferation
+5318.089 of some of the gut microbiota,
+5320.604 like acetobacter and some of
+the other ones that promote
+5324.63 healthy mucosal lining,
+5326.59 and that promote better
+overall intestinal function.
+5330.53 So these are pathways that
+have now been established,
+5333.42 and it appears that
+intermittent fasting isn't just
+5335.416 modulating these processes,
+5337.39 but is actually having a direct
+effect on the mucosal lining
+5339.582 in a way that favors a
+healthier gut microbiome.
+5342.381 So it should come as no
+surprise that many people who
+5345.31 experience gut issues benefit
+from restricting their feeding
+5348.13 window to eight hours or so
+per every 24 hour period.
+5351.74 The other very exciting finding
+about intermittent fasting
+5353.813 is one of the major health issues
+5356.263 these days is the proliferation
+of so-called non-alcoholic
+5361.67 fatty liver disease,
+5362.823 30 years or so non-alcoholic
+fatty liver disease was
+5366.5 exceedingly rare to see in the
+clinic, except in alcoholics,
+5369.372 fatty deposits in the liver are bad.
+5372.64 It is essentially liver disease.
+5374.542 Nowadays children and
+adults are showing up with
+5377.641 non-alcoholic fatty liver disease.
+5380.2 Some of these people are
+obese, others are not,
+5382.291 but it's a serious health concern.
+5384.75 And it's growing in numbers all the time.
+5387.316 A recent study that was
+published in Cell Reports
+5391.02 Medicine just a couple of weeks
+ago, tested the hypothesis,
+5394.89 whether or not the gut
+microbiome or so-called brown fat
+5398.365 tissue is impacting the liver health.
+5401.81 And in particular nonalcoholic
+fatty liver disease.
+5405.519 The short takeaway from this
+study is that contrary to what
+5408.84 was previously thought,
+the gut microbiome,
+5411.111 while very important for a
+number of other processes in the
+5414.65 body doesn't seem to be related
+to this non-alcoholic fatty
+5418.23 liver disease.
+5419.063 This is surprising to people
+or should be to those of you
+5421.48 that have been following the
+gut microbiome literature,
+5423.7 however, brown fat,
+5425.469 which is a healthy fat that we
+have between our two scapulae
+5429.687 and in our upper neck,
+5430.78 it doesn't tend to be
+blubbery type fat pads,
+5432.89 but it sits deep to the skin,
+5434.61 but creates a thermogenic effect
+in the body that is helpful
+5438.71 for reducing the amount of other fat,
+5441.51 the type of fat that we're
+more typically used to thinking
+5443.95 about and talking about
+white fat and pink fat that's
+5446.16 subcutaneous fat around
+the abdomen and so forth.
+5448.843 Brown fat seems to have a
+direct correlation with the lack
+5453.89 of non-alcoholic fatty liver disease.
+5455.61 What this study showed was
+that in people that have
+5458.496 diminished concentrations of brown fat,
+5461.951 there is a higher probability
+of having non-alcoholic fatty
+5466.847 liver disease.
+5467.85 Now the good news is brown
+fat stores can be increased.
+5470.71 And again, this isn't going to
+create blubber of brown fat.
+5473.29 This is going to create increased
+thermogenesis and actually
+5475.51 make people leaner and brown
+fat has a number of other
+5478.186 important positive effects.
+5479.464 Now,
+5480.72 this is interesting because
+cold exposure of anywhere from
+5483.236 one to three minutes, two
+or four times per week,
+5486.77 or maybe even 10 minutes,
+5487.71 two to four times per week
+can increase brown fat stores.
+5490.192 Also time-restricted feeding
+has now been tied to the
+5494.599 density of brown fat store.
+5497.61 So time-restricted feeding also
+seems to positively increase
+5500.09 brown fat stores,
+5502.14 probably because of the way
+that brown fat stores relate to
+5504.286 epinephrin and adrenaline,
+5505.85 which tend to go up when we're fasted.
+5507.752 What does this all mean?
+5509.18 This means for sake of
+liver health and for sake of
+5511.422 reducing, or maybe preventing,
+or even potentially,
+5515.434 I want to underline potentially
+reversing non-alcoholic
+5518.5 fatty liver disease,
+5519.333 time-restricted feeding also
+appears to be beneficial.
+5523.059 Many people out there are
+interested in optimizing their
+5526.48 hormones, and as we mentioned earlier,
+5528.84 insulin is a hormone and
+time-restricted feeding seems to
+5531.064 have very positive effects on
+overall insulin profiles and
+5534.395 so forth, but anytime
+you mentioned hormones,
+5538.005 people immediately seem to leap
+to the sex steroid hormones,
+5541.43 testosterone, and estrogen,
+5542.74 because indeed they have powerful effects,
+5544.93 both in the short-term and
+the long-term in terms of our
+5548.28 mental and physical
+health and performance.
+5550.781 There's at least one study
+that's explored the effects of
+5553.79 time, restricted eating on performance,
+5555.8 athletic performance, immune
+function, and body composition.
+5559.853 This was a study by Mauro, et al,
+5563.09 that was performed on elite cyclists.
+5565.11 So I want to point that out.
+5566.69 I was a randomized control trial,
+5568.565 but what's really nice about
+this study is that it explored
+5573.76 a number of different hormonal
+parameters in people that
+5578.23 were using time restricted eating,
+5579.69 or that had a more extended eating window.
+5581.471 And they tracked
+everything very carefully.
+5583.891 And the amount of food they
+were eating was actually pretty
+5587.235 considerable, 4,800 calories,
+so that's a lot of calories,
+5591.87 but then again,
+5592.703 they were very active and
+they've measured a number of
+5596.04 different things related
+to VO2 max, et cetera,
+5599.559 performance and overall performance
+at what they did cycling
+5603.794 is not the point that I
+want to emphasize here.
+5606.91 Although there were some
+positive effects on their
+5609.22 performance related to
+time-restricted eating, the point
+5613.42 I want to talk about relates
+to things that presumably
+5616.253 relate to most, everybody,
+5618.37 which are the effects on
+things like glucose, thyroid,
+5622.41 hormone, testosterone, sex,
+hormone, binding globulin,
+5625.91 which can bind up testosterone
+and prevent the so-called
+5628.725 free form of testosterone,
+5631.0 which is the one that has most
+of the actions in the brain
+5633.567 and body.
+5634.631 And the major takeaway
+from this study was that
+5637.849 time-restricted feeding of
+the same amount of calories as
+5641.72 the so-called control
+condition, okay, same calories,
+5645.53 but either compact throughout
+the 24 hour cycle to an eight
+5648.304 hour feeding window or allowing
+them to eat over a larger
+5652.243 feeding window did lead to
+significant decreases in free
+5655.935 testosterone.
+5657.499 And I think a number of people
+will raise their eyebrows to
+5660.67 that and think, oh,
+5661.77 well then maybe time-restricted
+feeding is not for me.
+5664.14 There are a number of important
+considerations, of course,
+5666.16 one is while they decrease
+in free testosterone was
+5669.846 significant.
+5671.122 It's also going to depend
+on where people start out.
+5674.0 So if somebody has already
+lower modest levels of
+5676.18 testosterone and it drops by 10 or 20%,
+5679.92 that could lead them into a
+state of poor performance and
+5683.23 wellbeing, whereas if somebody
+has higher testosterone,
+5685.409 a decrease will necessarily do that.
+5687.93 So it's important to take
+that into consideration.
+5690.12 This is why I'm always such
+a fan of people doing their
+5693.08 blood work and knowing what's
+going on under the hood for
+5695.44 them, a very change in
+hormonal profile was cortisol.
+5699.769 So-called stress, hormone cortisol,
+5702.7 of course is also naturally
+released early in the day in a
+5705.37 healthy way to wake you
+up and promote alertness,
+5707.62 but you don't want its levels
+to be too high or to have
+5710.839 peaks in cortisol late in the day,
+5713.63 that's actually correlated
+with depression and a number of
+5715.65 other untoured things.
+5719.181 I would have thought that by
+restricting a feeding window to
+5721.931 a particular time each day,
+5723.691 that these hard training
+cyclists would have undergone
+5727.0 increases in serum cortisol and in fact,
+5730.06 the opposite was true.
+5731.408 They had significant reductions
+in serum cortisol as a
+5735.061 consequence of time, restricted feeding.
+5737.313 I should mention there were
+significant reductions in serum
+5739.757 cortisol also in the control group,
+5742.72 but not to the same extent.
+5744.061 And the two groups did
+differ significantly from one
+5747.03 another.
+5748.09 Now this is important because
+if you just look at one
+5750.733 hormone testosterone, you'd
+say, okay, based on these data,
+5753.903 time-restricted feeding is
+reducing testosterone levels
+5757.179 significantly,
+5758.185 even though the number of
+calories is quite high and is held
+5761.0 constant across the study, but in fact,
+5763.28 because cortisol is lower,
+5765.388 it may mean that the effects
+of testosterone or the
+5768.37 reduction in testosterone is offset.
+5770.3 And that's because cortisol
+and testosterone are always in
+5773.09 this somewhat of a dance
+in terms of cortisol,
+5776.089 inhibiting the effects of
+testosterone largely and vice
+5778.465 versa.
+5780.19 So it is interesting and
+important to look at the total
+5782.853 gallery of hormones.
+5784.45 And they did look at a number of hormones.
+5785.88 They looked at other inflammatory markers.
+5788.071 Those were not increased.
+5789.409 That's not surprising if you
+remember back to the 2012
+5791.708 Satchin Panda study this
+early pioneering study on time
+5795.379 restricted feeding.
+5797.02 They saw reductions in stress
+hormones and in inflammatory
+5799.959 markers in time, restricted feeding mice.
+5802.655 And here, this also seems
+to be the case in humans.
+5805.373 So the takeaway is for sake
+of hormone health, time
+5810.214 restricted feeding is
+compatible with quality hormone
+5815.33 health, even in high-performing athletes,
+5817.256 based on everything we know,
+and that we've discussed,
+5819.93 I would not suggest that
+people restrict their feeding
+5822.24 window to less than eight hours,
+5823.77 especially if they're training
+hard on a regular basis.
+5825.803 And it's not just athletes
+5828.7 that should pay attention to this,
+5829.993 when we are working very hard,
+when we are psychologically
+5833.48 stressed, when we are studying for exams,
+5837.01 or we are in conflict with
+somebody on a regular basis,
+5840.207 that creates a stress in the body
+5842.92 that's very similar to
+that of physical training,
+5845.47 the body and brain don't
+distinguish between physical stress
+5847.89 and mental stress, it's
+all nervous system.
+5849.75 Remember that it's just
+cortisol and adrenaline.
+5852.06 There's no special hormone
+just for physical stress versus
+5855.292 psychological stress, so again,
+5858.001 in thinking about what sort of
+feeding window will be right
+5860.45 for you,
+5861.283 we arrive back at this eight
+hour time been that seems more
+5864.215 or less flexible for most conditions,
+5867.045 even high-performing elite athletes.
+5869.73 And I would say just by logical extension,
+5872.263 even for people that have a
+lot of stress in their life.
+5875.12 And I personally wouldn't suggest
+that people who have a lot
+5878.231 of stress in their life where
+the potential for stress in
+5880.53 their life shorten their
+feeding window much shorter than
+5884.89 eight hours,
+5885.723 because then you would expect
+that you would start to
+5888.24 increase some of the inflammatory markers.
+5890.43 You would increase the stress hormones,
+5891.797 and you would be decreasing
+things like testosterone and
+5895.98 estrogen, some of the
+sex steroid hormones.
+5897.75 So again, it's all about context
+and the eight hour window,
+5899.791 it isn't holy,
+5901.33 but seems to be a really useful
+guide to extract the great
+5904.637 health benefits of
+which there are many in,
+5908.45 of which we've discussed from
+intermittent fasting time,
+5911.419 restricted feeding.
+5913.218 And yet that it could still be
+compatible with decent social
+5916.329 schedules and for maintaining
+hormone health in keeping with
+5919.373 this,
+5920.375 for women that are trying to
+maintain ovulatory cycles or
+5923.884 for couples that are
+trying to get pregnant.
+5925.906 I think it's also important
+to not create a feeding window
+5929.898 that's too short.
+5931.576 The relationship between
+feeding and body fat stores and
+5936.191 glucose and leptin and hormones
+is a well-established one.
+5940.71 And we can summarize it very easily here,
+5942.33 although I've done several
+episodes related to this
+5944.24 previously on optimizing hormone health.
+5946.59 But basically we undergo
+puberty when there's enough food
+5951.084 and there's enough body fat
+that the body fat sends a signal
+5954.97 to the brain called leptin.
+5956.35 That's a hormone that comes
+from body fat signals to the
+5958.47 brain to turn on puberty that's puberty,
+5960.535 but even as adults for
+women that are menstruating,
+5964.689 there needs to be sufficient
+leptin signaling to the brain
+5967.99 in order to maintain ovulation
+because of the way that the
+5970.09 brain communicates with the
+pituitary and the ovaries.
+5972.84 Similarly for men fasting
+or extreme exercise plus
+5979.086 fasting,
+5980.07 we now know reduces testosterone
+it's impacts are not
+5983.977 exactly clear, however,
+if you reduce food intake,
+5987.725 either in total calories
+or in duration too much,
+5992.12 you will suffer a drop in sperm
+counts, fertility will drop.
+5995.76 And this makes sense.
+5996.593 The body is communicating to the brain,
+5998.18 whether or not conditions
+are sufficient in the body to
+6001.163 reproduce and to presumably,
+6004.39 and hopefully support the
+health and wellbeing of those
+6007.39 offspring.
+6008.223 So there's a logical link
+between body fat and eating and
+6010.35 how much food is available
+to you and how long it's
+6013.784 available to you and the signals
+in the brain that allow for
+6016.711 reproductive success.
+6018.49 There are some data that pointed
+differences in the effects
+6021.086 of intermittent fasting
+for males versus females.
+6025.03 Those data right now only come from mice,
+6027.441 that study was published
+by Satchin Panda recently,
+6030.47 we still await the studies in humans.
+6032.757 Some people do not do well on
+intermittent fasting either in
+6036.79 terms of mood or hormone health.
+6038.87 And so everyone needs to determine
+for themselves whether or
+6040.96 not having a time restricted
+feeding window is good for
+6044.05 them.
+6044.883 How long that time-restricted
+feeding window should be.
+6047.11 I think eight hours is kind
+of a nice minimum to adhere to
+6050.31 based on everything that
+we've covered today.
+6052.27 And for some people time-restricted
+feeding is not going to
+6055.851 be compatible with
+hormone health, for them,
+6058.18 for them eating more meals
+spread throughout the day,
+6061.014 presumably smaller meals,
+6062.615 same caloric intake is going
+to be more beneficial for their
+6066.3 hormones.
+6067.133 This is something that is
+going to be individual and is
+6068.86 going to have to be determined
+on an individual basis.
+6071.97 However, if you're going to
+try time restricted feeding,
+6074.338 I do want to remind you that
+taking a period of three to
+6077.05 seven or ideally 10 days
+to transition into it,
+6080.09 not just going,
+6081.08 flipping from eating to three
+meals a day that span from
+6083.515 6:00 AM to 10:00 PM and
+suddenly going to an eight hour
+6086.42 feeding window,
+6087.253 but rather winnowing down that
+feeding window about an hour
+6090.457 or so per day is going to allow
+the hormone systems of your
+6093.683 body, including leptin the
+hypocretin orexin system,
+6097.46 which are systems within the
+body, that signal to the brain,
+6099.57 that food is about to come
+allowing those systems to adjust
+6103.27 so that you're not
+overwhelmingly hungry, irritable,
+6105.766 and you're not throwing your
+whole hormone system out of
+6108.259 whack.
+6109.295 I keep coming back to this
+eight hour feeding window,
+6111.91 and I want to provide a
+little more basis for it.
+6114.24 And just to encourage that
+it's not completely arbitrary.
+6118.243 The lengthy review that
+I mentioned earlier,
+6120.835 features a number of studies
+that have used this eight hour
+6123.46 feeding window,
+6124.422 but there's a particular study
+that I'd like to highlight
+6128.28 mainly because I don't expect
+people to delve into the full
+6130.072 reference list of the other review.
+6132.056 And this is a study that was carried out
+6134.331 between Satchi Panda's lab
+6135.991 and Krista Varady's labs.
+6138.44 This is a collaboration.
+6139.76 The study was carried out in
+humans and is entitled effects
+6142.75 of eight hour time restricted
+feeding on body weight and
+6145.59 metabolic disease, risk factors
+in obese adults, excuse me.
+6149.653 And this study essentially showed,
+6152.7 I'll just read the conclusions
+that an eight hour time
+6156.56 restricted feeding produces a
+mild caloric restriction and
+6159.862 weight loss without calorie
+counting, so that's key, right?
+6165.07 These people aren't calorie
+counting somehow just by
+6167.14 adhering to an eight hour window.
+6169.013 They are taking in fewer
+calories than they're burning off
+6173.862 and clinically it reduced blood pressure.
+6177.9 So I mentioned the study,
+6178.88 not because there aren't many
+others involving the eight
+6181.07 hour feeding window also in humans,
+6182.435 but because the eight hour
+feeding window has been tested in
+6185.636 obese adults and non obese adults.
+6187.86 And there are even a
+few studies in children.
+6189.901 So this eight hour window seems
+to be a really good rule of
+6193.33 thumb and a kind of anchor
+around which we can each think
+6196.562 about incorporating
+time restricted feeding.
+6199.94 There are of course,
+other patterns of feeding.
+6202.21 And while some people have
+engaged in longer fasts of 24
+6206.961 hours, 36 hours or more
+alternate day fasting,
+6213.16 meaning eating one day,
+6215.24 not eating the next day or in
+some cases eating one day and
+6218.02 eating very few calories,
+500 or 600 calories
+6220.69 the next day has been tested.
+6223.45 A few studies have also
+looked at eating a sort of
+6225.474 maintenance level of
+calories for five days,
+6228.45 and then taking two days
+and fast clear through,
+6231.561 or eating very few calories,
+you know, 300 or 500 calories.
+6235.91 In fact,
+6236.743 there's a sort of a community
+online of people that are
+6240.09 exploring longer,
+6240.923 fast for sake of trying to
+offset dementia or reverse
+6243.199 effects of dementia, thus
+far, at least in my awareness,
+6248.314 there isn't any quality clinical
+peer reviewed study on that
+6252.67 yet for sake of dementia,
+although I await those studies,
+6255.827 and if anyone's aware of them,
+6257.57 please send me a link in the comments.
+6259.11 But alternate day fasting has
+gotten the so-called safe bill
+6264.03 of health.
+6264.863 This has been written up meaning
+that people didn't suffer
+6266.541 bone loss, they didn't suffer
+any major detrimental effects.
+6270.393 It does seem that it can create
+significant weight loss and
+6275.382 can help with obese individuals
+that it can reduce resting
+6279.228 blood glucose,
+6280.228 and every other day fasting
+in many cases can produce more
+6283.331 rapid effects on weight loss
+and reductions in blood glucose
+6287.455 than time restricted feeding, however,
+6289.85 every other day type fasting
+for most people is not going to
+6294.344 be feasible.
+6296.14 They're just not going to be
+able to do that for a long
+6297.96 period of time.
+6298.793 And what hasn't really been
+done is the follow-up to see
+6300.482 whether or not people who do
+every other day fasting or five
+6303.225 days of eating followed
+by two days of fasting,
+6306.15 whether or not that leads
+to a rebound in weight gain,
+6308.79 whether or not that leads to
+a rebound in blood glucose,
+6310.94 et cetera.
+6311.773 So for now the eight hour feeding
+window and time restricted
+6314.8 feeding seems to be the most tested,
+6318.715 supported in animal studies and
+in human studies and the one
+6322.594 around which I think
+most people should orient
+6325.67 if they're considering getting
+into time-restricted feeding,
+6328.27 it's also sort of hard to
+imagine how one could include a
+6331.534 significant exercise schedule
+or work schedule on every
+6336.25 other day fasting.
+6337.12 Remember, in any study, people
+are often being compensated,
+6339.98 or at least are incentivized
+in some way to adhere to the
+6343.346 study.
+6344.348 This is one of the major issues
+that I have with any study
+6346.91 that says that three or four
+different diets are essentially
+6349.617 equal in terms of their
+ability to produce weight loss.
+6353.35 Adherence is very different
+in the outside world where you
+6357.025 don't have a researcher
+monitoring you where you're not
+6359.4 logging all your food.
+6360.583 Most people don't do that consistently.
+6362.514 And we can take a little bit
+of a neuroscience perspective
+6365.038 on this to try and arrive
+at what the best kind of
+6367.727 organization of an eating plan,
+6370.16 or if we wanted to call it a diet,
+6371.64 we could would be for you.
+6374.065 Many people find it easier
+to just not eat for certain
+6377.163 periods of each 24 hour cycle
+than to eat smaller portions,
+6381.65 portion control is very
+hard for some people,
+6384.327 for other people it's
+manageable, but people like me.
+6388.57 I don't eat half the croissant.
+6390.68 I don't think it's a real thing, it's not,
+6393.109 it's not available to me, I should say.
+6395.34 Now, of course I could
+eat just half a croissant,
+6397.596 but I noticed that when
+I eat the croissant,
+6399.77 because they're so delicious
+that it creates a rise in blood
+6402.81 glucose a rise in the other
+hormones and chemicals that are
+6406.76 associated with ingesting
+delicious, highly palatable food.
+6409.763 And it's actually a lot of work
+for me to just eat half the
+6412.611 croissant.
+6414.008 There's something that's much
+more thoroughly satisfying
+6418.585 about eating the entire croissant.
+6420.69 And actually there's something
+that somewhat satisfying
+6423.39 about not eating the croissant at all.
+6425.14 And just knowing that later I
+can eat the whole croissant.
+6427.43 Now that's me.
+6428.4 Other people find that they
+don't have any trouble with
+6431.38 portion control that for them
+just eating small bits of food
+6434.85 throughout the day is what
+sets them in the right
+6436.79 psychological and physical
+state for sake of work,
+6439.44 et cetera.
+6440.273 And I mentioned work and
+mental focus because one of the
+6442.193 aspects of fasting that have
+drawn a lot of people to time
+6445.598 restricted feeding and fasting
+is the clarity of mind that
+6449.519 people get.
+6450.945 When first of all,
+6452.9 they don't have to think about
+when they're going to eat
+6454.78 because they know when
+their eating window begins.
+6457.008 They also don't have to
+think about regulating their
+6459.036 behavior because they already
+know when they're going to eat
+6462.743 and when they're not going to eat.
+6464.24 Whereas when you're restricting portions,
+6465.655 you actually have to make
+decisions all the while.
+6468.147 You know, and I think I like
+many people decide, well,
+6471.515 you know, is that exactly half?
+6473.41 Or could I have like another
+wrong on the croissant?
+6475.63 This kind of thing. I
+don't negotiate with food.
+6477.73 That's why I like a time
+restricted feeding window.
+6479.841 I know I'm going to eat for, in my case,
+6481.95 I use a 10 hour feeding window or so,
+6483.588 and I'll eat the whole croissant.
+6485.82 I just don't have to think about it, now,
+6488.176 the food choices that you make
+inside of that feeding window
+6491.34 are of course also going
+to be very important.
+6492.963 Certain foods will increase blood glucose,
+6495.12 such that you're going to
+get hungrier and hungrier.
+6496.91 Others will maintain lower
+blood glucose and will allow you
+6500.37 to be more controlled in
+the foods that you pursue.
+6503.427 Those are all individual
+considerations that are deserving
+6506.094 of their own entire episode.
+6507.696 But I do want to point out
+that the advantage of time
+6510.449 restricted feeding is that
+it involves a lot of the
+6514.26 decision-making in the brain.
+6515.74 The so-called go no-go
+circuitries of our basal ganglia,
+6519.38 if you want to know this
+areas that control them.
+6521.41 Anytime we have to restrict a behavior,
+6523.68 that's called a no-go.
+6524.918 Anytime we engage in a
+behavior, that's a go,
+6527.395 no go behaviors require a
+lot of what's called top-down
+6530.8 control, and it's very
+metabolically demanding.
+6533.91 And so time restricted feeding
+allows you to depart from the
+6537.11 whole no-go go negotiation that
+you have to undergo when you
+6540.129 have to restrict portions.
+6543.61 And so I think this is a
+reason why many people have
+6545.178 gravitated towards time
+restricted feeding and why for
+6548.26 people that don't want to have
+to think about all that it's
+6551.43 just very straight forward.
+6553.01 One of the more hot button
+issues out there is whether or
+6555.85 not given equal amounts of
+caloric intake and equal amounts
+6561.232 of activity and equal amounts
+of nutrients, et cetera,
+6565.48 whether or not restricting
+food to a particular window
+6569.03 biases,
+6570.01 more weight loss toward fat
+loss versus loss of other
+6572.839 tissues, because of course,
+when we lose weight,
+6574.562 we can lose that from any number
+of different storage sites
+6578.34 within the body, muscle
+water, glycogen, or fat.
+6584.175 Now this is such a hot button
+issue that I almost don't want
+6587.76 to get into it, but I'm
+going to get into it anyway,
+6589.4 because there are data
+that are very interesting.
+6592.287 This is covered in the review
+that I mentioned earlier,
+6595.812 that describes how if people
+follow a time-restricted
+6600.259 feeding schedule for long periods of time.
+6603.81 So 60 days or longer,
+6605.202 there's some metabolic
+changes in the way that people
+6608.195 metabolize energy that do seem
+to shift the system toward
+6612.638 more fat loss relative to burning
+of other tissues when in a
+6617.012 state of caloric restriction.
+6619.15 And I want to say when in a
+state of caloric restriction,
+6621.68 because there's really no
+way to cheat the system,
+6623.97 there's no way that you can
+ingest far more calories than
+6626.37 you burn or excrete, when
+I say excrete, you know,
+6629.481 I certainly don't suggest
+this, but there, you know,
+6632.279 bulimics and other people that
+have eating disorders will
+6635.06 use laxatives at a way to
+eliminate food quickly from their
+6637.497 system
+6638.33 so it can't be converted into
+fat or other forms of energy.
+6641.74 That's a very, in that case,
+it's a pathological situation,
+6644.787 but in general calories
+in versus calories out,
+6647.743 as I mentioned earlier as this
+kind of foundational element,
+6650.72 but in states of caloric restriction,
+6652.675 meaning sub maintenance intake,
+6657.374 time-restricted feeding does
+seem to buy us more of the
+6660.052 energy burned to compensate
+for that deficit from fat and
+6664.999 the way it accomplishes
+it is very interesting.
+6668.022 It turns out that it drives
+more fat loss by way of
+6671.93 increasing a hepatic lipase.
+6674.21 This is something called LAPC
+hepatic means of the liver and
+6677.73 lipase, which anytime you hear
+ASC is means it's an enzyme.
+6682.35 So it seems to increase hepatic lipase.
+6684.2 So it increases the enzyme
+that metabolizes fat for
+6687.605 lipolysis and energy production
+and reduces something called
+6691.459 CIDEC, CIDEC.
+6694.44 which is a lipid droplet
+associated and lipolysis inhibitor.
+6698.66 Now that's a mouthful, no pun intended,
+6701.29 but what CIDEC really is
+this lipid droplet associated
+6705.651 molecule is it can inhibit lipolysis.
+6709.682 So extended periods of
+time, restricted feeding,
+6713.509 meaning eight hour feeding
+window or 10 hour feeding window
+6717.453 that's obeyed for several months
+or more seems to allow the
+6721.871 system to shift toward burning
+more fat or rather using a
+6728.663 higher percentage of fat
+when in a caloric deficit.
+6732.718 Now I doubt that this is going
+to resolve the truly barbed
+6737.14 wire, almost hairball,
+6738.181 ridiculous online debates
+about whether or not
+6740.88 time-restricted feeding is
+better than another feeding
+6742.94 schedule, look,
+6743.773 I don't think any particular
+feeding schedule is holy.
+6746.18 If you are sub caloric,
+6747.33 meaning fewer calories burned
+than calories ingested,
+6750.18 you're going to lose weight.
+6751.056 But the data seemed to point
+to the fact that if you do time
+6753.81 restricted feeding for a
+fairly long duration of time,
+6757.68 and you maintain that,
+6759.04 that you are increasing
+these lipases that increase
+6761.458 lipolysis energy use from fat,
+6765.301 and you're decreasing the lipid
+droplet associated lipolysis
+6769.063 inhibitors.
+6770.36 So it's both a you're removing
+the break and you're pressing
+6773.74 on the accelerator of fat loss.
+6775.506 I think that this logically
+points to a case in which using
+6780.328 time restricted feeding with
+a sub caloric intake seems to
+6785.64 be at least to my mind,
+6787.26 the most scientifically
+supported way to ensure that a
+6790.048 significant portion of the
+weight that one loses is from
+6792.946 body fat stores.
+6795.55 Any discussion about fasting
+would be incomplete without a
+6798.688 discussion about what does
+and does not break a fast.
+6802.224 However,
+6803.84 there is no black and white
+answer to that question,
+6807.06 and you should immediately
+understand why it's because
+6810.855 eating and not eating are not
+equivalent to fed and fasted.
+6816.69 It depends on when you ate
+how much you ate and where you
+6822.38 are in your circadian cycle.
+6824.81 We can actually arrive at a
+simple answer to whether or not
+6827.36 something breaks the fast or not.
+6829.18 Now the technical way to go
+about this would be to wear a
+6831.102 continuous glucose monitor
+and to ingest little bits of
+6834.517 food, of different kinds
+or large amounts of food,
+6837.25 of different kinds and
+measure blood glucose,
+6839.85 because ultimately blood glucose
+is the readout of whether
+6842.736 or not your system is in
+a fed or fasted state.
+6844.797 There are other parameters too, of course,
+6847.0 but that's the dominant one
+6849.91 in so far as the scientific
+literature says drinking water
+6855.442 will not break your fast
+drinking tea will not break your
+6860.72 fast drinking coffee,
+6862.52 provided it as black coffee
+will not break your fast
+6866.94 ingesting caffeine in pill
+form will not break your fast.
+6870.85 There are other things
+that won't break your fast.
+6872.67 For instance,
+6873.669 eating one peanut when deep in
+a fasted state will not break
+6877.297 your fast, eating a whole
+handful of peanuts might not even
+6880.84 break your fast if you are
+in a very low glucose state.
+6884.75 However,
+6885.583 if you just finished a meal
+that included carbohydrates,
+6888.01 or it was a very large meal
+of any kind an hour ago, yes,
+6891.638 indeed, eating one peanut
+could break your fast.
+6895.84 So it's all contextual, that's
+6898.16 what's really important to understand,
+6899.379 unless you're going to wear
+a continuous glucose monitor.
+6902.02 And unless you are going to
+wear a continuous glucose
+6904.896 monitor and set an absolute
+numerical threshold for what it
+6909.39 is to break your fast.
+6910.659 I think there are some simple
+rules that we can follow.
+6914.034 First of all, anything that
+involves sugar in particular,
+6919.55 simple sugars can
+potentially break your fast.
+6921.86 And there's actually a study on this,
+6923.44 which shows that if
+people ingest even one,
+6927.027 one gram of sugar post dinner,
+6931.31 if they had a full meal for
+dinner that can actually disrupt
+6934.94 the expression of some of the
+circadian genes related to
+6938.201 fasting and to sleep and
+sleep related fasting.
+6941.94 Now that's pretty extreme,
+6943.0 almost kind of scary to think about,
+6945.12 but that's how sensitive our system is.
+6947.58 If we already have somewhat
+elevated blood glucose from a
+6950.702 meal that we ate an hour or so ago,
+6952.837 whereas if we have run
+for an hour or train hard,
+6958.14 high intensity training,
+6959.354 and we haven't quite reached
+the beginning of our so-called
+6962.77 feeding window, will eating
+a small amount of food
+6967.272 take us out of that fast?
+6969.4 Well, depends on what the food is.
+6971.92 If it's mostly fat,
+6973.19 probably not, a number of
+people out there nowadays
+6975.99 talk about so-called fat fasting,
+6977.75 fat fasting as a way to kind
+of regal past the stringency of
+6982.599 either eating or not eating
+as a black and white rule for
+6986.792 feeding window versus non feeding window.
+6989.64 So some people will ingest
+medium chain triglycerides
+6992.488 so-called MCTs,
+6994.48 or people will ingest fats only
+until their official feeding
+6997.159 window begins.
+6998.97 So these are sort of how the
+negotiations that people carry
+7001.082 out tend to go.
+7002.348 But that of course won't increase
+blood glucose and insulin
+7006.26 as much as carbohydrates will,
+7007.92 protein will have sort of
+an intermediate effect.
+7010.23 And as I mentioned earlier,
+7012.09 ingesting carbohydrates with
+some fat will tend to blunt the
+7015.105 rise in glucose and will
+extend the duration over which
+7019.04 glucose is released.
+7020.41 So we really can't say food X
+or beverage X breaks a fast,
+7026.971 however, at the extremes, we
+can say that, for instance,
+7030.105 if you drink a can of soda pop,
+7033.384 unless you just ran an ultra marathon,
+7035.624 you're breaking your fast,
+okay, eat a piece of pizza,
+7038.69 You're breaking your fast,
+you eat purely fats, maybe,
+7042.085 probably not.
+7043.67 If you've been fasting for
+five hours or more strictly
+7046.684 fasting for five hours or more.
+7049.15 So you can start to see where
+there's a lot of wiggle room
+7052.07 and it's very contextual.
+7053.55 And this is why any posts that
+you see or any information
+7056.532 that you see that something
+does or does not break your
+7059.02 fast,
+7060.233 that doesn't place it in the
+context of when the last time
+7061.583 you ate and what you ate and
+your activity and your time
+7066.576 within the circadian clock
+schedule of 24 hours,
+7070.51 it's a sort of meaningless
+discussion, so in general,
+7073.41 I think what's really useful
+if you're not going to wear a
+7075.63 continuous glucose monitor is
+to try and be fairly strict
+7079.192 about when you initiate your
+feeding window and when you
+7082.1 stop your feeding window
+and as time evolves and you
+7084.711 establish a more regular routine
+of eating certain kinds of
+7087.86 foods and not others that are
+right for you because as I've
+7089.845 emphasized before on this podcast,
+7091.71 and I will continue to emphasize
+keto works great for some
+7094.41 people, vegetarian keto
+works great for some people,
+7097.29 carnivore diet works
+great for other people.
+7099.349 Some people are omnivores,
+some people are carnivores,
+7102.304 some people are vegan.
+7103.854 All of that is great and fine by me.
+7106.012 Everyone has to establish
+what's right for them, today,
+7108.3 we've really bypass the
+discussion about foods of a
+7112.91 particular origin or type
+animal-based or plant-based.
+7116.29 But all the same rules apply
+within this thing that we're
+7119.278 called intermittent fasting
+or time restricted feeding.
+7122.79 So what breaks a fast will
+depend and what you want to eat
+7126.074 or what you are willing to eat.
+7128.25 That's a totally separate
+manner from when you eat.
+7130.576 But as we've established, when
+you eat is vitally important,
+7134.749 some of you are probably wondering
+whether or not artificial
+7137.74 sweeteners or non artificial
+plant-based sweeteners like
+7142.21 Stevia break a fast,
+this will vary somewhat.
+7146.39 And I have to say the data
+on this are somewhat mixed.
+7150.382 There is evidence that when
+people ingest artificial
+7154.295 sweeteners,
+7155.56 that it can create a transient
+increase in blood glucose
+7158.79 followed by a transient
+decrease in blood glucose below
+7162.56 baseline.
+7163.507 This is thought to explain the
+increase in hunger caused by
+7166.268 ingestion of things like
+aspartame and sucralose and things
+7169.43 of that sort.
+7170.39 There are not a lot of
+good studies exploring the
+7172.542 plant-based non sugar
+sweeteners, things like Stevia,
+7177.204 even things like monk fruit,
+7179.39 which is a separate category unto itself.
+7180.818 There aren't a lot of studies on this.
+7183.09 I think most people need to
+establish this for themselves.
+7184.776 The best way of course,
+7186.04 would be to wear a continuous
+glucose monitor to go into a
+7188.357 fasted state of either
+one hour or two hours,
+7191.31 or maybe you've been fasting
+all night and then ingest
+7193.109 Stevia in whatever form you
+want or coffee in whatever form
+7196.876 you want with sucralose
+or aspartame, et cetera,
+7199.68 setting aside the discussion
+about the effects of these
+7203.16 things on the gut microbiome,
+7204.162 which is a different topic entirely.
+7206.422 I think it's fair to
+say that in moderation,
+7209.179 the plant-based non sugar
+sweeteners like Stevia in
+7213.199 particular,
+7214.47 Stevia seemed to have a
+minimal impact on overall blood
+7218.24 glucose when considered over
+a fairly large time been
+7220.924 aspartame, and sucralose, saccharin.
+7223.314 I think we can say more or less the same,
+7226.11 but as soon as you get into
+a discussion about those,
+7227.96 you also have to get into a
+discussion about some of the
+7229.99 evidence published in nature
+and other excellent journals
+7234.22 now pointing to the fact
+that when consumed in excess,
+7237.96 not when consumed in moderation,
+7240.02 but when consumed in excess
+that those might have some
+7242.07 detrimental effects on the gut microbiome.
+7243.946 So do artificial sweeteners break a fast?
+7247.387 It depends on the amount
+depends on the type.
+7250.38 And in general,
+7251.213 I think you're probably okay
+provided that you're not
+7253.481 indulging in them too often, however,
+7256.72 some people just by virtue
+of tasting something sweet,
+7259.554 feel a spike in their appetite
+that makes it harder for them
+7263.1 to adhere to the feeding window.
+7264.75 And so this is why you can
+imagine that a really well
+7267.043 controlled study on this would
+be very hard to carry out.
+7270.31 And I'm not really sure that
+it's worth our tax dollars to
+7272.615 actually design and carry
+out a study like that because
+7275.329 there would be so much
+individual variation in terms of
+7278.73 discipline in adhering
+to the feeding window,
+7280.93 whether or not people experience
+increases and drops in
+7283.85 blood glucose, how that impacts them,
+7284.944 whether or not they're exercising.
+7286.37 It just becomes an infinite
+variable space, as we say,
+7289.239 in experimental science.
+7291.01 So you really have to
+determine that for you,
+7292.792 but I don't think that we can
+fairly say that artificial
+7296.45 sweeteners break a fast.
+7298.67 I think that would be
+incorrect to say earlier,
+7300.439 we were talking about
+glucose disposal agents,
+7303.157 both behavioral and compound
+based things like Metformin and
+7307.72 berberine, and in fact,
+7309.34 cinnamon is even a mild
+glucose disposal agent.
+7312.12 It can actually reduce blood
+glucose, lemon and lime juice,
+7316.05 believe it or not, can
+lower blood glucose.
+7318.055 You may have experienced this
+before of eating something
+7320.46 very,
+7321.293 very sweet and almost feeling
+kind of overwhelming on a
+7323.31 poisoned by how sweet it is,
+7324.83 especially if you're not
+accustomed to eating a lot of
+7327.49 sugary things.
+7329.08 One quick remedy for that is
+actually a half lime or half
+7332.128 lemon squeezed into juice and
+drinking that just by virtue
+7334.597 of the taste and by virtue of
+the fact that it will reduce
+7338.993 blood glucose.
+7340.587 You'll notice that that
+effect almost immediately
+7343.04 disappears, that's not magic.
+7344.625 That's the effects of acidity
+on blood glucose levels.
+7348.566 So there are a number of
+things that can adjust blood
+7351.65 glucose, they're not
+necessarily disposal agents,
+7354.11 they're not sweeping it out
+of the bloodstream in the same
+7356.45 way that berberine or Metformin would,
+7358.16 or that high intensity exercise
+at the appropriate times of
+7360.91 day would.
+7361.743 But there is one particular
+thing that one can ingest that
+7364.978 can help manage psychologically
+and performance wise through
+7370.75 the fasting portion of the
+intermittent fasting and get you
+7375.069 to your feeding window.
+7376.671 And that's salt.
+7378.576 I've talked a little bit about
+this on the podcast before,
+7381.5 but because neurons use salt,
+7384.76 sodium and potassium and magnesium,
+7387.19 the so-called electrolytes in
+order to perform their magic
+7390.54 of chemical and electrical signaling,
+7392.18 everything you do depends on chemical,
+7393.6 electrical signaling and all
+that chemical and electrical
+7396.06 signaling requires electrolytes
+in some form or another
+7399.86 neurons run on the passage of
+ions like sodium in and out of
+7405.364 their cell membranes are, I should say,
+7408.26 across their cell
+membranes to be accurate.
+7411.28 Many people find that the
+kind of lightheadedness,
+7414.07 the shakiness that's accustomed
+with having slightly low
+7418.17 blood sugar can be offset by
+taking a half teaspoon or so of
+7423.227 sea salt,
+7424.66 or even just a tiny pinch of
+salt and putting into some
+7427.01 water and drinking it.
+7429.801 Some people find because of
+the glucose lowering effects of
+7434.54 acidity, that if they're feeling
+kind of shaky and not well,
+7436.98 and they put some lemon juice
+into water and drink that it
+7439.86 drops their blood glucose further.
+7441.404 So there's a common practice
+nowadays that's discussed on
+7445.11 the internet of waking up
+drinking some water with some lime
+7447.97 or lemon juice in it with
+a little pinch of salt.
+7450.0 I think that little pinch
+of salt is a good idea.
+7451.751 What is it doing, how is
+it offsetting all this?
+7454.15 Well,
+7455.18 salt water actually has a mild
+effect as a glucose disposal
+7459.295 agent, but it has a stabilizing
+effect on blood volume.
+7463.47 And so,
+7464.4 because sodium brings with
+it water and the so-called
+7467.725 osmolarity of your blood in
+your body depends on the salt
+7471.69 levels in your blood and brain and body.
+7475.456 Many people find that
+they're feeling shaky.
+7478.08 They're feeling lightheaded.
+They can't concentrate.
+7479.83 They think they need sugar or food,
+7481.44 but what will actually
+remedy that is some salt.
+7484.56 And I know a number of people
+that have incorporated this
+7486.68 practice and have written to
+me and saying, oh, you know,
+7488.45 if I just take a little
+bit of salt in some water,
+7490.81 they may or may not include
+the lemon or lime juice.
+7492.53 They immediately feel better
+and find that it's actually
+7494.435 quite straightforward to get out to that,
+7496.999 to wait until the feeding window kicks in.
+7500.193 This is especially true for
+people that are using caffeine
+7503.219 because when you ingest caffeine,
+7505.23 you actually excrete a lot of water,
+7506.98 it has a diarrhetic effect.
+7508.31 And with that water goes salt.
+7510.21 So it actually causes
+you to excrete sodium.
+7511.886 Now the role of sodium in
+blood pressure and hypertension
+7515.983 is, you know, quite
+controversial science magazine,
+7519.311 one of the premier scientific
+journals out there had a
+7522.884 special issue all about
+salt some years ago,
+7526.09 talking about the research
+around hypertension,
+7528.097 indeed people with chronic
+hypertension or high blood
+7531.04 pressure or very high blood
+pressure in particular should be
+7533.59 wary of ingesting too much sodium.
+7535.52 But for most people ingesting
+sodium provided they drink
+7538.881 enough water and they don't
+have chronic hypertension or
+7542.53 high blood pressure is
+actually beneficial.
+7545.64 Now that doesn't mean you
+should be drinking seawater
+7547.27 doesn't mean you should
+be overindulging in salt,
+7549.605 but many people find that they
+can manage their mental and
+7553.84 physical state and even
+feel really terrific,
+7555.684 real clarity of mind,
+7558.05 and really enjoy their
+fast when they're ingesting
+7560.91 sufficient salt.
+7561.743 And all it requires really
+is a small pinch of salt,
+7563.68 ideally Himalayan or sea salt.
+7565.06 If you want to get fancy about it,
+7566.19 but table salt would be fine.
+7568.09 And just drinking that in some water,
+7570.298 maybe with lemon or lime juice
+to offset the taste a little
+7574.05 bit can really stabilize one's
+jitters and can stabilize the
+7577.392 mind, and you might also notice
+can offset that churning and
+7582.768 yearning and appetite where
+you can't imagine going another
+7586.789 five minutes before eating
+something suddenly you feel okay.
+7589.53 And that has to do with a lot
+of the effects of blood volume
+7591.881 caused by ingesting salt
+in the appropriate amounts.
+7595.4 In other words, sometimes
+you think you need food,
+7597.833 but what you really need to
+salt and salt can make you feel
+7600.56 better immediately.
+7601.607 I'd like to mention too
+excellent zero cost resources.
+7604.718 If you're going to explore
+time restricted feeding,
+7607.66 or maybe if you already are
+doing time restricted feeding,
+7610.85 I have no affiliation to either of these.
+7613.312 The first is the website
+that I mentioned before, My
+7615.69 Circadian Clock,
+7617.02 which is the website hosted by
+Satchin Panda and colleagues.
+7620.45 There are a lot of resources
+there where you can log your
+7622.493 food intake,
+7623.49 get information about
+time-restricted feeding all the
+7625.6 science, the ongoing studies, et cetera.
+7627.52 The other is the so-called Zero app.
+7630.015 That makes it very easy to
+mark when you're beginning your
+7636.393 feeding window and when you're
+ending your feeding window
+7639.48 and in,
+7640.313 so doing marking when you are
+beginning your fast and ending
+7642.18 or fast,
+7643.38 where at least initiating the
+beginning of the unfed state,
+7647.62 as we could more accurately
+call it, it's a terrific app.
+7650.259 I've used it from time to time.
+7652.01 I don't tend to use it in an
+ongoing basis because I'm just
+7654.027 sort of used to eating at a
+particular time of day now.
+7657.847 But anytime I've shifted
+that window, for instance,
+7660.702 a few weeks ago,
+7662.022 I started moving that protein
+intake in my entire feeding
+7665.51 window earlier in the day.
+7666.539 And because that takes
+some attention on my part,
+7669.565 because I'm not used to doing that.
+7671.129 I've been using the Zero app
+and I like it quite a lot.
+7674.13 It logs your progress and it
+gives you averages and you can
+7676.39 see how many other
+people are fasting again,
+7678.2 totally zero cost. I actually
+don't know who owns that app,
+7680.354 but I think they've done an excellent job.
+7683.15 The interface is really
+terrific, and as far as I know,
+7685.66 it's available for Apple and Android,
+7687.39 but it's at least
+available for Apple phones,
+7689.36 which is the type of
+phone I happen to have.
+7691.51 So check those out, My Circadian Clock.
+7694.213 You just put that into
+Google, you'll find it.
+7695.963 And the Zero app, both
+excellent zero cost resources.
+7699.84 In a moment I'd like to review
+the parameters of a ideal
+7704.155 feeding schedule for you and
+give you the variables that you
+7708.36 can plug into your lifestyle
+and your preferences.
+7710.769 There are a couple of things
+that I would place into the
+7713.31 category of frequently asked somewhat odd,
+7716.776 but still worthy of discussion.
+7719.247 For instance,
+7721.28 people have asked will brushing
+your teeth with toothpaste,
+7724.6 break your fast?
+7725.68 I think unless you're
+swallowing the toothpaste, no.
+7729.58 Now if you really want to
+run out and get a continuous
+7731.56 glucose monitor and brush your teeth,
+7733.06 and you can evaluate that,
+7734.28 but no people have asked will
+a half glass of wine after
+7737.968 dinner a couple hours after
+dinner break your fast.
+7741.118 Absolutely.
+7742.287 It absolutely will.
+7743.74 And it's been demonstrated to
+do that based on the one gram
+7747.87 of sugar,
+7748.703 kind of eerie or scary effect
+that I talked about before,
+7751.85 scary and eerie,
+7752.683 because it just seems
+like one gram of sugar.
+7755.18 How could it do that?
+7756.013 But these are metabolic
+processes and they are very
+7759.65 sensitive, post-meal, a few months back,
+7762.451 I did an experiment wearing
+a continuous glucose monitor.
+7766.081 And I got a surprise when I
+discovered that going into a
+7769.572 sauna increases my blood
+glucose quite a bit.
+7772.96 It actually spikes it as high as a meal.
+7775.075 And then it tends to drop
+back down to baseline or even
+7778.14 slightly below baseline afterwards,
+7780.68 when I talk to people about
+this, somebody said, oh,
+7784.16 it's got to be that the
+continuous glucose monitor was
+7786.529 getting disrupted by
+the heat in the sauna.
+7788.88 That's actually not the case.
+7789.982 Turns out that when you go in a sauna,
+7793.325 because you dehydrate,
+you're losing water,
+7796.563 I wasn't drinking water and
+you're dropping a lot of water.
+7799.935 The concentration of sugar in
+your blood actually goes up.
+7802.944 And I actually put these data
+out in a social media post on
+7805.657 Twitter,
+7807.67 and people were kind of shocked
+to see how much a sauna can
+7810.982 spike your blood glucose,
+now I do practice time,
+7814.02 restricted feeding, intermittent fasting.
+7816.61 I'm not super strict about it.
+7817.94 I use a kind of eight to 10
+hour ish window either early in
+7820.362 the day or late in the day.
+7823.439 I saw this effect of
+the sauna, personally,
+7826.034 the psychological and physical
+health effects of the sauna
+7830.611 are valuable enough to me
+that I continue to use it.
+7834.427 I'm just not concerned about
+this increase in blood glucose,
+7837.46 to the extent that I'm
+going to eliminate sauna.
+7839.59 I like to use the sauna three
+or four times a week before
+7842.188 sleep, so I'll use it an
+hour or two before sleep.
+7844.88 And yes,
+7845.713 indeed it creates this big
+spike in blood glucose that then
+7848.0 drops based on change in the
+concentration of blood sugar.
+7851.411 I'm just not going to worry about it, now,
+7853.22 if you're concerned about
+blood glucose spikes,
+7855.42 then you might be worried
+about it, but in my case,
+7857.971 it was one of those things
+where it was interesting and it
+7860.297 was worthy of discussion.
+7862.86 I thought because it was
+somewhat surprising to me,
+7864.62 although it makes perfect sense
+why this would be the case,
+7866.85 but at the end of the day, literally,
+7868.62 it just makes sense for
+me to get in the sauna.
+7871.05 Okay. So now you've
+heard a lot of science.
+7873.334 You've heard a lot of
+examples, even a few anecdotes,
+7876.62 and let's come up with the
+ideal intermittent fasting,
+7882.53 AKA time, restricted
+feeding schedule for you.
+7886.52 And when I say ideal, I mean,
+7888.42 what are the variables
+that are negotiable?
+7890.72 What are the ones that are non-negotiable?
+7892.867 What is ideal for you will
+depend on the context of your
+7896.66 life and what you are
+willing to do consistently.
+7899.54 So, first of all,
+7903.02 we established based on the
+discussion with Satchin,
+7906.13 who is truly the premier
+world expert in this area,
+7909.44 who knows the animal and human
+scientific literature better
+7913.86 than anybody has written
+this incredible review.
+7915.844 And for whom I consulted that
+7919.049 you do not want to ingest
+food for at least I want to
+7923.37 emphasize at least 60 minutes
+post waking up, second,
+7928.395 you want to avoid ingesting
+any food of any kind,
+7933.246 even one gram of sugar, remember,
+7935.56 this is the ideal one gram of
+sugar even would be too much
+7938.766 for the two to three
+hours prior to bedtime.
+7943.473 He also mentioned, ideally,
+7945.586 you are spending eight hours in bed.
+7948.5 I didn't tell you that
+earlier. I saved that for now,
+7950.028 but ideally you are sleeping
+that entire eight hours,
+7953.936 but simply by being in bed for
+that eight hours and avoiding
+7956.826 food after waking for an hour
+and before bed for two to
+7961.25 three hours,
+7962.083 you're starting to build out
+the duration of this fasted
+7964.644 period.
+7967.335 Remember that the sleep
+related fasting is particularly
+7972.9 important for the health
+benefits of time-restricted
+7975.5 feeding.
+7976.512 Again,
+7977.345 the sleep-related fasting is
+especially important because of
+7980.456 all the cellar repair processes
+that occur in the liver and
+7984.582 the gut in the microbiome, in
+the brain all over the body.
+7988.391 And because of the way that
+that coordinates the expression
+7991.1 of the clock genes that are
+then going to wick out and have
+7994.73 many other positive effects on health,
+7997.72 including weight and fat loss.
+8000.6 But in addition to that
+liver health, et cetera,
+8003.856 an eight hour feeding window
+as a target seems to be the
+8008.969 best target feeding, at least
+by my read of the literature.
+8013.7 And in discussing it with
+shuts such in shorter feeding
+8016.78 windows of four to six hours,
+8018.32 tend to lead to overeating
+and potentially increases in
+8021.587 weight.
+8023.553 One meal per day type eating
+do not seem to do that,
+8027.854 but those are special cases in
+that most people can't adhere
+8032.345 to a one meal per day type schedule,
+8034.775 at least not on a regular basis.
+8037.16 And it's not very compatible
+with most social schedules.
+8040.13 Although some people may be
+able to adhere to that in a
+8042.083 straightforward way,
+8043.34 but there aren't any robust
+studies exploring the advantages
+8046.637 of one meal per day.
+8048.902 So if you feel there are
+advantages of one meal per day for
+8052.106 you as opposed to an
+eight hour feeding window,
+8055.773 well then by all means,
+8056.973 use a one meal per day approach
+or use a four to six hour
+8060.202 feeding window and just make
+sure you don't overeat in that
+8064.21 window.
+8065.605 Remember that most people tend
+to not adhere to the eight
+8070.87 hour feeding window, they say eight hours,
+8072.385 but they tend to eat outside
+of the eight hours a little bit
+8076.01 on each side, so if your goal
+is a 10 hour feeding window,
+8080.945 you might want to set it to
+nine hours or eight hours.
+8083.655 If your goal is six hours,
+8085.54 you might want to set it
+to seven or eight hours.
+8087.62 And this is simply based by,
+8088.64 I shouldn't say simply
+this is based on thousands,
+8091.492 if not tens of thousands of
+human subject data points that
+8096.42 Satchin and colleagues have collected
+8099.881 regular placement of the eating
+window or feeding window,
+8105.77 every 24 hours is important.
+8108.3 You don't have to be absolutely
+rigid and neurotic about
+8111.14 this,
+8111.973 but you don't want it sliding
+around on the weekends so that
+8113.84 it starting two hours later
+and ending two hours later,
+8116.302 a couple days a week,
+8118.154 because then you start to offset
+many of the positive health
+8122.695 effects that have been
+demonstrated for time restricted
+8125.7 feeding.
+8126.798 Remember if you eat your
+food within a certain feeding
+8132.166 window, but that feeding window
+shifts by a couple of hours,
+8135.599 it is effectively like
+jet lagging your system.
+8138.926 It is effectively like traveling
+a couple times zones over
+8142.364 eating there for a few days
+and coming back when in fact
+8145.698 you're not traveling,
+8148.421 that's because of the
+way that food adjusts,
+8150.481 the circadian clock genes.
+8152.7 Now you can offset some of
+that through the use of light.
+8155.52 And I've talked extensively
+about how to use light in
+8158.14 previous podcasts, but again,
+8159.537 early morning and all day bright,
+8161.97 light exposure as safely as
+you can, ideally from sunlight,
+8164.51 not through a window, et cetera,
+8166.01 avoiding bright light in
+the middle of the night,
+8167.84 extremely important for mood offsetting,
+8170.61 metabolic dysfunction, et cetera,
+8172.404 not incidentally Satchin's early work was,
+8176.283 he was one of the three
+co-discoverers of the cells in the
+8180.91 eye, the so-called melanopsin
+cells that set the central
+8183.39 circadian clock. So he was
+a pioneer in that field,
+8186.23 which led him to be a pioneer
+in this field and so on.
+8189.828 When should that eight hour
+window be placed within each 24
+8194.337 hour cycle? Well, let's
+talk about ideal ideal.
+8197.107 If you really want to maximize
+all the health benefits of
+8202.909 time-restricted feeding,
+8205.563 you need to extend the fast
+around sleep on both sides.
+8210.16 You would place it smack dab
+in the middle of the day.
+8212.332 It would be a schedule in
+which you started eating for
+8215.98 instance at 10:00 AM. And you
+stopped eating at 6:00 PM.
+8220.412 An absolutely dreadful schedule
+for anyone that wants to
+8223.83 have some semblance of a
+normal life. In my opinion,
+8226.588 it's not really compatible
+with most schedules.
+8229.92 Although some people
+might be able to do it,
+8231.8 maybe you and your family or
+your friends, your, you know,
+8235.37 you're eating a late breakfast or a,
+8236.861 and then you're having a
+late-ish lunch around 2:00 PM.
+8240.17 And then you have dinner at six.
+8241.48 And then assuming that you
+go to bed around nine 30 or
+8245.11 10:00 PM,
+8246.08 that is going to extract
+the maximum amount of weight
+8250.956 related body fat related metabolic
+factor related aspects of
+8257.59 time, restricted feeding.
+8259.6 Some people tend to fall into
+a category where they do best
+8263.261 placing that feeding window
+later in the day and provided
+8267.436 it. Doesn't run too close to your sleep.
+8269.7 Remember you needed a two or
+three hour buffer before your
+8271.79 sleep,
+8272.623 where you're not ingesting
+anything that's in order to
+8274.94 extract the benefits of
+time-restricted feeding.
+8277.197 Well then starting your
+feeding window at 12:00 PM and
+8282.09 ending at 8:00 PM plus or
+minus half an hour or so day to
+8286.237 day, it seems like a perfectly
+reasonable schedule for some
+8289.72 people starting at 2:00 PM
+and ending at 10:00 PM will be
+8292.021 that schedule.
+8293.641 Of course,
+8295.1 you have to take into
+consideration when you exercise.
+8297.633 If you exercise.
+8299.197 For instance, I like to exercise
+early in the day if I run,
+8302.451 or if I do some moderate or
+light intensity exercise,
+8306.088 regardless of what type of exercise it is,
+8308.49 I have no trouble waiting until
+my feeding window kicks in
+8311.976 around noon or even 2:00 PM.
+8313.957 But if I do high intensity
+weight training, for instance,
+8317.23 early in the day,
+8318.063 or if I run sprints and I do
+that at 7:00 AM or 8:00 AM by
+8321.139 11:00 AM, I am very,
+8323.44 very hungry and it's hard
+for me to do other things
+8326.503 concentrate, et cetera.
+8328.49 Now I'm not neurotic
+about my feeding window.
+8330.78 As I mentioned before,
+8331.63 I kind of let it expand and
+contract a bit around the eight
+8334.047 hour mark, and feel perfectly
+free to do that too.
+8337.1 We're talking here in, in ideals,
+8338.92 not in necessarily practicals,
+8341.84 but other people find that
+they're very hungry when they
+8345.81 wake up early in the day.
+8346.89 If you're one of these people
+or you're somebody who really
+8349.908 is trying to emphasize hypertrophy
+or maintenance of muscle,
+8354.67 then it does seem that ingesting
+protein early in the day is
+8357.471 beneficial.
+8358.844 That it can be more readily
+converted into muscle tissue.
+8363.155 And this has been demonstrated
+in at least one study.
+8366.52 There's another study underway.
+8367.75 That's exploring this further
+for people that are really,
+8371.0 really interested in hypertrophy
+and building muscle will
+8373.15 then time-restricted feeding
+is usually not the way they go.
+8376.03 I mean, let's be honest.
+8377.55 There are many people out
+there who are eating four more
+8380.254 meals per day,
+8381.35 and they're doing that
+from 7:00 AM until 8:00 PM.
+8383.904 I realized that not
+everybody is overweight.
+8386.41 There is an obesity crisis. Indeed.
+8387.632 You know,
+8388.83 the percentage of obesity
+and non-alcoholic fatty liver
+8392.08 disease is just cosmic through the roof,
+8393.81 at least in this country and
+in other countries as well,
+8396.023 this country meaning the US
+but other countries as well.
+8401.098 But there are of course,
+8402.35 people that are trying to gain
+weight through who don't want
+8404.91 to lose weight or who are
+trying to maximize physical
+8407.35 performance or hypertrophy
+or things of that sort.
+8409.48 And so of course time-restricted
+feeding for them might be
+8412.251 as long as I'm awake, I'm eating.
+8414.234 And I, you know, I tip my hat
+to those people and just say,
+8418.47 you know,
+8419.303 provided you understand what
+you're doing and the burden
+8420.898 that,
+8421.731 that places on some of the
+other processes in your body,
+8423.63 if that's right for you, then
+by all means pursue that.
+8426.38 Another thing that we can add
+to this summary or key points
+8429.81 related to time restricted
+feeding is the use of glucose,
+8433.66 disposal, agents, and or behaviors.
+8436.045 If you find that you've eaten
+too close to a period of time
+8440.5 in which you would prefer to be fasting,
+8442.17 that's when a 30 minute brisk
+walk or even modest walk after
+8446.242 eating can be beneficial,
+8449.039 ingesting some lemon juice
+or lime juice can help lower
+8452.382 blood glucose somewhat.
+8454.154 And then there are the things
+like Metformin and berberine
+8457.379 there,
+8458.25 even some supplements out
+there that combine things like
+8460.62 berberine cinnamon,
+8461.764 which can lower blood glucose
+and things like chromium and
+8466.515 things that have a mild
+effect on blood glucose,
+8469.16 but berberine and Metformin
+are very high potency glucose
+8474.708 disposal agents.
+8476.092 And I mentioned earlier why you
+would want to approach those
+8478.74 with the appropriate level
+of caution and figure out the
+8481.187 dosages for you, and, and for some people,
+8483.47 the dosages will be zero
+milligrams is going to be ideal.
+8486.307 And then of course we discussed
+how making sure that you're
+8489.81 ingesting enough fluids in
+particular water and salt,
+8492.682 especially if you're using
+caffeine in order to increase
+8496.756 your levels of alertness,
+8498.12 regardless of where that caffeine
+source comes from coffee,
+8500.53 tea, or otherwise,
+8501.699 that can cause the excretion
+of sodium and can lead to a
+8505.09 kind of shakiness,
+8506.0 a lightheadedness and the
+feelings of hunger that may or may
+8510.67 not be related to blood glucose.
+8512.968 Some people genuinely need to eat.
+8515.03 I certainly would not
+want to see people getting
+8516.83 hypoglycemic to the point
+where it's dangerous.
+8518.837 Certainly if you are
+diabetic, you, and in fact,
+8522.091 for all people,
+8523.18 you should consult with your
+physician when exploring any
+8527.45 major changes to diet or
+additions or subtractions of
+8529.706 anything, including supplementation,
+8531.088 but for most people maintaining
+relatively low to modest
+8534.998 blood glucose levels is going
+to be pretty healthy and will
+8540.58 allow all the positive effects
+of intermittent fasting to
+8544.17 occur.
+8545.24 And when you find that reaching
+that start to the feeding
+8549.22 window is challenging that
+ingesting sodium can often
+8553.38 stabilize your system
+mentally and physically,
+8557.04 and allow you to reach that
+window often painlessly.
+8559.959 And then as a final point,
+as I mentioned earlier,
+8563.7 provided that they are consumed in low,
+8566.548 no or modest amounts,
+artificial sweeteners,
+8571.299 or plant-based non sugar,
+8573.54 non caloric sweeteners don't
+seem to really impact blood
+8577.22 glucose to the extent that
+it would quote unquote,
+8579.55 take you out of your fast,
+8581.214 but that like fat fasting is
+something that's going to be
+8584.74 highly individual,
+8585.81 and that you're going to
+have to experiment with for
+8587.91 yourself and being able to
+recognize when you're in a fast
+8592.049 and when you're out of a fast,
+8594.13 at a subjective level and not
+constantly having to measure
+8596.331 your blood glucose or do
+things of that sort can be
+8599.318 beneficial.
+8600.7 And I think if you watch for
+the feelings associated with
+8603.257 eating and post eating foods
+of different kinds in different
+8606.83 amounts,
+8607.69 and you watch for the feelings
+associated with being fasted
+8610.837 for long periods of time or
+short periods of time of having
+8614.202 gotten sufficient sunlight
+of having trained harder,
+8617.47 not trained hard earlier
+that day, et cetera,
+8619.625 you can do the most important thing,
+8621.5 which is to start to learn,
+to evaluate your own system,
+8624.339 to run simple,
+8625.92 safe experiments on your system
+in a way that allows you to
+8628.746 really establish the ideal
+nutrition schedule for you,
+8632.72 whether it be time restricted, feeding,
+8634.72 AKA intermittent fasting, or
+some other nutritional plan.
+8638.596 If you're learning from and
+or enjoying this podcast,
+8641.647 please subscribe to our YouTube
+channel that really helps
+8644.88 us. In addition,
+8646.44 please feel free to leave us
+comments about this episode or
+8649.35 other episodes.
+8650.219 If you want to make suggestions
+about future episode guests
+8652.944 or episode topics,
+8653.945 please do that in the
+comment section as well.
+8657.09 Please also subscribe to the
+podcast on Apple and Spotify
+8660.381 and on Apple, you can leave
+us up to a five star review.
+8663.486 In addition,
+8664.39 if you're not already following
+Huberman Lab on Instagram
+8667.238 there,
+8668.071 I do brief posts about science
+that often are not covered on
+8671.522 the podcast. So that's
+Huberman Lab on Instagram.
+8674.58 We're also on Twitter also @hubermanlab.
+8676.256 Recently we launched a clips
+channel Huberman Lab Clips.
+8679.697 Please check out our clips
+channel and subscribe there for
+8681.98 brief excerpts from the
+various Huberman Lab podcasts.
+8686.04 In addition,
+8686.88 please check out our sponsors
+that we mentioned at the
+8688.367 beginning of this episode,
+8690.023 that's a terrific way
+to support the podcast.
+8692.197 We also have a Patreon it's
+patreon.com/andrewhuberman.
+8697.21 And there you can support the
+podcast at any level that you
+8700.11 like, during this episode.
+8701.24 And in many other previous episodes,
+8704.063 I discussed supplements.
+8705.91 One issue with supplements and
+the supplement industry as a
+8708.53 whole,
+8709.4 is that the quality and amounts
+of supplements often varies
+8712.508 tremendously.
+8714.32 Therefore we've partnered
+with Thorne, T-H-O-R-N-E,
+8717.01 because Thorne has the
+absolute highest levels
+8718.786 of stringency with
+8719.87 respect to the quality of
+ingredients and the amount of the
+8722.61 ingredients matching what's on the label.
+8724.983 If you want to see what I take
+and get 20% off any of Thorne
+8729.07 supplements,
+8729.91 you can go to Thorne,
+thorne.com/u/huberman.
+8735.108 You'll see the list of
+supplements that I take.
+8737.12 You can get 20% off those.
+8738.12 And if you enter the thorn
+site through that portal,
+8740.666 you can get 20% off
+anything that Thorne makes.
+8743.903 I know we covered a lot
+of information today.
+8745.574 I hope you learned a lot about
+time, restricted feeding.
+8748.659 I hope you learned a lot about
+metabolism and energy and
+8752.826 health and how when you eat is
+as important as what you eat,
+8756.949 and last,
+8758.45 but certainly not least thank
+you for your interest in
+8761.11 science.
+8762.017 [offbeat uplifting music]

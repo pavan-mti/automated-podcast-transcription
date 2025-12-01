@@ -1,0 +1,5584 @@
+0.36 - Welcome to The Huberman Lab Podcast
+2.31 where we discuss science
+and science-based tools
+4.92 for everyday life.
+6.481 [upbeat guitar music]
+9.3 I'm Andrew Huberman
+10.41 and I'm a professor of
+neurobiology and ophthalmology
+13.11 at Stanford School of Medicine.
+15.06 Today, we are talking about
+obsessive-compulsive disorder
+18.08 or OCD.
+19.56 We are also going to talk
+20.55 about obsessive-compulsive
+personality disorder which,
+23.91 as you will soon learn, is distinct
+25.89 from obsessive-compulsive disorder.
+28.11 In fact, many people that
+refer to themselves or others
+30.45 as obsessive or compulsive
+or quote-unquote,
+33.18 having OCD or OCD about
+this or OCD about that
+37.26 do not have clinically diagnosable OCD,
+40.41 rather, many people have
+obsessive-compulsive
+43.05 personality disorder.
+44.94 However, there are many
+people in the world
+47.52 that have actual OCD,
+and for those people,
+50.94 there's a tremendous amount of suffering.
+52.65 In fact, OCD turns out to be number seven
+55.98 on the list of most
+debilitating illnesses,
+58.68 not just psychiatric
+illnesses, but of all illnesses
+62.1 which is remarkable and
+somewhat frightening.
+65.22 The good news is thanks to
+the fields of psychiatry,
+68.76 psychology, and science in general,
+71.34 there are now excellent
+treatments for OCD.
+74.04 We're going to talk about
+those treatments today.
+76.44 Those treatments range
+from behavioral therapies,
+78.96 to drug therapies, and brain stimulation,
+82.26 and even some of the more
+holistic or natural therapies.
+85.89 As you'll soon learn, for certain people,
+88.11 they may want to focus more
+on the behavioral therapies,
+90.9 whereas for others, more
+on the drug-based therapies
+94.26 and so on and so forth.
+95.91 One extremely interesting
+and important thing
+97.65 I learned from this episode
+99.12 is that the particular
+sequence that behavioral
+101.91 and/or drug and/or holistic
+therapies are applied
+104.91 is extremely important.
+107.16 In fact, the outcomes of studies
+108.72 often depend on whether not people start
+110.64 on drug treatment and then follow
+111.99 with cognitive behavioral
+treatment or vice versa.
+114.81 We're going to go into all those details
+116.34 and how they relate to
+different types of OCD,
+119.16 because it turns out there are indeed
+120.48 different types of
+obsessions and compulsions,
+122.94 and the age of onset for
+OCD, and so on and so forth.
+127.11 What I can assure you is
+by the end of this episode,
+129.33 you'll have a much greater understanding
+131.16 of what OCD is and what it isn't
+133.68 and what obsessive-compulsive
+personality disorder is
+136.74 and what it is not.
+138.06 And you'll have a rich array
+of different therapy options
+141.72 to explore in yourself or in others
+144.99 that are suffering from OCD.
+146.28 And if neither you or others that you know
+148.56 suffer from OCD or obsessive-compulsive
+150.42 personality disorder,
+the information covered
+152.88 in today's episode will
+also provide insight
+155.52 into how the brain and nervous system
+157.38 translate thought into action generally.
+159.93 And also, you're going to learn a lot
+162.18 about goal-directed behavior generally.
+164.82 My hope is that by the end of the episode
+166.32 you'll both understand a
+lot about this disease state
+168.99 that we call OCD, you will
+have access to information
+172.71 that will allow you to
+direct treatments to yourself
+174.75 or others in better ways,
+176.67 and that you will gain greater insight
+178.8 into how you function and
+how human beings function
+181.26 in general.
+182.13 The Huberman Lab Podcast
+is proud to announce
+184.11 that we've partnered with
+Momentous Supplements.
+186.33 We've done that for several reasons.
+187.62 First of all, the quality
+of their supplements
+189.66 is exceedingly high.
+191.22 Second of all, we wanted
+to have a location
+193.29 where you could find all of
+the supplements discussed
+195.3 on The Huberman Lab Podcast
+in one easy-defined place.
+198.54 You can now find that place
+at livemomentous.com/huberman.
+202.89 In addition, Momentous
+Supplements ship internationally,
+206.25 something that a lot of
+other supplement companies
+208.11 simply do not do.
+209.37 So that's terrific whether
+or not you live in the US
+211.26 or you live abroad.
+212.34 Right now, not all of the supplements
+214.11 that we'd discuss on The
+Huberman Lab Podcast are listed,
+216.96 but that catalog of supplements
+218.61 is being expanded very rapidly
+220.35 and a good number of them
+that we've talked about,
+222.09 some of the more prominent
+ones for sleep and focus
+224.49 and other aspects of
+mental and physical health
+226.74 are already there.
+227.573 Again, you can find them at
+livemomentous.com/huberman.
+230.43 Before we begin, I'd like to emphasize
+232.05 that this podcast is separate
+233.28 from my teaching and
+research roles at Stanford.
+235.44 It is, however, part
+of my desire and effort
+237.27 to bring zero cost to consumer
+information about science
+239.547 and science-related tools
+to the general public.
+242.52 In keeping with that theme,
+I'd like to thank the sponsors
+244.95 of today's podcast.
+246.42 Our first sponsor is Athletic Greens.
+248.46 Athletic Greens is an
+all-in-one vitamin-mineral
+250.71 probiotic drink that also has adaptogens
+253.02 and digestive enzymes.
+254.64 I started taking Athletic
+Greens way back in 2012
+257.4 and I've taken it every day since
+258.69 so I'm delighted that they're
+sponsoring the podcast.
+261.15 The reason I started
+taking Athletic Greens
+262.89 and the reason I still
+take Athletic Greens
+264.42 once or twice a day is that it covers
+266.34 all of my foundational nutritional needs.
+268.41 In fact, when people ask me,
+269.243 "what's the one supplement I should take?"
+271.11 I always say Athletic Greens
+272.7 because by taking Athletic Greens,
+274.35 you give support to your immune system,
+275.97 to your endocrine system,
+to your nervous system
+278.19 and to the so-called gut-brain axis
+280.08 and the gut microbiome.
+281.46 As many of you've probably heard,
+282.9 our gut, meaning everywhere from our mouth
+285.21 down all the way through our intestine,
+286.68 is populated by trillions
+of little microbacteria
+289.38 that support the different
+systems of our body.
+292.56 Athletic Greens has the
+probiotics that support
+294.57 the microbiome, and in
+turn, support things
+296.49 like mood, endocrine function,
+immune system, and so on.
+299.76 If you'd like to try Athletic Greens,
+301.14 you can go to athleticgreens.com/huberman
+303.57 and claim their special offer.
+304.86 They'll give you five free travel packs
+306.69 plus a year supply of vitamin D3 K2.
+309.45 Many people are deficient in vitamin D3
+311.46 and in general, vitamin D3 and K2
+313.47 support a huge number of factors
+315.78 in your brain and body
+that support your immediate
+317.55 and long-term health.
+318.69 Again, that's athleticgreens.com/huberman
+321.51 to claim their special offer.
+322.98 Today's episode is also
+brought to us by Thesis.
+325.5 Thesis makes custom nootropics,
+327.81 and frankly, I'm not a big fan
+329.43 of the word nootropics.
+330.99 I've said that on various podcasts
+332.43 and on social media posts
+333.54 and the reason I'm not a
+fan of the word nootropics
+335.03 is it means smart drugs.
+337.11 But as a neuroscientist,
+338.73 I know that we don't have
+circuits in the brain
+341.28 or chemicals in the brain for being smart,
+343.41 we have circuits in the brain for focus
+345.54 and for task switching and for creativity,
+347.55 and oftentimes those circuits
+differ from one another
+349.92 although they collaborate to create things
+351.63 that we think of as intelligence
+353.34 or focus or creativity, et cetera.
+355.62 Thesis understands this
+and for that reason,
+357.72 has developed custom nootropics
+359.46 that match your particular goals
+361.38 and to your particular biology.
+363.78 They give you the opportunity to try
+364.89 several different blends
+over the course of a month
+366.87 and discover which ones work best for you
+368.55 and which ones don't.
+370.08 In addition to that personalization,
+371.64 they take it a step further
+by offering free consultations
+374.01 with a coach to help you
+optimize your experience
+376.41 and dial in your perfect formulas.
+378.78 I've been using Thesis
+for about eight months now
+381.09 and I can confidently
+say that their nootropics
+383.43 are the best that I've ever used.
+385.23 My go-to formula is the Clarity Formula
+387.51 or the Motivation Formula
+388.8 when I'm going to work or work out,
+390.54 meaning when I'm going to
+do focus cognitive work,
+392.67 or I'm going to exercise.
+393.72 I also like their Energy
+Formula prior to exercise.
+396.45 To get your own personalized
+nootropics starter kit,
+398.43 go online to takethesis.com/huberman.
+401.58 You can take a three minute
+quiz that will help match you
+404.13 to the best custom
+nootropics to start with.
+406.32 And Thesis will send you
+four different formulas
+408.48 to try in that first month.
+409.86 Again, that's takethesis.com/huberman
+412.5 and use the code Huberman
+at checkout to get 10% off
+415.17 your first order.
+416.76 Today's episode is also
+brought to us by Eight Sleep.
+419.4 Eight Sleep makes smart mattress covers
+421.23 that have cooling, heating,
+and sleep tracking capacity.
+424.35 I've talked many times on this podcast
+425.91 and another podcast and on social media
+428.22 about the critical relationship
+429.93 between temperature and sleep.
+432.51 Generally speaking, your
+body temperature has to drop
+434.94 by about one to three
+degrees in order to get
+436.98 into and to stay in deep sleep.
+439.11 And waking up has a lot to do
+440.82 with an increase in body temperature
+442.32 of about one to three degrees.
+444.06 So for many people like
+myself who run warm
+446.01 during the night, I find myself waking up
+447.45 in the middle of the night.
+448.53 However, recently I started using
+449.76 an Eight Sleep mattress cover
+451.047 and by programming in
+the specific temperatures
+453.21 that work for me across the night,
+455.07 I'm staying asleep through the whole night
+456.69 and as a consequence, I'm feeling
+far better during the day,
+459.39 much more focus, alertness, et cetera,
+460.95 all the great things that come
+462.24 from getting excellent sleep consistently.
+465.15 The Pro Pod Cover by Eight Sleep
+466.59 is their most advanced
+solution on the market
+468.3 for thermal regulation during sleep,
+469.8 that's the one I use.
+471.03 It pairs dynamic cooling and heating
+472.44 with biometric tracking.
+473.55 It also has this really nice feature where
+475.89 your mattress basically
+vibrates a little bit
+477.66 right upon waking, I like that as well.
+479.85 You can cover any mattress with it.
+481.26 You can start sleeping as
+cool as 55 degrees Fahrenheit,
+483.87 or as warm as 110 degrees Fahrenheit,
+485.85 And that range is available to you
+487.32 simply because Eight Sleep understands
+489.12 that people have a tremendous range
+490.89 in natural body temperatures
+and sleeping environments.
+494.01 If you want to try Eight Sleep,
+495.03 you can go to eightsleep.com/huberman
+497.16 and check out their Pro Pod Cover
+498.45 and save $150 at checkout.
+500.76 Eight Sleep currently ships
+within the USA, Canada,
+503.46 and in the United Kingdom.
+504.51 Again, that's eightsleep.com/huberman
+506.94 to save $150 at checkout.
+509.16 Let's talk about OCD or
+obsessive-compulsive disorder.
+512.73 First of all, as the name suggests,
+514.86 OCD includes thoughts or obsessions
+517.62 and compulsions which are actions.
+520.56 The obsessions and the
+compulsions are often linked.
+523.47 In fact, most of the time,
+524.79 the obsessions and the
+compulsions are linked
+526.71 such that the compulsion, the behavior,
+529.47 is designed to relieve the obsession.
+532.68 However, one of the hallmark themes
+534.57 of obsessive-compulsive disorder
+536.61 is that the obsessions are intrusive.
+539.16 People don't want to have them.
+540.93 They don't enjoy having them.
+542.16 They just seem to pop into people's minds
+544.02 and they seem to pop into
+their mind recurrently.
+546.72 And the compulsions, unlike
+other sorts of behaviors,
+551.52 provide brief relief to the obsession,
+554.64 but then very quickly reinforce
+or strengthen the obsession.
+558.87 This is a very key theme to realize
+561.0 about obsessive-compulsive disorder
+562.53 so I'm just going to repeat it again.
+564.03 These two features, first,
+the fact that the obsessions
+566.85 are intrusive and recurrent,
+569.94 as well as the fact that the
+compulsions, the behaviors,
+572.88 provide, if anything, only
+brief relief for the obsessions,
+576.75 but in most cases simply serve to make
+578.61 the obsessions stronger
+are the hallmark features
+582.0 of obsessive-compulsive disorder.
+583.71 And it turns out to be very important
+585.18 to keep these in mind as we go forward,
+587.55 not just because they define
+obsessive-compulsive disorder,
+590.52 but they also define
+the sorts of treatments
+592.29 that will and will not work
+593.97 for obsessive-compulsive disorder.
+595.68 And then once you understand a little bit
+597.27 about the neural circuitry underlying
+598.8 obsessive-compulsive disorder,
+600.15 which we'll talk about in a few moments,
+602.04 then you will clearly understand
+603.78 why being a quote-unquote,
+obsessive person
+606.12 or having obsessive-compulsive personality
+608.46 is not the same as OCD.
+610.71 In fact, we can leap ahead a little bit
+612.63 and compare and contrast OCD
+614.7 with obsessive-compulsive
+personality disorder
+617.16 along one very particular set of features.
+620.16 Again, I'll go into this
+in more detail later,
+622.17 but it's fair to say
+that OCD is characterized
+625.86 by these recurrent and
+intrusive obsessions.
+628.53 And as I mentioned before,
+the fact that those obsessions
+630.51 get stronger as a function of people
+633.09 performing certain behaviors.
+634.53 So unlike an itch that you feel,
+636.6 and then you scratch
+it and it feels better,
+638.34 OCD is more like an itch that
+you feel, you scratch it,
+640.59 and the itch intensifies.
+642.87 That contour or that pattern of behaviors
+645.51 and thoughts interacting is very different
+647.88 than obsessive-compulsive
+personality disorder,
+650.34 which mainly involves a sense
+of delayed gratification
+654.06 that people want and somewhat enjoy
+656.55 because it allows them to function better
+658.35 or more in line with how they would like
+659.88 to show up in the world.
+661.29 So again, OCD has mainly
+to do with obsessions
+664.41 that are intrusive and recurrent,
+665.55 whereas obsessive-compulsive
+personality disorder
+667.98 does not have that
+intrusive feature to it.
+670.26 People do not mind, or in fact,
+672.45 often invite or like the
+particular patterns of thought
+675.63 that lead them to be compulsive
+along certain dimensions.
+678.57 So leaving aside obsessive-compulsive
+680.28 personality disorder for the moment,
+682.32 let's focus a bit more on OCD and define
+684.75 how it tends to show up in the world.
+686.88 First of all, OCD is extremely common.
+691.17 In fact, current estimates
+are that anywhere
+693.51 from 2.5% to as high as 3
+696.75 or even 4% of people suffer from true OCD,
+701.01 that is an astonishingly high number.
+703.89 Now, the reason the range is so big,
+705.9 2.5% all the way up to
+3, or maybe even 4%,
+709.2 is that a lot of the features of OCD
+712.23 go unnoticed both in
+the clinician's office
+716.19 and simply because people don't report it
+718.89 and don't talk about it.
+720.33 In fact, it is possible to have recurrent
+722.16 and intrusive obsessions and not engage
+724.65 in the sorts of behaviors
+that would ever allow
+726.54 people to notice that somebody has OCD.
+729.33 That can be because some
+of the intrusive thoughts
+732.48 don't actually lead to overt behaviors
+734.43 like hand washing or checking
+735.84 that other people would notice.
+737.28 It can also be because people learn
+739.98 to disguise or hide their obsessions
+742.59 and their compulsions out of shame
+744.33 or fear of looking strange
+or whatever it might be
+747.66 such that they have these obsessive
+749.61 and intrusive thoughts, and
+they do little micro-behaviors
+752.58 like they might tap their
+fingers on their thigh
+754.77 as a way to avoid, at
+least in their own mind,
+757.41 something catastrophic happening.
+759.18 That might seem crazy to you,
+760.85 it might seem bizarre, but
+this is the sort of thing
+763.14 that operates in a lot of people.
+765.45 And I really want to emphasize this
+766.98 because the clinical
+literature that are out there
+770.1 really point to the fact
+that many people have OCD,
+774.06 full blown OCD, and never report it
+776.16 because of the kind of shame and hiding
+777.96 associated with it.
+779.52 Another thing to point out is that OCD
+782.31 is extremely debilitating.
+784.74 I mentioned this a few minutes ago,
+786.15 but OCD is currently
+listed as number seven
+789.03 in terms of the most
+debilitating illnesses,
+791.61 not just mental illnesses or disorders,
+795.03 but all types of illnesses
+796.71 including things like asthma
+and cancer, et cetera.
+799.53 So you can imagine with that
+standing at number seven,
+803.34 that it is both extremely common
+805.65 and extremely debilitating.
+807.12 And as a consequence, it's now realized
+809.64 that many hours, days,
+weeks, months, or even years
+813.99 of work performance or showing up at work
+817.05 of relational interactions really suffer
+819.78 as a consequence of people having OCD.
+821.49 So this is a vital problem
+that the scientific
+823.8 and psychiatric and psychological
+communities understand.
+826.44 And it's one of the reasons
+that I'm doing this podcast.
+829.56 And of course, I received
+a ton of interest in OCD
+832.41 because of this incredibly
+high incidence of OCD
+835.047 and how debilitating it is.
+836.97 We could go really deep into
+why it's so debilitating.
+840.18 I don't want to spend
+too much time on that
+841.41 because I think most of
+that is pretty obvious,
+843.15 but some of it is not.
+844.53 For instance, one of the
+things that makes OCD
+846.69 so debilitating is, of course,
+848.37 the shame that we talked about before.
+850.2 But it's also the fact that
+when people are focusing
+853.02 on their obsessions and their compulsions,
+854.64 they're not able to focus on other things.
+856.59 That's simply the way
+that the brain works.
+858.0 We're not able to focus on
+too many things at once.
+860.43 The other thing is that
+OCD takes a lot of time
+863.61 out of people's lives.
+865.35 With recurrent intrusive
+thoughts happening
+867.72 at very high frequency, or
+even at moderate frequency,
+870.06 people are spending a lot of
+time thinking about this stuff
+872.85 and they're thinking about the behaviors
+874.77 they need to engage in, and
+then engaging in the behaviors,
+876.87 which as I mentioned before,
+877.89 just serve to strengthen the compulsions
+879.207 and so they're not actually
+doing the other things
+881.58 that make us functional human beings
+883.35 like commuting to work or doing homework
+885.72 or doing work or listening
+when people are talking
+888.03 or interacting or sports or working out,
+889.71 all the things that make
+for a rich quality life
+892.74 are taken over by OCD in many cases.
+896.04 So while that might be obvious to some,
+897.84 I'm not sure that it's
+obvious to everybody
+899.55 just how much time OCD can occupy.
+902.55 Another thing you'll
+soon learn is that sadly,
+905.25 a lot of the obsessions
+and compulsions in OCD
+907.89 often relate to taboo topics.
+909.72 And that's because the
+general categories of OCD
+912.75 fall into three different bins,
+915.48 checking obsessions and compulsions,
+917.85 repetition obsessions and compulsions,
+920.25 and order obsessions and compulsions.
+922.41 The checking ones are somewhat obvious,
+924.0 checking the stove or checking the locks,
+926.31 which I think we all tend to do.
+927.72 I'm somebody typically
+I'll head off to the car
+930.51 to commute to work and I'll think,
+932.097 did I lock the front door,
+933.15 and I'll go back once,
+934.59 but I won't go back twice or 50 times.
+936.84 People with OCD will often
+go back 20 or 30 times
+940.32 before they'll actually allow
+themselves to drive off.
+942.51 And then it's a real challenge for them
+944.79 to continue to drive off
+and discard with the idea
+947.34 that they didn't check the stove
+948.57 or they didn't check the locks
+949.65 or they didn't check
+something else critical.
+952.32 Repetition obsessions and compulsions,
+954.69 obviously can dovetail
+with the the checking ones,
+957.87 but those tend to be
+things like counting off
+960.03 of a certain number of numbers,
+962.25 like one, two, three,
+four, five, six, seven,
+964.11 seven, six, five, four, three, two, one.
+965.52 People perform that repeatedly,
+repeatedly, repeatedly,
+968.4 or feel that they have to.
+969.853 I remember years ago
+watching a documentary about
+973.23 the band, The Ramones, right?
+975.0 Most people heard of The Ramones, right?
+976.38 Jeans, T-shirts, aviator glasses,
+978.18 everyone had to change
+their last name to Ramone.
+979.74 They weren't actually all related
+981.0 to one another, by the way.
+982.26 You had to change your
+last name to Ramone.
+983.52 The Ramones had one band member
+985.59 who was admittedly and known
+to others as having OCD.
+989.49 And during that documentary,
+which I forget the name,
+992.07 I think it was called,
+993.42 can't remember, anyway,
+994.41 can't remember, hippocampal lapse there,
+997.14 but in this documentary,
+998.58 the band members describe Joey Ramone
+1001.76 as leaving hotels, walking down the stairs
+1004.97 to the parking lot, but then having
+1006.11 to walk up and down them
+seven or eight times,
+1007.91 and sometimes getting out of the van again
+1009.53 and walking up and down
+them seven or eight times
+1011.197 and it always had to be a
+certain number of times,
+1013.61 given a certain number of stairs.
+1015.08 This appears, quote-unquote, crazy,
+1016.7 but of course, we don't want
+to think of this as crazy.
+1019.01 This is somebody who very
+likely had full blown OCD.
+1023.24 Now that particular
+example, believe it or not,
+1025.19 is not all that uncommon.
+1027.86 It just so happens that that example
+1029.72 entailed certain compulsions and behaviors
+1031.67 that were overt and that
+other people could see.
+1034.82 And you can imagine how
+that would prevent somebody
+1036.89 from moving about their daily life easily.
+1038.57 A lot of people, as I mentioned before,
+1040.37 have obsessions and
+compulsions that they hide
+1042.77 and they do these little micro behaviors,
+1044.3 or they'll just count off in their head
+1046.43 as opposed to generating
+some sort of walking up
+1048.65 and downstairs or tapping
+or things of that sort.
+1051.44 So we have checking, we have repetition,
+1053.0 and then there's order.
+1054.65 Order oftentimes is thought of
+1057.08 as putting cleanliness
+1059.48 or making sure everything is aligned
+1061.49 and perfect and orderly.
+1063.74 And oftentimes that is the case,
+1065.39 but there are other forms of order
+1066.74 that people with OCD can focus on
+1068.99 in a obsessive and compulsive way.
+1071.72 Things like incompleteness, the idea that
+1074.69 one can't walk away from something
+1076.37 or stop doing something
+because something's not right
+1078.65 or complete in that picture.
+1080.57 It could be the way the table is set.
+1082.97 It could be the way that
+something's written on a page.
+1085.1 It could be an email.
+1086.78 Again, now we're still talking
+about OCD, the disorder.
+1089.69 We're not talking about
+obsessive-compulsive
+1091.79 personality disorder.
+1093.86 I'm aware of, well, I'll just be direct,
+1096.2 several colleagues of mine
+and it's just remarkable,
+1098.51 the order in their emails.
+1100.28 Every email is perfect,
+punctuated, perfect,
+1103.31 grammar, perfect,
+everything's spaced perfect.
+1105.92 Do they have OCD?
+1106.82 Well, they might, they might not.
+1107.99 How would I know unless
+they disclose that to me.
+1111.35 But they might have obsessive-compulsive
+1113.6 personality disorder, or
+they just might be able
+1116.18 to generate a lot of order
+1117.92 and they have a lot of discipline
+1119.21 around the way they write,
+and the way they present
+1120.98 any communication with anybody at all.
+1123.68 So if somebody has a OCD
+that's in the domain of order,
+1127.88 it could be incompleteness
+and the constant feeling
+1131.0 of something not being completed
+1132.89 and a need to complete it.
+1134.27 It can also be in terms of symmetry,
+1136.19 that everything be aligned
+in symmetric in some way.
+1138.74 This could be seen perhaps in young kids.
+1141.92 This is one example that
+I read in the literature
+1144.05 of children that need to
+arrange their stuffed animals
+1146.6 in exact same order every day
+1149.57 and in a particular order to the point
+1152.27 where if you were to move
+the little stuffed frog
+1154.64 over next to the stuffed rabbit,
+1155.93 that the child would have
+an anxiety reaction to that
+1159.68 and feel literally
+compelled, driven to fix that
+1163.52 maybe even multiple times
+over and over again.
+1166.4 We'll talk about OCD in children
+1167.96 versus adults in a little bit.
+1169.4 And then the other aspect of order,
+1171.65 which is a little bit less than intuitive,
+1173.9 is this notion of disgust,
+1175.61 this idea that something is contaminated.
+1177.47 So we often think about OCD
+and hand washing behavior
+1181.28 in response to people feeling
+1182.81 that something is contaminated,
+1184.25 a space, a towel, et cetera,
+1186.29 or even simply somebody else's hand
+1188.51 and so they're unwilling
+to shake somebody's hand.
+1190.82 You can imagine how these
+different bins of obsessions
+1193.52 and compulsions, checking
+repetition and order
+1196.82 be extremely debilitating
+depending on how severe
+1199.13 they are and how many
+different domains of life
+1201.41 they show up in.
+1202.79 Because oftentimes in movies
+1204.71 and even the way I'm describing it now
+1206.66 it sounds as if, okay, well
+somebody has to check the locks
+1209.42 but they don't have to
+also check the stove,
+1211.22 or somebody has the need to
+count to seven back and forth
+1214.94 up to seven and down to seven seven times
+1217.4 seven times a day or
+something of that sort
+1220.37 where they need symmetry in
+very specific domains of life.
+1223.22 But it turns out that this recurrent
+1224.87 and intrusive aspect of obsessions
+1227.27 leads people with OCD
+1229.22 to have checking repetition
+1231.95 and/or order compulsions everywhere.
+1235.46 So whether or not somebody
+is at work or in school
+1238.13 or trying to engage in sport
+1239.51 or trying to engage in relationship
+1240.95 or just something simple
+like walking down the street,
+1243.62 the obsessions are so
+intrusive that they show up
+1245.93 and they compel people to
+do things in that domain
+1248.75 independent of whether or not
+1251.15 they happen to be in
+one location or another.
+1253.1 In other words, the thought patterns
+1255.737 and the behaviors take
+over the environment
+1257.93 as opposed to the environment
+1259.28 driving the thought
+patterns and behaviors.
+1261.5 So it therefore becomes impossible
+1263.15 to ever find a room that's clean enough,
+1265.25 to find a bed that's made well enough,
+1267.8 to find anything that's done well enough
+1270.77 to remove the obsession.
+1273.2 And I know I've said
+it multiple times now,
+1274.937 but I'm going to say it many
+times throughout this episode
+1278.03 in a somewhat obsessive,
+but I believe justified way
+1281.96 that every time that one
+engages in the compulsion
+1285.62 related to the obsession,
+1286.82 the obsession simply becomes stronger.
+1288.82 So you can imagine what a powerful
+1291.35 and debilitating loop that really is.
+1293.39 So let's drill a little bit deeper
+1294.77 into how the obsessions and compulsions
+1296.51 relate to one another.
+1297.89 If we were to draw a line
+between the obsessions
+1299.987 and the compulsions, that
+line could be described
+1303.74 as anxiety.
+1305.72 Now, we need to define what anxiety is
+1307.88 and to be quite honest,
+1309.92 most of psychology and science can't agree
+1312.47 on exactly what anxiety is.
+1314.12 Typically the way we think about fear
+1316.25 is that it's a heightened
+state of autonomic arousal,
+1319.07 so increased heart rate,
+increased breathing,
+1320.99 sweating, et cetera, in
+response to an immediate
+1323.72 and present threat or perceived threat.
+1326.36 Whereas anxiety, generally speaking
+1328.58 in the scientific literature,
+1329.99 relates to the same
+sorts of thought patterns
+1333.74 and somatic bodily responses, heart rate,
+1336.38 breathing, et cetera,
+1337.58 but without a clear and present danger
+1340.73 being in the environment or right there.
+1343.01 So that's the way that we're
+going to talk about anxiety now.
+1345.86 And anxiety is really
+what binds the obsessions
+1348.62 and compulsions such
+that someone will have
+1350.48 an intrusive thought.
+1351.71 So for instance, someone
+will have the thought that
+1354.2 if they turn left on any street,
+1356.93 that something bad will happen.
+1358.61 Okay, that's an obsession.
+1359.54 It's actually not all that uncommon.
+1361.43 Now, how bad and what the specificity
+1363.59 of that bad thing really is will vary.
+1365.42 Some people will think, if I turn left,
+1367.43 something generally bad will happen,
+1368.84 it just makes me feel anxious,
+1370.19 So they always insist on going right.
+1372.11 Whereas other people will
+think if I turn left,
+1375.23 so and so will die, or I will die,
+1378.2 or something terrible will happen,
+1380.45 I'll get a disease or someone
+else will get a disease
+1382.67 or I'll be cursing myself or somebody else
+1384.65 in some very specific way.
+1386.63 This is unfortunately quite
+common in people with OCD.
+1390.86 So they have this feeling
+1393.56 and the feeling can be generally
+1394.97 or specifically related
+to a particular outcome.
+1397.22 But beneath that is a feeling of anxiety,
+1400.07 a quickening of the heartbeat,
+1402.08 a quickening of breathing,
+1403.55 a narrowing of one's visual focus.
+1406.31 I've talked about this
+before in another podcast,
+1408.11 the Master Stress, another podcast
+1409.76 but if you haven't heard those,
+1411.44 let me just briefly describe
+1412.58 that when we are in a state of increased
+1414.65 so-called autonomic arousal, alertness,
+1416.48 stress, et cetera,
+1418.19 our visual field literally narrows,
+1420.44 the aperture of our
+visual field gets smaller
+1422.96 and that's because of the relationship
+1424.22 between the autonomic nervous system
+1425.6 and your visual system, so
+you start seeing the world
+1428.66 through sort of soda straw view
+1430.67 or through binocular-like view,
+1432.08 as opposed to seeing the big picture.
+1433.61 Why is that important?
+1434.63 Well, it literally sharpens
+and narrows your focus
+1438.8 toward the very thing that the obsessions
+1440.81 and the compulsions are focused on.
+1442.1 So the person walking
+down the street who sees
+1444.23 the opportunity to go left or right
+1446.24 will only see the bad decision,
+1449.66 their visual field narrows very tightly
+1452.54 along that possibility
+of taking a left turn.
+1455.21 And I know as I describe this
+seems totally irrational,
+1457.64 but I want to emphasize
+that the person with OCD
+1460.46 knows it's irrational.
+1462.44 They might feel crazy because
+they're having these thoughts,
+1465.89 but they know it makes no sense whatsoever
+1467.99 that left somehow would
+be different than right
+1470.87 in terms of outcomes in
+this particular case,
+1473.27 and yet it feels as if it would.
+1476.09 In fact, in some cases it
+feels as if they went left,
+1478.49 they would have a full blown panic attack.
+1480.83 So the idea here is that the
+obsessions and compulsions
+1484.01 are bound by anxiety, but then by taking
+1487.19 a right-hand turn, again, in
+this one particular example,
+1490.43 by taking a right-hand
+turn, there's a very brief,
+1493.91 I should mention, very
+brief relief of that anxiety
+1497.69 at the time of the decision
+to go right, not left
+1501.59 and there's an additional drop in anxiety
+1505.1 while one takes the right-hand turn
+1507.38 as opposed to the left-hand turn.
+1509.63 And then as I alluded to before,
+1511.7 there's a reinforcement of the compulsion.
+1514.31 In other words, by going right,
+1516.14 it doesn't create a situation in the brain
+1518.96 and psychology of the person
+that, oh, you know what,
+1521.9 I'm not anxious anymore, left
+would've probably been okay.
+1525.11 It reinforces the idea that
+right made me feel better,
+1528.47 or turning right made me feel better,
+1530.27 and going left would've
+been that much worse.
+1532.7 Again, it reinforces the
+obsession even further.
+1535.7 And again, we could swap out
+right turns and left turns
+1540.23 with something like hand washing,
+1541.91 the feeling that something is contaminated
+1544.31 and the need to wash one's hands
+1545.78 even though one already washed their hands
+1548.06 20, 30, 50 times prior.
+1550.16 And we're actually going
+to go back to that example
+1551.63 a little bit later when we talk about
+1553.64 one particular category of therapies
+1555.53 that are very effective
+in many people for OCD
+1558.62 which are the cognitive
+behavioral and exposure therapies.
+1561.68 I think some of you have heard
+1562.88 of cognitive behavioral
+and exposure therapies,
+1564.95 but the way they're used to treat OCD
+1567.11 is very much different
+than the way they're used
+1569.63 to treat other sorts of anxiety disorders
+1572.39 and other sorts of disorders generally.
+1574.7 So it's fair to say that up
+to 70% of people with OCD
+1579.23 have some sort of anxiety
+or elevated anxiety,
+1582.92 either directly related to the OCD
+1585.17 or indirectly related to the OCD
+1586.88 and it's really hard to tease those apart
+1588.53 because OCD can create its own anxiety,
+1591.68 as I mentioned before, it can
+even increase its own anxiety.
+1594.74 And there's also an issue of depression.
+1597.71 Having OCD can be very depressing,
+1600.5 especially if some of these
+OCD thoughts and behaviors
+1603.59 start to really impede people's ability
+1605.3 to function in life.
+1606.23 At work, and school, and relationship,
+1607.76 they can start feeling
+less optimistic about life.
+1609.83 And in fact, some people can
+become suicidally depressed.
+1612.59 That's how bad OCD can be for us.
+1615.38 So we have to be careful when saying
+1617.66 that 70% of people with
+OCD also have anxiety
+1620.57 or X number of people with
+OCD are also depressed
+1622.85 because we don't know whether or not
+1624.17 the depression led the OCD
+or the other way around
+1626.75 or whether or not they're operating,
+1627.89 as we say in science, in parallel.
+1629.84 Some of the drug treatments
+for OCD and depression
+1631.88 and anxiety can tease some of that apart
+1634.34 and we'll talk about that,
+1635.63 but I think it's fair to say that
+1637.13 what binds the obsessions
+and compulsions is anxiety,
+1641.0 that there's a feeling of,
+1642.82 or I should say an
+urgent feeling of a need
+1645.08 to get rid of the obsession.
+1647.21 And the person feels as if the only way
+1649.19 they can do that is to engage
+1650.63 in a particular compulsive behavior.
+1652.4 Some people are probably wondering
+1653.75 if there's a genetic component to OCD
+1656.33 and indeed there is,
+1657.98 although the nature of
+it isn't exactly clear.
+1660.56 And oftentimes when
+people hear that something
+1663.17 has a genetic component,
+1664.61 they think it's always directly
+inherited from a parent,
+1668.21 and that's not always the case.
+1669.68 There can be genes that
+surface in siblings
+1672.74 or genes that surface in children
+1674.51 that are not readily apparent
+1676.58 in terms of what we call a phenotype.
+1678.08 So you have a genotype, the gene,
+1679.34 and then you have a
+phenotype, the way it shows up
+1681.47 as a body form or like eye color
+1684.23 or how it shows up in terms of a behavior
+1686.87 or behavioral pattern.
+1688.88 Based on twin studies where researchers
+1691.82 have examined identical
+twins, fraternal twins,
+1694.43 even identical twins that
+share the same sack in utero,
+1697.88 the what we call monochorionic,
+1699.68 so sitting in the same
+little bag during pregnancy
+1702.29 or in different little bags,
+1703.76 you can see different levels
+1704.84 of what's called genetic concordance.
+1706.76 But if we were to just
+sort of cut a broad swath
+1709.4 through all of the genetic data,
+1711.14 it's fair to say that about
+40 to 50% of OCD cases
+1715.34 have some genetic component,
+1716.78 some mutation or some
+inherited aspect that's genetic
+1720.23 and that one could point to
+1721.07 if they got their genome mapped.
+1723.2 Now, while that's interesting,
+1724.31 I don't think it's terribly
+useful for most people.
+1726.59 First of all, you can't
+really control your genes,
+1728.96 at least at this point in history,
+1730.76 even though there are things
+like epigenetic control
+1733.22 and people are very
+excited about technologies
+1735.11 like CRISPR for modifying the genome
+1738.11 in humans at some point,
+1740.51 most people can't control
+their genetics, right?
+1742.64 You can't pick who your
+parents were as they say.
+1744.77 So just know that there
+is a genetic component
+1747.17 in about half of people
+with OCD, but not always.
+1750.83 Now as is typical for this podcast,
+1753.29 I want to focus on some
+of the neural mechanisms
+1755.96 and chemical systems in the brain and body
+1758.15 that generate
+obsessive-compulsive disorder.
+1760.76 In fact, if you've watched
+this podcast before,
+1763.07 listen to this podcast before,
+1764.6 this is always how I structure things.
+1766.31 First, we introduce a topic
+1768.56 and we explore that topic in detail
+1770.39 and really define what
+it is and what it isn't.
+1772.61 And then it's very
+important that we focus on
+1775.19 what is known and what is not known
+1776.99 about the biological
+mechanisms that generate
+1780.17 whatever that thing happens
+to be, in this case,
+1781.76 OCD and obsessive-compulsive
+personality disorder.
+1784.247 Now I want to emphasize
+that even if you don't have
+1786.98 a background in biology,
+1788.78 I will make this information
+accessible to you.
+1790.76 And I also want to emphasize
+that for those of you
+1792.86 that are interested in treatments
+1794.45 and are anxiously awaiting
+the description of things
+1798.35 that can help with OCD, I encourage you,
+1802.04 if you will, to please try and digest
+1804.65 some of the material about
+the underlying mechanisms
+1806.66 because understanding
+even just a little bit
+1808.76 of those biological
+mechanisms can really help
+1811.25 shed light on why particular drug
+1813.98 and behavioral treatments
+1815.087 and other sorts of treatments
+work and don't work.
+1818.12 This is especially
+important in the case of OCD
+1820.97 where it turns out that the order
+1822.68 and type of treatment can really vary
+1824.48 according to individual,
+1826.04 and that's something really
+special and important about OCD
+1829.01 that we really can't say
+for a number of the other
+1831.2 sorts of disorders that we've described
+1832.76 on previous podcasts.
+1834.35 So let's take a step back
+1835.7 and look at the neural circuitry.
+1837.68 What's going on in the brain
+and body of people with OCD?
+1840.8 Why the intrusive recurrent thoughts?
+1843.41 Why the compulsions?
+1844.43 Why is that whole system bound by anxiety?
+1848.39 And in some ways in thinking about that,
+1850.46 I want you to keep in mind
+1851.84 that the brain has two main functions.
+1856.46 The brain's main functions are
+1858.8 to take care of all
+the housekeeping stuff,
+1860.9 make sure digestion works,
+1862.04 make sure the heart beats,
+1863.03 make sure you keep
+breathing no matter what,
+1865.19 make sure that you can see, you can hear,
+1868.22 you can smell, et cetera,
+1869.45 the basic stuff, and then
+there's an enormous amount
+1872.18 of brain real estate that's designed
+1874.49 to allow you to predict
+what's going to happen next,
+1876.95 either in the immediate future
+1877.92 or in the long-term future.
+1880.1 And largely that's done based
+on your knowledge of the past.
+1883.03 So you also have memory systems.
+1884.48 And of course you have
+systems in the brain and body
+1887.0 that are designed to bind what's happening
+1889.79 at the housekeeping level,
+like your heart rate,
+1891.86 to your anticipation of
+what's going to happen next.
+1894.35 So if you're thinking about
+something very fearful,
+1896.09 your body will have one type of reaction.
+1897.65 If you're thinking about
+something very pleasant
+1899.3 and relaxing, your body will
+have another type of reaction.
+1901.91 So whenever I hear about
+the brain-body distinction,
+1904.94 I have to just remind everybody
+1907.01 that there really is no distinction
+1908.42 between brain and body
+when you think about it
+1910.52 through the nervous system.
+1911.48 The nervous system is the brain,
+the eyes, the spinal cord,
+1914.03 but of course all their connections
+1915.41 with all the organs of the body
+1916.55 and the connections of
+all the organs of the body
+1918.26 with the brain, the
+spinal cord, et cetera.
+1920.33 So as I describe these neural circuits,
+1922.88 I don't want you to think of them
+1923.87 as just things happening in the head,
+1925.76 they are certainly happening in the head,
+1927.8 in fact, the circuits all
+described most in detail
+1930.71 do exist within the confines
+of your cranial vault,
+1933.29 that's nerd speak for skull,
+1935.03 but those circuits are
+driving particular predictions
+1939.17 and therefore particular biases
+1941.42 towards particular actions in your body.
+1943.49 They're creating a state of readiness
+1945.02 or a state of desire to
+check or desire to count
+1948.71 or desire to avoid et cetera, et cetera.
+1952.1 So what are these circuits?
+1953.45 Well, there's been a lot
+of wonderful research
+1956.48 exploring the neural circuit's underlying
+1958.76 obsessive-compulsive disorder
+1960.8 and that's mainly been accomplished
+1961.94 through a couple of methods.
+1963.5 Most of those methods
+when applied in humans
+1965.99 involve getting some look
+into which brain areas
+1970.7 are active when people
+are having obsessions
+1973.07 and when people are
+engaging in compulsions.
+1975.77 Now that might seem simple to do,
+1977.39 but of course your brain is
+housed inside the cranial vault.
+1980.51 And in order to look inside it,
+1981.8 you have to use things like
+magnetic resonance imaging,
+1984.11 which is just fancy technology
+for looking at blood flow,
+1987.53 which relates to activation
+of neurons, nerve cells,
+1991.04 or things lik PET, P-E-T, imaging,
+1994.04 which has nothing to do with the verb pet
+1995.69 and has nothing to do with your house pet,
+1997.61 has everything to do with
+positron emission tomography,
+2000.46 which is just another way of seeing
+2002.14 which brain areas are active
+2003.52 and then you can also
+use PET to figure out
+2005.44 what sorts of neurochemicals are active,
+2007.18 like dopamine, et cetera.
+2009.22 Many studies, we can fairly say dozens
+2012.64 if not hundreds of studies,
+2013.81 have now identified a particular circuit
+2016.63 or loop of brain areas
+that are interconnected
+2019.48 and very active in
+obsessive-compulsive disorder.
+2024.52 That loop includes the cortex,
+2027.37 which is kind of the outer
+shell of the human brain.
+2030.91 The lumpy stuff, as
+it's sometimes appears,
+2033.73 if the skull is removed.
+2035.2 And it involves an area
+called the striatum
+2037.51 which is involved in action selection
+2039.22 and holding back action.
+2040.87 The striatum is involved
+in what's commonly called
+2043.18 go and no-go types of behaviors.
+2045.46 So every type of behavior
+like picking up a pen
+2047.32 or a mug of coffee involves
+a go type function.
+2051.43 It involves generating an action.
+2053.53 But every time I resist an action,
+2056.14 my nervous system is also doing that
+2057.73 using this brain structure, the striatum,
+2060.88 which includes, among other
+things, the basal ganglia.
+2064.06 We've talked about that before.
+2065.17 I'm not trying to overload
+you with terminology here,
+2067.18 but I know some people are
+interested in terminology.
+2069.52 So you have go behaviors
+and you have no-go,
+2071.47 resisting of behaviors,
+not going toward behavior.
+2075.76 The cortex and the striatum
+are in this intricate
+2079.03 back and forth talk.
+2079.99 It's really loops of connections.
+2081.37 The cortex doesn't tell
+the striatum what to do,
+2083.11 the striatum doesn't tell
+the cortex what to do.
+2085.09 They're in a crosstalk.
+2085.99 Like any good relationship, there's a lot
+2087.43 of back and forth communication.
+2089.89 There's a third element in
+this cortico-striatal loop
+2093.7 as it's called, and that's the thalamus.
+2096.07 Now, the thalamus is not a structure
+2097.45 I've talked a lot about
+before on this podcast,
+2099.61 but it's one of my favorite
+structures to think about
+2102.04 and teach about in neuroanatomy,
+2103.63 which I teach back at Stanford
+2105.52 and I've taught for many years elsewhere
+2107.47 because the thalamus is this incredible
+2109.54 egg-like structure in
+the center of your brain
+2112.36 that has different channels through it.
+2114.52 Channels for relaying visual information
+2117.4 or auditory information
+or touch information
+2120.55 from your environment up into your cortex,
+2123.97 and as a consequence,
+making certain things
+2126.16 that are happening to you and around you
+2128.62 apparent to you, making you aware of them,
+2130.6 making you perceive them
+and suppressing others.
+2134.44 So for instance, right now,
+2135.58 if you're hearing me say this,
+2137.17 your thalamus has what are
+called auditory nuclei,
+2140.44 there's collections of neurons
+2141.85 that respond to sound waves
+2144.97 that are of course coming
+in through your ears,
+2146.98 and your thalamus is active in a way
+2149.713 that those particular
+regions of your thalamus
+2152.32 are allowed, literally permitted
+to pass the information
+2155.98 coming from your ears
+through some other steps
+2158.62 but then to your thalamus,
+your auditory thalamus,
+2160.63 then up to your cortex and you can hear
+2162.19 what I'm saying right now.
+2163.9 At the same time, your
+thalamus is surrounded
+2166.84 by a kind of a shell,
+2167.92 something called the
+thalamic reticular nucleus.
+2169.99 Again, you don't have
+to remember the names,
+2171.43 but this thalamic reticular nucleus,
+2173.2 also sometimes called the
+reticular thalamic nucleus,
+2175.75 this is, believe it or not, a
+subject of debate in science.
+2178.24 There are people that
+literally hated each other,
+2179.92 probably still hate each other,
+2180.88 even though one of them
+is dead for decades,
+2182.92 because they would argue it
+was thalamic reticular nucleus,
+2184.93 the other was reticular thalamic nucleus.
+2187.21 Anyway, these are scientists,
+2188.62 they're people, they tend to debate.
+2191.05 but the thalamic reticular nucleus,
+2192.58 as I'm going to call it,
+2194.38 serves as a sort of gate
+2196.33 as to which information
+is allowed to pass through
+2198.79 up to your conscious
+experience, and which is not.
+2201.85 And that gating mechanism
+is strongly regulated
+2204.19 by the chemical GABA.
+2205.93 GABA is a neurotransmitter
+that is inhibitory, as we say,
+2210.46 it serves to shut down
+or suppress the activity
+2213.73 of other neurons.
+2215.02 So the thalamic reticular
+nucleus is really saying,
+2218.65 no, touch information
+cannot come in right now.
+2222.19 You should not be
+thinking about the contact
+2224.86 of the back of your legs with the chair
+2226.96 that you're sitting on, Andrew,
+2227.89 you should be thinking about
+what you're trying to say
+2229.54 and what you're hearing
+and how your voice sounds
+2231.22 and what you see in
+front of you, et cetera.
+2233.92 Whereas if I'm about to get
+an injection from a doctor
+2237.31 or I'm in pain, or I'm in pleasure,
+2239.56 I'm going to think about
+my somatic sensation
+2242.23 at the level of touch
+2243.49 and I'm probably going to think less
+2244.99 about smells in the room,
+2246.76 although I might also think
+about smells in the room
+2248.59 or what I'm seeing and what I'm hearing.
+2250.36 We can combine all these
+different sensory modalities,
+2253.36 but the thalamic reticular nucleus
+2254.95 really allows us to funnel,
+2256.99 to direct particular categories
+of sensory experience
+2260.08 into our conscious awareness
+2261.43 and suppress other categories
+of sensory experience.
+2265.66 In addition, the thalamic
+reticular nucleus
+2268.33 plays a critical role in which thoughts
+2272.02 are allowed to pass up to
+our conscious perception
+2274.84 and which ones are not,
+2276.73 so much so that some neuroscientists
+2279.4 and indeed some neurophilosophers,
+2281.53 if you want call them that,
+2282.67 have theorized or philosophized that
+2285.85 the thalamic reticular nucleus
+2287.17 is actually involved in our consciousness.
+2289.36 Now, consciousness isn't a topic
+2290.71 that I really want to
+talk about this episode
+2292.33 and it's a very kind of mushy-murky,
+2294.67 as we say in science, it's a shmooey term
+2297.16 because it doesn't really
+have clear definitions
+2298.93 so arguments about it often get lost
+2300.67 in the fact that people are
+arguing about different things.
+2303.01 But when I say consciousness,
+2304.45 what I mean is conscious awareness.
+2306.28 So let's zoom out and
+take a look at the circuit
+2308.8 that we've got and that we now know
+2310.45 based on neuroimaging studies is
+2313.0 intimately involved in
+generating obsessions
+2315.13 and compulsions in OCD.
+2316.75 We have a cortex or neocortex,
+2319.24 which is involved in
+perception and understanding
+2321.43 of what's happening.
+2322.57 We have the striatum and basal ganglia,
+2324.76 which are involved in
+generating behaviors, go,
+2327.46 and suppressing behaviors, no-go.
+2329.5 And we have the thalamus which collects
+2331.9 all of our sensory experience in parallel,
+2334.39 hearing, touch, smell, et cetera,
+2336.58 not so much smell through the
+thalamus, I should mention,
+2338.41 but the other senses that is.
+2340.84 And then that thalamus is encased
+2344.32 by the thalamic reticular
+nucleus, which serves
+2346.93 as a kind of a guard
+saying you can pass through
+2349.21 and you can pass through,
+but you, you, you
+2351.16 can't pass through up to conscious
+2353.29 understanding and perception.
+2355.27 So that loop, this
+cortico-striatal-thalamic loop,
+2358.79 cortico-striatal-thalamic
+loop is the circuit
+2361.9 thought to underlie OCD,
+2364.6 and dysfunction in that circuit
+2366.4 is what's thought to underlie OCD.
+2368.29 Now, again, this circuit
+exists in all of us
+2369.94 and it can operate in healthy ways,
+2371.26 or it can operate in ways
+that make us feel unhealthy
+2373.45 or even suffer from full blown OCD.
+2376.51 How do we know that this
+circuit is involved in OCD?
+2379.66 Well there, we can look to
+some really interesting studies
+2382.81 that involve bringing human
+subjects into the laboratory
+2386.71 and generating their
+obsessions and compulsions
+2389.02 and then imaging their brain using
+2390.61 any variety of techniques
+that we talked about before.
+2393.7 What would such an experiment look like?
+2395.23 Well, in order to do
+that sort of experiment,
+2397.63 first of all, you need people who have OCD
+2400.72 and of course you need
+control subjects that don't,
+2402.91 and you need to be able to reliably evoke
+2405.16 the obsessions and the compulsions.
+2406.78 Now, it turns out this is
+most easily, or I should say
+2410.11 most simply done, 'cause it can't be easy
+2411.85 for the people with OCD,
+2412.9 but this is most straightforward,
+2415.24 that's the word I was looking for,
+2416.32 most straightforward when
+looking at the category
+2419.68 of obsessions and compulsions that relate
+2422.23 to order and cleanliness.
+2425.11 So what they do typically
+is bring subjects
+2427.57 into the laboratory who have a obsession
+2430.45 about germs and contamination
+2432.58 and a compulsion to hand wash,
+2434.92 and they give these
+people, believe it or not,
+2437.68 a sweaty towel that contains the sweat
+2441.01 and the odor and the
+2443.92 liquid, basically, from
+somebody else's hands.
+2446.5 In fact, they'll sometimes have someone
+2448.09 wipe their own sweat off
+the back of their neck
+2450.85 and put it on the towel
+and then they'll put it
+2452.74 in front of the person,
+which as you can imagine
+2454.66 for someone with OCD is
+incredibly anxiety-provoking
+2457.99 and almost always evokes
+these obsessions about,
+2461.353 ugh, this is really, this is really bad.
+2464.41 This is really bad, I need to clean,
+2466.591 I need to clean. I need to clean.
+2467.424 Now they're doing all this while someone
+2468.67 is in a brain scanner or
+2470.56 while they're being imaged
+2471.4 for positron emission tomography.
+2473.35 And then they can also look at
+2474.31 the patterns of activation in the brain
+2477.28 while the person is doing hand washing.
+2479.02 Although sometimes the apparati
+2480.58 associated with these imaging studies
+2481.84 make it hard to do a lot of movement,
+2483.34 they can do these sorts of studies.
+2485.35 They have done these sorts of studies
+2487.09 in many subjects using
+different variations
+2490.27 of what I just described.
+2491.38 And low and behold what lights up?
+2494.255 And when I say lights up,
+2495.25 what sorts of brain regions
+2497.74 are more metabolically
+active, more blood flow,
+2499.69 more neural activity?
+2500.53 Well, it's this particular
+cortico-striatal-thalamic loop.
+2504.85 In addition to that,
+2506.26 some of the drug treatments
+2507.76 that are effective in some,
+2509.26 and I want to emphasize some individuals,
+2511.48 at suppressing obsessions
+and or compulsions
+2514.36 such as the selective
+serotonin reuptake inhibitors
+2517.35 or SSRIs, which we'll talk
+about in a little bit,
+2521.23 when people take those drugs,
+2522.97 they see not just a suppression of
+2525.88 the obsession and compulsion,
+2528.46 but also a suppression of these
+particular neural circuits.
+2532.33 They become less active.
+2533.62 Now I want to emphasize
+and telegraph a little bit
+2536.2 of what's coming later,
+2538.39 these drugs like SSRIs do not
+work for everybody with OCD.
+2542.02 And as many of you know,
+2543.07 they carry other certain
+problems and side effects
+2545.53 for many but not all individuals.
+2548.11 But nonetheless, what we have now
+2549.97 is an observation that this circuit,
+2551.92 the cortico-striatal-thalamic loop,
+2553.72 is active in OCD.
+2555.07 We have a manipulation that
+when people take a drug
+2558.13 that at least in those individuals
+2559.54 is effective in suppressing or eliminating
+2561.64 the obsessions and compulsions,
+2562.84 there's less activity in this loop.
+2564.88 And thanks to some very
+good animal model studies,
+2567.61 that at least at this point in time,
+2569.2 you really couldn't do in humans,
+2571.09 although soon that may change,
+2573.1 we now know in a causal way
+2575.14 that the equivalent circuitry
+exists in other animals,
+2579.85 such as mice, such as
+cats, such as monkeys,
+2582.19 and that activation of those particular
+2585.88 cortico-striatal-thalamic circuits
+2588.13 in animal models can indeed evoke OCD
+2591.82 in an individual that prior to that
+2594.64 did not have OCD.
+2596.29 So I'm just going to
+briefly describe one study.
+2598.27 This is a now classic study published
+2600.64 in the journal Science,
+2601.69 one of the three apex journals in 2013.
+2604.81 The first author on this paper
+2606.67 is Susanne Ahmari, A-H-M-A-R-I.
+2610.18 I will provide a link to
+this in the show notes.
+2612.25 It's a truly landmark paper done
+2614.35 in Rene Hen's lab at Columbia University.
+2617.44 And the title of the paper
+2618.46 is repeated cortico-striatal
+stimulation generates,
+2621.43 that's the key word here,
+2622.27 generates persistent OCD-like behavior.
+2625.33 What they did is they took mice,
+2627.07 mice do mouse things.
+2629.2 They move around, they play with toys,
+2630.67 they eat, they pee, they mate,
+2632.59 they do various things in their cage,
+2634.36 but they also groom.
+2636.73 Humans groom, animals with fur groom,
+2639.46 Well, you hope most people groom,
+2640.87 some people over-groom,
+some people under-groom,
+2643.33 but most people groom.
+2644.163 They'll comb their hair,
+they'll clean, et cetera.
+2645.91 Those are normal behaviors
+that humans engage in.
+2648.82 I'm not aware that mice comb their hair,
+2649.9 but mice adjust their hair.
+2651.13 So they'll kind of pet their hair
+2652.117 and they'll do this.
+2652.95 They'll sometimes even
+do it to each other.
+2654.67 We used to have mice in the lab,
+2655.72 now we only do human studies,
+2656.98 but the mice will groom themselves,
+2659.86 and typical, what we call wild type mice,
+2662.38 not because they're wild,
+2663.25 but because they're typical,
+2664.63 will groom themselves at
+a particular frequency,
+2667.69 but not to the point where
+their hair is falling out.
+2670.06 Not constantly, they are
+grooming some of the time
+2673.15 and they're doing other mouse
+things other mouse times.
+2676.72 So in this particular study,
+2678.1 what they did is they
+used some technology,
+2681.04 which it actually was discussed
+2682.66 on a previous episode of
+The Huberman Lab Podcast,
+2685.0 this is technology that was
+developed by a psychiatrist
+2687.4 and bioengineer by the
+name of Karl Deisseroth,
+2689.32 one of my colleagues at
+Stanford School of Medicine.
+2692.32 This is technology that allows researchers
+2694.27 to use the presentation of light
+2696.88 to control neural activity
+in particular brain areas
+2700.78 in a very high fidelity way.
+2703.21 You control the activity in
+the cortex of the striatum
+2705.48 or the thalamus when you
+want and how you want.
+2707.83 It's really a beautiful technology.
+2709.66 In any event, what they
+did in this study is,
+2711.9 or I should say what Susan Ahmari
+2713.68 and colleagues did in this study
+2715.24 was to stimulate the
+cortico-striatal circuitry
+2720.28 in animals that did not
+have any OCD-like behavior.
+2722.95 And when they did that,
+2724.21 those animals started grooming incessantly
+2726.46 to the point where their hair
+was falling out or they even,
+2729.43 they didn't take the experiments
+this far, fortunately,
+2731.35 but the animals would have a tendency
+2732.88 to almost rub themselves raw
+2734.59 in the same way that
+somebody who has a compulsion
+2737.05 to hand wash would, sadly,
+people will hand wash
+2740.26 to the point where their hands
+2741.093 are actually bleeding and raw.
+2742.51 It's really that bad.
+2743.59 I know that's tough imagery to imagine,
+2745.6 and you can't even imagine
+why someone would self harm
+2747.49 in that way, but again,
+that's that incredible anxiety
+2751.09 relationship between the
+compulsion, excuse me,
+2753.07 the obsession and the compulsion,
+2754.93 and the fact that
+engaging in the compulsion
+2757.6 simply strengthens the obsession
+2759.19 and therefore the anxiety.
+2760.6 So that collection of studies, of data,
+2764.59 FMRI, PET scanning in humans,
+2766.81 the treatment with SSRIs,
+and these experiments where
+2771.37 researchers have actively triggered
+2774.46 these particular circuits in animal models
+2777.25 that previously did not have
+2778.78 too much activity in these circuits
+2780.07 and then they observe OCD emerging
+2783.37 really points squarely to the fact
+2785.14 that the cortico-striatal-thalamic loop
+2787.48 is likely to be the basis of OCD.
+2790.36 Now, of course, other circuits
+could also be involved,
+2792.94 but the cortico-striatal-thalamic circuit
+2795.49 seems to be the main circuit
+generating OCD-like behavior.
+2799.36 That's a lot of mechanism.
+2800.74 Hopefully it was described in a way
+2802.6 that you can digest and understand.
+2804.46 And some of you might be
+thinking, well, so what?
+2806.29 Why does that help me?
+2807.25 I mean, I can't reach into my brain
+2808.78 and turn off my cortex.
+2810.1 I can't reach into my brain
+and turn off my thalamus.
+2812.65 And indeed, on the one hand, that's true.
+2815.5 But as you'll next learn
+2817.48 when thinking about the
+various behavioral treatments
+2819.79 and drug treatments
+2821.2 and holistic treatments for OCD,
+2823.57 what you'll notice is that each one taps
+2825.49 into a different component
+2826.84 of this cortico-striatal-thalamic loop.
+2829.78 And by understanding
+that, you can start to see
+2832.69 why certain treatments
+might work at one stage
+2835.27 of the illness versus others.
+2837.31 You will also start to understand why
+2839.32 obsessive-compulsive personality disorder
+2842.38 does not have the same
+sorts of engagements
+2844.75 of these neural loops,
+2845.83 and yet relies on other
+aspects of brain and body
+2850.3 and therefore responds best
+to other sorts of treatments.
+2853.75 Or in some cases, people
+with obsessive-compulsive
+2856.93 personality disorder are
+not even seeking treatment
+2858.97 as I alluded to before.
+2860.35 The point here is that by understanding
+2861.79 the underlying mechanism
+2863.23 why certain drugs and
+behavioral treatments work
+2865.99 and don't work will become
+immediately apparent
+2868.15 and in thinking about
+that, in knowing that,
+2871.42 you'll be able to make excellent choices,
+2873.46 I believe, in terms of what
+sorts of treatments you pursue,
+2876.22 what sorts of treatments you abandon,
+2877.9 and most importantly, the order,
+2880.75 the sequence that you pursue
+and apply those treatments.
+2884.02 Before we go any further,
+I'd like to give people
+2886.39 a little bit of a window into
+2887.89 what a diagnosis for OCD would look like.
+2890.89 Give you a sense of the sorts of questions
+2893.11 that a clinician would ask to determine
+2895.6 whether or not somebody has OCD or not.
+2898.12 Now, I want to be clear,
+I'm not going to do this
+2899.5 in an exhaustive way.
+2900.67 I wouldn't want anyone to self-diagnose.
+2902.59 Although I'm hoping that
+by sharing some of this,
+2904.69 that some of you might get insight
+2906.04 into whether or not you do have obsessions
+2907.96 and compulsions that
+might qualify for OCD,
+2910.9 and perhaps even to seek out help.
+2913.3 The most commonly used test of OCD,
+2917.86 or for OCD, I should say,
+2918.91 is called the Yale-Brown
+Obsessive Compulsive Scale.
+2922.0 And this is, scientists love acronyms
+2924.58 as do the military, and it's the Y-BOCS,
+2926.857 the Y-B-O-C-S, the Y-BOCS.
+2931.36 So typically someone
+will go into the clinic
+2933.7 either because a family
+member encouraged them to
+2935.77 or because they feel
+that they're suffering
+2937.66 from obsessions and compulsions,
+2939.49 and before the clinician would proceed
+2942.46 with any kind of direct questions,
+2944.02 they would very clearly define
+2945.55 what obsessions and compulsions are.
+2946.93 And here I'm actually
+reading from the Y-BOCS.
+2949.21 So quote, "obsessions are
+unwelcome and distressing ideas,
+2951.7 thoughts, images or impulses
+2953.11 that repeatedly enter your mind.
+2954.46 They may seem to occur against your will.
+2956.59 They may be repugnant to you,
+2957.88 you may recognize them as senseless
+2959.53 and they may not fit your personality."
+2962.38 Then there are compulsions.
+2963.79 Quote, "Compulsions, on the other hand,
+2965.56 are behaviors or acts that
+you feel driven to perform
+2967.72 although you may recognize
+them as senseless or excessive.
+2971.02 At times, you may try to resist doing them
+2972.91 but this may prove difficult.
+2974.26 You may experience anxiety
+that does not diminish
+2976.72 until the behavior is completed."
+2978.43 And as I mentioned before in many cases,
+2980.68 immediately after the
+behavior has completed,
+2982.33 the anxiety doesn't just return,
+it indeed can strengthen.
+2985.63 Now, there are a tremendous
+number of questions
+2986.89 on the Y-BOCS.
+2987.723 So I'm just going to highlight
+2989.68 a few of the general categories.
+2992.2 Typically, the person
+will fill out a checklist,
+2994.78 so they will designate whether or not
+2997.6 currently or in the past they have,
+2999.79 for instance, aggressive obsessions,
+3002.19 fear that one might harm themselves,
+3004.2 fear that one might harm others,
+3005.91 fear that they'll steal things,
+3007.08 fear that they will act
+on unwanted impulses,
+3009.93 currently or in the past or both,
+3012.06 that's one category.
+3013.11 The other one are
+contamination obsessions.
+3014.88 So concern with dirt or germs,
+3016.53 bothered by sticky substances or residues,
+3018.54 et cetera, et cetera.
+3019.59 So there are a bunch
+of different categories
+3021.51 that include, for instance,
+sexual obsessions,
+3024.33 what are called saving obsessions,
+3026.49 even moral obsessions,
+3028.47 excess concern with right
+or wrong or morality,
+3030.87 concerned with sacrilege and blasphemy,
+3033.93 obsession with need for
+symmetry and exactness.
+3035.82 Again, all of these
+questions being answered
+3037.74 as either present in the past
+3039.45 or not present in the past,
+3041.01 present currently or
+not present currently.
+3043.17 And then the test generally
+3046.29 transitions over to questions
+about target symptoms.
+3049.86 They really try and get people to identify
+3052.05 if they have obsessions, what
+are their exact obsessions?
+3054.63 Now, this turns out to be really important
+3056.19 because as we talk about some
+3057.32 of the therapies that really work,
+3059.88 I'll just give away a little bit
+3061.26 of why they work best in certain cases
+3064.08 and why they don't work
+as well in other cases,
+3066.81 it turns out that it
+becomes very important
+3069.39 for the clinician and the patient
+3071.34 to not just identify the obsessions
+3073.647 and the compulsions generally
+3075.243 in a kind of a generic or top contour way,
+3078.03 but to really encourage
+or even force the patient
+3081.24 to define very precisely what the biggest,
+3085.11 most catastrophic fear is,
+3087.51 what the obsession really relates to.
+3089.76 That turns out to be very important
+3091.41 in disrupting this
+cortico-striatal-thalamic loop
+3094.47 and getting relief from symptoms
+3096.36 one way or the other.
+3097.65 So the Yale-Brown Obsessive
+Compulsive Scale, this Y-BOCS,
+3101.13 again, is very extensive,
+3102.42 it goes on for dozens of pages actually,
+3105.69 and has all these different categories,
+3108.0 not so much designed to just pinpoint
+3110.79 what people obsess about
+3112.29 or what they feel compelled to do,
+3114.81 but to also try and identify
+3116.91 what is the fear that's driving all this.
+3119.97 In the way that we've
+set this up thus far,
+3122.16 we've been talking about
+obsessions and compulsions
+3124.02 is kind of existing in a vacuum.
+3125.91 You're obsessed about germs
+3127.26 and you're compelled to wash your hands,
+3129.18 obsessed about germs,
+compelled to wash your hands.
+3130.83 Or obsessed about symmetry,
+3132.24 compelled to put right
+angles on everything.
+3134.22 Or obsessed about counting
+3135.51 and therefore counting, et cetera.
+3137.37 But beneath that
+3139.65 is a cognitive component
+that is not at all apparent
+3143.28 from someone describing their obsession
+3146.31 and from someone describing or
+displaying their compulsion.
+3149.55 The deeper layer to all
+that is what is the fear,
+3153.24 exactly, if one were to
+not perform the compulsion,
+3157.8 meaning what is the fear
+that's driving the obsession?
+3161.1 So that brings us to a
+very powerful category
+3164.34 of treatments that I
+should say does not work
+3167.73 in everybody with OCD
+3169.44 but works in many people with OCD
+3172.02 and really speaks to the
+underlying neural circuitry
+3176.31 that generates OCD and
+how to interrupt it.
+3178.71 And that is the treatment
+3179.88 of cognitive behavioral therapy
+3182.22 and in particular,
+3183.06 exposure-based cognitive
+behavioral therapy.
+3186.63 So we're going to talk about
+cognitive behavioral therapy
+3188.46 and exposure therapy now,
+3190.05 but right at the outset,
+3191.85 I want to distinguish the kinds
+3193.23 of cognitive behavioral therapy
+3194.4 and exposure therapies that are done
+3195.81 for obsessive-compulsive disorder,
+3197.187 for the sorts of cognitive
+behavioral therapies
+3199.05 that are done for other types
+3200.91 of mental challenges and disorders
+3204.3 because cognitive
+behavioral therapy for OCD
+3207.51 really has everything to do
+3208.92 with identifying the utmost fear.
+3212.91 In some sense, we can think of fears
+3214.11 as kind of along a hierarchy.
+3215.88 An the example earlier of somebody
+3217.95 being afraid to turn left and therefore
+3219.84 feeling compelled to turn right,
+3221.85 you would want to take that person
+3223.17 and really understand
+what do they fear most
+3226.5 about turning left?
+3227.46 Now they might not be aware of it.
+3229.02 They might not be conscious
+to what that really is,
+3231.39 but if you were to probe
+them in a clinical setting,
+3233.7 you would eventually get to an answer.
+3235.11 That answer could be at first,
+3237.66 I don't know, just, it's just bad.
+3239.31 I don't know why it's
+bad, it makes no sense,
+3241.26 but it's just bad.
+3242.28 I do not want to go left.
+3243.42 I don't know why, I don't know why.
+3244.83 But if you were to push
+that person a little bit
+3247.08 in a respectful and kind and caring way
+3250.32 aimed at their treatment,
+3251.16 if you were to push 'em and say,
+3251.993 well, what do you mean by bad?
+3253.65 If you turn left, you
+think the world would end?
+3256.2 They might say, no, the
+world's not going to end,
+3257.85 but you know, someone is
+going to die suddenly.
+3260.97 I know that sounds crazy, but
+somebody's going to die suddenly.
+3264.12 This almost sounds like superstition,
+3265.74 we'll talk about superstitions later,
+3267.03 but indeed it is somewhat superstitious.
+3269.37 So for instance, you would
+say, who's going to die?
+3272.07 And they'd say, I don't know.
+3273.66 And you'd say, no, really
+who's going to die?
+3275.85 If you think about this,
+are you going to die?
+3277.44 Is so and so going to die?
+3278.46 And very often,
+3280.56 very often what you find is that
+3283.05 people will start to
+3285.45 reveal the underlying obsession
+3288.63 at a level of detail that
+both to the clinician
+3291.63 and to them can be somewhat astonishing
+3293.37 even though they've been
+living with that detail
+3295.17 in their mind for a very long time.
+3297.24 Now, how could somebody
+start to reveal detail
+3299.19 about something that's
+existed in their mind
+3300.81 for a very long time, but
+not known about it, right?
+3304.23 Not been aware of it.
+3305.46 Now, some of you might think,
+3306.36 oh, it's repressed or something.
+3308.01 That's not at all what's happening.
+3310.35 If you think about the
+architecture of OCD,
+3312.63 typically, people will have an obsession
+3314.46 and then they'll engage in the compulsion
+3316.14 as quickly as they can to
+relieve that obsession.
+3318.66 So in many ways, the disease itself
+3320.4 prevents people from ever
+getting to the bottom
+3323.43 of that trough, ever getting to the point
+3325.5 where they really clearly
+articulate to themselves
+3327.99 exactly what it is that they fear.
+3330.57 But it becomes so essential to articulate
+3333.45 exactly what it is that they fear
+3335.91 for a somewhat counterintuitive reason.
+3337.83 You might think, oh,
+the moment they realize
+3340.08 exactly what they fear, everything lifts,
+3342.51 the circuit turns off
+and they just feel better
+3344.4 because they realized it.
+3345.87 I wish I could tell you that's the case,
+3347.1 but it turns out it's the opposite.
+3348.84 What the clinician is
+actually trying to do
+3351.18 is get people to feel
+more anxiety, not less.
+3355.2 What they're trying to get them to do
+3356.34 is to short circuit, no pun intended,
+3359.4 to intervene in their own neural circuit,
+3361.65 I should say, with that relief of anxiety,
+3366.0 however brief, brought on by engaging
+3368.67 in the compulsion
+related to the obsession.
+3370.74 So, whereas typically someone would feel
+3373.8 the obsession with, ugh,
+I don't want to turn left
+3375.797 'cause something bad's going to happen,
+3377.34 someone's going to die,
+and then they turn right,
+3379.74 they never get the
+option or the opportunity
+3382.68 to really explore what would happen
+3385.56 were they to turn left or to
+not be able to turn right.
+3388.56 By forcing them down the path of inquiry,
+3391.02 that leads them to the place
+where they very clearly
+3393.99 identify the fear, the anxiety,
+3397.2 it raises the anxiety in them,
+3399.54 and that's actually what
+the clinician is after.
+3403.71 Cognitive behavioral
+therapy and exposure therapy
+3407.1 in the context of OCD, most often involves
+3410.1 trying to get people to tolerate,
+3412.71 not relieve their anxiety.
+3414.93 This is extremely important.
+3416.34 And I realize there's variation to this
+3418.62 depending on the style of
+cognitive behavioral therapy,
+3421.62 the style of exposure therapy,
+but almost across the board,
+3425.52 The goal, again, is to get
+people to feel the anxiety
+3429.54 that normally they are able
+to at least partially relieve,
+3432.87 however briefly, by
+engaging in the compulsion.
+3435.87 So if we think back to that circuit
+3438.18 of cortico-striatal-thalamic,
+what's going on here?
+3441.15 Where is CBT intervening?
+3443.46 What part of the circuit
+is getting interrupted?
+3446.37 Well, as you recall,
+3447.203 the cortex is involved
+in conscious perception.
+3449.4 The thalamus and that
+thalamic reticular nucleus
+3451.62 are involved in the
+passage of certain types
+3454.86 of experience up to our
+conscious perception, not others.
+3458.1 And the striatum is involved
+3459.21 in this go, no-go type behavior.
+3462.45 When OCD is really expressing
+itself in its fullness,
+3467.25 people feel an anxiety
+around a particular thought
+3470.16 and they either have a go,
+3473.22 for instance, wash hands,
+3474.66 or a no-go, do not turn
+left type reaction.
+3479.79 By having people progressively,
+3481.65 in a kind of hierarchical way,
+3483.6 reveal their precise source of anxiety,
+3486.6 their utmost fear in this context,
+3489.63 what happens is they feel enormous amounts
+3492.09 of autonomic arousal.
+3493.83 Now in the context of anxiety treatment
+3496.41 or other types of treatments,
+3497.7 the goal would be to
+teach people to dampen,
+3499.77 to lessen their anxiety
+through breathing techniques
+3502.38 or through visualization techniques
+3504.78 or through self-talk or
+through social support,
+3507.24 any of the number of
+things that are well-known
+3508.95 to help people self
+regulate their own anxiety.
+3511.44 Here, it's the opposite.
+3512.88 What they're trying to
+get the patient to do
+3515.1 is to really feel the
+anxiety at its maximum,
+3518.31 but then do the exact opposite
+3520.14 of whatever the normal compulsion is.
+3521.82 So if normally the compulsion
+is to wash one's hands,
+3524.31 then the idea is to suppress hand washing
+3526.68 while being in the experience
+of the utmost anxiety.
+3529.83 Or in the case of not turning left,
+3532.74 the person is expected to
+3535.29 or would hopefully be able
+to actually turn left,
+3541.407 and as you can imagine, that
+would evoke tremendous anxiety
+3544.05 and yet to tolerate that anxiety.
+3546.12 Now I want to be very clear,
+3546.99 this is not the sort of thing
+you want to do on your own.
+3548.97 This is not the sort of thing
+you want to do for a friend.
+3550.86 This is done by trained
+licensed psychologists
+3554.46 and psychiatrists.
+3555.96 But nonetheless, it
+really points to the fact
+3559.23 that as a anxiety-related disorder,
+3562.53 OCD is distinct from
+other types of anxiety
+3565.65 and anxiety-related disorders,
+3567.63 things like PTSD and
+panic disorder, et cetera,
+3570.42 because the goal again
+is to bring the person
+3572.97 right up close to the thing
+that they fear the most
+3576.42 and then to interrupt the circuit.
+3578.64 And now you should be able to know,
+3581.46 just intuitively, 'cause you
+understand the mechanisms,
+3584.58 that the circuit you're trying to disrupt
+3586.26 is the pattern of information flow
+3589.35 from the thinking part of the brain,
+3591.0 the perception part of the brain,
+3592.02 which is the cortex, to the striatum.
+3595.23 The striatum has these
+neurons which are active
+3598.56 that essentially are, I
+know it sounds a little bit
+3600.69 like a discussion about free will,
+3602.07 but they're trying to get some,
+3603.12 the person to generate a certain behavior,
+3604.95 suppress a certain behavior.
+3606.81 And as anxiety ramps up,
+3608.31 it's sort of a hydraulic
+pressure to do that very thing
+3611.73 that they've done for so long
+3612.81 and they suffer from so much.
+3614.64 We talked about hydraulic
+pressure in the context
+3616.65 of aggression in the aggression episode,
+3618.78 this is very similar.
+3620.79 There's a kind of a,
+3622.29 now when I say hydraulic pressure,
+3623.49 it's not actual hydraulic pressure,
+3624.9 it's the confluence of a
+lot of different systems.
+3626.94 It's neurochemicals, we'll soon learn,
+3628.62 it's hormonal, it's electrical,
+3630.51 it's a lot of different
+things operating in parallel
+3632.88 so we can't point to one
+chemical or transmitter.
+3635.46 What's happening is the
+person is feeling compelled
+3637.44 to act, act, act to relieve the anxiety
+3639.66 and through a progressive
+type of exposure,
+3643.44 you don't throw people in the deep end
+3645.03 in this kind of therapy right off the bat,
+3647.52 you gradually ratchet them toward
+3649.23 or move them toward the discussion
+3650.91 of exactly what they fear the most
+3652.44 and then eventually move them toward
+3654.09 the interruption of the compulsion
+3656.25 as they're feeling this
+extremely elevated anxiety,
+3658.77 of course, within the context
+3659.94 of a supportive clinical setting.
+3662.61 But in doing that, what
+you are teaching people
+3665.34 is that the anxiety can
+exist without the need
+3668.55 to engage in the compulsion.
+3670.14 Now some of this might
+sound to people like, oh,
+3672.99 this is a lot of kind of fancy
+3674.28 psychological neuroscience speak
+3675.87 around something that's kind of intuitive.
+3677.4 But I think for most people,
+this is not intuitive.
+3680.85 And for people with OCD,
+3684.27 there's no really other way to put it,
+3685.71 the impulse, the
+compulsion to avoid anxiety
+3689.49 is such a powerful driving force
+3691.77 that it should now make sense to you
+3693.06 as to why being able to tolerate anxiety
+3695.76 and really sit with it
+and do the exact opposite
+3698.16 of what you're normally compelled to do
+3699.72 is going to be the path to treatment.
+3701.49 And indeed CBT has been shown
+to be enormously effective,
+3705.03 again for a large number
+of people with OCD,
+3707.88 but not all of them.
+3708.99 And oftentimes it requires that it also be
+3711.99 used in concert with
+certain drug treatments,
+3714.24 which we're going to
+talk about in a moment.
+3716.25 Next, let's talk about some
+of the really unique features
+3718.62 of cognitive behavioral
+therapy and exposure therapy
+3720.81 in the context of OCD
+that you often don't see
+3724.35 in the use of CBT, that is
+cognitive behavioral therapy,
+3728.28 for other types of psychiatric
+challenges and disorders.
+3732.03 The first element is one of stair casing.
+3735.39 And I already mentioned this before,
+3737.07 but this gradual and progressive increase
+3741.0 in the anxiety that you're
+trying to evoke from the patient,
+3744.54 from the person suffering from OCD.
+3747.0 That's done in the context of
+the office or the laboratory,
+3751.08 again, by a trained
+and licensed clinician.
+3754.74 But then the person leaves, right?
+3756.78 They leave the office,
+they leave the laboratory.
+3760.2 And a very vital component
+3762.12 of CBT and exposure
+therapy for people with OCD
+3764.94 is that they have and perform
+what's called homework,
+3768.42 is literally what they call.
+3770.16 This might be seen in
+other sorts of treatments
+3771.99 but for OCD, homework
+is extremely important,
+3775.32 because within the context
+3776.85 of a laboratory experiment or the clinic,
+3778.74 patients often feel so much support
+3780.81 that they can tolerate
+those heightened levels
+3782.4 of anxiety and interrupt
+their compulsions.
+3784.77 Whereas when they get home,
+3785.91 oftentimes the familiarity
+of the environment
+3788.34 brings 'em to a place
+where all of a sudden
+3789.93 those obsessions and compulsions start
+3792.15 interacting the same way
+3793.2 and they have a very hard time
+suppressing the behaviors.
+3796.65 Why would that be?
+3797.73 Well in neuroscience, we have a phrase,
+3800.31 it's called conditioned place preference
+3802.02 and conditioned place avoidance.
+3803.7 There's some other phrases too
+3804.72 but basically it all has to do
+3806.31 with a simple thing which is,
+3809.13 when you feel something
+repeatedly in a given environment,
+3811.74 or sometimes even once
+within a given environment,
+3813.96 you tend to feel that same thing again
+3816.39 when you return to that
+or similar environments.
+3818.76 Okay, So conditioned place blank,
+3820.14 or conditioned place that
+is simply fancy nerd speak
+3822.99 for the fact that when you're in a place
+3824.97 and something good happens,
+3826.38 you tend to feel good if
+you return to that place
+3828.09 or a place like it, or
+if something bad happens
+3830.67 in a given place, you tend to feel bad
+3832.11 when you return to that
+place or a place like it.
+3834.9 I think that most salient
+example that leaps to mind
+3837.2 is in, unfortunately, the category of bad,
+3838.98 but I had some friends years
+ago visit San Francisco.
+3842.46 There's been a ongoing,
+3843.72 it seems like it's been happening forever,
+3845.49 but this is really in the last decade
+3846.75 of daytime break-ins and
+nighttime break-ins into cars
+3850.74 to steal anything from computers
+3852.96 to what seems to be like a box of tissues.
+3854.64 And there are numerous reasons for this,
+3856.47 I don't want to get into,
+3857.303 it's not the topic of today's podcast,
+3858.78 but I will use this as
+an opportunity to say
+3860.16 if you're visiting
+anywhere in the Bay Area,
+3861.99 do not leave anything in your car
+3863.13 because the window will get broken into,
+3864.96 sometimes in broad daylight.
+3866.4 Some good friends of mine
+were visiting the Bay Area
+3868.5 and I texted them and said,
+3870.96 hey, by the way, when you're
+headed to dinner, guys,
+3872.94 make sure you bring in all
+your luggage and computers
+3876.18 however inconvenient that might be.
+3878.37 They wrote back, too late,
+everything got stolen.
+3881.31 So some years ago now, I
+think five, six years ago
+3883.29 this happened, sadly,
+everything got stolen.
+3886.62 Most of it could be replaced,
+3887.58 but some of it was very
+sentimental to them.
+3889.68 Every time we talk, every time we consider
+3892.71 having a meeting in a particular city,
+3894.45 this comes up as I don't want to be there,
+3896.67 I don't like that city anymore, et cetera.
+3898.29 And of course, San
+Francisco has some wonderful
+3899.82 redeeming features, but it
+only takes one bad incident
+3902.61 in one location to kind of color
+3904.38 the whole picture dark, so to speak.
+3907.86 The brain works that way.
+3909.12 The brain generalizes, it's
+not a very specific organ,
+3912.36 again, it's a prediction machine
+3913.65 in addition to other things.
+3915.03 So in the case of CBT therapy,
+3917.82 the reason there's homework
+is that when people go home,
+3920.85 oftentimes that's when they relapse,
+3923.46 if you want to call it that,
+3924.48 back into their obsessions
+and compulsions.
+3926.28 And that location, that conditioned place
+3930.42 is where it becomes most
+important to challenge
+3933.03 the anxiety and to deal with the anxiety,
+3934.89 to not try and suppress the anxiety
+3936.42 through compulsions or other means.
+3938.88 And when I say other means, I
+want to highlight something,
+3941.73 it will come up again a little
+bit later in the podcast,
+3943.83 that substance abuse is very
+common in people with OCD
+3947.31 because of the anxiety component
+3948.96 and also because of people's feelings
+3950.79 that they just can't
+escape from the thoughts
+3952.71 or behavioral patterns that
+are so characteristic of OCD.
+3957.03 So alcohol abuse or cannabis abuse,
+3959.27 or other forms of narcotics abuse
+3962.13 are very common in OCD.
+3965.4 Later, we'll talk about
+whether or not cannabis
+3966.96 can or cannot help with OCD.
+3969.96 But needless to say,
+3971.88 suppressing anxiety is
+exactly the wrong direction
+3975.36 that one should take if
+the goal is to ultimately
+3978.87 relieve or eliminate the OCD.
+3981.51 So we now have two characteristics
+of CBT exposure therapy
+3985.26 that are extremely important for OCD
+3987.06 and somewhat unique to
+the treatment of OCD
+3989.07 and that's the staircasing up
+towards the really bad fear,
+3991.68 the really severe and
+specific articulation
+3994.98 and understanding and
+feeling of how bad things
+3997.38 really would be if someone engaged
+3999.69 in a particular behavior or
+avoided a particular behavior.
+4002.03 Then there's the component of homework
+4003.95 given by the clinician for
+the person to be able to
+4007.43 create a broader set of context
+4009.56 in which they can deal with the anxiety,
+4012.71 not engage in the compulsions.
+4014.45 And then a very unique
+feature of treatment of OCD
+4017.72 that you don't see in many
+other psychiatric disorders
+4020.81 are home visits.
+4022.19 And I find this fascinating.
+4023.66 I think that the field of
+psychiatry and psychology
+4026.51 traditionally doesn't allow
+for or invite home visits,
+4030.74 but this component of
+context, location and context
+4035.06 being so vital to the
+treatment and relief of OCD
+4039.89 has inspired many
+psychiatrists and psychologists
+4043.64 to get permission to do home visits
+4046.13 where they actually go
+visit their patients
+4047.72 in their native setting,
+in their home cages, right?
+4050.24 They're not mice, but in
+their home-home cages,
+4052.82 I'm being facetious here, but people,
+4054.38 mice live in cages, at
+least in the laboratory,
+4056.15 and humans generally live
+in houses or elsewhere,
+4059.54 so they visit them in their home
+4062.45 in order to see how they're interacting
+4064.61 and the particular locations that evoke
+4066.89 the most anxiety and the least anxiety.
+4068.66 Some of the, I don't want
+to call them crutches,
+4070.58 but some of the tools
+that people are using
+4073.16 to confront and deal with the
+obsessions and compulsions
+4076.94 and in particular to try and identify
+4079.16 some of the tools and tricks
+4081.98 that people are using to try and avoid
+4084.32 that heightened anxiety,
+because, once again,
+4086.69 and I know I'm repeating myself,
+4087.8 but I think this is just
+so vital and so unique
+4090.17 about OCD and the treatment of OCD,
+4092.51 the critical need for the
+patient to be able to tolerate
+4095.42 extremely elevated levels
+of anxiety is so crucial.
+4100.19 So if people are avoiding
+certain rooms in the house,
+4103.19 or if people are avoiding certain foods
+4105.98 or certain locations in the kitchen,
+4107.66 the clinician can start to identify that
+4109.52 by mere observation.
+4111.23 And I should mention here that patients
+4113.48 are not always aware of
+how they're interacting
+4116.72 with their home environment.
+4117.83 Some of these patterns are
+so deeply ingrained in people
+4120.683 that they don't even realize that they're
+4122.81 constantly turning to the left,
+4124.13 or they don't even realize that
+4125.6 they're only washing their
+hands on one side of the sink.
+4127.79 And so the clinician,
+by visiting the home,
+4130.01 can start to interrogate
+a bit in a polite way,
+4132.58 in a friendly, in a supportive way
+4134.33 as to, do you ever think
+about why you always
+4137.6 flip the faucet to the left
+4139.16 or flip the faucet to
+the right, et cetera.
+4141.53 Now, we all do a lot of
+things that are habitual.
+4145.76 We all do things that are
+4148.31 somewhat regular from day to day.
+4150.11 In fact, I would invite
+you to ask yourself,
+4153.11 do you always put your
+toothbrush in the same location?
+4156.53 Do you always cap the toothbrush
+4158.06 before or after you use it?
+4159.41 What sorts of things do you-
+4160.243 You wipe the little threading
+on the toothpaste or not?
+4163.58 I'm somebody, I confess that I have,
+4166.43 well, I have about 3,500 pet peeves,
+4168.77 but one of my pet peeves
+4169.67 is toothpaste kind of on the
+thread of the toothpaste.
+4172.55 It really bothers me, I don't know why,
+4174.26 almost as much as trying
+to wipe it off bothers me,
+4176.87 which creates a certain challenge.
+4178.19 And if I talk about this any further,
+4179.75 then I think I would qualify
+4180.77 for obsessive-compulsive
+personality disorder.
+4183.47 But I have to say, I don't experience
+4184.64 a ton of anxiety about it.
+4185.84 It doesn't govern my life.
+4187.04 In fact, I realize that right now
+4188.72 there are tubes of toothpaste
+4190.67 that have toothpaste along the thread
+4192.2 everywhere in the world
+4193.635 and it doesn't really bother me.
+4194.468 I can still sit here and
+provide some information
+4197.78 about OCD to you.
+4198.62 It's not intrusive, at
+least not to my awareness.
+4202.25 So by the home visit,
+4203.96 the therapist can really start to explore
+4206.12 through direct questioning
+and can allow the patient
+4209.21 to explore through direct
+questioning of themselves
+4211.46 the things that they might be conscious of
+4212.81 and the things that they
+might not be conscious of
+4215.27 that would qualify for OCD.
+4217.61 So I'd like to just briefly
+summarize the key elements
+4220.25 of cognitive behavioral
+therapy and exposure therapy
+4223.37 and how they can be combined
+with drug treatments
+4226.19 that are very effective.
+4228.29 Much of what I'm going to talk about next
+4229.91 relates to the data
+and indeed the practice
+4233.54 of an incredible research
+scientist and clinician.
+4238.25 So this is Helen Blair Simpson,
+4240.14 or I should say Dr. Helen Blair Simpson,
+4242.12 because she is indeed an MD medical doctor
+4244.43 and a PhD research scientist
+4246.05 at Columbia University School of Medicine.
+4249.23 And one of the world's foremost experts,
+4252.29 if not the expert, I would
+put her in a category
+4254.78 of maybe just one to three people who
+4257.96 is most knowledgeable about
+the mechanisms of OCD,
+4261.47 is actively researching OCD in humans,
+4264.74 trying to find new treatments,
+4266.15 trying to unveil new mechanisms
+4268.76 and expand on our current
+understanding and who also treats
+4272.24 OCD quite actively in her own clinic.
+4276.2 Dr. Simpson gave a beautiful presentation
+4279.32 which she summarized
+some of the core elements
+4281.96 of CBT and exposure therapy
+4283.73 for the treatment of
+obsessive-compulsive disorders.
+4286.19 She describes that the key
+procedures are exposures,
+4289.34 of course, done in person
+4292.07 and with the actual thing that evokes
+4294.2 the obsessions and compulsions.
+4296.45 So this could be the sweaty
+towel as described earlier,
+4299.63 or could be any number of
+different triggers done
+4303.38 with the patient in real time,
+4305.09 so in vivo, as we say.
+4307.1 And it could also be
+things that are imaginal,
+4310.25 sitting somebody down in a chair,
+4312.05 in an office and saying,
+4313.34 okay, I want you to imagine the thing
+4315.95 that triggers the intrusive thought,
+4317.36 or let's just focus on the
+intrusive thought as it arises,
+4321.05 and then to explore and expose the patient
+4323.18 to their obsessions and
+compulsions that way.
+4324.77 So it can be real, or it can be imaginal.
+4326.9 And the goal, of course, then
+4328.25 is to gradually and progressively
+4330.92 increase the level of anxiety,
+4332.45 but then to intervene in
+so-called ritual prevention
+4335.39 to prevent the person from
+engaging in the compulsion.
+4338.3 The goals, again I'm paraphrasing here,
+4340.91 are to, as she states, disconfirm fears
+4344.33 and challenge the beliefs
+about the obsessions
+4348.77 and compulsions, to
+intervene in the thoughts
+4350.96 and the behaviors, and to break the habit
+4352.43 of ritualizing and avoiding.
+4354.11 Now, how is this typically done?
+4355.46 What are the nuts and
+bolts of this procedure?
+4358.49 Typically, this is done
+through two planning sessions
+4362.33 with the patient.
+4363.163 So describing to the
+patient what will happen
+4365.45 and when it will happen
+and how long it will happen
+4367.79 so that they're not just thrown into this
+4370.01 out of the blue.
+4371.09 And then 15 exposure sessions
+done twice a week or more.
+4375.71 So the one thing to really understand
+4377.12 about cognitive behavioral therapy
+4378.5 is that it can take some period of time,
+4380.24 several or more weeks, as
+many as 10 or 12 weeks.
+4383.48 However, as you'll soon learn,
+4385.16 many of the drug treatments
+that are effective
+4386.9 in treating OCD either
+alone or in combination
+4389.75 with behavioral therapies
+also can take 8, 10, 12 weeks
+4393.44 or longer, and many of
+those never work at all.
+4396.08 So even though 10 to 12 weeks
+4397.76 seems like a long period of time,
+4399.14 it's actually a pretty standard.
+4400.4 If you'd like to see
+more complete description
+4402.59 of the protocols for
+cognitive behavioral therapy
+4404.63 and exposure therapy for OCD,
+4406.73 I'll provide links to two papers,
+4408.29 Kozak and Foa, F-O-A,
+4410.63 which is published in 1997,
+4412.31 which might seem like a long time ago,
+4413.6 but nonetheless, that the
+protocols are still very useful.
+4416.51 And then the second paper
+is by that last author,
+4419.0 FOA et al in 2012
+4420.8 and we'll provide links to both of those.
+4422.96 In addition, Dr. Blair Simpson and others
+4425.93 have explored what are the best treatments
+4428.66 for patients with OCD by comparing
+4431.36 cognitive behavioral
+therapy alone, placebo,
+4434.27 so essentially no intervention
+4437.06 or something that takes an
+equivalent amount of time
+4439.13 but is not thought to be
+effective in treatment.
+4443.09 As well as selective
+serotonin reuptake inhibitors.
+4447.38 So what is an SSRI?
+4449.721 An SSRI is a drug that
+prevents the re-uptake
+4453.05 of serotonin at the synapse.
+4454.82 What are synapses?
+4455.653 They're the little spaces between neurons
+4457.58 where neurons communicate with one another
+4459.53 by vomiting little bits of
+chemical into the space,
+4462.68 the synapse, and then those
+chemicals either evoke
+4466.01 or suppress the electrical activity
+4467.9 of the next neuron across the synapse.
+4470.72 And in this case, the neurotransmitter,
+4472.58 the chemical that we're
+referring to is serotonin.
+4475.01 SSRI, selective serotonin
+reuptake inhibitors
+4478.67 prevent the reuptake of
+the chemical that's left,
+4483.02 in this case, the serotonin
+that's left in the synapse.
+4485.39 After that, I call it
+vomiting to be dramatic,
+4488.15 but it's not actually vomiting,
+4489.17 the extrusion of the
+chemical into the synapse.
+4492.71 And as a consequence,
+there's more serotonin around
+4495.8 to have more of an effect over time,
+4497.72 the net effect being more
+serotonergic transmission,
+4500.69 more serotonin overall.
+4502.67 So not more serotonin being made,
+4504.47 more serotonin being available for use,
+4506.87 that's what an SSRI does.
+4508.67 So they compared cognitive
+behavioral therapy, SSRIs,
+4513.47 they also had the placebo group
+4514.7 and they had cognitive behavioral therapy
+4516.2 plus the selective serotonin
+reuptake inhibitor.
+4519.95 This was a 12-week study
+done as described before,
+4522.71 two times a week over
+the course of 12 weeks.
+4525.38 First of all, the most
+important thing, of course,
+4528.38 placebo did nothing.
+4529.52 It did not relieve the OCD
+to any significant degree.
+4534.86 How did they know that?
+4535.693 They gave them the Y-BOCS test
+4536.96 that we talked about
+before, the Yale-Brown test
+4540.59 with all those questions
+of which I read a few.
+4542.96 So the OCD severity that one has to have
+4546.56 on the Y-BOCS is measured
+in terms of an index
+4549.23 that goes from here from
+8 all the way up to 28,
+4552.86 that shouldn't mean anything.
+4553.99 So that number eight is
+kind of meaningless here.
+4555.89 It's in terms of an index
+that's only meaningful
+4558.29 for the Y-BOCS, but if
+somebody has a threshold
+4561.35 of 16 or higher, it means
+that they're still having
+4564.11 somewhat debilitating symptoms
+4565.43 or very debilitating symptoms.
+4567.17 Placebo did not reduce the
+obsessions or compulsions
+4570.41 to any significant degree.
+4572.27 However, and I think quite excitingly,
+4574.49 cognitive behavioral
+therapy had a dramatic
+4578.57 effect in reducing the
+obsessions and compulsions
+4582.32 such that by four weeks, that
+score that, in this case,
+4586.01 ranged from 8 to 28,
+4587.27 dropped all the way from
+25 down to about 11.
+4591.38 So it's a huge drop in the
+severity of the symptoms.
+4595.19 Now, what's really interesting
+4596.6 is that when you look
+at the effects of SSRIs
+4599.48 in the treatment of OCD symptoms,
+4602.9 they had a significant effect
+in reducing the symptoms
+4605.96 of OCD that showed up first at four weeks,
+4608.78 and then continued to eight weeks.
+4611.3 In fact, there was a progressive
+and further reduction
+4614.45 in OCD symptoms from the
+four to eight week period.
+4617.12 Again, these are the people
+just taking the SSRI,
+4619.97 and then it sort of
+flattened out a little bit,
+4621.65 such that by 12 weeks,
+4623.09 there was still a significant
+reduction in OCD symptoms
+4625.76 for people taking SSRIs
+as compared to placebo.
+4629.0 But the severity of their symptoms
+4631.4 was still much greater than those
+4634.01 receiving cognitive
+behavioral therapy alone.
+4636.59 So at least in this study,
+4638.15 and I should tell you which study it is,
+4639.68 this is Foa, Liebowitz et al 2005
+4641.99 in the American Journal of Psychiatry,
+4643.4 we'll also provide a link to this
+4644.81 so you can peruse the data if you like.
+4647.06 But at least in this study,
+4648.44 cognitive behavioral therapy
+was the most effective,
+4651.35 selective serotonin reuptake
+inhibitors, less effective.
+4655.13 So what happens when you combine them?
+4656.72 Well, they explored that as well,
+4658.13 and the combination of
+cognitive behavioral therapy
+4660.253 and the SSRIs together
+4662.81 did not lead to any further
+decrease in OCD symptoms.
+4668.33 This points to the idea that
+cognitive behavioral therapy
+4671.48 is the most effective treatment.
+4672.83 And again, when I say
+cognitive behavioral therapy,
+4674.54 now I'm still referring
+to cognitive behavioral,
+4676.52 slash, exposure therapy done in the way
+4678.77 that I detailed before,
+4679.61 twice a week for 12 weeks or more.
+4681.95 So all of the data, at
+least in this study,
+4683.69 point to the fact that
+cognitive behavioral therapy
+4685.88 is really effective
+and the most effective.
+4688.43 Does it alleviate OCD
+symptoms for everybody?
+4691.91 No.
+4692.743 Is it very time consuming? Yes.
+4693.92 Twice a week for two sessions
+or more of 15 minutes,
+4697.73 sometimes in the office,
+plus there's homework,
+4699.8 plus, in an ideal case,
+there's also home visits
+4702.29 from the psychiatrist or psychologist,
+4704.24 that's a lot of investment,
+a lot of time investment,
+4708.53 to say nothing of the
+potential financial investment.
+4711.59 Now, Dr. Blair Simpson has
+given some beautiful talks
+4714.35 where she describes these data
+4717.29 and also emphasizes the fact that
+4719.75 despite the demonstrated power
+4722.3 of cognitive behavioral therapy
+for the treatment of OCD,
+4725.15 most people are given drug treatments
+4726.62 simply because of the availability
+of those drug treatments.
+4729.05 Now, when I say most people,
+4730.083 I want to emphasize that I'm referring
+4731.72 to most people who
+actually go seek treatment
+4734.75 because a really
+important thing to realize
+4736.82 is that most people with OCD
+4738.71 do not actually go seek
+evidence-based treatment.
+4741.92 I want to repeat that,
+most people with OCD
+4743.72 do not seek evidence-based treatment,
+4745.58 which is a tragic thing.
+4746.87 One of the motivations for
+doing this podcast episode
+4749.57 is to try and encourage people
+4751.16 who think they may have
+persistent obsessions
+4753.2 and compulsions to seek treatment,
+4756.11 but most people don't
+for a variety of reasons
+4759.77 we spelled out earlier, shame, et cetera.
+4762.68 Of those that do, the first line of attack
+4765.35 is typically a prescription,
+most often an SSRI,
+4769.37 although not always just SSRIs
+4771.35 because soon we'll talk
+about the somewhat common use
+4775.46 of also prescribing a
+low dose of a neuroleptic
+4779.11 or an antipsychotic, not always but often.
+4782.57 So the important thing to understand here
+4784.79 is that excellent
+researchers like Dr. Simpson
+4787.58 understand that while there are treatments
+4789.92 that we could say are best or are ideal
+4792.8 based on the data, that
+doesn't necessarily mean
+4794.84 that's what's being deployed
+4796.73 most often in the general public.
+4798.65 As a consequence, Dr. Simpson and others
+4801.47 have explored in a very practical way
+4804.53 whether or not it matters if somebody
+4807.14 is getting SSRI treatment
+4809.87 and is experiencing that
+reduction in OCD symptoms
+4814.28 that as you may recall, is more than
+4817.16 what they would experience
+with placebo alone,
+4819.95 but not as dramatic a
+reduction in OCD symptoms
+4822.4 as they would get with
+cognitive behavioral therapy.
+4825.05 And as I mentioned before,
+there was this exploration
+4827.54 of combining drug treatment
+4829.16 with cognitive behavioral
+therapy from the outset,
+4831.47 but they also quite impressively explored
+4834.17 what happens when people
+who are already taking SSRIs
+4837.29 initiate cognitive behavioral therapy.
+4839.51 This is a really wonderful thing
+4841.04 that they've done this
+because in doing that,
+4843.74 first of all, they're acknowledging that
+4845.42 there are many people out
+there who have sought treatment
+4847.25 and are getting some
+relief from those SSRIs,
+4849.8 but it perhaps is not as much
+relief as they could get.
+4852.59 And they are actively
+acknowledging that many people
+4856.34 are getting these drug treatments first.
+4858.29 In fact, most often people are getting
+4859.61 these drug treatments first.
+4861.26 So what happens when you add in
+4863.33 cognitive behavioral therapy?
+4864.62 Well, the good news is when you add
+4865.91 cognitive behavioral therapy
+4867.98 to someone who's already taking SSRIs,
+4870.83 that further improves their symptoms.
+4873.2 Now that's different than the results
+4876.32 that I described before
+4878.15 from the same laboratory in fact,
+4880.49 that if you combine
+cognitive behavioral therapy
+4883.52 with SSRIs from the outset,
+4885.62 there's no additional benefit of SSRI.
+4889.37 However, as I just described,
+4890.84 if someone is already taking an SSRI
+4893.06 and they're experiencing a
+reduction in their OCD symptoms,
+4897.38 by adding in cognitive behavioral therapy,
+4900.11 there is a further reduction
+in the symptoms of OCD.
+4904.624 This is very important.
+4905.457 So for those of you that
+have sought treatment
+4906.8 and you're taking a SSRI,
+4909.01 or if you're thinking about treatment
+4910.46 and you're prescribed an SSRI,
+4912.08 the ideal scenario really would be
+4913.52 to combine the drug treatment
+4915.02 with cognitive behavioral therapy,
+4916.46 or in some cases, maybe cognitive
+behavioral therapy alone,
+4918.83 although that's a decision
+that you really have to make
+4920.96 with the close
+4923.24 advice and oversight of
+a licensed physician,
+4926.69 because, of course, these
+are prescription drugs.
+4928.7 And anytime you're going to add or remove
+4930.68 a prescription drug or change dosage,
+4932.21 you really want to do that
+in close discussion with
+4934.657 and on the advice of your physician.
+4936.59 I don't just say that to protect me,
+4937.7 I say that to protect you
+4939.067 'cause it's just the right thing to do.
+4940.64 So again, cognitive behavioral therapy
+4942.65 is extremely powerful.
+4943.88 Drug treatments seem less powerful though.
+4946.07 If you're already on a drug treatment,
+4947.36 adding cognitive behavioral
+therapy can really help.
+4949.67 So I've been talking about SSRIs
+4951.02 and described a little
+bit about how they work
+4952.55 at a kind of superficial level of
+4954.65 keeping more serotonin in the synapse
+4956.6 so that more serotonin can be in action
+4959.57 as opposed to gobbled
+back up by those neurons.
+4962.57 I should just mention what some
+4963.47 of the selective serotonin
+reuptake inhibitors are.
+4966.23 So things like clomipramine,
+4969.5 which is not entirely selective,
+4972.74 I should say that that one generally falls
+4974.87 into a category of less selective.
+4976.61 So it can impair
+4979.13 or can enhance some of
+the other neurotransmitter
+4982.63 or neuromodulator systems
+like epinephrine, et cetera.
+4985.85 The selective serotonin
+reuptake inhibitors are,
+4989.42 at least the classic ones
+are, fluoxetine, Prozac,
+4991.91 fluvoxamine, Luvox,
+paroxetine, sertraline,
+4995.6 citalopram, et cetera, et cetera.
+4999.08 There are about six or classic SSRIs,
+5001.9 some of them like citalopram
+5003.43 are used in children and are available
+5006.37 in pediatric doses.
+5007.87 Some like Prozac may or may
+not be used in children.
+5010.66 The details of which SSRIs, et cetera,
+5013.72 is a very extensive
+literature and discussion.
+5016.18 And I think it's safe to say that
+5019.09 which drugs to use and which dosage
+5021.43 and whether or not to continue, excuse me,
+5024.1 the same dosage over time depends a lot
+5026.32 on the individual variation
+that people express
+5028.93 and the responses that they have.
+5030.49 All of these drugs, in
+fact, I think we can say
+5032.71 all drugs have side effects.
+5034.93 The question is how detrimental
+those side effects are
+5038.59 to daily life.
+5039.423 The SSRIs are well known to
+have effects on appetite.
+5042.4 In some cases, they abolish appetite.
+5044.92 In some cases, they just
+reduce it a little bit.
+5046.96 In some cases, they increase appetite.
+5049.12 Really is highly individual.
+5050.77 They can have effects on libido.
+5052.36 For instance, they can reduce sex drive,
+5055.72 sometimes in a dose dependent way,
+5057.16 sometimes in a way that's
+more like a step function
+5059.38 where people are fine at
+say 5 or 10 milligrams,
+5062.11 but then they get to 15 milligrams
+5065.02 and there's a cliff for their libido.
+5068.86 That can happen, it really depends.
+5070.54 Please don't take those
+dosages as exact values
+5072.7 'cause this is going to depend on
+5074.8 what they're being used for,
+depression or anxiety or OCD,
+5077.62 and it's also going to depend
+on the drug, et cetera.
+5079.45 I just threw out those numbers as a way
+5081.634 to illustrate what a
+kind of a step function
+5083.47 would look like.
+5084.303 It's not gradual, it's
+immediate at a given dose
+5086.2 is what that means.
+5087.7 The other thing is that
+some of these drugs
+5090.88 will have transient effects.
+5092.92 So side effects that show
+up and then disappear
+5094.75 or sadly people will
+sometimes take these drugs
+5097.24 for a while and then side
+effects will surface later
+5099.13 that weren't there previously
+5100.9 depending on life factors,
+nutrition factors.
+5103.06 So it's a very complicated
+landscape overall.
+5105.85 And that's why it's really
+important to explore
+5107.5 any kind of drug treatment,
+SSRI or otherwise,
+5109.99 really in close communication
+with a psychiatrist
+5112.33 who really understands
+the pharmacokinetics
+5114.19 and has a lot of patient history
+5115.63 and experience with them.
+5117.13 So what I'm about to tell you next
+5118.39 is most certainly going
+to come as a big surprise,
+5120.79 which is that despite the fact
+5122.92 that the selective serotonin
+reuptake inhibitors
+5124.96 can be effective in reducing
+the symptoms of OCD,
+5127.72 at least somewhat,
+5129.25 and certainly more than placebo,
+5131.29 there is very little, if any evidence,
+5133.81 that the serotonin system
+is disrupted in OCD.
+5136.84 And I have to point out that this is
+5138.67 a somewhat consistent theme
+in the field of psychiatry,
+5142.3 that is a given drug can be very effective
+5145.33 or even partially effective
+in reducing symptoms
+5148.54 or in changing the overall landscape
+5150.88 of a psychiatric disorder or illness,
+5153.64 and yet there is very little,
+5156.1 if any evidence, that
+that particular system
+5158.05 is what's causal for OCD, or anxiety,
+5162.55 or depression, et cetera.
+5163.81 This is just the landscape
+that we're living in
+5165.46 in terms of our understanding of the brain
+5166.99 and psychiatry and the ways
+of treating brain disorders.
+5169.72 So as a consequence,
+there are a huge number
+5172.51 of academic reviews that
+clinicians and research scientists
+5175.72 have generated and read and share.
+5178.33 One of the more, I think, thorough ones
+5182.44 in recent years was published in 2021.
+5184.78 I'll provide a link to this.
+5185.71 This is by an excellent,
+truly excellent researcher
+5189.13 from Yale university School of Medicine,
+5191.26 I should say not just a researcher
+5192.49 but a clinician scientist,
+again, an MD-PhD.
+5195.01 This is Christopher Pittenger
+5197.17 And the title of the review
+5198.19 is Pharmacotherapeutic Strategies
+5201.97 and New Targets in OCD.
+5204.43 And again, we'll provide a link to it.
+5206.74 This is a just gorgeous review describing,
+5209.68 as I just told you, that
+the serotonin system
+5211.48 isn't really disrupted in OCD
+5213.37 and yet SSRIs can be very effective.
+5216.04 The review goes on to explore
+even what sorts of receptors
+5220.12 for serotonin might be involved.
+5221.83 If it's in fact the case that serotonin
+5225.07 is a culprit in the
+creation of OCD symptoms.
+5231.43 Talk about the serotonin 2A receptor
+5233.83 and the serotonin 1A receptor.
+5235.18 Why am I mentioning all that detail?
+5236.8 If in fact it's not clear,
+5238.27 serotonin is involved because
+5240.25 I'll just tell you right now,
+5241.84 there is currently a lot of interest
+5243.19 in whether or not some
+of the psychedelics,
+5245.32 in particular psilocybin, can be effective
+5247.077 in the treatment of OCD.
+5249.52 Psilocybin has been shown
+in various clinical trials
+5252.58 in particular the clinical trials done
+5254.05 at Johns Hopkins School of Medicine
+5255.88 by Matthew Johnson and others.
+5257.65 Matthew was on The Huberman Lab Podcast.
+5259.42 He's been on the Tim Ferris podcast.
+5261.04 He's been on the Lex Fridman podcast.
+5262.99 He's a world class researcher
+5264.28 on the use of psychedelics for depression
+5266.56 and other psychiatric challenges.
+5269.5 And their psilocybin treatment
+5271.72 has been seen, at least in those trials,
+5273.61 to be very effective in the treatment
+5275.11 of certain kinds of major depression.
+5278.08 Currently the exploration of psilocybin
+5280.21 for the treatment of OCD
+5282.1 has not yielded similar results,
+5283.75 although the studies are ongoing.
+5285.46 Again, has not yielded
+similar effectiveness,
+5287.53 but the studies are ongoing
+5289.12 And the serotonin 2A receptor
+5291.07 and the serotonin 1A receptors
+5292.75 are primary targets for
+the drug psilocybin.
+5296.44 So I figured there were
+going to be some questions
+5297.88 about whether or not
+psychedelics help with OCD,
+5300.79 thus far it's inconclusive.
+5303.04 If any of you have been
+part of clinical trials
+5305.47 or have knowledge or intuition
+about this relationship
+5308.59 or potential relationship, I should say,
+5310.09 between psilocybin and other psychedelics
+5311.92 in OCD, please put them
+in the comment section.
+5313.93 We'd love to love to hear from you.
+5317.14 One thing I should point out
+5318.64 is that even though serotonin
+5320.56 has not been directly implicated in OCD,
+5323.05 serotonin and the general
+systems of serotonin,
+5325.72 the circuits in the brain
+that carry serotonin
+5327.55 and depend on it have been shown
+5329.98 to impact cognitive
+flexibility and inflexibility,
+5333.91 which are kind of hallmark themes of OCD.
+5336.1 So in animals that have
+their serotonin depleted
+5339.13 or in humans that have very
+low levels of serotonin,
+5341.95 you can see evidence of
+cognitive inflexibility,
+5345.88 challenges in tasks, switching challenges
+5348.04 and switching the rules by
+which one performs a game,
+5350.83 challenges in any kind of
+cognitive domain switching.
+5354.94 And so that does indirectly implicate
+5357.34 serotonin in some of the aspects of OCD.
+5360.1 Again, when one starts to explore
+5361.81 the different transmitter systems
+5363.31 that have been explored in
+animal models and in humans,
+5366.07 it's a vast, vast landscape,
+5367.81 but serotonergic drugs do seem to be
+5370.9 the most effective drugs in treating OCD
+5372.97 despite the fact, again, despite the fact
+5375.97 that there's no direct evidence
+5377.23 that serotonin systems
+are the problem in OCD.
+5382.12 If you recall the
+cortico-striatal-thalamic loop
+5385.18 that is so central to the etiology,
+5388.93 the presence and the
+patterns of symptoms in OCD,
+5392.5 of course, serotonin is
+impacting that system.
+5394.66 Serotonin is impacting just
+about every system in the brain,
+5397.39 but there's no evidence that
+5399.19 tinkering with serotonin levels,
+5400.63 specifically in that network,
+5402.82 is what's leading to
+the improvements in OCD.
+5406.54 However, if people go into a FMRI scanner
+5410.26 and those people have OCD
+5411.58 and they evoke the
+obsessions and compulsions,
+5413.41 you see activity in that
+cortico-striatal-thalamic loop.
+5417.43 Treatments like SSRIs that
+reduce the symptoms of OCD
+5421.9 equate to a situation where
+there is less activity
+5424.6 in that loop.
+5426.13 And I should point out
+cognitive behavioral therapy,
+5429.22 which we have no reason to believe
+5430.9 only taps into the serotonin system,
+5432.58 I think it would be extreme stretch,
+5434.8 it would be false actually to say
+5436.636 that that cognitive
+behavioral therapy taps
+5438.07 only into the serotonin system,
+5439.63 clearly it's going to affect
+a huge number of circuits
+5441.7 in neurochemical systems.
+5443.05 Well, people who do
+cognitive behavioral therapy
+5445.66 and find some relief for OCD,
+5447.55 they also show reductions
+5449.08 in those cortico-striatal-thalamic loops.
+5451.84 So basically we have a situation
+5453.25 where we have a behavioral
+therapy that works,
+5456.04 in many people, not all,
+5457.87 and we have a pretty good understanding
+5459.1 of about why it works.
+5460.12 It increases anxiety tolerance,
+5461.95 and interference with pattern execution,
+5467.02 getting people to not engage
+5468.82 in the same sorts of behaviors
+5470.35 that are detrimental to them.
+5472.18 And we have drug treatments that work
+5474.28 at least to some degree,
+5475.24 but we don't know how they work
+5476.5 or where they work in the brain.
+5477.85 One of the things that really unifies
+5480.01 the behavioral treatments
+and the drug treatments
+5483.4 is that they take some period of time.
+5485.44 Some relief from symptoms seems to show up
+5487.33 around four weeks and
+certainly by eight weeks
+5489.88 for both cognitive behavioral
+therapy and the SSRIs,
+5493.21 but it's really at the 10 to 12 week stage
+5496.39 when someone's been
+doing these twice a week,
+5498.04 cognitive behavioral sessions,
+5499.99 where they've been taking
+a SSRI for 10 to 12 weeks,
+5503.65 that the really significant reduction
+5505.81 in OCD symptoms starts to really show up.
+5509.17 Now, up until now, I've
+been talking about the fact
+5511.15 that people are getting
+relief from these treatments,
+5514.0 but sadly,
+5515.71 in the case of OCD,
+5517.3 there is a significant population
+5520.54 that simply does not respond to CBT
+5523.78 or to SSRIs, or to their combination,
+5526.6 which is why psychiatrists
+also explore the combination
+5530.56 of SSRIs and neuroleptics
+5533.47 or drugs that tap into the
+so-called dopamine system
+5536.17 or the glutamate system.
+5537.43 These are other neurotransmitters
+and neuromodulators
+5540.04 that impact different
+circuits in the brain.
+5541.81 And just to really remind you
+5543.07 what neurotransmitters
+and neuromodulators do,
+5545.17 because this is important
+to contextualize all this,
+5548.11 neurotransmitters are
+typically involved in the
+5550.99 rapid communication between neurons.
+5552.82 And the two most common
+neurotransmitters for that
+5554.83 are the neurotransmitter glutamate,
+5557.2 which we say is excitatory,
+5558.818 meaning when it's
+released into the synapse,
+5560.311 it causes the next neuron to
+be more active, or active,
+5563.849 and GABA which is a neurotransmitter
+5566.099 that is inhibitory,
+meaning when it's released
+5567.791 into the synapse, typically, not always,
+5569.59 but typically, that GABA
+is going to encourage
+5572.32 the next neuron to be
+less electrically active
+5574.51 or even silence its activity.
+5577.33 The neuromodulators, by contrast,
+5579.82 So not neurotransmitters,
+but neuromodulators
+5581.98 like dopamine, serotonin, epinephrine,
+5583.96 and acetylcholine and others
+5586.96 operate a little bit differently.
+5588.49 They tend to act a
+little bit more broadly.
+5590.62 They can act within the synapse,
+5592.33 but they can also change
+the general patterns
+5595.18 of activity in the brain,
+5596.41 making certain circuits more likely
+5598.27 to be active and other circuits
+less likely to be active.
+5601.42 So when we say dopamine does X
+5603.73 or dopamine does Y, or serotonin does X
+5605.77 or serotonin does Y,
+5606.603 they don't really do one thing,
+5608.14 they change the sort of overall tonality.
+5610.57 They make it more likely or less likely
+5612.1 that certain circuits will be active.
+5613.84 You can think of them as
+kind of activating playlists
+5616.51 or genres of activity in the brain,
+5619.54 rather than being involved
+in the specific communication
+5622.36 or specific songs, if you will,
+5624.22 in this analogy, or discussions
+between particular neurons.
+5627.43 So when we hear that
+SSRIs increase serotonin
+5631.54 and reduce the symptoms of OCD,
+5633.43 or a neuroleptic reduces
+the amount of dopamine
+5636.49 and makes people feel calmer for instance,
+5639.79 or can remove some stereotype,
+repetitive motor behavior,
+5645.07 which they can either generate
+5646.84 or reduce motor behavior it turns out.
+5649.45 So when I say that, what I'm referring to
+5651.24 is the fact that these neuromodulators
+5652.96 are kind of turning up the
+volume on certain circuits
+5655.81 and turning down the
+volume on other circuits.
+5658.54 I say that because if
+you are going to explore
+5662.08 drug treatments again
+with a licensed physician,
+5665.44 if you're going to explore
+drug treatments for OCD,
+5668.38 and in particular, if you
+are not getting results
+5671.83 from SSRIs, or you're not getting results
+5674.44 from cognitive behavioral therapy
+5675.67 or the side effect profiles of the drugs
+5677.59 that you're taking for OCD
+5679.75 are causing problems that
+you don't want to take them,
+5683.11 well, then it's important to understand
+5685.0 that anytime you take one of these drugs,
+5687.13 they're not acting specifically
+5688.81 on the cortico-striatal-thalamic circuit.
+5691.51 That would be wonderful.
+5692.343 That's the future of psychiatry,
+5694.3 but as now, when you take a drug,
+5697.36 it acts systemically.
+5698.35 So it's impacting serotonin in your gut.
+5700.6 It's also impacting serotonin
+in other areas of the brain,
+5702.79 hence the effects on things
+like digestion or libido or
+5708.1 any number of different things
+5709.0 that serotonin is involved in.
+5710.89 Likewise, if you take a
+neuroleptic like haloperidol
+5714.07 or something that reduces
+dopamine transmission,
+5717.58 well, then it's going to
+have some motor effects
+5719.41 'cause dopamine is
+involved in the generation
+5721.42 of motor sequences and
+smooth limb movement.
+5723.7 That's why people with Parkinson's
+5724.81 who don't have much dopamine
+will get a resting tremor,
+5727.06 have a hard time
+generating smooth movement.
+5728.62 And so the side effects
+start to make sense,
+5731.08 given the huge number of
+different neural circuits
+5733.66 that these different
+neuromodulators are involved in.
+5736.0 I don't say that to be discouraging,
+5738.01 I say that to encourage patients
+5740.62 and careful systematic exploration
+5743.05 of different drug treatments for OCD
+5745.57 always again with the careful and close
+5749.92 guidance and oversight of a psychiatrist
+5752.08 because psychiatrists really understand
+5753.7 which side effect profiles make it likely
+5756.19 that you can or cannot or will never,
+5760.51 or maybe someday will be
+able to take a given drug
+5762.61 at a given dose.
+5763.63 They're the ones that
+really have that knowledge.
+5765.31 This is not the sort
+of thing that you want
+5766.78 to cowboy and go try
+and figure out yourself.
+5769.57 Now, I also want to acknowledge
+5771.67 that there are other
+forms of drug treatments.
+5773.53 We touched on psilocybin briefly,
+5775.15 but there are other
+forms of drug treatments
+5776.89 that have been explored for OCD.
+5779.26 Earlier, we talked a
+little bit about cannabis.
+5781.24 Why would cannabis be a
+place of exploration at all?
+5785.68 Well, first of all,
+5786.64 a number of people try
+and self medicate for OCD.
+5789.61 There is some clinical evidence,
+5791.38 I'm not talking about recreational use,
+5792.76 I'm talking about clinical evidence
+5793.78 that cannabis can reduce anxiety.
+5795.64 Now earlier we were talking about
+5797.59 not reducing anxiety, but
+learning anxiety tolerance
+5801.07 in order to deal with and treat OCD
+5804.16 in the context of cognitive
+behavioral therapies.
+5807.85 That doesn't necessarily rule out cannabis
+5809.53 as a candidate for the treatment of OCD.
+5812.707 And in fact, this has been explored.
+5814.66 A study from Dr. Blair Simpson
+herself looked at this.
+5819.25 This was a fairly small scale study.
+5820.96 So first of all, I'll give you the title.
+5822.28 And again, we'll provide a link.
+5823.39 This is entitled, Acute
+effects of cannabinoids
+5825.52 on symptoms of
+obsessive-compulsive disorder:
+5827.62 A human laboratory study.
+5829.45 very briefly, this was 14 adults with OCD.
+5832.12 They had prior experience with cannabis.
+5834.43 This was randomized, placebo-controlled.
+5836.59 The cannabis was smoked,
+they had different varietals,
+5840.64 as they're called.
+5841.54 They had a placebo.
+5842.44 So this is basically a condition
+in which certain subjects
+5846.82 consumed a cigarette that had 0% THC,
+5850.27 others had 7% THC,
+other groups that is, or
+5855.04 some had 0.4% CBD and THC.
+5857.98 So they looked at CBD.
+5859.06 I know a lot of people out
+there are interested in CBD.
+5860.953 This is one of the few
+studies I could find
+5862.69 where they explored different percentages
+5865.15 of THC and CBD in these
+5868.15 cannabis or marijuana
+cigarettes basically.
+5871.0 The total amount that they consumed,
+5872.92 I believe, was 800 milligrams.
+5874.66 These, again, are not suggestions.
+5876.73 These are just simply
+reporting what's in this study.
+5878.71 You can, again, I'll provide a link.
+5881.65 They looked at OCD symptoms, ratings.
+5884.74 They looked at cardiovascular effects.
+5886.87 They had a large number
+of different things
+5888.55 that they explored.
+5889.51 And I should say this
+study was done in 2020,
+5891.76 and it was the first
+placebo-controlled investigation
+5895.09 of cannabis in adults with
+obsessive-compulsive disorder.
+5898.12 Pretty interesting.
+5899.2 And I'm just reading from
+their conclusions here.
+5901.6 The data suggests that smoked cannabis,
+5903.31 whether containing primarily THC or CBD,
+5906.52 remember they looked at
+different concentrations
+5908.02 of those, has little acute impact,
+5910.33 meaning immediate impact on OCD symptoms
+5913.87 and yield smaller reductions in anxiety
+5915.85 compared to placebo.
+5917.17 So they did not see a, when
+I say a positive effect,
+5920.44 I mean a ameliorative effect,
+5923.23 an effect in reducing symptoms of OCD
+5925.69 from cannabis or CBD,
+5927.67 which, it's unfortunate.
+5929.74 I think it's unfortunate anytime
+a treatment doesn't work.
+5931.6 But nonetheless, those are the data,
+5932.89 I'm sure there are going
+to be other studies.
+5934.54 I'm sure there are also going to be people
+5935.71 in the YouTube comments section saying
+5937.57 that cannabis and CBD
+helps their OCD symptoms,
+5941.62 at least I anticipate there probably will.
+5944.05 Almost everything I say here,
+5945.16 somebody will contradict it with something
+5946.72 from their experience, which
+I encourage, by the way.
+5948.94 I want to hear about your
+experience with certain things
+5951.31 even if it's not from randomized
+placebo-controlled studies,
+5954.4 I still find it very interesting
+5955.87 to know what people are doing
+and what they're experiencing.
+5958.27 I think that's one of the
+better uses of social media
+5960.49 comment sections, is to be
+able to share some of that,
+5962.65 not in an advice-giving
+way or prescriptive way,
+5965.26 but simply as a way to share and encourage
+5967.42 different types of exploration.
+5969.07 There are other sorts of drug treatments
+5970.36 that are gaining popularity for OCD,
+5972.97 at least in the research realm.
+5974.74 One treatment that is a legal, L-E-G-A-L.
+5978.22 Sometimes when I say legal,
+5979.18 sometimes people think I say
+illegal, but that is legal,
+5981.61 at least by prescription in
+the United States, is ketamine.
+5985.87 The actions of ketamine
+are somewhat complex
+5989.38 although we know, for instance,
+5990.55 that ketamine acts on
+the glutamate system,
+5992.71 it tends to disrupt the transmission
+5996.43 or the relationship, I should say,
+5998.53 between glutamate, not glutamine,
+6001.23 not the amino acid, but
+glutamate, the neurotransmitter,
+6004.29 and the so-called NMDA, the
+N-methyl-D-aspartate receptor,
+6007.89 which is a receptor that's very special
+6010.59 in the nervous system
+because when glutamate binds
+6012.72 to the NMDA receptor, it tends to
+6016.23 offer the opportunity for
+that particular synapse
+6018.42 to get stronger, so-called neuroplasticity
+6020.64 and ketamine is a,
+essentially, an antagonist,
+6024.42 although it works through
+a complicated mechanism,
+6026.4 it tends to block that
+6028.44 binding of glutamate to the NMDA receptor
+6031.47 or the effectiveness of that.
+6032.67 Ketamine therapy is now
+being used quite extensively
+6035.67 for the treatment of
+trauma and for depression.
+6037.53 It leads to a dissociative state.
+6039.54 It's a so-called dissociative analgesic
+6042.954 in the variety of ways
+in which that happens.
+6044.67 We did an episode on depression.
+6045.96 We're going to do another entire
+episode all about ketamine
+6048.87 describing the networks that
+ketamine impacts, et cetera.
+6051.24 Ketamine therapies are
+being explored for OCD.
+6054.06 As of now, the data
+look somewhat promising,
+6057.66 but there's still a lot more
+work that needs to be done.
+6060.54 My read of the data are that
+6062.64 the more extensive clinical trials
+6065.37 have not happened yet.
+6066.42 The smaller studies that have happened
+6069.3 revealed that some
+patients do get some relief
+6071.4 from ketamine therapy for OCD,
+6073.5 but there was nothing
+overwhelmingly pointing to the fact
+6077.4 that ketamine is a magic
+bullet for OCD treatment.
+6081.57 So cannabis, CBD, at least now,
+6084.42 even though it's one smaller study,
+6086.58 there's no real evidence that it can
+6089.16 alleviate OCD symptoms.
+6091.74 If there are new studies published soon,
+6093.27 I'll be sure to update you.
+6094.62 And if you see those studies,
+6095.73 please send them to me.
+6096.563 Ketamine therapy, the jury is still out,
+6098.91 psilocybin, The jury is still out.
+6100.86 These are early days.
+6102.45 Another treatment that's
+becoming somewhat common,
+6105.42 or at least people are
+commonly excited about
+6107.7 is transcranial magnetic stimulation.
+6110.01 So this is the use of a magnetic coil.
+6112.32 This is completely noninvasive,
+6113.91 placed on one portion of the skull,
+6117.03 and one can direct magnetic
+6120.78 energy toward particular
+areas of the brain
+6123.15 to either suppress, or nowadays,
+6124.95 you can also activate
+particular brain regions.
+6127.44 There are some interesting data
+6128.49 showing that if TMS is applied
+6130.47 to areas of the brain involved
+6131.94 in the generation of motor action,
+6134.01 so the so-called motor areas,
+6135.75 or supplementary motor
+areas as they're called,
+6138.6 while people think about
+or have intrusive thoughts,
+6143.19 we know that the TMS coil can interrupt
+6145.65 the motor behaviors, the
+compulsive behaviors,
+6149.13 and at least in a small cohort of studies
+6152.536 and a small number of
+patients within those studies,
+6155.13 this has been shown to be effective,
+6157.38 not just while the coil
+is on the head, of course,
+6159.45 but after the study has been performed
+6161.97 or the treatment's been performed
+6163.5 in reducing OCD symptoms
+by disrupting the tendency
+6167.85 for the compulsive behavior
+to be so automatic.
+6171.57 One of the key features of
+obsessive-compulsive disorder
+6174.81 is that, especially if it's
+been around for a while,
+6178.65 the person's been dealing
+with it for a while,
+6180.36 there isn't a pattern in
+which the person thinks,
+6183.42 oh, I have this contamination fear,
+6185.97 or I need symmetry, or
+I'm kind of obsessed
+6188.37 to count to the number seven.
+6189.72 And then they pause and they go,
+6191.433 ooh, and then they do it.
+6192.9 No, typically there's a very close
+6195.66 pairing of the obsession
+and the compulsion in time
+6198.57 so that somebody's
+walking down the street,
+6199.95 thinking one, two, three,
+four, five, six, seven,
+6201.18 one, two, three, four,
+five, six seven, seven...
+6203.31 and then they're doing this
+6204.87 in such rapid succession
+6207.15 because the obsessions
+are coming up so quickly.
+6209.43 Thoughts can be generated very quickly.
+6211.68 And then they're
+generating the compulsions
+6212.943 as a way to beat down
+6214.32 or to try and suppress that anxiety
+6216.69 and then it comes right back up again
+6218.1 at even stronger as I described earlier.
+6220.41 So transcranial magnetic stimulation
+6222.48 seems to intervene in these
+various fast processes.
+6226.11 Right now, I don't think it's fair to say
+6228.3 that TMS is a magic bullet either.
+6230.82 I think there's a lot
+of excitement about TMS
+6232.47 and in particular,
+6233.94 I really want to nail this point home,
+6235.89 in particular, there's excitement about
+6238.59 the combination of TMS
+with drug treatments,
+6241.8 or the combination of TMS with
+cognitive behavioral therapy.
+6245.88 And this is a really important point,
+6247.47 not just for sake of discussion
+6248.7 about obsessive-compulsive disorder,
+6250.23 but also depression, ADHD, schizophrenia,
+6254.76 any number of different
+psychiatric challenges
+6257.76 and disorders in most cases
+are going to respond best
+6261.48 to a combination of behavioral treatment
+6263.28 that's ongoing that
+occurs in the laboratory
+6265.41 and clinical setting,
+6266.243 but also in the home setting
+where there's homework,
+6268.74 maybe even home visits.
+6271.17 Drug treatments, often, not always,
+6273.69 are a terrific augment to
+6275.22 those cognitive behavioral therapies
+6276.62 or other behavioral therapies.
+6278.04 And then now we are living in the age
+6280.05 of brain-machine interface.
+6281.31 You have companies like Neuralink
+6283.02 that I think it's fair
+to say are going to enter
+6285.63 the brain machine-interface world first
+6288.21 through the treatment
+of certain syndromes,
+6291.96 movement syndromes or
+psychiatric syndromes
+6293.94 probably before they
+start putting electrodes
+6296.16 into the brain to
+stimulate enhanced memory
+6298.65 or enhanced cognition, who knows,
+6300.06 I don't know exactly what they're doing
+6301.83 behind the walls of Neuralink.
+6302.937 But I have to imagine, in fact,
+6304.56 I would wager maybe not both arms,
+6306.81 but I'll wager my left arm
+6308.34 that the first set of
+FDA approved technologies
+6313.38 to come out of companies like Neuralink
+6315.96 are going to be those for
+the treatment of things
+6317.4 like Parkinson's and movement disorders
+6319.2 and cognitive disorders, rather than,
+6321.63 shall we say, kind of recreational
+6324.03 cognitive enhancement
+or things of that sort.
+6326.1 So transcranial magnetic
+stimulation is noninvasive.
+6328.53 It doesn't involve going
+down below the skull,
+6330.9 can have some effect,
+but most laboratories
+6333.69 that I'm aware of at
+Stanford and elsewhere
+6336.21 that are exploring TMS for things like OCD
+6338.4 and other types of psychiatric
+6340.53 challenges are using TMS in combination
+6343.83 with drug therapies, are using,
+6345.66 in some cases, for instance,
+6346.98 a laboratory at Stanford, hope
+to get 'em on the podcast,
+6349.71 a psychiatrist, Nolan Williams,
+6351.78 is exploring TMS in combination with
+6354.18 psychedelic therapies, not
+necessarily at the same time,
+6356.37 but nonetheless combining them
+6357.89 or exploring how they
+impact brain circuitry.
+6360.51 So if you have OCD, should
+you run out and get TMS,
+6363.24 or should you try ketamine therapy,
+6364.92 of course, with a licensed physician?
+6366.42 I think it's too early to say yes.
+6368.49 I think the answer is
+we need to wait and see.
+6371.4 I think cognitive behavioral
+therapy, the SSRIs,
+6373.527 and some other drug
+treatments like neuroleptics
+6376.47 combined with SSRIs and
+cognitive behavioral therapy
+6379.41 are where the real bulk of the data are.
+6382.53 I want to make one additional
+point about cannabis CBD
+6385.17 as it relates to
+obsessive-compulsive disorder.
+6387.84 To me, it's not at all surprising
+6390.21 that cannabis CBD did not
+improve symptoms of OCD.
+6394.35 Because in my discussion
+with Dr. Paul Conti
+6396.69 a few weeks ago,
+6398.31 and I should mention, Dr. Conti
+6399.48 is indeed a medical
+doctor, a psychiatrist,
+6403.08 we were talking about
+cannabis and its various uses,
+6405.27 because it does have some
+clinical applications.
+6408.27 And he mentioned that
+one of the main effects
+6410.82 of cannabis is to tighten focus
+6414.63 and to enhance concentration on
+6417.66 and thoughts about one particular thing.
+6420.45 And in some cases that can
+be clinically beneficial,
+6423.12 and in other cases that can
+be clinically detrimental.
+6426.12 If you accept the idea that
+cannabis increases focus,
+6431.88 and you think about OCD
+and the networks involved,
+6435.87 and you think about the
+anxiety and the relationship
+6438.18 between the obsession and compulsion,
+6440.88 well, then it shouldn't
+come as any surprise
+6442.68 that cannabis did not
+improve the symptoms of OCD
+6446.13 because if anything,
+it would increase focus
+6449.04 on the obsessions and the compulsions.
+6450.87 Now that's not what they observed.
+6451.95 They did not see an exacerbation
+6453.96 or a worsening of the
+symptoms of OCD with cannabis,
+6457.38 at least that's not my read of the data,
+6459.12 but they did not see an improvement
+6461.1 in OCD symptoms with cannabis or CBD.
+6464.13 And to me, that's not surprising
+6466.11 given that cannabis CBD
+seems to increase focus.
+6469.56 Next, I'd like to talk
+about some of the research
+6471.63 on and the roles of hormones in OCD,
+6475.11 because it turns out to be
+6475.943 a very interesting relationship there.
+6477.87 But before I do, I want
+to point out something
+6479.58 that I realize I probably
+should have said earlier,
+6482.49 which is one of the key
+things for someone with OCD
+6485.61 to come to understand if
+they're going to experience
+6488.19 any relief of their symptoms,
+6489.81 whether or not they're
+doing drug treatments
+6490.98 or behavioral treatments or otherwise,
+6492.99 is that thoughts are
+not as bad as actions.
+6498.72 Thoughts are not as bad as actions.
+6500.76 One of the kind of rules
+that people with OCD
+6504.09 seem to adopt for themselves
+6506.16 is that thoughts are really,
+6508.53 truly the equivalent of actions.
+6510.33 So they'll have an intrusive thought and,
+6512.58 we haven't spent too
+much time on this today,
+6513.99 but earlier I touched on the fact
+6515.97 that some of the intrusive
+thoughts that people have
+6518.28 in OCD are really disturbing.
+6520.47 They can be really gross,
+6522.18 or at least gross to that person.
+6524.1 They can evoke imagery that
+is toxic or infectious,
+6529.05 or is highly sexualized in a way
+6531.63 that is disturbing to
+them, it can be very taboo.
+6534.48 This is not uncommon
+6536.13 when you start talking to people with OCD
+6537.78 and you start pulling on the thread.
+6539.49 Again, this would be a psychiatrist
+6541.47 who was trained to ask the right questions
+6543.63 and gain the comfort
+and trust of a patient.
+6545.91 And they start to reveal that
+6546.743 these thoughts are really
+intrusive and kind of disturbing,
+6549.63 which is why they feel so compelled
+6551.22 to try and suppress them with behaviors.
+6553.38 One of the powerful elements
+of treatment for OCD
+6557.28 is to really support the patient
+6560.49 and make them realize that
+thoughts are just thoughts
+6564.21 and that everyone has disturbing thoughts.
+6566.55 And that oftentimes
+those disturbing thoughts
+6568.38 arise at the most
+inconvenient, and sometimes,
+6571.44 what seems like the most
+inappropriate circumstances.
+6575.01 And this relates to a
+whole larger discussion
+6577.35 that we could have about what are thoughts
+6579.78 and why do they surface,
+6580.62 and how come when you stand
+at the edge of a bridge,
+6583.53 even if you do not want to jump off,
+6585.21 you think about jumping off.
+6586.68 And this has to do with the fact
+6588.45 that your nervous system,
+as a prediction machine,
+6590.85 is oftentimes testing possibilities.
+6592.71 And sometimes that testing
+goes way off into the
+6596.91 Netherlands of the thought patterns
+6600.54 and emotional patterns that
+we all have inside of us.
+6603.36 The big difference between
+a thought and an action
+6605.85 is that, of course, the nervous system is,
+6608.87 in one case, not translating
+6611.1 those patterns of thinking
+into motor sequences.
+6614.97 That nerdy way of saying
+thoughts aren't actions,
+6618.66 believe it or not,
+6619.493 can be helpful for people if they really
+6621.48 think about that and
+use it as an opportunity
+6623.73 to realize that, first of
+all, they're not crazy.
+6627.36 They're not thinking
+and feeling this stuff
+6630.3 because they're bad or evil.
+6632.19 And of course, sometimes
+this can cross over
+6634.2 with other elements of life
+6635.82 where we place moral judgment on people
+6637.8 for certain behaviors.
+6638.633 I think that's part of a
+healthy society, of course,
+6640.68 that's why we have laws and punishments
+6642.63 and rewards for that matter
+for certain types of behaviors.
+6645.69 But this idea that thoughts
+are not as bad as actions
+6647.73 and that thoughts can be tolerated
+6649.77 and the anxiety around thoughts
+6651.66 can be tolerated and
+over time can diminish,
+6654.06 that's a very powerful hallmark theme
+6656.31 of the treatment of OCD
+6657.45 so I'd be remiss if I didn't mention it.
+6659.94 Thoughts are not actions.
+6661.92 Actions can harm us, they
+can harm other people,
+6664.53 they can soak up enormous amounts of time.
+6668.52 Thoughts can soak up
+enormous amounts of time.
+6670.92 They can be very troubling.
+6671.94 They can be very detrimental.
+6673.2 We of course want to be sensitive to that,
+6675.81 but when it really comes down to it,
+6678.81 the first step in treatment
+for OCD is this realization
+6682.83 where the approach to the realization
+6684.51 that thoughts are not as bad as actions.
+6687.3 So what about hormones in OCD?
+6689.55 Well, this has been explored,
+6690.75 albeit not as extensively
+as I would've liked to find,
+6693.66 but when I went into the literature,
+6695.34 I found one particularly
+interesting study,
+6698.28 entitled, Neurosteroid Levels in Patients
+6700.23 with Obsessive-Compulsive Disorder.
+6702.18 First author, Erbay
+6703.013 And as always, we'll
+provide a link to the study.
+6707.04 The objective of this
+study was to explore serum
+6709.56 within blood, neurosteroid
+levels in people with OCD.
+6713.73 Why?
+6714.563 Well, because of the relationship
+6715.86 between OCD and anxiety
+6717.36 and the fact that in
+stress-related disorders
+6719.67 such as anxiety and depression,
+6722.28 the hormones have been
+extensively explored,
+6724.14 but not so much in OCD,
+at least until this study.
+6726.78 So they compared serum levels of a number
+6729.09 of different hormones,
+progesterone, pregnenolone,
+6731.58 DHEA, cortisol, and testosterone.
+6735.36 This was done in 30 patients with OCD
+6737.297 and 30 healthy controls.
+6739.62 So it's not a huge study,
+but it's enough to draw
+6742.62 some pretty nice conclusions.
+6744.0 These subjects were 18 to 49 years old,
+6746.91 and the controls were age and sex matched
+6750.33 healthy volunteers.
+6751.2 Again, no OCD.
+6752.85 What was the basic
+takeaway from the study?
+6754.26 The basic takeaway from the
+study was that in females
+6756.9 with OCD, there was evidence
+6759.63 for significantly elevated
+cortisol and DHEA.
+6763.65 Now that's interesting because cortisol
+6765.33 is well known to be associated
+with the stress system.
+6768.57 Although every day, should mention,
+6770.67 we all, male or female,
+everybody experiences
+6774.3 an increase in cortisol
+shortly after awakening.
+6776.79 That's a healthy increase in cortisol.
+6779.04 Late shift, I mean, late in
+the day peaks in cortisol
+6783.15 where a shift in that cortisol peak
+6784.95 to later in the day is a known correlate
+6789.33 of depression and anxiety disorders.
+6792.66 So the fact that cortisol is elevated
+6794.157 and DHEA are elevated in female patients
+6798.42 with OCD suggests that
+6801.75 cortisol is either reflective of or causal
+6804.48 for the increase in anxiety.
+6806.82 We don't know the
+direction of that effect.
+6808.92 Now in male patients with OCD,
+6811.68 there was evidence for increased cortisol.
+6813.81 Again, not surprising given the
+role of anxiety in cortisol,
+6816.86 or I should say, given the
+role of cortisol in anxiety
+6819.93 and the increasing anxiety seen in OCD,
+6822.87 but there are also significant
+reductions in testosterone,
+6825.99 which should also not surprise us
+6828.18 because cortisol and
+testosterone more or less compete
+6832.02 in some fashion for their own production,
+6834.99 both are derived from
+the molecule cholesterol.
+6837.9 And there are certain biochemical pathways
+6839.67 that can either direct
+that cholesterol molecule
+6841.86 toward cortisol synthesis
+or testosterone synthesis,
+6845.22 but not both.
+6846.54 So they compete.
+6847.373 So when cortisol goes up in general,
+6849.06 not always, but in general,
+6850.2 testosterone goes down and vice versa.
+6852.57 If you want to learn more
+about the relationship
+6854.31 between cortisol and testosterone,
+6855.81 and there are even some tools
+to try and optimize those
+6857.85 ratios in both males and females,
+6860.4 you can find that in our episode
+6861.69 on optimizing testosterone and estrogen,
+6863.73 that's at hubermanlab.com.
+6865.8 Now, I would say the
+most interesting aspect
+6868.44 of this study is not
+that DHEA and cortisol
+6871.8 are elevated in females with OCD
+6873.2 or that cortisol and testosterone
+6875.67 have this opposite effect,
+6876.63 cortisol up and testosterone
+down in males with OCD,
+6880.11 but rather the relationship
+between all of those,
+6883.08 DHEA, cortisol, and testosterone.
+6886.77 In terms of GABA, GABA again
+6889.35 being this inhibitory neurotransmitter
+6891.57 that tends to quiet
+certain neuronal pathways,
+6896.04 it does different things
+at different synapses,
+6898.83 but in general, the more
+GABA that's present,
+6901.17 the more inhibition that's present,
+6902.79 and therefore the more
+suppression of neural activity.
+6905.52 And DHEA is known to
+be a potent antagonist
+6911.43 of the GABA system.
+6913.47 So here we have elevated DHEA in females.
+6918.54 And I should also
+mention that testosterone
+6921.09 is also known to tap into the GABA system.
+6923.82 Typically, when testosterone is elevated,
+6926.13 GABA transmission, at
+least is slightly elevated.
+6929.76 So here we have a situation
+in which the pattern
+6932.28 of hormones in females and males with OCD
+6936.51 are different from those
+in people without OCD
+6940.77 such that GABA transmission is altered
+6943.86 and the net effect would be
+an overall reduction in GABA.
+6947.64 Now GABA, as an inhibitory
+neurotransmitter,
+6951.39 and broadly speaking is associated
+6953.67 with lower levels of anxiety,
+6955.77 and it tends to create balance
+6957.75 within various neural circuits.
+6959.43 Now, that's a very broad statement,
+6960.63 but we know for instance, in epilepsy,
+6963.54 that GABA levels are reduced
+6965.01 and therefore you get runaway excitation
+6966.99 of certain circuits in the brain,
+6968.34 and therefore seizures, either petite mal,
+6970.74 mini seizures, or grand
+mal, massive seizures,
+6973.35 or even drop seizures where
+people completely collapse
+6975.69 to the floor in seizure.
+6976.83 You may have seen this before.
+6978.18 I certainly have, it's very dramatic
+6979.95 and it actually is quite
+debilitating for people
+6983.01 because obviously they don't
+know when these seizures
+6984.66 are coming on most often, and then
+6987.03 they can fall into a stove
+or while driving, et cetera.
+6989.91 So the situation with OCD is one in which,
+6993.18 for whatever reason, we don't
+know the direction of effect.
+6997.53 Certain hormones are elevated in females
+6999.51 and certain hormones are elevated in males
+7001.28 and those hormones differ
+between males and females,
+7005.57 and yet they both funnel into a system
+7008.09 where GABAergic or GABA
+transmission in the brain
+7011.21 is reduced because of this ability
+7013.46 for those particular hormones
+7014.9 to be antagonists to GABA,
+7017.21 and as a consequence, there's
+likely to be overall levels
+7021.77 of increased excitation in
+certain networks in the brain
+7025.4 and that brings us back to this
+7027.972 cortico-striatal-thalamic loop,
+7029.84 this repetitive loop
+that seems to reinforce,
+7032.39 we can say reinforces
+obsession, leads to anxiety,
+7036.56 leads to compulsion, leads to
+transient relief of anxiety,
+7040.4 but then increase in anxiety,
+increased obsession, anxiety,
+7044.09 compulsion, anxiety,
+compulsion, anxiety, compulsion,
+7046.28 and so on and so forth.
+7047.78 So I have not found
+studies that have explored
+7052.07 adjusting testosterone levels
+7054.38 through exogenous administration,
+7056.09 cream or injection or otherwise,
+7057.65 or that have focused on
+reducing DHEA in females.
+7062.24 If anyone is aware of such studies,
+7063.83 please put them in the
+comment section on YouTube
+7066.86 or send them to us.
+7067.85 We have a contact site on the
+website at hubermanlab.com,
+7070.64 but the comment section
+on YouTube would be best.
+7073.28 But because we know that
+hormones impact neuromodulators
+7076.22 and neurotransmitters,
+as I just described,
+7078.05 and that those neuromodulators
+and neurotransmitters
+7080.12 play an intimate role in the generation
+7082.22 and the treatment of things like OCD,
+7085.34 it stands to reason that manipulations
+7088.34 of those hormone systems, however subtle
+7090.56 or dramatic might, I want to highlight,
+7092.9 might prove useful in
+adjusting the symptoms of OCD
+7096.23 and I hope that this is
+an area that researchers
+7099.23 are going to pursue in
+the very near future
+7100.94 because many of the
+treatments for reducing DHEA
+7104.57 or increasing testosterone
+or reducing cortisol
+7107.09 have already made it through FDA approval.
+7109.91 They're out there, they're
+readily prescribed.
+7112.4 Many of them are already in generic form
+7114.02 which means that the
+patents have already lapsed
+7116.42 on the first versions of those drugs.
+7119.21 So when they're available as
+generic drugs, very often,
+7122.03 they're available at
+significantly lower cost.
+7124.7 There's a whole discussion we had there
+7126.05 about patent laws and prescription drugs.
+7129.47 But because these drugs
+are largely available
+7132.14 in prescription yet generic form,
+7135.74 I think there's a great opportunity
+7137.06 to explore how hormones,
+not just cortisol,
+7140.6 testosterone, and DHA,
+7141.77 but the huge category of hormones
+7144.14 might impact the symptoms of OCD,
+7146.51 especially since many
+of the symptoms of OCD
+7149.21 show up right around the time of puberty.
+7151.25 We haven't talked a lot
+about childhood OCD,
+7152.69 'cause we're going to do an entire series
+7154.7 on childhood psychiatric
+disorders and challenges but
+7159.26 many children develop OCD early as young
+7162.38 as three or four, believe it or not,
+7164.27 or even 6 or 7 and 10
+7166.04 and in adolescence, and
+certainly around puberty.
+7168.86 and in young adulthood.
+7170.54 It is rare, although it does happen,
+7172.58 that people will develop
+OCD very late in life
+7174.98 around 40 or older, just
+kind of spontaneously.
+7177.74 Most often when you look
+at their clinical history,
+7179.6 you find that either they were hiding it
+7181.58 or is being suppressed in some way,
+7183.32 or if it does spontaneously
+show up late in life
+7186.14 like mid-thirties or in one's forties,
+7190.07 typically there's a
+traumatic brain injury,
+7192.53 could be due to stroke or
+physical injury to the head
+7195.26 or something of that sort.
+7197.15 Nonetheless,
+7198.74 there is a interesting correlation
+7200.63 between the onset of puberty
+in certain forms of OCD.
+7203.33 There's certain forms of, or I should say,
+7205.4 there's certain aspects of menopause
+7206.84 that can relate to OCD.
+7208.16 You can find all these
+things in the literature.
+7210.26 All this to say that hormones
+impact neurotransmitters
+7213.17 and neuromodulators, which clearly impact
+7215.06 the kinds of circuits
+that are involved in OCD
+7217.22 and it makes sense that,
+7219.14 and I would hope that there
+would be an exploration
+7221.63 of how these hormones impact OCD
+7223.4 in the not too distant future.
+7224.75 Now there is an extensive
+literature exploring
+7226.58 how testosterone therapy,
+7227.96 both in males and
+females, can be effective
+7232.43 in some cases in the treatment
+7234.44 of anxiety-related disorders,
+7236.57 but not, at least to my
+knowledge, in OCD in particular.
+7240.14 So this whole area of the use
+7242.33 of testosterone and estrogen therapies,
+7244.28 DHEA, cortisol suppression,
+7246.29 or maybe even enhancement
+for the treatment of OCD
+7249.89 is essentially a big black box
+7252.35 that very soon, I believe, will be lit.
+7256.55 I realize that a number of
+listeners of this podcast
+7258.92 are probably interested in the non-typical
+7262.58 or holistic treatments for OCD.
+7265.55 Dr. Blair Simpson's lab
+has at least one study
+7267.92 exploring the role of
+mindfulness meditation
+7271.4 for the treatment of OCD.
+7274.31 There, the data are a
+little bit complicated
+7277.34 and I should mention that
+7279.98 good things are happening, at
+least in the United States,
+7282.68 probably elsewhere as well,
+7284.06 but good things are happening in terms of
+7286.43 the exploration of things like meditation
+7289.1 and other, let's call them non-traditional
+7291.14 or holistic forms of treatment
+for psychiatric disorders
+7294.68 because of the division
+of complimentary health
+7297.23 that's now been launched
+7298.37 by the National Institutes of Health.
+7299.63 So, whereas before
+people would think about
+7302.69 meditation or yoga nidra,
+7304.97 or even CBD supplementation
+for that matter,
+7308.69 as kind of fringe maybe, or kind of woo
+7310.91 or non-traditional at the very least,
+7313.67 the National Institutes of
+Health in the United States
+7315.68 has now devoted an entire division,
+7319.25 an entire Institute,
+purely for the exploration
+7322.4 of things like breathing
+practices, meditation, et cetera.
+7324.74 So there's a cancer institute,
+7326.15 there's a hearing and deafness institute,
+7327.86 there's a vision institute,
+7329.57 and now there's this
+complimentary health Institute,
+7331.58 which I think is a wonderful addition
+7334.61 to the more traditional
+aspects of medicine.
+7338.0 I think no possible useful treatment
+7341.09 should be overlooked or
+unresearched in my opinion,
+7343.7 provided that can be done safely.
+7345.83 And as I mentioned,
+Dr. Blair Simpson's lab
+7348.65 has looked at the role
+of mindfulness meditation
+7351.347 and the treatment of OCD.
+7353.33 Now we should all keep in mind,
+7356.12 no pun intended, that most of the data
+7358.4 on mindfulness meditation
+shows that it increases
+7361.97 the ability to focus.
+7363.86 Now, this brings us back to a
+kind of repeating theme today,
+7366.44 which is that increased focus
+7368.06 may not be the best thing
+for somebody with OCD
+7371.87 because it might increase
+focus on the obsession
+7375.2 and/or compulsion.
+7377.03 Turns out that mindfulness
+meditation can be useful
+7379.7 in the treatment of OCD,
+7380.99 but mainly by way of how it impacts
+7384.05 the focus on and the ability
+7387.11 to engage in cognitive
+behavioral therapies.
+7390.05 So it's very unlikely, at
+least by my read of the data,
+7393.29 to be a direct effect of meditation
+7395.54 on relieving the symptoms,
+7396.68 rather it seems that
+meditation is increasing focus
+7399.53 on things like cognitive
+behavioral therapy homework
+7403.04 and to not focus on other things
+7404.72 and therefore indirectly
+improving the symptoms of OCD.
+7408.11 Now somewhat surprisingly, at least to me,
+7409.94 there have also been a fairly
+large number of studies
+7412.64 exploring how nutraceuticals,
+as they're sometimes called,
+7416.48 supplements that are
+available over the counter
+7418.64 can impact the treatment of
+obsessive-compulsive disorder.
+7421.73 Now there's such an extensive
+number of different compounds
+7425.0 and supplements that
+fall under the category
+7427.31 of nutraceuticals and
+that have been explored
+7429.29 in the treatment of OCD
+that I'd like to point you
+7431.12 to a review that is entitled,
+7433.67 Nutraceuticals in the treatment
+7434.96 of obsessive-compulsive
+disorder: a review,
+7437.69 excuse me, of mechanistic
+and clinical evidence.
+7440.51 So it's published in 2011,
+so it's over 10-years-old.
+7444.5 And so by now,
+7445.953 I have to imagine that
+there are an enormous number
+7448.46 of additional substances
+that could be explored,
+7451.43 but there are just one or two
+here that I want to focus on.
+7454.4 Here in this review,
+7455.233 they describe effects
+of 5-HTP and tryptophan,
+7458.99 so things that are in
+the serotonin pathway,
+7461.06 which would make sense
+7461.893 given what we know about the SSRIs
+7463.91 that people would explore
+how different supplements
+7466.04 that increase serotonergic transmission
+7468.29 might impact OCD.
+7470.36 What you find is that they
+do have significant effects
+7473.0 in improving or reducing
+the symptoms of OCD
+7476.72 in somewhat similar way
+to some of the SSRIs.
+7479.45 But you of course have to be careful.
+7482.54 Anything that's going to tap into a given
+7484.55 neurochemical system to the same degree
+7486.86 may very likely have the
+same sorts of side effects
+7490.16 that a prescription drug would.
+7491.66 One compound that I like to focus on
+7493.24 in a little more depth, however,
+7494.75 because it's exciting
+and interesting to me
+7497.45 is inositol.
+7499.28 Inositol is a compound that
+we are going to talk about
+7501.41 in several future podcasts, because,
+7503.75 well, first of all,
+7505.07 it seems that it can
+have impressive effects
+7507.44 on reducing anxiety.
+7509.03 It also can have pretty impressive effects
+7510.59 in improving fertility
+and particular in women
+7513.38 with polycystic ovarian syndrome.
+7515.87 And here I'm referring
+specifically to myo-inositol
+7518.57 because it comes in several forms.
+7520.16 And it does appear that
+900 milligrams of inositol
+7523.79 can improve sleep and can reduce anxiety
+7526.97 perhaps when taken at that
+dosage or higher dosages.
+7530.24 I will just confess, first
+of all, I don't have OCD,
+7533.27 although I will also confess
+that when I was a child,
+7535.52 I had a transient tick.
+7537.2 I've talked about this on podcast before.
+7539.12 It was a grunting tick.
+7540.14 So when I was about six or seven,
+7541.49 I recall a trip to
+Washington DC with my family,
+7544.76 where I was feeling a strong
+7548.69 desire or need even as I recall,
+7551.51 to grunt in order to clear something
+7553.79 in my throat, but I didn't
+have anything in my throat.
+7556.19 I didn't have a cold
+or any postnasal drip,
+7558.11 it was really just the feeling
+that I needed to do that,
+7560.12 to release some sort of tension.
+7562.37 And I remember my dad at the time
+7565.1 telling me don't do that.
+7566.24 Don't do that, it's not good to grunt
+7567.92 or something like that.
+7568.753 I think he saw that it was a
+kind of compulsive behavior.
+7571.16 And so I would actually
+hide in the back seat
+7572.9 of the rental car and do
+it, or I'd hide in my room.
+7575.33 Fortunately for me, it was transient,
+7577.04 I think about six months or
+a year later, it disappeared.
+7579.71 Although I did notice, actually
+an ex-girlfriend of mine
+7582.8 point out that when I get very tired
+7584.54 and I've been working very long hours,
+7586.07 sometimes that grunting
+tick will reappear.
+7588.62 What does that mean?
+7589.46 Do I have Tourette's?
+7590.36 I don't know, maybe.
+7591.56 I was never diagnosed with Tourette's.
+7592.79 Do I have OCD? Maybe.
+7595.46 I certainly could be accused
+7596.78 of having obsessive-compulsive
+personality disorder,
+7599.36 which we'll talk about
+still in a few minutes.
+7602.42 But the point here is that many children
+7605.24 transiently express ticks
+or low level Tourette's
+7608.69 or OCD, and again, transiently
+7610.7 and it disappears over time.
+7612.68 So inositol has been explored
+7614.84 in a bunch of different contexts,
+7616.28 including for ticks in OCD, et cetera.
+7619.82 Going back to inositol
+and its current use,
+7623.33 or I should say my current use,
+7624.38 I've been taking 900
+milligrams of inositol
+7627.26 as in addition to my
+existing toolkit for sleep,
+7630.71 which I've talked about
+many times on this podcast
+7633.29 and other podcasts, consists
+7635.03 of magnesium threonate,
+apigenin, and theanine.
+7638.3 If you want to know more about that kit,
+7639.71 you can go to our newsletter,
+Neural Network Newsletter
+7641.88 at hubermanlab.com.
+7643.61 The toolkit for sleep is there.
+7644.84 You don't even have to
+sign up for the newsletter
+7646.52 but it'll give you a flavor
+of the sorts of things
+7647.93 that are in the newsletter.
+7649.07 In any case, I've been experimenting a bit
+7653.0 with taking 900 milligrams of myo-inositol
+7655.55 either alone or combination
+with that sleep kit.
+7657.65 And I must say the sleep I've been getting
+7659.09 on inositol is extremely deep
+7662.42 and does seem to lead to enhanced levels
+7664.49 of focus and alertness during the day.
+7666.05 And perhaps you're noticing that
+7666.95 'cause I'm talking more quickly
+7667.85 on this podcast than in previous podcast.
+7669.47 No, I'm just kidding.
+7670.303 I don't think the two things relate
+7671.42 in any kind of causal way.
+7673.4 The point here is that inositol is known
+7676.43 to be pretty effective
+in reducing anxiety,
+7679.4 but when taken at very high dosages.
+7681.38 Can it do the same at low dosages?
+7683.15 We don't know.
+7683.983 I would consider 900
+milligrams a low dose.
+7686.63 Most of this, given the fact
+7688.79 that most of the studies of inositol
+7691.82 have explored very high dosages,
+7693.44 like even 10 or 12 grams per day,
+7696.38 which I must say seems exceedingly high
+7698.78 and they do report that
+some of the subjects
+7700.52 in those experiments actually stop taking
+7702.77 the inositol because of gastric discomfort
+7705.02 or gastric distress as it's called.
+7707.57 So I've reported my results with sleep
+7710.123 in a kind of anecdotal way.
+7712.22 They certainly aren't
+peer-reviewed studies
+7713.57 that I described about my own experience
+7715.67 in an anecdotal way.
+7716.9 But nonetheless, it's been explored that
+7720.32 things like glycine, which is another,
+7722.75 which is an amino acid,
+7723.83 which also acts as an
+inhibitory neurotransmitter
+7725.81 in the brain, taken at very high dosages,
+7727.64 60 grams per day, that is a absolutely
+7730.82 astonishingly high amount of glycine.
+7732.86 I would not recommend
+taking that much glycine
+7735.11 unless you're part of a study
+7736.4 where they tell you to
+and you know it's safe.
+7738.98 18 grams, excuse me, of an inositol,
+7741.98 these are very, very high
+dosages used in these studies.
+7744.74 Nonetheless, there's some interesting data
+7746.96 about inositol leading to
+7750.41 some alleviation of OCD symptoms
+7753.62 or partial alleviation of OCD symptoms
+7756.56 in as little as two weeks after initiating
+7760.4 the supplement protocol.
+7761.78 So I think there's a great
+future for these nutraceuticals,
+7764.03 meaning I think more
+systematic exploration
+7766.07 in particular of lower dosages
+7767.39 in the context of OCD treatment.
+7769.85 And as we saw before for the SSRIs
+7773.78 and other prescription drug treatments,
+7775.61 I think there really
+needs to be an exploration
+7777.71 of these nutraceuticals in combination
+7779.66 with behavioral therapies.
+7780.74 And who knows, maybe with
+brain machine interface
+7782.51 like cranial magnetic stimulation as well.
+7785.24 Now way back at the
+beginning of the episode,
+7787.16 I alluded to the fact
+that OCD is one thing,
+7790.43 obsessive-compulsive disorder,
+7791.72 and it's truly a disorder
+and it's truly debilitating
+7794.09 and it's extremely common,
+7796.58 and then there's this other thing
+7798.02 called obsessive-compulsive
+personality disorder,
+7800.42 which is distinct from that
+7801.95 does not have the intrusive component
+7805.04 so people don't feel overwhelmed
+7806.63 or overtaken by these thoughts,
+7809.66 rather, they find that the obsessions
+7812.51 can sometimes serve them
+or they even welcome them.
+7815.848 And I think many of us
+know people like this,
+7817.7 I perhaps even could be
+accused or who knows,
+7820.16 maybe have been accused of having
+7821.57 an obsessive-compulsive
+personality at times.
+7825.05 Why do I draw this distinction?
+7826.25 Well, first of all, we've come
+to a point in human history,
+7830.03 I think in large part
+because of social media
+7832.61 but also in large part
+7833.45 because there are a number
+of discussions being held
+7836.3 about mental health that have
+brought terms like trauma,
+7840.5 depression, OCD, et cetera,
+7843.44 into the common vernacular
+7845.93 so that people will
+say, ah, you're so OCD,
+7848.84 or someone will say I
+was traumatized by that,
+7850.96 or I was traumatized by this.
+7853.07 We should be very careful, right?
+7854.48 I'm certainly not the word police,
+7856.79 but we should be very careful in the use
+7859.67 of certain types of language,
+7861.59 especially language that
+has real psychiatric
+7865.19 and psychological definitions
+7867.8 because it can really draw us off course
+7869.78 in providing relief for
+some of these syndromes.
+7871.94 For instance,
+7874.04 the word trauma is thrown
+around left and right nowadays.
+7876.53 I was traumatized by this,
+or that caused trauma,
+7878.69 you're giving me trauma.
+7880.55 Listen, I realize that many people
+7883.16 are traumatized by certain events
+7884.9 including things that are said to them,
+7886.64 I absolutely acknowledge that,
+7887.99 hence our episodes on
+trauma and trauma treatment,
+7891.08 several of them, in fact.
+7892.97 Dr. Conti, Dr. David Spiegel,
+7895.94 and then dedicated solo episodes
+7898.19 with just me blabbing about
+trauma and trauma treatment.
+7901.67 But as Dr. Conti so
+appropriately pointed out,
+7905.93 trauma is really something that changes
+7908.78 our neural circuitry and
+therefore our thoughts
+7911.9 and our behaviors in a very persistent way
+7914.18 that is detrimental to us.
+7915.53 Not every bad event is traumatizing,
+7917.63 not everything that we
+dislike or even that we hate
+7919.88 or that feels terrible
+to us is traumatizing.
+7922.07 For something to reach
+the level of trauma,
+7924.89 it really needs to change
+our neural circuitry
+7927.71 and therefore our
+thoughts and our behaviors
+7929.66 in a persistent way that
+is maladaptive for us.
+7932.6 Similarly, just calling
+someone obsessive is one thing,
+7937.19 saying that someone has
+OCD or assuming one has OCD
+7940.1 simply because they have a
+personality or a phenotype,
+7943.01 as we say, where they need
+things in perfect order,
+7945.29 like I find myself correcting these pens
+7947.09 making sure that the caps are facing
+7949.49 in the same direction
+for instance right now,
+7952.64 that is not the same as OCD.
+7955.28 If, for instance, I
+can tolerate these pens
+7957.2 being at different orientation
+7958.46 or even throw the cap on
+the floor or something,
+7960.23 it doesn't create a lot of anxiety for me.
+7962.06 I confess, I agree it's a
+little bit in the moment,
+7964.19 but then I can forget
+about it and move on.
+7965.99 That's one of the key distinctions
+7967.73 between obsessive-compulsive
+personality disorder
+7970.64 and obsessive-compulsive disorder
+7973.07 in its strictest form.
+7974.87 Now, once one hears that OCD
+7976.94 is different than obsessive-compulsive
+7978.29 personality disorder
+because of this difference
+7981.08 in how intrusive the thoughts are or not,
+7983.72 then that's useful, but
+it really doesn't tell us
+7986.78 anything about what is
+happening mechanistically
+7989.42 in one situation or another.
+7991.55 Fortunately, there are
+beautiful data again
+7994.07 from Dr. Blair Simpson's lab.
+7995.75 And you can tell based
+on the number of studies
+7997.97 that I've referred to from her laboratory,
+7999.77 she's truly one of the
+luminaries in this field,
+8002.92 that there really are some
+fundamental wiring differences
+8006.79 and behavioral differences
+and psychological differences
+8009.58 between people who have
+obsessive-compulsive disorder
+8012.43 and those who have obsessive-compulsive
+8014.23 personality disorder.
+8016.45 So this is a study, first
+author, Pinto, P-I-N-T-O
+8019.99 entitled, Capacity to
+delay reward differentiates
+8022.93 obsessive-compulsive disorder
+8024.28 and obsessive-compulsive
+personality disorder.
+8027.28 And the methods in this
+study were to take 25 people
+8030.07 with OCD and 25 people
+with obsessive-compulsive
+8033.79 personality disorder and 25 people
+8036.34 who have both, because it
+is possible to have both
+8038.89 and that's important to point out,
+8039.94 and 25 so-called healthy controls,
+8042.04 people that don't have
+obsessive-compulsive
+8043.72 personality disorder or
+obsessive-compulsive disorder.
+8047.2 They take clinical assessments
+8048.76 and then they took a number of tests
+8051.22 that probed their ability
+to defer gratification,
+8055.72 something called, in the laboratory,
+8057.07 we call it delayed discounting.
+8058.6 So their ability to defer gratification
+8062.23 through a task where they
+can either accept reward
+8064.78 right away or accept reward later.
+8066.43 Some of you may have heard
+of the two marshmallow task.
+8068.89 This is based on a study
+that was performed years ago
+8071.62 on young children at
+Stanford and elsewhere
+8073.75 where they take young
+children into a room,
+8076.18 they offer them a marshmallow,
+8079.18 kids like marshmallows generally,
+8081.28 and you say, you can eat
+the marshmallow right now
+8084.28 or you can wait some period of time,
+8086.44 and if you are able to wait
+and not eat the marshmallow,
+8089.38 you can have two marshmallows.
+8090.97 And in general, children
+want two marshmallows
+8093.19 more than they want one marshmallow.
+8094.69 So really what you're probing is
+8096.37 their ability to access
+delayed gratification.
+8099.04 And they're very entertaining,
+8101.56 even truly amusing videos
+of this on the internet.
+8106.81 So if you just do two
+marshmallow task video
+8109.48 and you go into YouTube,
+8110.313 what you'll find is that
+the children will use
+8112.27 all sorts of strategies
+to delay gratification.
+8116.14 Some of the kids will
+cover the marshmallow.
+8118.75 Others will talk to the
+marshmallow and say,
+8120.4 I know you're not that delicious.
+8121.69 You look delicious, but
+no, you're not delicious.
+8123.43 They'll engage with the marshmallow
+8124.53 in all sorts of cute ways.
+8125.77 They'll turn around and try
+to, you know, avoidance,
+8127.96 which actually speaks to a
+whole category of behaviors
+8130.99 that people with OCD also use.
+8132.61 I'm not saying these kids had OCD,
+8134.23 but avoidance behaviors are
+very much a component of OCD.
+8138.67 People really trying to avoid the thing
+8140.44 that evokes the obsession.
+8143.44 Well some kids are able
+to delay gratification,
+8146.44 some aren't and it's
+debatable as to whether or not
+8148.69 the kids that are able
+to delay gratification
+8150.52 go on to have more
+successful lives or not.
+8152.38 Initially, that was the
+conclusion of those studies.
+8154.18 There's still a lot of debate about it,
+8155.41 we'll bring an expert on to
+give us the final conclusion
+8157.87 on this 'cause there is one
+and it's very interesting
+8159.7 and not intuitive.
+8161.05 Nonetheless, adults are also faced
+8163.6 with decisions every day, all day
+8165.88 as to whether or not they
+can delay gratification.
+8168.88 And this study used a, not
+a two marshmallow task,
+8173.41 but a game that involved rewards
+8176.23 where people could delay in order
+8177.67 to get greater rewards later.
+8179.32 What is the conclusion?
+8180.67 Well, first of all, obsessive-compulsive
+8183.04 and obsessive-compulsive
+personality disorder subjects
+8186.04 both showed impairments in
+their psychosocial functioning
+8190.72 and quality of life.
+8191.86 They had compulsive behavior.
+8194.26 So these are people that
+are suffering in their life
+8196.33 because their compulsions
+are really strong.
+8199.09 So it's not just being really nit-picky
+8201.31 or really orderly in one case
+8202.63 and having full blown OCD in the other,
+8204.16 both sets of subjects
+are challenged in life
+8207.34 because they're having relationship issues
+8209.14 or job-related issues, et cetera,
+8210.7 because they are that compulsive.
+8213.37 However, the individuals with
+8215.53 obsessive-compulsive personality disorder,
+8218.56 they discounted the value
+of delayed gratification
+8221.95 significantly less than those
+8223.3 with obsessive-compulsive disorder.
+8226.27 What do I mean?
+8227.44 They are both impairing disorders
+8229.06 that are marked by compulsive behaviors,
+8230.59 here I'm paraphrasing,
+8232.21 but they can be
+differentiated by the presence
+8234.16 of obsessions in OCD.
+8235.51 So obsessions in OCD.
+8237.43 People with OCD are absolutely fixated
+8241.63 on certain ideas and
+those ideas are intrusive.
+8244.3 Again, that's the hallmark theme.
+8246.19 And by an excessive
+capacity to delay reward
+8249.22 in obsessive-compulsive
+personality disorder.
+8251.47 That is people who have
+obsessive-compulsive
+8253.78 personality disorder are really good
+8256.45 at delaying gratification.
+8258.22 So they are able to
+concentrate very intensely
+8261.67 and perform very intensely in ways
+8264.31 that allow them to instill order
+8267.22 such that they can delay reward.
+8269.32 Now you can see why this
+contour of symptoms,
+8274.54 meaning that the people with OCD
+8278.2 are experiencing intrusive thoughts,
+8280.93 whereas the people with
+obsessive-compulsive
+8283.06 personality disorder
+show an enhanced ability
+8286.18 to defer gratification.
+8290.11 You could see how that would lead
+8291.37 to very different outcomes.
+8292.81 People with obsessive-compulsive
+personality disorder
+8295.57 can actually leverage
+that personality disorder
+8298.63 to perform better in
+certain domains of life,
+8301.09 not all domains of life,
+8302.23 because remember, again,
+8303.07 these people are in this study
+8305.38 and they're showing up as
+experiencing challenges in life
+8308.26 because of their obsessive-compulsive
+personality disorder.
+8311.41 Nonetheless, people with
+obsessive-compulsive
+8313.84 personality disorder, you could imagine,
+8315.31 would be very good at say architecture
+8319.09 or anything that involves
+instilling a ton of order.
+8321.67 Maybe sushi chef, for instance,
+maybe a chef in general.
+8324.82 I know chefs that just
+kind of throw things around
+8326.8 like the chef on the Muppets
+and just like throw things
+8330.1 everywhere and still produce amazing food.
+8331.54 And then there's some people
+there incredibly exacting,
+8334.27 they're just incredibly precise.
+8335.83 I think that movie, what is it?
+8336.91 Jiro Dreams of Sushi?
+8338.44 That movie is incredible.
+8340.39 Certainly not saying he
+has obsessive-compulsive
+8342.19 personality disorder, but
+I think it's fair to say
+8344.35 that he is obsessive or
+extremely meticulous and orderly
+8349.18 about everything from start to finish.
+8350.95 You can imagine a huge array
+of different occupations
+8353.77 and life endeavors where
+this would be beneficial,
+8356.38 science being one of them
+where data collection
+8358.51 and analysis is exceedingly
+important that one be precise,
+8362.05 or mathematics or physics or engineering,
+8365.71 anything where precision has a payoff
+8367.99 and gaining precision takes time and delay
+8372.1 of immediate gratification,
+8374.2 you can imagine that obsessive-compulsive
+8375.79 personality disorder would synergize well
+8378.07 with those sorts of
+activities and professions.
+8380.23 Whereas obsessive-compulsive
+disorder is really intrusive.
+8383.14 It's preventing functionality in many
+8386.14 different domains of life.
+8387.73 So the key takeaway here is that
+8391.33 when we use the words
+obsessive-compulsive,
+8393.73 or we call someone obsessive-compulsive,
+8395.53 or we are trying to
+evaluate whether or not
+8397.24 we are obsessive compulsive,
+8398.5 it's very important that we highlight
+8402.22 that obsessive compulsive
+disorder is very intrusive.
+8405.52 It involves intrusive thoughts
+8406.78 and it interrupts with
+normal functioning in life.
+8409.12 Whereas obsessive-compulsive
+personality disorder,
+8411.49 while it can interrupt
+normal functioning in life,
+8414.28 it also can be productive.
+8416.59 It can enhance functioning
+in life, not just in work,
+8419.08 but perhaps at home as well.
+8421.12 If you are somebody and
+you have family members
+8423.43 that really place enormous value on having
+8425.26 a beautiful and highly organized home,
+8427.6 well, then it could lend
+itself well to that.
+8429.94 it's going to be a matter
+of degrees, of course.
+8431.62 None of these things is an absolute,
+8433.15 it's going to be on a continuum,
+8434.32 but I think it is fair to
+say that obsessive-compulsive
+8436.69 disorder, whether or
+not in mild, moderate,
+8439.12 or severe form is impairing
+normal functioning,
+8443.41 whereas obsessive-compulsive
+personality disorder,
+8445.93 there's a range of expressions of that,
+8448.27 some of which can be adaptive,
+8449.59 some of which can be maladaptive,
+8451.03 and again, it's all going
+to depend on context.
+8453.67 Before we conclude, I do
+want to touch on something
+8456.61 that I think a lot of people experience
+8458.53 and that's superstitions.
+8460.6 Superstitions are fascinating,
+8462.07 and there's some fascinating
+research on superstitions.
+8465.64 One particular study that I'm a big fan of
+8468.64 is the work of Bence Olveczky at Harvard.
+8471.25 He studies motor sequences
+and motor learning,
+8474.55 and he has beautiful
+data on how people learn,
+8477.52 for instance, a tennis swing
+8479.5 and the patterns that
+they engage in early on
+8483.16 and then the patterns
+of swinging that they,
+8485.29 swinging the racket that is,
+8486.64 that they engage in later
+as they acquire more skill.
+8489.73 And basically the takeaway is that
+8491.71 the amount of error or
+variation from swing to swing
+8494.86 is dramatically reduced
+as they acquire skill.
+8499.15 That's all fine and good,
+8501.34 and there's some
+beautiful mechanistic data
+8503.62 that he and others have discovered
+8506.14 to support how that comes to be,
+8508.24 but they also explore animal models,
+8510.94 in particular, rats pressing
+sequences of buttons
+8514.87 and levers to obtain a reward.
+8517.33 Believe it or not, rats are pretty smart.
+8519.52 I've seen this with my own eyes.
+8520.96 You can teach a rat to press
+a lever for a pellet of food.
+8524.47 Rats can also learn to press levers
+8527.35 in a particular sequence in order to gain
+8530.14 a piece of food.
+8531.31 And they can actually learn to press
+8534.4 an enormous number of levers
+in very particular sequences
+8537.28 in order to obtain pellets of food.
+8539.2 You can also give them
+little buttons to press
+8541.57 or even a paddle to, or I
+should say a pedal, excuse me,
+8545.92 to stomp on with their foot
+8547.39 in order to obtain a pellet of food.
+8549.19 Basically rats can learn
+exactly what they need to do
+8552.1 in order to obtain a piece of food,
+8554.77 especially if they're made
+8555.67 a little bit hungry first.
+8557.59 Bence's lab has published beautiful data
+8560.08 showing that as animals and humans
+8563.65 come to learn a particular motor sequence,
+8565.78 very often they will
+introduce motor patterns
+8569.08 in that sequence that are
+irrelevant to the outcome
+8572.86 and yet that persist.
+8574.6 If you've ever watched a game of baseball,
+8576.19 you've seen this before.
+8578.08 Oftentimes the pitcher
+up on the mound will
+8581.74 bring the ball to their chin.
+8583.96 They'll look over their shoulder,
+8585.55 they'll look back over the other shoulder,
+8587.83 and then they will, of course,
+reel back and pitch the ball.
+8591.79 But if you watch closely,
+8593.02 oftentimes there are components
+in the motor sequence,
+8595.48 which are completely
+unrelated to the pitch.
+8598.0 They're not looking necessarily to see
+8599.65 if someone's stealing a base.
+8601.15 They're not necessarily looking
+8603.19 down at home plate where the batter is.
+8606.01 They're also doing things like
+8607.6 touching the back of their ear
+8608.68 before they bring the ball to their chin
+8610.51 or adjusting their hat.
+8611.65 And if you watch individual pictures,
+8613.27 what you'll find is that
+they'll do the same sequence
+8615.31 of completely irrelevant motor patterns
+8618.31 before each and every single pitch.
+8620.59 Similarly, rats that have
+been trained to, for instance,
+8623.86 hit two levers and step on a pedal
+8627.07 with their left hind foot, and then
+8630.7 tap a button up above
+that is the red button,
+8633.22 will do that to gain a piece of food.
+8635.68 But sometimes they'll
+also introduce a pattern
+8637.72 into that motor sequence where they will
+8640.51 shake their tail a little bit,
+8641.68 or they'll turn their head a little bit,
+8642.82 or they'll move their ears
+a little bit, et cetera.
+8645.67 Motor patterns that have nothing to do
+8647.44 with obtaining the
+particular outcome in mind.
+8650.98 In other words, you could eliminate
+8652.78 certain components of the motor sequence
+8654.43 and it would not matter, the
+rat would still get the pellet,
+8656.62 the pitcher would still be able to pitch,
+8659.56 and yet that get
+introduced because somehow
+8662.77 because they were
+performed again and again
+8665.71 prior to successful trials,
+8668.83 the rat or the human baseball pitcher
+8672.43 comes to believe in some way
+8674.47 that it was involved in
+generating the outcome,
+8677.2 hence superstition, right?
+8679.12 I confess I have a few superstitions.
+8681.4 I occasionally will knock on wood.
+8683.47 I'll say something that I want to happen,
+8685.03 and I'll say, oh, knock on
+wood, and I'll just do it.
+8687.1 And occasionally I'll
+challenge myself and think,
+8689.65 ah, I don't want to knock,
+don't knock on wood,
+8691.45 Andrew, don't do that.
+8693.31 I don't think anyone
+wants to be superstitious,
+8695.35 I certainly don't.
+8696.25 And so every once in a while,
+8697.21 I'll just challenge it, and I
+won't actually knock on wood.
+8700.9 I'm admitting this to you to kind of
+8703.75 I guess normalize some of this.
+8705.49 Some people have superstitions
+8708.28 that border on or even become compulsions.
+8712.03 They really come to believe
+8713.32 that if they don't knock on wood,
+8714.94 that something terrible
+is going to happen,
+8716.35 maybe something in particular.
+8718.24 Or in the case of the baseball pitcher,
+8719.89 they come to believe
+that if they don't touch
+8721.63 their right ear before they
+reel back on the pitch,
+8725.71 that the pitch won't be any good
+8727.87 or that they're going to lose the game.
+8729.13 Well, I don't know what
+their thought process is.
+8730.57 Now, I also don't know
+what the rat is thinking,
+8732.76 but the rat is clearly doing something
+8736.21 or thinking something is
+related to the final outcome.
+8740.05 I don't know of any studies
+where they've intervened
+8742.27 with the particular
+superstition-like behaviors
+8745.57 of the rat to see whether or not the rat
+8747.73 somehow doesn't continue
+to do the motor sequence
+8750.76 to get the pellet.
+8751.593 We don't know the rats, they're rats.
+8752.71 I don't speak rat, most people don't,
+8754.3 or if you speak to a rat,
+8755.65 if it speaks back, it's not in English.
+8757.21 Anyway, the point is that
+superstitions are beliefs
+8761.5 that we, on an individual
+scale, come to believe
+8766.81 are linked to the
+probability of an outcome
+8769.51 when in fact we know, we actually know
+8772.87 in our rational minds, they
+have no real relationship
+8776.2 to the outcome.
+8778.06 Superstitions can become full-blown
+8780.19 compulsions and obsessions
+8782.8 when we repeat them often enough
+8785.2 that they become automatic.
+8786.58 And I think this is what
+we observe most of the time
+8788.89 when we see a pitcher touching their ear,
+8791.41 or for instance, in
+tennis, you see this a lot,
+8793.72 you'll see someone
+they'll slap their shoes.
+8796.6 Often, I see this, they'll like slap
+8798.04 the undersides of their soles.
+8799.57 They may tell themselves
+that this is, I don't know,
+8801.7 maybe moving out some
+of the dust or something
+8803.56 in the bottoms of their soles,
+8804.55 that gives them more
+traction and they want that
+8806.56 to be ready for the serve
+or something like that.
+8808.93 And maybe there's some truth to that,
+8810.34 but here, what we're referring to
+8812.377 are behaviors that really
+have no rational relationship
+8815.47 to the outcome, and yet we
+perform in a compulsive way.
+8819.61 People with OCD, yes, tend
+to have more superstitions.
+8823.36 People with more superstitions, yes,
+8825.55 tend to have a tendency towards OCD
+8828.547 and I should mention, obsessive-compulsive
+8830.74 personality disorder.
+8832.15 If you think way back to the
+first part of this episode,
+8835.78 when I was just describing
+what the brain does, right?
+8838.0 What does your brain do?
+8838.833 Housekeeping functions to keep you alive
+8840.7 and it's a prediction machine.
+8842.98 Your neural circuits, you,
+8845.32 have an enormous amount
+of biological investment
+8848.41 of real estate, literally,
+cells and chemicals
+8850.63 that are there to try and
+make your world predictable
+8854.53 and to try and give you control,
+8856.57 or at least the sense of
+control over that world
+8859.39 and that's a normal process.
+8862.33 Low-level superstitions,
+moderate superstitions
+8865.9 represent a kind of a
+healthy range, I would say,
+8870.13 of behaviors that are aimed
+at generating predictability
+8875.11 that don't disrupt normal function.
+8877.24 Obsessive-compulsive personality disorder,
+8879.22 provided is not too severe,
+8880.42 would I think represent the next level
+8882.58 along that continuum.
+8884.44 And then obsessive-compulsive disorder,
+8886.33 as I pointed out earlier,
+8887.74 is really a case of highly debilitating,
+8890.05 highly intrusive, really
+overtake of neural circuitry
+8894.22 over our thoughts and behaviors
+8895.57 that requires very
+dedicated, very persistent,
+8899.83 and very effective
+treatments in order to stop
+8903.82 those obsessions and compulsions
+8905.2 and the anxiety that links them
+8907.6 somewhat counterintuitively
+by teaching people
+8910.57 to tolerate that level
+of increased anxiety
+8913.33 and interrupt those patterns.
+8915.04 And fortunately, as we described earlier,
+8917.02 such treatments exist,
+cognitive behavioral therapy,
+8920.17 drug treatments like
+SSRIs, also drug treatments
+8923.38 that tap into the glutamate system
+8926.26 and into perhaps also the dopamine system,
+8929.65 the so-called neuroleptics.
+8930.88 And then, as we described,
+8933.34 there's now an extensive
+exploration of things
+8935.26 like ketamine, psilocybin, cannabis,
+8938.23 the initial studies don't
+seem to hold much promise
+8940.42 for cannabis and CBD and
+the treatment of OCD,
+8942.58 but who knows, maybe more
+studies will come along
+8944.74 that will change that story.
+8946.63 And then of course,
+brain machine interface
+8948.13 like transcranial magnetic stimulation.
+8950.14 And then just to remind you
+what I already told you before
+8952.69 combinations of behavioral
+and drug treatments
+8955.39 and brain machine interface, I think,
+8956.85 is really where the future lies.
+8958.42 Fortunately, good treatments exist.
+8961.84 We cannot say that any
+one individual treatment
+8964.99 works for everybody.
+8966.22 There are fairly large
+percentages of people
+8969.43 that won't respond to one
+set of treatments or another,
+8971.53 and therefore one has
+to try different ones.
+8974.08 And then there are the
+so-called supplementation-based
+8977.83 or more holistic therapies.
+8979.81 Today, I've tried to cover each and all
+8981.33 of these in a fairly
+substantial amount of detail.
+8984.91 I realize this is a fairly long episode,
+8987.67 that is intentional.
+8989.62 Much like our episode on ADHD,
+8991.78 on attention deficit
+hyperactivity disorder,
+8994.18 I received an enormous number of requests
+8996.31 to talk about OCD, and
+my decision to make this
+8999.19 a very long and detailed episode about OCD
+9003.0 really doesn't stem from any desire
+9004.65 to subject you to too much information
+9007.59 or to avoid the opportunity
+to just list things off,
+9011.61 but what I've tried to
+provide is an opportunity
+9013.59 to really drill deep
+into the neural circuitry
+9015.807 and an understanding of
+where OCD comes from,
+9018.42 how OCD is different from things like
+9020.79 the personality disorders
+that I described.
+9022.95 And also to give you a
+sense of how the individual
+9026.85 behavioral and drug treatments work
+9028.41 and perhaps don't work
+9029.94 so that you can really make
+the best informed choices,
+9032.49 again, highlighting the fact that OCD
+9034.62 is an extremely common, extremely common,
+9037.83 and yet extremely debilitating condition
+9040.44 and one that I hope
+that if any of you have,
+9042.45 or that you know people that have it
+9044.01 that you'll both gain
+sympathy and understanding
+9046.95 for what they're dealing with,
+9048.18 perhaps as a consequence of some
+9049.19 of the information presented today,
+9051.06 and maybe help them
+direct their treatment,
+9054.63 find better treatment, and of course,
+9056.94 apply those treatments for some relief.
+9059.22 If you're learning from and
+or enjoying this podcast,
+9061.44 please subscribe to our YouTube channel.
+9063.0 That's a terrific zero
+cost way to support us.
+9065.4 In addition, please
+subscribe to the podcast
+9067.47 on Spotify and Apple.
+9069.03 And on both Spotify and Apple,
+9070.71 you can also leave us
+up to a five star review
+9072.99 and give us feedback.
+9074.61 The best place to give us
+written feedback, however,
+9076.71 is on the YouTube channel
+within the comment section.
+9079.47 There you can leave us feedback
+9081.39 or suggestions about topics
+you'd like us to cover
+9084.39 or guests you'd like us to interview here
+9086.4 on the Huberman Lab Podcast.
+9087.96 In addition, please check out the sponsors
+9089.64 mentioned at the beginning
+of today's podcast,
+9091.71 that's the best way to support us.
+9093.93 During today's podcast and
+on many previous episodes
+9096.39 of the Huberman Lab Podcast,
+we talk about supplements.
+9099.21 While supplements aren't
+necessary for everybody,
+9101.37 many people derive
+tremendous benefit from them
+9103.29 for things like sleep and
+focus and anxiety and so on.
+9106.29 The Huberman Lab Podcast is now partnered
+9108.15 with Momentous Supplements
+9109.74 because Momentous Supplements
+9110.94 are of the very highest quality,
+9112.65 they ship everywhere in the
+world, not just in the US,
+9115.23 and we wanted to have one location
+9116.76 where people could go in order
+to access the supplements
+9119.37 that we described and
+detail the various roles of
+9122.01 here on The Huberman Lab Podcast.
+9123.81 If you go to livemomentous.com/huberman,
+9126.03 you can find those supplements.
+9127.95 the catalog of supplements available there
+9129.66 is going to be expanding quite a bit
+9131.16 in the weeks and months to come.
+9132.48 But right now, already, there are a number
+9133.83 of different supplements
+for enhancing focus,
+9135.96 enhancing sleep, and so
+on that are available.
+9138.3 Again, that's livemomentous.com/huberman.
+9141.03 If you're not already
+following Huberman Lab
+9142.92 on Instagram and Twitter, please do so.
+9144.78 There I cover science and
+science-related tools,
+9147.39 some of which overlap with the content
+9149.22 on the Huberman Lab Podcast,
+9150.39 and some of which is
+distinct from the content
+9152.31 on The Huberman Lab Podcast.
+9153.54 So again, that's hubermanlab on Instagram
+9155.697 and hubermanlab also on Twitter.
+9158.04 If you haven't already subscribed
+9159.21 to our Neural Network Newsletter,
+9160.98 this is a monthly newsletter.
+9162.21 It's completely zero cost.
+9164.04 You go to hubermanlab.com.
+9166.32 You go into the menu,
+you click on newsletter,
+9168.75 you can see some example newsletters,
+9170.37 for instance, a toolkit for sleep.
+9171.87 You can download that right away.
+9173.13 You don't even have to
+sign up for the newsletter.
+9174.93 You can get the toolkit
+for neuroplasticity,
+9177.6 for the use of cold,
+9178.89 for the use of heat in
+health and et cetera.
+9181.68 All of that's there.
+9182.513 And if you sign up for the newsletter,
+9183.69 you'll get the monthly
+newsletter sent to you.
+9185.97 We don't share your email
+information with every anybody,
+9189.12 and we have a very clear
+privacy policy there.
+9191.25 So again, it's the
+Neural Network Newsletter
+9192.99 available within the newsletter tab
+9196.11 under the menu at hubermanlab.com.
+9198.48 In closing, I'd like to thank you
+9199.89 for this in-depth discussion
+9201.78 about the mechanisms
+and various treatments
+9204.48 for obsessive-compulsive disorder
+9206.097 and some of the related disorders.
+9208.17 And as always, thank you for
+your interest in science.
+9211.277 [upbeat guitar music]

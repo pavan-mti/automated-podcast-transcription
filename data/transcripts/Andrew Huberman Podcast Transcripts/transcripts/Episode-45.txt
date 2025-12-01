@@ -1,0 +1,4040 @@
+0.35 - Welcome to the Huberman Lab Podcast,
+2.3 where we discuss science
+and science-based tools
+4.93 for everyday life.
+9.35 I'm Andrew Huberman,
+10.37 and I'm a professor of
+neurobiology and ophthalmology
+13.32 at Stanford School of Medicine.
+15.22 Today we are talking
+about the science of heat,
+17.773 and more specifically the
+science of heating, the verb,
+22.08 meaning how our body heats up
+24.47 from both the outside and the inside.
+27.24 Heat is a remarkable stimulus,
+29.98 meaning when we are in a hot environment,
+32.24 it has a profound effect on our biology.
+35.53 And heating up from the outside,
+38.28 or as you'll soon learn, from the inside,
+41.34 has a profound effect on
+many different aspects
+44.72 of our health, including our metabolism,
+47.75 both in the immediate and long term;
+50.0 our cognition, meaning
+our ability to think
+52.9 more or less clearly.
+54.61 And if you're immediately
+thinking that heating up
+57.37 makes you less capable of
+thinking, you're wrong.
+61.096 Heat applied properly as a stimulus
+63.8 can engage certain neurochemical systems
+66.16 in your brain and body
+67.34 that can allow your brain
+to function far better.
+70.22 We will talk about those data today.
+72.11 So we're going to talk about
+73.19 the science of heat and heating,
+75.04 both in terms of their mechanisms.
+77.13 And, as I know many of
+you are interested in,
+79.8 the tools related to the use of heat,
+81.879 things like sauna, how often to do sauna,
+85.51 how long to be in the sauna,
+86.9 how hot to be in the sauna
+88.64 for particular goals and outcomes.
+91.2 We're also going to talk about
+the very exciting new science
+94.27 around local heating.
+96.16 That is the use of heat applied
+98.76 to specific areas of the
+body in order to heal
+101.71 or improve tissues at that
+location that you are heating
+104.77 as well as your biology
+and health overall.
+107.87 In fact, we are going to talk about one
+109.67 very recently published paper
+111.68 that came out in the journal Cell.
+113.63 Cell is one of the three apex journals,
+115.73 meaning three of the most competitive,
+117.96 most rigorous scientific journals.
+120.13 Those are Nature, Science, and Cell.
+122.1 This particular paper
+was published in Cell,
+124.11 and I will go into it
+in more detail later,
+126.38 but basically what this paper shows
+128.679 is that by locally
+heating up skin and fat,
+134.71 you can change the identity
+of certain fat cells
+138.32 at that location and elsewhere.
+140.6 We have three kinds of fat,
+142.03 white fat, beige fat, and brown fat.
+143.81 And as you will learn more about soon,
+146.4 white fat is not very
+metabolically active.
+148.59 It's more of a fuel reserve.
+150.55 It's what we typically
+think of as blubbery fat.
+153.067 Beige fat and brown fat
+are rich in mitochondria,
+156.87 and those mitochondria
+provide a sort of furnace
+159.35 or heating mechanism for your entire body
+161.34 and increase your metabolism
+162.96 and the burning of white fat.
+165.4 So in other words,
+166.233 having more beige fat and
+brown fat is a good thing.
+169.03 And it turns out that
+the proper application
+171.75 of heat to specific areas of your body
+174.34 can increase the conversion
+of white fat to beige fat.
+177.9 In other words, turn an
+innocuous fuel source
+180.79 into a metabolically active tissue
+183.65 that can help you burn off more white fat.
+186.68 I think many people are going
+to be interested in this paper
+189.45 and the tools that emerge from this paper.
+191.87 It's a fascinating set of findings
+193.67 that actually emerged
+from an understanding
+195.92 of the biology of burn and
+people who receive intense burns.
+200.29 And that is not what I'm
+going to recommend to you
+201.86 as a tool, of course,
+203.3 but understanding a
+little bit about how burns
+206.05 impact our biology and health
+208.36 has allowed these pioneering researchers
+210.84 to develop new tools to combat
+212.83 obesity and metabolic disorders,
+214.61 and that you can apply for
+basic things like fat loss.
+217.73 I'm pleased to announce that
+the Huberman Lab Podcast
+220.24 is now partnered with
+Momentous Supplements.
+222.89 Our motivation for
+partnering with Momentous
+225.08 is to provide people one location
+227.01 where they can go to access
+the highest quality supplements
+230.239 in the specific dosages
+that are best supported
+233.73 by the scientific research
+235.28 and that are discussed
+during various episodes
+237.47 of the Huberman Lab Podcast.
+239.07 If you go to livemomentous.com/huberman,
+242.355 you'll see those formulations.
+244.04 I should mention that we are
+going to add more formulations
+246.52 in the months to come,
+248.26 and you'll see specific suggestions
+250.77 about how best to take those supplements,
+252.68 meaning what dosages and times of day,
+254.77 and in fact, how to
+combine those supplements
+257.58 with specific behavioral protocols
+259.86 that have been discussed on the podcast
+261.51 and are science supported
+262.79 in order to drive the maximum benefit
+265.34 from those supplements.
+266.81 And many of you will probably
+also be pleased to learn
+269.83 that Momentous ships not just
+within the United States,
+272.43 but also internationally.
+274.13 So once again, if you go to
+live momentus.com/huberman,
+277.82 you will find what we firmly believe to be
+280.08 the best quality supplements
+282.06 in the precise dosages
+and the best protocols
+286.49 for taking those supplements,
+288.04 along with the ideal behavioral protocols
+290.85 to combine with those
+supplement formulations.
+292.95 I'm pleased to announce
+293.783 that I am hosting two
+live events in May 2022.
+297.17 The first live event will take place
+298.69 in Seattle, Washington on May 17th.
+301.43 The second live event will take place
+302.98 in Portland, Oregon on May 18th.
+305.52 Both are part of a lecture series entitled
+307.36 The Brain Body Contract,
+308.88 during which I will talk about science
+310.33 and science-based tools,
+311.7 many of which overlap with the topics
+313.59 covered on the Huberman Lab Podcast,
+315.45 but most of which will not
+317.39 and will be completely
+new topics and tools
+319.65 never discussed publicly before.
+321.41 Both live events will also include
+323.11 a question and answer period,
+324.87 during which you, the audience,
+326.26 can ask me questions directly
+328.02 about any aspect of science
+or science-based tools,
+330.84 and I will attempt to answer them.
+332.86 Tickets for the two events, again,
+334.53 Seattle on May 17th and
+Portland on May 18th,
+338.31 are both available at
+hubermanlab.com/tour.
+342.4 Before we begin, I'd like to
+emphasize that this podcast
+345.05 is separate from my teaching
+and research roles at Stanford.
+347.89 It is however part of my desire and effort
+349.78 to bring zero cost to consumer information
+351.58 about science and science-related tools
+353.83 to the general public.
+355.24 In keeping with that theme,
+356.29 I'd like to thank the
+sponsors of today's podcast.
+358.95 Our first sponsor is LMNT.
+360.882 LMNT is an electrolyte drink
+362.22 that has everything you need
+363.66 and none of what you
+don't need, meaning sugar.
+367.17 It has electrolytes, and
+the main electrolytes
+369.36 are sodium, potassium, and magnesium,
+371.6 which you need in the proper ratios
+373.34 in order for your brain and
+body to function correctly.
+376.1 LMNT was designed to
+get you the proper ratio
+378.35 of electrolytes in order to optimize
+380.62 mental and physical performance.
+383.07 People out there with
+pre-hypertension and hypertension,
+385.57 of course, should be cautious
+387.1 about increasing their sodium intake.
+388.89 But many people can actually benefit
+390.79 from increasing their sodium intake,
+392.89 both for health and for performance.
+395.01 LMNT contains a science-backed
+electrolyte ratio
+397.43 of 1000 milligrams.
+398.6 That's one gram of sodium,
+400.54 200 milligrams of potassium,
+and 60 milligrams of magnesium.
+404.0 I consume LMNT when I first
+wake up in the morning,
+406.55 during exercise, and after exercise,
+409.06 and sometimes again, if I've
+been sweating profusely,
+411.78 for instance, after doing a sauna
+413.56 or taking a run on a hot
+day, things of that sort.
+416.64 If you'd like to try LMNT,
+417.84 you can go to drinklmnt,
+that's lmnt.com/huberman
+422.04 to claim a free LMNT sample pack.
+423.84 You only cover the cost of shipping.
+425.52 Again, that's drinklmnt, lmnt.com/huberman
+429.28 to claim a free sample pack.
+430.97 Today's episode is also
+brought to us by InsideTracker.
+433.737 InsideTracker is a
+personalized nutrition platform
+436.39 that analyzes data from your blood and DNA
+439.15 to help you better understand your body
+440.74 and help you reach your health goals.
+442.75 I've long been a believer in
+getting regular blood work done
+445.64 for the simple reason
+that many of the factors
+447.88 that impact your immediate
+and longterm health
+450.17 can only be analyzed from
+a quality blood test.
+453.12 There are a lot of blood
+and DNA tests out there,
+455.88 but a major issue with many of them
+458.11 is that you get numbers back
+about levels of hormones,
+460.88 metabolic factors, lipids, et cetera,
+462.86 but you don't know what to
+do with that information.
+464.51 InsideTracker has solved that problem
+466.95 by creating a personalized dashboard.
+469.33 So you take your blood
+and or your DNA test,
+471.87 you get the results back,
+473.24 and where certain values
+might be too high or too low
+476.74 for your preference you can click on that,
+479.35 and it will direct you
+immediately to lifestyle factors,
+482.24 nutrition, and supplementation, et cetera,
+483.98 that can help you bring those
+numbers back into the ranges
+486.81 that are ideal for you.
+488.37 So it not only gives you information
+490.0 about where your health stands,
+491.63 it gives you directives as to
+how to improve your health.
+494.92 If you'd like to try InsideTracker,
+496.47 go to insidetracker.com/huberman
+499.24 to get 20% off any of
+InsideTracker's plans,
+502.18 that's insidetracker.com/huberman
+to get 20% off.
+505.99 Today's episode is also
+brought to us by ROKA.
+508.79 ROKA makes eyeglasses and sunglasses
+510.81 that are of the absolute highest quality.
+513.29 I've spent a lifetime
+studying the visual system,
+515.667 and I can tell you that your visual system
+517.38 is incredibly sophisticated.
+519.378 It allows you to do things like
+521.1 move from a shady area outside
+to a sunny area outside
+524.3 and to adjust your visual system
+526.26 so you don't even notice that transition.
+528.15 A lot of sunglasses and
+eyeglasses are not designed
+531.0 with those sorts of biological
+transitions in mind.
+533.7 ROKA sunglasses and
+eyeglasses are different.
+536.28 Every one of their glasses is designed
+538.15 with the biology of the
+visual system in mind.
+540.45 First of all, they're
+incredibly lightweight,
+542.06 so you don't even notice
+that they're on your face.
+544.01 Second of all,
+544.91 they were designed to be
+worn during activities
+547.11 like running and cycling, et cetera,
+548.75 and they won't slip off your
+face even if you get sweaty.
+551.27 And they have a terrific aesthetic.
+552.53 So even though they
+were originally designed
+553.96 as active eyewear, they look great.
+556.46 So you can wear them out to dinner,
+557.65 to school, at work, et cetera.
+559.37 If you'd like to try ROKA
+sunglasses or eyeglasses,
+561.7 you can go to ROKA, that's roka.com,
+564.4 and enter the code Huberman to
+save 20% on your first order.
+567.83 Again, that's ROKA, roka.com,
+570.2 and enter the code Huberman at checkout.
+572.55 Okay, let's talk about heat,
+574.26 more specifically, let's talk about
+575.66 the biology of heat and heating
+577.98 and the health benefits and tools
+579.92 related to heat and heating.
+582.051 The first question that we have to answer
+584.1 is how do we heat up?
+586.66 And the answer to that question
+is we heat up two ways.
+590.88 We heat up from the outside,
+593.16 meaning the things that
+we come into contact with,
+595.54 the clothing that we put on our body,
+597.617 whether or not there's heat in the room,
+599.97 or whether or not it's cold
+outside or cold in a room,
+602.98 and we heat up from the inside.
+605.74 Our body has the capacity
+to generate more heat
+609.07 or to cool down, meaning to
+turn off the heating process,
+612.519 and it can do that in ways
+615.56 that match the external environment.
+618.154 The simplest way to think about this
+620.08 is that we actually have
+two body temperatures.
+623.02 People will say, "Oh,
+what's body temperature?
+624.717 "98.6."
+625.68 That's actually not true.
+627.29 Body temperature varies
+between individuals.
+629.55 It varies across time of
+day within individuals.
+632.26 And at every point across
+your entire lifespan,
+636.11 you have two distinct temperatures.
+637.8 One is the temperature on your skin,
+639.93 what scientists call your shell,
+642.81 and the temperature of your core,
+645.34 your viscera, meaning your organs,
+647.22 your nervous system, and your spinal cord.
+649.54 And as you can imagine,
+650.77 the temperature of your core
+652.04 is always higher than the
+temperature at your surface.
+656.09 So the important thing to know
+657.15 is that you have a
+temperature at your shell
+659.58 and a temperature at your core.
+661.05 Now you don't need to know exactly
+662.38 what those temperatures are in most cases,
+664.33 but it is vitally important to understand
+667.22 that you have those two temperatures
+668.98 and that your brain is constantly
+670.95 sending out signals to your body
+672.833 as to whether or not it
+should heat up or cool down,
+676.81 depending on the temperature of the shell,
+679.78 which makes total sense.
+681.02 This is a lot like a thermostat in a room,
+683.77 which is essentially paying attention
+685.64 to how cold or hot it is,
+687.06 and then sending signals to
+the heating or cooling system
+689.64 to either heat up the environment
+691.02 or cool down the environment,
+692.42 depending on the temperature
+in that environment.
+695.252 Your brain has neurons that send signals
+698.85 to other cells in your body
+700.53 and deploy the release of
+chemicals in your brain and body
+703.15 to heat you up when you are too cold
+705.34 and to cool you down when you are too hot.
+708.14 So, if you can understand
+710.08 that you have two body temperatures,
+711.74 one at your shell, the surface,
+713.12 and one at your core, inside,
+715.09 and that your body and
+brain are always trying
+717.46 to balance those two temperatures
+in the appropriate way,
+720.68 well then you're halfway there
+721.97 to understanding the biology
+723.43 of thermal regulation and heating,
+725.22 and you'll be a lot further along
+727.411 in understanding how
+specific tools can be used
+730.84 to improve metabolism or
+improve cognition, for instance.
+734.87 In fact, later you will learn
+737.1 that one way that you can heat up
+739.57 is by cooling down the
+surface of your body.
+741.85 That's right.
+742.75 If I were to throw a cold
+towel, ice cold towel,
+745.28 onto your torso right now and ask you,
+748.047 "Well, how do you feel?"
+748.88 You'd say, "Oh, that's
+cold, that's chilly."
+750.81 However, because your brain is acting like
+753.23 a bit of a thermostat as the surface,
+755.24 the shell of your body felt cool,
+757.777 it would make sense that that thermostat
+759.97 would activate biological mechanisms
+761.81 that would heat up your core.
+763.733 Similarly, if I were to put you
+into a very hot environment,
+767.5 you'd say, "Oh, wow, it's
+really, really warm in here,"
+770.1 but your brain and your body would go
+771.86 through a lot of effort
+to activate mechanisms
+774.28 to cool you down.
+775.81 So anytime we're talking about heat,
+777.28 meaning deliberate heat
+exposure, things like sauna,
+780.2 it's very important to
+understand, not just the stimulus,
+783.85 how hot something is, how long
+you're in a sauna, et cetera,
+786.86 but the effect that has on
+your shell and on your core.
+790.6 If you can understand that
+you can design protocols
+793.2 that are literally perfect for your goals.
+795.95 And as a final point about this,
+797.65 if you want to develop the best tools,
+800.38 leveraging heat for your biology
+and health and performance,
+803.53 you want to understand heat as a process,
+806.25 as a verb, as heating, not just heat,
+810.08 because there's the
+temperature that you are at
+813.04 before you encounter the heat stimulus,
+815.63 before you get in the sauna, for instance,
+817.63 during the heat stimulus, so
+while you're in the sauna,
+820.69 and then afterward.
+822.46 Everything in biology is a process.
+824.47 So as you'll soon learn,
+825.46 there is a specific sauna
+protocol that can allow you,
+829.14 can allow anybody, in fact,
+830.46 to increase the amount of growth hormone
+832.47 released into their
+brain and body 16 fold.
+835.01 That's right, 16 fold.
+837.35 However, it involves shifting
+from a hot environment
+842.25 to a cool environment,
+to a hot environment,
+844.3 to a cool environment, over
+and over and over again,
+846.68 over a very short period of time,
+848.65 because it engages a switch, a process,
+851.35 that compounds, it builds on itself,
+853.37 to increase growth hormone
+further and further.
+855.8 In fact, if you were to
+just get into a sauna
+857.9 for a very long period of time
+and crank up the temperature
+861.05 to match the exact temperature
+that was used in that study,
+864.45 you would not experience those
+increases in growth hormone.
+867.87 It really is the transition
+869.2 between hot and cool temperatures
+871.27 that engage the process of heating
+873.72 and reheating over and over again.
+875.77 So, today you're going to
+learn about the use of sauna.
+877.63 You're going to learn about the
+use of other heat-related tools
+880.97 for health and optimization,
+882.6 not just for growth hormone,
+883.71 but also metabolic health,
+for controlling cortisol,
+885.9 even to impact mental
+health in positive ways.
+889.8 And in order to do that,
+891.38 you need to understand a
+little bit about the mechanisms
+894.01 of how you heat up and how you cool down,
+897.06 where the cells and circuits
+are in the brain and body,
+899.58 how those cells and circuits work.
+901.32 I promise to make the description of that
+902.94 which follows very clear,
+904.51 even if you don't have
+a background in biology.
+906.734 And once you have that in hand,
+908.76 along with the understanding you now have
+911.26 about the fact that you
+got a shell and a core,
+913.21 and you need to think about
+both the shell and the core,
+915.7 well, then you will be in
+the best possible position
+918.31 to use sauna or hot tub or other tools,
+921.19 even just a hot shower,
+922.57 as a powerful stimulus
+to optimize your biology.
+925.95 Now, the science of heat and heating
+927.47 and cold and cooling, for that matter,
+930.17 goes back well over a hundred years.
+932.42 In fact, it's kind of amusing to me
+933.91 that nowadays there's a
+kind of renewed interest
+936.31 in the use of heat and cold
+937.71 and the science of heat and cold,
+939.44 because this was the
+first topic that I studied
+941.83 as an undergraduate.
+943.06 And in fact, I did my graduate
+thesis on thermal regulation.
+946.78 And at the time, thermal
+regulation wasn't really considered
+949.96 one of the hot topics in neuroscience.
+952.22 People were more focused on things
+953.54 like memory and consciousness.
+955.17 And of course those topics
+are still of vital interest
+957.93 to many people in many laboratories,
+959.55 but thermal regulation was considered
+961.48 more a thing for the physiologists.
+964.19 Nowadays, not just on social media,
+966.94 not just in the landscape
+of biohackers and athletes,
+969.92 but in the landscape of
+mental health, and frankly,
+972.45 in the general ethos
+around health optimization,
+977.02 people are really
+interested in heat and cold.
+979.93 And the reason they're so
+interested in heat and cold
+982.14 is that a lot of the science has been done
+984.02 both in animal models
+in mice and in humans
+986.68 and translates immediately to
+protocols that anyone can use.
+990.81 Now, a brief warning now and
+another brief warning later,
+995.33 anytime you're talking
+about heating up your body,
+998.1 you need to be very cautious,
+999.32 because unlike cooling down,
+1001.58 where you have a fairly broad
+range of cold temperatures
+1004.42 that you can go into before
+it's damaging to tissue,
+1007.25 well, you don't get to heat up
+the brain and body very much
+1010.5 before you start getting into
+the realm of neuron damage,
+1013.81 and neuron's in the
+central nervous system,
+1015.88 the brain and spinal cord,
+1016.75 once they're damaged they don't come back.
+1018.756 So hyperthermia is a
+serious thing to avoid.
+1021.36 Later I'll talk about ways
+1022.73 to rapidly protect against hyperthermia,
+1026.02 but I do want to give everybody
+a cautionary note up front.
+1029.23 Obviously, if you're pregnant, nursing,
+1031.16 if you're very sensitive
+to hot environments,
+1033.41 you want to stay out of saunas
+and things of that sort.
+1035.97 I'm sure there are exceptions to that.
+1037.38 You definitely have to talk to your doctor
+1039.492 if you're going to violate that rule.
+1042.72 And for everybody, you want to approach
+1045.18 any kind of tool related
+to heating very cautiously.
+1048.86 You always have the opportunity
+1050.47 to increase the temperature later.
+1051.68 So proceed with caution.
+1052.86 Be smart about it.
+1053.693 I don't just say of that to protect me.
+1054.93 I say that also to protect you.
+1057.09 So now let's talk about
+1058.84 what are the circuits for heating up?
+1060.9 How does that happen?
+1062.28 Many of you have probably
+experienced a fever.
+1064.19 How does that happen?
+1065.37 What happens when you go
+into a cold environment
+1068.17 and you're shivering,
+1070.01 but you put on a coat
+and then you feel warmer.
+1071.85 What's really going on there?
+1073.41 Well, there's a very basic circuit,
+1076.15 meaning neurons that exist in the skin,
+1079.79 in the brain, and in the body
+1081.13 that communicate with one
+another that allow you
+1084.07 to heat up if you need to
+and cool down if you need to.
+1086.95 I'm going to throw a
+little bit of nomenclature,
+1088.84 a few new words at you.
+1090.24 You don't need to memorize
+these words, except for one,
+1093.47 actually you need to memorize one acronym,
+1095.24 but it's very easy.
+1096.96 It's called the POA.
+1098.07 If you remember POA,
+1099.732 you'll be home free for
+the rest of the episode,
+1101.41 but I know that there are
+some aficionados out there
+1103.36 and people interested in getting
+1105.03 a little bit deeper mechanism.
+1106.41 And I do think it's important
+to understand the circuit,
+1108.33 because once you stand this circuit
+1109.94 and the way it's structured,
+1111.69 then you are going to be in a
+great position to use the tools
+1114.3 related to heating.
+1115.29 So here's how this circuit is structured.
+1117.57 You have this shell,
+which is basically skin,
+1120.35 and within the skin you
+have neurons, nerve cells.
+1123.42 Those nerve cells have
+channels or receptors on them.
+1127.45 They're called trip channels.
+1128.66 There's some other ones as well,
+1130.01 which basically sense changes in heat.
+1133.29 So if I were to put a hot
+object on your hand or your arm,
+1137.14 or for instance,
+1138.61 if I were to put a hot
+object on your hand or arm,
+1140.78 and then remove that hot object,
+1143.53 those neurons would respond to that.
+1145.24 They would send electrical
+signals into your spinal cord.
+1147.81 And that's where the next
+station of the circuit resides.
+1150.79 In your spinal cord you got
+a little cluster of neurons
+1153.78 that exists at the top
+part of your spinal cord
+1156.46 called the dorsal horn.
+1158.13 The name, again, doesn't matter.
+1159.34 And those neurons specifically
+relay heat information
+1162.61 up to another area of your brain.
+1164.11 Now here's where we get
+into some fancy names.
+1166.02 It's the lateral parabrachial area.
+1169.37 You don't need to know
+lateral parabrachial area,
+1171.41 but it's a relay station.
+1172.82 The lateral parabrachial area
+1174.61 sends electrical signals to the POA.
+1177.51 And I would like you to know POA.
+1179.0 The POA stands for preoptic area.
+1181.84 Neurons in the preoptic area
+1183.77 basically reside over
+the roof of your mouth.
+1185.97 These are neurons within the hypothalamus,
+1188.165 and neurons in the preoptic area
+1191.184 have the ability to send signals
+1194.57 out to the rest of your brain and body
+1196.4 to get you to heat up and
+actually to change your behavior
+1200.54 so that you heat up.
+1202.22 That's right.
+1203.57 If neurons in the preoptic area
+1205.65 receive an electrical signal
+1207.54 through the circuit I just described,
+1208.93 that goes from skin to dorsal
+horn of the spinal cord,
+1211.82 to lateral parabrachial,
+1214.64 they will start sending signals
+1216.47 out to the organs of your body
+and the tissues of your body
+1219.44 to get those organs and
+tissues to do things.
+1221.62 And believe it or not, your
+POA, your preoptic area,
+1224.57 will actually change the way
+1225.94 that you think and feel immediately.
+1228.96 For instance, if something
+warm contacts your skin,
+1233.9 or something very hot contacts your skin,
+1236.04 the preoptic area will send signals
+1238.322 out to the endothelial cells,
+1242.35 the blood vessels both
+of the brain and body
+1245.72 that get them to dilate,
+1247.87 to essentially increase their
+volume and their surface area
+1251.32 in order to cast off heat.
+1254.18 You will also start sweating.
+1256.39 That sweating response is initiated,
+1258.67 not by the hot day or the hot sun,
+1261.43 but by the preoptic area neurons
+1263.51 that send signals out to what's called
+1265.66 the periphery of your
+1267.18 and other chemicals are released,
+1268.64 things like acetylcholine,
+that get you to sweat.
+1272.76 And if you happen to be shivering,
+1275.77 neurons in the preoptic area
+1277.17 will make sure that you stop shivering.
+1281.16 You're probably familiar with the feeling
+1283.11 of being somewhat lethargic,
+1284.59 or spreading out your limbs on a hot day.
+1287.14 Well, that is the result of
+neurons in your preoptic area
+1291.39 impacting your musculature
+1293.51 to get you to increase your surface area
+1296.03 so you can sweat off or release more heat.
+1299.31 So there are all these
+different mechanisms
+1300.9 by which we dump heat.
+1303.06 Some of those are purely physiological,
+1306.15 below our conscious control,
+1308.05 things like sweating,
+1309.97 which you can't just make
+yourself sweat on demand.
+1313.28 Maybe you can through a
+set of stressful thoughts,
+1315.33 but you can't just make yourself sweat.
+1317.385 That is autonomic, it's
+below your conscious control.
+1321.03 Things like vasodilation,
+1322.644 the dilation of your veins in particular
+1326.65 and capillaries in particular.
+1328.45 These sorts of things.
+1329.36 And, of course, there
+are these behavioral,
+1331.76 somewhat voluntary
+aspects of dumping heat.
+1335.01 And the lethargy, the kind
+of tiredness that we feel
+1337.87 on a really hot day,
+1339.4 that's also controlled by the circuit
+1341.04 that I just described.
+1342.28 In fact, I just got back from
+a visit to a very warm place,
+1346.75 and it was remarkable to
+me how lethargic I felt
+1349.98 in the afternoons.
+1350.813 I just felt like a total slug.
+1352.73 I just could not move
+or rally to do anything,
+1356.321 except if I waited until the evening,
+1359.54 even though it was later in the day,
+1361.27 even though I hadn't napped,
+1363.01 as the temperature in my
+environment cooled off,
+1365.11 as my body temperature cooled off,
+1366.74 I felt like I had more energy.
+1367.83 I was actually waking up,
+1368.91 even though I had been awake for longer.
+1370.94 So the relationship between
+temperature and lethargy
+1373.43 is a very intimate one.
+1375.6 If we're warm enough, we feel active
+1378.07 and like we want to move around.
+1379.72 If we're too warm,
+1380.98 we feel like we need to stay put
+1382.69 and spread out our limbs and dump heat.
+1385.21 And that brings me to a
+quick and kind of fun point
+1387.64 about how we dump heat versus
+how other animals dump heat.
+1390.69 Many of you know, of course,
+that we dump heat by sweating.
+1394.51 Other mechanisms as well,
+some of which I described,
+1396.97 but that's our main way of dumping heat.
+1399.43 Other animals like dogs don't
+have the capacity to sweat,
+1402.39 at least not very much,
+1403.57 so they pant in order to dump heat.
+1406.78 And still other animals, like rodents,
+1409.04 when they get too hot
+they spit on their paws
+1412.15 and they rub that spit on
+the surface of their body,
+1415.05 which might sound kind of gross,
+1416.17 and probably will get you to think twice
+1417.47 before petting any of those animals
+1418.9 or holding any of those animals again,
+1420.79 unless that's your thing.
+1422.67 Now, one other key thing to understand
+1424.28 about this circuit related to heat
+1426.45 is that the preoptic area
+1427.9 also can send electrical
+signals to the amygdala,
+1431.12 a brain area that is often talked about
+1433.95 in the context of fear,
+1435.51 but is really just a brain area
+1437.43 that can activate your
+sympathetic nervous system.
+1440.08 The sympathetic nervous system
+1441.86 is part of your autonomic nervous system
+1444.11 and is the one associated
+with fight or flight,
+1446.34 or with the stress response,
+1448.15 or even just the excited response.
+1450.34 The sympathetic nervous system
+is also what gets activated
+1452.41 when you're really
+excited about something.
+1454.16 The preoptic area has the opportunity
+1457.01 to trigger the activation of the amygdala.
+1459.76 Now, it doesn't do it
+every time, but it can.
+1462.15 And it tends to do that
+when you are suddenly
+1464.19 in an environment that feels too hot,
+1466.94 that you feel is risky levels of hot.
+1470.07 If you ever have gotten into a sauna
+1472.18 that was very, very hot,
+maybe 210 degrees Fahrenheit,
+1475.65 you sit there for a minute.
+1477.51 You'll notice that your
+heart rate increases,
+1479.56 and there are reasons for that,
+1480.4 and we'll talk about some of
+the health benefits of that
+1482.27 in a few minutes, but
+it's pretty uncomfortable.
+1485.788 You may not feel like your
+skin is going to burn up,
+1488.64 but you often will feel
+the impulse to get out,
+1491.63 especially if you stay in
+there for a little while.
+1493.89 That impulse is the consequence
+of this preoptic area
+1497.89 communicating with your amygdala saying,
+1499.407 "Hey, this environment is really hot,
+1501.15 and I'm tryin' to cool down,
+1502.12 and it's not really working.
+1503.5 I'm dumping heat, but
+I'm not able to adjust
+1506.52 the core of my body temperature
+1507.91 in ways that are going
+to protect my neurons.
+1509.8 And so it's a signal that you probably
+1511.87 shouldn't stay in that
+environment too long.
+1513.86 Now later we'll talk about the advantage
+1515.33 of pushing yourself a little bit through
+1517.19 some of these very hot environments,
+1518.57 provided you can do it safely,
+1520.2 but the impulse to get yourself
+1522.41 out of a very hot environment
+1524.63 is the consequence of the POA
+1526.97 communicating with your amygdala,
+1528.71 and the amygdala then, in turn,
+1530.1 activating your adrenal glands,
+1531.68 which sit right above your kidneys,
+1533.61 the release of adrenaline,
+1534.85 and this feeling of agitation
+like you want to move.
+1537.6 Usually you want to move out
+of whatever hot environment
+1540.34 you happen to be in.
+1541.47 So now you know the circuit.
+1542.87 Again, it's simple.
+1543.703 It goes from skin to spinal cord,
+1545.63 one brain area to another brain area.
+1547.64 That's the key one in this discussion,
+1549.35 which is the POA, the preoptic area.
+1551.592 And then the preop area can kick off
+1553.29 a bunch of autonomic
+subconscious responses to heat,
+1557.61 which make us attempt to get cooler,
+1560.06 things like sweating,
+vasodilation, et cetera,
+1562.38 and it can kick off behavioral responses,
+1565.17 spreading out our limbs in an attempt
+1566.8 to dump even more heat;
+1568.43 feeling lethargic, so a lack
+of desire to run and move;
+1572.01 and it also has the
+opportunity to kick off
+1574.83 a mild, or maybe not so mild,
+1576.77 panic response to get us
+out of that hot environment.
+1579.54 If you can conceptualize that circuit,
+1581.33 or if you can even just
+understand what I just said,
+1583.71 even at a top contour level,
+1585.74 you're going to be in a great position
+1587.09 to understand the rest of the information
+1588.887 and the tools that follow.
+1590.49 Next, I'd like to talk about the use
+1592.37 of deliberate heat
+exposure, including sauna,
+1595.03 but other tools as well,
+1597.092 as a way to understand how heat
+1599.88 and heating changes our biology.
+1602.75 So, you're going to learn some mechanism
+1604.4 and you're going to learn some tools.
+1606.12 But first I'd like to just emphasize
+1608.19 that the use of deliberate heat exposure
+1610.7 can be a very powerful way to
+improve health and longevity.
+1615.13 There's a wonderful study on this
+1616.493 that was published in 2018 that includes
+1619.91 a lot of data from a lot of participants,
+1622.33 in a lot of different conditions,
+1624.04 for instance, people
+that only did sauna once
+1626.01 versus two to three times a week
+1627.45 versus four to seven
+times a week and so on,
+1629.6 and compares all those.
+1631.18 The title of the study is
+Sauna Bathing is Associated
+1634.41 With Reduced Cardiovascular Mortality
+1636.57 and Improves Risk
+Prediction in Men and Women
+1639.64 a Prospective Cohort Study.
+1642.1 This is one of several papers
+that clearly demonstrate
+1646.16 that regular use of sauna or other forms
+1649.03 of deliberate heat exposure
+1651.11 can reduce mortality to
+cardiovascular events,
+1654.03 but also to other events,
+1655.92 things like stroke and other things
+1658.3 that basically can kill us.
+1660.477 What I like so much about
+this and the related studies,
+1663.26 and yes, I will provide a link
+to these in the show notes,
+1666.38 is that they involve
+a lot of participants.
+1668.64 So for instance, in this particular paper,
+1670.23 which was published in BMC Medicine,
+1673.33 they looked at a sample
+of 1,688 participants
+1678.095 who had a mean age of 63,
+1680.3 but there was a range of ages around 63,
+1683.41 and of whom 51.4% were women.
+1686.36 The rest were men.
+1687.25 So it's a pretty nicely varied study
+1689.26 in terms of the populations
+that they looked at.
+1692.21 And basically what they found
+1693.81 was the more often that people do sauna,
+1697.121 the better their health is
+1699.01 and the lower the likelihood they will die
+1702.1 from some sort of cardiovascular event.
+1704.223 What do we mean by sauna?
+1705.81 We need to define some of
+the parameters around sauna,
+1708.69 and I promise to provide
+you some alternative ways
+1712.18 to access some of the health benefits
+1714.15 that were observed in
+this and related studies
+1716.61 without the need to have a sauna,
+1718.28 'cause I do realize that a lot of people
+1720.01 don't have access to sauna.
+1722.21 First off, the temperature
+ranges that were used
+1724.49 in this and pretty much all the studies
+1726.79 that I'm going to talk about,
+1727.9 unless I say otherwise, are
+between 80 degrees Celsius,
+1731.98 meaning 176 degrees Fahrenheit,
+1734.61 and 100 degrees Celsius,
+1737.31 meaning 212 degrees Fahrenheit.
+1740.3 So somewhere in that range.
+1742.3 How hot should you make the
+sauna or the environment
+1745.03 that you get into should you
+decide to use these tools?
+1747.91 Well, that will depend on
+your tolerance for heat,
+1751.47 how heat adapted you are.
+1753.13 Yes, some people are better
+at sweating than others.
+1755.54 And over time we all
+get better at sweating.
+1757.59 Meaning if you go into
+the sauna more frequently,
+1759.49 you become a better sweater,
+not sweater you wear,
+1762.63 but the verb sweater,
+1764.29 you get better at sweating,
+1765.53 at dumping heat through the loss of water.
+1767.918 So it's going to depend.
+1769.94 I recommend starting on the lower end
+1772.03 of the temperature scale,
+1773.31 and if that's too hot for you
+1774.68 that you even lower the
+temperature further.
+1776.66 Now, how long were people
+exposing themselves
+1779.4 to these hot environments?
+1781.62 Anywhere from five to
+20 minutes per session.
+1785.36 And as you'll soon learn,
+1786.74 very brief periods of just
+five minutes of heat exposure
+1789.79 can be a powerful stimulus
+1791.61 if the heat exposure is
+significantly great enough for you.
+1798.594 20 minutes can also be beneficial,
+1800.27 but 80 to 100 degrees Celsius,
+1803.53 meaning 176 degrees Fahrenheit
+to 212 degrees Fahrenheit
+1807.31 is the general range that
+this and most studies use.
+1810.811 In this particular study,
+1812.57 they compared the effects of people
+1814.44 that did sauna once a week,
+1816.331 two or three times per week,
+1818.24 or four to seven times per week.
+1820.02 And what they saw was really remarkable.
+1822.41 What they observed was that people
+1823.74 who went into the sauna
+two or three times per week
+1827.05 were 27% less likely to die
+of a cardiovascular event
+1831.6 than people that went into
+the sauna just once a week,
+1833.94 again at the temperature levels
+1836.23 and the duration that
+I talked about earlier.
+1838.58 And as you can imagine, the duration,
+1839.897 the temperature levels were related.
+1842.416 So if people went into
+very hot environments
+1845.01 that were really uncomfortable for them,
+1846.22 maybe they only went in for five minutes.
+1847.89 Whereas, if they were more
+comfortable and heat adapted
+1850.98 in a given environment or
+their tolerance for heat
+1853.3 was just simply higher
+for whatever reason,
+1855.62 well then they tended to stay in longer.
+1857.76 We can take a sort of average
+1858.96 of this five to 20 minute range,
+1860.68 and today we're mainly going
+to talk about exposures
+1863.41 between 10 and 20 minutes
+at temperatures between,
+1867.5 again, 80 degrees and 100 degrees Celsius,
+1869.57 176 degrees Fahrenheit,
+or 212 degrees Fahrenheit.
+1873.17 So these data point to the
+fact that going in the sauna
+1875.47 two or three times per
+week is really beneficial
+1877.27 and can lower mortality
+to cardiovascular events.
+1880.64 And in fact, the benefits
+were even greater
+1882.26 for people that we're going into the sauna
+1883.71 four to seven times per week.
+1885.71 Those people were 50% less likely to die
+1888.74 of a cardiovascular event
+1889.95 compared to people that
+went into the sauna
+1891.86 just once a week.
+1893.43 So these are really
+impressive, and frankly,
+1895.93 encouraging studies.
+1897.27 Certainly they caught
+my eye and encouraged me
+1899.3 to start using deliberate heat
+exposure on a regular basis.
+1903.213 What's particularly nice about this study,
+1905.54 and the related study that, again,
+1907.16 is linked in the show notes,
+1909.69 is that they looked at a number
+1911.51 of potentially confounding variables,
+1913.68 things like whether or not people smoked,
+1915.51 things like whether or not
+people were overweight,
+1917.21 whether or not they tended
+to exercise or not exercise,
+1920.43 and they were able to
+separate out those variables.
+1923.11 So the percentages that
+I described earlier,
+1925.13 27% less likely to die
+of a cardiovascular event
+1929.29 for those that went in the
+sauna two to three times a week
+1931.377 and 50% less likely to die
+of a cardiovascular event
+1933.87 for those that went into the
+sauna four times per week,
+1936.1 as compared to just once a week.
+1937.97 Those effects really do seem to be
+1939.93 the consequence of the sauna exposure
+1942.62 and not some other effect
+1944.06 that's correlated with sauna exposure,
+1945.8 like going to the gym where people
+1948.11 are working out seven times a week
+1949.56 and then also happen
+to get into the sauna,
+1951.29 or quitting smoking
+right about the same time
+1953.22 they adopt a sauna protocol,
+these sorts of things.
+1956.35 And now there have been
+additional analyses
+1958.53 of the use of sauna for improving health,
+1960.73 or I should say for offsetting mortality,
+1963.672 that have found that
+it's not just reductions
+1966.72 in cardiovascular events,
+1967.86 but so called all-cause mortality.
+1970.25 This is kind of medical
+geek speak for saying,
+1973.24 how likely are you or somebody to die
+1976.15 from a cardiovascular event,
+1978.03 but maybe be also from some other event,
+1980.93 some other health-related event,
+1982.3 like cancer or something of that sort.
+1984.37 And in every case,
+1985.83 regular exposure to sauna starting
+1987.85 at about two or three times per week,
+1989.81 all the way up to seven times per week,
+1992.08 greatly improves,
+1993.54 meaning statistically significant
+improvements in longevity
+1998.06 in the sense that people are less likely
+2000.51 to die of cardiovascular events
+2003.23 and other things that kill us.
+2005.36 So I and many other people
+2006.59 who are interested not
+just in our own health,
+2008.42 but in educating about
+health-related tools
+2011.37 to the general public,
+find this really exciting.
+2014.107 But knowing what we know about
+how heat impacts our biology,
+2019.44 it probably shouldn't surprise us
+2021.549 that this sauna type exposure
+2023.93 or deliberate heat exposure
+has these incredible effects.
+2026.66 So before we get into
+the biological mechanisms
+2029.05 of how heat can have all these
+impressive health effects,
+2032.7 I want to just talk about
+the use of sauna as a tool
+2036.547 and emphasize that you
+don't have to use a sauna
+2040.26 in order to get these benefits.
+2042.1 It is simply a matter of
+making sure that your shell
+2045.72 and your core heat up properly a bit,
+2050.55 not too much, not too little,
+2052.88 but that you heat those up.
+2053.713 And no, you do not need to
+carry a thermometer around
+2056.59 or place a thermometer into your core.
+2058.923 In laboratory studies and in humans,
+2062.08 if you really want to know
+someone's core temperature,
+2064.12 basically you try and
+put the thermal probe
+2065.75 as close to the core as you can.
+2066.92 So typically that's done
+rectally or a mouth thermometer
+2070.02 or even up the nose.
+2071.49 You don't need to do any of that.
+2072.842 This isn't a laboratory study.
+2074.32 There are ways to create a hot environment
+2077.69 such that you heat up your
+shell and your core safely
+2081.06 without having to measure your
+core temperature all along.
+2085.05 If you want to do that, be my guess,
+2086.84 but I'm not going to provide a protocol.
+2089.21 So the question is, how are you
+heating up your environment?
+2091.64 And I realize that there are dry saunas,
+2094.39 there are steam saunas,
+there are infrared saunas,
+2097.72 there are hot tubs,
+2099.01 and there are simply rooms
+that you crank up the heat.
+2104.02 There are also ways in which you can
+2105.62 increase your shell and
+your core temperature
+2108.01 by moving around a lot
+2109.39 and doing that wearing a lot of clothing.
+2112.63 There's nothing special about
+2114.21 any one of these approaches or protocols.
+2117.1 It just so happens that sauna
+2119.031 is one of the more
+convenient ways to do this.
+2121.66 And certainly for the studies
+that I've talked about,
+2124.35 not just the ones I referenced before,
+2125.78 but all the studies that I researched
+2127.59 looking at this episode,
+2129.13 it makes sense why they would use sauna,
+2130.78 because it's very hard, for instance,
+2132.86 to create conditions where you have
+2135.108 five people go out jogging,
+2137.7 wearing heavy sweaters and hats,
+2139.32 wool hats on the middle of summer,
+2141.07 it's very hard to set up those conditions
+2142.83 in a way that's controlled for everybody.
+2144.48 Whereas, it's pretty straightforward
+2145.92 to have a sauna where you have
+2147.19 one or several people just get into
+2148.71 that one uniformly hot environment.
+2151.24 That's a much easier study to run.
+2153.92 So just to be clear, the
+temperature range is important.
+2158.28 You want to get between 80
+and 100 degrees Celsius.
+2160.67 Now you know the conversion to Fahrenheit.
+2163.92 You could, however, immerse yourself
+2166.2 in a hot tub or hot water
+bath up to your neck.
+2168.91 That's another way to approach it.
+2170.66 If you didn't have access
+to either of those,
+2172.96 you could also put on a hoodie
+or a wool hat and a hoodie,
+2179.64 or you could do like the wrestlers do,
+2181.45 and you could actually buy
+one of these plastic suits.
+2184.17 They're literally called plastics
+2185.27 that wrestlers or other athletes
+2187.71 that wish to drop water weight will wear,
+2189.46 and then go jogging in that.
+2190.58 All of those will increase your shell
+2191.947 and your core body temperature.
+2193.54 Especially if you do it on a hot day,
+2194.65 but of course be careful,
+hydrate and don't overheat.
+2196.62 Don't become excessively hyperthermic,
+2198.53 'cause you can get heat stroke
+and you can potentially die.
+2201.899 But if you're going to use sauna,
+2204.86 often I get the question
+how hot should the sauna be?
+2207.26 Well now you know.
+2208.093 How long should you be in there?
+2208.97 Five to 20 minutes per session.
+2211.28 Although, I will talk
+in a minute about ways
+2213.32 to optimize hormone output,
+2214.89 in particular growth hormone output,
+2216.23 by doing four very brief sessions.
+2219.403 So maybe not a continuous session.
+2221.07 We'll get into that in a few minutes.
+2222.33 And, of course, you have to ask yourself
+2223.95 wet sauna, dry sauna.
+2225.06 You know what?
+2225.893 Doesn't matter.
+2226.726 Use what you prefer.
+2228.17 Many people ask me, "Well,
+what about infrared sauna?"
+2230.782 We have an entire episode
+all about the use of light
+2233.48 and low level light therapy,
+including infrared light.
+2237.68 It does have certain benefits for skin
+2239.677 and other organs and tissues
+of the body, if used properly.
+2243.526 My understanding, or
+at least my assessment,
+2246.33 of most infrared saunas out there
+2248.54 is that they don't get hot enough.
+2250.7 They don't get up to that 80
+to 100 degrees Celsius range.
+2254.53 Some do, most don't.
+2256.73 So what you end up with is a situation
+2258.61 where you've got a red light,
+2259.91 low level light therapy stimulus,
+2262.16 and you've got a sauna
+that's not quite hot enough.
+2264.547 And there are a lot of ideas and claims
+2266.6 about how they work together
+2268.48 in order to get you improved benefits.
+2271.66 I personally am of the stance,
+2273.2 based on the literature that I've read,
+2274.76 that you want to get into those ranges
+2277.47 of 80 to 100 degrees Celsius
+2279.728 before you start
+considering whether or not
+2282.12 you're also going to include
+red light therapies, et cetera.
+2284.419 So there's nothing special
+about red light sauna.
+2287.66 It's really the temperature of the sauna
+2290.15 that you happen to get into.
+2291.25 So which tool?
+2292.84 Which sauna?
+2293.673 Which stimulus?
+2294.56 Do you run wearing plastics
+and a hoodie and a wool hat
+2297.67 or do you get into a sauna?
+2298.503 That's going to depend a
+lot on your circumstances,
+2300.2 your budget, and what you have
+access to on a regular basis.
+2302.89 This is a lot like our
+discussion about the use of cold.
+2306.35 Most of the studies have looked
+at immersion in cold water
+2309.92 up to the neck,
+2310.753 because that's a very controlled situation
+2312.18 that you can do in a laboratory.
+2313.66 They have not explored
+cold showers as much,
+2316.77 So there's just less data,
+2317.81 or walking around in a cold environment.
+2319.66 But we'll talk a little
+bit about those data,
+2321.979 because as you'll soon learn,
+when you talk about cold,
+2324.34 you're actually talking
+about heating as well.
+2326.63 So what kind of mechanisms are activated
+2328.83 in your brain and body
+2329.7 that allow for the various health benefits
+2332.819 of sauna or other forms
+of deliberate heating?
+2336.921 Well, we talked about reduced risk
+2340.3 of cardiovascular event related mortality
+2342.4 and all-cause mortality.
+2344.02 As you'll soon learn,
+2345.11 there are also tremendous benefits
+2347.86 in terms of increases in growth hormone,
+2350.45 reductions in cortisol, et cetera.
+2352.37 I will detail those.
+2353.64 So what happens when you do
+get into a hot environment?
+2356.38 What are the mechanisms
+2357.29 that allow for the various
+health effects of that?
+2360.09 Well, your shell, your skin, senses that.
+2365.02 And through the circuit
+that I described earlier,
+2367.24 activates neurons in the
+POA, the preoptic area,
+2370.3 which in turn activates mechanisms
+2372.44 in your autonomic nervous
+system, like vasodilation.
+2375.15 So blood flow increases.
+2376.66 Plasma volume of your blood increases,
+2379.65 and stroke volume.
+2381.27 The volume of blood that is mobilized
+2384.6 with each beat of your
+heart also increases.
+2387.16 And your heart rate increases
+2389.43 to anywhere between 100
+to 150 beats per minute.
+2393.03 That general constellation of effects
+2395.41 looks a lot like cardiovascular exercise.
+2398.72 And in fact, for all intents and purposes,
+2401.56 it really is cardiovascular exercise,
+2403.98 except that there isn't the mobilization
+2406.6 and the loading of joints and
+limbs and things of that sort.
+2409.6 And of course there
+are additional benefits
+2411.24 of cardiovascular exercise
+2413.07 that relate to impact on the ground,
+2416.22 improvements in bone density,
+et cetera, et cetera.
+2418.83 But basically your heart starts beating,
+2420.67 more blood starts circulating,
+2422.493 your vasculature changes shape, literally,
+2425.02 to accommodate those increases
+2426.81 in heart rate and blood volume.
+2429.44 And you're basically getting
+a cardiovascular workout
+2432.02 in that hot environment, even
+if you're just sitting down.
+2435.58 Another set of positive effects
+2436.98 related to being in these hot environments
+2440.26 are hormone effects,
+2442.06 shifts in the output of hormones,
+2444.02 both from or your adrenals
+2445.69 and possibly from the testes and ovaries
+2448.08 and even within the brain.
+2449.93 One of the more striking examples of that
+2452.65 comes from a study that
+was published in 2021.
+2456.67 The title of the study is
+2458.257 "Endocrine Effects of
+Repeated Hot Thermal Stress
+2460.607 "and Cold Water Immersion
+in Young Adult Men."
+2463.66 And indeed, this study was, in
+this case, just done on men.
+2466.32 I'll just briefly describe
+the protocol they used.
+2468.821 They had these men attend
+four sauna sessions
+2471.8 of 12 minutes each.
+2473.43 So again, well within that
+range of five to 20 minutes,
+2475.82 12 minutes.
+2477.36 The temperature of those saunas
+2478.78 was 90 to 91 degrees Celsius.
+2481.49 So I'll just quickly do the calculation,
+2483.855 admittedly, not in my head.
+2485.3 That's 194 degrees Fahrenheit,
+and they did that four times.
+2490.625 Afterwards they had a
+six-minute cool down break
+2493.86 during which they did
+get into some cool water
+2496.63 or cold water of about
+10 degrees, which is,
+2499.929 10 degrees Celsius is
+50 degrees Fahrenheit.
+2503.92 And then they measured
+hormones at various times
+2506.06 throughout this study,
+before, during, and after.
+2508.83 They looked at testosterone,
+2510.13 they looked at DHEA, which
+is in the androgen pathway.
+2514.02 They looked at prolactin
+and they looked at cortisol.
+2517.18 The significant effects of the protocol
+2519.21 that I just described were on cortisol,
+2522.01 a so-called stress hormone.
+2524.015 So-called because when
+we are very stressed
+2526.26 for long periods of time,
+2527.3 cortisol levels tend to
+increase dramatically.
+2529.78 But I should point out that a
+increase in cortisol each day
+2534.48 right about the time of waking,
+2535.86 and specifically right
+about the time of waking,
+2537.65 is actually beneficial for
+our alertness and our energy.
+2539.95 So having some increasing
+cortisol every 24 hours
+2543.31 is a good thing, provided
+it happens early in the day.
+2546.5 Late day increases in cortisol
+2548.52 are associated with depression.
+2550.33 That's been shown by studies
+at Stanford and elsewhere.
+2553.081 The major effect of this study
+2554.76 is a significant decrease
+in cortisol output
+2557.99 in these subjects.
+2560.03 I think this is really
+interesting and important,
+2561.81 because many people suffer from acute,
+2564.3 meaning immediate, and longterm stress,
+2566.38 and are looking for ways
+to control their stress.
+2569.21 Controlling your cortisol is tricky.
+2571.57 In the episode on stress,
+2572.8 I talked about supplements
+such ashwagandha
+2574.85 that can be used to limit cortisol,
+2576.95 but you have to be careful
+not to use ashwagandha
+2579.15 for extended periods of time,
+2580.93 meaning for longer than two weeks,
+2582.35 because you can get into other issues.
+2584.41 I talk about breath work protocols
+2586.05 that can allow you to clamp or reduce
+2588.03 the stress response in real time.
+2590.01 Again, see that episode for those,
+2591.61 but many people are overworked.
+2593.78 They're overstressed.
+2594.613 They're, for one reason or another,
+2596.68 they're subjected to
+many too many stressors
+2599.3 or their level of stress
+resilience isn't high enough
+2602.44 to keep their cortisol levels
+clamped at a healthy level.
+2605.49 So the protocol I described
+of 12 minute exposures
+2609.06 to 90 degree environment,
+2610.81 that's again, 90 degree Celsius,
+2613.21 followed by a six-minute cool down break
+2616.16 in cool water, 50 degrees
+or so, that's pretty cold.
+2619.804 I can imagine that you could
+also just take a cool shower
+2622.61 or a cold shower afterwards,
+2624.01 that had a very significant
+effect on lowering cortisol.
+2627.13 So there you have a tool
+2628.72 that's not a completely zero cost tool,
+2630.19 'cause you need to heat the water
+2631.023 and you need to have access
+to hot and cold water,
+2633.05 at least hot and cold
+contrast of some sort,
+2635.84 but it's fairly minimal
+cost for most people.
+2639.11 Especially if you start getting creative
+2640.72 about maybe taking a 12-minute jog
+2643.17 wearing a lot of clothing if it's hot out,
+2645.09 then getting into a cool shower.
+2646.68 You might not get the same extreme
+2648.626 or significant reduction in cortisol
+2650.99 that was observed here with
+these very specific protocols,
+2653.47 but it's likely that you would get
+2654.76 a similar result over all.
+2657.04 Now, I mentioned they did
+look at these other hormones,
+2658.924 and I'll just tell you
+2660.34 that they did not see significant
+shifts in testosterone,
+2662.82 prolactin, DHEA, et cetera,
+using this protocol.
+2666.25 As you'll soon see, there
+are other sauna protocols
+2668.27 that can impact those other hormones.
+2670.26 So if you're seeking to
+use sauna to reduce stress,
+2672.63 I think this is a very interesting
+2674.76 and potentially useful
+research-backed protocol.
+2677.32 And again, we will provide
+a link to the paper
+2679.98 if you'd like to read more about the data.
+2682.46 So that is one set of
+biological effects on cortisol
+2685.98 and the related protocol.
+2688.58 What about some of the
+other benefits of sauna?
+2690.69 Well, we'll talk about those,
+2691.73 but I want to talk about
+those in the context
+2694.03 of the underlying mechanisms,
+2696.16 because if you understand
+those underlying mechanisms,
+2698.17 you can really tailor your sauna protocols
+2700.84 for your particular needs.
+2702.65 One of the more dramatic
+and important effects
+2704.89 of going into a hot environment
+for some period of time
+2708.864 is the activation of so-called
+heat shock proteins, or HSPs.
+2713.32 Heat shock proteins are
+a protective mechanism
+2715.74 in your brain and body to rescue proteins
+2719.84 that would otherwise misfold.
+2721.92 What do I mean by this?
+2722.753 Well, most of you're
+familiar with the fact that
+2725.84 if you have protein in the kitchen,
+2727.65 like a steak or a piece of
+chicken or a piece of fish,
+2729.94 and you heat it up, it
+changes it's texture.
+2733.72 Raw meat is different than cooked meat,
+2735.684 to be quite blunt about it.
+2739.12 Heat changes the quality of proteins,
+2742.65 not just in terms of how they taste,
+2743.91 but the way in which they are configured.
+2746.66 It changes it right down
+at the molecular level.
+2749.99 When your body goes through
+changes in temperature each day,
+2753.53 and we'll talk about those changes,
+2754.74 but in response to hot
+environments or cold environments,
+2757.96 heat shock proteins are
+deployed to go and rescue
+2761.78 and prevent the changes in proteins
+2764.11 that would be detrimental to your health.
+2766.3 So at least in the short term,
+2768.67 activating heat shock
+proteins is a good thing.
+2771.23 You don't want heat shock proteins
+2772.63 to be activated for long periods of time,
+2774.51 because that gets to be
+problematic for other reasons.
+2777.28 But these heat shock proteins,
+2778.67 of which there are many varieties,
+2780.26 basically have the job of
+traveling in your brain and body
+2783.45 and making sure that cells
+2785.68 that contain proteins that are misfolding
+2788.44 because they got heated up
+too much, don't misfold,
+2792.35 and they also, sort of
+a protective mechanism,
+2795.04 making sure that proteins within the cells
+2797.4 of your brain and body don't
+fold in the wrong ways.
+2801.31 Again, I'm describing this
+in very general terms,
+2803.52 but it's well established in
+animal models and in humans,
+2807.46 that sauna exposure of the
+sort that I described earlier
+2810.74 activates these heat shock proteins.
+2812.79 There's some interesting
+studies that were carried out
+2814.76 in animal models that really nicely
+2817.88 mechanistically support the
+role of heat shock proteins
+2821.1 in some of the benefits of
+deliberate heat exposure.
+2824.36 Some of these studies were done in flies,
+2826.97 meaning Drosophila, fruit flies,
+2828.35 'cause there are great model organism,
+2830.14 because you can delete
+genes or add genes easily.
+2833.37 Other studies have been done in mice.
+2834.66 And now there are also studies
+being carried out in humans,
+2837.44 and I will talk about those.
+2838.69 One of the more dramatic examples
+2840.59 that's always touted in this field
+2842.58 of deliberate heat exposure
+as it relates to longevity
+2845.49 is that if they expose these
+flies, these fruit flies
+2849.24 to 70 minutes of a heat
+stimulus that would,
+2854.16 obviously didn't kill them,
+2855.43 but activated heat shock proteins,
+2857.3 it could extend their life by 15%
+2860.03 in a heat shock dependent way.
+2862.98 Meaning if they made flies
+2864.96 that didn't have these
+heat shock proteins,
+2867.33 well then they didn't see
+this extension in life.
+2870.41 And this is one of the reasons
+to use model organisms.
+2872.3 This is not an experiment
+that you could do in people.
+2874.97 However, there have been
+interesting studies done in humans,
+2877.78 examining some of the
+downstream molecular pathways
+2880.51 of deliberate heat exposure
+2882.27 that point to the mechanisms
+2883.7 by which deliberate heat exposure
+2885.48 can help protect against
+different forms of mortality,
+2888.34 improve overall, and possibly,
+2891.0 and I want to highlight possibly,
+2892.93 possibly extend life.
+2895.61 One such mechanism
+involves a genetic program
+2898.75 involving a molecule called FOXO3.
+2902.2 FOXO3 is a very interesting molecule,
+2904.14 because it's involved
+in DNA repair pathways.
+2908.58 DNA repair is part of the
+process of remaining healthy.
+2912.65 We'd all like to think that we're born,
+2914.7 and based on the genes we have,
+2916.83 we are healthy, healthy, healthy,
+2918.44 then eventually we age and then we die.
+2920.89 But from the time we're
+born, until the time we die,
+2924.14 there's a constant repair
+of our proteins in our cells
+2927.01 in a modification of the genes
+that are being expressed,
+2930.0 puberty being the most dramatic example.
+2932.18 You see a kid before
+puberty and after puberty,
+2934.56 looks like a different kid,
+2935.393 sounds like a different kid,
+thinks like a different kid.
+2936.83 In fact, it basically is
+a different human being.
+2939.53 It's not just the hormones.
+2940.57 It's that hormones
+themselves have the capacity
+2942.96 to turn on and turn off certain genes,
+2945.15 literally converting
+certain tissues and cells
+2948.48 in the brain and body to do
+entirely different things.
+2950.97 So it's not just the sprouting
+2952.35 of new aspects of our biology.
+2955.25 It's literally the conversion
+of different brain centers
+2957.81 from one function to another.
+2961.77 That's puberty.
+2962.603 And we'll do a whole
+episode about puberty.
+2964.12 We actually did an episode
+on sexual development
+2966.08 that talks a little bit
+about those mechanisms.
+2968.08 But the point is that
+throughout our entire lifespan,
+2971.32 genes are being turned on,
+genes are being turned off.
+2973.94 Genes are being turned on.
+2974.773 Gene are being turned off.
+2975.62 And DNA, the stuff of genes,
+gets damaged in that process.
+2981.451 FOXO3 sits upstream in a
+pathway related to DNA repair,
+2987.12 and again, clearing of
+the senescent cells.
+2990.42 Sauna exposure,
+2992.62 in particular sauna
+exposure two to three times
+2995.3 or ideally four to seven times per week
+2997.74 in that 80 to 100 degree Celsius range
+3001.41 has been shown to
+upregulate levels of FOXO3.
+3005.328 FOXO3 in turn upregulates
+pathways related to DNA repair
+3010.41 and clearing out of these
+senescent or dead cells,
+3012.82 which is known to be important
+3014.93 for various aspects of
+maintaining cognition
+3017.53 and other aspects of maintaining health.
+3020.45 So these are the likely
+biological mechanisms
+3023.51 for the improvements in lifespan,
+3027.46 or rather, I should say,
+3029.23 these are the biological mechanisms
+3030.95 that apparently offset some
+of the cardiovascular risk
+3035.2 and other forms of mortality
+that were described earlier.
+3038.72 One especially interesting
+thing about FOXO3,
+3042.23 there are individuals out there
+3044.43 that have either
+additional copies of FOXO3
+3047.7 or who have versions of
+FOXO3 that are hyperactive,
+3052.41 so to speak,
+3053.96 those people tend to be
+2.7 times more likely
+3058.67 to live to 100 years of age or longer.
+3061.83 So these are people that
+were just naturally,
+3063.65 and fortunately for them,
+endowed with more FOXO3,
+3066.93 more clearance of senescent cells,
+3068.55 more DNA repair, et cetera.
+3070.46 For the rest of us, at
+least to my knowledge,
+3073.18 I don't have one of these
+health-promoting FOXO3 mutations.
+3077.96 Remember, mutations can be beneficial
+3079.71 or they can be detrimental.
+3080.69 This, if your goal is to live longer,
+3083.23 is a beneficial mutation.
+3085.59 If you don't have these FOXO3 mutations
+3087.52 that allow you to be a centenarian
+3089.139 at 2.7 times high or
+likelihood than other people,
+3093.778 deliberate heat exposure is one way
+3095.87 that you can increase FOXO3 activity.
+3098.55 At this point in time,
+3099.98 meaning when looking at
+the research out there,
+3102.97 it isn't clear what the
+optimal sauna protocol
+3105.8 is going to be, specifically
+to increase FOXO3,
+3108.37 and that's probably
+because there isn't one.
+3110.833 There is no sauna protocol
+3112.73 designed specifically to reduce cortisol
+3115.99 or specifically to increase FOXO3
+3118.86 or specifically to activate
+heat shock proteins.
+3121.76 Any deliberate heat exposure
+3123.09 is likely to impact all
+of those mechanisms.
+3126.04 Again, I encourage you to use this guide
+3127.97 of 80 to 100 degrees Celsius
+3130.76 as your kind of bookends
+for what you can tolerate
+3134.34 and where you want to start
+and eventually transition to
+3138.17 in terms of deliberate heat exposure.
+3139.87 And I would encourage you to use
+3142.08 that five to 20 minutes
+per session for the sauna
+3146.87 as your rough guide of how
+long to remain in this sauna.
+3149.74 Now, there was a study
+published just this last year
+3152.21 that was mainly focused on
+deliberate cold exposure.
+3154.9 I detailed this quite extensively
+in the episode on cold.
+3159.03 This is the beautiful
+work of Susanna Søberg.
+3161.46 And that study looked at
+deliberate cold exposure,
+3163.98 but also sauna exposure.
+3165.88 And that study found that 57,
+3169.47 yes, 57 minutes per week of sauna exposure
+3173.226 in conjunction with 11
+minutes per week total
+3177.98 of deliberate cold exposure
+3180.08 was the threshold for getting improvements
+3183.17 in metabolism and increases in brown fat,
+3186.88 this very active fat tissue
+3188.81 that improves mitochondrial
+function and thermogenesis,
+3192.19 meaning heating of the body.
+3193.05 We'll talk more about brown fat later.
+3194.89 Why do I mention this?
+3195.77 Well, for those of you that are interested
+3197.61 in increasing metabolism,
+3199.52 it does seem to be most beneficial
+3201.16 to do that 11 minutes per
+week of cold exposure, again,
+3205.17 divided up across two or more sessions.
+3207.24 So it's not 11 minutes all at once,
+3208.67 but shorter sessions,
+3209.89 and to get 57 minutes minimum per week
+3213.86 of sauna exposure, again,
+3215.06 in the temperature ranges
+that I've talked about here.
+3217.52 And again, it's not 57 minutes
+in the sauna all at once.
+3222.29 That's 57 minutes total per
+week as the minimum threshold.
+3226.46 So you might divide that into
+three sessions of 20 minutes.
+3229.76 And again, I don't think
+57 is the magic number.
+3233.37 It could be 60, it could be 64.
+3235.61 It probably could be 55.
+3237.29 Remember your biological systems
+3239.25 are not counting things
+off minute by minute,
+3240.99 second by second, least not in most cases.
+3242.95 So for those of you that are interested
+3244.23 in improving metabolism,
+check out the episode on cold,
+3247.13 or just take the Søberg
+Protocol, as I call it,
+3251.03 which is 11 minutes total per
+week of uncomfortably cold,
+3255.17 but safe, cold exposure.
+3256.86 So uncomfortably cold means
+3258.17 you really, really want
+to get out of the shower
+3260.058 or the ice bath or whatever environment,
+3262.13 but you can stay in,
+3263.17 11 minutes total per week
+divided across a couple sessions
+3265.78 and then 57 minutes per week, or so,
+3269.69 of deliberate heat exposure,
+3272.0 again, uncomfortably,
+3273.59 but uncomfortably hot, excuse me,
+3275.59 but safe to stay in,
+3277.29 probably divided up across
+three or more sessions.
+3279.82 Okay, so we've talked
+about the use of sauna
+3281.74 to decrease cortisol.
+3283.61 We've talked about the use of sauna
+3284.67 to increase heat shock proteins.
+3287.16 We've talked about the use of sauna
+3288.73 to increase FOXO3.
+3291.38 Now I'd like to talk
+about the use of sauna
+3293.21 to increase growth hormone.
+3295.49 Growth hormone is a hormone
+3297.01 that we all naturally
+secrete from our pituitary,
+3299.84 which also resides near
+the roof of our mouth.
+3302.84 The signal for the pituitary
+to release growth hormone
+3306.58 arrives from neurons that
+exist in the hypothalamus.
+3310.48 So growth hormone releasing hormones,
+3313.45 believe it or not, that's
+what they're called,
+3314.85 stimulate the release of growth hormone
+3317.27 from the anterior pituitary gland
+3319.71 into the general circulation,
+3321.23 and then growth hormone
+impacts metabolism and growth
+3325.34 of cells and tissues of the body.
+3327.59 It is responsible for
+tissue repair as well.
+3330.57 And the growth spurt
+3331.99 that everyone experiences during puberty
+3333.87 is the consequence of growth hormone.
+3336.189 What I'm about to describe is a study
+3339.01 that found dramatic, really
+dramatic I should say,
+3343.43 increases in growth hormone,
+3345.21 but I also want to emphasize
+that these increases
+3347.43 in growth hormone were not of the sort
+3349.41 that are observed in puberty or in infants
+3351.87 becoming adolescents or
+adolescents growing into teenagers.
+3355.04 Those levels of growth
+hormone that are associated
+3357.1 with those massive
+transformations, excuse me,
+3360.3 of body morphology, of shape,
+3362.8 are far greater than the sorts
+that I'm talking about here.
+3366.31 And yet, as all of us age,
+3369.765 when we go from adolescence
+to our teenage years
+3373.09 and then into a young adulthood,
+3374.53 but then starting in our early 30s or so,
+3377.065 the amount of growth
+hormone that we secrete
+3379.35 is greatly diminished.
+3381.59 Normally we would release
+growth hormone every night,
+3384.81 after we go to sleep,
+3385.67 in particular in the
+early part of the night
+3387.67 when our sleep is comprised
+mostly of slow-wave sleep.
+3391.6 As we age, less growth hormone is released
+3394.44 during that slow wave sleep.
+3396.5 There are various things
+3397.63 that can promote the
+release of growth hormone,
+3399.9 and we will talk about
+some of those other things
+3402.12 in a moment, things like low blood sugar,
+3404.98 turns out, is a stimulus
+for growth hormone release.
+3410.48 And I don't mean hypoglycemia of the sort
+3412.73 that makes you dizzy and want to pass out.
+3414.16 That's bad.
+3415.729 I mean, not having high
+levels of glucose and insulin
+3417.51 in your bloodstream.
+3418.37 This is one of the reasons why many people
+3420.39 are drawn to intermittent fasting
+or even prolonged fasting,
+3424.43 it's because of the reported
+increases in growth hormone.
+3427.44 I'll touch on those briefly,
+3428.7 but if you want to learn more about those
+3430.1 and what their real impact is
+3433.26 and the extent of growth hormone,
+3434.95 check out the episode I did on fasting.
+3437.18 You can find that at hubermanlab.com.
+3439.32 Certain forms of exercise
+have also been shown
+3441.44 to stimulate growth hormone release.
+3443.49 And in a few moments,
+3444.323 I'll talk about how exercise
+and fasting can be combined
+3446.81 or how heat can be combined with exercise
+3450.01 or certain patterns of food intake
+3451.31 to further increase growth hormone.
+3452.62 But before I do that,
+3454.144 I want to review some of the data,
+3455.06 and one study in particular,
+3456.65 that discovered certain forms
+of deliberate heat exposure
+3460.51 using sauna can stimulate
+very large increases
+3464.09 in growth hormone output,
+3465.44 which for people in their
+30s, 40s, and beyond
+3468.42 could be very useful,
+3469.42 and may also be useful for people
+3470.7 who are just trying to stimulate
+3472.15 the release of more growth hormone
+3473.72 in order to, for instance,
+recover from exercise
+3475.91 or stimulate fat loss or
+muscle growth or repair
+3478.41 of a particular injury.
+3480.82 The title of this paper
+3481.7 is "Endocrine Effects of
+Repeated Sauna Bathing."
+3484.63 And this is a paper that
+was published in 1986,
+3487.39 which is some years ago,
+3488.66 but nonetheless serves as a basis
+3491.02 for a lot of other studies that followed.
+3493.084 So let me describe what
+they did in this study.
+3496.4 They used an 80 degree
+Celsius environment,
+3498.44 so that's 176 degrees Fahrenheit,
+3501.86 and they had subjects do
+the sauna for 30 minutes,
+3505.88 four times per day.
+3507.6 So that's two hours total in one day,
+3510.87 30 minutes in the sauna, a
+period of cool down rest,
+3513.51 30 minutes in the sauna again,
+3514.75 cool down rest, a third,
+and a fourth time.
+3516.99 So, two hours total in this
+80 degree Celsius environment.
+3521.06 So that's a lot,
+3522.22 but what they observed was
+really quite significant.
+3525.53 So they had subjects do this protocol,
+3527.48 and I should mention they had
+both male and female subjects
+3530.24 in this study,
+3531.73 and the entire study lasted a week.
+3533.62 They did this two hours of
+sauna exposure on day one,
+3536.46 day three, and day seven of that week.
+3539.64 And they measured a lot
+of different hormones,
+3542.43 cortisol, thyroid stimulating hormone,
+3545.318 thyroid hormone itself,
+3547.22 luteinizing hormone, and
+follicle stimulating hormone,
+3550.35 which are hormones that essentially drive
+3553.64 the production of other hormones.
+3555.07 We won't get into that too deeply,
+3556.57 but if you'd like to learn about FSH,
+3558.32 follicle stimulating hormone,
+and luteinizing hormone,
+3560.21 please see the episode on optimizing
+3562.65 testosterone and estrogen
+at hubermanlab.com.
+3565.49 They looked at prolactin and
+they looked at growth hormone.
+3568.66 I'll just cut to the chase
+3570.09 and tell you the effects
+on growth hormone.
+3573.88 In subjects that did this two hour a day,
+3576.0 80 degree Celsius protocol
+3578.86 experienced 16-fold
+increases in growth hormone.
+3583.58 So they measured growth hormone
+3584.79 before the sauna and after the sauna
+3587.01 and growth hormone levels went up 16 fold,
+3589.73 which is obviously an enormous,
+3592.64 and it turns out statistically
+significant, effect.
+3596.89 Now, one important caveat here.
+3599.415 Remember earlier when I talked about
+3602.22 people who did sauna once a week
+3604.13 versus two to three times a week
+3605.67 versus four to seven times a week,
+3607.21 and the more often people did sauna,
+3609.4 the less likely they were to
+die of cardiovascular events
+3612.19 or other things of that sort?
+3613.88 Well, in this case,
+3615.32 the effects of sauna
+exposure on growth hormone
+3618.24 actually went down the more often
+3621.44 that people did this
+deliberate heat exposure.
+3624.35 So as I mentioned,
+3625.183 they did this two hour a day
+3626.71 divided into 30 minute sessions protocol
+3628.68 on day one, day three,
+and day seven of a week.
+3633.05 And what they found was on day one,
+3635.17 there was a 16-fold
+increase in growth hormone.
+3638.35 On day three, however,
+3639.7 there was still a significant
+effect on growth hormone
+3642.82 as compared to before sauna,
+3644.77 but that effect was
+basically cut by two thirds.
+3649.1 So now instead of getting
+a 16-fold increase,
+3652.04 it was more like a three
+or four-fold increase,
+3654.99 which is still a huge increase,
+3656.8 but not as great as the
+increase observed on day one.
+3659.71 And then on day seven, there tended to be
+3662.13 a two, maybe a threefold increase,
+3664.723 but not as great as the
+one observed on day one.
+3669.27 What does this mean?
+3670.103 And why does this happen?
+3671.1 Well, the reason this
+happens is because heat,
+3675.46 just like cold, is a shock
+or a stressor to the system.
+3680.856 In the context of cold,
+3682.61 if you get into a very cold ice bath,
+3685.02 for instance, a five-degree
+ice bath, even for 20 seconds,
+3689.58 it's known to increase
+norepinephrine 200%.
+3693.63 It can double the amount of norepinephrine
+3695.55 that you suddenly release
+into your brain and body,
+3697.69 which actually can have
+some positive effects.
+3699.29 I'll talk about those in a little bit,
+3701.43 but if you were to do that every day,
+3703.85 you would become cold adapted.
+3705.84 This circuit that compares
+the shelling core of your body
+3710.28 would adjust in ways that
+it could either predict
+3713.863 that cold stimulus,
+3715.24 or more likely to create
+some thermogenetic mechanisms
+3718.65 in preparation for that cold exposure.
+3722.105 This is why, for instance,
+3723.85 people that use deliberate cold exposure
+3725.52 to try and increase
+lipolysis, the burning of fat,
+3728.14 oftentimes will get results for a while,
+3729.76 but then if they're doing it a lot, a lot,
+3731.33 they stop getting those effects.
+3733.16 I talk a lot about
+avoiding cold adaptation,
+3735.38 if that's your goal,
+in the episode on cold,
+3738.45 but similar mechanisms are at play here.
+3740.87 So we have to imagine that
+3742.28 when the subjects got
+into the sauna on day one,
+3744.29 whatever pathways went
+3745.93 from measurement of
+temperature at the shell
+3748.58 to changes in temperature at the core
+3750.66 led to these big increases
+in growth hormone,
+3752.73 which is basically a way of
+just describing the result
+3754.62 I already told you before.
+3756.26 But the fact that that
+result diminished over time
+3758.91 either means that the
+circuit was not as efficient
+3761.16 in communicating that shift in temperature
+3763.73 or that that shift in
+temperature was of less impact
+3766.66 because the downstream effectors
+3769.26 were not engaged to the same extent
+3771.17 because it wasn't as much of a shock.
+3772.89 And I think the latter
+explanation is far more likely.
+3775.11 This is very much akin to weight training
+3777.77 or cardiovascular exercise,
+3779.21 where if you run up a hill
+very fast, for instance,
+3781.73 and your lungs are burning
+3783.13 and you're heaving and breathing hard,
+3785.04 on the first day, that's
+a very painful thing.
+3787.87 But if you do it every
+day or every other day,
+3789.99 provided you allow yourself to recover,
+3791.57 pretty soon you're running up that hill
+3792.75 and you're not breathing as hard.
+3794.45 There isn't as much
+burning in your muscles,
+3796.67 et cetera, et cetera.
+3798.05 Your body adapts.
+3799.4 So, one of the key things to understand
+3801.62 about the use of deliberate heat exposure
+3803.73 is if you're going to use it
+3805.3 in order to try and
+trigger massive increases
+3807.41 in growth hormone,
+3808.37 you're going to need to be careful about
+3809.84 not doing it more than,
+let's say, once a week.
+3812.44 Now, I'm extrapolating from this study.
+3814.45 Maybe once every 10 days
+would be even better,
+3816.93 but if you start getting heat adapted,
+3819.67 it's very unlikely that
+you're going to get
+3822.09 these massive increases in growth hormone.
+3824.51 So I don't mean to be discouraging
+3825.92 of using deliberate heat exposure
+3827.41 to access growth hormone increases,
+3829.69 but if that's your specific
+goal or your main goal,
+3832.96 then I think it's reasonable to say
+3835.29 that you don't want to do
+deliberate heat exposure,
+3837.44 at least not of the sort
+that I described here,
+3839.52 more than once a week, or
+maybe even once every 10 days,
+3842.17 and that you would want to time that
+3843.59 to other events in your
+life, maybe hard workouts,
+3846.38 or if you are trying to push
+through a fat loss barrier
+3850.42 or simply in order to access
+growth hormone at peak levels,
+3854.07 maybe three times per month
+or four times per month.
+3857.21 If you start doing deliberate
+heat exposure more often,
+3859.6 you'll still get increases
+in growth hormone,
+3861.71 but they are not going
+to be nearly as large
+3864.17 as the increases in growth hormone
+3865.98 that you're going to experience
+if you shock your system
+3869.45 with deliberate heat exposure
+every once in a while.
+3872.66 An important way to frame this
+3874.56 is actually in the context of cold.
+3876.2 And while you might say, wait,
+3877.38 this is an episode on heat
+and heating, not cold,
+3879.88 you really can't have a
+conversation about heat and heating
+3882.01 without talking about cold.
+3883.68 Because, as I mentioned earlier,
+3885.83 if you cool the outside
+of your body, the shell,
+3888.45 you're actually heating up your body.
+3890.07 In fact, the circuits that
+control heating of the body
+3892.407 and that control cooling of the body,
+3895.14 for instance, the activation
+of things like shiver
+3897.38 or fat loss in response
+to cold and shiver,
+3899.92 those are also controlled
+by the preoptic area
+3902.19 of the hypothalamus.
+3903.624 So we can take a step back
+and start to think about
+3906.95 what it would take to design
+3908.38 the optimal protocol for
+deliberate heat exposure
+3912.11 by looking at cold,
+3913.34 and here's what I mean.
+3915.46 There have been beautiful studies
+3916.51 showing that if people get
+into a very cold body of water,
+3920.53 four degrees Celsius for 20 seconds.
+3922.41 As I mentioned earlier,
+3923.243 that will cause the a 200 to 300% increase
+3926.74 in norepinephrine.
+3928.09 Norepinephrine is also
+called noradrenaline.
+3930.43 And norepinephrine and other
+so-called catacholamines
+3933.09 like dopamine increased dramatically
+3935.56 in this very brief cold water exposure.
+3937.94 And those increases in
+norepinephrine and dopamine
+3940.29 are known to have long-lasting effects
+3942.909 that generally lead to improvements
+3944.84 in mood, focus, and alertness.
+3946.742 So they're pretty significant.
+3948.04 However, they aren't significant enough
+3950.25 to increase metabolism
+to a very high degree.
+3953.15 Whereas, other studies have shown
+3955.67 that if people go outside
+in 16 degree Celsius weather
+3959.485 with a proper amount,
+3961.3 but a fairly minimum amount of clothing,
+3963.96 you can experience even greater
+increases in norepinephrine.
+3967.59 But the time that's required in order
+3969.96 to experience those
+increases is six hours at,
+3973.37 for instance, 16 degrees Celsius.
+3975.4 So if you have six hours a day
+to be out there in the cold,
+3977.58 or if you can turn the air conditioning on
+3979.1 in an environment and make
+it very, very cold, fine.
+3981.42 But basically what I'm describing is that
+3982.9 you can sort of bookend the
+parameters that you can use.
+3985.91 You can use a very brief
+exposure to cold or to heat
+3989.48 in order to stimulate heat shock proteins,
+3991.22 growth hormone, et cetera,
+3992.6 or you can use longer exposure
+3994.4 in less intense versions of heat and cold.
+3998.28 You really have to find
+what's going to work for you
+3999.82 and what you can do safely.
+4001.45 And if you're confused
+about where to start,
+4004.24 please use the parameters
+that I described earlier.
+4006.61 First of all, check with your doctor.
+4008.18 As always, make sure that you're somebody
+4010.15 who can do deliberate cold
+or heat exposure safely,
+4012.7 but that 80 to 100 degrees Celsius,
+4015.75 meaning 176 degrees Fahrenheit
+to 212 degrees Fahrenheit,
+4018.71 that I keep repeating over and over,
+4019.96 'cause I know somebody's going to ask,
+4021.18 even though I repeat it over
+and over, which is fine,
+4023.47 I'm delighted to keep saying it,
+4025.67 and to respond if someone asks again.
+4027.57 Well, those parameters
+are going to kind of
+4029.5 bookend what you should do
+4030.53 in terms of the intensity
+of the heat stimulus.
+4033.75 How long?
+4034.583 Well, we heard earlier,
+five to 20 minutes.
+4036.21 Why not start with five and
+then ramp it up to 10 or 15?
+4039.82 And then if you're feeling really bold
+4041.86 and you really want to
+crank out growth hormone,
+4043.53 well, then you could do
+4044.363 that 30 minute four
+times in one day stimulus
+4046.9 every once in a while.
+4048.03 So you have to really figure out
+4049.01 what you're using heat exposure for.
+4051.94 This is one of the reasons
+why when people say,
+4054.04 is it better to get in a
+wet sauna or dry sauna?
+4056.25 What's the optimal temperature?
+4058.2 Is it better to take a hot shower
+4059.53 or a hot bath or a hot tub?
+4060.9 To be completely honest,
+4062.05 it depends on what you're going
+to be able to do regularly,
+4064.68 whether or not you want
+to do it regularly,
+4066.13 and what your specific goals are.
+4067.59 So the purpose of this episode
+4068.79 is really to arm you with
+the underlying mechanisms
+4071.01 and to arm you with the general parameters
+4072.96 that are going to allow you
+4073.89 to access the results that you're seeking.
+4075.73 For what it's worth, I
+personally use a protocol,
+4078.24 and I've been using a
+protocol for a long time,
+4080.16 that involves trying,
+4082.12 meaning I accomplish
+this most weeks, not all,
+4084.47 trying to get into a sauna
+4086.39 for three 20-minute sessions every week.
+4090.14 I use a dry sauna, so
+it's not a steam room.
+4092.86 If I don't have access to it,
+4094.41 I might take a hot bath
+or something of that sort.
+4096.21 But in general,
+4097.06 I just stick to doing the
+sauna three times a week.
+4099.343 And I generally will do
+that either after a workout,
+4103.4 either a cardiovascular
+workout or a weight workout,
+4106.12 or I will do it later in the evening.
+4108.29 Why later in the evening?
+4109.91 Well, it has to do with the
+circadian shifts in temperature
+4113.14 that we all experience.
+4114.81 Talked a lot about this
+in the circadian episodes
+4117.62 and the episodes related to sleep.
+4118.85 But in a nutshell, here's how it works.
+4122.33 Every early morning,
+4123.78 about two hours before
+your typical wake up time,
+4127.6 your body temperature is
+at its all-time lowest.
+4131.003 We call that your temperature minimum.
+4133.24 Right about waking your
+body temperature increases.
+4135.45 In fact, an increase in body temperature
+4136.89 is part of the reason you wake up at all,
+4139.34 unless, of course,
+you're setting an alarm.
+4142.57 Increases in body temperature
+4143.76 are going to be one of the major things
+4146.28 that wakes up your brain and body.
+4148.36 Body temperature will tend to continue
+4150.2 to increase through the morning.
+4151.63 You'll get that increase in cortisol.
+4153.02 That's a healthy increase in cortisol.
+4154.94 Body tempera will increase
+into the afternoon,
+4157.03 and then we'll start to
+drop in the later afternoon.
+4160.25 This general contour can be shifted
+4162.2 by whether or not you
+exercise, how often you eat,
+4164.57 because of the so-called
+thermogenetic effects of food.
+4167.08 That is, every time you eat
+there's a slight increase
+4169.1 in body temperature and metabolism,
+4170.63 but it's not really that significant
+4173.0 to throw off this general
+contour and rhythm,
+4175.6 but toward the afternoon
+around four or five o'clock,
+4178.02 most days, depending on time of year,
+4179.78 your body temperature will peak,
+4181.17 and then it will start to drop.
+4182.7 And as your body temperature
+drops by one to three degrees,
+4185.28 and here I'm referring to
+your core body temperature,
+4187.1 not your shell body temperature,
+4189.32 you will start to get sleepy
+4190.73 and to transition into sleep
+4192.59 and to maintain sleep
+throughout the night.
+4194.966 Your body temperature will remain low
+4197.11 until you hit that temperature minimum,
+4198.27 and then it'll start to come up again.
+4200.61 What that means is that when you decide
+4203.73 to do sauna, or cold
+exposure for that matter,
+4206.373 it's going to be important.
+4207.67 Why?
+4208.503 Well, as I mentioned earlier,
+4209.83 if you were to make the
+surface of your body cold,
+4211.9 at least in the immediate
+period after that,
+4214.62 your body temperature will increase.
+4216.93 So for those of you that are
+challenged in getting to sleep
+4220.36 and are still working on your sleep,
+4221.91 remember sleep is the foundation
+4223.2 of all mental and physical
+health and optimal performance,
+4225.69 you should try to get really quality sleep
+4228.04 of sufficient duration,
+at least 80% of nights.
+4230.47 That should be an ongoing
+goal throughout your lifespan
+4232.9 for a huge number of reasons.
+4235.65 Watch the master sleep episode
+4236.99 if you'd like to hear
+are more of those reasons
+4238.32 and the mechanisms to make
+sure that you do that.
+4240.37 But in any event,
+4242.74 cold exposure late in the evening
+4244.55 will start to increase your
+body temperature again.
+4248.31 And that can make it hard for
+some people to fall asleep.
+4250.48 Now, if you're very, very tired,
+4252.4 because you've been working
+hard or training hard
+4254.02 or both throughout the day,
+4255.36 might not throw off your sleep so much.
+4257.55 I've gone through bouts
+4258.383 where I'm just so, so busy
+from morning till night,
+4260.55 that the only time I can
+get into the ice bath
+4262.47 or the cold shower is late in the evening
+4263.9 and I have no trouble sleeping after that.
+4265.85 However, if you have trouble sleeping,
+4267.27 I would recommend doing the
+cold exposure early in the day
+4270.1 to match that natural heating,
+4272.38 that natural increase in body temperature
+4275.34 that occurs across the 24-hour
+so-called circadian rhythm.
+4279.96 Similarly, if you're going to
+use deliberate heat exposure,
+4284.53 you'd be wise to do that later in the day.
+4287.21 You'd be wise to do it later in the day
+4288.84 because when you get
+into a warm environment,
+4291.59 sure, the surface of your
+body, the shell, heats up,
+4294.3 the core of your body heats up,
+4296.61 but then it also activates
+cooling mechanisms
+4299.56 through the preoptic area,
+4301.32 and when you get out of
+that hot environment,
+4303.83 sauna or otherwise, your body
+will continue to cool down.
+4307.7 And so many people find
+that if they do sauna
+4309.66 in the later half of the day,
+4310.95 or even just before sleep
+4313.07 and then take a warmish shower afterwards,
+4315.865 then they find it easier to fall asleep.
+4317.88 And that makes sense
+4318.713 because their body
+temperature is dropping.
+4321.21 And in fact, if your
+goal is to really promote
+4323.83 the maximum amount of
+growth hormone release,
+4325.75 that's also going to be the
+best time of day to do it,
+4327.69 especially if you haven't eaten
+4328.95 in the two hours before sleep.
+4331.86 So if you're really going
+for growth hormone release,
+4333.95 you're really trying to optimize sleep,
+4335.257 and the two things are actually linked
+4336.96 because of the release of growth hormone
+4338.26 that happens from the pituitary
+in the early nights sleep,
+4341.14 well, then you would be
+wise to do your sauna
+4343.66 maybe once or maybe twice a week
+4345.9 in the evening or at nighttime,
+4348.22 then taking a warm or
+cool shower just briefly,
+4350.71 just enough to kind of rinse off
+all the sweat from the sauna,
+4353.55 and then get ready for sleep.
+4355.64 And to do that, not necessarily fasted,
+4358.07 but to try and keep your levels
+4359.86 of glucose and insulin somewhat
+low in your bloodstream.
+4362.57 The reason I say that is that
+having elevated blood glucose
+4366.58 and or insulin tends to blunt
+4369.72 or reduce growth hormone release,
+4371.48 and that's true for any
+number of different stimuli
+4374.5 including exercise and including sauna.
+4377.93 So there's a really nice study on this
+4379.24 that I can point you to,
+4380.77 is this study that was
+published in the journal Stress.
+4383.11 Literally, that's the name of the journal.
+4384.6 I love it when journals have these names
+4386.16 like Pain or Stress.
+4388.37 I find that somewhat amusing
+for reasons that escape me,
+4391.16 but nonetheless, amuse me.
+4393.08 The title of this study is
+"Growth Hormone Response
+4395.047 "to Different Consecutive
+Stress Stimuli in Healthy Men.
+4398.307 "Is There Any Difference?"
+4399.3 And I don't want to go into
+all the details of the study,
+4401.31 because it's pretty
+extensive and complicated,
+4403.44 but basically what they
+did is they had people
+4404.94 do sauna and then gave them a drug
+4408.58 or a condition of having low,
+4410.62 not dangerously low, but low blood sugar.
+4413.26 Or they had them in a condition
+4414.64 where they had low blood
+sugar and then did sauna.
+4417.35 Or they had them do an exercise protocol
+4419.31 that led them to increased growth hormone
+4422.91 and then had them do low blood sugar.
+4424.28 Basically mixing and
+matching the various stimuli
+4427.2 that could increase growth hormone.
+4429.02 And what they found was
+very straightforward.
+4431.71 What they found was that doing sauna once
+4434.38 and then waiting some period of time
+4436.4 and then later that day doing sauna again,
+4438.16 they didn't see the same increase
+4441.13 in growth hormone both times.
+4443.6 First they got a big
+increase in growth hormone
+4445.3 and then less if they did sauna again.
+4447.6 If they had people do
+exercise and then sauna,
+4449.993 what they found was exercise
+could stimulate growth hormone,
+4452.87 but then following it with sauna
+4454.81 did not allow you to get
+twice as much growth hormone.
+4458.56 In general, anytime you
+release growth hormone,
+4461.04 you reduce the likelihood
+4462.48 that you're going to
+release growth hormone again
+4465.2 later that day.
+4466.27 And this partially explains
+that earlier study,
+4468.27 where if people did this growth
+hormone promoting protocol
+4471.39 on day one, but then on day three
+4473.01 they didn't see quite as big an effect,
+4474.38 and on day seven they didn't
+see quite as big effect.
+4476.93 All it basically boils down to is that
+4478.761 if you really want to crank out
+4480.62 the most amount of growth
+hormone in response to sauna,
+4483.097 do it fasted or at least
+not having ingested any food
+4486.53 in the two or three hours before.
+4488.22 You don't have to be deep into a fast,
+4490.42 and the whole notion of what breaks a fast
+4492.14 is kind of an interesting conversation,
+4493.64 because it's contextual.
+4495.35 Will a sip of coffee break your fast?
+4497.04 Well, maybe probably not.
+4499.1 Will one grain of sugar break your fast?
+4501.37 No.
+4502.203 Will an entire candy bar break your fast?
+4505.0 Yes, it has to do with
+where your blood glucose is
+4507.51 when you ingest that particular food item.
+4509.3 Not so much what that
+food item, is per say.
+4512.17 But the bottom line here
+is if you want to crank out
+4514.25 the most amount of growth hormone,
+4515.89 wait a couple of hours after eating
+4517.38 before getting into the sauna,
+4518.72 or maybe do it before dinner
+and then prepare dinner...
+4521.97 Do the sauna before dinner, that is,
+4523.73 then prepare dinner, then eat dinner,
+4525.56 and then make sure that
+you wait a few hours
+4527.58 before going to sleep.
+4528.65 You're going to have to arrange
+your schedule accordingly.
+4531.43 I know most people can't
+arrange their schedule perfectly
+4534.51 just to get growth hormone increases,
+4535.97 nor do I think people should approach
+4537.44 health protocols that way.
+4538.77 I think for 90% of people 90% of the time,
+4542.18 just getting into the sauna once or twice
+4545.61 or three times a week is
+going to be beneficial
+4547.68 for the number of reasons
+that I described earlier.
+4550.24 And you don't want to obsess too much
+4552.36 about out the exact conditions you need
+4554.1 in order to get the greatest effect
+4555.79 out of that sauna treatment.
+4557.21 These are just some additional tweaks
+4558.72 related to food intake
+4559.967 and low level hypoglycemia and exercise,
+4563.4 that if you wanted to leverage, you could.
+4565.34 So if decreases in body temperature
+4566.96 tend to aid the transition of sleep
+4568.698 and getting out of a hot sauna
+4570.82 tends to promote decreases in body,
+4573.34 it makes sense why you would want to put
+4575.89 your sauna exposure or other
+deliberate heat exposure
+4578.24 in the second half of your day,
+4579.65 and maybe even right before sleep.
+4581.41 Now, regardless of what
+time of day you do sauna
+4584.25 or how frequently you do it,
+4585.74 you're going to want to hydrate
+after going in the sauna.
+4588.841 When you go in the sauna, you lose water,
+4591.55 and when you lose water,
+4593.04 you need to replace it.
+4594.09 Why?
+4594.923 Well, you need water for all your cells,
+4596.22 but you also need electrolytes.
+4597.41 So make sure that you're
+replacing the water
+4599.47 that you lose in the sauna.
+4601.18 Now there's no exact formula
+of how much water to drink
+4603.79 and whether or not you need electrolytes
+4605.49 in that water or not.
+4606.56 It's going to depend
+on how much you sweat,
+4608.06 meaning how heat adapted you are.
+4609.44 It's going to depend on how much salt
+4611.04 you tend to excrete in your sweat.
+4612.89 Huge amount of variation, but in general,
+4615.68 one way to approach this
+would be to make sure
+4617.67 that you drink at least 16 ounces of water
+4620.81 for every 10 minutes that you
+happen to be in the sauna.
+4624.14 You could do that before
+and during and after,
+4626.9 you could do it during and
+after, or you could do it after.
+4629.98 Now, there are other reasons
+to do deliberate heat exposure
+4632.64 that have nothing to do
+with cardiovascular effects,
+4635.2 nothing to do with growth
+hormone or anything of that sort,
+4638.28 but rather have to do with improvements
+4640.14 in mood and mental health.
+4641.86 In fact, the data related to sauna
+4645.14 and other forms of
+deliberate heat exposure
+4646.92 improving mood are very impressive,
+4649.4 both at the mechanistic level
+4651.09 and in terms of the longterm consequences
+4653.74 that people experience.
+4655.28 First of all, we need to ask,
+4656.3 how is it that deliberate heat exposure
+4658.4 can improve our mood and wellbeing?
+4660.23 Well, it turns out that it
+improves mood and wellbeing,
+4663.37 but it also improves our
+capacity to feel good
+4667.24 in response to things that
+4669.07 would ordinarily make
+us feel somewhat good.
+4671.87 Now, this is not a situation
+4673.56 where you're going to be walking
+around grinning ear to ear
+4676.87 in response to nothing at all,
+4678.53 simply because you went in a sauna.
+4680.23 What I'm talking about is the
+up regulation of pathways,
+4684.17 meaning chemical pathways
+in your brain and body
+4686.85 that allow you to experience
+pleasure in all its fullness.
+4690.09 So here's how this whole
+deliberate heat exposure,
+4692.2 sauna, mood thing works.
+4694.447 Many of you have probably
+heard of endorphins.
+4697.42 Endorphins are a category of molecules
+4699.8 that are made naturally
+in your brain and body
+4702.22 and that are released in response
+4703.9 to different forms of stressors.
+4706.64 That's right, in response to stressors.
+4708.19 So, if ever you've gone out on a long run,
+4710.54 and at some point in that run,
+4711.61 you feel like you're aching
+and your joints hurt,
+4713.7 or maybe you have shin splints,
+and you push through that,
+4717.77 part of the reason that you experience
+4719.58 a lack of pain at some point, usually,
+4722.43 or you experience a euphoria
+during or after that exercise
+4726.068 is the exercise-induced
+effects on endorphin release.
+4730.29 Or rather, to be more specific,
+4732.14 I should say the
+exercise-induced consequences
+4735.75 on the stress system,
+4736.9 which in turn trigger
+the release of endorphin.
+4739.8 In other words,
+4740.633 when we experience short
+term or acute stress,
+4744.006 the endorphin system is activated.
+4746.83 Now the endorphin system is
+not just about feeling good,
+4750.14 believe it or not.
+4750.973 It also about feeling bad.
+4752.73 And there are two general
+categories of endorphins.
+4755.02 The first are the ones that
+you normally hear about,
+4757.12 endorphins, things that bind for instance
+4759.47 to receptors like the mu opioid receptor.
+4762.53 Opioids are not just prescribed compounds
+4765.59 or unfortunately drugs of abuse,
+4768.07 which they are.
+4769.5 We have this opioid crisis
+4770.76 in the United States and elsewhere,
+4772.15 which is a very serious and tragic thing,
+4774.7 but we make endogenous opioids.
+4777.27 We make endorphins that
+naturally act as pain relievers
+4780.81 and that make us feel mildly euphoric.
+4783.65 We also make endorphins
+such as dynorphine,
+4787.17 that's D-Y-N-O-R-P-H-I-N-E, dynorphine,
+4792.26 that actually make us feel
+worse in response to stressors.
+4797.26 When we get into a hot sauna,
+4799.45 or a hot environment of any kind,
+4801.95 dynorphins are liberated
+in the brain and body.
+4804.88 And I should mention
+that dynorphins are made
+4806.68 by many neurons in many
+different areas of the brain.
+4810.28 So you might think, well,
+why would I want that?
+4812.57 Why would I want to release
+dynorphine into my brain and body?
+4815.07 Well, first of all,
+4815.903 when you get into an
+uncomfortably hot situation,
+4819.26 uncomfortably hot scenario, oh gosh,
+4821.51 this is sounding terrible.
+4822.52 And a deliberately hot environment
+4825.39 that you are using to try and trigger
+4827.25 some sort of biological
+or psychological benefit,
+4830.35 I should say,
+4832.38 the discomfort that you feel,
+4833.9 the desire to get out of that environment,
+4836.4 is in part the consequence
+of the release of dynorphine.
+4840.364 It's also the consequence
+4842.02 of the activation of that
+sympathetic nervous system.
+4843.97 Remember, the preoptic
+area can communicate
+4846.09 with the amygdala and trigger
+4847.41 that kind of fight or flight mode,
+4848.84 I want to get out of the sauna.
+4849.84 This is really, really hot.
+4851.24 But dynorphine is also liberated
+4853.49 from a certain number of neurons.
+4855.64 Dynorphine binds to what's
+called the CAPA receptor.
+4859.77 The CAPA receptor binds dynorphine
+4862.92 and triggers pathways
+in the brain and body
+4865.13 that lead to agitation, to stress,
+4867.81 and believe it or not to
+a general sense of pain.
+4870.7 This is why you want to
+get out of the hot sauna,
+4873.21 and remember if it's unsafe levels of hot,
+4875.63 then you should get out of that sauna
+4877.44 or other hot environment.
+4879.24 But if you're working in a range
+4881.27 or you're exposing yourself
+4882.17 to a range of heat that's uncomfortable,
+4883.85 but safe to be in,
+dynorphine will be liberated
+4887.1 from these neurons, bind
+to the CAPA receptor.
+4890.26 And as a downstream consequence of that,
+4893.196 there will be an increase in the receptors
+4895.86 that bind the other endorphins,
+4898.87 the endorphins that make you feel soothed,
+4900.78 that make you feel happy,
+4901.95 and that make you feel mild euphoria.
+4904.53 So there've been a
+number of studies showing
+4905.81 that initially deliberate heat exposure,
+4908.07 by sauna or otherwise,
+4909.59 causes the release of dynorphine.
+4911.25 In fact, I think it's fair to say
+4912.75 that every time we get
+4913.78 into a hot environment
+that's uncomfortable
+4915.94 or a cold environment
+that's uncomfortable,
+4917.68 dynorphine is likely released
+4919.24 and binding to the CAPA receptor.
+4922.35 But over time that binding of dynorphine
+4924.97 into the CAPA receptor
+leads to downstream changes
+4928.3 in the way that the feel good endorphins,
+4930.78 things like endorphin binding
+to the mu opioid receptor,
+4933.7 and there are still other
+feel good endorphins,
+4935.89 so to speak.
+4937.53 That system becomes much more efficient,
+4940.38 such that people feel an elevation
+4942.28 in their baseline level of mood,
+4944.1 and when a good or
+happy event comes along,
+4947.96 they feel a heightened
+level of happiness or joy
+4951.18 or awe or improved mood
+in response to that.
+4954.25 This is not unlike the effects of caffeine
+4956.81 on the dopamine receptor that
+I've described previously.
+4959.11 And for those of you that
+aren't familiar with it,
+4961.003 many of you drink caffeine and love it.
+4964.31 Part of the reason you love it
+4965.39 is because of the release
+of certain neurochemicals,
+4967.76 like norepinephrine, et cetera,
+4970.12 the energy that it gives you.
+4971.19 Maybe the taste, I would hope, as well,
+4973.3 but caffeine ingestion
+also causes increases
+4976.47 in dopamine receptor
+concentration and efficacy.
+4979.33 In other words, it allows
+the receptors for dopamine
+4981.93 to work better so that
+4983.53 for a given amount of dopamine release,
+4985.63 you experience more
+pleasure and motivation.
+4988.86 This is a similar mechanism,
+4990.16 but within the endorphin pathway.
+4991.95 So what does it mean?
+4992.92 It means that a little bit of discomfort
+4995.41 as a consequence of
+deliberate heat exposure,
+4997.43 while in the short term,
+4999.21 doesn't feel good, by definition,
+5001.44 it is activating pathways
+5002.83 that are allowing the feel
+molecules and neural circuitries
+5007.14 that exist in your brain and body
+5008.68 to increase their efficiency,
+5011.41 placing you in a better
+position to be joyful
+5013.5 in response to the events of life.
+5015.23 I confess I'm very excited about the data
+5017.08 on deliberate heat exposure
+5018.9 and improvements in the chemical systems
+5021.67 that underlie good mood.
+5024.14 And just to underscore this further,
+5026.36 the dynorphine system is not
+unique to heat-induced stress.
+5031.74 In fact, there are beautiful
+studies and reviews
+5034.77 out there about the role of dynorphine
+5036.68 in stress and depression,
+5038.85 in stress and alcoholism,
+5041.53 just as a brief aside,
+5042.77 and in the future we
+will do a whole episode
+5044.95 on alcohol and alcoholism,
+5047.33 but turns out that chronic
+alcohol use and alcoholism
+5050.07 causes changes in dopamine receptors
+5052.95 that make it very difficult for people
+5055.81 to achieve pleasure through things
+5057.53 other than alcohol, and even alcohol.
+5059.6 That's kind of the really
+diabolical nature of addiction,
+5062.91 which is the thing that
+initially brings pleasure,
+5064.93 eventually is just required
+5066.39 to maintain baseline levels of dopamine.
+5068.88 And I've talked before,
+and Dr. Anna Lembke,
+5071.07 when she was a guest on this podcast,
+5073.012 talked about the pleasure pain balance
+5076.21 that exists within the dopamine system.
+5078.17 It is beautifully described
+5079.41 in her book "Dopamine Nation," by the way.
+5081.41 Excellent book I recommend to
+all people, addicts or not.
+5085.17 Well, in that context of pleasure and pain
+5088.832 it's very clear what the
+pleasure molecule is.
+5091.49 It's actually a molecule
+more related to motivation,
+5093.84 and that's dopamine.
+5095.214 The pain molecule, however,
+appears to be dynorphine.
+5099.65 And the fact that
+dynorphine is dysregulated
+5103.44 in stress and depression and alcoholism
+5105.27 and the relationship between
+dynorphine and dopamine
+5107.68 is something that we should
+all take very seriously.
+5110.0 And for that reason,
+5111.5 I'm very excited about the fact
+5113.15 that deliberate heat exposure
+5114.76 can leverage the dynorphine system
+5117.6 in a short term and an acute way
+5119.82 that allows mood to improve
+after the sauna exposure.
+5123.66 So, for those of you that
+don't like heat exposure,
+5126.66 keep in mind that a lot of
+the observed positive effects
+5131.27 on our biology relate to metabolism,
+5133.78 cardiovascular function,
+but also mental health.
+5136.91 And along those lines,
+there is a wonderful study,
+5139.967 again, published in 2018.
+5142.3 I don't know why.
+5143.133 I guess 2018 was a big year
+5144.35 for deliberate heat exposure studies.
+5147.585 The title of this study is "Sauna Bathing
+5150.897 "and Risk of Psychotic Disorders."
+5152.76 And this was a prospective cohort study.
+5155.18 Again, we'll provide a link to this study.
+5157.24 It's a really interesting study
+5158.19 that explored the relationship
+between mental health,
+5161.29 so people suffering from
+various forms of psychoses,
+5164.28 schizophrenia and other
+forms of psychoses,
+5166.29 and use of sauna.
+5168.04 So essentially what this study did
+5169.71 is they looked at a very
+large number of subjects,
+5172.01 more than 2,000 subjects,
+5174.13 who had no history of psychotic disorders.
+5176.24 They were classified into three groups
+5177.77 based on their frequency of sauna use,
+5180.26 either once a week, two to
+three to times per week,
+5183.14 or four to seven times per week.
+5184.9 This should call to
+mind that earlier study
+5187.53 on all-risk mortality and
+cardiovascular event risk.
+5191.445 And then they explored the hazard ratio
+5195.21 for psychosis specifically,
+5197.27 meaning how likely it was that people
+5198.95 would develop psychotic symptoms
+5200.59 or full blown psychotic illness,
+5203.96 according to their
+frequency of sauna session.
+5206.01 So, again, this isn't
+causal, this is correlative.
+5208.82 And according to the data in this study,
+5210.85 what they concluded is that
+5212.25 there was a strong and inverse
+independent association
+5215.39 between frequent sauna bathing
+5216.9 and the future risk of psychotic disorders
+5218.89 in this population.
+5220.85 Now, this does not mean that going
+5223.41 into a sauna seven times per week
+5224.84 is going to prevent people
+5225.95 from becoming schizophrenic, necessarily,
+5228.36 or from having a psychotic
+episode, necessarily.
+5230.77 And of course, frequent sauna use will be
+5233.68 related to other
+health-promoting activities.
+5236.84 But in this study, as
+in the previous study,
+5239.25 they went to great lengths in order to try
+5241.17 and limit those so-called
+confounding variables.
+5244.36 Now, of course, this is just one study,
+5246.2 and again, it's correlative, not causal,
+5248.6 but based on the large number
+of subjects they included,
+5251.41 plus the rigor of the
+statistical analysis,
+5253.926 we're starting to see a general picture
+5256.1 that using the sorts of sauna protocols
+5258.84 that I've described
+throughout this episode,
+5261.246 five to 20 minutes or so,
+5264.0 done one to seven times per week
+5266.91 is associated with a general improvement
+5270.0 in cardiovascular health,
+5271.32 a general improvement in mental health,
+5274.32 and it really points to the fact that,
+5276.55 yes, sauna done acutely for
+three or four times a day,
+5281.24 30 minutes each session
+separated by cooling,
+5283.56 maybe getting into cold bath,
+5284.97 sure that can potently
+increase growth hormone,
+5288.2 but done on a more regular
+basis can reduce cortisol,
+5291.29 improve heart health,
+improve mental health.
+5293.99 And for that reason, and the
+fact that for most people,
+5297.54 it is conceivable to come up with a way
+5299.27 that you could get into
+deliberate heat exposure
+5301.11 for a minimum of cost.
+5302.93 If it's a hot bath, or
+if you had to resort to
+5306.09 bundling up and going for
+a jog, this sort of thing,
+5308.24 or if you have access to
+it, a sauna of some sort,
+5311.99 that we're really talking about a stimulus
+5314.96 to initiate a large number of
+different biological cascades
+5318.51 that wick out to improve multiple aspects
+5322.34 of brain and body health.
+5323.62 So up until now, I've been
+talking about whole body heating.
+5326.94 So for instance, putting your
+whole body into the sauna,
+5329.7 which of course is what most people do,
+5331.91 or getting into a hot tub
+or hot bath up to your neck,
+5335.03 or in the cases where we were talking
+5336.47 about deliberate cold exposure as a means
+5338.38 to increase core body
+temperature and metabolism,
+5341.78 getting into an ice bath
+or cold water of some sort
+5345.22 up to your neck or into
+a cold shower, et cetera.
+5348.2 Now I'd like to talk about
+deliberately heating or cooling
+5350.69 specific parts of the body,
+5353.01 meaning certain surface areas of your body
+5356.31 as a means to get effects
+on those particular areas,
+5359.51 as well as at the whole body level.
+5361.71 Numerous times throughout this episode,
+5363.04 I've talked about the
+dangers of overheating.
+5365.1 So what should you do if you
+think you or someone else
+5367.86 is hyperthermic, is too hot?
+5370.39 Well, if you understand just a little bit
+5372.44 about the cooling and heating systems
+5374.57 of your shell and core,
+5376.65 there are some terrific
+tools that you can use
+5378.62 in order to cool off your core quickly.
+5381.28 And remember the core consists
+of the nervous system,
+5383.4 the spinal cord, and the viscera,
+5384.8 which are really the organs
+you're trying to protect.
+5387.18 So, being able to cool off
+the core of your body quickly
+5390.98 can be very beneficial,
+5392.21 and in some cases, it
+could even save your life.
+5394.49 There is a way to more
+quickly heat or cool the body,
+5398.08 and that's through specific
+elements of your shell,
+5401.57 meaning particular skin surfaces.
+5403.74 I've talked extensively about
+this in the episode on cold.
+5406.75 It was also covered in the episode
+5409.06 with my guest, Dr. Craig Heller,
+5410.63 from the Biology Department at Stanford.
+5412.977 It relates to the so-called
+glabrous skin surfaces
+5416.57 on the upper half of our face,
+5418.693 palms of our hands, and
+the bottoms of our feet.
+5420.82 And for those of you that
+have heard this before
+5423.12 I encourage you to continue
+to listen nonetheless,
+5425.1 because today I'm going to talk about
+5426.9 specifically how to heat
+the body or cool the body
+5430.23 through these glabrous skin surfaces.
+5432.313 Very briefly, the mechanism is as follows.
+5435.68 The palms of our hands,
+the bottoms of our feet,
+5437.027 and the upper half of our face
+5439.106 overly specific types of vasculature,
+5442.62 meaning specific types
+of veins and arteries
+5446.57 that don't have capillaries between them,
+5448.98 and as a consequence,
+5450.589 heat and cold can move very quickly
+5454.004 from the palms of the hands,
+the bottoms of the feet,
+5457.13 and the upper half of our face,
+5458.54 and change our core body temperature.
+5461.62 There's a name for these
+particular vascular structures.
+5464.43 They're called AVAs or
+arteriovenous astemoses.
+5468.2 Basically veins and arteries
+interacting directly
+5472.08 without capillaries in between,
+5474.18 which allows cooling of
+blood or heating of blood
+5478.07 much more quickly than is possible
+5480.8 by applying colder heat
+elsewhere on the body,
+5483.46 where capillaries intervene
+between veins and arteries.
+5486.51 These AVAs, arteriovenous anastomoses,
+5488.98 can be leveraged to cool off
+5490.45 your core body temperature very quickly.
+5492.28 The key thing is to get
+the palms of your hands,
+5495.22 the bottoms of your feet, and
+the upper half of your face
+5497.08 in contact with a cold surface or fluid
+5500.57 that is cold enough to cool the blood
+5504.03 and the core of your body,
+5505.74 but not so cold that
+it constricts the veins
+5509.274 just below the palms of your hands,
+5511.7 the bottoms of your feet, or
+the upper half of your face.
+5514.12 So, not placing ice packs necessarily,
+5517.7 but maybe placing cool towels
+on the bottoms of feet,
+5520.96 the palms of the hands, and
+the upper half of the face,
+5522.66 and as they warm up, replacing
+those with other cool towels.
+5526.0 The exact temperature will depend
+5527.3 on how hot you happen to be.
+5528.95 I can't know that without
+5530.24 knowing your particular circumstances.
+5532.2 If you'd like to learn more about
+5533.74 how to cool off your core very quickly,
+5536.26 and some of the details and
+some of the technologies
+5538.36 that are being developed to do that,
+5540.05 please see the episode
+I did with Craig Heller
+5541.89 or the episode on cold.
+5543.31 If you don't want to go to those episodes,
+5545.05 here is a good procedure
+that you could use.
+5547.21 You could grab, for instance,
+5548.81 a package of frozen broccoli
+or frozen blueberries.
+5552.16 If someone is really, really warm,
+5553.46 make sure they take off
+their shoes and socks,
+5554.89 get their feet on top of those.
+5556.14 Ideally get some into their hands as well.
+5557.841 Get some cool compresses and
+get them onto people's face.
+5561.21 You could, of course,
+5562.22 also put a cool compress
+on the back of the neck,
+5564.96 on the top of the head.
+5565.95 That would be an especially good idea
+5567.61 if someone were hyperthermic
+5568.82 because of the way that
+cooling of the brain occurs
+5571.61 under conditions of hyperthermia.
+5573.72 But the key point here is that
+5576.03 just putting cold
+compresses or cold materials
+5578.63 onto somebody's torso is
+not going to be as efficient
+5581.01 as cooling those glabrous skin surfaces,
+5582.76 the bottoms of the feet,
+the palms of the hands,
+5584.44 and the upper half of their face.
+5586.7 Similarly, or I suppose
+to be more accurate,
+5589.25 I should say, conversely,
+5590.47 there are times when it is desirable
+5593.12 to heat the core of the body.
+5595.46 And once again,
+5596.55 just simply throwing a
+hot towel over somebody
+5598.87 is not going to be the most efficient way.
+5601.18 If someone is hypothermic,
+they're too cold,
+5604.542 it is not a problem to
+cover them with a blanket.
+5607.8 But ideally what you do is
+you use some warm object
+5613.34 or warm fluid to warm the
+bottoms of their feet,
+5616.78 their hands, and the
+upper half of their face.
+5618.83 Of course not so warm that
+you burn those skin surfaces.
+5621.467 This has actually been examined in studies
+5623.48 from the Heller Lab.
+5624.61 Turns out that, for instance,
+5625.8 to get people out of anesthesia,
+5627.707 it is beneficial to warm
+their core body temperature.
+5631.47 And of course there is fever,
+5632.98 which you should know
+is an adaptive response.
+5635.7 While fever is uncomfortable,
+5637.69 and in fact often involves a mismatch
+5639.6 between our perception of our shell
+5641.19 and a perception of our core temperature.
+5643.15 In other words,
+5644.09 there are times when our body
+temperature is really high,
+5645.92 we have a fever, and yet we're
+shivering and we're cold.
+5648.07 And that's because under
+conditions of fever,
+5650.37 the immune system
+liberates certain molecules
+5653.72 that impact, and in some ways,
+5656.54 intentionally disrupt the
+preoptic area, the POA,
+5659.9 and the way it normally functions
+5661.63 so that it can override peripheral signals
+5664.19 and simply try and heat the body
+5665.77 and kill whatever pathogen
+has infected the body.
+5669.69 So for those of you that think about fever
+5672.45 as always a bad thing, it's not.
+5674.54 Now, of course we don't want
+our core body temperature
+5676.72 to go so high that tissues of
+the brain and body are damage.
+5679.66 This is one reason why, if
+a fever ever goes above 103,
+5683.61 you need to start getting
+a little bit worried, 104.
+5686.49 There are times when you
+need to call an ambulance
+5688.64 or go to a hospital,
+5689.78 you really need to employ cooling methods
+5692.07 of the sort that I talked about before
+5693.34 to prevent hyperthermia.
+5695.09 Of course, safe ranges
+for body temperature
+5697.59 vary between infants and adults.
+5699.8 So you can look those up online,
+5701.15 depending on the person's
+age, what is a safe range,
+5703.22 what is not.
+5704.26 But keep in mind that if
+you are taking compounds,
+5706.78 pills to reduce your fever,
+5708.39 you are actually short circuiting
+5710.2 the protective mechanism
+for burning up the pathogen.
+5713.43 And that's because most pathogens,
+5715.46 bacteria and virus, don't survive
+well at high temperatures.
+5718.86 In fact, in laboratories,
+5719.89 if we want to preserve a virus for use,
+5721.7 we put it into a freezer.
+5723.13 If we want to kill a virus,
+we heat inoculate it.
+5726.53 So in many ways, fever
+is your natural form
+5728.85 of heat inoculation
+designed to kill pathogens
+5731.23 of various kinds.
+5732.49 Now last, but certainly not least,
+5733.98 I want to refer to the
+study that I described
+5735.93 at the very beginning of this episode,
+5738.32 involving what's called local hyperthermia
+5741.51 in order to trigger a number
+of biological processes
+5744.34 in fat tissue in order to
+convert white fat to beige fat,
+5749.21 which is the metabolically
+active form of fat.
+5751.786 Many of you, or at least some of you,
+5753.85 should be familiar with the fact
+5755.06 that deliberate cold exposure
+5757.13 can increase brown fat stores,
+5759.47 these mitochondrial dense
+fat stores that can, in turn,
+5762.75 allow a person to feel more comfortable
+5765.3 in cold temperatures, water, or otherwise,
+5767.83 and increase core metabolism.
+5770.37 I talked about this in
+the episode on cold,
+5772.21 but very briefly, the
+general protocol, again,
+5774.53 is to get 11 minutes total
+per week of uncomfortable,
+5777.7 yet safe deliberate cold exposure,
+5779.36 either through ice bath, cold shower,
+5781.9 cold immersion up to the neck,
+5783.95 or some other form of cold exposure.
+5786.97 That triggers increases in brown fat.
+5789.22 That's been beautifully
+shown by Dr. Susanna Søberg.
+5792.78 And that increase in brown fat
+5794.31 in turn increases core metabolism
+5796.32 and one's ability to feel
+comfortable in cool temperatures.
+5800.1 This was a study done in humans,
+5802.44 and there's now ample
+evidence from animal models
+5804.96 to support that this
+is a general phenomenon
+5807.17 that I think most people
+could use and benefit from.
+5810.37 Local hyperthermia is a
+distinctly different phenomenon.
+5813.47 It involves heating a
+particular surface of the body
+5816.7 as a way to convert the
+white fat at that location
+5820.34 to beige fat, which in turn
+leads to more systemic increases
+5824.7 in thermogenesis and
+increases in metabolism,
+5827.99 and believe it or not, in fat loss.
+5829.82 Now, the study that I'm referring to
+5831.2 is a very recent study that was published,
+5832.85 again, in this terrific
+apex journal, Cell,
+5836.05 Cell Press Journal.
+5837.13 And again, one of the three top journals,
+5839.11 Nature, Science, and Cell
+are the three top journals.
+5841.2 Top because they're the most competitive,
+5843.5 but also generally, not always,
+5845.72 but generally the most stringent
+5847.1 in terms of the review process.
+5848.41 Papers that make it into
+these three journals
+5850.44 generally are of very, very high quality.
+5852.62 And certainly enough people see them that
+5854.16 if they're not of high quality,
+5855.3 they get shot down pretty quickly
+in a short amount of time.
+5857.79 Whereas papers in other journals
+5859.24 can sometimes last a long time
+5860.92 before they're ever replicated, et cetera.
+5863.89 The title of this paper
+5864.81 is "Local Hyperthermia Therapy
+Induces Browning of White Fat
+5868.687 "and Treats Obesity."
+5870.85 This was a study that was
+performed on mice and humans
+5874.44 in the same study.
+5875.93 What this study involved was heating
+5877.82 of a local patch of skin
+to 41 degrees Celsius,
+5880.69 which is a 105.8 degrees Fahrenheit,
+5884.045 but not damaging the skin.
+5886.75 So the methods of heating
+5888.89 did not involve placing something
+5890.9 on the skin that would damage it.
+5892.03 In fact, in the study on the mice,
+5893.5 they used this kind of
+clever molecular chicanery
+5897.49 in order to do it.
+5898.323 And in humans, they used a thermocouple
+5900.26 that would allow them to heat the skin up
+5902.93 just locally in particular
+locations on the body
+5905.07 that I'll talk about in a moment.
+5907.07 They refer to this process as
+LHT, or local heat therapy.
+5913.63 The reason they did this
+is worth considering.
+5916.447 It's long been known from clinical data.
+5920.35 And in fact, from a bit of research data
+5922.47 that people that
+experience burn on a small,
+5926.16 or unfortunately in some circumstances,
+5928.9 significant portion of their body
+5930.98 experience overall decreases in body fat
+5934.303 and increases in metabolism
+that can last many years,
+5938.46 Now, of course, is not
+reasonable nor would one
+5941.81 ever want to induce burn in
+order to induce fat loss.
+5945.45 But the observed increases
+in metabolism and fat loss
+5948.64 in response to skin surface burn
+5951.4 couldn't be explained by
+reductions in activity
+5954.54 related to the burn, for instance.
+5957.22 And in fact, there are molecular pathways
+5959.28 related to something called UCP1,
+5962.16 which is uncoupling protein one.
+5964.12 I talked about this also
+in the cold episode,
+5965.86 but don't worry if you
+didn't see that episode,
+5967.69 or if you choose not to.
+5968.96 UCP1 has the ability to
+increase mitochondrial function
+5974.9 in ways that increase core
+body temperature overall,
+5977.24 in particular, in beige and brown fat,
+5979.92 which are these fat cells that exist
+5982.66 generally along our
+spine, and in particular,
+5984.66 in the upper part of our back
+5986.18 and around our neck and clavicles.
+5988.02 And they're responsible for
+acting as this sort of a candle,
+5991.91 or I should say the fuel
+or the fat of a candle
+5995.97 that can be burned up to
+manufacture heat in the body.
+6000.29 So, if you normally think about fat
+6002.35 and you think about blubbery fat,
+6003.6 you're thinking about white fat,
+6005.15 which again is just a storage site.
+6006.68 Beige fat and brown fat exist
+at just a few locations,
+6009.73 mainly internally, around our
+spinal cord and our clavicles,
+6013.1 and those fat stores are responsible
+6015.18 for generating heat in our body.
+6016.63 So they're a very metabolically
+active form of fat.
+6020.246 Small children have a lot
+of brown fat and beige fat,
+6023.84 in particular because very
+young children can't shiver.
+6027.32 A number of you probably didn't know that,
+6028.7 but very young children can't shiver,
+6030.39 so they need some way to generate heat
+6031.89 in order to make sure that they stay alive
+6033.52 if they were ever to get cold.
+6035.06 This is also probably the
+reason why little kids
+6037.19 can run around on a cold day
+outside without their shirt on
+6039.71 and they don't even seem to notice,
+6040.88 whereas adults are freezing cold.
+6043.1 As we get older, the amount
+of beige and brown fat
+6045.78 tends to either reduce or
+shrink or disappear entirely.
+6051.12 It's still debated which happens.
+6053.05 But we know that white
+fat can be converted
+6055.88 to this more metabolically
+active form of beige fat
+6059.557 by deliberate cold exposure,
+6062.01 according to the protocol
+I talked about earlier,
+6064.06 and now it seems, based on this new study,
+6067.37 that local heating of skin
+tissue can also induce UCP1
+6072.51 and the effects of UCP1 on
+increasing mitochondria.
+6075.59 And in fact, that local
+hyperthermia, 41 degrees Celsius,
+6080.38 that is 105.8 degrees Fahrenheit,
+6083.2 can actually induce the conversion
+6085.89 of white fat to beige fat.
+6088.0 Now that's pretty interesting,
+6089.02 and I can already predict the
+way this is probably going to go
+6091.29 in the kind of wellness and biohacking
+6093.38 and longevity communities.
+6094.41 I'm sure that pretty soon
+there are going to be
+6096.61 people putting heating pads
+6097.66 on different fat pads
+of theirs on their body,
+6100.04 trying to reduce,
+6100.94 or at least convert the
+white fat into beige fat.
+6103.6 And who knows, maybe that'll work.
+6104.74 There have not been many
+controlled studies of this yet.
+6107.31 This is the first, at
+least to my knowledge,
+6109.73 of such studies looking at
+this in non-burn conditions.
+6113.61 Nonetheless, the data are mechanistically
+6116.24 even more interesting
+than this whole business
+6118.72 about UCP1, and here's why.
+6121.319 Local hyperthermia,
+6123.46 using the protocol that
+I described before,
+6126.63 resulted in the increase of a promoter,
+6129.56 which is essentially a mechanism
+6131.18 by which certain genes
+regulate their activity.
+6134.94 This is a DNA binding of
+something called HSF1.
+6138.98 We don't have to go too
+deep into the mechanism here
+6141.07 or the nomenclature,
+6141.903 but HSF stands for heat shock factor one.
+6145.1 And HSF1 binding to a particular location
+6150.811 in the genome allowed
+for a different molecule
+6155.05 with a very long name.
+6156.17 I'll just tell it to you for fun,
+6157.37 but you can just let the
+numbers and letters stream by.
+6160.39 It's not important.
+6161.796 HNRNPA2B1, shortened to A2B1,
+6165.39 which frankly is not that
+short to begin with, A2B1,
+6168.26 is still a name that should be meaningless
+6169.94 to most everybody, but
+here's what's really cool.
+6172.39 A2B1 is directly involved in
+glucose and lipid metabolism
+6177.1 and regulates the genes that control
+6179.519 glucose and lipid metabolism.
+6181.74 So here we have a situation
+where local heating of skin
+6184.296 converted a metabolically
+sluggish or inactive cell type,
+6188.21 the white fat cell, into
+the metabolically charging,
+6193.6 so to speak, beige fat cell, which in turn
+6196.97 led to systemic, meaning
+body-wide increases in metabolism,
+6200.74 through two mechanism.
+6201.81 One mechanism is this increase in UCP1,
+6204.84 which for those of you that want to know,
+6206.05 UCP1 causes shifts in the way
+6208.35 that potential energy is
+pushed from the protons
+6212.58 through the mitochondria,
+6213.413 basically more mitochondrial function,
+6214.94 which means more ATP,
+6216.03 which means cells are more active,
+6217.4 AKA, increased metabolism,
+6219.5 and increases in things like
+heat shock factor one and A2B1,
+6223.35 which are involved in lipid
+6224.56 and glucose metabolism and regulation.
+6226.93 So I want to be very clear,
+6228.38 this study does not
+say that spot reduction
+6231.49 is possible with local heating of tissue.
+6234.07 I just can see it now that once this paper
+6236.51 gets out into the press,
+people are going to say,
+6238.74 oh, heating up a certain patch of skin
+6240.65 is going to burn fat or convert fat
+6242.25 to some other cell type at that location.
+6244.58 Sorry, that's not the way it works.
+6247.25 They did observe increases
+in beige fat cells
+6251.33 at certain locations in the body.
+6253.6 But those increases in beige fat
+6255.255 occurred where beige
+fat cells always reside,
+6258.75 around the spine, the upper neck,
+6260.54 the clavicles, and so on.
+6262.43 This is exciting because it provides
+6264.29 yet another potential mechanism
+6266.15 in addition to deliberate cold exposure
+6268.8 to increase beige fat,
+6270.7 meaning the metabolically
+active form of fat cell.
+6274.06 It also nicely provides a mechanism,
+6276.57 or at least a potential mechanism,
+6278.39 for the observation that burn,
+6281.81 either small patch of skin being burned,
+6284.49 or again, sadly large
+patches of skin being burned,
+6287.856 leading to these very
+extreme and very long lasting
+6292.78 increases in body fat loss and metabolism.
+6296.6 What, if anything, should
+you do with this information?
+6298.94 Well, first of all, I want
+to very much caution people
+6302.63 about putting anything
+so hot that it can damage
+6305.93 the surface of your skin onto your skin.
+6308.22 That would be a terrible idea.
+6310.06 However, I do predict a
+time not too far from now
+6314.37 where people will start to explore the use
+6317.49 of local skin heating as a means
+6320.02 to increase the conversion
+of white to beige fat,
+6324.34 and in turn for beige fat stores
+6326.62 to increase metabolism overall,
+6328.2 and maybe even improve glucose
+metabolism and thermogenesis.
+6331.69 If you'd like more detail
+else about this study,
+6333.59 we will provide a link to it
+in the show notes caption.
+6336.571 I should mention that the study,
+6338.52 at least the portion of the study
+6339.85 that was focused on humans,
+6341.51 involved roughly equal
+numbers of males and females.
+6344.733 The subjects followed their
+normal daily schedule,
+6347.456 including time and composition
+of meals, they say,
+6349.81 rest and active hours,
+et cetera, et cetera.
+6352.9 The local hyperthermia therapy was done
+6354.89 in the following way.
+6355.84 Here I'm paraphrasing from
+their methods section.
+6358.17 Subjects were seated
+in an upright posture.
+6360.34 They were wearing a standard test robe
+6363.39 with the head and neck
+and shoulders unclothed
+6365.33 and one meter away from
+a thermal imaging camera,
+6368.21 which could basically
+measure the temperature
+6370.38 at their skin surface to make sure
+6371.67 that it remained constant
+across subjects and yet safe.
+6375.761 The supraclavicular fat deposits,
+6378.95 meaning the upper shoulders
+and upper back area,
+6381.24 were exposed to this thermal source,
+6382.66 again, 41 degrees for 20 minutes.
+6386.65 So it was 41 degrees for 20 minutes.
+6389.018 And their core temperatures
+and skin temperatures
+6391.84 were monitored before and after
+6394.03 this local hyperthermic therapy.
+6395.91 The subjects were exposed to
+this local hyperthermia therapy
+6399.13 three days per week, separated by day,
+6401.18 Monday, Wednesday, and Friday,
+6402.41 so they had weekends off,
+for five weeks total,
+6406.3 after which their data were collected.
+6408.21 And the study has a number
+6409.19 of other really interesting features
+6410.66 that are sure to lead to
+increased understanding
+6413.31 of both mechanism and new protocols,
+6415.21 such as analysis of the genes and proteins
+6417.9 that are activated downstream
+6419.55 of this local hyperthermia therapy.
+6421.41 I find these data incredibly interesting,
+6423.54 in part because of the ways
+6424.96 that local hyperthermia therapy
+6426.61 mimics deliberate cold exposure therapy.
+6429.33 Same downstream mechanisms, UCP1,
+6430.82 and some of the other
+pathways are involved,
+6433.44 and all of that points to a somewhat new,
+6435.64 but certainly an important concept.
+6438.0 Many of you have probably
+heard of hormesis,
+6439.8 which is the subjecting of one's self,
+6442.53 or others, I suppose,
+6443.84 to enough stress to induce
+an adaptation of some kind.
+6447.3 So hormesis is the reason why
+6449.8 if you get into cold water repeatedly,
+6452.056 at first, it's very
+painful psychologically,
+6454.81 and over time you get used to it.
+6456.33 You never get completely used to it,
+6457.47 but you get more used to it.
+6458.77 Hormesis is also used to
+describe the adaptation
+6462.02 to cardiovascular exercise
+or to the hard rep sets
+6466.05 of resistance training
+and the growth of muscles
+6468.01 or the strengthening of muscles
+6469.2 or the improvement in
+cardiovascular function
+6470.78 to endurance exercise and so forth.
+6472.774 Hormesis is a somewhat
+common term nowadays.
+6475.17 If you haven't heard
+it, now you've heard it.
+6478.0 In this paper they describe
+what is called mitohormesis,
+6481.21 which is, in essence,
+6482.75 the fact that any number of
+different stressful stimuli,
+6485.72 provided they activate UCP1
+6487.91 and some of these other
+pathways that I just described,
+6490.1 like HSF1, can induce
+changes in the mitochondria
+6493.81 that lead to increases in metabolism.
+6496.38 So it shouldn't surprise
+us that cold and heat
+6500.3 can both lead to increases
+in metabolism and conversion
+6503.23 of white fat to beige fat.
+6505.3 It shouldn't surprise us because
+both pathways are stress.
+6508.84 Local hyperthermia is stress.
+6510.95 Burn certainly is stress.
+6512.84 Sauna is a form of stress.
+6514.988 Deliberate cold exposure
+is a form of stress.
+6518.36 Exercise is a form of stress.
+6519.79 And the adaptation to those
+stressors is not infinite.
+6523.4 All of those protocols, any
+protocol for that matter,
+6526.57 is going to be effective
+6527.56 because it's going to converge
+6528.71 on an existing internal
+biological mechanism.
+6531.73 So there's no unique
+mechanism for each protocol.
+6535.24 Each protocol that I've
+talked about today,
+6537.19 whether or not it's five
+minutes or 20 minutes
+6538.92 or four times in a day
+6540.41 or three times per week
+or seven times per week
+6542.98 is tickling or pushing
+or stomping, if you will,
+6546.5 on a given pathway and
+really activating it
+6548.76 to a mild or to a severe degree.
+6550.68 What I've tried to do
+6551.66 is to illustrate the general mechanisms
+6554.06 by which heat in particular
+6556.21 can activate certain biological pathways
+6558.46 so that you can devise protocols
+6560.41 that are going to be optimal
+for you and your needs.
+6563.14 So just to briefly recap,
+6565.98 if you want to get the greatest
+growth hormone increases,
+6568.62 do sauna or other deliberate
+heat exposure fairly seldom,
+6573.17 probably no more than once
+per week, maybe even less,
+6576.05 and do it a lot that day.
+6577.65 Just make sure that you break
+it up into multiple sessions.
+6579.82 In the study I described
+earlier they did four sessions,
+6582.45 30 minutes each.
+6583.6 But that was just once a week.
+6586.67 If you're interested in
+the cardiovascular benefits
+6589.13 and the potential longevity
+benefits of sauna,
+6591.64 well then it's clear that
+doing it three to four,
+6593.93 maybe even seven times per week
+6595.18 is going to be more beneficial
+6596.52 than doing it just one
+or three times per week.
+6598.86 It stands to reason that
+for those of you interested
+6600.66 in the general health effects of sauna,
+6603.389 about an hour per week
+broken up into three sessions
+6606.51 makes the most sense based
+on my read of the data.
+6609.35 And again, that range of
+80 to 100 degrees Celsius
+6612.06 is going to be your guide.
+6613.65 And in terms of the
+mental health benefits,
+6615.79 it seems that getting a
+little bit uncomfortable
+6618.27 in that heat environment,
+sauna or otherwise,
+6621.02 provided it's safe, is
+going to be the best way
+6623.58 to access those mental health effects
+6625.51 by way of increasing dynorphine,
+which, as you recall,
+6629.4 will then increase the
+ability of endorphin
+6632.27 to have its positive effects on mood
+6634.3 after you get out of the sauna
+6636.28 or other deliberate heat exposure.
+6637.97 And in terms of timing,
+after a workout of any kind,
+6641.441 morning or afternoon,
+6643.3 or if you're not doing it after a workout,
+6646.17 certainly in the later part of the day
+6647.64 is going to be most beneficial
+6648.82 as it relates to sleep.
+6650.25 But of course, there's a caveat there,
+6651.84 which I will mention again,
+6653.24 which is that for those of you
+6654.48 that have no trouble sleeping
+'cause you're exhausted
+6656.31 or you're just one of
+these phenomenal sleepers,
+6658.42 well then do it any time of day or night.
+6660.498 But for most people
+doing it later in the day
+6662.91 is going to be more beneficial
+6664.04 because of the post sauna cooling effect
+6667.0 and the relationship between
+cooling by a degree or more
+6670.71 as a way to enter sleep.
+6672.14 Thank you for joining me
+today for my discussion
+6674.16 about the science of heat
+and heating for health.
+6678.33 If you are learning from and
+or enjoying this podcast,
+6680.74 please subscribe to us on YouTube.
+6682.52 That's a terrific zero
+cost way to support us.
+6685.21 In addition, please
+subscribe to the podcast
+6687.16 on Spotify and or Apple,
+6688.85 and on Apple you have the opportunity
+6690.75 to leave us up to a five-star review.
+6693.13 If you have comments or
+feedback or suggestions
+6695.96 about topics or guests
+that you'd like us to cover
+6697.68 on the Huberman Lab Podcast,
+6699.05 please put those in the
+comment section on YouTube.
+6701.56 We do read all the comments.
+6703.64 Please also check out
+the sponsors mentioned
+6705.3 at the beginning of today's episode.
+6706.69 That is the best way to
+support this podcast.
+6709.27 As also mentioned at the
+beginning of the episode,
+6711.4 we are now partnered with
+Momentous Supplements.
+6713.704 So if you go to livemomentus.com/huberman,
+6716.727 you'll find what we firmly believe
+6718.43 to be the highest quality
+supplements available
+6720.75 in the specific dosages that
+match the peer reviewed science
+6724.21 and recommendations
+made on various episodes
+6726.36 of the Huberman Lab Podcast.
+6728.13 You will also find specific protocols
+6730.38 of how much to take and when,
+6732.12 what time of day, what
+time of night, et cetera.
+6734.23 And you will also find behavioral tools
+6736.39 that can synergize with those supplements.
+6739.06 Many of you will also be pleased to learn
+6740.54 that Momentous Supplements, of course,
+6741.92 ships within the United States,
+but also internationally.
+6745.01 If you're not already following
+us on Instagram or Twitter,
+6747.61 please do so.
+6749.045 It's Huberman Lab on both
+Instagram and Twitter.
+6751.25 Both places I talk about science
+6752.85 and science related tools
+in short little snippets
+6755.86 that often overlap with the
+contents of the podcast,
+6758.7 but often is distinct from
+the contents of the podcast.
+6761.89 In addition, please consider
+signing up for our newsletter,
+6764.05 the Neural Network Newsletter.
+6765.37 You can do that by going
+to hubermanlab.com.
+6768.09 I should point out that we do not share
+6769.71 your email with anybody,
+6770.71 and we have a very clear privacy policy
+6773.05 that is at that location
+at hubermanlab.com.
+6775.81 The Neural Network Newsletter
+6776.92 includes protocols and podcast summaries
+6778.81 and other things that we
+believe people will find useful.
+6781.9 And last, but certainly not least,
+6783.98 thank you for your interest in science.
+6785.747 [upbeat music]

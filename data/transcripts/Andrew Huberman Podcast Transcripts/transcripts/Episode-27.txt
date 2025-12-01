@@ -1,0 +1,3778 @@
+0.3 - Welcome to the Huberman Lab Podcast,
+2.25 where we discuss science
+and science-based tools
+4.89 for everyday life.
+5.939 [lively music]
+9.15 I'm Andrew Huberman,
+10.17 and I'm a professor of
+neurobiology and ophthalmology
+13.17 at Stanford School of Medicine.
+15.09 Today, my guest is Dr. Erich Jarvis.
+17.73 Dr. Jarvis is a professor at
+the Rockefeller University
+20.52 in New York City
+21.93 and his laboratory studies,
+23.58 the neurobiology of
+vocal learning, language,
+26.67 speech disorders,
+28.08 and remarkably, the
+relationship between language,
+30.87 music and movement, in particular dance.
+34.53 His work spans from genomics,
+37.2 so the very genes that make up our genome
+40.86 and the genomes of other species
+42.69 that speak and have language
+44.28 such as songbirds and parrots
+46.86 all the way up to neural circuits,
+48.42 that is the connections
+in the brain and body
+50.7 that govern our ability to learn
+52.53 and generate specific sounds
+54.21 and movements coordinated
+with those sounds,
+56.22 including hand movements
+58.17 and all the way up to cognition,
+61.29 that is our ability to
+think in specific ways,
+64.05 based on what we are saying
+65.55 and the way that we comprehend
+67.35 what other people are
+saying, singing and doing.
+70.86 As you'll soon see,
+72.36 I was immediately transfixed
+74.67 and absolutely enchanted
+by Dr. Jarvis's description
+78.03 of his work and the ways that it impacts
+80.28 all the various aspects of our lives.
+82.53 For instance, I learned from
+Dr. Jarvis that as we read,
+86.31 we are generating very low-levels
+88.65 of motor activity in our throat.
+90.96 That is, we are speaking the
+words that we are reading
+94.38 at a level below the perception of sound
+96.93 or our own perception of those words.
+99.3 But if one were to put an amplifier
+100.89 or to measure the firing of those muscles
+103.95 in our vocal chords,
+105.24 we'd find that as we're
+reading information,
+107.25 we are actually speaking that information.
+109.83 And as I learned, and you'll soon learn,
+111.87 there's a direct link
+between those species
+114.36 in the world that have song and movement,
+117.39 which many of us would
+associate with dance
+119.49 and our ability to learn and
+generate complex language.
+123.51 So for people with speech
+disorders like stutter,
+126.54 or for people who are interested
+127.89 in multiple language learning,
+129.9 bilingual, trilingual, et cetera,
+131.94 and frankly for anyone who is interested
+134.34 in how we communicate through
+words, written or spoken,
+138.06 I'm certain today's episode is going to be
+139.77 an especially interesting
+and important one for you.
+142.68 Dr. Jarvis's work is so pioneering
+144.78 that he has been awarded
+truly countless awards.
+147.21 I'm not going to take our time to list off
+149.07 all the various important
+awards that he's received,
+152.19 but I should point out
+153.09 that in addition to being
+a decorated professor
+155.79 at the Rockefeller University,
+157.26 he is also an investigator
+158.4 with the Howard Hughes Medical Institute,
+160.17 the so-called HHMI.
+162.027 And for those of you that don't know,
+163.83 HHMI investigators are selected
+166.32 on an extremely competitive basis
+169.05 that they have to re-up,
+170.61 that is they have to
+recompete every five years.
+173.13 They actually receive a
+grade every five years
+176.04 that dictates whether or
+not they are no longer
+178.32 a Howard Hughes investigator
+179.94 or whether or not they can
+advance to another five years
+183.27 of funding for their important research.
+185.4 And indeed, Howard Hughes investigators
+186.84 are selected not just for
+the rigor of their work,
+189.6 but for their pioneering spirit
+191.22 and their ability to take on
+high-risk, high-benefit work,
+195.45 which is exactly the kind of work
+196.74 that Dr. Jarvis has been
+providing for decades now.
+200.22 Again, I think today's episode
+is one of the more unique
+202.53 and special episodes that we've had
+204.0 on the Huberman Lab Podcast.
+205.17 I single it out because it really spans
+207.69 from the basic to the applied
+209.49 and Dr. Jarvis's story is
+an especially unique one
+212.16 in terms of how he arrived
+at becoming a neurobiologist.
+215.07 So for those of you that are interested
+216.84 in personal journey and personal story,
+218.82 Dr. Jarvis's is truly a
+special and important one.
+222.72 I'm pleased to announce that
+the Huberman Lab Podcast
+224.58 is now partnered with
+Momentous supplements.
+226.89 We partnered with Momentous
+for several important reasons.
+229.14 First of all, they ship internationally
+230.85 because we know that many of you
+232.2 are located outside of the United States.
+234.24 Second of all, and perhaps most important,
+236.25 the quality of their
+supplements is second to none,
+238.8 both in terms of purity and precision
+240.48 of the amounts of the ingredients.
+242.43 Third, we've really emphasized supplements
+245.04 that are single ingredient supplements,
+247.11 and that are supplied in
+dosages that allow you
+250.02 to build a supplementation protocol
+252.27 that's optimized for cost,
+254.13 that's optimized for effectiveness,
+255.99 and that you can add
+things and remove things
+258.15 from your protocol in a way
+259.47 that's really systematic and scientific.
+261.24 If you'd like to see the supplements
+262.44 that we partner with Momentous on,
+263.76 you can go to livemomentous.com/huberman.
+266.85 There, you'll see those supplements.
+267.99 And just keep in mind
+269.01 that we are constantly expanding
+270.45 the library of supplements
+available through Momentous
+273.15 on a regular basis.
+274.11 Again, that's livemomentous.com/huberman.
+276.63 Before we begin, I'd like to
+emphasize that this podcast
+279.03 is separate from my teaching
+and research roles at Stanford.
+281.7 It is however, part of
+my desire and effort
+283.5 to bring zero cost to consumer
+information about science
+286.08 and science-related tools
+to the general public.
+288.66 In keeping with that theme,
+289.65 I'd like to thank the
+sponsors of today's podcast.
+292.35 Our first sponsor is InsideTracker.
+294.63 InsideTracker is a
+personalized nutrition platform
+296.91 that analyzes data from your blood and DNA
+299.37 to help you better meet your immediate
+300.84 and long-term health goals.
+302.43 I've long been a believer in
+getting regular blood work done
+305.19 for the simple reason
+that many of the factors
+307.41 that impact your immediate
+and long-term health
+309.24 can only be analyzed from
+a quality blood test.
+312.0 And nowadays with the
+advent of modern DNA test,
+314.22 you can also get insight
+into, for example,
+316.08 what your biological age is
+317.46 and compare that to
+your chronological age.
+319.44 The problem with a lot of DNA tests
+321.45 and blood tests, however,
+322.8 is you get information back
+about metabolic factors, lipids,
+326.37 and hormones, and so forth,
+327.45 but you don't know what to do
+328.83 with or about that information.
+330.78 InsideTracker solves that
+problem with a simple platform
+333.54 that allows you to click
+on any specific factor,
+336.15 learn more about it and what
+it does in your brain and body,
+338.7 and also the various
+nutritional supplementation
+341.4 and other types of
+interventions you can take
+343.23 to bring the levels of that factor
+345.39 into the ranges that are
+optimal for you and your health.
+349.05 If you'd like to try InsideTracker,
+350.43 you can go to insidetracker.com/huberman
+353.16 to get 20% off any of
+InsideTracker's plans.
+355.95 That's insidetracker.com/huberman
+to get 20% off.
+359.7 Today's episode is also
+brought to us by ROKA.
+362.1 ROKA makes eyeglasses and sunglasses
+364.02 that are of the absolute highest quality.
+365.88 They also have some really unique features
+367.92 that make them especially attractive
+370.11 from the standpoint of
+aesthetics and performance.
+373.38 The company was founded by two
+374.52 all-American swimmers from Stanford
+375.93 and everything about their
+eyeglasses and sunglasses
+377.88 were designed with performance in mind.
+379.89 Initially, the eyeglasses and sunglasses
+381.69 were designed for sport,
+382.71 that is for running and
+for cycling, et cetera.
+384.72 And indeed, still their eyeglasses
+386.55 and sunglasses are very lightweight
+388.08 and they won't slip off
+your face if you get sweaty,
+390.21 but they also have a terrific aesthetic.
+392.07 You can wear them to work.
+393.3 You can wear them out to eat.
+394.68 I wear readers at night
+when I work, or if I drive
+397.86 and I wear sunglasses sometimes
+399.33 during the middle of the day,
+400.62 if it's too bright and I need
+sunglasses in order to see.
+403.35 If you'd like to try ROKA
+eyeglasses, or sunglasses,
+405.99 you can go to ROKA, that's ROKA.com
+408.51 and enter the code huberman
+409.83 to save 20% off your first order.
+411.57 Again, that's ROKA.com
+413.37 and enter the code huberman at checkout.
+415.41 Today's episode is also
+brought to us by LMNT.
+418.23 LMNT is an electrolyte drink
+419.85 that has everything you
+need and nothing you don't,
+422.49 meaning no sugar, but
+plenty of the correct ratios
+427.11 of sodium, magnesium and potassium,
+429.72 and those three electrolytes,
+431.28 sodium, magnesium, and potassium
+432.54 are critical for your neuron,
+your nerve cell function,
+435.03 and for the function of all the cells
+436.86 in your brain and body.
+438.54 I've mentioned this before on the podcast,
+440.49 but I'm a fan of salt,
+442.56 not taking too much salt,
+443.97 but certainly not getting too little salt.
+446.31 LMNT has 1000 milligrams,
+that is one gram of salt,
+449.16 which might sound like a lot of salt.
+450.6 But for many people,
+451.433 especially people who are
+following low carbohydrate diets,
+454.2 or who are exercising or
+sweating a lot, or both,
+457.68 that level of salt can actually help you
+459.9 in many circumstances.
+461.07 Getting the appropriate level of salt,
+462.48 and certainly the appropriate
+levels of electrolytes
+464.22 will improve your cognitive function
+465.69 and will improve your
+physical performance.
+468.15 If you'd like to try LMNT
+469.23 you can go to drinklmnt,
+that's lmnt.com/huberman,
+473.4 and you'll get a free
+sample pack with your order.
+475.5 That's drinklmnt.com/huberman.
+478.95 And now, for my discussion
+with Dr. Erich Jarvis.
+482.37 Erich, it's so great to have you here.
+484.08 - Thank you.
+- Yeah.
+485.34 Very interested in learning from you
+487.2 about speech and language.
+489.9 And even as I ask the question,
+492.0 I realize that a lot of
+people, including myself,
+494.79 probably don't fully
+appreciate the distinction
+497.25 between speech and language, right?
+499.56 Speech, I think of as the motor patterns,
+501.45 the production of sound
+503.97 that has meaning, hopefully.
+505.74 And language, of course,
+comes in various languages
+509.13 and varieties of ways of communicating.
+511.86 But in terms of the study
+of speech and language,
+514.74 and thinking about how the brain
+516.57 organizes speech and language,
+518.73 what are the similarities?
+520.41 What are the differences?
+521.4 How should we think about
+speech and language?
+523.17 - Yeah, well, I'm glad you,
+you know, inviting me here.
+526.8 And I'm also glad to
+get that first question,
+530.13 which I consider a provocative one.
+532.59 The reason why, I've been struggling,
+535.44 what is the difference
+with speech and language
+537.39 for many years.
+538.68 And realize, why am I struggling,
+540.65 is because there are behavioral terms,
+543.12 let's call 'em psychologically,
+544.92 psychology developed kind of terms
+547.74 that don't actually align
+exactly with brain function.
+552.24 All right.
+553.073 And the question is there a distinction
+554.43 between speech and language?
+555.66 And when I look at the brain
+557.43 of work that other people
+have done, work we have done,
+560.07 also compared it with animal models,
+561.9 like those who can imitate sounds
+563.4 like parrots and songbirds.
+565.59 I start to see there really
+isn't such a sharp distinction.
+570.21 So, to get at what I think is going on,
+572.37 let me tell you how some
+people think of it now.
+575.7 That there's a separate
+language module in the brain
+579.45 that has all the
+algorithms and computations
+582.27 that influence the speech pathway
+584.28 on how to produce sound
+586.32 and the auditory pathway
+on how to perceive
+589.11 and interpret it for speech
+591.93 or for, you know, sound
+that we call speech.
+595.14 And it turns out,
+598.62 I don't think there is any good evidence
+600.6 for a separate language module.
+602.55 Instead, there is a
+speech production pathway
+607.23 that's controlling our larynx,
+608.61 controlling our jaw muscles
+610.5 that has built within it
+612.75 all the complex algorithms
+for spoken language.
+616.11 And there's the auditory pathway
+618.63 that has built within it,
+619.98 all the complex algorithms
+for understanding speech,
+622.92 not separate from a language module.
+625.26 And this speech production pathway
+627.57 is specialized to humans
+630.12 and parrots and songbirds,
+632.52 whereas this auditory perception pathway
+635.22 is more ubiquitous amongst
+the animal kingdom.
+638.13 And this is why dogs can understand,
+639.847 "sit", "sientese", "come here, boy",
+643.297 "get the ball" and so forth.
+644.82 Dogs can understand several
+hundred human speech words.
+648.54 Great apes, you can teach
+them for several thousand,
+651.27 but they can't say a word.
+653.76 - Fascinating.
+655.32 Because you've raised a
+number of animal species
+658.08 early on here and because I have a,
+660.9 basically an obsession with animals
+662.34 since the time I was very small,
+663.57 I have to ask, which
+animals have language?
+668.97 Which animals have modes of communication
+671.97 that are sort of like language.
+674.215 - [Erich] Yeah.
+675.048 - You know, I've heard whale songs.
+676.32 I don't know what they're saying.
+677.49 They sound very beautiful,
+678.54 but they could be insulting
+each other for all I know.
+681.06 - [Erich] Yeah.
+681.893 - And they very well may be.
+684.18 Dolphins, birds, I mean,
+687.27 what do we understand about
+modes of communication
+690.48 that are like language,
+692.79 but might not be what would
+classically be called language?
+696.39 - Yes, right.
+697.8 So, modes of communication
+700.56 that people would define as language,
+703.32 more, very, in a very narrow definition,
+706.2 they would say, production
+of sound, so speech.
+709.92 But what about the hands,
+the gesturing with the hands?
+712.65 What about a bird who is doing
+aerial displays in the air,
+716.25 communicating information
+through body language, right.
+720.66 Well, I'm going to go back to the brain.
+723.75 So what I think is going on
+726.75 is for spoken language,
+728.97 we're using the speech pathway
+730.95 and all the complex algorithms there.
+733.02 Next to the brain regions
+734.55 that are controlling spoken language
+736.29 are the brain regions for
+gesturing with the hands.
+739.53 And that hand parallel pathway
+742.26 has also complex algorithms
+that we can utilize.
+745.41 And some species are more
+advanced in these circuits,
+748.59 whether it's sound or gesturing with hands
+751.32 and some are less advanced.
+753.9 Now, we, humans and a few others
+755.94 are the most advanced
+for the speech sounds
+759.87 or the spoken language,
+761.37 but a non-human primate
+can produce gesturing
+765.3 in a more advanced form than
+they could produce sound.
+769.17 I'm not sure I got that across clearly,
+771.39 just to say that humans
+are the most advanced
+774.99 at spoken language,
+776.97 but not necessarily as big a
+difference at gestural language
+781.29 compared to some of the species.
+783.3 - Very clear and very interesting.
+785.7 And immediately prompts the question,
+788.46 have there been brain imaging
+789.96 or other sorts of studies
+evaluating neural activity
+794.67 in the context of, you know,
+cultures and languages,
+798.15 at least that I associate
+with a lot of hand movement,
+800.34 like Italian.
+- Yep.
+801.6 - Versus, I don't know,
+803.28 maybe you could give us
+some examples of cultures
+805.2 where language is not associated with
+807.9 as much overt hand movement.
+809.49 - Yes, so as you and I
+are talking here today
+812.73 and people who are
+listening, but can't see us,
+815.04 we're actually gesturing
+with our hands as we talk
+819.21 without knowing it or
+doing it unconsciously.
+822.48 And if we were talking on a telephone,
+825.06 I would have one hand here
+826.11 and I'd be gesturing with the other hand.
+827.897 [Andrew laughs]
+828.73 Without even you seeing me, right?
+830.43 And so why is that?
+832.5 Some have argued and I would agree,
+834.21 but based upon what we've seen
+836.16 is that there's an
+evolutionary relationship
+838.74 between the brain pathways
+840.03 that control speech
+production and gesturing.
+844.29 And the brain regions I mentioned
+845.94 are directly adjacent to each other.
+847.44 And why is that?
+848.49 I think that the brain
+pathways that control speech
+851.13 evolved out of the brain pathways
+that control body movement.
+855.39 All right.
+856.223 And that
+859.86 when you talk about Italian, French,
+862.05 English, and so forth,
+864.21 each one of those languages
+865.68 come with a learned set of gestures
+869.16 that you can communicate with.
+871.14 Now, how is that related to other animals?
+873.18 Well, Cocoa, a gorilla who is raised
+875.37 with humans for 39 years or more,
+879.12 learned how to do gesture communication,
+882.3 learned how to sign
+language, so to speak, right?
+885.6 But Cocoa couldn't produce those sounds.
+888.06 Cocoa could understand them as well
+891.595 by seeing somebody sign
+893.88 or hearing somebody produce speech,
+896.19 but Cocoa couldn't
+produce it with her voice.
+898.74 And so, what's going on there is that
+902.55 a number of species, not all of them,
+904.26 a number of species have
+motor pathways in the brain
+907.14 where you can do learn gesturing,
+909.45 rudimentary language, if you
+wanted, say with your limbs,
+912.66 even if it's not as advanced as humans.
+914.79 But they don't have this extra
+brain pathway for the sound.
+918.75 So they can't gesture with their voice
+921.12 in the way that they
+gesture with their hands.
+923.52 - I see.
+924.54 One thing that I've wondered
+about for a very long time
+927.03 is whether or not
+929.64 primitive emotions and primitive sounds
+934.17 are the early substrate of language.
+937.23 And whether or not there's a bridge
+939.15 that we can draw between those
+940.89 in terms of just the
+basic respiration systems
+944.49 associated with different
+extreme feelings.
+947.43 Here's the way I'm
+imagining this might work.
+950.58 When I smell something delicious,
+953.46 I typically inhale more.
+- Hmm hmm.
+957.0 - And I might say, mmm,
+or something like that.
+960.27 Whereas if I smell something putrid,
+962.04 I typically turn away, and I wince
+964.23 and I will exhale [exhales],
+966.12 you know or sort of
+kind of like turn away,
+967.89 trying to not ingest those molecules
+970.05 or inhale those molecules.
+971.82 I could imagine that these
+973.68 are the basic dark and light contrasts
+977.07 of the language system.
+978.99 And as I say that,
+979.823 I'm saying that from the
+orientation of a vision scientist
+983.1 who thinks of all visual images built up
+986.13 in a very basic way of
+a hierarchical map model
+989.19 of the ability to see dark and light.
+991.083 So I could imagine this kind of primitive
+993.39 to more sophisticated pyramid
+997.32 of sound to language.
+1000.41 Is this a crazy idea?
+1001.78 Do we have any evidence
+this is the way it works?
+1005.42 - No, it's not a crazy idea.
+1007.07 And in fact,
+1007.97 you hit upon one of the key distinctions
+1011.81 in the field of research
+that I started out in,
+1014.45 which is vocal learning research.
+1016.49 So for vocal communication,
+1020.3 you have most vertebrate species vocalize,
+1023.63 but most of them are
+producing innate sounds
+1026.243 that they're born with producing,
+1030.2 that is babies crying, for example,
+1033.02 or dogs barking.
+1035.18 And only a few species have
+learned vocal communication,
+1038.75 the ability to imitate sounds.
+1040.73 And that is what makes
+spoken language special.
+1043.43 When people think of what's
+special about language,
+1046.67 it's the learned vocalizations.
+1049.28 That is what's rare.
+1051.14 And so, this distinction
+between innateness and learned
+1056.03 is more of a bigger dichotomy
+1058.4 when it comes to vocalizations
+1059.6 than for other behaviors
+in the animal kingdom.
+1062.87 And when you go in the brain,
+1065.48 you see it there as well.
+1067.805 And so all the things you talked about,
+1069.5 the breathing, the grunting and so forth,
+1071.87 a lot of that is handled
+by the brain stem circuits,
+1075.17 you know, right around the
+level of your neck and below.
+1078.92 Like a reflex kind of thing.
+1080.93 So, or even some emotional
+aspects of your behavior
+1084.65 in the hypothalamus and so forth.
+1086.66 But for a learned behavior,
+1088.73 learning how to speak,
+1090.98 learning how to play the piano,
+1092.78 teaching a dog to learn how to do tricks
+1095.54 is using the forebrain circuits.
+1098.09 And what has happened is
+1100.07 that there's a lot of forebrain circuits
+1101.81 that are controlling,
+1102.643 learning how to move body
+parts in these species,
+1104.54 but not for the vocalizations.
+1106.34 But in humans and in parrots
+and in some other species,
+1109.76 somehow, we acquired circuits
+1112.04 where the forebrain has
+taken over the brain stem
+1116.27 and now using that brain stem,
+1118.22 not only to produce the innate
+behaviors or vocal behaviors,
+1121.37 but the learned ones as well.
+1123.71 - Do we have any sense
+1124.76 of when modern or
+sophisticated language evolved?
+1130.04 You know, thinking back to the
+species that we evolved from,
+1134.33 and even within Homo sapiens,
+1138.11 has there been an evolution of language?
+1139.55 Has there been a devolution
+of language? [laughs]
+1142.16 - Yeah.
+1143.3 Yeah, I would say,
+1146.21 and to be able to answer that question,
+1148.94 it does come with the caveat
+1150.44 that I think we humans overrate ourselves
+1153.35 compared to other species.
+1155.06 And so it makes even scientists go astray
+1160.01 in trying to hypothesize
+1161.24 when, you especially
+don't find fossil evidence
+1163.64 of language that easily
+1166.79 out there in terms of
+what happened in the past.
+1173.15 Amongst the primates,
+which we humans belong to,
+1175.82 we are the only ones that
+1176.843 have this advanced vocal learning ability.
+1181.1 Now, it was assumed that
+it was only Homo sapiens,
+1186.83 then you can go back in time now
+1188.99 based upon genomic data,
+1191.03 not only of us living humans,
+1192.5 but of the fossils that have been found
+1194.6 for Homo sapiens, of Neanderthals,
+of Denisovan individuals
+1200.27 and discover that our
+ancestor, our human ancestors,
+1205.55 supposedly hybridized with
+these other hominid species.
+1210.83 And it was assumed that
+these other hominid species
+1213.68 don't learn how to imitate sounds.
+1216.47 I don't know of any species today
+1218.45 that's a vocal learner
+that can have children
+1221.15 with a non-vocal learning species.
+1223.34 I don't see it.
+1224.18 Doesn't mean it didn't exist.
+1226.1 And when we look at the genetic data
+1228.92 from these ancestral
+hominids, that, you know,
+1233.0 where we can look at
+genes that are involved
+1235.55 in learned vocal communication,
+1237.53 they have the same
+sequence as we humans do
+1241.07 for genes that function
+in speech circuits.
+1243.8 So I think Neanderthals
+had spoken language.
+1246.38 I'm not going to say it's as
+advanced as what it is in humans.
+1248.99 I don't know.
+1250.28 But I think it's been there for at least
+1252.26 between 500,000 to a million years
+1255.41 that our ancestors had this ability
+1258.56 and that we've been coming
+more and more advanced with it
+1260.96 culturally and possibly genetically.
+1264.53 But I think it's evolved sometime
+1266.0 in the last 500,000 to a million years.
+1268.28 - Incredible.
+1270.71 Maybe we could talk a little bit more
+1271.91 about the overlap between brain circuits
+1274.46 that control language and speech
+1276.62 in humans and other animals.
+1280.25 I was weaned in the neuroscience era
+1283.25 where birdsong and the ability of birds
+1287.57 to learn their tooter song
+1289.639 was and still is a prominent field,
+1292.61 subfield of neuroscience.
+1293.9 And then of course,
+1294.733 neuroimaging of humans speaking
+and learning, et cetera,
+1299.51 and this notion of a critical period,
+1301.16 a time in which language
+is learned more easily
+1304.4 than it is later in life.
+1306.2 And the names of the different brain areas
+1308.81 were quite different.
+1310.49 If one opens the textbooks,
+1312.14 we hear Wernicke's and
+Broca's for the humans.
+1314.63 And you look at the birds of it,
+1315.92 I remember, you know.
+1317.303 - HVC.
+- Robustus, striatum.
+1319.97 Area X.
+- That's right.
+1320.87 That's right, yes.
+- Et cetera.
+1322.79 But for most of our listeners,
+1324.59 those names won't mean a whole lot,
+1326.99 but in terms of homologies
+1330.89 between areas in terms of
+function, what do we know?
+1333.62 And how similar or different
+are the brain areas
+1337.25 controlling speech and language
+1338.677 in say a songbird and a young human child?
+1342.41 - Yeah, so, going back to the 1950s
+1346.1 or even a little earlier,
+1347.33 and Peter Muller and others who
+got involved in neurotology,
+1351.47 the study of neurobiology of behavior
+1354.8 in a natural way, right.
+1357.44 You know, they start to
+find that behaviorally,
+1360.86 there are these species of birds
+1362.3 like songbirds and parrots,
+1363.59 and now we also know
+hummingbirds, just three of them
+1366.05 out of the 40-something bird
+groups out there on the planet,
+1368.99 orders, that they can
+imitate sounds like we do.
+1372.68 And so that was a similarity.
+1374.36 In other words, they had
+this kind of behavior
+1376.22 that's more similar to us
+than chimpanzees have with us
+1379.28 or than chickens have with them, right,
+1381.68 their closer relatives.
+1383.24 And then they discovered
+even more similarities,
+1385.67 these critical periods
+that if you remove a child,
+1390.17 you know, this unfortunately
+happens where a child is feral
+1393.35 and is not raised with human
+1394.7 and goes through their
+puberty phase of growth,
+1398.0 it becomes hard for them to
+learn a language as an adult.
+1401.24 So there's this critical
+period where you learn best.
+1404.06 And even later on, when
+you're in regular society,
+1406.4 it's hard to learn.
+1407.54 Well, the birds undergo these same thing.
+1410.45 And then it was discovered
+that if they become deaf,
+1413.99 we humans become deaf,
+1415.61 our speech starts to deteriorate
+1417.5 without any kind of therapy.
+1420.02 If a non-human primate or, you know,
+1423.23 or let's say a chicken becomes deaf,
+1426.53 their vocalizations don't deteriorate.
+1428.42 very little at least.
+1430.4 Well, this happens in
+the vocal learning birds.
+1432.92 So there were all these
+behavioral parallels
+1434.81 that came along with a package,
+1436.58 and then people looked into the brain.
+1438.95 Fernando Nottebohm, my former PhD advisor,
+1441.53 and began to discover the
+Area X you talked about,
+1445.34 the robust nucleus of the archipallium.
+1449.9 And these brain pathways were not found
+1452.0 in the species who couldn't imitate
+1453.35 so there was a parallel here.
+1455.0 And then jumping many
+years later, you know,
+1458.42 I started to dig down
+into these brain circuits
+1461.39 to discover that these brain circuits
+1463.79 had parallel functions with
+the brain circuits for humans,
+1466.79 even though they're by a different name,
+1468.23 like Broca's laryngeal motor cortex.
+1470.84 And most recently,
+1472.31 we discovered not only
+the actual circuitry
+1474.647 and the connectivity are similar,
+1476.51 but the underlying
+genes that are expressed
+1479.18 in these brain regions
+in a specialized way,
+1481.85 different from the rest of the brain,
+1483.05 are also similar between humans,
+and songbirds and parrots.
+1486.83 So all the way down to the genes.
+1488.15 And now we're finding
+the specific mutations
+1491.3 are also similar, not always
+identical, but similar,
+1494.9 which indicates remarkable convergence
+1497.06 for a so-called complex behavior
+1499.4 in species separated by 300 million years
+1501.56 from a common ancestor.
+1502.91 And not only that,
+1504.08 we are discovering that
+mutations in these genes
+1508.34 that cause speech deficits
+in humans, like in FOXP2,
+1513.351 if you put those same mutations
+1515.21 or similar type of deficits
+in these vocal learning birds,
+1518.06 you get similar deficits.
+1519.74 So convergence of the behavior
+1521.9 is associated with
+similar genetic disorders
+1524.75 of the behavior.
+1525.62 - Incredible.
+1526.88 I have to ask, do hummingbird
+sing, or do they hum?
+1531.02 - Hummingbirds hum with their wings
+1532.94 and sing with their syrinx.
+1534.7 - In a coordinated way?
+1536.11 - In a coordinated way.
+1537.56 There's some species of
+hummingbirds that actually will,
+1543.11 Doug Ashler showed this,
+1544.49 that will flap their wings
+1546.98 and create a slapping
+sound with their wings
+1549.98 that's in unison with their song
+1552.29 and you would not know it,
+1554.21 but it sounds like a particular
+syllable in their songs,
+1558.56 even though it's their wings
+1560.33 and their voice at the same time.
+1562.07 - Hummingbirds are clapping to their song?
+1564.47 - Clapping with their,
+1565.52 they're snapping their wings together
+1568.22 in unison with a song to make it like,
+1570.86 if I'm going ba, da, da,
+da [bangs], but, da [bangs]
+1574.31 and I banged on the table
+1575.75 except they make it almost
+sound like their voice
+1578.09 with their wings.
+1580.16 - Incredible.
+- Yes.
+1581.3 - I, I'm...
+1582.62 - And they got some of the
+smallest brains around.
+1583.453 - As the kids would say mind blown, right?
+1585.74 - Yes. Yes.
+1586.573 - Incredible.
+- Yes.
+1587.51 - Incredible, I love hummingbirds.
+1588.71 And I always feel like
+it's such a special thing
+1591.08 to get a moment to see one
+1592.13 because they move around so fast
+1593.39 and they fled away so fast in
+these ballistic trajectories.
+1596.66 - [Erich] Yep.
+1597.493 - That when you get to see
+one stationary for a moment,
+1600.68 or even just hovering there,
+1602.93 you feel like you're extracting so much
+1604.37 from their little microcosm of life,
+1607.13 but now I realize they're
+playing music essentially.
+1609.68 - Right, exactly.
+1610.513 And what's amazing about hummingbirds
+1613.01 and I'm going to say, vocal
+learning species in general,
+1616.31 is that for whatever reason,
+1618.2 they seem to evolve
+multiple complex traits.
+1621.92 You know, this idea that
+the evolving language,
+1624.86 spoken language in particular,
+1626.84 comes along with a set of specializations.
+1629.69 - Incredible.
+- Yeah.
+1631.28 - When I was coming up in neuroscience,
+1633.62 I learned that I think it
+was the work of Peter Muller
+1637.55 that young birds learn,
+1640.55 songbirds learned their tooter
+song and learn it quite well,
+1646.31 but that they could learn
+the song of another tooter.
+1649.49 In other words, they
+could learn a different,
+1651.17 and for the listeners,
+I'm doing air quotes here,
+1652.767 "a different language",
+1653.817 "a different bird song",
+1655.61 different than their own species song.
+1657.59 But never as well as they could learn
+1659.66 their own natural genetically linked song.
+1664.43 - Yes.
+- Genetically linked,
+1665.45 meaning that it would be like
+1667.13 me being raised in a different culture,
+1668.84 and that I would learn the other language,
+1672.92 but not as well as I would
+have learned English.
+1675.71 This is the idea.
+- Yes.
+1677.06 - Is that true?
+- That is true, yes.
+1679.051 And that's what I learned
+growing up as well.
+1681.17 And talked to Peter Muller
+himself about before he passed.
+1685.79 Yeah, he used to call it the
+innate predisposition to learn.
+1689.51 All right.
+1690.941 So which would be kind of the equivalent
+1693.86 in the linguistic community
+of universal grammar.
+1696.41 There is something genetically
+1699.71 influencing our vocal communication
+1703.01 on top of what we learned culturally.
+1705.5 And so there's this balance
+1707.24 between the genetic control of speech
+1709.76 or a song in these birds
+1711.41 and the learned cultural control.
+1714.5 And so, yes, if you were to take,
+1718.22 you know, I mean, in this case,
+1720.5 we actually tried this
+at Rockefeller later on.
+1722.96 Take a zebra finch and
+raise it with a canary,
+1726.62 it would sing a song
+1728.27 that was sort of like a hybrid in between.
+1729.89 We call it a can-inch, right?
+1731.665 [both laughing]
+1733.46 And vice versa for the canary,
+1735.29 because there's something different
+1736.34 about their vocal musculature
+1737.99 or the circuitry in the brain.
+1740.57 And with a zebra finch, even
+with a closely related species,
+1743.78 if you would take a zebra
+finch, a young animal,
+1747.32 and in one cage next to
+it placed its own species,
+1750.59 adult male, right.
+1752.15 And in the other cage placed
+a Bengalese finch next to it,
+1755.51 it would preferably learn the song
+1757.7 from its own species neighbor.
+1760.4 But if you remove its neighbor,
+1762.17 it would learn that
+Bengalese finch very well.
+1764.9 - [Andrew] Fantastic.
+1766.4 - It has something to do
+with also the social bonding
+1769.04 with your own species.
+1770.36 - Incredible.
+1771.59 That raises a question that I,
+1773.45 based on something I also heard,
+1774.83 but I don't have any scientific
+1777.26 peer-reviewed publication to point to,
+1778.97 which is this idea of Pidgin not the bird,
+1781.49 but this idea of when multiple cultures
+1785.21 and languages converge in
+a given geographic area,
+1787.67 that the children of all the
+different native languages
+1790.43 will come up with their own language.
+1793.22 I think this was in island culture,
+1795.02 maybe in Hawaii, called Pidgin,
+1796.82 which is sort of a hybrid
+of the various languages
+1799.58 that their parents speak at home
+1801.227 and that they themselves speak.
+1803.39 And that somehow Pidgin
+again, not the bird,
+1806.6 but a language called Pidgin,
+1808.01 for reasons, I don't know,
+1810.41 harbors certain basic
+elements of all language.
+1814.64 Is that true?
+1815.81 Is that not true?
+1817.481 - I would say, I haven't
+studied enough myself
+1819.41 in terms of Pidgin, specifically,
+1821.51 but in terms of cultural
+evolution of language
+1824.15 and hybridization between
+different cultures and so forth,
+1827.57 even amongst birds with different dialects
+1830.54 and you bring them together, you know,
+1833.75 what is going on here
+is cultural evolution
+1837.95 remarkably tracks genetic evolution.
+1841.19 So if you bring people
+1843.26 from two separate populations together
+1845.09 that have been in their
+separate populations,
+1847.37 evolutionarily, at least
+for hundreds of generations,
+1851.36 so someone's speaking Chinese,
+1852.74 someone's speaking English,
+1854.57 and that child is then
+learning from both of them.
+1858.26 Yes, that child's going
+to be able to pick up
+1860.69 and merge phonemes and words together
+1866.09 in a way that an adult
+wouldn't, because, why?
+1869.21 They're experiencing both
+languages at the same time
+1872.93 during their critical period years,
+1876.05 in a way that adults would
+not be able to experience.
+1879.77 And so you get a hybrid.
+1881.57 And the lowest common denominator
+1883.61 is going to be what they share.
+1885.38 And so the phonemes
+that they've re retained
+1887.84 in each of their languages
+is what's going to be,
+1891.83 I imagine, used the most.
+1893.6 - Interesting.
+1895.16 So we've got brain circuits
+in songbirds and in humans
+1900.11 that in many ways are similar,
+1901.73 perhaps not in their exact wiring,
+1903.77 but in their basic contour of wiring.
+1905.96 And genes that are expressed
+1907.43 in both sets of neural circuits
+in very distinct species
+1911.48 that are responsible for these phenomenon
+1914.63 we're calling speech and language.
+1916.85 What sorts of things are
+those genes controlling?
+1920.57 I could imagine they were
+controlling the wiring
+1923.39 of connections between brain areas.
+1924.98 You know, essentially a map
+of, you know, of a circuit,
+1928.85 basically like an engineer
+1929.84 would design a circuit
+for speech and language,
+1931.61 nature designed the circuit
+for speech and language,
+1934.79 but presumably other things too.
+1936.77 Like the ability to connect motor patterns
+1942.44 within the throat of
+muscles within the throat,
+1944.39 or in the control of the tongue.
+1946.01 I mean, what are these genes doing?
+1947.75 - You're pretty good, yeah.
+1949.04 You've made some very good
+guesses there that makes sense.
+1954.44 So, yes, one of the things that differ
+1956.81 in the speech pathways of us
+1958.28 and these song pathways of birds
+1959.78 is some of the connections
+are fundamentally different
+1962.42 than the surrounding circuits,
+1964.04 like a direct cortical connection
+1967.91 from the areas that control
+vocalizations in the cortex
+1970.28 or the motor neurons
+that control the larynx,
+1972.56 in humans or the syrinx in birds.
+1974.9 And so we actually made a prediction
+1977.63 that since some of these
+connections differ,
+1980.09 we're going to find genes that
+control neural connectivity,
+1983.42 and that specialize in
+that function, that differ.
+1985.85 And that's exactly what we found.
+1989.27 Genes that control what
+we call axon guidance
+1991.55 and form neuronal connections,
+1992.87 and what was interesting,
+1994.07 it was sort of in the opposite
+direction that we expected.
+1997.97 That is, some of these genes,
+2000.58 actually, a number of them
+2001.6 that control neural
+connectivity were turned off
+2004.87 in the speech circuit, all right.
+2007.87 And it didn't make sense to us at first
+2009.4 until we started to realize the function
+2011.08 of these genes are to repel
+connections from forming,
+2014.5 so repulsive molecules.
+2016.39 And so when you turn them off,
+2018.58 they allow certain connections to form
+2020.26 that normally would have not formed.
+2022.24 So by turning it off,
+2023.89 you gain a function for speech, right?
+2027.58 Other genes that surprised us
+2029.68 were genes involved in calcium
+buffering neuroprotection,
+2034.0 like Parvalbumin or heat-shock proteins,
+2036.73 so when your brain gets
+hot, these proteins turn on.
+2039.7 And we couldn't figure
+out for a long time,
+2041.32 why is that the case?
+2043.0 And then the idea popped
+to me one day and said, ah,
+2046.51 when I heard the larynx is
+the fastest firing muscles
+2049.9 in the body, all right.
+2051.67 In order to vibrate sound
+2054.1 and modulate sound in the way we do,
+2056.68 you have to control,
+2058.24 you have to move those muscles, you know,
+2060.88 three to four to five times faster
+2063.1 than just regular walking or running.
+2065.47 And so when you stick electrodes
+2068.59 in the brain areas that
+control learned vocalizations
+2071.65 in these birds and I
+think in humans as well,
+2074.35 those neurons are firing at a higher rate
+2076.93 to control these muscles.
+2078.79 And so what is that going to do?
+2080.95 You're going to have lots of
+toxicity in those neurons,
+2083.59 unless you upregulate molecules
+2085.45 that take out the extra load
+2088.743 that is needed to control the larynx.
+2090.97 And then finally, a third set of genes
+2092.86 that are specialized
+in these speech circuit
+2095.26 are involved in neuroplasticity.
+2097.9 Neuroplasticity, meaning
+allowing the brain circuits
+2101.59 to be more flexible so
+you can learn better.
+2105.67 And why is that?
+2106.823 I think learning how to produce speech
+2109.27 is a more complex learning ability
+2112.6 than say learning how to walk
+2114.58 or learning how to do tricks
+2117.34 and jumps and so forth that dogs do.
+2119.71 - Yeah, it's interesting as you say that,
+2121.803 because I realize that
+many aspects of speech
+2124.63 are sort of reflexive.
+2125.71 I'm not thinking about
+each word I'm going to say,
+2127.78 they just sort of roll out of my mouth,
+2129.07 hopefully with some forethought.
+2131.02 We both know people that
+seem to speak, think less,
+2135.25 fewer synapses between
+their brain and their mouth
+2137.35 than others, right.
+- Yes.
+2138.34 - A lot of examples out there,
+2139.75 and some people are very
+deliberate in their speech,
+2141.58 but nonetheless, that much
+of speech has to be precise.
+2146.41 And some of it less precise.
+2149.02 In terms of plasticity of speech
+2151.33 and the ability to learn
+multiple languages,
+2153.7 but even just one language,
+2155.68 what's going on in the critical period,
+2157.87 the so-called critical period?
+- Yeah.
+2159.19 - Why is it that, so my
+niece speaks Spanish.
+2162.97 She's Guatemalan and speaks Spanish
+2164.44 and English incredibly well.
+2166.24 She's 14-years-old.
+2168.19 I've struggled with Spanish my whole life.
+2169.63 My father is bilingual.
+2170.59 My mother is not.
+2171.7 I've tried to learn Spanish as an adult.
+2173.98 It's really challenging.
+2175.93 I'm told that had I learned
+it when I was eight,
+2178.09 I would be better off.
+- That's right.
+2179.92 - Or it would be installed within me.
+2182.68 So the first question is,
+2184.51 is it easier to learn multiple languages
+2186.37 without an accent early in life?
+2188.08 And if so, why?
+2189.25 And then the second question is
+2190.78 if one can already speak
+more than one language
+2194.56 as a consequence of childhood learning,
+2196.4 is it easier to acquire
+new languages later on?
+2200.32 - So, the answer to both of
+those questions is yes, in that,
+2204.85 but to explain this, I
+need to let you know,
+2209.02 actually the entire brain
+2211.39 is undergoing a critical
+period development,
+2214.36 not just the speech pathways.
+2216.34 And so it's easier to
+learn how to play a piano.
+2219.28 It's easier to learn how to ride a bike
+2221.38 for the first time and so forth
+2223.24 as a young child than it is later in life.
+2227.2 What I mean easier in
+terms of when you start
+2231.55 from first principles
+of learning something.
+2233.92 So the very first time,
+2235.51 if you're going to
+learn Chinese as a child
+2237.07 versus the very first time
+you learn Chinese as an adult
+2240.07 or learning to play piano
+as a child versus an adult.
+2244.33 But the speech pathways,
+2246.49 or let's say speech behavior,
+2248.32 I think has a stronger critical period
+2251.95 change to it than other circuits.
+2254.29 And why, what's going on there in general?
+2259.57 Why do you need a critical period
+2261.01 to make you more stable,
+2263.98 to make you more stubborn, so to speak?
+2267.16 The reason I believe is
+that the brain is not for,
+2272.107 the brain can only hold
+so much information.
+2275.56 And if you are undergoing
+rapid learning to learn,
+2281.02 to acquire new knowledge,
+2282.67 you also have to, you know, dumb stuff.
+2285.76 Put in memory or information in the trash,
+2288.97 like in a computer.
+2290.17 You only have so many gigabases of memory.
+2293.02 And so therefore, plus also for survival,
+2297.28 you don't want to keep forgetting things.
+2299.74 And so the brain is designed, I believe,
+2303.85 to undergo this critical period
+2305.92 and solidify the circuits with
+what you learned as a child
+2309.157 and you use that for
+the rest of your life.
+2311.14 And we humans stay even more
+plastic in our brain functions
+2316.0 controlled by a gene called srGAP2.
+2318.49 We have an extra copy of it
+2320.05 that leads our speech circuit
+and other brain regions
+2322.24 in a more immature state throughout life
+2324.55 compared to other animals.
+2326.08 So we're more immature.
+2327.73 We're still juvenile like
+compared to other animals.
+2329.77 - I knew it.
+2330.666 - But we still go through
+the critical periods
+2332.86 like they all do.
+2334.24 And now the question you asked about,
+2337.12 if you learn more languages as a child,
+2341.71 is it easier to learn as an adult?
+2343.6 And that's a common finding
+out there in the literature.
+2346.39 There's some that argue against it.
+2348.13 But for those that support
+it, the idea there is,
+2351.97 you are born with a set of innate sounds
+2354.64 you can produce of phonemes.
+2356.74 And you narrow that down
+2358.0 because not all languages use all of them.
+2360.37 And so you narrow down the ones
+2361.96 you use to string the phonemes together,
+2364.33 in words that you learn
+2366.13 and you maintain those
+phonemes as an adult.
+2369.46 And here comes along another language
+2371.65 that's using those phonemes
+2372.85 or in different combinations
+you're not used to.
+2376.24 And therefore, it's like
+starting from first principles,
+2379.48 but if you already have them
+2381.07 in multiple languages that you're using,
+2383.23 then it makes it easier to use them
+2385.06 in another third or fourth language.
+2387.289 - I see, incredible.
+2389.98 - So, it's not like your brain
+2392.216 has maintained greater plasticity,
+2394.57 it's your brain has
+maintained greater ability
+2397.45 to produce different sounds
+2399.52 that then allows you to learn
+another language faster.
+2402.16 - Got it.
+2403.6 Are the hand gestures
+associated with sounds
+2408.01 or with meanings of words?
+2410.17 - I think the hand gestures are associated
+2411.94 with both the sounds and the meaning.
+2414.49 When I say sound like if
+you are really angry, right,
+2419.32 and you are making a loud
+screaming noise, right,
+2422.86 you may make hand gestures
+2425.14 that look like you're going
+to beat the wall, right?
+2427.9 Because you're making loud
+sounds and loud gestures, right.
+2432.67 But if you want to explain
+something like, come over here,
+2435.88 what I just do now to you
+for those who can't see me,
+2438.64 I swung my hand towards you
+and swung it here to me.
+2441.88 That has a meaning to it, to come here.
+2444.46 So just like with the voice,
+2446.8 the hand gestures are
+producing both, you know,
+2451.48 both qualities of sound.
+2453.13 - And for people that
+speak multiple languages,
+2455.89 especially those that learn
+those multiple languages
+2458.41 early in development,
+2459.76 do they switch their
+patterns of motor movements
+2462.28 according to let's say,
+2464.14 going from Italian to Arabic
+2466.63 or from Arabic to French
+2468.79 in a way that matches
+the precision of language
+2472.9 that they're speaking?
+2473.98 - You know what?
+2474.813 You just asked me a question,
+2475.646 I don't know the answer to.
+2477.13 I would imagine that would
+make sense because of switching
+2483.19 in terms of sometimes people
+might call this code switching,
+2485.92 even different dialects
+of the same language.
+2488.41 Could you do that with your gestures?
+2490.57 I imagine so, but I really don't
+know if that's true or not.
+2494.296 - Okay, well, I certainly don't
+know from my own experience
+2495.91 because I only speak one language.
+2497.343 [both laughing]
+2499.63 Before we continue with
+today's discussion,
+2501.88 I'd like to just briefly
+acknowledge our sponsor,
+2503.95 Athletic Greens, now called AG1.
+2507.19 Athletic Greens, aka AGI,
+2509.44 is an all-in-one vitamin
+mineral probiotic drink
+2511.9 that also has adaptogens
+and digestive enzymes.
+2514.96 I've been taking Athletic
+Greens since way back in 2012
+2517.66 so I'm delighted that they're
+sponsoring the podcast.
+2520.09 The reason I started
+taking Athletic Greens
+2521.467 and the reason I still drink
+Athletic Greens twice a day
+2524.65 is that it supplies
+2525.88 total foundational coverage
+of my vitamin mineral needs
+2528.97 and it supplies important
+nutrients that I need
+2531.88 to support my gut microbiome.
+2533.47 The gut microbiome, as many of you know,
+2535.18 supports the immune system
+2536.29 and it also supports the
+so-called gut brain access,
+2538.33 which is vital for
+mood, for energy levels,
+2540.7 for regulating focus
+2541.96 and many other features
+of our mental health
+2543.79 and physical health that
+impact our daily performance
+2546.1 and high performance in any endeavors
+2547.75 we might be involved in.
+2549.13 If you'd like to try Athletic Greens,
+2550.54 you can go to athleticgreens.com/huberman
+2553.18 and claim a special offer.
+2554.8 They're giving away
+five free travel packs,
+2556.45 plus a year's supply of
+vitamin D3 K2 with every order.
+2560.35 And of course, vitamin D3 K2
+2562.06 are vital for all sorts of
+things like hormone health
+2564.64 and metabolic health
+2565.48 and K2 for cardiovascular
+health and calcium regulation.
+2568.24 Again, you can go to
+athleticgreens.com/huberman
+2571.45 to claim that special offer.
+2572.86 To go a little bit into the
+abstract, but not too far,
+2577.54 what about modes of speech and language
+2579.43 that seem to have a depth
+of emotionality and meaning,
+2583.03 but for which it departs
+from structured language.
+2586.99 Here's what I mean, poetry.
+- Hmm hmm.
+2589.99 - I think of musicians,
+2591.4 like there's some Bob
+Dylan songs that, to me,
+2594.46 I understand the individual words.
+2597.19 I like to think there's an
+emotion associated with it.
+2600.25 at least, I experience
+some sort of emotion
+2601.96 and I have a guess about
+what he was experiencing.
+2605.65 But if I were to just read
+it linearly without the music
+2609.49 and without him singing it, or
+somebody singing it like him,
+2612.79 it wouldn't hold any meaning.
+2613.84 So in other words, words
+that seem to have meaning,
+2617.2 but not associated with language,
+2619.66 but somehow tap into an emotionality.
+2623.11 - Yep, absolutely.
+2625.145 So, we call this difference
+semantic communication,
+2629.2 communication with meaning
+2631.15 and effective communication,
+2632.59 communication that has more
+2634.75 of an emotional feeling content to it,
+2637.367 you know, but not with,
+you know, the semantics.
+2640.3 And the two can be mixed up,
+2642.58 like with singing words that have meaning,
+2645.7 but also have this effect of emotional,
+2647.95 you just love the sound of the
+singer that you're hearing.
+2652.03 And initially, you know,
+2656.74 psychologists, scientists, in general,
+2658.78 thought that these were
+going to be controlled
+2660.58 by different brain circuits.
+2663.04 And it is the case.
+2664.33 There are emotional brain
+centers in the hypothalamus,
+2667.12 in the cingulate cortex and so forth,
+2669.7 that do give tone to the sounds.
+2673.06 But I believe, you know,
+based upon imaging work
+2677.14 and work we see in birds,
+2679.57 when birds are communicating
+semantic information
+2682.72 in their sounds, which is not
+too often, but it happens,
+2685.63 versus effective communication,
+2688.51 sing because I'm trying
+to attract the mate,
+2690.55 my courtship song or defend my territory,
+2693.37 it's the same brain circuits.
+2694.69 It's the same speech-like or song,
+2696.58 circuits are being used in different ways.
+2700.945 - A friend of mine, who's
+also a therapist, said to me,
+2703.99 you know, it's possible to say,
+2705.22 I love you with intense hatred
+2707.92 than to say, I hate you with intense love.
+2710.2 - [Eric] Right.
+2711.033 - And reminding me that
+it's possible to hear
+2712.54 both of those statements in either way.
+2715.06 So I guess it's not just
+limited to song or poetry.
+2719.29 It also, there's something
+about the intention
+2723.7 and the emotional context
+in which something spoken
+2727.24 that it can heavily shape the way
+2729.07 that we interpret what we hear.
+2731.26 - That's right.
+2732.31 And I consider all of
+that actually, meaning,
+2735.43 even though I defined it as,
+2737.71 people commonly do semantic
+and effective communication.
+2741.73 Effective communication
+to say, I hate you,
+2743.98 but meant love, right,
+2747.49 does have emotional
+meaning to it, you know?
+2751.33 And so, you know, one's more
+like an object kind of meaning
+2753.76 or an abstract kind of meaning.
+2755.71 There's several other points here
+2756.79 I think it's important for those
+listening out there to hear
+2760.45 is that when I say also
+2762.34 this effective and semantic communication
+2767.32 being used by similar brain circuits,
+2768.85 it also matters, the side of the brain.
+2771.31 In birds and in humans,
+2774.49 there's left-right dominance
+2777.34 for learned communication,
+learned sound communication.
+2781.51 So the left in us humans is
+more dominant for speech,
+2785.71 but the right has a
+more balance for singing
+2789.25 or processing musical sounds
+2791.17 as opposed to processing speech.
+2792.85 Both get used for both reasons.
+2794.86 And so when people say your right brain
+2797.59 is your artistic brain
+2799.12 and your left brain is
+your thinking brain,
+2801.43 this is what they're referring to.
+2803.71 And so that's another distinction.
+2806.26 A second thing that's useful to know
+2809.61 is that all vocal learning species
+2811.72 use their learned sounds
+for this emotional
+2815.38 effective kind of communication,
+2818.05 but only a few of them like humans
+2820.39 and some parrots and dolphins
+2822.19 use it for the semantic
+kind of communication,
+2825.07 we're calling speech.
+2827.23 And that has led a number
+of people to hypothesize
+2831.28 that the evolution of
+spoken language, of speech,
+2834.43 evolved first for singing,
+2837.19 for this more like emotional
+2839.71 kind of mate attraction
+like the Jennifer Lopez,
+2842.56 the Ricky Martin kind
+of songs and so forth.
+2845.74 And then later on,
+2847.45 it became used for abstract communication
+2849.61 like we're doing now.
+2851.05 - Oh, interesting.
+2852.19 Well, that's a perfect segue for me
+2854.68 to be able to ask you
+about your background
+2858.4 and motor control, not only
+of the hands but of the body.
+2862.72 So you have a number of important
+distinctions to your name,
+2866.35 but one of them is that you were a member
+2869.11 of the Alvin Ailey Dance School,
+2872.11 School of Dance.
+- That's right.
+2872.98 That's right, hmm hmm.
+2874.03 - So you're an accomplished
+2875.68 and quite able dancer, right?
+2878.17 Tell us a little bit about your background
+2880.84 in the world of dance
+2883.12 and how it informs your
+interest in neuroscience,
+2887.389 [clears throat], excuse me,
+2888.222 and perhaps even how it relates
+2889.96 specifically to your work
+on speech and language.
+2892.09 - Yes, well, it's interesting.
+2894.49 And then this kind of history
+even goes before my time.
+2897.31 So in my family, my
+mother and father's side,
+2899.92 they both went to the High
+School of Music and Art
+2901.75 here in New York City.
+2903.58 And particularly, in my mother's family,
+2905.23 going back multiple
+generations, they were singers.
+2908.41 And I even did my family genealogy
+2910.33 and found out not only, you know,
+2912.61 we have some relationships
+to some well-known singers,
+2915.46 distant relationships
+like Thelonious Monk,
+2917.8 but going back to the plantations
+2920.41 in North Carolina and so forth,
+2922.93 my ancestors were singers in the church
+2925.81 for the, you know, the towns and so forth.
+2927.97 And this somehow got passed on
+2929.8 multiple generations to my family.
+2931.93 And I thought I was going to grow up
+2933.7 and be a famous singer, right.
+2935.26 And me and my brothers and sister
+2937.99 formed a band when we
+were kids and so forth.
+2941.68 But it turned out that I didn't inherit
+2944.62 the singing talents of some
+of my other family members,
+2947.62 even though, you know,
+I was, you know, okay.
+2950.2 You know, but not like my brother,
+2951.97 or not like my mother or my
+aunts and my cousin Pura Fe',
+2956.17 who's now a talented
+Native American singer.
+2958.99 And so,
+2963.88 that then influenced
+me to do other things.
+2967.3 And I started, you know,
+competing in dance contests,
+2972.04 you know, actually this is around the time
+2973.45 of Saturday Night Fever
+and I was as a teenager.
+2976.15 And I started winning dance contests.
+2978.4 And I thought, oh, I can dance.
+2980.11 And I auditioned for the High
+School of Performing Arts.
+2982.87 And I got in, here in New York City,
+2985.39 and got into ballet
+dance and got in, right.
+2988.15 And thought, if I learned ballet,
+2989.83 I can learn everything else.
+2990.88 It I that idea, if you
+learn something classical,
+2993.01 it can teach for everything else.
+2995.65 And I was, yeah, at
+Alvin Ailey Dance School,
+2998.32 Joffrey Ballet Dance School.
+3000.06 And at the end of my senior concert,
+3004.29 I had this opportunity to audition
+3006.3 for the Alvin Ailey Dance Company.
+3008.37 And I had an opportunity to go to college.
+3011.07 And I also fell in love
+with another passion
+3013.26 that my father had, which was science.
+3015.84 And so I liked science in high school.
+3018.51 And I found an overlap also
+between the arts and sciences,
+3022.65 you know, both required
+creativity, hard work, discipline,
+3026.49 you know, new discovery,
+both weren't boring to me.
+3029.7 And the one decision I made
+at that senior dance concert
+3033.81 was, you know, when talking
+to the Alvin Ailey recruiter
+3036.78 and thinking about it,
+3037.613 I have to make a decision.
+3039.36 And I thought something
+my mother taught me
+3042.72 because she was growing up in
+the 1960s cultural revolution,
+3045.967 "Do something that has a
+positive impact on society."
+3049.92 And I thought that I could do that better
+3051.3 as a dancer than a scientist.
+3053.37 So now jump, I get into
+college, undergraduate school,
+3057.81 I major in molecular
+biology and mathematics.
+3060.12 I decide I want to be a biologist,
+3062.07 got into graduate school,
+3063.15 wanted to study the brain at, you know,
+3064.817 at the Rockefeller University.
+3066.42 So I went from Hunter College
+to Rockefeller University.
+3069.027 And so now I got to the brain
+3071.429 and why did I choose the brain
+3074.13 is because it controls dancing. [laughs]
+3077.58 But there wasn't anybody studying dancing.
+3079.92 And I wanted study the brain,
+3081.27 something that it does
+3082.53 that's really interesting and complex.
+3084.99 And I thought, ah,
+language is what it does.
+3087.48 You couldn't study that in mice.
+3088.65 You couldn't study in non-human primates.
+3090.69 But these birds do this wonderful thing
+3092.43 that Fernando Nottebohm was
+studying at Rockefeller.
+3094.89 And so that's what got me into the birds.
+3100.459 And then jumping now, 15 years later,
+3103.29 you know, yeah, that's right.
+3104.88 Even after I'm into now having my own lab,
+3108.09 studying vocal learning in these birds
+3110.46 as a model for language and humans,
+3112.44 it turns out that, you know,
+3115.05 Ani Patel and, you know, others,
+3118.11 have discovered that only
+vocal learning species
+3122.49 can learn how to dance.
+3124.716 - Is that right?
+- That's right, yes.
+3127.41 - So I've seen these just scrolling
+3129.57 through the files here in my mind.
+3132.15 I think about, every once
+in a while someone will,
+3133.92 I love parrots.
+- Yes.
+3136.11 - So every once in a while,
+3136.943 someone will send me one
+of these little Instagram
+3139.2 or Twitter videos of a parrot
+3140.76 doing what looks to me like dance,
+3142.47 typically it's a cockatoo.
+- That's right.
+3144.09 - Right.
+- That's right.
+3144.923 - Even foot stomping to the sound and-
+3147.0 - Famous one called Snowball out there,
+3148.53 but there are many Snowballs
+out there. [laughs]
+3151.647 - All the dancing birds
+are named Snowball?
+3153.63 That's an interesting tactic.
+3156.0 So only animals with language dance?
+3160.02 - Yeah, vocal learning in particular,
+3161.7 the ability to imitate sounds, yes.
+3164.55 - Incredible.
+- Yes.
+3165.627 And this now is bringing
+my life full circle, right.
+3170.55 And so when that was discovered in 2009,
+3175.17 at that same time in my lab at Duke,
+3177.87 we had discovered that vocal
+learning brain pathways
+3182.1 in songbirds, as well as in humans
+3184.56 and in parrots, right, like Snowball,
+3188.01 are embedded within circuits
+3189.51 that control learning how to move.
+3192.54 And that led us to a theory
+called the Brain Pathway
+3195.66 or Motor Theory of Vocal Learning Origin
+3198.27 where the brain pathways for
+vocal learning and speech
+3201.33 evolved by a whole duplication
+3203.46 of the surrounding motor circuits
+3204.93 involving learning how to move.
+3207.63 Now, how does that explain dance, right?
+3210.75 Well, when Snowball, the
+cockatoos, are dancing,
+3215.25 they're using the brain regions
+3216.69 around their speech-like circuits
+3218.88 to do this dancing behavior.
+3220.8 And so what's going on there?
+3222.36 What we hypothesize and now like to test
+3226.5 is that when this,
+3229.23 when speech evolved in humans
+3231.96 and the equivalent behavior
+and parrots and songbirds,
+3235.23 it required a very tight integration
+3238.98 in the brain regions that can hear sound
+3241.89 with the brain regions
+that control your muscles
+3244.47 from moving your larynx
+and tongue and so forth
+3247.26 for producing sound.
+3249.359 And that tight auditory motor integration,
+3251.88 we argue, then contaminated
+the surrounding brain regions.
+3255.957 And that contamination of
+the surrounding brain regions
+3258.78 now allows us humans, in
+particular, and parrots.
+3262.74 to coordinate our muscle
+movements of the rest of the body
+3266.31 with sound in the same way
+we do for speech sounds.
+3270.69 - [Andrew] Well.
+3271.523 - So we're speaking with
+our bodies when we dance.
+3273.54 - Incredible.
+3274.497 And I have to say that
+3276.15 as poor as I am at speaking
+multiple languages,
+3278.76 I'm even worse at dancing, so.
+3281.31 - But I guarantee you're
+better than a monkey.
+3284.19 - But not Snowball, the cockatoo?
+3285.6 - No, maybe not Snowball.
+3287.55 On YouTube, we have a video
+3288.87 where there's some scientists
+dancing with Snowball
+3291.21 and you'll see Snowballs doing better
+3292.95 than some of the scientists.
+3294.279 - Okay, well, as long as I'm not the worst
+3295.53 of all scientists dancing.
+- I don't think so.
+3298.71 - There's always a neuroplasticity.
+3300.51 May it save me someday.
+3303.3 You said something incredible
+3304.98 that I completely believe
+even though I have minimum to,
+3310.65 let's just say minimum dancing ability.
+3312.72 Okay, I can get by at a party or wedding
+3314.64 without complete embarrassment,
+3316.29 but I don't have any structured training.
+3320.04 So the body clearly can
+communicate with movement.
+3326.88 As a trained dancer and
+knowing other trained dancers,
+3330.979 I always think of dance
+and bodily movement
+3334.83 and communication through bodily movement
+3336.6 as a form of wordlessness,
+3338.64 like a state of wordlessness.
+3340.23 In fact, the few times when I think
+3342.0 that maybe I'm actually
+dancing modestly well
+3345.84 for the context that I'm in,
+3347.52 or I see other people dancing
+3348.96 and they seem to just be
+very much in the movement,
+3351.42 it's almost like a state of non-language,
+3354.42 non-spoken language.
+- Hmm hmm.
+3357.591 - And yet what you're telling me is
+3359.79 that there's a direct bridge at some level
+3362.7 between the movement of
+the body and language.
+3365.67 So is there a language of the body
+3368.55 that is distinct from
+the language of speech?
+3372.03 And if so, or if not, how do
+those map onto one another?
+3375.81 What does that Venn diagram look like?
+3377.46 - Yeah, yeah.
+3379.68 So, let me define first
+dance in this context
+3382.38 of vocal learning species.
+3384.6 This is the kind of dancing
+3386.13 that we are specialized in doing
+3388.41 and the vocal learning species
+are specialized in doing
+3391.38 is synchronizing body movements of muscles
+3394.56 to the rhythmic beats of music.
+3397.05 And for some reason, we like doing that.
+3399.57 We like synchronizing to sound
+3402.719 and doing it together
+as a group of people.
+3405.39 And that kind of communication
+amongst ourselves
+3409.11 is more like the effective
+kind of communication
+3411.81 I mentioned earlier,
+3413.04 unlike the semantic kind.
+3414.9 So we, humans, are using our voices more
+3418.5 for the semantic, abstract communication,
+3422.46 but we're using learned dance
+3424.47 for the effective emotional
+bonding kind of communication.
+3429.21 It doesn't mean we can't
+communicate semantic information
+3432.24 in dance, and we do it,
+3434.49 but it's not as popular.
+3436.44 You know, like a ballet that,
+you know, in the Nutcracker,
+3439.77 it is popular, you know,
+3441.18 where they are communicating,
+3443.01 you know, the Arabian guy comes out,
+3445.98 which I was the Arabian guy
+in the ballet Nutcracker.
+3448.2 That's how I remember.
+- Oh, yeah?
+3449.033 - Yeah, for the
+Westchester Ballet Company,
+3450.78 when I was a teenager.
+3453.33 You know, we're trying
+to communicate meaning
+3455.7 and our ballet dancing, it can go on
+3457.35 with a whole story and so forth.
+3459.63 But people don't interpret
+that as clearly as speech.
+3462.72 You know, they're seeing the ballet
+3464.61 with semantic communication,
+3466.2 with a lot of emotional content,
+3468.57 whereas you go out to a club, you know,
+3471.0 yeah, you're not communicating,
+3473.91 okay, how you're feeling today?
+3475.17 Tell me about your day and so forth.
+3477.33 You're trying to synchronize
+with other people
+3479.97 in an effective way.
+3481.35 And I think that's because,
+3484.44 the dance brain circuit
+3486.96 inherited the more ancient
+part of the speech circuit,
+3490.08 which was for singing.
+3492.15 - I always had the feeling
+3493.23 that with certain forms of
+music, in particular opera,
+3497.16 but any kind of music where
+there's some long notes sung
+3503.34 that at some level,
+3505.83 there was a literal resonance created
+3509.22 between the singer and the listener.
+3513.153 Or I think of like the
+deep voice of a Johnny Cash
+3515.97 or where at some level,
+3517.41 you can almost feel the
+voice in your own body.
+3520.38 And in theory, that could
+be the vibration of the
+3525.57 or the firing of the phrenic nerve
+3526.95 controlling the diaphragm for all I know.
+3529.04 Is there any evidence that
+there's a coordination
+3531.12 between performer and audience
+3533.693 at the level of mind and body?
+3540.72 - I'm going to say, possibly, yes.
+3544.11 And the reason why is
+3545.22 because I just came back from a conference
+3547.35 on the neurobiology of dance-
+3550.47 - Clearly, I'm going
+to the wrong meetings.
+3552.153 - Yeah, a colleague invited me.
+3553.506 - You know, vision science
+sounds be so boring.
+3554.76 - Yes, well, one of my colleagues,
+3556.71 Tecumseh Fitch and Jonathan Fritz,
+3558.84 they organized, well, a particular section
+3561.6 on this conference in Virginia.
+3563.79 And this is the first
+time I was in the room
+3565.89 with so many neuroscientists
+3568.17 studying the neurobiology of dance.
+3569.76 It's a new field now,
+in the last five years.
+3572.58 And there was one lab
+3576.9 where they were putting EEG
+electrodes on the dancers,
+3581.61 on two different dancers
+partnering with each other,
+3584.49 as well as the audience,
+you know, seeing the dance
+3589.38 and some, you know, argued,
+3590.91 okay, if you're listening
+to the music as well,
+3592.283 how are you responding
+3593.58 'cause you're asking
+a question about music
+3595.68 and I'm giving you an answer about dance.
+3598.08 And what they found is
+that, you know, the dancers,
+3602.31 when they resonated with
+each other during the dance,
+3604.65 or the audience listening to
+the dancers and the music,
+3607.8 there's some resonance going on there
+3609.69 that they've score as higher resonance.
+3613.11 Their brain activity with
+these wireless EEG signals
+3616.47 are showing something different.
+3618.09 And so that's why I say possibly, yes.
+3620.7 It needs more rigorous study
+3623.22 and you know, this is
+some stuff they publish,
+3625.71 but it's not prime time yet,
+3627.54 but they're trying to figure this out.
+3629.4 - Love it.
+3630.233 So at least if I can't dance well,
+3632.31 maybe I can hear and feel
+3634.44 what it is to dance in a certain way.
+3636.213 - Yes, that's right.
+3637.65 And this will be, some
+people will think that they,
+3641.61 even songs that they hear
+3643.77 and they can almost sing to
+themselves in their own head
+3646.89 and they know what they
+want it to sound like.
+3649.163 And you know when it really sounds good,
+3651.27 what it sounds like,
+3652.59 but they can't get their voice to do it.
+3655.5 - I'm raising, for those listening,
+3656.76 I'm raising my hand.
+3658.29 No musical ability.
+3660.12 Others in my household have
+tremendous musical ability
+3663.3 with instruments and
+with voice, but not me.
+3666.21 - Yeah, well, and so this
+is one of my selfish goals
+3671.79 of trying to find the genetics
+3673.77 of why can some people who
+sing really well and some not.
+3677.76 Is there some genetic
+predisposition to that?
+3680.547 And then can I modify my own muscles
+3682.89 of brain circuits to sing better?
+3684.45 - You're still after the sing.
+3686.244 I guess this is what happens
+3687.077 when siblings vary in proficiency
+3690.75 is that competitiveness amongst brothers
+3693.51 and sisters never goes away.
+3694.83 - I've been trying to be
+as good as my brother,
+3696.78 Mark and Victor, you
+know, for my entire life.
+3700.35 - Well, watch out, Mark and Victor,
+3701.43 he's coming for you with
+neuroscience to back him.
+3705.03 Earlier, you said that you
+discovered that you could dance.
+3709.41 That caught my ear.
+3711.36 It sounds like you
+didn't actually have to,
+3712.98 I'm not suggesting you
+didn't work hard at it.
+3715.047 But at the moment where you discovered it,
+3717.6 it just sort of was a skill that you had,
+3720.27 that up until that point,
+3721.92 you didn't target a life
+in the world of dance,
+3726.15 but the fact that you quote, unquote,
+3728.077 "discovered that you
+could dance really well"
+3730.17 and then went to this
+incredible school of dance
+3731.94 and did well,
+3733.53 tells me that perhaps there is an ability
+3736.41 that was built up in childhood
+3738.78 and or that perhaps we do all have
+3741.57 different genetic leanings
+for different motor functions.
+3744.9 - Yeah, well, for me, there could be,
+3747.6 both explanations could be possible.
+3749.34 For the first, yeah,
+I grew up in a family,
+3752.28 listening to Motown songs,
+3754.29 you know, dancing, you know,
+at parties and so forth,
+3757.8 family parties and, you know,
+3759.36 an African American family, basically.
+3761.55 And so I grew up dancing
+from a young child,
+3768.42 but this discovery, you know,
+maybe dancing even moreso,
+3774.57 in terms of a talent,
+3777.03 it could, the genetic component,
+3778.71 if it really exists, I don't know.
+3780.21 You know, with my 23andMe
+results, you know,
+3783.75 it says I have the genetic substitutions
+3787.83 that are associated with, you know,
+3790.2 high intensity athletes
+and fast twitch muscles.
+3793.17 And who knows.
+3794.16 Maybe that could have something to do with
+3796.14 me being able to synchronize my body
+3800.7 to rhythmic sounds, maybe,
+3803.91 maybe, better than some others.
+3806.43 It turns out that my genetics also show
+3808.92 that I have a genetic substitute
+3811.35 that makes it hard for
+me to sing on pitch.
+3814.68 And so that does correlate
+with my, you know,
+3817.08 even though I can sing on this pitch,
+3818.28 especially if I hear a piano or, you know,
+3820.89 kind of playing it, but,
+3822.51 you know, maybe that's
+why my siblings, you know,
+3824.64 who didn't have that
+genetic predisposition
+3827.01 in his 23andMe results, you know,
+3829.44 it could go along with the
+genetic component, as well.
+3832.62 - I'm imagining family
+gatherings with 23andMe data
+3836.16 and intense arguments about it,
+3838.29 innate and learned ability.
+- Yes.
+3839.94 - Fun.
+3841.17 Love to be an attendant.
+3842.85 I'm not inviting myself to
+your Thanksgiving dinner
+3844.89 by the way, but I suppose I am.
+3847.17 - You're welcome to.
+- Thank you.
+3849.27 I'll bring my 23andMe data.
+3851.52 I'd love to chat a moment
+about facial expression
+3854.67 because that's a form
+of motor pattern that,
+3857.213 you know, I think for
+most people out there
+3860.37 just think about smiling and frowning,
+3862.35 but there are, of course,
+you know, thousands,
+3864.48 if not millions of micro expressions
+3867.45 and things of that sort,
+3868.65 many of which are subconscious.
+3870.99 And we are all familiar with the fact that
+3874.68 when what somebody says
+3876.27 doesn't match some specific feature
+3878.4 of their facial expression
+3880.35 that it can call, you know,
+3882.51 that mismatch can cue our attention,
+3885.21 especially among people that
+know each other very well.
+3887.91 Like somebody will say,
+well, you said that,
+3890.43 but your right eye
+twitched to the, you know,
+3893.58 a little bit in a way that tells me
+3895.35 that you didn't really mean that,
+3896.49 these kinds of things.
+3897.69 Or when, in the opposite example,
+3901.8 when the emotionality and
+the content of our speech
+3905.04 is matched to a facial expression,
+3907.2 there's something that's
+just so wonderful about that,
+3911.25 because it seems like
+everything's aligned.
+3912.99 - [Erich] Yeah.
+3913.823 - So how does the motor circuitry
+3916.29 that controls facial expression
+3918.0 map onto the brain circuits
+that control language,
+3921.6 speech, and even bodily
+and hand movements?
+3923.4 - Yeah, and you ask a great question
+3926.1 because we both know some colleagues
+3928.02 like Winrich Freiwald at
+Rockefeller University
+3930.63 who study facial expression
+and the neurology behind it.
+3933.99 And now we both share some
+students that we're co-mentoring.
+3937.53 And talk about this same
+question that you brought up.
+3941.31 And what I'm learning a lot
+3943.17 is that non-human primates
+have a lot of diversity
+3946.59 in their facial expression
+like we humans do.
+3949.2 And what we know about the neurobiology
+3952.14 of brain regions controlling
+those muscles of the face
+3955.62 is that these non-human primates
+3957.15 and some other species that don't learn
+3958.83 how to imitate vocalizations,
+3960.75 they have strong connections
+from the cortical regions
+3965.79 to the motor neurons that
+control facial expressions,
+3969.36 but absent connections or weak connections
+3972.42 to the motor neurons
+that control the voice.
+3974.76 So I think our diverse facial expression,
+3978.93 even though it's more diverse
+in these non-human primates,
+3981.03 there was already a preexisting
+diversity of communication,
+3985.68 whether it's intentional or unconscious
+3988.08 through facial expression
+in our ancestors.
+3991.5 And on top of that, we
+humans now add the voice
+3995.76 along with those facial expressions.
+3998.1 - I see.
+3999.886 And in terms of language
+learning when we're kids,
+4002.78 I mean, children, fortunately are not told
+4005.21 to fake their expressions
+4006.38 or to smile when they say I'm happy.
+4009.38 So at some point, everybody
+learns, for better or for worse,
+4012.95 how to untangle these different
+components of hand movement,
+4018.53 body posture, speech,
+and facial expression.
+4021.41 - [Erich] Yes.
+4022.243 - But in their best form, I would say,
+4025.7 assuming that the best form is always,
+4027.47 I guess there are
+instances where, you know,
+4029.03 for safety reasons, one might need
+4030.65 to fain some of these aspects of language.
+4033.92 But in most cases, when those are aligned,
+4036.74 it seems like that could reflect that
+4039.65 all the different circuitries
+are operating in parallel,
+4042.32 but that the ability to misalign these
+4045.47 is also a powerful
+aspect to our maturation.
+4049.91 I can think of theater, for instance,
+4051.83 where deliberate disentangling
+of these areas is important.
+4056.72 But also we know when an actor,
+4059.39 when it feels real.
+- Yep.
+4061.34 - And when it looks like,
+4062.69 when bad acting is oftentimes
+4064.52 when the facial expression or body posture
+4066.5 just doesn't quite match
+what we're hearing.
+4068.06 - [Erich] Yeah.
+4068.93 - So are these skills that people,
+4072.17 that learn and acquire according
+4073.61 to adaptability and profession?
+4075.23 Or do you think that all
+children and all adults
+4078.59 eventually learn how to couple
+4080.0 and uncouple these circuits a little bit?
+4082.46 - Yeah, I think it's this similar argument
+4085.25 I mentioned earlier about
+the innate and learned
+4088.37 for the vocalizations.
+4089.6 And by the way, when I say,
+4090.95 we humans have facial expressions
+4092.72 associated with our vocalizations
+4094.64 in a different way than
+primates, non-human primates,
+4097.04 it's the learned vocalizations
+I'm talking about.
+4099.59 So there is a common view out there
+4103.7 that facial expressions
+in non-human species
+4106.43 like nonhuman primates,
+4108.14 or you can have them in birds, too,
+4110.24 are innate, all right.
+4113.48 And so they're reflexive and controlled.
+4116.24 I don't believe that.
+4117.073 I think there's some
+learned component to it.
+4118.85 And I think we have more
+learning component to it as well,
+4121.88 but we also have an innate component.
+4124.88 And so if you try to put
+your hands behind your back
+4128.3 and hold your fist, or even just not,
+4129.89 and try to speak and try to communicate,
+4132.44 it's actually harder to do.
+4133.79 You have to force yourself
+or put it by your side.
+4137.15 This comes naturally.
+4138.41 Facial expressions comes naturally
+4139.88 because there's an innate component.
+4142.07 And yes, you have to learn
+how to dissociate the two,
+4146.36 communicate something
+angry with your hands
+4148.37 or with your face,
+4149.48 but, you know, politely with your voice.
+4153.59 It's very hard to separate those two,
+4156.32 because there is that innate component
+4158.33 that brings them together.
+4161.18 So it's like an email, too.
+4162.41 You're emailing and someone
+says something by email,
+4165.68 someone can interpret
+that angrily or gently,
+4170.42 and it becomes ambiguous.
+4172.67 The facial expressions
+get rid of that ambiguity.
+4176.15 - So glad you brought that up
+4177.02 because my next question was,
+4178.67 and is about written language.
+4181.31 The first question I'll
+ask is when you write,
+4184.1 either type or write things out by hand,
+4186.77 do you hear the content
+of what you want to write
+4191.87 in your head?
+4192.83 Just, you personally.
+4194.6 - Yes, I do.
+4195.74 Yeah, and I know that I do,
+4199.58 because I was trying to figure
+out a debate about this issue
+4203.54 and trying to resolve the debate
+4206.03 with my own self experimentation on me.
+4209.06 - I asked that because,
+4211.531 a quite well-known colleague of ours,
+4212.72 Karl Deisseroth at Stanford,
+4214.7 who's been on this podcast, you know,
+4216.879 his optogenetics fame and
+psychiatry fame, et cetera.
+4218.81 - Yeah, I know him.
+- Yeah, he sends his regards.
+4221.757 - Okay. [laughs]
+4222.86 - Told me that his practice for writing
+4227.3 and for thinking involves
+a quite painful process
+4232.31 of forcing himself to sit completely still
+4236.18 and think in complete sentences,
+4238.37 to force thinking in complete sentences.
+4240.047 And when he told me that,
+4241.31 I decided to try this exercise
+and it's quite difficult.
+4243.95 First of all, it's difficult
+4244.88 for the reason that you mentioned,
+4246.59 which is that with many thoughts,
+4248.36 I want to look around
+4249.193 and I start to gesticulate
+with my hands, right?
+4252.14 So there it is, again,
+4253.01 the connection between
+language and hand movement,
+4255.68 even if one isn't speaking.
+4258.47 And the other part that's challenging is
+4261.86 I realize that while we
+write in complete sentences,
+4265.16 most of the time, we'll talk
+about how that's changing now.
+4268.057 - Right.
+- In texting, et cetera.
+4270.14 That we don't often think
+in complete sentences,
+4274.61 and specifically in simple
+declarative sentences,
+4278.75 that a lot of our thoughts would be,
+4280.73 if they were written out onto a page
+4283.34 would look pretty much
+like passive language
+4287.3 that a good copy editor or
+a good editor would say,
+4290.36 ugh, like we need to cross this out,
+4291.95 make this simple and declarative.
+4293.63 So what I'm getting at here is
+4295.88 what is the process of going
+from a thought to language,
+4300.17 to written word?
+4302.18 And I also wanted to touch
+on handwritten versus typed,
+4306.92 but thought to language, to written word.
+4309.65 What's going on there?
+4310.7 What do we know about
+the neural circuitry?
+4313.07 And I was going to ask, why is it so hard?
+4315.47 But now I want to ask why
+is this even possible?
+4318.74 It seems like a very challenging
+4320.6 neural computational problem.
+4322.25 - Yeah, yeah.
+4323.69 And coming from the linguistic world,
+4327.86 and even just the regular
+neurobiology world,
+4330.08 going back to something I said before
+4331.79 about a separate language
+module in the brain.
+4334.4 You know, there was this
+thought or hypothesis
+4336.74 that this language module
+4338.57 has all these complex algorithms to them.
+4341.69 And they're signaling
+to the speech circuit,
+4344.48 how to produce the sounds,
+4346.43 the hand circuit, how to
+write them or gesture,
+4350.24 the visual pathway on how to
+interpret them from reading
+4354.38 and the auditory pathway for listening.
+4357.29 I don't think that's the case, all right.
+4359.93 And you know, that this thinking where
+4361.7 there's this internal speech going on.
+4363.89 What I think is going on is
+4366.05 to explain what you're asking is about,
+4368.99 that I'm going to take
+it from the perspective,
+4370.49 reading something.
+4371.66 You read something on a paper.
+4373.79 The signal from the paper
+goes through your eyes.
+4376.76 It goes to the back of your brain,
+4378.08 to your visual cortical
+regions eventually.
+4381.44 And then you now got to
+interpret that signal
+4384.08 in your visual pathway
+of what you're reading.
+4387.11 How are you going to do
+that in terms of speech?
+4389.27 That visual signal then
+goes to your speech pathway
+4392.62 in the motor cortex in
+front here, in Broca's area.
+4395.78 And you silently speak what you read
+4398.78 in your brain without moving your muscles.
+4401.33 And sometimes actually, if
+you put electrodes, EEG,
+4405.8 EMG electrodes on your laryngeal muscles,
+4408.95 even on birds, you can do this,
+4410.57 you'll see activity there while reading
+4413.87 or trying to speak silently,
+4416.39 even though no sound's coming out.
+4418.55 And so your speech pathway
+4422.03 is now speaking what you're reading.
+4425.54 Now to finish it off,
+4427.55 that signal is sent to
+your auditory pathways
+4429.77 so you can hear what you're
+speaking in your own head.
+4433.28 - That's incredible.
+4434.12 - And this is why it's complicated
+4436.13 because you're using like
+three different pathways,
+4439.16 the visual, the speaking motor one,
+4441.137 and the auditory to read.
+4444.17 Oh, and then you got to write, right?
+4446.9 Okay, here comes the fourth one.
+4448.7 Now the hand areas next
+to your speech pathway
+4451.49 has got to take that auditory signal
+4453.29 or even the adjacent
+motor signals for speaking
+4456.11 and translate it into a
+visual signal on paper.
+4459.29 So, you're using at least
+four brain circuits,
+4463.43 which includes the speech production
+4465.47 and the speech perception
+pathways to write.
+4468.35 - Incredible.
+4469.55 And finally, explain to me why,
+4473.03 so I was weaned teaching undergraduates,
+4475.7 graduate students and medical students
+4477.23 and I've observed that when I'm teaching,
+4480.56 I have to stop speaking
+4481.97 if I'm going to write
+something on the board.
+4484.25 I just have to stop all
+speaking completely.
+4486.68 - [Erich] Right.
+4487.719 - It turns out this is
+an advantage to catch
+4489.14 because it allows me to catch my voice.
+4491.36 It allows me to slow down a bit, you know,
+4493.91 breathe and inhale some oxygen and so on
+4496.46 because I tend to speak quickly
+4497.69 if I'm not writing something out.
+4499.85 So there's a break in
+the circuitry for me,
+4502.04 or at least they are distinct enough
+4503.63 that I have to stop and
+then write something out.
+4506.57 - Yes, that does imply
+competing brain circuits
+4510.38 for your conscious attention.
+4513.89 - We have colleagues up at Columbia Med
+4516.92 who are known, at least in our circles,
+4519.98 for voice dictating their
+papers, not writing them out,
+4523.61 but just speaking into a voice recorder.
+4526.25 I've written papers that way.
+4527.72 It doesn't feel quite as natural for me
+4531.47 as writing things out.
+- Yeah.
+4532.88 - But not because I can
+go quickly from thought
+4535.67 to language to typing.
+4536.883 I type reasonably fast.
+4538.25 I can touch type now.
+4539.33 I don't think I ever taught my,
+4540.59 I think I taught myself.
+4541.61 I never took a touch typing course.
+4543.23 But it just sort of happened.
+4544.063 Now, I think, my motor system
+4545.81 seems to know where the keys are
+4547.34 with enough accuracy, that it works.
+4553.07 This is remarkable to me
+that any of us can do this.
+4556.28 But when it comes to writing,
+4559.31 what I've found is that
+if my rate of thought
+4562.94 and my rate of writing are
+aligned nicely, things go well.
+4567.98 However, if I'm thinking
+much faster than I can write,
+4571.4 that's a problem.
+4572.72 And certainly, if I'm thinking more slowly
+4575.18 than I want to write,
+that's also a problem.
+4577.94 And the solution for me
+4579.59 has been to write with a pen.
+4581.48 I'm in love with these.
+4582.53 And I have no relationship to the company,
+4584.45 at least not now, although
+if they want to come,
+4586.13 you know, if they want to work with us,
+4587.84 I love these Pilot V5, V7's
+4589.85 because not necessarily because of the ink
+4592.49 or the feel, although I like that as well.
+4594.59 But because of the rate
+that it allows me to write,
+4597.26 they write very well slowly,
+4598.58 and they write very well quickly.
+4600.5 And so I have this theory,
+4603.98 supported only by my own anecdata,
+4606.65 no peer reviewed study,
+4608.24 that writing by hand is
+fundamentally different
+4613.28 than typing out information.
+4615.74 Is there any evidence that
+this motor pathway for writing
+4620.81 is better or somehow different
+4624.38 than the motor pathway for typing?
+4626.93 - Yeah, that's interesting.
+4629.36 And I don't know of any studies.
+4631.7 I have my own personal experience as well,
+4633.47 but trying to put this into the context,
+4636.2 if I had to, you know,
+4638.06 design an experiment to test
+the hypothesis here that,
+4641.295 you know, to explain
+your experience and mine,
+4643.67 is that writing by hand,
+4646.7 I would argue, requires a
+different set of less skills
+4652.07 with the fingers than typing.
+4655.04 So you have to coordinate
+your fingers more
+4658.25 in opposite directions
+and so forth with typing,
+4662.69 but also writing by hand
+requires more arm movement.
+4666.445 And so therefore, I would argue that
+4672.474 the difficulty there could be
+4675.2 in the types of muscles
+and the fine motor control
+4678.83 you need of those muscles
+4680.15 along with speaking in your
+brain at the same time.
+4682.49 - So basically, I'm a course, I'm a brute.
+4684.53 So it makes sense that I would have,
+4686.013 a more primitive writing
+device would work.
+4687.98 - That's right, yes.
+4689.09 But, let me answer this in terms
+4693.259 of my own personal experience, right.
+4694.733 What I find is I can write
+something faster by hand
+4702.38 for a short period of
+time, compared to typing.
+4705.59 And that is because I think
+4706.82 I run out of the energy
+in my arm movements
+4710.72 faster than I run out of muscle energy
+4712.79 in my finger movements.
+4715.58 And I think it takes longer time
+4718.46 for us to write words with our fingers,
+4721.31 because, and in terms of the speech.
+4723.83 So I think your writing,
+4726.08 whether it's by hand or
+typing and your speech,
+4729.29 they only will align very well
+4731.69 if you can type as fast as you can speak
+4734.54 or write as fast as you
+can speak in your head.
+4736.61 - I love it.
+4737.443 So what you've done, if
+I understand correctly,
+4739.4 is created a bridge between
+thought and writing,
+4742.73 and that bridge is speech.
+4744.74 - That bridge is speech, that's right.
+4747.08 That's right.
+4747.913 When you're writing something out,
+4749.12 you're speaking it to yourself.
+4751.19 And if you're speaking
+faster than you can type,
+4753.44 you've got a problem.
+4755.39 - Interesting.
+4756.874 I do a number of podcast episodes
+that are not with guests,
+4759.41 but solo episodes.
+4760.4 And as listeners know,
+4761.45 these are very long episodes,
+often two or more hours.
+4764.63 And we joke around the podcast studio
+4767.6 that I will get locked
+into a mode of speech
+4770.54 where some of it is more
+collaborative and anecdotal
+4774.32 and then I'll punch out
+simple declarative sentences.
+4778.46 I find it very hard to switch
+from one module to the next.
+4782.09 The thing that I have done
+4783.95 in order to make that
+transition more fluid
+4787.43 and prep for those podcast episodes
+4789.92 is actually to read the lyrics of songs
+4793.43 and to sing them in my head
+4795.71 as a way of warming up my vocal chords.
+4797.72 But luckily for those
+around me, when I do that,
+4801.29 I'm not actually singing out loud.
+4803.75 And so this, what you're telling me
+4806.99 supports this idea that even
+when we are imagining singing
+4812.15 or writing in our mind,
+4814.22 we are exercising our vocal chords.
+4816.47 - You're actually getting
+little low potentials
+4819.8 of electrical currents
+reaching your muscles there,
+4822.77 which also means you're exercising
+4824.21 your speech brain circuits too,
+without actually, you know,
+4827.06 going with the full-blown
+activity in the muscles.
+4829.91 - Incredible.
+- Yeah.
+4830.743 And this idea of singing
+helps you as well.
+4836.0 Even with Parkinson's
+patients and so forth,
+4838.07 when they want to say something,
+4839.03 singing or listening to
+music helps them move better.
+4841.31 And the idea there is that the
+brain circuits for singing,
+4845.18 or let's say the function of
+the brain circuits for speech
+4847.94 being used for singing first
+is the more ancestral trait.
+4851.45 And that's why it's easier
+to do things with singing
+4854.27 sometimes than it is with speaking.
+4856.22 - I love it.
+4858.17 Stutter is a particularly interesting case
+4862.28 and one that every once in a while,
+4864.86 I'll get questions about
+this from our audience.
+4868.34 Stutter is complicated
+in a number of ways,
+4871.1 but culturally, and my
+understanding from these emails
+4874.55 that I receive is that
+4875.84 stutter can often cause
+people to hide and speak less
+4880.19 because it can be embarrassing.
+4881.99 And we are often not patient with stutter.
+4885.17 We also have the assumption
+that if somebody's stuttering,
+4887.54 that they're thinking is slow,
+4888.62 but it turns out there are many examples,
+4890.93 historically of people
+who could not speak well,
+4893.15 but who were brilliant thinkers.
+4896.39 I don't know how well they could write,
+4897.92 but they found other
+modes of communication.
+4901.34 I realize that you're not a
+speech pathologist or therapist,
+4905.12 but what is the current neurobiological
+4908.24 understanding of stutter
+4909.44 and, or what's being developed
+4911.9 in terms of treatments for stutter?
+4913.55 - Yeah, so we actually accidentally
+4917.78 came across stuttering in songbirds.
+4920.3 And we've published several papers on this
+4923.0 to try to figure out the
+neurobiological basis.
+4924.92 The first study we had was a brain area
+4928.4 called the basal ganglio,
+4929.6 or the striatum part of the basal ganglia
+4932.99 involved in coordinating movements,
+4934.91 learning how to make movements,
+4936.83 when it was damaged in a
+speech-like pathway in these birds,
+4942.11 what we found is that
+they started to stutter
+4945.26 as the brain region recovered.
+4948.08 And unlike humans,
+4950.75 they actually recovered
+after three or four months.
+4953.75 And why is that the case?
+4954.86 Because bird brains
+undergoes new neurogenesis
+4958.13 in a way that human or
+mammal brains don't.
+4961.79 And it was the new neurons
+that were coming in
+4965.0 into the circuit, but not quite, you know,
+4967.85 with the right proper activity
+4970.58 was resulting in this
+stuttering, in these birds.
+4974.48 And after it was repaired,
+4975.89 not exactly the old song
+came back after the repair,
+4979.82 but still it recovered a lot better.
+4982.37 And it's now known,
+4984.02 they call this neurogenic
+stuttering in humans,
+4989.06 damage to the basal ganglia
+4990.5 or some type of disruption
+4992.45 to the basal ganglia at a young age,
+4994.43 also causes stuttering in humans.
+4996.71 And even those who are
+born with stuttering,
+5001.51 it's often the basal
+ganglia that's disrupted
+5004.9 than some other brain circuit
+5006.49 and we think the speech
+part of the basal ganglia.
+5009.46 - Can adults who maintain
+a stutter from childhood
+5013.0 repair that stutter?
+5014.41 - They can repair it with therapy,
+5016.81 with learning how to speak slower,
+5019.45 learning how to tap out a rhythm.
+5022.0 And yeah, I'm not a speech pathologist,
+5023.77 but I started reading this literature
+5025.84 and talking to others, that you know,
+5028.0 colleagues who actually study stuttering.
+5030.49 So yes, there are ways to
+overcome the stuttering
+5034.93 through, you know, behavioral therapy.
+5039.76 And I think all of the tools out there
+5044.14 have something to do with
+sensory motor integration,
+5047.77 controlling what you
+hear with what you output
+5051.31 in a thoughtful controlled way
+helps reduce the stuttering.
+5055.93 - There are a couple
+examples from real life
+5057.67 that I want to touch on,
+5058.927 and one is somewhat facetious,
+5061.319 but now I realize, is a
+serious neurobiological issue,
+5066.22 serious meaning I think interesting.
+5068.62 Which is that every once in a while,
+5071.17 I will have a conversation with somebody
+5073.15 who says the last word of
+the sentence along with me.
+5077.05 And it seems annoying in some instances,
+5080.83 but I'm guessing this
+is just a breakthrough
+5082.9 of the motor pattern
+5083.86 that they're hearing what
+I'm saying very well.
+5086.32 So I'm going to interpret this kindly
+5087.82 and think they're hearing what I'm saying.
+5090.01 They're literally hearing it in their mind
+5093.55 and they're getting that
+low-level electrical activity
+5096.55 to their throat.
+5097.39 And they're just joining me
+5100.209 in the enunciation of what I'm saying,
+5102.67 probably without realizing it.
+5104.68 Can we assume that that might be the case?
+5106.27 - Well, I wouldn't be
+surprised so that, you know,
+5108.79 the motor theory of speech perception
+5110.8 where this idea originally came,
+5112.12 what you hear is going
+through your speech circuit
+5115.42 and then also activating
+those muscles slightly.
+5119.44 So yes, so one might argue,
+5123.61 okay, is that speech
+circuit now interpreting
+5126.37 what that person is speaking?
+5127.9 Now, you're listening to me
+5129.52 and is going to finish it off
+5130.96 because it's already
+going through their brain
+5133.87 and they can predict it?
+5134.8 That would be one theory.
+5136.9 And I don't think the
+verdict out there is known,
+5138.82 but that's one.
+5139.99 The other is synchronizing
+turn-taking in the conversation
+5147.49 where you're acknowledging
+that we understand each other
+5152.05 by finishing off what I say.
+5155.455 And it's almost like a
+social bonding kind of thing.
+5158.56 The other could be,
+5159.58 I want the person to shut up
+5160.78 so I can speak as well and take that turn.
+5163.21 And each pair of people have a
+rhythm to their conversation.
+5168.31 And if you have somebody
+who's over talkative
+5170.41 versus under talkative of vice versa,
+5172.84 that rhythm can be lost
+in them finishing ideas
+5175.48 and going back and forth.
+5176.92 But I think having something
+to do with turn-taking,
+5180.37 as well, makes a lot of sense.
+5182.32 - I have a colleague at Stanford who says
+5184.27 that interruption is a sign of interest.
+5187.379 [Erich laughs]
+5188.212 I'm not sure that everyone agrees.
+5189.19 I think it's highly contextual.
+5190.69 - [Erich] Yes.
+5191.523 - But there is this form of a verbal nod
+5194.65 of saying, hmm hmm or things of that sort.
+5196.42 And they're many of these.
+5198.67 And I'm often told by
+my audience, you know,
+5200.74 that I interrupt my guests
+and things of that sort.
+5203.11 Oftentimes, I'll just get
+caught in the natural flow
+5205.06 of the conversation, but.
+- Right.
+5206.66 Well, I think we've had
+pretty good turn-taking here,
+5209.68 I hope.
+5210.513 - So far so good.
+- I feel that way.
+5211.87 - I'm glad you feel that way,
+5213.07 because especially in the
+context of a discussion
+5214.93 about language.
+- Yes.
+5216.25 - It seems important.
+5219.19 Texting is a very, very
+interesting evolution of language
+5225.67 because what you've told us
+is that we have a thought,
+5229.54 it's translated into language.
+5231.52 It might not be complete sentences,
+5233.02 but texting, I have to
+imagine this is the first time
+5235.75 in human evolution where
+we've written with our thumbs.
+5238.6 So I don't know,
+5240.01 it seems more primitive to
+me than typing with fingers
+5242.05 or writing with hands, but hey,
+5243.07 who am I to judge the
+evolution of our species
+5245.74 in one direction or the other?
+5247.3 But the shorthand grammatically,
+5251.38 often grammatically deficient
+incomplete sentence form
+5254.65 of texting is an incredible thing to see.
+5258.76 Early in relationships,
+romantic relationships,
+5261.31 people will often evaluate the others text
+5264.28 and their ability to use proper grammar
+5267.1 and spelling, et cetera.
+5268.51 This often quickly degrades.
+5270.67 And there's an acceptance
+5271.87 that we're just trying to
+communicate through shorthand,
+5274.33 almost military like shorthand,
+5277.9 but with internally
+consistent between people,
+5280.69 but there's no general
+consensus of what things mean,
+5282.94 but, you know, WTFs and like,
+5285.94 and OMGs and all sorts of things.
+5287.59 - [Erich] Right.
+5289.39 - I wonder sometimes whether or not
+5291.37 we are getting less proficient at speech
+5294.82 because we are not
+required to write and think
+5299.17 in complete sentences.
+- Hmm hmm.
+5301.69 - I'm not being judgemental here.
+5302.92 I see this in my colleagues.
+5304.36 I see this in myself.
+5305.98 This is not a judgment of
+the younger generation.
+5309.91 I also know that slang
+has existed for decades,
+5314.89 if not hundreds of years.
+5316.36 But I also know that I
+don't speak the same way
+5318.28 that I did when I was a teenager,
+5320.26 because I've suppressed
+a lot of that slang,
+5322.33 not because it's
+inappropriate or offensive,
+5325.3 although some of it was, frankly,
+5328.12 but because it's out of context.
+5330.52 So what do you think's
+happening to language?
+5333.04 Are we getting better at
+speaking, worse at speaking?
+5336.1 And what do you think the role of things
+5338.26 like texting and tweeting
+5339.7 and shorthand communication, hashtagging,
+5342.97 what's that doing to the
+way that our brains work?
+5345.31 - Yeah, I think that,
+5348.01 well, one, in terms of, you know,
+5351.55 measuring your level of
+sophistication and intelligence
+5354.37 when you say OMG, right.
+5356.59 I think that also could
+be a cultural thing
+5359.08 that, ah, you belong
+to the next generation.
+5361.93 If you're an, you know,
+5362.98 or you're being cool,
+5363.91 if you're an older person, you know,
+5365.98 using OMG and other
+things that the, you know,
+5369.04 younger generation would use.
+5371.05 But if I really think about it clearly,
+5376.33 texting actually has allowed
+5379.33 for more rapid communication
+amongst people.
+5384.119 I think, without the invention
+of the phone before then,
+5387.67 or, you know, texting back and forth,
+5390.1 you had to wait days
+for a letter to show up.
+5393.37 You couldn't call somebody on the phone
+5394.81 and talk as well, you know?
+5395.947 And so this rapid communication
+5397.87 in terms of the rapid communication
+of writing in this case.
+5401.59 So I think actually,
+5404.02 it's more like a use it or lose it
+5406.54 kind of a thing with the brain.
+5410.14 The more you use a particular
+brain region or circuit,
+5413.62 the more enhanced.
+5414.52 It's like a muscle.
+5416.32 The more you exercise it,
+the more healthier it is,
+5419.11 the bigger it becomes and
+the more space it takes
+5421.21 and the more you lose something else.
+5423.37 So I think texting is not decreasing
+5430.54 the speech prowess,
+5432.04 or the intellectual prowess of speech.
+5434.23 It's converting it and using
+it a lot in a different way,
+5438.94 in a way that may not be
+as rich in regular writing,
+5443.26 because you can only
+communicate so much nuance
+5447.55 in short-term writing,
+5449.62 but whatever is being done,
+5453.19 you got people texting hours and hours
+5455.29 and hours on the phone.
+5456.55 So whatever, your thumb circuit
+is going to get pretty big,
+5460.36 actually. [laughs]
+5462.01 - I do wonder whether, you know,
+5464.29 many people have lost
+their jobs based on tweets.
+5467.08 - [Erich] Hmm hmm.
+5468.1 - The short latency
+between thought and action
+5471.55 and distribution of one's thoughts
+5473.83 is incredible.
+- Yes.
+5475.93 - And I'm not just talking about people
+5480.07 who apparently would have poor
+prefrontal top-down control.
+5483.97 This is geek speak by the way,
+5485.26 for people that lack impulse control.
+5487.36 But high-level academics,
+5488.86 I'm not going to point fingers at anyone.
+5490.54 But examples of where you
+see these tweets and you go,
+5493.57 what were they thinking?
+- Yep.
+5495.85 - So presumably, there's
+an optimal strategy
+5499.81 between the thought speech motor pathway,
+5504.4 especially when the motor
+pathway engages communication
+5507.34 with hundreds of thousands of people
+5509.17 and retweets in particular
+5510.64 and the cut and paste function
+5511.473 and the screenshot function
+5513.22 are often the reason
+why speech propagates.
+5515.68 - [Erich] Yep.
+5516.513 - So to me, it's a little eerie that,
+5520.6 just that the neural circuitry can do this
+5524.32 and that we are catching
+up a little bit more slowly
+5528.85 to the technology,
+5530.14 and you've got these
+casualties of that mismatch.
+5533.8 - I think that's a good
+adjective used, the casualties,
+5539.32 you know, of what's going on,
+5540.37 because yes, it is the case with texting,
+5543.31 what you're really losing there
+5545.47 is less so the ability to write,
+5548.32 but more the ability to
+interpret what is being written.
+5552.01 And you can over or under interpret
+5553.75 something that somebody means.
+5557.65 On the flip side of that, you know,
+5560.2 if somebody's writing
+something very quick,
+5563.59 they could be writing instinctually,
+5566.11 more instinctually, their true meaning,
+5569.29 and they don't have time to modify
+5571.84 and color code what they're trying to say.
+5575.05 And that's what they really feel
+5577.72 and as opposed to saying
+it in a more nuanced way.
+5580.21 So I think both sides of
+that casualty are present.
+5585.04 And that's a downturn, you know,
+5587.35 unintended negative
+consequence of short-term,
+5592.51 I mean, short-word communications.
+5594.82 - Yeah, I agree that this whole phenomenon
+5597.4 could be netting people that normally
+5600.58 would only say these things out loud
+5602.29 once inside the door of their own home.
+5604.15 - Right.
+- Or not at all.
+5605.11 - [Erich] Right.
+5606.37 - It's an interesting time that we're in.
+5608.29 These are these speech and
+language and motor patterns.
+5611.172 - So part of the human
+evolution for language,
+5612.88 I think this is all part of our evolution.
+5615.31 - That's right.
+- Yeah.
+5616.722 - So for those of you
+thinking terrible thoughts,
+5618.25 please put them in the
+world and be a casualty.
+5620.2 And for those of you that are not,
+5621.52 please be very careful with how proficient
+5624.16 your thought to language
+to motor action goes.
+5627.085 - [Erich] Yes. [laughs]
+5627.97 - Maybe the technology companies
+5629.38 should install some buffers,
+some AI-based buffers.
+5632.65 - Right, that's taking some EEG signals
+5634.81 from your brain while
+you're texting to say,
+5636.85 okay, this is not a
+great thought, slow down.
+5640.99 - Right, or this doesn't
+reflect your best state.
+5644.86 That brings me to
+5646.18 what was going to be the
+next question anyway,
+5648.22 which is we are quickly
+moving toward a time
+5650.89 where there will be an
+even faster transition
+5655.24 from thought to speech, to motor output,
+5658.6 and maybe won't require motor output.
+5660.76 What I'm referring to here
+5661.63 is some of the incredible
+work of our colleagues,
+5664.3 Eddie Chang at UCSF and others
+5666.01 who are taking paralyzed human beings
+5669.55 and learning to translate
+the electrical signals
+5672.49 of neurons in various areas,
+5673.81 including speech and language areas,
+5675.52 to computer screens that type out
+5677.5 what these people are thinking.
+5678.4 In other words,
+5679.233 paralyzed people can put
+their thoughts into writing.
+5682.33 That's a pretty extreme
+and wonderful example
+5685.21 of recovery of function.
+- Hmm hmm.
+5687.7 - That is sure to continue to evolve.
+5690.34 But I think we are headed toward a time,
+5692.83 not too long from now
+5694.0 where my thoughts can be
+translated into words on a page
+5698.53 if I allow that to happen.
+5700.45 - Yeah so, and Eddie Chang's work,
+5703.0 which I admire quite a
+bit and cite in my papers,
+5707.2 I think he's really one of
+those at the leading edge
+5710.17 of trying to understand within humans,
+5713.47 the neurobiology of speech.
+5715.6 And he may not say it
+directly, but you know,
+5717.82 I talked to him about this.
+5718.99 It supports this idea
+that the speech circuit
+5721.96 and the separate language module,
+5723.61 I don't really think that
+there's a separation there.
+5726.85 So with that knowledge,
+5728.8 yes, and putting
+electrodes into human brain
+5731.32 and then translating
+those electrical signals
+5733.39 to speech currents.
+5734.83 Yeah, we can start to tell
+what is that person thinking?
+5738.25 Why, because we often
+think in terms of speech.
+5742.21 And without saying words.
+5744.97 And that's a scary thought.
+5746.5 And now imagine if you can now translate
+5749.32 those into a signal that
+transmits something wirelessly
+5752.62 and someone from some
+distant part of the planet
+5755.65 is hearing your speech
+from a wireless signal
+5758.71 without you speaking.
+5760.96 So probably that won't be
+done in an ethical way,
+5764.77 who knows, you know?
+5766.854 But I mean, the ethics
+of doing that probably,
+5768.97 you know, might not happen, but who knows?
+5771.1 We have these songbirds, you know.
+5773.774 If we apply the same technique to them,
+5775.0 we can start to hear what they're singing
+5776.41 in their dreams or whatever,
+5778.48 even though they don't produce sound
+5779.8 so we can find out by testing on them.
+5782.35 - It's coming.
+- Yes.
+5783.28 - One way or another, it's coming.
+5786.13 For those listening who are interested
+5788.23 in getting better at speaking
+and understanding languages,
+5792.49 are there any tools that you recommend?
+5794.74 And here again,
+5796.354 I realize you're not a speech therapist,
+5797.86 but here I'm not thinking about
+5799.12 ameliorating any kind
+of speech deficiency.
+5802.24 I'm thinking, for instance,
+5804.07 do you recommend that people read
+5806.77 different types of writing?
+5809.47 Would you recommend that
+people learn how to dance
+5811.42 in order to become better at
+expressing themselves verbally?
+5815.5 You know, and feel free to
+have some degrees of freedom
+5820.48 in this answer.
+5821.59 These are obviously not
+peer-reviewed studies
+5824.2 that we're referring to,
+although there may be,
+5827.14 but I'm struck by the number of things
+5830.11 that you do exceedingly well,
+5831.52 and I can't help but ask,
+5833.649 well, the singing, which I realize it may,
+5837.7 your brother didn't pay me to say this,
+5838.96 may not be quite as good
+as your brothers yet,
+5841.42 but is getting, you'll surpass him,
+5843.19 I'm guessing at some point.
+5844.353 ♪ Getting there ♪
+5845.254 - Getting there.
+5846.087 [both laughing]
+5846.92 Exactly, there you go.
+5849.67 You know, should kids learn how to dance
+5852.28 and read hard books and simple books?
+5855.94 What do you recommend?
+5856.773 Should adults learn how to do that?
+5858.07 Everyone wants to know how
+5858.903 to keep their brain working
+better, so to speak.
+5861.76 But also I think people want
+to be able to speak well
+5864.61 and people want to be
+able to understand well.
+5866.62 - Yeah, so what I've
+discovered personally, right,
+5870.58 is that, so when I switched
+5872.35 from pursuing a career in
+science from a career in dance,
+5879.61 I thought one day I would stop dancing,
+5882.58 but I haven't because I
+find it fulfilling for me,
+5886.87 you know, just as a life experience.
+5889.18 So ever since I started college,
+5891.76 you know, my late teens
+and early twenties,
+5895.36 I kept dancing even till this day.
+5898.39 And there've been periods of time,
+5899.5 like during the pandemic
+5901.0 where I slowed down on
+dancing and so forth.
+5904.3 And when you do that, you realize, okay,
+5906.43 there are parts of your body
+5907.78 where your muscle tone decreases
+a little bit and somewhat,
+5910.694 or you could start to gain weight.
+5912.64 I somehow don't gain weight that easily.
+5914.29 And I think it's related to my dance,
+5915.88 if that's meaningful to your audience.
+5918.97 But what I found is, you know,
+5922.557 in science, we like to
+think of a separation
+5924.79 between movement and action and cognition.
+5928.3 And there is a separation for you
+5929.65 between perception and production,
+5931.66 cognition being perception,
+5933.58 production being moving, right.
+5935.83 But if the speech pathways
+5937.84 is next to the movement pathways,
+5939.82 what I discover is by dancing,
+5942.34 it is helping me think.
+5944.95 It is helping keeping my brain fresh.
+5947.2 It's not just moving my muscles,
+5949.27 I'm moving or using the
+circuitry in my brain
+5953.05 to control a whole big body.
+5956.44 You need a lot of brain tissue to do that.
+5958.75 And so I argue,
+5959.89 if you want to stay cognitively
+intact into your old age,
+5965.23 you better be moving
+5966.55 and you better be doing it consistently,
+5968.38 whether it's dancing, walking, running,
+5971.14 and also practicing speech,
+5974.41 oratory speech and so forth or singing,
+5976.84 is controlling the brain circuits
+5978.58 that are moving your facial musculature.
+5980.47 And it's going to keep your
+cognitive circuits also in tune.
+5984.64 And I'm convinced of that from
+my own personal experience.
+5987.97 - Yeah, for me, long, slow runs
+5990.88 are a wonderful way to
+kind of loosen the joints
+5994.24 for long podcasts,
+especially the solo podcast,
+5998.11 which can take many hours to record.
+6000.12 And without those long slow runs,
+6003.27 at least the day before,
+or even the morning of,
+6005.82 I don't think I could do
+it, at least not as well.
+6008.19 - All right, well, you're
+experiencing something similar.
+6010.74 So that's an N of two.
+6011.94 - Yeah, N of two.
+6013.77 I'm tempted to learn how to dance
+6015.72 because there are a lot of
+reasons to learn how to dance.
+6018.218 - [Erich] Yes.
+6019.051 - And people can use their imagination.
+6021.06 I definitely want to get the opportunity
+6023.64 to talk about some of the newer work
+6025.89 that you're into right now
+about genomes of animals.
+6030.87 As you perhaps can tell
+6032.43 from my quite authentic
+facial expressions,
+6035.07 I adore the animal kingdom.
+6037.92 I just find it amazing.
+6039.12 And it's the reason I went
+into neurobiology, in part.
+6042.93 So many animals, so many
+different patterns of movement,
+6045.42 so many body plans, so
+many specializations,
+6049.41 what is the value of learning the genomes
+6051.96 of all these animals?
+6053.85 You know, I can think of
+conservation-based, you know,
+6058.23 schemes of trying to preserve
+these precious critters,
+6062.1 but what are you doing with
+the genomes of these animals?
+6064.17 What do you want to understand
+about their brain circuits?
+6066.537 And how does this relate
+to some of the discussion
+6068.43 we've have been having up until now?
+6069.33 - Yeah, I've gotten very
+heavily involved in genomes,
+6074.4 you know, not just to
+get at an individual gene
+6076.98 involved in the trade of
+interest, like spoken language,
+6081.48 but I realize that, you know,
+6084.78 nature has done natural experiments for us
+6088.62 with all these species out
+there with these various traits
+6091.62 and the one that I'm
+studying, like vocal learning,
+6093.84 has evolved multiple times
+among the animal kingdom,
+6096.48 even if it's rare, it's multiple times.
+6099.51 And the similar genetic changes
+occurred in those species.
+6105.81 But to find out what those genetic changes
+6108.39 that are associated with
+the trait of interests
+6110.58 and not some other trait
+like flying in birds,
+6113.4 as opposed to singing,
+6116.49 you have to do what's
+called comparative genomics,
+6118.83 even in the context of studying the brain.
+6121.017 And you need their genomes
+to compare the genomes
+6124.17 and do like a GWA, a
+genome-wide association study,
+6127.2 not just within a species like
+humans, but across species.
+6130.62 And so you need good genomes to do that.
+6133.53 Plus, I've discovered I'm also interested
+6136.23 in evolution and origins.
+6137.88 How did these species
+come about a similar trait
+6142.35 in last, you know, 300 million
+years or 60 million years,
+6145.95 depending who you're talking about.
+6147.72 And you need a good
+phylogenetic tree to do that,
+6150.9 and to get a good phylogenetic tree,
+6152.64 you also need their genomes.
+6154.59 And so, because of this,
+6155.94 I got involved in large scale consortiums
+6158.64 to produce genomes of
+many different species,
+6161.82 including my vocal learners
+6163.23 and their closest
+relatives that I'm fans of.
+6167.4 But I couldn't convince
+the funding agencies
+6169.23 to gimme the money to do
+that just for my own project.
+6172.62 But when you get a whole
+bunch of people together
+6175.35 who want to study various traits,
+6177.21 you know, heart disease,
+6179.43 or loss and gain in flight and so forth,
+6183.51 suddenly we all need lots
+of genomes to do this.
+6186.84 And so now that got me into a project
+6189.69 to lead something called the
+Vertebrate Genomes Project
+6192.66 to eventually sequence all
+70,000 species on the planet.
+6196.74 And Earth BioGenome Project,
+6198.9 all eukaryotic species,
+all two million of them.
+6203.16 And to no longer be in a situation
+6206.79 where I wish I had this genome.
+6208.95 Now we have the genetic code
+of all life on the planet,
+6212.31 create a database of all their traits
+6214.62 and find the genetic association
+6216.6 with everything out there
+6218.97 that makes a difference
+from one species to another.
+6222.45 One more piece of the
+equation to add to this story
+6227.4 is what I didn't realize
+as a neuroscientist
+6230.88 were that these genomes
+are not only incomplete,
+6235.17 but have lots of errors in them,
+6238.23 false gene duplications,
+6240.15 where mother and father chromosomes
+6241.8 were so different from each other,
+6243.93 that the genome algorithm,
+6245.58 assembly algorithms treated
+them as two different genes
+6248.34 in this part of the chromosome.
+6250.5 So there are a lot of these
+false duplicated genes
+6252.9 that people thought
+were real, but were not
+6256.17 or missing parts of the genome
+6258.48 because the enzymes
+used to sequence the DNA
+6261.75 couldn't get through
+this regulatory region
+6263.85 that folded up on itself
+6266.16 and made it hard to sequence.
+6268.56 And so I ended up in these consortiums
+6272.7 pulling in the genome
+sequencing companies,
+6275.64 developing the technology to work with us
+6278.73 to improve it further
+6280.05 and the computer science guys
+6282.27 who then take that data
+and that technology,
+6284.55 and try to make the complete genomes
+6286.29 and make the algorithms better
+6288.3 to produce what we now just did recently
+6291.87 led by an effort by Adam Phillippy
+6293.79 is the first human
+Telomere-to-Telomere Genome
+6296.52 with no errors, all complete,
+no missing sequence.
+6300.75 And now we're trying to do the
+same thing with vertebrates
+6304.02 and other species.
+6304.853 Actually, we improved
+that before we got to the,
+6307.263 what we call telomere-to-telomere,
+6309.03 from one end of the chromosome to another.
+6311.22 And what we're discovering
+6313.59 is in this dark matter of the genome
+6315.78 that was missing before,
+6317.67 turns out to be some regulatory regions
+6320.55 that are specialized in
+vocal learning species
+6323.34 and we think are involved in
+developing speech circuits.
+6326.58 - Incredible.
+6327.413 Well, so much to learn.
+6329.7 And we're going to learn
+from this information.
+6332.13 Early on in these genome
+projects and connectome projects,
+6335.28 I confess I was a little bit cynical.
+6337.02 This would be about 10, 15 years ago.
+6339.06 I thought, okay, necessary,
+6340.38 but not sufficient for anything.
+6342.63 We need it, but it's not
+clear what's going to happen,
+6344.58 but you just gave a very clear example
+6346.23 of what we stand to learn
+from this kind of information.
+6349.62 And I know from the conservation side,
+6352.59 there's a huge interest in this
+6353.79 because even though we would prefer
+6355.41 to keep all these species
+alive rather than clone them,
+6358.8 these sorts of projects
+do offer the possibility
+6361.32 of potentially recreating
+species that were lost.
+6364.23 - [Erich] Right.
+6365.063 - Due to our own ignorance or
+missteps, or what have you.
+6369.36 - Yes, and along those lines,
+6373.44 because, you know, we
+got involved in genomics,
+6376.11 some of the first species
+that we start working on
+6379.35 are critically endangered species.
+6381.54 And I'm doing that not only for, you know,
+6385.86 perspectives to understand their brains
+6387.51 and the genes involved
+in their brain function,
+6389.37 but I feel like it's a moral duty.
+6391.8 So the fact that now
+I become more involved
+6394.56 in genome biology
+6396.09 and have helped develop these tools
+6397.65 for more complete genomes,
+6399.03 let's capture their genetic
+code now, before they're gone.
+6403.83 And could we use that information
+6406.56 to resurrect the species
+at some future time,
+6409.44 if not in my lifetime,
+6410.94 in some time in the future
+and generations ahead of us.
+6414.78 And so, in anticipation of that,
+6419.55 we create a database,
+we call the GenomeArk
+6423.06 and no pun intended like Noah's Ark,
+6425.94 meant to store the genetic code
+6428.31 as complete genome assemblies as possible
+6430.83 for all species on the planet
+6433.2 to be used for basic science,
+6434.67 but also some point in the future.
+6437.31 And because of that,
+6439.38 funding agencies or private foundations
+6441.69 that are interested in conservation
+6443.46 have been reaching out to
+me now, a neuroscientist,
+6446.64 to help them out in producing
+high quality genome data
+6450.36 of endangered species that they can use,
+6452.43 like Revive & Restore,
+6454.14 who want to resurrect the passenger pigeon
+6456.54 or Colossal, who wants to
+resurrect the wooly mammoth.
+6459.75 And so we're producing
+high quality genomes
+6461.97 for these groups, for the
+conservation projects.
+6464.7 - What a terrific and
+important initiative.
+6467.25 And I think for those listening today,
+6469.11 they now certainly understand the value
+6473.311 of deeply understanding
+the brain structures
+6476.49 and genomes of different species.
+6478.41 Because I confess,
+6480.33 even though I knew a bit
+of the songbird literature,
+6482.82 and I certainly understand
+6483.87 that humans have speech and language,
+6485.46 I had no idea that there
+was so much convergence
+6488.07 of function, structure and genomes.
+6490.257 And to me, you know,
+I feel a lot more like
+6493.38 an ape than I do a songbird.
+- Right.
+6496.08 - And yet here we are
+with the understanding
+6498.573 that there's a lot more similarity
+6500.4 between songbirds and humans
+6502.68 than I certainly ever thought before.
+6504.39 - Yeah, something very
+close to home for us humans,
+6507.39 I can give you an example of
+is evolution of skin color.
+6512.01 And skin color, we use it unfortunately,
+6515.13 for racism and so forth.
+6517.17 We use it also for good
+things to let in more light
+6519.84 or let out less light depending
+on the part of the planet,
+6522.9 you know, our population evolved in.
+6525.36 And most people think dark-skinned people
+6527.61 all evolved from the
+same dark-skinned person
+6529.98 and light-skinned people all evolved
+6531.66 from the same light-skinned person,
+6532.77 but that's not the case.
+6534.42 Dark skin and light skin amongst humans
+6537.45 has evolved independently multiple times,
+6540.63 like in, you know, the
+Pacific islands versus Africa.
+6543.63 And it's just depending on the angle
+6546.36 of light hitting the Earth
+6548.31 as to whether you need more
+protection from the sun
+6550.65 or less protection,
+6552.69 that's also associated with
+Vitamin D synthesis in the skin.
+6556.71 And so, and each time,
+6562.17 where darker or lighter
+skin evolved independently,
+6566.1 it hit the same gene, you know,
+6568.71 the mela [finger snaps].
+6570.51 - Melanin.
+- Melanin receptors.
+6572.34 That's right, yes, yeah.
+6573.75 Genes that are involved
+in melanin in formation.
+6577.08 And so those genes evolve
+some of the same mutations,
+6581.01 even in different species.
+6582.6 It's not just humans.
+6584.25 In equatorial regions, they
+are darker-skinned animals
+6588.15 than going away from the equator.
+6590.52 - Oh, right, I think of Arctic foxes
+6592.14 and things of that sort.
+- Yep, that's right.
+6593.326 That's right, polar bears, you know,
+6596.19 and so some of the same genes are used
+6600.18 in evolutionary perspective
+to evolve in a similar way
+6603.09 within and across species.
+6605.07 - Incredible.
+- Yeah.
+6606.12 And that's same thing
+happening in the brain too.
+6608.22 Language is no exception.
+6609.9 - Well, I have to say,
+6610.733 as somebody who is a, you
+know, career neuroscientist,
+6614.1 but as I mentioned several times now,
+6615.75 who also adores the animal kingdom,
+6618.18 but is also obsessed
+with speech and language,
+6623.04 at a distance not as a
+practitioner of music and dance,
+6628.71 this has been an incredible conversation
+6631.23 and opportunity for me to learn.
+6632.997 And I know I speak for a
+tremendous number of people
+6635.577 and I just really want to say,
+6636.81 thank you for joining us today.
+6638.76 You are incredibly busy.
+6639.96 It's clear from your
+description of your science
+6642.387 and your knowledge base,
+6643.47 that you are involved in
+a huge number of things,
+6646.62 very busy, so thank
+you for taking the time
+6648.51 to speak to all of us.
+6650.25 Thank you for the work that you're doing,
+6652.02 both on speech and language,
+6653.61 but also this important work on genomes
+6655.74 and conservation of endangered
+species and far more.
+6660.66 And I have to say,
+6662.13 if you would agree to come back
+6663.33 and speak to us again sometime,
+6664.98 I'm certain that if we were
+to sit down even six months
+6667.17 or a year from now, there's
+going to be a lot more to come.
+6668.92 - Yeah, we have some things cooking
+6670.939 and thank you for inviting me here
+6673.44 to get the word out to the community
+6676.44 of what's going on in the science world.
+6678.45 - Well, we're honored and
+very grateful to you, Erich.
+6680.67 Thank you.
+6681.503 - You're welcome.
+6682.38 - Thank you for joining
+me today for my discussion
+6684.24 with Dr. Erich Jarvis.
+6685.68 If you'd like to learn more
+about his laboratory's work,
+6688.35 you can go to Jarvis Lab,
+spelled J-A-R-V-I-S lab,
+6692.79 all one word, jarvislab.net.
+6695.01 And there you can learn
+about all the various studies
+6697.14 taking place in his laboratory,
+6698.94 as well as some of the
+larger overarching themes
+6701.1 that are driving those studies,
+6702.75 including studies on human
+genomics and animal genomics
+6705.99 that surely are going to lead
+6707.67 to the next stage discoveries
+6709.59 of how we learn and think about,
+6712.02 and indeed use language.
+6713.91 If you're learning from and
+or enjoying this podcast,
+6716.31 please subscribe to our YouTube channel.
+6718.32 That's a simple zero
+cost way to support us.
+6720.72 Please also subscribe to the
+podcast on Spotify and Apple.
+6723.99 And on both Spotify and Apple,
+6725.88 you have the opportunity to leave us
+6727.32 up to a five star review.
+6729.15 If you have questions or
+comments or suggestions
+6731.19 about topics you'd like us to cover,
+6732.66 or guests you'd like us to interview
+6733.92 on the Huberman Lab Podcast,
+6735.54 please put those in the
+comment section on YouTube.
+6738.24 We do read all those comments
+6739.65 and we do take them to heart.
+6741.18 Please also check out the sponsors
+6742.47 mentioned at the beginning
+of today's podcast.
+6744.66 And check out Momentous supplements,
+6746.55 our new partners in the supplement space.
+6748.2 And check out Athletic Greens.
+6750.21 That's the best way to
+support this podcast.
+6752.52 If you're not already
+following us on social media,
+6754.77 please do so.
+6756.06 We are hubermanlab on Twitter,
+6757.8 and we are also hubermanlab on Instagram.
+6759.87 In both places, I cover science
+and science-related tools,
+6763.2 some of which overlap with the content
+6764.79 of the Huberman Lab Podcast,
+6765.93 but much of which is unique
+from the content covered
+6768.51 on the Huberman Lab Podcast.
+6769.68 Again, that's hubermanlab on Instagram
+6771.037 and hubermanlab on Twitter.
+6773.04 Please also check out our Neural
+Network monthly newsletter.
+6775.95 This is a newsletter that has
+summaries of podcast episodes.
+6779.43 It also includes a lot
+of actionable protocols.
+6781.74 It's very easy to sign
+up for the newsletter.
+6783.78 You go to hubermanlab.com,
+click on the menu,
+6785.94 go to newsletter.
+6787.02 You supply your email,
+6788.01 but we do not share
+your email with anybody.
+6790.02 We have a very clear and
+rigorous privacy policy,
+6792.9 which is we do not share
+your email with anybody.
+6795.12 And the newsletter comes out once a month
+6797.64 and it is completely zero cost.
+6799.17 Again, just go to hubermanlab.com
+6801.21 and go to the Neural Network Newsletter.
+6803.67 I'd also like to point out
+6804.503 that the Huberman Lab
+Podcast has a clips channel.
+6807.15 So these are brief clips anywhere
+from three to 10 minutes,
+6811.5 that encompass single concepts
+and actionable protocols
+6815.07 related to sleep, to focus,
+6816.99 interviews with various guests.
+6818.25 We talk about things like caffeine,
+6819.66 when to drink caffeine relative to sleep,
+6822.09 alcohol, when and how,
+6823.35 and if anyone should ingest
+it relative to sleep,
+6826.47 dopamine, serotonin, mental
+health, physical health,
+6829.08 and on and on, all the things
+that relate to the topics
+6831.96 most of interest to you.
+6833.28 You can find that easily
+by going to YouTube,
+6835.95 look for Huberman Lab
+Clips in the search area,
+6838.86 and it will take you there, subscribe,
+6840.45 and we are constantly
+updating those with new clips.
+6842.76 This is especially useful, I believe,
+6844.32 for people that have missed
+some of the earlier episodes,
+6846.33 or you're still working
+through the back catalog
+6847.95 of Huberman Lab Podcast,
+6849.06 which admittedly can be rather long.
+6851.16 And last, but certainly not least,
+6853.47 thank you for your interest in science.
+6855.313 [lively music]

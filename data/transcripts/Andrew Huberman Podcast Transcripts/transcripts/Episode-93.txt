@@ -1,0 +1,3803 @@
+0.36 - Welcome to the Huberman Lab Podcast,
+2.41 where we discuss science
+and science-based tools
+4.93 for everyday life.
+9.81 I'm Andrew Huberman, and I'm
+a professor of neurobiology
+12.61 and ophthalmology at
+Stanford School of Medicine.
+15.7 This podcast is separate from
+my teaching and research roles
+18.26 at Stanford.
+19.3 It is however, part of
+my desire and effort
+21.6 to bring zero cost to consumer information
+23.72 about science and science related tools
+26.01 to the general public.
+27.79 In keeping with that theme,
+29.06 I'd like to thank the
+sponsors of today's podcast.
+32.27 Our first sponsor is InsideTracker.
+35.155 InsideTracker is a
+personalized nutrition platform
+37.87 that analyzes data from your blood and DNA
+40.53 to help you better understand your body
+42.23 and help you reach your health goals.
+44.63 I've been getting my blood
+work done for many years now,
+47.71 and that's where the simple reason
+49.14 that only through quality blood work,
+52.01 and now through the advent of DNA test
+54.35 can one really get a clear picture
+56.17 of what's going on with their health.
+58.12 Things like metabolic
+factors and hormones,
+61.06 all the various triglycerides.
+62.91 These are things that can only be measured
+64.62 from a quality blood test.
+66.21 And now with DNA tests,
+67.55 you can get an additional window
+69.26 into your current health status
+70.9 and the trajectory of your health.
+72.89 What's really wonderful
+about InsideTracker
+75.1 is that you don't just get numbers back
+77.19 about the specific levels
+of various hormones
+79.64 and metabolic factors,
+80.92 you also get a lot of information about
+82.59 what you could or should do in
+order to adjust those numbers
+85.707 to put you on the course to better health.
+88.54 So for instance, it will
+give recommendations
+90.631 about particular foods to eat or avoid,
+93.55 particular exercise regimens
+95.348 that you might want to adopt
+97.02 and the frequency of those regimens
+98.61 in order to move those markers
+in the correct direction.
+102.624 InsideTracker has also added a new feature
+105.54 that makes tracking your progress
+107.91 and analyzing your data even easier.
+110.28 For those of you that use
+a Garmin fitness tracker
+112.67 such as the Garmin watch,
+114.19 that's now compatible with their platform.
+116.27 So you can couple your
+data from your Garmin
+118.07 with your blood and DNA for
+even more personalization
+120.63 and insights on your health.
+121.98 However, if you don't
+have a Garmin device,
+123.99 there's still a lot that you
+can get from InsideTracker
+126.75 and their tests.
+127.86 If you'd like to try InsideTracker,
+129.38 you can visit
+www.insidetracker.com/huberman.
+132.48 And if you do that, you'll get 25% off
+134.93 any of InsideTracker's plans.
+136.69 Use the code Huberman at checkout,
+138.62 that's www.insidetracker.com/huberman
+141.35 to get 25% off any of
+InsideTracker's plans
+144.41 and use the code Huberman at checkout.
+146.93 Today's podcast is also brought to us
+148.78 by ExpressVPN.
+150.82 ExpressVPN is a virtual private network
+153.17 that keeps your data secure and private.
+155.73 It does that by routing
+your internet activity
+157.93 through their servers and encrypting it,
+159.82 so that no one can see or sell your data.
+162.73 I'm familiar with the effects
+of not securing my data
+165.34 well enough.
+166.173 A few years back I had
+my bank accounts hacked.
+169.09 I don't know exactly how it
+happened, but it happened.
+172.15 And it was a terrible amount of work
+174.47 to have that reversed and secured.
+176.444 The great thing about ExpressVPN
+is I don't even notice
+179.64 that it's running.
+180.473 I have it on my computer,
+181.33 I turn it on anytime I work at home
+183.33 or when traveling or in
+a cafe airport anywhere,
+186.77 and it runs in the background,
+188.01 it doesn't change anything
+about the interface
+189.83 with my computer or the wifi.
+191.88 It just secures my data and
+it secures any information
+195.67 about what I happen to be
+searching for, et cetera.
+198.26 I don't feel like I have
+anything particular to hide
+200.34 except my bank account passwords
+and things of that sort.
+203.43 But with ExpressVPN, it basically
+makes everything secure,
+206.48 you can't be tracked and no one can access
+208.629 or steal your data, which is terrific.
+210.85 So again, I use it when I'm
+traveling and when I'm at home.
+214.86 If you want to start protecting
+your internet activity
+217.02 using ExpressVPN, you can go
+to www.expressvpn.com/huberman
+221.698 and you'll get an extra three months free
+224.61 on a one-year package.
+225.81 That's www.expressvpn.com/huberman
+to get three months free
+230.91 on any of their one-year packages.
+233.31 Today's podcast is also brought
+to us by Athletic Greens.
+236.73 Athletic Greens is an all-in-one vitamin,
+239.05 mineral, probiotic drink,
+241.09 that gives you a total foundation
+of vitamins and minerals
+244.25 and probiotics to support
+your health and wellbeing.
+247.11 I've been using Athletic
+Greens since 2012.
+250.35 And so I'm delighted that
+they're sponsoring the podcast.
+253.03 I started using Athletic Greens
+254.76 and I still use Athletic
+Greens once or twice a day
+257.72 because it's the simplest
+and most straightforward way
+260.56 to get my basis of
+important vitamins, minerals
+264.29 and probiotic taken care off.
+266.28 All of those things combined
+to support various aspects
+269.31 of my health,
+270.75 such as brain health, such as gut health.
+273.05 For instance, there's a
+tremendous amount of evidence now
+275.49 showing that probiotics support gut health
+277.81 and that the gut brain access
+is important for things like
+280.69 focus and cognition, as
+well as for immune function
+284.2 and various aspects of physical
+health, like metabolism.
+286.94 The list sort of goes on and on.
+289.18 With Athletic Greens,
+290.17 it has all these vitamins and minerals
+292.2 and various other things
+that are good for me,
+294.56 and I actually really
+liked the way it tastes.
+296.47 So the way I use it is once a day,
+298.84 sometimes twice a day,
+299.76 I'll mix it up with water,
+300.79 I add a little bit of lemon or lime juice.
+302.91 I think it tastes great without
+the lemon or lime juice.
+304.91 But when I add that, it's
+truly delicious to me.
+307.63 And I'll drink that
+first thing in the day,
+310.44 mid-morning sometimes instead
+312.06 and sometimes again in
+the later afternoon.
+314.27 I'm able to drink Athletic
+Greens late in the day
+316.43 and not have it keep me awake.
+318.65 If you want to try Athletic Greens,
+320.36 you can go to
+www.athleticgreens.com/huberman,
+323.26 and if you do that, you
+can claim a special offer.
+325.94 They'll give you five free travel packs,
+327.84 which make mixing up Athletic Greens
+329.58 while you're on the road,
+really simple and easy.
+332.01 And they'll give you a year
+supply of vitamin D3+K2.
+335.77 Vitamin D3, as many of you know,
+337.98 you can get from the sun,
+339.32 but many people even if
+they're already getting
+341.34 a lot of sun exposure,
+342.73 still have vitamin D3
+levels that are too low.
+346.13 And vitamin D3 is very important
+347.9 for a huge number of
+cardiovascular, immune,
+350.77 metabolic and other aspects of health.
+353.18 So once again, if you go to
+www.athleticgreens.com/huberman,
+356.41 you'll get the five travel packs
+358.21 and a year supply of vitamin D3+K2.
+361.74 Today is the third episode
+in our series of episodes
+364.62 about physical and
+athletic skill performance
+368.09 and skill learning in general.
+370.12 And today we're going to talk
+about the science of tools
+373.97 for fat loss.
+375.57 And fat loss is something
+377.03 that interests a large number of people.
+379.62 Many people want to lose fat,
+381.5 many people are athletes
+who need to lose fat.
+385.29 And in general, we know that
+having body fat percentages
+388.89 that are too high is unhealthy for us.
+391.6 And most people struggle to lose fat.
+394.54 Most people struggled to
+lose weight generally,
+396.61 but most people especially
+struggled to lose body fat
+400.06 or what we call adipose tissue.
+402.46 Now, this is a huge topic on the internet.
+404.87 There's a lot of controversy.
+406.87 Today, we're going to
+talk about some things
+409.27 related to fat loss,
+410.54 and that are powerful for fat loss
+412.79 that I'm guessing most of you
+have never heard about before.
+417.203 You may have heard about a few of them,
+418.88 but I'm guessing you haven't
+heard about all of them.
+421.24 This episode is going to be
+rich with science-based tools
+425.015 that are gleaned from a variety of aspects
+427.78 of the literature,
+428.613 including the use of cold,
+430.78 including brown fat,
+432.48 including something called beige fat.
+434.51 We're going to talk about
+something called NEAT.
+436.58 We're going to talk about all
+sorts of aspects of fat loss
+439.77 that are governed by your nervous system.
+442.44 And this is I think an important gap
+444.72 that's missing in the
+discussion about fat loss.
+447.267 You can hear a lot of
+information out there
+449.99 about the role of things like insulin
+452.46 and various diets like ketogenic diets
+454.56 or vegan diets or Mediterranean diets.
+457.42 And there's some great stuff out there,
+459.14 and there's some really
+terrible information out there,
+461.145 and there's a lot of controversy.
+462.93 We did a number of episodes talking
+464.93 about the role of hormones on metabolism
+468.14 and the role of food
+on mood and wellbeing.
+472.62 So if you're interested in those topics,
+474.31 please check them out.
+475.62 I will touch a little
+bit on hormones today.
+478.29 Things like insulin and
+leptin, just a little bit.
+482.24 But today's episode is mainly
+going to be focused on,
+485.28 how the nervous system, neurons,
+487.79 and some of the cells
+they collaborate with,
+490.06 like glioma and macrophages,
+492.29 how those encourage or can
+encourage accelerated fat loss.
+497.12 Because it turns out they can.
+498.64 Remember your nervous system
+which includes your brain
+500.93 and your spinal cord
+and all the connections
+503.54 that they make with
+the organs of the body,
+506.48 governs everything.
+507.86 It's the on switch and the
+off switch for immune system.
+511.83 It's the on switch and the off switch.
+513.57 It turns out also for fat burning.
+515.68 And so the nervous system
+and the role of the brain
+518.87 and other neurons has
+been vastly overlooked
+522.36 in the discussion about losing fat.
+524.86 Now, I would be remiss
+526.47 and I'd probably come under
+a pretty considerable attack,
+528.77 if I didn't just acknowledge upfront
+531.11 a core truth of metabolic science
+534.97 and also of neuroscience, frankly,
+537.16 which is that calories
+in versus calories out,
+540.48 meaning how many calories you ingest,
+542.78 versus how many calories you burn
+544.73 is the fundamental and
+most important formula
+547.6 in this business of fat loss
+549.182 and weight management in general.
+551.941 There's simply no way around the fact
+554.26 that if you ingest far more
+calories than you burn,
+558.47 you're likely to gain weight.
+560.89 And a good portion of that weight
+562.4 is likely to be adipose tissue fat.
+566.12 It's also true that if
+you ingest fewer calories
+568.65 than you burn,
+569.5 that you will lose weight,
+570.46 and that a significant portion
+571.77 of that will come from body fat.
+573.69 What portion?
+574.53 Depends on a number of factors.
+576.07 But that simple formula is important.
+579.21 On a previous episode, I
+mentioned the complications
+582.11 with the statements of
+a calorie is a calorie.
+585.15 And indeed there is
+evidence from for instance
+588.04 Robert Lustig, who's a
+pediatric endocrinologist
+591.31 at UC San Francisco has talked
+593.68 about how highly processed
+foods change the way
+596.06 that we utilize food,
+597.513 and can lead to higher
+incidences of obesity
+602.13 and other metabolic syndromes
+that go against the idea
+606.2 that a calorie is a calorie and that's it.
+608.15 So a calorie is a calorie
+as a unit of energy,
+611.97 and we need to accept and
+acknowledge this calories in,
+616.85 meaning calories ingested
+versus calories burned formula.
+620.2 But the calories burn portion
+is strongly influenced
+624.88 by a number of things that you can control
+627.84 that can greatly accelerate
+629.98 or increase the amount of adipose tissue
+632.88 or the proportion of adipose tissue
+634.81 that you burn in response
+to exercise and food.
+637.86 So your hormones are important.
+641.54 Your thermogenic milieu,
+644.36 meaning how warm or how cold your body is?
+647.6 How cold you make it,
+648.5 how warm you make it?
+649.333 But also your level of metabolism.
+651.21 Your levels of thyroid hormone
+653.2 and something that's
+hardly ever discussed,
+656.92 but is well supported by
+the scientific literature,
+660.33 how much innervation?
+662.05 Meaning how much connectivity there is,
+664.23 between your nervous system and fat.
+666.83 Today, we're going to talk about the fact
+669.34 that your body fat of various kinds,
+672.18 and there are several kinds of body fat
+674.5 are actually innervated by neurons.
+676.73 Neurons connect to your body fat
+678.53 and can change the probability
+680.73 that that body fat will be burned or not.
+683.26 So your nervous system
+is the master controller
+685.41 of this process,
+686.84 and it plays a strong
+role in the calories out,
+690.23 the calories burned component.
+692.22 So as usual, we're going to
+discuss a little bit of science.
+695.84 I promise I won't go
+too deep into lipolysis
+699.07 and all sorts of things
+related to fat oxidation.
+701.429 We're going to break down that process
+703.74 into two important steps.
+705.73 And if you can understand
+those two important steps
+708.41 then the rest of the tools
+will be very straightforward
+711.48 to understand and manage.
+713.52 And I do believe that
+today you will walk away
+717.24 with many new tools that
+you could incorporate
+719.86 into any kind of fat loss regimen
+722.2 that will greatly accelerate that process,
+724.56 because it's grounded in
+quality peer-reviewed science.
+728.54 Throughout the episode,
+729.49 I'm going to talk about
+some behavioral tools.
+731.98 In fact, I'll mostly talk
+about behavioral tools.
+734.43 I will also talk about
+compound, supplements.
+737.5 Many of you are into supplements.
+739.44 Some of you aren't, and that's fine.
+741.22 For those of you that
+are into supplements,
+743.21 an important issue in a
+discussion about supplements
+746.36 for fat loss or otherwise
+is going to be the quality
+749.68 of those supplements and the accuracy
+751.46 about what's in those
+supplement bottles and tablets,
+754.34 et cetera.
+755.64 I usually mention this at
+the end of the podcast,
+757.62 but this podcast we've partnered
+with Thorne, T-H-O-R-N-E.
+761.9 Because Thorne we believe
+has the highest levels
+764.38 of stringency in terms of
+the quality of the compounds
+767.68 in their supplements and the
+amounts of those compounds.
+770.35 If you want to see the supplements I take,
+772.07 you can go to www.thorne.com/u/huberman.
+776.44 You can see the supplements that I take,
+778.18 that will also allow you to get 20% off
+780.09 any of those supplements,
+781.24 or 20% off any of the other
+supplements that Thorne makes.
+785.3 Thorne has partnered with the Mayo Clinic
+787.62 and all the major sports teams.
+788.996 So there's a very strong
+basis for their stringency.
+793.08 Again, you don't need to use supplements.
+795.26 I'm certainly not encouraging
+anyone to use supplements
+797.8 if that's not your thing,
+799.22 but if you're going to use supplements,
+800.56 make sure that your supplement source
+801.97 is one a very high quality.
+804.17 With that said, I want to get started
+805.9 and talk about the
+various tools for fat loss
+808.87 and how neuroscience,
+neurons control fat loss.
+813.59 Before I do that,
+814.54 I want to set the context correctly
+817.27 and extract some of the key takeaways
+819.66 from previous episodes,
+821.34 because if your foundation of health
+824.15 and your foundation of hormones
+825.8 and your foundation of
+metabolism isn't right,
+828.52 it's going to be very hard to get the most
+830.83 out of any kind of exercise
+or fat loss protocol.
+834.96 In previous episodes, I
+talked all about the science
+837.64 and the details going
+into particular protocols.
+840.31 We don't have time to do that now,
+842.6 and I want to get to the new material.
+844.27 However, there are a couple bins,
+846.01 a couple items that you should make sure
+848.12 you're getting correctly.
+849.56 And if you're not perfect about
+these, don't worry about it,
+851.89 most people are not perfect about them,
+853.49 I'm certainly not perfect about them.
+855.4 But we should all be
+striving to get quality
+858.79 and sufficient sleep.
+860.3 I did four full episodes on sleep
+862.24 and how to get better at sleeping
+863.98 through things like light
+exposure, temperature,
+866.87 timing your sleep correctly
+for your so-called chronotype,
+869.75 if you're a night owl or a morning person.
+872.22 That's the first four
+or I think five episodes
+875.16 of the Huberman Lab Podcast.
+876.79 Get your sleep right,
+877.9 get your light exposure right,
+879.7 avoid bright light in your eyes
+881.49 at times you wanted to be asleep,
+883.49 and get bright light in your eyes
+885.31 at times you want to be awake.
+886.97 So get your sleep right.
+888.6 The other thing is essential fatty acids.
+890.96 I talked about this in
+the food and mood episode,
+894.7 but I also talked about it
+during the hormones episodes.
+898.68 We need fatty acids.
+900.16 They are vital to so many
+aspects of our health.
+902.95 You don't have to get
+them from supplements.
+904.71 You can, if you want to,
+905.61 but you need to get them from your food.
+907.41 They are essential.
+908.66 There's a reason there's an
+E the essential part there.
+911.97 Of the fatty acids,
+912.803 there are multiple kinds,
+914.5 but for the antidepressant effects
+917.17 where the levels of fatty acids
+that will promote good mood
+921.26 and also healthy metabolism
+923.13 and we'll start to shift the
+needle in the right direction
+925.58 on bloodborne cardiovascular factors.
+928.93 The key thing is to get the levels of EPA
+931.31 that you ingest above
+1000 milligrams per day.
+935.65 So that doesn't mean just
+taking a thousand milligrams
+937.97 or more of say fish oil or krill oil
+940.64 or whatever your preferred source is.
+942.57 It means getting above a
+thousand milligrams of EPA
+946.19 which may require that you
+ingest more essential fatty acids
+949.53 than just a thousand milligrams per day.
+952.216 That of course can be
+done through food sources,
+955.7 things like fatty fish,
+957.04 or if you're not into eating fish,
+959.48 you've quality meats that
+are grass raised can do that.
+961.74 There are other sources
+of essential fatty acids,
+964.28 of course also from plant sources.
+965.75 So look, those up online.
+967.06 It's really easy to find.
+968.35 But the research and the literature shows
+970.39 that you want to get above
+a thousand milligrams
+973.19 of EPA per day,
+974.85 because that's when you can
+best support your metabolism
+978.39 and position yourself for good fat loss.
+981.86 As well for people who
+have cravings issues,
+985.07 they crave sweets all the time,
+986.44 I talked about this in
+the gut-brain episode
+989.02 and hormones and food.
+990.3 That you have neurons in
+your gut that are craving,
+992.27 they're seeking essential fatty acids
+994.35 and they're craving and seeking
+amino acids from your food.
+998.4 Now, these are not supplements
+that they crave per se,
+1001.2 they're craving those things
+1002.43 because that's what your body
+needs and your brain needs.
+1005.13 But those same neurons
+will respond to sugars.
+1007.33 And so many people who are craving sugar
+1009.89 can satisfy that sugar
+craving by giving the neurons
+1013.51 so to speak what they actually want,
+1015.73 which are amino acids and
+essential fatty acids.
+1019.28 That includes EPA, but
+also things like glutamine
+1021.7 and amino acid that can
+really reduce sugar cravings
+1024.74 if you take a teaspoon of that,
+1026.14 or even a tablespoon of
+that a few times a day.
+1029.31 You have to ease into that a little bit,
+1030.61 because some people can get
+a little bit of GI distress
+1032.76 from too much glutamine.
+1034.16 But glutamine has also been
+shown to improve symptoms
+1037.5 of leaky gut.
+1038.49 It's a powerful amino acid.
+1040.33 And yes, you can also get it from food.
+1042.24 Things like cottage cheese are
+high in glutamine, et cetera.
+1045.14 And then finally you can't
+really position yourself
+1048.88 to have a strong metabolism
+if your iodine levels
+1052.56 aren't correct,
+1053.393 and your thyroid levels aren't correct.
+1055.41 You can overdo iodine.
+1056.79 So you don't want to do that.
+1058.31 A lot of table salt
+has iodine added to it,
+1061.92 but some people need to add iodine,
+1064.72 by ingesting things like kelp, et cetera..
+1066.67 But one of the best ways to
+support the thyroid system
+1068.827 and metabolism in general,
+1070.34 is to make sure you're
+getting enough selenium.
+1072.24 Sometimes called selenium each day.
+1074.84 Simple way to do that is to ingest
+1076.92 the highest concentration of selenium food
+1079.73 that I'm aware of, which is Brazil nuts,
+1081.63 one or two or three of those per day.
+1083.58 You'll have more than enough selenium
+1086.03 to meet the thyroid needs.
+1088.46 You don't want your
+selenium to be too high,
+1089.94 you don't want a diet
+too high in anything.
+1091.96 So again, sleep, sufficient EPAs,
+1094.61 glutamine if you have
+issues with leaky gut
+1097.36 or sugar cravings can really help.
+1100.05 Get your gut microbiome, right?
+1101.98 I may have missed saying that,
+1103.16 but get your gut microbiome right.
+1105.13 That does not necessarily mean
+1106.52 you need to ingest probiotics.
+1108.53 You can, if you want to,
+1110.08 but you can also just
+simply ingest a serving
+1112.85 or two of fermented foods per day,
+1114.85 that can greatly assess.
+1116.1 So things like sauerkraut, kimchi,
+1117.65 every culture has a different source
+1120.55 or sources of fermented foods,
+1122.45 those can really help the gut microbiome,
+1125.43 and then make sure that
+your thyroid hormone
+1127.59 is supported through the ingestion
+1129.87 of sufficient iodine not too much
+1132.0 and sufficient selenium, not too much.
+1134.42 Okay?
+1135.253 Sleep, EPA, glutamine, fermented foods,
+1138.03 iodine and selenium.
+1139.08 That sets the basis for how things
+1142.65 like exercise, cold and
+some of the compounds
+1145.4 and other things that we're
+going to talk about today
+1147.83 that are I'm guessing going
+to be truly new to many of you
+1151.58 that can really increase the
+burn factor in the equation
+1156.04 of calories in versus calories burned.
+1159.01 Okay?
+1159.87 So on the one hand we have
+this reality of calories in,
+1162.75 versus calories burned.
+1164.99 However, I would also be
+remiss if I didn't mention
+1168.07 an incredible study that
+was done by my colleague,
+1170.53 Alia Crum at Stanford.
+1172.65 She's a faculty member,
+1174.12 professor in the psychology department.
+1176.77 Looking at how belief affects,
+1178.84 just thinking can impact
+the effects of things
+1183.17 like exercise on weight loss.
+1185.5 These are just incredible results.
+1187.63 What they did was they took subjects
+1190.42 who were hotel service people
+that would clean the hotels
+1194.07 and come in and change
+the linens and so forth.
+1197.39 Divide them into two groups.
+1199.26 One group, they were told moving around
+1203.35 and doing your duties for your job,
+1207.03 meet the standards for US
+guidelines for activity
+1210.31 and movement, et cetera.
+1211.84 And a basic lecture about how movement
+1214.42 is good for you, et cetera.
+1215.93 But mostly just that
+their daily activities
+1218.8 met the standards for the US.
+1222.62 The other group, however, was
+given a bunch of information
+1225.91 about how movement and their daily routine
+1229.647 was very good for cardiovascular health,
+1232.67 it could be good for
+weight loss, et cetera.
+1234.9 And then they tracked these subjects
+1237.53 over a period of many weeks.
+1239.81 The take home message from this study
+1241.32 was that simply being told
+that movement is good for you
+1246.06 can lead to weight loss, et cetera.
+1247.65 Led to significantly more body fat loss,
+1251.78 waist-to-hip ratio
+changes in the direction
+1254.29 that most people would want.
+1255.8 But essentially a slimming
+down, if you will.
+1258.63 And all sorts of other positive effects
+1261.62 on things like cardiovascular health.
+1263.39 Simply by the knowledge
+that movement and exercise
+1267.35 can help various health markers.
+1269.8 So this is remarkable and it speaks
+1271.64 to the power of the nervous system
+1273.117 and the power of belief in
+governing aspects of our body
+1277.107 and our physiology that
+one would otherwise think
+1280.41 we're outside our conscious control.
+1283.21 Now, of course, any of you
+that think scientifically
+1286.63 which I imagine if you watch this podcast
+1288.69 or listen to this podcast
+is all of you by now
+1291.82 probably thinking,
+1292.653 well, maybe they just moved around more,
+1294.15 or maybe they stood up and sat down more,
+1298.36 maybe they did something
+else that was different.
+1300.72 And indeed there's a strong possibility
+1302.72 that they did things differently
+than the other group,
+1305.68 but the mere knowledge that
+exercise is good for you,
+1310.76 that movement is good for you,
+1311.94 shifted their behavior
+and their physiology
+1314.69 in the direction of enhanced weight loss,
+1317.73 fat loss, et cetera.
+1319.05 So how we think about a
+given set of activities
+1322.91 affects how we perform those activities.
+1324.81 And how we think about and
+perform those activities
+1328.25 has a real effect on our physiology.
+1330.48 So somewhere between
+the hard and fast rule
+1332.96 that governs fat loss and weight loss,
+1335.4 which is if you ingest more
+calories than you burn,
+1338.5 you'll either maintain or gain weight.
+1340.04 Typically, you'll gain weight,
+1341.22 although not always.
+1342.7 If you ingest about as
+many calories as you burn,
+1345.957 you'll maintain weight, typically.
+1349.16 And if you ingest fewer
+calories than you burn,
+1351.21 typically you'll lose weight.
+1352.27 That's the kind of rule of fat loss.
+1354.68 And yet we also have these
+belief effects which show,
+1358.01 and this has been
+replicated again and again,
+1360.11 that how we think about a process,
+1362.11 whether or not we think it's beneficial
+1363.63 can change our physiology in ways
+1365.96 that can be beneficial to us.
+1368.07 Somewhere in between those two extremes
+1370.92 of hardcore metabolic science
+1374.12 and belief of why a bunch of protocols
+1379.64 that are grounded in quality
+peer-reviewed science
+1381.97 and in physiology that you can leverage
+1384.76 to increase the rates of fat loss.
+1386.57 And so that's what we're
+going to talk about today.
+1388.92 I love this topic and it's not
+1390.83 that I'm so obsessed with fat loss,
+1393.15 but rather the first the project
+I ever worked on in science
+1396.7 was thermogenesis and fat loss.
+1399.16 I joined a laboratory as an undergraduate,
+1402.18 and the guy I worked for
+loved to explore new compounds
+1405.98 and how they impacted thermogenesis.
+1408.84 And so we looked at how
+things like MDMA/Ecstasy,
+1413.59 how antipsychotics, antidepressants,
+1417.18 various weight loss drugs
+that were on the market.
+1419.73 How those impacted body temperature
+1422.27 and fat loss and metabolism?
+1423.97 And we just had so much fun doing it.
+1425.44 So if you detect a smile on my face,
+1428.54 that's what that's about.
+1430.0 And I also learned a lot,
+1431.17 and I also came to really appreciate
+1433.45 that this tissue of our bodies,
+1436.43 adipose tissue and fat,
+1437.84 we think of as just this unfortunate thing
+1440.27 that's like we're told
+it's a core energy source
+1443.34 if we ever entered a famine
+and that's all true, et cetera.
+1446.227 You come to realize that
+the cells in our body,
+1448.88 they are there as fuel for
+the furnace of our body,
+1454.02 which is our metabolism.
+1455.901 And there's a third player.
+1457.85 And that's where it
+really gets interesting.
+1459.24 That the nervous system,
+neurons has the opportunity
+1462.79 to turn up the intensity of that furnace.
+1465.8 It has the opportunity to
+increase the amount of heat
+1469.062 that we produce and therefore
+the amount of energy
+1472.53 that we burn.
+1473.55 And I was also really intrigued
+by something which is that,
+1476.6 growing up, I think we all know people
+1478.45 who can eat a tone and never
+seem to gain any body fat.
+1482.82 Or people who seem to eat very little
+1484.66 and seem to gain body fat very easily.
+1486.38 And I was always intrigued by that.
+1487.367 And it turns out there are a
+number of different factors
+1490.15 that relate to that.
+1491.52 But the nervous system is the one
+1493.46 that we can really control.
+1495.32 Both through behaviors and what we eat,
+1496.91 but also in terms of this thing
+that we call thermogenesis.
+1500.29 There was one particular
+story I want to relate to,
+1502.42 that does not suggest any protocol.
+1504.84 In fact, I'm going to discourage you
+1506.47 from following this protocol.
+1509.06 Please do not try the compound
+that I'm about to describe.
+1513.33 One of the favorite things
+that we like to do in that lab
+1516.29 was to find rare compounds and test them.
+1520.25 And at the time I was
+reading about thermogenesis
+1523.91 and I learned about a compound
+1525.32 that was actually discovered
+in the armory factories
+1528.2 of World War II.
+1529.91 And it was discovered
+because women in particular
+1533.89 who were working in these factories
+1536.08 would take a brush and
+dip it in a compound
+1539.94 or a paint rather,
+1541.09 and they would then paint
+the numbers with a stencil
+1544.14 onto things like bombs and
+ammunition of various kinds.
+1548.83 And they were losing weight like crazy.
+1552.55 It turns out that occasionally
+they'd lick the brush,
+1554.46 and then they would go back
+just to get a sharper point
+1557.12 on the brush,
+1557.953 and then they would paint
+onto these various bullets
+1562.366 and missiles and so forth.
+1563.49 Bombs and so forth.
+1565.04 And they started shedding
+all their body fat.
+1567.34 And many of them losed, excuse
+me, lost a lot of weight,
+1570.91 a significant portion of their weight
+1572.57 without changing anything
+else that they were doing,
+1574.43 what they were eating, et cetera.
+1575.78 It turned out that that compound
+1577.41 is something called Dinitrophenol, DNP.
+1581.21 And over the years Dinatrophenol,
+DNP has gained popularity
+1587.88 in some niche cultures,
+1589.07 mainly bodybuilders, athletes
+even in the modeling industry.
+1593.19 It is a absolutely terrible
+compound for anyone to use,
+1597.03 because it's highly fatal
+if your body temperature
+1601.11 goes too high.
+1602.14 Hyperthermia will kill you.
+1603.5 And indeed many people have
+died using Dinatrophenol
+1607.21 as a weight loss drug or attempting
+1609.68 to use it as a weight loss drug.
+1611.41 But Dinitophenol really
+illustrates a principle
+1614.84 which is that your
+metabolism includes things
+1618.54 like thyroid hormone and
+growth hormone, et cetera.
+1621.24 But your body temperature
+1623.29 and the way you utilize energy
+1626.8 is controlled by your nervous system.
+1629.85 And the way Dinatrophenol works
+is by changing the neurons
+1634.55 and the way that the
+neurons that connect to fat
+1638.49 change the way fat burns up.
+1641.19 So we are not going to suggest,
+1643.41 I am not suggesting that
+you use Dinatrophenol.
+1647.788 However, there are other things
+1649.58 that you can do that can
+change the relationship
+1652.81 between these neurons
+and the fat of your body
+1656.08 in ways that can powerfully
+accelerate fat loss.
+1660.607 And I don't know why we don't
+hear about these things more,
+1662.9 but probably because most of what you see
+1665.24 out there on the internet focuses
+1666.75 more on what you could eat and should eat
+1668.88 or shouldn't eat.
+1670.08 It concentrates on exercise regimens
+1672.44 which we will also talk about.
+1674.35 But the burn factor,
+1677.23 your thermogenic
+environment is one of the,
+1681.53 if not the most important factors
+1683.89 in this business of fat loss.
+1686.02 And since I'm a neuroscientist
+1687.45 that's what we're going to talk about.
+1689.15 So let's talk about fat utilization.
+1691.27 Let's talk about how fat
+is converted into energy
+1695.06 which is sometimes also
+called fat burning.
+1698.955 What I'd like you to know
+1700.83 is that this is a two-part process.
+1703.32 Okay?
+1704.153 In reality, there are
+many biochemical steps.
+1707.25 And if you log onto the internet,
+1709.77 or you open up a textbook
+and you want to learn about
+1713.7 fat utilization,
+1714.84 you're going to see a lot of chemistry.
+1717.37 And I'm happy to go deep into
+that chemistry if you like.
+1720.01 But I think most of you
+are probably interested
+1722.27 in what are the leverage points?
+1724.52 Where can you exert control
+over this process in ways
+1727.54 that benefit you?
+1728.38 So I'm going to focus mainly on those.
+1730.58 Okay?
+1731.413 This is not to upset the aficionados
+1734.35 and I will put in some
+nomenclature, but here we go.
+1738.78 There's two parts to this process.
+1740.53 One, is fat mobilization.
+1743.68 And the second is fat
+oxidation or utilization.
+1748.42 Okay?
+1749.253 So the first thing that
+has to happen for body fat
+1752.64 to get burned up or used and reduced
+1756.41 is that it has to get mobilized.
+1759.0 And that's a process called lipolysis,
+1761.4 but I actually don't care if
+you know the name lipolysis,
+1764.35 you just have to move that
+fat out of the position
+1769.53 that it's in.
+1770.37 You have to get it out of the fat cells.
+1772.39 All right?
+1773.223 Fat cells can be visceral
+around our visceral organs
+1776.16 or they can be subcutaneous
+under our skin.
+1777.93 Most people are thinking
+about subcutaneous fat
+1781.18 when they think about fat.
+1782.95 So here's the deal.
+1785.35 And if you want more detail,
+1787.87 great, I'll touch on that in a bit.
+1790.63 But basically stored fat has two parts
+1794.31 that are relevant here.
+1795.65 It's got the fatty acid part,
+1797.28 and that's the part
+that your body can use.
+1799.54 And that's attached to
+something called glycerol
+1801.7 and they're linked by a backbone.
+1803.55 So already, probably too much
+chemistry for both of you.
+1805.49 But what you want is you
+want to break the backbone.
+1807.82 So if you just can
+remember to mobilize fat,
+1809.727 you got to break the backbone
+1811.23 between glycerol and these fatty acids.
+1813.27 Okay?
+1814.103 That's accomplished by
+an enzyme called lipase,
+1816.322 but you can forget all that if you want.
+1817.96 Remember, we're just
+trying to mobilize fat.
+1820.23 So the first step is to
+get those fatty acids
+1823.21 moving around in the bloodstream
+1825.21 to get them out of those fat cells.
+1827.64 And then they can travel
+and be used for energy.
+1832.68 And that second part,
+1833.98 remember first part is mobilization.
+1835.74 The second part is oxidation.
+1837.77 Is then those fatty acids,
+1839.16 those are potential fuel.
+1840.93 They're just potential fuel,
+1842.09 but you haven't burned the fat yet,
+1843.59 you've just moved it
+out of your fat cells.
+1846.04 They're going to go into cells
+that can use them for energy.
+1850.82 And once they are inside those cells,
+1853.26 they're still not burned up.
+1855.23 You need to oxidize them.
+1856.55 Think oxidation is the burnup part.
+1859.82 They need to be moved
+into the mitochondria
+1864.16 and then they can be converted
+into ATP into energy.
+1867.47 So just to really zoom
+out again to make sure
+1869.18 I don't lose anybody.
+1870.02 You got to mobilize the fat,
+1871.28 then you have to oxidize the fat.
+1873.36 In other words, you have to mobilize it,
+1874.67 then you actually have to
+convert it into energy.
+1877.15 If you just mobilize it,
+1879.65 and you don't convert it into energy,
+1881.36 you don't oxidize it,
+1882.59 it can be returned to body fat.
+1885.02 And many of the things that
+the nervous system can do,
+1888.53 is to increase the mobilization of fat,
+1892.4 but also the oxidation of fat.
+1895.22 Okay?
+1896.053 So you have two opportunities
+to burn more fat,
+1899.07 and both of those
+opportunities are governed
+1901.52 by your nervous system.
+1903.0 By neurons that literally
+send little wires
+1906.051 that we call axons into
+fat and release chemicals
+1910.32 that provide a stimulus
+for more of that fat
+1914.14 to be mobilized,
+1915.62 and then later for more of
+that fat to be burned up.
+1919.3 Okay?
+1920.133 So we could go really deep on this,
+1922.42 but I'm not going to go
+much deeper than that,
+1924.17 because this isn't a biochemistry
+1926.4 of fatty acid metabolism lecture.
+1928.69 This is about how to burn fat
+using your nervous system.
+1931.5 But remember, there's a mobilization step,
+1933.74 and then there's an oxidation step.
+1935.61 I think anyone of you,
+1937.41 all of you should be
+able to internalize that.
+1939.23 Mobilize then oxidize.
+1941.72 Okay?
+1942.553 Mobilize then oxidize.
+1944.25 So what are these neurons
+that connect a fat doing?
+1947.14 What are they releasing exactly?
+1949.08 How do they actually
+increase fat mobilization?
+1951.45 And how do they increase fat oxidation?
+1953.95 Burning of fat.
+1955.92 Well, there are a couple
+of things that they release
+1959.05 that encourage that process.
+1960.71 And the main one that you need
+to know about is epinephrine
+1964.48 or adrenaline.
+1966.13 The conversion of these
+fatty acids into ATP
+1969.47 in the mitochondria of cells
+is favored by adrenaline.
+1973.82 Okay?
+1974.7 And adrenaline is
+released from two sources.
+1978.34 Adrenaline is released
+from the adrenal glands,
+1980.45 which set a top our
+kidneys and our lower back.
+1983.41 And it's also released
+1985.56 from the so-called
+sympathetic nervous system.
+1987.62 Although that name is a bit of a misnomer,
+1989.82 because it has nothing
+to do with sympathy,
+1991.94 has to do with stimulating alertness
+1994.36 and promoting action of the body.
+1997.8 There's a big mistake in the literature
+2002.33 that is finally being
+corrected among those who know.
+2005.899 The mistake in the literature
+is that the adrenal glands
+2009.41 and the release of adrenaline
+is what stimulates fat loss
+2013.38 and fat oxidation.
+2015.36 In fact, it was thought for a long time
+2017.95 that adrenaline swimming
+around in your body
+2020.13 of when you're fasted,
+2021.44 because fasting can increase adrenaline
+2023.51 or when you're engaging
+in intense exercise
+2026.33 or when you're stressed is
+going to promote fat oxidation.
+2030.26 That's actually not the case.
+2033.09 The adrenaline that
+stimulates fat oxidation,
+2036.4 the burning of fat is coming from neurons
+2039.54 that actually connect to the fat,
+2042.67 not hormones like adrenaline
+that are swimming around
+2045.82 in your system.
+2046.653 It's a local process.
+2048.43 And this is very important
+because it means that,
+2052.42 what you do, the specific
+patterns of movements
+2056.41 and the specific environment you create
+2059.353 that can stimulate these
+particular neurons to activate fat,
+2066.12 meaning to release fat,
+2068.56 to mobilize it and then to burn it,
+2070.36 is going to be a powerful
+lever that you can use
+2073.21 in order to increase fat loss.
+2075.19 So what have we said so far?
+2076.33 We've said that you've got to
+mobilize and you got to burn fat
+2078.56 and that your nervous system
+is in control of that process.
+2082.87 It's not just about calorie deficit.
+2086.71 Okay, so let's talk about how to activate
+2089.05 the nervous system in
+ways that it promotes
+2091.09 more liberation, movement,
+mobilization of fat
+2094.16 and more oxidation of fat.
+2096.66 So one of the most powerful
+ways to stimulate epinephrin
+2100.07 which is also called
+adrenaline from these neurons
+2102.75 that connect to fat and
+to thereby stimulate
+2106.24 more fat mobilization and
+oxidation is through movement.
+2110.98 But I'm not talking about exercise.
+2113.65 The type of movement
+that I'm referring to,
+2115.5 is extremely subtle.
+2117.84 And some of you may be familiar
+with this type of movement,
+2121.85 but I'm guessing you're
+probably not familiar
+2124.9 with what I'm about to tell you,
+2126.59 which is that shiver or
+shivering is a strong stimulus
+2132.86 for the release of adrenaline
+epinephrin into fat
+2136.66 and the increase in fat
+oxidation and mobilization.
+2141.09 But shiver is not just induced by cold,
+2144.83 and there are other
+subtle forms of movement
+2147.74 that can greatly increase
+fat metabolism and fat loss.
+2152.83 There was a group in England
+during the 1960s and 70s
+2156.53 that discovered a pathway by
+which subtle forms of movement
+2162.66 can greatly increase fat loss.
+2166.05 This is the work of Rothwell and Stock.
+2169.23 It's very famous in the
+thermogenesis literature.
+2172.2 And I learned about this early on,
+2173.66 when I was an undergraduate and I asked,
+2176.3 how did they come across this?
+2177.49 And here's how the story goes.
+2180.097 They were aware that some people overeat
+2184.69 and yet don't put on weight.
+2186.71 Other people overeat
+even just a little bit
+2189.24 and they seem to accumulate
+extra adipose tissue.
+2192.9 Now, this is long before
+all the discussions
+2194.95 about microbiome and
+hormone factors, you know
+2197.627 it was long before many
+of the hormone factors
+2200.28 besides insulin had even been discovered.
+2202.781 What they did was they
+examined people who overate
+2206.36 and did not gain weight.
+2208.71 And what they observed was
+that those people engaged
+2212.613 in lots of subtle movement
+throughout the day.
+2215.63 In other words, they were fidgeters.
+2218.08 And that's what they call them.
+2219.36 I'm not going to do the British
+accent version of fidgeters.
+2223.43 But Roth and Stock were British.
+2226.71 What they found were people that overeat
+2228.59 but don't gain weight as a consequence.
+2232.26 And in fact, many people who
+had low levels of body fat
+2236.6 had a lot of resting tremor,
+2240.04 not of the Parkinsonian type,
+2241.53 but they would bounce their
+knee while they were sitting,
+2244.07 when they would talk,
+2245.32 they would engage in
+very angular movements,
+2247.73 they were sort of electric.
+2248.94 In fact, now in science,
+2250.28 I was chuckling about
+this as I was diving back
+2252.44 into this literature,
+2253.273 because the other day I
+heard a wonderful lecture
+2255.42 on a totally different topic
+from a colleague of mine
+2257.76 and we all adore him.
+2259.16 He's over in Europe
+2260.01 and he's this tremendously
+successful scientist.
+2262.31 So we like to poke fun at him.
+2264.55 And every one of his movements
+is incredibly electric
+2267.3 and staccato.
+2268.37 And he's rail thin and
+he eats like a horse.
+2271.11 And so it fits very
+well into the discovery
+2272.92 of Rothwell and Stock who discovered
+2276.01 that fidgeters people
+that bounce their knee,
+2279.3 people that have a head bob
+while they're listening,
+2282.76 people that nod a lot,
+2284.04 people that stand up and sit
+down a lot throughout the day,
+2286.85 and people that pace
+burn anywhere from 800
+2290.995 to 2,500 calories more
+than the control group
+2296.86 in the experiments that they looked at.
+2298.43 And indeed, there's been a
+modern look into all this,
+2302.13 and these numbers check out
+2303.93 that simply moving around a lot,
+2306.49 even if those are subtle movements,
+2308.84 greatly increases the amount
+of energy that you burn.
+2311.75 And people who overeat,
+2312.91 the people who can have the
+second or the third doughnut
+2315.51 or doughnuts at all and
+don't seem to put on weight
+2317.7 to the same degree,
+2319.15 they are people that move
+around a lot even when seated.
+2323.24 They're are people that
+will often move their limbs
+2326.96 very quickly as well.
+2328.69 There even have been studies
+that have explored other things
+2332.32 that correlate with fidgeters.
+2333.594 Fidgeters stand up very
+quickly at the end of a lecture
+2335.95 or they start to gather
+their things very quickly,
+2337.9 whereas non fidgeters don't.
+2339.92 So dogs like my bulldog Costello,
+definitely not a fidgeter.
+2344.26 Every movement is incredibly
+slow and deliberate.
+2347.36 Sitting down as a process,
+2348.9 if you ask him to sit down
+and sort of a slow motion.
+2351.99 You ask him to get up
+2352.93 and he kind of looks at
+you sighs and stands up.
+2355.3 The fidgeter is the
+opposite of that, right?
+2357.28 You say, how are you doing?
+2358.24 They go, great.
+2359.35 So even sometimes their
+speech will be accelerated
+2362.08 although not always.
+2363.1 But staccato movements,
+fidgeting, et cetera.
+2366.05 And in 2015, and again in 2017,
+2369.563 there've been studies
+that have explored this,
+2372.44 using some modern metabolic tracking
+2374.85 and indeed simply moving a lot,
+2378.21 being a fidgeter, bouncing your knee,
+2380.4 standing up and pacing several times
+2383.01 or many times throughout the day
+2385.43 led to considerable amounts
+of fat loss and weight loss
+2389.85 when people were ingesting
+the same amount of food,
+2392.86 if they overate, they
+were able to compensate
+2394.92 and burn off that food.
+2396.68 And if they were trying to lose weight
+2400.67 and they incorporated
+this fidgeting protocol
+2403.7 of deliberately trying to fidget more
+2405.37 and move around during the day,
+2407.05 pace, stand up more quickly,
+2408.53 sit down more often,
+2409.68 sit down and stand up more often rather.
+2411.71 They found that they greatly
+increased their weight loss
+2414.3 anywhere from 20 to 30% increases.
+2417.63 And in some cases, you know,
+there always those few people
+2420.06 who burned a lot more.
+2421.52 It seems to work best in people
+2424.23 who are already slightly overweight.
+2427.03 So for people that are overweight,
+2428.85 who are kind of averse to exercise,
+2431.53 fidgeting might actually
+be a good entry point.
+2434.49 And 800 to 2,500 calories
+is a considerable amount
+2438.08 of calories when you
+really think about it.
+2440.18 Now, why am I telling you this?
+2441.41 Well, there's clearly a
+tool to export from this,
+2444.36 which is that you can increase
+the amount of calories burned
+2447.59 without having to go on
+additional long runs.
+2450.63 I do hope that people
+are exercising regularly
+2452.59 because it's so important
+for other aspects of brain
+2454.94 and body health.
+2456.12 But nonetheless, we are all time limited
+2460.73 and we are not all so
+ready to embrace exercise.
+2464.96 I have a family member
+who has been slowly coaxed
+2468.81 into exercise,
+2469.7 but if I were to tell her, for instance,
+2471.24 you need to fidget more,
+she'd probably go for it.
+2473.44 So this is a powerful way
+to increase the calories
+2478.54 that are burned.
+2479.65 Now, that's great.
+2482.38 And you can think about the protocols.
+2483.68 But I want to nest that protocol
+2486.96 in what I said before,
+2488.92 which is that, fat is
+controlled by these neurons
+2493.45 and the epinephrin they release.
+2495.31 You might say, well, how could
+these little micro movements
+2498.34 lead to so much caloric burn?
+2500.99 And that's where it
+really gets interesting.
+2502.94 Rothwell and Stock and
+others that they worked with,
+2505.41 subsequently found that these
+little fidgety movements,
+2509.23 the engagement of certain
+aspects of our musculature
+2512.08 that are nothing like exercise.
+2513.88 It's not these large coordinated
+or rhythmic body movements,
+2517.34 but rather subtle little
+bits of fidgety movement.
+2521.47 And here I am doing a lot of
+fidgety movement as an example,
+2525.53 tapping the pen, this kind of thing.
+2527.25 I was probably that kid
+in class most of the time.
+2529.345 And I was like, I try not
+to do it to irritate people,
+2530.977 but I was definitely a knee bouncer.
+2533.56 I'm not particularly lean or not.
+2535.71 But I was definitely...
+2538.35 This is a common activity for me.
+2540.3 People that do that sort of thing,
+2541.88 it turns out that it's not
+the kind of caloric burn
+2545.32 that we normally think of,
+2546.37 of like, oh, you'll
+running, lifting weights,
+2548.3 swimming, yoga, et cetera.
+2550.61 Those subtle movements
+of our core musculature,
+2554.29 not just the core, but all our limbs
+2556.11 and our musculature,
+2557.52 those low level movements,
+2559.92 they trigger epinephrin
+release from these neurons,
+2563.75 and they stimulate the
+mobilization of fat.
+2566.77 And then that fat is
+oxidized at higher rates.
+2569.96 And I find this fascinating.
+2571.5 I wish more people knew about it,
+2572.87 which is why I'm telling
+you about it today.
+2574.82 This has nothing to do with exercise
+2576.86 in the traditional form,
+2578.26 and yet 800 to 2,500 calories per day.
+2581.27 That's a considerable
+amount of fat oxidized.
+2584.82 If you are in a calorie maintenance mode
+2587.85 or if you're sub caloric,
+2589.28 that's going to add to it
+still additional fat loss.
+2593.07 The data on this are tremendous.
+2594.28 I'll link to a few studies.
+2595.46 If you're really interested in learning
+2596.96 about what's called neat.
+2598.53 N-E-A-T which is non-exercise
+activity thermogenesis.
+2603.97 NEAT.
+2605.0 So what's the protocol?
+2606.49 Fidget.
+2607.97 If you're really interested
+in burning calories
+2610.1 and you already exercise,
+2612.05 you want to burn more
+2612.89 or you don't have the
+opportunity to exercise
+2615.38 or you're averse to exercise
+for whatever reason,
+2618.62 fidgeting, movements, staccato movement,
+2621.15 standing up, walking around, pacing,
+2623.8 all the sort of nervous activities
+2625.54 that were so critical of other people
+2627.047 and sometimes in ourselves
+2628.87 are actually mobilizing and oxidizing
+2632.17 a lot of fat and a lot of energy.
+2635.03 And while this probably won't compensate
+2637.61 for chronic overeating,
+2640.18 the caloric burn from
+this is considerable,
+2643.04 and very likely can offset a meal
+2647.36 that had excessive calories
+2648.95 or a kind of steady
+state of eating too much.
+2652.93 And it also starts to open
+up all sorts of thoughts
+2655.3 and discussion about when you travel,
+2657.76 you tend to eat foods
+that are kind of outside
+2660.2 your normal ones.
+2661.033 We tend to eat foods that
+aren't so great for us,
+2663.55 we also tend to be a
+little bit more sedentary
+2665.32 when we travel we're on
+the plane, et cetera.
+2667.73 But all of that aside,
+2671.18 just the use of something
+like low-level movement.
+2674.81 And it's almost like a tremor,
+2676.83 but also these select short,
+small fidgety movements.
+2679.57 I'm intentionally doing
+a lot of these today.
+2680.95 So you have examples that you can use
+2684.25 to select from if you like.
+2686.42 These can have a major effect on fat loss
+2690.87 and it raises a second tool.
+2694.17 If these low, meaning
+these small movements
+2697.7 that we engage in trigger
+epinephrin adrenaline release
+2700.77 from these neurons of the
+sympathetic nervous system
+2702.593 that innervate fat and increase
+2705.21 fat mobilization and oxidation.
+2708.21 Now, it should make sense why shivering
+2712.36 is one of the strongest stimuli
+2715.33 that one can incorporate
+to stimulate fat loss.
+2719.93 Now, shivering is almost
+always associated with cold.
+2723.08 We think shivering, we think cold,
+2724.35 because when we get cold, we shiver.
+2726.88 And there are two ways that
+shivering can increase fat loss.
+2730.96 And there are several ways
+that you can use shivering,
+2734.21 you can leverage shivering
+2735.75 and you can leverage cold
+to accelerate fat loss.
+2738.62 But you have to do it correctly.
+2740.76 And most of the people that are using cold
+2744.26 and frankly suggesting cold
+2746.21 as a means to increase metabolism fat loss
+2749.46 are suggesting the exact wrong protocol.
+2752.37 In fact, the one I'm going
+to recommend is 180 degrees
+2755.32 in the opposite direction
+to the typical protocol
+2757.93 that you'd hear about.
+2758.763 So let's talk about how to use cold
+2760.74 and how to leverage shiver as
+a particularly strong stimulus
+2765.33 to increase fat loss through
+mobilization and oxidation
+2769.39 of these fatty acids.
+2771.02 So in recent years there's
+been a growing interest
+2773.32 in the use of cold for
+various things like,
+2776.52 improving stress tolerance,
+2778.06 improving metabolism,
+recovery from exercise.
+2780.88 I've talked about a number of those things
+2782.48 and the uses of cold on this podcast.
+2784.88 In fact, did an episode on
+how to supercharge performance
+2790.32 through palmer cooling, cooling the palms
+2793.63 in specific ways or the
+bottoms of the feet.
+2796.22 And if you're interested in that,
+2797.88 and how to improve performance
+in endurance and strength,
+2800.58 you can check out that episode.
+2802.33 But most people out there
+are using cold exposure
+2806.72 typically by taking cold showers
+2809.97 or by getting into cold
+water of some other kind,
+2813.13 a lake or a river or a
+cold bath or an ice bath.
+2816.65 And they are doing that
+probably with mixed goals,
+2820.61 meaning they both would like
+to increase their metabolism
+2824.12 and burn fat, as well as
+improve mental resilience.
+2828.89 Since today, we're talking
+about accelerating fat loss
+2831.74 through the use of science-based tools.
+2834.16 I want to emphasize a study
+that was published in nature
+2836.93 just a couple of years ago,
+2839.18 showing exactly how cold
+increases metabolism and fat loss.
+2845.55 Okay?
+2846.383 So we have several kinds of fat.
+2848.69 Three kinds in fact.
+2850.58 We have white fat, white adipose tissue,
+2853.6 and we have brown fat
+or brown adipose tissue.
+2858.071 And there's a third kind
+which is beige adipose tissue.
+2862.91 White fat is the type
+that we traditionally
+2865.02 think of as fat, subcutaneous fat.
+2868.67 And it is not particularly
+rich in mitochondria.
+2871.42 It is there as an energy storage site
+2874.89 and we have to mobilize the fat out
+2876.88 as we talked about before
+and burn it up elsewhere.
+2879.76 Brown fat largely exists
+between our shoulder blades
+2884.14 and on the back of our
+neck, between the scapulae.
+2887.84 And it's rich with mitochondria
+2889.48 which is why it's called brown fat.
+2891.92 And brown fat has a
+particular biochemical cascade
+2896.61 whereby it can take food energy,
+2900.44 it can take food, basically,
+2902.3 break it down and convert it
+into energy within those cells.
+2906.4 And there's some
+additional steps involved,
+2908.05 but unlike fatty acids from white fat
+2910.86 which have to travel elsewhere
+2912.19 get broken down in mitochondria
+2914.34 and convert into ATP, et cetera.
+2917.35 Used by the mitochondria rather.
+2919.82 Brown fat is thermogenic.
+2922.26 It can actually use energy directly.
+2924.56 It skips a step, and I
+don't want to get diverted
+2926.89 by going into all the biochemistry of it.
+2929.82 Beige fat is sort of in between.
+2932.21 It's white fat that could be brown fat,
+2935.97 because it has some mitochondria in it,
+2938.23 but not as many as brown fat.
+2940.31 Now, cold exposure does several things.
+2943.14 Making ourselves cold
+can allow us to build up
+2947.41 mental resilience because
+getting into cold of any kind,
+2951.23 doesn't matter if it's a cryochamber,
+2953.01 doesn't matter if it's a cold day
+2954.42 and you forgot your sweater or your parka.
+2956.7 It doesn't matter if it's an ice bath
+2959.34 or you're lying down in the snow.
+2962.19 Cold causes the release of
+adrenaline from your adrenals.
+2966.24 And it causes the release of epinephrin
+2968.95 from these neurons that connect to fat.
+2971.41 Now, the big effects of cold on metabolism
+2977.2 and fat burning are going
+to be through two routes.
+2980.51 One, is that if you
+expose yourself to cold,
+2984.24 you have the opportunity to
+trigger activation of brown fat
+2989.07 as well as to convert more
+beige fat into true brown fat.
+2992.99 So you essentially create a
+stronger or a hotter furnace.
+2997.66 That's the way to think about brown fat.
+2999.21 It's like a furnace.
+3000.15 And so with this principle
+3001.85 that we started with a calories
+in versus calories burned.
+3005.2 What you're doing is you're
+increasing the amount
+3007.56 of burning,
+3008.393 you're increasing the burn of energy
+3011.94 by increasing the intensity
+of the heat inside you
+3015.57 so to speak.
+3016.403 Okay?
+3017.236 I'm talking here kind of metaphorically.
+3020.08 Now, how can you do that?
+3021.91 Well, if you get into cold water
+3025.37 or an ice bath or a cold day,
+3027.82 and you try and remain
+calm and resist shivering,
+3032.67 you actually short circuit
+3035.33 this mechanism for increasing
+brown fat thermogenesis.
+3039.02 The paper published in nature shows
+3041.08 that it is shivering itself
+3044.32 that causes the brown fat
+to increase your burning,
+3049.07 your burn rate and your metabolism.
+3051.05 And it works like this,
+3052.3 when you get into cold and you shiver,
+3055.3 the shivering that low level
+movement of the muscle,
+3058.6 those small movements triggers
+the release of a molecule
+3061.58 called succinate.
+3063.08 S-U-C-C-I-N-A-T-E, succinate.
+3066.63 And succinate acts on the brown fat
+3069.88 to increase brown fat thermogenesis
+and fat burning overall.
+3073.75 It actually increases body heat
+3075.6 through this brown fat
+thermogenesis pathway.
+3078.81 And it also over time can
+increase the amount of brown fat
+3083.25 by converting beige fat
+into true brown fat.
+3087.52 Now, how much cold exposure and how often?
+3090.53 That's the key.
+3092.63 But before I give that
+detail or set of details.
+3097.1 Remember if you resist the shiver,
+3099.84 you are not going to get the
+increased metabolic effect,
+3102.93 because you are not going to
+get the succinate release.
+3106.29 So if you want to get your body heat,
+3110.05 your thermogenic level to go up,
+3112.54 you need to shiver.
+3114.0 So now we have the NEAT,
+3115.36 the non-exercise activity thermogenesis.
+3117.51 So low levels of activity
+as I described before,
+3119.9 which are done away from cold,
+3121.75 maybe do them in cold as well.
+3123.06 As well as shiver in response to cold.
+3125.64 And so the shiver itself is valuable
+3128.31 for triggering the release of succinate.
+3129.61 In fact, succinate is being evolved now
+3132.18 by various drug manufacturers
+3133.599 as a potential treatment for obesity.
+3135.76 Although it hasn't really hit the market
+3137.5 in its final form yet.
+3139.79 Succinate is powerful for
+its effects on brown fat.
+3144.09 So how many times a week do you need
+3146.46 to expose yourself to cold?
+3147.69 Will depend on how much
+fat you're trying to lose,
+3150.62 and how much you're trying
+to increase your metabolism.
+3153.94 There are studies that describe
+positive effects on fat loss
+3157.83 of exposing yourself to cold,
+3159.39 either through cold
+shower or through ice bath
+3162.44 or other cold water.
+3163.54 It doesn't have to
+actually have ice in it,
+3164.9 provided it's cold enough
+for anytime, anywhere,
+3168.96 excuse me, between one
+and five times per week.
+3172.19 But it turns out that
+just one exposure per week
+3174.43 can be valuable.
+3175.88 The question then is how long to get
+3178.87 into that cold environment?
+3180.57 And how cold should that environment be?
+3184.08 So first let's talk about how long
+3185.93 to get into that cold environment?
+3188.49 The answer here might be
+a little bit different
+3190.31 than you might imagine.
+3192.33 Most of you might think,
+3193.28 oh, well if one minute is
+good, three minutes is better,
+3196.04 and if three minutes is better
+than 10 minutes is best.
+3199.68 But remember the goal is
+to get the shiver induced
+3204.02 release of succinate,
+3205.08 so that succinate can
+trigger the brown fat.
+3210.1 It turns out that if you
+want to trigger the shiver,
+3213.47 what you want to do is
+to get into the cold
+3216.47 and then get out of the cold
+and typically not dry off,
+3221.14 and then get back into the
+cold and out of the cold,
+3223.68 that will definitely
+stimulate more shivering
+3226.15 than just getting into the cold itself.
+3228.41 So what I'm not referring to,
+3229.67 is getting into the cold
+environment like an ice bath
+3231.94 and waiting until you shiver
+and staying there shivering.
+3235.35 Okay?
+3236.183 You also don't want to get hypothermic.
+3237.63 And I want to be clear.
+3239.355 You want to get approval from your doctor
+3241.08 before you do any of this.
+3243.76 When you get into cold water,
+3246.06 there are two factors that will dictate
+3247.78 whether or not you shiver.
+3249.22 Probably three,
+3250.07 but let's just talk about the main two.
+3251.47 One, is how cold it is.
+3252.64 So how cold should it be?
+3253.68 And look, if you get into
+water, that's very, very cold.
+3256.61 It can actually shock your heart.
+3258.06 It can actually give you a heart attack
+3259.48 if it's truly, truly ice cold,
+3262.15 and you're not adapted to that.
+3263.79 So proceed with caution, please.
+3265.93 I'm not a physician and I don't
+want to see anyone get hurt.
+3271.841 Just cold enough to be uncomfortable
+3273.88 is a good place to start.
+3275.69 So for some of you that's
+going to be 60 degrees,
+3278.24 for some of you that's
+going to be 55 degrees,
+3280.24 for some of you it's going
+to be high thirties, right?
+3284.16 Depends on how cold adapted you are,
+3285.78 and people vary in terms of how
+well they tolerate the cold.
+3289.35 So what you need to do
+is find a temperature
+3291.15 that you can get into one to five,
+3294.13 probably one to three times a week.
+3295.73 If you really want this
+to accelerate fat loss.
+3298.2 And you want to get in until
+you just start to shiver,
+3300.44 and then you want to
+get out and not dry off,
+3303.82 wait anywhere from one to three minutes
+3307.26 and then get back into the cold.
+3310.07 Now, you'll notice when
+you get back into the cold,
+3312.61 it'll almost seem soothing,
+3314.57 it might actually not induce shiv...
+3316.7 It might take away the
+shiver that you had.
+3319.49 So here's a potential
+kind of sets reps protocol
+3322.87 that you can play with.
+3323.87 Find a temperature then
+induce a shiver for you.
+3325.84 That's going to vary depending
+on your cold tolerance
+3328.05 and how cold adapted you are.
+3329.56 One to three,
+3330.41 maybe five times a week,
+3332.04 get in until you...
+3333.98 Or get under the shower or whatever it is,
+3335.81 until you start to shiver.
+3337.0 Genuinely shiver.
+3338.97 Then after about a minute or so, get out,
+3342.4 spend one to three minutes
+out, but don't dry off,
+3344.85 get back in for anywhere
+from one to three minutes,
+3348.64 but try and access the shiver point again.
+3351.49 And you might do three
+repetitions of that.
+3353.9 So it's three times in
+and three times out total.
+3356.93 Okay?
+3357.79 That's a great starting place.
+3360.71 And what you don't want to
+do is build up your tolerance
+3365.38 to cold so fast,
+3367.28 that pretty soon you're
+able to resist the shiver,
+3369.42 because remember the shiver
+3370.79 is the source of the succinate release
+3372.41 that will trigger brown fat thermogenesis.
+3374.98 So if you'd like to see
+this protocol spelled out,
+3377.29 you can access it zero cost at a website
+3380.29 which is www.thecoldplunge.com.
+3382.85 The Cold Plunge is a company
+they make cold plunges,
+3386.06 and they were kind enough to gift one
+3387.71 to the Human Lab Podcast.
+3389.72 But I want to emphasize that
+these protocols are free of cost.
+3392.75 The folks at the Cold Plunge
+are not just interested
+3395.36 in marketing their product,
+3397.43 but one of their main
+interests is encouraging people
+3399.79 to engage in cold exposure
+for particular end points
+3403.05 and goals like fat loss,
+resilience, et cetera.
+3406.67 Resisting inflammation.
+3408.84 But their main focus is
+providing people protocols
+3413.59 and encouraging people to use
+cold exposure of various kinds
+3416.35 not just through their products,
+3417.56 but through cold rivers
+and jumps in the ocean
+3420.72 and things like cold showers,
+3422.27 whatever is most convenient
+3424.63 and accessible for various people.
+3426.71 And so we needed a place
+where we could house
+3429.17 these protocols in a permanent way,
+3431.61 and not just for this episode.
+3433.64 But so what they've agreed to do is,
+3435.23 to post the protocols there,
+3436.5 they should be very easy
+to find on their website.
+3438.96 This particular protocol we're referring
+3441.76 to as the fat loss optimization protocol
+3446.74 for lack of a better name.
+3448.24 And it's really grounded in how cold
+3450.33 it can be used to induce shiver.
+3452.4 And again, it doesn't really matter
+3453.64 how you're accessing that cold,
+3455.68 provided you access to the shiver,
+3457.38 and you're moving from
+the cold environment
+3459.51 to a slightly warmer environment.
+3461.51 So getting out of the cold shower
+3463.02 or getting out of the ice bath, et cetera,
+3465.46 or out of the cold plunge,
+3466.68 and then back in.
+3467.92 Because it turns out that the cooling
+3469.78 and rewarming process of the
+body is where shiver kicks in.
+3474.48 And so that's distinctly different
+3477.35 than just trying to get into the cold
+3478.9 and stay in the cold
+for as long as possible.
+3481.42 And if you zoom out a little bit
+3483.32 and think about some examples in life,
+3486.19 you'll understand why
+that must be the case.
+3489.13 For instance, people who do
+a lot of cold water swims,
+3492.78 you have these polar bear clubs,
+3494.14 I think they call themselves.
+3495.23 They do these cold water swims.
+3497.1 I would sometimes see these
+people swimming back and forth
+3499.19 to Alcatraz and stuff like
+that, which it seems risky.
+3502.45 and they tell me it's very stimulating
+3504.85 for the mind and body.
+3505.683 Great.
+3506.516 Sometimes those people are very lean,
+3508.6 oftentimes they're not,
+3510.34 and they're getting a
+lot of cold exposure.
+3513.12 And one of the things that happens is,
+3515.44 if you expose yourself
+to cold over and over,
+3517.62 you adapt,
+3518.453 you become cold adapted.
+3519.43 And when you do that,
+3520.263 you no longer get the epinephrine,
+3522.01 the adrenaline release from the cold
+3524.3 and therefore you don't
+get the succinate release
+3526.84 and the shivering and the
+brown fat thermogenic effect
+3529.8 quite as intensely.
+3531.33 So if you want to use
+cold for other reasons,
+3533.99 and certainly cold water swims can be fun.
+3535.96 And there's, you know, long
+as you can do them safely,
+3539.01 they're great.
+3539.843 I've gotten into cold water swimming
+3540.95 for some period of time.
+3542.61 You can use cold for
+resilience, et cetera.
+3544.5 But if you want to use
+cold to increase fat loss,
+3547.73 then getting this shiver
+process going the cooling
+3551.54 and rewarming which
+accelerates the amount of,
+3553.99 or increases the amount of shiver.
+3555.6 That's going to be the way to go.
+3557.88 One note about cold
+and some of the factors
+3559.96 that it releases.
+3561.38 A few years back there
+was a lot of excitement
+3563.4 about this hormone called
+irisin, I-R-I-S-I-N,
+3567.36 which was associated with cold.
+3569.65 And there was a lot of excitement
+3571.13 about its potential role
+in increasing metabolism
+3574.5 so much so that people
+were starting to explore
+3577.34 this as a potential fat loss drug.
+3579.08 To my knowledge that went nowhere.
+3581.72 The science eventually
+shifted over to succinate
+3585.02 as the main factor in
+cold induced thermogenesis
+3589.05 through this brown fat pathway.
+3590.73 But if anyone out there is aware
+3592.24 of any positive effects of iricin
+3594.0 or of any signs of irisin
+that I'm overlooking here,
+3597.9 or that I'm speaking about
+incorrectly, please let me know.
+3599.89 I'd be very curious to learn.
+3602.29 Now, I want to just talk about
+brown fat a little bit more,
+3606.87 and talk about a period in your life
+3609.194 in which you were rich with brown fat,
+3612.32 you had a ton of brown fat,
+3613.91 and that's when you were a baby.
+3616.34 Babies can't shiver.
+3619.28 These neurons that release
+epinephrin into fat
+3623.93 are not wired up and really aren't present
+3627.83 at sufficient levels or
+in sufficient numbers
+3630.81 when you are a baby.
+3632.32 And therefore you can't shiver as a baby,
+3635.14 and you can't warm yourself
+up in cold environments
+3637.31 very well.
+3638.87 To compensate for that,
+3641.44 mother nature installed in all of us
+3644.18 an excess of brown fat early in life
+3647.28 that exists again in the upper back,
+3649.337 and the middle of the back
+and the back of the neck.
+3653.25 Over time if we don't expose
+ourselves to cold environments
+3657.25 or do other things that make a shiver,
+3660.24 we lose a lot of that brown fat,
+3662.67 but what's interesting about brown fat
+3664.25 is that there's some evidence
+3665.26 that brown fat just like white fat
+3669.08 can both increase in size,
+3671.71 but that you can also add new cells.
+3674.28 Now, there's a little bit controversial.
+3675.67 People always say you can't
+change the number of fat cells,
+3677.95 you can just shrink them
+or increase their size.
+3681.19 Well, it turns out that
+epinephrin released
+3684.66 from these little nerve
+endings in brown fat
+3687.42 and succinate circulating in the body may
+3690.75 and I want to underscore
+may have the effect
+3692.87 of increasing the amount
+of brown fat cells
+3695.39 probably by converting these
+beige fat cells into brown fat.
+3700.36 So that allows us to become
+much as we were early in life,
+3703.29 where we metabolized like crazy
+3705.58 and we'd heat ourselves
+up without shivering.
+3708.66 Some people have taken the
+cold thing to the extreme,
+3711.7 putting ice packs on
+the back of their neck
+3713.69 throughout the day.
+3715.12 Did a episode all about
+testosterone and estrogen,
+3717.82 and there's this, let's
+just call it a very niche,
+3722.15 I have to imagine very,
+very niche culture of people
+3724.81 who are wearing literally, I'm not joking.
+3727.61 They are these cool pack
+ice pack underpants.
+3730.87 They go by a name that I'm
+not going to repeat on here,
+3732.76 but you can find them on Amazon.
+3735.17 Those are people that are
+using cold packs on the body
+3737.698 and on the groin to
+try and increase things
+3739.96 like testosterone.
+3742.395 But as well to try and
+increase thermogenesis
+3744.89 and trying to increase their metabolism.
+3747.43 Just remember if you become cold adapted,
+3750.31 you're not going to get
+the fat burning effects
+3752.19 to the same degree.
+3753.33 So cold is a powerful tool for fat loss,
+3756.13 but you don't want to adapt.
+3757.59 This is reminiscent of a rule
+3760.08 that you hear about in endurance exercise
+3762.13 and in strength exercise as well,
+3764.04 which is, that you want to use
+the minimal effective stimulus
+3767.81 to promote growth or progress.
+3769.85 So growth of a muscle or
+improvements in endurance.
+3772.95 If you go 10% further
+on a run or 10% faster,
+3777.93 you will likely see an
+improvement in performance
+3780.51 provided your recovery the
+next time you come back
+3782.52 and do that same round of exercise.
+3785.61 You'll be able to do more work
+3786.93 or complete the work
+more easily, et cetera.
+3788.85 You've adapted.
+3790.74 If you do 20% more distance
+or 20% more weight,
+3795.41 you won't necessarily see the same
+3798.48 commiserate level of gain or improvement.
+3801.3 And so likewise with cold,
+3803.45 if you're quickly moving
+from 30 seconds of exposure
+3805.96 to 10 minutes of exposure,
+3807.32 you're overlooking the opportunity
+to get the most fat loss
+3811.45 and increase in metabolism
+by stepping it up
+3814.59 in smaller increments.
+3816.16 Okay?
+3816.993 And this also speaks to the rationale
+3819.38 for using cold exposure
+to accelerate fat loss
+3822.05 for certain periods,
+3823.17 but then maybe not doing it year round.
+3825.52 If fat loss is your goal,
+3827.14 maybe use it for two,
+three months at a time
+3829.54 and then stop for two,
+three months at a time,
+3831.23 because it is such a potent stimulus
+3832.84 provided you engage in the shiver.
+3836.44 Next I'd like to move to exercise
+and how particular timing
+3840.69 and types of exercise can
+vastly improve fat loss.
+3845.15 Before I do that,
+3845.983 I just want to mention a
+really important reference
+3848.78 for those of you that are
+interested in learning more about
+3851.27 how neurons connect to fat?
+3853.82 This is certainly a paper
+that you'd want to look at,
+3856.31 if you're interested in diving
+deep into the literature
+3859.14 and reading all the various studies.
+3861.13 It's a review.
+3862.33 And the title of the review
+is neural innervation
+3864.77 of white adipose tissue and
+the control of lipolysis.
+3868.7 That's neural innervation
+of white adipose tissue
+3870.83 and the control of lipolysis.
+3872.34 It was published in Frontiers
+in Neuroendocrinology.
+3875.68 You can find that free online.
+3877.3 They have the full text available.
+3879.11 The first author is
+Bartness, B-A-R-T-N-E-S-S.
+3883.17 It's a great review.
+3884.68 And I've talked about a number of things
+3886.22 that are mentioned in the review.
+3887.77 Follow the references in that review
+3889.7 and the reference trail as we say,
+3891.56 if you're interested
+in learning more about
+3893.53 also how neurons control brown fat.
+3896.61 And before I moved to exercise,
+3898.47 I also just want to highlight something
+3900.31 that comes up every few years
+3902.01 and has largely been considered myth now,
+3906.32 but that is actually more interesting
+3909.08 than most people might think,
+3910.84 which is this issue of spot reduction.
+3913.61 You know, in the 80s and 90s,
+3916.37 there were a lot of commercials,
+3917.93 late night infomercials,
+3920.45 where they would talk
+about spot reduction.
+3922.66 If you do sit ups, will
+you lose abdominal fat?
+3925.61 If you do hip raises or glute raises,
+3927.223 will you lose gluten hip fat.
+3929.6 And I think everybody
+knows now believes that,
+3933.38 and understands that fat metabolism
+3936.39 is something that happens
+systemically throughout the body.
+3938.88 That some body fat is
+quote unquote more stubborn
+3941.21 than others.
+3942.043 Everyone varies in where
+they tend to store fat
+3944.66 or lose fat last.
+3946.284 Number of factors that influence that,
+3948.46 and in particular hormone receptors.
+3951.37 But now at least in the
+scientific literature,
+3957.16 spot reduction and the possibility of real
+3960.45 true spot reduction reductions
+in fat in a targeted way,
+3964.2 a body part or body area targeted way
+3966.93 is becoming more of a reality
+and may be a reality soon,
+3971.76 because exercise that
+triggers the activation
+3976.76 of these nerve fibers,
+3978.34 these neurons that innervate fat.
+3980.85 In theory, if you can increase
+the amount of epinephrin
+3985.24 released at those particular
+fat pads as they're called,
+3988.83 they're actually called fat pads
+3990.41 in the scientific literature.
+3992.35 In theory, you could increase mobilization
+3995.81 from those particular body fat sites.
+3999.35 Okay?
+4000.183 So because the new view that
+the modern understanding
+4004.26 is that it's not adrenaline
+released systemically
+4006.98 kind of bathing all your fat tissue,
+4009.87 but rather its neurons
+releasing adrenaline
+4012.57 epinephrin locally that in theory,
+4016.01 exercise that stimulates
+the release of epinephrin
+4019.29 or exercise coupled
+with things like shiver
+4022.95 or low grade shaking movement,
+4024.75 or the NEAT, the non-exercise
+activity thermogenesis
+4029.79 could in theory lead to local enhancement
+4034.2 of mobilization of fat tissue.
+4036.65 So I think that spot reduction
+4038.03 actually will soon be
+something that's possible
+4041.24 using the appropriate technology.
+4043.29 What does this mean for you now?
+4044.86 What could you possibly do
+with this information now?
+4048.9 Well, I think it speaks to the fact
+4053.24 that if one is going to engage in exercise
+4056.98 that doing exercises that involve
+4059.42 lots of different body parts and movements
+4063.0 is likely to encourage the maintenance
+4066.25 and or growth of these neurons
+4068.95 that innervate fat throughout the body.
+4071.02 What this means is changing
+up the pattern of exercise,
+4073.92 engaging in novel types of movements
+4076.44 may actually be one
+way that one can access
+4079.07 these so-called stubborn body fat pads.
+4082.01 Now, there's a little bit of speculation
+4083.44 in the statement that I'm making,
+4084.97 but if you think about it it makes sense.
+4086.48 If you become very adapted
+to a particular pattern
+4089.05 of exercise,
+4090.61 whether or not you're subcaloric or not,
+4092.7 you're on maintenance calories are not,
+4095.39 you are oxidizing some fat always,
+4098.6 and you're utilizing the
+neurons that innervate fat
+4102.37 in a regular way.
+4103.3 And pretty soon this innervation
+is going to shut off,
+4107.6 because there's no reason why
+this neural innervation of fat
+4111.66 should continue to release epinephrin
+4113.65 unless you give it a
+strong stimulus like cold
+4115.9 or the fidgeting or in this case
+4118.81 to do novel forms of exercise.
+4121.24 And there's some anecdotal evidence
+4124.33 and I don't even want to call it data,
+4126.04 but anecdotal evidence
+that people who have,
+4128.67 quote on quote stubborn body fat,
+4130.2 if they start to adopt
+new patterns of exercise,
+4132.81 they can start to access
+those stubborn fat pads.
+4136.13 And again, fat pads is the correct way
+4137.96 to refer to these in the
+scientific literature.
+4140.81 So what we're focusing
+on today is the fact
+4144.26 that fat indeed will be
+mobilized and oxidized
+4148.19 in response to a deficit in calories.
+4150.5 But that the way that neurons
+control those fat pads
+4153.697 and those body fat stores,
+4155.235 affords you a lot more control
+4157.84 than perhaps you ever previously thought.
+4160.56 So let's talk about movement.
+4162.72 And the more traditional
+kinds of movement,
+4164.41 aka exercise has been
+shown to lead to increases
+4167.68 in metabolism and fat
+loss to greater degrees
+4171.9 depending on whether or not for,
+4173.3 instance you're fasted
+when you do it or not,
+4176.06 whether or not you do your cardio first
+4177.73 or your resistance training first.
+4179.81 And this is again in the literature
+4182.21 for which there's a lot of controversy,
+4183.94 but in digging through
+all the studies on this,
+4187.06 we're finally starting to
+arrive at a consensus of,
+4189.96 when is best to do exercise?
+4191.69 And what types of exercise to
+do if your goal is fat loss?
+4195.96 The topic of exercise is a
+kind of controversial one,
+4199.5 not as controversial as nutrition and diet
+4201.49 which we will talk about in a few minutes.
+4203.78 But it's a particularly interesting one,
+4206.88 because different types
+of exercising gauge
+4209.84 the musculature of the body
+and the heart and the lungs
+4212.06 in different ways,
+4213.57 and can have vastly
+different effects on things
+4215.73 like hormones and metabolism
+depending on whether
+4218.29 or not it's of high intensity,
+4219.89 moderate intensity or low intensity.
+4222.34 So rather than think about weight training
+4224.61 versus cardiovascular exercise,
+4227.08 I think the most simple way,
+4229.91 the most fluid way to have this
+conversation about exercise
+4233.78 and fat loss is in terms of
+three general types of training.
+4238.15 Whether or not it's done
+with weights or body weight
+4240.19 doesn't really matter.
+4242.15 And those are high
+intensity interval training.
+4245.06 Something that's seems to have
+gained a lot of popularity
+4247.41 in recent years.
+4248.31 So-called HITT, H-I-I-T.
+4249.86 So high intensity interval training.
+4252.26 Sprint interval training.
+4254.04 So that's going to be very
+high intensity or SIT,
+4257.05 or moderate intensity
+continuous training, M-I-C-T.
+4261.29 So we've got HIIT, SIT and MICT, M-I-C-T.
+4265.83 And we can get a little bit
+more precise if you'd like.
+4268.5 I'm not somebody who measures
+my VO2 max or anything
+4271.26 while I exercise.
+4272.1 I generally know whether
+or not I'm doing something
+4274.67 I could continue for a very long time,
+4276.3 or whether or not I'm doing something
+4277.92 that I realize is going
+to be of short duration
+4281.61 high-intensity.
+4282.443 But if you'd like to
+map this to VO2 max SIT,
+4287.6 this sprint interval training was defined
+4290.04 as all out greater than 100% of VO2 max
+4293.44 bursts of activity that
+lasts eight to 30 seconds
+4297.0 intersperse with less
+intense recovery periods.
+4299.16 So this would be sprinting downfield
+4301.54 for eight to 30 seconds,
+4303.23 then maybe walking back
+for about a minute or two
+4306.5 and then sprinting again
+and then continuing.
+4308.27 So that would be SIT.
+4309.45 HIIT, H-I-I-T is defined as submaximal,
+4313.31 so 80 to a hundred percent
+of VO2 max bursts of activity
+4317.06 that lasts 60 to 240 seconds
+4320.32 intersperse with less
+intense recovery periods.
+4322.88 So on a standard 400 meter track,
+4325.02 just to give this a
+little bit of a visual,
+4328.54 a four minute mile would be
+fantastic for most people,
+4331.25 although people run faster
+than that of course.
+4333.25 So that's four 60 seconds laps,
+4335.35 but that's back to back to back.
+4337.52 I think in my best shape or
+maybe it was in my dreams,
+4340.77 I don't recall which I
+was able to do 60 seconds
+4343.04 around the track,
+4343.873 but of course I couldn't
+get that on the second
+4345.26 or third or fourth if I
+did that was certainly
+4349.76 in the fantasy land and not reality.
+4352.17 But 60 seconds would
+be about one revolution
+4355.64 around the track,
+4356.473 maybe 90 seconds, depending
+on how fast a one is running.
+4360.2 So 60 to 240 seconds.
+4362.62 MICT okay.
+4364.66 This moderate intensity
+continuous training
+4367.55 is steady state cardio
+sometimes called Zone 2 cardio
+4370.97 these days on the internet,
+4372.63 which has performed continuously
+for 20 to 60 minutes
+4375.64 at moderate intensity
+of 40 to 60% of VO2 max
+4380.07 or if you prefer heart rate
+55 to 70% of max heart rate.
+4385.27 Okay?
+4386.103 So we can think about high, medium
+4388.0 and low intensity exercise.
+4389.61 Although low intensity usually means
+4392.37 that you could carry on a conversation,
+4393.96 or maybe you have to gasp
+every few steps or so,
+4396.52 while trying to talk and run.
+4397.96 That's I think going to
+be the most useful way
+4400.35 to have this conversation
+that we're having now,
+4403.15 because there's so many
+different forms of exercise
+4405.18 that people do and intensity is important.
+4408.75 Let's ask the question
+that I think many people
+4411.27 are wondering about,
+4413.49 which is, is it better?
+4414.99 Meaning do you burn more fat
+if you do your exercise fasted?
+4418.5 And fasted in this respect
+could be that you wake up
+4422.06 in the morning,
+4422.893 you've been fasting all night,
+4424.02 you just hydrate and you exercise
+4427.04 or sometimes people will ingest caffeine,
+4429.74 there's controversy as to whether
+or not that quote on quote
+4431.76 breaks the fast.
+4432.78 It has to do with whether
+or not your caffeine adapted
+4434.63 something for another episode.
+4437.24 In any case that would be fasted.
+4438.99 So probably not having eaten anything
+4440.99 for anywhere from three to
+24 hours or maybe even more.
+4445.192 As you could also be
+fasted in the afternoon.
+4446.86 If you had lunch at noon and it's four
+4448.85 or five or 6:00 p.m.
+4450.1 Is it, will you burn more fat
+4452.23 if you exercise without
+an eating anything first,
+4456.91 without ingesting any calories first?
+4458.98 And people have tried to
+really split hairs on this,
+4461.06 every which way people say,
+4462.05 well, you can fat fast,
+4463.73 because fat and protein doesn't lead
+4465.79 to as great increases in
+insulin as other things,
+4470.82 maybe you can have a few
+almonds and then still train.
+4473.02 And indeed insulin will
+prevent fat oxidation.
+4478.79 I want to be really clear.
+4479.69 The burning part of fat in the cell,
+4481.28 the movement of the fatty
+acid and into mitochondria
+4485.63 and the conversion ATP,
+insulin inhibits that process.
+4489.13 However, it's been shown
+4492.5 that it least for short
+periods of training,
+4495.38 it doesn't really seem to
+matter whether or not you eat
+4498.05 before training or you don't,
+4500.31 if your goal is fat oxidation.
+4502.83 Now, I want to put an asterix near that,
+4504.61 because there are some exceptions.
+4506.01 But there were several studies done that,
+4509.707 and the kind of the classic ones of these,
+4512.58 I'll read out to you.
+4514.21 What they basically did is they
+gave people glucose, sugar,
+4518.24 to increase their blood
+sugar before training or not.
+4521.93 And the kind of classic study
+of this is Al Borg at all.
+4525.92 So in 1976, so it goes way back,
+4528.08 which is that glucose reduces
+fat burning and exercise.
+4531.42 And then some other studies
+if you want to look these up,
+4533.7 they're very easy to find on PubMed.
+4535.16 You put in Horowitz 1999,
+4538.775 [indistinct] is another
+one where they have people
+4541.95 drink milk with glucose in it.
+4543.63 So sweet sugary milk
+before exercise, et cetera.
+4547.5 And you can find a number of examples
+4549.96 where eating before exercise
+reduces the amount of fat
+4554.22 that's oxidized during the exercise.
+4556.81 And you can also find a lot
+of studies showing that,
+4562.55 eating during exercise
+or prior to exercise
+4565.81 will not reduce the amount
+of fat that is oxidized.
+4568.52 However, the types of exercise
+4570.57 whether I was medium
+intensity or high intensity
+4573.87 or low intensity is all over
+the map for these studies.
+4576.33 So it's very hard to
+target an ideal protocol.
+4579.71 And then if you look really
+deep in the literature,
+4582.56 you start to find meta analysis
+4584.54 where people have actually
+aggregated all the findings
+4587.72 and some modern studies where it points
+4590.05 to some very specific
+and useful protocols.
+4592.45 And so here's the rule
+that or the protocol
+4595.24 that I extracted from that literature.
+4599.4 At a period of about 90 minutes
+4602.65 of moderate intensity exercise,
+4604.363 I want to be clear,
+4606.22 at about or after 90 minutes
+of moderate intensity exercise.
+4611.22 There's a switchover point
+4613.61 whereby if you ate before the exercise,
+4617.07 you will reduce, excuse me,
+4618.7 you will burn far less fat
+from the 90 minute point onward
+4624.32 than you would if you had
+gone into the training fasted.
+4627.82 So let me repeat that.
+4629.25 If it's moderate intensity,
+4630.73 so-called zone two cardio type exercise,
+4634.3 at the 90 minute point,
+4636.72 if you happen to have
+eaten before the exercise
+4639.37 within one to three hours
+prior to the exercise,
+4643.16 then you reduce the amount
+of fat that you will burn
+4646.5 from 90 minutes onward,
+4649.04 whereas if you had fasted
+prior to the exercise,
+4652.06 you hadn't eaten anything
+for three hours or more prior
+4654.26 to the exercise.
+4655.093 At the 90 minute point,
+90 minutes of exercise
+4658.44 you will start to burn
+more fat than you would
+4661.69 had you eaten.
+4663.1 Now, 90 minutes of moderate
+intensity exercises is a lot.
+4667.68 So that's a pretty long run.
+4669.74 Even if you're running
+at a pretty slow pace
+4671.84 like a 10 or 12 minute mile,
+that's a lot of running,
+4675.43 that's a lot of swimming.
+4676.33 So that's a lot of walking,
+4677.81 that's a lot of hiking.
+4679.82 However, there are people who
+are going out hiking all day
+4682.07 or running all day or walking all day.
+4683.75 And if you want to burn
+more fat per unit time,
+4687.04 you want to oxidize more fat
+then you would do that fasted.
+4690.4 Now, there are also studies
+that pointed the fact
+4694.75 that you don't have to wait to 90 minutes
+4697.01 in order to get this
+enhanced fat burning effect.
+4701.25 The studies I was able to find
+4703.6 and that looked to me like
+quality peer-reviewed studies
+4706.06 with no company bias or no
+product bias of any kind.
+4710.65 These are studies that were largely funded
+4712.97 by the federal government
+in the university context
+4718.08 pointed the fact that if one
+does high-intensity training,
+4723.584 or even the very high
+intensity forms of training
+4726.24 like sprints or squats or deadlifts
+4728.65 or any kind of activity
+that can't be maintained
+4731.37 for more than these, you know, eight
+4733.36 or I would say up to 60 seconds.
+4735.29 So a set of lifting
+weights repeated, repeated,
+4737.84 if that's done for
+anywhere from 20 minutes,
+4741.45 so weight training or power lifting
+4743.82 or these kinds of things
+or kettlebell swings
+4746.07 or up to 60 minutes,
+4748.66 we'll then the switchover point
+4750.66 in which you can burn more fat,
+4752.28 if you go into that fasted comes earlier.
+4755.38 And this makes sense
+because there's nothing holy
+4757.89 about the 90 minute point
+for a medium intensity
+4761.58 Zone 2 cardio.
+4763.17 That 90 minute point is the point
+4765.72 in which the body shifts over
+from mainly burning glycogen,
+4771.06 basically, sugar that comes
+from muscles or the liver
+4774.49 and realizes this is going on for a while,
+4777.62 I'm going to shift over
+to a storage site fuel
+4783.42 that is in reserve like body fat.
+4786.49 This is going to happen for a while,
+4787.77 so I'm going to start
+tapping into body fat stores.
+4789.61 Now, fat doesn't have
+a little brain there.
+4791.32 It is innervated by neurons,
+but it doesn't have thoughts.
+4793.54 And you don't actually control
+this switch with your mind.
+4796.13 This is something that
+has to do with the milieu
+4798.48 of various hormones.
+4799.93 What has to happen is insulin
+has to go down far enough.
+4803.87 So if you ate before the exercise,
+4805.74 you'd have an increase in insulin,
+4807.33 if you ate carbohydrates
+4808.35 you'd have a bigger increase
+in insulin, fat and proteins
+4811.2 indeed you'll have
+lower amounts of insulin
+4813.51 and fasting will give you
+the lowest amount of insulin.
+4816.52 Well, then that switch over
+point is going to come earlier
+4819.81 in the exercise.
+4820.97 And if you think about if
+you were to do something
+4823.59 high intensity for 20, 30, 40 minutes,
+4826.02 so maybe lift weights and
+then get into Zone 2 cardio.
+4829.61 If you are fasted, the literature says
+4831.8 that you're going to burn
+more body fat per unit time
+4836.03 than if you had eaten before
+or during the exercise.
+4840.37 So what does this mean?
+4841.203 This means if you want
+to burn more body fat,
+4843.45 if it's in your protocols
+4845.1 and you have been approved
+to do this safely,
+4848.83 exercise intensely for 20 to 60 minutes,
+4853.2 the higher the intensity
+obviously the shorter
+4855.28 that about is going to be,
+4856.55 and then move over into Zone 2 cardio.
+4858.66 And if you do that fasted or
+the medium intensity cardio
+4861.33 I should say.
+4862.163 And if you do that fasted,
+4864.47 then indeed you will burn a
+higher percentage of body fat.
+4868.79 If you need to eat or you
+like to eat before you train
+4871.63 that also can work.
+4874.27 And if you train very intensely,
+4875.98 you're likely to shift over
+to the fat burning pattern
+4880.06 more quickly as well.
+4881.53 So again, this isn't really an issue
+4883.38 of how long you exercise.
+4885.65 It's an issue of how
+intensely you exercise
+4888.54 and therefore what fuel
+source you're drawing from.
+4891.47 So hopefully I've made that clear,
+4893.15 but basically you need to deplete glycogen
+4895.72 or through high intensity exercise
+4898.0 and then move to a steady state exercise
+4900.33 that will allow you to burn more fat.
+4902.09 Or you need to perform a medium intensity
+4905.45 or low intensity type exercise
+for a long period of time
+4907.99 before you shift over to burning fat.
+4910.01 And indeed it seems that
+going into all that fasted
+4913.23 will facilitate the burning
+of more fat overall.
+4917.8 But if you can't even get to the exercise,
+4919.86 if you're somebody who just
+can't do the training at all,
+4922.85 you're unwilling to or
+you're incapable of training,
+4925.965 unless you eat something,
+4927.17 then obviously eating
+something makes the most sense.
+4929.27 And what you eat prior to exercise,
+4930.7 that's a whole other biz
+that people argue about
+4933.874 and fight about whether
+or not you should go
+4936.04 into it with low carbohydrates
+or higher carbs, all of that.
+4939.08 But in general, the theme
+there is very simple.
+4941.34 Which is that you want insulin
+levels to be pretty low
+4943.71 if your goal is body fat reduction,
+4946.38 if you want to oxidize body fat.
+4947.93 So fasting in some cases,
+4949.26 fat fasting and other cases
+4950.57 where you're just ingesting fats.
+4952.07 Fat and protein, in some
+cases or for some people
+4954.15 it will be eating carbohydrates.
+4955.75 I'm not here to dictate a
+particular nutrition regimen.
+4959.14 That's just how the hormone
+balance of these things
+4961.25 and fat oxidation works.
+4963.23 Now, one thing that's very interesting
+4964.86 and cannot be overlooked is this issue
+4967.51 of how much energy you burn
+during and after the activity.
+4971.97 And some of you probably
+already know about this,
+4973.97 but the whole business of
+calories in versus calories out,
+4978.63 and people counting the number of calories
+4980.73 they burn during their aerobic session
+4982.5 or during their whatever session
+4984.81 is only one half of the equation
+4987.05 and it really eclipses
+the more important issue,
+4989.94 which is how much of an
+increase in metabolism
+4994.11 does a given exercise
+create after the exercise?
+4998.57 And we could talk for hours about this,
+5000.03 but the simple way to view this is that,
+5001.86 high intensity training,
+anaerobic training
+5005.08 of weight training, sprints,
+burpees, any kind of thing.
+5009.2 I don't know these days I
+hear that you're not supposed
+5011.41 to do burpees that people
+think burpees are dangerous.
+5013.28 So I'm not suggesting any
+particular movements here.
+5015.09 You have to decide what's right for you.
+5018.06 I do burpees.
+5019.38 I don't seem to be injured from them,
+5021.18 but I hear that they're
+terrible for some people.
+5023.31 So anyway, push-ups, sit-ups,
+5025.76 whatever it happens to be
+that anaerobic exercise
+5028.98 that's of higher intensity or sprints
+5032.81 taps into glycogen stores
+during the movement
+5035.82 and we'll burn more energy per unit time
+5038.9 than moderate intensity.
+5039.83 High intensity burns more
+than modern intensity.
+5041.62 That's straightforward.
+5043.61 What's interesting is that all the studies
+5046.84 that I was able to find on what happens
+5049.27 after that type of exercise showed
+5050.685 that the percentage of fat that you burn
+5052.99 after high intensity
+exercise is actually greater.
+5056.71 In other words, you burn a lot of glycogen
+5058.36 during the high intensity exercise.
+5060.15 And then after the exercise,
+5061.94 the post exercise oxygen consumption
+5064.13 as it sometimes called goes up.
+5067.24 We know this after you train intensely
+5068.98 that post exercise oxygen
+consumption goes up
+5071.23 sometimes for up to 24 hours.
+5073.92 And it is during that period of time
+5075.62 that you oxidize more fat not glycogen.
+5079.23 Now, what's interesting is
+that the reverse is also true,
+5082.93 for people that do long bouts of low
+5085.2 or moderate intensity exercise.
+5086.93 So typically this would
+be things like running,
+5088.59 swimming, biking, et cetera.
+5089.71 So 60, 90 minutes, two hours
+5092.05 maybe even people that
+are training for marathons
+5093.93 or half marathons,
+5095.13 when they stop training,
+5097.352 they burn more glycogen,
+more carbohydrate,
+5101.64 even though they were burning
+more body fat per unit time
+5105.45 during the low intensity exercise.
+5107.13 So there's this kind of inversion.
+5108.5 High-intensity burns more
+glycogen during the activity,
+5110.98 more body fat afterwards.
+5113.3 Moderate to low intensity
+burns more percentage-wise
+5117.25 more body fat is oxidized than glycogen
+5121.265 during the actual exercise
+afterward it's more glycogen.
+5124.83 So I don't want this
+to get too complicated.
+5127.06 The point is you should
+pick exercise that you like,
+5130.75 that you're going to do regularly,
+5132.56 but it does seem that the
+high intensity exercise
+5136.34 followed by moderate intensity exercise
+5139.32 is going to be optimal
+for fat burning overall.
+5141.93 Because when you look at the
+percentage of body fat burned,
+5145.43 and you look at the overall increase
+5147.61 in basal metabolic rate,
+5149.47 moderate and high intensity training
+5152.61 followed by low intensity training
+5154.88 or even just followed
+by going back into life
+5157.58 is going to be the best way
+to continue to burn body fat
+5160.69 because of the ways that it
+increases basal metabolic rate.
+5165.04 This could be distilled
+into a simple protocol
+5167.73 whereby three or four times a week
+5170.37 you do high intensity training
+followed by either nothing
+5173.3 or followed by low intensity training
+5176.61 especially if you're
+able to do that fasted.
+5179.5 And I should just mention
+that none of this stuff
+5181.74 about fasted is about performance.
+5183.74 If you want to perform really well,
+5185.91 this is for reasons of performance
+5187.834 and you want to, you know, it's
+for a sport or a competition,
+5190.56 it's not for body fat purposes.
+5192.2 Well, then all of this kind of falls away
+5194.61 and is modified by what's
+ideal to eat for performance.
+5197.22 But what we're talking about today
+5198.21 is how to optimize body fat loss.
+5202.54 So train moderately to very high intensity
+5208.24 and then moderate to low intensity,
+5211.51 or train moderate to high intensity,
+5213.88 and then go about life.
+5215.16 And in fact, I have a friend
+who uses this strategy.
+5219.03 He likes the train intensely
+5220.53 and not that often protocol
+cause he's a very busy person.
+5223.18 So he'll train for 20
+or 30 minutes intensely
+5225.34 with weights or just body
+weight movement doing a lot,
+5228.33 he does burpees and push-ups
+and sit-ups and pull-ups
+5230.62 and just kind of moving and
+kind of circuit type training.
+5233.7 But where he's breathing really hard,
+5235.17 the goal he always says is,
+5236.31 I want to breathe hard
+for 30 minutes every day.
+5238.83 And then afterwards he
+hydrates and drinks coffee
+5241.63 and moves into his day.
+5242.68 And he's walking around and taking calls
+5244.44 and carrying around his children
+5245.88 and doing all these kinds of things
+5246.85 that keep him really busy
+5247.683 which is kind of like low intensity work.
+5249.46 So I think you get the principle now.
+5251.35 But you should all be asking yourselves
+5253.92 as scientists of yourselves.
+5256.38 Why would it be that
+certain patterns of exercise
+5258.94 would lead to more or less fat loss?
+5261.64 I mean, it can't just be
+about the energy burn.
+5264.01 We already established that.
+5265.55 And again, it has to do with the neurons.
+5267.53 It has to do with how we
+engage the nervous system.
+5270.08 So while non-exercise activity
+induced thermogenesis, NEAT,
+5273.57 the fidgeting and cold
+can induce thermogenesis
+5277.6 by engaging shiver tight
+movement or low-level movements.
+5281.07 Big movements that are
+of very high intensity,
+5284.49 meaning they require a lot of effort,
+5286.01 deploy a lot of adrenaline
+epinephrin from our neurons
+5289.82 and signal particular types
+5292.98 and amounts of fat
+thermogenesis, fat oxidation,
+5298.16 whereas low level intensity exercise,
+5300.5 low or moderate intensity exercise,
+5302.41 walking, running, biking
+5303.89 where you can do that easily,
+5305.16 there's not very much adrenaline release.
+5307.11 So adrenaline aka epinephrin
+5311.45 is really the final common path
+5313.66 by which movement of any kind,
+5315.92 whether or not it's low level shiver,
+5317.41 whether or not it's lifting
+a barbell sprinting up a hill
+5320.72 or doing a long bike ride.
+5322.36 Adrenaline is the effector of fat loss.
+5326.95 It's the trigger end, it's the effector.
+5329.56 So now I want to turn our
+attention to compounds
+5332.91 that increase epinephrin and adrenaline,
+5335.55 as well as compounds that work outside
+5338.29 the adrenaline epinephrin pathway
+5340.77 to increase the rates of fat loss.
+5343.12 I almost always save
+compounds and supplements
+5346.21 and things of that sort to the end,
+5347.99 because I do believe that
+people should look first
+5350.84 towards behavioral tools and
+an understanding of the science
+5354.27 before they look toward a supplement
+5357.3 or a particular thing that
+they can extract from diet.
+5361.32 This is mainly to try
+and shift people away
+5363.07 from the kind of magic
+pill phenomenon or the idea
+5366.02 that there is a magic pill
+because there really isn't.
+5368.13 And frankly, there never will be.
+5369.7 But there are some compounds
+5370.95 that can greatly increase fat
+oxidation and mobilization.
+5374.63 And understanding which
+compounds increase oxidation
+5378.34 or mobilization can be very useful
+5381.01 if your goal is to accelerate fat loss.
+5383.87 There are things that people can ingest
+5386.37 that will allow them to oxidize more fat.
+5390.09 And that occurs mainly
+by increasing the amount
+5392.58 of epinephrin that is
+released from neurons
+5395.16 that innovate fat tissue.
+5397.31 One of the more common ones is one
+5399.15 that you may already be
+using which is caffeine.
+5402.67 It's well-established that
+caffeine can enhance performance,
+5406.82 if you're caffeine adapted.
+5408.28 I talked about this in an earlier episode
+5410.22 so I want to make sure
+I'm very clear about this.
+5412.17 If you are not used to drinking caffeine
+5414.43 and you suddenly decide I'm going to drink
+5417.42 a big cup of coffee before training,
+5420.17 you will vasoconstrict and
+you will limit performance.
+5424.25 So that's performance.
+5425.53 If you're caffeine adapted however,
+5428.06 there's this kind of
+interesting phenomenon
+5429.95 where ingestion of caffeine
+5431.67 serves more as a performance enhancer,
+5434.7 both by increasing alertness,
+5436.16 but also by way of dilating vasculature
+5439.94 of allowing more blood flow.
+5442.44 Now, caffeine for burning
+more fat for oxidizing
+5446.72 and mobilizing more fat
+is an interesting one.
+5450.05 It can be effective at
+dosages up to 400 milligrams.
+5454.59 You have to be careful if
+you're caffeine sensitive.
+5456.95 Some people have just the
+littlest bit of caffeine
+5458.98 and their mind goes crazy,
+5460.77 and they're very uncomfortable.
+5462.0 It can have cardiovascular
+effects for some people
+5464.13 or hypertension, et cetera.
+5465.3 So please check with your doctor.
+5467.07 But 400 milligrams is roughly
+a cup and a half a coffee
+5472.21 or two cups of coffee.
+5473.3 Nowadays, there's a lot
+more caffeine in coffee.
+5476.53 So if you go to a typical cafe
+5479.79 and you were to get their medium-sized
+5482.67 that would have close
+to a gram of caffeine,
+5485.25 which is why, if you're a
+regular caffeine consumer
+5488.49 and you don't get that gram of caffeine
+5490.33 in your coffee each day,
+you will get a headache.
+5492.35 It can cause constriction
+and dilation of blood vessels
+5495.25 in ways that's complicated,
+5497.05 but you'll get a headache.
+5499.15 Some people like the
+way they feel drinking
+5502.62 100 to 200, 300 maybe 400
+milligrams of caffeine
+5505.69 before training.
+5506.523 And indeed that will lead
+to increase fat oxidation.
+5509.41 It will do that because you
+will release more epinephrin
+5512.28 and adrenaline.
+5513.51 So let's just place this in the context
+5515.74 of what we said previously.
+5516.87 Let's say you normally do Zone 2 cardio,
+5519.52 so you're going out for
+a moderately intense run
+5522.63 for 30 to 60 minutes or so.
+5525.09 I think the current recommendation
+guidelines in the States
+5528.12 are that people engage in 30 minutes
+5531.61 of moderate intensity
+exercise five days a week
+5535.85 for that's 150 minutes.
+5538.57 If their goal is to improve
+5540.46 or maintain health of the
+cardiovascular system.
+5544.85 80% of people in the United
+States fail to do that,
+5547.95 or anything close to it.
+5549.93 We are way below threshold
+for what the government
+5552.76 has recommended.
+5553.593 In this case, the
+government recommendations,
+5555.06 I think are pretty good.
+5556.25 That's one could always
+do better of course.
+5558.83 But 80% of people aren't even doing that.
+5561.5 However, just using the logic
+5564.082 and the understanding of
+how epinephrin adrenaline
+5567.27 is affecting this fat oxidation process.
+5569.52 If you were to go out for 15 minutes
+5571.99 and you drank caffeine before you went,
+5574.42 yes, you'll probably oxidize
+more fat per unit time.
+5578.89 Can you compensate for the exercise
+5581.59 you're not doing just
+by drinking caffeine?
+5584.04 Well, probably if you were
+just talking about fat loss,
+5587.43 if that caffeine makes
+you fidget a lot, right?
+5590.09 The amount of calories that
+you burn in a 30 minute run,
+5593.25 unless the run is very intense
+5594.9 and you're wearing a weight
+vest and it's up a hill,
+5596.94 it's not that great, right?
+5598.603 Then you probably get you in somewhere
+5600.25 into the 400, 500 calories burned area.
+5604.37 But I said earlier, and
+there are a lot of data now
+5607.18 to support that fidgeting for a day
+5608.6 can burn anywhere from 800
+to 2,500 calories a day.
+5611.69 So you might say, well,
+fidgeting is better than running,
+5613.65 ah, but it doesn't trigger the activation
+5615.72 and the positive health effects
+5617.95 of the cardiovascular system.
+5619.7 So fidgeting alone can be great,
+5622.39 but you need exercise for other reasons.
+5625.6 Caffeine can enhance the amount of fat
+5627.243 that you burn in any duration of exercise.
+5630.15 And it can shift the percentage of fat
+5632.46 that you oxidize compared to glycogen.
+5635.63 Unless you take that caffeine
+and it ramps you up so much
+5639.4 that you're training
+really, really intensely.
+5641.63 The bottom line is,
+5642.81 if you like caffeine and
+you can use it safely,
+5646.01 ingesting somewhere between
+104 milligrams of caffeine
+5649.82 prior to exercise somewhere
+between 30 to 40 minutes
+5653.09 before exercise can be beneficial
+5655.857 if we're talking about fat
+oxidation burning more body fat.
+5660.73 So that's caffeine.
+5662.01 There are a number of other things
+5663.1 that have existed over the
+years that are in this pathway,
+5665.6 things like ephedrine which
+is now illegal in most states,
+5671.07 I think maybe an all states
+5672.37 because people were dropping
+dead from taking ephedrine,
+5675.33 because they were heating up too much.
+5677.41 It's interesting it wasn't
+direct effects on the heart
+5679.96 causing heart attack.
+5681.29 It could trigger by way
+of adrenergic receptors.
+5685.95 If you'd like to know,
+5687.4 increases in body temperature and heat.
+5690.57 Now, those drugs turned
+out to be dangerous,
+5693.87 because people were overheating and dying.
+5695.5 There was also the big Fen-Phen craze.
+5697.61 That was a drug that was
+released fenfluramine
+5701.26 which actually was quite effective
+5703.89 as an anti obesity drug,
+5705.64 a treatment for obesity that
+had to be outlawed as well.
+5710.13 It was FDA approval was removed
+5713.66 because again people were dying
+5715.21 because of cardiovascular effects.
+5717.04 I don't know if people were
+overheating on it as well.
+5719.8 So what is the solution?
+5721.46 If caffeine is the kind of the
+entry point for most people
+5724.9 of using compounds to increase the rate
+5727.04 or percentage of fat loss in
+exercise and even at rest,
+5731.22 what are some of the other
+things that are useful
+5733.41 and interesting?
+5734.243 Well, in terms of tools
+that are actionable
+5736.55 and have reasonable safety margins,
+5738.94 I've talked before about
+something called GLP-1.
+5743.57 This is something that can be triggered
+5746.2 by the ingestion of yerba
+mate, which is a tea,
+5748.687 and I guess because I'm half Argentine,
+5751.47 we grew up drinking mate.
+5752.67 I think I was drinking mate from the time
+5754.12 I was about three or four years old.
+5756.01 I don't suggest that for kids.
+5757.45 I don't think kids should
+be ingesting caffeine.
+5760.57 But anyway I did it and
+I still ingest mate.
+5764.83 Mate increases GLP-1.
+5767.49 GLP-1 is in the glucagon pathway.
+5770.71 So let's just quickly
+return to our biochemistry.
+5773.08 As you recall, fat is
+mobilized from body fat stores
+5777.43 and then it's burned up.
+5778.9 It's oxidized in cells.
+5780.75 It actually needs to
+be converted into ATP.
+5784.1 And those fatty acids are
+essentially converted into ATP
+5788.81 in the mitochondria of the cell.
+5791.07 High insulin prevents that from happening
+5794.81 and glucagon facilitates that process.
+5799.58 Glucagon facilitates that process
+5801.88 through increases in GLP-1.
+5804.5 The short takeaway is mate increases GLP-1
+5809.33 and yes, increases the percentage
+of fat that you will burn.
+5812.63 It increases fat burning.
+5814.4 And that is especially true,
+5815.86 it turns out from the
+scientific literature,
+5817.99 if you ingest mate prior
+to exercise of any kind.
+5822.06 So if you want to burn
+more fat drinking mate
+5826.05 before exercise is good.
+5828.23 Drinking it at rest when
+you're not exercising
+5831.26 will also help shift your metabolism
+5833.57 toward enhanced burning of fat
+by increasing fat oxidation.
+5838.1 Now, there's a whole
+category of pharmaceuticals
+5841.38 that's being developed right now
+5842.87 that are in late stage trials
+5845.48 or are in use for the
+treatment of diabetes
+5847.86 which capitalize on this GLP-1 pathway.
+5852.09 They go by various names
+5853.96 and there are people on the internet
+5855.96 who are selling these things.
+5857.32 They are prescription drugs
+5858.67 and I want to emphasize that
+they are prescription drugs
+5861.01 and you obviously wouldn't want to use
+5862.5 any of these without a
+prescription and a requirement.
+5865.68 It does seem that they are effective
+5867.14 for the treatment of
+certain kinds of diabetes
+5869.94 and lead to fairly significant weight loss
+5873.99 and reduction in appetite.
+5875.67 So this is kind of the
+modern version of GLP-1
+5879.63 is pharmaceuticals of GLP-1 metabolism
+5883.84 are drugs such as somatical,
+5887.3 I can never pronounce this.
+5888.64 I can't seem to pronounce
+many things it seems.
+5891.12 Semaglutide is the way
+I would pronounce it.
+5894.04 S-E-M-A-G-L-U-T-I-D-E.
+5900.096 Semaglutide but that's not
+the way you pronounce it.
+5902.34 But Semaglutide is the way
+that it's been described
+5905.11 on the internet.
+5906.59 In any case, this
+compound increases GLP-1.
+5910.52 It's actually a GLP-1
+analog in some cases,
+5913.46 and they go by various
+types of trade names.
+5917.36 So the GLP-1 pathway is interesting.
+5919.35 Most people, including myself,
+5921.45 are not interested in
+taking a prescription drug
+5923.37 to increase GLP-1,
+5924.49 I do it through the ingestion of mate.
+5926.46 I just get the mate leaves,
+pour water over it and drink it.
+5929.32 What's kind of interesting,
+5930.6 that's not often discussed
+5932.4 is that you can increase
+the amount of GLP-1 by,
+5938.04 you can essentially reuse the tea.
+5940.3 The first time you drink it
+it can be very, very intense.
+5943.59 And in fact, some people find that mate
+5946.51 almost tastes like burnt leaves.
+5948.01 It's too intense.
+5948.843 You don't want the water to be too hot.
+5950.6 But I learned this trick from a friend.
+5952.52 You can reuse the leaves
+over and over again,
+5954.69 probably for about a
+day before they go bad.
+5956.82 And in doing that, you start
+to extract more and more
+5959.81 of the compounds from the mate
+leaf that increased GLP-1.
+5963.01 So it's kind of cool.
+5963.843 You can kind of get an increased effect.
+5965.36 So what I'll typically do is
+make a about 16 to 30 ounces
+5969.31 and just sip it throughout the day,
+5970.35 and I do like it before I train.
+5972.07 Some people who don't like mate
+5974.62 might prefer something like guayusa,
+5977.35 which is spelled G-U-A-Y-U-S-A.
+5981.8 G-U-A-Y-U-S-A, guayusa
+which is from Ecuador,
+5986.6 despite the USA ending to it.
+5988.67 It's from Ecuador.
+5989.503 And it's a sweeter tasting tea.
+5992.58 It doesn't have any sweetener in it,
+5994.41 but the leaf of the
+guayusa plant is sweeter
+5997.18 than the mate plant.
+5998.53 I sometimes will mix the two
+6000.06 and then make the tea with that.
+6002.61 There's no mate or guayusa
+sponsor of the podcast.
+6005.34 These are just tools to increase
+GLP-1 and fat oxidation.
+6009.7 And again, the Semaglutide
+is the prescription version
+6014.64 of the that's kind of the heavy
+artillery GLP-1 stimulant,
+6018.89 and again should be only
+explored with a prescription.
+6022.12 So those are the compounds
+6024.926 that really increase
+fat oxidation directly.
+6028.42 There are going to be a number
+of things that impact insulin
+6031.53 and glucagon that are
+going to shift the body
+6036.23 toward more fat burning.
+6037.57 We talked about a lot of
+these during the episode
+6040.15 on hormones.
+6041.46 We talked about it.
+6042.293 We did a whole episode on
+hormones and metabolism.
+6044.49 And so for instance, berberine,
+6046.72 which comes from a plant
+or metformin are compounds
+6050.87 that are now in kind of growing use
+6054.07 for reducing blood glucose.
+6055.67 They are very potent at
+reducing blood glucose,
+6058.55 which will reduce insulin because the job
+6060.75 of the hormone insulin is to
+essentially manage glucose
+6064.39 in the bloodstream.
+6065.57 So there are a huge gallery of compounds
+6068.56 that will reduce insulin
+6070.2 and thereby can increase fat oxidation.
+6072.96 And that's because, as I mentioned before,
+6075.35 fat oxidation, this conversion
+of fatty acids into ATP
+6079.01 in the mitochondria is
+inhibited by insulin.
+6081.52 So if you keep insulin low,
+6082.97 you're going to increase that process.
+6085.07 Which brings us full circle back
+6087.31 to the issue of diet and nutrition.
+6090.18 There is really solid
+evidence from the Gardner Lab
+6096.63 at Stanford and from
+other labs showing that,
+6098.45 when you look at different diets,
+6100.31 you look at low fat diets,
+6101.99 high fat diets,
+6103.11 keto diets, intermittent fasting,
+6106.97 provided people stick to
+their particular diet,
+6109.34 it doesn't really matter
+which diet you follow.
+6112.7 You can still get a caloric deficit
+6114.29 and you get weight loss.
+6116.44 Adherence however is always an issue.
+6118.75 And so what I always say is,
+6120.29 that you want to use the eating plan
+6122.96 that is obviously
+beneficial to your health,
+6125.67 but the one that allows you to adhere
+6128.07 to whatever it is that the
+particular nutrition protocol is,
+6132.3 right?
+6133.133 If you can't stick with something,
+6134.29 then it's not very worthwhile.
+6136.02 But from the purely scientific standpoint,
+6139.11 there's also an advantage
+to keeping insulin low.
+6142.94 Now, that doesn't necessarily mean
+6144.09 you go to zero carbohydrate.
+6145.7 I've talked before about
+my preferred way of eating
+6148.12 is to go lower or no
+carbohydrates throughout the day
+6150.27 for alertness to get that
+adrenaline release and the focus
+6153.44 that goes with it, et cetera,
+6154.71 and the ability to think and move
+6156.59 and do all the things I
+need to do during the day.
+6158.45 And then I eat carbohydrates at night
+6159.9 'cause it facilitates
+the transition to sleep.
+6161.76 That's what works for me.
+6163.82 But when insulin is low,
+6166.73 you do place your system in a
+position to oxidize more fat.
+6172.12 And so that's why I think a
+lot of people do see benefit
+6174.76 from lower carbohydrate or
+moderate carbohydrate diets,
+6177.94 because when insulin is low,
+6179.44 you are in a position to oxidize more fat.
+6182.3 Both from exercise and at rest.
+6184.68 And I should mention,
+because I often mention
+6187.44 and it's appropriate to mention
+6188.71 that if you're interested
+in looking at the effects
+6190.96 of caffeine, of mate,
+guayusa things of that sort,
+6194.7 GLP-1 you want to learn more about those.
+6197.01 You can go to this wonderful website
+6198.75 which is free www.examine.com.
+6202.36 You can put in yerba mate,
+6203.81 it will describe the three studies
+6206.15 that show increased fat oxidation,
+6209.48 both during exercise and at rest,
+6211.81 and as a consequence not
+surprisingly and increase
+6214.4 in metabolic rate.
+6215.798 One thing that's interesting about mate
+6218.96 is it causes a slight
+decrease in heart rate
+6221.84 for reasons that still escape me.
+6224.67 There's a single study showing
+6226.47 that heart rate is slightly reduced
+6229.5 which is kind of nice because if,
+6231.07 when I drink too much caffeine
+6232.31 my heart rate goes up,
+6233.29 maybe that would increase my
+fidgeting and my fat burning,
+6235.73 but I don't like the feeling
+of having my basal heart rate
+6238.14 being up too high.
+6239.31 I like my heart rate
+elevate during exercise,
+6241.24 but not when I'm just kind of resting
+6242.73 or working and throughout the day.
+6244.43 And for some reason
+that I don't understand
+6247.89 there's an effect of mate
+of increasing fat oxidation
+6251.84 but reducing heart rate just slightly.
+6254.56 So that's interesting.
+6255.59 And it probably lends itself [indistinct]
+6258.31 explains the subjective experience
+6259.82 that I've had of that mate
+has kind of a little nice
+6261.73 even mellow stimulant.
+6264.48 It's not this really supercharged
+stimulant like caffeine
+6268.48 from coffee or other sources.
+6270.2 Although if you drink too much mate
+6271.4 it will also make you jittery.
+6273.86 And there's one more compound
+that I think we should discuss
+6276.63 in terms of increasing fat loss,
+6278.59 and that's carnitine
+or acetyl-L-carnitine,
+6281.75 they lie in the same pathway.
+6284.47 We can return to our basic
+knowledge now of fat mobilization
+6288.73 and oxidation.
+6290.61 After fat is mobilized
+and makes it into cells
+6294.28 and needs to be oxidized.
+6295.71 So the literally the burning of fat
+6297.65 and conversion of it into energy
+6300.45 that is accomplished and is facilitated
+6304.6 by the presence of
+glucagon being elevated,
+6308.47 GLP increases that process
+and insulin being low.
+6314.98 And we talked about some
+ways to manage insulin
+6318.12 both in this episode
+and in previous episode.
+6321.8 L-carnitine and acetyl-L-carnitine
+6324.9 in particular facilitates fat oxidation.
+6329.4 It helps convert fatty acids into ATP.
+6333.2 And indeed supplementing
+L-carnitine can increase fat loss.
+6336.93 That's been shown.
+6339.15 At what dosages?
+6340.55 Well, people ingest
+anywhere from 500 milligrams
+6343.681 to two grams per day in
+divided doses typically.
+6347.95 Some people who are really extreme
+6349.65 are taking injectable L-carnitine,
+6352.67 I've certainly not tried that.
+6355.38 I confess I have used it in
+pill form from time to time
+6358.07 but in part, because of
+the fat oxidation effects,
+6361.16 but also because of the other
+effects that it tends to have.
+6364.42 So in exploring the effects
+that acetyl-L-carnitine has,
+6367.73 it has a huge variety of
+effects on cellar metabolism.
+6371.18 It can reduce ammonia in the blood
+6374.01 that is actually a quite strong effect.
+6376.01 It can reduce things
+like C-reactive protein,
+6378.09 which is you want to
+C-reactive protein levels
+6381.31 to be managed.
+6382.16 You do not want them too high.
+6383.43 Can slightly reduce blood glucose.
+6386.37 I can slightly increase HDLC,
+6388.74 the good form of the blood lipid
+6391.49 and slightly reduce overall cholesterol.
+6394.02 And as I mentioned, it can slightly modify
+6398.2 the pathway involving glucagon,
+6400.15 such that you get a considerable effect,
+6401.89 not a huge effect on fat oxidation,
+6404.06 so it can improve pat oxidation rates.
+6406.71 It has a number of other effects,
+6408.09 some of which I talked
+during the month on hormones
+6411.65 and that sort of thing.
+6413.75 It has strong effects
+on rates of pregnancy
+6417.12 and sperm quality.
+6418.19 So clearly carnitine is doing
+lots of different things
+6420.47 and lots of different cells.
+6422.06 It's impacting sperm motility.
+6424.02 They're in a large number
+of studies supporting that.
+6427.09 Slight reductions in blood pressure
+6429.56 and has these interesting
+effects on reducing fatigue
+6432.732 during exercise,
+6434.1 reducing inflammatory
+markers like interleukin 6.
+6437.04 So it has a number of
+effects that on the whole
+6439.87 are quote unquote positive
+or at least in the direction
+6442.76 of things that you may want.
+6444.2 And I should emphasize may.
+6445.53 You certainly don't need
+a acetyl-L-carnitine
+6447.73 in order to lose fat,
+6450.2 but now that you understand
+the cellular process
+6453.3 by which fat is mobilized and oxidized,
+6456.03 it should make sense that if L-carnitine
+6457.84 is important for converting
+fatty acids into energy,
+6462.71 then supplementing L-carnitine make sense.
+6467.02 Acetyl-L-carnitine is
+the type of L-carnitine
+6470.55 or the form of L-carnitine I should say,
+6472.46 that is transported and utilized
+most easily by the body.
+6476.437 And so that's why sometimes we distinguish
+6478.26 between L-carnitine
+and acetyl-L-carnitine.
+6481.21 So once again, we've covered
+an enormous amount of material.
+6485.6 We've talked about the science of fat loss
+6488.58 and in particular, we've
+explored this topic
+6491.73 from the perspective
+of the nervous system.
+6494.48 How neurons and in particular
+the release of things
+6497.56 like adrenaline, epinephrin
+can facilitate fat mobilization
+6502.84 and oxidation.
+6504.38 We talked about NEAT, fidgeting,
+6507.09 this non-exercise type movement
+6510.68 that can greatly increase caloric burn.
+6513.97 And why that is.
+6515.65 We talked about shiver,
+6516.78 another form of non-exercise movement
+6519.73 that can really increase
+both caloric expenditure
+6522.83 due to the shiver, due to the movement,
+6524.8 as well as increase thermogenesis
+the heating up of the body
+6529.05 through things like brown fat,
+6530.44 and even the conversion
+of white fat to brown fat
+6533.36 which is a good thing if
+you want to oxidize fat.
+6536.77 We talked about cold as
+a particular stimulus
+6539.212 to induce shiver and
+how to use getting into,
+6543.99 an out of cold as a
+way to stimulate shiver
+6547.17 and avoid cold adaptation
+so that you continue
+6550.55 to oxidize and burn fat,
+if that's your goal.
+6553.86 If you want to check out
+the protocols for that,
+6556.57 there at www.thecoldplunge.com
+6559.11 and in weeks to come
+we're going to be adding
+6561.5 more protocols to that website
+6563.26 not just for fat loss,
+6564.73 but for things like resilience,
+6566.357 reducing inflammation, et cetera.
+6568.6 So be sure to check those out again,
+6569.99 those are totally cost-free.
+6572.07 Talked about exercise.
+6573.9 How rather than thinking
+about cardiovascular
+6576.3 or weight training exercise,
+6578.13 that we should perhaps
+look through the lens
+6580.75 of this adrenaline system
+and how it interacts
+6582.81 with fat stores and
+think about low, medium
+6586.21 or high intensity exercise.
+6588.05 Whether or not we show
+up to that fasted or not.
+6590.01 Turns out showing up to
+that fasted can be useful,
+6593.27 if you start with high intensity movements
+6595.92 and then move into lower
+intensity type exercise.
+6600.52 If you're going to go long duration,
+6602.27 it probably doesn't matter
+unless you're exercising longer
+6605.04 than 90 minutes, whether
+or not you eat or not.
+6608.83 We talked about caffeine as a stimulant
+6612.01 and a stimulus for epinephrin
+and adrenaline release
+6616.35 as a way to access more fat metabolism.
+6620.0 And we talked about compounds
+6621.78 that come from things like
+yerba mate and guayusa tea,
+6625.91 this GLP-1 pathway that can
+trigger increased fat oxidation
+6630.88 so much so that the
+pharmaceutical companies
+6632.97 are now developing compounds specifically
+6634.93 to increase GLP-1 for treatment
+of diabetes and obesity.
+6639.37 But you can leverage the GLP-1 pathway
+6641.85 through the ingestion of things like mate
+6643.68 or guayusa if that's of interest to you.
+6647.06 And then we talked about L-carnitine
+6648.93 and how L-carnitine itself is critical
+6651.84 for the fat oxidation
+within individual cells.
+6654.21 The conversion of fatty acids to energy.
+6656.88 And why having your insulin low
+6660.34 and things like L-carnitine
+and glucagon levels
+6663.53 high or sufficient at least can facilitate
+6667.697 the burning of fat, fat oxidation.
+6670.58 So we covered a lot of material.
+6671.78 That's a lot of protocols
+I realize that didn't...
+6675.03 The little list I just gave right there
+6676.43 didn't even begin to
+get into all the details
+6679.13 and corners that we discussed.
+6680.503 I hope you found this
+conversation interesting
+6683.81 both for sake of understanding fat loss
+6686.21 and how to lose fat more
+quickly and to lose more of it,
+6689.14 if that's your goal.
+6690.83 As well as simply to
+understand the biology
+6693.25 of fat metabolism from
+a different perspective,
+6695.25 from the perspective
+of the nervous system.
+6697.97 If you're enjoying this podcast
+6699.43 and you're benefiting from the information
+6701.11 that you're learning,
+6702.1 please subscribe on YouTube.
+6703.69 That really helps us a lot.
+6705.3 There's also a notifications
+button that you can hit
+6707.85 that will notify you anytime
+we release new content.
+6711.37 We release new episodes every Monday,
+6713.33 but sometimes we release
+additional material in between.
+6717.02 So please do subscribe on YouTube.
+6719.15 As well if you could subscribe
+on Apple and or Spotify
+6722.66 that's terrific and really helps us.
+6724.29 And at Apple, you can give
+us a five star review.
+6728.15 If you think we deserve
+a five-star review.
+6729.9 As well as you have the opportunity
+6731.83 to give us feedback at Apple.
+6735.29 The comment section on
+YouTube is the place
+6737.35 to give us feedback whether
+or not you like an episode,
+6740.07 whether or not you don't like an episode.
+6741.54 Aspects that you particularly liked,
+6744.08 suggestions for future content.
+6746.14 We do read, I do read
+through all the comments.
+6749.01 It takes me some time.
+6750.23 I sometimes fall a little bit behind
+6751.46 depending on other duties,
+6752.35 but I read all the comments
+6753.86 and I do take them into account
+6755.64 when developing this material
+6757.02 and the structure of the material.
+6758.55 So please do provide feedback
+in the comment section.
+6761.22 We really appreciate it.
+6762.81 Other ways to support the podcast
+6765.47 are to check out the sponsors
+6767.03 that we mentioned at the
+beginning of the podcast.
+6768.76 That's a terrific way to support us.
+6770.6 As well we have a Patreon.
+6772.01 It's www.patreon.com/andrewhuberman.
+6775.29 And at Patreon that will allow
+you to support the podcast
+6778.46 at any level that you like.
+6780.168 I've mentioned supplements
+during the podcast.
+6782.53 If you're interested
+in taking supplements,
+6784.9 you might want to check out Thorne.
+6786.75 T-H-O-R-N-E.
+6788.67 We've partnered with Thorne
+6789.89 because they have the
+highest levels of stringency
+6792.39 in terms of the quality of
+the ingredients they use,
+6795.24 and the amounts of the
+ingredients that they use.
+6798.39 If you want to see the
+supplements that I take,
+6800.02 you can go to Thorne,
+6801.556 thorne.com/u/huberman.
+6806.68 And you can get 20% off
+any of the supplements
+6809.42 that are there,
+6810.36 as well as any of the
+supplements that Thorne makes.
+6812.78 That's thorne.com/u/huberman
+6820.05 to get 20% off any of the
+supplements that Thorne makes.
+6823.16 And last but not least,
+6824.58 I want to thank you for your
+time and attention today.
+6827.02 And thank you for your
+interest in science.
+6828.477 [upbeat music]

@@ -1,0 +1,4309 @@
+0.32 - Welcome to the Huberman Lab Podcast,
+1.94 where we discuss science,
+3.102 and science-based tools for everyday life.
+9.28 I'm Andrew Huberman, and I'm
+a professor of neurobiology
+11.765 and ophthalmology at
+Stanford School of Medicine.
+15.58 Today, we are discussing grief.
+18.35 Grief is a natural emotion
+20.02 that most everybody experiences
+at some point in their life.
+23.753 However, grief is something
+25.6 that still mystifies most people.
+27.83 For instance, we often wonder
+29.54 why getting over the loss
+of somebody, or a pet,
+33.34 is so absolutely crushing.
+36.34 In some cases it's obvious,
+37.87 because we had a very close relationship
+39.85 to that person or animal,
+41.73 but in other cases, it's bewildering,
+44.37 because somehow, despite our best efforts,
+46.9 we are unable to reframe
+and shift our mind
+49.91 to the idea that the person or animal
+52.79 that at one point was
+here, and so very present,
+56.01 is now gone.
+57.62 Today we are going to discuss
+how we conceptualize grief,
+60.94 both at an emotional
+and at a logical level.
+63.97 I'm going to teach you
+about the neuroscience
+65.86 and the psychology of grief,
+67.85 and incredible findings
+that have been made
+70.36 in just a few key laboratories,
+72.76 that point to the fact
+74.5 that we essentially map
+our experience of people
+78.07 in three dimensions.
+80.523 I'll just give you a little hint
+81.356 of what those dimensions are.
+82.73 They relate to space, where people are,
+85.47 time, when people are,
+88.13 I'll explain what that means,
+89.57 and a dimension called closeness,
+92.16 and how those three dimensions
+93.73 of space, time, and closeness
+95.84 are what establish very
+close bonds with people,
+99.1 and are what require remapping,
+101.39 reorganization within
+our emotional framework
+103.87 and our logical framework,
+105.51 when we lose somebody,
+for whatever reason.
+108.5 Within that understanding,
+109.619 I'm confident that you
+will have greater insight
+112.232 into the grief process.
+114.61 And should you ever find yourself
+116.32 within the grief process,
+117.56 as I imagine most everyone
+will at some point,
+121.17 you will be able to navigate that process
+123.038 in what psychologists and
+neuroscientists deem to be
+126.23 the most healthy way
+of going through grief.
+129.25 Indeed, moving through grief
+130.48 requires a specific
+form of neuroplasticity,
+133.38 a reordering of brain connections,
+135.93 and also the connections
+between the brain and body.
+138.76 I'm going to teach you
+about all of that today,
+140.75 so you're going to learn a
+lot of scientific information.
+143.0 You will also learn a lot of tools
+145.148 that you can put in your kit
+147.05 of emotional and really,
+emotional physical tools,
+150.71 that will allow you to move through grief
+152.29 in this healthy way that
+I referred to earlier.
+155.06 I'll also point out some
+of the myths about grief.
+157.81 For instance, many of
+you have probably heard
+159.29 that there are designated stages of grief
+161.32 that everybody moves through.
+163.08 Turns out that recent
+research refutes that idea.
+166.344 There are different stages of grief,
+168.12 but not everybody experiences all of them,
+170.38 and hardly ever does somebody
+172.59 move through all of those linearly,
+174.21 meaning in the same order.
+175.74 I also want to point
+out that for many of you
+177.85 that are not experiencing
+grief in this moment,
+180.98 there's an important scientific literature
+183.23 that teaches us that
+how we show up to grief,
+187.09 meaning our psychological
+and our biological state
+190.64 that we happen to be
+in when a loss occurs,
+194.32 strongly dictates whether or not we end up
+196.47 in what's called complicated
+or non-complicated grief.
+199.81 And non-complicated
+grief is a form of grief
+203.11 that is very prolonged,
+204.69 and in fact often requires
+206.12 that people get substantial
+professional help.
+208.88 So whether or not you're
+experiencing grief that's mild,
+211.197 moderate, or very intense right now,
+215.16 or whether or not you are not
+experiencing any grief at all,
+218.696 you're going to learn
+scientific information
+220.78 and tools that will help you navigate
+222.82 through this process that we call grief.
+225.35 Before we begin, I'd like to emphasize
+227.13 that this podcast is separate
+228.5 from my teaching and
+research roles at Stanford.
+230.92 It is however, part of
+my desire and effort
+233.13 to bring zero cost to consumer information
+235.24 about science and science-related tools
+237.18 to the general public.
+238.61 In keeping with that theme,
+239.69 I'd like to thank the
+sponsors of today's podcast.
+242.5 Our first sponsor is Eight Sleep.
+245.09 Eight Sleep makes smart mattress
+covers that have cooling,
+247.62 heating, and sleep tracking capabilities.
+250.97 I recently started sleeping
+252.6 with an Eight Sleep mattress cover,
+254.87 and I am so glad that I did,
+256.766 because the sleep that
+I'm getting is superb
+259.93 compared to the sleep I
+was getting previously.
+261.82 I always thought that I slept pretty well,
+263.5 especially since I apply a
+number of different tools
+265.6 in order to sleep well,
+things like supplements,
+268.75 things like keeping the
+room cool, et cetera.
+270.96 But I have had a repeating
+problem over the years,
+273.77 which is that I would wake up
+274.94 in the middle of the night often,
+276.5 and sometimes have a bit of trouble
+278.247 or a lot of trouble getting back to sleep.
+280.29 I would have to apply other tools
+281.628 in order to get back to sleep.
+284.29 Eight Sleep allows me to
+adjust the temperature
+286.67 of my mattress and my
+sleeping environment,
+288.87 so that I fall asleep easily,
+290.45 and stay asleep throughout the night,
+292.33 which as many of you
+know is a game changer.
+295.48 Temperature is a powerful
+regulator of sleep
+297.307 and the ability to get into sleep.
+298.82 We know, for instance,
+299.85 that the body needs to drop
+by one to three degrees
+302.76 in order to get into
+sleep and to stay asleep.
+304.85 And with Eight Sleep,
+305.8 I can program the temperature of my bed
+307.53 so that it gets cooler as I fall asleep,
+310.27 gets even colder as I enter deep sleep,
+311.887 and at the transition to REM sleep,
+313.97 rapid eye movement sleep, it
+can get even cooler if I like.
+316.99 I actually like to maintain
+the same temperature
+318.64 through deep and REM sleep.
+319.97 And then it heats up slightly
+as I head towards morning,
+322.7 because of course heating up of the body
+325.38 is one way in which we wake up.
+327.387 So I have this nice contour
+of cooling and heating
+330.011 that puts me through a beautiful arc
+332.25 of falling and staying asleep,
+333.74 and waking up when I want to.
+335.18 If you want to try Eight Sleep,
+336.41 you can go to eightsleep.com/huberman,
+338.83 and check out the Pod Pro Cover,
+340.62 and save more than $150
+342.57 with an exclusive Memorial Day discount,
+344.37 now through June 6th, 2022.
+346.832 Eight Sleep currently ships
+348.17 within the USA, Canada and the UK.
+350.69 Again, that's eightsleep.com/huberman,
+352.86 to save over $150 with an
+exclusive Memorial Day discount,
+356.388 now through June 6th.
+358.2 Today's podcast is also
+brought to us by InsideTracker.
+360.48 InsideTracker is a
+personalized nutrition platform
+363.61 that analyzes data from
+your blood and DNA,
+366.44 to help you better understand your body
+368.03 and help you reach your health goals.
+370.13 I've long been a believer
+371.29 in getting regular blood work done,
+373.1 for the simple reason
+that many of the factors
+375.23 that impact your immediate
+and long-term health
+377.051 can only be assessed from
+a quality blood test.
+379.97 And nowadays with the
+advent of modern DNA tests,
+382.87 you can also get insight
+into, for instance,
+384.9 what your biological
+age is, and compare that
+387.43 to your chronological age.
+388.54 And of course your biological age
+389.87 is the number that truly matters.
+392.36 One issue with a lot of blood tests
+393.84 and DNA tests out there, however,
+395.78 is that you get values back
+about metabolic factors,
+398.57 hormones, and lipids, et cetera,
+400.68 but you don't know what to
+do with that information.
+402.618 InsideTracker solves that problem.
+404.76 They have a very easy-to-use
+personalized platform.
+407.41 It's a website where you can
+literally place your cursor
+411.34 over a given value,
+413.54 say for a hormone or
+metabolic factor or lipid,
+416.45 and it will tell you what you can do
+418.33 in terms of nutrition,
+behaviors, and supplementation
+420.81 in order to bring those
+values into the range
+422.76 that are optimal for you and your health.
+425.2 Find this immensely useful
+and very easy to use.
+428.28 If you'd like to try InsideTracker,
+429.68 you can go to insidetracker.com/huberman,
+432.45 to get 20% off any of
+InsideTracker's plans.
+434.94 Again, that's insidetracker.com/huberman,
+437.46 to get 20% off.
+438.86 Today's episode is also
+brought to us by ROKA.
+441.37 ROKA makes sunglasses and eyeglasses
+442.975 that are the absolute highest quality
+445.08 and have extreme versatility
+446.84 in terms of what they can be used for,
+448.82 and when you wear them.
+449.743 What do I mean by that?
+451.19 Well, the company was founded
+452.39 by two All-American
+swimmers from Stanford,
+454.58 and their goal was to develop
+eyeglasses for performance,
+456.99 things like running and
+biking and so forth.
+458.93 And you can certainly wear
+them for those activities.
+461.23 And I do wear them for those activities.
+463.13 I wear readers at night.
+464.97 I also wear sunglasses sometimes,
+466.68 when it's very bright out.
+469.02 One of the things that's terrific
+470.07 about ROKA sunglasses
+and eyeglasses, however,
+472.11 is that they're not
+just designed for sport.
+474.07 They have a terrific aesthetic,
+475.65 and you can also wear them out to dinner,
+478.18 to work, and so on.
+479.91 I say this because at least in my opinion,
+482.08 a lot of so-called sport eyeglasses
+484.36 or high-performance
+eyeglasses and sunglasses
+487.1 make people look like cyborgs.
+488.68 ROKA, the aesthetic is really terrific.
+491.19 They're extremely lightweight
+and they don't slip off,
+493.33 even when you're sweaty.
+494.4 So you can indeed wear them on a hot day,
+496.76 or when running or cycling.
+498.2 They're not going to slip off your face.
+499.27 They're so lightweight, in fact,
+500.29 that I often forget
+that they're on my face.
+502.3 If you'd like to try ROKA
+sunglasses or eyeglasses,
+504.93 go to roka.com, that's roka.com,
+507.67 and enter the code Huberman
+509.14 to save 20% off on your first order.
+511.29 Again, that's ROKA, roka.com,
+513.44 and enter the code Huberman at checkout.
+515.83 Okay, let's talk about grief.
+517.56 I just want to remind you that everybody,
+520.71 at some point in their
+life, experiences grief,
+524.13 either mild grief, moderate
+grief, or extreme grief,
+528.14 and it's somewhat obvious,
+but worth stating nonetheless,
+531.8 that how intense grief feels,
+534.87 and how long it lasts,
+536.35 scales with how close
+we were with somebody.
+539.34 And if you learn that the person
+541.75 who works at the coffee shop
+542.88 or that you see at the coffee
+shop on a regular basis,
+544.953 happened to pass away
+546.5 or tragically get killed
+in a car accident,
+548.638 that can be quite upsetting.
+550.41 It can be somewhat disorienting to you
+552.298 if you, for instance,
+just saw them yesterday
+554.85 or they seemed perfectly
+fine when you saw them last.
+559.06 But of course the grief that results
+561.0 from the loss of somebody
+562.97 to whom you have that level of attachment
+565.14 is far and away different
+than the level of grief
+568.01 that you would experience
+569.64 from the death of a very close loved one,
+572.09 a sibling, a parent, God forbid a child.
+576.14 When that type of loss occurs,
+577.95 it's often the case
+578.91 that our entire relationship
+to life feels different.
+582.65 Places and things that at once
+brought us joy and laughter
+585.78 now bring the opposite.
+587.39 They bring us intense
+feelings of sadness and loss.
+591.02 Psychologists and neuroscientists
+592.82 distinguish between complicated grief
+594.96 and non-complicated grief.
+597.5 They are very similar at the outset.
+599.37 One of the fundamental
+differences between them, however,
+601.5 is that complicated grief,
+602.7 which occurs in about one in 10 people,
+605.38 is a situation in which grief
+607.79 does not seem to resolve itself,
+609.76 even after a prolonged period of time.
+612.66 Later in the episode, I'll point you
+614.03 to the actual tests that are used.
+616.47 I've provided links to those
+in the show note captions,
+619.89 that will allow you to distinguish
+621.62 between complicated and
+non-complicated grief.
+623.9 These arrive through
+the important research
+626.17 of the world-class grief
+researchers that are out there
+629.077 and the psychologists that treat grief.
+631.61 The important thing to point
+out is that grief is a process.
+634.61 Like any biological or
+psychological event,
+636.77 it has a beginning, a middle and an end.
+639.28 And I do believe that being able to orient
+641.2 in terms of where you are in that process
+643.55 can be immensely beneficial,
+645.57 not just for predicting how
+long it's going to last,
+648.14 but in order to conceptualize
+the person or animal
+651.48 that you lost, in a way that allows you
+653.26 to best preserve their memory
+654.81 while maintaining your own
+functional capacity in life.
+658.06 Along those lines, I want to point out
+660.03 that grief and depression,
+661.9 while they can feel quite
+similar in certain ways,
+665.14 and have overlapping symptomatology,
+667.11 loss of appetite, challenges sleeping,
+670.38 crying in the middle of the day
+671.56 for no apparent reason, et cetera,
+673.48 they are distinctly different processes.
+676.14 The modern research
+teaches us for instance,
+678.33 that grief rarely responds
+well to antidepressants,
+682.63 whereas depression can often
+684.69 respond well to antidepressants.
+687.38 Everything we know and
+understand about grief
+689.28 is that it is a distinct psychological
+691.87 and physiological event
+694.03 in the brain and body from depression.
+696.3 Rather, perhaps the best
+way to think about grief
+699.31 is that it is actually
+a motivational state.
+702.48 It is a yearning.
+703.58 It is a desire for something,
+706.13 and somewhat surprisingly,
+707.87 it's not just a desire
+to have that person back,
+711.11 or to have that animal back.
+712.94 You might think, "Well, that's
+crazy, of course it is."
+715.63 But of course, there are instances
+717.46 in which someone passing away
+or an animal passing away
+720.18 is actually providing
+relief for that person,
+723.1 because of where they
+happen to be in their life.
+725.4 Today, I'll teach you about
+grief as a motivational process,
+728.64 because grief as a motivational process
+731.15 really is the way that
+scientists and psychologists
+734.02 now conceptualize grief, and
+the treatments for grief,
+737.81 so that people can move
+through them effectively.
+740.12 As we wade into this important topic,
+742.61 I'd like to emphasize
+some of the common myths
+744.63 and misunderstandings about grief.
+746.89 Some of the myths and
+misunderstanding arrive
+748.93 from the beautiful work
+of Elisabeth Kubler-Ross,
+752.03 a psychologist who wrote the
+famous book on death and dying.
+755.21 And I should emphasize
+that while Kubler-Ross
+758.04 was a real pioneer in establishing
+760.38 that there are indeed
+different stages of grief,
+763.36 the modern science, both
+psychology and neuroscience,
+765.85 point to the fact that not everybody
+767.38 experiences all of the stages
+that Kubler-Ross defined,
+770.65 nor do they move through those
+stages in a linear manner.
+773.82 Sometimes they're out of sequence.
+775.81 I'll just highlight the five stages
+777.52 that Kubler-Ross illustrated,
+779.17 because some people really
+do experience all of them,
+782.21 sometimes in the order I'll read them.
+783.83 But again, oftentimes they don't.
+786.66 The different stages
+of grief, very quickly,
+788.81 are denial, anger, bargaining,
+790.55 depression, and acceptance.
+792.54 In the Kubler-Ross model,
+793.78 denial is always the first stage,
+795.88 and denial is just as it sounds,
+797.7 this disbelief, it cannot
+be, there's no way,
+801.13 a refusal to accept the new reality
+803.76 that the person or animal is gone.
+806.89 The second stage, anger,
+808.72 is one in which the individual recognizes
+811.92 that the person is indeed gone,
+813.53 or the animal is gone,
+815.62 but their body and their mind
+go into a motivated state.
+820.08 This is important.
+820.913 We're going to return
+to this idea of grief
+822.75 as a motivated state that
+involves action plans,
+826.298 in more depth as we go further.
+828.92 And then the third stage is bargaining,
+830.53 what's sometimes called
+the negotiating phase,
+832.94 this idea that, well,
+if I had just done this,
+835.88 or if they had just done that,
+836.96 or if I had called more,
+838.13 or somehow refusing to accept the reality.
+842.18 So in a way this can be blended
+with denial in thinking,
+845.847 "Well, if I just don't think about it,
+847.64 it won't be real," this kind of thing.
+850.13 So again, stages can be
+blended or braided together,
+852.95 because emotions are complex, right?
+854.75 Even though there are different
+stages to this process,
+856.59 they can sometimes be melded together.
+859.47 The fourth stage of depression
+that Kubler-Ross described
+862.81 is one of, why go on living?
+865.77 Why should I go on living?
+867.03 Why should I continue in
+this grief-stricken state
+870.89 that seems to deprive me
+of all the richness of life
+873.59 that I experienced when the
+person or animal was still here.
+876.39 And then the fifth stage is acceptance.
+878.89 This internalization,
+not just cognitively,
+881.69 not just thinking,
+882.77 but emotionally that
+it's going to be okay,
+885.44 that not just this too shall
+pass, but that it has passed.
+890.27 So again, the five stages of grief
+892.91 that Kubler-Ross defined
+were immensely important
+895.5 as a critical parsing
+of the different stages
+899.41 that one could move through.
+901.19 But unfortunately those five stages
+902.87 were sort of taken to be
+gospel for a long time.
+905.32 And we now know, based on neuroimaging,
+908.01 based on more in-depth
+psychological evaluation,
+910.64 and frankly, more
+researchers and clinicians
+913.51 moving into this area and observing
+915.46 that while much of what
+Kubler-Ross described
+918.33 does hold true, it's not always the case.
+921.0 And in fact, the contour
+of the grief process
+923.69 actually has a lot of dimensions
+925.17 that are not encapsulated
+by those five stages.
+927.96 There's also a lot of variation,
+929.25 depending on whether or not the loss
+930.59 is due to old age, disease,
+932.64 whether or not there was
+suffering prior or not,
+935.3 suicide or non-suicide
+type deaths and losses,
+938.55 and even grief about non-death losses,
+942.211 a relationship breakup,
+or something of that sort,
+945.39 or even homesickness
+and things of that sort.
+948.1 So I do want to tip our
+hats to the incredible work
+951.89 of Elisabeth Kubler-Ross.
+953.66 By no means am I or do other researchers
+956.03 try and discount her
+incredible contributions.
+958.63 But I think nowadays we have
+a different and frankly,
+961.89 a better understanding of what
+the grief process is like,
+964.77 and as a consequence, better
+tools to move through grief.
+968.13 In order to really
+understand what grief is
+970.54 in your brain and body,
+972.01 and how to best navigate grief,
+974.3 I'd like you to do an experiment with me.
+976.94 For the next five minutes or so,
+979.05 I'd like you to at least try to discard
+981.78 of all prior notions of grief
+984.46 as just a state of sadness.
+987.22 I want to acknowledge that it is
+988.85 and does involve sadness,
+990.94 but for right now,
+992.53 let's think about grief
+as a motivational state,
+995.86 as a desire for something specific.
+998.81 In fact, I'd like you to think about grief
+1001.48 as an attempt to reach out
+1003.8 and get something that you very much want.
+1006.35 Imagine yourself extremely
+thirsty, for instance,
+1009.23 on a very hot day,
+1010.93 and a glass of water is
+right in front of you.
+1014.12 And it's a beautiful,
+clean glass of water,
+1016.79 and it's completely full,
+1018.51 and you so badly want to drink that water.
+1021.68 But no matter how intensely you want it,
+1025.48 and no matter how hard
+you try and reach it,
+1027.79 it always shifts just outside your reach.
+1031.21 So if you can imagine that,
+even just a little bit,
+1034.76 you are touching into
+the experience of grief.
+1037.7 How do I know this?
+1039.06 Well, I know this because
+brain imaging studies
+1042.139 involving what's called
+functional magnetic
+1044.35 resonance imaging, FMRI,
+1046.57 in which you can evaluate
+1047.94 which brain areas are
+more active than others,
+1050.09 according to blood flow,
+1051.28 which correlates with neural
+activity and so forth,
+1053.88 teaches us that the brain areas
+1056.13 that are associated with
+motivation and craving and pursuit
+1060.43 are some of the primary
+brain areas and circuits
+1063.3 that are activated in states of grief.
+1066.46 I'd like to share an
+important paper with you,
+1068.04 as one of the first to illustrate the fact
+1070.07 that grief is not just a
+state of sadness and pain.
+1074.81 It is indeed a state of
+yearning and desire of something
+1078.92 that is just outside your reach,
+1081.16 and unfortunately will always
+be just outside your reach
+1084.45 until you remap your relationship
+to that person or thing.
+1088.76 The title of this paper is
+posed first as a question,
+1091.66 so that's why I'll read it as such.
+1093.19 The title is "Craving Love?
+1095.17 Enduring Grief Activates
+Brain's Reward Center."
+1097.95 And the first author of this paper
+1099.3 is Mary-Frances O'Connor.
+1100.58 She's a professor of psychology
+1102.002 at the University of Arizona,
+1104.57 and one of the world leaders
+in the study of grief
+1108.52 from a neuroscience perspective.
+1110.03 With some luck, we'll get her here
+1111.16 on the podcast as a guest.
+1113.58 Now this paper has several
+important features.
+1115.88 I'll just highlight a few.
+1117.23 One of the features of this
+paper that's not surprising
+1119.98 is they found that people
+who are in a state of grief
+1122.81 are in a state of pain.
+1123.98 That is, brain areas associated with pain,
+1127.08 actual physical pain, are more active
+1130.67 than in non-grieving individuals.
+1133.74 However, they also found that
+people who are experiencing
+1136.25 what's called complicated grief
+1138.0 showed reward-related activity
+1140.52 in a brain area called
+the nucleus accumbens.
+1142.82 What is reward-related activity?
+1144.31 Reward-related activity
+is activity of neurons
+1148.13 that's associated with
+motivational states.
+1151.21 And the nucleus accumbens
+is a brain center
+1153.8 in which dopamine has the effect
+1156.17 of creating a motivated state.
+1158.7 If ever you thought that dopamine
+1160.75 was only associated with feeling good,
+1162.95 you hear about dopamine hits,
+1164.64 well, this paper and papers like it,
+1168.28 firmly tell us that dopamine
+is not about feeling good.
+1172.01 Dopamine is about placing us into a state
+1174.49 of desiring things and seeking things.
+1178.53 This is true in addiction.
+1180.28 This is true when we're
+hungry and we want to eat.
+1183.01 This is true when we want to reproduce.
+1185.62 This is true in every state
+1187.57 in which we are reaching for something
+1189.14 outside our immediate ability
+1191.38 to give that thing to ourselves.
+1193.21 This is very important to understand,
+1195.38 if you want to understand grief
+1196.76 and how to move through grief.
+1198.47 Grief is not just about sadness.
+1200.66 It is a state of sadness,
+1203.2 hence the activation of brain
+areas associated with pain,
+1206.35 and it is a state of desire
+and reaching for something.
+1211.95 And for those of you that
+have experienced grief,
+1214.64 I think that will resonate with you.
+1217.32 In that understanding that
+grief is both a state of pain,
+1222.82 but also a state of wanting,
+1226.04 and in the understanding
+that when we lose somebody,
+1230.23 either because of breakup
+or because of death,
+1234.58 or if an animal dies or gets
+taken away or is missing,
+1240.24 that state of wanting and desire
+1242.23 drives an activation state within us.
+1245.18 Now, the key thing to understand
+1246.36 is that the activation
+of those reward centers,
+1249.02 and the involvement of dopamine
+1251.45 puts us into an anticipatory state,
+1254.4 a state of waiting for
+something to happen.
+1256.88 It also puts us into a state
+of action or desiring action.
+1261.21 Our body and our mind
+1262.91 are what I like to refer to
+as center of mass forward.
+1266.04 We are seeking how to resolve the craving,
+1269.47 even if we know that is impossible.
+1272.53 Why do I say that?
+1273.42 Well, we understand,
+1275.47 also on the basis of
+brain imaging studies,
+1278.85 and also some studies in animals
+1280.48 that I'll describe in a moment,
+1282.24 that in order to understand grief,
+1284.89 we have to understand how attachments
+1286.81 are represented in our brain.
+1288.35 And it turns out that both attachments
+1291.04 and the breaking of
+attachments in healthy ways
+1293.87 are governed by three important,
+what we call dimensions.
+1297.45 A dimension is just some
+feature of the world
+1300.58 that's represented in our brain.
+1302.85 So for instance, the color red
+doesn't exist in your brain.
+1306.67 You happen to have cells,
+neurons, in your eye
+1311.69 that respond best to long
+wavelengths of light.
+1315.63 And those long wavelengths of light
+1317.36 happen to be what are reflected off things
+1319.95 that are perceived as red.
+1322.31 So in your mind, you have a notion of red.
+1324.82 I know this is a little bit abstract,
+1326.27 but you're not actually
+lighting up red neurons
+1329.77 in your brain, and that's why you see red.
+1332.04 You are lighting up neurons in your brain
+1334.3 that represent the presence of red things
+1337.74 in your environment.
+1339.29 Similarly, we have neurons and maps,
+1342.89 or we say representations
+of other dimensions.
+1345.79 We have dimensions of touch.
+1346.93 We have dimensions of sound.
+1348.58 And as I'll now teach you,
+1350.29 we have three dimensions
+that define our relationship
+1354.37 to people and animals and things.
+1356.83 And when those people, animals and things
+1359.46 are within our immediate vicinity,
+1362.11 or if we know how we
+could access them, right?
+1365.73 If somebody's still alive,
+1366.66 there's generally some way to access them,
+1370.03 unless they're refusing
+to interact with us.
+1373.12 Well, when we understand that,
+1375.4 our motivational states can operate
+1378.19 in a way that's logical.
+1379.4 We know that, for instance,
+1380.44 if we want to find our
+mother, brother, sister,
+1384.22 significant other, dog,
+cat, parrot, et cetera,
+1387.53 we have to go through
+a certain set of steps.
+1390.37 What are those three dimensions
+and how do they work?
+1393.053 And that's what I'm
+going to teach you now.
+1394.56 So at risk of sounding a
+little bit too reductionist,
+1396.87 we are now going to
+describe your relationship
+1400.54 to anything, everything, and anyone,
+1404.37 in these three dimensions.
+1406.85 How can we do that?
+1408.43 Why would we even want to do that?
+1410.73 Why would we want to rob the
+complexity of relationships
+1414.41 of their contour and their detail?
+1417.4 Well, if we can understand the dimensions
+1421.14 in which we map our relationship
+1423.46 to people, animals, and things,
+1426.4 then we can understand why
+it is that when those people,
+1431.1 animals, or things are
+not accessible to us,
+1435.1 why it hurts so much,
+1437.3 and why it takes a certain amount of time
+1439.53 in order to re-understand, if you will,
+1442.75 or remap our association to them.
+1445.93 I promise that in grasping the information
+1448.37 I'm about to give you,
+1450.07 you will be able to better
+orient in the grief process,
+1454.06 and you'll be able to move
+through it more effectively.
+1457.43 The three dimensions
+of relating to someone,
+1461.6 or an animal, or a thing,
+1463.41 are space, time, and closeness.
+1467.24 And in order to illustrate each one
+1469.24 and how they work together
+to support relationships
+1472.81 and their involvement
+in the grieving process,
+1475.16 I'm going to tell you about an experiment.
+1477.73 This experiment was actually done.
+1480.07 The experiment involves putting
+people into a brain scanner
+1483.08 that allows the researcher to evaluate
+1485.141 brain activity in different areas.
+1487.54 In fact, can look in
+a very non-biased way,
+1491.05 not make any predictions
+about which brain areas
+1492.87 are going to be involved.
+1494.5 And the experiment is the following.
+1497.02 The person, we should
+say the research subject,
+1500.29 first sees images of things that reside
+1503.38 at different distances from one another.
+1505.01 And when I say things, these are objects.
+1507.61 So in one case it's a
+beach or a parking lot
+1511.7 with bowling balls set
+1513.01 at different distances from one another.
+1516.3 Their brain is imaged,
+1517.75 and as their brain is imaged,
+1520.24 they see different pictures
+of different scenes,
+1523.35 the beach, the parking lot, et cetera,
+1525.38 bowling balls spaced in different ways,
+1527.69 close together, far apart,
+1529.14 regularly spaced, non-regularly spaced.
+1532.18 When one does this sort of experiment,
+1533.47 you see a lot of brain areas activated.
+1535.78 Not surprisingly, the visual cortex,
+1537.48 the area of the brain that is responsible
+1539.03 for creating visual perceptions,
+1541.85 but also a brain area
+that seems uniquely tuned
+1546.06 to the distance between
+you and the objects.
+1550.36 So whether or not the
+bowling balls are far away
+1552.34 or close together from one another,
+1554.85 and whether or not they are far away
+1556.66 or close to you physically,
+1558.19 so literally the distance
+between you and these objects.
+1560.97 We'll refer to that measure,
+1562.88 that dimension, as we call
+it, as proximity, okay?
+1565.84 Whether or not it's very close to you,
+1567.631 high degree of proximity,
+1569.61 or far away, low proximity.
+1572.72 But it's simply physical space.
+1575.79 Then subjects listened to tones.
+1579.2 Those tones also are
+spaced from one another.
+1582.01 So it could be something as simple as
+1584.16 my hand meeting the table top
+1587.34 that I'm happen to be sitting in front of.
+1588.75 So it's [hand hits].
+1592.96 They image the brain.
+1593.819 Of course, areas of the brain
+1595.59 that are associated with
+auditory perception are active,
+1598.62 not surprisingly, but as they evaluate
+1601.57 different types of sounds
+and patterns of sounds,
+1604.0 for instance, [hand hits]
+1609.03 they can start to parse brain areas
+1610.92 that seem uniquely tuned
+to the spacing of sounds,
+1615.0 independent of what sounds are coming in.
+1616.7 So whether or not it's musical notes,
+1617.92 or my hand hitting the
+table, or human speech,
+1620.807 they identified a brain
+region that is uniquely tuned.
+1625.49 That is, it becomes active
+specifically in response
+1628.83 to changes in the spacing between sounds,
+1631.84 much in the same way as they
+could identify brain regions
+1634.42 that were only activated
+1636.03 when there were changes in
+the distance between objects,
+1638.93 such as the bowling balls
+1640.07 that I used in the previous example.
+1642.3 And then the subjects saw
+a different set of images.
+1645.86 The images that they saw
+were of people, and of faces.
+1649.66 And some of the images that they saw
+1651.41 were of people's faces right up close,
+1653.88 and other images were
+of people at a distance,
+1657.54 where you could see the
+whole body of the person.
+1659.91 Now, they also varied
+1661.72 the emotional relationship
+to those people.
+1664.29 That is, they were able to get photographs
+1666.87 from these research subjects' lives,
+1669.13 so they could show them
+pictures of, for instance,
+1671.15 their sister or some random
+person off the street.
+1675.09 They could show them pictures of a parent,
+1678.52 or of a neighbor,
+1680.0 or of a celebrity that's well known,
+1682.89 or of somebody that
+they didn't know at all.
+1685.5 So they were able to vary
+1686.97 both the position of the
+person, close or far,
+1690.481 and they were able to vary
+1692.4 the emotional distance to the person,
+1694.84 which is this dimension that
+I'm referring to as closeness,
+1697.53 which is not physical closeness,
+1698.98 but how attached, or how
+well you know somebody.
+1702.58 Now, this is maybe sounding like
+1704.31 a somewhat complicated experiment,
+1705.67 but the takeaway from this experiment
+1707.56 is exquisitely simple,
+and exquisitely important.
+1712.27 The result was, that in
+all three conditions,
+1718.73 changes in the physical
+spacing of these objects,
+1721.84 changes in the temporal,
+1724.4 that is, the time spacing of these sounds,
+1726.62 and changes in the emotional distance
+1729.48 between the subject and different people,
+1731.85 the same brain area
+was uniquely activated.
+1736.07 Now that is an incredible thing to find,
+1738.37 because what it suggests is that, yes,
+1741.38 of course there are brain areas
+1742.41 that are associated with
+representation of visual objects,
+1745.14 and that yes, of course
+there are brain areas
+1746.69 associated with representation
+of different sounds.
+1749.95 And of course, there are brain
+areas associated with faces.
+1752.17 We now know this.
+1753.33 In fact, there's something
+called the fusiform face area,
+1755.57 which is uniquely tuned to faces.
+1758.11 But at the same time,
+1760.13 there is a unique brain
+region that is activated
+1765.055 in all three of the
+conditions I described,
+1768.22 that has to do with how
+far you are from somebody,
+1771.11 both in space, in time,
+1774.14 and in terms of emotional closeness.
+1776.61 And that brain area, it turns out,
+1779.37 is a brain area called the
+inferior parietal lobule,
+1783.19 the inferior parietal lobule.
+1784.55 Now, you don't need to know
+1785.95 where the inferior parietal lobule is.
+1788.55 In fact, you don't even need to know
+1789.7 the name of this brain area.
+1791.51 What you do need to know, however,
+1792.96 if you want to understand grief
+1794.35 and how to move through grief,
+1796.01 is that your map of people is not a map
+1799.87 of emotional closeness per se.
+1802.85 It is a map of emotional closeness,
+1805.123 what we call attachment,
+1807.2 that is interwoven, that is braided in,
+1810.69 in a very intimate way, with your map
+1813.07 of where they are in physical space,
+1816.15 and where they are in time,
+1818.32 when you saw them last,
+1819.41 when you're likely to see them again,
+1821.25 and if you were to want to see them,
+1824.84 how much time it would take to reach them,
+1826.98 or for them to reach you.
+1828.84 Now earlier, I said that
+one of the key functions
+1831.17 of our nervous system
+1832.28 is to be able to make predictions.
+1834.56 And so it's somewhat obvious,
+1836.98 but nonetheless important
+to state and restate
+1840.0 that one of the most powerful aspects
+1842.28 of our attachments to
+people, animals, and things
+1846.1 is our ability to predict
+what it would take
+1848.86 to see them again, and when we
+are going to see them again.
+1852.34 In fact, we could say that our ability
+1855.94 to locate someone, or
+an animal, or a thing
+1859.56 in space and time, right,
+1861.94 where they are and how
+long it would take for us
+1864.43 to reach them or them to reach us,
+1867.06 is a prediction of the requirements
+1870.17 to engage in the attachment.
+1871.93 In order to illustrate this
+at a little bit more depth,
+1875.17 let's just do a fill in
+the blank experiment.
+1877.8 You can do this now in real time.
+1879.68 I want you to think of somebody
+that you either rely on
+1882.9 or that you care about very, very much.
+1885.75 And I'll just allow you
+1887.45 to fill in the blank on this sentence.
+1890.477 "If I want to see blank,"
+the person or animal,
+1895.137 "I could see them within
+blank amount of time," right?
+1898.93 If right now you wanted to
+see this person or animal,
+1901.89 or maybe even a thing,
+1903.65 how long would it take you to reach them?
+1906.44 Could be a day, could be a second,
+1908.93 could be they're right next to you.
+1910.12 All you'd have to do is turn your head.
+1913.4 Now answer this.
+1915.687 "If this person were to travel
+halfway around the world,
+1922.01 and land in their plane,
+1924.47 I would expect to hear from them
+1926.26 within blank minutes of them landing."
+1929.97 Okay, the answers of this
+of course, will differ.
+1933.73 Now, I'd like you to answer this question.
+1936.337 "If I'd like to find myself,
+1938.24 it would take me X amount of time."
+1941.41 And of course, if you're listening to this
+1942.833 and you're understanding it
+and you're of a rational mind,
+1946.6 the answer to that should be
+zero seconds, instantaneous.
+1949.84 You are always able to locate
+yourself in space and time,
+1952.81 provided you are in the
+appropriate state of mind,
+1955.65 meaning not asleep, for instance.
+1958.62 That last question might
+seem somewhat silly,
+1961.16 but it's a fundamentally important one,
+1963.71 because it illustrates the extremes
+1965.24 at which we map our
+relationship to ourselves
+1967.36 relative to other people and things.
+1969.81 Now, if all of this sounds
+1970.87 like a bunch of neuropsycho babble,
+1975.46 parsing of the obvious,
+1977.63 I'd encourage you to suspend
+that belief for the moment.
+1980.6 Because if you understand
+that all relationships
+1983.09 are mapped in the brain and body
+1984.67 through these three dimensions,
+1986.06 space, time, and closeness,
+1988.06 or proximity of space, proximity in time,
+1992.36 and proximity of attachment,
+1995.04 how close or rich or
+bonded you are to someone,
+2000.23 well, if you can understand that,
+2002.75 then it almost becomes obvious,
+2005.47 or at least it becomes intuitive,
+2007.66 as to why, after the loss of somebody,
+2010.04 in particular, a death,
+or the loss of an animal,
+2013.31 this map has to be reordered.
+2015.83 Why, because if we are attached
+to someone, or an animal,
+2020.86 at a deep level,
+2022.64 it is almost always on the basis
+2025.01 of a lot of what we call
+episodic experience,
+2027.76 a lot of episodic memories,
+2029.3 memories of things that happen.
+2031.33 Episodic memories are literally
+2034.08 the conscious recollection of
+your experience of somebody,
+2037.95 or an animal, or a thing.
+2039.93 And within that memory,
+2042.53 you have an understanding of
+what has happened with them
+2046.58 in association to you,
+2048.05 what's going on with them,
+2049.57 where it happened, when it happened.
+2051.86 You have a rich knowledge database
+2054.13 that we call implicit knowledge, right?
+2056.12 You might not be aware of it all the time,
+2057.76 but it's within you, of
+what this person is like
+2060.27 and what they're doing in their life.
+2062.99 When somebody is taken away
+from us, for whatever reason,
+2067.46 episodic memories persist
+for some period of time,
+2070.92 and they are still linked to
+our feelings of attachment.
+2074.45 Grief is the process of
+uncoupling, unbraiding,
+2078.8 and untangling that relationship
+2081.99 between where people
+are in space, in time,
+2084.197 and our attachment to them.
+2086.01 What I mean by this is
+when somebody or an animal
+2088.51 or a thing is taken from us,
+2090.09 either by decision or by
+death, or by circumstance,
+2095.01 well, in that case, our entire memory bank
+2100.65 and our ability to predict
+where and when they will be,
+2103.92 and therefore when we can feed
+our attachment to them again,
+2108.44 that whole map is obliterated,
+2111.76 except that the attachment
+itself has not been disrupted.
+2116.24 Assuming that you are
+deeply attached to someone
+2118.61 or an animal or a thing,
+that attachment persists,
+2121.61 and the grief process is one
+2123.3 in which you have to reorder
+your understanding of them
+2125.99 in space and in time.
+2128.3 This is very, very hard to do,
+2130.37 and for some people it's
+almost impossible to do,
+2133.59 at least at the outset of grief.
+2135.61 This, in a very neurosciencey way,
+2138.68 explains this stage that
+Kubler-Ross described,
+2142.03 which many, again, not all,
+2143.54 but many people experience,
+2144.77 which is one of denial.
+2146.57 How could it be, why?
+2148.34 Well, when we have a rich catalog
+2151.39 of experiences with
+somebody or of them, right,
+2154.4 ideas about them and what they do,
+2155.87 how they spend their day,
+2156.74 what they do and don't do,
+2157.61 where they do it, et cetera,
+2159.3 well, that memory bank
+is not just flushed out
+2163.77 the moment that we learn that
+they're no longer with us.
+2167.56 What happens is, the brain continues
+2169.45 to make these predictions
+2170.73 that they will be in a certain place
+2173.12 or a certain time, right,
+2174.73 that they'll be in a certain time zone
+2175.96 or they'll walk in the door any moment.
+2177.89 All of those predictions still hold.
+2179.47 The neural activity continues.
+2181.03 We call this reverberatory activity.
+2184.36 That explains the yearning for,
+2186.33 and the desire to interact,
+2187.64 and yet it's just beyond our reach.
+2189.14 Because once they're gone,
+2191.23 our brain still functions in a way,
+2194.0 these neural circuits
+still function in a way
+2196.38 that put us into an action
+state of seeking them,
+2199.18 looking for them in the same location,
+2201.46 expecting them to contact
+us at whatever frequency
+2204.07 that we were used to hearing from them,
+2205.82 or that we could reach out to them
+2207.02 and reliably get a response.
+2210.66 It is immensely
+disorienting, in other words,
+2213.84 to maintain a close attachment,
+2216.8 and at the same time to not
+be able to make predictions
+2220.59 about where that person, animal,
+2222.87 or thing is in space and time.
+2226.01 Now, if this seems somewhat abstract,
+2228.03 I'm going to continue to flesh it out.
+2229.89 And actually right now,
+I'd like to flesh it out
+2231.99 with a real-world
+example of grief and loss
+2234.95 that comes to us from perhaps
+2237.33 one of the greatest
+minds in human history,
+2239.81 and somebody who was intensely grounded
+2243.39 in reality and logic, and
+indeed the physics of the world.
+2247.33 And the person I'm referring
+to is none other than
+2249.57 the Nobel Prize-winning
+physicist, Richard Feynman.
+2253.21 Many of you are probably
+familiar with Richard Feynman.
+2255.48 Some of you perhaps are not.
+2256.94 Richard Feynman was a Nobel
+Prize-winning physicist,
+2259.78 known for his thick New York accent.
+2262.46 He was actually not from
+Brooklyn, as many people think.
+2265.14 He was actually from Far
+Rockaway in Long Island.
+2269.01 Thick New York accent, very personable,
+2273.09 exceptional teacher, brilliant mind,
+2275.64 hence the Nobel Prize in physics.
+2277.27 Also a quite funny and amusing person,
+2279.68 told great anecdotes, et cetera.
+2282.69 Feynman had a childhood sweetheart
+2285.77 who turned out to be his first wife.
+2287.94 Her name was Arline, and it was well known
+2290.46 that Feynman was absolutely
+in love with her.
+2294.24 He would talk about her all the time.
+2295.87 She had a profound influence
+on him and his thinking,
+2298.58 and ultimately on his public
+education efforts later.
+2301.7 If you haven't already read books such as
+2304.237 "Surely You're Joking, Mr. Feynman,"
+2306.24 or "What Do You Care
+What Other People Think,"
+2308.57 I encourage you to do so.
+2309.403 And in fact, that quote,
+2310.277 "What do you care what
+other people think,"
+2312.1 is actually a quote, not of Feynman,
+2314.4 but of his first wife, Arline,
+2316.05 who sadly, died at a very
+young age from tuberculosis.
+2319.8 Why am I sharing Feynman's story
+2322.095 of loss of his first bride?
+2324.18 Well, the reason is, Feynman continued
+2328.01 to write letters to Arline
+for a long period of time.
+2330.95 This is well known only
+because after Feynman died,
+2335.964 it was discovered that he kept an archive
+2338.75 of letters to his deceased first wife.
+2342.88 And even though he did eventually marry,
+2345.61 and in fact had many
+relationships with many people,
+2348.32 and I think was married twice more,
+2349.68 maybe it was once, maybe it was twice,
+2352.33 the intensity of his grief,
+2354.37 but also his lack of ability
+to transition his mind
+2360.23 to a place where he understood
+that Arline had died,
+2363.6 is one of the more profound examples
+2366.15 of this inability to reconcile
+2368.67 the logical world and the emotional world.
+2371.24 And I'm now going to read to you a letter
+2374.29 that Feynman wrote to Arline.
+2375.91 This was discovered after Feynman's death,
+2377.89 when they went through his
+desk and his belongings.
+2380.98 And as I read this, you're going to hear
+2383.7 some of the typical narrative of grief
+2385.95 that is not unique to
+Feynman and his dead wife,
+2390.92 but there are also some elements in there
+2393.36 that I think you'll recognize
+2395.05 as highlighting this disbelief
+and this dissociation
+2398.98 between the reality of somebody's location
+2401.61 in space and time,
+2403.05 and the emotional attachment
+that they hold for us.
+2405.7 And therein lies the information
+2407.42 about how to better navigate grief.
+2409.53 So now I'm reading from the letter.
+2410.86 This was a letter dated
+October 17th, 1946.
+2415.83 It's not terribly long, but bear with me.
+2418.311 "Dear Arline, I adore you, sweetheart.
+2421.97 I know how much you like to hear that,
+2423.61 but I don't only write
+it because you like it.
+2426.06 I write it because it makes
+me warm all over inside
+2428.45 to write it to you.
+2430.22 It is such a terribly long time
+2431.69 since I last wrote to
+you, almost two years,
+2434.57 but I know you'll excuse me,
+2435.68 because you understand how I am,
+2437.32 stubborn and realistic,
+2438.84 and I thought there was
+no sense to writing.
+2441.9 But now I know, my darling wife,
+2443.23 that it is the right thing to do,
+2444.53 what I have delayed in doing,
+2445.9 and that I have done so much in the past.
+2448.26 I wanted to tell you I love you.
+2450.04 I want to love you.
+2451.31 I will always love you."
+2452.98 So here we can hear the
+intense emotional attachment
+2455.76 that clearly has persisted.
+2458.937 "I find it hard to understand in my mind
+2460.93 what it means to love
+you after you are dead,
+2463.52 but I still want to comfort
+and take care of you.
+2465.94 And I want you to love me and care for me.
+2468.72 I want to have problems
+to discuss with you.
+2470.78 I want to do little projects with you.
+2472.86 I never thought until just
+now that we can do that.
+2475.68 What should we do?
+2477.38 We started to learn to
+make clothes together,
+2479.39 or learn Chinese, or
+getting a movie projector.
+2482.55 Can't I do something now?
+2484.07 No, I am alone without you,
+2486.32 and you were the idea woman
+2488.01 and the general instigator
+of all our wild adventures.
+2492.15 When you were sick,
+2492.983 you worried because you could not give me
+2494.31 something that you wanted,
+and you thought I needed.
+2498.01 You needn't have worried.
+2499.43 Just as I told you then,
+2500.52 there was no real need,
+2501.44 because I loved you in
+so many ways so much.
+2503.83 And now it is clearly even more true.
+2506.27 You can give me nothing now,
+2507.94 yet I love you so that
+you stand in the way
+2509.96 of my loving anything else.
+2511.78 But I wanted you to stand there.
+2513.31 You, dead, are so much better
+than anyone else alive."
+2517.79 So you can really appreciate the depth
+2520.75 and intensity of the attachment.
+2522.32 Despite two years' time,
+it clearly has not waned.
+2526.53 I'll read the final paragraph now.
+2529.347 "I know you'll assure
+me that I am foolish,
+2531.53 and that you want me
+to have full happiness,
+2533.58 and don't want to be in my way.
+2535.52 I bet you are surprised
+2536.45 that I don't even have a girlfriend,
+2537.404 except you sweetheart, after two years,
+2540.67 but you can't help it, darling, nor can I.
+2542.65 I don't understand it,
+for I've met many girls,
+2545.13 and very nice ones, and I
+don't want to remain alone.
+2548.37 But in two or three meetings,
+they all seem ashes.
+2551.84 You only are left to me.
+2553.91 You are real.
+2555.44 My darling wife, I do adore you.
+2557.57 I love my wife.
+2559.08 My wife is dead.
+2560.77 Rich.
+2562.3 P.S., please excuse my not mailing this,
+2565.01 but I don't know your new address."
+2568.57 So there's a lot contained in this letter.
+2571.13 We could parse it line by line,
+2573.29 but I think it's fair to say that clearly,
+2574.84 there's an immense attachment
+that's been maintained.
+2577.09 So that's that dimension
+of closeness of attachment.
+2580.92 Clearly, there's an
+understanding that she's dead.
+2582.93 In fact, the last line
+of this love letter is,
+2586.517 "My wife is dead," right?
+2588.67 He now moves her into the
+third person, in fact,
+2591.168 in that final line.
+2593.96 So he understands this,
+2595.24 and yet he maintains the attachment.
+2597.87 And the very last portion
+of the letter, the P.S.,
+2601.33 the postscript, "I don't know
+your new address," right?
+2604.75 Somewhat humorous in the typical vein
+2606.92 of a Feynman writing or speech.
+2610.02 He always had a intensely amusing
+2613.48 and playful sense of humor.
+2615.29 And yet there's something
+really contained in this.
+2617.08 I don't think we're
+reading into this too much,
+2619.68 in that he doesn't know where to find her.
+2621.88 He feels her as very real,
+2624.64 and yet he doesn't know where to find her.
+2626.75 He doesn't know her address.
+2628.48 He obviously knows she's dead,
+2629.84 so there's nowhere to mail it to.
+2631.92 The reason I shared this letter with you,
+2633.39 as opposed to one of the
+almost infinite number
+2636.3 of other letters that have been written
+2638.329 by poets and authors and
+scientists and everyday people,
+2642.87 is that it really encapsulates
+all three dimensions
+2646.1 of attachment and grief.
+2648.09 These notions of space,
+2650.04 where is something or somebody,
+2652.3 time, this dimension of,
+2654.39 how long would it take me to reach them
+2655.95 or for them to reach me?
+2657.49 What would it take, in terms
+of time, to be reunited?
+2661.2 And then that last dimension of closeness,
+2663.98 and the letter beautifully
+illustrates the fact
+2666.88 that, in grief, we maintain
+that sense of closeness.
+2672.3 And yet we have to uncouple it
+2674.47 from these other two dimensions,
+2676.65 as we're referring to, space and time.
+2679.78 So with this current
+understanding in mind,
+2682.47 a few things start to become obvious
+2684.97 and entirely normal to us,
+2687.25 in the best and most healthy
+sense of the word normal.
+2691.61 For instance, if you've
+lost somebody, or an animal,
+2695.19 or even a thing that was
+vitally important to you,
+2698.82 it should make perfect sense to you
+2700.21 as to why you keep
+looking for that person.
+2703.16 I recall this in my own life.
+2704.58 I had the unfortunate circumstance
+2706.54 of my graduate advisor,
+who I was very close with,
+2709.33 died quite young of breast cancer.
+2712.49 And her daughter, she
+actually has two daughters,
+2716.66 kept her cellphone and
+would occasionally call me.
+2719.4 I had a quite close
+relationship to their family.
+2722.87 And when it would come in,
+2724.27 the number would pop up on
+my phone of not the daughter,
+2728.05 but the name that showed up
+was of my graduate advisor.
+2730.82 So for years after she
+died, my initial impulse,
+2734.33 when the phone would ring was,
+2735.407 "Oh my goodness, she's calling."
+2736.74 It was a reflexive excitement
+2738.86 because I truly always
+enjoyed hearing from her.
+2741.96 She was a wonderful,
+2743.7 incredibly wonderful person, I should say.
+2746.81 Similarly, when somebody passes away,
+2748.78 we will find ourselves looking into a room
+2750.6 expecting to see them there,
+2752.2 or expecting them to knock
+on the door any moment,
+2754.52 or to call on Sunday morning, as it were.
+2759.63 Those expectations, those predictions
+2762.433 that the brain is making,
+are entirely normal,
+2766.87 because they are based
+on that deep catalog
+2769.58 of episodic memory that you
+maintain about that person.
+2772.68 Again, the depth and
+richness of that catalog
+2775.76 scaling, of course, in direct relation
+2778.61 to how close you were
+with that person, right?
+2780.73 Closer to somebody means
+more information about them.
+2783.73 More information about them
+2784.87 means your brain has a lot of implicit,
+2788.02 unconscious notions of when
+and where and how they show up.
+2793.93 So the fact that your brain,
+2795.5 and indeed, sometimes your body reacts
+2798.25 to the expectation that they'll
+be there is entirely normal.
+2802.84 It's simply an activation of this map
+2805.333 that involves closeness, space, and time.
+2809.72 Not surprisingly, then,
+the reordering of that map
+2814.43 that's required in order to move through
+2816.39 the grieving process,
+2818.31 is going to involve some remapping.
+2822.097 And you, as the person grieving,
+2825.75 have the opportunity to ask
+which node as it's called,
+2829.15 which element or
+dimension within that map,
+2832.12 are you going to focus on?
+2834.62 Some people really try
+hard to disengage with
+2838.53 and remap their sense of
+emotional closeness to the person.
+2841.6 That is, it's so unbelievably
+overwhelming to them,
+2845.49 that the person is no longer accessible,
+2847.63 that they try and change their ideas
+2850.48 about how close they really were.
+2852.32 They try and change their
+emotional attachment to the person
+2854.76 after they've died.
+2856.06 Clearly in the example that
+I gave in the Feynman letter,
+2858.97 that's not the case.
+2860.828 The attachment seems indeed quite fixed
+2861.86 and not going anywhere.
+2864.23 Psychologists and
+neuroscientists generally agree
+2866.52 that the best way to
+approach moving through grief
+2869.43 is actually to remap these dimensions
+2872.74 while maintaining the
+close sense of attachment
+2875.76 to the person,
+2877.2 by not in any way trying to undermine
+2880.24 the intensity of the attachment
+2881.78 or how important it was to you.
+2884.19 So we'll now talk about
+how that process works,
+2887.37 and the different entry
+points, as they're called,
+2891.17 to engaging in that process.
+2893.26 So one straightforward way to think about
+2895.37 this state of mind and
+body that we call grief,
+2898.77 is that the idea that someone,
+2902.01 or an animal, or a thing,
+2903.96 simply does not exist anymore
+2906.29 is not something that the
+brain can easily conceptualize.
+2909.92 And the reason for that is that we,
+2913.72 as beings that have a brain,
+2916.07 and a brain, as an organ
+that makes predictions,
+2919.81 tends to rely more on
+experience than knowledge.
+2923.81 In other words, the
+knowledge that someone,
+2926.84 or an animal or a thing, is
+gone, that it doesn't exist,
+2929.97 at least not in the dimensionality
+2931.428 that we were accustomed
+to relating to them in,
+2935.92 is something that we can
+understand logically,
+2939.49 but that emotionally is very hard to undo,
+2942.52 and from a memory perspective
+is very hard to undo.
+2946.87 So it's not just that we are in a state
+2948.44 of emotional disbelief.
+2950.49 It's that we have neurons,
+literally nerve cells
+2953.61 and neural circuits,
+connections between nerve cells,
+2955.77 that are dedicated to this
+vast, implicit knowledge
+2959.38 of all the things we know
+2960.68 about that person, animal, or thing.
+2963.01 And just because they are no
+longer in the dimensionality,
+2967.35 meaning in the configuration,
+2970.01 alive or present in our
+life that they were before,
+2973.39 doesn't eliminate those memories.
+2975.27 Those memories persist.
+2977.5 And so anytime we call to
+mind the person's name,
+2981.01 or we call to mind things
+that remind us of them,
+2984.61 or we suddenly feel the
+desire to engage with them,
+2989.18 the memories, those
+episodic implicit memories,
+2992.79 as they're called,
+2993.66 all that menu and library of knowledge,
+2997.69 slams us straight in the face,
+3000.05 and pushes us into a mode
+of wanting to act in a way
+3004.29 that's consistent with
+them still being here
+3007.03 in the way that all that knowledge
+3008.987 told us they were when we acquired it.
+3012.25 That's a very long-winded way of saying
+3014.41 that there's nothing wrong
+about the emotional state
+3017.094 when we are in a state of grief,
+3019.66 in fact, quite the opposite.
+3021.27 But there is something
+wrong about the memories,
+3023.58 because the memories are based on
+3026.16 our prior knowledge of them,
+3028.06 and those memories actually do not apply
+3030.95 to our current knowledge of them.
+3033.27 And again, even though our
+brain is a prediction machine
+3036.05 and it's a very good
+one, it's not perfect.
+3038.54 In fact, it's far from perfect.
+3040.24 So really, moving through grief
+3041.48 is a process of understanding
+3042.837 how relationships are mapped in the brain,
+3045.89 space, time, and closeness,
+also called attachment,
+3049.23 understanding those three dimensions,
+3050.65 understanding that they
+are closely linked,
+3052.84 and then understanding
+that simply the knowledge
+3055.43 that somebody or something or an animal
+3057.29 isn't accessible to us,
+3059.39 does not allow us to discard
+3062.25 of all the knowledge that we have.
+3065.62 And as a consequence,
+3066.73 our brain is constantly
+generating expectations
+3069.72 of how to access them,
+3070.81 even if we know that's
+completely irrational.
+3073.74 Now this should, I would hope,
+3077.18 assist you in moving through grief.
+3079.41 It's not a tool of the sort of,
+3081.96 like a switch that you can flip
+3083.27 and suddenly not feel grief,
+3084.88 but it does point to a
+specific set of mechanisms
+3087.6 or a specific set of
+steps that you can engage
+3090.61 in order to start to move
+through the grieving process
+3093.76 in the most adaptive and effective way,
+3096.5 and in a way that still holds in mind,
+3097.333 your close attachment to the person.
+3101.37 So let's talk about some of the tools
+3102.68 for adaptively moving through grief.
+3104.81 These are tools gleaned from
+the research psychology,
+3107.16 the clinical psychology, and
+the neuroscience literature.
+3110.32 So I've synthesized my understanding
+3112.42 of those three literatures,
+3115.22 to provide the tools that
+I'm about to describe.
+3118.1 The first one involves the acknowledgement
+3121.62 and really the understanding
+3122.94 that you don't want to
+disengage or dismantle
+3126.8 your real attachment to
+someone, an animal, or a thing.
+3130.01 That's a real thing,
+3131.01 and there is actually no adaptive reason
+3134.03 to try and persuade
+yourself or numb yourself,
+3137.55 or somehow avoid the thinking
+3138.81 of just how much they meant to you.
+3141.4 What is important, however,
+3142.77 is that you make some
+effort to shift your mindset
+3146.16 and your understanding of that person,
+3148.81 in a way that holds in
+mind that yes, indeed,
+3151.74 the attachment is very real,
+3153.91 and in some cases is very, very intense,
+3156.64 but is now going to be uncoupled
+3160.36 from the other two dimensions of the map,
+3162.64 namely space and time.
+3164.52 So again, just to make absolutely clear,
+3167.43 there's no reason to try
+and convince yourself
+3169.94 that you weren't actually
+that close to this person
+3171.98 or them to you.
+3174.06 There's no reason to try
+and reduce the intensity
+3177.34 of that attachment.
+3178.173 To the contrary, you
+want to anchor yourself
+3180.45 to that attachment, but
+you want to make sure
+3183.0 that your thoughts about the person,
+3185.84 and your feelings about the person,
+3187.55 are not oriented toward or in
+reference to, I should say,
+3191.87 that map, that deep catalog
+of memories that you had.
+3195.94 Now, this is not simply
+a fancy way of saying,
+3198.64 don't live in the past.
+3200.03 This is saying, you need to maintain
+3202.62 your sense of attachment,
+3204.34 but you need to start making
+predictions and understanding
+3208.1 about how you're going to
+engage with that attachment,
+3211.17 how you're going to feel those things,
+3212.7 without the expectation
+3215.18 that things that once happened before
+3217.5 are going to happen again.
+3219.15 So it's a complicated
+process, you can imagine,
+3221.98 but you really want to hold and
+register two things at once.
+3224.75 It's sort of like spinning
+two plates at once,
+3226.47 and therefore it's going
+to feel like effort.
+3229.46 One way to do this is to set aside
+3231.35 a dedicated period of time,
+3233.061 of maybe five or 10, maybe
+even as much as 30 minutes,
+3238.39 or depending on your
+capacity, 30 to 45 minutes,
+3242.46 in which you are going to feel deeply
+3244.04 into your closeness and your attachment
+3246.27 to that person, animal, or thing.
+3248.6 But you are consciously going to try
+3250.86 and prevent yourself from thinking about
+3254.276 a couple of categories of things.
+3256.69 First of all, you want to
+actively try and disengage
+3260.83 from any attempt to engage in
+3262.67 what's called counterfactual
+thinking, the what ifs.
+3266.5 What if I had called them a day earlier?
+3268.84 What if they had taken
+a different route home?
+3271.87 What if I had taken a
+different route home?
+3274.89 These counterfactual modes of thinking
+3278.57 are an infinite landscape of possibility,
+3281.22 and they are very closely tied to guilt.
+3283.87 Guilt is an interesting emotion.
+3285.2 We should probably do an
+entire episode about guilt,
+3287.693 but guilt as defined by
+psychologists and neuroscientists
+3292.315 is actually a way of assigning
+ourselves more agency,
+3295.7 more capability of controlling
+reality than actually exists.
+3299.81 And it's a very slippery slope.
+3302.36 And I want to be clear.
+3303.59 It's not the case that guilt
+3305.17 is never an appropriate response,
+3307.21 but in the context of grieving,
+3309.63 guilt is very precarious,
+3311.04 because in thinking "I
+could have done this,"
+3313.48 or "if I had only done that,"
+3316.83 you are essentially exploring
+an infinite landscape
+3320.61 of things that you can never refute.
+3323.31 You will never know that
+had you not gone down
+3326.42 a different path or they had not taken
+3328.45 a particular path in life,
+3330.09 that things would've turned out different,
+3331.7 but you can't know that it
+would've worked as well,
+3335.09 meaning you actually don't know
+3336.72 that your what ifs are true,
+3338.73 and you don't know that they're not true.
+3340.03 And so as an infinite space,
+it's a very precarious one,
+3342.98 and it will not allow you to uncouple
+3346.05 that intense emotional
+attachment that I'm telling you
+3348.26 is actually vital to hold onto,
+3350.15 from that catalog of episodic memory
+3353.0 that you've established.
+3353.89 In fact, it's going to
+strengthen those bonds.
+3356.92 So in this dedicated five or 10 or 30,
+3360.75 whatever period of time you can
+tolerate and maintain focus,
+3363.79 the idea is to think about
+your attachment in a rich way,
+3368.41 and to perhaps even experience
+that in your brain and body.
+3371.16 I think if you're in a stage of grief,
+3372.85 that actually will be
+fairly reflexive to do,
+3376.17 but to try as much as possible
+3377.511 to hold that grief in the present
+3380.55 and to be connected to your
+immediate physical environment.
+3383.96 So you want to orient yourself
+in current space and time,
+3388.4 rather than focus on memories,
+3390.37 or what you would've liked to see happen,
+3392.88 or the wish that they were still there,
+3394.63 while at the same time,
+3395.79 thinking about the depth and
+richness of that attachment.
+3399.41 This is a obviously a
+tightrope walk, so to speak.
+3403.19 It's an emotionally challenging,
+3404.75 and sometimes even will be experienced
+3406.48 as a physically challenging
+tool or experience,
+3410.57 but in our understanding of
+how attachments and grief
+3414.31 are represented in the brain,
+3415.79 this can be an immensely
+beneficial practice,
+3418.43 because it is the first step,
+3420.21 and indeed, it represents
+many of the steps
+3423.37 in the voyage from the
+initial shock of loss,
+3427.48 to our ability to hold in mind somebody
+3430.4 or an animal or a thing in
+a way that still allows us
+3432.74 to feel the depth and fullness
+of connection to them,
+3435.86 without feeling the yearning,
+3437.28 that reaching for the glass of water
+3439.44 that unfortunately will never be resolved.
+3442.13 Keep in mind that as you
+embark on this process,
+3445.09 it is entirely normal
+for your mind to flip
+3447.37 into various states of expectation
+3450.24 that they're suddenly going to be there.
+3451.27 In fact, because of the closeness
+3453.48 of these three dimensions in the map,
+3455.35 space, time, and attachment,
+3457.99 it's entirely normal that
+when you start to think about
+3461.26 your attachment to somebody,
+3463.36 or an animal, or a thing,
+3464.63 that you almost start to experience them
+3466.87 as present in that environment.
+3468.99 I'll share with you a somewhat bizarre,
+3471.08 or it sounds bizarre
+to articulate out loud,
+3473.07 but many of you perhaps
+will resonate with this.
+3475.96 For years after my graduate advisor died,
+3478.89 I would get an experience of someone
+3480.11 touching the back of my neck
+when I would think about her.
+3483.37 And that was not an experience
+I ever had with her, right?
+3486.65 It was a professional relationship.
+3487.93 I don't ever recall her touching me
+3489.3 on the back of my neck,
+3490.278 or me touching the back of
+my neck in her presence,
+3492.777 at least not on any regular basis.
+3495.76 So it was very perplexing to me.
+3497.8 And then I encountered this
+incredible literature on grief,
+3501.15 which said the following.
+3503.327 "Grief in many ways is
+like a phantom limb."
+3506.87 For those of you that aren't familiar,
+3508.86 many people who experience
+amputation of a limb,
+3511.411 either through surgery
+or accident or otherwise,
+3515.16 will feel in a very genuine way
+3516.93 that the limb is still present,
+3518.29 even though when they look
+for the limb, it's not there.
+3521.13 So they can feel pain in limbs.
+3522.68 They can feel the sensation of touch.
+3525.16 There's some famous experiments
+from the neurologists
+3527.14 and my former colleague
+3528.44 at University of California, San Diego,
+3530.003 who goes by his last name, Ramachandran.
+3532.42 Some people just call him Rama.
+3534.65 He's an incredible scientist,
+3536.41 and has done a lot of
+really important work,
+3538.184 in particular on phantom limb,
+3540.35 among other things,
+3541.77 and has done some beautiful experiments
+3543.135 showing that people who
+have phantom limb pain
+3547.12 or that are experiencing
+different sensations
+3550.02 in their phantom limb,
+3550.853 that can be very intrusive,
+3551.82 much in the same way
+3552.69 that expecting someone
+to walk through the door,
+3556.21 who you happen to know is deceased,
+3558.83 can be very intrusive.
+3560.49 Ramachandran's done beautiful experiments,
+3562.73 showing that if you give people
+3564.2 what's called a mirror box,
+3565.41 this is a box in which
+you insert an intact limb,
+3569.29 and there are some mirrors
+3570.19 that give you the visual impression
+3571.612 that the other limb is still present,
+3573.72 and you move the intact limb
+3575.28 and you get a mirror
+image of the non-existent,
+3578.76 but nonetheless a visual image
+3580.39 of the phantom limb moving,
+3582.32 that you can resolve some of the pain
+3583.91 of a limb that feels otherwise cramped up.
+3586.02 In other words, the visual perception
+3588.1 can reverse some of
+these phantom sensations.
+3591.49 In many ways, the phantom limb scenario,
+3594.43 and what I described about a sensation
+3596.92 of being touched on the back of the neck,
+3598.42 or this feeling that we have
+3599.84 when we engage in the thinking
+3602.2 and the emotions of our
+attachment to someone,
+3604.5 an animal, or a thing is very
+much like a phantom limb,
+3607.53 only it exists in the emotional space,
+3610.07 and it exists because it is reactivation
+3613.083 of these maps about
+space, time, and person.
+3618.06 And so if the process
+of moving through grief,
+3620.45 adaptively in a healthy way,
+3622.53 involves maintaining the attachment,
+3624.24 but uncoupling that attachment
+3625.6 from the space and time
+representation of that person,
+3628.52 animal, or thing that we had before,
+3631.03 well, then the question becomes,
+3632.81 where should we place our
+expectation of them, right?
+3637.04 Now, that of course will
+vary from person to person.
+3639.813 Some people with particular
+religious beliefs
+3642.37 will indeed believe that
+the soul of the person,
+3646.84 the molecules of the person
+3648.06 have been reordered and exist in some sort
+3650.05 of either distributed domain, right?
+3652.1 That they are in everything,
+3653.2 or they are in one location.
+3655.14 I'm not here to speak to
+that one way or the other.
+3658.36 There's no good experiment I know
+3659.93 either to prove or disprove that,
+3662.17 nor would I want to.
+3663.81 It's not the job of science, frankly.
+3667.24 However, allowing
+ourselves to place notions
+3671.54 of where that person, animal, or thing is
+3676.12 in their current new configuration,
+3678.69 whatever that might be,
+3679.97 ashes to ashes, dust to dust,
+3681.51 or that the person's soul
+comes out of their body.
+3683.41 These are all the different
+variations that people hear.
+3685.26 Or some people think,
+"Well, it's just molecules
+3687.39 and they disintegrate and are reordered,
+3688.86 and come up as the plants and the trees."
+3690.284 Again, a near infinite
+number of possibilities,
+3694.31 and it depends a lot on personal belief.
+3698.86 It is, however, essential
+3699.929 that no matter what you believe,
+3702.36 that you have some firm representation
+3705.56 of where that person, animal, or thing is
+3708.02 so that you can plug it into this map,
+3711.07 this three-dimensional map of
+space, time, and attachment.
+3716.23 The process of moving through grief
+3717.59 can't simply be that we
+hold onto the attachment
+3719.95 and we discard with any understanding
+3721.8 of where they are in space and time.
+3723.43 And actually, the letter
+that Feynman wrote
+3725.79 to his deceased wife Arline,
+3728.47 again, so beautifully
+3730.23 and really poignantly illustrates the fact
+3733.11 that he doesn't really
+know where to find her.
+3735.26 On the one hand, he really
+understands that she's gone.
+3737.91 And on the other hand,
+3738.743 he understands that he
+still very much expects her
+3741.68 to be there, that he would
+like to mail the letter.
+3743.96 But then of course, in this final,
+3746.56 somewhat humorous line,
+3749.4 he doesn't know where to
+send the letter, he tells us.
+3752.31 What's very clear, and
+I think is very healthy,
+3755.6 is the fact that the
+emotional bond is still there,
+3758.86 that that is maintained.
+3760.27 And so this tool, if you will,
+3763.12 of dedicated blocks of time
+3764.3 for really spending some effort,
+3767.21 and it is indeed effort
+3768.33 to access the emotional connection
+3769.92 while starting to uncouple the other nodes
+3772.04 of the map, as it were,
+is something that is hard.
+3776.42 You should expect it to be hard,
+3778.44 but in terms of the options one has
+3780.71 in order to deal with grief,
+3782.59 it is indeed the most
+adaptive way to go about it.
+3786.16 You're not trying to
+avoid thinking about it.
+3788.54 You're not engaging in this
+counterfactual thinking,
+3791.25 the what if, what if, what if.
+3793.19 You're not drowning it out with substances
+3795.56 or delusion or with other
+ways of distracting yourself.
+3801.15 So in that sense, it is truly adaptive.
+3803.26 Now, of course, I don't want to imply
+3804.75 that I'm a clinical psychologist.
+3806.68 I'm certainly not.
+3807.9 There is absolutely a place
+3809.33 for working with a trained professional
+3811.06 to move through grief,
+3811.96 especially these situations,
+3814.27 these one in 10 people
+3816.515 who deal with what's
+called complicated grief,
+3819.42 or very prolonged grief.
+3820.88 Those are somewhat different things,
+3821.93 but in general, point to the fact
+3823.49 that there are people who have
+3824.47 an exceptionally hard
+time moving through grief.
+3826.93 We'll talk about who those people are
+3828.85 and ways to move through them,
+3830.05 with or without a
+professional to assist you.
+3833.98 But nonetheless, we're
+starting to understand
+3836.76 on the basis of neuroscience,
+3839.42 what some of the more adaptive
+3840.62 and functional ways of
+moving through grief are.
+3842.88 In order to really understand how a tool
+3845.51 of the sort that we're describing to work,
+3848.43 and what it's designed to
+accomplish at a mechanistic level,
+3853.65 I'd like to teach you
+3854.483 about a very important
+aspect of your brain function
+3857.73 that has everything to do with grief
+3859.96 and the process of moving through grief,
+3862.07 but has a lot to do
+3863.65 with other aspects of our
+life experience as well.
+3866.92 Some of you are probably familiar
+3868.07 with a brain area called the hippocampus.
+3870.09 The hippocampus is a
+structure that's involved
+3872.3 in the formation of new memories,
+3873.87 but not the maintenance of memories.
+3878.36 I discussed the hippocampus in detail
+3879.94 in our episode on memory,
+3881.32 and our episode with our guest,
+3883.6 Dr. Wendy Suzuki from New York University,
+3885.67 an expert on learning and memory.
+3888.83 During those two discussions,
+I did not however,
+3891.19 touch into what the
+different cell types are
+3893.72 in the hippocampus, and the
+different roles they perform.
+3896.65 And it turns out that there are indeed
+3898.45 different cell types in the hippocampus,
+3899.93 and they perform very different roles
+3901.64 that are absolutely central
+to the grief process.
+3905.7 We have cells in our hippocampus,
+3907.76 meaning you have cells
+in your hippocampus.
+3910.59 These cells are neurons,
+3911.423 nerve cells that fire any time,
+3914.68 or, and when we say fire,
+I should just remind you,
+3917.45 I mean, have electrical activity,
+3920.93 any time that we enter a
+particular familiar location.
+3925.59 So for instance, think about your bedroom,
+3928.33 and think about where the bed is.
+3931.0 As you're doing that,
+3931.97 these so-called place cells are firing,
+3934.6 not necessarily to represent
+3936.47 that it's a bed at that location,
+3938.17 but to represent the location itself.
+3941.21 We also have neurons in our hippocampus
+3943.61 and elsewhere in our brain, I should say,
+3945.68 that represent proximity.
+3948.38 So for instance, if you were to wake up
+3949.65 in the middle of the night
+3950.483 and walk into the kitchen,
+3951.76 and it's somewhat dark,
+3953.39 and you orient toward the sink
+3954.88 to get yourself a glass of water,
+3956.26 or to the refrigerator to get yourself
+3958.399 something to drink or to eat,
+3962.1 as you get close to the
+sink or the refrigerator,
+3966.1 there are neurons in your hippocampus
+3967.67 that are going to start
+engaging electrical activity,
+3970.75 because you are in the
+mirror expected proximity
+3974.09 of the sink or refrigerator,
+3975.21 and you know where they are,
+hence the word expected.
+3978.95 Now that all seems fine and good.
+3980.43 You've got neurons that
+represent where things are,
+3983.02 and it sort of goes without saying
+3984.97 that those same neurons map
+to our emotional attachments.
+3989.52 We generally know where
+to find our loved ones.
+3991.84 Even if they don't live with us,
+3993.52 we generally know what city they're in.
+3995.78 Even if they're traveling,
+3996.7 we generally have a sense
+of where they're traveling
+3999.11 or the general area in
+which they're traveling.
+4001.9 Place cells and proximity cells
+4003.47 are involved in that kind of mapping
+4004.97 and representations as well.
+4006.96 Now there's a third kind of cell
+4008.16 that's particularly important
+for the sort of tool
+4010.97 that we were talking about earlier,
+4012.41 that tool of holding on
+4013.5 to the emotional attachment to somebody,
+4015.56 and yet trying to deliberately
+remap our understanding
+4019.4 of where they are in space and time.
+4022.02 And that has to do with
+a category of cells
+4024.66 called trace cells.
+4026.65 Trace cells were discovered
+by a number of laboratories.
+4029.45 I think the most renowned of
+those is the Moser Laboratory.
+4033.03 The Mosers are a couple.
+4034.83 Actually, they were a couple.
+4035.95 They're now, I think, amicably
+separated or divorced.
+4039.94 That's not what this episode's about.
+4041.42 If I have that wrong, forgive me.
+4043.203 Edvard and Britt are their names.
+4046.288 Their relationship isn't what's important,
+4048.41 except what is important
+4050.043 is the work that they did
+together in one form or another,
+4053.33 which was very important work,
+4055.18 establishing this category of cells
+4057.13 not just in the hippocampus,
+4058.7 but in an area of the brain
+called the entorhinal cortex,
+4060.7 that acts as a sort of coordinate system,
+4063.09 to orient us in space and time.
+4066.29 Trace cells are activated
+when we expect something
+4070.86 to be at a given location,
+but it's not there.
+4075.03 Experiments done in their laboratory
+4076.7 and in other laboratories
+have shown that, for instance,
+4080.47 if you give a rodent or frankly, a person,
+4084.83 a object that always resides
+at the same location,
+4089.24 and we reach to it in order to access it,
+4092.7 let's say where your
+coffeemaker is in the morning.
+4097.24 I do a pour-over coffee.
+4098.43 If I'm drinking coffee or
+latte, I'll do a pour-over.
+4101.24 It's always more or less
+in the same location.
+4103.97 And so there are place
+cells and proximity cells
+4106.92 that relate to my being able to find
+4108.158 that pour-over coffee cone thing.
+4112.58 However, if I were to go to that location
+4114.77 and it wasn't there, the trace cells,
+4118.56 these neurons in my hippocampus
+4120.29 and in the entorhinal
+cortex and elsewhere,
+4122.4 'cause again, these cells are connected
+4123.59 by way of circuitry,
+by way of connections,
+4126.67 those trace cells would fire.
+4128.18 We could even call it a trace circuit.
+4129.93 It's a circuit that has an expectation
+4132.58 that something will be in a location.
+4133.92 But when something is
+not at that location,
+4136.61 this circuit becomes active.
+4138.32 This is important because
+what we're talking about here
+4140.26 is a neural circuit and a set of neurons
+4142.91 that are responsible, not for
+the presence of something,
+4145.25 but the absence of something.
+4148.87 We have every reason to believe,
+4150.11 based on neuroimaging studies
+4151.51 and studies in animal models,
+4153.33 that trace cells become very
+active in the immediate stage
+4156.969 after the loss of a loved one,
+4160.9 that the brain and our
+maps of the person, place,
+4165.67 or thing that we know cognitively,
+4168.22 we understand, we even
+believe they are gone.
+4171.85 They are not accessible
+for whatever reason,
+4173.94 death or otherwise.
+4175.57 And yet we have neurons that are firing,
+4179.21 to reveal that absence to us.
+4181.43 And these neurons are closely associated
+4185.1 with neurons that tell us
+where things ought to be.
+4188.93 So if you feel the expectation,
+4191.38 or you sense that somebody
+4193.11 should walk through the door any moment,
+4194.51 or call at any moment,
+4195.78 or be next to you when you wake up,
+4197.62 and yet you cognitively
+understand that they won't,
+4200.9 that there's no real
+reason why they should,
+4202.54 because they are indeed
+gone, you are not crazy.
+4206.18 In fact, it's simply a reflection
+4209.05 of the normal functioning
+of these trace cells
+4212.54 and trace circuits.
+4213.77 Now I'd like to consider why two people,
+4216.05 both who are intensely attached
+4219.71 to a person that is no longer there,
+4222.99 can experience the grief
+of the loss of that person
+4226.33 in such different ways.
+4227.92 This is often observed.
+4229.26 You can have, God forbid,
+4232.47 incredibly sadly, in cases
+where a child is lost,
+4235.52 where both parents are grieving intensely,
+4238.76 but one seems to feel it at
+a emotional depth and level
+4242.4 that seems distinct from the other.
+4244.05 Now of course, keep in mind
+that we never really know
+4248.04 how other people are feeling.
+4249.53 This is something actually that was raised
+4251.05 in the episode where I
+interviewed a psychiatrist
+4254.71 and researcher colleague of mine
+4255.92 from Stanford, Karl Deisseroth.
+4258.94 As a psychiatrist, I heard him say once
+4261.963 that we really don't know
+how other people feel.
+4264.82 In fact, a lot of times
+we don't even really know
+4266.61 how we feel, or at least describing that
+4268.3 is quite challenging with language, often.
+4271.95 And indeed that is the case.
+4273.02 We don't really know
+how other people feel.
+4275.35 There's no clear way of knowing
+4277.45 that the expression someone else has
+4279.91 or whether or not they're crying or not,
+4281.42 or their body language really represents
+4283.71 how they feel inside.
+4284.76 So that is important to keep in mind.
+4287.13 Nonetheless, there does seem to be
+4289.56 a sort of a split among people,
+4292.74 and indeed, among animals as well,
+4295.46 even within a species,
+4297.09 in terms of how intensely they feel
+4299.37 the yearning aspect of grief.
+4302.66 And it appears, based on a number
+4304.84 of different lines of evidence,
+4306.14 that that relates to this molecule
+4307.96 that some of you have probably
+heard of, which is oxytocin.
+4310.75 Oxytocin is a hormone slash peptide.
+4314.21 A peptide just means a protein,
+4316.29 generally a small protein,
+4318.15 and a hormone is generally something
+4320.59 that functions at numerous
+locations in the body
+4322.85 to impact numerous organs
+and areas of the brain.
+4325.75 So a peptide can be a hormone,
+4327.49 and a hormone can be a peptide.
+4328.71 They are not mutually exclusive.
+4330.24 Oxytocin has a variety of
+roles in the brain and body.
+4333.74 It's involved in milk
+letdown during lactation.
+4336.6 It's involved in pair bonding,
+both in males and females.
+4339.8 It's involved in bonding
+of parent to child,
+4342.31 and indeed, between romantic
+partners, et cetera, et cetera.
+4347.53 Let's talk about some of the animal models
+4349.13 that inform us about the
+potential roles of oxytocin
+4351.9 in the grieving process.
+4354.43 There's a species of animal
+called the prairie vole,
+4357.2 and believe it or not,
+4358.04 the prairie vole has been
+studied fairly extensively
+4360.99 by neuroscience and
+psychology researchers.
+4364.14 In fact, our former director
+4365.83 of the National Institutes
+of Mental Health, Tom Insel,
+4369.22 his laboratory focused quite
+heavily on prairie voles.
+4372.77 Prairie voles are one species of animal,
+4374.61 but depending on where they live,
+4376.81 you find that some prairie
+voles are monogamous.
+4379.89 That is, they mate with the
+same prairie vole for life.
+4384.96 They raise litters of little
+prairie voles for life,
+4389.13 and other prairie voles,
+4390.712 generally that live in
+different locations in the wild,
+4394.44 are non-monogamous,
+sometimes called polygamous.
+4399.44 The neurochemical and circuit basis
+4402.02 for this monogamy versus
+non-monogamy, quite interesting.
+4407.61 However, in the context
+of grief and attachment,
+4409.79 the prairie voles have taught us a lot,
+4411.81 and they've taught us a lot
+4412.67 through the following experiment.
+4414.56 You take two prairie
+voles that are coupled up.
+4417.09 So these would be
+monogamous prairie voles,
+4419.56 that have established a couple bond.
+4423.13 I guess you would call
+that at a prairie voledom.
+4425.68 Anyway, you put them in a cage together.
+4428.17 They mate together, they
+raise young together,
+4430.82 and then you separate them.
+4433.91 You literally put a physical barrier
+4435.48 between the two of them,
+4436.85 and you can evaluate how strongly
+one prairie vole will work
+4442.14 to get access to the
+other prairie vole, right?
+4444.93 This is sort of the "Romeo and Juliet"
+4446.903 of prairie vole experiments.
+4450.25 And what you observe is that
+the monogamous prairie voles
+4453.85 will work very hard to
+get back to their mate,
+4456.42 to get access to their mate.
+4457.55 They will lever press.
+4458.81 They'll even walk across a metal plate
+4461.62 that they get a electrical shock.
+4463.76 They'll work very, very hard.
+4465.45 They will cross rivers
+and valleys, if you will,
+4468.95 in the experimental context, that is.
+4472.27 The polygamous prairie voles,
+4476.12 and again, we don't know
+if they are polyamorous.
+4478.32 We don't know what they feel, right?
+4480.03 We don't know if they're in love
+4481.04 or if they're motivated
+simply for other things.
+4483.9 But the non-monogamous prairie
+voles will not work as hard
+4488.6 to access a prairie vole partner.
+4492.57 Now you could argue
+that's because they expect
+4494.96 that there will be other
+prairie vole partners,
+4496.49 but even if they've never experienced
+4497.77 another prairie vole partner,
+4499.18 they won't work quite as hard to get back
+4502.06 in connection with this
+other prairie vole,
+4504.79 to mate or otherwise.
+4506.77 This turns out to be interesting,
+4508.63 when you start to explore the patterns
+4510.92 of so-called oxytocin
+receptors in the brain.
+4514.71 To make a long story short,
+4515.95 and to also bridge to
+the human literature,
+4519.62 it turns out that the
+monogamous prairie voles
+4523.11 have far more oxytocin
+receptors in this brain area
+4526.56 that I mentioned earlier,
+the nucleus accumbens.
+4529.22 And again, to remind you,
+the nucleus accumbens
+4531.32 is the brain area
+associated with motivation,
+4533.88 craving and pursuit.
+4535.67 So it's as if the monogamous prairie voles
+4539.02 have a capacity to link
+the attachment circuitry
+4544.2 and the molecules of attachment,
+4545.75 in this case, oxytocin,
+4547.47 to reward pathways and
+to motivational pathways.
+4551.82 Polygamous, or we should say,
+4553.02 non-monogamous prairie voles, do as well.
+4556.8 However, they have less
+oxytocin receptors.
+4559.74 So in other words,
+non-monogamous prairie voles
+4563.29 seem to have less yearning
+for attachment overall,
+4566.62 at least to a single
+individual prairie vole.
+4569.6 And when we look at the human literature,
+4571.74 in terms of oxytocin receptor expression
+4574.39 and brain imaging experiments, and so on,
+4576.74 what you find is the same,
+4578.32 that people that experience intense grief,
+4580.97 and a deep yearning and a motivation
+4584.11 to reconnect with the person, animal,
+4587.13 or thing that is lost,
+4588.75 in many cases have heightened levels
+4591.47 of oxytocin specifically,
+4593.81 or I should say, oxytocin
+receptors to be exact,
+4596.78 specifically within the brain regions
+4598.67 associated with craving and pursuit.
+4601.52 So for those of you that find yourself
+4603.14 in this kind of stuck mode,
+4605.69 this persistence of trying
+4607.97 to reach into the past
+or wishful thinking,
+4611.42 this counterfactual thinking,
+4613.817 "if only, if only, if only."
+4617.09 You don't necessarily want
+to pathologize that thinking.
+4619.21 First of all, we should acknowledge
+4621.09 that it's not necessarily adaptive.
+4622.79 And in fact, in the
+complete loss of somebody,
+4625.02 or if somebody says
+they don't want anything
+4626.47 to do with you ever again,
+4627.901 by all means, you know, if
+that's expressed clearly,
+4630.7 then you need to accept that reality.
+4633.61 But the yearning, the
+desire, and the impulsivity,
+4637.13 that kind of leaning in
+at a almost reflexive way,
+4641.67 to try and access that person again,
+4643.24 to text them, to want to
+hear from them, could,
+4645.94 and I have to highlight,
+could reflect the fact
+4648.4 that you just so happen to
+have more oxytocin receptors
+4651.43 or maybe more oxytocin
+overall in this brain area
+4655.27 that's associated with
+motivation and pursuit.
+4658.36 It does not necessarily mean
+4659.76 that you are more capable of attachment
+4661.68 than people who move
+through grief more quickly.
+4664.9 And I should say that
+people move through grief
+4667.87 at different rates.
+4668.703 Even if two people lost the
+same person, or same animal,
+4672.32 people move through
+this at different rates.
+4673.8 And some of that is no
+doubt psychological,
+4676.88 but some of it, no doubt,
+4678.07 is also neurochemical and biological.
+4681.66 And in sharing this with you,
+4682.87 I hope it sheds some understanding
+4685.09 and perhaps even some
+compassion for people
+4688.57 who are moving through things more quickly
+4690.32 or in a different way.
+4692.03 And of course it should
+also, I would hope,
+4695.11 shed compassion and understanding
+4697.28 for people that seem incapable
+of quote unquote moving on.
+4701.4 It's taking them far longer to move on.
+4704.1 Earlier, we talked
+about complicated grief,
+4706.36 non-complicated grief, and
+prolonged grief disorder.
+4709.37 And I should say that
+the precise divisions
+4711.65 between these categories
+is not very precise.
+4716.21 It takes a really trained expert
+4717.96 to be able to identify whether or not
+4719.5 somebody is in the prolonged
+grief disorder category,
+4722.66 complicated or non-complicated grief.
+4725.1 There's actually a set of questionnaires
+4726.88 that I invite you to answer if you like.
+4729.66 They were provided, or I
+should say I accessed them
+4732.61 through a public site on
+Mary-Frances O'Connor's webpage.
+4736.7 We'll put them in the show note captions.
+4738.51 You actually can submit those
+answers in an anonymous way
+4740.93 to a study that she's doing.
+4742.78 She has several surveys,
+4744.61 one for loss of a romantic relationship,
+4747.37 other for loss due to death of somebody,
+4751.22 and still another one that
+relates to homesickness,
+4753.81 and it's also available in
+several different languages.
+4755.96 So I'll provide a link to that website.
+4758.24 It's very easy to download.
+4759.21 There's no cost to that at all.
+4760.69 You can contribute to the scientific
+4761.978 data collection process, if you like.
+4764.14 And I do believe that
+you get your scores back
+4766.76 or an interpretation of your
+scores by participating there.
+4771.82 When Mary-Frances O'Connor
+hopefully comes on the podcast,
+4774.35 she can tell us some more of the detail
+4776.0 about separating out this
+prolonged grief disorder,
+4778.9 complicated and non-complicated grief.
+4780.77 But in the meantime, it's very clear
+4784.19 that people move through
+grief at different rates.
+4786.38 And as I mentioned just a moment ago,
+4788.23 that this is entirely normal,
+4789.69 probably has a basis in neurochemicals
+4791.78 and hormones, such as oxytocin.
+4794.93 There are probably other reasons as well.
+4796.21 In fact, we can assume
+with almost certainty
+4798.76 that there are other reasons as well.
+4801.17 Nonetheless, I think
+it is really important
+4803.38 to think about why some people
+might have a harder time
+4806.73 moving through grief due
+to life circumstance,
+4809.87 innate differences, and so on.
+4813.02 There's a very nice set of studies,
+4815.31 but one in particular,
+4816.72 entitled "Catecholamine Predictors
+4818.6 of Complicated Grief Outcomes."
+4820.96 Here again, the first author
+is Mary-Frances O'Connor,
+4823.83 reminding us that she's done
+4824.85 so much important work in this area.
+4827.56 This paper has several conclusions,
+4829.96 but one of the key conclusions
+4831.99 is that this particular
+category of molecules
+4833.82 we call the catecholamines,
+4834.96 the catecholamines include epinephrine,
+4837.35 which is also adrenaline,
+4838.48 norepinephrine, which is noradrenaline,
+4840.35 and dopamine, which you've
+learned about before.
+4844.42 Here, I'm just going to paraphrase,
+4846.25 or I'll read directly, actually.
+4848.22 What they found was that "participants",
+4850.42 again, this is human subjects,
+4851.757 "with the highest levels of epinephrine,
+4853.89 of adrenaline, pre-treatment,
+4856.39 had the highest levels
+4857.27 of complicated grief
+symptoms post-treatment,
+4860.04 and that could account
+4860.94 for their baseline level of symptoms."
+4862.44 What this means is that people
+4864.1 that have a lot of circulating adrenaline,
+4865.87 we might even call these people,
+4866.993 people who are, or typically reside
+4870.24 at a higher level of
+autonomic arousal, right?
+4873.2 We have an autonomic nervous system
+4874.46 that dictates how calm
+or alert or stressed
+4877.64 we happen to be just at baseline.
+4879.26 People who tend to be more
+alert and anxious at baseline,
+4882.3 prior to any grief episode,
+4884.148 tend to have, or statistically on average,
+4887.65 we should say, are more
+likely to experience
+4890.72 complicated grief and maybe
+even prolonged grief symptoms.
+4894.03 So if you're somebody that is
+anticipating losing someone,
+4898.73 or an animal, or a thing at some point,
+4900.35 and I think that really means everybody,
+4902.88 utilizing tools to
+adjust your epinephrine,
+4905.96 your adrenaline levels down
+4907.95 has a number of important benefits,
+4909.46 improving sleep, health
+metrics, et cetera.
+4912.04 There are tools to do that.
+4913.18 We have an episode on mastering stress
+4915.15 that you can find at our
+website, hubermanlab.com.
+4917.827 It has a lot of behavioral tools
+that are backed by science,
+4921.16 some of work that was
+done in my laboratory,
+4922.92 but certainly other laboratories as well,
+4925.61 that will allow you to control
+4928.5 your autonomic nervous
+system, both in real time,
+4930.71 and reduce the overall level of stress
+4933.357 and even chronic activation
+4935.61 of the so-called sympathetic arm
+4937.22 of the autonomic nervous system,
+4938.28 which is just fancy geek speak for saying,
+4940.49 there are tools to help you be calm,
+4942.54 not just for sake of
+navigating daily stress,
+4944.83 but as this paper illustrates,
+4947.39 for anticipating the
+fact that at some point,
+4950.12 you will lose somebody,
+an animal, or a thing,
+4952.87 and there is a way to
+move through that process
+4955.95 that we call healthy, normal grieving.
+4957.85 And then there's the
+so-called complicated grief,
+4959.85 or prolonged grief disorders,
+4961.89 that reflect immense challenge
+4964.41 in moving through grief
+at a reasonable rate.
+4967.4 So you can somewhat inoculate yourself
+4971.04 against complicated or prolonged grief,
+4973.28 by reducing your resting levels of,
+4976.16 or your pre-loss levels of
+epinephrine, of adrenaline.
+4980.4 And again, there are
+excellent tools to do that.
+4982.33 I won't review them here for sake of time,
+4983.88 but they're time-stamped,
+4985.14 and you can access those easily.
+4986.83 Again, zero cost tools.
+4990.68 Going back to this paper,
+4991.927 "Catecholamine Predictors of Complicated
+4993.62 Grief Treatment Outcomes,"
+4995.8 should say that not only did participants
+4998.52 with the highest levels of adrenaline
+4999.9 have the highest levels
+5000.733 of complicated grief
+symptoms post-treatment,
+5003.39 but the predictive relationship
+between these two things,
+5007.31 adrenaline and complicated grief,
+5008.97 was not seen in depression.
+5010.56 And I find that incredibly interesting,
+5012.39 because it further separates
+depression from grieving
+5015.57 and grieving from depression.
+5016.97 It's a resounding theme again and again.
+5019.14 Grieving is not depression,
+5020.36 and depression is not
+necessarily grieving.
+5022.47 They can coexist, but they
+are separable as well,
+5025.559 and indeed, reflect separate
+brain circuitries entirely.
+5030.22 So the conclusion they draw is that
+5031.367 "The present study supports the hypothesis
+5033.22 that catecholamine levels,"
+5034.3 again, epinephrine,
+dopamine, norepinephrine
+5036.5 are the catecholamines,
+5037.537 "are affected by bereavement and in turn,
+5039.72 can affect the ability of
+those with complicated grief
+5042.09 to benefit from psychotherapy."
+5043.89 So what does all this mean?
+5044.723 What this means is, we
+can prepare ourselves
+5048.02 to be in a better state to access, yes,
+5051.66 access grief when it's appropriate.
+5054.06 And indeed, grief is the
+appropriate response,
+5057.09 when we lose someone,
+an animal, or a thing
+5059.49 that we are closely attached to,
+5061.2 and yet, to be able to move through that
+5063.999 at a pace and in a way that
+is most adaptive for us.
+5069.28 And to just, again, highlight
+what adaptive means.
+5071.65 It does not mean dissociating
+from the attachment
+5074.4 to the person, animal, or thing.
+5077.14 I just want to pause for a second,
+5078.49 and mention why I keep repeating
+person, animal, or thing.
+5084.18 I'm saying that because,
+5086.33 while grieving the loss of a person,
+5089.448 or a relationship with a person,
+5091.24 doesn't have to be
+through death, of course,
+5093.05 but death or otherwise
+is something that we all
+5095.94 can intuitively understand,
+5097.32 even if we haven't experienced it.
+5099.75 We are capable of
+achieving great attachments
+5103.08 to animals as well.
+5104.9 And while the loss of
+a thing, of an object,
+5109.17 in no way, shape or form,
+5110.52 approximates the loss of
+a person or an animal,
+5112.94 I would never suggest that it does,
+5114.464 it would also be naive and
+unfair of me or anyone else
+5118.21 to suggest that things can't
+hold immense importance to us,
+5121.077 and that the loss of them
+can feel quite significant,
+5124.29 and invoke the grieving process.
+5126.65 This isn't always about materialism.
+5128.51 Sometimes it's purely about
+the sentimental attachment.
+5131.41 So for instance, the
+loss of a wedding ring
+5134.05 or an engagement ring that
+was very meaningful to you,
+5136.83 or an article of clothing or a painting,
+5139.8 or even a small, seemingly
+unimportant object
+5143.31 to somebody else,
+5144.143 but something that held
+great meaning to you,
+5145.3 maybe a seashell that you collected
+5147.46 with somebody on the beach,
+5148.75 and then somehow it gets lost.
+5151.02 And it's the relationship with that person
+5152.831 that's contained within
+that object for you,
+5156.02 as a representation within
+that object that's important.
+5159.6 That's the reason why I keep saying,
+5161.207 person, animal, or thing.
+5163.07 I think it's only fair to
+include things in that category,
+5166.11 but of course, with the understanding
+5167.61 that they don't hold the
+absolute same magnitude
+5171.26 as the loss of a being.
+5173.16 One thing that we ought
+to consider for a moment,
+5175.17 is whether or not the depth of attachment
+5178.37 that you have to somebody
+5179.26 predicts how long it will take
+5180.81 for you to move through
+the loss of that person.
+5183.526 We often hear this.
+5185.37 Actually, I can remember some years ago,
+5187.55 at the end of a relationship,
+5189.287 a friend and colleague of mine saying,
+5191.877 "You know, for every year
+that you were together,
+5194.86 it's going to take you one
+month to get over that person."
+5198.1 And I thought, "Where in the world
+5199.97 did those data come from?" [laughs]
+5201.807 And this is what I call
+anecdata or collective data,
+5205.2 where this is like phrases such as,
+5207.987 "Absence makes the heart grow fonder."
+5210.15 And indeed, sometimes absence
+5211.4 can make the heart grow fonder,
+5213.08 in the context of two living people
+5215.3 or people in a loving relationship,
+5217.21 or even in the context of grief and loss.
+5219.59 But of course, there's,
+5220.707 "Absence makes the heart grow fonder,"
+5222.38 and then you also will hear,
+5223.537 "Out of sight, out of mind."
+5225.27 And if you've been
+listening to this episode,
+5228.16 clearly, out of sight
+does not mean out of mind
+5230.8 or out of emotional connection.
+5233.62 So these sayings of, "Well,
+it takes X number of months
+5236.69 for number of years,"
+5237.59 or "out of sight, out of mind,"
+5238.78 or "absence makes the heart grow fonder,"
+5240.118 they really don't hold a lot of meaning,
+5242.68 at least not for somebody like me,
+5243.89 who likes science because
+science is at least geared
+5248.48 toward or aims towards establishing things
+5250.7 in fact, not opinion,
+5252.37 but also because science
+allows you to make predictions.
+5255.91 It allows you to orient
+yourself in a process,
+5258.61 and make predictions and understand.
+5261.2 So, what are we to think of people
+5263.6 who seem very, very attached to somebody?
+5267.05 They break up, and they seem
+just crushed, devastated.
+5270.01 But three weeks later,
+5270.86 they're in a new relationship
+5272.07 and they seem perfectly fine.
+5273.49 Or somebody whose spouse dies,
+5277.03 and then suddenly they're
+in a new relationship.
+5279.35 I think there are rates of
+transition, if you will,
+5282.27 that suggest some dysfunction,
+pathology, et cetera.
+5286.49 But here we aren't in a position to judge.
+5288.63 We're only in a position
+to speculate about this.
+5291.36 And I think we can reasonably speculate
+5293.99 that it sort of makes sense
+5296.31 why someone who has an
+intense attachment to somebody
+5300.26 might be able to form
+5301.543 intense attachments generally, right,
+5304.17 that they aren't restricted to one person,
+5305.5 whereas other people who have
+5306.45 an intense attachment to somebody
+5308.53 might find themselves entirely
+incapable of moving on,
+5311.27 or it would take them a very long time,
+5313.21 hence the lines in the Feynman
+letter to Arline about,
+5317.4 he had met various other young women.
+5320.01 They seemed perfectly nice.
+5321.01 And yet, they were meaningless to him
+5323.097 in the shadow of her memory,
+5326.44 or we should say, in the
+light of Arline's memory,
+5328.64 or the memory of Arline, rather.
+5330.5 So these dimensionalities of attachment,
+5334.011 they cut in every direction.
+5336.45 And I don't think any
+well-trained psychologist
+5339.42 or neuroscientist would ever say,
+5341.137 "Oh, if you are somebody
+who becomes very attached,
+5343.341 therefore it's very hard to move on."
+5345.64 I think that could be true.
+5346.57 It could also be that if you're somebody
+5347.79 who has a great capacity for attachment,
+5349.36 you have a great capacity
+for attachment overall.
+5352.36 Neuroscience nor psychology
+is really in a position
+5355.286 to judge, certainly,
+5357.12 but it's also not in a position
+5358.57 to make those kinds of predictions,
+5359.75 at least the field, as
+it stands right now,
+5362.502 of attachment and grieving,
+5365.19 can't really speak to why that's the case.
+5367.37 So that's my attempt to depathologize
+5370.03 some of what we observe,
+5371.49 although I have to confess,
+5373.026 from a just sort of everyday stance,
+5376.4 that sometimes the rate in which
+5377.93 people move out of
+attachments and grieving
+5380.336 can be somewhat eerie.
+5382.16 I'd like to take a moment
+and explore this idea
+5384.97 that allowing ourselves to really feel
+5387.41 the attachment to somebody
+5389.01 can accelerate or at least support
+5391.16 adaptive transitioning through grief.
+5395.176 There's a really wonderful
+study that, on the face of it,
+5398.99 appears to be a, what
+we call negative result.
+5401.86 A negative result is when
+a hypothesis is posed,
+5404.74 and then turns out the
+hypothesis is not true.
+5407.66 But as is the case with so many
+5409.49 interesting scientific findings,
+5412.29 often when there's a negative result,
+5413.95 there's a more interesting result
+5415.28 nested in that negative outcome.
+5417.26 And this is the case in a particular paper
+5419.62 I'll share with you now.
+5420.453 This is a paper published
+5421.286 in the journal "Biological Psychology."
+5423.36 And again, the title is posed
+as a question, which is,
+5427.117 "Emotional Disclosure for Whom?
+5429.7 A Study of Vagal Tone in Bereavement."
+5432.52 What this study explored
+5433.7 was whether or not written disclosure
+5436.9 of the emotional connection
+to somebody that was lost
+5439.87 would be effective as a way for people
+5442.55 to move through the grieving process.
+5446.254 The study also explored
+the so-called vagus nerve.
+5449.33 The vagus nerve is an
+extensive nerve pathway
+5451.86 that is bidirectional
+between brain and body,
+5454.03 so brain to body and body to brain.
+5456.53 It generally is associated
+with calming effects
+5459.536 on our brain and body,
+5460.91 although that's certainly
+not always the case.
+5463.87 The way to think about it in terms of
+5465.35 what we're going to talk about now
+5467.42 is heart rate and heart rate variability.
+5470.48 And in very simplistic terms,
+5473.54 if your heart was just allowed to beat
+5475.7 at its sort of default rate,
+5477.99 that rate would be rather high,
+5480.36 because of the activation of
+the so-called sympathetic arm
+5483.33 of the autonomic nervous system,
+5484.51 the alertness component of
+the autonomic nervous system.
+5489.52 The parasympathetic nervous system,
+5491.75 as it's called, involves calming.
+5493.76 We sometimes hear
+sympathetic is for stress
+5496.1 or fight or flight.
+5497.45 It's for a lot of other things
+as well, I should mention,
+5499.3 and it is not for sympathy.
+5500.83 Sympa simply means together,
+5502.11 and it reflects the activity
+of a bunch of neurons
+5503.97 being active at the same
+time or together, sympa,
+5507.27 whereas parasympathetic
+is often associated
+5509.84 with quote unquote rest
+and digest functions,
+5512.21 or calming functions,
+5513.25 although it is certainly
+involved in other things as well.
+5515.54 So sympathetic nervous
+system drives alertness,
+5518.43 panic, stress, et cetera.
+5520.81 Parasympathetic nervous system,
+5522.07 meaning a distinct set
+of neurons drive calming,
+5524.95 falling asleep, digestion,
+5527.062 sexual arousal for that matter, and so on.
+5530.92 So it's sort of like a seesaw
+5532.34 of alertness and calm, alertness and calm,
+5534.2 sympathetic and
+parasympathetic, back and forth.
+5536.75 The vagus nerve is generally associated
+5539.17 with parasympathetic functions,
+5541.12 and has the capacity to
+slow down our heart rate,
+5544.99 in particular, by exhales,
+5547.52 and just simply because of
+the movement of the diaphragm
+5549.79 and its relationship to the heart
+5551.0 and the thoracic cavity.
+5552.45 Exhales result in slowing
+down of the heart rate.
+5557.29 This is what we call an
+increased vagal tone.
+5561.16 So let me explain for a moment.
+5563.13 And actually here's a tool you can use,
+5564.4 not just in terms of navigating grief,
+5566.24 but in terms of stress
+modulation, generally.
+5568.72 We have a muscle called the diaphragm.
+5570.57 When we inhale, [inhales]
+5572.61 whether or not it's through
+our mouth or our nose,
+5574.58 our diaphragm moves down.
+5577.3 As a consequence, there
+is more space overall
+5579.75 in the thoracic cavity.
+5581.06 The heart gets a little bit bigger,
+5582.68 believe it or not, volume-wise,
+5585.094 blood flows more slowly
+through that large volume.
+5588.65 And there's a signal conveyed
+5590.62 from the nervous system to the
+heart to speed the heart up.
+5593.46 So inhales literally speed your heart up.
+5595.38 And when you exhale,
+the diaphragm moves up.
+5599.56 And as a consequence,
+5600.73 there's less space in the thoracic cavity.
+5602.49 Heart gets a little bit smaller.
+5604.384 The existing blood volume
+in the heart at that time
+5606.78 moves more quickly through
+that small volume, right?
+5608.96 Given amount of blood volume,
+5610.18 make the compartment it's
+in, the heart, smaller,
+5612.73 and the blood moves more
+quickly through that volume.
+5614.98 And as a consequence, the nervous system
+5616.63 sends a signal to the heart,
+5618.21 via the vagus and other pathways,
+5621.01 to slow the heart down.
+5622.38 In other words, exhales
+slow the heart down.
+5624.55 That process, that relationship
+5625.539 between inhales speeding the heart up,
+5628.03 and exhales slowing the heart down,
+5629.9 is something called
+respiratory sinus arrhythmia.
+5632.66 Some people are able to engage
+respiratory sinus arrhythmia
+5636.71 more naturally, more
+reflexively than others.
+5639.08 You can actually train this
+5640.55 by consciously thinking
+about slowing your heart rate
+5642.86 while you exhale,
+5644.07 and consciously thinking about
+increasing your heart rate
+5646.93 as you inhale.
+5647.763 You can literally
+strengthen these pathways.
+5650.27 Now, respiratory sinus arrhythmia,
+5653.17 and the ability to slow your
+heart rate with exhales,
+5656.67 is one dimension of
+what's called vagal tone,
+5659.64 or your ability to control
+5661.46 your overall level of activation
+of alertness and stress,
+5665.25 with these vagus nerve pathways.
+5667.81 So vagal tone is something
+5669.06 that varies from person to person.
+5670.46 If you've trained up
+or you've thought about
+5672.25 your relationship between
+breath and heart rate,
+5674.15 you can improve vagal tone.
+5676.32 Some people have very robust vagal tone
+5679.079 without having done any training.
+5680.72 Other people have less of it, et cetera.
+5684.64 I'll just paraphrase from this paper,
+5686.04 and you'll see where this takes us
+5687.45 in terms of navigating grief,
+because it's quite important.
+5690.517 "The vagus nerve provides
+5691.65 inhibitory regulatory
+influence on the heart,
+5693.87 allowing the heart rate
+to increase rapidly
+5695.95 through vagal withdrawal,"
+5696.9 that means kind of coming off the break
+5699.12 of the parasympathetic nervous system,
+5700.917 "as in response to a stressor
+in one's environment."
+5703.65 Right, when you're stressed,
+5704.92 you rarely take the opportunity,
+5706.65 if it's an immediate stress
+or threat, to actively exhale,
+5709.85 although that would be
+a great tool to use.
+5711.13 And in fact, we promote that tool
+5712.27 in our "Mastering Stress" episode.
+5714.837 "Vagal withdrawal usually co-occurs
+5716.15 with an increase in sympathetic
+activation of the heart."
+5718.23 You now know what that is,
+5719.677 "or is known as the
+fight or flight response.
+5721.39 Vagal tone reflects the degree
+to which there is tonic,"
+5724.83 meaning ongoing, "vagal
+influence on the heart."
+5728.49 So when you have a high
+degree of vagal tone,
+5732.04 it means that you are
+always activating that break
+5736.63 on your stress system, just at default.
+5738.82 And some people just
+happen to do that more.
+5740.25 Other people need to practice
+long exhale breathing
+5742.66 in order to build up vagal tone,
+5745.03 something that's very useful to do,
+5746.96 whether you're grieving or not.
+5748.87 Now in this study, what they did
+5750.25 is they had people,
+5752.46 and I should say it was 35 participants,
+5755.68 go through a writing exercise
+for a period of weeks.
+5758.45 They actually wrote about
+three times per week.
+5760.87 Then there was a follow
+up at some period of time,
+5762.93 and then again, about a month later.
+5764.43 And there were two different groups.
+5766.8 One group was in the so-called
+written disclosure group.
+5769.85 What they did is they, on day one,
+5772.3 they would write about what
+happened when a loved one died.
+5776.18 And indeed they used people
+who had experienced real loss.
+5779.49 And so they were asked to talk about
+5781.69 and write about their deepest emotions
+5784.23 and thoughts about it,
+memories of their loved one,
+5786.87 very intense stuff, if you think about it,
+5788.66 if they're in the immediate
+period of having lost someone.
+5791.6 Then they actually were
+asked to write a letter
+5793.78 to the person that they lost.
+5795.18 So again, a very intense
+exercise to go through,
+5799.05 if you did indeed lose
+somebody as these subjects had.
+5802.17 And then of course there was the testing,
+5803.62 some period of time later,
+5805.97 and I'll tell you what that period,
+5807.38 what that testing involved.
+5809.93 The other group was a
+so-called control group,
+5811.68 where they were simply told to write
+5813.22 about how they use their time.
+5814.51 So an emotionally kind of
+empty writing exercise,
+5816.95 if you will.
+5817.783 They described what they did
+today after they woke up,
+5819.79 et cetera, no heavy
+emotional content, and so on.
+5823.43 Now, as I mentioned earlier,
+5825.89 the immediate results of this
+study were a negative result,
+5829.68 meaning no effect.
+5831.7 The disclosure that, we should say,
+5833.24 the emotionally intense writing group
+5835.01 and the control group did
+not differ at baseline
+5836.99 on any symptom measures
+5838.26 or psychological variables, they tell us,
+5840.3 and at least at face value,
+somewhat disappointingly,
+5844.75 there really wasn't any kind
+of difference in outcome
+5848.41 between the group that wrote about
+5850.147 the very emotionally intense stuff
+5851.93 versus non-emotionally intense.
+5853.67 Now, what I didn't tell you thus far
+5855.83 is why they had them do
+this exercise at all.
+5858.5 They had them do this exercise
+5859.75 because many of the effective practices
+5861.76 for moving through grief
+involve, as I mentioned earlier,
+5864.94 getting close to and actually
+deliberately experiencing
+5869.86 the attachment that one has
+to that person that was lost,
+5872.68 not distracting one's self,
+5874.49 not getting into this
+counterfactual thinking,
+5876.9 the what if, what if, what if,
+5878.17 but rather thinking about,
+5879.93 or in this case, writing
+about the real attachment.
+5882.53 And so the initial idea was,
+5884.82 if people write about this attachment,
+5886.48 that they're going to
+experience this attachment,
+5887.817 and that will serve them
+in some or many ways,
+5891.05 in terms of moving through grief.
+5892.98 And that wasn't what they found.
+5894.09 They found no difference
+between the two groups,
+5895.93 until they explored who
+had higher vagal tone,
+5900.88 who had a greater degree
+5903.16 of so-called respiratory sinus arrhythmia.
+5905.52 In other words, who was able
+to modulate their state,
+5909.24 using their breathing and their body.
+5911.21 And what they discovered was
+that a subset of individuals
+5914.83 who had a high degree of vagal tone
+5917.46 seemed to get more benefit from
+this writing-type exercise.
+5921.62 Now, this is one study,
+5922.96 and I would consider it fairly
+preliminary with 35 subjects.
+5926.93 Although, you know,
+it's a study unto itself
+5928.98 and I think a quite nice one,
+5931.28 and it really set the stage
+5932.33 for a number of other
+studies that followed,
+5934.17 from this group and other groups,
+5935.82 that really point to the
+fact that yes, indeed,
+5938.64 accessing these states of emotionality
+5941.087 by writing or thinking about somebody
+5943.14 is quite powerful in terms
+of engaging the bodily states
+5947.46 and the mind states associated
+with the attachment.
+5949.347 And that is very beneficial
+for moving through grief.
+5953.02 That is very beneficial
+for sensing the attachment.
+5955.683 And now it makes perfect
+sense as to why some people
+5959.41 would benefit from that sort
+of practice more than others,
+5961.96 because some people are able to access
+5963.802 more real somatic feelings of attachment
+5967.73 by writing about the attachment,
+5969.13 or by thinking about it, than others.
+5971.09 So this brings us back
+to an earlier discussion
+5973.26 we were having, where
+we were talking about
+5975.266 how some people seem to move
+through things very quickly,
+5977.93 or don't seem to be grieving constantly,
+5980.09 and a spouse or a family member
+of that person might think,
+5983.187 "Gosh, why aren't you upset?
+5984.63 How is it that you can be
+functional and I'm not,"
+5986.87 or, "how is it that
+you can be functional?"
+5988.12 There can even be fractures
+in families and relationships
+5991.5 on the basis of differences in
+rates of grieving and so on.
+5994.97 Well, some of this, again,
+5996.5 probably relates to psychology
+5997.79 and the different attachments
+5998.74 that people had to the person or animal
+6000.4 or thing that was lost,
+6001.36 but it no doubt also has to do
+6004.2 with how much of a mind/body connection,
+6006.34 how much vagal tone exists in the person,
+6009.504 when they suddenly found
+themselves in the grief episode.
+6013.51 So this actually offers
+multiple opportunities.
+6015.78 If you're somebody, for instance,
+6017.37 who is grieving so intensely and so often
+6020.9 that you're finding it immensely difficult
+6022.7 to move through grief
+at a reasonable rate,
+6025.26 and you might even say, or find yourself
+6027.28 diagnosed with prolonged grief disorder
+6029.17 or with complicated grief syndrome
+6030.65 in a way that's really impairing
+6033.12 your adaptive functioning in life,
+6035.82 well then, it's not clear to me,
+6038.21 at least by my read of the data,
+6039.6 that you would want to
+engage in a lot of practices
+6043.03 to increase the mind/body relationship
+6045.08 and feeling so much of this attachment,
+6046.9 because you're already feeling
+an immense amount of it.
+6048.95 Whereas other people who
+are feeling challenged
+6052.74 in accessing the feelings of attachment,
+6055.7 and perhaps not functioning well
+6057.81 as a consequence of that,
+6059.33 might find that practicing breathing
+6062.11 in order to encourage
+respiratory sinus arrhythmia,
+6065.35 again, focusing on slowing
+your heart rate consciously
+6068.32 while you exhale,
+6069.24 and concentrating on
+increasing your heart rate
+6071.447 as you inhale,
+6072.62 even just as a brief practice
+6073.9 of even just one to three
+minutes or one to five minutes,
+6076.77 every once in a while or per day,
+6078.58 that could be immensely beneficial
+6079.96 in building this mind/body relationship.
+6081.56 Because again, what this
+paper really points to
+6083.67 and set off a number of other
+investigations related to,
+6086.94 is that for those that can really feel
+6089.91 the relationship between
+breathing heart rate,
+6091.828 what we call vagal tone,
+6094.02 well, those people are going
+to be in a better position
+6097.31 to move through grief,
+6098.16 not because they are disengaging
+6100.46 from the feelings of attachment,
+6102.0 but because they are better able
+6103.47 to access those feelings of attachment.
+6105.78 So what this relates to of
+course is that tripartite map,
+6109.53 that three-part map that
+we talked about earlier,
+6112.48 that representation of
+space, where things are,
+6115.71 where the person is, where
+their belongings are,
+6117.5 where their car is,
+where their bicycle is,
+6119.108 time, when you were expecting to see them
+6122.53 on a regular basis,
+6123.363 when they would call,
+6125.2 when they would come home
+from work, et cetera,
+6127.52 and that third node,
+6129.1 or that third dimension of attachment,
+6130.68 which is literally
+attachment and closeness.
+6133.62 Well, what we're talking about here
+6135.29 is anchoring to that attachment
+6137.09 and really feeling into that,
+6138.43 but then disengaging from
+the space and time map
+6142.316 that we call episodic memory,
+6144.46 that menu of prior experiences,
+6146.61 that keeps us in many ways,
+6148.29 maladaptively in an expectation
+6150.97 of what never can be again.
+6152.91 Now I'd like to take a moment and consider
+6154.28 some of the tools that you can access
+6156.21 that support healthy
+transitioning through grief.
+6159.71 And these are tools distinct
+from that neural map,
+6162.15 that space, time and
+closeness attachment map
+6164.41 that we were talking about before.
+6166.13 Rather, it's important to remind ourselves
+6168.43 that everything exists
+6170.79 in a context of our baseline physiology.
+6174.15 And I'm certainly not
+going to be the first
+6176.18 or the last to tell you
+that everything in life,
+6179.31 learning, relationships with
+people that are still around,
+6183.93 our health in every way,
+immune system, et cetera,
+6186.01 function far better when
+we're sleeping really well,
+6188.89 and when we are generally
+awake during the daytime
+6192.17 and asleep at night.
+6193.52 I realize there are
+shift workers out there,
+6195.42 people who are traveling
+and are jet-lagged.
+6197.69 First of all, thank you, shift workers.
+6199.63 We rely on you.
+6200.64 We have an episode all about
+jet lag and shift work,
+6203.04 for you and for trying to maintain
+6205.04 the best possible mental
+and physical health
+6207.07 in the face of ongoing
+shift work and jet lag.
+6209.42 You can find that episode
+6210.48 on our website, hubermanlab.com.
+6212.28 Lots of behavioral tools,
+some other tools as well.
+6216.64 Nonetheless, human beings are diurnal.
+6219.48 We were really designed to
+be awake mostly in the day
+6222.64 and asleep at night.
+6223.97 There are rare exceptions to this
+6225.12 where people like to stay
+up late and sleep in late.
+6226.84 But we are a diurnal species,
+6229.3 by way of our genetic wiring
+6231.305 and our neural circuit wiring.
+6234.56 There's a particular
+feature to our diurnal,
+6237.3 and diurnal, meaning the
+opposite of nocturnal,
+6239.56 our diurnal pattern of the release
+6242.75 of a hormone called cortisol.
+6244.85 Cortisol is a stress hormone,
+it's sometimes called,
+6247.67 but cortisol has a lot of other effects,
+6249.94 many of which are positive.
+6250.89 Cortisol for instance,
+protects us against infection.
+6254.11 It can help us in terms of
+waking up in the morning.
+6257.13 In fact, the pulse as it's called
+6259.5 or the spike in cortisol early in the day
+6261.89 is part of the reason we wake up.
+6263.25 It's linked to our increase
+in temperature rhythms,
+6266.22 and can further increase our temperature,
+6268.97 which leads to waking, and so on.
+6271.56 The typical pattern of cortisol
+in a healthy individual,
+6274.37 and we really can say physically
+6276.4 and emotionally healthy individual,
+6278.49 is that cortisol is going to be
+6280.5 somewhat high right around waking,
+6282.77 and then is going to be
+highest as it ever will be
+6286.1 in the 24-hour period, about
+45 minutes post waking,
+6289.62 not exactly 45 minutes,
+but about 45 minutes.
+6292.76 And then it will drop gradually,
+6295.45 such that by about 4:00
+p.m. in the afternoon,
+6298.21 which is actually when body temperature
+6299.805 tends to start to drop as well,
+6302.35 cortisol tends to be very low,
+6304.06 and then remains low in
+a healthy individual,
+6307.16 such that at 9:00 p.m., it's very low.
+6309.72 And throughout the night
+as we sleep, it's very low.
+6312.02 In fact, spikes or pulses
+in 9:00 p.m. cortisol
+6316.22 are a fairly reliable biomarker readout
+6320.37 of certain forms of depression
+and chronic anxiety.
+6323.1 This relates to the beautiful
+work of my colleagues
+6325.22 at Stanford and Stanford
+School of Medicine,
+6326.9 Dr. David Spiegel, who's
+been on this podcast,
+6328.95 and Dr. Robert Sapolsky, who
+has also been on this podcast.
+6334.94 There's a very interesting paper
+6336.66 exploring the relationship
+6338.04 between cortisol rhythms
+and grieving, in particular,
+6342.27 complicated versus
+non-complicated grieving.
+6344.49 Again, complicated grieving
+being the form of grieving
+6346.38 that reflects a immense challenge
+6349.46 of people moving through
+the grieving process,
+6351.02 such that it really needs
+to be dealt with, right?
+6354.49 Again, grieving is healthy,
+but complicated grieving
+6356.98 is a prolonged grieving,
+6358.16 and has other dimensions as well,
+6359.64 hence the name complicated.
+6360.88 The title of this paper is,
+6362.757 "Diurnal Cortisol in Complicated
+and Non-Complicated Grief,
+6366.55 Slope Differences Across the Day."
+6369.09 And the figure to orient to in this paper,
+6371.81 if you do decide to check it out,
+6373.23 and we'll put a link to it,
+6375.064 is Figure One, which beautifully shows,
+6378.78 or I should say very clearly shows,
+6381.69 that in individuals that are
+experiencing complicated grief,
+6386.13 there's the same general contour
+6388.07 of high cortisol upon waking,
+6390.06 even higher about 45 minutes after waking,
+6392.6 and then a reduction in
+cortisol by 4:00 p.m.,
+6395.3 and even further reduction by 9:00 p.m.,
+6397.28 so just as it were in
+a typical individual,
+6399.77 or somebody who is in
+non-complicated grieving.
+6402.63 However, when you compare
+the cortisol levels
+6405.007 between people experiencing
+complicated grieving
+6408.03 versus non-complicated grieving,
+6409.73 what you find is the 4:00 p.m.
+6411.615 and 9:00 p.m. cortisol levels
+6414.01 are significantly higher than they are
+6416.425 in the non-complicated grieving group.
+6419.57 This raises a very interesting idea,
+6422.02 and relates very closely
+6423.51 to what we were talking
+about with vagal tone.
+6426.12 You could imagine a situation
+6427.67 in which people who are
+experiencing complicated grief
+6431.39 have higher levels of afternoon
+and nighttime cortisol,
+6434.88 because they are in complicated grief,
+6437.28 but you could also imagine the opposite,
+6439.29 that they're experiencing
+complicated grief
+6441.73 because of the fact that
+they have elevated cortisol.
+6444.97 Now, it's very likely
+that it's bidirectional,
+6447.82 that the answer isn't one
+or the other, but both,
+6451.19 that complicated grief
+changes patterns of cortisol,
+6454.58 and that patterns of cortisol
+change the likelihood
+6457.26 that one has complicated grief.
+6459.87 That's the most logical
+interpretation of data like these.
+6463.09 However, when taken along
+with the data on vagal tone,
+6467.33 that people who have a
+higher level of vagal tone
+6470.64 are better able to navigate
+situations of the sort
+6474.85 that we're talking about,
+6476.11 and that some people perhaps
+have oxytocin receptors
+6480.01 or patterns of catecholamines
+or epinephrine,
+6482.75 that position them to be more likely
+6484.39 to grieve in a particular way,
+6486.03 we arrive at a scenario where
+it makes very good sense
+6489.877 to think about modulating,
+6492.23 that is controlling the
+foundation of your life,
+6495.21 in a way that establishes
+cortisol rhythms,
+6498.08 and sleep patterns,
+6499.19 and patterns of autonomic
+arousal and catecholamine release
+6502.75 that position you to
+navigate the grief process
+6505.834 in the best possible way.
+6507.712 If that was a complicated
+mouthful to digest,
+6510.41 let me restate it in a simpler way.
+6512.524 If you are somebody who
+is heading into grief
+6515.598 or is challenged with grief,
+6517.35 complicated grief, or otherwise,
+6519.0 prolonged grief or otherwise,
+6521.535 getting adequate sleep at night
+6523.424 and establishing as normal a
+pattern of cortisol as possible
+6529.67 is going to be very important.
+6531.26 And there's a very simple,
+straightforward way to do this.
+6533.62 And I apologize to the listeners
+of this podcast in advance,
+6536.17 if I sound like a repeating record,
+6537.51 but the most powerful way to do this
+6539.94 is to view sunlight, very close to waking.
+6543.97 It does not have to be right at sunrise,
+6545.63 but when you get up in the morning,
+6547.77 if the sun isn't out,
+6549.5 please turn on as many bright lights
+6551.08 as possible in your environment.
+6555.23 And then once the sun is out,
+6556.48 try and get some bright
+sunlight in your eyes.
+6558.85 Never look at any light so bright
+6561.25 that it's painful to look
+at, sunlight or otherwise.
+6563.99 If you live in an area of the world
+6565.36 where there isn't a lot of sunlight,
+6567.46 please keep in mind that sunlight
+coming through cloud cover
+6569.66 is going to still be a
+very effective mechanism
+6571.789 for establishing this cortisol rhythm.
+6573.93 Why do I say this thing about sunlight
+6575.25 over and over and over again?
+6576.73 Well, having an early day cortisol peak
+6579.69 and a very low cortisol
+level late in the day,
+6583.81 4:00 p.m. and 9:00 p.m.,
+is immensely beneficial.
+6587.33 It's, reflects a properly regulated
+6589.81 autonomic nervous system.
+6590.98 It means being alert during the day.
+6592.29 And your ability to sleep at
+night is tightly correlated
+6595.32 to this viewing of
+sunlight in the morning.
+6597.69 If you have additional
+questions about this
+6599.68 or these protocols,
+6600.539 please see our "Mastering
+Sleep" episode also
+6603.94 at hubermanlab.com.
+6604.98 But in brief, you don't
+want to wear sunglasses
+6607.86 when you do this.
+6608.693 You do not want to do this
+6610.07 through a window or a windshield.
+6611.77 It is 50 times less effective at least,
+6613.76 because of filtering of
+the proper wavelengths.
+6615.75 It is fine to wear eyeglasses,
+6618.13 meaning corrective lenses or contacts,
+6619.79 even if they have UV protection.
+6621.45 Again, sunlight is best
+10 minutes to 30 minutes,
+6624.25 depending on how bright it is outside,
+6625.61 and so on and so forth.
+6627.3 I keep coming back to this protocol,
+6628.75 because first of all, it is a zero cost,
+6631.46 but very effective way to regulate things
+6635.49 like cortisol rhythms, melatonin rhythms,
+6637.42 wakefulness during the day,
+6639.0 ease of falling asleep
+at night, and so on,
+6641.28 and second of all, because
+I want to emphasize
+6644.01 this idea of modulation.
+6646.0 There are processes in our brain and body
+6648.01 which directly mediate
+some psychological effect
+6650.969 or physiological effect, right?
+6653.03 Dopamine is directly
+involved in motivation.
+6655.95 If you're somebody who
+struggles with motivation,
+6658.52 your dopamine system is likely
+6659.88 to be dysregulated in some way.
+6661.33 And there are behavioral tools
+6662.163 and other tools to adjust that.
+6663.89 We had an episode on
+dopamine motivation and drive
+6666.23 that talks extensively about those tools.
+6668.639 However, the process of
+grief can't be distilled
+6672.75 down to one molecule, one circuit,
+6675.14 such that we can say, "Oh,
+you know, take this supplement
+6677.46 or eat this diet and/or
+exercise in the following way,
+6680.83 and you'll recover from
+grief more quickly."
+6683.53 It's simply not the case.
+6684.9 It is the case, however,
+6685.98 that proper sleep at
+night sets the foundation
+6689.24 for the proper emotional tone,
+6692.24 to be able to navigate
+physical, psychological,
+6695.68 and other types of challenges,
+6696.93 and not incidentally, sleep at night,
+6700.78 I should say, sufficient duration
+6702.17 and quality of sleep at night
+6703.85 is the way in which you
+engage neuroplasticity,
+6706.16 the reordering of neural connections,
+6708.0 and everything we've
+been talking about today
+6710.47 about reordering of the maps in your mind.
+6712.72 This tripartite, three-part map
+6714.15 of space, time, and closeness
+involves neuroplasticity,
+6717.59 the reconfiguring of
+connections between neurons,
+6720.5 strengthening certain pathways,
+6722.03 and not strengthening others,
+6723.56 actively trying to disengage
+from the what if, right,
+6727.12 this counterintuitive thinking,
+6728.3 actively trying to disengage
+from the expectations
+6731.23 that someone will be there,
+6732.64 although when you find
+yourself doing that,
+6734.21 understanding why it's so
+reflexive and normal to do that,
+6738.41 actively trying to lean
+into the real attachment
+6740.87 to somebody, animal, or thing,
+6744.27 and yet at the same time,
+not deluding yourself
+6748.49 and undermining the whole
+process of grieving,
+6750.92 by trying to imagine that they are in fact
+6752.75 still, truly there, right?
+6754.68 It's a very narrow
+knife edge of a process,
+6758.25 which is why it's so challenging.
+6760.41 Regulating your cortisol
+rhythm through viewing sunlight
+6763.11 early in the day, and I should also say,
+6765.4 avoiding bright lights
+from artificial sources
+6767.437 in the evening, generally
+10:00 p.m. to 4:00 a.m,
+6771.05 but certainly in the evening,
+6773.53 trying to dim lights in
+your immediate environment,
+6776.01 trying to avoid bright screens,
+6777.64 bright artificial lights
+as much as possible,
+6779.92 and accessing that deep sleep,
+6781.52 that's modulating, it's setting
+an overall autonomic state
+6785.58 or an overall autonomic landscape,
+6788.35 would be the better way to describe it,
+6790.2 that's going to allow you to sleep
+6791.57 and get neuroplasticity,
+6792.59 sleep and be in the best emotional state
+6794.34 to navigate the grieving process.
+6795.78 Because it's only fair to say
+6798.21 that the grieving process as
+we're describing it is hard,
+6801.74 and not just because
+it's emotionally hard.
+6803.49 It's cognitively hard.
+6804.97 You just think about what's required
+6806.42 to move through grief
+properly, if you will.
+6808.96 It's thinking about,
+6811.17 and actually physically
+experiencing the depth,
+6815.04 the full depth of the
+attachment to the person,
+6817.58 while at the same time trying to uncouple
+6819.47 from that rich menu, that
+catalog of episodic memories
+6823.464 that can date back many, many years
+6825.68 and have so much richness.
+6826.83 So many predictions form on the basis
+6829.93 of those episodic memories,
+6831.24 and actively trying to distance ourselves
+6833.44 from those memories,
+6834.41 by being very anchored in
+the fact that we are present,
+6836.78 we are the person alone in that room,
+6838.71 or in some cases with a
+bereavement group in that room,
+6842.27 or with other people that
+are mourning the loss
+6844.43 of that individual, animal, or thing,
+6846.097 and that knife edge of feeling
+the intense attachment,
+6852.4 while also disengaging from all the things
+6854.92 that led to that attachment.
+6856.693 Well, it's understandable
+6858.49 why that would be so challenging,
+6860.09 and it should also be understandable
+6862.091 why positioning yourself
+to be able to do that
+6864.71 in the best possible way
+requires proper sleep.
+6868.02 So what are the tools that
+we can think about using,
+6870.63 in terms of healthy, adaptive
+moving through grief,
+6873.45 trying to avoid complicated grief
+6875.27 and prolonged grief disorders?
+6878.45 I realize that word disorder
+implies all sorts of things,
+6881.05 but again, those are just
+naming categorizations
+6883.376 that people come up with,
+6885.019 that I think fairly reflect the fact
+6887.87 that some people have more challenge
+6889.71 moving through grieving than others.
+6891.83 And for some people it
+can be very extended.
+6894.13 I think the common misunderstanding
+6896.64 is that proper grieving involves
+6899.7 moving through something quickly.
+6901.1 We're certainly not saying that.
+6903.4 However, it is very clear that
+some people can get stuck,
+6907.14 and that process of getting stuck,
+6909.28 you should now understand,
+6910.73 has a lot to do with maintaining
+6913.56 or reactivating those episodic memories,
+6915.71 those expectations of
+where somebody will be
+6918.33 in space and time.
+6920.77 So what can we say about the
+tools for moving through grief?
+6923.46 Clearly it's of value to
+dedicate some period of time,
+6927.32 perhaps every day,
+perhaps every other day,
+6929.77 depending on your capacity and schedule.
+6933.28 These could be periods
+of time ranging anywhere
+6934.94 from five to 45 minutes, maybe longer.
+6938.61 These blocks of time would
+be appropriately described
+6942.27 as rational grieving, right?
+6944.98 Rational grieving is a clear acceptance
+6947.82 of the new reality that
+the person, animal,
+6950.42 or thing no longer exists
+6951.8 in the same space/time dimensionality
+6953.99 that we knew them before,
+6955.48 and yet holding on to an anchoring
+6957.83 to the attachment that we had.
+6960.12 This is again, not an unhealthy
+anchoring to the attachment.
+6963.87 This is really anchoring to the depth
+6965.617 and the intensity of the
+attachment that existed,
+6968.5 as a way to, for lack of
+a better way to put it,
+6972.66 push off from those episodic memories,
+6975.198 to distance ourselves from them.
+6976.87 Because those episodic
+memories are the ones
+6979.47 that lead us to look for the
+person in our current reality.
+6982.85 And assuming this is a
+real and complete loss,
+6985.593 those sorts of expectations
+are maladaptive.
+6988.84 They do not serve us well.
+6991.35 The second aspect of this is to understand
+6993.302 that the node of the map,
+6996.16 the component of the neural
+map that you're anchoring to,
+7000.16 is a very real component of you.
+7001.7 These are literally cells
+7002.76 that represent the depth of attachment.
+7005.11 They are linked up with your
+emotional centers in the brain,
+7007.46 and indeed they're
+linked up with your body.
+7009.54 I think one of the things
+that comes up so often
+7011.594 when people are grieving is
+why does it hurt so much?
+7014.96 Well, that hurt is that yearning.
+7017.6 It's that anticipation of action
+7019.41 that you want to engage in,
+7021.21 but some part of you at least
+knows that it leads nowhere.
+7024.83 It's that reaching for that glass of water
+7026.63 in a kind of desert of thirst,
+7028.842 and you know you can't have it.
+7031.01 That's why it hurts so badly,
+7032.13 because the systems of your brain and body
+7034.37 are in a place of
+anticipation of readiness.
+7037.68 And given the activation of
+these brain reward systems
+7041.49 like the nucleus accumbens,
+7042.97 given your now understanding of oxytocin,
+7045.39 being more enriched in
+the nucleus accumbens
+7048.964 of some individuals and
+as opposed to others,
+7053.32 it should make perfect sense
+7054.32 as to why it's so painful in your body.
+7057.46 We talked a moment ago about
+the importance of accessing
+7060.11 quality sleep on a regular basis,
+7062.34 gave you at least one tool to do that.
+7063.96 There are again, a rich
+array of tools to do that
+7066.79 in the "Mastering Sleep" episode.
+7068.45 And again, highlighting
+the importance of sleep
+7070.505 for not just emotion regulation
+and autonomic control,
+7074.83 which is so vital, but
+also for making sure
+7076.84 that neuroplasticity takes place.
+7078.41 Because again, neuroplasticity
+is a two-part process.
+7080.68 There's the triggering of the plasticity,
+7082.19 which in the case of the things
+7084.18 we're talking about today,
+7085.013 will be naturally
+activated by the practice
+7088.04 of a dedicated focusing on the attachment,
+7090.36 feeling the attachment to the person,
+7091.69 maybe even writing about the
+attachment to the person,
+7094.2 as was described in that previous study,
+7096.41 but also just the
+plasticity is triggered by
+7100.08 the mere loss of that person,
+7101.75 the intensity of that experience.
+7103.1 But neuroplasticity, the
+literal rewiring of connections,
+7106.27 occurs during deep sleep
+7108.47 and in what I call
+non-sleep deep rest or NSDR.
+7111.057 And you can find NSDR scripts,
+7112.85 these are short behavioral protocols
+7114.78 that you do for 10 to 30 minutes
+7116.7 at some point throughout the day,
+7117.74 maybe even multiple
+times through your day,
+7118.97 that have been shown to
+accelerate neuroplasticity.
+7123.19 So having a such a practice
+can be very useful,
+7125.65 and understand that it
+involves some cognitive work.
+7128.87 We have to hold onto the attachment,
+7130.48 and imagine and feel as much
+as we can, the attachment,
+7133.57 while also being extremely
+rationally grounded,
+7137.41 and trying to not try
+to hold onto the past,
+7141.49 trying to not anticipate the
+person walking in the room.
+7144.45 This is very hard because
+7146.4 when we think about the attachment,
+7147.63 the attachment tends to drag with it
+7150.31 those episodic memories,
+7151.8 that rich catalog of experiences.
+7153.72 The expectation that they
+will walk in the room
+7155.63 is perfectly natural.
+7157.3 The hard cognitive work
+7158.812 is to experience the deep,
+emotional attachment,
+7163.17 while at the same time severing from
+7165.57 or distancing ourselves
+from these expectations
+7168.86 that they'll suddenly
+show up in our reality,
+7170.7 when in fact, they won't.
+7173.58 And we talked about preparing
+ourselves for grief, right?
+7176.84 If we have a loved one that's dying,
+7179.29 or we anticipate that at some point
+7181.36 we are going to have a loss of some sort,
+7183.71 could be death,
+7184.543 could be a loss of another type,
+7186.09 breakup, et cetera,
+7187.56 that we can prepare ourselves
+to grieve more adaptively
+7191.46 by regulating the level of catecholamines,
+7194.14 in particular epinephrine,
+7195.65 that was well-described in the study
+7197.54 that I referred to earlier,
+7198.93 and tools such as the one found
+7201.01 in our "Mastering Stress" episode,
+7202.57 and tools of the sort that
+we talked about today,
+7205.29 increasing that vagal tone
+7207.31 by actively building up the relationship
+7210.08 between exhales and slowing
+down of the heart rate,
+7213.06 so-called respiratory sinus arrhythmia.
+7215.18 Those things can be very useful tools.
+7216.73 So we can actually
+encourage our nervous system
+7220.5 and build our nervous system
+7221.77 and build our mind to prepare for grief
+7223.81 when it inevitably will come.
+7226.37 Again, this is not about
+buffering ourselves
+7228.49 from the realities of life.
+7229.69 This is not about disengaging from grief
+7233.39 as a real and important process.
+7235.41 And indeed, it is a real and
+important process to engage in.
+7238.68 Those that enter denial,
+7240.91 or try and distract
+themselves with substances
+7243.82 or thinking or distracting of behavior,
+7247.45 substances or otherwise,
+7249.2 won't move through grief
+as well, as adaptively,
+7251.83 as those who embrace a process of the sort
+7254.223 that I'm describing here.
+7255.49 And of course, I want to restate again,
+7258.121 that even though grief and depression
+7261.24 are now known to be
+fundamentally different,
+7264.26 even though people move through
+7265.54 the different stages of grief
+7266.7 at different rates and sometimes
+skip stages, et cetera,
+7269.99 it is often important to access
+7271.168 a trained professional psychologist,
+7273.24 or psychiatrist, or both,
+7275.39 or bereavement group,
+7276.41 or all of the above,
+7279.11 in order to get the proper
+support for grieving.
+7281.63 So this is a podcast about
+science and science-based tools,
+7286.66 but I absolutely want to emphasize
+7289.58 that there are terrific
+resources out there
+7291.97 that you can access.
+7293.51 I don't say this in any kind of glib
+7295.21 or kind of pass the buck kind of way.
+7297.56 There are wonderful trained therapists,
+7300.93 bereavement groups,
+psychiatrists that are expert
+7305.73 in navigating these sorts of things.
+7307.73 I like to think that the tools
+7309.08 that we've talked about today
+7310.69 would be not only compatible,
+7312.59 but would be complementary
+7314.01 to the sorts of approaches that they take.
+7316.27 And as we think about
+this process of grief,
+7319.51 as we all should at
+some point in our lives,
+7322.61 because we all indeed
+will experience grief
+7324.56 in one form or another,
+7326.9 I would hope that the information
+that we discussed today
+7330.16 would not only give you some tools,
+7333.12 but hopefully give you
+a better understanding
+7335.0 of not just the people that you've lost
+7337.53 or that you stand to lose,
+7338.57 not just the animals that
+you've lost and stand to lose,
+7341.8 but also give you a sense of why it is
+7344.04 that the people who are still in your life
+7346.127 and that you're attached to,
+7347.2 the animals that are still in your life,
+7348.61 that you're attached to,
+7350.06 have such profound meaning for you.
+7351.88 And I would encourage you
+to not lean away from,
+7355.15 but rather to lean into the building
+7357.27 of those episodic memories,
+7359.26 to build up a richer and
+richer set of experiences
+7362.75 and emotional attachments.
+7364.6 Because while the process of grieving
+7366.303 is in direct relation to how close
+7368.93 we are attached to people,
+7370.22 there are ways to move through it.
+7371.9 And of course it is the
+depth of our attachments,
+7374.53 and the number and the depth of meaning
+7376.51 of experiences that we share
+with others and with animals
+7379.59 that makes life so rich and worth living.
+7382.32 So I just want to take a
+moment and say thank you
+7384.2 for being willing to explore
+this rather complicated,
+7387.94 and sometimes extremely challenging thing
+7390.57 that we call grief,
+7391.74 from the perspective or through the lens
+7393.59 of neuroscience and psychology.
+7395.74 I certainly learned a lot in
+exploring this literature.
+7398.26 I also really look
+forward to hosting people
+7401.01 like Dr. O'Connor on the podcast,
+7403.97 and others on the podcast
+7405.143 who've done such beautiful
+work in this area.
+7407.98 I've put out the request,
+7408.92 and hopefully they'll join us soon
+7410.13 to further elaborate and teach us
+7412.45 about this fundamental
+component of our lives.
+7416.29 If you are learning from and
+are enjoying this podcast,
+7418.96 please subscribe to us on YouTube.
+7420.74 That's a terrific zero
+cost way to support us.
+7423.13 In addition, please
+subscribe to the podcast
+7425.52 on Spotify and Apple,
+7427.37 and at both Spotify and Apple,
+7429.13 you can leave us up to a five star review.
+7431.45 If you have comments and
+suggestions, feedback,
+7434.48 or you'd like to see a
+particular guest on this podcast,
+7437.08 please put those suggestions, comments,
+7438.72 and feedback in the
+Comments section on YouTube.
+7441.58 In addition, please check out the sponsors
+7443.49 mentioned at the beginning
+of today's podcast.
+7445.63 That's the best way to support us.
+7447.54 Not during today's episode,
+7448.77 but on many previous episodes
+7450.14 of the Huberman Lab Podcast,
+7451.69 we've discussed supplements.
+7453.15 While supplements aren't
+necessary for everybody,
+7454.99 many people derive
+tremendous benefit from them,
+7457.34 for things like easing and accelerating
+7459.47 the transition time into sleep,
+7461.83 and getting better, deeper sleep,
+7464.0 as well as things such
+as focus, et cetera.
+7467.07 We've partnered with
+Momentous Supplements,
+7469.25 because Momentous
+Supplements, first of all,
+7470.86 are of extremely high quality.
+7472.96 That's obviously important.
+7474.42 Also, they ship internationally.
+7476.06 We had heard from many of you
+7477.16 that you were having trouble
+7478.29 accessing some of the supplements
+7479.456 that were described on
+the Huberman Lab Podcast,
+7482.04 because you did not live in the U.S.
+7483.31 Momentous ships both
+within the U.S. and abroad.
+7486.62 And many of you have also requested
+7488.219 that there be a single site
+7490.25 where you could access
+all of the supplements
+7492.66 that we've talked about on
+the Huberman Lab Podcast.
+7495.58 Right now at livemomentous.com/huberman,
+7499.3 you can find a subset of the supplements
+7501.39 that have been described on this podcast.
+7503.28 Again, all of the very highest quality.
+7505.72 Each, single-ingredient supplements.
+7507.48 That turns out to be very important
+7508.57 if you're trying to develop
+7509.485 the proper array of supplements for you.
+7511.51 It's not helpful to have supplements
+7513.37 that include many ingredients,
+7514.58 so we encouraged Momentous
+7516.32 to have single-ingredient supplements
+7518.053 with dosages that allow you to build up
+7520.53 from the minimal
+effective dose, and so on.
+7523.85 And the catalog of supplements
+7525.1 they are going to add to that location,
+7526.761 livemomentous.com/huberman,
+7528.89 is going to expand in the
+weeks and months to come.
+7531.2 And we expect that in a
+fairly short amount of time,
+7534.57 all of the supplements
+that we've described
+7536.08 on the Huberman Lab Podcast will be there.
+7538.01 If you're not already
+following @hubermanlab
+7539.77 on Instagram and Twitter,
+7541.56 I post science and science-related tools
+7543.58 @hubermanlab on Instagram,
+also @hubermanlab on Twitter.
+7547.663 Oftentimes that material
+will overlap somewhat
+7550.13 with the content covered on this podcast,
+7552.16 but more often than not,
+7553.96 what I'm covering on Instagram and Twitter
+7555.41 is distinct from the information I cover
+7557.43 on the Huberman Lab Podcast.
+7559.19 We also have a newsletter that
+has summaries of podcasts,
+7562.69 and points to specific protocols and links
+7565.18 that could be useful to you.
+7566.76 That is the Neural Network Newsletter,
+7569.09 and you can find it at hubermanlab.com.
+7571.36 Go to the menu, go to Newsletter.
+7572.8 You can sign up simply
+by giving us your email.
+7574.73 We do not share your
+email with anybody else.
+7576.78 Our privacy policy is there,
+and is made very clear.
+7579.65 You can also see some
+newsletters of months past,
+7582.205 so you can assess whether or not
+7583.9 you really do want to sign up,
+7585.37 although I like to think that you will.
+7586.84 Again, zero cost, total
+privacy of your email account,
+7589.914 and many people find those Summaries
+7592.65 and Takeaway Tools to be very useful
+7594.17 in navigating these admittedly
+long podcast episodes.
+7598.52 And last, but certainly not least,
+7600.79 thank you for your interest in science.
+7602.727 [light contemporary music fades]
