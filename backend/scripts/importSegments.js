@@ -4,61 +4,78 @@ import dotenv from "dotenv";
 import mongoose from "mongoose";
 import Podcast from "../models/Podcast.js";
 import Segment from "../models/Segment.js";
+import { fileURLToPath } from "url";
 
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const __dirname = path.resolve();
-const dataDir = path.join(__dirname, "..", "database");
+// load backend/.env
+dotenv.config({ path: path.join(__dirname, "..", ".env") });
 
-const importData = async () => {
+// database folder
+const DATABASE_DIR = path.join(__dirname, "..", "..", "database");
+
+async function importSegments(fileName) {
   try {
     await mongoose.connect(process.env.MONGO_URI);
 
-    const files = fs.readdirSync(dataDir).filter(f => f.endsWith("_segments.json"));
-
-    for (const file of files) {
-      const filePath = path.join(dataDir, file);
-      const json = JSON.parse(fs.readFileSync(filePath));
-
-      const title = file.replace("_segments.json", "");
-
-      const podcast = await Podcast.create({
-        title,
-        fileName: file,
-        audioUrl: `/audio/${title}.mp3`
-      });
-
-        console.log("Importing:", file);
-        for (const seg of json) {
-        // Fix missing timestamps
-        const start = seg.start_time ?? 0;
-        const end = seg.end_time ?? (start + 5); // fallback: +5 seconds length
-
-        if (!seg.end_time) {
-         console.log(`⚠️  Missing end_time in segment ${seg.segment_id} of ${title}. Using fallback.`);
-        }
-
-        await Segment.create({
-            podcastId: podcast._id,
-            segmentId: seg.segment_id,
-            text: seg.text || "",
-            summary: seg.summary || "",
-            keywords: seg.keywords || [],
-            startTime: start,
-            endTime: end
-        });
-
-        }
-
-      console.log(`Imported ${json.length} segments for ${title}`);
+    const filePath = path.join(DATABASE_DIR, fileName);
+    if (!fs.existsSync(filePath)) {
+      throw new Error(`File not found: ${filePath}`);
     }
 
-    console.log("Import complete");
-    process.exit();
+    const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+
+    // create podcast
+    const podcast = await Podcast.create({
+      title: fileName.replace(".json", ""),
+      fileName,
+      audioUrl: `/audio/${fileName.replace(".json", ".mp3")}`,
+      duration: null,
+      tags: []
+    });
+
+    let index = 0;
+
+    for (const seg of raw) {
+      const start =
+        seg.start_time ??
+        seg.startTime ??
+        index * 10;
+
+      const end =
+        seg.end_time ??
+        seg.endTime ??
+        start + 10;
+
+      await Segment.create({
+        podcastId: podcast._id,
+        segmentId: seg.segment_id ?? index,
+        text: seg.text || "",
+        summary: seg.summary || "",
+        keywords: seg.keywords || [],
+        startTime: start,
+        endTime: end
+      });
+
+      index++;
+    }
+
+    console.log(`Imported ${raw.length} segments`);
+    console.log(`Podcast ID: ${podcast._id}`);
+
+    process.exit(0);
   } catch (err) {
-    console.error(err);
+    console.error("Import failed:", err.message);
     process.exit(1);
   }
-};
+}
 
-importData();
+// CLI
+const fileArg = process.argv[2];
+if (!fileArg) {
+  console.error("Please provide JSON file name");
+  process.exit(1);
+}
+
+importSegments(fileArg);

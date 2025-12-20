@@ -1,4 +1,5 @@
 import express from "express";
+import mongoose from "mongoose";
 import Segment from "../models/Segment.js";
 
 const router = express.Router();
@@ -14,9 +15,10 @@ router.get("/podcasts/:id/segments", async (req, res) => {
     const { id } = req.params;
     const { keyword } = req.query;
 
-    let query = { podcastId: id };
+    const podcastId = new mongoose.Types.ObjectId(id);
 
-    // Keyword filter (search inside text or summary or keywords array)
+    let query = { podcastId };
+
     if (keyword) {
       query.$or = [
         { text: { $regex: keyword, $options: "i" } },
@@ -25,11 +27,15 @@ router.get("/podcasts/:id/segments", async (req, res) => {
       ];
     }
 
-    const segments = await Segment.find(query).sort({ startTime: 1 });
+    const segments = await Segment.find(query).sort({ segmentId: 1 });
 
     res.json(segments);
   } catch (err) {
-    res.status(500).json({ error: "Failed to fetch segments", details: err.message });
+    console.error(err);
+    res.status(500).json({
+      error: "Failed to fetch segments",
+      details: err.message
+    });
   }
 });
 
@@ -47,18 +53,24 @@ router.get("/podcasts/:id/search", async (req, res) => {
       return res.status(400).json({ error: "Missing search query ?q=" });
     }
 
+    const podcastId = new mongoose.Types.ObjectId(id);
+
     const results = await Segment.find({
-      podcastId: id,
+      podcastId,
       $or: [
         { text: { $regex: q, $options: "i" } },
         { summary: { $regex: q, $options: "i" } },
         { keywords: { $regex: q, $options: "i" } }
       ]
-    }).sort({ startTime: 1 });
+    }).sort({ segmentId: 1 });
 
     res.json(results);
   } catch (err) {
-    res.status(500).json({ error: "Search failed", details: err.message });
+    console.error(err);
+    res.status(500).json({
+      error: "Search failed",
+      details: err.message
+    });
   }
 });
 

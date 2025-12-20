@@ -7,7 +7,17 @@ const podcastSchema = new mongoose.Schema(
     audioUrl: { type: String },
     description: { type: String },
     duration: { type: Number },
-    tags: [String]
+    tags: [String],
+
+    // ✅ REQUIRED FOR DASHBOARD + PIPELINE
+    status: {
+      type: String,
+      enum: ["processing", "completed", "failed"],
+      default: "processing"
+    },
+    processedAt: {
+      type: Date
+    }
   },
   { timestamps: true }
 );
