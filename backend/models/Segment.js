@@ -8,7 +8,10 @@ const segmentSchema = new mongoose.Schema(
     summary: { type: String },
     keywords: [String],
     startTime: { type: Number, required: true },
-    endTime: { type: Number, required: true }
+    endTime: { type: Number, required: true },
+    sentiment: {
+      score: { type: Number, default: 0 }
+    }
   },
   { timestamps: true }
 );

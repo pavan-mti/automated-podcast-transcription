@@ -1,0 +1,741 @@
+{
+    "audio_file": "E:\\Podcast-Analyser\\automated-podcast-transcription\\backend\\uploads\\1767441007162.mp3",
+    "language": "en",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 10.6,
+            "text": " So a couple years ago, a woman I know who I'll call Maya went through a lot of big changes"
+        },
+        {
+            "start": 10.6,
+            "end": 12.4,
+            "text": " in a short amount of time."
+        },
+        {
+            "start": 12.4,
+            "end": 13.4,
+            "text": " She got married."
+        },
+        {
+            "start": 13.4,
+            "end": 18.04,
+            "text": " She and her husband moved for his job to a new city where she didn't know anyone."
+        },
+        {
+            "start": 18.04,
+            "end": 23.080000000000002,
+            "text": " She started a new role working from home, all while managing her dad's new diagnosis"
+        },
+        {
+            "start": 23.080000000000002,
+            "end": 24.92,
+            "text": " of dementia."
+        },
+        {
+            "start": 24.92,
+            "end": 30.32,
+            "text": " And to manage the stress of all this change, Maya doubled down on her physical and mental"
+        },
+        {
+            "start": 30.32,
+            "end": 31.32,
+            "text": " health."
+        },
+        {
+            "start": 31.32,
+            "end": 33.040000000000006,
+            "text": " She exercised almost every day."
+        },
+        {
+            "start": 33.040000000000006,
+            "end": 34.44,
+            "text": " She ate healthy foods."
+        },
+        {
+            "start": 34.44,
+            "end": 36.52,
+            "text": " She went to therapy once a week."
+        },
+        {
+            "start": 36.52,
+            "end": 38.160000000000004,
+            "text": " And these actions really helped."
+        },
+        {
+            "start": 38.160000000000004,
+            "end": 39.92,
+            "text": " Her body got stronger."
+        },
+        {
+            "start": 39.92,
+            "end": 41.88,
+            "text": " Her mind got more resilient."
+        },
+        {
+            "start": 41.88,
+            "end": 44.6,
+            "text": " But only up to a point."
+        },
+        {
+            "start": 44.6,
+            "end": 49.24,
+            "text": " She was still struggling, often losing sleep in the middle of the night, feeling"
+        },
+        {
+            "start": 49.24,
+            "end": 51.52,
+            "text": " unfocused, unmotivated during the day."
+        },
+        {
+            "start": 51.52,
+            "end": 56.68000000000001,
+            "text": " Maya was doing everything that doctors typically tell us to do to be physically and mentally"
+        },
+        {
+            "start": 56.68000000000001,
+            "end": 61.28,
+            "text": " healthy, and yet something was missing."
+        },
+        {
+            "start": 61.28,
+            "end": 66.36,
+            "text": " What if I told you that what was missing for Maya is also missing for billions of people"
+        },
+        {
+            "start": 66.36,
+            "end": 71.08,
+            "text": " around the world, and that it might be missing for you?"
+        },
+        {
+            "start": 71.08,
+            "end": 75.96000000000001,
+            "text": " What if I told you that not having it undermines our other efforts to be healthy"
+        },
+        {
+            "start": 75.96000000000001,
+            "end": 80.08000000000001,
+            "text": " and can even shorten your lifespan?"
+        },
+        {
+            "start": 80.08,
+            "end": 84.84,
+            "text": " I've been studying this for over a decade, and I've discovered that the traditional way"
+        },
+        {
+            "start": 84.84,
+            "end": 88.6,
+            "text": " we think about health is incomplete."
+        },
+        {
+            "start": 88.6,
+            "end": 94.16,
+            "text": " By thinking of our health as primarily physical and mental, we overlook what I believe is"
+        },
+        {
+            "start": 94.16,
+            "end": 100.0,
+            "text": " the greatest challenge and the greatest opportunity of our time."
+        },
+        {
+            "start": 100.0,
+            "end": 101.88,
+            "text": " Social health."
+        },
+        {
+            "start": 101.88,
+            "end": 107.12,
+            "text": " While physical health is about our bodies and mental health is about our minds, social"
+        },
+        {
+            "start": 107.16000000000001,
+            "end": 110.76,
+            "text": " health is about our relationships."
+        },
+        {
+            "start": 110.76,
+            "end": 114.72,
+            "text": " And if you haven't heard this term before, that's because it hasn't yet made its way"
+        },
+        {
+            "start": 114.72,
+            "end": 120.24000000000001,
+            "text": " into mainstream vocabulary, yet it is equally important."
+        },
+        {
+            "start": 120.24000000000001,
+            "end": 123.56,
+            "text": " Maya didn't yet have a sense of community in her new home."
+        },
+        {
+            "start": 123.56,
+            "end": 128.44,
+            "text": " She wasn't seeing her family or her friends or her co-workers in person anymore."
+        },
+        {
+            "start": 128.44,
+            "end": 132.16,
+            "text": " And she often went weeks only spending quality time with her husband."
+        },
+        {
+            "start": 132.16,
+            "end": 136.52,
+            "text": " Her story shows us that we can't be fully healthy."
+        },
+        {
+            "start": 136.52,
+            "end": 143.76000000000002,
+            "text": " We can't thrive if we take care of our bodies and our minds, but not our relationships."
+        },
+        {
+            "start": 143.76000000000002,
+            "end": 148.0,
+            "text": " Similar to Maya, hundreds of millions of people around the world"
+        },
+        {
+            "start": 148.0,
+            "end": 154.32000000000002,
+            "text": " go weeks at a time without talking to a single friend or family member."
+        },
+        {
+            "start": 154.32000000000002,
+            "end": 158.52,
+            "text": " Globally, one in four people feel lonely."
+        },
+        {
+            "start": 158.52,
+            "end": 165.32000000000002,
+            "text": " And 20% of adults worldwide don't feel like they have anyone they can reach out to for support."
+        },
+        {
+            "start": 165.32,
+            "end": 166.76,
+            "text": " Think about that."
+        },
+        {
+            "start": 166.76,
+            "end": 172.35999999999999,
+            "text": " One in five people you encounter may feel like they have no one."
+        },
+        {
+            "start": 172.35999999999999,
+            "end": 175.0,
+            "text": " This is more than heartbreaking."
+        },
+        {
+            "start": 175.0,
+            "end": 177.56,
+            "text": " It's also a public health crisis."
+        },
+        {
+            "start": 177.56,
+            "end": 180.23999999999998,
+            "text": " Disconnection triggers stress in the body."
+        },
+        {
+            "start": 180.23999999999998,
+            "end": 182.95999999999998,
+            "text": " It weakens people's immune systems."
+        },
+        {
+            "start": 182.95999999999998,
+            "end": 188.12,
+            "text": " It puts them at a risk, greater risk of stroke, heart disease, diabetes,"
+        },
+        {
+            "start": 188.12,
+            "end": 191.72,
+            "text": " dementia, depression and early death."
+        },
+        {
+            "start": 191.76,
+            "end": 196.16,
+            "text": " Social health is essential for longevity."
+        },
+        {
+            "start": 196.16,
+            "end": 199.96,
+            "text": " So you might be wondering, what does it look like to be socially healthy?"
+        },
+        {
+            "start": 199.96,
+            "end": 201.64,
+            "text": " What does that even mean?"
+        },
+        {
+            "start": 201.64,
+            "end": 208.64,
+            "text": " Well, it's about developing close relationships with your family, your friends, your partner, yourself."
+        },
+        {
+            "start": 208.64,
+            "end": 213.0,
+            "text": " It's about having regular interaction with your co-workers, your neighbors."
+        },
+        {
+            "start": 213.0,
+            "end": 216.32,
+            "text": " It's about feeling like you belong to a community."
+        },
+        {
+            "start": 216.32,
+            "end": 223.92,
+            "text": " Being socially healthy is about having the right quantity and quality of connection for you."
+        },
+        {
+            "start": 223.92,
+            "end": 228.28,
+            "text": " And Maya's story is one example of how social health challenges come up."
+        },
+        {
+            "start": 228.28,
+            "end": 230.68,
+            "text": " In my work, I hear many others."
+        },
+        {
+            "start": 230.68,
+            "end": 236.24,
+            "text": " Stories like Jay, a freshman in college who's eager to get involved in campus,"
+        },
+        {
+            "start": 236.24,
+            "end": 241.24,
+            "text": " yet is having a hard time fitting in with people in his dorm and often feels homesick."
+        },
+        {
+            "start": 241.24,
+            "end": 246.68,
+            "text": " Or Serena and Ali, a couple juggling the chaos of young kids with demanding jobs."
+        },
+        {
+            "start": 246.68,
+            "end": 251.08,
+            "text": " They rarely have time to see friends or spend time one-on-one."
+        },
+        {
+            "start": 251.08,
+            "end": 255.56,
+            "text": " Or Henry, recently retired, who cherishes time with his spouse"
+        },
+        {
+            "start": 255.56,
+            "end": 259.08,
+            "text": " and yet feels untethered without his team anymore"
+        },
+        {
+            "start": 259.08,
+            "end": 262.52,
+            "text": " and wishes he could see his kids and grandkids more often."
+        },
+        {
+            "start": 262.52,
+            "end": 269.84000000000003,
+            "text": " These stories show that social health is relevant to each of us at every life stage."
+        },
+        {
+            "start": 269.88000000000005,
+            "end": 274.68,
+            "text": " So if you're not sure where to start, try the 5-3-1 guideline from my book."
+        },
+        {
+            "start": 274.68,
+            "end": 276.00000000000006,
+            "text": " It goes like this."
+        },
+        {
+            "start": 276.00000000000006,
+            "end": 279.56000000000006,
+            "text": " Aim to interact with five different people each week"
+        },
+        {
+            "start": 279.56000000000006,
+            "end": 283.64000000000004,
+            "text": " to strengthen at least three close relationships overall"
+        },
+        {
+            "start": 283.64000000000004,
+            "end": 286.56000000000006,
+            "text": " and to spend one hour a day connecting."
+        },
+        {
+            "start": 286.56000000000006,
+            "end": 288.32000000000005,
+            "text": " Let's dig into these."
+        },
+        {
+            "start": 288.32000000000005,
+            "end": 292.20000000000005,
+            "text": " So first, interact with five different people each week."
+        },
+        {
+            "start": 292.20000000000005,
+            "end": 297.20000000000005,
+            "text": " Just like eating a variety of vegetables and other food groups is more nutritious,"
+        },
+        {
+            "start": 297.2,
+            "end": 301.96,
+            "text": " research has shown that interacting with a variety of people is more rewarding."
+        },
+        {
+            "start": 301.96,
+            "end": 307.24,
+            "text": " So your five could include close loved ones, casual acquaintances, even complete strangers."
+        },
+        {
+            "start": 307.24,
+            "end": 309.44,
+            "text": " In fact, in one study that I love,"
+        },
+        {
+            "start": 309.44,
+            "end": 313.88,
+            "text": " people who just smiled, made eye contact and chit-chatted with a barista"
+        },
+        {
+            "start": 313.88,
+            "end": 316.52,
+            "text": " felt happier and a greater sense of belonging"
+        },
+        {
+            "start": 316.52,
+            "end": 320.15999999999997,
+            "text": " than people who just rushed to get their coffee and go."
+        },
+        {
+            "start": 320.15999999999997,
+            "end": 324.32,
+            "text": " Next, strengthen at least three close relationships."
+        },
+        {
+            "start": 324.32,
+            "end": 326.76,
+            "text": " Okay, we've all heard of a to-do list,"
+        },
+        {
+            "start": 326.76,
+            "end": 331.44,
+            "text": " but I would like to invite you to write a to-love list."
+        },
+        {
+            "start": 331.44,
+            "end": 333.28,
+            "text": " Who matters most to you?"
+        },
+        {
+            "start": 333.28,
+            "end": 335.4,
+            "text": " Who can you be yourself with?"
+        },
+        {
+            "start": 335.4,
+            "end": 340.76,
+            "text": " Make sure that you invest in the names of at least three of the people that you write down"
+        },
+        {
+            "start": 340.76,
+            "end": 342.92,
+            "text": " by scheduling regular time together,"
+        },
+        {
+            "start": 342.92,
+            "end": 345.64,
+            "text": " by showing a genuine interest in their lives"
+        },
+        {
+            "start": 345.64,
+            "end": 349.68,
+            "text": " and also by opening up about the experiences that you're going through."
+        },
+        {
+            "start": 349.68,
+            "end": 352.08,
+            "text": " And I'm often asked, does it have to be in person?"
+        },
+        {
+            "start": 352.08,
+            "end": 354.4,
+            "text": " Right, does texting count?"
+        },
+        {
+            "start": 354.4,
+            "end": 358.35999999999996,
+            "text": " Studies have shown that face-to-face is ideal, so do that whenever possible,"
+        },
+        {
+            "start": 358.35999999999996,
+            "end": 363.0,
+            "text": " but there are absolutely still benefits to staying connected virtually."
+        },
+        {
+            "start": 363.0,
+            "end": 367.59999999999997,
+            "text": " And last, spend one hour a day on meaningful connection."
+        },
+        {
+            "start": 367.59999999999997,
+            "end": 370.84,
+            "text": " Okay, if you're an introvert, right now you're probably thinking,"
+        },
+        {
+            "start": 370.84,
+            "end": 373.56,
+            "text": " one hour sounds like a lot."
+        },
+        {
+            "start": 373.56,
+            "end": 374.76,
+            "text": " I get it."
+        },
+        {
+            "start": 374.76,
+            "end": 378.84,
+            "text": " Might be surprising, but I'm actually also an introvert."
+        },
+        {
+            "start": 378.84000000000003,
+            "end": 382.92,
+            "text": " However, keep in mind that just like getting eight hours of sleep at night,"
+        },
+        {
+            "start": 382.92,
+            "end": 388.32000000000005,
+            "text": " the exact amount that's right for you personally might be higher or lower."
+        },
+        {
+            "start": 388.32000000000005,
+            "end": 392.12,
+            "text": " But if you are thinking that one hour a day sounds like way too much"
+        },
+        {
+            "start": 392.12,
+            "end": 395.92,
+            "text": " because you're just way too busy, I challenge you."
+        },
+        {
+            "start": 395.92,
+            "end": 401.40000000000003,
+            "text": " Adults in the US spend an average of four and a half hours each day on their smartphones."
+        },
+        {
+            "start": 401.40000000000003,
+            "end": 406.00000000000006,
+            "text": " So instead of scrolling on social media, text a friend."
+        },
+        {
+            "start": 406.04,
+            "end": 410.44,
+            "text": " Instead of reading news headlines, write a thank you card."
+        },
+        {
+            "start": 410.44,
+            "end": 415.04,
+            "text": " Instead of listening to a podcast, call a family member."
+        },
+        {
+            "start": 415.04,
+            "end": 418.68,
+            "text": " Maya put this into practice by scheduling recurring hangouts"
+        },
+        {
+            "start": 418.68,
+            "end": 421.12,
+            "text": " with the new local friend that she made,"
+        },
+        {
+            "start": 421.12,
+            "end": 427.76,
+            "text": " by attending community events and dropping cards off in her neighbor's mailboxes,"
+        },
+        {
+            "start": 427.76,
+            "end": 432.16,
+            "text": " by planning trips to see family and inviting friends in other cities to come visit,"
+        },
+        {
+            "start": 432.16,
+            "end": 436.76000000000005,
+            "text": " and bolstering her social health made more of a difference"
+        },
+        {
+            "start": 436.76000000000005,
+            "end": 441.72,
+            "text": " than focusing solely on her physical and mental health ever could."
+        },
+        {
+            "start": 441.72,
+            "end": 446.44000000000005,
+            "text": " And I know this because Maya is actually me."
+        },
+        {
+            "start": 448.92,
+            "end": 452.6,
+            "text": " I am so passionate about sharing tools to be socially healthy"
+        },
+        {
+            "start": 452.6,
+            "end": 454.8,
+            "text": " because honestly, I need them too."
+        },
+        {
+            "start": 454.8,
+            "end": 458.84000000000003,
+            "text": " And the 531 guideline is one way that we can be proactive"
+        },
+        {
+            "start": 458.84000000000003,
+            "end": 461.8,
+            "text": " and intentional about our relationships."
+        },
+        {
+            "start": 461.8,
+            "end": 463.44,
+            "text": " And that is really the point,"
+        },
+        {
+            "start": 463.44,
+            "end": 467.36,
+            "text": " be proactive and intentional about your social health."
+        },
+        {
+            "start": 468.64,
+            "end": 473.76,
+            "text": " So zooming out beyond the steps that you and I take individually,"
+        },
+        {
+            "start": 473.76,
+            "end": 478.2,
+            "text": " together we need to shape a society that thrives through social health."
+        },
+        {
+            "start": 478.2,
+            "end": 483.36,
+            "text": " Over the next decade, I envision educators championing social health in schools."
+        },
+        {
+            "start": 483.36,
+            "end": 487.04,
+            "text": " And just like kids build their physical muscles in gym class,"
+        },
+        {
+            "start": 487.04,
+            "end": 491.32,
+            "text": " they'll exercise their social muscles in connection class."
+        },
+        {
+            "start": 491.36,
+            "end": 495.0,
+            "text": " Over the next decade, I see our cities and neighborhoods"
+        },
+        {
+            "start": 495.0,
+            "end": 497.68,
+            "text": " being designed with social health in mind,"
+        },
+        {
+            "start": 497.68,
+            "end": 500.52,
+            "text": " where vibrant gathering places foster unity"
+        },
+        {
+            "start": 500.52,
+            "end": 504.8,
+            "text": " and community builders are empowered to bring them to life."
+        },
+        {
+            "start": 504.8,
+            "end": 507.71999999999997,
+            "text": " Over the next decade, I believe that social health"
+        },
+        {
+            "start": 507.71999999999997,
+            "end": 511.44,
+            "text": " will become as ingrained in our collective consciousness"
+        },
+        {
+            "start": 511.44,
+            "end": 513.48,
+            "text": " as mental health is today."
+        },
+        {
+            "start": 513.48,
+            "end": 518.48,
+            "text": " Because not that long ago, mental health was a taboo topic shrouded in stigma."
+        },
+        {
+            "start": 518.48,
+            "end": 521.16,
+            "text": " And now public figures talk openly about it."
+        },
+        {
+            "start": 521.16,
+            "end": 524.36,
+            "text": " There's an entire industry to support it."
+        },
+        {
+            "start": 524.36,
+            "end": 527.9599999999999,
+            "text": " And more and more people think of going to therapy like going to the gym."
+        },
+        {
+            "start": 529.28,
+            "end": 532.6,
+            "text": " In this future, loneliness will subside,"
+        },
+        {
+            "start": 532.6,
+            "end": 538.56,
+            "text": " just like smoking subsided when we recognized and treated it as a public health issue."
+        },
+        {
+            "start": 538.56,
+            "end": 542.3199999999999,
+            "text": " In this future, I hope that social health will become"
+        },
+        {
+            "start": 542.3199999999999,
+            "end": 545.72,
+            "text": " so deeply woven into the fabric of our culture"
+        },
+        {
+            "start": 545.72,
+            "end": 548.76,
+            "text": " that no one needs the 531 guideline anymore."
+        },
+        {
+            "start": 549.76,
+            "end": 551.84,
+            "text": " So to get there,"
+        },
+        {
+            "start": 551.84,
+            "end": 554.76,
+            "text": " make relationships your priority,"
+        },
+        {
+            "start": 554.76,
+            "end": 557.84,
+            "text": " not only for you, but also for the people you love,"
+        },
+        {
+            "start": 557.84,
+            "end": 561.52,
+            "text": " because the beauty of nurturing your own social health"
+        },
+        {
+            "start": 561.52,
+            "end": 566.76,
+            "text": " is that it naturally enriches the social health of everyone you connect with."
+        },
+        {
+            "start": 566.76,
+            "end": 567.76,
+            "text": " Thank you."
+        },
+        {
+            "start": 567.76,
+            "end": 570.76,
+            "text": " CHEERING AND APPLAUSE"
+        }
+    ]
+}

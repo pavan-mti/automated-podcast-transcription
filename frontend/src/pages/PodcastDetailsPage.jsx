@@ -4,7 +4,19 @@ import { ArrowLeft, Download, ArrowUp } from 'lucide-react';
 import AudioPlayer from '../components/AudioPlayer';
 import TranscriptSegment from '../components/TranscriptSegment';
 import SearchFilter from '../components/SearchFilter';
+import KeywordCloud from '../components/KeywordCloud';
 import { fetchSegments } from '../services/api';
+import SentimentTimeline from '../components/SentimentTimeline';
+
+/* 🔹 mm:ss formatter (for exports only) */
+const formatTime = (seconds) => {
+  if (seconds == null || isNaN(seconds)) return '--:--';
+
+  const m = Math.floor(seconds / 60);
+  const s = Math.floor(seconds % 60);
+
+  return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+};
 
 const PodcastDetailsPage = () => {
   const { id: podcastId } = useParams();
@@ -16,8 +28,10 @@ const PodcastDetailsPage = () => {
   const [keywordFilter, setKeywordFilter] = useState('');
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showExportOptions, setShowExportOptions] = useState(false);
-  const exportRef = useRef(null);
+  const [activeTab, setActiveTab] = useState('keywords');
 
+  const exportRef = useRef(null);
+  const transcriptRef = useRef(null);
 
   useEffect(() => {
     const load = async () => {
@@ -43,21 +57,16 @@ const PodcastDetailsPage = () => {
   }, [podcastId]);
 
   useEffect(() => {
-  const handleClickOutside = (event) => {
-    if (
-      exportRef.current &&
-      !exportRef.current.contains(event.target)
-    ) {
-      setShowExportOptions(false);
-    }
-  };
+    const handleClickOutside = (event) => {
+      if (exportRef.current && !exportRef.current.contains(event.target)) {
+        setShowExportOptions(false);
+      }
+    };
 
-  document.addEventListener('mousedown', handleClickOutside);
-  return () => {
-    document.removeEventListener('mousedown', handleClickOutside);
-  };
-}, []);
-
+    document.addEventListener('mousedown', handleClickOutside);
+    return () =>
+      document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
 
   useEffect(() => {
     const params = [];
@@ -72,26 +81,31 @@ const PodcastDetailsPage = () => {
   }, [searchQuery, keywordFilter, podcastId]);
 
   useEffect(() => {
-    const onScroll = () => {
-      setShowScrollTop(window.scrollY > 300);
-    };
-
+    const onScroll = () => setShowScrollTop(window.scrollY > 300);
     window.addEventListener('scroll', onScroll);
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
+
+  const handleKeywordClick = (keyword) => {
+    setKeywordFilter(keyword);
+
+    setTimeout(() => {
+      transcriptRef.current?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }, 100);
+  };
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  /* ===============================
-     EXPORT HELPERS
-     =============================== */
-
+  /* 🔹 TXT export content */
   const buildTextContent = () => {
     return segments.map((s, i) => (
       `Segment ${i + 1}
-Time: ${s.startTime} - ${s.endTime}
+Time: ${formatTime(s.start_time)} - ${formatTime(s.end_time)}
 
 Text:
 ${s.text}
@@ -121,51 +135,49 @@ ${(s.keywords || []).join(', ')}
   };
 
   const exportPDF = () => {
-  const printWindow = window.open('', '_blank');
+    const printWindow = window.open('', '_blank');
 
-  const html = `
-    <html>
-      <head>
-        <title>${podcast?.title}</title>
-        <style>
-          body { font-family: Arial, sans-serif; padding: 24px; }
-          h1 { margin-bottom: 16px; }
-          h2 { margin-top: 24px; }
-          .segment { margin-bottom: 20px; }
-          .meta { color: #555; font-size: 14px; }
-          .keywords { font-style: italic; color: #444; }
-          hr { margin: 20px 0; }
-        </style>
-      </head>
-      <body>
-        <h1>${podcast?.title}</h1>
+    const html = `
+      <html>
+        <head>
+          <title>${podcast?.title}</title>
+          <style>
+            body { font-family: Arial, sans-serif; padding: 24px; }
+            h1 { margin-bottom: 16px; }
+            h2 { margin-top: 24px; }
+            .segment { margin-bottom: 20px; }
+            .meta { color: #555; font-size: 14px; }
+            .keywords { font-style: italic; color: #444; }
+            hr { margin: 20px 0; }
+          </style>
+        </head>
+        <body>
+          <h1>${podcast?.title}</h1>
 
-        ${segments.map((s, i) => `
-          <div class="segment">
-            <h2>Segment ${i + 1}</h2>
-            <div class="meta">Time: ${s.startTime} - ${s.endTime}</div>
+          ${segments.map((s, i) => `
+            <div class="segment">
+              <h2>Segment ${i + 1}</h2>
+              <div class="meta">
+                Time: ${formatTime(s.start_time)} - ${formatTime(s.end_time)}
+              </div>
 
-            <p><strong>Text:</strong><br/>${s.text}</p>
+              <p><strong>Text:</strong><br/>${s.text}</p>
+              <p><strong>Summary:</strong><br/>${s.summary}</p>
+              <p class="keywords">
+                <strong>Keywords:</strong> ${(s.keywords || []).join(', ')}
+              </p>
+              <hr/>
+            </div>
+          `).join('')}
+        </body>
+      </html>
+    `;
 
-            <p><strong>Summary:</strong><br/>${s.summary}</p>
-
-            <p class="keywords">
-              <strong>Keywords:</strong> ${(s.keywords || []).join(', ')}
-            </p>
-            <hr/>
-          </div>
-        `).join('')}
-      </body>
-    </html>
-  `;
-
-  printWindow.document.write(html);
-  printWindow.document.close();
-
-  printWindow.focus();
-  printWindow.print();
-};
-
+    printWindow.document.write(html);
+    printWindow.document.close();
+    printWindow.focus();
+    printWindow.print();
+  };
 
   const downloadBlob = (blob, ext) => {
     const url = URL.createObjectURL(blob);
@@ -213,32 +225,11 @@ ${(s.keywords || []).join(', ')}
             </button>
 
             {showExportOptions && (
-              <div
-  className={`absolute right-0 mt-2 w-36 bg-white border rounded-lg shadow-lg z-50
-    transition-all duration-200 ease-out
-    ${showExportOptions ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 -translate-y-2 pointer-events-none'}
-  `}
->
-  <button
-    className="block w-full px-4 py-2 text-left hover:bg-muted transition-colors"
-    onClick={exportTXT}
-  >
-    TXT
-  </button>
-  <button
-    className="block w-full px-4 py-2 text-left hover:bg-muted transition-colors"
-    onClick={exportPDF}
-  >
-    PDF
-  </button>
-  <button
-    className="block w-full px-4 py-2 text-left hover:bg-muted transition-colors"
-    onClick={exportJSON}
-  >
-    JSON
-  </button>
-</div>
-
+              <div className="absolute right-0 mt-2 w-36 bg-white border rounded-lg shadow-lg z-50">
+                <button className="block w-full px-4 py-2 text-left hover:bg-muted" onClick={exportTXT}>TXT</button>
+                <button className="block w-full px-4 py-2 text-left hover:bg-muted" onClick={exportPDF}>PDF</button>
+                <button className="block w-full px-4 py-2 text-left hover:bg-muted" onClick={exportJSON}>JSON</button>
+              </div>
             )}
           </div>
         </div>
@@ -250,7 +241,7 @@ ${(s.keywords || []).join(', ')}
             </div>
           </div>
 
-          <div className="lg:col-span-2 space-y-6">
+          <div className="lg:col-span-2 space-y-6" ref={transcriptRef}>
             <div className="sticky top-24 z-10 bg-background pb-4">
               <SearchFilter
                 searchQuery={searchQuery}
@@ -260,9 +251,44 @@ ${(s.keywords || []).join(', ')}
               />
             </div>
 
+            <div className="flex gap-6 border-b border-muted pb-2">
+              <button
+                onClick={() => setActiveTab('keywords')}
+                className={`text-sm pb-2 ${
+                  activeTab === 'keywords'
+                    ? 'border-b-2 border-lime-400 text-lime-400'
+                    : 'text-muted-foreground'
+                }`}
+              >
+                Keywords
+              </button>
+
+              <button
+                onClick={() => setActiveTab('sentiment')}
+                className={`text-sm pb-2 ${
+                  activeTab === 'sentiment'
+                    ? 'border-b-2 border-lime-400 text-lime-400'
+                    : 'text-muted-foreground'
+                }`}
+              >
+                Sentiment Analysis
+              </button>
+            </div>
+
+            {activeTab === 'keywords' && (
+              <KeywordCloud
+                segments={segments}
+                onKeywordClick={handleKeywordClick}
+              />
+            )}
+
+            {activeTab === 'sentiment' && (
+              <SentimentTimeline segments={segments} />
+            )}
+
             {segments.map((seg, index) => (
               <TranscriptSegment
-                key={seg._id}
+                key={seg.segment_id}
                 segment={seg}
                 index={index}
               />

@@ -58,7 +58,10 @@ async function importSegments(fileName) {
         summary: seg.summary || "",
         keywords: seg.keywords || [],
         startTime: start,
-        endTime: end
+        endTime: end,
+        sentiment: {
+          score: seg.sentiment?.score ?? 0
+        }
       });
 
       index++;

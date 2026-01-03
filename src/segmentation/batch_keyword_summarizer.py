@@ -1,45 +1,20 @@
 import os
 import sys
 import json
+
 from src.segmentation.keywords import keyword_extractor
 from src.segmentation.summarizer import summarize_segment
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 SEGMENT_DIR = "data/segments"
-WHISPER_DIR = "data/transcripts"
 OUTPUT_DIR = "database"
 
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def align_segments(segments, whisper_segments):
-    aligned = []
-
-    for seg_id, seg_text in enumerate(segments, start=1):
-        seg_text = seg_text.strip()
-        seg_start = None
-        seg_end = None
-
-        for ws in whisper_segments:
-            if ws["text"].strip().startswith(seg_text[:20]):
-                seg_start = ws["start"]
-                break
-
-        for ws in reversed(whisper_segments):
-            if ws["text"].strip().endswith(seg_text[-20:]):
-                seg_end = ws["end"]
-                break
-
-        aligned.append({
-            "segment_id": seg_id,
-            "text": seg_text,
-            "start_time": seg_start,
-            "end_time": seg_end
-        })
-
-    return aligned
+sentiment_analyzer = SentimentIntensityAnalyzer()
 
 
 def process_single_file(segment_filename):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
     seg_path = os.path.join(SEGMENT_DIR, segment_filename)
     if not os.path.exists(seg_path):
         raise FileNotFoundError(f"Segment file not found: {seg_path}")
@@ -47,29 +22,34 @@ def process_single_file(segment_filename):
     with open(seg_path, "r", encoding="utf-8") as f:
         seg_data = json.load(f)
 
-    whisper_file = segment_filename.replace(".json", ".json")
-    whisper_path = os.path.join(WHISPER_DIR, whisper_file)
-
-    with open(whisper_path, "r", encoding="utf-8") as f:
-        whisper_data = json.load(f)
-
-    whisper_segments = whisper_data.get("segments", [])
-    text_segments = seg_data.get("bert_segments", [])
-
-    aligned_segments = align_segments(text_segments, whisper_segments)
+    bert_segments = seg_data.get("bert_segments", [])
+    file_name = seg_data.get("file")
 
     final_output = []
 
-    for seg in aligned_segments:
+    for seg in bert_segments:
+        sentiment_score = sentiment_analyzer.polarity_scores(
+            seg["text"]
+        )["compound"]
+
         record = {
-            "file": whisper_file,
+            "file": file_name,
             "segment_id": seg["segment_id"],
             "text": seg["text"],
+
+            # ✅ semantic enrichment
             "summary": summarize_segment(seg["text"]),
             "keywords": keyword_extractor(seg["text"]),
-            "start_time": seg["start_time"],
-            "end_time": seg["end_time"]
+
+            # ✅ PRESERVED timestamps (DO NOT TOUCH)
+            "start_time": seg.get("start_time"),
+            "end_time": seg.get("end_time"),
+
+            "sentiment": {
+                "score": sentiment_score
+            }
         }
+
         final_output.append(record)
 
     output_path = os.path.join(OUTPUT_DIR, segment_filename)

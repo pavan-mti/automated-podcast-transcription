@@ -255,3 +255,283 @@
 2025-12-24 19:23:07 [INFO]: [FRONTEND] Upload API success {"podcastId":"694bf04375417ad009908258","fileName":"How to do laundry when you're depressed  KC Davis  TEDxMileHigh.mp3"}
 2025-12-24 19:30:58 [INFO]: Import started
 2025-12-24 19:30:59 [INFO]: Import completed
+2025-12-25 11:58:20 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-25 11:58:59 [INFO]: Podcast created (upload)
+2025-12-25 11:58:59 [INFO]: [FRONTEND] Upload API success {"podcastId":"694cd9ab83492c6e32b08868","fileName":"Procrastination.mp3"}
+2025-12-25 12:15:47 [INFO]: Import started
+2025-12-25 12:15:48 [INFO]: Import completed
+2025-12-25 12:16:02 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-25 12:16:04 [INFO]: Segments fetched
+2025-12-25 12:16:04 [INFO]: Segments fetched
+2025-12-25 12:16:05 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-25 12:16:05 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-25 15:33:44 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-25 15:33:44 [INFO]: Segments fetched
+2025-12-25 15:33:44 [INFO]: Segments fetched
+2025-12-25 15:33:44 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-25 15:33:44 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-26 18:01:33 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-26 18:01:37 [INFO]: Segments fetched
+2025-12-26 18:01:37 [INFO]: Segments fetched
+2025-12-26 18:01:37 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-26 18:01:37 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-26 18:16:36 [INFO]: Segments fetched
+2025-12-26 18:16:36 [INFO]: Segments fetched
+2025-12-26 18:16:36 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-26 18:16:36 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-26 18:16:47 [INFO]: Segments fetched
+2025-12-26 18:16:48 [INFO]: Segments fetched
+2025-12-26 18:16:48 [INFO]: Segments fetched
+2025-12-26 18:16:48 [INFO]: Segments fetched
+2025-12-26 18:16:48 [INFO]: Segments fetched
+2025-12-26 18:17:20 [INFO]: Segments fetched
+2025-12-27 11:30:21 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-28 11:18:45 [INFO]: Segments fetched
+2025-12-28 11:18:45 [INFO]: Segments fetched
+2025-12-28 11:18:45 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-28 11:18:45 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-28 11:21:02 [INFO]: Segments fetched
+2025-12-28 11:21:02 [INFO]: Segments fetched
+2025-12-28 11:21:02 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766584387490.mp3"}
+2025-12-28 11:21:03 [INFO]: [FRONTEND] Audio metadata loaded {"duration":771.808073}
+2025-12-28 11:35:46 [INFO]: Segments fetched
+2025-12-28 11:35:46 [INFO]: Segments fetched
+2025-12-28 11:35:46 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-28 11:35:46 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-29 18:04:17 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-29 18:04:21 [INFO]: Segments fetched
+2025-12-29 18:04:21 [INFO]: Segments fetched
+2025-12-29 18:04:21 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-29 18:04:21 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-29 18:08:27 [INFO]: Segments fetched
+2025-12-29 18:08:27 [INFO]: Segments fetched
+2025-12-29 18:08:27 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-29 18:08:27 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2025-12-29 19:48:19 [INFO]: [FRONTEND] Frontend application loaded {}
+2025-12-29 19:48:19 [INFO]: Segments fetched
+2025-12-29 19:48:19 [INFO]: Segments fetched
+2025-12-29 19:48:19 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2025-12-29 19:48:19 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2026-01-02 12:42:13 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 12:42:24 [INFO]: Segments fetched
+2026-01-02 12:42:24 [INFO]: Segments fetched
+2026-01-02 12:42:24 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2026-01-02 12:42:24 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2026-01-02 12:42:27 [INFO]: Segments fetched
+2026-01-02 12:42:32 [INFO]: Segments fetched
+2026-01-02 12:42:36 [INFO]: Segments fetched
+2026-01-02 12:42:49 [INFO]: Segments fetched
+2026-01-02 12:47:08 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 12:47:08 [INFO]: Segments fetched
+2026-01-02 12:47:08 [INFO]: Segments fetched
+2026-01-02 12:47:09 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2026-01-02 12:47:09 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2026-01-02 12:47:18 [INFO]: Segments fetched
+2026-01-02 12:47:29 [INFO]: Segments fetched
+2026-01-02 12:47:35 [INFO]: Segments fetched
+2026-01-02 12:49:46 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 12:49:46 [INFO]: Segments fetched
+2026-01-02 12:49:46 [INFO]: Segments fetched
+2026-01-02 12:49:46 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2026-01-02 12:49:46 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2026-01-02 12:49:51 [INFO]: Segments fetched
+2026-01-02 12:49:59 [INFO]: Segments fetched
+2026-01-02 12:50:02 [INFO]: Segments fetched
+2026-01-02 12:50:06 [INFO]: Segments fetched
+2026-01-02 13:43:13 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 13:43:19 [INFO]: Segments fetched
+2026-01-02 13:43:19 [INFO]: Segments fetched
+2026-01-02 13:43:19 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1766644138824.mp3"}
+2026-01-02 13:43:19 [INFO]: [FRONTEND] Audio metadata loaded {"duration":806.986304}
+2026-01-02 14:04:48 [INFO]: Podcast created (upload)
+2026-01-02 14:04:48 [INFO]: [FRONTEND] Upload API success {"podcastId":"69578328807446d6bd72f4d8","fileName":"Confident.mp3"}
+2026-01-02 14:09:21 [INFO]: Import started
+2026-01-02 14:09:21 [INFO]: Import completed
+2026-01-02 14:20:00 [INFO]: Segments fetched
+2026-01-02 14:20:00 [INFO]: Segments fetched
+2026-01-02 14:20:00 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 14:20:00 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:31:27 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:31:27 [INFO]: Segments fetched
+2026-01-02 17:31:27 [INFO]: Segments fetched
+2026-01-02 17:31:27 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:31:27 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:43:31 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:43:31 [INFO]: Segments fetched
+2026-01-02 17:43:31 [INFO]: Segments fetched
+2026-01-02 17:43:31 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:43:31 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:44:18 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:44:18 [INFO]: Segments fetched
+2026-01-02 17:44:18 [INFO]: Segments fetched
+2026-01-02 17:44:18 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:44:18 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:53:29 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:53:29 [INFO]: Segments fetched
+2026-01-02 17:53:29 [INFO]: Segments fetched
+2026-01-02 17:53:29 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:53:29 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:56:26 [INFO]: Segments fetched
+2026-01-02 17:56:26 [INFO]: Segments fetched
+2026-01-02 17:56:26 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:56:26 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:56:33 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:56:33 [INFO]: Segments fetched
+2026-01-02 17:56:33 [INFO]: Segments fetched
+2026-01-02 17:56:33 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:56:33 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:56:37 [INFO]: Segments fetched
+2026-01-02 17:56:37 [INFO]: Segments fetched
+2026-01-02 17:56:37 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:56:37 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 17:56:44 [INFO]: Segments fetched
+2026-01-02 17:56:44 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 17:56:44 [INFO]: Segments fetched
+2026-01-02 17:56:45 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 17:56:45 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:06:40 [INFO]: Segments fetched
+2026-01-02 18:06:40 [INFO]: Segments fetched
+2026-01-02 18:06:40 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:06:40 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:06:46 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 18:06:46 [INFO]: Segments fetched
+2026-01-02 18:06:46 [INFO]: Segments fetched
+2026-01-02 18:06:46 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:06:46 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:09:25 [INFO]: Segments fetched
+2026-01-02 18:09:25 [INFO]: Segments fetched
+2026-01-02 18:09:25 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:09:25 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:09:37 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 18:09:37 [INFO]: Segments fetched
+2026-01-02 18:09:37 [INFO]: Segments fetched
+2026-01-02 18:09:37 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:09:37 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:19:26 [INFO]: Segments fetched
+2026-01-02 18:26:52 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 18:26:52 [INFO]: Segments fetched
+2026-01-02 18:26:52 [INFO]: Segments fetched
+2026-01-02 18:26:52 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:26:52 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:28:22 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 18:28:22 [INFO]: Segments fetched
+2026-01-02 18:28:22 [INFO]: Segments fetched
+2026-01-02 18:28:23 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:28:23 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:34:28 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 18:34:28 [INFO]: Segments fetched
+2026-01-02 18:34:28 [INFO]: Segments fetched
+2026-01-02 18:34:28 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767342888007.mp3"}
+2026-01-02 18:34:28 [INFO]: [FRONTEND] Audio metadata loaded {"duration":967.436208}
+2026-01-02 18:38:38 [INFO]: Podcast created (upload)
+2026-01-02 18:38:38 [INFO]: [FRONTEND] Upload API success {"podcastId":"6957c3566da39975a1d95be4","fileName":"Trauma.mp3"}
+2026-01-02 18:45:05 [INFO]: Import started
+2026-01-02 18:45:05 [INFO]: Import completed
+2026-01-02 18:47:07 [INFO]: Segments fetched
+2026-01-02 18:47:07 [INFO]: Segments fetched
+2026-01-02 18:47:07 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767359318060.mp3"}
+2026-01-02 18:47:07 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-02 19:02:23 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:02:23 [INFO]: Segments fetched
+2026-01-02 19:02:23 [INFO]: Segments fetched
+2026-01-02 19:02:24 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767359318060.mp3"}
+2026-01-02 19:02:24 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-02 19:03:04 [INFO]: Podcast created (upload)
+2026-01-02 19:03:04 [INFO]: [FRONTEND] Upload API success {"podcastId":"6957c910bdeeae37f3d10231","fileName":"How to do laundry when you're depressed  KC Davis  TEDxMileHigh.mp3"}
+2026-01-02 19:10:20 [INFO]: Import started
+2026-01-02 19:10:20 [INFO]: Import completed
+2026-01-02 19:10:30 [INFO]: Segments fetched
+2026-01-02 19:10:30 [INFO]: Segments fetched
+2026-01-02 19:10:30 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767360784340.mp3"}
+2026-01-02 19:10:30 [INFO]: [FRONTEND] Audio metadata loaded {"duration":771.808073}
+2026-01-02 19:19:49 [INFO]: Segments fetched
+2026-01-02 19:19:49 [INFO]: Segments fetched
+2026-01-02 19:19:49 [INFO]: Segments fetched
+2026-01-02 19:19:52 [INFO]: Segments fetched
+2026-01-02 19:19:54 [INFO]: Segments fetched
+2026-01-02 19:19:54 [INFO]: Segments fetched
+2026-01-02 19:19:54 [INFO]: Segments fetched
+2026-01-02 19:20:03 [INFO]: Segments fetched
+2026-01-02 19:54:29 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:54:29 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:54:30 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:54:30 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:54:30 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 19:55:03 [INFO]: Podcast created (upload)
+2026-01-02 19:55:03 [INFO]: [FRONTEND] Upload API success {"podcastId":"6957d53fa9d2e4c76c2e083a","fileName":"Flirting.mp3"}
+2026-01-02 20:03:06 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-02 20:03:08 [INFO]: Segments fetched
+2026-01-02 20:03:08 [INFO]: Segments fetched
+2026-01-02 20:03:08 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767363902978.mp3"}
+2026-01-02 20:03:08 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-02 20:03:29 [INFO]: Podcast created (upload)
+2026-01-02 20:03:29 [INFO]: [FRONTEND] Upload API success {"podcastId":"6957d73920281d0feb2814bf","fileName":"Flirting.mp3"}
+2026-01-02 20:06:11 [INFO]: Import started
+2026-01-02 20:06:11 [INFO]: Import completed
+2026-01-02 20:21:26 [INFO]: Segments fetched
+2026-01-02 20:21:26 [INFO]: Segments fetched
+2026-01-02 20:21:26 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767364408956.mp3"}
+2026-01-02 20:21:26 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-03 11:27:26 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 11:27:26 [INFO]: Segments fetched
+2026-01-03 11:27:26 [INFO]: Segments fetched
+2026-01-03 11:27:26 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767364408956.mp3"}
+2026-01-03 11:27:26 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-03 17:07:55 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 17:07:55 [INFO]: Segments fetched
+2026-01-03 17:07:55 [INFO]: Segments fetched
+2026-01-03 17:07:55 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767364408956.mp3"}
+2026-01-03 17:07:55 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-03 17:08:51 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 17:08:54 [INFO]: Segments fetched
+2026-01-03 17:08:54 [INFO]: Segments fetched
+2026-01-03 17:08:54 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767364408956.mp3"}
+2026-01-03 17:08:54 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-03 17:20:07 [INFO]: Podcast created (upload)
+2026-01-03 17:20:07 [INFO]: [FRONTEND] Upload API success {"podcastId":"6959026f20281d0feb2814ec","fileName":"Social Health.mp3"}
+2026-01-03 17:25:01 [INFO]: Import started
+2026-01-03 17:25:02 [INFO]: Import completed
+2026-01-03 17:25:43 [INFO]: Segments fetched
+2026-01-03 17:25:43 [INFO]: Segments fetched
+2026-01-03 17:25:43 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-03 17:25:43 [INFO]: [FRONTEND] Audio metadata loaded {"duration":575.204717}
+2026-01-03 17:35:54 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 17:35:54 [INFO]: Segments fetched
+2026-01-03 17:35:54 [INFO]: Segments fetched
+2026-01-03 17:35:54 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-03 17:35:54 [INFO]: [FRONTEND] Audio metadata loaded {"duration":575.204717}
+2026-01-03 17:50:03 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 17:50:03 [INFO]: Segments fetched
+2026-01-03 17:50:03 [INFO]: Segments fetched
+2026-01-03 17:50:03 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-03 17:50:03 [INFO]: [FRONTEND] Audio metadata loaded {"duration":575.204717}
+2026-01-03 17:50:15 [INFO]: Segments fetched
+2026-01-03 17:50:20 [INFO]: Segments fetched
+2026-01-03 17:50:55 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 17:50:55 [INFO]: Segments fetched
+2026-01-03 17:50:55 [INFO]: Segments fetched
+2026-01-03 17:50:55 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-03 17:50:55 [INFO]: [FRONTEND] Audio metadata loaded {"duration":575.204717}
+2026-01-03 17:51:05 [INFO]: Podcast created (upload)
+2026-01-03 17:51:05 [INFO]: [FRONTEND] Upload API success {"podcastId":"695909b120281d0feb281510","fileName":"Trauma.mp3"}
+2026-01-03 18:03:28 [INFO]: Import started
+2026-01-03 18:03:28 [INFO]: Import completed
+2026-01-03 18:03:50 [INFO]: Segments fetched
+2026-01-03 18:03:50 [INFO]: Segments fetched
+2026-01-03 18:03:51 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:03:51 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-03 18:12:05 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 18:12:05 [INFO]: Segments fetched
+2026-01-03 18:12:05 [INFO]: Segments fetched
+2026-01-03 18:12:05 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:12:05 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-03 18:14:09 [INFO]: Segments fetched
+2026-01-03 18:14:09 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 18:14:09 [INFO]: Segments fetched
+2026-01-03 18:14:09 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:14:09 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-03 18:17:11 [INFO]: Segments fetched
+2026-01-03 18:17:12 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-03 18:17:12 [INFO]: Segments fetched
+2026-01-03 18:17:12 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:17:12 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
