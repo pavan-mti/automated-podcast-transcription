@@ -535,3 +535,61 @@
 2026-01-03 18:17:12 [INFO]: Segments fetched
 2026-01-03 18:17:12 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
 2026-01-03 18:17:12 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-03 18:26:18 [INFO]: Segments fetched
+2026-01-03 18:26:18 [INFO]: Segments fetched
+2026-01-03 18:26:18 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:26:20 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-03 18:26:40 [INFO]: Segments fetched
+2026-01-03 18:26:40 [INFO]: Segments fetched
+2026-01-03 18:26:40 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-03 18:27:11 [INFO]: [FRONTEND] Audio metadata loaded {"duration":962.792208}
+2026-01-05 17:53:27 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-05 17:53:31 [INFO]: Segments fetched
+2026-01-05 17:53:31 [INFO]: Segments fetched
+2026-01-05 17:53:32 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:53:32 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:53:46 [INFO]: Segments fetched
+2026-01-05 17:53:46 [INFO]: Segments fetched
+2026-01-05 17:54:08 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-05 17:54:08 [INFO]: Segments fetched
+2026-01-05 17:54:08 [INFO]: Segments fetched
+2026-01-05 17:54:08 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:54:08 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:12 [ERROR]: [FRONTEND] Audio play failed {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:15 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-05 17:55:15 [INFO]: Segments fetched
+2026-01-05 17:55:15 [INFO]: Segments fetched
+2026-01-05 17:55:15 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:15 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:43 [INFO]: Podcast created (upload)
+2026-01-05 17:55:43 [INFO]: [FRONTEND] Upload API success {"podcastId":"695badc7d02820efd0e89792","fileName":"ElevenLabs_2026-01-03T16_57_46_Brian - Deep, Resonant and Comforting_pre_sp110_s60_sb85_se80_b_m2.mp3"}
+2026-01-05 17:59:09 [INFO]: Import started
+2026-01-05 17:59:09 [INFO]: Import completed
+2026-01-05 17:59:19 [INFO]: Segments fetched
+2026-01-05 17:59:19 [INFO]: Segments fetched
+2026-01-05 17:59:19 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:59:19 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:59:25 [INFO]: Segments fetched
+2026-01-05 17:59:25 [INFO]: Segments fetched
+2026-01-05 17:59:25 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767615943577.mp3"}
+2026-01-05 17:59:25 [INFO]: [FRONTEND] Audio metadata loaded {"duration":61.048125}
+2026-01-05 18:00:24 [INFO]: Segments fetched
+2026-01-05 18:00:24 [INFO]: Segments fetched
+2026-01-05 18:00:24 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-05 18:00:24 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
+2026-01-05 18:00:47 [INFO]: Podcast created (upload)
+2026-01-05 18:00:47 [INFO]: [FRONTEND] Upload API success {"podcastId":"695baef7d02820efd0e897ca","fileName":"Bad Habit.mp3"}
+2026-01-05 18:13:28 [INFO]: Import started
+2026-01-05 18:13:28 [INFO]: Import completed
+2026-01-06 11:08:30 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-06 22:24:36 [INFO]: [FRONTEND] Frontend application loaded {}
+2026-01-06 22:24:50 [INFO]: Podcast created (upload)
+2026-01-06 22:24:50 [INFO]: [FRONTEND] Upload API success {"podcastId":"695d3e5ab6faef51257d6bed","fileName":"Flirting.mp3"}
+2026-01-06 22:28:02 [INFO]: Import started
+2026-01-06 22:28:03 [INFO]: Import completed
+2026-01-06 22:28:36 [INFO]: Segments fetched
+2026-01-06 22:28:36 [INFO]: Segments fetched
+2026-01-06 22:28:36 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767718489996.mp3"}
+2026-01-06 22:28:36 [INFO]: [FRONTEND] Audio metadata loaded {"duration":641.404813}
+2026-01-06 22:31:05 [INFO]: Segments fetched
+2026-01-06 22:31:07 [INFO]: Segments fetched

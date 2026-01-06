@@ -19,3 +19,9 @@
 2025-12-24 18:20:12 [ERROR]: [FRONTEND] Audio play failed {"resolvedAudioUrl":"undefined/uploads/1766577598185.mp3"}
 2025-12-24 18:20:13 [ERROR]: [FRONTEND] Audio play failed {"resolvedAudioUrl":"undefined/uploads/1766577598185.mp3"}
 2025-12-24 18:20:13 [ERROR]: [FRONTEND] Audio play failed {"resolvedAudioUrl":"undefined/uploads/1766577598185.mp3"}
+2026-01-05 17:53:32 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:54:08 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:12 [ERROR]: [FRONTEND] Audio play failed {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:55:15 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 17:59:19 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767442864775.mp3"}
+2026-01-05 18:00:24 [ERROR]: [FRONTEND] Audio failed to load {"resolvedAudioUrl":"http://localhost:5000/uploads/1767441007162.mp3"}
