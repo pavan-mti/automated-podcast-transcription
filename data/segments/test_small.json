@@ -1,0 +1,7 @@
+{
+    "file": "test_audio.wav",
+    "bert_segments": [
+        "This is a test segment about artificial intelligence and its impact on society. We discuss the benefits and risks of advanced algorithms.",
+        "The second segment covers the topic of climate change and renewable energy sources like solar and wind power."
+    ]
+}

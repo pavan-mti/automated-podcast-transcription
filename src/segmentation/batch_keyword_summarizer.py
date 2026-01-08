@@ -27,23 +27,32 @@ def process_single_file(segment_filename):
 
     final_output = []
 
-    for seg in bert_segments:
-        sentiment_score = sentiment_analyzer.polarity_scores(
-            seg["text"]
-        )["compound"]
+    for i, seg in enumerate(bert_segments):
+        if isinstance(seg, dict):
+            text = seg.get("text", "")
+            segment_id = seg.get("segment_id", i)
+            start_time = seg.get("start_time")
+            end_time = seg.get("end_time")
+        else:
+            text = str(seg)
+            segment_id = i
+            start_time = None
+            end_time = None
+
+        sentiment_score = sentiment_analyzer.polarity_scores(text)["compound"]
 
         record = {
             "file": file_name,
-            "segment_id": seg["segment_id"],
-            "text": seg["text"],
+            "segment_id": segment_id,
+            "text": text,
 
             # ✅ semantic enrichment
-            "summary": summarize_segment(seg["text"]),
-            "keywords": keyword_extractor(seg["text"]),
+            "summary": summarize_segment(text),
+            "keywords": keyword_extractor(text),
 
             # ✅ PRESERVED timestamps (DO NOT TOUCH)
-            "start_time": seg.get("start_time"),
-            "end_time": seg.get("end_time"),
+            "start_time": start_time,
+            "end_time": end_time,
 
             "sentiment": {
                 "score": sentiment_score

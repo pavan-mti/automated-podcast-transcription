@@ -1,0 +1,2141 @@
+[
+    {
+        "file": "1767770518262.json",
+        "segment_id": 1,
+        "text": "let's take a moment and reflect back upon our lives when we are twenty years old think about where you",
+        "summary": "When we are 20 years old, we reflect on where we are today.",
+        "keywords": [
+            "reflect lives",
+            "old think",
+            "lives years",
+            "let moment",
+            "moment reflect",
+            "reflect",
+            "moment",
+            "lives"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 2,
+        "text": "were and the opportunities for work and career that lay in front of you i'm curious tell me how many have you had a pretty good idea of what you wanted to do for your career okay not too many",
+        "summary": "Not many people had a clear idea of what they wanted to do for their career.",
+        "keywords": [
+            "wanted career",
+            "work career",
+            "career",
+            "career okay",
+            "opportunities",
+            "opportunities work",
+            "career lay",
+            "idea wanted"
+        ],
+        "start_time": 13.92,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.8979
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 3,
+        "text": "how many were overwhelmed by all the options okay i know i felt the same while buckle up it's only",
+        "summary": ".",
+        "keywords": [
+            "overwhelmed options",
+            "overwhelmed",
+            "options okay",
+            "options",
+            "felt buckle",
+            "buckle",
+            "felt",
+            "know felt"
+        ],
+        "start_time": 28.2,
+        "end_time": 30.81,
+        "sentiment": {
+            "score": 0.2732
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 4,
+        "text": "going to get more overwhelming when i was twenty years old i was graduating from stanford university with a degree",
+        "summary": "It's going to get more overwhelming when I was 20 years old and graduating from Stanford with a degree. ",
+        "keywords": [
+            "graduating stanford",
+            "old graduating",
+            "graduating",
+            "overwhelming years",
+            "stanford university",
+            "stanford",
+            "going overwhelming",
+            "overwhelming"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 5,
+        "text": "and pure mathematics nobody had sat me down to tell me that my pure math major wasn't going to be",
+        "summary": "Nobody told him that he wasn't going to be a pure math major.",
+        "keywords": [
+            "math major",
+            "pure mathematics",
+            "pure math",
+            "mathematics sat",
+            "mathematics",
+            "math",
+            "major wasn",
+            "major"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 6,
+        "text": "the most desirable qualification for prospective employers and i probably wouldn't have listened if they did so i went off",
+        "summary": "It's not the most desirable qualification for prospective employers.",
+        "keywords": [
+            "qualification prospective",
+            "prospective employers",
+            "desirable qualification",
+            "qualification",
+            "employers probably",
+            "employers",
+            "prospective",
+            "wouldn listened"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.3804
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 7,
+        "text": "on my default path a math phd program usually buying at least one more year to figure out my career",
+        "summary": "On his default path, he would go to a math program.",
+        "keywords": [
+            "math phd",
+            "phd program",
+            "phd",
+            "math",
+            "path math",
+            "figure career",
+            "buying year",
+            "career"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 8,
+        "text": "now my first month in graduate school lehman brothers went under the start of the global financial crisis most of",
+        "summary": "Lebhman brothers went bankrupt during the global financial crisis.",
+        "keywords": [
+            "financial crisis",
+            "lehman brothers",
+            "school lehman",
+            "global financial",
+            "lehman",
+            "crisis",
+            "financial",
+            "start global"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": -0.6249
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 9,
+        "text": "my friends particularly the ones that felt the most secure in their financial careers found themselves packing up their cubicles",
+        "summary": ".",
+        "keywords": [
+            "financial careers",
+            "careers packing",
+            "secure financial",
+            "friends particularly",
+            "packing cubicles",
+            "careers",
+            "financial",
+            "cubicles"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.6997
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 10,
+        "text": "out of work some of us wondered whether the economy would recover at all or whether we were in store",
+        "summary": "Some of us wonder if the economy will recover.",
+        "keywords": [
+            "economy recover",
+            "wondered economy",
+            "economy",
+            "recover store",
+            "recover",
+            "work wondered",
+            "store",
+            "work"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 11,
+        "text": "for another decade long great depression but amidst the uncertainty the pessimism the malays really have that time some of",
+        "summary": "Malaysia is in a state of uncertainty.",
+        "keywords": [
+            "pessimism malays",
+            "malays really",
+            "malays",
+            "pessimism",
+            "great depression",
+            "uncertainty pessimism",
+            "depression amidst",
+            "depression"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": -0.7311
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 12,
+        "text": "us found a source of optimism the i phone and in particular the app store came out that very same",
+        "summary": "The i phone and the app store came out the same day.",
+        "keywords": [
+            "app store",
+            "optimism phone",
+            "app",
+            "particular app",
+            "phone",
+            "store came",
+            "phone particular",
+            "source optimism"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.5423
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 13,
+        "text": "year two thousand and eight i still remember when the sdk which was the instruction manual for how to build",
+        "summary": "The sdk was the instruction manual for how to build in the year 2,000 and 8.",
+        "keywords": [
+            "sdk instruction",
+            "remember sdk",
+            "manual build",
+            "instruction manual",
+            "sdk",
+            "manual",
+            "instruction",
+            "year thousand"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 14,
+        "text": "i phone apps was released i was at my parents' house and i was up all night reading it learning",
+        "summary": " apps was released.",
+        "keywords": [
+            "phone apps",
+            "apps released",
+            "apps",
+            "phone",
+            "night reading",
+            "reading learning",
+            "released parents",
+            "reading"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 15,
+        "text": "trying to understand i saw an opportunity for a new level playing field and if you think about it pretty",
+        "summary": "\"I saw an opportunity for a new level playing field\"",
+        "keywords": [
+            "level playing",
+            "playing field",
+            "new level",
+            "field think",
+            "opportunity new",
+            "saw opportunity",
+            "level",
+            "opportunity"
+        ],
+        "start_time": 133.74,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.7783
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 16,
+        "text": "much everything i've done since then the company that i created my professional career since that point was a product",
+        "summary": "The company that created my professional career since that point was a product.",
+        "keywords": [
+            "professional career",
+            "created professional",
+            "product",
+            "career",
+            "company created",
+            "company",
+            "career point",
+            "professional"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.25
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 17,
+        "text": "both of the economic malaise but the technological optimism of the time as well but times have changed if the",
+        "summary": "There is both the economic malaise and the technological optimism of the time but times have changed.",
+        "keywords": [
+            "technological optimism",
+            "economic malaise",
+            "malaise technological",
+            "economic",
+            "optimism time",
+            "technological",
+            "optimism",
+            "times changed"
+        ],
+        "start_time": 97.08,
+        "end_time": 155.79,
+        "sentiment": {
+            "score": 0.8126
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 18,
+        "text": "questions i'm hearing on the podcast circuit are any indication the average twenty year old today also has quite a",
+        "summary": " questions on the podcast circuit.",
+        "keywords": [
+            "podcast circuit",
+            "hearing podcast",
+            "podcast",
+            "questions hearing",
+            "average",
+            "hearing",
+            "average year",
+            "questions"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 19,
+        "text": "bit of fear but this time emerging technology is not the antidote to that fear it's a source and they're",
+        "summary": "Emerging technology is not the antidote to fear but a source of it.",
+        "keywords": [
+            "technology antidote",
+            "antidote fear",
+            "fear source",
+            "bit fear",
+            "fear time",
+            "fear",
+            "technology",
+            "emerging technology"
+        ],
+        "start_time": 97.08,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.7506
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 20,
+        "text": "asking themselves will that career i'm looking at even be around and ten years will human still be writing computer",
+        "summary": " will be around in 10 years.",
+        "keywords": [
+            "asking career",
+            "writing computer",
+            "career looking",
+            "career",
+            "human writing",
+            "writing",
+            "computer",
+            "years human"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 21,
+        "text": "software will we even be writing books and i think one reason why it feels different this time because ai",
+        "summary": "This time it feels different because ai. software will be used for writing books.",
+        "keywords": [
+            "ai",
+            "time ai",
+            "software writing",
+            "software",
+            "writing books",
+            "books think",
+            "writing",
+            "books"
+        ],
+        "start_time": 182.1,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 22,
+        "text": "unlike the i phone is the first tool that we've built that's capable weeping the toolbox and we don't yet",
+        "summary": "Unlike the i phone, this tool is not capable of weeping the toolbox.",
+        "keywords": [
+            "weeping toolbox",
+            "phone tool",
+            "capable weeping",
+            "weeping",
+            "toolbox",
+            "unlike phone",
+            "phone",
+            "toolbox don"
+        ],
+        "start_time": 632.48,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.0772
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 23,
+        "text": "know it's limits a few years ago i found it another company with the mission to build mathematical super intelligence",
+        "summary": "A few years ago he found a company with the mission to build mathematical super intelligence.",
+        "keywords": [
+            "super intelligence",
+            "mathematical super",
+            "build mathematical",
+            "know limits",
+            "mathematical",
+            "limits years",
+            "limits",
+            "intelligence"
+        ],
+        "start_time": 198.84,
+        "end_time": 205.17,
+        "sentiment": {
+            "score": 0.7906
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 24,
+        "text": "that's a artificial intelligence that can reason and solve problems better than any mathematician you know when i grew up i always thought of mathematics as the pinnacle of human intellectual activity if you could solve math problems you could do pretty much anything so a super human a i mathematics could potentially be super human and everything and that's",
+        "summary": "When he grew up, he always thought of mathematics as the pinnacle of human intellectual activity. Now he thinks of artificial intelligence that can reason and solve problems better than any mathematician you know.",
+        "keywords": [
+            "human mathematics",
+            "better mathematician",
+            "mathematics pinnacle",
+            "mathematics potentially",
+            "mathematician",
+            "thought mathematics",
+            "mathematics",
+            "mathematician know"
+        ],
+        "start_time": 206.28,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.957
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 25,
+        "text": "a bit of a scary thought so when you think about that and i combine that with my day job",
+        "summary": " is a scary thought.",
+        "keywords": [
+            "day job",
+            "scary thought",
+            "combine day",
+            "think combine",
+            "bit scary",
+            "thought think",
+            "job",
+            "thought"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.4939
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 26,
+        "text": "which is running a global financial services platform it's lead to me spending a lot of time pondering one very",
+        "summary": " is running a financial services platform.",
+        "keywords": [
+            "global financial",
+            "financial services",
+            "services platform",
+            "financial",
+            "global",
+            "platform",
+            "running global",
+            "services"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 27,
+        "text": "important question what do we do in a world where the vast majority of today's jobs are gone and i",
+        "summary": "Today's jobs are gone, so what do we do?",
+        "keywords": [
+            "jobs gone",
+            "jobs",
+            "today jobs",
+            "world",
+            "world vast",
+            "question world",
+            "vast majority",
+            "majority today"
+        ],
+        "start_time": 249.9,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.2023
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 28,
+        "text": "want to analyze this question rationally without fear and hyperbole one way to do it has to look back through",
+        "summary": "If you want to analyze this question rationally without fear and hyperbole, one way to do it is to look back through.",
+        "keywords": [
+            "question rationally",
+            "rationally fear",
+            "analyze question",
+            "rationally",
+            "fear hyperbole",
+            "hyperbole way",
+            "hyperbole",
+            "analyze"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.4456
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 29,
+        "text": "history and see if there's been a time where we face this type of job disruption before at anything near",
+        "summary": "Let's see if there's been a time where we face this type of job disruption before.",
+        "keywords": [
+            "job disruption",
+            "disruption near",
+            "disruption",
+            "type job",
+            "history time",
+            "history",
+            "job",
+            "time face"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.3612
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 30,
+        "text": "these levels and how we as humans have navigated it i should say one thing i'm a technologist not a",
+        "summary": " levels and how humans have navigated it.",
+        "keywords": [
+            "levels humans",
+            "technologist",
+            "levels",
+            "thing technologist",
+            "humans navigated",
+            "navigated say",
+            "humans",
+            "navigated"
+        ],
+        "start_time": 278.79,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 31,
+        "text": "historian so with that caveat let's go back in time to a world a twenty year old would have known",
+        "summary": " is a historian so with that caveat.",
+        "keywords": [
+            "historian caveat",
+            "historian",
+            "old known",
+            "time world",
+            "old",
+            "world year",
+            "year old",
+            "caveat let"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 32,
+        "text": "very long ago tens of thousands of years ago to be more precise now as you can tell the main",
+        "summary": "The main event took place tens of thousands of years ago.",
+        "keywords": [
+            "ago precise",
+            "long ago",
+            "thousands years",
+            "years ago",
+            "tell main",
+            "ago",
+            "main",
+            "precise"
+        ],
+        "start_time": 290.76,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 33,
+        "text": "occupations of this time the paleolithic era are largely gone hunters gatherers toolmakers but they didn't disappear overnight instead they were subdivided into lots of other more specialized jobs so why don't we move forward to the neolithic era now",
+        "summary": "The paleolithic era was dominated by hunters gatherers and toolmakers, but they didn't disappear overnight, they were subdivided into more specialized jobs.",
+        "keywords": [
+            "neolithic era",
+            "neolithic",
+            "forward neolithic",
+            "paleolithic era",
+            "gatherers toolmakers",
+            "hunters gatherers",
+            "time paleolithic",
+            "paleolithic"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.2498
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 34,
+        "text": "here humans have mastered a few new things farming keeping livestock and i'm going to zoom through this but this",
+        "summary": "Farming and keeping livestock is a new thing for humans.",
+        "keywords": [
+            "livestock",
+            "keeping livestock",
+            "livestock going",
+            "farming",
+            "things farming",
+            "farming keeping",
+            "humans mastered",
+            "humans"
+        ],
+        "start_time": 97.08,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 35,
+        "text": "was a big transformation actually the invention of these things allowed us to spend more time doing what we consider",
+        "summary": "The invention of electronic devices allowed people to spend more time doing what they consider important.",
+        "keywords": [
+            "invention things",
+            "big transformation",
+            "actually invention",
+            "invention",
+            "transformation actually",
+            "transformation",
+            "things",
+            "time doing"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 36,
+        "text": "creative work and less time on pure survival and subsistence and this opened up a lot of new jobs you",
+        "summary": " has opened up a lot of new jobs.",
+        "keywords": [
+            "subsistence",
+            "survival subsistence",
+            "new jobs",
+            "subsistence opened",
+            "creative work",
+            "jobs",
+            "pure survival",
+            "creative"
+        ],
+        "start_time": 340.32,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.4404
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 37,
+        "text": "had artisans like weavers you had farmers of course potter's construction laborers and these jobs to largely all gone so",
+        "summary": "Artisans like weavers, farmers and potter's construction laborers are no longer employed.",
+        "keywords": [
+            "weavers farmers",
+            "construction laborers",
+            "laborers jobs",
+            "laborers",
+            "artisans like",
+            "artisans",
+            "like weavers",
+            "weavers"
+        ],
+        "start_time": 353.7,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.3612
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 38,
+        "text": "in the us today we should say farmers make up less than two percent of the workforce let's move ahead",
+        "summary": "Farmers make up less than two percent of the workforce.",
+        "keywords": [
+            "farmers make",
+            "say farmers",
+            "percent workforce",
+            "farmers",
+            "make percent",
+            "workforce let",
+            "workforce",
+            "percent"
+        ],
+        "start_time": 360.21,
+        "end_time": 364.95,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 39,
+        "text": "through the changing jobs of the bronze age the iron age one of my favorites the dark ages here we've",
+        "summary": "The iron age is one of my favorite ages.",
+        "keywords": [
+            "iron age",
+            "bronze age",
+            "dark ages",
+            "age iron",
+            "iron",
+            "ages ve",
+            "jobs bronze",
+            "favorites dark"
+        ],
+        "start_time": 371.49,
+        "end_time": 376.26,
+        "sentiment": {
+            "score": 0.4215
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 40,
+        "text": "got the renaissance and the age of exploration too many jobs the count a lot of them are gone now",
+        "summary": "There are too many jobs and a lot of them are gone now.",
+        "keywords": [
+            "renaissance age",
+            "renaissance",
+            "exploration jobs",
+            "got renaissance",
+            "jobs count",
+            "jobs",
+            "exploration",
+            "age exploration"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.2263
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 41,
+        "text": "and he blacksmith's or explores in this room i didn't think so i would have loved to be an explore",
+        "summary": "There is no blacksmith's or explores in this room.",
+        "keywords": [
+            "blacksmith explores",
+            "explores room",
+            "blacksmith",
+            "explores",
+            "explore",
+            "loved explore",
+            "room didn",
+            "think loved"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.5994
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 42,
+        "text": "how cool have a job would that be it might come back with space exploration my great grandfather was a",
+        "summary": "My great grandfather was involved in space exploration.",
+        "keywords": [
+            "space exploration",
+            "job come",
+            "great grandfather",
+            "job",
+            "exploration great",
+            "come space",
+            "grandfather",
+            "exploration"
+        ],
+        "start_time": 399.63,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.8074
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 43,
+        "text": "farmer in a village near stars a gore bulgaria now legend has it he was the first person in his",
+        "summary": "Legend has it that a farmer from Bulgaria was the first person in his village.",
+        "keywords": [
+            "bulgaria legend",
+            "gore bulgaria",
+            "bulgaria",
+            "farmer",
+            "farmer village",
+            "legend person",
+            "stars gore",
+            "gore"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 44,
+        "text": "village to see an automobile and when he saw it he ran back into the village and said there's a",
+        "summary": "A man went to the village to see an automobile and when he saw it, he ran back into the village.",
+        "keywords": [
+            "village automobile",
+            "ran village",
+            "village said",
+            "village",
+            "saw ran",
+            "automobile saw",
+            "automobile",
+            "saw"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 45,
+        "text": "drag it out in the fields his son my grandfather was also a farmer that didn't venture too far from",
+        "summary": "My grandfather was also a farmer.",
+        "keywords": [
+            "grandfather farmer",
+            "farmer",
+            "farmer didn",
+            "son grandfather",
+            "fields son",
+            "grandfather",
+            "drag fields",
+            "drag"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.2263
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 46,
+        "text": "the village his son my father was the first and his family to go to the big city var bulgaria",
+        "summary": "My father was the first to go to the big city of Var Bulgaria.",
+        "keywords": [
+            "bulgaria",
+            "var bulgaria",
+            "village son",
+            "father family",
+            "village",
+            "son father",
+            "father",
+            "family big"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 47,
+        "text": "on the black sea coast where i was also born there he became a professor of tourism which was certainly",
+        "summary": "He was born on the Black Sea coast and became a professor of tourism.",
+        "keywords": [
+            "professor tourism",
+            "born professor",
+            "black sea",
+            "coast born",
+            "sea coast",
+            "tourism",
+            "tourism certainly",
+            "professor"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.34
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 48,
+        "text": "a job that my grandfather and great grandfather never imagine if you think about it most of our last names",
+        "summary": " the job that my grandfather and great grandfather never imagine.",
+        "keywords": [
+            "job grandfather",
+            "grandfather imagine",
+            "grandfather",
+            "great grandfather",
+            "grandfather great",
+            "think names",
+            "imagine think",
+            "job"
+        ],
+        "start_time": 445.35,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.6249
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 49,
+        "text": "or from jobs that are families no longer do potter butler butcher even the most common smith any fletcher is",
+        "summary": "There is no such thing as a potter butler butcher.",
+        "keywords": [
+            "butler butcher",
+            "smith fletcher",
+            "fletcher",
+            "butcher",
+            "butcher common",
+            "potter butler",
+            "common smith",
+            "jobs families"
+        ],
+        "start_time": 97.08,
+        "end_time": 458.31,
+        "sentiment": {
+            "score": -0.296
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 50,
+        "text": "in the audience anyone know of what fletcher is i was going over my talk this weekend of my son said i know what fletcher his dad he plays minecraft everything old is new again right a fletcher someone that",
+        "summary": "My son knows what Fletcher is because his dad plays minecraft.",
+        "keywords": [
+            "fletcher dad",
+            "fletcher",
+            "know fletcher",
+            "right fletcher",
+            "fletcher going",
+            "dad plays",
+            "minecraft old",
+            "old new"
+        ],
+        "start_time": 358.65,
+        "end_time": 475.86,
+        "sentiment": {
+            "score": 0.25
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 51,
+        "text": "makes and sells arrows so if you know someone with that last name their relatives were arms dealers now my",
+        "summary": "Archery company makes and sells arrows. If you know someone with that last name, their relatives were arms dealers.",
+        "keywords": [
+            "sells arrows",
+            "arms dealers",
+            "arrows",
+            "arrows know",
+            "relatives arms",
+            "dealers",
+            "know relatives",
+            "arms"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 52,
+        "text": "point in all of this is you can probably take any prediction that you see in the media of job",
+        "summary": " of job.",
+        "keywords": [
+            "prediction media",
+            "prediction",
+            "probably prediction",
+            "media job",
+            "job",
+            "point probably",
+            "media",
+            "point"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 53,
+        "text": "disruption and in the fullness of time at some point even that will be an underestimate even that will be",
+        "summary": "In the fullness of time even that will be an underestimate.",
+        "keywords": [
+            "disruption fullness",
+            "disruption",
+            "underestimate",
+            "point underestimate",
+            "time point",
+            "fullness time",
+            "time",
+            "point"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.5719
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 54,
+        "text": "conservative and what we find is that job disruption is then an essential quality of human evolution we want work",
+        "summary": "According to evolutionary theory, job disruption is essential to human evolution.",
+        "keywords": [
+            "job disruption",
+            "conservative job",
+            "conservative",
+            "disruption essential",
+            "disruption",
+            "evolution want",
+            "evolution",
+            "human evolution"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.296
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 55,
+        "text": "to disappear because it means that we're doing our jobs as humans making our lives better and easier and when",
+        "summary": "It's a human job to make people's lives better and easier.",
+        "keywords": [
+            "disappear means",
+            "disappear",
+            "means doing",
+            "lives better",
+            "making lives",
+            "lives",
+            "means",
+            "doing jobs"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.5859
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 56,
+        "text": "it comes to labour we yearn to increase dollars earned per hour worked in this creates the market for the",
+        "summary": "When it comes to labour we yearn to increase dollars earned per hour worked in this creates the market for the labour.",
+        "keywords": [
+            "increase dollars",
+            "labour",
+            "earned hour",
+            "dollars earned",
+            "labour yearn",
+            "comes labour",
+            "creates market",
+            "yearn increase"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.5683
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 57,
+        "text": "ever improving set of innovations that favors time and money so with a i maybe it's not the job disruption",
+        "summary": "There is an ever improving set of innovations that favors time and money.",
+        "keywords": [
+            "job disruption",
+            "innovations favors",
+            "innovations",
+            "disruption",
+            "time money",
+            "maybe job",
+            "set innovations",
+            "improving"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.7105
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 58,
+        "text": "itself that makes us so nervous but the speed with which it's happening and the acceleration maybe that's what makes",
+        "summary": "It's not the speed but the acceleration that makes people nervous.",
+        "keywords": [
+            "makes nervous",
+            "nervous speed",
+            "nervous",
+            "speed happening",
+            "happening acceleration",
+            "acceleration maybe",
+            "acceleration",
+            "speed"
+        ],
+        "start_time": 97.08,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.2193
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 59,
+        "text": "us nervous so why don't we accelerate we're going to go right through the industrial revolution into the modern era",
+        "summary": "The industrial revolution is moving into the modern era.",
+        "keywords": [
+            "industrial revolution",
+            "industrial",
+            "accelerate going",
+            "don accelerate",
+            "accelerate",
+            "revolution modern",
+            "right industrial",
+            "nervous"
+        ],
+        "start_time": 358.65,
+        "end_time": 551.55,
+        "sentiment": {
+            "score": -0.2732
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 60,
+        "text": "so in the twentieth century a young person in the wake of companies expanding and automating there was a lot",
+        "summary": "In the 20th century a young person in the wake of companies expanding and automating was needed.",
+        "keywords": [
+            "twentieth century",
+            "century young",
+            "companies expanding",
+            "companies",
+            "twentieth",
+            "wake companies",
+            "century",
+            "expanding automating"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 61,
+        "text": "of change would have found an entirely new menu of jobs that their parents never had access to so instead of working in a factory they would have had the selection of a wide assortment of new office jobs and",
+        "summary": "Instead of working in a factory, their children would have been able to find a wide selection of new office jobs.",
+        "keywords": [
+            "jobs parents",
+            "new office",
+            "change entirely",
+            "office jobs",
+            "office",
+            "working factory",
+            "factory selection",
+            "menu jobs"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 62,
+        "text": "some of the parents were probably thinking you sit in a chair all day that's not real work now let's",
+        "summary": "Some of the parents were probably thinking you sit in a chair all day.",
+        "keywords": [
+            "sit chair",
+            "parents probably",
+            "parents",
+            "thinking sit",
+            "sit",
+            "chair day",
+            "chair",
+            "probably thinking"
+        ],
+        "start_time": 358.65,
+        "end_time": 582.06,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 63,
+        "text": "go through the internet era okay most of us have lived through at least a portion of this and we",
+        "summary": "Most of us have lived through at least a portion of the internet era.",
+        "keywords": [
+            "internet era",
+            "internet",
+            "okay lived",
+            "era okay",
+            "era",
+            "lived",
+            "lived portion",
+            "okay"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.2263
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 64,
+        "text": "see all around us jobs that didn't exist before some of us are probably in them maybe most of us",
+        "summary": "Some of us are probably in jobs that didn't exist before.",
+        "keywords": [
+            "jobs didn",
+            "jobs",
+            "exist probably",
+            "didn exist",
+            "exist",
+            "probably maybe",
+            "maybe",
+            "probably"
+        ],
+        "start_time": 358.65,
+        "end_time": 595.74,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 65,
+        "text": "i know i am where does all this leave or twenty year old at the dawn of the a ira",
+        "summary": "Where does all this leave a twenty year old at the dawn of the aira?",
+        "keywords": [
+            "ira",
+            "dawn ira",
+            "leave year",
+            "does leave",
+            "old dawn",
+            "old",
+            "year",
+            "leave"
+        ],
+        "start_time": 602.06,
+        "end_time": 606.77,
+        "sentiment": {
+            "score": -0.0644
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 66,
+        "text": "one feature that we found his recurrent throughout generations is this feeling of exceptionalism we'd like to think that somehow",
+        "summary": "One of his recurring themes is the feeling of exceptionalism.",
+        "keywords": [
+            "feeling exceptionalism",
+            "exceptionalism like",
+            "exceptionalism",
+            "generations feeling",
+            "recurrent generations",
+            "generations",
+            "like think",
+            "recurrent"
+        ],
+        "start_time": 358.65,
+        "end_time": 617.27,
+        "sentiment": {
+            "score": 0.481
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 67,
+        "text": "were added discontinuity were history ends and we're in a new world with no precedent and maybe it's true this",
+        "summary": "There is a new world with no precedent and maybe it's true this.",
+        "keywords": [
+            "discontinuity history",
+            "history ends",
+            "world precedent",
+            "precedent maybe",
+            "ends new",
+            "discontinuity",
+            "precedent",
+            "history"
+        ],
+        "start_time": 617.63,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.1531
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 68,
+        "text": "time we really don't know for building a super assistant or an apex predator we don't and certainly all change",
+        "summary": "There is no such thing as a super assistant or an apex predator.",
+        "keywords": [
+            "apex predator",
+            "super assistant",
+            "building super",
+            "predator",
+            "predator don",
+            "assistant apex",
+            "assistant",
+            "certainly change"
+        ],
+        "start_time": 632.48,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.4337
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 69,
+        "text": "and disruption brings with it a painful transition jobs will disappear perhaps they'll disappear at an accelerating rate but at",
+        "summary": "Jobs will disappear, but at a painful transition.",
+        "keywords": [
+            "disruption brings",
+            "disruption",
+            "jobs disappear",
+            "transition jobs",
+            "transition",
+            "painful transition",
+            "jobs",
+            "disappear accelerating"
+        ],
+        "start_time": 97.08,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.5574
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 70,
+        "text": "the same time or we've gone through here is tens of thousands of years of human history and we see",
+        "summary": " the same time as others.",
+        "keywords": [
+            "human history",
+            "thousands years",
+            "years human",
+            "time ve",
+            "history",
+            "time",
+            "years",
+            "thousands"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 71,
+        "text": "one undeniable trend there's going to be new jobs and lots and lots of on ai researchers talk about this",
+        "summary": "There's going to be a lot of new jobs on AI.",
+        "keywords": [
+            "ai researchers",
+            "lots ai",
+            "undeniable trend",
+            "ai",
+            "new jobs",
+            "trend",
+            "researchers talk",
+            "trend going"
+        ],
+        "start_time": 658.67,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 72,
+        "text": "idea of a singularity an intelligence explosion but what we see in the data is that we're also on a",
+        "summary": " a singularity.",
+        "keywords": [
+            "singularity intelligence",
+            "intelligence explosion",
+            "idea singularity",
+            "singularity",
+            "intelligence",
+            "explosion data",
+            "explosion",
+            "data"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.2617
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 73,
+        "text": "curve of rapidly accelerating job creation which i like to call the job singularity a cambrian explosion of not just",
+        "summary": "There is a fast-accelerating job creation.",
+        "keywords": [
+            "singularity cambrian",
+            "cambrian explosion",
+            "job singularity",
+            "cambrian",
+            "job creation",
+            "accelerating job",
+            "singularity",
+            "curve rapidly"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.5574
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 74,
+        "text": "new jobs but new job families across every imaginable field where the internet gave people worldwide reach a i gives",
+        "summary": " for new jobs.",
+        "keywords": [
+            "job families",
+            "new jobs",
+            "jobs new",
+            "jobs",
+            "new job",
+            "families imaginable",
+            "families",
+            "field internet"
+        ],
+        "start_time": 97.08,
+        "end_time": 690.77,
+        "sentiment": {
+            "score": 0.0387
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 75,
+        "text": "them a world class staff and so if you look at this cloud of jobs certainly there's going to be",
+        "summary": "There are a lot of jobs available at this time.",
+        "keywords": [
+            "class staff",
+            "cloud jobs",
+            "jobs certainly",
+            "staff look",
+            "jobs",
+            "staff",
+            "world class",
+            "look cloud"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.34
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 76,
+        "text": "some jobs that we can't predict yet but i think we can make some predictions there's gonna be a flurry",
+        "summary": "There are some jobs that we can't predict yet.",
+        "keywords": [
+            "jobs predict",
+            "make predictions",
+            "predictions gonna",
+            "predictions",
+            "predict",
+            "jobs",
+            "gonna flurry",
+            "predict think"
+        ],
+        "start_time": 97.08,
+        "end_time": 707.21,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 77,
+        "text": "of new entrepreneurial activity with micro corporations solo institutions and single person unicorns which by the way i don't think",
+        "summary": "There is a lot of new entrepreneurial activity with micro corporations, solo institutions and single person unicorns.",
+        "keywords": [
+            "entrepreneurial activity",
+            "new entrepreneurial",
+            "entrepreneurial",
+            "corporations solo",
+            "micro corporations",
+            "solo institutions",
+            "person unicorns",
+            "unicorns"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 78,
+        "text": "we're very far from another defining feature of this job singularity is that when you look into the future the",
+        "summary": "The job singularity is that when you look into the future the future is very far from now.",
+        "keywords": [
+            "job singularity",
+            "singularity look",
+            "singularity",
+            "feature job",
+            "future",
+            "look future",
+            "feature",
+            "job"
+        ],
+        "start_time": 720.86,
+        "end_time": 727.4,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 79,
+        "text": "jobs will not look like real work much like to our predecessors our current jobs would have looked like ledger",
+        "summary": "Today's jobs will not look like real work like their predecessors did.",
+        "keywords": [
+            "like ledger",
+            "jobs look",
+            "ledger",
+            "jobs looked",
+            "current jobs",
+            "jobs",
+            "like predecessors",
+            "work like"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.4386
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 80,
+        "text": "we have people getting paid to play video games eat at restaurants travel and talk to their friends on video",
+        "summary": "People get paid to play video games, eat at restaurants and travel.",
+        "keywords": [
+            "video games",
+            "getting paid",
+            "games eat",
+            "games",
+            "paid play",
+            "restaurants",
+            "play video",
+            "restaurants travel"
+        ],
+        "start_time": 737.78,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.6705
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 81,
+        "text": "those last people we call podcast bros and we take our jobs very seriously those of us that do well",
+        "summary": "Pundits take their jobs seriously.",
+        "keywords": [
+            "podcast bros",
+            "podcast",
+            "people podcast",
+            "bros jobs",
+            "jobs seriously",
+            "jobs",
+            "bros",
+            "seriously"
+        ],
+        "start_time": 746.96,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0276
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 82,
+        "text": "certainly wouldn't say it's easy but if you took someone from the twentieth century when people start first started contemplating",
+        "summary": "Someone from the 20th century when people first started contemplating would be a good example.",
+        "keywords": [
+            "say easy",
+            "started contemplating",
+            "easy took",
+            "took twentieth",
+            "contemplating",
+            "twentieth century",
+            "easy",
+            "century people"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": -0.0008
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 83,
+        "text": "these problems and they could peek into our world today they would think that all of the predictions around technological",
+        "summary": "They would think that all of the predictions around technological problems are wrong.",
+        "keywords": [
+            "predictions technological",
+            "technological",
+            "think predictions",
+            "problems",
+            "world today",
+            "predictions",
+            "today think",
+            "world"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.4019
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 84,
+        "text": "unemployment came true they say we don't have any more jobs and i bet that we would feel the same",
+        "summary": "If unemployment came true, people would feel the same.",
+        "keywords": [
+            "unemployment came",
+            "unemployment",
+            "jobs bet",
+            "don jobs",
+            "bet feel",
+            "jobs",
+            "feel",
+            "true say"
+        ],
+        "start_time": 632.48,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.0258
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 85,
+        "text": "about our descendants in the future so now what we've shown that there's going to be lots of jobs to",
+        "summary": "There are going to be lots of jobs for our descendants in the future.",
+        "keywords": [
+            "descendants future",
+            "lots jobs",
+            "jobs",
+            "descendants",
+            "future",
+            "future ve",
+            "going lots",
+            "shown going"
+        ],
+        "start_time": 358.65,
+        "end_time": 786.05,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 86,
+        "text": "choose from some would argue too many and that the jobs along with the flurry of new entrepreneurial activity will",
+        "summary": "Some would argue that there are too many jobs to choose from and that the new entrepreneurial activity will create more.",
+        "keywords": [
+            "new entrepreneurial",
+            "argue jobs",
+            "entrepreneurial activity",
+            "entrepreneurial",
+            "jobs",
+            "jobs flurry",
+            "choose argue",
+            "choose"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.34
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 87,
+        "text": "likely look like leisure to us much like our jobs did to our ancestors and i can tell you with",
+        "summary": "Our jobs will probably look like leisure to us like they did to our ancestors.",
+        "keywords": [
+            "leisure like",
+            "like leisure",
+            "leisure",
+            "did ancestors",
+            "ancestors tell",
+            "ancestors",
+            "like jobs",
+            "jobs did"
+        ],
+        "start_time": 800.27,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.6124
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 88,
+        "text": "near certainty that a humanity that's capable of building a super intelligent a i also has the creativity to navigate",
+        "summary": "There's a near certainty that humanity can build a super intelligent a i and have the creativity to navigate.",
+        "keywords": [
+            "intelligent creativity",
+            "super intelligent",
+            "creativity navigate",
+            "humanity capable",
+            "intelligent",
+            "certainty humanity",
+            "creativity",
+            "capable building"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.9201
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 89,
+        "text": "through this potential job doom and gloom scenario although will never stop worrying about it will never stop worrying about",
+        "summary": "There is a potential job doom and gloom scenario and she is worried about it.",
+        "keywords": [
+            "worrying stop",
+            "stop worrying",
+            "job doom",
+            "worrying",
+            "doom gloom",
+            "gloom scenario",
+            "potential job",
+            "gloom"
+        ],
+        "start_time": 837.5,
+        "end_time": 839.96,
+        "sentiment": {
+            "score": -0.1159
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 90,
+        "text": "it because being hyper vigilant about threats to our survival is a key part of our survival mechanism also a",
+        "summary": "Being hyper vigilant about threats to our survival is a key part of our survival mechanism.",
+        "keywords": [
+            "threats survival",
+            "hyper vigilant",
+            "vigilant threats",
+            "survival",
+            "survival mechanism",
+            "key survival",
+            "vigilant",
+            "survival key"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": -0.2732
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 91,
+        "text": "key part of evolution what's me what makes us human and although it'll take a lot of time to go",
+        "summary": "Key part of evolution is what makes us human.",
+        "keywords": [
+            "evolution makes",
+            "evolution",
+            "makes human",
+            "human",
+            "key evolution",
+            "human ll",
+            "time",
+            "lot time"
+        ],
+        "start_time": 837.5,
+        "end_time": 839.96,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 92,
+        "text": "into what kind of jobs or future proofed i can tell you that you shouldn't take predictions about future job",
+        "summary": "You shouldn't take predictions about future job.",
+        "keywords": [
+            "jobs future",
+            "future job",
+            "predictions future",
+            "shouldn predictions",
+            "future proofed",
+            "future",
+            "jobs",
+            "predictions"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 93,
+        "text": "disruption to keep you from doing something you feel very passionately about you know when i was a kid in",
+        "summary": "There is no reason to keep you from doing something you feel very passionately about.",
+        "keywords": [
+            "disruption doing",
+            "feel passionately",
+            "disruption",
+            "passionately know",
+            "passionately",
+            "doing feel",
+            "kid",
+            "know kid"
+        ],
+        "start_time": 358.65,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.2944
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 94,
+        "text": "the nineties teachers discourage me from becoming a computer programmer and or know of many else heard this but back",
+        "summary": "Teachers in the 1990s discouraged me from becoming a computer programmer.",
+        "keywords": [
+            "computer programmer",
+            "programmer",
+            "teachers discourage",
+            "discourage computer",
+            "programmer know",
+            "teachers",
+            "nineties teachers",
+            "discourage"
+        ],
+        "start_time": 97.08,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.2263
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 95,
+        "text": "then it was a common thought that all those jobs be shipped off to china around the same time if",
+        "summary": " is shipped off to China.",
+        "keywords": [
+            "jobs shipped",
+            "china time",
+            "shipped china",
+            "thought jobs",
+            "jobs",
+            "china",
+            "common thought",
+            "thought"
+        ],
+        "start_time": 867.86,
+        "end_time": 870.89,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 96,
+        "text": "you guys remember nineteen ninety seven deep blue beat garry kasparov and chess that was the first time and a",
+        "summary": "Deep blue beat Garry Kasparov for the first time in 2009.",
+        "keywords": [
+            "kasparov chess",
+            "chess",
+            "garry kasparov",
+            "chess time",
+            "beat garry",
+            "guys remember",
+            "remember nineteen",
+            "kasparov"
+        ],
+        "start_time": 837.5,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 97,
+        "text": "i succeeded in what was considered a solely human intellectual fair but now the chess industry is booming bigger than",
+        "summary": " is booming in chess industry.",
+        "keywords": [
+            "chess industry",
+            "fair chess",
+            "chess",
+            "intellectual fair",
+            "industry booming",
+            "intellectual",
+            "human intellectual",
+            "industry"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.5719
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 98,
+        "text": "ever so even word seems obvious sometimes our predictions of the future and up being completely off humanity has always",
+        "summary": "Sometimes our predictions of the future are completely off.",
+        "keywords": [
+            "future completely",
+            "predictions future",
+            "completely humanity",
+            "obvious predictions",
+            "future",
+            "predictions",
+            "humanity",
+            "completely"
+        ],
+        "start_time": 358.65,
+        "end_time": 896.84,
+        "sentiment": {
+            "score": 0.0
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 99,
+        "text": "excelled that providing itself with meaning and purpose even in the darkest and most uncertain of times so if i",
+        "summary": "The human mind provides itself with meaning and purpose even in the darkest and most uncertain of times.",
+        "keywords": [
+            "excelled",
+            "excelled providing",
+            "meaning purpose",
+            "purpose darkest",
+            "uncertain times",
+            "purpose",
+            "providing meaning",
+            "darkest uncertain"
+        ],
+        "start_time": 358.65,
+        "end_time": 838.01,
+        "sentiment": {
+            "score": -0.3597
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 100,
+        "text": "had to guess i feel very very confident that the twenty year olds of the future perhaps in collaboration with",
+        "summary": "\"I feel confident that the twenty year olds of the future will collaborate with each other. ",
+        "keywords": [
+            "olds future",
+            "future collaboration",
+            "future",
+            "confident year",
+            "olds",
+            "year olds",
+            "collaboration",
+            "confident"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.5819
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 101,
+        "text": "a i will continue to build new things which simultaneously we're going to be scared of but also excited by",
+        "summary": " will continue to build.",
+        "keywords": [
+            "build new",
+            "scared excited",
+            "continue build",
+            "build",
+            "going scared",
+            "scared",
+            "new things",
+            "excited"
+        ],
+        "start_time": 97.08,
+        "end_time": 359.22,
+        "sentiment": {
+            "score": 0.2846
+        }
+    },
+    {
+        "file": "1767770518262.json",
+        "segment_id": 102,
+        "text": "thank you for considering these ideas",
+        "summary": "Thank you for considering these ideas.",
+        "keywords": [
+            "considering ideas",
+            "thank considering",
+            "ideas",
+            "considering",
+            "thank"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.3612
+        }
+    }
+]

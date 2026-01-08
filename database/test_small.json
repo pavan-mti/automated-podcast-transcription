@@ -1,0 +1,44 @@
+[
+    {
+        "file": "test_audio.wav",
+        "segment_id": 0,
+        "text": "This is a test segment about artificial intelligence and its impact on society. We discuss the benefits and risks of advanced algorithms.",
+        "summary": "This is a test segment about artificial intelligence and its impact on society. We discuss the benefits and risks of advanced algorithms. We also look at some of the challenges ahead for artificial intelligence.",
+        "keywords": [
+            "artificial intelligence",
+            "algorithms",
+            "advanced algorithms",
+            "intelligence impact",
+            "risks advanced",
+            "intelligence",
+            "advanced",
+            "artificial"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.6808
+        }
+    },
+    {
+        "file": "test_audio.wav",
+        "segment_id": 1,
+        "text": "The second segment covers the topic of climate change and renewable energy sources like solar and wind power.",
+        "summary": "The second segment covers the topic of climate change and renewable energy sources like solar and wind power. The second segment will air on Sunday at 8 p.m. ET on CNN.",
+        "keywords": [
+            "renewable energy",
+            "change renewable",
+            "solar wind",
+            "energy sources",
+            "renewable",
+            "topic climate",
+            "wind power",
+            "climate change"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "sentiment": {
+            "score": 0.5574
+        }
+    }
+]

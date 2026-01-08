@@ -1,6 +1,6 @@
 import os
 import sys
-from src.transcription.whisper_transcriber import transcribe_audio
+from src.transcription.vosk_transcriber import transcribe_audio
 
 PROCESSED_DIR = "data/processed"
 TRANSCRIPT_DIR = "data/transcripts"

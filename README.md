@@ -24,8 +24,8 @@ At a high level, the system:
 
 - Transcribes podcast audio into readable text  
 - Segments long transcripts into meaningful topic sections  
-- Generates short summaries for each topic  
-- Extracts important keywords for search and filtering  
+- Generates high-quality abstractive summaries (BART) for each topic  
+- Extracts semantic keywords (KeyBERT) for search and filtering  
 - Preserves timestamps to enable audio navigation  
 - Stores processed data in a structured and reusable format  
 
@@ -48,13 +48,13 @@ Podcast Audio Upload
 ↓  
 Backend Upload API (Node.js + Multer)  
 ↓  
-Python Transcription Pipeline (Whisper ASR)  
+Python Transcription Pipeline (Vosk ASR)  
 ↓  
 Transcript Cleaning & Chunking  
 ↓  
 Topic Segmentation (NLP)  
 ↓  
-Segment Summarization & Keyword Extraction  
+Segment Summarization (BART-Large-CNN) & Keyword Extraction (KeyBERT)  
 ↓  
 Timestamp Alignment (Start–End per Segment)  
 ↓  
@@ -126,6 +126,7 @@ npm run dev
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+python scripts/download_vosk_model.py  # Download Vosk Model
 ```
 
 ## Frontend Setup

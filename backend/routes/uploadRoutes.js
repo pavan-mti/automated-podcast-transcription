@@ -60,8 +60,28 @@ router.post("/upload", upload.single("audio"), async (req, res) => {
     /* ===============================
        STEP 1: TRANSCRIPTION
        =============================== */
+    // Determine correct Python executable (use virtual environment if available)
+    const isWin = process.platform === "win32";
+    // The .venv is located locally at e:/Podcast-Analyser/.venv which is ONE LEVEL UP from the project root
+    // But for portability, let's assume it might be in the project root OR one level up.
+    // Given the user context: e:/Podcast-Analyser/.venv
+    // path.join(PROJECT_ROOT, "..", ".venv")
+
+    const venvPython = isWin
+      ? path.join(PROJECT_ROOT, "..", ".venv", "Scripts", "python.exe")
+      : path.join(PROJECT_ROOT, "..", ".venv", "bin", "python");
+
+    // We'll use the venv python by default. If it doesn't exist, one might fallback to "python",
+    // but here we really want the venv one.
+    const PYTHON_CMD = venvPython;
+
+    console.log("Using Python:", PYTHON_CMD);
+
+    /* ===============================
+       STEP 1: TRANSCRIPTION
+       =============================== */
     exec(
-      `python -m src.transcription.batch_transcriber "${audioPath}"`,
+      `"${PYTHON_CMD}" -m src.transcription.batch_transcriber "${audioPath}"`,
       { cwd: PROJECT_ROOT, maxBuffer: 1024 * 1024 * 10 },
       (err) => {
         if (err) return console.error("Transcription error:", err);
@@ -77,7 +97,7 @@ router.post("/upload", upload.single("audio"), async (req, res) => {
            STEP 2: SEGMENTATION
            =============================== */
         exec(
-          `python -m src.segmentation.batch_segmenter "${transcriptPath}"`,
+          `"${PYTHON_CMD}" -m src.segmentation.batch_segmenter "${transcriptPath}"`,
           { cwd: PROJECT_ROOT },
           (segErr) => {
             if (segErr) return console.error("Segmentation error:", segErr);
@@ -86,7 +106,7 @@ router.post("/upload", upload.single("audio"), async (req, res) => {
                STEP 3: KEYWORDS + SUMMARY
                =============================== */
             exec(
-              `python -m src.segmentation.batch_keyword_summarizer "${baseName}.json"`,
+              `"${PYTHON_CMD}" -m src.segmentation.batch_keyword_summarizer "${baseName}.json"`,
               { cwd: PROJECT_ROOT },
               (sumErr) => {
                 if (sumErr) return console.error("Summarization error:", sumErr);

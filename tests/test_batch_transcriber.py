@@ -6,8 +6,8 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # --- MOCK HEAVY DEPENDENCIES BEFORE IMPORT ---
-mock_whisper_module = MagicMock()
-sys.modules['src.transcription.whisper_transcriber'] = mock_whisper_module
+mock_vosk_module = MagicMock()
+sys.modules['src.transcription.vosk_transcriber'] = mock_vosk_module
 
 # Now import
 from src.transcription.batch_transcriber import transcribe_single_audio, transcribe_all_audios
@@ -15,7 +15,7 @@ from src.transcription.batch_transcriber import transcribe_single_audio, transcr
 class TestBatchTranscriber(unittest.TestCase):
 
     def setUp(self):
-        from src.transcription.whisper_transcriber import transcribe_audio
+        from src.transcription.vosk_transcriber import transcribe_audio
         transcribe_audio.reset_mock()
 
     @patch('src.transcription.batch_transcriber.os.path.exists')
@@ -23,7 +23,7 @@ class TestBatchTranscriber(unittest.TestCase):
         mock_exists.return_value = True
         
         # Define side effect to match expected output behavior
-        from src.transcription.whisper_transcriber import transcribe_audio
+        from src.transcription.vosk_transcriber import transcribe_audio
         def print_success(audio, output):
             print(f"Saved transcript to {output}")
         transcribe_audio.side_effect = print_success
@@ -48,13 +48,8 @@ class TestBatchTranscriber(unittest.TestCase):
         )
         mock_exists_patcher.start()
         
-        from src.transcription.whisper_transcriber import transcribe_audio
-        # Ensure side effect is applied here too (reset_mock clears it?) 
-        # reset_mock does NOT clear side_effect usually, but let's be safe or just rely on setUp if we moved it there. 
-        # Actually setUp resets the mock object entirely? No, reset_mock() keeps configuration but clears history.
-        # But wait, in setUp I call transcribe_audio.reset_mock().
-        # I need to set side_effect EITHER in setUp OR in each test. 
-        # Let's set it here for clarity.
+        from src.transcription.vosk_transcriber import transcribe_audio
+        # Ensure side effect is applied here too
         def print_success(audio, output):
             print(f"Saved transcript to {output}")
         transcribe_audio.side_effect = print_success

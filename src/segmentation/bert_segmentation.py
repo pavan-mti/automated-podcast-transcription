@@ -9,6 +9,14 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def bert_topic_segments(text, threshold=0.55):
     sentences = sent_tokenize(text)
+    
+    # Fallback for unpunctuated text (Vosk Small)
+    if len(sentences) <= 1:
+        words = text.split()
+        if len(words) > 20:
+             # Chunk into 20-word pseudo-sentences
+             chunk_size = 20
+             sentences = [" ".join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]
     embeddings = model.encode(sentences)
 
     segments = []

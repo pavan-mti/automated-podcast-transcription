@@ -1,0 +1,618 @@
+{
+    "file": "1767803899613.json",
+    "bert_segments": [
+        {
+            "segment_id": 1,
+            "text": "let's take a moment and reflect back upon our lives when we are twenty years old think about where you",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 2,
+            "text": "were and the opportunities for work and career that lay in front of you i'm curious tell me how many have you had a pretty good idea of what you wanted to do for your career okay not too many",
+            "start_time": 13.92,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 3,
+            "text": "how many were overwhelmed by all the options okay i know i felt the same while buckle up it's only",
+            "start_time": 28.2,
+            "end_time": 30.81
+        },
+        {
+            "segment_id": 4,
+            "text": "going to get more overwhelming when i was twenty years old i was graduating from stanford university with a degree",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 5,
+            "text": "and pure mathematics nobody had sat me down to tell me that my pure math major wasn't going to be",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 6,
+            "text": "the most desirable qualification for prospective employers and i probably wouldn't have listened if they did so i went off",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 7,
+            "text": "on my default path a math phd program usually buying at least one more year to figure out my career",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 8,
+            "text": "now my first month in graduate school lehman brothers went under the start of the global financial crisis most of",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 9,
+            "text": "my friends particularly the ones that felt the most secure in their financial careers found themselves packing up their cubicles",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 10,
+            "text": "out of work some of us wondered whether the economy would recover at all or whether we were in store",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 11,
+            "text": "for another decade long great depression but amidst the uncertainty the pessimism the malays really have that time some of",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 12,
+            "text": "us found a source of optimism the i phone and in particular the app store came out that very same",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 13,
+            "text": "year two thousand and eight i still remember when the sdk which was the instruction manual for how to build",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 14,
+            "text": "i phone apps was released i was at my parents' house and i was up all night reading it learning",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 15,
+            "text": "trying to understand i saw an opportunity for a new level playing field and if you think about it pretty",
+            "start_time": 133.74,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 16,
+            "text": "much everything i've done since then the company that i created my professional career since that point was a product",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 17,
+            "text": "both of the economic malaise but the technological optimism of the time as well but times have changed if the",
+            "start_time": 97.08,
+            "end_time": 155.79
+        },
+        {
+            "segment_id": 18,
+            "text": "questions i'm hearing on the podcast circuit are any indication the average twenty year old today also has quite a",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 19,
+            "text": "bit of fear but this time emerging technology is not the antidote to that fear it's a source and they're",
+            "start_time": 97.08,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 20,
+            "text": "asking themselves will that career i'm looking at even be around and ten years will human still be writing computer",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 21,
+            "text": "software will we even be writing books and i think one reason why it feels different this time because ai",
+            "start_time": 182.1,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 22,
+            "text": "unlike the i phone is the first tool that we've built that's capable weeping the toolbox and we don't yet",
+            "start_time": 632.48,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 23,
+            "text": "know it's limits a few years ago i found it another company with the mission to build mathematical super intelligence",
+            "start_time": 198.84,
+            "end_time": 205.17
+        },
+        {
+            "segment_id": 24,
+            "text": "that's a artificial intelligence that can reason and solve problems better than any mathematician you know when i grew up i always thought of mathematics as the pinnacle of human intellectual activity if you could solve math problems you could do pretty much anything so a super human a i mathematics could potentially be super human and everything and that's",
+            "start_time": 206.28,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 25,
+            "text": "a bit of a scary thought so when you think about that and i combine that with my day job",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 26,
+            "text": "which is running a global financial services platform it's lead to me spending a lot of time pondering one very",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 27,
+            "text": "important question what do we do in a world where the vast majority of today's jobs are gone and i",
+            "start_time": 249.9,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 28,
+            "text": "want to analyze this question rationally without fear and hyperbole one way to do it has to look back through",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 29,
+            "text": "history and see if there's been a time where we face this type of job disruption before at anything near",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 30,
+            "text": "these levels and how we as humans have navigated it i should say one thing i'm a technologist not a",
+            "start_time": 278.79,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 31,
+            "text": "historian so with that caveat let's go back in time to a world a twenty year old would have known",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 32,
+            "text": "very long ago tens of thousands of years ago to be more precise now as you can tell the main",
+            "start_time": 290.76,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 33,
+            "text": "occupations of this time the paleolithic era are largely gone hunters gatherers toolmakers but they didn't disappear overnight instead they were subdivided into lots of other more specialized jobs so why don't we move forward to the neolithic era now",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 34,
+            "text": "here humans have mastered a few new things farming keeping livestock and i'm going to zoom through this but this",
+            "start_time": 97.08,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 35,
+            "text": "was a big transformation actually the invention of these things allowed us to spend more time doing what we consider",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 36,
+            "text": "creative work and less time on pure survival and subsistence and this opened up a lot of new jobs you",
+            "start_time": 340.32,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 37,
+            "text": "had artisans like weavers you had farmers of course potter's construction laborers and these jobs to largely all gone so",
+            "start_time": 353.7,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 38,
+            "text": "in the us today we should say farmers make up less than two percent of the workforce let's move ahead",
+            "start_time": 360.21,
+            "end_time": 364.95
+        },
+        {
+            "segment_id": 39,
+            "text": "through the changing jobs of the bronze age the iron age one of my favorites the dark ages here we've",
+            "start_time": 371.49,
+            "end_time": 376.26
+        },
+        {
+            "segment_id": 40,
+            "text": "got the renaissance and the age of exploration too many jobs the count a lot of them are gone now",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 41,
+            "text": "and he blacksmith's or explores in this room i didn't think so i would have loved to be an explore",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 42,
+            "text": "how cool have a job would that be it might come back with space exploration my great grandfather was a",
+            "start_time": 399.63,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 43,
+            "text": "farmer in a village near stars a gore bulgaria now legend has it he was the first person in his",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 44,
+            "text": "village to see an automobile and when he saw it he ran back into the village and said there's a",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 45,
+            "text": "drag it out in the fields his son my grandfather was also a farmer that didn't venture too far from",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 46,
+            "text": "the village his son my father was the first and his family to go to the big city var bulgaria",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 47,
+            "text": "on the black sea coast where i was also born there he became a professor of tourism which was certainly",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 48,
+            "text": "a job that my grandfather and great grandfather never imagine if you think about it most of our last names",
+            "start_time": 445.35,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 49,
+            "text": "or from jobs that are families no longer do potter butler butcher even the most common smith any fletcher is",
+            "start_time": 97.08,
+            "end_time": 458.31
+        },
+        {
+            "segment_id": 50,
+            "text": "in the audience anyone know of what fletcher is i was going over my talk this weekend of my son said i know what fletcher his dad he plays minecraft everything old is new again right a fletcher someone that",
+            "start_time": 358.65,
+            "end_time": 475.86
+        },
+        {
+            "segment_id": 51,
+            "text": "makes and sells arrows so if you know someone with that last name their relatives were arms dealers now my",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 52,
+            "text": "point in all of this is you can probably take any prediction that you see in the media of job",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 53,
+            "text": "disruption and in the fullness of time at some point even that will be an underestimate even that will be",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 54,
+            "text": "conservative and what we find is that job disruption is then an essential quality of human evolution we want work",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 55,
+            "text": "to disappear because it means that we're doing our jobs as humans making our lives better and easier and when",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 56,
+            "text": "it comes to labour we yearn to increase dollars earned per hour worked in this creates the market for the",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 57,
+            "text": "ever improving set of innovations that favors time and money so with a i maybe it's not the job disruption",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 58,
+            "text": "itself that makes us so nervous but the speed with which it's happening and the acceleration maybe that's what makes",
+            "start_time": 97.08,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 59,
+            "text": "us nervous so why don't we accelerate we're going to go right through the industrial revolution into the modern era",
+            "start_time": 358.65,
+            "end_time": 551.55
+        },
+        {
+            "segment_id": 60,
+            "text": "so in the twentieth century a young person in the wake of companies expanding and automating there was a lot",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 61,
+            "text": "of change would have found an entirely new menu of jobs that their parents never had access to so instead of working in a factory they would have had the selection of a wide assortment of new office jobs and",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 62,
+            "text": "some of the parents were probably thinking you sit in a chair all day that's not real work now let's",
+            "start_time": 358.65,
+            "end_time": 582.06
+        },
+        {
+            "segment_id": 63,
+            "text": "go through the internet era okay most of us have lived through at least a portion of this and we",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 64,
+            "text": "see all around us jobs that didn't exist before some of us are probably in them maybe most of us",
+            "start_time": 358.65,
+            "end_time": 595.74
+        },
+        {
+            "segment_id": 65,
+            "text": "i know i am where does all this leave or twenty year old at the dawn of the a ira",
+            "start_time": 602.06,
+            "end_time": 606.77
+        },
+        {
+            "segment_id": 66,
+            "text": "one feature that we found his recurrent throughout generations is this feeling of exceptionalism we'd like to think that somehow",
+            "start_time": 358.65,
+            "end_time": 617.27
+        },
+        {
+            "segment_id": 67,
+            "text": "were added discontinuity were history ends and we're in a new world with no precedent and maybe it's true this",
+            "start_time": 617.63,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 68,
+            "text": "time we really don't know for building a super assistant or an apex predator we don't and certainly all change",
+            "start_time": 632.48,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 69,
+            "text": "and disruption brings with it a painful transition jobs will disappear perhaps they'll disappear at an accelerating rate but at",
+            "start_time": 97.08,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 70,
+            "text": "the same time or we've gone through here is tens of thousands of years of human history and we see",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 71,
+            "text": "one undeniable trend there's going to be new jobs and lots and lots of on ai researchers talk about this",
+            "start_time": 658.67,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 72,
+            "text": "idea of a singularity an intelligence explosion but what we see in the data is that we're also on a",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 73,
+            "text": "curve of rapidly accelerating job creation which i like to call the job singularity a cambrian explosion of not just",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 74,
+            "text": "new jobs but new job families across every imaginable field where the internet gave people worldwide reach a i gives",
+            "start_time": 97.08,
+            "end_time": 690.77
+        },
+        {
+            "segment_id": 75,
+            "text": "them a world class staff and so if you look at this cloud of jobs certainly there's going to be",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 76,
+            "text": "some jobs that we can't predict yet but i think we can make some predictions there's gonna be a flurry",
+            "start_time": 97.08,
+            "end_time": 707.21
+        },
+        {
+            "segment_id": 77,
+            "text": "of new entrepreneurial activity with micro corporations solo institutions and single person unicorns which by the way i don't think",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 78,
+            "text": "we're very far from another defining feature of this job singularity is that when you look into the future the",
+            "start_time": 720.86,
+            "end_time": 727.4
+        },
+        {
+            "segment_id": 79,
+            "text": "jobs will not look like real work much like to our predecessors our current jobs would have looked like ledger",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 80,
+            "text": "we have people getting paid to play video games eat at restaurants travel and talk to their friends on video",
+            "start_time": 737.78,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 81,
+            "text": "those last people we call podcast bros and we take our jobs very seriously those of us that do well",
+            "start_time": 746.96,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 82,
+            "text": "certainly wouldn't say it's easy but if you took someone from the twentieth century when people start first started contemplating",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 83,
+            "text": "these problems and they could peek into our world today they would think that all of the predictions around technological",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 84,
+            "text": "unemployment came true they say we don't have any more jobs and i bet that we would feel the same",
+            "start_time": 632.48,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 85,
+            "text": "about our descendants in the future so now what we've shown that there's going to be lots of jobs to",
+            "start_time": 358.65,
+            "end_time": 786.05
+        },
+        {
+            "segment_id": 86,
+            "text": "choose from some would argue too many and that the jobs along with the flurry of new entrepreneurial activity will",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 87,
+            "text": "likely look like leisure to us much like our jobs did to our ancestors and i can tell you with",
+            "start_time": 800.27,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 88,
+            "text": "near certainty that a humanity that's capable of building a super intelligent a i also has the creativity to navigate",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 89,
+            "text": "through this potential job doom and gloom scenario although will never stop worrying about it will never stop worrying about",
+            "start_time": 837.5,
+            "end_time": 839.96
+        },
+        {
+            "segment_id": 90,
+            "text": "it because being hyper vigilant about threats to our survival is a key part of our survival mechanism also a",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 91,
+            "text": "key part of evolution what's me what makes us human and although it'll take a lot of time to go",
+            "start_time": 837.5,
+            "end_time": 839.96
+        },
+        {
+            "segment_id": 92,
+            "text": "into what kind of jobs or future proofed i can tell you that you shouldn't take predictions about future job",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 93,
+            "text": "disruption to keep you from doing something you feel very passionately about you know when i was a kid in",
+            "start_time": 358.65,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 94,
+            "text": "the nineties teachers discourage me from becoming a computer programmer and or know of many else heard this but back",
+            "start_time": 97.08,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 95,
+            "text": "then it was a common thought that all those jobs be shipped off to china around the same time if",
+            "start_time": 867.86,
+            "end_time": 870.89
+        },
+        {
+            "segment_id": 96,
+            "text": "you guys remember nineteen ninety seven deep blue beat garry kasparov and chess that was the first time and a",
+            "start_time": 837.5,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 97,
+            "text": "i succeeded in what was considered a solely human intellectual fair but now the chess industry is booming bigger than",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 98,
+            "text": "ever so even word seems obvious sometimes our predictions of the future and up being completely off humanity has always",
+            "start_time": 358.65,
+            "end_time": 896.84
+        },
+        {
+            "segment_id": 99,
+            "text": "excelled that providing itself with meaning and purpose even in the darkest and most uncertain of times so if i",
+            "start_time": 358.65,
+            "end_time": 838.01
+        },
+        {
+            "segment_id": 100,
+            "text": "had to guess i feel very very confident that the twenty year olds of the future perhaps in collaboration with",
+            "start_time": null,
+            "end_time": null
+        },
+        {
+            "segment_id": 101,
+            "text": "a i will continue to build new things which simultaneously we're going to be scared of but also excited by",
+            "start_time": 97.08,
+            "end_time": 359.22
+        },
+        {
+            "segment_id": 102,
+            "text": "thank you for considering these ideas",
+            "start_time": null,
+            "end_time": null
+        }
+    ],
+    "num_bert": 102
+}
