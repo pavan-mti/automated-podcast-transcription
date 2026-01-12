@@ -73,6 +73,8 @@ The system operates as a sequential pipeline:
     Ensure the Vosk model is downloaded to `models/` and Hugging Face models will allow auto-download on first run.
 
 ## Usage / API Documentation
+![Architecture Diagram](images/LandingPage.jpeg)
+
 ### Running the Pipeline
 You can run the processing stages manually via the provided Python scripts:
 1.  **Transcribe**: `python -m src.transcription.batch_transcriber`
@@ -135,6 +137,8 @@ automated-podcast-transcription/
     *   **Fix**: The system now has a safeguard to return original text for failed summaries. Check valid input text length.
 *   **Issue**: High Memory Usage / OOM.
     *   **Fix**: Close other heavy applications or switch to a smaller summarization model in `src/segmentation/summarizer.py`.
+*   **Issue**: Required library or module not found.
+    *   **Fix**: Ensure the project runs inside the `.venv` virtual environment. Create it using `python -m venv .venv` if it doesn’t exist, activate it (`.venv\Scripts\activate` on Windows or `source .venv/bin/activate` on Linux/macOS), and verify that the selected Python interpreter in your IDE points to the `.venv` directory before running the project.
 
 ## Future Enhancements
 *   **Speaker Diarization**: Distinguish between multiple speakers in the transcript.

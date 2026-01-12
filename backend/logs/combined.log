@@ -717,3 +717,7 @@
 2026-01-08 18:06:11 [INFO]: Segments fetched
 2026-01-08 18:06:11 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767804747754.mp3"}
 2026-01-08 18:06:11 [INFO]: [FRONTEND] Audio metadata loaded {"duration":927.915828}
+2026-01-08 18:19:09 [INFO]: Segments fetched
+2026-01-08 18:19:09 [INFO]: Segments fetched
+2026-01-08 18:19:09 [INFO]: [FRONTEND] AudioPlayer resolved audioUrl {"resolvedAudioUrl":"http://localhost:5000/uploads/1767804747754.mp3"}
+2026-01-08 18:19:09 [INFO]: [FRONTEND] Audio metadata loaded {"duration":927.915828}
